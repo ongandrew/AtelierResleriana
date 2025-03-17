@@ -1,0 +1,461 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "ここが私たちの家。やっぱり、覚えてないよね……",
+        "localizations": {
+          "en": "This is our home. You don't remember it, do you...?"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "ごめんなさい。覚えてないわ",
+        "localizations": {
+          "en": "I'm sorry. I don't remember."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "そんなのいいって！\u3000ゆっくり行こう！",
+        "localizations": {
+          "en": "Don't worry about it! Let's take things slowly!"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "皆さん、お腹空きましたよね。\nすぐにご飯の準備しますから！",
+        "localizations": {
+          "en": "Everyone must be hungry. I'll start preparing dinner right away!"
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "天使ちゃんの料理は絶品だぞ。\nなんなら、食えば何か思い出すかもしれねえな",
+        "localizations": {
+          "en": "Our little angel's cooking is to die for. Who knows? Maybe a bite of it will jog your memory."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "さ、入って",
+        "localizations": {
+          "en": "Come on in."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "え、ええ……",
+        "localizations": {
+          "en": "O-okay..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "…………",
+        "localizations": {
+          "en": "..."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "ここにいたのか",
+        "localizations": {
+          "en": "So this is where you've been."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "おっさん……ヴァレリアは？",
+        "localizations": {
+          "en": "Hey old timer... How's Valeria?"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "ぐっすり寝ちまってるよ。\n身体の調子もまだ万全じゃないみてぇだな",
+        "localizations": {
+          "en": "Sound asleep. Looks like she's still not back to full strength."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "ま、あんな大ケガしたらしょうがないよね……",
+        "localizations": {
+          "en": "Well, after an injury like that, it's no surprise..."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "フロッケの料理でも食べればなんか思い出すかも、\nって期待してたけど……何もなかったね",
+        "localizations": {
+          "en": "I was hoping Flocke's cooking might trigger something, but... nothing."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "まあ、そう簡単にはいかねえもんだ",
+        "localizations": {
+          "en": "These things don't happen overnight."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "うん……",
+        "localizations": {
+          "en": "Yeah..."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "ったく……なんて顔してやがんだ",
+        "localizations": {
+          "en": "Sheesh... Why the long face?"
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "……覚悟はしてたんだけどさ。\nいざ、ああなったヴァレリアを見てたら……",
+        "localizations": {
+          "en": "...I thought I was prepared for this. But seeing her like that..."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "やっぱり、しんどいなあ……\n身体が半分持ってかれたような気分だ",
+        "localizations": {
+          "en": "It's just... hard, you know? Feels like half of me is missing."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "……ま、そうだよな",
+        "localizations": {
+          "en": "...Yeah, I get that."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "ただな。あいつは、いなくなっちまったわけじゃねえ。\nちゃんと生きて帰ってきた",
+        "localizations": {
+          "en": "But hey, we didn't lose her completely. She came back to us alive."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "たとえ記憶を無くしちまったとしても、\nあいつはあいつなんだよ",
+        "localizations": {
+          "en": "Even if she's lost her memories, she's still our Valeria."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "分かってる。分かってるけどさ……\nすぐには受け入れられないよ",
+        "localizations": {
+          "en": "I know that. I know, but... it's not something I can accept right away."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "すぐにじゃなくてもいい",
+        "localizations": {
+          "en": "Nobody's asking you to."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "時間はたっぷりあるだろ。ゆっくり悩め",
+        "localizations": {
+          "en": "We've got all the time in the world. Take your time."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "そうだね。おっさんと違って若いから",
+        "localizations": {
+          "en": "Right. Unlike you, I'm still young."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "俺もまだそんな歳じゃねえよ！",
+        "localizations": {
+          "en": "Hey, I'm not that old!"
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "……あははっ",
+        "localizations": {
+          "en": "...Ahaha!"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  }
+]

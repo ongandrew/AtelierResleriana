@@ -1,0 +1,512 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "あった。これだこれ",
+        "localizations": {
+          "en": "Found it! This is exactly what we need!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "これが、探してた素材？",
+        "localizations": {
+          "en": "Is this the material you were looking for?"
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "そう。採取するのに一番苦労しそうなやつ。\nこれが手に入れば、成功したも同然だよ",
+        "localizations": {
+          "en": "That's right. This was going to be the hardest one to gather. With this in hand, success is practically guaranteed!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "ここまではるばる来た甲斐があったね",
+        "localizations": {
+          "en": "Looks like coming all this way paid off!"
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "うん！\u3000これもみんなのおかげ――",
+        "localizations": {
+          "en": "Yeah! And it's all thanks to everyone—"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "えっ",
+        "localizations": {
+          "en": "Huh?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "ふっ！",
+        "localizations": {
+          "en": "Ha!"
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "な、なにっ！？\u3000魔物の襲撃！？",
+        "localizations": {
+          "en": "W-what!? A monster attack!?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "あーあ。護衛さんたちはやっぱり隙がないなぁ",
+        "localizations": {
+          "en": "Well, well. These guards really are as sharp as they say."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "シトリン！？\u3000なんでアンタがここに！？\nまさか、後をつけてきたの？",
+        "localizations": {
+          "en": "Citrine!? What are you doing here!? Don't tell me you followed us!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "どうだっていいさ、そんなことは",
+        "localizations": {
+          "en": "That's hardly what matters here."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "それより、君のほうが問題だろう？\n教えに背いて、こんなところまでやって来るなんて",
+        "localizations": {
+          "en": "More importantly, aren't you the one with some explaining to do? Coming all the way out here, defying your teachings..."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "それも「錬金術」に必要なのかい？",
+        "localizations": {
+          "en": "Is all this for your 'alchemy'?"
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "はて、錬金術とな？",
+        "localizations": {
+          "en": "Alchemy, you say? Whatever could you mean?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "とぼけても無駄だよ。君が錬金術とやらを使って、\n水不足を解消しようと動いてるのは知ってる",
+        "localizations": {
+          "en": "Playing dumb won't help. I know you're planning to use alchemy to solve the water shortage."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "ちっ……やっぱり面倒な奴",
+        "localizations": {
+          "en": "Tch... what a pain in the neck."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "それで？\u3000アタシを心配して、\nわざわざ注意しに来てくれたってこと？",
+        "localizations": {
+          "en": "So? Did you come all this way just to warn me out of the kindness of your heart?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "注意？\u3000違う違う。\n僕は奪いに来たのさ。君が持っている案ってヤツをね",
+        "localizations": {
+          "en": "A warning? No, no. I'm here to take that little solution of yours."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "この話は、僕にとっても重要な商機なんだ。\nみすみす逃すわけにはいかないよ",
+        "localizations": {
+          "en": "This situation represents an important business opportunity for me. I can't just let it slip away."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "いーやいやいや、だからって商売がたきを襲って\n横取りなんて、まともじゃないでしょ！？",
+        "localizations": {
+          "en": "Oh come ON! Attacking your competition to steal their work? That's just not right!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "あんたはヤな奴だけど、そういう一線は越えないと\n思ってた。見損なったよ！",
+        "localizations": {
+          "en": "I knew you were sketchy, but I thought you had SOME standards! I guess I was wrong about you!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "君にどう思われようが、別に構わないね！\nアルビーナ・ジムロック！！",
+        "localizations": {
+          "en": "I couldn't care less what you think of me! Alvina Zimlock!!"
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "神聖国で働く者同士で争うなんて……",
+        "localizations": {
+          "en": "To think fellow servants of Nova would come to blows..."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "僕だって最強の聖戦士と戦いたくはないよ。\nでも、商売だから！",
+        "localizations": {
+          "en": "Trust me, I'd rather not fight Nova's strongest Holy Warrior. But business is business!"
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "ヤンネさん！\nそんなこと言ってる場合じゃないですって！",
+        "localizations": {
+          "en": "Lady Janne! This is no time to be philosophical!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "大人しく情報を渡してくれたら、\n悪いようにはしないんだけどな",
+        "localizations": {
+          "en": "If you'd just hand over the information quietly, I promise no harm will come to you."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "情報を渡した時点で最悪なんですけど！",
+        "localizations": {
+          "en": "Handing over the information would BE the harm!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "思ったよりしぶといなあ。\nさっさと終わらせたいんだけど",
+        "localizations": {
+          "en": "You're more stubborn than I expected. I'd like to wrap this up quickly..."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "……それはお互いさま",
+        "localizations": {
+          "en": "...The feeling is mutual."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "さあて、どっちが先に倒れるかね",
+        "localizations": {
+          "en": "Well then, let's see who drops first!"
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  }
+]

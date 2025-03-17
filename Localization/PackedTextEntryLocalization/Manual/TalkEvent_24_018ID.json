@@ -1,0 +1,716 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "この島には本来、雨水が染み込んだ地下水が\n豊富に存在し、それを生活水として利用してきた……",
+        "localizations": {
+          "en": "This island originally had abundant groundwater from rainfall seeping into the earth, which we used as our water supply..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "それが枯渇したのだとしたら、まず考えられるのは\n元になる雨水が不足しているとかだけど……",
+        "localizations": {
+          "en": "If that's drying up, the first thing to consider would be a lack of rainfall, but..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "ここ数年、この島の気候は安定していて、\n特段雨が少なかったというわけでもない",
+        "localizations": {
+          "en": "The climate here has been stable these past few years. We haven't had any notable shortage of rain."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "うーん、原因ばっかり考えててもダメそ～……",
+        "localizations": {
+          "en": "Hmm, just thinking about the cause isn't getting me anywhere..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "それより、別の水源からどうにかして水を引いてくる\n方法を考えたほうが……",
+        "localizations": {
+          "en": "Maybe I should focus on finding ways to draw water from alternative sources instead..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "あれ、謹慎中にこんなところに来て大丈夫かい？",
+        "localizations": {
+          "en": "Hey, are you sure it's okay to be out here while you're grounded?"
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "控えめに、慎み深くはしてるから大丈夫",
+        "localizations": {
+          "en": "I'm being modest and discreet, so it's fine!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "あはは、いいねぇ、ふてぶてしくて",
+        "localizations": {
+          "en": "Ahaha, I love how brazen you are!"
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "水不足のことを調べてたようだけど、\nまだ諦めてなかったの？",
+        "localizations": {
+          "en": "I see you're still looking into the water shortage. Not giving up yet?"
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "シトリンに先を越されたって聞いたけど",
+        "localizations": {
+          "en": "I heard Citrine beat you to it."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "でも、まだ正式に決まったわけじゃない。\n逆転の可能性はあるから！",
+        "localizations": {
+          "en": "Nothing's been officially decided yet. There's still a chance for a comeback!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "……ねえ、イェルカ。\n冒険の最中、もし水がなくて困ったらどうする？",
+        "localizations": {
+          "en": "Hey, Jelka. What do you do when you run out of water during your adventures?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "そうだねぇ。近くに森があれば湧き水を探したり……\n雨水を溜めたりってところかな",
+        "localizations": {
+          "en": "Well, if there's a forest nearby, I look for springs... or collect rainwater."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "あとは海水だね。もちろんそのままじゃ飲めないが、\n沸かせば真水を取り出せる",
+        "localizations": {
+          "en": "There's also seawater. Can't drink it straight of course, but boiling it gives you fresh water."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "蒸留作戦ね。でも、街の水を丸ごと\nそれで賄うのはさすがに厳しそうだなあ……",
+        "localizations": {
+          "en": "Ah, distillation. Though that'd be tough to use for an entire town's water supply..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "それはそうだろうね。\n一人分の水を確保するのにも一苦労だから",
+        "localizations": {
+          "en": "Yeah, it's hard enough just getting enough for one person."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "でも、海水を使うって発想は悪くない気がする。\n効率よく塩分を中和できさえすれば……",
+        "localizations": {
+          "en": "But using seawater isn't a bad idea. If we could efficiently neutralize the salt..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "確か、海水を素材に飲み薬を調合するレシピも\nあったよね。そのへん、参考にならないかなあ",
+        "localizations": {
+          "en": "Come to think of it, there are synthesis recipes that use seawater for potions. Maybe I could use those as reference..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "……こりゃ、自分の世界に入っちまったな",
+        "localizations": {
+          "en": "...And there she goes, lost in her own world."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "よし、まずは一度海水を採取して成分を調べてみよ！\n錬金術士の腕の見せ所だ！",
+        "localizations": {
+          "en": "Right! First, I'll collect some seawater and analyze its components! Time to show what an alchemist can do!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "――数日後",
+        "localizations": {
+          "en": "―Several days later―"
+        }
+      },
+      "2072370017": {
+        "text": "",
+        "localizations": {
+          "en": ""
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "謹慎も今日で終わりか～\nなんだかんだ、充実した数日間だったなあ",
+        "localizations": {
+          "en": "I'm finally free to travel again. These past few days have been surprisingly productive."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "水不足の解決案もだいぶまとまってきたし……ん？",
+        "localizations": {
+          "en": "I've pretty much worked out my solution to the water shortage... Hm?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "師匠と神官長……？\u3000何話してるんだろ",
+        "localizations": {
+          "en": "Master August and the High Priest...? What are they discussing?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "師匠ー！\u3000神官長さまと仲良しになりましたねぇ\n",
+        "localizations": {
+          "en": "Master! I see you're getting friendly with the High Priest!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "知恵を頼られているのだ",
+        "localizations": {
+          "en": "They seek my counsel."
+        }
+      },
+      "2072370017": {
+        "text": "アウグスト",
+        "localizations": {
+          "en": "August"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "錬金術以外にも、とにかく博識ですからね師匠は。\nなんでも知ってるアウグストってね",
+        "localizations": {
+          "en": "Well, you're knowledgeable about everything, Master. The all-knowing August, they say!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "で、何を話されていたんですか？",
+        "localizations": {
+          "en": "So what were you discussing?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "問題になっている水不足のことでな",
+        "localizations": {
+          "en": "The water shortage issue."
+        }
+      },
+      "2072370017": {
+        "text": "アウグスト",
+        "localizations": {
+          "en": "August"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "えっ、何それ。気になるんですけど",
+        "localizations": {
+          "en": "What? Tell me more!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "神聖国なんでも屋のシトリン……\n確か、お前も知り合いだったか",
+        "localizations": {
+          "en": "Citrine, Nova's handyman... You know them, correct?"
+        }
+      },
+      "2072370017": {
+        "text": "アウグスト",
+        "localizations": {
+          "en": "August"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "あの者が出した解決案だが、実行に向けての課題が多く\n少々難航しているようでな",
+        "localizations": {
+          "en": "Their proposed solution seems to face numerous challenges in implementation. It's rather problematic."
+        }
+      },
+      "2072370017": {
+        "text": "アウグスト",
+        "localizations": {
+          "en": "August"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "えっ！？\u3000そうなの！？",
+        "localizations": {
+          "en": "Really?! Is that so?!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "具体的には、森の水源から街まで\n水路を引いてくるというものなのだが……",
+        "localizations": {
+          "en": "Specifically, their plan involves drawing water from the forest springs to the town through waterways..."
+        }
+      },
+      "2072370017": {
+        "text": "アウグスト",
+        "localizations": {
+          "en": "August"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "それには島の外から技術者を招き、\n大がかりな工事をする必要がある",
+        "localizations": {
+          "en": "But that would require bringing in outside engineers and undertaking major construction work."
+        }
+      },
+      "2072370017": {
+        "text": "アウグスト",
+        "localizations": {
+          "en": "August"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "結構、距離あるもんね",
+        "localizations": {
+          "en": "It is quite a distance..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "だが、そのやり方では国民の納得を得るのは\n難しいのではないか、という懸念が挙がっている",
+        "localizations": {
+          "en": "There are concerns that this approach would be difficult for the citizens to accept."
+        }
+      },
+      "2072370017": {
+        "text": "アウグスト",
+        "localizations": {
+          "en": "August"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "確かに。聖地を荒らすなー！\u3000って声は絶対出るよね。\nアタシだってちょっと嫌だもん",
+        "localizations": {
+          "en": "True. People would definitely protest about disturbing sacred grounds. Even I'm not too keen on that idea."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "シトリンには現在、別案を検討するように\n依頼しているそうだ",
+        "localizations": {
+          "en": "I hear they've asked Citrine to consider alternative solutions."
+        }
+      },
+      "2072370017": {
+        "text": "アウグスト",
+        "localizations": {
+          "en": "August"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "ということは……\nこれってもしかしてアタシの出番！？",
+        "localizations": {
+          "en": "Then... could this be my chance?!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "……そういえば、お前もその問題を調べると\n言っていたな。何か案があるのか？",
+        "localizations": {
+          "en": "...Come to think of it, you were investigating this issue as well. Do you have any ideas?"
+        }
+      },
+      "2072370017": {
+        "text": "アウグスト",
+        "localizations": {
+          "en": "August"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "はい！\u3000ぜひ聞いてくださいよ！",
+        "localizations": {
+          "en": "Yes! Please hear me out!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  }
+]

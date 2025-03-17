@@ -1,0 +1,767 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "\u7518\u3044\u3082\u306E\u4EE5\u5916\u3067\u3001\u304B\u3041",
+        "localizations": {
+          "en": "Something other than sweets, huh..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "\u666E\u901A\u306B\u8003\u3048\u305F\u3089\u3001\u7518\u3044\u3082\u306E\u306E\u4F9B\u7D66\u306F\n\u30AB\u30D5\u30A7\u3068\u304B\u306B\u6C42\u3081\u3089\u308C\u3066\u308B\u308F\u3051\u3067\u2026\u2026",
+        "localizations": {
+          "en": "Well, if you think about it, cafes are already handling the sweet stuff..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "\u88AB\u308A\u306E\u306A\u3044\u3082\u306E\u306B\u3059\u308B\u306A\u3089\u3001\u305D\u306E\u9006\u304C\u3044\u3044\u306E\u304B\u306A\uFF1F",
+        "localizations": {
+          "en": "So if we want to avoid overlap, maybe we should do the opposite?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "\u9006\uFF1F",
+        "localizations": {
+          "en": "The opposite?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30E9\u30A6\u30C7\u30A3\u30A2",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "\u3060\u304B\u3089\u3001\u3057\u3087\u3063\u3071\u3044\u3082\u306E\u3068\u304B\uFF1F",
+        "localizations": {
+          "en": "Yeah, like savory stuff!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "\u307E\u3042\u3001\u305D\u308C\u304C\u30EA\u30F3\u30C7\u796D\u306B\u3069\u3046\u95A2\u4FC2\u3042\u308B\u306E\u304B\u3063\u3066\n\u8A71\u306B\u306A\u3063\u3061\u3083\u3046\u3093\u3060\u3051\u3069\u2026\u2026",
+        "localizations": {
+          "en": "Though I guess that doesn\u0027t really have much to do with the Linde Festival..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u3060\u306D",
+        "localizations": {
+          "en": "That\u0027s true."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30E9\u30A6\u30C7\u30A3\u30A2",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "\u5B9F\u306F\u79C1\u3082\u305D\u308C\u306F\u4E00\u77AC\u8003\u3048\u305F\u3093\u3060\u3051\u3069\u3001\n\u3057\u3087\u3063\u3071\u3044\u3082\u306E\u306F\u3057\u3087\u3063\u3071\u3044\u3082\u306E\u3067\u7AF6\u5408\u306F\u3042\u308B\u3093\u3060\u3088",
+        "localizations": {
+          "en": "I actually thought about that too, but there\u0027s already competition in the savory food market."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30E9\u30A6\u30C7\u30A3\u30A2",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "\u3048\uFF1F",
+        "localizations": {
+          "en": "Huh?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "\u307B\u3089\u3001\u3042\u305D\u3053",
+        "localizations": {
+          "en": "Look, over there."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30E9\u30A6\u30C7\u30A3\u30A2",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u308C\uFF1F\n\u3042\u3093\u306A\u3068\u3053\u308D\u306B\u5C4B\u53F0\u306A\u3093\u3066\u3042\u3063\u305F\u3063\u3051\uFF1F",
+        "localizations": {
+          "en": "What? Since when was there a food stall there?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "\u6C17\u306E\u65E9\u3044\u4EBA\u304C\u30EA\u30F3\u30C7\u796D\u306B\u5148\u99C6\u3051\u3066\u3001\n\u3082\u3046\u304A\u8089\u306E\u4E32\u713C\u304D\u306E\u5C4B\u53F0\u51FA\u3057\u3066\u308B\u3093\u3060\u3063\u3066",
+        "localizations": {
+          "en": "Someone\u0027s getting an early start on the Linde Festival. They\u0027re selling grilled meat skewers."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30E9\u30A6\u30C7\u30A3\u30A2",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "\u4ED6\u306B\u3082\u3044\u304F\u3064\u304B\u304A\u9B5A\u306E\u5869\u713C\u304D\u3068\u304B\u3001\n\u3075\u304B\u3057\u828B\u3068\u304B\u306E\u5C4B\u53F0\u3082\u3042\u308B\u307F\u305F\u3044",
+        "localizations": {
+          "en": "And I hear there will be other stalls too, selling things like grilled fish and steamed potatoes."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30E9\u30A6\u30C7\u30A3\u30A2",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u3044\u3048\u3070\u3001\u524D\u3082\u7D50\u69CB\u306A\u6570\u306E\u5C4B\u53F0\u304C\n\u51FA\u3066\u305F\u3088\u3046\u306A\u2015\u2015",
+        "localizations": {
+          "en": "Now that you mention it, there were quite a few food stalls last time too--"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "\u3046\u3046\u2026\u2026\u3054\u3081\u3093\u2026\u2026",
+        "localizations": {
+          "en": "Ugh... sorry..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "\u98DF\u3079\u3082\u306E\u306E\u8A71\u3057\u3066\u305F\u3089\u3001\n\u304A\u8179\u7A7A\u3044\u3066\u304D\u3061\u3083\u3063\u305F\u2026\u2026",
+        "localizations": {
+          "en": "All this talk about food is making me hungry..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "\u3082\u3046\u3001\u30E9\u30A4\u30B6\u3063\u305F\u3089\u2026\u2026",
+        "localizations": {
+          "en": "Oh, Ryza..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30E9\u30A6\u30C7\u30A3\u30A2",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "\u3053\u3001\u3053\u3046\u306A\u3063\u305F\u3089\n\u5C4B\u53F0\u3067\u8CB7\u3044\u98DF\u3044\u3057\u3061\u3083\u304A\u3046\uFF01",
+        "localizations": {
+          "en": "W-well, in that case, let\u0027s grab something from the stalls!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "\u304A\u8179\u3082\u6E80\u305F\u305B\u308B\u3057\u3001\n\u5C4B\u53F0\u3067\u3069\u3093\u306A\u3082\u306E\u304C\u51FA\u3066\u308B\u306E\u304B\u8ABF\u67FB\u3067\u304D\u308B\u3057\u306D\uFF01",
+        "localizations": {
+          "en": "We can fill our stomachs AND research what kinds of food they\u0027re selling!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "\u307B\u3089\u3001\u52B9\u7387\u7684\u3058\u3083\u306A\u3044\uFF1F",
+        "localizations": {
+          "en": "See? That\u0027s efficient, right?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "\u3075\u3075\u3001\u305D\u3046\u306D",
+        "localizations": {
+          "en": "*giggle* That\u0027s true."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30E9\u30A6\u30C7\u30A3\u30A2",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "\u3075\u3045\u30FC\u3001\u98DF\u3079\u305F\u98DF\u3079\u305F\u30FC",
+        "localizations": {
+          "en": "Phew, that really hit the spot!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "\u610F\u5916\u3068\u7A2E\u985E\u304C\u3042\u3063\u305F\u306D\u3002\n\u3063\u3066\u3001\u53E3\u5143\u306B\u30BD\u30FC\u30B9\u3064\u3044\u3066\u308B\u3088\uFF1F",
+        "localizations": {
+          "en": "There was quite a variety, wasn\u0027t there? Oh, you\u0027ve got some sauce on your face."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30E9\u30A6\u30C7\u30A3\u30A2",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "\u307B\u3089\u3001\u62ED\u3044\u3066\u3042\u3052\u308B\u304B\u3089\u30B8\u30C3\u3068\u3057\u3066\u3066",
+        "localizations": {
+          "en": "Here, hold still while I wipe it off."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30E9\u30A6\u30C7\u30A3\u30A2",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "\u3048\u3078\u3078\u3001\u3042\u308A\u304C\u3068",
+        "localizations": {
+          "en": "Hehe, thanks!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "\u3069\u3046\u3044\u305F\u3057\u307E\u3057\u3066",
+        "localizations": {
+          "en": "You\u0027re welcome."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30E9\u30A6\u30C7\u30A3\u30A2",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u308C\u3067\u2026\u2026\u4F55\u304B\u601D\u3044\u3064\u3044\u305F\uFF1F",
+        "localizations": {
+          "en": "So... did you come up with any ideas?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30E9\u30A6\u30C7\u30A3\u30A2",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "\u3093\u30FC\u2026\u2026\u3075\u304B\u3057\u828B\u306F\u3042\u3063\u305F\u3051\u3069\u3001\n\u63DA\u3052\u828B\u306F\u306A\u304B\u3063\u305F\u3088\u306D\uFF1F",
+        "localizations": {
+          "en": "Hmm... they had steamed potatoes, but no fried potatoes, right?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u308C\u3060\u3063\u305F\u3089\u3069\u3046\u3060\u308D\u3046\uFF1F\n\u624B\u8EFD\u306B\u98DF\u3079\u3089\u308C\u308B\u3057",
+        "localizations": {
+          "en": "What if we did that? They\u0027re easy to eat..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "\u304A\u796D\u308A\u3063\u307D\u3055\u3082\u3042\u308B\u3057\u3001\n\u3044\u3044\u7DDA\u3044\u3063\u3066\u308B\u3068\u601D\u3046\u3093\u3060\u3051\u3069",
+        "localizations": {
+          "en": "And they feel festive too. I think we might be onto something!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u3060\u3001\u305D\u308C\u306B\u30B5\u30F3\u30C9\u30A4\u30C3\u30C1\u3068\u304B\u306F\u3069\u3046\uFF1F\n\u7247\u624B\u3067\u98DF\u3079\u3089\u308C\u308B\u306E\u306F\u3088\u304F\u306A\u3044\uFF1F",
+        "localizations": {
+          "en": "Oh, and what about sandwiches? Being able to eat with one hand is good, right?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "\u304A\u796D\u308A\u306F\u3042\u3061\u3053\u3061\u52D5\u304D\u56DE\u308B\u3057\u3001\n\u8272\u3093\u306A\u3082\u306E\u3092\u98DF\u3079\u308B\u304B\u3089\u2026\u2026",
+        "localizations": {
+          "en": "People do move around a lot during festivals, and they eat all sorts of things..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30E9\u30A6\u30C7\u30A3\u30A2",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "\u78BA\u304B\u306B\u3088\u3055\u305D\u3046\u3067\u306F\u3042\u308B\u3001\u304B\u306A\uFF1F",
+        "localizations": {
+          "en": "That does sound promising."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30E9\u30A6\u30C7\u30A3\u30A2",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u3001\u305D\u3046\u3060\uFF01\n\u3042\u3068\u306F\u2015\u2015",
+        "localizations": {
+          "en": "Oh, and another thing--!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "\u2015\u2015\u3063\u3068\u3001\u601D\u3044\u3064\u3044\u305F\u306E\u306F\u3053\u306E\u304F\u3089\u3044\u304B\u306A\u3041\uFF1F",
+        "localizations": {
+          "en": "--Well, I guess that\u0027s about all I\u0027ve got for now."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "\u3046\u3093\u2026\u2026\u601D\u3063\u305F\u3088\u308A\u5019\u88DC\u306F\u51FA\u305F\u306D",
+        "localizations": {
+          "en": "We came up with more options than I expected."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30E9\u30A6\u30C7\u30A3\u30A2",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "\u6B32\u3092\u3044\u3048\u3070\u3001\u5168\u4F53\u7684\u306B\u3082\u3046\u5C11\u3057\u30EA\u30F3\u30C7\u796D\u306A\u3089\u3067\u306F\u306E\n\u8981\u7D20\u304C\u6B32\u3057\u3044\u3068\u3053\u308D\u304B\u306A\u2026\u2026",
+        "localizations": {
+          "en": "Though if I\u0027m being picky, it would be nice to have something that feels more unique to the Linde Festival..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30E9\u30A6\u30C7\u30A3\u30A2",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3082\u305D\u3082\u98DF\u3079\u3082\u306E\u306B\n\u3053\u3060\u308F\u308B\u5FC5\u8981\u306F\u306A\u3044\u304B\u3082\u3057\u308C\u306A\u3044\u3057\u2026\u2026",
+        "localizations": {
+          "en": "And maybe we don\u0027t need to limit ourselves to just food..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30E9\u30A6\u30C7\u30A3\u30A2",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "\u88C5\u98FE\u54C1\u3068\u304B\u3082\u30A2\u30EA\u3063\u3066\u3053\u3068\uFF1F",
+        "localizations": {
+          "en": "You mean like accessories and stuff?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "\u4E00\u5FDC\u3001\u305D\u306E\u8FBA\u308A\u306E\u5019\u88DC\u3082\n\u51FA\u3057\u3066\u304A\u3044\u305F\u307B\u3046\u304C\u3044\u3044\u304B\u3082\u3063\u3066\u3053\u3068\u306D",
+        "localizations": {
+          "en": "It might be worth putting those kinds of ideas on the table too."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30E9\u30A6\u30C7\u30A3\u30A2",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "\u3075\u30FC\u30FC\u3080\u2026\u2026",
+        "localizations": {
+          "en": "Hmmmm..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "\u3068\u308A\u3042\u3048\u305A\u3001\u51FA\u305F\u6848\u306F\u5168\u90E8\u8A66\u3057\u3066\u307F\u308B\uFF1F\n\u306A\u3093\u3060\u304B\u305D\u306E\u307B\u3046\u304C\u65E9\u3044\u6C17\u304C\u3057\u3066\u304D\u305F",
+        "localizations": {
+          "en": "Why don\u0027t we try making everything we\u0027ve thought of? I feel like that might be faster at this point."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u3060\u306D",
+        "localizations": {
+          "en": "Good idea."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30E9\u30A6\u30C7\u30A3\u30A2",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 43,
+    "properties": {
+      "999008199": {
+        "text": "\u5B9F\u969B\u306B\u4F5C\u3063\u305F\u3082\u306E\u3092\u898B\u305F\u3089\u3001\n\u4F55\u304B\u540D\u6848\u304C\u6D6E\u304B\u3093\u3067\u304F\u308B\u304B\u3082\u3057\u308C\u306A\u3044\u3057",
+        "localizations": {
+          "en": "Once we see the actual items, we might come up with even better ideas."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30E9\u30A6\u30C7\u30A3\u30A2",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 44,
+    "properties": {
+      "999008199": {
+        "text": "\u3088\u30FC\u3057\uFF01\n\u305D\u3046\u3068\u6C7A\u307E\u3063\u305F\u3089\u3001\u7D20\u6750\u96C6\u3081\u306B\u51FA\u767A\u3060\uFF01",
+        "localizations": {
+          "en": "Alright! Now that that\u0027s settled, let\u0027s go gather materials!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  }
+]

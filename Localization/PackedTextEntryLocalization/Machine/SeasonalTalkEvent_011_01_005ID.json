@@ -1,0 +1,733 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u308C\u3092\u8ABF\u5408\u3059\u308B\u306B\u306F\u2026\u2026\n\u3053\u308C\u3068\u3001\u305D\u308C\u304C\u5FC5\u8981\u3060\u3088\u306D\u3063\u3068",
+        "localizations": {
+          "en": "To synthesize that... I\u0027ll need this and that..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u3001\u3044\u3084\u2026\u2026\n\u3060\u3063\u305F\u3089\u3001\u3042\u306E\u7D20\u6750\u3082\u5FC5\u8981\u304B\u306A\uFF1F",
+        "localizations": {
+          "en": "Oh, wait... Maybe I need that material too?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "\u30E9\u3001\u30E9\u30A4\u30B6\u2026\u2026",
+        "localizations": {
+          "en": "R-Ryza..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30E9\u30A6\u30C7\u30A3\u30A2",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "\u3093\uFF1F\n\u3069\u3046\u304B\u3057\u305F\uFF1F",
+        "localizations": {
+          "en": "Hm? What\u0027s wrong?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "\u307E\u3060\u7D20\u6750\u96C6\u3081\u308B\u306E\uFF1F\n\u73FE\u6642\u70B9\u3067\u304B\u306A\u308A\u5927\u91CF\u3060\u3051\u3069\u2026\u2026",
+        "localizations": {
+          "en": "Are you still gathering materials? You already have quite a lot..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30E9\u30A6\u30C7\u30A3\u30A2",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u306F\u306F\u2026\u2026\u3084\u3063\u3071\u308A\u591A\u3044\u3088\u306D\u2026\u2026\n\u5206\u304B\u3063\u3066\u305F\u3093\u3060\u3051\u3069\u306D\u2026\u2026",
+        "localizations": {
+          "en": "Ahaha... Yeah, it is a lot, isn\u0027t it? I knew that, but..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "\u3068\u308A\u3042\u3048\u305A\u3067\u51FA\u305F\u6848\u3092\n\u5168\u90E8\u8A66\u305D\u3046\u3068\u3059\u308B\u3068\u3069\u3046\u3057\u3066\u3082\u2026\u2026",
+        "localizations": {
+          "en": "When I try to test out every idea that comes to mind..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "\u3084\u3063\u3071\u308A\u3001\u5019\u88DC\u306F\u7D5E\u3063\u305F\u307B\u3046\u304C\u2015\u2015",
+        "localizations": {
+          "en": "Maybe we should narrow down the options--"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30E9\u30A6\u30C7\u30A3\u30A2",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u308C\uFF1F\n\u30E9\u30A4\u30B6\u3055\u3093\u306B\u30AF\u30E9\u30A6\u30C7\u30A3\u30A2\u3055\u3093\uFF1F",
+        "localizations": {
+          "en": "Oh? Ryza and Klaudia?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A8\u30B9\u30AB",
+        "localizations": {
+          "en": "Escha"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "\u3053\u3093\u306A\u3068\u3053\u308D\u3067\u4F1A\u3046\u306A\u3093\u3066\u3002\n\u5947\u9047\u3067\u3059\u306D",
+        "localizations": {
+          "en": "What a coincidence meeting you here!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A8\u30B9\u30AB",
+        "localizations": {
+          "en": "Escha"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u3063\u3001\u30A8\u30B9\u30AB\uFF01",
+        "localizations": {
+          "en": "Ah, Escha!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u308D\u305D\u308D\u30EA\u30F3\u30C7\u796D\u3067\u3059\u3057\u3001\n\u932C\u91D1\u8853\u30C1\u30E7\u30B3\u306E\u6750\u6599\u3092\u96C6\u3081\u306B\u6765\u305F\u3093\u3067\u3059\u3051\u3069\u2026\u2026",
+        "localizations": {
+          "en": "With the Linde Festival coming up, I was gathering materials for alchemical chocolates..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30A8\u30B9\u30AB",
+        "localizations": {
+          "en": "Escha"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "\u3082\u3057\u304B\u3057\u3066\u3001\u304A\u4E8C\u4EBA\u3082\uFF1F",
+        "localizations": {
+          "en": "Could it be you two are doing the same?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A8\u30B9\u30AB",
+        "localizations": {
+          "en": "Escha"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\uFF5E\u3001\u307E\u3042\u3001\u305D\u3046\u306A\u3093\u3060\u3051\u3069\u2026\u2026\u306D\u3048\uFF1F",
+        "localizations": {
+          "en": "Ah, well, yeah... right?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u306F\u306F\u306F\u2026\u2026",
+        "localizations": {
+          "en": "Ahaha..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30E9\u30A6\u30C7\u30A3\u30A2",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "\u2015\u2015\u3068\u3044\u3046\u308F\u3051\u3067\u3001\n\u5B9F\u306F\u8FF7\u8D70\u4E2D\u3060\u3063\u305F\u308A\u2026\u2026",
+        "localizations": {
+          "en": "--And that\u0027s why we\u0027re a bit lost right now..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30E9\u30A6\u30C7\u30A3\u30A2",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "\u306A\u308B\u307B\u3069\u2026\u2026\n\u305D\u3093\u306A\u4E8B\u60C5\u304C\u2026\u2026",
+        "localizations": {
+          "en": "I see... So that\u0027s what\u0027s going on..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30A8\u30B9\u30AB",
+        "localizations": {
+          "en": "Escha"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "\u306A\u3093\u304B\u3001\u52A9\u8A00\u3068\u304B\u306A\u3044\uFF1F\u3000\u524D\u56DE\u306E\u7ACB\u5F79\u8005\u3068\u3057\u3066\u306E",
+        "localizations": {
+          "en": "Got any advice? You were the star of last year\u0027s festival after all!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3001\u305D\u3093\u306A\u5927\u5C64\u306A\u3053\u3068\u306F\u3057\u3066\u307E\u305B\u3093\u3088\u3002\n\u3067\u3082\u3001\u305D\u3046\u3067\u3059\u306D\u3047",
+        "localizations": {
+          "en": "I-I didn\u0027t do anything that special! But let\u0027s see..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30A8\u30B9\u30AB",
+        "localizations": {
+          "en": "Escha"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "\u305F\u3068\u3048\u3070\u3001\u30EA\u30F3\u30C7\u796D\u306B\u304A\u3051\u308B\u30C1\u30E7\u30B3\u3067\u3059\u3051\u3069\u2015\u2015",
+        "localizations": {
+          "en": "For example, chocolates became part of the Linde Festival--"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A8\u30B9\u30AB",
+        "localizations": {
+          "en": "Escha"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "\u3053\u308C\u304C\u8D08\u308A\u3082\u306E\u3068\u3057\u3066\u9078\u3070\u308C\u3066\u3044\u308B\u306E\u306F\u3001\n\u75B2\u52B4\u56DE\u5FA9\u3084\u6ECB\u990A\u5F37\u58EE\u52B9\u679C\u304C\u3042\u308B\u304B\u3089\u3067\u3059",
+        "localizations": {
+          "en": "Because they help with fatigue recovery and provide nourishment."
+        }
+      },
+      "2072370017": {
+        "text": "\u30A8\u30B9\u30AB",
+        "localizations": {
+          "en": "Escha"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "\u3053\u308C\u3067\u904E\u9177\u306A\u96EA\u5C71\u3092\u4E57\u308A\u5207\u3063\u305F\u9A0E\u58EB\u304C\n\u591A\u304B\u3063\u305F\u307F\u305F\u3044\u3067\u3059\u3057",
+        "localizations": {
+          "en": "I heard many knights used them to get through the harsh snowy mountains."
+        }
+      },
+      "2072370017": {
+        "text": "\u30A8\u30B9\u30AB",
+        "localizations": {
+          "en": "Escha"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u3044\u3046\u3068\u3053\u308D\u3092\u8D77\u70B9\u306B\u3057\u3066\n\u8003\u3048\u308C\u3070\u3044\u3044\u306E\u304B\u306A\u3063\u3066\u2026\u2026",
+        "localizations": {
+          "en": "Maybe that could be a good starting point..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30A8\u30B9\u30AB",
+        "localizations": {
+          "en": "Escha"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "\u96EA\u5C71\u3092\u3001\u53B3\u3057\u3044\u5BD2\u3055\u3092\u4E57\u308A\u5207\u308B\u305F\u3081\u2026\u2026",
+        "localizations": {
+          "en": "Snowy mountains, getting through harsh cold..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "\u75B2\u52B4\u56DE\u5FA9\u3001\u6ECB\u990A\u5F37\u58EE\u2026\u2026\n\u3044\u3084\u3001\u3082\u3063\u3068\u5206\u304B\u308A\u3084\u3059\u3044\u307B\u3046\u304C\u3044\u3044\u304B\u306A\uFF1F",
+        "localizations": {
+          "en": "Fatigue recovery, nourishment... Or maybe something more straightforward?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "\u5BD2\u3055\u306A\u3089\u3001\u8EAB\u4F53\u3092\u6E29\u3081\u305F\u308A\uFF1F\n\u4ECA\u5EA6\u968A\u5546\u3082\u5BD2\u3044\u5730\u65B9\u306B\u5411\u304B\u3046\u4E88\u5B9A\u3060\u3063\u3066\u8A00\u3063\u3066\u305F\u304B\u3089",
+        "localizations": {
+          "en": "For cold weather, maybe something warming? The next merchant caravan is headed to a cold region..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30E9\u30A6\u30C7\u30A3\u30A2",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "\u3060\u3068\u3057\u305F\u3089\u3001\u8F9B\u3044\u3082\u306E\uFF1F",
+        "localizations": {
+          "en": "In that case, how about something spicy?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "\u8EAB\u4F53\u304C\u6E29\u307E\u308B\u3088\u3046\u306A\u98DF\u6750\u3092\u305F\u304F\u3055\u3093\u4F7F\u3063\u305F\u3082\u306E\u3082\n\u30A2\u30EA\u304B\u3082\u3067\u3059\u306D\uFF01",
+        "localizations": {
+          "en": "Using ingredients that warm the body could work well!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A8\u30B9\u30AB",
+        "localizations": {
+          "en": "Escha"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "\u30E9\u30A4\u30B6\uFF01",
+        "localizations": {
+          "en": "Ryza!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30E9\u30A6\u30C7\u30A3\u30A2",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "\u51FA\u3066\u304D\u305F\u6848\u306E\u4E2D\u304B\u3089\u3001\u8EAB\u4F53\u3092\u6E29\u3081\u308B\u306E\u306B\n\u9069\u3057\u305F\u3082\u306E\u3092\u9078\u5225\u3057\u3066\u307F\u3088\u3046\uFF01",
+        "localizations": {
+          "en": "Let\u0027s sort through your ideas and pick out the ones best suited for warming the body!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30E9\u30A6\u30C7\u30A3\u30A2",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "\u3046\u3093\uFF01\n\u305D\u3057\u305F\u3089\u3001\u6539\u3081\u3066\u5FC5\u8981\u306A\u3082\u306E\u3092\u96C6\u3081\u306B\u884C\u3053\u3063\u304B\uFF01",
+        "localizations": {
+          "en": "Yeah! Then we can go gather what we actually need!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "\u30A8\u30B9\u30AB\uFF01",
+        "localizations": {
+          "en": "Escha!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "\u306F\u3001\u306F\u3044\uFF01",
+        "localizations": {
+          "en": "Y-Yes!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A8\u30B9\u30AB",
+        "localizations": {
+          "en": "Escha"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "\u3055\u3059\u304C\u306E\u767A\u60F3\u529B\uFF01",
+        "localizations": {
+          "en": "Your ideas are brilliant!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u308A\u304C\u3068\u3046\u3054\u3056\u3044\u307E\u3059\uFF01",
+        "localizations": {
+          "en": "Thank you so much!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30E9\u30A6\u30C7\u30A3\u30A2",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u3001\u3044\u3048\u3001\u304A\u529B\u306B\u306A\u308C\u305F\u306A\u3089\u2015\u2015",
+        "localizations": {
+          "en": "Oh no, I\u0027m just glad I could help--"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A8\u30B9\u30AB",
+        "localizations": {
+          "en": "Escha"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "\u30A8\u30B9\u30AB\u3082\u30ED\u30B8\u30FC\u306B\u6E21\u3059\u30C1\u30E7\u30B3\u3001\u9811\u5F35\u3063\u3066\u306D\uFF01",
+        "localizations": {
+          "en": "Good luck with making chocolates for Logy!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "\u3078\uFF1F",
+        "localizations": {
+          "en": "Huh?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A8\u30B9\u30AB",
+        "localizations": {
+          "en": "Escha"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "\u5FDC\u63F4\u3057\u3066\u308B\u304B\u3089\uFF01",
+        "localizations": {
+          "en": "I\u0027m rooting for you!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "\u3044\u3084\u3001\u3042\u306E\u2026\u2026",
+        "localizations": {
+          "en": "Um, well..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30A8\u30B9\u30AB",
+        "localizations": {
+          "en": "Escha"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u308C\u3058\u3083\u3001\u3042\u305F\u3057\u305F\u3061\u306F\u3053\u308C\u3067\uFF01\n\u672C\u5F53\u306B\u3042\u308A\u304C\u3068\u306D\uFF01",
+        "localizations": {
+          "en": "Well, we\u0027d better get going! Thanks for everything!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "\u2026\u2026\u3042\u308C\uFF1F",
+        "localizations": {
+          "en": "...Huh?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A8\u30B9\u30AB",
+        "localizations": {
+          "en": "Escha"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "\u308F\u305F\u3057\u3001\u30ED\u30B8\u30FC\u3055\u3093\u306B\u30C1\u30E7\u30B3\u3092\u6E21\u3059\u3063\u3066\u3001\n\u8A00\u3063\u305F\u3063\u3051\u2026\u2026\uFF1F",
+        "localizations": {
+          "en": "Did I ever mention giving chocolates to Logy...?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A8\u30B9\u30AB",
+        "localizations": {
+          "en": "Escha"
+        }
+      }
+    }
+  }
+]

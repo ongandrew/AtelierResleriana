@@ -1,0 +1,461 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "――クヴァレルガの厄介なところは大きく２つある。\n１つは海が戦場になるってことだ",
+        "localizations": {
+          "en": "There're two main things that make Kvarelga such a pain. First is that we'll be fighting at sea."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "こちらは小回りの効かない船の上で戦うしかないが、\nヤツは海を自由に動く……機動力が段違い、だね",
+        "localizations": {
+          "en": "We're stuck on ships with limited mobility, while that thing moves freely through the water... The difference in maneuverability is staggering."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "そういうことだ。それに、ヤツは嵐と共に現れる。\n普通の船じゃ、動きについていけねぇ",
+        "localizations": {
+          "en": "Exactly. Plus, it appears with storms. No ordinary ship could keep up with its movements."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "私たちが乗る船には、錬金術で作った推進装置が\n使われます。それで何とかならないでしょうか",
+        "localizations": {
+          "en": "Our ships are equipped with alchemically-crafted propulsion devices. Could those help?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "ありゃあくまで長距離の航海に備えたものだからな\nマシにはなるだろうが、まだ足りねえ",
+        "localizations": {
+          "en": "Those were made for long-distance travel. Sure, they'll help some, but it's not enough."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "なるほど……出力を上げることはできますが、\n船の耐久性が心配ですし、積める燃料にも限りが……",
+        "localizations": {
+          "en": "I see... We could increase the output, but I'm worried about the ship's durability. And there's a limit to how much fuel we can carry..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "そういうことなら、瞬間的に噴かしゃいけるか？\n一瞬でも加速できりゃ、ぐっと戦いやすくなるはずだ",
+        "localizations": {
+          "en": "What about short bursts then? Even a moment of acceleration could make the fight a lot easier."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "そういえば、前にも似たようなことをやりましたね",
+        "localizations": {
+          "en": "Come to think of it, we've done something similar before."
+        }
+      },
+      "2072370017": {
+        "text": "トトリ",
+        "localizations": {
+          "en": "Totori"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "確かに、それなら何とかなると思います。出力を調整\nできるようにして、燃料も特殊なものを用意すれば……",
+        "localizations": {
+          "en": "You're right, that could work. If we adjust the output controls and prepare some special fuel..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "よし、その方向で考えてみようじゃないか",
+        "localizations": {
+          "en": "Alright, let's explore that idea."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "それで、もう１つの厄介なところって？",
+        "localizations": {
+          "en": "So what's the second problem?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "ヤツが使う「水の刃」だ。ヤツは海水を吸い込んで、\nそれを刃物みてえに吐き出してきやがる",
+        "localizations": {
+          "en": "Its 'water blade.' The beast sucks in seawater and spits it back out like a knife."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "……俺の船は、その刃で真っ二つになった",
+        "localizations": {
+          "en": "...That blade cut my ship clean in half."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "それほどの威力が……",
+        "localizations": {
+          "en": "That kind of power..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "ま、ヤツの必殺攻撃ってところだろうな。\nだが、その攻撃こそがヤツの弱点だと俺は睨んでる",
+        "localizations": {
+          "en": "Yeah, that's its finishing move. But I reckon that attack is also its weakness."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "どういうこと？",
+        "localizations": {
+          "en": "What do you mean?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "ヤツは水を吐き出すとき、大きく口を開く。\nあのときもそうだった",
+        "localizations": {
+          "en": "When it's about to spit out the water, it opens its mouth wide. Saw it myself that time."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "その口の中に、光るものが見えたんだ。\nあれはきっと、ヤツの急所に違いねえ。心臓とかよ",
+        "localizations": {
+          "en": "I caught a glimpse of something glowing inside. Bet that's its weak point—maybe its heart or something."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "ま、確証はねえんだがな。色んな海の魔物を\n見てきた上での、船乗りの勘ってヤツだ",
+        "localizations": {
+          "en": "Just a hunch, mind you. Call it a sailor's intuition after seeing all sorts of sea monsters."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "海で船乗りの勘は重要じゃないか。\nあなたなら、なおさらだよ",
+        "localizations": {
+          "en": "A sailor's intuition is crucial at sea. Especially yours."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "それに、頂獣と言っても生物は生物だ。\n身体の外よりは内側のほうが脆いに決まっているからね",
+        "localizations": {
+          "en": "Besides, Apexi or not, it's still a living creature. Its insides have to be more vulnerable than its outside."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "じゃあ、口を開いた瞬間に攻撃しちゃえばいいのね",
+        "localizations": {
+          "en": "So we just need to strike when its mouth is open."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "そいつが一苦労なんだ。間に合わなかったり、\n仕留めきれなかったりしたら、こっちは真っ二つだ",
+        "localizations": {
+          "en": "That's the tricky part. If we're too slow or don't finish it off, we'll be the ones split in half."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "どこまで耐えられるかはわかりませんけど、\n何とか水の刃を防げるように改造してみましょうか",
+        "localizations": {
+          "en": "I'm not sure how much it can take, but maybe we could modify the ships to withstand the water blade somehow."
+        }
+      },
+      "2072370017": {
+        "text": "トトリ",
+        "localizations": {
+          "en": "Totori"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "あとは、口を開いた状態で動きを止められないかも\n考えてみます",
+        "localizations": {
+          "en": "We should also look into ways to immobilize it while its mouth is open."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "大体、方向性は見えてきたね",
+        "localizations": {
+          "en": "Well, we've got a general strategy now."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "これは、この国の未来をも左右する重要な戦いになる。\n力を合わせて乗りきろうじゃないか",
+        "localizations": {
+          "en": "This battle will shape our kingdom's future. Let's work together and see it through."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  }
+]

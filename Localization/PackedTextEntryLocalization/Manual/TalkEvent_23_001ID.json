@@ -1,0 +1,801 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "では、このまま進行して大丈夫そうですね、船長さん",
+        "localizations": {
+          "en": "Looks like we can keep our current course, Captain."
+        }
+      },
+      "2072370017": {
+        "text": "トトリ",
+        "localizations": {
+          "en": "Totori"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "ええ。天気も快晴。航路も問題なしよ。\nバーバラ号、全速前進！",
+        "localizations": {
+          "en": "Indeed. Clear skies ahead and the Barbara's route is clear. Full speed ahead!"
+        }
+      },
+      "2072370017": {
+        "text": "船長",
+        "localizations": {
+          "en": "Captain"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "もう船出から何日か経つけど、順調すぎるってくらい\n順調ね。ときどき、海の魔物が襲ってくるくらいで",
+        "localizations": {
+          "en": "It's been days since we set sail, and things have been going almost too smoothly. Just the occasional sea monster to deal with."
+        }
+      },
+      "2072370017": {
+        "text": "ミミ",
+        "localizations": {
+          "en": "Mimi"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "そうだね。でも、本番はこれからだよ",
+        "localizations": {
+          "en": "True. But the real challenge is still ahead of us."
+        }
+      },
+      "2072370017": {
+        "text": "トトリ",
+        "localizations": {
+          "en": "Totori"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "分かってるわよ。今のうちに英気を養っておかないとね",
+        "localizations": {
+          "en": "I know. Better save our strength while we can."
+        }
+      },
+      "2072370017": {
+        "text": "ミミ",
+        "localizations": {
+          "en": "Mimi"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "レスナさん。今日のところも順調そうですよ",
+        "localizations": {
+          "en": "Resna, everything's looking good for today too."
+        }
+      },
+      "2072370017": {
+        "text": "トトリ",
+        "localizations": {
+          "en": "Totori"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "ありがとうございます、トトリ先輩！\n身体だけでなく心も、大船に乗った気持ちです！",
+        "localizations": {
+          "en": "Thank you, Miss Totori! I'm feeling confident in body and spirit!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "ただ、また魔物が襲ってくるかもしれないので、\nいつでも飛び出せるようにしておいてくださいね",
+        "localizations": {
+          "en": "Just remember to stay ready—we might run into more monsters at any time."
+        }
+      },
+      "2072370017": {
+        "text": "トトリ",
+        "localizations": {
+          "en": "Totori"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "はい！\u3000心得ています！",
+        "localizations": {
+          "en": "Right! I understand!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "（――あれから１年が経った）",
+        "localizations": {
+          "en": "(A year has passed since then...)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "（私は錬金術士、レスナ・シュテルネンリヒト。\n\u3000ランターナ大陸に錬金術を復活させんと願う者）",
+        "localizations": {
+          "en": "(I am Resna Sternenlicht, an alchemist working to restore alchemy to the continent of Lantarna.)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "（ランターナ大陸ではマナの枯渇によって、\u3000\n\u3000錬金術は１５０年前に廃れ、ほぼ忘れ去られていた）",
+        "localizations": {
+          "en": "(In Lantarna, alchemy fell into decline 150 years ago due to mana depletion, and was all but forgotten.)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "（それでも私は、人々に幸せをもたらす錬金術の\n\u3000復活を夢見て――）",
+        "localizations": {
+          "en": "(Even so, I dream of reviving alchemy to bring happiness to people—)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "（膨大なマナが眠るという人跡未踏の地、\n\u3000「果ての大陸」を目指してきた）",
+        "localizations": {
+          "en": "(That's why I set my sights on World's End, an unexplored land said to hold vast amounts of dormant mana.)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "（夢への第一歩として、私は仲間たちと一緒に\n\u3000大陸中を旅し、錬金術で問題を解決していった）",
+        "localizations": {
+          "en": "(As a first step toward that dream, I traveled across the continent with my companions, solving problems through alchemy.)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "（その実績を王国から評価され、晴れて「果ての大陸」\n\u3000を目指すための支援を受けられることとなった）",
+        "localizations": {
+          "en": "(The kingdom recognized our achievements and granted us support to pursue our journey to World's End.)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "（この船、バーバラ号は、その大きな支援の１つ。\n\u3000私たちは大陸を離れ、大海原へと旅立った）",
+        "localizations": {
+          "en": "(This ship, the Barbara, is one of their greatest contributions. We've left the continent behind and set sail for the open sea.)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "（私たちが目指すのは大陸の遥か北西……\n\u3000「無数島群域」と呼ばれる海域だ）",
+        "localizations": {
+          "en": "(Our destination lies far to the northwest... in the waters known as the Infinite Island Chain.)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "（不安で胸がいっぱいだけど……\n\u3000この１年、しっかり準備をしてきたんだ）",
+        "localizations": {
+          "en": "(Though my heart is full of uncertainty... we've spent this past year preparing thoroughly.)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "大丈夫……うん、大丈夫……",
+        "localizations": {
+          "en": "It'll be fine... yes, it'll be fine..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "安心して！",
+        "localizations": {
+          "en": "Don't worry!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "レスナちゃんもこの船も、\nこのアタシがばっちり守っちゃうから！",
+        "localizations": {
+          "en": "I'll protect both you and this ship, no problem!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "ふふっ、頼もしいね。騎士イザナ殿！",
+        "localizations": {
+          "en": "Hehe, you're so reliable, Lady Knight Izana!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "えへへ……",
+        "localizations": {
+          "en": "Ehehe..."
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "（彼女はイザナちゃん。騎士を目指す私の幼馴染……\n\u3000ううん。今はもう「目指していた」だね）",
+        "localizations": {
+          "en": "(This is Izana, my childhood friend who aspired to become a knight... or rather, who has already achieved that dream.)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "（この１年の間に、イザナちゃんは騎士の選抜試験に\n\u3000見事合格！\u3000正式に騎士となった）",
+        "localizations": {
+          "en": "(During this past year, Izana passed the knight selection trials with flying colors and officially became a knight!)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "（国王陛下の計らいもあり、今は錬金術士である私の\n\u3000護衛役として、果ての大陸への旅路に同行している）",
+        "localizations": {
+          "en": "(Thanks to His Majesty's arrangements, she now accompanies me as my guardian on this journey to World's End.)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "（立場は少し変わったけれど、今まで通り\n\u3000頼もしくて、優しくて、かわいい私の騎士様だ）",
+        "localizations": {
+          "en": "(Though her position has changed a bit, she's still the same dependable, kind, and adorable knight I've always known.)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "（他にも、この旅には心強い仲間たちが\n\u3000ついてきてくれている）",
+        "localizations": {
+          "en": "(We have other reliable companions on this journey too.)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "（私と同じ錬金術士で、船や航海への造詣も深い\n\u3000トトリ先輩）",
+        "localizations": {
+          "en": "(Miss Totori, a fellow alchemist with extensive knowledge of ships and navigation.)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "（それから、トトリ先輩のお友達で、\n\u3000腕利きの冒険者であるミミさん）",
+        "localizations": {
+          "en": "(And Miss Mimi, Miss Totori's friend and a skilled adventurer.)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "（それ以外にもたくさん。これまでの旅を共にした\n\u3000仲間たちや、王国騎士の皆さんも）",
+        "localizations": {
+          "en": "(There are many others too—companions from our previous travels and members of the Royal Knights.)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "（この船の船長を務めているのも、\n\u3000王国から派遣された人だ）",
+        "localizations": {
+          "en": "(Even our captain was appointed by the kingdom.)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "（それから、あっちの船には――）",
+        "localizations": {
+          "en": "(And on that other ship—)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "わわっ！",
+        "localizations": {
+          "en": "Whoa!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "ちょっと！\u3000進路を変える前に言いなさいよね！",
+        "localizations": {
+          "en": "Hey! At least warn us before changing course!"
+        }
+      },
+      "2072370017": {
+        "text": "ミミ",
+        "localizations": {
+          "en": "Mimi"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "あっちの船に合わせただけよ。\n文句は向こうの船長……ランツェに言って",
+        "localizations": {
+          "en": "Just matching course with the other ship. Take your complaints to their captain... to Lanze."
+        }
+      },
+      "2072370017": {
+        "text": "船長",
+        "localizations": {
+          "en": "Captain"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "ランツェさん、船のことになると\n強引なところあるからなあ……",
+        "localizations": {
+          "en": "Lanze can be a bit forceful when it comes to sailing..."
+        }
+      },
+      "2072370017": {
+        "text": "トトリ",
+        "localizations": {
+          "en": "Totori"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "腕は確かなのだけれどね。\nリヒャルト殿下が見込んだだけのことはあるわ",
+        "localizations": {
+          "en": "Though he certainly knows his stuff. Prince Richard's faith in him wasn't misplaced."
+        }
+      },
+      "2072370017": {
+        "text": "船長",
+        "localizations": {
+          "en": "Captain"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "船長さんこそ、ランターナ王国内でも一二を争う\n操船技術の持ち主だ、って聞きましたよ",
+        "localizations": {
+          "en": "I heard you're one of the top helmsmen in all of Lantarna yourself, Captain."
+        }
+      },
+      "2072370017": {
+        "text": "トトリ",
+        "localizations": {
+          "en": "Totori"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "まあ、期待に応えられるよう頑張るわよ",
+        "localizations": {
+          "en": "Well, I'll do my best to live up to those expectations."
+        }
+      },
+      "2072370017": {
+        "text": "船長",
+        "localizations": {
+          "en": "Captain"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "（たくさんの頼もしい仲間たちと共に――）",
+        "localizations": {
+          "en": "(Together with all these wonderful companions—)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "果てなき海の先へ――いざ、参らん！",
+        "localizations": {
+          "en": "Beyond the endless sea—here we go!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 43,
+    "properties": {
+      "999008199": {
+        "text": "「果ての大陸」を目指す腕利きの錬金術士。\n錬金術を愛し、その素晴らしさを広めたいと思っている",
+        "localizations": {
+          "en": "A skilled alchemist heading for World's End. She loves alchemy and wishes to spread its wonders to others."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ・シュテルネンリヒト",
+        "localizations": {
+          "en": "Resna Sternenlicht"
+        }
+      }
+    }
+  },
+  {
+    "id": 44,
+    "properties": {
+      "999008199": {
+        "text": "レスナの幼馴染。王国騎士団に所属する獣人の少女。\n鍛冶屋の娘で、両手に持ったハンマーを武器に戦う",
+        "localizations": {
+          "en": "Resna's childhood friend. A young beastperson serving in the Royal Knights. The daughter of a blacksmith, she fights with dual hammers."
+        }
+      },
+      "2072370017": {
+        "text": "イザナ・ココシュカ",
+        "localizations": {
+          "en": "Izana Kokoschka"
+        }
+      }
+    }
+  },
+  {
+    "id": 45,
+    "properties": {
+      "999008199": {
+        "text": "異邦人の冒険者。\n親友のトトリに頼まれ、この旅に同行した",
+        "localizations": {
+          "en": "A wanderer and adventurer. She joined this journey at her dear friend Totori's request."
+        }
+      },
+      "2072370017": {
+        "text": "ミミ・ウリエ・フォン・シュヴァルツラング",
+        "localizations": {
+          "en": "Mimi Houllier von Schwarzlang"
+        }
+      }
+    }
+  },
+  {
+    "id": 46,
+    "properties": {
+      "999008199": {
+        "text": "通称「トトリ」。錬金術士であり、ミミの親友。\n航海の心得があり、船長の補佐役として乗船している",
+        "localizations": {
+          "en": "Known as \"Totori.\" An alchemist and Mimi's closest friend. Her knowledge of sailing makes her a valuable assistant to the captain."
+        }
+      },
+      "2072370017": {
+        "text": "トトゥーリア・ヘルモルト",
+        "localizations": {
+          "en": "Totooria Helmold"
+        }
+      }
+    }
+  }
+]

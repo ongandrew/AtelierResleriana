@@ -1,0 +1,1092 @@
+[
+  {
+    "id": 510087,
+    "description": "After a party member uses an item, grants Force Stun until end of action (Max 3 activations).\nNote: Only activates once even if multiple items are used simultaneously.",
+    "name": "Let's Begin the Release!"
+  },
+  {
+    "id": 510088,
+    "description": "Forces target into Stunned state.",
+    "name": "Let's Begin the Release!"
+  },
+  {
+    "id": 510089,
+    "description": "When breaking with a skill, boosts M.ATK by {value}%. (MAX 100%)",
+    "name": "Fortune-Bringing Strike"
+  },
+  {
+    "id": 510090,
+    "description": "When breaking with a skill, boosts skill damage by {value}%. (MAX 200%)",
+    "name": "Fortune-Bringing Strike"
+  },
+  {
+    "id": 510091,
+    "description": "While HP is 50% or higher, boosts critical damage by {value}%.",
+    "name": "Victory Favors the Prepared"
+  },
+  {
+    "id": 510092,
+    "description": "While HP is 70% or higher, boosts skill damage by {value}%.",
+    "name": "Victory Favors the Prepared"
+  },
+  {
+    "id": 510093,
+    "description": "Boosts skill damage by 0-90% based on number of positive effects (increases with 1-20 effects).\nNote: Does not count effects with no turn limit applied at battle start.",
+    "name": "Friends' Support Becomes Power!"
+  },
+  {
+    "id": 510094,
+    "description": "When target has Entangling Ribbon, boosts skill damage by {value}%.",
+    "name": "Time for Some Mischief!"
+  },
+  {
+    "id": 510095,
+    "description": "Boosts skill damage by 0-10% based on number of positive effects (increases with 0-1 effects).\nNote: Does not count effects with no turn limit applied at battle start.",
+    "name": "Friends' Support Becomes Power!"
+  },
+  {
+    "id": 510096,
+    "description": "When stunning with a skill, boosts burst skill damage by {value}%. (MAX 100%)",
+    "name": "Extraordinary Breakthrough Power"
+  },
+  {
+    "id": 510098,
+    "description": "When stunning with a skill, boosts critical damage by {value}%. (MAX 100%)",
+    "name": "Extraordinary Breakthrough Power"
+  },
+  {
+    "id": 510099,
+    "description": "After a party member uses a battle item, reduces damage received by all allies by {value}% (fixed) for 1 attack (Max 2 activations).\nNote: Only activates once even if multiple items are used simultaneously.",
+    "name": "Theorist's Wisdom"
+  },
+  {
+    "id": 510100,
+    "description": "Reduces damage received by {value}% (fixed).",
+    "name": "Received Damage Down"
+  },
+  {
+    "id": 510101,
+    "description": "Boosts critical rate by {value}% based on Blade Chain level.",
+    "name": "CRIT Rate Up Based on Blade Chain Lv"
+  },
+  {
+    "id": 510102,
+    "description": "Lv3 or higher: Boosts critical damage by {value}%.",
+    "name": "CRIT Damage Up at Blade Chain Lv3+"
+  },
+  {
+    "id": 510103,
+    "description": "Lv5 or higher: Boosts critical damage by {value}%.",
+    "name": "CRIT Damage Up at Blade Chain Lv5+"
+  },
+  {
+    "id": 510104,
+    "description": "Lv10 or higher: Boosts critical damage by {value}%.",
+    "name": "CRIT Damage Up at Blade Chain Lv10+"
+  },
+  {
+    "id": 510105,
+    "description": "Boosts critical rate by {value}%.",
+    "name": "Critical Rate Up"
+  },
+  {
+    "id": 510106,
+    "description": "Boosts critical damage by {value}%.",
+    "name": "Critical Damage Up"
+  },
+  {
+    "id": 510107,
+    "description": "Boosts skill damage by {value}%. (MAX 200%)",
+    "name": "Let Me Show You What I've Learned!"
+  },
+  {
+    "id": 510108,
+    "description": "Boosts critical damage by {value}%. (MAX 250%)",
+    "name": "I'll Help Your Dreams Come True!"
+  },
+  {
+    "id": 510109,
+    "description": "Boosts skill power by {value}%. (MAX 5)",
+    "name": "Adventures Make Me Grow!"
+  },
+  {
+    "id": 560078,
+    "description": "Boosts damage against stunned enemies by {value}%.",
+    "name": "Dealt Damage Up Against Stunned"
+  },
+  {
+    "id": 610168,
+    "description": "Boosts stun damage by {value}%. (MAX 40%)",
+    "name": "Stun Damage Up"
+  },
+  {
+    "id": 610169,
+    "description": "Boosts damage received from Bolt attacks by {value}%. (MAX 150%)",
+    "name": "Received Damage: Bolt Up"
+  },
+  {
+    "id": 610170,
+    "description": "Boosts positive effect potency received from strengthened panels by {value}%. (Non-stackable)",
+    "name": "Strengthened Panel Effect Potency Up"
+  },
+  {
+    "id": 610171,
+    "description": "Boosts speed by {value}%. (MAX 20%)",
+    "name": "Speed Up"
+  },
+  {
+    "id": 610172,
+    "description": "Boosts positive effect potency received from battle items by {value}%.",
+    "name": "Fortune Beckons"
+  },
+  {
+    "id": 610173,
+    "description": "Boosts critical damage received by {value}%. (MAX 60%)",
+    "name": "Received Critical Damage Up"
+  },
+  {
+    "id": 610174,
+    "description": "Boosts skill damage by {value}%. (MAX 40%)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 610175,
+    "description": "Boosts positive effect potency received from strengthened panels by {value}%. (Non-stackable)",
+    "name": "Strengthened Panel Effect Potency Up"
+  },
+  {
+    "id": 610176,
+    "description": "Boosts critical damage by {value}%. (MAX 150%)",
+    "name": "Critical Damage Up"
+  },
+  {
+    "id": 610177,
+    "description": "Boosts damage received from Ice attacks by {value}%. (MAX 50%)",
+    "name": "Ice Resistance Down"
+  },
+  {
+    "id": 610178,
+    "description": "Boosts damage received from Ice attacks by {value}%. (MAX 50%)",
+    "name": "Received Damage: Ice Up"
+  },
+  {
+    "id": 610179,
+    "description": "Boosts critical rate by {value}%. (MAX 100%)",
+    "name": "Critical Rate Up"
+  },
+  {
+    "id": 610180,
+    "description": "Boosts critical damage by {value}%. (MAX 150%)",
+    "name": "Critical Damage Up"
+  },
+  {
+    "id": 610181,
+    "description": "Boosts M.ATK by {value}%. (MAX 60%)",
+    "name": "M.ATK Up"
+  },
+  {
+    "id": 610182,
+    "description": "Boosts magical skill damage received by {value}%. (MAX 40%)",
+    "name": "Binding Ribbon"
+  },
+  {
+    "id": 610183,
+    "description": "Boosts skill damage by {value}%. (MAX 100%)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 610184,
+    "description": "Boosts M.ATK by {value}%. (MAX 30%)",
+    "name": "M.ATK Up"
+  },
+  {
+    "id": 610185,
+    "description": "Reduces damage received from magical attacks by {value}%. (MAX 21%)",
+    "name": "Magical Received Damage Down"
+  },
+  {
+    "id": 610186,
+    "description": "Reduces damage received from physical attacks by {value}%. (MAX 21%)",
+    "name": "Physical Received Damage Down"
+  },
+  {
+    "id": 610187,
+    "description": "Boosts max HP by {value}%. (MAX 30%)",
+    "name": "Max HP Up"
+  },
+  {
+    "id": 610188,
+    "description": "Nullifies damage that is below 30% of max HP.",
+    "name": "Damage Nullification"
+  },
+  {
+    "id": 610189,
+    "description": "Nullifies damage that is below 50% of max HP.",
+    "name": "Damage Nullification"
+  },
+  {
+    "id": 610190,
+    "description": "Boosts P.ATK by {value}%. (MAX 100%)",
+    "name": "P.ATK Up"
+  },
+  {
+    "id": 610191,
+    "description": "Boosts critical damage by {value}%. (MAX 50%)",
+    "name": "Critical Damage Up"
+  },
+  {
+    "id": 610192,
+    "description": "Boosts P.ATK by {value}%. (MAX 100%)",
+    "name": "P.ATK Up"
+  },
+  {
+    "id": 610193,
+    "description": "Boosts P.ATK by {value}%. (MAX 120%)",
+    "name": "P.ATK Up"
+  },
+  {
+    "id": 610194,
+    "description": "Boosts M.DEF by {value}%. (MAX 20%)",
+    "name": "M.DEF Up"
+  },
+  {
+    "id": 610195,
+    "description": "Boosts P.DEF by {value}%. (MAX 60%)",
+    "name": "P.DEF Up"
+  },
+  {
+    "id": 610196,
+    "description": "Boosts M.DEF by {value}%. (MAX 60%)",
+    "name": "M.DEF Up"
+  },
+  {
+    "id": 610197,
+    "description": "Reduces damage received by {value}%. (MAX 2 stacks)",
+    "name": "Received Damage Down"
+  },
+  {
+    "id": 610198,
+    "description": "Boosts critical damage received by {value}%.",
+    "name": "Received Critical Damage Up"
+  },
+  {
+    "id": 610199,
+    "description": "Boosts P.ATK by {value}%. (MAX 40%)",
+    "name": "P.ATK Up"
+  },
+  {
+    "id": 610200,
+    "description": "Boosts P.ATK by {value}%. (MAX 30%)",
+    "name": "P.ATK Up"
+  },
+  {
+    "id": 610201,
+    "description": "Boosts P.ATK by {value}%. (MAX 120%)",
+    "name": "P.ATK Up"
+  },
+  {
+    "id": 610203,
+    "description": "Gain bonus based on Blade Training Level in \"Wings of Fighting Spirit\".",
+    "name": "Blade Training"
+  },
+  {
+    "id": 610204,
+    "description": "Boosts P.ATK by {value}%. (MAX 30%)",
+    "name": "P.ATK Up"
+  },
+  {
+    "id": 610205,
+    "description": "Boosts skill power by {value}%. (MAX 100%)",
+    "name": "Skill Power Up"
+  },
+  {
+    "id": 610206,
+    "description": "Boosts HP recovery given by {value}%. (MAX 100%)",
+    "name": "Given Recovery Up"
+  },
+  {
+    "id": 610207,
+    "description": "Boosts penetration of received attacks by {value}.",
+    "name": "Received Attack Penetration Up"
+  },
+  {
+    "id": 610208,
+    "description": "Boosts stun damage by {value}%. (MAX 40%)",
+    "name": "Stun Damage Up"
+  },
+  {
+    "id": 610209,
+    "description": "Boosts damage received from Fire attacks by {value}%. (MAX 100%)",
+    "name": "Received Damage: Fire Up"
+  },
+  {
+    "id": 610210,
+    "description": "Boosts magical skill damage received by {value}%.",
+    "name": "Magical Damage Received Up"
+  },
+  {
+    "id": 610211,
+    "description": "Boosts burst skill damage by {value}%. (MAX 200%)",
+    "name": "Burst Damage Up"
+  },
+  {
+    "id": 610212,
+    "description": "Boosts M.ATK by {value}%. (MAX 100%)",
+    "name": "M.ATK Up"
+  },
+  {
+    "id": 610213,
+    "description": "Boosts skill damage by {value}%. (MAX 300%)",
+    "name": "Damage Dealt Up"
+  },
+  {
+    "id": 610214,
+    "description": "Boosts critical rate by {value}%. (MAX 150%)",
+    "name": "Critical Rate Up"
+  },
+  {
+    "id": 610215,
+    "description": "Reduces damage received by {value}%. (MAX 2 stacks)",
+    "name": "Received Damage Down"
+  },
+  {
+    "id": 610216,
+    "description": "Boosts critical damage received by {value}%. (MAX 2 stacks)",
+    "name": "Critical Damage Received Up"
+  },
+  {
+    "id": 610219,
+    "description": "Boosts M.ATK by {value}%. (MAX 30%)",
+    "name": "M.ATK Up"
+  },
+  {
+    "id": 610222,
+    "description": "Boosts damage received from Fire attacks by {value}%. (MAX 50%)",
+    "name": "Fire Resistance Down"
+  },
+  {
+    "id": 710027,
+    "description": "Boosts M.ATK by {value}%.",
+    "name": "M.ATK Up"
+  },
+  {
+    "id": 710028,
+    "description": "Boosts max HP by {value}%.",
+    "name": "Max HP Up"
+  },
+  {
+    "id": 710029,
+    "description": "Boosts critical rate by {value}%. (MAX 100%)",
+    "name": "Critical Rate Up"
+  },
+  {
+    "id": 710030,
+    "description": "When counter-attacking, boosts damage dealt by {value}%.",
+    "name": "Damage Dealt Up (Conditional)"
+  },
+  {
+    "id": 710031,
+    "description": "{value}% chance to evade. (MAX 30%)",
+    "name": "Evade"
+  },
+  {
+    "id": 720018,
+    "description": "Reduces negative effect potency given by {value}%.",
+    "name": "Given Negative Effect Potency Down"
+  },
+  {
+    "id": 720019,
+    "description": "When gaining a Weaken Panel, increases duration of own Damage Dealt Down by {value}.",
+    "name": "Conditional Negative Effect Duration Up"
+  },
+  {
+    "id": 720020,
+    "description": "Reduces item gauge recovery speed after action by {value}%.",
+    "name": "Item Gauge Recovery Down"
+  },
+  {
+    "id": 800107,
+    "description": "After using a skill, recovers {value}% of own HP. (MAX 3 stacks)",
+    "name": "HP Recovery After Skill"
+  },
+  {
+    "id": 800108,
+    "description": "After using a skill, recovers {value}% of own HP. (MAX 3 stacks)",
+    "name": "HP Recovery After Skill"
+  },
+  {
+    "id": 800109,
+    "description": "Boosts damage received by {value}%.",
+    "name": "Received Damage Up"
+  },
+  {
+    "id": 800110,
+    "description": "Boosts magical damage received by {value}%.",
+    "name": "Received M. Damage Up"
+  },
+  {
+    "id": 800111,
+    "description": "Boosts burst skill damage by {value}%. (Non-stackable)",
+    "name": "Burst Damage Up"
+  },
+  {
+    "id": 800112,
+    "description": "Boosts burst skill damage by {value}%. (Non-stackable)",
+    "name": "Burst Damage Up"
+  },
+  {
+    "id": 800113,
+    "description": "When attacking WEAK point, boosts skill damage by {value}%. (Non-stackable)",
+    "name": "WEAK Attack Damage Up"
+  },
+  {
+    "id": 800114,
+    "description": "When attacking WEAK point, boosts skill damage by {value}%. (Non-stackable)",
+    "name": "WEAK Attack Damage Up"
+  },
+  {
+    "id": 800115,
+    "description": "Boosts stun damage by {value}%. (MAX 30%)",
+    "name": "Stun Damage Up"
+  },
+  {
+    "id": 800116,
+    "description": "Boosts stun damage by {value}%. (MAX 25%)",
+    "name": "Stun Damage Up"
+  },
+  {
+    "id": 800117,
+    "description": "Boosts Fire damage received by {value}%.",
+    "name": "Received Damage: Fire Up"
+  },
+  {
+    "id": 800118,
+    "description": "Boosts Ice damage received by {value}%.",
+    "name": "Received Damage: Ice Up"
+  },
+  {
+    "id": 800119,
+    "description": "Boosts Bolt damage received by {value}%.",
+    "name": "Received Damage: Bolt Up"
+  },
+  {
+    "id": 800120,
+    "description": "Boosts Air damage received by {value}%.",
+    "name": "Received Damage: Air Up"
+  },
+  {
+    "id": 800121,
+    "description": "Boosts Slash damage received by {value}%.",
+    "name": "Received Damage: Slash Up"
+  },
+  {
+    "id": 800122,
+    "description": "Boosts Strike damage received by {value}%.",
+    "name": "Received Damage: Strike Up"
+  },
+  {
+    "id": 800123,
+    "description": "Boosts Stab damage received by {value}%.",
+    "name": "Received Damage: Stab Up"
+  },
+  {
+    "id": 800124,
+    "description": "Boosts physical attack damage by {value}%. (MAX 16%)",
+    "name": "Physical Attack Damage Up"
+  },
+  {
+    "id": 800125,
+    "description": "Boosts physical attack damage by {value}%. (MAX 12%)",
+    "name": "Physical Attack Damage Up"
+  },
+  {
+    "id": 800126,
+    "description": "Boosts skill damage by {value}%. (MAX 40%)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 800127,
+    "description": "Boosts skill damage by {value}%. (MAX 30%)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 810032,
+    "description": "Counters attacks when hit by non-weakness attacks.",
+    "name": "Counter Status (Cond.)"
+  },
+  {
+    "id": 810066,
+    "description": "Increases damage received by {value}%.",
+    "name": "Received Damage Up"
+  },
+  {
+    "id": 810067,
+    "description": "Increases damage received by {value}%.",
+    "name": "Received Damage Up"
+  },
+  {
+    "id": 810068,
+    "description": "Nullifies All Element Resistance Down effects.",
+    "name": "Block All Element Resistance Down"
+  },
+  {
+    "id": 810069,
+    "description": "Reduces damage received by {value}%.",
+    "name": "Received Damage Down"
+  },
+  {
+    "id": 810070,
+    "description": "Reduces damage received by {value}%.",
+    "name": "Received Damage Down"
+  },
+  {
+    "id": 810071,
+    "description": "Reduces damage received by {value}%.",
+    "name": "Received Damage Down"
+  },
+  {
+    "id": 810076,
+    "description": "Boosts damage dealt by {value}%.",
+    "name": "Dealt Damage Up (Cond.)"
+  },
+  {
+    "id": 810080,
+    "description": "Boosts critical rate by {value}%. (MAX 100%)",
+    "name": "Critical Rate Up (MAX 100%)"
+  },
+  {
+    "id": 810082,
+    "description": "Boosts SPD by {value}%. (MAX 100%)",
+    "name": "SPD Up"
+  },
+  {
+    "id": 810085,
+    "description": "Boosts damage dealt by 10%.",
+    "name": "Ally Call 10 Count"
+  },
+  {
+    "id": 810086,
+    "description": "Boosts damage dealt by 10%.",
+    "name": "Cannot Be Attacked"
+  },
+  {
+    "id": 810087,
+    "description": "Boosts all element resistance by {value}%.",
+    "name": "All Element Resistance Up"
+  },
+  {
+    "id": 810088,
+    "description": "Reduces damage received by {value}%.",
+    "name": "Received Damage Down"
+  },
+  {
+    "id": 810089,
+    "description": "Reduces stun damage received by {value}%.",
+    "name": "Received Stun Damage Down"
+  },
+  {
+    "id": 810095,
+    "description": "Boosts damage dealt by {value}%.",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 810096,
+    "description": "Boosts damage dealt by 10%.",
+    "name": "3 Turn Count"
+  },
+  {
+    "id": 810099,
+    "description": "Reduces damage received by {value}% when not stunned.",
+    "name": "Received Damage Down (Cond.)"
+  },
+  {
+    "id": 810100,
+    "description": "Boosts damage dealt by {value}%. (MAX 999%) Cannot be removed.",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 820106,
+    "description": "Reduces status effect resistance by {value}%.",
+    "name": "Status Effect Resistance Down"
+  },
+  {
+    "id": 820342,
+    "description": "Reduces skill damage by {value}%. (MAX 30%)",
+    "name": "Dealt Damage Down (With Limit)"
+  },
+  {
+    "id": 820343,
+    "description": "Increases damage received by {value}%. (MAX 50%)",
+    "name": "Damage Received Up (With Limit)"
+  },
+  {
+    "id": 820344,
+    "description": "Increases damage received by {value}%. (MAX 100%)",
+    "name": "Damage Received Up (MAX 100%)"
+  },
+  {
+    "id": 840001,
+    "description": "Becomes unable to act at the start of turn.",
+    "name": "Stun"
+  },
+  {
+    "id": 910132,
+    "description": "{value}% chance to evade. (Not affected by effect potency modifiers)",
+    "name": "Evasion"
+  },
+  {
+    "id": 910134,
+    "description": "Increases damage received by {value}%. (MAX 4 stacks)",
+    "name": "Damage Received Up"
+  },
+  {
+    "id": 910135,
+    "description": "Boosts M.ATK by {value}%. (MAX 50%)",
+    "name": "M.ATK Up"
+  },
+  {
+    "id": 910136,
+    "description": "Boosts skill power by {value}%.",
+    "name": "Skill Power Up"
+  },
+  {
+    "id": 910143,
+    "description": "Increases magical damage received by {value}%. (MAX 4 stacks)",
+    "name": "Magical Damage Received Up"
+  },
+  {
+    "id": 910144,
+    "description": "Increases positive effect potency from battle items by {value}%.",
+    "name": "Battle Item Effect Potency Up"
+  },
+  {
+    "id": 910146,
+    "description": "Reduces damage received by {value}%. (Cannot be stacked) (Not affected by effect potency modifiers)",
+    "name": "Damage Received Down"
+  },
+  {
+    "id": 910152,
+    "description": "Reduces damage received from area attacks by {value}%. (Not affected by effect potency modifiers)",
+    "name": "Area Attack Damage Received Down"
+  },
+  {
+    "id": 910153,
+    "description": "Boosts battle item damage by {value}%.",
+    "name": "Battle Item Damage Up"
+  },
+  {
+    "id": 1210313,
+    "description": "When defeating an enemy with a skill, increases Nullify Damage duration by {value} for all allies who have Nullify Damage. Cannot be removed.",
+    "name": "Conditional: Increase Nullify Damage Duration"
+  },
+  {
+    "id": 1210326,
+    "description": "After turn, increases item gauge recovery by 100% for characters with Bolt affinity. Cannot be removed.",
+    "name": "Conditional: Item Gauge Recovery Up (Bolt)"
+  },
+  {
+    "id": 1210327,
+    "description": "Applies wet effect to character.",
+    "name": "Wet Effect"
+  },
+  {
+    "id": 1210328,
+    "description": "Reduces HP damage received to 0.",
+    "name": "Nullify Damage"
+  },
+  {
+    "id": 1210329,
+    "description": "When defeating an enemy with a skill, grants Nullify Damage (1 time) to all allies who don't have Nullify Damage. Cannot be removed.",
+    "name": "Conditional: Nullify Damage"
+  },
+  {
+    "id": 1210330,
+    "description": "When using a Fire battle item, grants target +{value}% damage from battle items (MAX 999%). Cannot be removed.",
+    "name": "Fire: Damage Up (Cond.)"
+  },
+  {
+    "id": 1210332,
+    "description": "When using an Ice battle item, grants target +{value}% damage from battle items (MAX 999%). Cannot be removed.",
+    "name": "Ice: Damage Up (Cond.)"
+  },
+  {
+    "id": 1210333,
+    "description": "When using a Bolt battle item, grants target +{value}% damage from battle items (MAX 999%). Cannot be removed.",
+    "name": "Bolt: Damage Up (Cond.)"
+  },
+  {
+    "id": 1210334,
+    "description": "When using an Air battle item, grants target +{value}% damage from battle items (MAX 999%). Cannot be removed.",
+    "name": "Air: Damage Up (Cond.)"
+  },
+  {
+    "id": 1210335,
+    "description": "When using a Slash battle item, grants target +{value}% damage from battle items (MAX 999%). Cannot be removed.",
+    "name": "Slash: Damage Up (Cond.)"
+  },
+  {
+    "id": 1210336,
+    "description": "When using a Strike battle item, grants target +{value}% damage from battle items (MAX 999%). Cannot be removed.",
+    "name": "Strike: Damage Up (Cond.)"
+  },
+  {
+    "id": 1210337,
+    "description": "When using a Stab battle item, grants target +{value}% damage from battle items (MAX 999%). Cannot be removed.",
+    "name": "Stab: Damage Up (Cond.)"
+  },
+  {
+    "id": 1210338,
+    "description": "When affinity is Fire, boosts item gauge recovery after action by 100%. Cannot be removed.",
+    "name": "Fire: Item Gauge Recovery Up (Cond.)"
+  },
+  {
+    "id": 1210339,
+    "description": "When affinity is Ice, boosts item gauge recovery after action by 100%. Cannot be removed.",
+    "name": "Ice: Item Gauge Recovery Up (Cond.)"
+  },
+  {
+    "id": 1210341,
+    "description": "When affinity is Air, boosts item gauge recovery after action by 100%. Cannot be removed.",
+    "name": "Air: Item Gauge Recovery Up (Cond.)"
+  },
+  {
+    "id": 1210342,
+    "description": "When affinity is Slash, boosts item gauge recovery after action by 100%. Cannot be removed.",
+    "name": "Slash: Item Gauge Recovery Up (Cond.)"
+  },
+  {
+    "id": 1210343,
+    "description": "When affinity is Strike, boosts item gauge recovery after action by 100%. Cannot be removed.",
+    "name": "Strike: Item Gauge Recovery Up (Cond.)"
+  },
+  {
+    "id": 1210344,
+    "description": "When affinity is Stab, boosts item gauge recovery after action by 100%. Cannot be removed.",
+    "name": "Stab: Item Gauge Recovery Up (Cond.)"
+  },
+  {
+    "id": 1210345,
+    "description": "When affinity is Fire, boosts stun damage dealt by {value}%. Cannot be removed.",
+    "name": "Fire: Stun Damage Up (Cond.)"
+  },
+  {
+    "id": 1210346,
+    "description": "When affinity is Ice, boosts stun damage dealt by {value}%. Cannot be removed.",
+    "name": "Ice: Stun Damage Up (Cond.)"
+  },
+  {
+    "id": 1210347,
+    "description": "When affinity is Bolt, boosts stun damage dealt by {value}%. Cannot be removed.",
+    "name": "Bolt: Stun Damage Up (Cond.)"
+  },
+  {
+    "id": 1210348,
+    "description": "When affinity is Air, boosts stun damage dealt by {value}%. Cannot be removed.",
+    "name": "Air: Stun Damage Up (Cond.)"
+  },
+  {
+    "id": 1210349,
+    "description": "When affinity is Slash, boosts stun damage dealt by {value}%. Cannot be removed.",
+    "name": "Slash: Stun Damage Up (Cond.)"
+  },
+  {
+    "id": 1210350,
+    "description": "When affinity is Strike, boosts stun damage dealt by {value}%. Cannot be removed.",
+    "name": "Strike: Stun Damage Up (Cond.)"
+  },
+  {
+    "id": 1210351,
+    "description": "When affinity is Stab, boosts stun damage dealt by {value}%. Cannot be removed.",
+    "name": "Stab: Stun Damage Up (Cond.)"
+  },
+  {
+    "id": 1210352,
+    "description": "Boosts damage dealt by {value}% when afflicted with Poison. Cannot be removed.",
+    "name": "Poison: Dealt Damage Up (Cond.)"
+  },
+  {
+    "id": 1210353,
+    "description": "Boosts damage dealt by {value}% when afflicted with Burn. Cannot be removed.",
+    "name": "Burn: Dealt Damage Up (Cond.)"
+  },
+  {
+    "id": 1210354,
+    "description": "Boosts damage dealt by {value}% when afflicted with Paralysis. Cannot be removed.",
+    "name": "Paralysis: Dealt Damage Up (Cond.)"
+  },
+  {
+    "id": 1210355,
+    "description": "Boosts damage dealt by {value}% when afflicted with Darkness. Cannot be removed.",
+    "name": "Darkness: Dealt Damage Up (Cond.)"
+  },
+  {
+    "id": 1210356,
+    "description": "Boosts damage dealt by {value}% when Provoked. Cannot be removed.",
+    "name": "Provoke: Dealt Damage Up (Cond.)"
+  },
+  {
+    "id": 1210357,
+    "description": "Boosts damage dealt by {value}% when Frozen. Cannot be removed.",
+    "name": "Frozen: Dealt Damage Up (Cond.)"
+  },
+  {
+    "id": 1210358,
+    "description": "Boosts damage dealt by {value}% when Stunned. Cannot be removed.",
+    "name": "Stun: Dealt Damage Up (Cond.)"
+  },
+  {
+    "id": 1210359,
+    "description": "Boosts damage dealt by {value}% when afflicted with Sleep. Cannot be removed.",
+    "name": "Sleep: Dealt Damage Up (Cond.)"
+  },
+  {
+    "id": 1210360,
+    "description": "Boosts damage dealt by {value}% when afflicted with 5 or more negative effects. Cannot be removed.",
+    "name": "Negative Effects: Dealt Damage Up (Cond.)"
+  },
+  {
+    "id": 1210361,
+    "description": "Boosts damage dealt by {value}% when HP is 50% or lower. Cannot be removed.",
+    "name": "HP Below 50%: Dealt Damage Up (Cond.)"
+  },
+  {
+    "id": 1210362,
+    "description": "Boosts damage dealt by {value}% when target has a status effect. Cannot be removed.",
+    "name": "Status Effect: Dealt Damage Up (Cond.)"
+  },
+  {
+    "id": 1210363,
+    "description": "Reduces damage dealt by {value}% from sources other than battle items. Cannot be removed.",
+    "name": "Non-Item: Dealt Damage Down (Cond.)"
+  },
+  {
+    "id": 1210364,
+    "description": "Reduces damage dealt by {value}% to stunned enemies. Cannot be removed.",
+    "name": "Stunned Target: Dealt Damage Down (Cond.)"
+  },
+  {
+    "id": 1210365,
+    "description": "Boosts battle item damage by {value}%. (MAX 3000%) Cannot be removed.",
+    "name": "Item Damage Up"
+  },
+  {
+    "id": 1210366,
+    "description": "Boosts battle item recovery by {value}%. Cannot be removed.",
+    "name": "Item Recovery Up"
+  },
+  {
+    "id": 1210367,
+    "description": "Boosts item gauge recovery after action by 50%. Cannot be removed.",
+    "name": "Item Gauge Recovery Up"
+  },
+  {
+    "id": 1210368,
+    "description": "Boosts battle item critical rate by {value}%. (MAX 100%) Cannot be removed.",
+    "name": "Item Critical Rate Up"
+  },
+  {
+    "id": 1210369,
+    "description": "When using Stab battle items, grants all allies +{value}% battle item damage. Cannot be removed.",
+    "name": "Stab: Item Damage Up (Cond.)"
+  },
+  {
+    "id": 1210370,
+    "description": "When using Slash battle items, grants all allies +{value}% battle item damage. Cannot be removed.",
+    "name": "Slash: Item Damage Up (Cond.)"
+  },
+  {
+    "id": 1220035,
+    "description": "Reduces item gauge recovery after action by 100% when affinity is not Fire. Cannot be removed.",
+    "name": "Non-Fire: Item Gauge Recovery Down (Cond.)"
+  },
+  {
+    "id": 1220036,
+    "description": "When affinity is not Fire, reduces negative effect potency by {value}%. Cannot be removed.",
+    "name": "Non-Fire: Negative Effect Potency Down"
+  },
+  {
+    "id": 1220040,
+    "description": "Reduces damage dealt by {value}%.",
+    "name": "Damage Dealt Down"
+  },
+  {
+    "id": 1220041,
+    "description": "Reduces stun damage dealt by {value}%.",
+    "name": "Stun Damage Dealt Down"
+  },
+  {
+    "id": 1220042,
+    "description": "Increases damage received by {value}%.",
+    "name": "Received Damage Up"
+  },
+  {
+    "id": 1220044,
+    "description": "Increases damage received from battle items by {value}%. (MAX 999%)",
+    "name": "Item Received Damage Up"
+  },
+  {
+    "id": 1220046,
+    "description": "When affinity is not Ice, reduces item gauge recovery after actions by 100%. Cannot be removed.",
+    "name": "Non-Ice: Item Gauge Recovery Down"
+  },
+  {
+    "id": 1220047,
+    "description": "When affinity is not Bolt, reduces item gauge recovery after actions by 100%. Cannot be removed.",
+    "name": "Non-Bolt: Item Gauge Recovery Down"
+  },
+  {
+    "id": 1220048,
+    "description": "When affinity is not Air, reduces item gauge recovery after actions by 100%. Cannot be removed.",
+    "name": "Non-Air: Item Gauge Recovery Down"
+  },
+  {
+    "id": 1220049,
+    "description": "When affinity is not Slash, reduces item gauge recovery after actions by 100%. Cannot be removed.",
+    "name": "Non-Slash: Item Gauge Recovery Down"
+  },
+  {
+    "id": 1220050,
+    "description": "When affinity is not Strike, reduces item gauge recovery after actions by 100%. Cannot be removed.",
+    "name": "Non-Strike: Item Gauge Recovery Down"
+  },
+  {
+    "id": 1220051,
+    "description": "When affinity is not Stab, reduces item gauge recovery after actions by 100%. Cannot be removed.",
+    "name": "Non-Stab: Item Gauge Recovery Down"
+  },
+  {
+    "id": 1220053,
+    "description": "When affinity is not Ice, reduces negative effect potency by {value}%. Cannot be removed.",
+    "name": "Non-Ice: Negative Effect Potency Down"
+  },
+  {
+    "id": 1220054,
+    "description": "When affinity is not Bolt, reduces negative effect potency by {value}%. Cannot be removed.",
+    "name": "Non-Bolt: Negative Effect Potency Down"
+  },
+  {
+    "id": 1220055,
+    "description": "When affinity is not Air, reduces negative effect potency by {value}%. Cannot be removed.",
+    "name": "Non-Air: Negative Effect Potency Down"
+  },
+  {
+    "id": 1220056,
+    "description": "When affinity is not Slash, reduces negative effect potency by {value}%. Cannot be removed.",
+    "name": "Non-Slash: Negative Effect Potency Down"
+  },
+  {
+    "id": 1220057,
+    "description": "When affinity is not Strike, reduces negative effect potency by {value}%. Cannot be removed.",
+    "name": "Non-Strike: Negative Effect Potency Down"
+  },
+  {
+    "id": 1220058,
+    "description": "When affinity is not Stab, reduces negative effect potency by {value}%. Cannot be removed.",
+    "name": "Non-Stab: Negative Effect Potency Down"
+  },
+  {
+    "id": 1220059,
+    "description": "When affinity is not Fire, reduces positive effect potency by {value}%. Cannot be removed.",
+    "name": "Non-Fire: Positive Effect Potency Down"
+  },
+  {
+    "id": 1220060,
+    "description": "When affinity is not Ice, reduces positive effect potency by {value}%. Cannot be removed.",
+    "name": "Non-Ice: Positive Effect Potency Down"
+  },
+  {
+    "id": 1220061,
+    "description": "When affinity is not Bolt, reduces positive effect potency by {value}%. Cannot be removed.",
+    "name": "Non-Bolt: Positive Effect Potency Down"
+  },
+  {
+    "id": 1220062,
+    "description": "When affinity is not Air, reduces positive effect potency given by {value}%. Cannot be removed.",
+    "name": "Positive Effect Potency Down (Non-Air)"
+  },
+  {
+    "id": 1220063,
+    "description": "When affinity is not Slash, reduces positive effect potency given by {value}%. Cannot be removed.",
+    "name": "Positive Effect Potency Down (Non-Slash)"
+  },
+  {
+    "id": 1220064,
+    "description": "When affinity is not Strike, reduces positive effect potency given by {value}%. Cannot be removed.",
+    "name": "Positive Effect Potency Down (Non-Strike)"
+  },
+  {
+    "id": 1220065,
+    "description": "When affinity is not Stab, reduces positive effect potency given by {value}%. Cannot be removed.",
+    "name": "Positive Effect Potency Down (Non-Stab)"
+  },
+  {
+    "id": 1220341,
+    "description": "Reduces positive effect potency received by {value}%.",
+    "name": "Positive Effect Potency Down"
+  },
+  {
+    "id": 510110,
+    "description": "Boosts burst skill damage by {value}%. (MAX 200%)",
+    "name": "Pave the Way to Dreams!"
+  },
+  {
+    "id": 510114,
+    "description": "Boosts P.ATK by {value}%.",
+    "name": "Pave the Way to Dreams!"
+  },
+  {
+    "id": 610217,
+    "description": "Invisible buff used for trigger limit settings.",
+    "name": "Dummy Buff for Limit Settings"
+  },
+  {
+    "id": 610218,
+    "description": "Reduces damage received by {value}%. (MAX 2 stacks)",
+    "name": "Received Damage Down"
+  },
+  {
+    "id": 610220,
+    "description": "Boosts damage received from Slash attacks by {value}%. (MAX 50%)",
+    "name": "Slash Resistance Down"
+  },
+  {
+    "id": 610221,
+    "description": "Boosts skill damage by {value}%. (MAX 150%)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 610223,
+    "description": "Boosts P.DEF by {value}%. (MAX 30%)",
+    "name": "P.DEF Up"
+  },
+  {
+    "id": 610224,
+    "description": "Boosts M.DEF by {value}%. (MAX 30%)",
+    "name": "M.DEF Up"
+  },
+  {
+    "id": 610225,
+    "description": "Boosts stun damage by {value}%. (MAX 40%)",
+    "name": "Stun Damage Up"
+  },
+  {
+    "id": 800128,
+    "description": "Boosts critical damage by {value}%. (Cannot be stacked)",
+    "name": "Critical Damage Up"
+  },
+  {
+    "id": 800129,
+    "description": "Boosts stun damage by {value}%. (Cannot be stacked)",
+    "name": "Stun Damage Up"
+  },
+  {
+    "id": 820109,
+    "description": "Boosts critical damage received by {value}%.",
+    "name": "Received Critical Damage Up"
+  },
+  {
+    "id": 910154,
+    "description": "Boosts critical damage by {value}%. (MAX 2 stacks)",
+    "name": "Critical Damage Up"
+  }
+]

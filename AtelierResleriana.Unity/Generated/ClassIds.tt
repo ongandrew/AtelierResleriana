@@ -1,0 +1,37 @@
+﻿<#@ template debug="false" hostspecific="true" language="C#" #>
+<#@ assembly name="netstandard" #>
+<#@ assembly name="System.Core" #>
+<#@ assembly name="System.Memory" #>
+<#@ assembly name="System.Text.Json" #>
+<#@ import namespace="System.Linq" #>
+<#@ import namespace="System.Text" #>
+<#@ import namespace="System.Text.Json" #>
+<#@ import namespace="System.Collections.Generic" #>
+<#@ output extension=".cs" #>
+<#
+    // Read JSON file from disk
+    var jsonString = System.IO.File.ReadAllText(this.Host.ResolvePath("ClassIds.json"));
+    
+    var options = new JsonSerializerOptions
+    {
+        PropertyNameCaseInsensitive = true,
+        ReadCommentHandling = JsonCommentHandling.Skip
+    };
+    
+    var data = JsonSerializer.Deserialize<Dictionary<int, string>>(jsonString, options);
+#>
+namespace AtelierResleriana.Unity 
+{
+    public static partial class ClassIds 
+    {
+<#
+    foreach (var item in data)
+    {
+#>
+        /// <#= item.Key #>
+        public const int <#= item.Value #> = <#= item.Key #>;
+<#
+    }
+#>
+    }
+}

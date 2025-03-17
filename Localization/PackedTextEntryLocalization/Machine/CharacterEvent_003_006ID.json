@@ -1,0 +1,750 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "それじゃあ姉様。私とヤンネ姉様は\n聖戦士の仕事に行ってくるわ",
+        "localizations": {
+          "en": "Well then, Alvina, Big Sis and I are heading out for our Sacred Knight duties."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "アルビちゃんも案内人のお仕事、頑張ってね",
+        "localizations": {
+          "en": "Good luck with your Guide work today, Alvie!"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "ちょ、ちょっと待った！",
+        "localizations": {
+          "en": "W-wait a second!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "二人とも、今日は草原地帯の見回りでしょ？\nアタシもついていっていい？",
+        "localizations": {
+          "en": "You two are patrolling the grasslands today, right? Can I come along?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "案内人の仕事までまだ時間あるし、\n調合用の素材を採取したいの。お願い！",
+        "localizations": {
+          "en": "I've got time before my Guide duties start, and I want to gather some materials for synthesis. Please!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "アルビちゃん。案内人としてのお仕事をしっかりと\nした上でやる分には、口を出さないと言ったけれど",
+        "localizations": {
+          "en": "Alvie, I said I wouldn't interfere as long as you properly fulfill your duties as a Star Guide..."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "このあとお仕事があるなら、それに向けた準備をして、\n星の案内人としての天命を果たさなきゃダメよ",
+        "localizations": {
+          "en": "But if you have work later, you need to prepare for it and fulfill your divine calling as a Star Guide."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "まぁ、それもそうなんだけど、よく考えてみて",
+        "localizations": {
+          "en": "Well yes, but think about it..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "なあに？",
+        "localizations": {
+          "en": "What is it?"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "アタシの天命は、星の案内人として観光客に寄り添い、\nこの国の素晴らしさを伝えること",
+        "localizations": {
+          "en": "My divine calling is to guide tourists and share the wonders of our country as a Star Guide."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "ええ、そうね",
+        "localizations": {
+          "en": "Yes, that's right."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "だからこそ、アタシはこの国のどこでどんな素材が\n採取できるのか、知っておく必要がある！",
+        "localizations": {
+          "en": "That's exactly why I need to know what materials can be gathered where in this country!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "いつか来るかもしれない、錬金術士の観光客のために！",
+        "localizations": {
+          "en": "For any alchemist tourists who might visit someday!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "なんて意識の高さ……さすが姉様",
+        "localizations": {
+          "en": "Such dedication..."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "確かに、アルビちゃんの言う通りかもしれないわ",
+        "localizations": {
+          "en": "You might have a point there, Alvie."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "じゃあ二つ約束できる？\n自分のお仕事に遅れないこと。勝手な行動をしないこと",
+        "localizations": {
+          "en": "Then can you promise me two things? Don't be late for work, and don't act on your own."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "できるできる！",
+        "localizations": {
+          "en": "I can do that!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "姉様のことは私が守るわ。任せて",
+        "localizations": {
+          "en": "I'll protect her. You can count on me."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "ヤンネ姉様。ここは何も問題なさそうだわ",
+        "localizations": {
+          "en": "Big Sis, everything seems clear here."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "あ。アタシ、ちょっと向こうで採取をしてもいい？\nそこにある薬草が欲しかったんだよね～",
+        "localizations": {
+          "en": "Oh! Can I gather materials over there? I really want those herbs..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "待ってアルビちゃん。そっちはこの間\n魔物の目撃情報があったから、私が先に行くわ",
+        "localizations": {
+          "en": "Wait, Alvie! There were monster sightings in that area recently. Let me scout it out first."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "大丈夫！\u3000パッと見、魔物も人もいないし、\nちょっと採取してすぐ戻って来るから！",
+        "localizations": {
+          "en": "It's fine! I don't see any monsters or people around. I'll just grab some materials and be right back!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "アルビちゃん、止まって！",
+        "localizations": {
+          "en": "Watch out!"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "うわあっ！",
+        "localizations": {
+          "en": "Eek!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "はぁっ！",
+        "localizations": {
+          "en": "Hah!"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "姉様、大丈夫！？",
+        "localizations": {
+          "en": "Alvina, are you alright?!"
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "う、うん。大丈夫……",
+        "localizations": {
+          "en": "Y-yeah, I'm fine..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "ありがとう、ヤンネおねーちゃん。\n……ごめん。魔物がいるの、気が付かなくて……",
+        "localizations": {
+          "en": "Thank you, Big Sis... Sorry, I wasn't paying attention..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "もうっ、アルビちゃんのバカ！",
+        "localizations": {
+          "en": "Geez, you dummy!"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "バ、バカ！？\u3000ヤンネおねーちゃんのその叱り方、\nひっさしぶりに聞いた……",
+        "localizations": {
+          "en": "D-dummy?! It's been ages since you've called me that..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "魔物の目撃情報があったから、私が先に行くって\n言ったじゃない……ほんと、肝が冷えたわ",
+        "localizations": {
+          "en": "I told you there were monster sightings and that I'd check ahead first... You nearly gave me a heart attack!"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "アルビちゃんにケガがなくてよかった。\nでも、勝手な行動をしたことには怒ってるわよ",
+        "localizations": {
+          "en": "I'm glad you're not hurt, but you shouldn't have went ahead alone."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "そ、その構えは……！\nごめんなさーい！\u3000それだけはー！",
+        "localizations": {
+          "en": "N-not that stance...! I'm sorry! Anything but that!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "こら！\u3000待ちなさいアルビちゃん！",
+        "localizations": {
+          "en": "Get back here, Alvie!"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "姉様から聞いたことあるわ。\nこれが、泣く子も黙る、ヤンネ姉様のお尻百叩き……！",
+        "localizations": {
+          "en": "I've heard about this from Alvina... This must be Big Sis' legendary hundred spankings that even crying children fall silent before...!"
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "聖戦士さん！\u3000魔物が出たんですか？",
+        "localizations": {
+          "en": "Sacred Knight! Were there monsters about?"
+        }
+      },
+      "2072370017": {
+        "text": "通りすがりの男",
+        "localizations": {
+          "en": "Passing Man"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "ええ。でも、もう大丈夫。\nヤンネ姉様が倒してくれたから",
+        "localizations": {
+          "en": "Yes, but everything's fine now. Big Sis took care of it."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "ふふん、すごいでしょ",
+        "localizations": {
+          "en": "Hehe, pretty amazing, right?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "もう、なんでアルビちゃんが自慢げなの。ふふ",
+        "localizations": {
+          "en": "Geez, why are you the one looking proud? Hehe."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "さすがヤンネさん！\u3000ありがとうございます。\n星の導きに感謝を。それでは私はこれで",
+        "localizations": {
+          "en": "Thank you so much, Lady Janne. Praise be to the stars' guidance. I'll take my leave now."
+        }
+      },
+      "2072370017": {
+        "text": "通りすがりの男",
+        "localizations": {
+          "en": "Passing Man"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "アタシもそろそろ仕事に行かなきゃかな。\nそれじゃ、二人とも、また夜に家で！",
+        "localizations": {
+          "en": "I should head to work soon too. See you both at home tonight!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "お仕事頑張ってね、姉様",
+        "localizations": {
+          "en": "Good luck with work, Alvina."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "また後でね。\n大丈夫だと思うけれど、無茶はしちゃダメよ？",
+        "localizations": {
+          "en": "See you later. I think you'll be fine, but no more reckless behavior, okay?"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 43,
+    "properties": {
+      "999008199": {
+        "text": "しないよ！\u3000ヤンネおねーちゃんのお尻百叩きは\nもうこりごりだからね！",
+        "localizations": {
+          "en": "I won't! I never want to experience Big Sis' hundred spankings again!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  }
+]

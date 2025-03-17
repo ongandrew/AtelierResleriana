@@ -1,0 +1,733 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "ララ様。助っ人の方との待ち合わせの場所は、\nこちらで合っているのでしょうか？",
+        "localizations": {
+          "en": "Queen Lara, is this the correct meeting spot for our reinforcements?"
+        }
+      },
+      "2072370017": {
+        "text": "ディオーナ",
+        "localizations": {
+          "en": "Diona"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "ええ、ディオーナ",
+        "localizations": {
+          "en": "Yes, Diona."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "まだ来てない。ララ様をお待たせするなんて！\nこいつは教育が必要だねぇ",
+        "localizations": {
+          "en": "They're not here yet. Making our queen wait! Someone needs to teach them some manners!"
+        }
+      },
+      "2072370017": {
+        "text": "ミーケ",
+        "localizations": {
+          "en": "Mieke"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "わたくしたちも来たばかりですわよ。\n慌てず待つことにいたしましょう、よしよし",
+        "localizations": {
+          "en": "We only just arrived ourselves. Let's be patient, there there."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "おふぉ……ララ様のよしよしぃ……とろけるぅ",
+        "localizations": {
+          "en": "Ahh... Queen Lara patting my head... I'm in heaven..."
+        }
+      },
+      "2072370017": {
+        "text": "ミーケ",
+        "localizations": {
+          "en": "Mieke"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "では、待っている間にお茶をお淹れいたしましょうか",
+        "localizations": {
+          "en": "Shall I prepare some tea while we wait?"
+        }
+      },
+      "2072370017": {
+        "text": "ディオーナ",
+        "localizations": {
+          "en": "Diona"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "いいねぇディオたん！\u3000さんせー！",
+        "localizations": {
+          "en": "Great idea, Dio! I'm in!"
+        }
+      },
+      "2072370017": {
+        "text": "ミーケ",
+        "localizations": {
+          "en": "Mieke"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "残念だけれど、それには及ばないわ",
+        "localizations": {
+          "en": "I'm afraid that won't be necessary."
+        }
+      },
+      "2072370017": {
+        "text": "マリオン",
+        "localizations": {
+          "en": "Marion"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "あら、存外早かったですわね",
+        "localizations": {
+          "en": "My, that was surprisingly quick."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "お茶の時間はお預けね。ミーケちゃん",
+        "localizations": {
+          "en": "Tea time will have to wait, Mieke."
+        }
+      },
+      "2072370017": {
+        "text": "ディオーナ",
+        "localizations": {
+          "en": "Diona"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "ちぇー。それで、助っ人はどこに？",
+        "localizations": {
+          "en": "Aww... So where's our backup?"
+        }
+      },
+      "2072370017": {
+        "text": "ミーケ",
+        "localizations": {
+          "en": "Mieke"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "ご無沙汰しております、ララ様",
+        "localizations": {
+          "en": "It's been a while, Lady Lara."
+        }
+      },
+      "2072370017": {
+        "text": "アンペル",
+        "localizations": {
+          "en": "Empel"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "あなたは……！",
+        "localizations": {
+          "en": "You're...!"
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "そちらの二人は初めまして、だったか。\n錬金術士のアンペルだ。以後お見知りおきを",
+        "localizations": {
+          "en": "I don't believe I've met you two before. I'm Empel, an alchemist. Pleased to make your acquaintance."
+        }
+      },
+      "2072370017": {
+        "text": "アンペル",
+        "localizations": {
+          "en": "Empel"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "アンペルって……まさか、この男！",
+        "localizations": {
+          "en": "Empel... Don't tell me this man is...!"
+        }
+      },
+      "2072370017": {
+        "text": "ディオーナ",
+        "localizations": {
+          "en": "Diona"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "ララ様を裏切った錬金術士！",
+        "localizations": {
+          "en": "The alchemist who betrayed our queen!"
+        }
+      },
+      "2072370017": {
+        "text": "ミーケ",
+        "localizations": {
+          "en": "Mieke"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "あなたのせいで、ララ様がどれほど\n辛く苦しい思いをされたか……",
+        "localizations": {
+          "en": "Do you have any idea how much pain and suffering you caused Queen Lara...?"
+        }
+      },
+      "2072370017": {
+        "text": "ディオーナ",
+        "localizations": {
+          "en": "Diona"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "毎日のように愚痴をこぼしてたね……。\nとにかく許さない",
+        "localizations": {
+          "en": "She complained about you almost every day... I won't forgive you!"
+        }
+      },
+      "2072370017": {
+        "text": "ミーケ",
+        "localizations": {
+          "en": "Mieke"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "ほう、随分な言われようだな",
+        "localizations": {
+          "en": "My, what harsh words."
+        }
+      },
+      "2072370017": {
+        "text": "アンペル",
+        "localizations": {
+          "en": "Empel"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "二人とも、よしなさい。\nそこまで愚痴はこぼしていませんわよ",
+        "localizations": {
+          "en": "Both of you, please. You're exaggerating my distress."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "しかし、またあなたとご一緒することになるとは\n思いませんでしたわ",
+        "localizations": {
+          "en": "Though I must say, I never expected we'd be working together again."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "はい、ケンカはそこまで",
+        "localizations": {
+          "en": "Alright, that's enough fighting."
+        }
+      },
+      "2072370017": {
+        "text": "マリオン",
+        "localizations": {
+          "en": "Marion"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "あなたたちの因縁については私も人づてに聞いてるわ。\nでも、今はそんなことを気にしてる場合じゃないでしょ",
+        "localizations": {
+          "en": "I've heard about your history through the grapevine. But we don't have time for that right now."
+        }
+      },
+      "2072370017": {
+        "text": "マリオン",
+        "localizations": {
+          "en": "Marion"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "むしろ、しこりが残ってるようなら、\n解消するいいきっかけにしてちょうだい",
+        "localizations": {
+          "en": "If anything, use this as a chance to clear the air between you."
+        }
+      },
+      "2072370017": {
+        "text": "マリオン",
+        "localizations": {
+          "en": "Marion"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "しこりなど……",
+        "localizations": {
+          "en": "Clear the air..."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "わたくしを……王を……欺いていたと……！？",
+        "localizations": {
+          "en": "You deceived me... deceived your queen...!?"
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "悪いが、お前が思う程まだ闇に染まっていないのでね",
+        "localizations": {
+          "en": "I'm afraid I'm not as deep in the darkness as you might think."
+        }
+      },
+      "2072370017": {
+        "text": "アンペル",
+        "localizations": {
+          "en": "Empel"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "確かに、あれは屈辱でしたわね。あの戦いで受けた\n負傷はしばらく尾を引いたものです……",
+        "localizations": {
+          "en": "Indeed, it was humiliating. The injuries from that battle took quite some time to heal..."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "とはいえ、それも過ぎたこと。\n今こそ、王の度量を示す時でしょう",
+        "localizations": {
+          "en": "However, that's in the past now. It's time to show the magnanimity befitting a queen."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "アンペル。過日の行いは不問といたします",
+        "localizations": {
+          "en": "Empel. I shall overlook your past transgressions."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "ララ様！",
+        "localizations": {
+          "en": "Queen Lara!"
+        }
+      },
+      "2072370017": {
+        "text": "ふたり",
+        "localizations": {
+          "en": "Both"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "二人とも、この男とは友好的に接するようになさい",
+        "localizations": {
+          "en": "You two will treat this man with courtesy."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "はーい……",
+        "localizations": {
+          "en": "Yes, ma'am..."
+        }
+      },
+      "2072370017": {
+        "text": "ミーケ",
+        "localizations": {
+          "en": "Mieke"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "承知いたしました……",
+        "localizations": {
+          "en": "As you wish..."
+        }
+      },
+      "2072370017": {
+        "text": "ディオーナ",
+        "localizations": {
+          "en": "Diona"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "おや。寛大な心遣い、さすが王ですな",
+        "localizations": {
+          "en": "My, such generosity, befitting a queen."
+        }
+      },
+      "2072370017": {
+        "text": "アンペル",
+        "localizations": {
+          "en": "Empel"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "ええ。王でしてよ",
+        "localizations": {
+          "en": "Indeed."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "ホント、頼むわよ……",
+        "localizations": {
+          "en": "Give me a break..."
+        }
+      },
+      "2072370017": {
+        "text": "マリオン",
+        "localizations": {
+          "en": "Marion"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "あと、ソフィーとプラフタにも声をかけてあるから。\n後ほど合流してもらうわ",
+        "localizations": {
+          "en": "Also, I've contacted Sophie and Plachta. They'll join us later."
+        }
+      },
+      "2072370017": {
+        "text": "マリオン",
+        "localizations": {
+          "en": "Marion"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "ええ、分かりました",
+        "localizations": {
+          "en": "Yes, understood."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "では早速参るといたしましょうか、ララ様",
+        "localizations": {
+          "en": "Shall we get started then, Lady Lara?"
+        }
+      },
+      "2072370017": {
+        "text": "アンペル",
+        "localizations": {
+          "en": "Empel"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "……その胡散くさいしゃべり方はもういいですわ",
+        "localizations": {
+          "en": "...You can drop the formality now."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "ふむ、そうか。\nそれで、まずはどこへ向かうんだ？",
+        "localizations": {
+          "en": "Hmm, I see. So, where are we headed first?"
+        }
+      },
+      "2072370017": {
+        "text": "アンペル",
+        "localizations": {
+          "en": "Empel"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "目的地に向かう前に、少し準備をしていきますわ。\n親愛の印に、我が王国に案内しましてよ",
+        "localizations": {
+          "en": "Before we head to our destination, we should make some preparations. As a token of goodwill, I'll show you around my kingdom."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  }
+]

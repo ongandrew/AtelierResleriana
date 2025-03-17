@@ -1,0 +1,926 @@
+[
+  {
+    "id": 749104879,
+    "properties": {
+      "999008199": {
+        "text": "ピックアップ",
+        "localizations": {
+          "en": "Pick Up"
+        }
+      }
+    }
+  },
+  {
+    "id": 342337611,
+    "properties": {
+      "999008199": {
+        "text": "現在の{0}位",
+        "localizations": {
+          "en": "Current Rank {0}"
+        }
+      }
+    }
+  },
+  {
+    "id": 1248321545,
+    "properties": {
+      "999008199": {
+        "text": "レンタルパーティでの挑戦",
+        "localizations": {
+          "en": "Challenge with Rental Party"
+        }
+      }
+    }
+  },
+  {
+    "id": 2070204714,
+    "properties": {
+      "999008199": {
+        "text": "ボスチャレンジのクリアに適したキャラとメモリアをレンタルして\n挑戦することができます",
+        "localizations": {
+          "en": "You can challenge using recommended characters and memoria available for rent"
+        }
+      }
+    }
+  },
+  {
+    "id": 686165300,
+    "properties": {
+      "999008199": {
+        "text": "呼び出しに失敗した…",
+        "localizations": {
+          "en": "Summoning failed..."
+        }
+      }
+    }
+  },
+  {
+    "id": 1781131225,
+    "properties": {
+      "999008199": {
+        "text": "攻撃が届かない！",
+        "localizations": {
+          "en": "The attack won't reach!"
+        }
+      }
+    }
+  },
+  {
+    "id": 1214676932,
+    "properties": {
+      "999008199": {
+        "text": "残り{0}体",
+        "localizations": {
+          "en": "{0} Remaining"
+        }
+      }
+    }
+  },
+  {
+    "id": 1634790247,
+    "properties": {
+      "999008199": {
+        "text": "交換後、ミッション達成で獲得可能なアイテム",
+        "localizations": {
+          "en": "Items obtainable after exchange upon mission completion"
+        }
+      }
+    }
+  },
+  {
+    "id": 591204505,
+    "properties": {
+      "999008199": {
+        "text": "交換する",
+        "localizations": {
+          "en": "Exchange"
+        }
+      }
+    }
+  },
+  {
+    "id": 62702623,
+    "properties": {
+      "999008199": {
+        "text": "{0}を使ってキャラまたはメモリアを交換しますか？",
+        "localizations": {
+          "en": "Exchange using {0}?"
+        }
+      }
+    }
+  },
+  {
+    "id": 411598872,
+    "properties": {
+      "999008199": {
+        "text": "※交換できるキャラ、メモリアの提供割合は「提供割合」から確認できます。",
+        "localizations": {
+          "en": "※You can check the available character and memoria rates in 'Drop Rates.'"
+        }
+      }
+    }
+  },
+  {
+    "id": 1405843069,
+    "properties": {
+      "999008199": {
+        "text": "交換に必要なアイテムが不足しています",
+        "localizations": {
+          "en": "Insufficient items required for exchange"
+        }
+      }
+    }
+  },
+  {
+    "id": 1926739914,
+    "properties": {
+      "999008199": {
+        "text": "ミッションパスPT",
+        "localizations": {
+          "en": "Mission Pass PT"
+        }
+      }
+    }
+  },
+  {
+    "id": 668480335,
+    "properties": {
+      "999008199": {
+        "text": "購入予定ミッションパスPT量に応じた星導石",
+        "localizations": {
+          "en": "Spirit Stones based on planned Mission Pass PT amount"
+        }
+      }
+    }
+  },
+  {
+    "id": 1645921332,
+    "properties": {
+      "999008199": {
+        "text": "選択中のミッションパスの期間に準じる",
+        "localizations": {
+          "en": "Based on the selected Mission Pass period"
+        }
+      }
+    }
+  },
+  {
+    "id": 825110567,
+    "properties": {
+      "999008199": {
+        "text": "調合素材ドロップ量\n+{0}%！",
+        "localizations": {
+          "en": "Synthesis Material Drop Rate\n+{0}%!"
+        }
+      }
+    }
+  },
+  {
+    "id": 473108859,
+    "properties": {
+      "999008199": {
+        "text": "メモリアボーナス",
+        "localizations": {
+          "en": "Memoria Bonus"
+        }
+      }
+    }
+  },
+  {
+    "id": 964823869,
+    "properties": {
+      "999008199": {
+        "text": "メモリアボーナス詳細",
+        "localizations": {
+          "en": "Memoria Bonus Details"
+        }
+      }
+    }
+  },
+  {
+    "id": 1981622285,
+    "properties": {
+      "999008199": {
+        "text": "ドロップ量ボーナス",
+        "localizations": {
+          "en": "Drop Rate Bonus"
+        }
+      }
+    }
+  },
+  {
+    "id": 1812960831,
+    "properties": {
+      "999008199": {
+        "text": "※ボーナスは最大<color=#16cabb>{0}%</color>まで加算されます",
+        "localizations": {
+          "en": "※Bonus can stack up to <color=#16cabb>{0}%</color>"
+        }
+      }
+    }
+  },
+  {
+    "id": 1349689129,
+    "properties": {
+      "999008199": {
+        "text": "・各メモリアの解放ランクによってボーナス量が上昇します",
+        "localizations": {
+          "en": "・Bonus amount increases with each memoria's release rank"
+        }
+      }
+    }
+  },
+  {
+    "id": 1406108991,
+    "properties": {
+      "999008199": {
+        "text": "・同じメモリアを複数所持している場合、解放ランクが合算されます（最大Ⅴ）",
+        "localizations": {
+          "en": "・When holding multiple copies of the same memoria, release ranks are combined (max Ⅴ)"
+        }
+      }
+    }
+  },
+  {
+    "id": 1283993899,
+    "properties": {
+      "999008199": {
+        "text": "レンタルパーティ",
+        "localizations": {
+          "en": "Rental Party"
+        }
+      }
+    }
+  },
+  {
+    "id": 1344050007,
+    "properties": {
+      "999008199": {
+        "text": "Border",
+        "localizations": {
+          "en": "Border"
+        }
+      }
+    }
+  },
+  {
+    "id": 1479448821,
+    "properties": {
+      "999008199": {
+        "text": "プレゼント",
+        "localizations": {
+          "en": "Present"
+        }
+      }
+    }
+  },
+  {
+    "id": 310246468,
+    "properties": {
+      "999008199": {
+        "text": "お返し",
+        "localizations": {
+          "en": "Return Gift"
+        }
+      }
+    }
+  },
+  {
+    "id": 2123312942,
+    "properties": {
+      "999008199": {
+        "text": "プレゼントを調合",
+        "localizations": {
+          "en": "Synthesize Present"
+        }
+      }
+    }
+  },
+  {
+    "id": 338089108,
+    "properties": {
+      "999008199": {
+        "text": "親密度",
+        "localizations": {
+          "en": "Friendship Level"
+        }
+      }
+    }
+  },
+  {
+    "id": 1658011044,
+    "properties": {
+      "999008199": {
+        "text": "編成中のアイテムが含まれています。このままプレゼントを渡しますか？",
+        "localizations": {
+          "en": "Item in current party formation. Proceed with giving the present?"
+        }
+      }
+    }
+  },
+  {
+    "id": 741853482,
+    "properties": {
+      "999008199": {
+        "text": "親密度{0}のときプレゼント可能な調合アイテムのレシピ",
+        "localizations": {
+          "en": "Synthesis recipes available at Friendship Level {0}"
+        }
+      }
+    }
+  },
+  {
+    "id": 112861788,
+    "properties": {
+      "999008199": {
+        "text": "親密度アップ",
+        "localizations": {
+          "en": "Friendship Level Up"
+        }
+      }
+    }
+  },
+  {
+    "id": 1552264138,
+    "properties": {
+      "999008199": {
+        "text": "「プレゼントを調合」から調合するアイテムを確認してください",
+        "localizations": {
+          "en": "Please check available items in 'Synthesize Present'"
+        }
+      }
+    }
+  },
+  {
+    "id": 1978919435,
+    "properties": {
+      "999008199": {
+        "text": "選択したアイテムをプレゼントしますか？",
+        "localizations": {
+          "en": "Give selected item as a present?"
+        }
+      }
+    }
+  },
+  {
+    "id": 1621017807,
+    "properties": {
+      "999008199": {
+        "text": "プレゼントしたアイテムは消失します",
+        "localizations": {
+          "en": "Given presents will be consumed"
+        }
+      }
+    }
+  },
+  {
+    "id": 165803738,
+    "properties": {
+      "999008199": {
+        "text": "{0}のお返し",
+        "localizations": {
+          "en": "Return Gift from {0}"
+        }
+      }
+    }
+  },
+  {
+    "id": 1369167166,
+    "properties": {
+      "999008199": {
+        "text": "渡す",
+        "localizations": {
+          "en": "Give"
+        }
+      }
+    }
+  },
+  {
+    "id": 531548519,
+    "properties": {
+      "999008199": {
+        "text": "UP！",
+        "localizations": {
+          "en": "UP!"
+        }
+      }
+    }
+  },
+  {
+    "id": 509907709,
+    "properties": {
+      "999008199": {
+        "text": "お返しリスト",
+        "localizations": {
+          "en": "Return Gift List"
+        }
+      }
+    }
+  },
+  {
+    "id": 1250825840,
+    "properties": {
+      "999008199": {
+        "text": "{0}～",
+        "localizations": {
+          "en": "{0} and above"
+        }
+      }
+    }
+  },
+  {
+    "id": 1830956570,
+    "properties": {
+      "999008199": {
+        "text": "受取済",
+        "localizations": {
+          "en": "Received"
+        }
+      }
+    }
+  },
+  {
+    "id": 489600533,
+    "properties": {
+      "999008199": {
+        "text": "以下の条件を達成することにより、プレゼントを解放できます",
+        "localizations": {
+          "en": "Complete the following conditions to unlock presents"
+        }
+      }
+    }
+  },
+  {
+    "id": 1667937215,
+    "properties": {
+      "999008199": {
+        "text": "親密度アップに必要な友情ポイントに達しています",
+        "localizations": {
+          "en": "Friendship Points required for level up reached"
+        }
+      }
+    }
+  },
+  {
+    "id": 655424348,
+    "properties": {
+      "999008199": {
+        "text": "プレゼントする調合アイテムを選択してください",
+        "localizations": {
+          "en": "Please select a synthesized item to give as a present"
+        }
+      }
+    }
+  },
+  {
+    "id": 447926048,
+    "properties": {
+      "999008199": {
+        "text": "活性剤",
+        "localizations": {
+          "en": "Catalyst"
+        }
+      }
+    }
+  },
+  {
+    "id": 188182539,
+    "properties": {
+      "999008199": {
+        "text": "特性活性剤",
+        "localizations": {
+          "en": "Trait Catalyst"
+        }
+      }
+    }
+  },
+  {
+    "id": 461872716,
+    "properties": {
+      "999008199": {
+        "text": "調合設定",
+        "localizations": {
+          "en": "Synthesis Settings"
+        }
+      }
+    }
+  },
+  {
+    "id": 1570983310,
+    "properties": {
+      "999008199": {
+        "text": "特性活性剤設定",
+        "localizations": {
+          "en": "Trait Catalyst Settings"
+        }
+      }
+    }
+  },
+  {
+    "id": 330297668,
+    "properties": {
+      "999008199": {
+        "text": "所持特性活性剤",
+        "localizations": {
+          "en": "Owned Trait Catalysts"
+        }
+      }
+    }
+  },
+  {
+    "id": 1079839095,
+    "properties": {
+      "999008199": {
+        "text": "【{0}】の特性活性剤",
+        "localizations": {
+          "en": "Trait Catalyst for [{0}]"
+        }
+      }
+    }
+  },
+  {
+    "id": 2123365818,
+    "properties": {
+      "999008199": {
+        "text": "所持している特性が調合アイテムに付与される確率を上げることができる。",
+        "localizations": {
+          "en": "Increases the probability of transferring traits to synthesized items."
+        }
+      }
+    }
+  },
+  {
+    "id": 1272813003,
+    "properties": {
+      "999008199": {
+        "text": "特性",
+        "localizations": {
+          "en": "Trait"
+        }
+      }
+    }
+  },
+  {
+    "id": 196814994,
+    "properties": {
+      "999008199": {
+        "text": "戦闘アイテム特性",
+        "localizations": {
+          "en": "Battle Item Traits"
+        }
+      }
+    }
+  },
+  {
+    "id": 29046632,
+    "properties": {
+      "999008199": {
+        "text": "装備アイテム特性",
+        "localizations": {
+          "en": "Equipment Traits"
+        }
+      }
+    }
+  },
+  {
+    "id": 1948470680,
+    "properties": {
+      "999008199": {
+        "text": "ランク",
+        "localizations": {
+          "en": "Rank"
+        }
+      }
+    }
+  },
+  {
+    "id": 1138468582,
+    "properties": {
+      "999008199": {
+        "text": "★6覚醒",
+        "localizations": {
+          "en": "★6 Awakening"
+        }
+      }
+    }
+  },
+  {
+    "id": 453312773,
+    "properties": {
+      "999008199": {
+        "text": "スキル進化",
+        "localizations": {
+          "en": "Skill Evolution"
+        }
+      }
+    }
+  },
+  {
+    "id": 324911223,
+    "properties": {
+      "999008199": {
+        "text": "全スキル進化済のキャラです",
+        "localizations": {
+          "en": "All skills for this character are already evolved"
+        }
+      }
+    }
+  },
+  {
+    "id": 974394687,
+    "properties": {
+      "999008199": {
+        "text": "進化済のスキルです",
+        "localizations": {
+          "en": "This skill is already evolved"
+        }
+      }
+    }
+  },
+  {
+    "id": 676805717,
+    "properties": {
+      "999008199": {
+        "text": "スキル進化アビリティ",
+        "localizations": {
+          "en": "Skill Evolution Ability"
+        }
+      }
+    }
+  },
+  {
+    "id": 1941321960,
+    "properties": {
+      "999008199": {
+        "text": "{0}はすべてのスキルが進化することで解放されます",
+        "localizations": {
+          "en": "{0} will be unlocked when all skills are evolved"
+        }
+      }
+    }
+  },
+  {
+    "id": 1759719142,
+    "properties": {
+      "999008199": {
+        "text": "★★★★★★で解放されます",
+        "localizations": {
+          "en": "Unlocked at ★★★★★★"
+        }
+      }
+    }
+  },
+  {
+    "id": 1840549587,
+    "properties": {
+      "999008199": {
+        "text": "スキル進化確認",
+        "localizations": {
+          "en": "Confirm Skill Evolution"
+        }
+      }
+    }
+  },
+  {
+    "id": 1018492885,
+    "properties": {
+      "999008199": {
+        "text": "進化完了",
+        "localizations": {
+          "en": "Evolution Complete"
+        }
+      }
+    }
+  },
+  {
+    "id": 812318112,
+    "properties": {
+      "999008199": {
+        "text": "スキル1",
+        "localizations": {
+          "en": "Skill 1"
+        }
+      }
+    }
+  },
+  {
+    "id": 1453085670,
+    "properties": {
+      "999008199": {
+        "text": "スキル2",
+        "localizations": {
+          "en": "Skill 2"
+        }
+      }
+    }
+  },
+  {
+    "id": 1192128208,
+    "properties": {
+      "999008199": {
+        "text": "バースト",
+        "localizations": {
+          "en": "Burst"
+        }
+      }
+    }
+  },
+  {
+    "id": 100795930,
+    "properties": {
+      "999008199": {
+        "text": "スキル進化に必要な素材が不足しています",
+        "localizations": {
+          "en": "Insufficient materials for skill evolution"
+        }
+      }
+    }
+  },
+  {
+    "id": 1885953868,
+    "properties": {
+      "999008199": {
+        "text": "スキル進化完了",
+        "localizations": {
+          "en": "Skill Evolution Complete"
+        }
+      }
+    }
+  },
+  {
+    "id": 1982123137,
+    "properties": {
+      "999008199": {
+        "text": "全スキル進化完了",
+        "localizations": {
+          "en": "All Skills Evolution Complete"
+        }
+      }
+    }
+  },
+  {
+    "id": 1314346100,
+    "properties": {
+      "999008199": {
+        "text": "以下のアビリティが解放されました",
+        "localizations": {
+          "en": "The following ability has been unlocked"
+        }
+      }
+    }
+  },
+  {
+    "id": 1251914135,
+    "properties": {
+      "999008199": {
+        "text": "に覚醒済です",
+        "localizations": {
+          "en": "is already awakened"
+        }
+      }
+    }
+  },
+  {
+    "id": 291673844,
+    "properties": {
+      "999008199": {
+        "text": "{0}または{1}",
+        "localizations": {
+          "en": "{0} or {1}"
+        }
+      }
+    }
+  },
+  {
+    "id": 1594838524,
+    "properties": {
+      "999008199": {
+        "text": "{0}、{1}",
+        "localizations": {
+          "en": "{0}, {1}"
+        }
+      }
+    }
+  },
+  {
+    "id": 1043386052,
+    "properties": {
+      "999008199": {
+        "text": "{0}は未所持です",
+        "localizations": {
+          "en": "{0} is not owned"
+        }
+      }
+    }
+  },
+  {
+    "id": 182500050,
+    "properties": {
+      "999008199": {
+        "text": "{0}は覚醒に必要なピースを取得済です",
+        "localizations": {
+          "en": "{0} has obtained the required pieces for awakening"
+        }
+      }
+    }
+  },
+  {
+    "id": 1589999428,
+    "properties": {
+      "999008199": {
+        "text": "{0}までに受け取らなかったパイは\nヤンネが子供へのお土産にします",
+        "localizations": {
+          "en": "Any unclaimed pies by {0}\nwill be given to Yanne as souvenirs for children"
+        }
+      }
+    }
+  },
+  {
+    "id": 276269708,
+    "properties": {
+      "999008199": {
+        "text": "レンタル回数上限のためこれ以上増加できません",
+        "localizations": {
+          "en": "Cannot increase further due to rental limit"
+        }
+      }
+    }
+  },
+  {
+    "id": 740005046,
+    "properties": {
+      "999008199": {
+        "text": "残りレンタル回数",
+        "localizations": {
+          "en": "Remaining Rentals"
+        }
+      }
+    }
+  },
+  {
+    "id": 838534627,
+    "properties": {
+      "999008199": {
+        "text": "調合設定({0})",
+        "localizations": {
+          "en": "Synthesis Settings ({0})"
+        }
+      }
+    }
+  },
+  {
+    "id": 72138746,
+    "properties": {
+      "999008199": {
+        "text": "特性活性剤設定",
+        "localizations": {
+          "en": "Trait Catalyst Settings"
+        }
+      }
+    }
+  },
+  {
+    "id": 1247499389,
+    "properties": {
+      "999008199": {
+        "text": "特性活性剤の選択上限に達しています",
+        "localizations": {
+          "en": "Maximum trait catalyst selection limit reached"
+        }
+      }
+    }
+  },
+  {
+    "id": 282766162,
+    "properties": {
+      "999008199": {
+        "text": "調合に必要な数を所持していません",
+        "localizations": {
+          "en": "Insufficient quantity for synthesis"
+        }
+      }
+    }
+  },
+  {
+    "id": 1548234163,
+    "properties": {
+      "999008199": {
+        "text": "キャラをレンタルしている場合は変更できません",
+        "localizations": {
+          "en": "Cannot be changed while character is being rented"
+        }
+      }
+    }
+  },
+  {
+    "id": 332610693,
+    "properties": {
+      "999008199": {
+        "text": "該当キャラをお迎えすると解放されます",
+        "localizations": {
+          "en": "Unlocked when you obtain this character"
+        }
+      }
+    }
+  }
+]

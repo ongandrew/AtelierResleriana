@@ -1,0 +1,529 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "ってわけで、ベップの初仕事は\n滞りなく、こなしたわけ！",
+        "localizations": {
+          "en": "And that's how Bepp's first assignment went off without a hitch!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "そう！\u3000それは良かったわ",
+        "localizations": {
+          "en": "Really? That's wonderful!"
+        }
+      },
+      "2072370017": {
+        "text": "母親",
+        "localizations": {
+          "en": "Mother"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "それより、話を聞いていて気になったんだが……\nアルビーナもベップと一緒にいたのかい？",
+        "localizations": {
+          "en": "But something caught my attention from your story... Alvina, were you with Bepp?"
+        }
+      },
+      "2072370017": {
+        "text": "父親",
+        "localizations": {
+          "en": "Father"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "うん。お仕事、休みだったし……ちょっとばかし、\n様子を見にね",
+        "localizations": {
+          "en": "Yeah. I had the day off, so... I just wanted to check up on her a bit."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "聖戦士のお仕事って、魔物と戦ったりもするでしょう？\n一緒にいたら危ないじゃないの",
+        "localizations": {
+          "en": "Sacred Knights have to fight monsters, don't they?\nIt's dangerous for you to be there!"
+        }
+      },
+      "2072370017": {
+        "text": "母親",
+        "localizations": {
+          "en": "Mother"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "案内人のアタシが一番分かってるって\nいざってときには、ちゃんと適切な距離は保ってるよ",
+        "localizations": {
+          "en": "As a Star Guide, I know better than anyone— I always keep a safe distance when things get dicey!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "うん。ベップが気になるのは分かるが。街の外には\n危険も多い。お前は案内人の仕事が天命、忘れずにな",
+        "localizations": {
+          "en": "I understand you're worried about Bepp. But there are many dangers outside the city. Remember, your divine calling is to be a Guide."
+        }
+      },
+      "2072370017": {
+        "text": "父親",
+        "localizations": {
+          "en": "Father"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "……うす、大丈夫",
+        "localizations": {
+          "en": "...Yeah, I know."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "姉様。服の裾が少しほつれているわ",
+        "localizations": {
+          "en": "There's a loose thread on your hem."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "え？\u3000あ、ホントだ。\nどこかに引っかけたのかな",
+        "localizations": {
+          "en": "Huh? Oh, you're right! Must've caught it on something."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "後で直すわ、姉様を称える歌を歌いながら",
+        "localizations": {
+          "en": "I'll mend it later while singing songs in your honor."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "ありがとー！\u3000",
+        "localizations": {
+          "en": "Thanks!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "もう。そうやっていつもベップに世話を\n焼いてもらって……たまには自分でやりなさい",
+        "localizations": {
+          "en": "Honestly... Always letting Bepp fuss over you like this... You should do these things yourself sometimes."
+        }
+      },
+      "2072370017": {
+        "text": "母親",
+        "localizations": {
+          "en": "Mother"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "大丈夫、私がやりたくてやってることだから",
+        "localizations": {
+          "en": "It's fine, I do it because I want to."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "この前なんて、ご飯をあーんして食べさせて\nもらってたじゃない。あれはやりすぎよ",
+        "localizations": {
+          "en": "The other day she was even feeding you your dinner! That's going too far."
+        }
+      },
+      "2072370017": {
+        "text": "母親",
+        "localizations": {
+          "en": "Mother"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "ジムロックさん、こんばんは",
+        "localizations": {
+          "en": "Good evening, Mrs. Zimlock."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "あら、ヤンネさん！\u3000これから夜の見回り？",
+        "localizations": {
+          "en": "Oh, Janne! Heading out for night patrol?"
+        }
+      },
+      "2072370017": {
+        "text": "母親",
+        "localizations": {
+          "en": "Mother"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "はい。あの、娘をお願いしても……",
+        "localizations": {
+          "en": "Yes. Would it be alright if I borrowed your daughters..."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "もちろん！\u3000いつもお役目ご苦労さま",
+        "localizations": {
+          "en": "Of course! Thank you for your service."
+        }
+      },
+      "2072370017": {
+        "text": "母親",
+        "localizations": {
+          "en": "Mother"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "いえ。こちらこそ、いつも面倒を見てくださって\n助かっています",
+        "localizations": {
+          "en": "No, thank you for always looking after us."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "そうだ。ベップちゃんも一緒に来てもらえる？\n見回りも聖戦士の大事な仕事の１つだから",
+        "localizations": {
+          "en": "Oh right—Bepp, would you like to come along? Patrol duty is an important part of a Sacred Knight's work."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "分かったわ、いずれ見回りのベップと呼ばれてみせる",
+        "localizations": {
+          "en": "Understood. Soon they'll call me Bepp the Sentinel."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "あっ、アタシも！\u3000ついてっていい？\n案内人視点から教えてあげられることもあるからさ",
+        "localizations": {
+          "en": "Oh, can I come too? I might be able to offer some insights from a Guide's perspective!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "アルビーナ。さっき言ったばかりじゃないの\nあまり危ないことをしちゃ……",
+        "localizations": {
+          "en": "Alvina. Didn't we just talk about this? You shouldn't put yourself in danger..."
+        }
+      },
+      "2072370017": {
+        "text": "母親",
+        "localizations": {
+          "en": "Mother"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "大丈夫だってお母さん！\u3000武道大会で近隣の島々の\n猛者を打ち負かした、ヤンネさんがいるんだよ",
+        "localizations": {
+          "en": "It's fine, Mom! We've got Janne with us—she's beaten the strongest fighters from all the neighboring islands!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "ね、ヤンネさん！\u3000いいでしょ？",
+        "localizations": {
+          "en": "Right, Janne? Please?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "（ちょっと採りに行きたい素材があって……\n\u3000無茶はしませんから、何とぞ、お願いします！）",
+        "localizations": {
+          "en": "(There are just some materials I need to gather... I promise I won't do anything reckless!)"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "（もう、しょうがないわね……ちょっとだけよ）",
+        "localizations": {
+          "en": "(Good grief... but just this once...)"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "まあ、私たちがちゃんとついていますから。\n安心してください",
+        "localizations": {
+          "en": "We'll keep a close eye on them. You have nothing to worry about."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "そう？\u3000ヤンネさんがそう言うなら……",
+        "localizations": {
+          "en": "Well... if you say so..."
+        }
+      },
+      "2072370017": {
+        "text": "母親",
+        "localizations": {
+          "en": "Mother"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "じゃあヤンネさん、ベップ、行こ！",
+        "localizations": {
+          "en": "Alright Janne, Bepp, let's go!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  }
+]

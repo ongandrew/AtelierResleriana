@@ -1,0 +1,393 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "姉様、待って",
+        "localizations": {
+          "en": "Alvina, wait."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "ありゃ。採取に夢中で汚れちゃってた？\nありがとね！",
+        "localizations": {
+          "en": "Oh? Did I get dirty while gathering materials? Thank you!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "ううん。姉様の世話をするのも、妹の役目だから",
+        "localizations": {
+          "en": "Not at all. Taking care of you is part of my duty as your sister."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "随分歩いたわね。疲れたでしょう？",
+        "localizations": {
+          "en": "We've walked quite a distance. Are you tired?"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "アタシは慣れてるけど……\nそっちはさすがに疲れてきたみたいだね",
+        "localizations": {
+          "en": "I'm used to this kind of thing, but... Looks like you're starting to feel it."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "ちょっとね～。でも素材集めは捗ってるから",
+        "localizations": {
+          "en": "Just a bit... But we're making good progress gathering materials!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "姉様、お水を",
+        "localizations": {
+          "en": "Alvina, here's some water."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "うん。ありがとベップ～",
+        "localizations": {
+          "en": "Thanks!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "あと、これで汗を拭いて",
+        "localizations": {
+          "en": "And use this to wipe your sweat."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "ベップってば気が利く～",
+        "localizations": {
+          "en": "You're so thoughtful!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "アルビーナ。あなた、さすがに\nベップちゃんになんでも任せっきりじゃないかしら",
+        "localizations": {
+          "en": "Alvina. Don't you think you're relying on Bepp a bit too much for everything?"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "お母様がたは、みんな同じことをいうわね",
+        "localizations": {
+          "en": "My mother says the same thing."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "だってだって。アタシよりベップのほうが\n得意なんだもん。家事とか色々",
+        "localizations": {
+          "en": "But Bepp's just better at these things than me. Like housework and stuff!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "あらあら。しっかりした子なのに、\nベップちゃんがいるとすぐ甘えんぼになるんだから",
+        "localizations": {
+          "en": "My, my. You're usually so reliable, but the moment she's around, you turn into such a baby."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "いやいや甘えんぼって。\nアタシとベップは姉妹！\u3000助け合って生きてる！",
+        "localizations": {
+          "en": "Hey now, I'm not being a baby! Bepp and I are sisters! We support each other!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "まぁ……そうね、一理ある",
+        "localizations": {
+          "en": "Well... I suppose you have a point."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "アタシは交渉ごととか考えるのは得意だけど、\nベップは話すのがちょっと苦手！",
+        "localizations": {
+          "en": "I'm good at negotiations and planning, but Bepp's a bit shy when it comes to talking!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "ベップは細かい気配り上手だけど、\nアタシはちょーっと大雑把！",
+        "localizations": {
+          "en": "Bepp's great at paying attention to details, but I'm a bit... rough around the edges!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "まぁ……それはそうね",
+        "localizations": {
+          "en": "Well... that's true enough."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "そんな風に、アタシたちはお互い得意なことで\n補い合ってるってわけ！\u3000甘えっぱなしじゃないの！",
+        "localizations": {
+          "en": "That's how we complement each other with our strengths! I'm not just being dependent!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "言われてみれば……そうなのかもしれないわね",
+        "localizations": {
+          "en": "When you put it that way... maybe you're right."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "でしょ！",
+        "localizations": {
+          "en": "See!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "ま～た言いくるめられてるよ",
+        "localizations": {
+          "en": "And there she goes sweet-talking her way out of it again."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  }
+]

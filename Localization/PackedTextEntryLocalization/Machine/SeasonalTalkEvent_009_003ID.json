@@ -1,0 +1,648 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "\u4EBA\u3092\u5B88\u308B\u3060\u3051\u304C\u82F1\u96C4\u306B\u975E\u305A\u3002\n\u5C0F\u3055\u304D\u8005\u3092\u6551\u3046\u3053\u3068\u3082\u307E\u305F\u4F7F\u547D",
+        "localizations": {
+          "en": "A hero\u0027s duty is not just protecting others.\nSaving even the smallest creatures is a great calling."
+        }
+      },
+      "2072370017": {
+        "text": "\u30C7\u30A3\u30AA\u30FC\u30CA",
+        "localizations": {
+          "en": "Diona"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u308B\u65E5\u306E\u3053\u3068\u3001\u9AD8\u3044\u6240\u304B\u3089\n\u964D\u308A\u3089\u308C\u306A\u304F\u306A\u3063\u305F\u5B50\u732B\u304C\u3044\u305F",
+        "localizations": {
+          "en": "Once upon a time, there was a kitten\nwho got stuck up high and couldn\u0027t get down..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30C7\u30A3\u30AA\u30FC\u30CA",
+        "localizations": {
+          "en": "Diona"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "\u3063\uFF01\u3000\u3053\u3001\u3053\u306E\u8A71\u306F\u2026\u2026\uFF01",
+        "localizations": {
+          "en": "Ah! Th-this story...!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E6\u30CA",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "\u3069\u3046\u3057\u305F\u306E\u3001\u3059\u3054\u3044\u76EE\u304C\u6CF3\u3044\u3067\u308B\u3088\uFF01\n\u76EE\u306E\u4E2D\u3067\u72EC\u697D\u304C\u66B4\u308C\u56DE\u3063\u3066\u308B\u307F\u305F\u3044\uFF01",
+        "localizations": {
+          "en": "What\u0027s wrong? Your eyes are darting everywhere!\nLike there\u0027s spinning tops bouncing around in there!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30DF\u30FC\u30B1",
+        "localizations": {
+          "en": "Mieke"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "\u304F\u3063\u3001\u3069\u3053\u307E\u3067\u8A71\u3059\u3064\u3082\u308A\u3060\u30C7\u30A3\u30AA\u30FC\u30CA\u2026\u2026\uFF01",
+        "localizations": {
+          "en": "Ugh, just how much are you planning to tell, Diona...!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E6\u30CA",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u3053\u308C\u306F\u6050\u3089\u304F\u3001\u898B\u56DE\u308A\u306E\u53D6\u6750\u4E2D\u306E\u8A71\u3060\u2026\u2026\uFF01\uFF09",
+        "localizations": {
+          "en": "(This must be from that time during patrol...)"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E6\u30CA",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "\u3068\u3044\u3046\u3053\u3068\u3067\u3001\u3042\u306E\u732B\u3001\u3046\u3061\u306E\u5C4B\u6839\u306B\u305A\u3063\u3068\n\u767B\u3063\u305F\u307E\u307E\u306A\u3093\u3060\u3002\u304A\u4EFB\u305B\u3057\u3066\u3044\u3044\u3067\u3057\u3087\u3046\u304B\u306D",
+        "localizations": {
+          "en": "So you see, that cat\u0027s been stuck up on our roof\nfor quite a while now. Would you be able to help?"
+        }
+      },
+      "2072370017": {
+        "text": "\u9AA8\u8463\u5E97\u5E97\u4E3B",
+        "localizations": {
+          "en": "Antique Shop Owner"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "\u4EFB\u305B\u3066\u304F\u308C",
+        "localizations": {
+          "en": "Leave it to me."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E6\u30CA",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "\u3048\u3063\uFF01\uFF1F\u3000\u8CB4\u65B9\u304C\u81EA\u3089\u52A9\u3051\u308B\u3093\u3067\u3059\u304B\uFF01\uFF1F\n\u306A\u3001\u306A\u3093\u3060\u304B\u9006\u306B\u7533\u3057\u8A33\u306A\u3044\u306A\u3002\u767D\u591C\u306E\u9A0E\u58EB\u306B",
+        "localizations": {
+          "en": "Eh!? You\u0027ll help personally!?\nI-I feel bad troubling a Knight of the Midnight Sun..."
+        }
+      },
+      "2072370017": {
+        "text": "\u9AA8\u8463\u5E97\u5E97\u4E3B",
+        "localizations": {
+          "en": "Antique Shop Owner"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "\u9A0E\u58EB\u305F\u308B\u3082\u306E\u3001\u56F0\u3063\u3066\u3044\u308B\u8005\u306F\u306A\u3093\u3067\u3042\u308D\u3046\u3068\n\u52A9\u3051\u306A\u3044\u3068\u306A",
+        "localizations": {
+          "en": "A knight\u0027s duty is to help those in need,\nno matter who they might be."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E6\u30CA",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u305D\u308C\u306B\u3057\u3066\u3082\u3001\u3042\u306E\u732B\u2026\u2026\uFF09",
+        "localizations": {
+          "en": "(Still, that cat...)"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E6\u30CA",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u306F\u3042\u3042\u3041\u3041\u3041\uFF01\uFF01\u3000\u306A\u3093\u3066\u304B\u308F\u3044\u3044\u3093\u3060\uFF01\n\u3000\u4ECA\u52A9\u3051\u308B\u304B\u3089\u306D\u3001\u5F85\u3063\u3066\u3066\u306D\uFF01\uFF09",
+        "localizations": {
+          "en": "(Ahhhhh!! It\u0027s so adorable!\nJust wait there, I\u0027ll save you right away!)"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E6\u30CA",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "\u307B\u3089\u3001\u6016\u304F\u306A\u3044\u3001\u6016\u304F\u306A\u3044\u3002\n\u79C1\u306B\u5411\u3051\u3066\u98DB\u3073\u964D\u308A\u3066\u304A\u3044\u3067",
+        "localizations": {
+          "en": "There, there, don\u0027t be scared.\nJump down to me, it\u0027s safe."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E6\u30CA",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "\u306B\u3083\u3042\u304A\u2026\u2026\uFF1F",
+        "localizations": {
+          "en": "Meow...?"
+        }
+      },
+      "2072370017": {
+        "text": "\u5B50\u732B",
+        "localizations": {
+          "en": "Kitten"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u305D\u3046\u3001\u3053\u3063\u3061\u3092\u898B\u3066\u3002\n\u307B\u3089\u3001\u6765\u308B\u3093\u3060\uFF01",
+        "localizations": {
+          "en": "That\u0027s right, look over here.\nCome on, you can do it!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E6\u30CA",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "\u306B\u3083\u3042\u2026\u2026\uFF1F",
+        "localizations": {
+          "en": "Meow...?"
+        }
+      },
+      "2072370017": {
+        "text": "\u5B50\u732B",
+        "localizations": {
+          "en": "Kitten"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u306F\u3042\u3042\u3041\u3041\u3041\uFF01\uFF01\u3000\u9996\u3092\u50BE\u3052\u308B\u4ED5\u8349\u306F\u3001\u7F6A\u2026\u2026\uFF09",
+        "localizations": {
+          "en": "(Ahhhhh!! That head tilt is criminal...)"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E6\u30CA",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "\u30CB\u30E3\u30C3\uFF01",
+        "localizations": {
+          "en": "Nyah!"
+        }
+      },
+      "2072370017": {
+        "text": "\u5B50\u732B",
+        "localizations": {
+          "en": "Kitten"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "\u30B0\u30C3\u2026\u2026\uFF01\uFF1F",
+        "localizations": {
+          "en": "Oof...!?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E6\u30CA",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u3042\u2026\u2026\uFF01\u3000\u5927\u4E08\u592B\u3067\u3059\u304B\uFF01\uFF1F\n\u9854\u9762\u306B\u7740\u5730\u3057\u3066\u3044\u304D\u307E\u3057\u305F\u304C",
+        "localizations": {
+          "en": "Oh my...! Are you alright!?\nThat was quite the face-first landing!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30C7\u30A3\u30AA\u30FC\u30CA",
+        "localizations": {
+          "en": "Diona"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "\u5927\u4E08\u592B\u3060\u3001\u3057\u3063\u304B\u308A\u3068\u6355\u307E\u3048\u305F\u305E",
+        "localizations": {
+          "en": "I\u0027m fine. I caught it safely."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E6\u30CA",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "\u3055\u3059\u304C\u304A\u898B\u4E8B\u3067\u3059",
+        "localizations": {
+          "en": "Most impressive indeed."
+        }
+      },
+      "2072370017": {
+        "text": "\u9AA8\u8463\u5E97\u5E97\u4E3B",
+        "localizations": {
+          "en": "Antique Shop Owner"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "\u307E\u3063\u305F\u304F\u3001\u3084\u3093\u3061\u3083\u306A\u91CE\u826F\u732B\u3067\u3057\u3066\u3002\n\u3046\u3061\u306E\u58FA\u5272\u3063\u3066\u307E\u3057\u305F\u308F",
+        "localizations": {
+          "en": "Though I must say, this mischievous stray\nhas already broken one of my vases."
+        }
+      },
+      "2072370017": {
+        "text": "\u9AA8\u8463\u5E97\u5E97\u4E3B",
+        "localizations": {
+          "en": "Antique Shop Owner"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u306A\u3093\u3060\u3068\uFF01\u3000\u307E\u305A\u3044\u3001\u3053\u306E\u307E\u307E\u3067\u306F\u5B50\u732B\u306E\n\u3000\u8CAC\u4EFB\u554F\u984C\u306B\u306A\u3063\u3066\u3057\u307E\u3046\uFF01\uFF09",
+        "localizations": {
+          "en": "(What!? This is bad - the kitten could be\nheld responsible for the damages!)"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E6\u30CA",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "\u732B\u3082\u60AA\u6C17\u306F\u3042\u308B\u307E\u3044\u3002\u79C1\u304C\u305D\u306E\n\u6599\u91D1\u3092\u7ACB\u3066\u66FF\u3048\u3066\u304A\u3053\u3046",
+        "localizations": {
+          "en": "The cat meant no harm. I\u0027ll cover\nthe cost of the vase myself."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E6\u30CA",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "\u3048\u3048\u3063\uFF01\uFF1F",
+        "localizations": {
+          "en": "Ehhhh!?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30C7\u30A3\u30AA\u30FC\u30CA",
+        "localizations": {
+          "en": "Diona"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "\u3044\u3063\u3001\u3044\u3084\u3044\u3084\uFF01\u3000\u3044\u3044\u3067\u3059\u3063\u3066\n\u58FA\u3082\u5B89\u7269\u3067\u3059\u3057\uFF01",
+        "localizations": {
+          "en": "N-no, no! Please don\u0027t worry about it!\nIt was just a cheap vase anyway!"
+        }
+      },
+      "2072370017": {
+        "text": "\u9AA8\u8463\u5E97\u5E97\u4E3B",
+        "localizations": {
+          "en": "Antique Shop Owner"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "\u82F1\u96C4\u306F\u5F37\u3044\u3060\u3051\u304C\u3001\u305D\u306E\u8A3C\u3067\u306F\u306A\u3044",
+        "localizations": {
+          "en": "A hero\u0027s strength isn\u0027t measured by might alone."
+        }
+      },
+      "2072370017": {
+        "text": "\u30C7\u30A3\u30AA\u30FC\u30CA",
+        "localizations": {
+          "en": "Diona"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u306E\u88CF\u306B\u512A\u3057\u3044\u7D20\u9854\u304C\u3042\u308B",
+        "localizations": {
+          "en": "Behind that strength lies a gentle heart."
+        }
+      },
+      "2072370017": {
+        "text": "\u30C7\u30A3\u30AA\u30FC\u30CA",
+        "localizations": {
+          "en": "Diona"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u2026\u2026\u826F\u304B\u3063\u305F\u3001\u3053\u306E\u7A0B\u5EA6\u306E\u8A71\u3067\u6E08\u3093\u3060\u304B\uFF09",
+        "localizations": {
+          "en": "(...Thank goodness this story ended here.)"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E6\u30CA",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "\u3078\u3078\u3001\u306A\u3093\u3060\u304A\u524D\u3001\u5B50\u732B\u306B\u7518\u3044\u306E\u304B",
+        "localizations": {
+          "en": "Heh, so you\u0027ve got a soft spot for kittens, eh?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30DE\u30AF\u30C0",
+        "localizations": {
+          "en": "Magda"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "\u3046\u3001\u3046\u308B\u3055\u3044\u3002\u3042\u306E\u9B54\u529B\u306B\u306F\u8AB0\u306B\u3082\u6297\u3048\u306A\u3044\u3093\u3060",
+        "localizations": {
+          "en": "S-silence. No one can resist their magical charm."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E6\u30CA",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "\u306B\u3083\u30FC\u3093\uFF1F",
+        "localizations": {
+          "en": "Meooow?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30DF\u30FC\u30B1",
+        "localizations": {
+          "en": "Mieke"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "\u3084\u3081\u308D\uFF01\u3000\u8033\u304C\u3042\u308B\u304B\u3089\u3063\u3066\u8A31\u3055\u308C\u308B\u3068\u601D\u3046\u306A\uFF01",
+        "localizations": {
+          "en": "Stop that! Having animal ears doesn\u0027t give you a free pass!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E6\u30CA",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "\u30DF\u30FC\u30B1\u306E\u3053\u3068\u306F\u3044\u304F\u3089\u304B\u308F\u3044\u304C\u3063\u3066\u3082\u3044\u3044\u3093\u3060\u3088\uFF1F",
+        "localizations": {
+          "en": "But it\u0027s okay to shower Mieke with affection, right?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30DF\u30FC\u30B1",
+        "localizations": {
+          "en": "Mieke"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "\u306A\u306B\u3063\u3001\u305D\u3001\u305D\u308C\u306F\u672C\u5F53\u304B\uFF01\u3000\u672C\u5F53\u306A\u306E\u304B\uFF01",
+        "localizations": {
+          "en": "What!? I-is that true!? Really true!?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E6\u30CA",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "\u3046\u3063\u3001\u305D\u3046\u30BA\u30BA\u3063\u3068\u304F\u308B\u3068\u3001\u6016\u3044\u306D\u3047\u2026\u2026",
+        "localizations": {
+          "en": "Ugh, when you lean in like that, it\u0027s kind of scary..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30DF\u30FC\u30B1",
+        "localizations": {
+          "en": "Mieke"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "\u306A\u308B\u307B\u3069\u2026\u2026\u9AD8\u3044\u6240\u306B\u767B\u3063\u3066\u964D\u308A\u3089\u308C\u306A\u304F\u306A\u3063\u305F\n\u732B\u3092\u52A9\u3051\u308B\u306E\u3082\u9A0E\u58EB\u306E\u4ED5\u4E8B\u3067\u3042\u308B\u3001\u3068",
+        "localizations": {
+          "en": "I see... So rescuing cats stuck in high places\nis also part of a knight\u0027s duties."
+        }
+      },
+      "2072370017": {
+        "text": "\u30C7\u30A3\u30AA\u30FC\u30CA",
+        "localizations": {
+          "en": "Diona"
+        }
+      }
+    }
+  }
+]

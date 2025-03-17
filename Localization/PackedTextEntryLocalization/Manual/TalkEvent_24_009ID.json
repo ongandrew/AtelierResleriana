@@ -1,0 +1,733 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "おーし、今日も張り切って採取していこー！",
+        "localizations": {
+          "en": "Alright! Let's get fired up for gathering today!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "おーし！",
+        "localizations": {
+          "en": "Let's do it!"
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "こらこら。今日は聖戦士としての\nベップちゃんの初仕事なんだから",
+        "localizations": {
+          "en": "Now, now. Today is Bepp's first assignment as a Sacred Knight."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "分かってるってば。でも、ヤンネさんが\nベップの教育係についてくれて助かったよ",
+        "localizations": {
+          "en": "I know, I know. But it's such a help having you as Bepp's instructor, Janne."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "こうやって便乗して錬金術の素材探しに\n出かけられるんだから",
+        "localizations": {
+          "en": "This way I can tag along and look for alchemy materials too!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "……本当は止めるべきなんだろうけど",
+        "localizations": {
+          "en": "...I really should stop you, you know."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "何度も言ってるように、\n一人で無茶なことしたらダメだからね",
+        "localizations": {
+          "en": "Like I've said many times before, no reckless solo adventures."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "分かっとります！\u3000もし言いつけを破ったら\nこのアルビ、お仕置きを、甘んじて受けます",
+        "localizations": {
+          "en": "Yes, ma'am! If I disobey, I will humbly accept whatever punishment you deem fit!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "おや？\u3000こんなところで星の案内人さんと出会うなんて",
+        "localizations": {
+          "en": "Oh? What a surprise to find our Star Guide in a place like this."
+        }
+      },
+      "2072370017": {
+        "text": "？？？",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "げぇっ、シトリン……",
+        "localizations": {
+          "en": "Ugh, Citrine..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "ご挨拶だなあ。もしかして、こんな洞窟にまで\n観光客を連れてきたのかい？",
+        "localizations": {
+          "en": "Charming greeting. Don't tell me you're giving tours to tourists in caves now?"
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "そんなわけないでしょ。ちょっと散歩に来ただけ。\nアンタこそ、ここに何しに来たのよ",
+        "localizations": {
+          "en": "Of course not. Just taking a walk. What are you doing here anyway?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "今日は僕、「神聖国なんでも屋」として\n魔物退治の依頼をこなしに来たんだよ",
+        "localizations": {
+          "en": "Today I'm here as Nova's handyperson, taking care of a monster extermination request."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "ホントになんっでも仕事を受けるのねぇ",
+        "localizations": {
+          "en": "You really do take ANY kind of job, don't you?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "まぁね。君こそ、なんでも屋紛いのことをして\n観光客からお金を巻き上げてるって噂を聞いたけど？",
+        "localizations": {
+          "en": "Well, yes. Though I hear you've been running your own little side business, squeezing money out of tourists?"
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "はえー、そんなくだらない噂があるんだ。アホくさ",
+        "localizations": {
+          "en": "Hah, what stupid rumors. That's ridiculous."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "というか、アンタなんて外からやって来て、\n好き勝手に商売してるじゃない",
+        "localizations": {
+          "en": "Besides, you're the one who came from outside and started doing business however you please!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "僕の「なんでも屋」は儀式でちゃーんと決まったこと。\n悪く言われる筋合いはないよねぇ",
+        "localizations": {
+          "en": "My handyperson role was properly decided by the ceremony. I don't deserve any criticism."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "この国はさ、成人してる場合は儀式で\n職業を決めてもらえば問題なしなんでしょ？",
+        "localizations": {
+          "en": "In this country, as long as you're an adult and get your profession from the ceremony, there's no problem, right?"
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "なんか都合がいいのよね、アンタは。\nなんでも屋とか、対象が広すぎるわ",
+        "localizations": {
+          "en": "How convenient for you. 'Handyperson' is way too broad of a profession."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "あっはっは。羨ましいって顔に書いてあるよ。\nじゃーね！\u3000何か困ったことがあれば請け負うよ～",
+        "localizations": {
+          "en": "Ahaha! It's written all over your face—you're jealous! See ya! Call me if you need anything."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "あの子、最近よく話してるけど、仲いいの？",
+        "localizations": {
+          "en": "You two seem to talk quite often. Are you friends?"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "いいわけないっすわ。何かとこっちに\n突っかかってくるし、迷惑してるっすわ",
+        "localizations": {
+          "en": "As if! She's always picking fights with me. She's nothing but trouble."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "あら。\nもしかして、あなたに気があったり？",
+        "localizations": {
+          "en": "Oh my. Perhaps she likes you?"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "アルビちゃんも、もしかしてソレかと思って\nシトリンをからかってみたんすよ。そしたら",
+        "localizations": {
+          "en": "I actually thought that might be it too, so I tried teasing her about it. But then—"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "あっはっは。僕が好きなのは、宝石だよ",
+        "localizations": {
+          "en": "Ahaha! The only things I love are gems!"
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "って、けろりと言ってたので、そのセンはないかと",
+        "localizations": {
+          "en": "She just brushed it off like that, so I figured that wasn't it."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "待って。姉様は宝石のように美しい。実は告白かも",
+        "localizations": {
+          "en": "Wait. You are as beautiful as a gem. Perhaps it was a confession?"
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "あー！\u3000そっかそっか、そういう意味だったのか\nあるかもしれない！！",
+        "localizations": {
+          "en": "Ah! Could it be? Maybe that's what she meant!! That could be it!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "……あなたって、昔から、変わらない性格してるわね",
+        "localizations": {
+          "en": "...You really haven't changed at all, have you?"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "とにかくシトリン苦手。妙に勘が鋭くて、\n錬金術のことバレそうになったりするし……",
+        "localizations": {
+          "en": "Anyway, I can't stand Citrine. She's weirdly perceptive, and I keep worrying she'll find out about the alchemy..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "大体、「なんでも屋」なんて……\nそんな天命、聞いたことないよ",
+        "localizations": {
+          "en": "Besides, handyperson of all things... I've never heard of such a divine calling."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "儀式で決まったことに文句を付けない、めっ！",
+        "localizations": {
+          "en": "No questioning what the ceremony decides, young lady!"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "わ、分かってマスよぉ。ね、ねぇベップ",
+        "localizations": {
+          "en": "Y-yes, I understaaand. Right, Bepp?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "姉様は、分かってる",
+        "localizations": {
+          "en": "She understands."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "ま、いいわ！\u3000こっちは錬金術を学ぶのに忙しい",
+        "localizations": {
+          "en": "Whatever! I'm too busy studying alchemy anyway."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "ああいう手合いは、相手にせぬわ！",
+        "localizations": {
+          "en": "I won't waste my time on the likes of her!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "姉様、なんて大人。精神的に勝利しているわ",
+        "localizations": {
+          "en": "How mature, dear sister. A spiritual victory indeed."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "よければそんな姉様に勝利の舞いを披露したい",
+        "localizations": {
+          "en": "If you'll allow me, I'd like to perform a victory dance for you."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "第一幕！",
+        "localizations": {
+          "en": "Act One!"
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "ヒュー、かわいいよ、ベップー！",
+        "localizations": {
+          "en": "Woo! You're so cute, Bepp!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "はいはい、そろそろ行くわよ、あなたたち",
+        "localizations": {
+          "en": "Alright, alright, time to get going, you two."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "様々な依頼を請け負う「なんでも屋」。\nアルビーナとは折り合いが悪く、よく言い合いになる",
+        "localizations": {
+          "en": "Citrine is a handyperson who takes on various requests.\nShe often clashes with Alvina, leading to frequent arguments."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,580 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "\u3046\u30FC\u3093\u3002\n\u30C1\u30E7\u30B3\u306B\u3069\u3093\u306A\u60F3\u3044\u3092\u8FBC\u3081\u305F\u3044\u304B\u3001\u304B\u3041\u2026\u2026",
+        "localizations": {
+          "en": "Hmm... What feelings should I put into this chocolate..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "\u3088\u3046\u3001\u30BD\u30D5\u30A3\u30FC\uFF01",
+        "localizations": {
+          "en": "Hey, Sophie!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30DE\u30AF\u30C0",
+        "localizations": {
+          "en": "Magda"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u308C\uFF1F\u3000\u30DE\u30AF\u30C0\u3055\u3093\uFF01",
+        "localizations": {
+          "en": "Oh? Magda!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "\u3069\u3046\u3057\u305F\u3001\u305D\u3093\u306A\u8F9B\u6C17\u81ED\u3044\u9854\u3057\u3066\u3002\n\u3082\u3046\u3059\u3050\u30EA\u30F3\u30C7\u796D\u3060\u3063\u3066\u306E\u306B\u3088",
+        "localizations": {
+          "en": "Why the gloomy face?\nThe Linde Festival\u0027s just around the corner, y\u0027know!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30DE\u30AF\u30C0",
+        "localizations": {
+          "en": "Magda"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "\u3053\u306E\u30DE\u30AF\u30C0\u69D8\u307F\u3066\u3048\u306B\u3001\n\u3082\u3063\u3068\u697D\u3057\u307E\u306A\u304D\u3083\u640D\u3060\u305E\uFF5E",
+        "localizations": {
+          "en": "You gotta enjoy yourself more,\njust like yours truly!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30DE\u30AF\u30C0",
+        "localizations": {
+          "en": "Magda"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u306F\u306F\u3001\u305D\u3046\u3067\u3059\u3088\u306D\u3002\n\u5B9F\u306F\u3001\u305D\u306E\u30EA\u30F3\u30C7\u796D\u306E\u3053\u3068\u3067\u60A9\u3093\u3067\u3044\u3066\u2026\u2026",
+        "localizations": {
+          "en": "Ahaha, you\u0027re right.\nActually, I\u0027ve been worrying about the Linde Festival..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "\u3078\u3048\uFF1F\u3000\u305D\u3046\u3044\u3046\u3053\u3068\u306A\u3089\u3001\n\u76F8\u8AC7\u306B\u3067\u3082\u4E57\u3063\u3066\u3084\u308D\u3046\u304B",
+        "localizations": {
+          "en": "Oh? Well in that case,\nwhy don\u0027t ya let me help you out?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30DE\u30AF\u30C0",
+        "localizations": {
+          "en": "Magda"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "\u672C\u5F53\u3067\u3059\u304B\uFF1F\u3000\u3042\u308A\u304C\u3068\u3046\u3054\u3056\u3044\u307E\u3059\uFF01\n\u5B9F\u306F\u3067\u3059\u306D\u2026\u2026",
+        "localizations": {
+          "en": "Really? Thank you!\nWell, you see..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "\u2015\u2015\u306A\u308B\u307B\u3069\u306A\u3002\u3069\u3093\u306A\u30C1\u30E7\u30B3\u3092\u4F5C\u308A\u3083\u3044\u3044\u304B\u3001\n\u5206\u304B\u3089\u306A\u304F\u306A\u3063\u3061\u307E\u3063\u305F\u308F\u3051\u304B",
+        "localizations": {
+          "en": "I see... So you\u0027re having trouble figuring out\nwhat kind of chocolate to make, huh?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30DE\u30AF\u30C0",
+        "localizations": {
+          "en": "Magda"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u306A\u3093\u3067\u3059\u3002\u30DE\u30AF\u30C0\u3055\u3093\u306F\u3069\u3046\u601D\u3044\u307E\u3059\u304B\uFF1F",
+        "localizations": {
+          "en": "That\u0027s right. What do you think, Magda?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "\u5FC3\u3092\u8FBC\u3081\u308A\u3083\u305D\u308C\u3067\u3044\u3044\u3093\u3058\u3083\u306D\u3047\u304B\uFF1F\u3000\u3093\uFF5E\u2026\u2026\n\u76F8\u8AC7\u306B\u4E57\u3063\u3068\u3044\u3066\u306A\u3093\u3060\u304C\u6B63\u89E3\u306F\u5206\u304B\u3089\u306D\u3047\u3001\u60AA\u3044",
+        "localizations": {
+          "en": "Ain\u0027t it fine as long as you put your heart into it? Hmm...\nSorry, but I can\u0027t give you a clear answer here."
+        }
+      },
+      "2072370017": {
+        "text": "\u30DE\u30AF\u30C0",
+        "localizations": {
+          "en": "Magda"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u3067\u3059\u304B\u2026\u2026\n\u30DE\u30AF\u30C0\u3055\u3093\u306F\u3001\u8AB0\u304B\u306B\u30C1\u30E7\u30B3\u3092\u3042\u3052\u306A\u3044\u3093\u3067\u3059\u304B\uFF1F",
+        "localizations": {
+          "en": "I see...\nAre you giving chocolate to anyone, Magda?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u3041\u3001\u30D6\u30E9\u30C3\u30C9\u306B\u306F\u6E21\u3059\u305C\u3002\u3042\u3044\u3064\u306F\u574A\u3061\u3083\u3093\u306A\u3060\u3051\n\u3042\u3063\u3066\u3001\u738B\u90FD\u4E0B\u753A\u306E\u3046\u307E\u3044\u5E97\u3092\u307E\u3060\u307E\u3060\u77E5\u3089\u306A\u3044\u304B\u3089\u306A",
+        "localizations": {
+          "en": "Yeah, I\u0027m giving some to Brad. That young master still doesn\u0027t\nknow all the good spots in the Lower Quarter."
+        }
+      },
+      "2072370017": {
+        "text": "\u30DE\u30AF\u30C0",
+        "localizations": {
+          "en": "Magda"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u306A\u3093\u3067\u3059\u306D\u30FC\u3002\n\u4EF2\u3001\u3044\u3044\u3067\u3059\u3082\u3093\u306D",
+        "localizations": {
+          "en": "I see~\nYou two are pretty close, aren\u0027t you?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "\u307E\u3041\u3001\u4ED5\u4E8B\u4E0A\u3001\u6700\u8FD1\u3088\u304F\u7D44\u3093\u3067\u308B\u304B\u3089\u3088\u2026\u2026",
+        "localizations": {
+          "en": "Well, we\u0027ve been working together a lot lately..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30DE\u30AF\u30C0",
+        "localizations": {
+          "en": "Magda"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "\u3048\uFF1F\u3000\u3060\u3063\u3066\u3001\u30EA\u30F3\u30C7\u796D\u306E\u30C1\u30E7\u30B3\u3063\u3066\u3001\n\u304A\u4E16\u8A71\u306B\u306A\u3063\u3066\u3044\u308B\u4EBA\u306B\u6E21\u3059\u3082\u306E\u3058\u3083\u306A\u3044\u3067\u3059\u304B",
+        "localizations": {
+          "en": "Huh? But Linde Festival chocolate is supposed to be\nfor people you\u0027re grateful to, right?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "\u30DE\u30AF\u30C0\u3055\u3093\u3001\u3088\u304F\u30D6\u30E9\u30C3\u30C9\u3055\u3093\u3068\u4E00\u7DD2\u306B\u3044\u307E\u3059\u3057\u3002\n\u3042\u3052\u308B\u3068\u3057\u305F\u3089\u30D6\u30E9\u30C3\u30C9\u3055\u3093\u306A\u306E\u304B\u306A\u3063\u3066",
+        "localizations": {
+          "en": "You\u0027re always with Brad, so I thought\nhe\u0027d be the natural choice."
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "\u3067\u3082\u304A\u524D\u3001\u3042\u308C\u3060\u305C\uFF01\n\u30EA\u30F3\u30C7\u796D\u306E\u30C1\u30E7\u30B3\u3063\u3064\u3063\u3066\u3082\u3001\u3042\u308C\u3060\u305C\uFF01",
+        "localizations": {
+          "en": "But hey, you know what!\nLinde Festival chocolate is, well, you know!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30DE\u30AF\u30C0",
+        "localizations": {
+          "en": "Magda"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "\u3067\u3082\u304A\u524D\u3001\u3042\u308C\u3060\u305C\uFF01\n\u30EA\u30F3\u30C7\u796D\u306E\u30C1\u30E7\u30B3\u3063\u3064\u3063\u3066\u3082\u3001\u3042\u308C\u3060\u305C\uFF01",
+        "localizations": {
+          "en": "But hey, you know what!\nLinde Festival chocolate is, well, you know!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30DE\u30AF\u30C0",
+        "localizations": {
+          "en": "Magda"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "\u574A\u3061\u3083\u3093\u306B\u6E21\u3059\u306E\u306F\u3044\u3064\u3082\u306E\u304A\u793C\u3063\u3066\u610F\u5473\u3060\u3002\n\u91CD\u8981\u306A\u610F\u5473\u304C\u542B\u307E\u308C\u3066\u3044\u308B\u308F\u3051\u3058\u3083\u306D\u3047\uFF01",
+        "localizations": {
+          "en": "I\u0027m just giving it to the young master as thanks.\nThere\u0027s no deeper meaning to it!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30DE\u30AF\u30C0",
+        "localizations": {
+          "en": "Magda"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "\u91CD\u8981\u306A\u610F\u5473\uFF1F\n\u305D\u308C\u3063\u3066\u306A\u3093\u3067\u3059\u304B\uFF1F\u3000\u6559\u3048\u3066\u304F\u3060\u3055\u3044\uFF01",
+        "localizations": {
+          "en": "Deeper meaning?\nWhat\u0027s that? Tell me!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3001\u305D\u308C\u306F\u305D\u306E\uFF5E\u2026\u2026\uFF01",
+        "localizations": {
+          "en": "Th-that\u0027s, um...!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30DE\u30AF\u30C0",
+        "localizations": {
+          "en": "Magda"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "\u304A\u3084\u2026\u2026",
+        "localizations": {
+          "en": "Oh my..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30D6\u30E9\u30C3\u30C9",
+        "localizations": {
+          "en": "Brad"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "\u3046\u304A\u3063\uFF01\uFF1F",
+        "localizations": {
+          "en": "Waah!?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30DE\u30AF\u30C0",
+        "localizations": {
+          "en": "Magda"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "\u30D6\u30E9\u30C3\u30C9\u3055\u3093\u3001\u5947\u9047\u3067\u3059\u306D\uFF01\n\u3061\u3087\u3046\u3069\u30D6\u30E9\u30C3\u30C9\u3055\u3093\u306E\u8A71\u3092\u3057\u3066\u3044\u305F\u3068\u3053\u308D\u306A\u3093\u3067\u3059\u3088",
+        "localizations": {
+          "en": "Brad! What a coincidence!\nWe were just talking about you!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u3060\u3063\u305F\u306E\u304B\u3002\n\u4F55\u304B\u8A71\u3067\u3082\u3042\u308B\u306E\u304B\u3001\u30DE\u30AF\u30C0\uFF1F",
+        "localizations": {
+          "en": "Is that so?\nDid you need something, Magda?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D6\u30E9\u30C3\u30C9",
+        "localizations": {
+          "en": "Brad"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "\u304F\u3063\u304F\u3063\u304F\u3002\u30EA\u30F3\u30C7\u796D\u3067\u3001\u30DE\u30AF\u30C0\u69D8\u304C\u304A\u524D\u306B\n\u30C1\u30E7\u30B3\u3092\u7528\u610F\u3057\u3066\u308B\u3063\u3066\u8A71\u3055\u3002\u5149\u6804\u306B\u601D\u3048\u3088",
+        "localizations": {
+          "en": "Heh heh heh. Just that I\u0027m preparing chocolate for you\nat the Linde Festival. Consider yourself honored!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30DE\u30AF\u30C0",
+        "localizations": {
+          "en": "Magda"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "\u306A\u3093\u3060\u2026\u2026\uFF1F\n\u3069\u3046\u3057\u305F\u3093\u3060\u3001\u30DE\u30AF\u30C0\uFF01",
+        "localizations": {
+          "en": "What\u0027s this...?\nWhat\u0027s gotten into you, Magda!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D6\u30E9\u30C3\u30C9",
+        "localizations": {
+          "en": "Brad"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u3093\u306A\u306B\u614C\u3066\u3066\u3069\u3046\u3057\u305F\u3093\u3060\u308D\u3001\u30DE\u30AF\u30C0\u3055\u3093\uFF1F",
+        "localizations": {
+          "en": "I wonder why Magda ran off in such a hurry?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "\u3082\u3063\u3068\u8A73\u3057\u304F\u805E\u304D\u305F\u304B\u3063\u305F\u3051\u3069\u2026\u2026\u3002\n\u3057\u3087\u3046\u304C\u306A\u3044\u304B\u306A",
+        "localizations": {
+          "en": "I wanted to ask more questions, but...\nGuess it can\u0027t be helped."
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "\u3080\u3057\u308D\u304A\u524D\u304C\u79C1\u306B\u6E21\u3055\u306A\u304B\u3063\u305F\u3089\u3001\u79C1\u306F\u60B2\u3057\u3044\u305E\u3002\n\u5171\u306B\u884C\u52D5\u3057\u3066\u3044\u308B\u3060\u308D\u3046",
+        "localizations": {
+          "en": "I\u0027d actually be sad if you didn\u0027t give me any.\nWe do work together, after all."
+        }
+      },
+      "2072370017": {
+        "text": "\u30D6\u30E9\u30C3\u30C9",
+        "localizations": {
+          "en": "Brad"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "\u304A\u3001\u304A\u3045",
+        "localizations": {
+          "en": "Y-yeah..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30DE\u30AF\u30C0",
+        "localizations": {
+          "en": "Magda"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "\u79C1\u3068\u3057\u3066\u3082\u3001\u3057\u3063\u304B\u308A\u3057\u305F\u30C1\u30E7\u30B3\u30EC\u30FC\u30C8\u3092\n\u304A\u524D\u306B\u7528\u610F\u3059\u308B\u3002\u3053\u308C\u3082\u307E\u305F\u3001\u5F53\u7136\u306E\u3053\u3068\u3060",
+        "localizations": {
+          "en": "And naturally, I\u0027ll be preparing some proper chocolate\nfor you as well. It\u0027s only right."
+        }
+      },
+      "2072370017": {
+        "text": "\u30D6\u30E9\u30C3\u30C9",
+        "localizations": {
+          "en": "Brad"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "\u30AA\u3001\u30AA\u30E2\u30B7\u30EC\u30A7\u2026\u2026\u5F85\u3063\u3066\u308B\u305C\u3047\u30B3\u30E9\u3001\u3042\u3070\u3088",
+        "localizations": {
+          "en": "Th-this is getting interesting... Looking forward to it, see ya!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30DE\u30AF\u30C0",
+        "localizations": {
+          "en": "Magda"
+        }
+      }
+    }
+  }
+]

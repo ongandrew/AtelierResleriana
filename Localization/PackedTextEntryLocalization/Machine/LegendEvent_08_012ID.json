@@ -1,0 +1,597 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "\u516C\u8A8D\u932C\u91D1\u8853\u58EB\u5236\u5EA6\u3001\u672C\u5F53\u306B\u3084\u3081\u3061\u3083\u3063\u3066\u3082\u3044\u3044\u306E\uFF1F",
+        "localizations": {
+          "en": "Are you sure it\u0027s okay to just discontinue the certified alchemist system?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "\u306F\u3044\u3001\u308F\u305F\u3057\u306F\u63A8\u85A6\u72B6\u3092\u66F8\u304F\u306A\u3093\u3066\u4F3C\u5408\u3044\u307E\u305B\u3093\u3057",
+        "localizations": {
+          "en": "Yes, writing recommendations doesn\u0027t really suit me anyway."
+        }
+      },
+      "2072370017": {
+        "text": "\u30D5\u30A3\u30EA\u30B9",
+        "localizations": {
+          "en": "Firis"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u308C\u306B\u30A2\u30BF\u30B7\u3082\u3082\u3046\u5341\u5206\u6E80\u8DB3\u3057\u305F\u308F\uFF01\n\u8A66\u9A13\u306F\u53D6\u308A\u3084\u3081\u306B\u3057\u3066\u3001\u5168\u90E8\u306A\u304B\u3063\u305F\u3053\u3068\u306B\u3057\u307E\u3057\u305F",
+        "localizations": {
+          "en": "Besides, I\u0027m completely satisfied! We\u0027re canceling the exam and pretending none of this ever happened."
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30EB\u30E1\u30EA\u30A2",
+        "localizations": {
+          "en": "Ilmeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u3067\u3059\u306D\u3001\u305D\u306E\u307B\u3046\u304C\u3044\u3044\u3068\u601D\u3044\u307E\u3059\u3002\n\u4ECA\u306E\u81EA\u7531\u306A\u59FF\u304C\u3001\u932C\u91D1\u8853\u58EB\u306B\u306F\u3075\u3055\u308F\u3057\u3044\u3067\u3057\u3087\u3046",
+        "localizations": {
+          "en": "Yes, I think that\u0027s for the best. This free-spirited approach is more fitting for alchemists."
+        }
+      },
+      "2072370017": {
+        "text": "\u30D7\u30E9\u30D5\u30BF",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3063\u304B\uFF5E\u2026\u2026\u6B8B\u5FF5\u3060\u3063\u305F\u306A\u3041",
+        "localizations": {
+          "en": "I see... That\u0027s too bad."
+        }
+      },
+      "2072370017": {
+        "text": "\u30C6\u30B9",
+        "localizations": {
+          "en": "Tess"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "\u6B8B\u5FF5\uFF1F\u3000\u3082\u3057\u304B\u3057\u3066\u30C6\u30B9\u3055\u3093\u3001\n\u8A66\u9A13\u53D7\u3051\u3088\u3046\u3068\u601D\u3063\u3066\u305F\u3093\u3067\u3059\u304B\uFF1F",
+        "localizations": {
+          "en": "Too bad? Tess, were you planning to take the exam?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "\u3046\u3093\u3001\u3042\u305F\u3057\u3060\u3051\u3058\u3083\u306A\u304F\u3066\u30E2\u30CB\u30AB\u3082\u3060\u3051\u3069\u306D",
+        "localizations": {
+          "en": "Yeah, and not just me\u2014Monika too."
+        }
+      },
+      "2072370017": {
+        "text": "\u30C6\u30B9",
+        "localizations": {
+          "en": "Tess"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "\u6700\u521D\u306F\u53D7\u3051\u308B\u6C17\u306F\u306A\u304B\u3063\u305F\u3093\u3060\u3051\u3069\u3001\n\u3061\u3087\u3063\u3068\u8208\u5473\u304C\u6E67\u3044\u3066\u306D\u3002\u3053\u308C\u3092\u6A5F\u306B\u52C9\u5F37\u3057\u3088\u3046\u304B\u3068",
+        "localizations": {
+          "en": "I wasn\u0027t interested at first, but it started to intrigue me. I was thinking of using this as a chance to study."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E2\u30CB\u30AB",
+        "localizations": {
+          "en": "Monika"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u3060\u3063\u305F\u3093\u3060\u2026\u2026\u30A4\u30EB\u3061\u3083\u3093\u306E\u304A\u304B\u3052\u3067\n\u932C\u91D1\u8853\u306B\u89E6\u308C\u3066\u308B\u4EBA\u304C\u3001\u3082\u3063\u3068\u3044\u305F\u3089\u3044\u3044\u306D",
+        "localizations": {
+          "en": "I see... It would be nice if more people got involved with alchemy, like they did thanks to Ilmeria."
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "\u3044\u3084\u3041\u3001\u78BA\u5B9F\u306B\u305D\u308C\u306F\u5897\u3048\u3066\u308B\u3067\u3057\u3087\u3002\n\u8857\u4E2D\u3067\u6700\u8FD1\u306F\u932C\u91D1\u8853\u306E\u8A71\u3092\u3061\u3089\u307B\u3089\u805E\u304F\u3088\u3046\u306B\u306A\u3063\u305F\u3057",
+        "localizations": {
+          "en": "Oh, that\u0027s definitely happening! I\u0027ve been hearing more and more talk about alchemy around town lately."
+        }
+      },
+      "2072370017": {
+        "text": "\u30CF\u30A4\u30C7\u30A3",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "\u306A\u3093\u3060\u3001\u4FFA\u3082\u3044\u3063\u3061\u3087\u672C\u6C17\u3067\n\u8A66\u9A13\u53D7\u3051\u3088\u3046\u3068\u3057\u3066\u305F\u306E\u306B\u3088\u3049\u3002\u6B8B\u5FF5\u3060\u305C",
+        "localizations": {
+          "en": "Man, and here I was actually planning to take the exam seriously. What a shame."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30F3\u30C4\u30A7",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3093\u306A\u3053\u3068\u3044\u3063\u3066\u3001\u3069\u30FC\u305B\u3042\u306E\u8863\u88C5\u624B\u306B\u5165\u308C\u3066\n\u30D5\u30ED\u30C3\u30B1\u306B\u7740\u305B\u305F\u304B\u3063\u305F\u3060\u3051\u3067\u3057\u3087",
+        "localizations": {
+          "en": "Oh please, you just wanted to get that outfit so you could make Flocke wear it."
+        }
+      },
+      "2072370017": {
+        "text": "\u30CF\u30A4\u30C7\u30A3",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "\u3046\u3001\u3046\u308B\u305B\u3048\uFF01\n\u5225\u306B\u3044\u3044\u3060\u308D\u3001\u4FFA\u3058\u3083\u7740\u308C\u306D\u3048\u3093\u3060\u3057\uFF01",
+        "localizations": {
+          "en": "S-Shut up! What\u0027s wrong with that? It\u0027s not like I could wear it myself!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30F3\u30C4\u30A7",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "\u304F\u3063\u2026\u2026\u3075\u3075\u3075\u3063\uFF01",
+        "localizations": {
+          "en": "Pfft... Heheheh!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30EB\u30E1\u30EA\u30A2",
+        "localizations": {
+          "en": "Ilmeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u3063\u3001\u4ECA\u3001\u4FFA\u304C\u305D\u306E\u8863\u88C5\u7740\u305F\u3068\u3053\u60F3\u50CF\u3057\u3084\u304C\u3063\u305F\u306A\uFF01\uFF1F",
+        "localizations": {
+          "en": "Hey! You just imagined me wearing that outfit, didn\u0027t you?!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30F3\u30C4\u30A7",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "\u3054\u3001\u3054\u3081\u3093\u306A\u3055\u3044\u3002\n\u60F3\u50CF\u3057\u305F\u3089\u3064\u3044\u2026\u2026\u3002\u304F\u304F\u304F\u3063\uFF01",
+        "localizations": {
+          "en": "S-Sorry. I couldn\u0027t help but imagine it... Hehehe!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30EB\u30E1\u30EA\u30A2",
+        "localizations": {
+          "en": "Ilmeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "\u3067\u3082\u3042\u308C\u3060\u3051\u5927\u91CF\u306B\u4F5C\u3063\u3061\u3083\u3063\u305F\u8863\u88C5\u306F\u3069\u3046\u3059\u308B\u306E\uFF1F",
+        "localizations": {
+          "en": "But what are we going to do with all those outfits we made?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EA\u30A2\u30FC\u30CD",
+        "localizations": {
+          "en": "Riane"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u308C\u304B\u3089\u7DBA\u9E97\u306A\u307E\u307E\u4FDD\u7BA1\u3057\u3066\u308B\u306E\u3067\u3001\n\u6B32\u3057\u3044\u65B9\u304C\u3044\u305F\u3089\u8CA9\u58F2\u3057\u3088\u3046\u3068\u601D\u3063\u3066\u3044\u308B\u3067\u3059",
+        "localizations": {
+          "en": "I\u0027ve been keeping them in pristine condition. I was thinking of selling them to anyone who wants one."
+        }
+      },
+      "2072370017": {
+        "text": "\u30B3\u30EB\u30CD\u30EA\u30A2",
+        "localizations": {
+          "en": "Corneria"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u306D\u3001\u8863\u88C5\u306B\u3064\u3044\u3066\u306F\n\u30B3\u30EB\u30CD\u30EA\u30A2\u3055\u3093\u306E\u81EA\u7531\u306B\u3057\u3066\u3082\u3089\u3063\u3066\u69CB\u308F\u306A\u3044\u308F",
+        "localizations": {
+          "en": "That\u0027s fine, you can do whatever you want with the outfits, Corneria."
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30EB\u30E1\u30EA\u30A2",
+        "localizations": {
+          "en": "Ilmeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "\u6295\u3052\u3084\u308A\u306B\u306A\u3063\u3061\u3083\u3063\u3066\u7533\u3057\u8A33\u306A\u3044\u3051\u3069\u2026\u2026",
+        "localizations": {
+          "en": "Sorry for being so dismissive about it..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30EB\u30E1\u30EA\u30A2",
+        "localizations": {
+          "en": "Ilmeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "\u3044\u3048\u3044\u3048\u3001\u304A\u6C17\u306B\u306A\u3055\u3089\u305A\u3002\n\u3080\u3057\u308D\u3053\u306E\u307E\u307E\u8CA9\u58F2\u3059\u308B\u307B\u3046\u304C\u5B09\u3057\u304B\u3063\u305F\u308A\u3057\u307E\u3059",
+        "localizations": {
+          "en": "Oh no, please don\u0027t worry about it. I\u0027m actually happier being able to sell them this way."
+        }
+      },
+      "2072370017": {
+        "text": "\u30B3\u30EB\u30CD\u30EA\u30A2",
+        "localizations": {
+          "en": "Corneria"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "\u306A\u3093\u3064\u30FC\u5546\u58F2\u9B42\u306E\u6301\u3061\u4E3B\u3060\u3002\n\u305D\u3093\u306A\u3089\u65E9\u901F\u3001\u4FFA\u304C\uFF11\u7740\u2026\u2026\uFF01",
+        "localizations": {
+          "en": "What a businesswoman! In that case, I\u0027ll take one right now...!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30F3\u30C4\u30A7",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "\u2026\u2026\u3044\u3044\u3060\u308D\u5225\u306B\uFF01",
+        "localizations": {
+          "en": "...What\u0027s wrong with that?!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30F3\u30C4\u30A7",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "\u3067\u3082\u3053\u308C\u306A\u3089\u559C\u3076\u4EBA\u306F\u591A\u3044\u3093\u3058\u3083\u306A\u3044\u304B\uFF1F\n\u5929\u624D\u3092\u81EA\u79F0\u3059\u308B\u4EBA\u3082\u5897\u3048\u305D\u3046\u3060\u3051\u3069\u2026\u2026",
+        "localizations": {
+          "en": "But won\u0027t this make a lot of people happy? Though we might see an increase in self-proclaimed geniuses..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AA\u30B9\u30AB\u30FC",
+        "localizations": {
+          "en": "Oskar"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "\u3075\u3075\u3093\u3001\u305D\u306E\u70B9\u306F\u5927\u4E08\u592B\u3088\uFF01\n\u5F62\u3060\u3051\u30A2\u30BF\u30B7\u306E\u771F\u4F3C\u3057\u305F\u3063\u3066\u305D\u3093\u306A\u306E\u4E00\u6D41\u3058\u3083\u306A\u3044\u308F\uFF01",
+        "localizations": {
+          "en": "Hmph, that\u0027s not a problem! Just copying my style doesn\u0027t make someone first-rate!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30EB\u30E1\u30EA\u30A2",
+        "localizations": {
+          "en": "Ilmeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "\u306A\u3093\u305B\u8D85\u4E00\u6D41\u306E\u5929\u624D\u932C\u91D1\u8853\u58EB\u306F\u30A2\u30BF\u30B7\u3060\u3051\u3088\uFF01\n\u306D\u3063\uFF01\u3000\u30D5\u30A3\u30EA\u30B9\uFF01",
+        "localizations": {
+          "en": "After all, I\u0027m the only super first-rate genius alchemist! Right, Firis?!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30EB\u30E1\u30EA\u30A2",
+        "localizations": {
+          "en": "Ilmeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "\u30A4\u30EB\u3061\u3083\u3093\u2026\u2026\uFF01",
+        "localizations": {
+          "en": "Ilmeria...!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D5\u30A3\u30EA\u30B9",
+        "localizations": {
+          "en": "Firis"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u3063\u3001\u305D\u306E\u611F\u3058\u4E45\u3005\u3060\u306D\uFF01",
+        "localizations": {
+          "en": "Ah, it\u0027s been a while since we\u0027ve seen this!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "\u306F\u3063\u2026\u2026\uFF01\u3000\u30E6\u30CA\u3055\u3093\u2026\u2026\uFF01\u3000\u3054\u3081\u3093\u2026\u2026\uFF01\n\u89E3\u6563\u5F8C\u306B\u3053\u3093\u306A\u8CB4\u91CD\u306A\u6A5F\u4F1A\u3092\u79C1\u3060\u3051\u2026\u2026\uFF01",
+        "localizations": {
+          "en": "Ah...! Lady Juna...! I\u0027m sorry...! Having such a precious moment after disbandment, just for myself...!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30CF\u30A4\u30C7\u30A3",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "\u304A\u524D\u306F\u30E6\u30CA\u3068\u3069\u3046\u3044\u3046\u95A2\u4FC2\u306A\u3093\u3060\u3088\u2026\u2026\uFF1F",
+        "localizations": {
+          "en": "What kind of relationship do you have with Juna anyway...?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30F3\u30C4\u30A7",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "\u4E45\u3005\u306B\u30D5\u30A3\u30EA\u30B9\u3061\u3083\u3093\u306E\u30A2\u30EC\u304C\u898B\u3089\u308C\u308B\u2026\u2026\uFF01\uFF1F",
+        "localizations": {
+          "en": "Are we going to see Firis\u0027s thing after so long...!?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EA\u30A2\u30FC\u30CD",
+        "localizations": {
+          "en": "Riane"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "\u30EF\u30AF\u30EF\u30AF\u2026\u2026\u3001\u30EF\u30AF\u30EF\u30AF\u2026\u2026",
+        "localizations": {
+          "en": "So exciting... So exciting..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30B3\u30EB\u30CD\u30EA\u30A2",
+        "localizations": {
+          "en": "Corneria"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "\u3075\u3075\u3063\u2026\u2026\uFF01",
+        "localizations": {
+          "en": "Hehe...!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D5\u30A3\u30EA\u30B9",
+        "localizations": {
+          "en": "Firis"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "\u5929\u624D\u306A\u306E\u306F\u3053\u306E\u308F\u305F\u3057\u3082\u3063\uFF01\n\u30D5\u30A3\u30EA\u30B9\u30FB\u30DF\u30B9\u30C8\u30EB\u30FC\u30C8\uFF01",
+        "localizations": {
+          "en": "I\u0027m also a genius! I\u0027m Firis Mistlud!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D5\u30A3\u30EA\u30B9",
+        "localizations": {
+          "en": "Firis"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "\u5929\u624D\u932C\u91D1\u8853\u58EB\u30A4\u30EB\u30E1\u30EA\u30A2\u306E\u2026\u2026\n\u5927\u89AA\u53CB\u3060\u3088\uFF01",
+        "localizations": {
+          "en": "And I\u0027m... the genius alchemist Ilmeria\u0027s... best friend!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D5\u30A3\u30EA\u30B9",
+        "localizations": {
+          "en": "Firis"
+        }
+      }
+    }
+  }
+]

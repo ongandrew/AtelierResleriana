@@ -1,0 +1,886 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "\u306F\u3041\u3002\u3073\u3063\u304F\u308A\u3057\u305F\uFF01",
+        "localizations": {
+          "en": "*sigh* That was scary!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "\u3044\u304D\u306A\u308A\u3067\u3057\u305F\u304C\u3001\u304A\u4E92\u3044\u7121\u4E8B\u3067\u3088\u304B\u3063\u305F\u3067\u3059",
+        "localizations": {
+          "en": "That was sudden, but I\u0027m glad we\u0027re both safe."
+        }
+      },
+      "2072370017": {
+        "text": "\u30D7\u30E9\u30D5\u30BF",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "\u3046\u3093\uFF01\u3000\u30D7\u30E9\u30D5\u30BF\u306E\u304A\u304B\u3052\u3060\u3088\u3001\u3042\u308A\u304C\u3068\u3046\uFF01",
+        "localizations": {
+          "en": "Yeah! It\u0027s thanks to you, Plachta!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "\u3044\u3044\u3048\u3002\u30BD\u30D5\u30A3\u30FC\u306E\u529B\u304C\u3042\u3063\u305F\u304B\u3089\u3053\u305D\u3067\u3059\u3088",
+        "localizations": {
+          "en": "Not at all. It was your strength that got us through."
+        }
+      },
+      "2072370017": {
+        "text": "\u30D7\u30E9\u30D5\u30BF",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u304B\u306A\uFF1F\u3000\u3048\u3078\u3078",
+        "localizations": {
+          "en": "You think so? Hehehe."
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u3001\u305D\u3046\u3060\u3002\n\u3055\u3063\u304D\u306E\u9B54\u7269\u306E\u7D20\u6750\u3001\u62FE\u3063\u3066\u304F\u308B\u306D\uFF01",
+        "localizations": {
+          "en": "Oh, right! I\u0027ll go gather materials from those monsters we defeated!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u308C\u3092\u62FE\u3044\u7D42\u3048\u305F\u3089\u3001\u30A2\u30C8\u30EA\u30A8\u306B\u623B\u308A\u307E\u3057\u3087\u3046\u304B",
+        "localizations": {
+          "en": "Once you\u0027re done gathering, shall we head back to the atelier?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D7\u30E9\u30D5\u30BF",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "\u3046\u3093\uFF01",
+        "localizations": {
+          "en": "Yeah!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "\u2026\u2026\u3042\u3063\uFF01",
+        "localizations": {
+          "en": "...Ah!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D7\u30E9\u30D5\u30BF",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u307E\u305A\u3044\u2026\u2026\u30BD\u30D5\u30A3\u30FC\u306E\u8FD1\u304F\u306B\u3001\u307E\u305F\u9B54\u7269\u304C\uFF01\uFF09",
+        "localizations": {
+          "en": "(This is bad... There\u0027s another monster near Sophie!)"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D7\u30E9\u30D5\u30BF",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "\u3075\u3075\u3075\uFF5E\u3093\u3001\u3075\u3063\u3075\u3075\uFF5E\u3093",
+        "localizations": {
+          "en": "\u266A Hmm hmm hmm~ \u266A"
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u63A1\u53D6\u306B\u5922\u4E2D\u3067\u3001\u6C17\u4ED8\u3044\u3066\u3044\u306A\u3044\u2026\u2026\uFF01\uFF09",
+        "localizations": {
+          "en": "(She\u0027s too focused on gathering to notice...!)"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D7\u30E9\u30D5\u30BF",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "\u30BD\u30D5\u30A3\u30FC\u3001\u5371\u306A\u3044\u3063\uFF01",
+        "localizations": {
+          "en": "Sophie, look out!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D7\u30E9\u30D5\u30BF",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "\u3048\u3063\uFF1F\n\u2026\u2026\u3072\u3083\u3042\u3042\u3042\u3063\uFF01\uFF1F",
+        "localizations": {
+          "en": "Huh?\n...Eeeek!?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u2026\u2026\uFF01",
+        "localizations": {
+          "en": "Ah...!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D7\u30E9\u30D5\u30BF",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "\u3075\u3045\u3002\u9593\u4E00\u9AEA\u3060\u3063\u305F\u306A\uFF01",
+        "localizations": {
+          "en": "Phew! That was a close one!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30F3\u30C4\u30A7",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "\u9593\u306B\u5408\u3063\u3066\u3088\u304B\u3063\u305F\uFF01",
+        "localizations": {
+          "en": "We made it just in time!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30CF\u30A4\u30C7\u30A3",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "\u30E9\u30F3\u30C4\u30A7\u3055\u3093\uFF01\u3000\u30CF\u30A4\u30C7\u30A3\u3055\u3093\uFF01",
+        "localizations": {
+          "en": "Lanze! Heidi!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "\u306F\u3041\u2026\u2026\u3002\n\u52A9\u304B\u308A\u307E\u3057\u305F\u3001\u4E8C\u4EBA\u3068\u3082\uFF01",
+        "localizations": {
+          "en": "*sigh*...\nThank you, both of you!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D7\u30E9\u30D5\u30BF",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "\u5371\u306A\u3044\u3068\u3053\u308D\u3092\u3001\u3042\u308A\u304C\u3068\u3046\u3054\u3056\u3044\u307E\u3057\u305F\uFF01",
+        "localizations": {
+          "en": "Thanks for saving us from danger!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "\u3044\u3044\u3063\u3066\u3053\u3068\uFF01\n\u3053\u3046\u3044\u3046\u306E\u306F\u304A\u4E92\u3044\u69D8\u3063\u3066\u306D\uFF5E",
+        "localizations": {
+          "en": "Don\u0027t mention it!\nWe\u0027ve all gotta look out for each other~"
+        }
+      },
+      "2072370017": {
+        "text": "\u30CF\u30A4\u30C7\u30A3",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "\u307E\u3041\u3001\u3069\u3046\u3057\u3066\u3082\u3063\u3066\u8A00\u3046\u306A\u3089\n\u304A\u793C\u3068\u304B\u3044\u305F\u3060\u3044\u3061\u3083\u304A\u3063\u304B\u306A\uFF5E\uFF1F\u3000\u306A\u3093\u3066\u306D\uFF01",
+        "localizations": {
+          "en": "Though if you really insist,\nmaybe I wouldn\u0027t mind a little reward~ Just kidding!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30CF\u30A4\u30C7\u30A3",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u308C\u306A\u3089\u305C\u3072\uFF01\u3000\u3061\u3087\u3046\u3069\u7D20\u6750\u3092\n\u305F\u304F\u3055\u3093\u96C6\u3081\u3066\u305F\u3068\u3053\u308D\u306A\u3093\u3067\u3059",
+        "localizations": {
+          "en": "Oh, definitely! I just gathered lots of materials!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "\u3048\u3001\u672C\u5F53\u306B\uFF01\uFF1F\n\u5197\u8AC7\u306E\u3064\u3082\u308A\u3060\u3063\u305F\u3051\u3069\u3001\u3084\u3063\u305F\uFF01",
+        "localizations": {
+          "en": "Wait, really!?\nI was just joking, but yay!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30CF\u30A4\u30C7\u30A3",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "\u3082\u3057\u304B\u3057\u3066\u304A\u524D\u3055\u3093\u305F\u3061\u3082\u3001\n\u30C1\u30E7\u30B3\u4F5C\u308A\u306E\u6750\u6599\u3092\u96C6\u3081\u3066\u308B\u306E\u304B\uFF1F",
+        "localizations": {
+          "en": "Don\u0027t tell me you two are also\ngathering materials for chocolate?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30F3\u30C4\u30A7",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "\u306F\u3044\u3001\u305D\u3046\u3067\u3059\u3002\n\u3068\u3044\u3046\u3053\u3068\u306F\u3001\u3042\u306A\u305F\u305F\u3061\u3082\uFF1F",
+        "localizations": {
+          "en": "Yes, that\u0027s right.\nSo you are as well?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D7\u30E9\u30D5\u30BF",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u305D\u3046\u3002\u3053\u306E\u6642\u671F\u306F\u307F\u3093\u306A\u3001\n\u8003\u3048\u308B\u3053\u3068\u304C\u4E00\u7DD2\u3060\u3088\u306D\uFF5E",
+        "localizations": {
+          "en": "Yep yep! Everyone\u0027s got the same idea\nthis time of year~"
+        }
+      },
+      "2072370017": {
+        "text": "\u30CF\u30A4\u30C7\u30A3",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "\u76DB\u5927\u306A\u796D\u308A\u3060\u304B\u3089\u306A\u3002\n\u8AB0\u3057\u3082\u4E16\u8A71\u306B\u306A\u3063\u3066\u308B\u4EBA\u306E\u4E00\u4EBA\u3084\u4E8C\u4EBA\u3044\u308B\u3082\u3093\u3060",
+        "localizations": {
+          "en": "It\u0027s a big festival after all.\nEveryone\u0027s got a person or two they\u0027re indebted to."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30F3\u30C4\u30A7",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3093\u306A\u76F8\u624B\u306B\u30C1\u30E7\u30B3\u3092\u6E21\u3057\u3066\u3001\u65E5\u9803\u306E\u793C\u3092\u4F1D\u3048\u308B\u3002\n\u3053\u306E\u6A5F\u4F1A\u3092\u9003\u3059\u624B\u306F\u306D\u3048\u3088\u306A\uFF01",
+        "localizations": {
+          "en": "Giving them chocolate to show your gratitude...\nCan\u0027t let this chance slip by!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30F3\u30C4\u30A7",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "\u3075\u3075\u3063\u3001\u305D\u3046\u3067\u3059\u3088\u306D\uFF01",
+        "localizations": {
+          "en": "Hehe, that\u0027s right!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "\u3061\u306A\u307F\u306B\u79C1\u306F\u3001\u305D\u308C\u3060\u3051\u3058\u3083\u306A\u3044\u3051\u3069\u306D\uFF5E",
+        "localizations": {
+          "en": "Though that\u0027s not all I\u0027m up to~"
+        }
+      },
+      "2072370017": {
+        "text": "\u30CF\u30A4\u30C7\u30A3",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "\u3093\u3093\uFF1F\u3000\u30C1\u30E7\u30B3\u3092\u4F5C\u308B\u4EE5\u5916\u306B\u4F55\u304B\u3042\u308B\u306E\u304B\uFF1F",
+        "localizations": {
+          "en": "Hmm? What else are you planning?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30F3\u30C4\u30A7",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "\u3075\u3063\u3075\u3063\u3075\u3002\u805E\u3044\u3066\u9A5A\u304F\u306A\u3088\uFF5E\uFF1F",
+        "localizations": {
+          "en": "Heh heh heh. Prepare to be amazed~"
+        }
+      },
+      "2072370017": {
+        "text": "\u30CF\u30A4\u30C7\u30A3",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "\u79C1\u306F\u306D\u3002\u7F8E\u5473\u3057\u3044\u30C1\u30E7\u30B3\u306E\u30EC\u30B7\u30D4\u3092\u8003\u3048\u3066\u3001\n\u305D\u308C\u3092\u304A\u5E97\u306B\u58F2\u308D\u3046\u3068\u601D\u3063\u3066\u308B\u3093\u3060\uFF5E\uFF01",
+        "localizations": {
+          "en": "I\u0027m going to develop delicious chocolate recipes\nand sell them to shops!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30CF\u30A4\u30C7\u30A3",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "\u30EC\u30B7\u30D4\u3092\u58F2\u308B\uFF1F\u3000\u306A\u305C\u305D\u306E\u3088\u3046\u306A\u3053\u3068\u3092\uFF1F",
+        "localizations": {
+          "en": "Sell recipes? Why would you do that?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D7\u30E9\u30D5\u30BF",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "\u3082\u3061\u308D\u3093\u3001\u304A\u91D1\u3060\u3088\u3001\u304A\u91D1\uFF01\n\u30EA\u30F3\u30C7\u796D\u306B\u306F\u305F\u3063\u304F\u3055\u3093\u306E\u4EBA\u305F\u3061\u304C\u6765\u308B\u3067\u3057\u3087\uFF1F",
+        "localizations": {
+          "en": "For money, of course!\nLots of people come to the Linde Festival, right?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30CF\u30A4\u30C7\u30A3",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "\u3069\u3053\u306E\u304A\u5E97\u3082\u3001\u7F8E\u5473\u3057\u3044\u30C1\u30E7\u30B3\u3092\u6E96\u5099\u3057\u3066\n\u304A\u5BA2\u3055\u3093\u3092\u72EC\u308A\u5360\u3081\u3057\u305F\u3044\u308F\u3051\u3088",
+        "localizations": {
+          "en": "Every shop wants to have the most delicious chocolate\nto attract all the customers."
+        }
+      },
+      "2072370017": {
+        "text": "\u30CF\u30A4\u30C7\u30A3",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "\u3060\u304B\u3089\u3001\u3044\u3044\u30EC\u30B7\u30D4\u3092\u304A\u5E97\u306B\u58F2\u308A\u8FBC\u3080\uFF01\n\u4E0A\u624B\u304F\u3044\u3051\u3070\u305F\u3093\u307E\u308A\u7A3C\u3052\u3061\u3083\u3046\u3063\u3066\u308F\u3051\uFF01",
+        "localizations": {
+          "en": "So I\u0027ll sell them great recipes!\nIf it works out, I\u0027ll make a killing!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30CF\u30A4\u30C7\u30A3",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u306F\u306F\u3063\u3002\u30CF\u30A4\u30C7\u30A3\u3055\u3093\u3089\u3057\u3044\u3067\u3059\uFF01",
+        "localizations": {
+          "en": "Ahaha! That\u0027s so like you, Heidi!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "\u7686\u3055\u3093\u3001\u305D\u308C\u305E\u308C\u76EE\u7684\u304C\n\u306F\u3063\u304D\u308A\u3057\u3066\u3044\u308B\u306E\u3067\u3059\u306D",
+        "localizations": {
+          "en": "Everyone seems to have\ntheir own clear goals."
+        }
+      },
+      "2072370017": {
+        "text": "\u30D7\u30E9\u30D5\u30BF",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "\u30D7\u30E9\u30D5\u30BF\uFF1F\u3000\u3069\u3046\u3057\u305F\u306E\uFF1F",
+        "localizations": {
+          "en": "Plachta? What\u0027s wrong?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "\u3044\u3048\u3001\u5927\u4E08\u592B\u3067\u3059\u3002\n\u4ECA\u306E\u8A71\u3092\u805E\u3044\u3066\u3001\u3088\u3046\u3084\u304F\u8FF7\u3044\u304C\u6674\u308C\u307E\u3057\u3066",
+        "localizations": {
+          "en": "No, I\u0027m fine.\nHearing everyone\u0027s stories has helped clear my doubts."
+        }
+      },
+      "2072370017": {
+        "text": "\u30D7\u30E9\u30D5\u30BF",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "\u3048\u3063\uFF1F\u3000\u4F5C\u308A\u305F\u3044\u30C1\u30E7\u30B3\u3001\u6C7A\u307E\u3063\u305F\u3063\u3066\u3053\u3068\uFF1F",
+        "localizations": {
+          "en": "Huh? Does that mean you\u0027ve decided what chocolate to make?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 43,
+    "properties": {
+      "999008199": {
+        "text": "\u3069\u3046\u3084\u3063\u3066\u601D\u3044\u3064\u3044\u305F\u306E\uFF1F\n\u3042\u305F\u3057\u306B\u3082\u6559\u3048\u3066\u3088\uFF01",
+        "localizations": {
+          "en": "How did you figure it out?\nTell me too!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 44,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u308C\u306F\u2026\u2026\u79D8\u5BC6\u3067\u3059",
+        "localizations": {
+          "en": "That\u0027s... a secret."
+        }
+      },
+      "2072370017": {
+        "text": "\u30D7\u30E9\u30D5\u30BF",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 45,
+    "properties": {
+      "999008199": {
+        "text": "\u3048\u3048\u3063\u3001\u306A\u3093\u3067\u3047\uFF01\uFF1F",
+        "localizations": {
+          "en": "Whaaaat, why!?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 46,
+    "properties": {
+      "999008199": {
+        "text": "\u30BD\u30D5\u30A3\u30FC\u307B\u3069\u306E\u932C\u91D1\u8853\u58EB\u306A\u3089\u3001\n\u81EA\u5206\u306E\u529B\u3067\u6C17\u4ED8\u3051\u308B\u306F\u305A\u3067\u3059\u3088",
+        "localizations": {
+          "en": "An alchemist of your caliber should be able\nto figure it out on your own."
+        }
+      },
+      "2072370017": {
+        "text": "\u30D7\u30E9\u30D5\u30BF",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 47,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3093\u306A\u3041\u30FC\uFF01",
+        "localizations": {
+          "en": "No fair~!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 48,
+    "properties": {
+      "999008199": {
+        "text": "\u306F\u306F\u3063\u3002\u3088\u304F\u5206\u304B\u3093\u306A\u3044\u3051\u3069\u3001\u5927\u5909\u305D\u3046\u3060\u306D\u3047",
+        "localizations": {
+          "en": "Haha! Not sure what\u0027s going on, but looks tough~"
+        }
+      },
+      "2072370017": {
+        "text": "\u30CF\u30A4\u30C7\u30A3",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 49,
+    "properties": {
+      "999008199": {
+        "text": "\u4FFA\u305F\u3061\u306F\u305D\u308D\u305D\u308D\u884C\u304F\u304B\u3002\n\u7D20\u6750\u3092\u3042\u308A\u304C\u3068\u3046\u306A\u3001\u4E8C\u4EBA\u3068\u3082\uFF01",
+        "localizations": {
+          "en": "We should get going.\nThanks for the materials, you two!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30F3\u30C4\u30A7",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 50,
+    "properties": {
+      "999008199": {
+        "text": "\u3053\u3061\u3089\u3053\u305D\u3067\u3059\u3002\n\u3067\u306F\u623B\u308A\u307E\u3057\u3087\u3046\u3001\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Thank you as well.\nLet\u0027s head back, Sophie."
+        }
+      },
+      "2072370017": {
+        "text": "\u30D7\u30E9\u30D5\u30BF",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 51,
+    "properties": {
+      "999008199": {
+        "text": "\u5F85\u3063\u3066\u3088\u3001\u30D7\u30E9\u30D5\u30BF\u30FC\uFF01",
+        "localizations": {
+          "en": "Wait up, Plachta~!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  }
+]

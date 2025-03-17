@@ -1,0 +1,2767 @@
+[
+  {
+    "id": 301034,
+    "description": "While equipped to a Defender, at the start of battle, grants all allies 'Recover {0}% of own HP when taking damage' until taking 1 hit.<br>Boosts M.DEF by {1}% for all Lantarna allies.",
+    "name": "Starry Night Lance"
+  },
+  {
+    "id": 301035,
+    "description": "While equipped to a character with Bolt affinity, after attacking, grants target 'Damage -{0}%' until end of 1 action.",
+    "name": "Halberd of Winter Frost"
+  },
+  {
+    "id": 301036,
+    "description": "While equipped to a character with Bolt affinity, after attacking, grants target 'Damage -{0}%' until end of 1 action.",
+    "name": "Halberd of Winter Frost"
+  },
+  {
+    "id": 301037,
+    "description": "While equipped to a Defender with Bolt affinity, when taking damage, has a {0}% chance to evade.",
+    "name": "Dress of Winter Frost"
+  },
+  {
+    "id": 301038,
+    "description": "While equipped to a Defender with Bolt affinity, when taking damage, has a {0}% chance to evade.",
+    "name": "Dress of Winter Frost"
+  },
+  {
+    "id": 301039,
+    "description": "While equipped to a Defender with Bolt affinity, reduces damage received by {0}%.",
+    "name": "Necklace of Winter Frost"
+  },
+  {
+    "id": 301040,
+    "description": "While equipped to a Defender with Bolt affinity, reduces damage received by {0}%.",
+    "name": "Necklace of Winter Frost"
+  },
+  {
+    "id": 301041,
+    "description": "While equipped to a Breaker with Bolt affinity, boosts stun damage by {0}% when hitting weakness.",
+    "name": "Schreklich Sword"
+  },
+  {
+    "id": 301042,
+    "description": "While equipped to a Breaker with Bolt affinity, boosts stun damage by {0}% when hitting weakness.",
+    "name": "Schreklich Sword"
+  },
+  {
+    "id": 301043,
+    "description": "While equipped to a Breaker, when attack target is stunned, recovers {0}% of item gauge.",
+    "name": "Coat of Talent"
+  },
+  {
+    "id": 301044,
+    "description": "While equipped to a Breaker, when attack target is stunned, recovers {0}% of item gauge.",
+    "name": "Coat of Talent"
+  },
+  {
+    "id": 301045,
+    "description": "When attack target is stunned, after attacking, grants all allies 'Recover {0}% of own HP after using skill' until end of 1 action (max 3 stacks).",
+    "name": "Sovereign Ring"
+  },
+  {
+    "id": 301046,
+    "description": "When attack target is stunned, after attacking, grants all allies 'Recover {0}% of own HP after using skill' until end of 1 action (max 3 stacks).",
+    "name": "Sovereign Ring"
+  },
+  {
+    "id": 301047,
+    "description": "While equipped to an Attacker with Ice affinity, boosts critical damage by {0}% for single target attacks.",
+    "name": "Fan of Fortune's Invitation"
+  },
+  {
+    "id": 301048,
+    "description": "While equipped to an Attacker with Ice affinity, boosts critical damage by {0}% for single target attacks.",
+    "name": "Fan of Fortune's Invitation"
+  },
+  {
+    "id": 301049,
+    "description": "While equipped to an Attacker with Ice affinity, upon landing a critical hit, grants self 'M.ATK +{0}%' and 'Skill Damage +{1}%' until end of 1 action.",
+    "name": "Fortune's Invitation Fine Clothes"
+  },
+  {
+    "id": 301050,
+    "description": "While equipped to an Attacker with Ice affinity, upon landing a critical hit, grants self 'M.ATK +{0}%' and 'Skill Damage +{1}%' until end of 1 action.",
+    "name": "Fortune's Invitation Fine Clothes"
+  },
+  {
+    "id": 301051,
+    "description": "While equipped to a character with Ice affinity and HP is 70% or higher, boosts own skill damage by {0}%.",
+    "name": "Fortune's Invitation Hairpin"
+  },
+  {
+    "id": 301052,
+    "description": "While equipped to a character with Ice affinity and HP is 70% or higher, boosts own skill damage by {0}%.",
+    "name": "Fortune's Invitation Hairpin"
+  },
+  {
+    "id": 301053,
+    "description": "While equipped to a Breaker with Ice affinity, when attack target is stunned, after attacking, grants target 'Critical damage received +{0}%' until taking 2 hits.",
+    "name": "Curved Sword of Roses"
+  },
+  {
+    "id": 301054,
+    "description": "While equipped to a Breaker with Ice affinity and targeting a stunned enemy, after attacking, grants \"Boosts critical damage received by {0}%\" to the target for 2 attacks.",
+    "name": "Rose Curved Sword"
+  },
+  {
+    "id": 301055,
+    "description": "While equipped to a Breaker with Ice affinity, boosts Skill 2 stun damage by {0}%.",
+    "name": "Healer's Garb"
+  },
+  {
+    "id": 301056,
+    "description": "While equipped to a Breaker with Ice affinity, boosts Skill 2 stun damage by {0}%.",
+    "name": "Healer's Garb"
+  },
+  {
+    "id": 301057,
+    "description": "While equipped to a character with Ice affinity, after attacking a weakness, grants \"Boosts stun damage by {0}%\" to self (up to 30%).",
+    "name": "Royal Hat"
+  },
+  {
+    "id": 301058,
+    "description": "While equipped to a character with Ice affinity, after attacking a weakness, grants \"Boosts stun damage by {0}%\" to self (up to 25%).",
+    "name": "Royal Hat"
+  },
+  {
+    "id": 301059,
+    "description": "While equipped to a Supporter with Ice affinity, after attacking, grants \"Boosts magic damage received by {0}%\" to the target for 2 attacks.",
+    "name": "Zeitstaub"
+  },
+  {
+    "id": 301060,
+    "description": "While equipped to a Supporter with Ice affinity, after attacking, grants \"Boosts magic damage received by {0}%\" to the target for 2 attacks.",
+    "name": "Zeitstaub"
+  },
+  {
+    "id": 301061,
+    "description": "While equipped to a Supporter with Ice affinity, boosts potency of buff effects given by {0}%.",
+    "name": "Luxstwahl"
+  },
+  {
+    "id": 301062,
+    "description": "While equipped to a Supporter with Ice affinity, boosts potency of buff effects given by {0}%.",
+    "name": "Luxstwahl"
+  },
+  {
+    "id": 301063,
+    "description": "While equipped to a Supporter with Ice affinity, boosts all allies' M.ATK by {0}%.",
+    "name": "Brave Seal"
+  },
+  {
+    "id": 301064,
+    "description": "While equipped to a Supporter with Ice affinity, boosts all allies' M.ATK by {0}%.",
+    "name": "Brave Seal"
+  },
+  {
+    "id": 301065,
+    "description": "While equipped to a character with Air affinity, boosts Skill 2 damage by {0}%.<br>Boosts M.ATK of all \"Adventure\" allies by {1}%.",
+    "name": "Wonder Rapier"
+  },
+  {
+    "id": 301066,
+    "description": "While equipped to an Attacker with Air affinity, boosts critical damage by {0}%.",
+    "name": "Bird and Sun Staff"
+  },
+  {
+    "id": 301067,
+    "description": "While equipped to an Attacker with Air affinity, boosts critical damage by {0}%.",
+    "name": "Bird and Sun Staff"
+  },
+  {
+    "id": 301068,
+    "description": "While equipped to an Attacker with Air affinity and targeting a stunned enemy, boosts skill damage by {0}%.",
+    "name": "Alchemist Coat"
+  },
+  {
+    "id": 301069,
+    "description": "While equipped to an Attacker with Air affinity and targeting a stunned enemy, boosts skill damage by {0}%.",
+    "name": "Alchemist Coat"
+  },
+  {
+    "id": 301070,
+    "description": "While equipped to a character with Air affinity, after using a skill, grants \"Boosts M.ATK by {0}%\" to self for 2 turns and \"Boosts M.DEF by {1}%\" to self for 2 attacks.",
+    "name": "Beast Aroma"
+  },
+  {
+    "id": 301071,
+    "description": "While equipped to a character with Air affinity, after using a skill, grants \"Boosts M.ATK by {0}%\" to self for 2 turns and \"Boosts M.DEF by {1}%\" to self for 2 attacks.",
+    "name": "Beast Aroma"
+  },
+  {
+    "id": 301072,
+    "description": "While equipped to a Supporter with Air affinity, boosts HP recovery given by {0}%.",
+    "name": "Azure Cage"
+  },
+  {
+    "id": 301073,
+    "description": "While equipped to a Supporter with Air affinity, boosts HP recovery given by {0}%.",
+    "name": "Azure Cage"
+  },
+  {
+    "id": 301074,
+    "description": "While equipped to a Supporter with Air affinity, when battle starts, grants 'Reduces damage received by {0}%' to all allies until receiving 3 attacks",
+    "name": "Traveler's Clothes"
+  },
+  {
+    "id": 301075,
+    "description": "While equipped to a Supporter with Air affinity, when battle starts, grants 'Reduces damage received by {0}%' to all allies until receiving 3 attacks",
+    "name": "Traveler's Clothes"
+  },
+  {
+    "id": 301076,
+    "description": "While equipped to a Supporter with Air affinity, boosts stun damage for all allies by {0}%",
+    "name": "Heart Earring"
+  },
+  {
+    "id": 301077,
+    "description": "While equipped to a Supporter with Air affinity, boosts stun damage for all allies by {0}%",
+    "name": "Heart Earring"
+  },
+  {
+    "id": 301078,
+    "description": "While equipped to a Defender with Ice affinity, after attacking, grants 'Reduces damage by {0}%' to target until end of their next action",
+    "name": "Clear Heart Hand"
+  },
+  {
+    "id": 301079,
+    "description": "While equipped to a Defender with Ice affinity, after attacking, grants 'Reduces damage by {0}%' to target until end of their next action",
+    "name": "Clear Heart Hand"
+  },
+  {
+    "id": 301080,
+    "description": "While equipped to a Defender with Ice affinity, reduces damage received from single-target attacks by {0}%",
+    "name": "Clear Heart Cloak"
+  },
+  {
+    "id": 301081,
+    "description": "While equipped to a Defender with Ice affinity, reduces damage received from single-target attacks by {0}%",
+    "name": "Clear Heart Cloak"
+  },
+  {
+    "id": 301082,
+    "description": "While equipped to a Defender, when wave starts, grants 'Reduces damage received from all-target attacks by {0}%' to all allies until receiving 2 attacks",
+    "name": "Clear Heart Symbol"
+  },
+  {
+    "id": 301083,
+    "description": "While equipped to a Defender, when wave starts, grants 'Reduces damage received from all-target attacks by {0}%' to all allies until receiving 2 attacks",
+    "name": "Clear Heart Symbol"
+  },
+  {
+    "id": 301084,
+    "description": "While equipped to a character with Stab affinity, after using a skill, grants 'Boosts physical attack skill damage by {0}%' to all allies (up to 16%)",
+    "name": "Bow of Admiration"
+  },
+  {
+    "id": 301085,
+    "description": "While equipped to a character with Stab affinity, after using a skill, grants 'Boosts physical attack skill damage by {0}%' to all allies (up to 12%)",
+    "name": "Bow of Admiration"
+  },
+  {
+    "id": 301086,
+    "description": "While equipped to a Supporter with Stab affinity, when obtaining a panel, grants 'Boosts critical damage by {0}%' to all allies until end of their next action",
+    "name": "Dress of Admiration"
+  },
+  {
+    "id": 301087,
+    "description": "While equipped to a Supporter with Stab affinity, when obtaining a panel, grants 'Boosts critical damage by {0}%' to all allies until end of their next action",
+    "name": "Dress of Admiration"
+  },
+  {
+    "id": 301088,
+    "description": "While equipped to a Supporter with Stab affinity, boosts P.ATK of all allies by {0}%",
+    "name": "Bracelet of Admiration"
+  },
+  {
+    "id": 301089,
+    "description": "While equipped to a Supporter with Stab affinity, boosts P.ATK of all allies by {0}%",
+    "name": "Bracelet of Admiration"
+  },
+  {
+    "id": 301090,
+    "description": "While equipped to an Attacker with Stab affinity, boosts critical damage by {0}%",
+    "name": "Mistral Cane"
+  },
+  {
+    "id": 301091,
+    "description": "While equipped to an Attacker with Stab affinity, boosts critical damage by {0}%",
+    "name": "Mistral Cane"
+  },
+  {
+    "id": 301092,
+    "description": "While equipped to a character with Stab affinity, boosts P.ATK by {0}%",
+    "name": "Mysterious Coat"
+  },
+  {
+    "id": 301093,
+    "description": "While equipped to a character with Stab affinity, boosts P.ATK by {0}%",
+    "name": "Mysterious Coat"
+  },
+  {
+    "id": 301094,
+    "description": "While equipped to an Attacker with Stab affinity, after a critical hit, boosts own skill damage by {0}%. (MAX 40%)",
+    "name": "Plain Rice Ball"
+  },
+  {
+    "id": 301095,
+    "description": "While equipped to an Attacker with Stab affinity, after a critical hit, boosts own skill damage by {0}%. (MAX 30%)",
+    "name": "Plain Rice Ball"
+  },
+  {
+    "id": 301097,
+    "description": "After using a skill, boosts all allies' physical attack skill damage by {0}% for 1 turn.\nBoosts P.ATK by {1}% for all allies with \"My Pace\".",
+    "name": "Celestial Machina"
+  },
+  {
+    "id": 301098,
+    "description": "While equipped to a Supporter with Slash affinity, after attacking, grants \"Damage received +{0}%\" to target until they take 2 attacks.",
+    "name": "Staff of Revolution"
+  },
+  {
+    "id": 301099,
+    "description": "While equipped to a Supporter with Slash affinity, after attacking, grants \"Damage received +{0}%\" to target until they take 2 attacks.",
+    "name": "Staff of Revolution"
+  },
+  {
+    "id": 301100,
+    "description": "While equipped to a Supporter with Slash affinity, boosts effect received from strengthening panels by {0}% for all allies.",
+    "name": "Empower Vest"
+  },
+  {
+    "id": 301101,
+    "description": "While equipped to a Supporter with Slash affinity, boosts effect received from strengthening panels by {0}% for all allies.",
+    "name": "Empower Vest"
+  },
+  {
+    "id": 301102,
+    "description": "While equipped to a Supporter, recovers item gauge by {0}% after using burst skill.\nWhile equipped to a Supporter with Slash affinity, additionally recovers item gauge by {1}% after using burst skill.",
+    "name": "Blacksmith's Charm"
+  },
+  {
+    "id": 301103,
+    "description": "While equipped to a Supporter, recovers item gauge by {0}% after using burst skill.\nWhile equipped to a Supporter with Slash affinity, additionally recovers item gauge by {1}% after using burst skill.",
+    "name": "Blacksmith's Charm"
+  },
+  {
+    "id": 301104,
+    "description": "When equipped to Alvina [Dream of Hero], boosts positive effect potency by {0}% and all allies' P.ATK by {1}%.",
+    "name": "Estreja"
+  },
+  {
+    "id": 301105,
+    "description": "While equipped to an Attacker with Slash affinity, after using burst skill, grants \"Critical rate +{0}%\" for 1 turn.",
+    "name": "Floral Blue Blade"
+  },
+  {
+    "id": 301106,
+    "description": "While equipped to an Attacker with Slash affinity, after using burst skill, grants \"Critical rate +{0}%\" for 1 turn.",
+    "name": "Floral Blue Blade"
+  },
+  {
+    "id": 301107,
+    "description": "While equipped to an Attacker with Slash affinity, boosts positive effects received by {0}%.",
+    "name": "Ancient Coat"
+  },
+  {
+    "id": 301108,
+    "description": "While equipped to an Attacker with Slash affinity, boosts positive effects received by {0}%.",
+    "name": "Ancient Coat"
+  },
+  {
+    "id": 301109,
+    "description": "While equipped to an Attacker with Slash affinity, after using a skill, grants \"Physical damage received +{0}%\" to target until they take 2 attacks.",
+    "name": "Gute Schreier"
+  },
+  {
+    "id": 301110,
+    "description": "While equipped to an Attacker with Slash affinity, after using a skill, grants \"Physical damage received +{0}%\" to target until they take 2 attacks.",
+    "name": "Gute Schreier"
+  },
+  {
+    "id": 301111,
+    "description": "When equipped to Bepp [Mourning Blades], boosts critical damage by {0}%.",
+    "name": "Moon Flower Butterfly"
+  },
+  {
+    "id": 301112,
+    "description": "While equipped to a character with Fire affinity, after attacking, grants \"Damage received +{0}%\" to target until they take 1 attack.\nWhile equipped to a Breaker, boosts stun damage by {1}%.",
+    "name": "Bomber's Jewelry"
+  },
+  {
+    "id": 301113,
+    "description": "While equipped to a character with Bolt affinity, boosts all allies' skill damage by {0}%.\nWhile equipped to a Supporter, boosts HP recovery given by {1}%.",
+    "name": "Innocent Bloom Star"
+  },
+  {
+    "id": 301114,
+    "description": "While equipped to a character with Fire affinity, after attacking a weakness, grants \"M.ATK +{0}%\" to self for 2 turns.\nWhile equipped to an Attacker, boosts critical damage by {1}%.",
+    "name": "Liberty Summer Hat"
+  },
+  {
+    "id": 1980167,
+    "description": "Boosts \"Knight\" characters' P. DEF and M. DEF by {0}%.",
+    "name": "Noble Knight Under Starry Night"
+  },
+  {
+    "id": 1980168,
+    "description": "Characters with Bolt affinity deal {0}% more skill damage when attacking stunned targets.",
+    "name": "For Our Burning Desires"
+  },
+  {
+    "id": 1980169,
+    "description": "Characters with Ice affinity gain {0}% M. ATK.",
+    "name": "I'll Freeze You to the Core"
+  },
+  {
+    "id": 1980170,
+    "description": "For each \"Princess\" character: P. ATK and M. ATK +{0}%, and Skill Damage and Stun Damage +{1}%.",
+    "name": "Always Remain Elegant"
+  },
+  {
+    "id": 1980171,
+    "description": "For each \"Master\" character: P. ATK and M. ATK +{0}%.",
+    "name": "Inherited Knowledge"
+  },
+  {
+    "id": 1980172,
+    "description": "P. ATK and M. ATK +{0}%.",
+    "name": "Time for Cleaning"
+  },
+  {
+    "id": 1980173,
+    "description": "Characters with Air affinity deal {0}% more skill damage when attacking stunned targets.",
+    "name": "Let the Ribbon Flutter in the Wind"
+  },
+  {
+    "id": 1980174,
+    "description": "Characters with Air affinity gain P. DEF and M. DEF +{0}% and deal {1}% more skill damage when attacking stunned targets.",
+    "name": "How About Some First-Class Help?"
+  },
+  {
+    "id": 1980175,
+    "description": "Characters with Ice affinity receive {0}% less damage.",
+    "name": "I'll Show You How to Defend!"
+  },
+  {
+    "id": 1980176,
+    "description": "For each \"Cooken Island\" character: P. ATK and M. ATK +{0}%.",
+    "name": "Cherishing Those Summer Memories"
+  },
+  {
+    "id": 1980177,
+    "description": "Characters with Stab affinity gain {0}% P. ATK.",
+    "name": "Adventure Strikes Suddenly!"
+  },
+  {
+    "id": 1980178,
+    "description": "\"Infinite Island Chain\" characters gain P. ATK and M. ATK +{0}%.",
+    "name": "Young Warrior Swearing Revenge"
+  },
+  {
+    "id": 1980179,
+    "description": "P. ATK and Stun Damage +{0}%.",
+    "name": "Star Guide"
+  },
+  {
+    "id": 1990262,
+    "description": "Skill damage +10-100% based on number of buff effects on self (increases with 1-20 buffs)\nNote: Does not count unlimited-duration buffs that activate at battle start",
+    "name": "Friends' Support Becomes Strength!"
+  },
+  {
+    "id": 1990263,
+    "description": "Before using a skill, if the target has \"Binding Ribbon\" applied, that attack's skill damage +{0}%.",
+    "name": "Time to Be Mischievous!"
+  },
+  {
+    "id": 1990278,
+    "description": "Becomes much more likely to be targeted by enemies\nOwn P. DEF and M. DEF +{0}%",
+    "name": "Bewitching Curves"
+  },
+  {
+    "id": 1990279,
+    "description": "At battle start, lights 3 skill lamps for \"Electrical Waltz\"\nWhen gaining panels or being attacked, lights 1 skill lamp for \"Electrical Waltz\"",
+    "name": "Starlight in These Hands"
+  },
+  {
+    "id": 1990280,
+    "description": "When stunning a target with \"Sapientia\" or \"Fulgur Hasta\", converts all non-burst panels for all allies to Wisdom Release panels (or creates them if empty)\nWhen gaining Wisdom Release panels, can activate burst skill",
+    "name": "Heaven's Destruction"
+  },
+  {
+    "id": 1990281,
+    "description": "After any party member uses an item, applies \"Force Stun\" to self for 1 turn (max 3 activations)\nNote: Only activates once even when multiple items are used simultaneously",
+    "name": "Let's Begin the \"Release\""
+  },
+  {
+    "id": 1990282,
+    "description": "When breaking with a skill, grants self M. ATK +{0}% (max 100%) and Skill Damage +{1}% (max 200%)",
+    "name": "Fortune-Bringing Strike"
+  },
+  {
+    "id": 1990283,
+    "description": "Boosts own critical rate by {0}%<br>When own HP is 50% or higher, boosts critical damage by {1}%<br>When own HP is 70% or higher, boosts skill damage by {2}%",
+    "name": "The First Move is Key to Victory"
+  },
+  {
+    "id": 1990284,
+    "description": "When attacking a stunned target, grants \"Magical damage received +{0}%\" to target for 2 attacks<br>When performing WEAK attacks, boosts skill damage by {1}%",
+    "name": "No More Wasted Steps"
+  },
+  {
+    "id": 1990285,
+    "description": "When obtaining a Burst Panel, grants \"Stun damage +{0}%\" to self until end of next action",
+    "name": "Look Out!"
+  },
+  {
+    "id": 1990286,
+    "description": "Boosts skill damage and stun damage by {0}% for all allies with Ice affinity",
+    "name": "Let's Freeze Them Solid"
+  },
+  {
+    "id": 1990287,
+    "description": "When obtaining a Strengthened Panel, recovers {0}% of the Item Gauge",
+    "name": "Paving the Way with Alchemy"
+  },
+  {
+    "id": 1990288,
+    "description": "Boosts potency of buff effects received from battle items by {0}% for all allies",
+    "name": "Usage Learned from Friends"
+  },
+  {
+    "id": 1990289,
+    "description": "Boosts critical damage and stun damage by {0}% for all allies with Bolt affinity",
+    "name": "Energy Like Lightning"
+  },
+  {
+    "id": 1990290,
+    "description": "After using a skill, recovers {0}% of the Item Gauge",
+    "name": "Never Slack in Your Efforts"
+  },
+  {
+    "id": 1990291,
+    "description": "Boosts skill damage and stun damage by {0}% for all allies with Air affinity",
+    "name": "Chase Them, Genius Wind!"
+  },
+  {
+    "id": 1990292,
+    "description": "Becomes much more likely to be targeted by enemies<br>Boosts own P.DEF and M.DEF by {0}%<br>Boosts all allies' max HP by {1}%<br>At the start of battle, recovers {2}% HP for all allies",
+    "name": "Auto-Attract Shield"
+  },
+  {
+    "id": 1990293,
+    "description": "When anyone in the party uses a battle item, grants \"Damage received -{0}% (fixed)\" to all allies until taking 1 attack (activates up to 2 times)<br>※Activates only once even when multiple items are used simultaneously",
+    "name": "Theorist's Wisdom"
+  },
+  {
+    "id": 1990294,
+    "description": "Boosts all allies' P.ATK by {0}%<br>Boosts all allies' skill damage by {1}%",
+    "name": "Archer's Principles"
+  },
+  {
+    "id": 1990295,
+    "description": "After using a skill, recovers {0}% of the Item Gauge",
+    "name": "Supporting Arrow"
+  },
+  {
+    "id": 1990296,
+    "description": "When self obtains a Critical Panel or stuns with a skill, grants \"Burst skill damage +{0}%\" (up to 100%) and<br>\"Critical damage +{1}%\" (up to 100%) to self",
+    "name": "Extraordinary Breakthrough Power"
+  },
+  {
+    "id": 1990297,
+    "description": "After using a skill, grants \"Critical damage +{0}%\" to self until end of next action<br>When landing a critical hit, recovers {1}% of own HP",
+    "name": "Final Overrun"
+  },
+  {
+    "id": 1990298,
+    "description": "After performing a WEAK attack, grants \"Skill power +{0}%\" to self (up to 5 stacks)",
+    "name": "Adventure Makes Me Grow!"
+  },
+  {
+    "id": 1990320,
+    "description": "When defeating an enemy with a skill, obtaining a boost-type panel, or receiving HP recovery, if Sharpened Blades has not been granted, grants self Sharpened Blades (Lv1).<br>If already granted, increases the buff's level by 1. (MAX Lv. Lv10)<br>Depending on the current level of Sharpened Blades, gains the following bonuses: <br>Boosts critical rate by {0}% for each level.<br>Lv. 3+: Critical damage +{1}%<br>Lv. 5+: Critical damage +{2}%<br>Lv. 10: Critical damage +{3}%<br><br>Merchant and Spirited characters gain critical rate +{4}% and critical damage +{5}%.",
+    "name": "Evolving Fighting Spirit"
+  },
+  {
+    "id": 1990321,
+    "description": "When own critical rate exceeds 100%, when attacking, converts the excess critical rate above 100% into critical damage up (up to 300% conversion)",
+    "name": "Dance of Certain Victory"
+  },
+  {
+    "id": 1990322,
+    "description": "Boosts potency of buff effects received from battle items by {0}% for all allies<br>When anyone in the party uses a battle item, recovers {1}% HP for all allies",
+    "name": "Become a Hero Through Alchemy!"
+  },
+  {
+    "id": 1990323,
+    "description": "Boosts battle item damage dealt by {0}% for all allies<br>When obtaining a Strengthened Panel, grants \"Critical rate +{1}%\" to all allies until end of next action",
+    "name": "It's Alvie's Turn!"
+  },
+  {
+    "id": 1990324,
+    "description": "When attacking a stunned target, grants \"Skill Damage +{0}%\" to all allies with Fire affinity (up to 200%).",
+    "name": "Let Me Show You What I've Learned!"
+  },
+  {
+    "id": 1990325,
+    "description": "After using a skill, grants \"Critical Damage +{0}%\" to all allies (up to 250%).",
+    "name": "I'll Help Make Your Dreams Come True!"
+  },
+  {
+    "id": 4990668,
+    "description": "While equipped to a character with Bolt affinity, boosts potency of buff effects given by {0}%.",
+    "name": "Bolt Enhance Up III"
+  },
+  {
+    "id": 4990669,
+    "description": "While equipped to a character with Bolt affinity, boosts potency of buff effects given by {0}%.",
+    "name": "Bolt Enhance Up III"
+  },
+  {
+    "id": 4990670,
+    "description": "While equipped to a character with Bolt affinity, boosts potency of buff effects given by {0}%.",
+    "name": "Bolt Enhance Up III"
+  },
+  {
+    "id": 4990671,
+    "description": "While equipped to a character with Bolt affinity, boosts potency of buff effects given by {0}%.",
+    "name": "Bolt Enhance Up III"
+  },
+  {
+    "id": 4990672,
+    "description": "While equipped to a character with Bolt affinity, boosts potency of buff effects given by {0}%.",
+    "name": "Bolt Enhance Up III"
+  },
+  {
+    "id": 4990673,
+    "description": "While equipped to a character with Bolt affinity, boosts stun damage by {0}% when attacking a weakness.",
+    "name": "Bolt Weakness Stun Up III"
+  },
+  {
+    "id": 4990674,
+    "description": "While equipped to a character with Bolt affinity, boosts stun damage by {0}% when attacking a weakness.",
+    "name": "Bolt Weakness Stun Up III"
+  },
+  {
+    "id": 4990675,
+    "description": "While equipped to a character with Bolt affinity, boosts stun damage by {0}% when attacking a weakness.",
+    "name": "Bolt Weakness Stun Up III"
+  },
+  {
+    "id": 4990676,
+    "description": "While equipped to a character with Bolt affinity, boosts stun damage by {0}% when attacking a weakness.",
+    "name": "Bolt Weakness Stun Up III"
+  },
+  {
+    "id": 4990677,
+    "description": "While equipped to a character with Bolt affinity, boosts stun damage by {0}% when attacking a weakness.",
+    "name": "Bolt Weakness Stun Up III"
+  },
+  {
+    "id": 4990678,
+    "description": "While equipped to a Supporter, boosts skill power of all allies by {0}%.",
+    "name": "Supporter All Skill Power Up III"
+  },
+  {
+    "id": 4990679,
+    "description": "While equipped to a Supporter, boosts skill power of all allies by {0}%.",
+    "name": "Supporter All Skill Power Up III"
+  },
+  {
+    "id": 4990680,
+    "description": "While equipped to a Supporter, boosts skill power of all allies by {0}%.",
+    "name": "Supporter All Skill Power Up III"
+  },
+  {
+    "id": 4990681,
+    "description": "While equipped to a Supporter, boosts skill power of all allies by {0}%.",
+    "name": "Supporter All Skill Power Up III"
+  },
+  {
+    "id": 4990682,
+    "description": "While equipped to a Supporter, boosts skill power of all allies by {0}%.",
+    "name": "Supporter All Skill Power Up III"
+  },
+  {
+    "id": 4990683,
+    "description": "While equipped to a Supporter, when there is only 1 enemy, boosts skill damage of all allies by {0}%.",
+    "name": "Supporter All Rest Damage Up III"
+  },
+  {
+    "id": 4990684,
+    "description": "While equipped to a Supporter, when there is only 1 enemy, boosts skill damage of all allies by {0}%.",
+    "name": "Supporter All Rest Damage Up III"
+  },
+  {
+    "id": 4990685,
+    "description": "While equipped to a Supporter, when there is only 1 enemy, boosts skill damage of all allies by {0}%.",
+    "name": "Supporter All Rest Damage Up III"
+  },
+  {
+    "id": 4990686,
+    "description": "While equipped to a Supporter, when there is 1 enemy, boosts all allies' skill damage by {0}%",
+    "name": "Supporter Rest Damage Up (All) III"
+  },
+  {
+    "id": 4990687,
+    "description": "While equipped to a Supporter, when there is 1 enemy, boosts all allies' skill damage by {0}%",
+    "name": "Supporter Rest Damage Up (All) III"
+  },
+  {
+    "id": 4990688,
+    "description": "While equipped to a Defender, when hit by an attack, increases damage received by all enemies by {0}% for 1 hit (Max 4 stacks)",
+    "name": "Defender Damage Received Up (All) III"
+  },
+  {
+    "id": 4990689,
+    "description": "While equipped to a Defender, when hit by an attack, increases damage received by all enemies by {0}% for 1 hit (Max 4 stacks)",
+    "name": "Defender Damage Received Up (All) III"
+  },
+  {
+    "id": 4990690,
+    "description": "While equipped to a Defender, when hit by an attack, increases damage received by all enemies by {0}% for 1 hit (Max 4 stacks)",
+    "name": "Defender Damage Received Up (All) III"
+  },
+  {
+    "id": 4990691,
+    "description": "While equipped to a Defender, when hit by an attack, increases damage received by all enemies by {0}% for 1 hit (Max 4 stacks)",
+    "name": "Defender Damage Received Up (All) III"
+  },
+  {
+    "id": 4990692,
+    "description": "While equipped to a Defender, when hit by an attack, increases damage received by all enemies by {0}% for 1 hit (Max 4 stacks)",
+    "name": "Defender Damage Received Up (All) III"
+  },
+  {
+    "id": 4990693,
+    "description": "When attacking a weakness with Ice affinity, boosts own critical damage by {0}% for 2 turns",
+    "name": "Ice Weakness Critical Damage Up III"
+  },
+  {
+    "id": 4990694,
+    "description": "When attacking a weakness with Ice affinity, boosts own critical damage by {0}% for 2 turns",
+    "name": "Ice Weakness Critical Damage Up III"
+  },
+  {
+    "id": 4990695,
+    "description": "When attacking a weakness with Ice affinity, boosts own critical damage by {0}% for 2 turns",
+    "name": "Ice Weakness Critical Damage Up III"
+  },
+  {
+    "id": 4990696,
+    "description": "When attacking a weakness with Ice affinity, boosts own critical damage by {0}% for 2 turns",
+    "name": "Ice Weakness Critical Damage Up III"
+  },
+  {
+    "id": 4990697,
+    "description": "When attacking a weakness with Ice affinity, boosts own critical damage by {0}% for 2 turns",
+    "name": "Ice Weakness Critical Damage Up III"
+  },
+  {
+    "id": 4990698,
+    "description": "When attacking, increases magical damage received by target by {0}% for 2 hits (Max 4 stacks)",
+    "name": "Attack Magical Damage Received Up III"
+  },
+  {
+    "id": 4990699,
+    "description": "When attacking, increases magical damage received by target by {0}% for 2 hits (Max 4 stacks)",
+    "name": "Attack Magical Damage Received Up III"
+  },
+  {
+    "id": 4990700,
+    "description": "When attacking, increases magical damage received by target by {0}% for 2 hits (Max 4 stacks)",
+    "name": "Attack Magical Damage Received Up III"
+  },
+  {
+    "id": 4990701,
+    "description": "When attacking, increases magical damage received by target by {0}% for 2 hits (Max 4 stacks)",
+    "name": "Attack Magical Damage Received Up III"
+  },
+  {
+    "id": 4990702,
+    "description": "When attacking, increases magical damage received by target by {0}% for 2 hits (Max 4 stacks)",
+    "name": "Attack Magical Damage Received Up III"
+  },
+  {
+    "id": 4990703,
+    "description": "While equipped with Bolt affinity, boosts HP recovery granted by {0}%",
+    "name": "Bolt Heal Up III"
+  },
+  {
+    "id": 4990704,
+    "description": "While equipped with Bolt affinity, boosts HP recovery granted by {0}%",
+    "name": "Bolt Heal Up III"
+  },
+  {
+    "id": 4990705,
+    "description": "While equipped with Bolt affinity, boosts HP recovery granted by {0}%",
+    "name": "Bolt Heal Up III"
+  },
+  {
+    "id": 4990706,
+    "description": "While equipped to a character with Bolt affinity, boosts HP recovery granted by {0}%.",
+    "name": "Bolt Recovery Up III"
+  },
+  {
+    "id": 4990707,
+    "description": "While equipped to a character with Bolt affinity, boosts HP recovery granted by {0}%.",
+    "name": "Bolt Recovery Up III"
+  },
+  {
+    "id": 4990708,
+    "description": "While equipped to a character with Ice affinity, boosts negative effect potency granted by {0}%.",
+    "name": "Ice Negative Effect Up III"
+  },
+  {
+    "id": 4990709,
+    "description": "While equipped to a character with Ice affinity, boosts negative effect potency granted by {0}%.",
+    "name": "Ice Negative Effect Up III"
+  },
+  {
+    "id": 4990710,
+    "description": "While equipped to a character with Ice affinity, boosts negative effect potency granted by {0}%.",
+    "name": "Ice Negative Effect Up III"
+  },
+  {
+    "id": 4990711,
+    "description": "While equipped to a character with Ice affinity, boosts negative effect potency granted by {0}%.",
+    "name": "Ice Negative Effect Up III"
+  },
+  {
+    "id": 4990712,
+    "description": "While equipped to a character with Ice affinity, boosts negative effect potency granted by {0}%.",
+    "name": "Ice Negative Effect Up III"
+  },
+  {
+    "id": 4990713,
+    "description": "When attacking a weakness as an Attacker, boosts own skill damage by {0}% until the end of the next 2 actions.",
+    "name": "Attacker Weak Point Damage Up III"
+  },
+  {
+    "id": 4990714,
+    "description": "When attacking a weakness as an Attacker, boosts own skill damage by {0}% until the end of the next 2 actions.",
+    "name": "Attacker Weak Point Damage Up III"
+  },
+  {
+    "id": 4990715,
+    "description": "When attacking a weakness as an Attacker, boosts own skill damage by {0}% until the end of the next 2 actions.",
+    "name": "Attacker Weak Point Damage Up III"
+  },
+  {
+    "id": 4990716,
+    "description": "When attacking a weakness as an Attacker, boosts own skill damage by {0}% until the end of the next 2 actions.",
+    "name": "Attacker Weak Point Damage Up III"
+  },
+  {
+    "id": 4990717,
+    "description": "When attacking a weakness as an Attacker, boosts own skill damage by {0}% until the end of the next 2 actions.",
+    "name": "Attacker Weak Point Damage Up III"
+  },
+  {
+    "id": 4990718,
+    "description": "While equipped to a character with Air affinity, boosts positive effect potency granted by {0}%.",
+    "name": "Air Enhance Up III"
+  },
+  {
+    "id": 4990719,
+    "description": "While equipped to a character with Air affinity, boosts positive effect potency granted by {0}%.",
+    "name": "Air Enhance Up III"
+  },
+  {
+    "id": 4990720,
+    "description": "While equipped to a character with Air affinity, boosts positive effect potency granted by {0}%.",
+    "name": "Air Enhance Up III"
+  },
+  {
+    "id": 4990721,
+    "description": "While equipped to a character with Air affinity, boosts positive effect potency granted by {0}%.",
+    "name": "Air Enhance Up III"
+  },
+  {
+    "id": 4990722,
+    "description": "While equipped to a character with Air affinity, boosts positive effect potency granted by {0}%.",
+    "name": "Air Enhance Up III"
+  },
+  {
+    "id": 4990723,
+    "description": "While equipped to an Attacker with Fire affinity, boosts skill damage by {0}%.<br>Additionally, when HP is 50% or higher, boosts critical damage by {1}%.",
+    "name": "Fire Attacker Damage & Healthy Critical Damage Up III"
+  },
+  {
+    "id": 4990724,
+    "description": "While equipped to an Attacker with Fire affinity, boosts skill damage by {0}%.<br>Additionally, when HP is 50% or higher, boosts critical damage by {1}%.",
+    "name": "Fire Attacker Damage & Healthy Critical Damage Up III"
+  },
+  {
+    "id": 4990725,
+    "description": "While equipped to an Attacker with Fire affinity, boosts skill damage by {0}%.<br>Additionally, when HP is 50% or higher, boosts critical damage by {1}%.",
+    "name": "Fire Attacker Damage & Healthy Critical Damage Up III"
+  },
+  {
+    "id": 4990726,
+    "description": "While equipped to an Attacker with Fire affinity, boosts skill damage by {0}%.<br>Additionally, when own HP is at 50% or higher, boosts critical damage by {1}%.",
+    "name": "Fire Affinity - Attacker & Healthy Critical III"
+  },
+  {
+    "id": 4990727,
+    "description": "While equipped to an Attacker with Fire affinity, boosts skill damage by {0}%.<br>Additionally, when own HP is at 50% or higher, boosts critical damage by {1}%.",
+    "name": "Fire Affinity - Attacker & Healthy Critical III"
+  },
+  {
+    "id": 4990728,
+    "description": "While equipped to an Attacker with Ice affinity, boosts skill damage by {0}%.<br>Additionally, when own HP is at 50% or higher, boosts critical damage by {1}%.",
+    "name": "Ice Affinity - Attacker & Healthy Critical III"
+  },
+  {
+    "id": 4990729,
+    "description": "While equipped to an Attacker with Ice affinity, boosts skill damage by {0}%.<br>Additionally, when own HP is at 50% or higher, boosts critical damage by {1}%.",
+    "name": "Ice Affinity - Attacker & Healthy Critical III"
+  },
+  {
+    "id": 4990730,
+    "description": "While equipped to an Attacker with Ice affinity, boosts skill damage by {0}%.<br>Additionally, when own HP is at 50% or higher, boosts critical damage by {1}%.",
+    "name": "Ice Affinity - Attacker & Healthy Critical III"
+  },
+  {
+    "id": 4990731,
+    "description": "While equipped to an Attacker with Ice affinity, boosts skill damage by {0}%.<br>Additionally, when own HP is at 50% or higher, boosts critical damage by {1}%.",
+    "name": "Ice Affinity - Attacker & Healthy Critical III"
+  },
+  {
+    "id": 4990732,
+    "description": "While equipped to an Attacker with Ice affinity, boosts skill damage by {0}%.<br>Additionally, when own HP is at 50% or higher, boosts critical damage by {1}%.",
+    "name": "Ice Affinity - Attacker & Healthy Critical III"
+  },
+  {
+    "id": 4990733,
+    "description": "While equipped to an Attacker with Air affinity, boosts skill damage by {0}%.<br>Additionally, when own HP is at 50% or higher, boosts critical damage by {1}%.",
+    "name": "Air Affinity - Attacker & Healthy Critical III"
+  },
+  {
+    "id": 4990734,
+    "description": "While equipped to an Attacker with Air affinity, boosts skill damage by {0}%.<br>Additionally, when own HP is at 50% or higher, boosts critical damage by {1}%.",
+    "name": "Air Affinity - Attacker & Healthy Critical III"
+  },
+  {
+    "id": 4990735,
+    "description": "While equipped to an Attacker with Air affinity, boosts skill damage by {0}%.<br>Additionally, when own HP is at 50% or higher, boosts critical damage by {1}%.",
+    "name": "Air Affinity - Attacker & Healthy Critical III"
+  },
+  {
+    "id": 4990736,
+    "description": "While equipped to an Attacker with Air affinity, boosts skill damage by {0}%.<br>Additionally, when own HP is at 50% or higher, boosts critical damage by {1}%.",
+    "name": "Air Affinity - Attacker & Healthy Critical III"
+  },
+  {
+    "id": 4990737,
+    "description": "While equipped to an Attacker with Air affinity, boosts skill damage by {0}%.<br>Additionally, when own HP is at 50% or higher, boosts critical damage by {1}%.",
+    "name": "Air Affinity - Attacker & Healthy Critical III"
+  },
+  {
+    "id": 4990738,
+    "description": "While equipped to an Attacker with Bolt affinity, boosts skill damage by {0}%.<br>Additionally, when own HP is at 50% or higher, boosts critical damage by {1}%.",
+    "name": "Bolt Affinity - Attacker & Healthy Critical III"
+  },
+  {
+    "id": 4990739,
+    "description": "While equipped to an Attacker with Bolt affinity, boosts skill damage by {0}%.<br>Additionally, when own HP is at 50% or higher, boosts critical damage by {1}%.",
+    "name": "Bolt Affinity - Attacker & Healthy Critical III"
+  },
+  {
+    "id": 4990740,
+    "description": "While equipped to an Attacker with Bolt affinity, boosts skill damage by {0}%.<br>Additionally, when own HP is at 50% or higher, boosts critical damage by {1}%.",
+    "name": "Bolt Affinity - Attacker & Healthy Critical III"
+  },
+  {
+    "id": 4990741,
+    "description": "While equipped to an Attacker with Bolt affinity, boosts skill damage by {0}%.<br>Additionally, when own HP is at 50% or higher, boosts critical damage by {1}%.",
+    "name": "Bolt Affinity - Attacker & Healthy Critical III"
+  },
+  {
+    "id": 4990742,
+    "description": "While equipped to an Attacker with Bolt affinity, boosts skill damage by {0}%.<br>Additionally, when own HP is at 50% or higher, boosts critical damage by {1}%.",
+    "name": "Bolt Affinity - Attacker & Healthy Critical III"
+  },
+  {
+    "id": 4990743,
+    "description": "While equipped to an Attacker with Slash affinity, boosts skill damage by {0}%.<br>Additionally, when own HP is at 50% or higher, boosts critical damage by {1}%.",
+    "name": "Slash Affinity - Attacker & Healthy Critical III"
+  },
+  {
+    "id": 4990744,
+    "description": "While equipped to an Attacker with Slash affinity, boosts skill damage by {0}%.<br>Additionally, when own HP is at 50% or higher, boosts critical damage by {1}%.",
+    "name": "Slash Affinity - Attacker & Healthy Critical III"
+  },
+  {
+    "id": 4990745,
+    "description": "While equipped to an Attacker with Slash affinity, boosts skill damage by {0}%.<br>Additionally, when own HP is at 50% or higher, boosts critical damage by {1}%.",
+    "name": "Slash Affinity - Attacker & Healthy Critical III"
+  },
+  {
+    "id": 4990746,
+    "description": "While equipped to an Attacker with Slash affinity, boosts skill damage by {0}%.<br>Additionally, when HP is 50% or higher, boosts critical damage by {1}%.",
+    "name": "Slash Affinity Attacker Damage & Vital Critical Damage Up III"
+  },
+  {
+    "id": 4990747,
+    "description": "While equipped to an Attacker with Slash affinity, boosts skill damage by {0}%.<br>Additionally, when HP is 50% or higher, boosts critical damage by {1}%.",
+    "name": "Slash Affinity Attacker Damage & Vital Critical Damage Up III"
+  },
+  {
+    "id": 4990748,
+    "description": "While equipped to an Attacker with Strike affinity, boosts skill damage by {0}%.<br>Additionally, when HP is 50% or higher, boosts critical damage by {1}%.",
+    "name": "Strike Affinity Attacker Damage & Vital Critical Damage Up III"
+  },
+  {
+    "id": 4990749,
+    "description": "While equipped to an Attacker with Strike affinity, boosts skill damage by {0}%.<br>Additionally, when HP is 50% or higher, boosts critical damage by {1}%.",
+    "name": "Strike Affinity Attacker Damage & Vital Critical Damage Up III"
+  },
+  {
+    "id": 4990750,
+    "description": "While equipped to an Attacker with Strike affinity, boosts skill damage by {0}%.<br>Additionally, when HP is 50% or higher, boosts critical damage by {1}%.",
+    "name": "Strike Affinity Attacker Damage & Vital Critical Damage Up III"
+  },
+  {
+    "id": 4990751,
+    "description": "While equipped to an Attacker with Strike affinity, boosts skill damage by {0}%.<br>Additionally, when HP is 50% or higher, boosts critical damage by {1}%.",
+    "name": "Strike Affinity Attacker Damage & Vital Critical Damage Up III"
+  },
+  {
+    "id": 4990752,
+    "description": "While equipped to an Attacker with Strike affinity, boosts skill damage by {0}%.<br>Additionally, when HP is 50% or higher, boosts critical damage by {1}%.",
+    "name": "Strike Affinity Attacker Damage & Vital Critical Damage Up III"
+  },
+  {
+    "id": 4990753,
+    "description": "While equipped to an Attacker with Stab affinity, boosts skill damage by {0}%.<br>Additionally, when HP is 50% or higher, boosts critical damage by {1}%.",
+    "name": "Stab Affinity Attacker Damage & Vital Critical Damage Up III"
+  },
+  {
+    "id": 4990754,
+    "description": "While equipped to an Attacker with Stab affinity, boosts skill damage by {0}%.<br>Additionally, when HP is 50% or higher, boosts critical damage by {1}%.",
+    "name": "Stab Affinity Attacker Damage & Vital Critical Damage Up III"
+  },
+  {
+    "id": 4990755,
+    "description": "While equipped to an Attacker with Stab affinity, boosts skill damage by {0}%.<br>Additionally, when HP is 50% or higher, boosts critical damage by {1}%.",
+    "name": "Stab Affinity Attacker Damage & Vital Critical Damage Up III"
+  },
+  {
+    "id": 4990756,
+    "description": "While equipped to an Attacker with Stab affinity, boosts skill damage by {0}%.<br>Additionally, when HP is 50% or higher, boosts critical damage by {1}%.",
+    "name": "Stab Affinity Attacker Damage & Vital Critical Damage Up III"
+  },
+  {
+    "id": 4990757,
+    "description": "While equipped to an Attacker with Stab affinity, boosts skill damage by {0}%.<br>Additionally, when HP is 50% or higher, boosts critical damage by {1}%.",
+    "name": "Stab Affinity Attacker Damage & Vital Critical Damage Up III"
+  },
+  {
+    "id": 4990758,
+    "description": "Reduces damage received by {0}%.",
+    "name": "Earnest Wish"
+  },
+  {
+    "id": 4990759,
+    "description": "Reduces damage received by {0}%.",
+    "name": "Earnest Wish"
+  },
+  {
+    "id": 4990760,
+    "description": "Reduces damage received by {0}%.",
+    "name": "Earnest Wish"
+  },
+  {
+    "id": 4990761,
+    "description": "Reduces damage received by {0}%.",
+    "name": "Earnest Wish"
+  },
+  {
+    "id": 4990762,
+    "description": "Reduces damage received by {0}%.",
+    "name": "Earnest Wish"
+  },
+  {
+    "id": 4990763,
+    "description": "While equipped to a Defender, after using a skill, grants all allies \"Reduce damage received by {0}% (fixed)\" for 1 attack (non-stackable).",
+    "name": "Defender Later Guard Up All III"
+  },
+  {
+    "id": 4990764,
+    "description": "While equipped to a Defender, after using a skill, grants all allies \"Reduce damage received by {0}% (fixed)\" for 1 attack (non-stackable).",
+    "name": "Defender Later Guard Up All III"
+  },
+  {
+    "id": 4990765,
+    "description": "While equipped to a Defender, after using a skill, grants all allies \"Reduce damage received by {0}% (fixed)\" for 1 attack (non-stackable).",
+    "name": "Defender Later Guard Up All III"
+  },
+  {
+    "id": 4990766,
+    "description": "While self is a Defender, after using a skill, all allies gain 'Damage Received -{0}% (fixed)' until taking 1 hit. (Cannot be stacked)",
+    "name": "Defender Raider Guard Up (All) III"
+  },
+  {
+    "id": 4990767,
+    "description": "While self is a Defender, after using a skill, all allies gain 'Damage Received -{0}% (fixed)' until taking 1 hit. (Cannot be stacked)",
+    "name": "Defender Raider Guard Up (All) III"
+  },
+  {
+    "id": 4990768,
+    "description": "While equipped to a character with Stab affinity, boosts all allies' critical damage by {0}%",
+    "name": "Stab Affinity Critical Damage Up (All) III"
+  },
+  {
+    "id": 4990769,
+    "description": "While equipped to a character with Stab affinity, boosts all allies' critical damage by {0}%",
+    "name": "Stab Affinity Critical Damage Up (All) III"
+  },
+  {
+    "id": 4990770,
+    "description": "While equipped to a character with Stab affinity, boosts all allies' critical damage by {0}%",
+    "name": "Stab Affinity Critical Damage Up (All) III"
+  },
+  {
+    "id": 4990771,
+    "description": "While equipped to a character with Stab affinity, boosts all allies' critical damage by {0}%",
+    "name": "Stab Affinity Critical Damage Up (All) III"
+  },
+  {
+    "id": 4990772,
+    "description": "While equipped to a character with Stab affinity, boosts all allies' critical damage by {0}%",
+    "name": "Stab Affinity Critical Damage Up (All) III"
+  },
+  {
+    "id": 4990773,
+    "description": "While equipped to a character with Stab affinity, when attacking a weakness, grants 'Critical Damage +{0}%' to self for 2 turns",
+    "name": "Stab Affinity Weakness Critical Damage Up III"
+  },
+  {
+    "id": 4990774,
+    "description": "While equipped to a character with Stab affinity, when attacking a weakness, grants 'Critical Damage +{0}%' to self for 2 turns",
+    "name": "Stab Affinity Weakness Critical Damage Up III"
+  },
+  {
+    "id": 4990775,
+    "description": "While equipped to a character with Stab affinity, when attacking a weakness, grants 'Critical Damage +{0}%' to self for 2 turns",
+    "name": "Stab Affinity Weakness Critical Damage Up III"
+  },
+  {
+    "id": 4990776,
+    "description": "While equipped to a character with Stab affinity, when attacking a weakness, grants 'Critical Damage +{0}%' to self for 2 turns",
+    "name": "Stab Affinity Weakness Critical Damage Up III"
+  },
+  {
+    "id": 4990777,
+    "description": "While equipped to a character with Stab affinity, when attacking a weakness, grants 'Critical Damage +{0}%' to self for 2 turns",
+    "name": "Stab Affinity Weakness Critical Damage Up III"
+  },
+  {
+    "id": 4990778,
+    "description": "While equipped to a character with Ice affinity who is a Defender, boosts all allies' critical damage by {0}%",
+    "name": "Ice Affinity Defender Critical Damage Up (All) II"
+  },
+  {
+    "id": 4990779,
+    "description": "While equipped to a character with Ice affinity who is a Defender, boosts all allies' critical damage by {0}%",
+    "name": "Ice Affinity Defender Critical Damage Up (All) II"
+  },
+  {
+    "id": 4990780,
+    "description": "While equipped to a character with Ice affinity who is a Defender, boosts all allies' critical damage by {0}%",
+    "name": "Ice Affinity Defender Critical Damage Up (All) II"
+  },
+  {
+    "id": 4990781,
+    "description": "While equipped to a character with Ice affinity who is a Defender, boosts all allies' critical damage by {0}%",
+    "name": "Ice Affinity Defender Critical Damage Up (All) II"
+  },
+  {
+    "id": 4990782,
+    "description": "While equipped to a character with Ice affinity who is a Defender, boosts all allies' critical damage by {0}%",
+    "name": "Ice Affinity Defender Critical Damage Up (All) II"
+  },
+  {
+    "id": 4990783,
+    "description": "While 'Serious', boosts HP recovery received by {0}%",
+    "name": "Serious HP Recovery Up III"
+  },
+  {
+    "id": 4990784,
+    "description": "While 'Serious', boosts HP recovery received by {0}%",
+    "name": "Serious HP Recovery Up III"
+  },
+  {
+    "id": 4990785,
+    "description": "While 'Serious', boosts HP recovery received by {0}%",
+    "name": "Serious HP Recovery Up III"
+  },
+  {
+    "id": 4990786,
+    "description": "While in 'Earnest' state, boosts HP recovery received by {0}%",
+    "name": "Earnest Heal Received Up III"
+  },
+  {
+    "id": 4990787,
+    "description": "While in 'Earnest' state, boosts HP recovery received by {0}%",
+    "name": "Earnest Heal Received Up III"
+  },
+  {
+    "id": 4990788,
+    "description": "While equipped to a Supporter with Stab affinity, boosts all allies' single-target skill damage by {0}%",
+    "name": "Stab Affinity Supporter Single Damage Up (All) II"
+  },
+  {
+    "id": 4990789,
+    "description": "While equipped to a Supporter with Stab affinity, boosts all allies' single-target skill damage by {0}%",
+    "name": "Stab Affinity Supporter Single Damage Up (All) II"
+  },
+  {
+    "id": 4990790,
+    "description": "While equipped to a Supporter with Stab affinity, boosts all allies' single-target skill damage by {0}%",
+    "name": "Stab Affinity Supporter Single Damage Up (All) II"
+  },
+  {
+    "id": 4990791,
+    "description": "While equipped to a Supporter with Stab affinity, boosts all allies' single-target skill damage by {0}%",
+    "name": "Stab Affinity Supporter Single Damage Up (All) II"
+  },
+  {
+    "id": 4990792,
+    "description": "While equipped to a Supporter with Stab affinity, boosts all allies' single-target skill damage by {0}%",
+    "name": "Stab Affinity Supporter Single Damage Up (All) II"
+  },
+  {
+    "id": 4990793,
+    "description": "While in 'Merchant' state, reduces damage received from area attacks by {0}% (fixed)",
+    "name": "Merchant Area Guard Up III"
+  },
+  {
+    "id": 4990794,
+    "description": "While in 'Merchant' state, reduces damage received from area attacks by {0}% (fixed)",
+    "name": "Merchant Area Guard Up III"
+  },
+  {
+    "id": 4990795,
+    "description": "While in 'Merchant' state, reduces damage received from area attacks by {0}% (fixed)",
+    "name": "Merchant Area Guard Up III"
+  },
+  {
+    "id": 4990796,
+    "description": "While in 'Merchant' state, reduces damage received from area attacks by {0}% (fixed)",
+    "name": "Merchant Area Guard Up III"
+  },
+  {
+    "id": 4990797,
+    "description": "While in 'Merchant' state, reduces damage received from area attacks by {0}% (fixed)",
+    "name": "Merchant Area Guard Up III"
+  },
+  {
+    "id": 4990798,
+    "description": "While equipped to a character with Slash affinity, boosts positive effect potency granted by {0}%",
+    "name": "Slash Affinity Enhance Up III"
+  },
+  {
+    "id": 4990799,
+    "description": "While equipped to a character with Slash affinity, boosts positive effect potency granted by {0}%",
+    "name": "Slash Affinity Enhance Up III"
+  },
+  {
+    "id": 4990800,
+    "description": "While equipped to a character with Slash affinity, boosts positive effect potency granted by {0}%",
+    "name": "Slash Affinity Enhance Up III"
+  },
+  {
+    "id": 4990801,
+    "description": "While equipped to a character with Slash affinity, boosts positive effect potency granted by {0}%",
+    "name": "Slash Affinity Enhance Up III"
+  },
+  {
+    "id": 4990802,
+    "description": "While equipped to a character with Slash affinity, boosts positive effect potency granted by {0}%",
+    "name": "Slash Affinity Enhance Up III"
+  },
+  {
+    "id": 4990803,
+    "description": "While equipped to a character with Slash affinity, boosts critical damage for single-target attacks by {0}%",
+    "name": "Slash Affinity Single Critical Damage Up III"
+  },
+  {
+    "id": 4990804,
+    "description": "While equipped to a character with Slash affinity, boosts critical damage for single-target attacks by {0}%",
+    "name": "Slash Affinity Single Critical Damage Up III"
+  },
+  {
+    "id": 4990805,
+    "description": "While equipped to a character with Slash affinity, boosts critical damage for single-target attacks by {0}%",
+    "name": "Slash Affinity Single Critical Damage Up III"
+  },
+  {
+    "id": 4990806,
+    "description": "While equipped to a character with Slash affinity, boosts critical damage of single-target attacks by {0}%",
+    "name": "Slash Affinity Single-Target Critical Damage Up III"
+  },
+  {
+    "id": 4990807,
+    "description": "While equipped to a character with Slash affinity, boosts critical damage of single-target attacks by {0}%",
+    "name": "Slash Affinity Single-Target Critical Damage Up III"
+  },
+  {
+    "id": 7000613,
+    "description": "Boosts HP recovery received by characters with Bolt affinity by {0}%",
+    "name": "Bolt Affinity HP Recovery Up (1)"
+  },
+  {
+    "id": 7000614,
+    "description": "Boosts HP recovery received by characters with Bolt affinity by {0}%",
+    "name": "Bolt Affinity HP Recovery Up (2)"
+  },
+  {
+    "id": 7000615,
+    "description": "Boosts HP recovery received by characters with Bolt affinity by {0}%",
+    "name": "Bolt Affinity HP Recovery Up (3)"
+  },
+  {
+    "id": 7000616,
+    "description": "Boosts skill power of Bolt skills by {0}%",
+    "name": "Bolt Skill Power Up (1)"
+  },
+  {
+    "id": 7000617,
+    "description": "Boosts skill power of Bolt skills by {0}%",
+    "name": "Bolt Skill Power Up (2)"
+  },
+  {
+    "id": 7000618,
+    "description": "Boosts skill power of Bolt skills by {0}%",
+    "name": "Bolt Skill Power Up (3)"
+  },
+  {
+    "id": 7000619,
+    "description": "Boosts skill power of Bolt skills by {0}%",
+    "name": "Bolt Skill Power Up (4)"
+  },
+  {
+    "id": 7000620,
+    "description": "Boosts skill power of Bolt skills by {0}%",
+    "name": "Bolt Skill Power Up (5)"
+  },
+  {
+    "id": 7000621,
+    "description": "Boosts skill power of Ice skills by {0}%",
+    "name": "Ice Skill Power Up (1)"
+  },
+  {
+    "id": 7000622,
+    "description": "Boosts skill power of Ice skills by {0}%",
+    "name": "Ice Skill Power Up (2)"
+  },
+  {
+    "id": 7000623,
+    "description": "Boosts skill power of Ice skills by {0}%",
+    "name": "Ice Skill Power Up (3)"
+  },
+  {
+    "id": 7000624,
+    "description": "Boosts skill power of Ice skills by {0}%",
+    "name": "Ice Skill Power Up (4)"
+  },
+  {
+    "id": 7000625,
+    "description": "Boosts skill power of Ice skills by {0}%",
+    "name": "Ice Skill Power Up (5)"
+  },
+  {
+    "id": 7000626,
+    "description": "Boosts skill damage of single-target attacks for characters with Ice affinity by {0}%",
+    "name": "Ice Affinity Single-Target Damage Up (5)"
+  },
+  {
+    "id": 7000627,
+    "description": "Boosts skill power of Air skills by {0}%",
+    "name": "Air Skill Power Up (1)"
+  },
+  {
+    "id": 7000628,
+    "description": "Boosts skill power of Air skills by {0}%",
+    "name": "Air Skill Power Up (2)"
+  },
+  {
+    "id": 7000629,
+    "description": "Boosts skill power of Air skills by {0}%",
+    "name": "Air Skill Power Up (3)"
+  },
+  {
+    "id": 7000630,
+    "description": "Boosts skill power of Air skills by {0}%",
+    "name": "Air Skill Power Up (4)"
+  },
+  {
+    "id": 7000631,
+    "description": "Boosts Air skill power by {0}%.",
+    "name": "Air Skill Power Up (5)"
+  },
+  {
+    "id": 7000632,
+    "description": "Boosts HP recovery granted by characters with Air affinity by {0}%.",
+    "name": "HP Recovery Granted Up - Air Affinity (1)"
+  },
+  {
+    "id": 7000633,
+    "description": "Boosts HP recovery granted by characters with Air affinity by {0}%.",
+    "name": "HP Recovery Granted Up - Air Affinity (2)"
+  },
+  {
+    "id": 7000634,
+    "description": "Boosts HP recovery granted by characters with Air affinity by {0}%.",
+    "name": "HP Recovery Granted Up - Air Affinity (3)"
+  },
+  {
+    "id": 7000635,
+    "description": "Boosts HP recovery received by characters with Ice affinity by {0}%.",
+    "name": "HP Recovery Received Up - Ice Affinity (1)"
+  },
+  {
+    "id": 7000636,
+    "description": "Boosts HP recovery received by characters with Ice affinity by {0}%.",
+    "name": "HP Recovery Received Up - Ice Affinity (2)"
+  },
+  {
+    "id": 7000637,
+    "description": "Boosts HP recovery received by characters with Ice affinity by {0}%.",
+    "name": "HP Recovery Received Up - Ice Affinity (3)"
+  },
+  {
+    "id": 7000638,
+    "description": "Boosts Slash skill power by {0}%.",
+    "name": "Slash Skill Power Up (1)"
+  },
+  {
+    "id": 7000639,
+    "description": "Boosts Slash skill power by {0}%.",
+    "name": "Slash Skill Power Up (2)"
+  },
+  {
+    "id": 7000640,
+    "description": "Boosts Slash skill power by {0}%.",
+    "name": "Slash Skill Power Up (3)"
+  },
+  {
+    "id": 7000641,
+    "description": "Boosts Slash skill power by {0}%.",
+    "name": "Slash Skill Power Up (4)"
+  },
+  {
+    "id": 7000642,
+    "description": "Boosts Slash skill power by {0}%.",
+    "name": "Slash Skill Power Up (5)"
+  },
+  {
+    "id": 7000643,
+    "description": "Boosts Strike skill power by {0}%.",
+    "name": "Strike Skill Power Up (1)"
+  },
+  {
+    "id": 7000644,
+    "description": "Boosts Strike skill power by {0}%.",
+    "name": "Strike Skill Power Up (2)"
+  },
+  {
+    "id": 7000645,
+    "description": "Boosts Strike skill power by {0}%.",
+    "name": "Strike Skill Power Up (3)"
+  },
+  {
+    "id": 7000646,
+    "description": "Boosts Strike skill power by {0}%.",
+    "name": "Strike Skill Power Up (4)"
+  },
+  {
+    "id": 7000647,
+    "description": "Boosts Strike skill power by {0}%.",
+    "name": "Strike Skill Power Up (5)"
+  },
+  {
+    "id": 7000648,
+    "description": "Boosts Stab skill power by {0}%.",
+    "name": "Stab Skill Power Up (1)"
+  },
+  {
+    "id": 7000649,
+    "description": "Boosts Stab skill power by {0}%.",
+    "name": "Stab Skill Power Up (2)"
+  },
+  {
+    "id": 7000650,
+    "description": "Boosts Stab skill power by {0}%.",
+    "name": "Stab Skill Power Up (3)"
+  },
+  {
+    "id": 7000651,
+    "description": "Boosts Stab skill power by {0}%.",
+    "name": "Stab Skill Power Up (4)"
+  },
+  {
+    "id": 7000652,
+    "description": "Boosts Stab skill power by {0}%.",
+    "name": "Stab Skill Power Up (5)"
+  },
+  {
+    "id": 7000653,
+    "description": "Boosts Fire skill power by {0}%.",
+    "name": "Fire Skill Power Up (1)"
+  },
+  {
+    "id": 7000654,
+    "description": "Boosts Fire skill power by {0}%.",
+    "name": "Fire Skill Power Up (2)"
+  },
+  {
+    "id": 7000655,
+    "description": "Boosts Fire skill power by {0}%.",
+    "name": "Fire Skill Power Up (3)"
+  },
+  {
+    "id": 7000656,
+    "description": "Boosts Fire skill power by {0}%.",
+    "name": "Fire Skill Power Up (4)"
+  },
+  {
+    "id": 7000657,
+    "description": "Boosts Fire skill power by {0}%.",
+    "name": "Fire Skill Power Up (5)"
+  },
+  {
+    "id": 7000658,
+    "description": "Boosts potency of Slash resistance down effects inflicted on target by {0}%.",
+    "name": "Resistance Down Enhancement [Slash] (1)"
+  },
+  {
+    "id": 7000659,
+    "description": "Boosts potency of Slash resistance down effects inflicted on target by {0}%.",
+    "name": "Resistance Down Enhancement [Slash] (2)"
+  },
+  {
+    "id": 7000660,
+    "description": "Boosts potency of Slash resistance down effects inflicted on target by {0}%.",
+    "name": "Resistance Down Enhancement [Slash] (3)"
+  },
+  {
+    "id": 7000661,
+    "description": "Boosts potency of Slash resistance down effects inflicted on target by {0}%.",
+    "name": "Resistance Down Enhancement [Slash] (4)"
+  },
+  {
+    "id": 7000662,
+    "description": "Boosts potency of Slash resistance down effects inflicted on target by {0}%.",
+    "name": "Resistance Down Enhancement [Slash] (5)"
+  },
+  {
+    "id": 7000663,
+    "description": "Boosts potency of Strike resistance down effects inflicted on target by {0}%.",
+    "name": "Resistance Down Enhancement [Strike] (1)"
+  },
+  {
+    "id": 7000664,
+    "description": "Boosts potency of Strike resistance down effects inflicted on target by {0}%.",
+    "name": "Resistance Down Enhancement [Strike] (2)"
+  },
+  {
+    "id": 7000665,
+    "description": "Boosts potency of Strike resistance down effects inflicted on target by {0}%.",
+    "name": "Resistance Down Enhancement [Strike] (3)"
+  },
+  {
+    "id": 7000666,
+    "description": "Boosts potency of Strike resistance down effects inflicted on target by {0}%.",
+    "name": "Resistance Down Enhancement [Strike] (4)"
+  },
+  {
+    "id": 7000667,
+    "description": "Boosts potency of Strike resistance down effects inflicted on target by {0}%.",
+    "name": "Resistance Down Enhancement [Strike] (5)"
+  },
+  {
+    "id": 7000668,
+    "description": "Boosts potency of Air resistance down effects inflicted on target by {0}%.",
+    "name": "Resistance Down Enhancement [Air] (1)"
+  },
+  {
+    "id": 7000669,
+    "description": "Boosts potency of Air resistance down effects inflicted on target by {0}%.",
+    "name": "Resistance Down Enhancement [Air] (2)"
+  },
+  {
+    "id": 7000670,
+    "description": "Boosts potency of Air resistance down effects inflicted on target by {0}%.",
+    "name": "Resistance Down Enhancement [Air] (3)"
+  },
+  {
+    "id": 7000671,
+    "description": "Boosts potency of Air resistance down effects given by {0}%.",
+    "name": "Enhanced Resistance Down [Air] (4)"
+  },
+  {
+    "id": 7000672,
+    "description": "Boosts potency of Air resistance down effects given by {0}%.",
+    "name": "Enhanced Resistance Down [Air] (5)"
+  },
+  {
+    "id": 7000673,
+    "description": "Boosts skill damage by {0}% for characters with Slash affinity.",
+    "name": "Slash Affinity Skill Damage Up (1)"
+  },
+  {
+    "id": 7000674,
+    "description": "Boosts skill damage by {0}% for characters with Slash affinity.",
+    "name": "Slash Affinity Skill Damage Up (2)"
+  },
+  {
+    "id": 7000675,
+    "description": "Boosts skill damage by {0}% for characters with Slash affinity.",
+    "name": "Slash Affinity Skill Damage Up (3)"
+  },
+  {
+    "id": 7000676,
+    "description": "",
+    "name": "Battle Item Recovery Up (23)"
+  },
+  {
+    "id": 7000677,
+    "description": "",
+    "name": "Battle Item Recovery Up (24)"
+  },
+  {
+    "id": 7000678,
+    "description": "",
+    "name": "Battle Item Recovery Up (25)"
+  },
+  {
+    "id": 7000679,
+    "description": "",
+    "name": "Battle Item Recovery Up (26)"
+  },
+  {
+    "id": 7000680,
+    "description": "",
+    "name": "Battle Item Recovery Up (27)"
+  },
+  {
+    "id": 7000681,
+    "description": "",
+    "name": "Battle Item Recovery Up (28)"
+  },
+  {
+    "id": 7000682,
+    "description": "",
+    "name": "Battle Item Recovery Up (29)"
+  },
+  {
+    "id": 7000683,
+    "description": "",
+    "name": "Battle Item Damage Up (23)"
+  },
+  {
+    "id": 7000684,
+    "description": "",
+    "name": "Battle Item Damage Up (24)"
+  },
+  {
+    "id": 7000685,
+    "description": "",
+    "name": "Battle Item Damage Up (25)"
+  },
+  {
+    "id": 7000686,
+    "description": "",
+    "name": "Battle Item Damage Up (26)"
+  },
+  {
+    "id": 7000687,
+    "description": "",
+    "name": "Battle Item Damage Up (27)"
+  },
+  {
+    "id": 7000688,
+    "description": "",
+    "name": "Battle Item Damage Up (28)"
+  },
+  {
+    "id": 7000689,
+    "description": "",
+    "name": "Battle Item Damage Up (29)"
+  },
+  {
+    "id": 7000690,
+    "description": "",
+    "name": "Battle Item Damage Up (30)"
+  },
+  {
+    "id": 7000691,
+    "description": "",
+    "name": "Battle Item Buff Effect Up (22)"
+  },
+  {
+    "id": 7000692,
+    "description": "",
+    "name": "Battle Item Buff Effect Up (23)"
+  },
+  {
+    "id": 7000693,
+    "description": "",
+    "name": "Battle Item Buff Effect Up (24)"
+  },
+  {
+    "id": 7000694,
+    "description": "",
+    "name": "Battle Item Buff Effect Up (25)"
+  },
+  {
+    "id": 7000695,
+    "description": "",
+    "name": "Battle Item Buff Effect Up (26)"
+  },
+  {
+    "id": 7000696,
+    "description": "",
+    "name": "Battle Item Buff Effect Up (27)"
+  },
+  {
+    "id": 7000697,
+    "description": "",
+    "name": "Battle Item Buff Effect Up (28)"
+  },
+  {
+    "id": 7000698,
+    "description": "",
+    "name": "Battle Item Debuff Effect Up (22)"
+  },
+  {
+    "id": 7000699,
+    "description": "",
+    "name": "Battle Item Debuff Effect Up (23)"
+  },
+  {
+    "id": 7000700,
+    "description": "",
+    "name": "Battle Item Debuff Effect Up (24)"
+  },
+  {
+    "id": 7000701,
+    "description": "",
+    "name": "Battle Item Debuff Effect Up (25)"
+  },
+  {
+    "id": 7000702,
+    "description": "",
+    "name": "Battle Item Debuff Effect Up (26)"
+  },
+  {
+    "id": 7000703,
+    "description": "",
+    "name": "Battle Item Debuff Effect Up (27)"
+  },
+  {
+    "id": 7000704,
+    "description": "",
+    "name": "Battle Item Debuff Effect Up (28)"
+  },
+  {
+    "id": 7000705,
+    "description": "",
+    "name": "Character Damage Dealt Up (14)"
+  },
+  {
+    "id": 7000706,
+    "description": "",
+    "name": "Character Damage Dealt Up (15)"
+  },
+  {
+    "id": 7000707,
+    "description": "",
+    "name": "Character Damage Dealt Up (16)"
+  },
+  {
+    "id": 7000708,
+    "description": "",
+    "name": "Character Damage Dealt Up (17)"
+  },
+  {
+    "id": 7000709,
+    "description": "",
+    "name": "Character Damage Dealt Up (18)"
+  },
+  {
+    "id": 7000710,
+    "description": "",
+    "name": "Character Damage Dealt Up (19)"
+  },
+  {
+    "id": 7000711,
+    "description": "",
+    "name": "Character Damage Reduction (19)"
+  },
+  {
+    "id": 7000712,
+    "description": "",
+    "name": "Character Damage Reduction (20)"
+  },
+  {
+    "id": 7000713,
+    "description": "",
+    "name": "Character Damage Reduction (21)"
+  },
+  {
+    "id": 7000714,
+    "description": "",
+    "name": "Character Damage Reduction (22)"
+  },
+  {
+    "id": 7000715,
+    "description": "",
+    "name": "Character Damage Reduction (23)"
+  },
+  {
+    "id": 7000716,
+    "description": "",
+    "name": "Character Damage Reduction (24)"
+  },
+  {
+    "id": 21148004,
+    "description": "After Criselda becomes incapacitated, on first action, reduces status effect resistance by 100% (permanent) for all enemies and allies",
+    "name": ""
+  },
+  {
+    "id": 21148005,
+    "description": "After Criselda becomes incapacitated, on first action, inflicts Poison (5 times) ×10 on all enemies",
+    "name": ""
+  },
+  {
+    "id": 21148006,
+    "description": "After Criselda becomes incapacitated, on first action, inflicts Poison (5 times) ×10 on all allies",
+    "name": ""
+  },
+  {
+    "id": 21149006,
+    "description": "At the start of battle, grants Resistance Down Immunity to all allies",
+    "name": ""
+  },
+  {
+    "id": 21206001,
+    "description": "When recovering from stun, once only, grants +15% damage dealt and +7% SPD to self. Removes all debuffs from self.",
+    "name": ""
+  },
+  {
+    "id": 21206002,
+    "description": "When stunned, activates field effect (Enemy Counter/Enemy/Damage Received +100%)",
+    "name": ""
+  },
+  {
+    "id": 21212001,
+    "description": "At battle start, grants Damage Received -75% (1st stack, permanent)\nAt battle start, grants Damage Received -50% (2nd stack, permanent)\nAt battle start, grants Damage Received -25% (3rd stack, permanent)\neffect_motion_battle_start",
+    "name": ""
+  },
+  {
+    "id": 21212002,
+    "description": "On 1st stun, removes Damage Received Down (1st stack)\nOn 2nd stun, removes Damage Received Down (2nd stack)\nOn 3rd stun, removes Damage Received Down (3rd stack)",
+    "name": ""
+  },
+  {
+    "id": 21212003,
+    "description": "When recovering from 1st stun, grants SPD +5% (max 100%, permanent)\nWhen recovering from 2nd stun, grants SPD +5% (max 100%, permanent)\nWhen recovering from 3rd stun, grants SPD +5% (max 100%, permanent)\nWhen recovering from stun, removes all negative effects from self",
+    "name": ""
+  },
+  {
+    "id": 21214001,
+    "description": "When incapacitated, converts Weaken Panels to Darkness Panels (20 spaces)",
+    "name": ""
+  },
+  {
+    "id": 21218001,
+    "description": "Long-range movement ability. Grants Attack Immunity, summons 4 support units, grants Summon Count buff, activates Gimmick Progress Gauge",
+    "name": ""
+  },
+  {
+    "id": 21218002,
+    "description": "Close-range movement ability. Removes 3-turn count buff, removes Summon Count buff, removes Attack Immunity status, delays self by 5 turns",
+    "name": ""
+  },
+  {
+    "id": 21218003,
+    "description": "Ally summon processing after action while at long range",
+    "name": ""
+  },
+  {
+    "id": 21218004,
+    "description": "Ally summon processing when allies become incapacitated while at long range",
+    "name": ""
+  },
+  {
+    "id": 21218005,
+    "description": "Process for calling allies when distant and allies are unable to battle",
+    "name": ""
+  },
+  {
+    "id": 21218006,
+    "description": "At the start of Quarelga's second battle, grants all element resistance UP (90%), damage received DOWN (90%), and stun damage received DOWN (300%) to main body",
+    "name": ""
+  },
+  {
+    "id": 21218007,
+    "description": "Ability when moving to distance. Grants attack immunity, calls 4 drone allies, applies ally call count buff, activates gimmick progress gauge",
+    "name": ""
+  },
+  {
+    "id": 21218008,
+    "description": "Ability when moving to close range. Removes 3-turn count buff, removes ally call count buff, removes attack immunity status, delays self by 5 turns",
+    "name": ""
+  },
+  {
+    "id": 21218009,
+    "description": "Process for calling allies after action when at a distance",
+    "name": ""
+  },
+  {
+    "id": 21218010,
+    "description": "Process for calling allies when distant and allies are unable to battle",
+    "name": ""
+  },
+  {
+    "id": 21218011,
+    "description": "Process for calling allies when distant and allies are unable to battle",
+    "name": ""
+  },
+  {
+    "id": 21218012,
+    "description": "When stunned, applies stun to both arms. When acting while stunned, removes allies' stun. Reselects own action when allies are unable to battle",
+    "name": ""
+  },
+  {
+    "id": 21218013,
+    "description": "When stunned, applies stun to both arms. When acting while stunned, removes allies' stun. Reselects own action when allies are unable to battle",
+    "name": ""
+  },
+  {
+    "id": 21219001,
+    "description": "In Quarelga's second battle, when right arm is destroyed, removes all element resistance UP from main body and reduces stun gauge by 50%",
+    "name": ""
+  },
+  {
+    "id": 21220001,
+    "description": "In Quarelga's second battle, when left arm is destroyed, removes damage received DOWN and stun damage received DOWN from main body and reduces stun gauge by 50%",
+    "name": ""
+  },
+  {
+    "id": 21221001,
+    "description": "HP recovery is permanently nullified during battle",
+    "name": ""
+  },
+  {
+    "id": 21221002,
+    "description": "Critical panels are nullified",
+    "name": ""
+  },
+  {
+    "id": 21222001,
+    "description": "When allies are unable to battle, grants self all magic element resistance UP (50%/2 times) once only",
+    "name": ""
+  },
+  {
+    "id": 21224001,
+    "description": "When unable to battle, deploys a field that reduces status effect resistance (50%/10T for all allies)\nhas effect_motion",
+    "name": ""
+  },
+  {
+    "id": 21225001,
+    "description": "At battle start, grants self permanent counter status for non-WEAK attacks\nWhen destroyed, grants self counter (permanent) once only\nWhen destroyed, removes all counter states for non-WEAK attacks from self\nhas effect_motion",
+    "name": ""
+  },
+  {
+    "id": 21226001,
+    "description": "When hit at 30% HP or below, advances own turn by 3 turns\nWhen hit at 30% HP or below, reselects action\nhas effect_motion",
+    "name": ""
+  },
+  {
+    "id": 21226002,
+    "description": "When stunned, removes one SPD UP effect from self",
+    "name": ""
+  },
+  {
+    "id": 21226003,
+    "description": "Increases damage dealt by 0~50% based on number of SPD UP effects on self (increases with more effects, up to 20)",
+    "name": ""
+  },
+  {
+    "id": 22212004,
+    "description": "When recovering from first stun, grants SPD UP (10%/max 100%/permanent)\nWhen recovering from second stun, grants SPD UP (10%/max 100%/permanent)\nWhen recovering from third stun, grants SPD UP (10%/max 100%/permanent)\nWhen recovering from stun, removes all negative effects from self",
+    "name": ""
+  },
+  {
+    "id": 22212005,
+    "description": "At battle start, grants Damage Received Down (1st time) (100%/permanent)\nAt battle start, grants Damage Received Down (2nd time) (75%/permanent)\nAt battle start, grants Damage Received Down (3rd time) (50%/permanent)\neffect_motion_BattleStart",
+    "name": ""
+  },
+  {
+    "id": 24008001,
+    "description": "At battle start, grants Sleep (1 time) to self",
+    "name": ""
+  },
+  {
+    "id": 24010001,
+    "description": "At battle start, grants Nullify Damage (6 times) to self",
+    "name": ""
+  },
+  {
+    "id": 24015001,
+    "description": "At battle start, grants Sleep (2 times) to self",
+    "name": ""
+  },
+  {
+    "id": 24019001,
+    "description": "Increases damage dealt by 30% based on the number of status effects on self",
+    "name": ""
+  },
+  {
+    "id": 24031001,
+    "description": "At end of turn, grants Damage Received Down (50%/permanent) to self\nWhen stunned, removes own Damage Received Down",
+    "name": ""
+  },
+  {
+    "id": 24038001,
+    "description": "Each time an action is taken, grants Damage Dealt Up (30%/permanent/up to 999%) to self",
+    "name": ""
+  },
+  {
+    "id": 24038002,
+    "description": "When recovering from stun, grants Negative Effect Potency Up (15%/2 times) to self\nWhen recovering from stun, grants Regeneration (10%/2 times) to self\nWhen stunned, removes own Regeneration",
+    "name": ""
+  },
+  {
+    "id": 24055001,
+    "description": "At battle start, grants Nullify Damage (8 times) to self",
+    "name": ""
+  },
+  {
+    "id": 24055002,
+    "description": "Removes all negative effects from self each time an action is taken",
+    "name": ""
+  },
+  {
+    "id": 24062001,
+    "description": "At battle start, grants Sleep (4 times) to self",
+    "name": ""
+  },
+  {
+    "id": 24062002,
+    "description": "Recovers 25% HP each time an action is taken",
+    "name": ""
+  },
+  {
+    "id": 24062003,
+    "description": "After acting while not asleep, reroll action (1 time only)",
+    "name": ""
+  },
+  {
+    "id": 24120001,
+    "description": "When self has 5 or more negative effects, increases damage dealt by 50%",
+    "name": ""
+  },
+  {
+    "id": 24120002,
+    "description": "When KO'd, converts all panels except Debuff and Status Effect panels into Paralysis panels (10 spaces)",
+    "name": ""
+  },
+  {
+    "id": 24122001,
+    "description": "At battle start, grants Nullify Damage (4 times) to self",
+    "name": ""
+  },
+  {
+    "id": 24203001,
+    "description": "When HP is 50% or lower, increases damage dealt by 50%",
+    "name": ""
+  },
+  {
+    "id": 26013001,
+    "description": "When stunned, grants Received Buff Effect Potency Up (55%/2 times) to all enemies and allies",
+    "name": ""
+  },
+  {
+    "id": 26026000,
+    "description": "When KO'd, grants Damage Dealt Up (15%/3 times) and Damage Received Up (15%/3 times) to all allies",
+    "name": ""
+  },
+  {
+    "id": 26039001,
+    "description": "Increases damage dealt by 10% against targets with Provoke",
+    "name": ""
+  },
+  {
+    "id": 26039002,
+    "description": "When stunned, grants enemies +55% damage dealt (2 times) and +55% critical damage (2 times) to all enemies",
+    "name": ""
+  },
+  {
+    "id": 26051001,
+    "description": "Boosts damage dealt by 30% when target has Provoke",
+    "name": ""
+  },
+  {
+    "id": 26052001,
+    "description": "When inflicted with a status effect and receiving a WEAK attack, triggers Force Stun",
+    "name": ""
+  },
+  {
+    "id": 26052002,
+    "description": "Grants all enemies: \"When receiving area healing and if self has 10 or more buffs, grants self +100% damage dealt (1 time)\"",
+    "name": ""
+  },
+  {
+    "id": 26092001,
+    "description": "At wave start, grants self -1% damage received (indefinite)\nWhen hit by a skill while HP is 60% or lower, removes self's -1% damage received (indefinite), grants self +20% SPD (unlimited), +15% damage received (indefinite), +30% damage dealt (unlimited), and recovers 50% of own HP",
+    "name": ""
+  },
+  {
+    "id": 26103004,
+    "description": "When hit by Bolt attacks, grants self +20% damage received (3 times) (Does not trigger if \"Damage Received Up (Christmas Golem_Bolt Hit)\" is active)\nWhen hit by Ice attacks, grants self +10% damage received (5 times) (Does not trigger if \"Damage Received Up (Christmas Golem_Ice Hit)\" is active)",
+    "name": ""
+  },
+  {
+    "id": 26103005,
+    "description": "When stunned, grants self Frozen (1 time)\nWhen hit by an attack while self is Frozen, grants self Darkness (25% chance to trigger/1 time)",
+    "name": ""
+  },
+  {
+    "id": 26109000,
+    "description": "While inflicted with a status effect, grants +25% damage received (3 times) each time hit by an attack",
+    "name": ""
+  },
+  {
+    "id": 26110001,
+    "description": "When hit by an attack, grants stacking Critical Rate +10% to ally with highest max HP (up to 100%)",
+    "name": ""
+  },
+  {
+    "id": 26119002,
+    "description": "While self is stunned, when hit by a critical attack, converts all non-Burst panels into Strengthened panels (5 spaces)",
+    "name": ""
+  },
+  {
+    "id": 26119003,
+    "description": "When self is stunned, removes all negative effects from the entire party",
+    "name": ""
+  },
+  {
+    "id": 26122003,
+    "description": "When stunned, converts Strengthened panels to Burst panels (20 spaces)",
+    "name": ""
+  },
+  {
+    "id": 26122004,
+    "description": "When stunned, converts Strengthened panels and Critical panels to Burst panels (10 spaces)",
+    "name": ""
+  },
+  {
+    "id": 26132002,
+    "description": "When incapacitated, inflicts Poison (2 times) ×3 on all enemies",
+    "name": ""
+  },
+  {
+    "id": 26142000,
+    "description": "Each time an action is taken, grants self +0% damage dealt (invisible)\nWhen 4 or more stacks of +0% damage dealt (invisible) are present, grants +200% damage received after skill activation",
+    "name": ""
+  },
+  {
+    "id": 26207001,
+    "description": "At wave start, grants all enemies +100% max HP (permanent)\nAt wave start, grants all enemies +100% M.ATK (permanent)\nAt wave start, recovers 100% HP for all enemies\neffect_motion enabled",
+    "name": ""
+  },
+  {
+    "id": 26207002,
+    "description": "At wave start, grants all enemies +300% max HP (permanent)\nAt wave start, grants all enemies +300% M.ATK (permanent)\nAt wave start, recovers 300% HP for all enemies\neffect_motion enabled",
+    "name": ""
+  },
+  {
+    "id": 26207003,
+    "description": "Boosts damage dealt by 400%",
+    "name": ""
+  },
+  {
+    "id": 26210001,
+    "description": "When incapacitated while stunned, grants all enemy allies +65% negative effect potency received (3 times)",
+    "name": ""
+  },
+  {
+    "id": 26211001,
+    "description": "When hit by Ice attacks, grants self -3% damage dealt (up to 30%) and +5% damage received (up to 50%)",
+    "name": ""
+  },
+  {
+    "id": 26211002,
+    "description": "When stunned, removes all debuffs from target",
+    "name": ""
+  },
+  {
+    "id": 26211003,
+    "description": "When taking Ice elemental critical damage equal to or greater than 5% of own HP, grants Damage Dealt Down (40%/2 times) to self\nWhen taking Ice elemental critical damage equal to or greater than 5% of own HP, grants Damage Received Up 20% (max 100%) to self",
+    "name": ""
+  },
+  {
+    "id": 26216001,
+    "description": "When hit by a burst skill, grants Damage Dealt Down (10%) to self (max 100%)",
+    "name": ""
+  },
+  {
+    "id": 26217001,
+    "description": "When unable to act, grants Regeneration (5%) to all enemies",
+    "name": ""
+  },
+  {
+    "id": 26226001,
+    "description": "Nullifies Speed Down effects received by self",
+    "name": ""
+  },
+  {
+    "id": 600000590,
+    "description": "Applies wet effect to target character",
+    "name": ""
+  },
+  {
+    "id": 600000591,
+    "description": "When affinity is not Fire, reduces all stats except Speed by 90%",
+    "name": "When affinity is not Fire, reduces all stats except Speed"
+  },
+  {
+    "id": 600000592,
+    "description": "When affinity is not Ice, reduces all stats except Speed by 90%",
+    "name": "When affinity is not Ice, reduces all stats except Speed"
+  },
+  {
+    "id": 600000593,
+    "description": "When affinity is not Bolt, reduces all stats except Speed by 90%",
+    "name": "When affinity is not Bolt, reduces all stats except Speed"
+  },
+  {
+    "id": 600000594,
+    "description": "When affinity is not Air, reduces all stats except Speed by 90%",
+    "name": "When affinity is not Air, reduces all stats except Speed"
+  },
+  {
+    "id": 600000595,
+    "description": "When affinity is not Slash, reduces all stats except Speed by 90%",
+    "name": "When affinity is not Slash, reduces all stats except Speed"
+  },
+  {
+    "id": 600000596,
+    "description": "When affinity is not Strike, reduces all stats except Speed by 90%",
+    "name": "When affinity is not Strike, reduces all stats except Speed"
+  },
+  {
+    "id": 600000597,
+    "description": "When affinity is not Stab, reduces all stats except Speed by 90%",
+    "name": "When affinity is not Stab, reduces all stats except Speed"
+  },
+  {
+    "id": 600000598,
+    "description": "When HP is 50% or lower, boosts skill damage by 50%",
+    "name": "Damage Dealt Up when HP is 50% or lower"
+  },
+  {
+    "id": 600000599,
+    "description": "Boosts skill damage based on the number of status effects on self (30% per effect)",
+    "name": "Damage Dealt Up based on number of status effects on self"
+  },
+  {
+    "id": 600000600,
+    "description": "When 5 or more negative effects are applied to self, boosts skill damage by 50%",
+    "name": "Damage Dealt Up when 5 or more negative effects are applied to self"
+  },
+  {
+    "id": 600000601,
+    "description": "When affinity is not Fire, reduces item gauge recovery after actions by 100%",
+    "name": "When affinity is not Fire, reduces item gauge recovery"
+  },
+  {
+    "id": 600000602,
+    "description": "When affinity is not Ice, reduces item gauge recovery after actions by 100%",
+    "name": "When affinity is not Ice, reduces item gauge recovery"
+  },
+  {
+    "id": 600000603,
+    "description": "When affinity is not Bolt, reduces item gauge recovery after actions by 100%",
+    "name": "When affinity is not Bolt, reduces item gauge recovery"
+  },
+  {
+    "id": 600000604,
+    "description": "When affinity is not Air, reduces item gauge recovery after actions by 100%",
+    "name": "When affinity is not Air, reduces item gauge recovery"
+  },
+  {
+    "id": 600000605,
+    "description": "When affinity is not Slash, reduces item gauge recovery after action by 100%",
+    "name": "Item Gauge Recovery Down When Not Slash"
+  },
+  {
+    "id": 600000606,
+    "description": "When affinity is not Strike, reduces item gauge recovery after action by 100%",
+    "name": "Item Gauge Recovery Down When Not Strike"
+  },
+  {
+    "id": 600000607,
+    "description": "When affinity is not Stab, reduces item gauge recovery after action by 100%",
+    "name": "Item Gauge Recovery Down When Not Stab"
+  },
+  {
+    "id": 600000608,
+    "description": "When defeating an enemy with a skill, grants all allies immunity to damage for 1 hit",
+    "name": "Grant Damage Immunity to All Allies When Defeating Enemy with Skill"
+  },
+  {
+    "id": 600000610,
+    "description": "When affinity is Fire, boosts item gauge recovery after action by 100%",
+    "name": "Item Gauge Recovery Up When Fire"
+  },
+  {
+    "id": 600000611,
+    "description": "When affinity is Ice, boosts item gauge recovery after action by 100%",
+    "name": "Item Gauge Recovery Up When Ice"
+  },
+  {
+    "id": 600000612,
+    "description": "When affinity is Bolt, boosts item gauge recovery after action by 100%",
+    "name": "Item Gauge Recovery Up When Bolt"
+  },
+  {
+    "id": 600000613,
+    "description": "When affinity is Air, boosts item gauge recovery after action by 100%",
+    "name": "Item Gauge Recovery Up When Air"
+  },
+  {
+    "id": 600000614,
+    "description": "When affinity is Slash, boosts item gauge recovery after action by 100%",
+    "name": "Item Gauge Recovery Up When Slash"
+  },
+  {
+    "id": 600000615,
+    "description": "When affinity is Strike, boosts item gauge recovery after action by 100%",
+    "name": "Item Gauge Recovery Up When Strike"
+  },
+  {
+    "id": 600000616,
+    "description": "When affinity is Stab, boosts item gauge recovery after action by 100%",
+    "name": "Item Gauge Recovery Up When Stab"
+  },
+  {
+    "id": 600000617,
+    "description": "After using a Fire battle item, increases damage received from battle items by 50% (max 999%) for the target",
+    "name": "Increase Battle Item Damage Received After Fire Item"
+  },
+  {
+    "id": 600000618,
+    "description": "After using an Ice battle item, increases damage received from battle items by 50% (max 999%) for the target",
+    "name": "Increase Battle Item Damage Received After Ice Item"
+  },
+  {
+    "id": 600000619,
+    "description": "After using a Bolt battle item, increases damage received from battle items by 50% (max 999%) for the target",
+    "name": "Increase Battle Item Damage Received After Bolt Item"
+  },
+  {
+    "id": 600000620,
+    "description": "After using an Air battle item, increases damage received from battle items by 50% (max 999%) for the target",
+    "name": "Increase Battle Item Damage Received After Air Item"
+  },
+  {
+    "id": 600000621,
+    "description": "After using a Slash battle item, increases damage received from battle items by 50% (max 999%) for the target",
+    "name": "Increase Battle Item Damage Received After Slash Item"
+  },
+  {
+    "id": 600000622,
+    "description": "After using a Strike battle item, increases damage received from battle items by 50% (max 999%) for the target",
+    "name": "Increase Battle Item Damage Received After Strike Item"
+  },
+  {
+    "id": 600000623,
+    "description": "After using a Stab battle item, increases damage received from battle items by 50% (max 999%) for the target",
+    "name": "Increase Battle Item Damage Received After Stab Item"
+  },
+  {
+    "id": 600000624,
+    "description": "When affinity is not Fire, reduces effect potency granted by 90%",
+    "name": "Effect Potency Down When Not Fire"
+  },
+  {
+    "id": 600000625,
+    "description": "When affinity is not Ice, reduces effect potency granted by 90%",
+    "name": "Effect Potency Down When Not Ice"
+  },
+  {
+    "id": 600000626,
+    "description": "When affinity is not Bolt, reduces effect potency granted by 90%",
+    "name": "Non-Bolt Effect Potency Down"
+  },
+  {
+    "id": 600000627,
+    "description": "When affinity is not Air, reduces effect potency granted by 90%",
+    "name": "Non-Air Effect Potency Down"
+  },
+  {
+    "id": 600000628,
+    "description": "When affinity is not Slash, reduces effect potency granted by 90%",
+    "name": "Non-Slash Effect Potency Down"
+  },
+  {
+    "id": 600000629,
+    "description": "When affinity is not Strike, reduces effect potency granted by 90%",
+    "name": "Non-Strike Effect Potency Down"
+  },
+  {
+    "id": 600000630,
+    "description": "When affinity is not Stab, reduces effect potency granted by 90%",
+    "name": "Non-Stab Effect Potency Down"
+  },
+  {
+    "id": 600000631,
+    "description": "Boosts skill damage by 100% against targets with status effects",
+    "name": "Status Effect Damage Up"
+  },
+  {
+    "id": 600000632,
+    "description": "While equipped to a character with Fire affinity, boosts stun damage by 50%",
+    "name": "Fire Stun Damage Up"
+  },
+  {
+    "id": 600000633,
+    "description": "While equipped to a character with Ice affinity, boosts stun damage by 50%",
+    "name": "Ice Stun Damage Up"
+  },
+  {
+    "id": 600000634,
+    "description": "While equipped to a character with Bolt affinity, boosts stun damage by 50%",
+    "name": "Bolt Stun Damage Up"
+  },
+  {
+    "id": 600000635,
+    "description": "While equipped to a character with Air affinity, boosts stun damage by 50%",
+    "name": "Air Stun Damage Up"
+  },
+  {
+    "id": 600000636,
+    "description": "While equipped to a character with Slash affinity, boosts stun damage by 50%",
+    "name": "Slash Stun Damage Up"
+  },
+  {
+    "id": 600000637,
+    "description": "While equipped to a character with Strike affinity, boosts stun damage by 50%",
+    "name": "Strike Stun Damage Up"
+  },
+  {
+    "id": 600000638,
+    "description": "While equipped to a character with Stab affinity, boosts stun damage by 50%",
+    "name": "Stab Stun Damage Up"
+  },
+  {
+    "id": 600000639,
+    "description": "Reduces skill damage by 90% for all skills except battle items",
+    "name": "Non-Battle Item Skill Damage -90%"
+  },
+  {
+    "id": 600000640,
+    "description": "Reduces skill damage by 50% against stunned enemies",
+    "name": "Stunned Enemy Damage Down"
+  },
+  {
+    "id": 600000641,
+    "description": "At battle start, grants \"Nullify Damage (5 times)\" to allies with Fire affinity",
+    "name": "Fire Nullify Damage (5 times)"
+  },
+  {
+    "id": 600000642,
+    "description": "At battle start, grants \"Nullify Damage (5 times)\" to allies with Ice affinity",
+    "name": "Ice Nullify Damage (5 times)"
+  },
+  {
+    "id": 600000643,
+    "description": "At battle start, grants \"Nullify Damage (5 times)\" to allies with Bolt affinity",
+    "name": "Bolt Nullify Damage (5 times)"
+  },
+  {
+    "id": 600000644,
+    "description": "At battle start, grants \"Nullify Damage (5 times)\" to allies with Air affinity",
+    "name": "Air Nullify Damage (5 times)"
+  },
+  {
+    "id": 600000645,
+    "description": "At battle start, grants \"Nullify Damage (5 times)\" to allies with Slash affinity",
+    "name": "Slash Nullify Damage (5 times)"
+  },
+  {
+    "id": 600000646,
+    "description": "At the start of battle, grants 5 stacks of Nullify Damage to allies with Strike affinity.",
+    "name": "Strike - Grant Nullify Damage (5 stacks)"
+  },
+  {
+    "id": 600000647,
+    "description": "At the start of battle, grants 5 stacks of Nullify Damage to allies with Stab affinity.",
+    "name": "Stab - Grant Nullify Damage (5 stacks)"
+  },
+  {
+    "id": 600000648,
+    "description": "Boosts critical rate of battle items by 100%.",
+    "name": "Item Critical Rate Up"
+  },
+  {
+    "id": 600000649,
+    "description": "Boosts recovery received from battle items by 100%.",
+    "name": "Battle Item Recovery Up"
+  },
+  {
+    "id": 600000650,
+    "description": "Boosts item gauge recovery after action by 50%.",
+    "name": "Post-Action Item Gauge Recovery Up"
+  },
+  {
+    "id": 600000651,
+    "description": "For each ally with the Nova tag, boosts battle item damage by 200%. (MAX 3000%)",
+    "name": "Nova Item Damage Up"
+  },
+  {
+    "id": 600000652,
+    "description": "Reduces damage dealt by non-battle items by 99%.",
+    "name": "Non-Battle Item Damage Down"
+  },
+  {
+    "id": 600000653,
+    "description": "When using Stab or Slash battle items, boosts all allies' battle item damage by 100%. (MAX 3000%)",
+    "name": "Item Use Item Damage Up"
+  },
+  {
+    "id": 600000654,
+    "description": "Reduces damage dealt by non-battle items by 30%.",
+    "name": "Non-Battle Item Damage Down"
+  },
+  {
+    "id": 301115,
+    "description": "While equipped to a Defender with Slash affinity, reduces damage received by {0}% when HP is 70% or higher.",
+    "name": "Schwarz Luster"
+  },
+  {
+    "id": 301116,
+    "description": "While equipped to a Defender with Slash affinity, reduces damage received by {0}% when HP is 70% or higher.",
+    "name": "Schwarz Luster"
+  },
+  {
+    "id": 301117,
+    "description": "While equipped to a Defender with Slash affinity, reduces single target damage received by {0}%.",
+    "name": "Feather One-Piece"
+  },
+  {
+    "id": 301118,
+    "description": "While equipped to a Defender with Slash affinity, reduces single target damage received by {0}%.",
+    "name": "Feather One-Piece"
+  },
+  {
+    "id": 301119,
+    "description": "While equipped to a Defender with Slash affinity, after using a skill, reduces area attack damage received by {0}% for all allies until taking 1 attack.",
+    "name": "White West Pouch"
+  },
+  {
+    "id": 301120,
+    "description": "While equipped to a Defender with Slash affinity, after using a skill, reduces area attack damage received by {0}% for all allies until taking 1 attack.",
+    "name": "White West Pouch"
+  },
+  {
+    "id": 301121,
+    "description": "While equipped to Janne [Mother's Affection], when taking damage, grants Critical Damage +{0}% to the ally with highest P.ATK until end of action (cannot be stacked).",
+    "name": "Presidio Apparatus"
+  },
+  {
+    "id": 301122,
+    "description": "While equipped to a character with Slash affinity and who is a Breaker, boosts stun damage by {0}% against WEAK targets.",
+    "name": "Cercatore"
+  },
+  {
+    "id": 301123,
+    "description": "While equipped to a character with Slash affinity and who is a Breaker, boosts stun damage by {0}% against WEAK targets.",
+    "name": "Cercatore"
+  },
+  {
+    "id": 301124,
+    "description": "While equipped to a character with Slash affinity, boosts effects received from boost-type panels by {0}%.",
+    "name": "Explorer's Mantle"
+  },
+  {
+    "id": 301125,
+    "description": "While equipped to a character with Slash affinity, boosts effects received from boost-type panels by {0}%.",
+    "name": "Explorer's Mantle"
+  },
+  {
+    "id": 301126,
+    "description": "While equipped to a character with Slash affinity and who is a Breaker, before attacking, applies Slash resistance -{0}% to target until taking 2 attacks.",
+    "name": "Sage's Lens"
+  },
+  {
+    "id": 301127,
+    "description": "While equipped to a character with Slash affinity and who is a Breaker, before attacking, applies Slash resistance -{0}% to target until taking 2 attacks.",
+    "name": "Sage's Lens"
+  },
+  {
+    "id": 301128,
+    "description": "While equipped to Resna [Rise Above Fate], when attacking a stunned target, applies damage received +{0}% to target until taking 2 attacks and grants stun damage +{1}% to self (cannot be stacked).",
+    "name": "Increment Prave"
+  },
+  {
+    "id": 1980180,
+    "description": "Characters with Slash affinity gain P.ATK, M.ATK, P.DEF, and M.DEF +{0}%.",
+    "name": "Strongest Holy Knight of the Sacred Kingdom"
+  },
+  {
+    "id": 1980181,
+    "description": "All allies with Slash affinity gain stun damage and critical damage +{0}%.",
+    "name": "Brandish Your Blade, Let's Go!"
+  },
+  {
+    "id": 1990326,
+    "description": "Becomes much more likely to be targeted by enemies<br>Boosts own P.DEF and M.DEF by {0}%.",
+    "name": "Presence of the Strong"
+  },
+  {
+    "id": 1990327,
+    "description": "All allies with Slash affinity gain max HP +{0}% and P.DEF/M.DEF +{1}%<br>At the start of battle, recovers all allies' HP by {2}% and reduces damage received by {3}% for all allies with Slash affinity for 1 attack.",
+    "name": "A Mother's Love"
+  },
+  {
+    "id": 1990328,
+    "description": "When attacking a stunned target, grants burst skill damage +{0}% (up to 200%) and P.ATK +{1}% to all allies with Slash affinity until end of action.",
+    "name": "Carve a Path to Dreams!"
+  },
+  {
+    "id": 1990329,
+    "description": "When stunning target with \"Stella Storm\" or \"Stella Prism\", nullifies panels on target until the end of 3 actions.",
+    "name": "I Won't Let Evil Prevail!"
+  },
+  {
+    "id": 4990808,
+    "description": "While equipped to a character with Slash affinity, when taking damage, grants \"Critical Damage +{0}%\" to all allies until end of action (max 2 stacks).",
+    "name": "Slash Critical Damage Up All When Hit III"
+  },
+  {
+    "id": 4990809,
+    "description": "While equipped to a character with Slash affinity, when taking damage, grants \"Critical Damage +{0}%\" to all allies until end of action (max 2 stacks).",
+    "name": "Slash Critical Damage Up All When Hit III"
+  },
+  {
+    "id": 4990810,
+    "description": "While equipped to a character with Slash affinity, when taking damage, grants \"Critical Damage +{0}%\" to all allies until end of action (max 2 stacks).",
+    "name": "Slash Critical Damage Up All When Hit III"
+  },
+  {
+    "id": 4990811,
+    "description": "While equipped to a character with Slash affinity, when taking damage, grants \"Critical Damage +{0}%\" to all allies until end of action (max 2 stacks).",
+    "name": "Slash Critical Damage Up All When Hit III"
+  },
+  {
+    "id": 4990812,
+    "description": "While equipped to a character with Slash affinity, when taking damage, grants \"Critical Damage +{0}%\" to all allies until end of action (max 2 stacks).",
+    "name": "Slash Critical Damage Up All When Hit III"
+  },
+  {
+    "id": 4990813,
+    "description": "While equipped to a character with Slash affinity, boosts stun damage by {0}% when attacking a weakness.",
+    "name": "Slash Weak Point Stun Damage Up III"
+  },
+  {
+    "id": 4990814,
+    "description": "While equipped to a character with Slash affinity, boosts stun damage by {0}% when attacking a weakness.",
+    "name": "Slash Weak Point Stun Damage Up III"
+  },
+  {
+    "id": 4990815,
+    "description": "While equipped to a character with Slash affinity, boosts stun damage by {0}% when attacking a weakness.",
+    "name": "Slash Weak Point Stun Damage Up III"
+  },
+  {
+    "id": 4990816,
+    "description": "While equipped to a character with Slash affinity, boosts stun damage by {0}% when attacking a weakness.",
+    "name": "Slash Weak Point Stun Damage Up III"
+  },
+  {
+    "id": 4990817,
+    "description": "While equipped to a character with Slash affinity, boosts stun damage by {0}% when attacking a weakness.",
+    "name": "Slash Weak Point Stun Damage Up III"
+  },
+  {
+    "id": 4990823,
+    "description": "While equipped to an Attacker, boosts critical damage by {0}% and critical rate by 10%.",
+    "name": "Attacker Critical Rate & Damage Up III"
+  },
+  {
+    "id": 4990824,
+    "description": "While equipped to an Attacker, boosts critical damage by {0}% and critical rate by 10%.",
+    "name": "Attacker Critical Rate & Damage Up III"
+  },
+  {
+    "id": 4990825,
+    "description": "While equipped to an Attacker, boosts critical damage by {0}% and critical rate by 10%.",
+    "name": "Attacker Critical Rate & Damage Up III"
+  },
+  {
+    "id": 4990826,
+    "description": "While equipped to an Attacker, boosts critical damage by {0}% and critical rate by 10%.",
+    "name": "Attacker Critical Rate & Damage Up III"
+  },
+  {
+    "id": 4990827,
+    "description": "While equipped to an Attacker, boosts critical damage by {0}% and critical rate by 10%.",
+    "name": "Attacker Critical Rate & Damage Up III"
+  },
+  {
+    "id": 7000717,
+    "description": "Boosts HP recovery received by {0}% for characters with Slash affinity.",
+    "name": "Slash Character HP Recovery Up (1)"
+  },
+  {
+    "id": 7000718,
+    "description": "Boosts HP recovery received by {0}% for characters with Slash affinity.",
+    "name": "Slash Character HP Recovery Up (2)"
+  },
+  {
+    "id": 7000719,
+    "description": "Boosts HP recovery received by {0}% for characters with Slash affinity.",
+    "name": "Slash Character HP Recovery Up (3)"
+  },
+  {
+    "id": 21014001,
+    "description": "When taking damage, 100% chance to perform a counter-attack.",
+    "name": ""
+  },
+  {
+    "id": 22035001,
+    "description": "When HP is below 50%, when hit by an attack, grants damage dealt +10% to self for 1 time.\nWhen stunned, grants regeneration 10% (2 times) to all enemies.",
+    "name": ""
+  },
+  {
+    "id": 22035002,
+    "description": "When HP is below 50%, grants a damage dealt up buff (15%/1 time) when hit by an attack.\nOn stun, grants regeneration (15%/2 times) to all enemies.",
+    "name": ""
+  },
+  {
+    "id": 22133001,
+    "description": "Upon recovering from being stunned, grants self M.ATK up (40%/1 time) and SPD up (10%/3 times).\nAt the start of battle, grants self damage received up (20%/5 times) and stun damage received up (20%/3 times).\nWhen own HP falls below 70% and when hit by an attack, grants self stun damage received down (20%/5 times) once only.",
+    "name": ""
+  },
+  {
+    "id": 22133002,
+    "description": "Upon recovering from being stunned, grants self M.ATK up (40%/1 time) and SPD up (10%/3 times).\nAt the start of battle, grants self damage received up (25%/5 times) and stun damage received up (25%/3 times).\nWhen own HP falls below 70% and when hit by an attack, grants self stun damage received down (25%/5 times) and damage received down (25%/5 times) once only.",
+    "name": ""
+  },
+  {
+    "id": 26006000,
+    "description": "Each time when attacking a Defender, grants self critical damage received up (30%/cumulative up to 200%).",
+    "name": ""
+  }
+]

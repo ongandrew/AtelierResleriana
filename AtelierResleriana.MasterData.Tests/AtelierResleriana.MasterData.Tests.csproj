@@ -1,0 +1,48 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <RootNamespace>AtelierResleriana.MasterData</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.12.0" />
+    <PackageReference Include="MSTest" Version="3.6.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AtelierResleriana.MasterData\AtelierResleriana.MasterData.csproj" />
+    <ProjectReference Include="..\AtelierResleriana.Text\AtelierResleriana.Text.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="AtelierResleriana.MessagePack">
+      <HintPath>..\Assemblies\AtelierResleriana.MessagePack.dll</HintPath>
+    </Reference>
+    <Reference Include="AtelierResleriana.MessagePack.Annotations">
+      <HintPath>..\Assemblies\AtelierResleriana.MessagePack.Annotations.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Using Include="Microsoft.VisualStudio.TestTools.UnitTesting" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Resources\CachedMasterData.1739164044_6p7CNzPRcccY1DVD.bin">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Resources\CachedMasterData.1739423910_cUAPYN4t6CGt_5gI.bin">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Resources\MasterData.bytes">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Resources\SampleMasterDataLocalizationData.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

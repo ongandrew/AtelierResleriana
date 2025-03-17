@@ -1,0 +1,1430 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "\u305F\u3060\u3044\u307E",
+        "localizations": {
+          "en": "I\u0027m back"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "\u3054\u6240\u671B\u306E\u7D20\u6750\u3001\u63A1\u3063\u3066\u304D\u305F\u308F\u3088\u3002\n\u306F\u3044\u3001\u3053\u308C",
+        "localizations": {
+          "en": "I got the materials you asked for.\nHere you go"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "\u304A\u304B\u3048\u308A\u306A\u3055\u3044\u3002\n\u610F\u5916\u3068\u65E9\u304B\u3063\u305F\u308F\u306D\u2015\u2015",
+        "localizations": {
+          "en": "Welcome back.\nThat was quicker than I expected--"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "\u3063\u3066\u3001\u305D\u306E\u8107\u8179\u2026\u2026\n\u30B1\u30AC\u3057\u3066\u308B\u308F\u306D\uFF1F",
+        "localizations": {
+          "en": "Wait, your side...\nYou\u0027re injured?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "\u3057\u3066\u308B\u3051\u3069\u2026\u2026\u3060\u304B\u3089\u3001\u306A\u306B\uFF1F\n\u3053\u308C\u304F\u3089\u3044\u5E73\u6C17\u3060\u3057\u3001\u3042\u3093\u305F\u306B\u306F\u95A2\u4FC2\u306A\u3044",
+        "localizations": {
+          "en": "Yeah, and...? What of it?\nIt\u0027s nothing serious, and it\u0027s none of your concern"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "\u7D20\u6750\u306E\u63A1\u53D6\u3092\u304A\u9858\u3044\u3057\u305F\u306E\u306F\u79C1\u3088\uFF1F",
+        "localizations": {
+          "en": "I\u0027m the one who asked you to gather those materials, aren\u0027t I?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u306E\u305B\u3044\u3067\u30B1\u30AC\u3092\u3057\u305F\u306E\u306A\u3089\u3001\n\u6C17\u306B\u3059\u308B\u306E\u306F\u81EA\u7136\u3058\u3083\u306A\u3044\u304B\u3057\u3089\uFF1F",
+        "localizations": {
+          "en": "If you got hurt because of that,\nit\u0027s only natural that I\u0027d be concerned"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "\u2026\u2026\u2026\u2026",
+        "localizations": {
+          "en": "..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u3067\u306A\u304F\u3066\u3082\u3001\u4ECA\u306E\u3042\u306A\u305F\u306F\u79C1\u305F\u3061\u3001\n\u6975\u591C\u306E\u932C\u91D1\u515A\u306E\u4E00\u54E1\u306A\u3093\u3060\u3082\u306E",
+        "localizations": {
+          "en": "Besides, you\u0027re now a member of our group,\nthe Polar Night Alchemists"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "\u7D44\u7E54\u306E\u9577\u3068\u3057\u3066\u3001\u4EF2\u9593\u3068\u3057\u3066\u3001\n\u5FC3\u914D\u306B\u306A\u308B\u3067\u3057\u3087\u3046\uFF1F",
+        "localizations": {
+          "en": "As both the leader and your companion,\nwouldn\u0027t you expect me to worry?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "\u6B63\u76F4\u306B\u7B54\u3048\u308B",
+        "localizations": {
+          "en": "Answer honestly"
+        }
+      },
+      "2072370017": {
+        "text": "\u9078\u629E\u80A2",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "\u63A1\u53D6\u306E\u9014\u4E2D\u3001\u9B54\u7269\u306B\u51FA\u304F\u308F\u3057\u305F\u306E\u3002\n\u305D\u3053\u3067\u3001\u5C11\u3057\u7121\u8336\u3092\u3057\u305F\u3060\u3051\u3088",
+        "localizations": {
+          "en": "I ran into some monsters while gathering materials.\nI just got a bit reckless, that\u0027s all"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "\u306F\u3041\u2026\u2026\u3069\u3046\u3057\u3066\u305D\u3093\u306A\u3053\u3068\u3092\uFF1F",
+        "localizations": {
+          "en": "*sigh*... Why would you do something like that?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "\u78BA\u304B\u306B\u304A\u9858\u3044\u3057\u305F\u306E\u306F\u79C1\u3060\u3051\u3069\u3001\n\u305D\u3053\u307E\u3067\u3057\u3066\u6B32\u3057\u3044\u3082\u306E\u3067\u3082\u306A\u304B\u3063\u305F\u308F",
+        "localizations": {
+          "en": "Yes, I made the request, but I never wanted you\nto go this far"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "\u307E\u3063\u305F\u304F\u2026\u2026\u3042\u307E\u308A\u7121\u8336\u306F\u3057\u306A\u3044\u3067\u3002\n\u3042\u306A\u305F\u304C\u50B7\u3064\u304F\u306E\u306F\u60B2\u3057\u3044\u308F",
+        "localizations": {
+          "en": "Really... Please don\u0027t be so reckless.\nIt pains me to see you hurt"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "\u3054\u307E\u304B\u3059",
+        "localizations": {
+          "en": "Try to deflect"
+        }
+      },
+      "2072370017": {
+        "text": "\u9078\u629E\u80A2",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "\u3053\u308C\u306F\u5143\u3005\u3042\u3063\u305F\u30B1\u30AC\u3002\n\u305D\u308C\u304C\u3061\u3087\u3063\u3068\u60AA\u5316\u3057\u305F\u3060\u3051",
+        "localizations": {
+          "en": "This is an old wound.\nIt just acted up a bit"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "\u306A\u308B\u307B\u3069\u2026\u2026\n\u3042\u306A\u305F\u3001\u305D\u3046\u3084\u3063\u3066\u3054\u307E\u304B\u3059\u30BF\u30A4\u30D7\u306A\u306E\u306D",
+        "localizations": {
+          "en": "I see...\nSo you\u0027re the type to make excuses"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "\u3051\u3069\u3001\u5618\u304C\u4E0B\u624B\u3002\n\u5206\u304B\u308A\u3084\u3059\u304F\u76EE\u304C\u53F3\u4E0A\u306B\u6CF3\u3044\u3060\u308F",
+        "localizations": {
+          "en": "But you\u0027re not very good at lying.\nYour eyes clearly darted to the upper right"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3001\u305D\u3093\u306A\u3053\u3068\u306F\u2015\u2015",
+        "localizations": {
+          "en": "T-That\u0027s not--"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "\u4F3C\u5408\u308F\u306A\u3044\u308F\u3088\u3002\n\u3042\u306A\u305F\u306F\u7D20\u76F4\u306A\u59FF\u304C\u4E00\u756A\u306A\u3093\u3060\u304B\u3089",
+        "localizations": {
+          "en": "It doesn\u0027t suit you.\nYou\u0027re best when you\u0027re being honest"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "\u30B1\u30AC\u306F\u52F2\u7AE0",
+        "localizations": {
+          "en": "Wounds are medals of honor"
+        }
+      },
+      "2072370017": {
+        "text": "\u9078\u629E\u80A2",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "\u3053\u308C\u304F\u3089\u3044\u3069\u3046\u3063\u3066\u3053\u3068\u306A\u3044\u3057\u3001\n\u30B1\u30AC\u306F\u52F2\u7AE0\u307F\u305F\u3044\u306A\u3082\u306E\u3067\u3057\u3087",
+        "localizations": {
+          "en": "This is nothing.\nWounds are like medals of honor, right?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "\u3060\u304B\u3089\u3001\u5FC3\u914D\u3057\u306A\u304F\u3066\u3082\u3044\u3044\u308F",
+        "localizations": {
+          "en": "So there\u0027s no need to worry"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u306E\u52F2\u7AE0\u306E\u4FA1\u5024\u304C\u3044\u304B\u307B\u3069\u304B\u3001\n\u751A\u3060\u7591\u554F\u306B\u601D\u3048\u308B\u308F",
+        "localizations": {
+          "en": "I seriously question the value\nof such \u0027medals\u0027"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u308C\u304C\u5927\u7FA9\u306E\u3042\u308B\u6226\u3044\u3067\n\u8CA0\u3063\u305F\u30B1\u30AC\u306A\u3089\u3044\u3056\u77E5\u3089\u305A\u3001\u306D",
+        "localizations": {
+          "en": "If these were wounds from a battle\nfor a worthy cause, that would be different"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "\u2026\u2026\u2026\u2026",
+        "localizations": {
+          "en": "..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "\u305B\u3063\u304B\u304F\u9854\u3082\u8EAB\u4F53\u3082\u7DBA\u9E97\u306A\u3093\u3060\u304B\u3089\u3001\n\u53F0\u7121\u3057\u306B\u3059\u308B\u3088\u3046\u306A\u3053\u3068\u306F\u3057\u306A\u3044\u306E",
+        "localizations": {
+          "en": "You have such a beautiful face and figure,\ndon\u0027t go ruining them"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "\u5206\u304B\u3063\u305F\uFF1F",
+        "localizations": {
+          "en": "Understood?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "\u2026\u2026\u2026\u2026",
+        "localizations": {
+          "en": "..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "\u3068\u306B\u304B\u304F\u3001\u624B\u5F53\u3066\u3057\u3066\u3042\u3052\u308B\u3002\n\u3053\u3063\u3061\u306B\u6765\u306A\u3055\u3044",
+        "localizations": {
+          "en": "In any case, let me treat those wounds.\nCome here"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "\u3048\uFF1F",
+        "localizations": {
+          "en": "Eh?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "\u3069\u3046\u304B\u3057\u305F\uFF1F\n\u307E\u3055\u304B\u8107\u8179\u4EE5\u5916\u306B\u3082\u30B1\u30AC\u3057\u3066\u308B\u306E\uFF1F",
+        "localizations": {
+          "en": "What\u0027s wrong?\nDon\u0027t tell me you\u0027re hurt somewhere else too?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "\u3044\u3084\u3001\u305D\u3046\u3044\u3046\u308F\u3051\u3058\u3083\u306A\u3044\u3051\u3069\u2026\u2026",
+        "localizations": {
+          "en": "No, that\u0027s not it, but..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "\u5909\u306A\u5B50\u306D\u3002\n\u3044\u3044\u304B\u3089\u3001\u65E9\u304F\u3053\u3063\u3061\u306B\u6765\u306A\u3055\u3044",
+        "localizations": {
+          "en": "You\u0027re such a strange one.\nCome on, hurry over here"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "\u2026\u2026\u5206\u304B\u3063\u305F",
+        "localizations": {
+          "en": "...Alright"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "\u3055\u3066\u3068\u2026\u2026\u3053\u3093\u306A\u3068\u3053\u308D\u306D\u3002\n\u3068\u3044\u3046\u304B\u3001\u3042\u306A\u305F\u2026\u2026",
+        "localizations": {
+          "en": "Now then... That should do it.\nBy the way..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "\u3053\u306E\u30B1\u30AC\u3067\u3088\u304F\u6B69\u3044\u3066\u5E30\u3063\u3066\u304D\u305F\u308F\u306D\u3002\n\u5FC3\u914D\u3092\u901A\u308A\u8D8A\u3057\u3066\u5446\u308C\u3066\u304D\u305F\u308F",
+        "localizations": {
+          "en": "I can\u0027t believe you walked back with this injury.\nI\u0027m beyond worried and into exasperation"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "\u3044\u3063\u305F\u3067\u3057\u3087\u3002\n\u3053\u308C\u304F\u3089\u3044\u5E73\u6C17\u3060\u3063\u3066",
+        "localizations": {
+          "en": "I told you.\nThis much is nothing"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "\u6C17\u4E08\u306A\u3068\u3053\u308D\u306F\n\u3042\u306A\u305F\u306E\u7F8E\u5FB3\u304B\u3082\u3057\u308C\u306A\u3044\u3051\u3069\u2026\u2026",
+        "localizations": {
+          "en": "While your fortitude might be\none of your virtues..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u308C\u306F\u7121\u7406\u3084\u7121\u8336\u3092\u3057\u3066\u3044\u3044\n\u514D\u7F6A\u7B26\u306B\u306F\u306A\u3089\u306A\u3044\u306E\u3088\uFF1F",
+        "localizations": {
+          "en": "That doesn\u0027t give you permission to be\nreckless and push yourself too hard"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "\u6B21\u3001\u540C\u3058\u3088\u3046\u306A\u3053\u3068\u304C\u3042\u308C\u3070\u3001\n\u304A\u4ED5\u7F6E\u304D\u3092\u3059\u308B\u304B\u3089\u306D",
+        "localizations": {
+          "en": "If this happens again,\nyou\u0027ll be getting a punishment"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "\u9762\u5012\u898B\u304C\u3044\u3044\u306E\u306D",
+        "localizations": {
+          "en": "You\u0027re quite caring"
+        }
+      },
+      "2072370017": {
+        "text": "\u9078\u629E\u80A2",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 43,
+    "properties": {
+      "999008199": {
+        "text": "\u2026\u2026\u3042\u3093\u305F\u3001\u9762\u5012\u898B\u304C\u3044\u3044\u306E\u306D",
+        "localizations": {
+          "en": "...You\u0027re quite the caretaker, aren\u0027t you?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 44,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u3088\u3001\u30EF\u30EB\u30BF\u30FC\u306A\u3093\u304B\u521D\u3081\u3066\n\u4F1A\u3063\u305F\u6642\u306F\u5DF1\u306B\u7121\u9813\u7740\u3059\u304E\u3066\n\u898B\u3066\u3044\u3089\u308C\u306A\u304B\u3063\u305F\u3050\u3089\u3044",
+        "localizations": {
+          "en": "Indeed. When I first met Walther,\nhe was so negligent of himself\nI could barely stand to watch"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 45,
+    "properties": {
+      "999008199": {
+        "text": "\u307E\u3041\u3001\n\u305B\u3063\u304B\u304F\u4EF2\u9593\u306B\u306A\u3063\u305F\u3093\u3060\u3082\u306E",
+        "localizations": {
+          "en": "Well, since we\u0027re companions now..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 46,
+    "properties": {
+      "999008199": {
+        "text": "\u3051\u3069\u3001\u305D\u308C\u306F\u305D\u308C\u3002\n\u305B\u3063\u304B\u304F\u4EF2\u9593\u306B\u306A\u3063\u305F\u3093\u3060\u3082\u306E",
+        "localizations": {
+          "en": "But that aside,\nsince we\u0027re companions now..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 47,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u308C\u305E\u308C\u304C\u52A9\u3051\u5408\u3063\u3066\u3001\n\u5168\u54E1\u304C\u5E78\u305B\u306B\u306A\u308B\u3079\u304D\u3058\u3083\u306A\u3044\uFF1F",
+        "localizations": {
+          "en": "Shouldn\u0027t we all help each other\nand strive for everyone\u0027s happiness?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 48,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3093\u306A\u306B\u5FC3\u914D\uFF1F",
+        "localizations": {
+          "en": "Are you that worried?"
+        }
+      },
+      "2072370017": {
+        "text": "\u9078\u629E\u80A2",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 49,
+    "properties": {
+      "999008199": {
+        "text": "\u304A\u4ED5\u7F6E\u304D\u3063\u3066\u2026\u2026\u307E\u308B\u3067\u5B50\u3069\u3082\u6271\u3044\u306D\u3002\n\u305D\u3093\u306A\u306B\u5FC3\u914D\u306A\u306E\uFF1F",
+        "localizations": {
+          "en": "Punishment... You\u0027re treating me like a child.\nAre you really that worried?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 50,
+    "properties": {
+      "999008199": {
+        "text": "\u5B50\u3069\u3082\u6271\u3044\u3057\u3066\u3044\u308B\u3064\u3082\u308A\u306F\u306A\u3044\u308F\u3002",
+        "localizations": {
+          "en": "I\u0027m not trying to treat you like a child."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 51,
+    "properties": {
+      "999008199": {
+        "text": "\u3051\u3069\u3001\u3055\u3063\u304D\u3044\u3063\u305F\u3067\u3057\u3087\uFF1F\n\u7D20\u6750\u306E\u63A1\u53D6\u3092\u304A\u9858\u3044\u3057\u305F\u306E\u306F\u79C1",
+        "localizations": {
+          "en": "But as I said earlier,\nI\u0027m the one who made the request"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 52,
+    "properties": {
+      "999008199": {
+        "text": "\u5FC3\u914D\u306E\uFF11\u3064\u3082\u3059\u308B\u3068\u601D\u3046\u3057\u3001\n\u8CAC\u4EFB\u3092\u611F\u3058\u308B\u306E\u306F\u5F53\u7136\u3088",
+        "localizations": {
+          "en": "It\u0027s only natural that I\u0027d worry\nand feel responsible"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 53,
+    "properties": {
+      "999008199": {
+        "text": "\u304A\u4ED5\u7F6E\u304D\u3057\u3066\u307B\u3057\u3044",
+        "localizations": {
+          "en": "Please punish me"
+        }
+      },
+      "2072370017": {
+        "text": "\u9078\u629E\u80A2",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 54,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u3093\u305F\u304C\u305D\u3046\u3057\u305F\u3044\u306A\u3089\u3001\n\u305D\u3046\u3059\u308C\u3070\u3044\u3044\u3058\u3083\u306A\u3044",
+        "localizations": {
+          "en": "If that\u0027s what you want to do,\nthen go ahead"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 55,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u3089\u2026\u2026\u3002\n\u3082\u3057\u304B\u3057\u3066\u3001\u305D\u3046\u3044\u3046\u306E\u304C\u597D\u307F\u306A\u306E\uFF1F",
+        "localizations": {
+          "en": "My...\nCould it be that\u0027s what you\u0027re into?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 56,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u308C\u306A\u3089\u3001\u305D\u306E\u6E07\u671B\u3092\u6E80\u305F\u3057\u3066\u3042\u3052\u308B\u306E\u3082\n\u307E\u305F\u4E00\u8208\u306D\u2026\u2026\u3046\u3093\u3046\u3093",
+        "localizations": {
+          "en": "Well, fulfilling such desires might be\ninteresting... Yes, yes..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 57,
+    "properties": {
+      "999008199": {
+        "text": "\u3060\u3051\u3069\u3001\u305D\u308C\u306F\u307E\u305F\u5F8C\u3067\u3002\n\u4ECA\u306F\u3086\u3063\u304F\u308A\u4F11\u307F\u306A\u3055\u3044",
+        "localizations": {
+          "en": "But that can wait for later.\nFor now, just rest"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 58,
+    "properties": {
+      "999008199": {
+        "text": "\u6226\u3046\u4E8B\u304C\u672C\u5F53\u306B\u597D\u304D\u306A\u306E\u306D\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "You really do love fighting, don\u0027t you Valeria?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 59,
+    "properties": {
+      "999008199": {
+        "text": "\u7D20\u6750\u3092\u624B\u306B\u5165\u308C\u308B\u305F\u3081\u306B\u306F\n\u6226\u308F\u3056\u308B\u3092\u5F97\u306A\u304B\u3063\u305F\u3001\u305D\u308C\u3060\u3051\u306E\u8A71\u3088",
+        "localizations": {
+          "en": "I had to fight to get the materials.\nThat\u0027s all there is to it"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 60,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u308C\u307B\u3069\u307E\u3067\u306B\u9811\u5F35\u3063\u3066\u304F\u308C\u308B\u3001\n\u305D\u306E\u6839\u6E90\u306F\uFF1F",
+        "localizations": {
+          "en": "What drives you to work so hard?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 61,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u306E\u6839\u6E90\u306F\uFF1F",
+        "localizations": {
+          "en": "What\u0027s your motivation?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 62,
+    "properties": {
+      "999008199": {
+        "text": "\u6839\u6E90\u2026\u2026\u305D\u308C\u306F\u2026\u2026",
+        "localizations": {
+          "en": "My motivation... that\u0027s..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 63,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u30EC\u30B9\u30CA\u305F\u3061\u3068\u306E\u65C5\u3092\u7D9A\u3051\u308B\u305F\u3081\u2026\u2026\n\u3000\u3060\u304B\u3089\u3001\u3059\u3079\u3066\u805E\u304D\u51FA\u3057\u3066\u2015\u2015\uFF09",
+        "localizations": {
+          "en": "(To continue traveling with Resna and the others...\nThat\u0027s why I need to learn everything--)"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 64,
+    "properties": {
+      "999008199": {
+        "text": "\u2015\u2015\u30C3\uFF01\uFF1F",
+        "localizations": {
+          "en": "--!?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 65,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u30AF\u30EA\u30BB\u30EB\u30C0\u306B\u53D6\u308A\u5165\u308B\u306E\u3060\u3002\n\u3000\u304A\u524D\u306E\u610F\u601D\u306F\u3044\u3089\u306A\u3044\u305E\uFF09",
+        "localizations": {
+          "en": "(Get close to Criselda.\nYour own will is unnecessary)"
+        }
+      },
+      "2072370017": {
+        "text": "\uFF1F\uFF1F\uFF1F",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 66,
+    "properties": {
+      "999008199": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0\u306E\u305F\u3081",
+        "localizations": {
+          "en": "For Criselda\u0027s sake"
+        }
+      },
+      "2072370017": {
+        "text": "\u9078\u629E\u80A2",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 67,
+    "properties": {
+      "999008199": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0\u306E\u305F\u3081",
+        "localizations": {
+          "en": "For Criselda\u0027s sake"
+        }
+      },
+      "2072370017": {
+        "text": "\u9078\u629E\u80A2",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 68,
+    "properties": {
+      "999008199": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0\u306E\u305F\u3081",
+        "localizations": {
+          "en": "For Criselda\u0027s sake"
+        }
+      },
+      "2072370017": {
+        "text": "\u9078\u629E\u80A2",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 69,
+    "properties": {
+      "999008199": {
+        "text": "\u2026\u2026\u7C21\u5358\u306A\u8A71\u3088\u3002\n\u3059\u3079\u3066\u306F\u3042\u3093\u305F\u306E\u305F\u3081",
+        "localizations": {
+          "en": "...It\u0027s simple.\nIt\u0027s all for your sake"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 70,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u3093\u305F\u306B\u559C\u3093\u3067\u307B\u3057\u3044\u304B\u3089\u7121\u8336\u3092\u3057\u305F\u306E\u3088",
+        "localizations": {
+          "en": "I pushed myself because I wanted to make you happy"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 71,
+    "properties": {
+      "999008199": {
+        "text": "\u79C1\u306B\u3001\u559C\u3093\u3067\u307B\u3057\u3044\u304B\u3089\u2026\u2026\uFF1F",
+        "localizations": {
+          "en": "To make me... happy?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 72,
+    "properties": {
+      "999008199": {
+        "text": "\u3053\u3053\u3067\u904E\u3054\u3057\u305F\u6642\u9593\u306F\n\u305D\u3046\u9577\u304F\u306A\u3044\u308F",
+        "localizations": {
+          "en": "I haven\u0027t spent that much time here"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 73,
+    "properties": {
+      "999008199": {
+        "text": "\u3060\u3051\u3069\u3001\u4ECA\u307E\u3067\u3088\u308A\u3042\u3093\u305F\u3092\u77E5\u308B\u6A5F\u4F1A\u306F\n\u78BA\u5B9F\u306B\u591A\u304F\u306A\u3063\u305F",
+        "localizations": {
+          "en": "But I\u0027ve had more chances to get to know you\nthan ever before"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 74,
+    "properties": {
+      "999008199": {
+        "text": "\u7D50\u679C\u3001\u30B7\u30F3\u30D7\u30EB\u306B\u3042\u3093\u305F\u306E\u3053\u3068\u304C\n\u597D\u304D\u306B\u306A\u3063\u305F\u2026\u2026\u305D\u308C\u3060\u3051\u3088",
+        "localizations": {
+          "en": "And as a result, I\u0027ve simply grown\nto like you... That\u0027s all"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 75,
+    "properties": {
+      "999008199": {
+        "text": "\u3060\u304B\u3089\u3001\u7121\u8336\u3060\u3068\u5206\u304B\u3063\u3066\u3044\u3066\u3082\n\u3042\u3093\u305F\u306E\u305F\u3081\u306B\u9811\u5F35\u3063\u305F\u306E",
+        "localizations": {
+          "en": "So even though I knew it was reckless,\nI worked hard for your sake"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 76,
+    "properties": {
+      "999008199": {
+        "text": "\u2026\u2026\u2026\u2026",
+        "localizations": {
+          "en": "..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 77,
+    "properties": {
+      "999008199": {
+        "text": "\u3082\u3057\u3001\u305D\u308C\u304C\u672C\u97F3\u3060\u3068\u3057\u3066\u2026\u2026\n\uFF11\u3064\u3060\u3051\u899A\u3048\u3066\u3044\u3066",
+        "localizations": {
+          "en": "If that\u0027s truly how you feel...\nremember one thing"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 78,
+    "properties": {
+      "999008199": {
+        "text": "\u79C1\u305F\u3061\u306F\u305D\u308C\u305E\u308C\u306E\u6E07\u671B\u3092\u6E80\u305F\u3059\u305F\u3081\u306B\n\u3053\u3053\u306B\u3044\u308B",
+        "localizations": {
+          "en": "We\u0027re all here to fulfill our own desires"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 79,
+    "properties": {
+      "999008199": {
+        "text": "\u4E00\u7DD2\u306B\u3044\u308B\u306E\u3082\u3001\u3042\u304F\u307E\u3067\u81EA\u5206\u306E\u305F\u3081\u3002\n\u3060\u3051\u3069\u306D\u3001\u30F4\u30A1\u30EC\u30EA\u30A2\u2026\u2026",
+        "localizations": {
+          "en": "We\u0027re together for our own benefit.\nBut you know, Valeria..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 80,
+    "properties": {
+      "999008199": {
+        "text": "\u79C1\u306F\u305D\u308C\u3068\u540C\u6642\u306B\u307F\u3093\u306A\u306E\u6E07\u671B\u304C\n\u6E80\u305F\u3055\u308C\u308B\u3053\u3068\u3082\u9858\u3063\u3066\u3044\u308B\u306E",
+        "localizations": {
+          "en": "At the same time, I also wish for everyone\u0027s\ndesires to be fulfilled"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 81,
+    "properties": {
+      "999008199": {
+        "text": "\u2026\u2026\u2026\u2026",
+        "localizations": {
+          "en": "..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 82,
+    "properties": {
+      "999008199": {
+        "text": "\u79C1\u306E\u305F\u3081\u3092\u60F3\u3046\u306E\u306A\u3089\u3001\n\u3082\u3046\u5C11\u3057\u81EA\u5206\u3092\u5927\u5207\u306B\u3057\u3066",
+        "localizations": {
+          "en": "If you truly care for my sake,\nthen take better care of yourself"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 83,
+    "properties": {
+      "999008199": {
+        "text": "\u6E07\u671B\u3092\u6E80\u305F\u3059\u524D\u306B\n\u5012\u308C\u3066\u3057\u307E\u3063\u3066\u306F\u610F\u5473\u304C\u306A\u3044\u3093\u3060\u304B\u3089",
+        "localizations": {
+          "en": "After all, it would be meaningless if you collapse\nbefore fulfilling your desires"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  }
+]

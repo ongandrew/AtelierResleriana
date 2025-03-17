@@ -1,0 +1,648 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "\u3055\u3042\u3001\u6E96\u5099\u306F\u3067\u304D\u305F\u308F\u3002\n\u65E9\u901F\u98DF\u4E8B\u306B\u3057\u307E\u3057\u3087\u3046\u304B",
+        "localizations": {
+          "en": "Well then, everything\u0027s ready.\nShall we start our meal?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "\u76F8\u5909\u308F\u3089\u305A\u3001\u7F8E\u5473\u3057\u305D\u3046",
+        "localizations": {
+          "en": "It looks delicious as always."
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30F3\u30C1\u30E5",
+        "localizations": {
+          "en": "Antje"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "\u3075\u3075\u3001\u4ECA\u65E5\u306F\u3044\u3064\u3082\u3088\u308A\u7F8E\u5473\u3057\u3044\u306F\u305A\u3088\u3002\n\u8155\u306B\u3088\u308A\u3092\u304B\u3051\u305F\u304B\u3089\u306D",
+        "localizations": {
+          "en": "Hehe, today\u0027s meal should be even better than usual.\nI put in extra effort, after all."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u306A\u306E\uFF1F",
+        "localizations": {
+          "en": "Is that so?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "\u30D4\u30AF\u30CB\u30C3\u30AF\u306B\u8A98\u3063\u305F\u306E\u306F\u79C1\u3060\u304B\u3089\u3002\n\u30B2\u30B9\u30C8\u3092\u697D\u3057\u307E\u305B\u308B\u306E\u306F\u5F53\u7136\u3058\u3083\u306A\u3044",
+        "localizations": {
+          "en": "Since I\u0027m the one who invited you to this picnic.\nIt\u0027s only natural to ensure my guests enjoy themselves."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u3044\u3046\u3082\u306E\u306A\u306E\u304B\u3057\u3089\u2026\u2026",
+        "localizations": {
+          "en": "Is that how it works...?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u3044\u3046\u3082\u306E\u3088",
+        "localizations": {
+          "en": "That\u0027s exactly how it works."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3093\u306A\u3053\u3068\u3088\u308A\u3001\n\u3053\u306E\u30B5\u30F3\u30C9\u30A4\u30C3\u30C1\u3092\u98DF\u3079\u3066\u307F\u3066",
+        "localizations": {
+          "en": "More importantly,\ntry this sandwich."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "\u713C\u304D\u305F\u3066\u306E\u30D1\u30F3\u306B\u65B0\u9BAE\u306A\u30EC\u30BF\u30B9\u3001\n\u6628\u65E5\u304B\u3089\u4ED5\u8FBC\u3093\u3067\u3044\u305F\u30ED\u30FC\u30B9\u30C8\u30D3\u30FC\u30D5\u2026\u2026",
+        "localizations": {
+          "en": "Fresh-baked bread with crisp lettuce,\nand roast beef I started preparing yesterday..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u308C\u3068\u30BD\u30FC\u30B9\u306E\u30CF\u30CB\u30FC\u30DE\u30B9\u30BF\u30FC\u30C9\u306F\n\u4ECA\u671D\u4F5C\u3063\u305F\u7279\u88FD\u3088",
+        "localizations": {
+          "en": "And the honey mustard sauce is my special recipe,\nmade just this morning."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "\u4ECA\u671D\uFF1F\n\u307F\u3093\u306A\u306E\u671D\u3054\u98EF\u3092\u4F5C\u308A\u306A\u304C\u3089\uFF1F",
+        "localizations": {
+          "en": "This morning?\nWhile making everyone\u0027s breakfast?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "\u3048\u3048\u3001\u305D\u3046\u3088",
+        "localizations": {
+          "en": "Yes, that\u0027s right."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "\u624B\u969B\u304C\u3044\u3044\u306E\u306D",
+        "localizations": {
+          "en": "You\u0027re quite efficient."
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "\u7A4D\u307F\u91CD\u306D\u306E\u7D50\u679C\u3088\u3002\n\u306D\u3048\u3001\u30A2\u30F3\u30C1\u30E5",
+        "localizations": {
+          "en": "It\u0027s the result of experience.\nIsn\u0027t that right, Antje?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u3002\n\u30AF\u30EA\u30BB\u30EB\u30C0\u306F\u6BCE\u65E5\u3054\u98EF\u3092\u4F5C\u3063\u3066\u304F\u308C\u308B",
+        "localizations": {
+          "en": "Indeed.\nCriselda makes our meals every day."
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30F3\u30C1\u30E5",
+        "localizations": {
+          "en": "Antje"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3057\u3066\u3001\u79C1\u306F\u305D\u308C\u3092\u6BCE\u65E5\u98DF\u3079\u3066\u304D\u305F\u3002\n\u8CB4\u65B9\u3088\u308A\u3082\u305A\u3063\u3068\u3001\u9577\u304F\u306D",
+        "localizations": {
+          "en": "And I\u0027ve eaten them every day.\nFor much longer than you have..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30F3\u30C1\u30E5",
+        "localizations": {
+          "en": "Antje"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "\u3068\u3044\u3046\u304B\u3001\u305D\u308C\u3060\u3051\u3058\u3083\u306A\u3044\u3002\n\u3053\u306E\u524D\u3001\u307B\u3064\u308C\u305F\u30DC\u30BF\u30F3\u3092\u7E2B\u3063\u3066\u304F\u308C\u305F",
+        "localizations": {
+          "en": "And that\u0027s not all.\nShe recently sewed a loose button for me."
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30F3\u30C1\u30E5",
+        "localizations": {
+          "en": "Antje"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "\u4ED6\u306B\u3082\u9AEA\u3092\u68B3\u304B\u3057\u3066\u304F\u308C\u305F\u308A\u3082\u3059\u308B\u3057\u3001\n\u90E8\u5C4B\u306E\u6383\u9664\u3082\u3057\u3066\u304F\u308C\u308B",
+        "localizations": {
+          "en": "She helps brush my hair too,\nand even cleans my room."
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30F3\u30C1\u30E5",
+        "localizations": {
+          "en": "Antje"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "\u5168\u90E8\u3001\u79C1\u306E\u305F\u3081\u306B",
+        "localizations": {
+          "en": "All for my sake."
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30F3\u30C1\u30E5",
+        "localizations": {
+          "en": "Antje"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3001\u305D\u3046\u306A\u306E\u306D\u2026\u2026",
+        "localizations": {
+          "en": "I-I see..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "\u3068\u306B\u304B\u304F\u3001\u8CB4\u65B9\u3088\u308A\u3082\u79C1\u306E\u307B\u3046\u304C\u2015\u2015",
+        "localizations": {
+          "en": "In any case, I\u0027m much more--"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30F3\u30C1\u30E5",
+        "localizations": {
+          "en": "Antje"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "\u3063\u3066\u3001\u30AF\u30EA\u30BB\u30EB\u30C0\u2026\u2026\uFF01\n\u3053\u308C\u3001\u7F8E\u5473\u3057\u3044\u2026\u2026\uFF01",
+        "localizations": {
+          "en": "Oh, Criselda...!\nThis is delicious...!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30F3\u30C1\u30E5",
+        "localizations": {
+          "en": "Antje"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u3042\u3001\u30D5\u30EB\u30FC\u30C4\u30B5\u30F3\u30C9\u306D\u3002\n\u305D\u308C\u3082\u7F8E\u5473\u3057\u304F\u306A\u308B\u3088\u3046\u82E6\u5FC3\u3057\u305F\u4E00\u54C1\u3088",
+        "localizations": {
+          "en": "Ah, the fruit sandwich.\nThat one took particular care to get just right."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "\u30D5\u30EB\u30FC\u30C4\u306E\u6C34\u5206\u3082\u8A08\u7B97\u306B\u5165\u308C\u3066\u3001\n\u751F\u30AF\u30EA\u30FC\u30E0\u306E\u56FA\u3055\u3092\u8ABF\u6574\u3057\u305F\u306E",
+        "localizations": {
+          "en": "I adjusted the whipped cream\u0027s consistency\nto account for the fruit\u0027s moisture content."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "\u3078\u3047\u2026\u2026",
+        "localizations": {
+          "en": "Hmm..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "\u2026\u2026\u2026\u2026",
+        "localizations": {
+          "en": "..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "\u3093\uFF1F\n\u3069\u3046\u304B\u3057\u305F\uFF1F",
+        "localizations": {
+          "en": "Hm?\nIs something wrong?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "\u3044\u3084\u3001\u5225\u306B",
+        "localizations": {
+          "en": "No, it\u0027s nothing."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u7F8E\u5473\u3057\u3044\u3068\u8A55\u4FA1\u3055\u308C\u305F\u3082\u306E\u3078\u306E\u53CD\u5FDC\u304C\n\u3000\u79C1\u306E\u8A8D\u8B58\u3068\u4E88\u60F3\u3088\u308A\u5E0C\u8584\u3060\u308F\u2026\u2026\uFF09",
+        "localizations": {
+          "en": "(Her reaction to food that even Antje praised\nis much more subdued than I expected...)"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u30B5\u30F3\u30C9\u30A4\u30C3\u30C1\uFF11\u3064\u98DF\u3079\u304D\u3063\u3066\u3044\u306A\u3044\u3057\u3001\n\u3000\u6E80\u8179\u3068\u3044\u3046\u308F\u3051\u3067\u3082\u306A\u3044\u306F\u305A\uFF09",
+        "localizations": {
+          "en": "(She hasn\u0027t finished even one sandwich,\nand she can\u0027t be full yet...)"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u305D\u308C\u306B\u30F4\u30A1\u30EC\u30EA\u30A2\u304B\u3089\u306F\n\u3000\u7F8E\u5473\u3057\u3044\u3068\u3044\u3046\u8A55\u4FA1\u306F\u5F97\u3089\u308C\u3066\u3044\u306A\u3044\uFF09",
+        "localizations": {
+          "en": "(And I still haven\u0027t heard her say\nanything tastes good.)"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u305D\u308C\u306F\u4ECA\u56DE\u3060\u3051\u3058\u3083\u306A\u3044\u3002\n\u3000\u932C\u91D1\u515A\u306B\u6765\u3066\u304B\u3089\u3001\u305A\u3063\u3068\uFF09",
+        "localizations": {
+          "en": "(It\u0027s not just today either.\nIt\u0027s been like this since she joined the Polar Night Alchemists.)"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u78BA\u304B\u306B\u98DF\u3079\u308B\u91CF\u306F\u4EBA\u3088\u308A\u591A\u3044\u3051\u308C\u3069\u3001\n\u3000\u305F\u3060\u7A7A\u8179\u3092\u7D1B\u3089\u308F\u3059\u305F\u3081\u306B\u98DF\u3079\u3066\u3044\u308B\uFF09",
+        "localizations": {
+          "en": "(Sure, she eats more than most,\nbut it\u0027s as if she\u0027s just going through the motions.)"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u305D\u3093\u306A\u98A8\u306B\u898B\u3048\u308B\u3002\n\u3000\u307E\u308B\u3067\u98DF\u3078\u306E\u8208\u5473\u304C\u306A\u3044\u307F\u305F\u3044\u3060\u308F\uFF09",
+        "localizations": {
+          "en": "(That\u0027s how it seems.\nAs if she has no interest in food at all.)"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u2026\u2026\u3042\u308A\u5F97\u306A\u3044\u3002\n\u3000\u30A2\u30A4\u30C7\u30F3\u30C6\u30A3\u30C6\u30A3\u306E\u55AA\u5931\u3060\u308F\uFF09",
+        "localizations": {
+          "en": "(...That\u0027s impossible.\nIt\u0027s a loss of identity.)"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u3068\u306A\u308B\u3068\u2015\u2015\uFF09",
+        "localizations": {
+          "en": "(Which means--)"
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "\u3055\u3066\u3001\u3053\u306E\u5080\u5121\u306E\u7CF8\u2026\u2026\n\u3069\u3046\u3084\u3063\u3066\u5207\u3063\u3066\u304F\u308C\u3088\u3046\u304B\u3057\u3089\u2026\u2026",
+        "localizations": {
+          "en": "Now then, these puppet strings...\nHow shall I cut them, I wonder..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30AF\u30EA\u30BB\u30EB\u30C0",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u3001\u3082\u3061\u308D\u3093\u81EA\u5206\u3067\u6383\u9664\u3084\u8EAB\u3060\u3057\u306A\u307F\u306F\u3059\u308B\u308F\u3088\u3001\n\u305F\u3060\u671B\u3081\u3070\u30AF\u30EA\u30BB\u30EB\u30C0\u306F\u512A\u3057\u3044",
+        "localizations": {
+          "en": "Ah, of course I take care of cleaning and grooming myself,\nit\u0027s just that Criselda is kind enough to help when asked."
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30F3\u30C1\u30E5",
+        "localizations": {
+          "en": "Antje"
+        }
+      }
+    }
+  }
+]

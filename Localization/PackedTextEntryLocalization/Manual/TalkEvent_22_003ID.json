@@ -1,0 +1,597 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "やあ、クリセルダ。調子はどうだい？",
+        "localizations": {
+          "en": "Hello there, Criselda. How are you holding up?"
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "ええ、おかげさまで快適よ",
+        "localizations": {
+          "en": "Well enough, all things considered."
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "ただ、ずっと見張られているせいで\nさすがに気疲れしてきたわ",
+        "localizations": {
+          "en": "Though I must admit, being under constant surveillance is rather taxing."
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "仕方ないだろう。また「彼ら」がいつ君を狙って\nやって来るか分からないんだから",
+        "localizations": {
+          "en": "Can't be helped, I'm afraid. We don't know when 'they' might come after you again."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "彼ら……アウグストとザスキアの行方は？",
+        "localizations": {
+          "en": "Any word on August and Saskia's whereabouts?"
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "一切不明だ。谷に落ちたヴァレリアを回収した頃には、\n忽然と姿を消していた",
+        "localizations": {
+          "en": "Nothing at all. By the time we recovered Valeria from the valley, they had vanished without a trace."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "ヴァレリアと共に落ちたアウグストはもちろん、\nザスキアもだ。あれから姿を見せない",
+        "localizations": {
+          "en": "August, who fell with Valeria, and Saskia too—neither has been seen since."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "彼らも慎重になっているのでしょう",
+        "localizations": {
+          "en": "They must be proceeding with caution."
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "頑なにこの世界の表舞台から姿を隠していた彼らが、\n限られた人数とはいえ、その存在を認識されてしまった",
+        "localizations": {
+          "en": "After hiding in the shadows for so long, their existence has been exposed—even if only to a select few."
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "その上、彼らにとって想定外の出来事が幾つも起きた",
+        "localizations": {
+          "en": "And several unexpected events have thrown them off balance."
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "一瞬とはいえ、彼らの力を凌駕した錬金術士",
+        "localizations": {
+          "en": "An alchemist who, if only briefly, surpassed their power..."
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "彼らの支配を打ち破り、反旗を翻したホムンクルス",
+        "localizations": {
+          "en": "A homunculus who broke free of their control and turned against them..."
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "彼らは今、こちらの出方をうかがっているのでしょう。\n無理に仕掛けてはこないと思うわ",
+        "localizations": {
+          "en": "I suspect they're watching, waiting to see what we'll do next. They won't make any rash moves."
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "まあ、一理あるか。言葉を信じるならば、\n事を荒立てるような連中ではないな",
+        "localizations": {
+          "en": "That makes sense. If we take their words at face value, they're not the type to cause unnecessary trouble."
+        }
+      },
+      "2072370017": {
+        "text": "ブラッド",
+        "localizations": {
+          "en": "Brad"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "あ、でも……１つだけ気になることがあって",
+        "localizations": {
+          "en": "Um, there is one thing that's been bothering me..."
+        }
+      },
+      "2072370017": {
+        "text": "アーシャ",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "あの戦いの後、クリセルダさんたちが使っていた\nトラベルゲートが作動しなくなっていたんです",
+        "localizations": {
+          "en": "After that battle, the Travel Gates that Criselda's group was using stopped working."
+        }
+      },
+      "2072370017": {
+        "text": "アーシャ",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "壊されていたってこと？",
+        "localizations": {
+          "en": "Were they destroyed?"
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "いいえ、違います。でもなぜか、道具を使おうとしても\n何も起こらなくなっていて……",
+        "localizations": {
+          "en": "No, that's not it. They just... won't respond anymore, no matter what we try."
+        }
+      },
+      "2072370017": {
+        "text": "アーシャ",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "君たちを捕らえた時に押収し、\n我々が保管していたものも同じだった",
+        "localizations": {
+          "en": "The ones we confiscated when we captured your group are the same—completely inert."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "なるほど……彼らの仕業かもしれないわね",
+        "localizations": {
+          "en": "I see... That might be their doing."
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "私たちもそう睨んでいる。姿こそ見せないが、\n干渉する意思はまだあるようだ",
+        "localizations": {
+          "en": "We suspect as much. Though they remain hidden, it seems they haven't given up their influence entirely."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "引き続き、警戒は必要ということだ。\n監視も継続させてもらうぞ",
+        "localizations": {
+          "en": "Which means we need to stay vigilant. The surveillance will continue."
+        }
+      },
+      "2072370017": {
+        "text": "ブラッド",
+        "localizations": {
+          "en": "Brad"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "そんな怖い顔をしなくても分かってるわよ",
+        "localizations": {
+          "en": "No need to look so stern. I understand."
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "あの。クリセルダさんは、ここで何か不便なことは\nありませんか？",
+        "localizations": {
+          "en": "Um, Criselda? Is there anything you need? Are you comfortable enough?"
+        }
+      },
+      "2072370017": {
+        "text": "アーシャ",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "ええ、心配はいらないわよ。\nアンチュが同じ牢にいるんだもの",
+        "localizations": {
+          "en": "No need to worry. With Antje sharing my cell, I'm quite alright."
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "ふふ。退屈はしないわ",
+        "localizations": {
+          "en": "Hehe. It's never dull."
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "アーシャのおかげで、健康的に過ごせてるしね",
+        "localizations": {
+          "en": "And thanks to Ayesha, I'm keeping quite healthy."
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "ええっ",
+        "localizations": {
+          "en": "Oh!"
+        }
+      },
+      "2072370017": {
+        "text": "アーシャ",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "いかがわしい真似は止めろ",
+        "localizations": {
+          "en": "Stop with your suspicious behavior."
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "あら。あなたみたいに凛々しい人も好みよ？\nその中にもかわいらしさが垣間見えて、素敵",
+        "localizations": {
+          "en": "My, I rather like stern types like you too. There's something quite charming beneath that tough exterior."
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "なっ！\u3000からかうのは止めろ！",
+        "localizations": {
+          "en": "Wha—! Stop teasing me!"
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "あ、あはは……",
+        "localizations": {
+          "en": "Ah, haha..."
+        }
+      },
+      "2072370017": {
+        "text": "アーシャ",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "さて。そろそろ本題に入ろう",
+        "localizations": {
+          "en": "Now then. Let's get down to business."
+        }
+      },
+      "2072370017": {
+        "text": "ブラッド",
+        "localizations": {
+          "en": "Brad"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "ザスキアや、アウグストという男について、\nお前が知っていることを聞かせてもらおうか",
+        "localizations": {
+          "en": "Tell us everything you know about Saskia and this August fellow."
+        }
+      },
+      "2072370017": {
+        "text": "ブラッド",
+        "localizations": {
+          "en": "Brad"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "ええ。始めましょう",
+        "localizations": {
+          "en": "Very well. Let's begin."
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  }
+]

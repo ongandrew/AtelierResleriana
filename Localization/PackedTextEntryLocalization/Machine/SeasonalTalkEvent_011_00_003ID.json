@@ -1,0 +1,597 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "\u3075\u3045\u3002\u3069\u306E\u30C1\u30E7\u30B3\u3082\u7F8E\u5473\u3057\u304B\u3063\u305F\u306A\u30FC",
+        "localizations": {
+          "en": "Phew... All the chocolates were delicious!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "\u3069\u308C\u3082\u500B\u6027\u7684\u3067\u7D20\u6674\u3089\u3057\u304B\u3063\u305F\u3067\u3059\u306D\u3002\n\u5473\u3082\u826F\u3044\u3082\u306E\u3070\u304B\u308A\u3067\u3057\u305F\u3057",
+        "localizations": {
+          "en": "They were all wonderfully unique, weren\u0027t they? And each one tasted fantastic."
+        }
+      },
+      "2072370017": {
+        "text": "\u30D7\u30E9\u30D5\u30BF",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "\u3060\u306D\u3002\u5473\u3060\u3051\u3058\u3083\u306A\u304F\u3066\u3001\n\u898B\u305F\u76EE\u3068\u304B\u4F5C\u308A\u65B9\u3082\u5DE5\u592B\u3055\u308C\u3066\u3066\u3001\u9762\u767D\u304B\u3063\u305F\uFF01",
+        "localizations": {
+          "en": "Yeah! Not just the taste, but the appearances and techniques used were really interesting too!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "\u30C1\u30E7\u30B3\u3063\u3066\u3053\u3093\u306A\u306B\u5965\u304C\u6DF1\u3044\u3093\u3060\u306A\u3041\u3063\u3066\u3001\n\u6539\u3081\u3066\u6C17\u4ED8\u304B\u3055\u308C\u3061\u3083\u3063\u305F\u3088",
+        "localizations": {
+          "en": "I never realized chocolate could be so complex!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "\u3069\u3046\u3067\u3057\u3087\u3046\u304B\u3001\u30BD\u30D5\u30A3\u30FC\u3002\n\u4F5C\u308A\u305F\u3044\u30C1\u30E7\u30B3\u306F\u6C7A\u307E\u3063\u3066\u304D\u307E\u3057\u305F\u304B\uFF1F",
+        "localizations": {
+          "en": "What do you think, Sophie? Have you decided what kind of chocolate you want to make?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D7\u30E9\u30D5\u30BF",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "\u3046\u30FC\u3093\u2026\u2026\u305D\u308C\u304C\u306D\u3002\n\u306A\u3093\u3060\u304B\u9006\u306B\u3001\u5206\u304B\u3089\u306A\u304F\u306A\u3063\u3066\u304D\u3061\u3083\u3063\u305F\u3093\u3060\u3088\u306D",
+        "localizations": {
+          "en": "Hmm... actually... If anything, I\u0027m even more confused now."
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "\u3075\u3080\u2026\u2026\u3068\u8A00\u3046\u3068\u2026\u2026",
+        "localizations": {
+          "en": "Hmm... what do you mean...?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D7\u30E9\u30D5\u30BF",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "\u500B\u6027\u8C4A\u304B\u306A\u30C1\u30E7\u30B3\u3092\u898B\u3059\u304E\u3066\u3057\u307E\u3063\u305F\u305F\u3081\u306B\u3001\n\u8EF8\u304C\u5B9A\u307E\u3089\u306A\u304F\u306A\u3063\u305F\u3001\u3068\u304B\u3067\u3057\u3087\u3046\u304B\uFF1F",
+        "localizations": {
+          "en": "Perhaps seeing so many unique chocolates has made it harder to settle on a direction?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D7\u30E9\u30D5\u30BF",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u3001\u305D\u3046\uFF01\u3000\u305D\u3093\u306A\u611F\u3058\uFF01",
+        "localizations": {
+          "en": "Ah, yes! That\u0027s exactly it!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "\u306A\u308B\u307B\u3069\u3002\u3067\u3057\u305F\u3089\u5206\u304B\u308A\u307E\u3059\u3002\n\u5B9F\u306F\u3001\u79C1\u3082\u540C\u3058\u306A\u306E\u3067\u2026\u2026",
+        "localizations": {
+          "en": "I see. I understand completely. Actually, I\u0027m feeling the same way..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30D7\u30E9\u30D5\u30BF",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3063\u304B\u3001\u30D7\u30E9\u30D5\u30BF\u3082\u306A\u3093\u3060\u3002\n\u3069\u3046\u3057\u305F\u3089\u3044\u3044\u3093\u3060\u308D\u3046\u306D\uFF1F",
+        "localizations": {
+          "en": "Oh, you too, Plachta? What should we do?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "\u3084\u3042\u3002\u304A\u96A3\u3001\u3044\u3044\u304B\u3044\uFF1F",
+        "localizations": {
+          "en": "Hey there! Mind if I join you?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30ED\u30DE\u30F3",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u3002\u30ED\u30DE\u30F3\u3055\u3093\uFF01",
+        "localizations": {
+          "en": "Oh! Roman!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "\u4E8C\u4EBA\u3068\u3082\u3001\u3069\u3046\u304B\u3057\u305F\u306E\uFF1F\n\u932C\u91D1\u8853\u306E\u3053\u3068\u3067\u60A9\u3093\u3067\u3044\u308B\u306E\u304B\u306A",
+        "localizations": {
+          "en": "Is something troubling you two? Alchemy problems?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30ED\u30DE\u30F3",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "\u3048\uFF5E\u3063\u3068\u3001\u932C\u91D1\u8853\u3001\u3068\u3044\u3046\u3088\u308A\n\u3082\u3063\u3068\u521D\u6B69\u7684\u306A\u60A9\u307F\u3063\u3066\u3044\u3046\u304B",
+        "localizations": {
+          "en": "Well... it\u0027s not so much alchemy as a more basic problem..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "\u30EA\u30F3\u30C7\u796D\u306B\u5411\u3051\u3066\u3001\n\u3069\u3093\u306A\u30C1\u30E7\u30B3\u3092\u4F5C\u308D\u3046\u304B\u3068\u60A9\u3093\u3067\u3044\u307E\u3057\u3066",
+        "localizations": {
+          "en": "We\u0027re trying to decide what kind of chocolate to make for the Linde Festival."
+        }
+      },
+      "2072370017": {
+        "text": "\u30D7\u30E9\u30D5\u30BF",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u3041\u3001\u305D\u3046\u3044\u3048\u3070\u305D\u308D\u305D\u308D\u672C\u756A\u3060\u306D",
+        "localizations": {
+          "en": "Ah, that\u0027s right. The festival is coming up soon."
+        }
+      },
+      "2072370017": {
+        "text": "\u30ED\u30DE\u30F3",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u3060\u306A\u2026\u2026\u4E8C\u4EBA\u306F\u30EA\u30F3\u30C7\u796D\u306E\u3053\u3068\u3092\n\u3069\u308C\u304F\u3089\u3044\u77E5\u3063\u3066\u3044\u308B\u3093\u3060\u3044\uFF1F",
+        "localizations": {
+          "en": "Say... how much do you two know about the Linde Festival?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30ED\u30DE\u30F3",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "\u3069\u308C\u304F\u3089\u3044\u3001\u3063\u3066\u3044\u3046\u3068\uFF1F",
+        "localizations": {
+          "en": "What do you mean by \u0027how much\u0027?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "\u6B74\u53F2\u306E\u8A71\u306A\u3069\u3067\u3057\u3087\u3046\u304B\u3002\n\u78BA\u304B\u3001\u30EA\u30F3\u30C7\u30DE\u30F3\u3068\u3044\u3046\u4EBA\u7269\u304C\u5E83\u3081\u305F\u50AC\u3057\u3060\u3068\u304B",
+        "localizations": {
+          "en": "You mean the history? I believe it was started by someone named Lindemann..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30D7\u30E9\u30D5\u30BF",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u3060\u306D\u3002\u3082\u3063\u3068\u5177\u4F53\u7684\u306A\u8A71\u306F\uFF1F",
+        "localizations": {
+          "en": "That\u0027s right. But what about the specifics?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30ED\u30DE\u30F3",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "\u3048\u3063\u3068\u3002\u3042\u305F\u3057\u304C\u77E5\u3063\u3066\u308B\u306E\u306F\u2026\u2026",
+        "localizations": {
+          "en": "Um, what I know is..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "\u5BB6\u65CF\u3084\u604B\u4EBA\u306E\u7121\u4E8B\u3092\u7948\u3063\u3066\n\u30C1\u30E7\u30B3\u3092\u8D08\u308A\u306F\u3058\u3081\u305F\u306E\u304C\u304D\u3063\u304B\u3051\u3001\u3063\u3066\u8A71\u3068\u304B",
+        "localizations": {
+          "en": "It started when people began giving chocolate to pray for the safety of their family and loved ones."
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u306E\u901A\u308A\uFF01\u3000\u305D\u308C\u304C\u5206\u304B\u3063\u3066\u3044\u308B\u306A\u3089\u3001\n\u60A9\u307F\u306E\u89E3\u6C7A\u3082\u8FD1\u3044\u3093\u3058\u3083\u306A\u3044\u304B\u306A",
+        "localizations": {
+          "en": "Exactly! If you understand that much, then you might be closer to solving your problem than you think."
+        }
+      },
+      "2072370017": {
+        "text": "\u30ED\u30DE\u30F3",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "\u3064\u307E\u308A\u3002\u5473\u3084\u898B\u305F\u76EE\u3067\u60A9\u3080\u306E\u3082\u3044\u3044\u3051\u3069\u3001\n\u4ED6\u306B\u3082\u5927\u4E8B\u306A\u3053\u3068\u304C\u3042\u308B\u3093\u3058\u3083\u306A\u3044\uFF1F\u3000\u3063\u3066\u3053\u3068\u3055",
+        "localizations": {
+          "en": "In other words, while taste and appearance are important, aren\u0027t there other things that matter too?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30ED\u30DE\u30F3",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "\u5927\u4E8B\u306A\u3053\u3068\u2026\u2026",
+        "localizations": {
+          "en": "Other things that matter..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "\u30EA\u30F3\u30C7\u796D\u304C\u3069\u3093\u306A\u304A\u796D\u308A\u306A\u306E\u304B\u3001\n\u81EA\u5206\u304C\u30C1\u30E7\u30B3\u306B\u3069\u3093\u306A\u60F3\u3044\u3092\u8FBC\u3081\u305F\u3044\u306E\u304B",
+        "localizations": {
+          "en": "Think about what kind of festival the Linde Festival is, and what feelings you want to put into your chocolate."
+        }
+      },
+      "2072370017": {
+        "text": "\u30ED\u30DE\u30F3",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "\u6539\u3081\u3066\u8003\u3048\u3066\u307F\u308B\u3068\u3044\u3044\u3088",
+        "localizations": {
+          "en": "Try reflecting on that."
+        }
+      },
+      "2072370017": {
+        "text": "\u30ED\u30DE\u30F3",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "\u306A\u308B\u307B\u3069\u2026\u2026\u3042\u308A\u304C\u3068\u3046\u3054\u3056\u3044\u307E\u3059\uFF01",
+        "localizations": {
+          "en": "I see... Thank you!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "\u3069\u3046\u3044\u305F\u3057\u307E\u3057\u3066\u3002\u60A9\u307F\u76F8\u8AC7\u306B\u3082\u5B9A\u8A55\u304C\u3042\u308B\u306E\u3055\u3002\n\u9811\u5F35\u3063\u3066\u306D\u3001\u4E8C\u4EBA\u3068\u3082",
+        "localizations": {
+          "en": "You\u0027re welcome. I\u0027m known for giving good advice, you know. Good luck, both of you!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30ED\u30DE\u30F3",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "\u4EBA\u306B\u3082\u3089\u3048\u308B\u30C1\u30E7\u30B3\u3068\u3044\u3046\u306E\u306F\u3001\n\u306A\u304B\u306A\u304B\u306B\u5B09\u3057\u3044\u3082\u306E\u3060\u3088",
+        "localizations": {
+          "en": "Receiving chocolate from someone is quite a heartwarming thing."
+        }
+      },
+      "2072370017": {
+        "text": "\u30ED\u30DE\u30F3",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "\u307E\u3060\u3001\u5B8C\u5168\u306B\u306F\u7406\u89E3\u3067\u304D\u3066\u3044\u307E\u305B\u3093\u304C\u3002\n\u91CD\u8981\u306A\u3053\u3068\u3092\u6559\u3048\u3066\u3082\u3089\u3048\u305F\u6C17\u304C\u3057\u307E\u3059",
+        "localizations": {
+          "en": "I may not fully understand yet, but I feel like we\u0027ve learned something important."
+        }
+      },
+      "2072370017": {
+        "text": "\u30D7\u30E9\u30D5\u30BF",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "\u3046\u3093\u3001\u3042\u305F\u3057\u3082\u305D\u3046\u601D\u3046\uFF01",
+        "localizations": {
+          "en": "Yeah, I think so too!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "\u3088\u30FC\u3057\u3002\u3068\u308A\u3042\u3048\u305A\u3001\n\u30C1\u30E7\u30B3\u4F5C\u308A\u3092\u9032\u3081\u3066\u3044\u3053\u3046\uFF01",
+        "localizations": {
+          "en": "Alright! Let\u0027s get started on making chocolate!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "\u306F\u3044\u3002\u884C\u304D\u307E\u3057\u3087\u3046\u304B",
+        "localizations": {
+          "en": "Yes, shall we?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D7\u30E9\u30D5\u30BF",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  }
+]

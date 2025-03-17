@@ -1,0 +1,784 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u308C\uFF1F\u3000\u8AB0\u3060\u308D\u3046\uFF1F",
+        "localizations": {
+          "en": "Huh? Who could that be?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "\u3059\u307F\u307E\u305B\u3093\u3002\u3053\u3053\u306B\u30D5\u30A3\u30EA\u30B9\u3061\u3083\u3093\u306F\u3044\u307E\u305B\u3093\u304B\uFF1F",
+        "localizations": {
+          "en": "Excuse me. Is Firis here?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EA\u30A2\u30FC\u30CD",
+        "localizations": {
+          "en": "Liane"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\uFF01\u3000\u30EA\u30A2\u59C9\u3060\uFF01",
+        "localizations": {
+          "en": "Ah! Big Sis Lia!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D5\u30A3\u30EA\u30B9",
+        "localizations": {
+          "en": "Firis"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u30FC\uFF01\u3000\u30D5\u30A3\u30EA\u30B9\u3061\u3083\u30FC\u3093\uFF01\u3000\u4F1A\u3044\u305F\u304B\u3063\u305F\u308F\uFF01\n\u5143\u6C17\uFF1F\u3000\u3061\u3083\u3093\u3068\u3054\u98EF\u98DF\u3079\u3066\u308B\uFF1F",
+        "localizations": {
+          "en": "Ahh! Firis! I\u0027ve missed you so much!\nAre you doing well? Are you eating properly?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EA\u30A2\u30FC\u30CD",
+        "localizations": {
+          "en": "Liane"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u306F\u306F\u3002\u305D\u3093\u306A\u5FC3\u914D\u3057\u306A\u304F\u3066\u3082\u5927\u4E08\u592B\u3060\u3088\uFF01",
+        "localizations": {
+          "en": "Haha. You don\u0027t need to worry so much about me!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D5\u30A3\u30EA\u30B9",
+        "localizations": {
+          "en": "Firis"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "\u672C\u5F53\uFF1F\u3000\u305D\u308C\u306A\u3089\u3044\u3044\u306E\u3060\u3051\u3069\u3002\n\u4F1A\u3048\u306A\u3044\u9593\u305A\u3063\u3068\u30D5\u30A3\u30EA\u30B9\u3061\u3083\u3093\u306E\u3053\u3068\u3092\u8003\u3048\u3066\u305F\u306E\u3088",
+        "localizations": {
+          "en": "Really? Well, that\u0027s good then.\nI\u0027ve been thinking about you this whole time we\u0027ve been apart"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EA\u30A2\u30FC\u30CD",
+        "localizations": {
+          "en": "Liane"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u306F\u306F\u2026\u2026\u76F8\u5909\u308F\u3089\u305A\u30EA\u30A2\u30FC\u30CD\u3055\u3093\u306E\n\u30D5\u30A3\u30EA\u30B9\u3061\u3083\u3093\u611B\u306F\u3059\u3054\u3044\u3067\u3059\u306D\u2026\u2026",
+        "localizations": {
+          "en": "Haha... Liane\u0027s love for Firis is as incredible as ever..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "\u3053\u308C\u304C\u6BB5\u3005\u3068\u5897\u3057\u3066\u3044\u304D\u307E\u3059\u304B\u3089\u306D\u3002\n\u6B62\u307E\u308B\u3053\u3068\u3092\u77E5\u3089\u306A\u3044\u3088\u3046\u3067\u672B\u6050\u308D\u3057\u3044\u3067\u3059\u304C",
+        "localizations": {
+          "en": "And it only seems to grow stronger with time.\nIt\u0027s a bit frightening how there appears to be no limit"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D7\u30E9\u30D5\u30BF",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "\u30D5\u30A3\u30EA\u30B9\u3061\u3083\u3093\u306F\u79C1\u306E\u304B\u308F\u3044\u3044\u304B\u308F\u3044\u3044\u59B9\u3067\u3059\u304B\u3089",
+        "localizations": {
+          "en": "Well, Firis is my precious, precious little sister after all"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EA\u30A2\u30FC\u30CD",
+        "localizations": {
+          "en": "Liane"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "\u3048\u3063\u3068\u3001\u30EA\u30A2\u30FC\u30CD\u3055\u3093\uFF1F\u2026\u2026\u306F\u3001\n\u30D5\u30A3\u30EA\u30B9\u3061\u3083\u3093\u306E\u304A\u59C9\u3055\u3093\u306A\u306E\uFF1F",
+        "localizations": {
+          "en": "Um, Liane...? Are you Firis\u0027s big sister?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u3001\u305D\u3063\u304B\uFF01\n\u30E9\u30A4\u30B6\u3055\u3093\u3068\u306F\u306F\u3058\u3081\u307E\u3057\u3066\u3060\u3082\u3093\u306D\uFF01",
+        "localizations": {
+          "en": "Oh, that\u0027s right!\nThis is your first time meeting Ryza!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D5\u30A3\u30EA\u30B9",
+        "localizations": {
+          "en": "Firis"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "\u3053\u3061\u3089\u3001\u308F\u305F\u3057\u306E\u304A\u59C9\u3061\u3083\u3093\u3067\u3059\uFF01",
+        "localizations": {
+          "en": "This is my big sister!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D5\u30A3\u30EA\u30B9",
+        "localizations": {
+          "en": "Firis"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "\u306F\u3058\u3081\u307E\u3057\u3066\u3002\u30D5\u30A3\u30EA\u30B9\u306E\u59C9\u306E\u30EA\u30A2\u30FC\u30CD\u3067\u3059\u3002\n\u3044\u3064\u3082\u59B9\u304C\u304A\u4E16\u8A71\u306B\u306A\u3063\u3066\u307E\u3059",
+        "localizations": {
+          "en": "Nice to meet you. I\u0027m Liane, Firis\u0027s sister.\nThank you for taking care of my sister"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EA\u30A2\u30FC\u30CD",
+        "localizations": {
+          "en": "Liane"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "\u304A\u4E16\u8A71\u306B\u306A\u3063\u3066\u308B\u306E\u306F\u3042\u305F\u3057\u306E\u307B\u3046\u3067\u3059\u3088\uFF01\n\u30D5\u30A3\u30EA\u30B9\u3061\u3083\u3093\u306F\u9271\u77F3\u96C6\u3081\u306E\u9054\u4EBA\u3067\u3059\u304B\u3089\uFF01",
+        "localizations": {
+          "en": "I\u0027m the one who should be thankful!\nFiris is amazing at gathering ore!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "\u3046\u3075\u3075\u3002\u3055\u3059\u304C\u306F\u30D5\u30A3\u30EA\u30B9\u3061\u3083\u3093\u3002\n\u304A\u59C9\u3061\u3083\u3093\u3082\u9F3B\u304C\u9AD8\u3044\u308F",
+        "localizations": {
+          "en": "Ufufu. That\u0027s my Firis.\nIt makes your big sister so proud"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EA\u30A2\u30FC\u30CD",
+        "localizations": {
+          "en": "Liane"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "\u3082\u30FC\u6065\u305A\u304B\u3057\u3044\u3088\u3001\u30EA\u30A2\u59C9",
+        "localizations": {
+          "en": "Aww, you\u0027re embarrassing me, Sis Lia"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D5\u30A3\u30EA\u30B9",
+        "localizations": {
+          "en": "Firis"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u3001\u305D\u308C\u3088\u308A\u3002\u30EA\u30A2\u59C9\u3001\u305D\u306E\u8377\u7269\u306F\uFF1F",
+        "localizations": {
+          "en": "Oh, by the way. Sis Lia, what\u0027s that package?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D5\u30A3\u30EA\u30B9",
+        "localizations": {
+          "en": "Firis"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u3060\u3063\u305F\uFF01\u3000\u30D5\u30A3\u30EA\u30B9\u3061\u3083\u3093\u306B\u304A\u307F\u3084\u3052\u304C\u3042\u308B\u306E\u3088\uFF01\n\u3061\u3087\u3063\u3068\u3053\u308C\u3092\u7740\u3066\u307F\u3066\u3061\u3087\u3046\u3060\u3044",
+        "localizations": {
+          "en": "Oh right! I brought a present for you!\nCould you try this on?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EA\u30A2\u30FC\u30CD",
+        "localizations": {
+          "en": "Liane"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "\u3053\u308C\u3063\u3066\u2026\u2026\u670D\uFF1F\n\u5206\u304B\u3063\u305F\u3002\u3061\u3087\u3063\u3068\u5F85\u3063\u3066\u3066\u306D",
+        "localizations": {
+          "en": "Is this... clothes?\nOkay. Wait just a moment"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D5\u30A3\u30EA\u30B9",
+        "localizations": {
+          "en": "Firis"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "\u3058\u3083\u3058\u3083\u30FC\u3093\uFF01\u3000\u3069\u3046\u304B\u306A\u3001\u4F3C\u5408\u3063\u3066\u308B\uFF1F",
+        "localizations": {
+          "en": "Ta-daah! How do I look?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D5\u30A3\u30EA\u30B9",
+        "localizations": {
+          "en": "Firis"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "\u304B\u308F\u3044\u3044\uFF01\u3000\u304B\u308F\u3044\u3044\u308F\u3088\u3001\u30D5\u30A3\u30EA\u30B9\u3061\u3083\u3093\uFF01",
+        "localizations": {
+          "en": "Cute! You look so cute, Firis!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EA\u30A2\u30FC\u30CD",
+        "localizations": {
+          "en": "Liane"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "\u524D\u304B\u3089\u30A4\u30EB\u3061\u3083\u3093\u306E\u670D\u304C\u304B\u308F\u3044\u3044\u3068\u601D\u3063\u3066\u3066\u306D\u3002\n\u304D\u3063\u3068\u30D5\u30A3\u30EA\u30B9\u3061\u3083\u3093\u306B\u3082\u4F3C\u5408\u3046\u3093\u3058\u3083\u306A\u3044\u304B\u3063\u3066\uFF01",
+        "localizations": {
+          "en": "I\u0027ve always thought Il\u0027s clothes were cute.\nI just knew they\u0027d look good on you too!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EA\u30A2\u30FC\u30CD",
+        "localizations": {
+          "en": "Liane"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "\u601D\u3063\u305F\u901A\u308A\u3060\u3063\u305F\u308F\uFF01\n\u4ED6\u306E\u8AB0\u3088\u308A\u3082\u4F3C\u5408\u3063\u3066\u308B\u308F\u3088\uFF01",
+        "localizations": {
+          "en": "And I was right!\nIt suits you better than anyone else!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EA\u30A2\u30FC\u30CD",
+        "localizations": {
+          "en": "Liane"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "\u4ED6\u306E\u8AB0\u3088\u308A\u3063\u3066\u2026\u2026\u8AB0\u3068\u6BD4\u3079\u3066\u308B\u3093\u3060\u308D\u3046\uFF1F",
+        "localizations": {
+          "en": "Better than anyone... I wonder who she\u0027s comparing to?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "\u6587\u8108\u304B\u3089\u63A8\u6E2C\u3059\u308B\u306B\u6050\u3089\u304F\u2015\u2015",
+        "localizations": {
+          "en": "From context, I\u0027d say probably\u2014"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D7\u30E9\u30D5\u30BF",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "\u3061\u3087\u3063\u3068\u3042\u306A\u305F\uFF01\u3000\u4F55\u3088\u3001\u305D\u306E\u683C\u597D\uFF01\uFF1F",
+        "localizations": {
+          "en": "Hey you! What are you wearing!?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30EB\u30E1\u30EA\u30A2",
+        "localizations": {
+          "en": "Ilmeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u30FC\u3063\uFF01\u3000\u30A4\u30EB\u3061\u3083\u3093\uFF01\n\u30A4\u30EB\u3061\u3083\u3093\u3082\u6765\u3066\u305F\u3093\u3060\u306D\u30FC\uFF01",
+        "localizations": {
+          "en": "Aah! Ilmeria!\nI didn\u0027t know you were here too!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D5\u30A3\u30EA\u30B9",
+        "localizations": {
+          "en": "Firis"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "\u7D39\u4ECB\u3057\u307E\u3059\u306D\uFF01\u3000\u3053\u3061\u3089\u3001\u308F\u305F\u3057\u306E\u53CB\u9054\u3067\n\u5929\u624D\u932C\u91D1\u8853\u58EB\u306E\u30A4\u30EB\u30E1\u30EA\u30A2\u3061\u3083\u3093\uFF01",
+        "localizations": {
+          "en": "Let me introduce you! This is my friend,\nthe genius alchemist Ilmeria!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D5\u30A3\u30EA\u30B9",
+        "localizations": {
+          "en": "Firis"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "\u30A2\u30BF\u30B7\u306F\u30A4\u30EB\u30E1\u30EA\u30A2\uFF01\n\u8D85\u4E00\u6D41\u306E\u5929\u624D\u932C\u91D1\u8853\u58EB\u3088\uFF01\u3000\u3088\u308D\u3057\u304F\u306D\uFF01",
+        "localizations": {
+          "en": "I\u0027m Ilmeria!\nA first-class genius alchemist! Nice to meet you!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30EB\u30E1\u30EA\u30A2",
+        "localizations": {
+          "en": "Ilmeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "\u30E9\u30A4\u30B6\u3067\u3059\uFF01\u3000\u3053\u3061\u3089\u3053\u305D\u3088\u308D\u3057\u304F\uFF01",
+        "localizations": {
+          "en": "I\u0027m Ryza! Nice to meet you too!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u308C\u3088\u308A\u30D5\u30A3\u30EA\u30B9\uFF01\n\u3042\u306A\u305F\u300C\u5929\u624D\u300D\u3060\u306A\u3093\u3066\u547C\u3070\u308C\u3066\u308B\u307F\u305F\u3044\u3058\u3083\u306A\u3044\uFF01",
+        "localizations": {
+          "en": "More importantly, Firis!\nI hear you\u0027re being called a \u0027genius\u0027 now!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30EB\u30E1\u30EA\u30A2",
+        "localizations": {
+          "en": "Ilmeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "\u3044\u3063\u305F\u3044\u4F55\u3092\u3057\u305F\u306E\u3088\uFF01\u3000\u30A2\u30BF\u30B7\u306B\u6559\u3048\u306A\u3055\u3044\uFF01",
+        "localizations": {
+          "en": "What have you been up to!? Tell me everything!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30EB\u30E1\u30EA\u30A2",
+        "localizations": {
+          "en": "Ilmeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "\u3048\u3078\u3078\u3001\u305D\u3046\u3089\u3057\u3044\u306D\u3002\n\u306A\u3093\u3060\u304B\u7167\u308C\u3061\u3083\u3046\u306A\u30FC",
+        "localizations": {
+          "en": "Ehehe, seems that way.\nIt\u0027s kind of embarrassing~"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D5\u30A3\u30EA\u30B9",
+        "localizations": {
+          "en": "Firis"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u308C\uFF1F\u3000\u3067\u3082\u4ECA\u306E\u308F\u305F\u3057\u3001\u30A4\u30EB\u3061\u3083\u3093\u307F\u305F\u3044\u306A\u683C\u597D\u3060\u3057\n\u308F\u305F\u3057\u3082\u81EA\u5206\u3067\u5929\u624D\u3063\u3066\u8A00\u3063\u3066\u3082\u3044\u3044\u306E\u304B\u3082\u2026\u2026\uFF01\uFF1F",
+        "localizations": {
+          "en": "Oh? But I\u0027m dressed like Ilmeria now...\nMaybe I can call myself a genius too...!?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D5\u30A3\u30EA\u30B9",
+        "localizations": {
+          "en": "Firis"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "\u2026\u2026\u308F\u305F\u3057\u306F\u30D5\u30A3\u30EA\u30B9\u30FB\u30DF\u30B9\u30C8\u30EB\u30FC\u30C8\u3002\n\u4ECA\u3092\u3068\u304D\u3081\u304F\u3001\u8D85\u4E00\u6D41\u306E\u5929\u624D\u932C\u91D1\u8853\u58EB\u3060\u3088\uFF01",
+        "localizations": {
+          "en": "...I am Firis Mistlud.\nA first-class genius alchemist of our time!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D5\u30A3\u30EA\u30B9",
+        "localizations": {
+          "en": "Firis"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "\u2026\u2026\u30D5\u30A3\u3001\u30D5\u30A3\u30EA\u30B9\u3061\u3083\u3093\uFF1F",
+        "localizations": {
+          "en": "...F-Firis?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u3001\u3042\u308C\uFF1F\u3000\u3084\u3063\u3071\u308A\u30C0\u30E1\u3060\u3063\u305F\u2026\u2026\uFF1F",
+        "localizations": {
+          "en": "Oh, um... Was that no good after all...?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D5\u30A3\u30EA\u30B9",
+        "localizations": {
+          "en": "Firis"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "\u30D5\u30A3\u30EA\u30B9\u3061\u3083\u3093\u304B\u308F\u3044\u3044\uFF5E\uFF01\n\u4ECA\u306E\u30A4\u30EB\u3061\u3083\u3093\u306E\u771F\u4F3C\u3088\u306D\uFF01\u3000\u305D\u3063\u304F\u308A\uFF5E\uFF01",
+        "localizations": {
+          "en": "Firis, you\u0027re so cute~!\nThat was a perfect impression of Ilmeria! Spot on~!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EA\u30A2\u30FC\u30CD",
+        "localizations": {
+          "en": "Liane"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "\u3069\u3053\u304C\u3088\uFF01\u3000\u30A2\u30BF\u30B7\u306F\u305D\u3093\u306A\u3093\u3058\u3083\u306A\u3044\u308F\u3088\uFF01",
+        "localizations": {
+          "en": "No it wasn\u0027t! I\u0027m nothing like that!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30EB\u30E1\u30EA\u30A2",
+        "localizations": {
+          "en": "Ilmeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "\u3044\u3084\u3044\u3084\u3001\u7D50\u69CB\u4F3C\u3066\u305F\u3088\u306D\uFF1F",
+        "localizations": {
+          "en": "No no, it was pretty accurate..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30BD\u30D5\u30A3\u30FC",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "\u3048\u3048\u3001\u30A4\u30EB\u30E1\u30EA\u30A2\u305D\u3063\u304F\u308A\u3067\u3057\u305F",
+        "localizations": {
+          "en": "Yes, it was quite spot-on"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D7\u30E9\u30D5\u30BF",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "\u3048\u3063\u5618\u2026\u2026\u30A2\u30BF\u30B7\u3063\u3066\u3053\u3093\u306A\u611F\u3058\u306A\u306E\uFF1F",
+        "localizations": {
+          "en": "W-Wait... Is that really how I am?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30EB\u30E1\u30EA\u30A2",
+        "localizations": {
+          "en": "Ilmeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u2026\u2026\u3046\u3046\u3093\u3002\u305D\u308C\u3088\u308A\u4ECA\u306F\u30D5\u30A3\u30EA\u30B9\u304C\u3069\u3046\u3057\u3066\u5929\u624D\u3068\n\u3000\u547C\u3070\u308C\u3066\u308B\u306E\u304B\u3001\u305D\u306E\u7406\u7531\u3092\u63A2\u3089\u306A\u3044\u3068\u2026\u2026\uFF09",
+        "localizations": {
+          "en": "(No... More importantly, I need to find out why\npeople are calling Firis a genius...)"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30EB\u30E1\u30EA\u30A2",
+        "localizations": {
+          "en": "Ilmeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 43,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u307E\u3055\u304B\u30A2\u30BF\u30B7\u306E\u771F\u4F3C\u3092\u3057\u3066\u308B\u304B\u3089\u3001\n\u3000\u3058\u3083\u306A\u3044\u308F\u3088\u306D\u2026\u2026\uFF1F\uFF09",
+        "localizations": {
+          "en": "(Surely it\u0027s not just because she\u0027s copying me...\nright...?)"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30EB\u30E1\u30EA\u30A2",
+        "localizations": {
+          "en": "Ilmeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 44,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u3068\u306B\u304B\u304F\u3001\u30A2\u30BF\u30B7\u304C\u76F4\u3005\u306B\u3053\u306E\u76EE\u3067\n\u3000\u78BA\u304B\u3081\u3066\u3084\u308B\u308F\uFF01\uFF09",
+        "localizations": {
+          "en": "(In any case, I\u0027ll have to see for myself\nexactly what\u0027s going on!)"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30EB\u30E1\u30EA\u30A2",
+        "localizations": {
+          "en": "Ilmeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 45,
+    "properties": {
+      "999008199": {
+        "text": "\u72E9\u308A\u3092\u751F\u696D\u3068\u3059\u308B\u30D5\u30A3\u30EA\u30B9\u306E\u59C9\u3002\n\u59B9\u3078\u306E\u611B\u304C\u5F37\u304F\u3001\u8A9E\u308A\u51FA\u3059\u3068\u6B62\u307E\u3089\u306A\u3044",
+        "localizations": {
+          "en": "Firis\u0027s sister who makes her living as a hunter.\nHer love for her sister is intense and once she starts talking about her, she won\u0027t stop"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EA\u30A2\u30FC\u30CD\u30FB\u30DF\u30B9\u30C8\u30EB\u30FC\u30C8",
+        "localizations": {
+          "en": "Liane Mistlud"
+        }
+      }
+    }
+  }
+]

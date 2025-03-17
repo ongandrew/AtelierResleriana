@@ -1,0 +1,1634 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2\u3055\u30FC\u3093\uFF01\n\u3044\u307E\u3059\u304B\u30FC\uFF1F",
+        "localizations": {
+          "en": "Vaaleriaaa!\nAre you home?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u3089\u3001\u30A2\u30FC\u30B7\u30E3\u3058\u3083\u306A\u3044\u3002\n\u307E\u305F\u85AC\u8349\u3092\u96C6\u3081\u306B\u884C\u304F\u306E\uFF1F",
+        "localizations": {
+          "en": "Oh, if it isn\u0027t Ayesha.\nGoing out to gather herbs again?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "\u3044\u3048\u3001\u4ECA\u65E5\u306F\u305F\u3060\u904A\u3073\u306B\u6765\u305F\u3093\u3067\u3059\u3002\n\u305D\u306E\u2026\u2026\u30F4\u30A1\u30EC\u30EA\u30A2\u304A\u59C9\u3061\u3083\u3093\u306B\u4F1A\u3044\u305F\u304F\u3066",
+        "localizations": {
+          "en": "No, I just came to visit today.\nUm... I wanted to see Big Sis Valeria."
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "\u3075\u3075\u3001\u4F55\u305D\u308C\u3002\n\u307E\u3063\u305F\u304F\u3001\u5BC2\u3057\u304C\u308A\u3084\u306A\u59B9\u306D\uFF01",
+        "localizations": {
+          "en": "Hehe, what\u0027s this?\nMy, what a clingy little sister you are!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "\u3044\u3044\u308F\u3088\u3002\u4ECA\u65E5\u306F\u306A\u3093\u306E\u4E88\u5B9A\u3082\u306A\u3044\u3057\u3001\n\u30F4\u30A1\u30EC\u30EA\u30A2\u304A\u59C9\u3061\u3083\u3093\u304C\u76F8\u624B\u3057\u3066\u3042\u3052\u308B\uFF01",
+        "localizations": {
+          "en": "That\u0027s fine. I don\u0027t have any plans today,\nso Big Sis Valeria will keep you company!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "\u672C\u5F53\u3067\u3059\u304B\uFF1F\n\u3075\u3075\u3063\u3001\u5B09\u3057\u3044\u3067\u3059\uFF01",
+        "localizations": {
+          "en": "Really?\nHehe, I\u0027m so happy!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u308C\u3058\u3083\u3042\u4F55\u3092\u3057\u3088\u3046\u304B\u3057\u3089\uFF1F\n\u304A\u59C9\u3061\u3083\u3093\u306B\u3057\u3066\u307B\u3057\u3044\u3053\u3068\u306F\u3042\u308B\uFF1F",
+        "localizations": {
+          "en": "So what shall we do?\nIs there anything you\u0027d like your big sister to do?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "\u3046\u30FC\u3093\u2026\u2026\u3061\u3087\u3063\u3068\u8003\u3048\u3066\u307F\u307E\u3059\uFF01",
+        "localizations": {
+          "en": "Hmm... let me think about it!"
+        }
+      },
+      "2072370017": {
+        "text": "\u9078\u629E\u80A2",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "\u3046\u30FC\u3093\u2026\u2026\u3061\u3087\u3063\u3068\u8003\u3048\u3066\u307F\u307E\u3059\uFF01",
+        "localizations": {
+          "en": "Hmm... let me think about it!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "\u306A\u3093\u3067\u3082\u3044\u3044\u308F\u3088\u3002\n\u672C\u5F53\u306B\u3061\u3087\u3063\u3068\u3057\u305F\u3053\u3068\u3067\u3082\u3044\u3044\u304B\u3089\u306D",
+        "localizations": {
+          "en": "Anything is fine.\nEven something small would do."
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "\u76F8\u624B\u3057\u3066\u3042\u3052\u308B\uFF01\u3000\u3068\u306F\u8A00\u3063\u305F\u3051\u308C\u3069\u3001\n\u59C9\u306B\u306A\u3063\u305F\u3089\u306A\u3063\u305F\u3067\u3001\u79C1\u304B\u3089\u4F55\u3092\n\u3057\u3066\u3042\u3052\u308C\u3070\u3044\u3044\u304B\u5206\u304B\u3089\u306A\u3044\u306E",
+        "localizations": {
+          "en": "I said I\u0027d keep you company, but now that I\u0027m a big sister,\nI\u0027m not sure what I should do for you."
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "\u3046\u30FC\u3093\u3001\u3082\u3069\u304B\u3057\u3044\u308F\u2026\u2026\uFF01\n\u3067\u3082\u2015\u2015",
+        "localizations": {
+          "en": "Hmm, it\u0027s frustrating...!\nBut--"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "\u4E00\u7DD2\u306B\u304A\u8CB7\u3044\u7269\u3057\u305F\u3044\u3067\u3059\uFF01",
+        "localizations": {
+          "en": "I want to go shopping together!"
+        }
+      },
+      "2072370017": {
+        "text": "\u9078\u629E\u80A2",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "\u4E00\u7DD2\u306B\u304A\u8CB7\u3044\u7269\u3057\u305F\u3044\u3067\u3059\uFF01",
+        "localizations": {
+          "en": "I want to go shopping together!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u308C\u304F\u3089\u3044\u304A\u5B89\u3044\u5FA1\u7528\u3088\u3002\n\u3069\u3053\u306B\u3060\u3063\u3066\u3064\u3044\u3066\u3063\u3066\u3042\u3052\u308B\u3093\u3060\u304B\u3089",
+        "localizations": {
+          "en": "That\u0027s easy enough.\nI\u0027ll go with you anywhere!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "\u306A\u3093\u306A\u3089\u30A2\u30FC\u30B7\u30E3\u306E\u6B32\u3057\u3044\u3082\u306E\u3001\n\u5168\u90E8\u8CB7\u3063\u3066\u3042\u3052\u3061\u3083\u3046\uFF01",
+        "localizations": {
+          "en": "I\u0027ll even buy everything\nyou want!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "\u3055\u3059\u304C\u306B\u305D\u3053\u307E\u3067\u3057\u3066\u3082\u3089\u3046\u308F\u3051\u306B\u306F\u2026\u2026\n\u3067\u3082\u304A\u59C9\u3061\u3083\u3093\u3068\u304A\u8CB7\u3044\u7269\u3001\u697D\u3057\u307F\u3067\u3059\uFF01",
+        "localizations": {
+          "en": "I couldn\u0027t possibly let you do that much...\nBut I\u0027m looking forward to shopping with you, Big Sis!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "\u306A\u3093\u3067\u3082\u3044\u3044\u3093\u3067\u3059\u304B\uFF1F",
+        "localizations": {
+          "en": "Can I really ask for anything?"
+        }
+      },
+      "2072370017": {
+        "text": "\u9078\u629E\u80A2",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "\u306A\u3093\u3067\u3082\u3044\u3044\u3093\u3067\u3059\u304B\uFF1F",
+        "localizations": {
+          "en": "Can I really ask for anything?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "\u3048\u3048\u3001\u3082\u3061\u308D\u3093\uFF01\n\u59B9\u306E\u305F\u3081\u306A\u3089\u306A\u3093\u3060\u3063\u3066\u3057\u3066\u3042\u3052\u308B\u308F\u3088\uFF01",
+        "localizations": {
+          "en": "Yes, of course!\nI\u0027ll do anything for my little sister!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2\u304A\u59C9\u3061\u3083\u3093\u2026\u2026\uFF01\n\u304B\u3063\u3053\u3044\u3044\u3067\u3059\uFF01",
+        "localizations": {
+          "en": "Big Sis Valeria...!\nYou\u0027re so cool!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "\u3075\u3075\u3001\u305D\u3046\u3067\u3057\u3087\u305D\u3046\u3067\u3057\u3087\uFF1F\n\u3053\u308C\u304C\u304A\u59C9\u3061\u3083\u3093\u3063\u3066\u3082\u306E\u3088\uFF01",
+        "localizations": {
+          "en": "Hehe, right, right?\nThis is what being a big sister is all about!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "\u306A\u3093\u3060\u304B\u4E0D\u601D\u8B70\u306A\u611F\u3058\u3002\n\u59B9\u306E\u305F\u3081\u306A\u3089\u306A\u3093\u3060\u3063\u3066\u3067\u304D\u3061\u3083\u3044\u305D\u3046",
+        "localizations": {
+          "en": "It feels strange somehow.\nI feel like I could do anything for my little sister."
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "\u308F\u305F\u3057\u3082\u3067\u3059\u3002\u3064\u3044\u7518\u3048\u305F\u304F\u306A\u3063\u3066\u2026\u2026\n\u304A\u59C9\u3061\u3083\u3093\u304C\u3044\u308B\u3063\u3066\u3001\n\u3053\u3093\u306A\u611F\u3058\u306A\u3093\u3067\u3059\u306D\uFF01",
+        "localizations": {
+          "en": "Me too. I just want to be spoiled...\nSo this is what it feels like to have a big sister!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "\u9060\u616E\u306A\u3093\u3066\u3057\u306A\u304F\u3066\u3044\u3044\u308F\u3088\u3002\n\u5168\u529B\u3067\u304A\u59C9\u3061\u3083\u3093\u306B\u7518\u3048\u3066\u3044\u3044\u3093\u3060\u304B\u3089\u306D\uFF01",
+        "localizations": {
+          "en": "Don\u0027t hold back at all.\nYou can rely on your big sister as much as you want!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "\u306F\u3044\uFF01\u3000\u30F4\u30A1\u30EC\u30EA\u30A2\u304A\u59C9\u3061\u3083\u3093\uFF01",
+        "localizations": {
+          "en": "Yes! Big Sis Valeria!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "\u306A\u30FC\u306B\uFF1F\u3000\u79C1\u306E\u304B\u308F\u3044\u3044\u59B9\uFF01\n\u3075\u3075\u3075\u3075\uFF01",
+        "localizations": {
+          "en": "What is it? My adorable little sister!\nHehehe!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "\u2026\u2026\u3048\u30FC\u3063\u3068\u3001\u3069\u3046\u3044\u3046\u72B6\u6CC1\uFF1F\n\u4ECA\u3001\u300C\u30F4\u30A1\u30EC\u30EA\u30A2\u304A\u59C9\u3061\u3083\u3093\u300D\u3063\u3066\n\u8A00\u3063\u3066\u306A\u304B\u3063\u305F\uFF1F",
+        "localizations": {
+          "en": "...Um, what\u0027s going on here?\nDid I just hear \u0022Big Sis Valeria\u0022?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30CF\u30A4\u30C7\u30A3",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "\u30D5\u30ED\u30C3\u30B1\u3082\u6DF7\u4E71\u3057\u3066\u307E\u3059\u2026\u2026\n\u305F\u3060\u4E8C\u4EBA\u3068\u3082\u3001\u3059\u3054\u304F\u5E78\u305B\u305D\u3046\u3067\u3059",
+        "localizations": {
+          "en": "I\u0027m confused too...\nThough they both look really happy."
+        }
+      },
+      "2072370017": {
+        "text": "\u30D5\u30ED\u30C3\u30B1",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u3063\u3001\u30F4\u30A1\u30EC\u30EA\u30A2\u304A\u59C9\u3061\u3083\u3093\u3002\n\u30CF\u30A4\u30C7\u30A3\u3055\u3093\u3068\u30D5\u30ED\u30C3\u30B1\u3061\u3083\u3093\u304C\n\u5E30\u3063\u3066\u304D\u307E\u3057\u305F\uFF01",
+        "localizations": {
+          "en": "Ah, Big Sis Valeria.\nHeidi and Flocke are back!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "\u3084\u3063\u3071\u308A\u300C\u304A\u59C9\u3061\u3083\u3093\u300D\u3063\u3066\u2026\u2026",
+        "localizations": {
+          "en": "There\u0027s that \u0022Big Sis\u0022 again..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30CF\u30A4\u30C7\u30A3",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u306E\u3001\u3053\u308C\u306F\u3044\u3063\u305F\u3044\u2026\u2026\uFF1F",
+        "localizations": {
+          "en": "Um, what\u0027s this all about...?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D5\u30ED\u30C3\u30B1",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "\u898B\u3066\u5206\u304B\u3089\u306A\u3044\uFF1F\n\u79C1\u304C\u30A2\u30FC\u30B7\u30E3\u306E\u59C9\u306B\u306A\u3063\u305F\u306E\u3088\uFF01\n\u59B9\u3001\u5897\u3048\u307E\u3057\u305F",
+        "localizations": {
+          "en": "Isn\u0027t it obvious?\nI\u0027ve become Ayesha\u0027s big sister!\nI\u0027ve gained a new little sister!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2\u3055\u3093\u304C\u3001\n\u30A2\u30FC\u30B7\u30E3\u3055\u3093\u306E\u304A\u59C9\u3055\u3093\u2026\u2026\uFF1F",
+        "localizations": {
+          "en": "Valeria is...\nAyesha\u0027s big sister...?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D5\u30ED\u30C3\u30B1",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "\u5370\u8C61\u3068\u3057\u3066\u306F\u9006\u306A\u3093\u3060\u3088\u306A\u3041",
+        "localizations": {
+          "en": "If anything, it feels like it should be the other way around..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30CF\u30A4\u30C7\u30A3",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "\u79C1\u306E\u307B\u3046\u304C\u591A\u5206\u5E74\u4E0A\u306A\u3093\u3060\u304B\u3089\u5F53\u7136\u3067\u3057\u3087",
+        "localizations": {
+          "en": "I\u0027m probably older, so it\u0027s only natural!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2\u3055\u3093\u306F\n\u3068\u3066\u3082\u983C\u308A\u306B\u306A\u308B\u304A\u59C9\u3061\u3083\u3093\u3067\u3059\uFF01\n\u304A\u304B\u3057\u306A\u3053\u3068\u306A\u3093\u3066\u3042\u308A\u307E\u305B\u3093\u3088",
+        "localizations": {
+          "en": "Valeria is a very reliable big sister!\nThere\u0027s nothing strange about it at all!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "\u306A\u3093\u3066\u3067\u304D\u305F\u59B9\u306A\u306E\u304B\u3057\u3089\uFF01\n\u3051\u3069\u30A2\u30FC\u30B7\u30E3\u3060\u3063\u3066\u3044\u3064\u3082\u983C\u308A\u306B\u306A\u308B\u3057\u3001\n\u79C1\u306E\u81EA\u6162\u306E\u59B9\u3088\uFF01",
+        "localizations": {
+          "en": "What a wonderful little sister I have!\nBut Ayesha is always reliable too,\nshe\u0027s my pride and joy!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2\u304A\u59C9\u3061\u3083\u3093\u3053\u305D\u3067\u3059\uFF01",
+        "localizations": {
+          "en": "Big Sis Valeria is amazing too!"
+        }
+      },
+      "2072370017": {
+        "text": "\u9078\u629E\u80A2",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2\u304A\u59C9\u3061\u3083\u3093\u3053\u305D\u3001\n\u3068\u3063\u3066\u3082\u5F37\u3044\u3001\u308F\u305F\u3057\u306E\u81EA\u6162\u306E\u59C9\u3067\u3059\uFF01",
+        "localizations": {
+          "en": "Big Sis Valeria is very strong,\nshe\u0027s the big sister I\u0027m proud of!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "\u3093\u3082\u3046\u3063\uFF01\n\u30A2\u30FC\u30B7\u30E3\u306F\u307B\u3081\u4E0A\u624B\u306A\u3093\u3060\u304B\u3089\uFF01",
+        "localizations": {
+          "en": "Oh geez!\nAyesha, you\u0027re so good at giving compliments!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "\u305F\u3060\u601D\u3063\u305F\u3053\u3068\u3092\u8A00\u3063\u3066\u308B\u3060\u3051\u3067\u3059\u3088",
+        "localizations": {
+          "en": "I\u0027m just saying what I think!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "\u307E\u305F\u307E\u305F\uFF01\u3000\u672C\u5F53\u3001\u30A2\u30FC\u30B7\u30E3\u306F\n\u79C1\u3092\u559C\u3070\u305B\u3066\u304F\u308C\u308B\u5929\u624D\u306D\uFF01",
+        "localizations": {
+          "en": "Sure, sure! Ayesha really is\na genius at making me happy!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 43,
+    "properties": {
+      "999008199": {
+        "text": "\u306A\u3093\u3060\u304B\u7167\u308C\u3061\u3083\u3044\u307E\u3059\u2026\u2026",
+        "localizations": {
+          "en": "I\u0027m getting embarrassed..."
+        }
+      },
+      "2072370017": {
+        "text": "\u9078\u629E\u80A2",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 44,
+    "properties": {
+      "999008199": {
+        "text": "\u306A\u3093\u3060\u304B\u7167\u308C\u3061\u3083\u3044\u307E\u3059\u2026\u2026",
+        "localizations": {
+          "en": "I\u0027m getting embarrassed..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 45,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u308C\u306B\u3059\u3063\u3054\u304F\u304B\u308F\u3044\u304F\u3066\u3001\n\u983C\u308A\u306B\u306A\u308B\u6700\u9AD8\u306E\u59B9\u306A\u3093\u3060\u304B\u3089\uFF01",
+        "localizations": {
+          "en": "And you\u0027re super cute,\nand such a reliable little sister!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 46,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3093\u306A\u2026\u2026\u307B\u3081\u305F\u3063\u3066\u4F55\u3082\u51FA\u307E\u305B\u3093\u3088\u30FC",
+        "localizations": {
+          "en": "Oh stop... flattery will get you nowhere~"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 47,
+    "properties": {
+      "999008199": {
+        "text": "\u30A2\u30FC\u30B7\u30E3\u306E\u7B11\u9854\u304C\u898B\u3089\u308C\u308B\u308F\uFF01\n\u305D\u308C\u3060\u3051\u3067\u79C1\u306F\u5E78\u305B\u3088\uFF01",
+        "localizations": {
+          "en": "Just seeing Ayesha\u0027s smile\nmakes me happy!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 48,
+    "properties": {
+      "999008199": {
+        "text": "\u304A\u59C9\u3061\u3083\u3093\u306E\u771F\u4F3C\u3092\u3057\u3066\u308B\u3093\u3067\u3059\uFF01",
+        "localizations": {
+          "en": "I\u0027m just copying my big sister!"
+        }
+      },
+      "2072370017": {
+        "text": "\u9078\u629E\u80A2",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 49,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u308C\u306F\u304A\u59C9\u3061\u3083\u3093\u306E\u771F\u4F3C\u3092\u3057\u3066\u308B\u304B\u3089\u3067\u3059\uFF01",
+        "localizations": {
+          "en": "That\u0027s because I\u0027m copying my big sister!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 50,
+    "properties": {
+      "999008199": {
+        "text": "\u30A2\u30FC\u30B7\u30E3\u3063\u305F\u3089\uFF01\n\u5B09\u3057\u3044\u3053\u3068\u8A00\u3063\u3066\u304F\u308C\u308B\u3058\u3083\u306A\u3044\uFF01\n\u304A\u4E16\u8F9E\u3060\u3068\u3057\u3066\u3082\u5B09\u3057\u3044\u308F",
+        "localizations": {
+          "en": "Oh, Ayesha!\nYou\u0027re saying such sweet things!\nEven if it\u0027s just flattery, I\u0027m happy!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 51,
+    "properties": {
+      "999008199": {
+        "text": "\u304A\u4E16\u8F9E\u306A\u3093\u304B\u3058\u3083\u306A\u3044\u3067\u3059\u3088\u3002\n\u308F\u305F\u3057\u3082\u304A\u59C9\u3061\u3083\u3093\u307F\u305F\u3044\u306B\u306A\u308A\u305F\u3044\u3067\u3059",
+        "localizations": {
+          "en": "It\u0027s not flattery at all.\nI want to be just like you, Big Sis!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 52,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u306A\u306E\uFF1F\n\u306A\u3089\u4ECA\u5EA6\u3001\u8272\u3093\u306A\u3053\u3068\u3092\u6559\u3048\u3066\u3042\u3052\u308B\uFF01",
+        "localizations": {
+          "en": "Really?\nThen next time, I\u0027ll teach you all sorts of things!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 53,
+    "properties": {
+      "999008199": {
+        "text": "\u7570\u5E38\u306A\u307B\u3069\u306B\u4EF2\u304C\u3044\u3044\u306A\u2026\u2026\n\u3060\u3093\u3060\u3093\u672C\u5F53\u306E\u59C9\u59B9\u306B\u898B\u3048\u3066\u304D\u305F\u304B\u3082\u2026\u2026\uFF1F",
+        "localizations": {
+          "en": "They\u0027re getting along unusually well...\nThey\u0027re starting to look like real sisters...?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30CF\u30A4\u30C7\u30A3",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 54,
+    "properties": {
+      "999008199": {
+        "text": "\u4E8C\u4EBA\u3068\u3082\u59C9\u59B9\u306B\u306A\u308C\u305F\u3053\u3068\u304C\u3001\n\u672C\u5F53\u306B\u5B09\u3057\u3044\u3093\u3067\u3059\u306D\uFF01",
+        "localizations": {
+          "en": "They\u0027re both really happy\nto have become sisters!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D5\u30ED\u30C3\u30B1",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 55,
+    "properties": {
+      "999008199": {
+        "text": "\u59C9\u3068\u3057\u3066\u632F\u308B\u821E\u3046\u306E\u3063\u3066\u3001\n\u3053\u3093\u306A\u7D20\u6575\u306A\u3053\u3068\u306A\u306E\u306D\uFF01\n\u306A\u3093\u3060\u308D\u3046\u3001\u3053\u306E\u3057\u3063\u304F\u308A\u304D\u3066\u308B\u611F",
+        "localizations": {
+          "en": "Being a big sister is\nsuch a wonderful thing!\nIt just feels so right somehow."
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 56,
+    "properties": {
+      "999008199": {
+        "text": "\u306D\u3048\u3001\u30CF\u30A4\u30C7\u30A3\u3001\u30D5\u30ED\u30C3\u30B1\u3002\n\u3053\u308C\u304B\u3089\u306F\u79C1\u3092\u59C9\u3068\u3057\u3066\n\u3082\u3063\u3068\u7518\u3048\u3066\u3044\u3044\u308F\u3088",
+        "localizations": {
+          "en": "Hey, Heidi, Flocke.\nFrom now on, you can rely on me\nas your big sister too!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 57,
+    "properties": {
+      "999008199": {
+        "text": "\u307E\u3041\u5BB6\u65CF\u69CB\u6210\u7684\u306B\u306F\u3001\u3042\u3093\u305F\u304C\u9577\u5973\n\u3067\u306F\u3042\u308B\u3051\u3069\u3001\u79C1\u306F\u2026\u2026\n\u76F8\u68D2\u3068\u3057\u3066\u306E\u7ACB\u3061\u4F4D\u7F6E\u304C\u5F37\u3044\u304B\u3089\u306A\u3041",
+        "localizations": {
+          "en": "Well, family-wise you would be the eldest,\nbut I feel more like...\na partner than anything."
+        }
+      },
+      "2072370017": {
+        "text": "\u30CF\u30A4\u30C7\u30A3",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 58,
+    "properties": {
+      "999008199": {
+        "text": "\u9060\u616E\u3057\u306A\u304F\u3066\u3044\u3044\u306E\u3088\u3002\n\u307B\u3089\u3001\u3053\u3063\u3061\u306B\u6765\u306A\u3055\u3044",
+        "localizations": {
+          "en": "Don\u0027t be shy.\nCome here, come on!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 59,
+    "properties": {
+      "999008199": {
+        "text": "\u304A\u4E8C\u4EBA\u3082\u4E00\u7DD2\u306B\u3001\n\u30F4\u30A1\u30EC\u30EA\u30A2\u304A\u59C9\u3061\u3083\u3093\u306B\u7518\u3048\u307E\u3057\u3087\u3046\uFF01",
+        "localizations": {
+          "en": "You two should join us in\nrelying on Big Sis Valeria!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 60,
+    "properties": {
+      "999008199": {
+        "text": "\u2026\u2026\u30CF\u30A4\u30C7\u30A3\u3055\u3093\u3002\n\u30D5\u30ED\u30C3\u30B1\u305F\u3061\u3082\u672C\u683C\u7684\u306B\u59B9\u306B\u306A\u308A\u307E\u3057\u3087\u3046",
+        "localizations": {
+          "en": "...Heidi.\nLet\u0027s properly become little sisters too."
+        }
+      },
+      "2072370017": {
+        "text": "\u30D5\u30ED\u30C3\u30B1",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 61,
+    "properties": {
+      "999008199": {
+        "text": "\u3048\u3001\u672C\u6C17\uFF1F",
+        "localizations": {
+          "en": "Eh, seriously?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30CF\u30A4\u30C7\u30A3",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 62,
+    "properties": {
+      "999008199": {
+        "text": "\u30D5\u30ED\u30C3\u30B1\u3082\u3001\u59B9\u3068\u3057\u3066\n\u59C9\u306B\u7518\u3048\u305F\u3044\u5FC3\u306F\u3042\u308A\u307E\u3059\uFF01",
+        "localizations": {
+          "en": "I also have a desire to be spoiled\nby a big sister!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D5\u30ED\u30C3\u30B1",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 63,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3063\u304B\u3001\u30D5\u30ED\u30C3\u30B1\u304C\u305D\u3046\u8A00\u3046\u306A\u3089",
+        "localizations": {
+          "en": "Well, if you say so, Flocke..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30CF\u30A4\u30C7\u30A3",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 64,
+    "properties": {
+      "999008199": {
+        "text": "\u2026\u2026\u30F4\u30A1\u30EC\u30EA\u30A2\u304A\u59C9\u3061\u3083\u3093\uFF01",
+        "localizations": {
+          "en": "...Big Sis Valeria!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D5\u30ED\u30C3\u30B1",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 65,
+    "properties": {
+      "999008199": {
+        "text": "\u30F4\u30A1\u2026\u2026\u30F4\u30A1\u30EC\u30EA\u30A2\u59C9\u3055\u3093\u2026\u2026",
+        "localizations": {
+          "en": "S-Sis Valeria..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30CF\u30A4\u30C7\u30A3",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 66,
+    "properties": {
+      "999008199": {
+        "text": "\u3048\u3048\uFF01\u3000\u79C1\u304C\u307F\u3093\u306A\u306E\u304A\u59C9\u3061\u3083\u3093\u3088\uFF01",
+        "localizations": {
+          "en": "Yes! I\u0027m everyone\u0027s big sister!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 67,
+    "properties": {
+      "999008199": {
+        "text": "\u304A\u3046\u304A\u3046\u3001\u306A\u3093\u3060\u304B\u9A12\u304C\u3057\u3044\u3068\u601D\u3063\u305F\u3089\u2026\u2026",
+        "localizations": {
+          "en": "Hey hey, I heard some commotion and..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30F3\u30C4\u30A7",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 68,
+    "properties": {
+      "999008199": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2\u304C\u59C9\u3061\u3083\u3093\uFF1F\n\u304A\u524D\u3089\uFF14\u4EBA\u63C3\u3063\u3066\u3001\u306A\u306B\u3084\u3063\u3066\u3093\u3060\u3041\uFF1F",
+        "localizations": {
+          "en": "Valeria\u0027s a big sis?\nWhat\u0027re you four up to?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30F3\u30C4\u30A7",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 69,
+    "properties": {
+      "999008199": {
+        "text": "\u79C1\u306B\u7518\u3048\u3066\u308B\u306E\u3088\uFF01\n\u306D\u3063\u3001\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "They\u0027re all relying on me!\nRight, Ayesha?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 70,
+    "properties": {
+      "999008199": {
+        "text": "\u304A\u59C9\u3061\u3083\u3093\u304C\u3067\u304D\u305F\u3093\u3067\u3059\uFF01",
+        "localizations": {
+          "en": "I got a big sister!"
+        }
+      },
+      "2072370017": {
+        "text": "\u9078\u629E\u80A2",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 71,
+    "properties": {
+      "999008199": {
+        "text": "\u5B9F\u306F\u3001\u304A\u59C9\u3061\u3083\u3093\u304C\u3067\u304D\u305F\u3093\u3067\u3059\uFF01",
+        "localizations": {
+          "en": "Actually, I got a big sister!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 72,
+    "properties": {
+      "999008199": {
+        "text": "\u306F\u3041\uFF1F\u3000\u306A\u306B\u8A00\u3063\u3066\u3093\u3060\u3041\uFF1F",
+        "localizations": {
+          "en": "Huh? What\u0027re you talking about?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30F3\u30C4\u30A7",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 73,
+    "properties": {
+      "999008199": {
+        "text": "\u79C1\u306B\u59B9\u304C\u5897\u3048\u305F\u306E\u3088\uFF01",
+        "localizations": {
+          "en": "I\u0027ve gained more little sisters!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 74,
+    "properties": {
+      "999008199": {
+        "text": "\u306A\u3093\u3060\u304B\u3001\u81EA\u7136\u306B\u53D7\u3051\u5165\u308C\u3089\u308C\u308B\u308F\u3002\n\u5B9F\u306F\u79C1\u306B\u306F\u3001\u672C\u5F53\u306B\u59B9\u304C\u3044\u305F\u308A\u3057\u3066\u2026\u2026",
+        "localizations": {
+          "en": "Somehow, it feels natural.\nMaybe I actually had little sisters all along..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 75,
+    "properties": {
+      "999008199": {
+        "text": "\u3044\u3084\u3001\u3055\u3063\u3071\u308A\u610F\u5473\u304C\u5206\u304B\u3093\u306D\u3047\u3088\u2026\u2026",
+        "localizations": {
+          "en": "I don\u0027t understand what\u0027s going on at all..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30F3\u30C4\u30A7",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 76,
+    "properties": {
+      "999008199": {
+        "text": "\u30E9\u30F3\u30C4\u30A7\u3055\u3093\u3082\u4E00\u7DD2\u306B\u3069\u3046\u3067\u3059\u304B\uFF1F",
+        "localizations": {
+          "en": "Would you like to join us, Lanze?"
+        }
+      },
+      "2072370017": {
+        "text": "\u9078\u629E\u80A2",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 77,
+    "properties": {
+      "999008199": {
+        "text": "\u30E9\u30F3\u30C4\u30A7\u3055\u3093\u3082\u4E00\u7DD2\u306B\u3069\u3046\u3067\u3059\u304B\uFF1F",
+        "localizations": {
+          "en": "Would you like to join us, Lanze?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 78,
+    "properties": {
+      "999008199": {
+        "text": "\u3069\u3046\u3063\u3066\u2026\u2026\u4F55\u3092\u3060\u3088\uFF1F",
+        "localizations": {
+          "en": "Join what exactly?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30F3\u30C4\u30A7",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 79,
+    "properties": {
+      "999008199": {
+        "text": "\u304A\u59C9\u3061\u3083\u3093\u3067\u3042\u308B\u79C1\u306B\u7518\u3048\u308B\u306E\u3092\u3001\u3088\uFF01",
+        "localizations": {
+          "en": "Relying on me, your big sister!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 80,
+    "properties": {
+      "999008199": {
+        "text": "\u2026\u2026\u30A2\u30FC\u30B7\u30E3\u3067\u3082\u5929\u4F7F\u3061\u3083\u3093\u3067\u3082\u306A\u304F\u3001\n\u30F4\u30A1\u30EC\u30EA\u30A2\u306B\u2026\u2026\uFF1F",
+        "localizations": {
+          "en": "...Not Ayesha or the angel,\nbut Valeria...?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30F3\u30C4\u30A7",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 81,
+    "properties": {
+      "999008199": {
+        "text": "\u4F55\u3088\u3001\u305D\u306E\u76EE",
+        "localizations": {
+          "en": "What\u0027s with that look?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 82,
+    "properties": {
+      "999008199": {
+        "text": "\u4ECA\u306E\u79C1\u306F\u3001\u304B\u308F\u3044\u3044\u59B9\u304C\u4E09\u4EBA\u3082\u3044\u308B\n\u983C\u308C\u308B\u304A\u59C9\u3061\u3083\u3093\u306A\u306E\u3088\uFF01",
+        "localizations": {
+          "en": "Right now, I\u0027m a reliable big sister\nwith three adorable little sisters!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 83,
+    "properties": {
+      "999008199": {
+        "text": "\u8AB0\u304B\u306B\u7518\u3048\u308B\u3063\u3066\u3044\u3044\u3067\u3059\u306D",
+        "localizations": {
+          "en": "It\u0027s nice to be able to rely on someone"
+        }
+      },
+      "2072370017": {
+        "text": "\u9078\u629E\u80A2",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 84,
+    "properties": {
+      "999008199": {
+        "text": "\u8AB0\u304B\u306B\u7518\u3048\u308B\u3063\u3066\u3044\u3044\u3067\u3059\u306D\u3002\n\u666E\u6BB5\u3001\u8AB0\u304B\u306B\u7518\u3048\u308B\u3053\u3068\u304C\u306A\u3044\u306E\u3067\u3001\n\u3059\u3054\u304F\u4E0D\u601D\u8B70\u306A\u6C17\u5206\u306A\u3093\u3067\u3059\uFF01",
+        "localizations": {
+          "en": "It\u0027s nice to be able to rely on someone.\nI don\u0027t usually get to rely on others,\nso it feels strange!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 85,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u3060\u306A\u3002\u5927\u4EBA\u306B\u306A\u308B\u3068\u306A\u304B\u306A\u304B\u4EBA\u306B\n\u7518\u3048\u3089\u3093\u306A\u304F\u306A\u308B\u304B\u3089\u306A\u3041\u2026\u2026",
+        "localizations": {
+          "en": "Yeah, when you grow up, it gets harder\nto rely on others..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30F3\u30C4\u30A7",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 86,
+    "properties": {
+      "999008199": {
+        "text": "\u3067\u3082\u3001\u79C1\u306B\u306A\u3089\u3044\u3064\u3067\u3082\u7518\u3048\u3066\u304F\u308C\u3066\n\u3044\u3044\u308F\u3088\uFF01\u3000\u304A\u59C9\u3061\u3083\u3093\u3060\u3082\u306E\uFF01",
+        "localizations": {
+          "en": "But you can always rely on me!\nBecause I\u0027m your big sister!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 87,
+    "properties": {
+      "999008199": {
+        "text": "\u30A2\u30FC\u30B7\u30E3\u3088\u3045\u2026\u2026\n\u3082\u3063\u3068\u30DE\u30B7\u306A\u4EBA\u9078\u306F\u306A\u304B\u3063\u305F\u306E\u304B\uFF1F",
+        "localizations": {
+          "en": "Hey, Ayesha...\nWeren\u0027t there better candidates?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30F3\u30C4\u30A7",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 88,
+    "properties": {
+      "999008199": {
+        "text": "\u3061\u3087\u3063\u3068\uFF01\u3000\u805E\u3053\u3048\u3066\u308B\u308F\u3088\uFF01",
+        "localizations": {
+          "en": "Hey! I can hear you!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 89,
+    "properties": {
+      "999008199": {
+        "text": "\u307E\u3042\u3001\u4ECA\u306E\u79C1\u306B\u306F\u304B\u308F\u3044\u3044\u59B9\u304C\n\u4E09\u4EBA\u3082\u3044\u308B\u304B\u3089\u3001\u75DB\u304F\u3082\u75D2\u304F\u3082\u306A\u3044\u308F\uFF01",
+        "localizations": {
+          "en": "Well, I have three cute little sisters now,\nso I don\u0027t mind!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 90,
+    "properties": {
+      "999008199": {
+        "text": "\u3075\u3075\u3075\u3002\u4E09\u4EBA\u306E\u59B9\u305F\u3061\u306B\u6155\u308F\u308C\u3066\u2026\u2026\n\u304A\u59C9\u3061\u3083\u3093\u3063\u3066\u6700\u9AD8\u306D\uFF01",
+        "localizations": {
+          "en": "Hehehe. Being adored by three little sisters...\nBeing a big sister is the best!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 91,
+    "properties": {
+      "999008199": {
+        "text": "\u3088\u304F\u5206\u304B\u3093\u306D\u3047\u304C\u3001\n\u30F4\u30A1\u30EC\u30EA\u30A2\u306F\u59C9\u6271\u3044\u3055\u308C\u3066\u3047\u306E\u304B\u2026\u2026\n\u306A\u3089\u3001\u4FFA\u3082\u4E00\u808C\u8131\u3044\u3067\u3084\u308B\u304B\uFF01",
+        "localizations": {
+          "en": "Don\u0027t really get it,\nbut if Valeria wants to be treated like a big sis...\nI\u0027ll pitch in too!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30F3\u30C4\u30A7",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 92,
+    "properties": {
+      "999008199": {
+        "text": "\u3088\u3063\u3001\u30F4\u30A1\u30EC\u30EA\u30A2\u59C9\u3061\u3083\u3093\uFF01\n\u4FFA\u3092\u5F1F\u306B\u3057\u3066\u304F\u308C\u3084\uFF01",
+        "localizations": {
+          "en": "Yo, Big Sis Valeria!\nMake me your little brother!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30F3\u30C4\u30A7",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 93,
+    "properties": {
+      "999008199": {
+        "text": "\u3048\uFF1F\u3000\u305D\u308C\u306F\u7121\u7406\u3088\uFF1F",
+        "localizations": {
+          "en": "Eh? That won\u0027t work."
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 94,
+    "properties": {
+      "999008199": {
+        "text": "\u30E9\u30F3\u30C4\u30A7\u306F\u79C1\u3088\u308A\u5E74\u4E0A\u3067\u3057\u3087",
+        "localizations": {
+          "en": "Lanze, you\u0027re older than me."
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 95,
+    "properties": {
+      "999008199": {
+        "text": "\u304A\u3044\u304A\u3044\u3001\u305D\u308A\u3083\u306D\u3047\u305C\uFF01\n\u304A\u3058\u3055\u3093\u306F\u3061\u3087\u3063\u3068\u4E57\u3063\u3066\u307F\u305F\n\u3060\u3051\u306A\u306E\u306B\u3088\u3049\uFF01",
+        "localizations": {
+          "en": "Oh come on!\nThis old man was just trying to\nget in on the fun!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30F3\u30C4\u30A7",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  }
+]

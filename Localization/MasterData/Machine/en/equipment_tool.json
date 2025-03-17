@@ -1,0 +1,472 @@
+[
+  {
+    "id": 947,
+    "description": "While equipped to a Defender, at the start of battle, grants all allies the effect \"When taking damage, restore own HP by {0}%\" for 1 hit.<br>Boosts all Lantarna allies' M. DEF by {1}%.",
+    "name": "Starry Night Lance"
+  },
+  {
+    "id": 948,
+    "description": "While equipped to a character with Bolt affinity, after attacking, reduces target's damage dealt by {0}% for 1 turn.",
+    "name": "Midwinter Halberd"
+  },
+  {
+    "id": 949,
+    "description": "While equipped to a character with Bolt affinity, after attacking, reduces target's damage dealt by {0}% for 1 turn.",
+    "name": "Midwinter Halberd"
+  },
+  {
+    "id": 950,
+    "description": "While equipped to a Defender with Bolt affinity, {0}% chance to evade attacks.",
+    "name": "Midwinter Dress"
+  },
+  {
+    "id": 951,
+    "description": "While equipped to a Defender with Bolt affinity, {0}% chance to evade attacks.",
+    "name": "Midwinter Dress"
+  },
+  {
+    "id": 952,
+    "description": "While equipped to a Defender with Bolt affinity, reduces damage received by {0}%.",
+    "name": "Midwinter Necklace"
+  },
+  {
+    "id": 953,
+    "description": "While equipped to a Defender with Bolt affinity, reduces damage received by {0}%.",
+    "name": "Midwinter Necklace"
+  },
+  {
+    "id": 954,
+    "description": "While equipped to a Breaker with Bolt affinity, boosts stun damage by {0}% when attacking a weakness.",
+    "name": "Schreckhisword"
+  },
+  {
+    "id": 955,
+    "description": "While equipped to a Breaker with Bolt affinity, boosts stun damage by {0}% when attacking a weakness.",
+    "name": "Schreckhisword"
+  },
+  {
+    "id": 956,
+    "description": "While equipped to a Breaker, when attacking a stunned target, restores item gauge by {0}%.",
+    "name": "Prodigy's Coat"
+  },
+  {
+    "id": 957,
+    "description": "While equipped to a Breaker, when attacking a stunned target, restores item gauge by {0}%.",
+    "name": "Prodigy's Coat"
+  },
+  {
+    "id": 958,
+    "description": "When attacking a stunned target, after the attack, grants all allies \"After using a skill, restore own HP by {0}%\" for 1 turn. (MAX 3 stacks)",
+    "name": "Sovereign Ring"
+  },
+  {
+    "id": 959,
+    "description": "When attacking a stunned target, after the attack, grants all allies \"After using a skill, restore own HP by {0}%\" for 1 turn. (MAX 3 stacks)",
+    "name": "Sovereign Ring"
+  },
+  {
+    "id": 960,
+    "description": "While equipped to an Attacker with Ice affinity, boosts single target critical damage by {0}%.",
+    "name": "Fortune-Beckoning Fan"
+  },
+  {
+    "id": 961,
+    "description": "While equipped to an Attacker with Ice affinity, boosts single target critical damage by {0}%.",
+    "name": "Fortune-Beckoning Fan"
+  },
+  {
+    "id": 962,
+    "description": "While equipped to an Attacker with Ice affinity, after making a critical attack, boosts own M. ATK by {0}% and skill damage by {1}% for 1 turn.",
+    "name": "Fortune-Beckoning Fine Clothes"
+  },
+  {
+    "id": 963,
+    "description": "While equipped to an Attacker with Ice affinity, after making a critical attack, boosts own M. ATK by {0}% and skill damage by {1}% for 1 turn.",
+    "name": "Fortune-Beckoning Fine Clothes"
+  },
+  {
+    "id": 964,
+    "description": "While equipped to a character with Ice affinity and HP is 70% or higher, boosts own skill damage by {0}%.",
+    "name": "Fortune-Beckoning Hairpin"
+  },
+  {
+    "id": 965,
+    "description": "While equipped to a character with Ice affinity and HP is 70% or higher, boosts own skill damage by {0}%.",
+    "name": "Fortune-Beckoning Hairpin"
+  },
+  {
+    "id": 966,
+    "description": "While equipped to a Breaker with Ice affinity, after attacking a stunned target, increases target's critical damage received by {0}% for 2 attacks.",
+    "name": "Rose Curved Sword"
+  },
+  {
+    "id": 967,
+    "description": "While equipped to a Breaker with Ice affinity, when the target is stunned, after attacking, increases target's critical damage received by {0}% for 2 attacks.",
+    "name": "Moonflower Curved Sword"
+  },
+  {
+    "id": 968,
+    "description": "While equipped to a Breaker with Ice affinity, boosts Skill 2's stun damage by {0}%.",
+    "name": "Healer's Garb"
+  },
+  {
+    "id": 969,
+    "description": "While equipped to a Breaker with Ice affinity, boosts Skill 2's stun damage by {0}%.",
+    "name": "Healer's Garb"
+  },
+  {
+    "id": 970,
+    "description": "While equipped to a character with Ice affinity, after hitting a weakness, boosts own stun damage by {0}% (up to 30%).",
+    "name": "Royal Hat"
+  },
+  {
+    "id": 971,
+    "description": "While equipped to a character with Ice affinity, after hitting a weakness, boosts own stun damage by {0}% (up to 25%).",
+    "name": "Royal Hat"
+  },
+  {
+    "id": 972,
+    "description": "While equipped to a Supporter with Ice affinity, after attacking, increases target's magical damage received by {0}% for 2 attacks.",
+    "name": "Zeit Staub"
+  },
+  {
+    "id": 973,
+    "description": "While equipped to a Supporter with Ice affinity, after attacking, increases target's magical damage received by {0}% for 2 attacks.",
+    "name": "Zeit Staub"
+  },
+  {
+    "id": 974,
+    "description": "While equipped to a Supporter with Ice affinity, boosts potency of buff effects given by {0}%.",
+    "name": "Luxstval"
+  },
+  {
+    "id": 975,
+    "description": "While equipped to a Supporter with Ice affinity, boosts potency of buff effects given by {0}%.",
+    "name": "Luxstval"
+  },
+  {
+    "id": 976,
+    "description": "While equipped to a Supporter with Ice affinity, boosts all allies' M.ATK by {0}%.",
+    "name": "Brave Seal"
+  },
+  {
+    "id": 977,
+    "description": "While equipped to a Supporter with Ice affinity, boosts all allies' M.ATK by {0}%.",
+    "name": "Brave Seal"
+  },
+  {
+    "id": 978,
+    "description": "While equipped to a character with Air affinity, boosts Skill 2's damage by {0}%.\nBoosts M.ATK of all allies with \"Adventurer\" tag by {1}%.",
+    "name": "Wonder Rapier"
+  },
+  {
+    "id": 979,
+    "description": "While equipped to an Attacker with Air affinity, boosts critical damage by {0}%.",
+    "name": "Bird and Sun Staff"
+  },
+  {
+    "id": 980,
+    "description": "While equipped to an Attacker with Air affinity, boosts critical damage by {0}%.",
+    "name": "Bird and Sun Staff"
+  },
+  {
+    "id": 981,
+    "description": "While equipped to an Attacker with Air affinity, when the target is stunned, boosts skill damage by {0}%.",
+    "name": "Alchemist's Coat"
+  },
+  {
+    "id": 982,
+    "description": "While equipped to an Attacker with Air affinity, when the target is stunned, boosts skill damage by {0}%.",
+    "name": "Alchemist's Coat"
+  },
+  {
+    "id": 983,
+    "description": "While equipped to a character with Air affinity, after using a skill, boosts own M.ATK by {0}% for 2 turns and own M.DEF by {1}% for 2 attacks.",
+    "name": "Beast Aroma"
+  },
+  {
+    "id": 984,
+    "description": "While equipped to a character with Air affinity, after using a skill, boosts own M.ATK by {0}% for 2 turns and own M.DEF by {1}% for 2 attacks.",
+    "name": "Beast Aroma"
+  },
+  {
+    "id": 985,
+    "description": "While equipped to a Supporter with Air affinity, boosts HP recovery given by {0}%.",
+    "name": "Azure Cage"
+  },
+  {
+    "id": 986,
+    "description": "While equipped to a Supporter with Air affinity, boosts HP recovery given by {0}%.",
+    "name": "Azure Cage"
+  },
+  {
+    "id": 987,
+    "description": "While equipped to a Supporter with Air affinity, at the start of battle, reduces all allies' damage received by {0}% for 3 attacks.",
+    "name": "Traveler's Clothes"
+  },
+  {
+    "id": 988,
+    "description": "While equipped to a Supporter with Air affinity, at the start of battle, reduces all allies' damage received by {0}% for 3 attacks.",
+    "name": "Traveler's Clothes"
+  },
+  {
+    "id": 989,
+    "description": "While equipped to a Supporter with Air affinity, boosts all allies' stun damage by {0}%.",
+    "name": "Heart Earring"
+  },
+  {
+    "id": 990,
+    "description": "While equipped to a Supporter with Air affinity, boosts all allies' stun damage by {0}%.",
+    "name": "Heart Earring"
+  },
+  {
+    "id": 991,
+    "description": "While equipped to a Defender with Ice affinity, after attacking, reduces target's damage by {0}% for 1 turn.",
+    "name": "Clear Heart Hand"
+  },
+  {
+    "id": 992,
+    "description": "While equipped to a Defender with Ice affinity, after attacking, reduces target's damage by {0}% for 1 turn.",
+    "name": "Clear Heart Hand"
+  },
+  {
+    "id": 993,
+    "description": "While equipped to a Defender with Ice affinity, reduces damage received from single-target attacks by {0}%.",
+    "name": "Clear Heart Cloak"
+  },
+  {
+    "id": 994,
+    "description": "While equipped to a Defender with Ice affinity, reduces damage received from single-target attacks by {0}%.",
+    "name": "Clear Heart Cloak"
+  },
+  {
+    "id": 995,
+    "description": "While equipped to a Defender, at the start of a wave, reduces all allies' damage received from area attacks by {0}% for 2 attacks.",
+    "name": "Clear Heart Symbol"
+  },
+  {
+    "id": 996,
+    "description": "While equipped to a Defender, at the start of a wave, reduces all allies' damage received from area attacks by {0}% for 2 attacks.",
+    "name": "Clear Heart Symbol"
+  },
+  {
+    "id": 997,
+    "description": "While equipped to a character with Stab affinity, after using a skill, boosts all allies' physical skill damage by {0}% (up to 16%).",
+    "name": "Admiration Bow"
+  },
+  {
+    "id": 998,
+    "description": "While equipped to a character with Stab affinity, after using a skill, boosts all allies' physical skill damage by {0}% (up to 12%).",
+    "name": "Admiration Bow"
+  },
+  {
+    "id": 999,
+    "description": "While equipped to a Supporter with Stab affinity, when obtaining a panel, boosts all allies' critical damage by {0}% for 1 turn.",
+    "name": "Admiration Dress"
+  },
+  {
+    "id": 1000,
+    "description": "While equipped to a Supporter with Stab affinity, when obtaining a panel, boosts all allies' critical damage by {0}% for 1 turn.",
+    "name": "Admiration Dress"
+  },
+  {
+    "id": 1001,
+    "description": "While equipped to a Supporter with Stab affinity, boosts all allies' P. ATK by {0}%.",
+    "name": "Admiration Bracelet"
+  },
+  {
+    "id": 1002,
+    "description": "While equipped to a Supporter with Stab affinity, boosts all allies' P. ATK by {0}%.",
+    "name": "Admiration Bracelet"
+  },
+  {
+    "id": 1003,
+    "description": "While equipped to an Attacker with Stab affinity, boosts critical damage by {0}%.",
+    "name": "Mistral Cane"
+  },
+  {
+    "id": 1004,
+    "description": "While equipped to an Attacker with Stab affinity, boosts critical damage by {0}%.",
+    "name": "Mistral Cane"
+  },
+  {
+    "id": 1005,
+    "description": "While equipped to a character with Stab affinity, boosts P. ATK by {0}%.",
+    "name": "Mysterious Coat"
+  },
+  {
+    "id": 1006,
+    "description": "While equipped to a character with Stab affinity, boosts P. ATK by {0}%.",
+    "name": "Mysterious Coat"
+  },
+  {
+    "id": 1007,
+    "description": "While equipped to an Attacker with Stab affinity, after landing a critical hit, boosts own skill damage by {0}%. (MAX 40%)",
+    "name": "Simple Good Luck Charm"
+  },
+  {
+    "id": 1008,
+    "description": "While equipped to an Attacker with Stab affinity, after landing a critical hit, boosts own skill damage by {0}%. (MAX 30%)",
+    "name": "Simple Good Luck Charm"
+  },
+  {
+    "id": 1010,
+    "description": "After using a skill, boosts all allies' physical attack skill damage by {0}% for 1 turn.<br>Boosts all Laid-back allies' P. ATK by {1}%.",
+    "name": "Celestial Machina"
+  },
+  {
+    "id": 1011,
+    "description": "While equipped to a Supporter with Slash affinity, after attacking, boosts target's damage received by {0}% for 2 attacks.",
+    "name": "Revolutionary Staff"
+  },
+  {
+    "id": 1012,
+    "description": "While equipped to a Supporter with Slash affinity, after attacking, boosts target's damage received by {0}% for 2 attacks.",
+    "name": "Revolutionary Staff"
+  },
+  {
+    "id": 1013,
+    "description": "While equipped to a Supporter with Slash affinity, boosts effect potency received from strengthening panels by {0}% for all allies.",
+    "name": "Espoir Vest"
+  },
+  {
+    "id": 1014,
+    "description": "While equipped to a Supporter with Slash affinity, boosts effect potency received from strengthening panels by {0}% for all allies.",
+    "name": "Espoir Vest"
+  },
+  {
+    "id": 1015,
+    "description": "While equipped to a Supporter, recovers item gauge by {0}% after using burst skill.<br>While equipped to a Supporter with Slash affinity, additionally recovers item gauge by {1}% after using burst skill.",
+    "name": "Forging Charm"
+  },
+  {
+    "id": 1016,
+    "description": "While equipped to a Supporter, recovers item gauge by {0}% after using burst skill.<br>While equipped to a Supporter with Slash affinity, additionally recovers item gauge by {1}% after using burst skill.",
+    "name": "Forging Charm"
+  },
+  {
+    "id": 1017,
+    "description": "While equipped to Alvina [Dream of Hero], boosts potency of positive effects given by {0}% and all allies' P. ATK by {1}%.",
+    "name": "Estreja"
+  },
+  {
+    "id": 1018,
+    "description": "While equipped to an Attacker with Slash affinity, after using burst skill, boosts critical rate by {0}% for 1 turn.",
+    "name": "Azure Flower Blade"
+  },
+  {
+    "id": 1019,
+    "description": "While equipped to an Attacker with Slash affinity, after using burst skill, boosts critical rate by {0}% for 1 turn.",
+    "name": "Azure Flower Blade"
+  },
+  {
+    "id": 1020,
+    "description": "While equipped to an Attacker with Slash affinity, boosts potency of positive effects received by {0}%.",
+    "name": "Ancient Coat"
+  },
+  {
+    "id": 1021,
+    "description": "While equipped to an Attacker with Slash affinity, boosts potency of positive effects received by {0}%.",
+    "name": "Ancient Coat"
+  },
+  {
+    "id": 1022,
+    "description": "While equipped to an Attacker with Slash affinity, after using a skill, boosts target's physical attack damage received by {0}% for 2 attacks.",
+    "name": "Güteschreier"
+  },
+  {
+    "id": 1023,
+    "description": "While equipped to an Attacker with Slash affinity, after using a skill, boosts target's physical attack damage received by {0}% for 2 attacks.",
+    "name": "Güteschreier"
+  },
+  {
+    "id": 1024,
+    "description": "While equipped to Bepp [Mourning Blades], boosts critical damage by {0}%.",
+    "name": "Moon Flower Butterfly"
+  },
+  {
+    "id": 1025,
+    "description": "While equipped to a character with Fire affinity, after attacking, boosts target's damage received by {0}% for 1 attack.<br>While equipped to a Breaker, boosts stun damage by {1}%.",
+    "name": "Bomber's Jewelry"
+  },
+  {
+    "id": 1026,
+    "description": "While equipped to a character with Bolt affinity, boosts all allies' skill damage by {0}%.<br>While equipped to a Supporter, boosts HP recovery given by {1}%.",
+    "name": "Innocent Bloom Star"
+  },
+  {
+    "id": 1027,
+    "description": "While equipped to a character with Fire affinity, after landing a WEAK attack, boosts own M. ATK by {0}% for 2 turns.<br>While equipped to an Attacker, boosts critical damage by {1}%.",
+    "name": "Liberty Summer Hat"
+  },
+  {
+    "id": 1028,
+    "description": "While equipped to a Defender with Slash affinity, reduces damage received by {0}% when HP is 70% or higher.",
+    "name": "Schwarz Rüstung"
+  },
+  {
+    "id": 1029,
+    "description": "While equipped to a Defender with Slash affinity, reduces damage received by {0}% when HP is 70% or higher.",
+    "name": "Schwarz Rüstung"
+  },
+  {
+    "id": 1030,
+    "description": "While equipped to a Defender with Slash affinity, reduces damage received from single-target attacks by {0}%.",
+    "name": "Feather Dress"
+  },
+  {
+    "id": 1031,
+    "description": "While equipped to a Defender with Slash affinity, reduces damage received from single-target attacks by {0}%.",
+    "name": "Feather Dress"
+  },
+  {
+    "id": 1032,
+    "description": "While equipped to a Defender with Slash affinity, after using a skill, reduces damage received from area attacks by {0}% for all allies until taking 1 attack.",
+    "name": "White Waist Pouch"
+  },
+  {
+    "id": 1033,
+    "description": "While equipped to a Defender with Slash affinity, after using a skill, reduces damage received from area attacks by {0}% for all allies until taking 1 attack.",
+    "name": "White Waist Pouch"
+  },
+  {
+    "id": 1034,
+    "description": "While equipped to Yanne [Mother's Affection], when hit by an attack, boosts critical damage by {0}% for 1 turn for the ally with highest P. ATK. (Non-stackable)",
+    "name": "Presidio Apparatus"
+  },
+  {
+    "id": 1035,
+    "description": "While equipped to a Breaker with Slash affinity, boosts stun damage by {0}% when attacking WEAK points.",
+    "name": "Cercatore"
+  },
+  {
+    "id": 1036,
+    "description": "While equipped to a Breaker with Slash affinity, boosts stun damage by {0}% when attacking WEAK points.",
+    "name": "Cercatore"
+  },
+  {
+    "id": 1037,
+    "description": "While equipped to a character with Slash affinity, boosts effects received from boost-type panels by {0}%.",
+    "name": "Explorer's Mantle"
+  },
+  {
+    "id": 1038,
+    "description": "While equipped to a character with Slash affinity, boosts effects received from boost-type panels by {0}%.",
+    "name": "Explorer's Mantle"
+  },
+  {
+    "id": 1039,
+    "description": "While equipped to a Breaker with Slash affinity, before attacking, reduces target's Slash resistance by {0}% for 2 attacks.",
+    "name": "Sage's Lens"
+  },
+  {
+    "id": 1040,
+    "description": "While equipped to a Breaker with Slash affinity, before attacking, reduces target's Slash resistance by {0}% for 2 attacks.",
+    "name": "Sage's Lens"
+  },
+  {
+    "id": 1041,
+    "description": "While equipped to Lesna [Rise Above Fate], when attacking a stunned target, boosts damage received by {0}% for 2 attacks and boosts own stun damage by {1}%. (Non-stackable)",
+    "name": "Increment Brave"
+  }
+]

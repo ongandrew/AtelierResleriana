@@ -1,0 +1,112 @@
+﻿@page "/news"
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta http-equiv="Content-Type" content="text/html,charset=utf-8">
+    <meta name="viewport" content="width=1125,user-scalable=no">
+    <link href="https://asset.resleriana.jp/static/production/assets/newsPortraitIndex-40c27966d39094911ba61291ad622026.css" rel="stylesheet" type="text/css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@400;700&display=swap" rel="stylesheet">
+    <meta name="format-detection" content="telephone=no">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Atelier Resleriana">
+    <meta property="og:url" content="https://info.resleriana.jp/news?language=ja">
+    <meta property="og:image" content="https://asset.resleriana.jp/static/production/images/ogp/ja/001-4ce6375d4fed0dba1b6c999e0c2314c4.jpg">
+    <meta property="og:title" content="Atelier Resleriana">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@@Atelier_Resleri">
+    <title>Atelier Resleriana</title>
+    <link rel="icon" href="data:,">
+    <script defer type="text/javascript" src="https://asset.resleriana.jp/static/production/assets/newsPortraitIndex-3b1588d259cd2d9d8cd5d202ba2507e6.js">
+    </script>
+</head>
+
+<body class="pc-screen">
+    <div id="language" class="hidden" data-language="ja"></div>
+    <div id="dialog-overlay" class="hidden"></div>
+    <div id="portrait-wrapper" class="pc-screen">
+        <div class="notice_alert js-dialog hidden"></div>
+        <div class="pc-screen notice_main">
+            <div id="notice_main_header" class="pc-screen js-tabs">
+                <input id="tab-all" class="hidden" type="radio" name="check" data-tab="all">
+                <label id="tab-all-label" for="tab-all" class="notice_main_header_btn" data-tab="all">
+                    <img class="off" src="/static/globalproduction/images/news/en/tab_btn/all/off-791aa039fac40b5deb6f29849073a9d1.png">
+                    <img class="on" src="/static/globalproduction/images/news/en/tab_btn/all/on-dffcb80eb9821f2cfe3d6e2ff5beaad7.png">
+                </label>
+
+                <input id="tab-event" class="hidden" type="radio" name="check" data-tab="event">
+                <label id="tab-event-label" for="tab-event" class="notice_main_header_btn" data-tab="event">
+                    <img class="off" src="/static/globalproduction/images/news/en/tab_btn/event/off-a43a322ad6ba64660bd46c3f5ab64e64.png">
+                    <img class="on" src="/static/globalproduction/images/news/en/tab_btn/event/on-8694cbbc0dfc11d41502cd24dde36314.png">
+                </label>
+
+                <input id="tab-important" class="hidden" type="radio" name="check" data-tab="important">
+                <label id="tab-important-label" for="tab-important" class="notice_main_header_btn" data-tab="important">
+                    <img class="off" src="/static/globalproduction/images/news/en/tab_btn/important/off-50a597d7e501846fed462ca93a73d15d.png">
+                    <img class="on" src="/static/globalproduction/images/news/en/tab_btn/important/on-cb67225e46561d51be9158bd6eed3a74.png">
+                </label>
+
+                <input id="tab-letter" class="hidden" type="radio" name="check" data-tab="letter">
+                <label id="tab-letter-label" for="tab-letter" class="notice_main_header_btn" data-tab="letter">
+                    <img class="off" src="/static/globalproduction/images/news/en/tab_btn/letter/off-8819f78430bd655d7fc7d9bdb0c00e3e.png">
+                    <img class="on" src="/static/globalproduction/images/news/en/tab_btn/letter/on-efe2e1d2e11cb003aeb140f8d61c2a79.png">
+                </label>
+            </div>
+            <div id="notice_list" class="notice_list js-news-list">
+            </div>
+        </div>
+    </div>
+
+    <template id="news-item-template">
+        <a class="notice_list_block js-each-news">
+            <div class="notice_list_block_bg">
+                <p class="notice_list_category">
+                    <img>
+                </p>
+                <div class="notice_list_content">
+                </div>
+            </div>
+        </a>
+    </template>
+
+    <script type="module">
+        const newsListsRoot = document.getElementById("notice_list");
+        const template = document.getElementById("news-item-template");
+
+        const newsLists = await (await fetch("/api/News")).json();
+
+        for (const newsListName in newsLists) {
+            const list = document.createElement("div");
+            list.id = `tab-content-${newsListName}`;
+            list.classList.add("js-tab-content");
+            list.dataset.tab = newsListName;
+
+            for (const newsListItem of newsLists[newsListName]) {
+                const clone = template.content.cloneNode(true);
+                const newsLink = clone.querySelector("a");
+                const newsDiv = clone.querySelector(".notice_list_block_bg");
+                const newsImg = clone.querySelector("img");
+                const newsContent = clone.querySelector(".notice_list_content");
+
+                newsLink.href = newsListItem.uri;
+                newsLink.dataset.contentId = newsListItem.id;
+                newsLink.dataset.tab = newsListName;
+
+                newsDiv.dataset.contentId = newsListItem.id;
+                newsImg.src = newsListItem.iconUri;
+                newsContent.textContent = newsListItem.title;
+
+                list.appendChild(clone);
+            }
+
+            newsListsRoot.appendChild(list);
+        }
+    </script>
+    <script type="text/javascript">
+        window.addEventListener("DOMContentLoaded", _ => newsPortraitIndex.init())
+    </script>   
+</body>
+</html>

@@ -1,0 +1,1954 @@
+﻿{
+  "en": {
+    "character": [
+      {
+        "id": 10101,
+        "acquisition_text": "Anything is possible through alchemy.\nShall we find out what we can accomplish together?",
+        "another_name": "Lovely Bomber",
+        "description": "An energetic, tomboyish alchemist who studied alchemy at the academy in a certain town. She now travels across the regions of Lantarna in search of the truth of alchemy. While she is bright and friendly, she can be lazy and a little careless at times. Her tendency to solve problems with bombs has also earned her a reputation as a bomb enthusiast.",
+        "fullname": "Marlone",
+        "leader_skill": {
+          "description": "Boosts Student characters' M. ATK and M. DEF by 25%.",
+          "name": "Academy Graduate"
+        },
+        "name": "Marie",
+        "overlay_name": "Marlone",
+        "profile_voice_text": "I'm Marlone from Salburg Academy. I hope my alchemy can be of some assistance.",
+        "start_at": "2024-01-25T03:00:00Z"
+      },
+      {
+        "id": 10102,
+        "acquisition_text": "Time for a fresh start!\nCome on, let's dive in and have some fun!",
+        "another_name": "Fortune Full Bloom",
+        "description": "An energetic and adventurous alchemist from another world, Marie is one of the wanderers who came to Lantarna. Together with Resna, she has been given the task of handing out good luck charms as part of the New Year's greetings. Adorned in a bright outfit, she sets off to join her friends.",
+        "fullname": "Marlone",
+        "leader_skill": {
+          "description": "Boosts Carefree characters' M. ATK and M. DEF by 25%.",
+          "name": "First Job of the New Year"
+        },
+        "name": "Marie",
+        "overlay_name": "Marlone",
+        "profile_voice_text": "Given the occasion, I might need to fine-tune my bombs to match my new outfit.",
+        "start_at": "2024-04-25T03:00:00Z"
+      },
+      {
+        "id": 10103,
+        "acquisition_text": "Allow me to show you the graceful fighting style of an alchemist! ...By the way, can I use bombs?",
+        "another_name": "Violent Beauty",
+        "description": "An easygoing and cheerful alchemist. She once studied alchemy at an academy in a certain town, but at that time ended up dropping out. Now a distinguished alchemist, she still tends to get carried away sometimes. She is dressed up ready for a certain tournament and fully expects to win. Will that confidence work in her favor this time?",
+        "fullname": "Marlone",
+        "leader_skill": {
+          "description": "Boosts Promise & Teamwork characters' P. ATK and M. ATK by 35%.",
+          "name": "Victory Will Be Mine!"
+        },
+        "name": "Marie",
+        "overlay_name": "Marlone",
+        "profile_voice_text": "This outfit is really easy to move around in. Wearing this, I might even be able to tackle some cleaning... Maybe.",
+        "start_at": "2024-09-02T03:00:00Z"
+      },
+      {
+        "id": 10104,
+        "acquisition_text": "Just leave this to me! I'll clear the way for everyone!",
+        "another_name": "Bomber Cat",
+        "description": "A cheerful and easygoing alchemist. Though she was once a school dropout known as the Bomberwoman, she has since become a skilled alchemist. This outfit was designed for the battle against the Polar Night Alchemists, making it easier to handle bombs. Thanks to her experience, her bomb synthesis and recipe adjustments are second to none.",
+        "fullname": "Marlone",
+        "leader_skill": {
+          "description": "Boosts Carefree characters' skill damage and stun damage by 50%.",
+          "name": "Bomberwoman's Trump Card"
+        },
+        "name": "Marie",
+        "overlay_name": "Marlone",
+        "profile_voice_text": "When it comes to handling bombs, I'm your girl! Let me show you the fruits of my research!",
+        "start_at": "2024-11-18T03:00:00Z"
+      },
+      {
+        "id": 10201,
+        "acquisition_text": "今までたくさんの人に助けてもらったわ。\n今度は、私が助ける番！",
+        "another_name": "【One And Only】",
+        "description": "温和な名家のお嬢様。\nマリーの幼馴染で、無二の親友。この世界でもその関係性は変わらず、一緒に採取に出かけたり、マリーの部屋を掃除しに行ってあげたりしている。\n優しく大人しい性格だが、時折天然の毒舌が飛び出してしまうことも。",
+        "fullname": "シア・ドナースターク",
+        "leader_skill": {
+          "description": "「世話焼き」は「物攻・魔攻+40%」",
+          "name": "お掃除の時間ね"
+        },
+        "name": "シア",
+        "overlay_name": "Schea Donnerstag",
+        "profile_voice_text": "私はシア。特別何かができるわけじゃない\nけど、お手伝いできることがあれば言ってね",
+        "start_at": "2024-12-27T03:00:00Z"
+      },
+      {
+        "id": 10301,
+        "acquisition_text": "Sounds like fun.\nHeheh. Mind if I come along?",
+        "another_name": "The Southern Adventurer",
+        "description": "A free-spirited adventurer who wanders the land looking for fun and interesting things to do. Though she can seem reckless and hard to pin down, she will see any task given to her through to the end. She dislikes cold places, probably because she was born in a warm climate.",
+        "fullname": "Mu Seqstanse",
+        "leader_skill": {
+          "description": "Boosts Adventurer characters' skill damage and stun damage by 30%.",
+          "name": "From a Distant Land"
+        },
+        "name": "Mu",
+        "overlay_name": "Mu Seqstanse",
+        "profile_voice_text": "I'm Mu. I came from the same world as Marie. Nice to meet you.",
+        "start_at": "2024-01-25T03:00:00Z"
+      },
+      {
+        "id": 10701,
+        "acquisition_text": "Looking for a bodyguard?\nYou can count on me!",
+        "another_name": "Hot-Blooded Adventurer",
+        "description": "A spirited young adventurer who makes his living in the capital by fulfilling all kinds of requests. He is energetic and optimistic. Though he suffered many setbacks at first, he has grown through his experiences.",
+        "fullname": "Ruven Filnir",
+        "leader_skill": {
+          "description": "Boosts all allies' skill damage by 30% when there is only one enemy.",
+          "name": "Work Hard, Earn Big"
+        },
+        "name": "Ruven",
+        "overlay_name": "Ruven Filnir",
+        "profile_voice_text": "I'm Ruven, a run-of-the-mill adventurer. My fee may be cheap, but I work hard for that cole!",
+        "start_at": "2024-01-25T03:00:00Z"
+      },
+      {
+        "id": 12001,
+        "acquisition_text": "I want to become a wonderful alchemist, just like that person. That's my dream.",
+        "another_name": "Cheesecake Connoisseur",
+        "description": "A sweet-toothed alchemist. Having been cured of illness as a child through alchemy, she has since devoted herself to its study. While she is serious and precise, she can also get rather flustered at times. A lover of desserts, cheesecakes are a particular weakness of hers.",
+        "fullname": "Elfir Traum",
+        "leader_skill": {
+          "description": "Grants Academy characters Initiative and boosts their M. ATK by 50%.",
+          "name": "I'm Number One! Yay!"
+        },
+        "name": "Elie",
+        "overlay_name": "Elfir Traum",
+        "profile_voice_text": "My name is Elfir. I adore sweets. Especially cheesecake!",
+        "start_at": "2024-02-16T03:00:00Z"
+      },
+      {
+        "id": 13401,
+        "acquisition_text": "Is everyone ready? Well then, let's start the lesson!",
+        "another_name": "Birth of The Legend",
+        "description": "An optimistic, tomboyish alchemist who was once involved in the establishment of a school for alchemy in a certain area, but is currently on a journey to rebuild her skills from the ground up. While she is quick to get fired up about things, that personality trait is also her downfall. She loves any and all sweet treats.",
+        "fullname": "Lilie",
+        "leader_skill": {
+          "description": "Grants Bookworm characters a high chance to inflict Paralysis on target for 1 turn after attacking, and boosts their skill damage dealt to paralyzed attack targets by 50%.",
+          "name": "A Scholar's Discipline"
+        },
+        "name": "Lilie",
+        "overlay_name": "Lilie",
+        "profile_voice_text": "I still have so much to learn about the alchemy of this world, so teach me whatever you can!",
+        "start_at": "2024-02-16T03:00:00Z"
+      },
+      {
+        "id": 15101,
+        "acquisition_text": "It must be fate that we've met here!\nTake me with you, too!",
+        "another_name": "Hero of Tempest",
+        "description": "A carefree alchemist.\nShe travels the world researching ways to create a special item called the Dragon's Hourglass, but has a hard time finding the funds to do so.\nShe's decisive and doesn't let adversity drag her down. However, her tendency to act without thinking can also land her in trouble.",
+        "fullname": "Judith Volltone",
+        "leader_skill": {
+          "description": "At the start of battle, has a 100% chance to grant all Spirited characters Evasion for 1 attack.",
+          "name": "Storm Prodigy"
+        },
+        "name": "Judie",
+        "overlay_name": "Judith Volltone",
+        "profile_voice_text": "I failed at synthesis once and got blasted 200 years into the future.",
+        "start_at": "2024-01-25T03:00:00Z"
+      },
+      {
+        "id": 15102,
+        "acquisition_text": "I won't give up! Whatever setbacks come my way, I'll flip them right around!",
+        "another_name": "Heroic Assault",
+        "description": "A clumsy alchemist who has been traveling with Keithgriff to gather information about the Dragon Hourglass. Her outfit is designed for frontal assault, supporting her as she charges into battle, relying on her innate ability to make quick decisions.",
+        "fullname": "Judith Volltone",
+        "leader_skill": {
+          "description": "Boosts the critical damage of characters with Fire affinity by 25%.",
+          "name": "Burnt to a Crisp!"
+        },
+        "name": "Judie",
+        "overlay_name": "Judith Volltone",
+        "profile_voice_text": "I've got a few tricks up my sleeve for battle. Watch out for them!",
+        "start_at": "2025-01-22T03:00:00Z"
+      },
+      {
+        "id": 16501,
+        "acquisition_text": "One carrot, two carrots...\nOh, hello! You found me!",
+        "another_name": "Carrot-Lover from Karotte",
+        "description": "An alchemist from Karotte Village who loves carrots, her hometown's specialty. She grows carrots herself and is always trying to get people to eat more of them. She is very opinionated when it comes to carrots, insisting that one cannot live without them.",
+        "fullname": "Viorate Platane",
+        "leader_skill": {
+          "description": "Boosts Chef characters' P. ATK and M. ATK by 25%.",
+          "name": "I Love Carrots!"
+        },
+        "name": "Viorate",
+        "overlay_name": "Viorate Platane",
+        "profile_voice_text": "I just love carrots. I make sure to eat them with every meal!",
+        "start_at": "2024-01-25T03:00:00Z"
+      },
+      {
+        "id": 22001,
+        "acquisition_text": "If I can be of use...\nNo, I'm sure I can pull my weight.",
+        "another_name": "The Power to Grant Wishes",
+        "description": "A student of the alchemy Academy.\nThrough his time at the Academy, he has reevaluated himself and is now on a journey to find what he wants to do.\nQuiet and perhaps a bit too kind-hearted, he sometimes gets caught up in the problems of others. He used to be shy around people but was able to open up with the help of his schoolmates.",
+        "fullname": "Vayne Aurelius",
+        "leader_skill": {
+          "description": "Boosts all allies' M. ATK by 10%.",
+          "name": "Artificial Mana"
+        },
+        "name": "Vayne",
+        "overlay_name": "Vayne Aurelius",
+        "profile_voice_text": "I'm still not sure what I want to accomplish as an alchemist. But I know I want to help people out.",
+        "start_at": "2024-01-25T03:00:00Z"
+      },
+      {
+        "id": 23501,
+        "acquisition_text": "Sheesh, things aren't lookin' up for me again.\nSorry, but I'm going to need to tag along.",
+        "another_name": "Sword of Light",
+        "description": "A reserved and direct alchemist.\nHe used to serve a young lady of a prominent family, but now that he is free, he is on a journey for self-discovery.\nDespite seeming unfriendly, he is surprisingly good at taking care of others. He is a capable fighter thanks to the sword skills his grandfather drilled into him at an early age.",
+        "fullname": "Razeluxe Meitzen",
+        "leader_skill": {
+          "description": "Boosts all allies' P. ATK by 10%.",
+          "name": "Combat Arts Department"
+        },
+        "name": "Raze",
+        "overlay_name": "Razeluxe Meitzen",
+        "profile_voice_text": "In my world, I made my living as the servant of a mansion. So, what can I get up to here?",
+        "start_at": "2024-01-25T03:00:00Z"
+      },
+      {
+        "id": 25501,
+        "acquisition_text": "I might be able to make a new assortment of pies for you!\nPlease take me along with you!",
+        "another_name": "5-Star Pie Meister",
+        "description": "A bright and energetic alchemist.\nShe has an extraordinary passion for making pies, and is constantly working on her skills so that she can delight people with her pies.\nShe's a bit clumsy and can be air-headed, but she has a positive outlook and works hard.",
+        "fullname": "Rorolina Frixell",
+        "leader_skill": {
+          "description": "Boosts all allies' battle item damage by 20% for each Arland character in the party.",
+          "name": "Go with a Bang!"
+        },
+        "name": "Rorona",
+        "overlay_name": "Rorolina Frixell",
+        "profile_voice_text": "Heehee, I love making pies every day. Working at this cafe was the right choice!",
+        "start_at": "2024-01-25T03:00:00Z"
+      },
+      {
+        "id": 25502,
+        "acquisition_text": "Ehehe, I tried changing up my style a bit! Let's get going!",
+        "another_name": "Falling Snow",
+        "description": "A bright and energetic alchemist. Headed to an unusually snowy capital, she's bundled up in warmer clothes than usual. While she's a bit worried about whether it suits her, she's still excited about the change in style. She's particularly fond of the fluffy hat.",
+        "fullname": "Rorolina Frixell",
+        "leader_skill": {
+          "description": "Boosts Seasonal characters' critical damage by 30%.",
+          "name": "Nice Warm Outfit"
+        },
+        "name": "Rorona",
+        "overlay_name": "Rorolina Frixell",
+        "profile_voice_text": "I'm going for a mature and composed look with this...\nDo you think it works?",
+        "start_at": "2024-06-03T03:00:00Z"
+      },
+      {
+        "id": 25503,
+        "acquisition_text": "Welcome to Lantarna Academy! Let's all behave and enjoy school life together!",
+        "another_name": "Joyful Leader",
+        "description": "A second-year alchemy student at Lantarna Academy who serves as the class president. She's sincere, kind, and can't say no to a student in need. She tries to do it all and live up to her class president role, but her airheaded side peeks out from time to time.",
+        "fullname": "Rorolina Frixell",
+        "leader_skill": {
+          "description": "Boosts Resleriana Academy characters' skill damage and stun damage by 50%.",
+          "name": "Hardworking Class President"
+        },
+        "name": "Rorona",
+        "overlay_name": "Rorolina Frixell",
+        "profile_voice_text": "I'm Rorona of Lantarna Academy. If there's anything you'd like to know, you can ask me any time.",
+        "start_at": "2024-08-05T03:00:00Z"
+      },
+      {
+        "id": 25504,
+        "acquisition_text": "Ready for battle! Rorona the alchemist, prepared to give it my all!",
+        "another_name": "Sweetie Rabbit",
+        "description": "A bright and energetic alchemist. She loves alchemy and is very particular when it comes to pies. She is wearing a functional and sturdy outfit as she works alongside Marie to synthesize bombs in preparation for the battle with the Polar Night Alchemists. Even while synthesizing bombs, her unique ideas never fail to surprise those around her.",
+        "fullname": "Rorolina Frixell",
+        "leader_skill": {
+          "description": "Whimsical characters restore their own HP by 5% at the start of the turn. Also boosts their skill damage and stun damage by 20%.",
+          "name": "Pie Meister's Specialty"
+        },
+        "name": "Rorona",
+        "overlay_name": "Rorolina Frixell",
+        "profile_voice_text": "This outfit makes me feel like a really capable alchemist, and I think it's rather stylish, too!",
+        "start_at": "2024-11-18T03:00:00Z"
+      },
+      {
+        "id": 25601,
+        "acquisition_text": "You're startin' to cheese me off.\nFine, I'll come along if you're that anxious.",
+        "another_name": "Noblewoman",
+        "description": "A noblewoman who finds it hard to talk about her feelings. She often worries about her childhood friend, the alchemist Rorona, and tries to take care of her. Though short-tempered, her brusque demeanor belies a loving heart. She is self-conscious about her small size and hates discussing her height.",
+        "fullname": "Cordelia von Feuerbach",
+        "leader_skill": {
+          "description": "Grants Prim characters a high chance to inflict Poison on target for 1 turn after attacking, and boosts their skill damage dealt to poisoned attack targets by 50%.",
+          "name": "Hey, How Tall Are You?"
+        },
+        "name": "Cordelia",
+        "overlay_name": "Cordelia von Feuerbach",
+        "profile_voice_text": "My name is Cordelia. Looks like I'll have to stay strong here too.",
+        "start_at": "2024-01-25T03:00:00Z"
+      },
+      {
+        "id": 25801,
+        "acquisition_text": "The best ingredients are the ones you seek out yourself.\nOnward to good eats!",
+        "another_name": "Fighting Chef",
+        "description": "A passionate chef.\nHe is in charge of the kitchen at a cafe in the royal capital. His favorite frying pan, which he uses for cooking, at times doubles as a weapon against monsters.\nHe often accompanied his childhood friend, the alchemist Rorona, on her gathering expeditions, helping her out whenever she messed things up. He has a mature disposition but hates to lose and can become heated in competitions.",
+        "fullname": "Iksel Jahnn",
+        "leader_skill": {
+          "description": "Boosts Chef characters' skill damage and stun damage by 30%.",
+          "name": "Handpicked Harvest"
+        },
+        "name": "Iksel",
+        "overlay_name": "Iksel Jahnn",
+        "profile_voice_text": "I used to do a lot of cooking in my own world, too. So I think helping at the cafe could be a really worthwhile experience.",
+        "start_at": "2024-01-25T03:00:00Z"
+      },
+      {
+        "id": 25901,
+        "another_name": "Noble Swordsman",
+        "description": "A hardworking former knight who once served the country of Arland. Although he no longer holds the title of knight, he continues to live by his knightly principles, taking on roles such as bodyguard and monster slayer. He's serious and dedicated, but his awkwardness and quiet nature often make people think he is more intimidating than he really is.",
+        "fullname": "Sterkenburg Cranach",
+        "leader_skill": {
+          "description": "Boosts Arland characters' skill damage by 30%.",
+          "name": "Teachings of Chivalry"
+        },
+        "name": "Sterk",
+        "overlay_name": "Sterkenburg Cranach",
+        "profile_voice_text": "In my world, I lost my status as a knight. However, the things I must do remain unchanged.",
+        "start_at": "2024-06-03T03:00:00Z"
+      },
+      {
+        "id": 26501,
+        "acquisition_text": "Looking for a companion on your journey?\nJust leave it to me!",
+        "another_name": "Reliable Receptionist",
+        "description": "A receptionist who worked in the royal palace of a certain kingdom.\nShe has experience in covert operations and uses her skills to conduct various investigations.\nShe is talkative, cheerful, and good-natured but worries that she has no life outside her work.",
+        "fullname": "Esty Dee",
+        "leader_skill": {
+          "description": "Boosts Slash, Strike, and Stab affinity characters' skill damage and stun damage by 20%.",
+          "name": "Trickster"
+        },
+        "name": "Esty",
+        "overlay_name": "Esty Dee",
+        "profile_voice_text": "My name is Esty. In my world, I worked as a palace receptionist. It's nice to meet you!",
+        "start_at": "2024-01-25T03:00:00Z"
+      },
+      {
+        "id": 26901,
+        "acquisition_text": "There's somewhere I need to go.\nPlease—you've GOT to take me along!",
+        "another_name": "Daughter of a Powerful Lady",
+        "description": "An alchemist from a fishing village.\nWith the goal of traveling outside the continent, she currently works in the bay area of the royal capital. \nAlthough she is usually quite gentle, she may sometimes unintentionally demoralize others by speaking her mind without thinking.",
+        "fullname": "Totooria Helmold",
+        "leader_skill": {
+          "description": "Boosts Arland characters' P. DEF and M. DEF by 25%.",
+          "name": "Shadow of the Greatest"
+        },
+        "name": "Totori",
+        "overlay_name": "Totooria Helmold",
+        "profile_voice_text": "I used to be an adventurer back in my world. I'll try to make myself useful around here.",
+        "start_at": "2024-01-25T03:00:00Z"
+      },
+      {
+        "id": 26902,
+        "acquisition_text": "I picked out something a bit different to wear than usual. Let's have a fun outing!",
+        "another_name": "Snow Adventurer",
+        "description": "An alchemist from a fishing village. Hearing that it snowed in the capital, which hardly ever happens, she decided to dress up warmer than usual and head out with Rorona. She chose her outfit for a more composed, mature look, but the sight of the snow brings back her childish heart as she frolics in the snow.",
+        "fullname": "Totooria Helmold",
+        "leader_skill": {
+          "description": "Boosts Adventurer characters' P. ATK, M. ATK, P. DEF, and M. DEF by 15%.",
+          "name": "Let's Get Dressed Up"
+        },
+        "name": "Totori",
+        "overlay_name": "Totooria Helmold",
+        "profile_voice_text": "How do you think I look in this? I hope I don't look childish...",
+        "start_at": "2024-06-03T03:00:00Z"
+      },
+      {
+        "id": 26903,
+        "acquisition_text": "A sailor, adventurer, and alchemist all in one! Let's go together! To the ends of the world!",
+        "another_name": "Hopeful Sailor",
+        "description": "An alchemist who grew up by the sea. She has always dreamed of seeing what lies beyond the horizon, always longing to sail the seas. Now her wish has come true, and she even had her mentor, Rorona, help her prepare new clothes for the journey. She has experience piloting a ship in her original world, and her sailing skills have been approved by Lanze.",
+        "fullname": "Totooria Helmold",
+        "leader_skill": {
+          "description": "Boosts Family & Friends characters' burst skill damage by 100%.",
+          "name": "Strength of a Voyager"
+        },
+        "name": "Totori",
+        "overlay_name": "Totooria Helmold",
+        "profile_voice_text": "Keep her steady! I'm the resident adventurer and alchemist of this ship!",
+        "start_at": "2024-08-23T03:00:00Z"
+      },
+      {
+        "id": 27001,
+        "acquisition_text": "Here at Lantarna Academy, I will prove my own worth!",
+        "another_name": "Lonely Glory",
+        "description": "A new student in the Alchemy department at Lantarna Academy. She is the daughter of a noble who, refusing to rely on her family's influence, passed the academy entrance exams on her own merits. A diligent student, she excels not only in alchemy but also all her other subjects. An exemplary student without fault, she is polite to both her seniors and her classmate Resna.",
+        "fullname": "Mimi Houllier von Schwarzlang",
+        "leader_skill": {
+          "description": "Boosts Arland characters' skill damage and stun damage by 50%.",
+          "name": "The Result of Diligent Practice"
+        },
+        "name": "Mimi",
+        "overlay_name": "Mimi Houllier von Schwarzlang",
+        "profile_voice_text": "I'm Mimi. I will achieve results I can be proud of as a student of this academy.",
+        "start_at": "2024-07-26T03:00:00Z"
+      },
+      {
+        "id": 28401,
+        "acquisition_text": "You don't need to call for me to come running!\nMeruru the alchemist, at your service!",
+        "another_name": "Powerful Princess",
+        "description": "A princess turned alchemist. Though she was once next in line to the throne of a certain country, she now travels the land freely. Her dream is to accomplish something great with her alchemy. She is cheerful and proactive to a fault, and often ends up acting without thinking things through.",
+        "fullname": "Merurulince Rede Arls",
+        "leader_skill": {
+          "description": "Boosts all allies' battle item damage by 20% for each Spirited character in the party.",
+          "name": "Positive Thinking Princess"
+        },
+        "name": "Meruru",
+        "overlay_name": "Merurulince Rede Arls",
+        "profile_voice_text": "Everyone calls me Meruru. Nice to meet you.",
+        "start_at": "2024-01-25T03:00:00Z"
+      },
+      {
+        "id": 28402,
+        "acquisition_text": "It's almost time for the party! Come on, let's go!",
+        "another_name": "Damsel in Distress",
+        "description": "A princess turned alchemist. She turned her back on everything she knew, setting out on a grand adventure, to accomplish something even greater with alchemy. As a former royal, she is no stranger to fashionable clothing, but her energetic nature means that she'll rush headlong into her tasks without a care for how dirty her dress gets.",
+        "fullname": "Merurulince Rede Arls",
+        "leader_skill": {
+          "description": "Boosts Prim characters' M. ATK and M. DEF by 25%.",
+          "name": "Charming Royalty"
+        },
+        "name": "Meruru",
+        "overlay_name": "Merurulince Rede Arls",
+        "profile_voice_text": "I may not be a princess anymore, but I haven't forgotten my manners!",
+        "start_at": "2024-02-26T03:00:00Z"
+      },
+      {
+        "id": 29201,
+        "acquisition_text": "Your pain, your suffering...\nI'll heal it all away!",
+        "another_name": "MARIA of Dusk",
+        "description": "A soft-hearted, compassionate alchemist.\nShe makes medicines for residents suffering from injuries and illnesses, and takes care of Valeria, who is often covered in wounds.\nShe is friendly and has a gentle nature, but can be a bit of an airhead. She is very curious and is quick to act when something interests her.",
+        "fullname": "Ayesha Altugle",
+        "leader_skill": {
+          "description": "Boosts all allies' stun damage by 10%.",
+          "name": "Garden of Memories"
+        },
+        "name": "Ayesha",
+        "overlay_name": "Ayesha Altugle",
+        "profile_voice_text": "I used to work as an apothecary, so leave the medicine to me.",
+        "start_at": "2024-01-25T03:00:00Z"
+      },
+      {
+        "id": 29202,
+        "acquisition_text": "So long as there are people in need of medicine,\nI'm happy to serve as your apothecary!",
+        "another_name": "Noble Flower",
+        "description": "A warmhearted alchemist with a calming presence. Thanks to an incident that gave her the chance to display her knowledge of medicine, she now works as an apothecary in the royal palace. This is the outfit she was given for her new role. Though her position and attire have changed, her kind and sisterly nature remains the same as always.",
+        "fullname": "Ayesha Altugle",
+        "leader_skill": {
+          "description": "Boosts Bolt affinity characters' P. ATK, M. ATK, P. DEF, and M. DEF by 10%.",
+          "name": "Royal Apothecary"
+        },
+        "name": "Ayesha",
+        "overlay_name": "Ayesha Altugle",
+        "profile_voice_text": "This was my first time ever inside a castle.\nI hope my outfit doesn't look \ntoo out of place...",
+        "start_at": "2024-05-06T03:00:00Z"
+      },
+      {
+        "id": 29203,
+        "acquisition_text": "Are you injured? Let me heal you up!",
+        "another_name": "Twilight Fairy",
+        "description": "A gentle alchemist with a soothing touch. In preparation for the upcoming battle against the Polar Night Alchemists, she has joined the medical team that prepares restorative medicines. This outfit was a gift from Roman to help her perform her duties more comfortably. Despite her calm and relaxed demeanor, she has the courage to dive into dangerous places to gather ingredients for her medicine.",
+        "fullname": "Ayesha Altugle",
+        "leader_skill": {
+          "description": "Boosts Whimsical characters' skill damage and stun damage by 50%.",
+          "name": "Secret Elixir of Strength"
+        },
+        "name": "Ayesha",
+        "overlay_name": "Ayesha Altugle",
+        "profile_voice_text": "Wearing this outfit helps me feel focused. I'll make sure to fulfill my duties and not let anyone down!",
+        "start_at": "2024-12-04T03:00:00Z"
+      },
+      {
+        "id": 29301,
+        "acquisition_text": "You seek my power? Very well!\nEntrust your needs to the Great Witch, Wilbell!",
+        "another_name": "Magical Trick Star",
+        "description": "A young witch. She journeys far and wide for her training, aiming to one day become a powerful magician just like her revered great-great grandmother. Full of vigor and zeal, she can sometimes be a little childish, and other times she takes on an air of grandeur.",
+        "fullname": "Wilbell Voll-Ersleid",
+        "leader_skill": {
+          "description": "Boosts Spirited characters' skill damage and stun damage by 30%.",
+          "name": "Great Witch Wilbell"
+        },
+        "name": "Wilbell",
+        "overlay_name": "Wilbell Voll-Ersleid",
+        "profile_voice_text": "Oh! Make sure not to tell anyone I can use magic!",
+        "start_at": "2024-03-07T03:00:00Z"
+      },
+      {
+        "id": 29302,
+        "acquisition_text": "An infiltration mission? Leave it to me! I'll light up the way to success with my magic!",
+        "another_name": "Witch in the dark",
+        "description": "A young witch who aspires to become a full-fledged Great Witch. She often takes on a haughty attitude, but she has a kind heart and a lovable, cheerful personality. Although she tries to hide her identity as a witch, she actually dresses like one to avoid suspicion. She is particularly fond of this outfit, which allows her to blend perfectly into the darkness—ideal for a witch.",
+        "fullname": "Wilbell Voll-Ersleid",
+        "leader_skill": {
+          "description": "Boosts all Justice & Exploration characters' critical damage by 35%, and they restore own HP by 5% when hit by an attack.",
+          "name": "Danger? No Problem"
+        },
+        "name": "Wilbell",
+        "overlay_name": "Wilbell Voll-Ersleid",
+        "profile_voice_text": "I already live my life hiding my true identity as a witch. Infiltration will be a breeze for me!",
+        "start_at": "2024-10-10T03:00:00Z"
+      },
+      {
+        "id": 29401,
+        "acquisition_text": "Just leave it to me!\nI'll uncover an incredible treasure, just you watch!",
+        "another_name": "Excavation Expert",
+        "description": "A skilled excavation expert. An old acquaintance of Ayesha and her sister Nio, she acts as a sort of guardian to them, often accompanying them on their adventures. She is caring and dependable. While skilled in manual labor, she also has a homier side, excelling at cooking and sewing.",
+        "fullname": "Regina Kurtis",
+        "leader_skill": {
+          "description": "Boosts all allies' P. ATK by 7% for each Nurturer character in the party.",
+          "name": "Big Family's Big Sister"
+        },
+        "name": "Regina",
+        "overlay_name": "Regina Kurtis",
+        "profile_voice_text": "Regina the Prospector is here for all your treasure-hunting needs! Hehe.",
+        "start_at": "2024-03-07T03:00:00Z"
+      },
+      {
+        "id": 29501,
+        "acquisition_text": "If you're looking for a bodyguard, look no further.\nI won't let the enemy lay a finger on you.",
+        "another_name": "Assistant Squad Leader",
+        "description": "A simple and honest swordswoman. She is an accomplished warrior and has been trained in the art of combat since childhood. She puts her training to good use by working as a bodyguard. While her sword skills are impressive, she lacks common sense and basic survival skills, often causing concern for those around her.",
+        "fullname": "Linca",
+        "leader_skill": {
+          "description": "Boosts Slash affinity characters' P. ATK, M. ATK, P. DEF, and M. DEF by 10%.",
+          "name": "Trust in My Sword"
+        },
+        "name": "Linca",
+        "overlay_name": "Linca",
+        "profile_voice_text": "I'm pretty confident in my sword skills. And I'm even stronger after a good meal.",
+        "start_at": "2024-01-25T03:00:00Z"
+      },
+      {
+        "id": 29502,
+        "acquisition_text": "A new mission? Excellent, leave it to me! Huh? You want me to wear this outfit?",
+        "another_name": "Valkyrie of the Sun",
+        "description": "An experienced swordswoman. She has exceptional fighting skills and is often asked by Marion and others to serve as their bodyguard. She's serious and straightforward, and would rather wear nothing than dress up. At first she was reluctant to wear this armor, but after experiencing its functionality, she's come to appreciate it to a certain degree.",
+        "fullname": "Linca",
+        "leader_skill": {
+          "description": "Boosts all allies' Burn resistance by 100% and boosts their skill damage by 50% when their attack target is burning.",
+          "name": "Crimson Swordswoman"
+        },
+        "name": "Linca",
+        "overlay_name": "Linca",
+        "profile_voice_text": "According to Marion, this armor combines style with functionality.",
+        "start_at": "2024-09-13T03:00:00Z"
+      },
+      {
+        "id": 29601,
+        "acquisition_text": "I want to be useful to everyone...\nJust like my big sis!",
+        "another_name": "Charming Sister",
+        "description": "An apprentice apothecary. She is the younger sister of the alchemist Ayesha. She often spends her time helping her sister or heading out to investigate ruins. Unlike her light-hearted sister, Nio has a much more serious personality. This often leads her to work too hard and worry those around her.",
+        "fullname": "Nio Altugle",
+        "leader_skill": {
+          "description": "Boosts all allies' skill damage and stun damage by 7% for each Diligent character in the party.",
+          "name": "Dependable"
+        },
+        "name": "Nio",
+        "overlay_name": "Nio Altugle",
+        "profile_voice_text": "I'm Nio, Ayesha Altugle's little sister! We're both happy to be here.",
+        "start_at": "2024-03-07T03:00:00Z"
+      },
+      {
+        "id": 29701,
+        "acquisition_text": "Another new job?\nFine... Just leave it to me!",
+        "another_name": "Leader of the Development Squad",
+        "description": "A talented investigator and a dedicated worker.\nShe is interested in the phenomenon of \"wanderers\" appearing in this world, and is currently investigating it. She often complains about her work, but she is a diligent worker who always completes her tasks.\nHer strong will helps her overcome any and all adversity.",
+        "fullname": "Marion Quinn",
+        "leader_skill": {
+          "description": "Boosts Colseit characters' P. ATK, M. ATK, P. DEF, and M. DEF by 15%.",
+          "name": "Official's Spirit"
+        },
+        "name": "Marion",
+        "overlay_name": "Marion Quinn",
+        "profile_voice_text": "My name is Marion Quinn. I spend most of my time on investigative missions.",
+        "start_at": "2024-01-25T03:00:00Z"
+      },
+      {
+        "id": 29702,
+        "acquisition_text": "I can't just leave everything to the development team. I need to step up and help!",
+        "another_name": "Bullet of Ink",
+        "description": "A diligent worker who investigates wanderers. Saskia has also entrusted her with management of the atelier. Due to her strong administrative skills and constant perseverance, more and more work is always sent her way. Since her arms are always covered with ink from all the documents she works on, this outfit with arm covers has proven to be very practical for her.",
+        "fullname": "Marion Quinn",
+        "leader_skill": {
+          "description": "Boosts Diligent characters' P. DEF and M. DEF by 25%.",
+          "name": "Slow and Steady"
+        },
+        "name": "Marion",
+        "overlay_name": "Marion Quinn",
+        "profile_voice_text": "I was the head of the development team in my world. Taking on too much work is a bad habit of mine.",
+        "start_at": "2024-10-01T03:00:00Z"
+      },
+      {
+        "id": 29801,
+        "acquisition_text": "Do let me know if I can be of any assistance.\nI'm a top-of-the-line automata, after all.",
+        "another_name": "Ancient Machina Doll",
+        "description": "A high-performance automaton created in ancient times. She once worked as an assistant to a certain alchemist, but now travels on her own. She may not display much emotion, but she loves sweets and can show a strong attachment to them.",
+        "fullname": "Odelia",
+        "leader_skill": {
+          "description": "Grants Sweets characters a high chance to inflict Paralysis on target for 1 turn after attacking, and boosts their skill damage dealt to paralyzed attack targets by 50%.",
+          "name": "You'll Get Cavities!"
+        },
+        "name": "Odelia",
+        "overlay_name": "Odelia",
+        "profile_voice_text": "I am Odelia, a high-performance automaton created in the distant past.",
+        "start_at": "2024-01-25T03:00:00Z"
+      },
+      {
+        "id": 29901,
+        "acquisition_text": "Come along, or don't—it makes no difference to me.\nI've got my own business that needs handling.",
+        "another_name": "Seeker of Knowledge",
+        "description": "An alchemist in pursuit of truth.\nHe is interested in the history of alchemy on the continent of Lantarna and is conducting research in various regions. He is a skilled alchemist, but his techniques are a little rough.\nHe prefers people who seek answers on their own and has no time for those who look for easy solutions.",
+        "fullname": "Keithgriff Hazeldine",
+        "leader_skill": {
+          "description": "Boosts Quiet characters' skill damage by 35% when attack target is stunned.",
+          "name": "Truth is Something You Seek and Seize"
+        },
+        "name": "Keithgriff",
+        "overlay_name": "Keithgriff Hazeldine",
+        "profile_voice_text": "This world is so intriguing. Maybe I can find what I've been searching for here.",
+        "start_at": "2024-01-25T03:00:00Z"
+      },
+      {
+        "id": 30901,
+        "acquisition_text": "If you think my abilities can be of any help,\nplease take me along with you!",
+        "another_name": "Endless Tarts",
+        "description": "A bright and earnest alchemist.\nShe used to work as a government official, conducting research projects in undeveloped areas. Currently, she travels around the continent with her former colleagues.\nShe is polite and diligent in everything she does. Her dream is to make people happy using alchemy.",
+        "fullname": "Escha Malier",
+        "leader_skill": {
+          "description": "Boosts Colseit characters' P. ATK and M. ATK by 25%.",
+          "name": "Development Team's Super Energetic Girl"
+        },
+        "name": "Escha",
+        "overlay_name": "Escha Malier",
+        "profile_voice_text": "I used to work for the government back home. I think my experience will come in handy!",
+        "start_at": "2024-01-25T03:00:00Z"
+      },
+      {
+        "id": 30902,
+        "acquisition_text": "Welcome home, Master!\nH-How was that? Am I doing it right?",
+        "another_name": "Sweet Monochrome",
+        "description": "A cheerful and earnest alchemist. In the Kingdom of Lantarna, there's an annual event called the Linde Festival, where people gift chocolates to their loved ones. Escha has been selected to liven up the event, chosen for her experience in making treats. Dressed in an outfit perfect for the occasion, she begins her efforts to spice up the Linde Festival. She's also planning to give her own chocolates to someone very special!",
+        "fullname": "Escha Malier",
+        "leader_skill": {
+          "description": "Boosts Chef characters' P. ATK, M. ATK, P. DEF, and M. DEF by 15%.",
+          "name": "Say \"Aah\"!"
+        },
+        "name": "Escha",
+        "overlay_name": "Escha Malier",
+        "profile_voice_text": "This outfit is really cute, but do you think it looks okay on me?",
+        "start_at": "2024-05-27T03:00:00Z"
+      },
+      {
+        "id": 30903,
+        "acquisition_text": "A job request? Of course! Just leave it to me!",
+        "another_name": "Challenging Worker",
+        "description": "A hardworking and earnest alchemist. In her original world, she was a government official working under Marion. Even now, Marion often asks her for help. She is not very good at paperwork, but she finds that she gets more of it done than usual when she wears this outfit that Marion prepared for her.",
+        "fullname": "Escha Malier",
+        "leader_skill": {
+          "description": "Boosts Colseit characters' skill damage and stun damage by 50%.",
+          "name": "Ready to Help!"
+        },
+        "name": "Escha",
+        "overlay_name": "Escha Malier",
+        "profile_voice_text": "Wearing this outfit makes me feel ready for anything. I'll do my best to meet expectations!",
+        "start_at": "2024-10-01T03:00:00Z"
+      },
+      {
+        "id": 31001,
+        "acquisition_text": "Our meeting here must be destiny.\nLet me help you in achieving your dreams.",
+        "another_name": "Alchemist of Dusk",
+        "description": "A kind and caring alchemist.\nHe is a user of the \"Alchemic Sword\", which is a combination of swordsmanship and alchemy. He travels the world, interested in all unexplored regions.\nHe may come across as aloof, but a passionate dream burns inside his heart.",
+        "fullname": "Logix Ficsario",
+        "leader_skill": {
+          "description": "Boosts all allies' skill damage by 10%.",
+          "name": "Central-Trained Leadership"
+        },
+        "name": "Logy",
+        "overlay_name": "Logix Ficsario",
+        "profile_voice_text": "I'm Logy. I worked for the government in development back in my world.",
+        "start_at": "2024-01-25T03:00:00Z"
+      },
+      {
+        "id": 31002,
+        "acquisition_text": "I want to support those who journey directly toward their dreams.",
+        "another_name": "Twilight Order",
+        "description": "A kindhearted and caring alchemist.\nHe is interested in the unexplored territories of this world and is investigating the Apexi that plague them. In the process, he ends up assisting the Royal Knights, donning an outfit similar to their own.\nImpressed by Juna's chivalry, he has resolved to fight for the people.",
+        "fullname": "Logix Ficsario",
+        "leader_skill": {
+          "description": "Boosts Knight characters' M. ATK and M. DEF by 25%.",
+          "name": "Dusk Knight"
+        },
+        "name": "Logy",
+        "overlay_name": "Logix Ficsario",
+        "profile_voice_text": "I'm assisting this country's knights, so I changed my outfit. Just enough to not stand out too much, though.",
+        "start_at": "2024-05-20T03:00:00Z"
+      },
+      {
+        "id": 32201,
+        "acquisition_text": "Your dreams...\nLet me help you make them all come true!",
+        "another_name": "Chief's Daughter",
+        "description": "An alchemist on a mission for her family.\nThe mana shortage on this continent seems to be similar to the situation in her hometown, which is experiencing a water shortage, and she is traveling to find clues that will save her hometown.\nShe is responsible, courageous, and hard-working, though she can sometimes be a bit stubborn.",
+        "fullname": "Shallistera",
+        "leader_skill": {
+          "description": "Boosts all Promise & Teamwork characters' skill damage and stun damage by 30%.",
+          "name": "Strong Will"
+        },
+        "name": "Shallistera",
+        "overlay_name": "Shallistera",
+        "profile_voice_text": "I have to do whatever it takes to save my hometown.",
+        "start_at": "2024-01-25T03:00:00Z"
+      },
+      {
+        "id": 32202,
+        "acquisition_text": "Y-You think this suits me?\nEhehe, thanks. Come on, let's go!",
+        "another_name": "School Maiden",
+        "description": "An alchemist on an important mission from her village. She's best friends with Shallotte, another alchemist, and together they've faced many challenges in their world. This outfit was chosen to complement Shallotte's. She's excited about the idea of going on adventures with her best friend in this new world.",
+        "fullname": "Shallistera",
+        "leader_skill": {
+          "description": "Boosts Fire affinity characters' P. ATK, M. ATK, P. DEF, and M. DEF by 10%.",
+          "name": "Like the Sun"
+        },
+        "name": "Shallistera",
+        "overlay_name": "Shallistera",
+        "profile_voice_text": "I don't usually wear cute outfits like this...\nbut do you think it looks okay on me?",
+        "start_at": "2024-05-13T03:00:00Z"
+      },
+      {
+        "id": 32301,
+        "acquisition_text": "Hmm? It's my turn?\nFinally my time to shine!",
+        "another_name": "Girls' Ambition",
+        "description": "An alchemist with grand ambitions. She met Shallistera in her hometown of Stellard, and they became best friends while spending time together. She's driven by the desire to accomplish something great in this world. While she's always cheerful and energetic, her impulsiveness sometimes leads her into trouble.",
+        "fullname": "Shallotte Elminus",
+        "leader_skill": {
+          "description": "Boosts Energetic characters' skill damage by 50% when attack target is stunned.",
+          "name": "Born Optimist"
+        },
+        "name": "Shallotte",
+        "overlay_name": "Shallotte Elminus",
+        "profile_voice_text": "Got a problem? Bring it to Alchemist Shallotte!\nI'll sort it out in a jiffy!",
+        "start_at": "2024-05-13T03:00:00Z"
+      },
+      {
+        "id": 33001,
+        "another_name": "Smiling Mother",
+        "description": "Shallotte's mother. She's usually the quiet support behind her daughter, but every now and then she embarks on an adventure of her own. She's incredibly kind and always puts Shallotte first, showing unwavering faith in her daughter. Despite her calm and collected exterior, she's surprisingly courageous.",
+        "fullname": "Nady Elminus",
+        "leader_skill": {
+          "description": "All allies restore own HP by 3% after using a skill.",
+          "name": "Gift of Sweets"
+        },
+        "name": "Nady",
+        "overlay_name": "Nady Elminus",
+        "profile_voice_text": "I'm Nady Elminus. I hope you'll be kind\nto me and my daughter Shallotte.",
+        "start_at": "2024-05-13T03:00:00Z"
+      },
+      {
+        "id": 33401,
+        "acquisition_text": "Tell me what your wildest dreams are!",
+        "another_name": "Profuse Phronesis",
+        "description": "A somewhat childish alchemist. Determined to help others through alchemy, she journeys far and wide, assisting those she comes across. Her sunny disposition puts people around her at ease, but she is rather sloppy when it comes to her own personal space. If she can turn a blind eye to whatever cleaning needs to be done, she will.",
+        "fullname": "Sophie Neuenmuller",
+        "leader_skill": {
+          "description": "Boosts Kirchen Bell characters' P. ATK, M. ATK, P. DEF, and M. DEF by 15%.",
+          "name": "Top Gourmet"
+        },
+        "name": "Sophie",
+        "overlay_name": "Sophie Neuenmuller",
+        "profile_voice_text": "Our alchemy works by listening to the voices of the materials and granting their wishes.",
+        "start_at": "2024-01-31T03:00:00Z"
+      },
+      {
+        "id": 33402,
+        "acquisition_text": "Wanna learn alchemy, you say? My training is tough—can you keep up?",
+        "another_name": "Mighty Boss",
+        "description": "A second-year student in the Alchemy department at Lantarna Academy. She runs a place she inherited from her grandmother called the Sunshine Society, where she takes care of outcasts. Although they affectionately call her \"Boss,\" she doesn't quite agree with the title. Her peculiar attire might make her look intimidating, but she's actually kindhearted and cares deeply for her friends.",
+        "fullname": "Sophie Neuenmuller",
+        "leader_skill": {
+          "description": "Boosts all allies' P. ATK and M. ATK by 8% for each Kirchen Bell character in the party.",
+          "name": "Grandma's Alchemy Training"
+        },
+        "name": "Sophie",
+        "overlay_name": "Sophie Neuenmuller",
+        "profile_voice_text": "I'm Sophie. Everyone calls me boss, but you don't need to be scared, 'kay?",
+        "start_at": "2024-07-16T03:00:00Z"
+      },
+      {
+        "id": 33403,
+        "acquisition_text": "My alchemy is here to help everyone. I'll protect your dreams too!",
+        "another_name": "Pure Angel",
+        "description": "A cheerful and lively alchemist. She is assisting Ayesha in preparing restorative medicines for the battle against the Polar Night Alchemists. This outfit was a gift from Roman to help her perform her duties more comfortably. She takes great joy in using alchemy to help others and finds immense fulfillment in her work.",
+        "fullname": "Sophie Neuenmuller",
+        "leader_skill": {
+          "description": "Boosts Justice & Exploration characters' P. ATK, M. ATK, P. DEF, and M. DEF by 30%.",
+          "name": "I'll Help Those in Pain!"
+        },
+        "name": "Sophie",
+        "overlay_name": "Sophie Neuenmuller",
+        "profile_voice_text": "This outfit symbolizes the expectations placed on me. I have to do everything I can to live up to them!",
+        "start_at": "2024-12-04T03:00:00Z"
+      },
+      {
+        "id": 33501,
+        "acquisition_text": "The road to becoming an alchemist isn't traveled in a day. So, you should come with me!",
+        "another_name": "Mysterious Doll",
+        "description": "An alchemist with a doll's body. While she was human, certain circumstances required her to migrate her soul into another vessel. Sophie, a fellow alchemist, is both her pupil and her best friend. Her personality is generally a combination of sedate and serious, but she has a surprisingly excitable side.",
+        "fullname": "Plachta",
+        "leader_skill": {
+          "description": "Boosts Mentor characters' skill damage and stun damage by 30%.",
+          "name": "Knowledge of Everything"
+        },
+        "name": "Plachta",
+        "overlay_name": "Plachta",
+        "profile_voice_text": "I've lost so much. The only reason I'm able to be here at all is thanks to Sophie.",
+        "start_at": "2024-01-31T03:00:00Z"
+      },
+      {
+        "id": 33502,
+        "acquisition_text": "Everything in life is a challenge.\nSo come on, let's go collect some sweets!",
+        "another_name": "Bewitching Vampire",
+        "description": "An alchemist who transferred her soul into a doll. The doll's body requires regular maintenance, which is usually done by Sophie. Updating her outfit and parts during this maintenance allows for various changes to Plachta's abilities. This outfit specializes in mischief, and when combined with the creativity fostered by alchemy, it is great at surprising those around her.",
+        "fullname": "Plachta",
+        "leader_skill": {
+          "description": "Boosts Kirchen Bell characters' skill damage and stun damage by 30%.",
+          "name": "Time for Mischief"
+        },
+        "name": "Plachta",
+        "overlay_name": "Plachta",
+        "profile_voice_text": "In this outfit, I seem more suited\nto practicing magic than alchemy.",
+        "start_at": "2024-09-06T03:00:00Z"
+      },
+      {
+        "id": 33503,
+        "acquisition_text": "未知の発見、新たな出会い――\nすこぶる興味深い世界ですね！",
+        "another_name": "【Curious Theorist】",
+        "description": "新進気鋭の若き錬金術士。\n錬金術を極めるため、日々研究に明け暮れている。この世界の錬金術についても興味を持ち、よくアトリエ内の本を読み漁っている。\n冷静な理論家だが、プライドが高く負けず嫌いな一面も。未知の発見に対しては子供のように目を輝かせる。",
+        "fullname": "プラフタ",
+        "leader_skill": {
+          "description": "得意属性が氷属性のキャラは「受けるダメージ-25%」",
+          "name": "この盾で守ってみせます！"
+        },
+        "name": "プラフタ",
+        "overlay_name": "Plachta",
+        "profile_voice_text": "この世界には見たこともないものがたくさん\nありますね。すこぶる興味がわきます！",
+        "start_at": "2025-02-14T03:00:00Z"
+      },
+      {
+        "id": 33601,
+        "acquisition_text": "If you have any troubles, let me know.\nI'll do what I can to help.",
+        "another_name": "Monika On Stage",
+        "description": "A talented young woman who is skilled in both the literary and military arts.\nShe used to be a very reserved and self-disciplined person, but with the encouragement of her friend Sophie, she is now traveling the world to do all the things she wants to do.\nShe is a diligent, methodical person who can't see a dirty room without wanting to tidy it.",
+        "fullname": "Monika Ellmenreich",
+        "leader_skill": {
+          "description": "Boosts Stab affinity characters' P. ATK, M. ATK, P. DEF, and M. DEF by 10%.",
+          "name": "Goddess's Shield"
+        },
+        "name": "Monika",
+        "overlay_name": "Monika Ellmenreich",
+        "profile_voice_text": "I'm Monika. I usually help out at a church and take care of the kids.",
+        "start_at": "2024-01-25T03:00:00Z"
+      },
+      {
+        "id": 33701,
+        "acquisition_text": "Expect our store to keep getting better for you all. Come visit!",
+        "another_name": "No Milk No Life",
+        "description": "A young alchemist and merchant who excels at using alchemy to copy items, which helps her run her wholesale store. Corneria devotes her days to forging new connections with other merchants, hoping to further expand her market. She is close friends with another merchant named Flocke. Although she is laid-back and takes things at her own pace, she has good business sense and takes her work very seriously.",
+        "fullname": "Corneria",
+        "leader_skill": {
+          "description": "Boosts Merchant characters' P. DEF and M. DEF by 25%.",
+          "name": "Rare Products, Right Here!"
+        },
+        "name": "Corneria",
+        "overlay_name": "Corneria",
+        "profile_voice_text": "I'm Corneria. I sell plenty of goods and I can even replicate tools.",
+        "start_at": "2024-01-25T03:00:00Z"
+      },
+      {
+        "id": 33801,
+        "acquisition_text": "When it comes to plants, you can rely on me! As for fighting... I'll do what I can.",
+        "another_name": "Friend to Plants",
+        "description": "A young man with the peculiar ability to hear the voices of plants. He travels across the land in an effort to speak with every plant he comes across. He keeps careful notes on everything the plants tell him. With an easy-going personality, he doesn't like to worry about the little details, but does get very excited when it comes to plants.",
+        "fullname": "Oskar Behlmer",
+        "leader_skill": {
+          "description": "Laid-back characters restore own HP by 10% when hit by an attack.",
+          "name": "Reliable Oskar"
+        },
+        "name": "Oskar",
+        "overlay_name": "Oskar Behlmer",
+        "profile_voice_text": "I want to become friends with plants all over the world someday!",
+        "start_at": "2024-01-25T03:00:00Z"
+      },
+      {
+        "id": 33901,
+        "acquisition_text": "Heehee! Not to worry, just let\nTess take care of the rest!",
+        "another_name": "Rabbit-Eared Troublemaker",
+        "description": "A bright and cheerful woman who wears a distinctive bunny ears hair accessory. She currently works at a cafe in the capital and sees the other cafes in the town square as rivals. She spends much of her time running around trying to attract customers. She has a pure and optimistic heart, but can sometimes be careless and cause unintentional chaos.",
+        "fullname": "Tess Heitzmann",
+        "leader_skill": {
+          "description": "Boosts Sweets characters' P. DEF and M. DEF by 25%.",
+          "name": "Cafe Poster Girl"
+        },
+        "name": "Tess",
+        "overlay_name": "Tess Heitzmann",
+        "profile_voice_text": "Hello, my name is Tess Heitzmann. Just call me Tess. I work at the cafe.",
+        "start_at": "2024-01-25T03:00:00Z"
+      },
+      {
+        "id": 35001,
+        "acquisition_text": "New places and new faces...\nThat's what makes the journey worth it!",
+        "another_name": "Crystal Master",
+        "description": "An alchemist who loves to travel.\nFrom a very young age, she has longed to see the world outside, and even now she is excited by the prospect of adventures in the unknown. She has a friendly and energetic personality.  She has a strong spirit that does not bend to adversity.",
+        "fullname": "Firis Mistlud",
+        "leader_skill": {
+          "description": "Boosts Air affinity characters' P. ATK, M. ATK, P. DEF, and M. DEF by 10%.",
+          "name": "Traveler of Wind"
+        },
+        "name": "Firis",
+        "overlay_name": "Firis Mistlud",
+        "profile_voice_text": "There are so many things I want to do... So I decided I'll do them all!",
+        "start_at": "2024-01-25T03:00:00Z"
+      },
+      {
+        "id": 35002,
+        "acquisition_text": "Now's our chance to strike back! Let's hit them with everything we've got, full force!",
+        "another_name": "Crystaler of Rose",
+        "description": "An alchemist who loves to travel. Just like Resna, she hopes to bring happiness to all through alchemy, and with that in mind she stands alongside her companions, defending everyone from the Apexi. She has a quirky habit of naming things in her own unique way and is currently thinking up a special nickname for her new armor.",
+        "fullname": "Firis Mistlud",
+        "leader_skill": {
+          "description": "Boosts all allies' P. ATK and M. ATK by 8% for each Adventure character in the party.",
+          "name": "Traveler Cloaked in Jet Black"
+        },
+        "name": "Firis",
+        "overlay_name": "Firis Mistlud",
+        "profile_voice_text": "The Apexi are incredibly powerful, but I have a feeling that together, we can win!",
+        "start_at": "2024-06-24T03:00:00Z"
+      },
+      {
+        "id": 35003,
+        "acquisition_text": "さあ、準備はいいですか？\n不思議な旅にご招待！",
+        "another_name": "【Twinning Ribbon】",
+        "description": "旅を愛する錬金術士。\n頭のリボンは、ライバルかつ親友であるイルメリアとお揃いになるようにと、姉のリアーネが用意したもの。\nこのリボンを付けていると、自分は天才錬金術士なのだと自信が湧いてくるらしい。",
+        "fullname": "フィリス・ミストルート",
+        "leader_skill": {
+          "description": "得意属性が風属性のキャラは「攻撃対象がブレイク状態の時、スキルダメージ+50%」",
+          "name": "リボンを風になびかせて"
+        },
+        "name": "フィリス",
+        "overlay_name": "Firis Mistlud",
+        "profile_voice_text": "このリボンすっごくかわいくてお気に入り！\n動くとふわふわするんだよ、ふわふわー♪",
+        "start_at": "2025-01-24T03:00:00Z"
+      },
+      {
+        "id": 35101,
+        "acquisition_text": "天才の出番が来たってわけね！\nアタシの才能でびっくりさせてあげる！",
+        "another_name": "【Diligent Genius】",
+        "description": "天才を自称する錬金術士の少女。\n自分の実力をランターナ大陸に知らしめるため、各地で錬金術を使って人助けしている。フィリスとは共に切磋琢磨し合うライバル関係であり、一番の親友同士。\nプライドが高く子どもっぽいところもあるが、努力家で、錬金術に対して真摯に取り組んでいる。",
+        "fullname": "イルメリア・フォン・ラインウェバー",
+        "leader_skill": {
+          "description": "得意属性が風属性のキャラは「物防・魔防+10%」と「攻撃対象がスタン状態の時、スキルダメージ+50%」",
+          "name": "超一流の助けはいかが？"
+        },
+        "name": "イルメリア",
+        "overlay_name": "Ilmeria Von Leinweber",
+        "profile_voice_text": "アタシはイルメリア！\n誰もが認める天才錬金術士よ！",
+        "start_at": "2025-01-31T03:00:00Z"
+      },
+      {
+        "id": 37401,
+        "acquisition_text": "\"Act first, worry later!\"\nLet's go in search of our dreams together.",
+        "another_name": "Rainbow Canvas",
+        "description": "The older of the Twin Alchemists. She travels together with her sister, Suelle, striving to become an alchemist that everyone can turn to. She tries to help her sister as an older sister should, but often ends up being dragged along by her instead. She's laid-back and takes things at her own pace. She likes to study and has a good understanding of the world around her, but her artistic sensibilities are questionable at best.",
+        "fullname": "Lydie Malen",
+        "leader_skill": {
+          "description": "Boosts Earnest Listener characters' skill damage and stun damage by 30%.",
+          "name": "Wise and Gentle Sister"
+        },
+        "name": "Lydie",
+        "overlay_name": "Lydie Malen",
+        "profile_voice_text": "I'm Lydie. I'm not good at anything active... Oh! But you can leave the research to me!",
+        "start_at": "2024-03-15T03:00:00Z"
+      },
+      {
+        "id": 37402,
+        "acquisition_text": "Everything will be alright because we're all together! We'll make sure everyone is safe!",
+        "another_name": "Witch of Rose",
+        "description": "The older of the twin alchemists. Alongside her sister Suelle, she's traveled far and wide. Aiming to be an alchemist that everyone can turn to, she has stepped up to confront the Apexi to show that she is ready to live up to those expectations. More cautious and methodical than her sister, she's ready to take on even the strongest of foes, drawing courage from her wealth of experience.",
+        "fullname": "Lydie Malen",
+        "leader_skill": {
+          "description": "Boosts Laid-back characters' skill damage and stun damage by 50%.",
+          "name": "Smiling Natural Idol"
+        },
+        "name": "Lydie",
+        "overlay_name": "Lydie Malen",
+        "profile_voice_text": "Suelle and I will do everything we can to make sure that we can all take down the Apexi together!",
+        "start_at": "2024-06-10T03:00:00Z"
+      },
+      {
+        "id": 37501,
+        "acquisition_text": "\"Don't give up before you try!\"\nLet's go in search of a new ambition together.",
+        "another_name": "Ambition Painting",
+        "description": "The younger of the Twin Alchemists. She travels together with her sister, Lydie, striving to become an alchemist that everyone can turn to. She cherishes a promise she made with her mother when she was young. She's mischievous and boisterous, but a genius with diverse abilities. She also can't stand insects or ghosts.",
+        "fullname": "Suelle Malen",
+        "leader_skill": {
+          "description": "Boosts Strike affinity characters' P. ATK, M. ATK, P. DEF, and M. DEF by 10%.",
+          "name": "Energetic Little Sister"
+        },
+        "name": "Suelle",
+        "overlay_name": "Suelle Malen",
+        "profile_voice_text": "Got a problem? Just leave it to Suelle the genius! I can solve any problem!",
+        "start_at": "2024-03-15T03:00:00Z"
+      },
+      {
+        "id": 37502,
+        "acquisition_text": "With this, we can't lose! We'll defeat any enemy that stands in our way!",
+        "another_name": "Ranger of Rose",
+        "description": "The younger of the Twin Alchemists. She travels together with her sister, Lydie. During their travels, they learned of the Apexi threat and were the first to respond to the call to deal with it. Compared to her sister, she tends to be more reckless and acts on emotion. In the battle against the Apexi, she aims to contribute with her signature style and decisiveness.",
+        "fullname": "Suelle Malen",
+        "leader_skill": {
+          "description": "Boosts Earnest Listener characters' P. ATK, M. ATK, P. DEF, and M. DEF by 30%.",
+          "name": "Mischievous Little Devil Idol"
+        },
+        "name": "Suelle",
+        "overlay_name": "Suelle Malen",
+        "profile_voice_text": "This time I am the goddess of victory! Not even an Apexi will be a match for me!",
+        "start_at": "2024-07-05T03:00:00Z"
+      },
+      {
+        "id": 39901,
+        "acquisition_text": "I'm so excited!\nOnward, to a new adventure!",
+        "another_name": "One Summer Story",
+        "description": "An alchemist who loves adventure.\nAfter she rescued Resna from a monster attack, they often go on adventures together. She has a free-spirited personality and usually acts before worrying. She has a strong sense of justice that does not bend easily.",
+        "fullname": "Reisalin Stout",
+        "leader_skill": {
+          "description": "Boosts Kurken Island characters' P. ATK, M. ATK, P. DEF, and M. DEF by 15%.",
+          "name": "Our Secret Hideout"
+        },
+        "name": "Ryza",
+        "overlay_name": "Reisalin Stout",
+        "profile_voice_text": "It's so much fun working at the cafe! I get to hear all sorts of interesting things!",
+        "start_at": "2024-01-25T03:00:00Z"
+      },
+      {
+        "id": 39902,
+        "acquisition_text": "There are still so many things in the world I don't know about!<br>The excitement never ends!",
+        "another_name": "Master's Right-Hand",
+        "description": "An alchemist who loves adventure.\nHer outfit is inspired by the one always worn by her mentor, Empel, who taught her alchemy. As she continues to train, Ryza aspires to one day match and even surpass him in skill.\nWhile wearing this outfit, she apparently has an irresistible craving for sweet things.",
+        "fullname": "Reisalin Stout",
+        "leader_skill": {
+          "description": "Boosts all allies' skill damage by 15% when attack target is stunned.",
+          "name": "This Time, I'll Teach You"
+        },
+        "name": "Ryza",
+        "overlay_name": "Reisalin Stout",
+        "profile_voice_text": "The outfit's design is based on my mentor's outfit!\nDoes it suit me?",
+        "start_at": "2024-03-25T03:00:00Z"
+      },
+      {
+        "id": 39903,
+        "acquisition_text": "Life is boring if it's the same every day. Let's go find something fun to do together!",
+        "another_name": "Blooming Energy",
+        "description": "A second-year student in the Alchemy department at Lantarna Academy. Her humble personality allows her to make friends with anyone. As a senior, she watches over the new students warmly, making sure there are no barriers between her and them. Coming from a farmer's family, she receives an excessive amount of vegetables from home, so she always tries to cook healthy dishes for everyone.",
+        "fullname": "Reisalin Stout",
+        "leader_skill": {
+          "description": "Grants Kurken Island characters Initiative and boosts their skill damage by 50%.",
+          "name": "Vegetables Keep You Full of Energy!"
+        },
+        "name": "Ryza",
+        "overlay_name": "Reisalin Stout",
+        "profile_voice_text": "This excitement in my heart! I feel like something amazing is going to happen today!",
+        "start_at": "2024-07-26T03:00:00Z"
+      },
+      {
+        "id": 39904,
+        "acquisition_text": "Across the seas to a world unknown—let's go see it together!",
+        "another_name": "Sunlit Beach",
+        "description": "A free-spirited young alchemist who is full of curiosity. She has donned a dazzling swimsuit and jumped into a fresh new summer. The headband, reminiscent of her usual hat, is her favorite little detail. The sparkling sandy beach reflecting the sun makes her outfit look even more striking!",
+        "fullname": "Reisalin Stout",
+        "leader_skill": {
+          "description": "Boosts Kurken Island characters' skill damage by 75% when attack target is stunned.",
+          "name": "Great Adventurer at the Beach"
+        },
+        "name": "Ryza",
+        "overlay_name": "Reisalin Stout",
+        "profile_voice_text": "All set for swimming! I'm going to gather all sorts of materials from the seafloor!",
+        "start_at": "2024-10-21T03:00:00Z"
+      },
+      {
+        "id": 39905,
+        "acquisition_text": "I'll stand and fight with everyone to protect the places I love!",
+        "another_name": "Brave Blaze",
+        "description": "An adventurous alchemist who usually works at the Star's Cocoon Cafe in the capital, gathering information on the side. Her outfit is both light and durable, allowing for agile movement. Following her sense of justice, she supports Resna and the others in their fight against the Polar Night Alchemists.",
+        "fullname": "Reisalin Stout",
+        "leader_skill": {
+          "description": "Boosts Spirited characters' P. ATK and M. ATK by 10% and skill damage and stun damage by 30%.",
+          "name": "I'll Break Through!"
+        },
+        "name": "Ryza",
+        "overlay_name": "Reisalin Stout",
+        "profile_voice_text": "I'm ready to fight. I'll do my best to meet everyone's expectations!",
+        "start_at": "2025-01-22T03:00:00Z"
+      },
+      {
+        "id": 39906,
+        "acquisition_text": "まだあたしの知らない世界があるみたい！\n一緒に新しい景色を見に行こうよ！",
+        "another_name": "【Flowering Explorer】",
+        "description": "冒険好きな錬金術士。\nランターナ王国の王都にあるカフェ「星の繭」で働いていたが、新たな大冒険を求めて飛び出していくことに。\n親友のクラウディアや、後輩の錬金術士であるレスナなど、大好きな仲間たちと行く旅路に心を躍らせている。",
+        "fullname": "ライザリン・シュタウト",
+        "leader_skill": {
+          "description": "得意属性が突属性のキャラは「物攻+40%」",
+          "name": "冒険は突然やってくる！"
+        },
+        "name": "ライザ",
+        "overlay_name": "Reisalin Stout",
+        "profile_voice_text": "何か困りごとがあったら\nこのライザリン・シュタウトにお任せあれ！",
+        "start_at": "2025-02-28T03:00:00Z"
+      },
+      {
+        "id": 40001,
+        "acquisition_text": "I would very much like to go on another adventure with everyone. Please, let me join you!",
+        "another_name": "One Summer Melody",
+        "description": "The young lady of a merchant household, she helps the peddlers and caravans around the capital go about their business. Her childhood friend, Ryza, works at the cafe. For as gentle-natured as she is, Klaudia is both stubborn and courageous. One of her hobbies is playing the flute, which she excels at.",
+        "fullname": "Klaudia Valentz",
+        "leader_skill": {
+          "description": "Boosts Ice affinity characters' P. ATK, M. ATK, P. DEF, and M. DEF by 10%.",
+          "name": "Frozen Dance"
+        },
+        "name": "Klaudia",
+        "overlay_name": "Klaudia Valentz",
+        "profile_voice_text": "I'm only just getting started as a merchant, but I'll work hard to be of use to everyone.",
+        "start_at": "2024-02-09T03:00:00Z"
+      },
+      {
+        "id": 40002,
+        "acquisition_text": "Sorry, it took some time to get ready. Huh? It looks good on me? Oh, you. Thanks.",
+        "another_name": "Fragrant Elegance",
+        "description": "The only daughter of a merchant. Business acumen runs in the family, and she uses hers to help out other merchants. She bought this outfit at a market she visited on business, where it was love at first sight. She's quite daring, despite her refined demeanor, and she won't hesitate to take a cold plunge to reach the post-sauna state of true relaxation.",
+        "fullname": "Klaudia Valentz",
+        "leader_skill": {
+          "description": "Boosts Kurken Island characters' skill damage and stun damage by 50%.",
+          "name": "Let's Enjoy the Hot Springs!"
+        },
+        "name": "Klaudia",
+        "overlay_name": "Klaudia Valentz",
+        "profile_voice_text": "It's my first time wearing this outside... Something about it makes my heart race!",
+        "start_at": "2024-08-15T03:00:00Z"
+      },
+      {
+        "id": 40003,
+        "acquisition_text": "Even the deep ocean isn't scary as long as we're together. Come on, let's go!",
+        "another_name": "Moonlit Beach",
+        "description": "The only daughter of a merchant family. She has been traveling with a caravan introduced to her by her close friend Ryza, honing her skills daily. This time, she's stepped out of her comfort zone with a more mature swimsuit. Her heart is filled with excitement for another great summer with Ryza and the others.",
+        "fullname": "Klaudia Valentz",
+        "leader_skill": {
+          "description": "Boosts Seasonal characters' M. ATK by 50%.",
+          "name": "Beachside Allure"
+        },
+        "name": "Klaudia",
+        "overlay_name": "Klaudia Valentz",
+        "profile_voice_text": "Maybe this outfit is a bit much? But I guess it'll be nothing compared to Ryza anyway.",
+        "start_at": "2024-11-13T03:00:00Z"
+      },
+      {
+        "id": 40004,
+        "acquisition_text": "見たことがない世界があるって素敵だよね！\nよかったら一緒に行かない？",
+        "another_name": "【Flowering Doer】",
+        "description": "商家の一人娘であり、やり手の仕事人。\n各地で行商人たちの支援を行っている。多忙な日々に充実感を感じつつも、親友のライザと一緒に過ごす時間がなかなか取れないことを寂しく思っている。\n再びライザと共に大冒険に出たいという想いは強く、その機会をうかがっている。",
+        "fullname": "クラウディア・バレンツ",
+        "leader_skill": {
+          "description": "味方全員は「クーケン島」1人につき「物攻・魔攻+10%」",
+          "name": "あの夏の思い出を胸に"
+        },
+        "name": "クラウディア",
+        "overlay_name": "Klaudia Valentz",
+        "profile_voice_text": "新天地への旅、わくわくするね！\n一緒に楽しく冒険しようね",
+        "start_at": "2025-02-21T03:00:00Z"
+      },
+      {
+        "id": 40101,
+        "acquisition_text": "You want to become stronger? Very well,<br>I'll drill the spirit of a warrior into you!",
+        "another_name": "Jet Black Bodyguard",
+        "description": "A traveling warrior with an enigmatic aura.\nUtilizing her exceptional combat skills, she takes on jobs such as bodyguard missions.\nShe has traveled extensively with the alchemist Empel.\nShe has a surprisingly nurturing side to her, despite her calm, collected, and somewhat unsociable demeanor.",
+        "fullname": "Lila Decyrus",
+        "leader_skill": {
+          "description": "Boosts Mentor characters' M. ATK and M. DEF by 25%.",
+          "name": "Warrior's Oath"
+        },
+        "name": "Lila",
+        "overlay_name": "Lila Decyrus",
+        "profile_voice_text": "I am Lila Decyrus of the Whitefang clan.\nA warrior of the Oren race.",
+        "start_at": "2024-04-04T03:00:00Z"
+      },
+      {
+        "id": 40201,
+        "acquisition_text": "I'm here to help if it's needed.\nLet me show you what I can do!",
+        "another_name": "Powerful Warrior",
+        "description": "An adventurer who fights with a massive sword. He spends most of his days training and fighting, and hopes to one day make a name for himself as a warrior. His stern exterior belies a warm, friendly heart, and he provides a level head to the often chaotic Ryza.",
+        "fullname": "Lent Marslink",
+        "leader_skill": {
+          "description": "Boosts Dragon Slayer characters' P. DEF and M. DEF by 25%.",
+          "name": "Island's Best Warrior"
+        },
+        "name": "Lent",
+        "overlay_name": "Lent Marslink",
+        "profile_voice_text": "I don't know much about alchemy, so my job is to get stronger and protect everyone!",
+        "start_at": "2024-01-25T03:00:00Z"
+      },
+      {
+        "id": 40301,
+        "acquisition_text": "I've never heard or seen of anything like this!\nWhat an incredible place!",
+        "another_name": "Future Scholar",
+        "description": "A book-loving boy. His interest in the history of Lantarna and its ruins leads him to spend most of his time in the capital's library, reading up on obscure knowledge. He is quiet and shy, often reluctant to interact with people. His intellectual curiosity and powers of concentration are a cut above the rest.",
+        "fullname": "Tao Mongarten",
+        "leader_skill": {
+          "description": "Boosts Glasses characters' skill damage and stun damage by 30%.",
+          "name": "Bibliophile"
+        },
+        "name": "Tao",
+        "overlay_name": "Tao Mongarten",
+        "profile_voice_text": "My name is Tao. Tao Mongarten. Nice to meet you.",
+        "start_at": "2024-01-25T03:00:00Z"
+      },
+      {
+        "id": 40401,
+        "acquisition_text": "It's the duty of the older generation to give a push when needed.<br>Come on, all of you! Give it your best shot!",
+        "another_name": "The Gate Closer",
+        "description": "A wandering alchemist.\nHe investigates ruins throughout the land, all with a specific goal in mind. He once met Ryza and her companions on an island while on an investigation and joined them in their endeavors for awhile. Although he appears young, he is mature in his speech and actions, giving him a mysterious air of authority.\nHe also has a notable sweet tooth.",
+        "fullname": "Empel Vollmer",
+        "leader_skill": {
+          "description": "Boosts Bookworm characters' P. ATK and P. DEF by 25%.",
+          "name": "Preacher of Knowledge"
+        },
+        "name": "Empel",
+        "overlay_name": "Empel Vollmer",
+        "profile_voice_text": "The misuse of alchemy\nfor nefarious deeds...\nIf true, the intent behind this must be carefully evaluated.",
+        "start_at": "2024-03-25T03:00:00Z"
+      },
+      {
+        "id": 40402,
+        "acquisition_text": "では友好のしるしに――\n私も一肌脱ぐとしようか",
+        "another_name": "【Sweet Butler】",
+        "description": "流浪の錬金術士。\nライザに錬金術を教えた師。元極夜の錬金党のララとは浅からぬ因縁があるが、このたび協力関係を結ぶこととなり、友好の証としてこの衣装を贈られた。\n極度の甘党で、以前ララに振る舞ってもらった焼き菓子の味が忘れられず、もう一度食べたいと思っている。",
+        "fullname": "アンペル・フォルマー",
+        "leader_skill": {
+          "description": "味方全員は「師匠」1人につき「物攻・魔攻+10%」",
+          "name": "継承されし知識"
+        },
+        "name": "アンペル",
+        "overlay_name": "Empel Vollmer",
+        "profile_voice_text": "アンペルだ。友好の証として服を\n贈られたが、なかなか嬉しいものだな",
+        "start_at": "2025-01-17T03:00:00Z"
+      },
+      {
+        "id": 41501,
+        "acquisition_text": "Got it. I know everyone's looking forward<br>to this, so I'll see it through to the end!",
+        "another_name": "Holy Night Gift",
+        "description": "A girl dressed in a Starbirth Festival outfit. She is known as Patty to her close friends. She's an acquaintance of Ryza and Tao. Wanting to give back to those who helped her, she decided to become a Starbirth Envoy along with Resna. Raised in a good family, she is earnest and polite. Having been taught by her father, who was a knight, she is skilled with the sword.",
+        "fullname": "Patricia Abelheim",
+        "leader_skill": {
+          "description": "Boosts Seasonal characters' P. ATK, M. ATK, P. DEF, and M. DEF by 15%.",
+          "name": "Starbirth Festival's Gift"
+        },
+        "name": "Patricia",
+        "overlay_name": "Patricia Abelheim",
+        "profile_voice_text": "My role is to make people smile.<br>I've made up my mind, so I'm going to see it through to the end!",
+        "start_at": "2024-04-15T03:00:00Z"
+      },
+      {
+        "id": 43101,
+        "acquisition_text": "To the ends of the world or bust! Let's head out!",
+        "another_name": "Dreamer of the Future",
+        "description": "A fledgling alchemist. She is very passionate about alchemy and has an unparalleled love and knowledge of the subject, which is evident in her tendency to get excited and talk very fast.\nHer dream is to revive the neglected art of alchemy and use it to enrich people's lives.",
+        "fullname": "Resna Sternenlicht",
+        "leader_skill": {
+          "description": "Boosts all allies' battle item damage by 50%.",
+          "name": "Alchemy Enthusiast"
+        },
+        "name": "Resna",
+        "overlay_name": "Resna Sternenlicht",
+        "profile_voice_text": "I'm Resna. I'm working really hard to catch up to the other alchemists!",
+        "start_at": "2024-01-25T03:00:00Z"
+      },
+      {
+        "id": 43102,
+        "acquisition_text": "I'll overcome anything to make my dream\ncome true—no matter the obstacle!",
+        "another_name": "Innocent Dreamer",
+        "description": "A fledgling alchemist. Following the instructions of her teacher, Saskia, she usually wears a jacket and arm covers to protect her from harm while harvesting. But from time to time she takes them off so that she can travel unencumbered over the fields and mountains on her way to fulfill her dream—to reach the World's End.",
+        "fullname": "Resna Sternenlicht",
+        "leader_skill": {
+          "description": "Boosts all allies' critical damage by 5% for each Promise & Teamwork character in the party.",
+          "name": "Strong Will to Fulfill Dreams"
+        },
+        "name": "Resna",
+        "overlay_name": "Resna Sternenlicht",
+        "profile_voice_text": "I'm going to find the World's End and revive alchemy. That's my goal!",
+        "start_at": "2024-01-25T03:00:00Z"
+      },
+      {
+        "id": 43103,
+        "acquisition_text": "Guided by the sacred stars,<br>I bring abundant blessings to all!",
+        "another_name": "Starry Heavens Gift",
+        "description": "An alchemist wearing a Starbirth Festival outfit. The Starbirth Festival celebrates the day the planet was born. During the festival, Starbirth Envoys wear special outfits and deliver gifts to the people. Resna is eager to fulfill her role as a Starbirth Envoy and show her appreciation to those who have made a difference in her life.",
+        "fullname": "Resna Sternenlicht",
+        "leader_skill": {
+          "description": "Boosts all allies' critical damage by 15%.",
+          "name": "Wish upon the Starry Sky"
+        },
+        "name": "Resna",
+        "overlay_name": "Resna Sternenlicht",
+        "profile_voice_text": "This outfit is meant for delivering blessings to the people.<br>I'm going to be an alchemist who does just that!",
+        "start_at": "2024-04-15T03:00:00Z"
+      },
+      {
+        "id": 43104,
+        "acquisition_text": "The student life I've always dreamed of! I'm going to be a full-fledged alchemist!",
+        "another_name": "Loved Rookie",
+        "description": "A new student in the Alchemy department at Lantarna Academy. She has repeatedly tried to synthesize things on her own but has never succeeded. However, she has a genuine passion for alchemy, and she boasts more knowledge of the field than any of the other students. Her dream is to become a great alchemist like her father.",
+        "fullname": "Resna Sternenlicht",
+        "leader_skill": {
+          "description": "Boosts Resleriana Academy characters' P. ATK, M. ATK, P. DEF, and M. DEF by 30%.",
+          "name": "This Is My Time to Shine!"
+        },
+        "name": "Resna",
+        "overlay_name": "Resna Sternenlicht",
+        "profile_voice_text": "I'm Resna, from the Alchemy department at Lantarna Academy. Gosh, it still feels like a dream that I actually got into the academy.",
+        "start_at": "2024-07-16T03:00:00Z"
+      },
+      {
+        "id": 43105,
+        "acquisition_text": "I'll shine even brighter than the sun!",
+        "another_name": "Pretty Summer",
+        "description": "A novice alchemist who dreams of reviving alchemy and works tirelessly every day. To enjoy the summer, she is wearing a swimsuit that she treasures, as it was chosen by her best friend, Izana. With a delicate, fairy-like appearance, she always makes sure to wear her straw hat to protect herself from the sun.",
+        "fullname": "Resna Sternenlicht",
+        "leader_skill": {
+          "description": "Boosts Seasonal characters' burst skill damage and burst skill stun damage by 75%.",
+          "name": "A Little Bold in Summer"
+        },
+        "name": "Resna",
+        "overlay_name": "Resna Sternenlicht",
+        "profile_voice_text": "I've never been great with being out under the sun...but I'll get through it with this swimsuit!",
+        "start_at": "2024-10-21T03:00:00Z"
+      },
+      {
+        "id": 43106,
+        "acquisition_text": "With this newfound power, I'll overcome any challenge that comes my way!",
+        "another_name": "Awakened Future",
+        "description": "A young alchemist who has gained newfound strength. She loves alchemy and seeks to revive it by traveling to the World's End, a place said to be rich in mana. This elegant and radiant outfit awakens the hidden power within her.",
+        "fullname": "Resna Sternenlicht",
+        "leader_skill": {
+          "description": "Boosts all allies' battle item damage by 30% and boosts their skill damage when attacking a weakness by 30%.",
+          "name": "Ignite the Flames of Ambition!"
+        },
+        "name": "Resna",
+        "overlay_name": "Resna Sternenlicht",
+        "profile_voice_text": "I feel like...like I've awakened a new power! I'm going to use it to help everyone!",
+        "start_at": "2024-12-12T03:00:00Z"
+      },
+      {
+        "id": 43107,
+        "acquisition_text": "With this newfound power, I'll overcome any challenge that comes my way!",
+        "another_name": "Awakened Future",
+        "description": "A young alchemist who has gained newfound strength. She loves alchemy and seeks to revive it by traveling to the World's End, a place said to be rich in mana. This elegant and radiant outfit awakens the hidden power within her.",
+        "fullname": "Resna Sternenlicht",
+        "leader_skill": {
+          "description": "Boosts all allies' battle item damage by 30% and boosts their skill damage when attacking a weakness by 30%.",
+          "name": "Ignite the Flames of Ambition!"
+        },
+        "name": "Resna",
+        "overlay_name": "Resna Sternenlicht",
+        "profile_voice_text": "I feel like...like I've awakened a new power! I'm going to use it to help everyone!",
+        "start_at": "2024-12-12T03:00:00Z"
+      },
+      {
+        "id": 43201,
+        "acquisition_text": "Leave the fighting to me.\nI'm confident in what I can do.",
+        "another_name": "Dreamer of the Past",
+        "description": "A warrior with amnesia. Relying on her excellent fighting skills, she and Heidi tend to take on a variety of rough jobs. With no memory of her past, she spends her days trying to figure out who she really is.\nShe has a strong and outspoken personality, but is surprisingly weak when pressured by others.",
+        "fullname": "Valeria",
+        "leader_skill": {
+          "description": "Boosts all allies' burst skill damage by 30%.",
+          "name": "Hand in Hand"
+        },
+        "name": "Valeria",
+        "overlay_name": "Valeria",
+        "profile_voice_text": "I'm Valeria. I don't remember my past... But that doesn't stop me from enjoying myself.",
+        "start_at": "2024-01-25T03:00:00Z"
+      },
+      {
+        "id": 43202,
+        "acquisition_text": "I'm still not sure who I am...\nbut I'm starting to understand what I need to do!",
+        "another_name": "Secret Amnesia",
+        "description": "A warrior who is as strong as she is beautiful. She loves nothing more than being right in the thick of battle. Her clothing takes most of the beating, but her roommate Flocke always patches it up for her. If Valeria takes her jacket off, though, she means business. While that increases her odds of being injured, she believes in wrapping fights up before that happens.",
+        "fullname": "Valeria",
+        "leader_skill": {
+          "description": "Boosts Family & Friends characters' skill damage and stun damage by 30%.",
+          "name": "Living in the Underworld"
+        },
+        "name": "Valeria",
+        "overlay_name": "Valeria",
+        "profile_voice_text": "I'm Valeria. I don't like delicate work, but leave the monsters to me.",
+        "start_at": "2024-02-09T03:00:00Z"
+      },
+      {
+        "id": 43203,
+        "acquisition_text": "I will win! No matter who stands against me!",
+        "another_name": "Warrior of Rose",
+        "description": "A warrior shrouded in layers of mystery. Despite losing her memories, she lives each day to the fullest, blessed with many chance encounters, starting with meeting her partner, Heidi. In the current battle, she uses her formidable strength to protect her precious friends. While she looks stunning in her elegant attire, she doesn't much care for the appearance itself. She is simply satisfied with its performance.",
+        "fullname": "Valeria",
+        "leader_skill": {
+          "description": "Grants Lantarna characters Initiative and boosts their critical damage by 50%.",
+          "name": "Black Rose Warrior"
+        },
+        "name": "Valeria",
+        "overlay_name": "Valeria",
+        "profile_voice_text": "I'll do everything in my power to keep this land—the place my family, Resna, and the others call home—safe from the Apexi.",
+        "start_at": "2024-06-10T03:00:00Z"
+      },
+      {
+        "id": 43204,
+        "acquisition_text": "Come on, let's go swimming! I'll take care of any enemies lurking in the water!",
+        "another_name": "Radiant Summer",
+        "description": "A beautiful warrior with amnesia. She didn't see the need for a swimsuit, but still captivated everyone with how great it looked on her. Once she tried it on, she found it very light and easy to move in, which was perfect for her as she believes that striking first is the key to victory.",
+        "fullname": "Valeria",
+        "leader_skill": {
+          "description": "Boosts Lantarna characters' burst skill damage by 100%.",
+          "name": "Unmatched in Mobility!"
+        },
+        "name": "Valeria",
+        "overlay_name": "Valeria",
+        "profile_voice_text": "I'm a great swimmer! Leave any battles in the water to me! I can adapt to almost any situation!",
+        "start_at": "2024-11-01T03:00:00Z"
+      },
+      {
+        "id": 43205,
+        "acquisition_text": "Power is surging from deep inside me... Anyone in my way is getting sent flying!",
+        "another_name": "Awakened Past",
+        "description": "A beautiful warrior who has gained new strength. Though she has no memories before meeting Heidi and the others, her fighting skills have advanced to near-master level. Her outfit, adorned with gold and mana-inspired designs, enhances her beauty while also awakening her hidden powers.",
+        "fullname": "Valeria",
+        "leader_skill": {
+          "description": "Grants Carefree characters Initiative and boosts their stun damage by 50%.",
+          "name": "No One Can Keep Up with Me!"
+        },
+        "name": "Valeria",
+        "overlay_name": "Valeria",
+        "profile_voice_text": "Wearing this outfit, I can feel a mysterious power welling up inside me. I need to make sure I can control it properly.",
+        "start_at": "2024-12-24T03:00:00Z"
+      },
+      {
+        "id": 43206,
+        "acquisition_text": "Power is surging from deep inside me... Anyone in my way is getting sent flying!",
+        "another_name": "Awakened Past",
+        "description": "A beautiful warrior who has gained new strength. Though she has no memories before meeting Heidi and the others, her fighting skills have advanced to near-master level. Her outfit, adorned with gold and mana-inspired designs, enhances her beauty while also awakening her hidden powers.",
+        "fullname": "Valeria",
+        "leader_skill": {
+          "description": "Grants Carefree characters Initiative and boosts their stun damage by 50%.",
+          "name": "No One Can Keep Up with Me!"
+        },
+        "name": "Valeria",
+        "overlay_name": "Valeria",
+        "profile_voice_text": "Wearing this outfit, I can feel a mysterious power welling up inside me. I need to make sure I can control it properly.",
+        "start_at": "2024-12-24T03:00:00Z"
+      },
+      {
+        "id": 43207,
+        "acquisition_text": "I won't hesitate anymore. I'll fight for everyone who believes in me!",
+        "another_name": "Dark Warrior",
+        "description": "A beautiful warrior dressed in black. She wields her blade to uncover the truth about who she really is and to support Resna's dream. She suspects that the outfit is black only because of Criselda's personal taste.",
+        "fullname": "Valeria",
+        "leader_skill": {
+          "description": "Boosts Lantarna characters' P. ATK, M. ATK, P. DEF, and M. DEF by 30%.",
+          "name": "I'll Master This Power"
+        },
+        "name": "Valeria",
+        "overlay_name": "Valeria",
+        "profile_voice_text": "No matter what I wear, I'm still me. I just have to fight to protect everyone.",
+        "start_at": "2025-03-03T03:00:00Z"
+      },
+      {
+        "id": 43301,
+        "acquisition_text": "Come, kindred spirit! We shall charge\ntoward our dreams together!",
+        "another_name": "Romance Hearts",
+        "description": "A self-proclaimed handsome adventurer that Resna met in the royal capital. With a dream of restoring alchemy to its former glory, he warmly refers to Resna, who shares his vision, as his \"kindred spirit.\" His buoyant spirit masks a competent adventurer who is adept at handling whatever comes his way.",
+        "fullname": "Roman Kalman",
+        "leader_skill": {
+          "description": "All Justice & Exploration characters restore their own HP by 5% at the start of the turn. Also boosts their skill damage and stun damage by 20%.",
+          "name": "Strategist Roman"
+        },
+        "name": "Roman",
+        "overlay_name": "Roman Kalman",
+        "profile_voice_text": "I'm Roman Kalman, just a humble adventurer.\nTotally trustworthy, I assure you! Hahaha.",
+        "start_at": "2024-05-06T03:00:00Z"
+      },
+      {
+        "id": 43302,
+        "acquisition_text": "I'll even go under the cover of darkness if it means achieving my goal. That's just the way I do it.",
+        "another_name": "Secret Fellow",
+        "description": "A playful and kind young man. He is a kindred spirit to Resna and aims to revive alchemy alongside her. He claims to be skilled at hiding his identity and volunteered to infiltrate the Moonlight Society. He often tells others, \"This outfit also suits me, don't you think? A handsome man looks good in anything,\" but no one has agreed with him just yet.",
+        "fullname": "Roman Kalman",
+        "leader_skill": {
+          "description": "Boosts Ice affinity characters' M. ATK by 25%.",
+          "name": "Roman's Secret Plan"
+        },
+        "name": "Roman",
+        "overlay_name": "Roman Kalman",
+        "profile_voice_text": "I'm known for my stealth. I'll prove it by succeeding in this mission.",
+        "start_at": "2024-10-10T03:00:00Z"
+      },
+      {
+        "id": 43303,
+        "acquisition_text": "To protect the peace of my people—I swear to fight with all my strength!",
+        "another_name": "Reassuring Shielder",
+        "description": "A cheerful young prince with a laid-back demeanor. Like Resna, he seeks to revive alchemy. This outfit, created for the final battle against the Polar Night Alchemists, is modeled after a knight's armor, providing both high defense and functionality. Though he can be a bit of a joker, he's highly capable and a reliable ally in battle.",
+        "fullname": "Roman Kalman",
+        "leader_skill": {
+          "description": "Boosts Justice & Exploration characters' burst skill damage by 100%.",
+          "name": "For a Future We Cherish"
+        },
+        "name": "Roman",
+        "overlay_name": "Roman Kalman",
+        "profile_voice_text": "I am Richard, the secondborn prince of the Kingdom of Lantarna. I will fight with honor, as my title demands.",
+        "start_at": "2025-01-15T03:00:00Z"
+      },
+      {
+        "id": 43401,
+        "acquisition_text": "I am Juna Waitz, a knight of the Kingdom of Lantarna.\nAllow my pure white armor to be your shield.",
+        "another_name": "White Royal Guard",
+        "description": "One of the Knights of the Midnight Sun, a subset of the Royal Knights entrusted with critical duties such as guarding the royal family and eliminating dangerous monsters.\nRenowned in Lantarna as the Dragon Slayer, her adventures have become something of a legend.\nShe presents a stoic front, speaking little, but she is a compassionate soul dedicated to the cause of the people.",
+        "fullname": "Juna Waitz",
+        "leader_skill": {
+          "description": "Boosts Knight characters' P. ATK, M. ATK, P. DEF, and M. DEF by 15%.",
+          "name": "Knight of the Midnight Sun"
+        },
+        "name": "Juna",
+        "overlay_name": "Juna Waitz",
+        "profile_voice_text": "My name is Juna, a servant of the royal palace and a Knight of the Midnight Sun.\nShould you require my aid, I am ever at your service.",
+        "start_at": "2024-05-20T03:00:00Z"
+      },
+      {
+        "id": 43402,
+        "acquisition_text": "Though my armor may have changed, my conviction remains steadfast. My loyalty is to the Kingdom of Lantarna!",
+        "another_name": "Valkyrie in the Sky",
+        "description": "One of the elite Knights of the Midnight Sun, chosen from the best knights in the kingdom. She is known throughout Lantarna as a dragon-slaying hero. Despite her reputation, however, she has a soft spot for cute things and loves to cuddle small animals, though she hides this side of herself to maintain her idealized image as a knight.",
+        "fullname": "Juna Waitz",
+        "leader_skill": {
+          "description": "Boosts Knight characters' skill damage by 75% when attacking a weakness.",
+          "name": "Azure Knight"
+        },
+        "name": "Juna",
+        "overlay_name": "Juna Waitz",
+        "profile_voice_text": "I am Juna of the Knights of the Midnight Sun. For this mission, I've opted for armor that prioritizes maneuverability.",
+        "start_at": "2024-09-13T03:00:00Z"
+      },
+      {
+        "id": 43403,
+        "acquisition_text": "さあ、パーティーの時間だ。\n……たまには、手を引かれるのも悪くないか",
+        "another_name": "【Starry Beauty】",
+        "description": "王国騎士の精鋭、「白夜の騎士」の一人。\n王国主催のパーティーに出席するため、普段の白い鎧を脱ぎ去り、真っ赤なドレスに身を包んだ。不測の事態に対応できるよう、動きやすさも兼ね備えた装いとなっている。\nその優美なドレス姿を目にした者は、誰もが白夜の騎士ユナの新たな魅力に気付かされたという。",
+        "fullname": "ユナ・ヴァイツ",
+        "leader_skill": {
+          "description": "「騎士」は「物防・魔防+35%」",
+          "name": "星夜彩る優艶な騎士"
+        },
+        "name": "ユナ",
+        "overlay_name": "Juna Waitz",
+        "profile_voice_text": "ユナ・ヴァイツだ。騎士の身には不相応だと\n思うが、ありがたく着させていただこう",
+        "start_at": "2024-12-13T03:00:00Z"
+      },
+      {
+        "id": 43501,
+        "acquisition_text": "I was asked to help, so you can bet I'll give it my all! Adventurer Heidi, ready for the biggest job of my life!",
+        "another_name": "Thief of Rose",
+        "description": "A skilled scout, she uses her natural charm and dexterity to support Valeria. She is a smooth talker, which sometimes makes her seem a bit flippant, but she truly sees Valeria and Flocke as family. Guided by her belief in the path they have chosen, she eagerly joins their quest to take down the Apexi.",
+        "fullname": "Heidi",
+        "leader_skill": {
+          "description": "Boosts Family & Friends characters' P. ATK, M. ATK, P. DEF, and M. DEF by 30%.",
+          "name": "To Protect Our Home"
+        },
+        "name": "Heidi",
+        "overlay_name": "Heidi",
+        "profile_voice_text": "This outfit shows that I'm ready to rumble! Haha, just kidding. Just needed to psych myself up.",
+        "start_at": "2024-06-24T03:00:00Z"
+      },
+      {
+        "id": 43502,
+        "acquisition_text": "For richer, for poorer, in sickness and in health—eh, I think we just need to live life to the fullest!",
+        "another_name": "Merciful Bride",
+        "description": "An enthusiastic and witty character, she joined the dragon-slaying mission in hopes of striking it rich by acquiring rare dragon scales. Resourceful and adept, she gathers information while also playing the role of the bride. However, she was initially embarrassed by the outfit and was constantly teased by Valeria and Lanze, so it took her a while to get used to it.",
+        "fullname": "Heidi",
+        "leader_skill": {
+          "description": "Lantarna characters restore their own HP by 5% at the start of the turn. Also boosts their skill damage and stun damage by 20%.",
+          "name": "Passionate Bride"
+        },
+        "name": "Heidi",
+        "overlay_name": "Heidi",
+        "profile_voice_text": "I'm really not used to wearing clothes like this. I hope I don't look too strange.",
+        "start_at": "2024-09-20T03:00:00Z"
+      },
+      {
+        "id": 43503,
+        "acquisition_text": "I won't run away anymore—I'll protect my friends, my family, my partner...everyone!",
+        "another_name": "Lucky Buddy",
+        "description": "Valeria's upbeat partner. She ran away from one thing after another until she ended up in the capital, where she met Valeria and the others. Although she's not skilled in direct combat, she's quick on her feet and provides tactical support as Valeria's trusty partner. While her attempts to make a quick profit don't always work out, she tends to be blessed with good luck when it matters most.",
+        "fullname": "Heidi",
+        "leader_skill": {
+          "description": "Boosts Energetic characters' skill damage and stun damage by 50%.",
+          "name": "I'll Do Whatever I Can!"
+        },
+        "name": "Heidi",
+        "overlay_name": "Heidi",
+        "profile_voice_text": "I'm Heidi! I may not be the best at fighting, but with my partner by my side, we're unstoppable!",
+        "start_at": "2025-02-12T03:00:00Z"
+      },
+      {
+        "id": 43599,
+        "acquisition_text": "ログボ用",
+        "another_name": "【ログボ用】",
+        "description": "ログボ用",
+        "fullname": "Heidi",
+        "leader_skill": {
+          "description": "Boosts Family & Friends characters' P. ATK, M. ATK, P. DEF, and M. DEF by 30%.",
+          "name": "To Protect Our Home"
+        },
+        "name": "Heidi",
+        "overlay_name": "Heidi",
+        "profile_voice_text": "ログボ用",
+        "start_at": "2049-12-31T16:00:00Z"
+      },
+      {
+        "id": 43601,
+        "acquisition_text": "I can fight too! So please—take me with you!",
+        "another_name": "Angel of Rose",
+        "description": "A hardworking peddler. She was dedicated to supporting the lives of Valeria and her companions, but after seeing her friends take up arms to defend the city from Apexi, she could no longer stand by and joined the fight. Though usually reserved, once she has made up her mind, she always sees her choice through with determination.",
+        "fullname": "Flocke Cerha",
+        "leader_skill": {
+          "description": "Boosts all allies' P. ATK and M. ATK by 8% for each Merchant character in the party.",
+          "name": "Peddler's Resolve to Fight"
+        },
+        "name": "Flocke",
+        "overlay_name": "Flocke Cerha",
+        "profile_voice_text": "To protect this town and its people... I have decided to fight!",
+        "start_at": "2024-07-05T03:00:00Z"
+      },
+      {
+        "id": 43602,
+        "acquisition_text": "This time, I want to protect everyone—with my own two hands!",
+        "another_name": "Earnest Angel",
+        "description": "A spirited young peddler. She lives with Valeria and the others, supporting them whenever she can, especially when they get a bit careless. She has an exceptional eye for quality, most notably when it comes to seafood, which always leaves her customers very satisfied. Having experienced the joy of being helped when she needed it, she now strives to lend a hand to anyone else in need.",
+        "fullname": "Flocke Cerha",
+        "leader_skill": {
+          "description": "Boosts Stab affinity characters' P. ATK, M. ATK, P. DEF, and M. DEF by 25%.",
+          "name": "Angel's Blessing"
+        },
+        "name": "Flocke",
+        "overlay_name": "Flocke Cerha",
+        "profile_voice_text": "I'm Flocke Cerha, a peddler. I'm quite confident in my eye for good fish!",
+        "start_at": "2025-02-12T03:00:00Z"
+      },
+      {
+        "id": 43701,
+        "acquisition_text": "All aboard! Time to put my newly trained fists to the test!",
+        "another_name": "The Captain Awakens",
+        "description": "A once-renowned sailor from the northern seas of the kingdom. His ship was attacked by an Apexi, resulting in the loss of his wife and crew. Since then, he has been drowning his sorrows in alcohol. However, thanks to the companions he met in the capital, he was inspired to pursue his dream of reaching the World's End once again.",
+        "fullname": "Lanze Dach",
+        "leader_skill": {
+          "description": "At the start of battle, reduces Adventurer characters' damage received by 30% for 2 attacks.",
+          "name": "No More Farewells"
+        },
+        "name": "Lanze",
+        "overlay_name": "Lanze Dach",
+        "profile_voice_text": "I'm a sailor who lost it all. But I won't lose heart again. I'll stay strong for my crew!",
+        "start_at": "2024-08-23T03:00:00Z"
+      },
+      {
+        "id": 43801,
+        "acquisition_text": "I will become the strongest knight!<br>I swear upon a shooting star!",
+        "another_name": "Return of the Knight",
+        "description": "A bright and cheerful beastgirl, and Resna's best friend.\nEver since she was a child, she has admired knights.\nShe and Resna made a pact to fulfill their dreams together and often encourage each other along the way.\nInfluenced by her father, a blacksmith, she wields a giant hammer as her weapon.\nShe has a bit of an obsession with hammers.",
+        "fullname": "Izana Kokoschka",
+        "leader_skill": {
+          "description": "Boosts Whimsical characters' M. ATK and M. DEF by 25%.",
+          "name": "Hammer Power!"
+        },
+        "name": "Izana",
+        "overlay_name": "Izana Kokoschka",
+        "profile_voice_text": "My dream is to be the strongest knight ever!\nI'll protect everyone with this hammer!",
+        "start_at": "2024-04-04T03:00:00Z"
+      },
+      {
+        "id": 43802,
+        "acquisition_text": "Just look at this beautiful outfit! I hope you'll stay by my side forevermore!",
+        "another_name": "Dragon's Bride",
+        "description": "A cheerful and friendly beast girl. She is aiming to become the strongest knight, so she was eager to accept the dragon-slaying mission. Although she is brave, she also has a feminine side and couldn't stop admiring herself in the mirror after changing into this outfit. She has no plans to get married anytime soon, but seeing her in this outfit brought tears to her father's eyes, and she found it difficult to comfort him.",
+        "fullname": "Izana Kokoschka",
+        "leader_skill": {
+          "description": "Grants Promise & Teamwork characters Initiative and boosts their critical damage by 50%.",
+          "name": "Bride's Guidance"
+        },
+        "name": "Izana",
+        "overlay_name": "Izana Kokoschka",
+        "profile_voice_text": "I'm usually running around with a hammer, so wearing something this pretty makes me nervous!",
+        "start_at": "2024-09-20T03:00:00Z"
+      },
+      {
+        "id": 43803,
+        "acquisition_text": "To protect those I care about, I can't afford to stop!",
+        "another_name": "Stormy Smite",
+        "description": "A beast-girl who proclaims herself the knight of her best friend, Resna. This outfit, made for the battle against the Polar Night Alchemists, is lightweight and designed for easy movement, allowing her to swing her hammer faster than ever before. Using a hammer she made with her father's help, she continues to pursue her childhood dream of becoming the strongest knight.",
+        "fullname": "Izana Kokoschka",
+        "leader_skill": {
+          "description": "Grants Lantarna characters Initiative and boosts their P. ATK by 30%.",
+          "name": "Power to Those Who Trust in Their Friends!"
+        },
+        "name": "Izana",
+        "overlay_name": "Izana Kokoschka",
+        "profile_voice_text": "My new hammer has a brilliant shine, the perfect weight, and it swings like a dream!",
+        "start_at": "2025-01-15T03:00:00Z"
+      },
+      {
+        "id": 43901,
+        "acquisition_text": "Reviving alchemy is my wish as well. Come now, let's work at it together.",
+        "another_name": "Master of Alchemy",
+        "description": "Resna's alchemy mentor. She met Resna in a village where she stopped on her journey and taught her the basics of alchemy. She usually has a cheerful and straightforward personality, but when it comes to alchemy, she can show a stern side. She is also rather careless in her personal life, and Resna often has to take care of her.",
+        "fullname": "Saskia",
+        "leader_skill": {
+          "description": "Boosts all allies' critical damage by 5% for each Lantarna character in the party.",
+          "name": "The Comet Is with Us"
+        },
+        "name": "Saskia",
+        "overlay_name": "Saskia",
+        "profile_voice_text": "I'm Saskia, an alchemist with a dream—just like Resna. Together, we aim to find the World's End!",
+        "start_at": "2024-11-26T03:00:00Z"
+      },
+      {
+        "id": 43902,
+        "acquisition_text": "新たな年をみんなで祝えるなんて。\nふふっ……とっても嬉しいわね",
+        "another_name": "【Spring Wishes】",
+        "description": "レスナの錬金術の師匠。\n弟子が一人立ちしてからは、自分自身の目的のために世界中を旅している。人と人との繋がりを大事にしており、年の初めには世話になった人々の下へ挨拶に赴き、贈り物をするという律義な一面を持つ。\nそんな彼女がどこで生まれ、どう生きてきたのか。知る者は少ない。\n",
+        "fullname": "ザスキア",
+        "leader_skill": {
+          "description": "得意属性が氷属性のキャラは「魔攻+40%」",
+          "name": "身体の芯まで凍らせてあげる"
+        },
+        "name": "ザスキア",
+        "overlay_name": "Saskia",
+        "profile_voice_text": "ザスキアよ。一緒に新年を祝えて\n嬉しいわ。今年もよろしくね～",
+        "start_at": "2024-12-31T15:00:00Z"
+      },
+      {
+        "id": 44001,
+        "acquisition_text": "I'm said to have the power of a genius—and this time I'll let you use that power for once!",
+        "another_name": "Battle Phenom",
+        "description": "A young girl who served as an enforcer under the code name Crow in the Moonlight Society, an organization unrecognized by the kingdom. She has lived her life obeying nothing but the words of the organization's leader, Oliver, who is also her only family—her grandfather. She is very confident in her fighting skills, and her prowess in combat is undeniable. She has a strong sense of pride, hates to lose, and can be headstrong, often rushing into situations on her own.",
+        "fullname": "Johanna",
+        "leader_skill": {
+          "description": "Grants Promise & Teamwork characters a high chance to inflict Poison on the target for 1 turn after attacking, and boosts their skill damage to poisoned attack targets by 50%.",
+          "name": "Never Let Your Prey Escape!"
+        },
+        "name": "Johanna",
+        "overlay_name": "Johanna",
+        "profile_voice_text": "This is where I belong now. You can trust this genius to keep everything here safe.",
+        "start_at": "2024-11-26T03:00:00Z"
+      },
+      {
+        "id": 44101,
+        "acquisition_text": "I owe you all a great debt. Feel free to make use of my skills.",
+        "another_name": "Beastly Fencer",
+        "description": "An alchemist whose body has been partially transformed into that of a beast. He has no qualms about using his strength to force others into submission, so long as it helps fulfill his desires. Though he doesn't talk much, he changes when it comes to his younger brother, his only family. As an older brother, he's surprisingly caring and responsible, but when it comes to dealing with women, he's rather hopeless.",
+        "fullname": "Geron Diezel",
+        "leader_skill": {
+          "description": "Boosts Quiet characters' P. ATK and P. DEF by 25%.",
+          "name": "Calm Judgment"
+        },
+        "name": "Geron",
+        "overlay_name": "Geron Diezel",
+        "profile_voice_text": "I am Geron Diezel, an alchemist. I wield this sword for the sake of our future.",
+        "start_at": "2024-12-24T03:00:00Z"
+      },
+      {
+        "id": 44201,
+        "acquisition_text": "This path seems as if it will prove most entertaining. Time for me to add a new chapter to my story.",
+        "another_name": "Queen's Grace",
+        "description": "An alchemist with the appearance of nobility. She uses alchemy in her ambition to establish the Kingdom of Lara, putting her at odds with Resna, who believes alchemy should be used to bring happiness to others. As a self-proclaimed leader, she is meticulous about maintaining an air of elegance in her appearance, which she believes is appropriate for a queen who leads others.",
+        "fullname": "Lara Trockel",
+        "leader_skill": {
+          "description": "Boosts all allies' battle item damage by 20% for each Prim character in the party.",
+          "name": "Bow before My Grace!"
+        },
+        "name": "Lara",
+        "overlay_name": "Lara Trockel",
+        "profile_voice_text": "I am Lara Trockel. A proud queen who will be the foundation upon which unfulfilled souls stand.",
+        "start_at": "2024-12-12T03:00:00Z"
+      },
+      {
+        "id": 44202,
+        "acquisition_text": "迷えるときは、この背中を追いなさい。\n理想の国へ導いて差し上げますわ",
+        "another_name": "【Great Refinement】",
+        "description": "ララ・キングダムの王にして錬金術士。\n各地で優秀な人物を見つけては、ララ・キングダムの臣下として登用しようとしている。少々強引なところはあるが、面倒見がよく臣下や国民からは慕われている。\nアンペルと揃いでこの衣装を着ていると、まるで彼を秘書として従えているように見えるため、ちょっと気分がいいらしい。",
+        "fullname": "ララ・トロッケル",
+        "leader_skill": {
+          "description": "味方全員は「お嬢様」1人につき「物攻・魔攻+10%」と「スキルダメージ・ブレイクダメージ+20%」",
+          "name": "いかなるときも優雅たれ"
+        },
+        "name": "ララ",
+        "overlay_name": "Lara Trockel",
+        "profile_voice_text": "ララ・トロッケル。王たる者として、\nより優美に、華麗に活躍いたしましょう",
+        "start_at": "2025-01-17T03:00:00Z"
+      },
+      {
+        "id": 44301,
+        "acquisition_text": "I swore that I would wield this sword to protect everyone!",
+        "another_name": "Noble Wolf",
+        "description": "A new alchemy student at Lantarna Academy. She enrolled at the academy via recommendation, but she rarely attends class and doesn't seem to have joined the alchemy club. She's taciturn and rarely mingles with her classmates, instead preferring to be a lone wolf.",
+        "fullname": "Eren K. St. Burg",
+        "leader_skill": {
+          "description": "Boosts Quiet characters' skill damage by 75% when attacking a weakness.",
+          "name": "The Shadow Who Rescues and Protects"
+        },
+        "name": "Eren",
+        "overlay_name": "Eren",
+        "profile_voice_text": "I enrolled here at Lantarna Academy for personal reasons. Will I...fit in here?",
+        "start_at": "2024-08-05T03:00:00Z"
+      },
+      {
+        "id": 44401,
+        "acquisition_text": "If you're unsure, just charge ahead! Dream big! Dream HUGE!",
+        "another_name": "Fashionable Kitty",
+        "description": "A trusted vassal of the Kingdom of Lara. Mieke once ran a thriving accessory shop in Wirbel Province, where her designs were especially popular among young women. Captivated by Lara's magnanimity, she left this position and devoted herself entirely to Lara's service. She inherited a cheerful and vivacious personality from her entertainer father, but hates getting stuck on tiny details, always moving forward with bold confidence.",
+        "fullname": "Mieke Cronmelin",
+        "leader_skill": {
+          "description": "Grants Creator characters Initiative and boosts their skill damage by 50%.",
+          "name": "Flash of Inspiration!"
+        },
+        "name": "Mieke",
+        "overlay_name": "Mieke Cronmelin",
+        "profile_voice_text": "I'm Mieke, the top wardrobe designer in the Kingdom of Lara! Leave anything fashion-related to me!",
+        "start_at": "2025-02-12T03:00:00Z"
+      },
+      {
+        "id": 44501,
+        "acquisition_text": "These fierce flames that burn within me... I'll turn them into a melody for all to hear!",
+        "another_name": "Fervorous Diva",
+        "description": "A trusted vassal of the Kingdom of Lara. Gifted with musical talent, Diona rose to fame as a young diva. She first met Mieke in Wirbel Province, their hometown, where the two became close friends who recognized each other's talents. Inspired by Lara's elegance and grace, Diona has sworn absolute loyalty to her. She has a strong sense of aesthetics and feels unsettled whenever she sees something that disturbs the beauty of the world.",
+        "fullname": "Diona Grundberg",
+        "leader_skill": {
+          "description": "Boosts all allies' Paralysis resistance by 100% and boosts their skill damage by 50% when their attack target is paralyzed.",
+          "name": "Captivated by the Queen"
+        },
+        "name": "Diona",
+        "overlay_name": "Diona Grundberg",
+        "profile_voice_text": "I'm Diona. Would you like to hear me sing? Very well, let me sing in praise of Lady Lara...",
+        "start_at": "2025-02-12T03:00:00Z"
+      },
+      {
+        "id": 44601,
+        "acquisition_text": "Heh. Bring it on. No matter who my opponent is, I'll smash 'em to bits!",
+        "another_name": "Pinkish Destroyer",
+        "description": "A renowned fighter, widely known as \"Brawl Master Magda.\" Formerly a member of the Moonlight Society, she is acquainted with Valeria and others. Confident in her physical strength, she finds purpose in earning her keep through sheer skill. Magda has her own personal code when it comes to work, and will outright refuse jobs she doesn't feel are worth taking. Though her personality can be rough around the edges, she always cares for those close to her. She also has a quieter side that enjoys listening to music as a pastime.",
+        "fullname": "Magda Kupker",
+        "leader_skill": {
+          "description": "Boosts Adventurer characters' P. ATK and M. ATK by 10% and skill damage and stun damage by 30%.",
+          "name": "Smash, Smash, and Smash Some More!"
+        },
+        "name": "Magda",
+        "overlay_name": "Magda Kupker",
+        "profile_voice_text": "The name's Magda, brawler for hire. Got a job? I'll take it—but my bat doesn't come cheap.",
+        "start_at": "2025-02-12T03:00:00Z"
+      },
+      {
+        "id": 44701,
+        "acquisition_text": "I shall judge your efforts with my own eyes. After all, that is my duty.",
+        "another_name": "Passionate Blood",
+        "description": "A young man appointed as the Seneschal of Alchemy at an early age. He has been sent by the kingdom to Resna and her companions as an overseer to determine whether they can achieve the restoration of alchemy. Though he considers Roman a friend from their school days, he also sees him as a rival—albeit one-sidedly. While he maintains a calm and composed demeanor, he carries an intense passion deep within.",
+        "fullname": "Bradley Khan",
+        "leader_skill": {
+          "description": "After Lantarna characters attack, boosts their target's Stab damage received by 20% for 1 attack.",
+          "name": "Keen Eye for Weakness"
+        },
+        "name": "Brad",
+        "overlay_name": "Bradley Khan",
+        "profile_voice_text": "I am Bradley Khan. I've recently been appointed the Seneschal of Alchemy. Pleased to make your acquaintance.",
+        "start_at": "2025-02-12T03:00:00Z"
+      },
+      {
+        "id": 44801,
+        "acquisition_text": "I'm still not used to standing out here in the sunlight, but I want to stay close to those who matter most...",
+        "another_name": "Magical Puppeteer",
+        "description": "An alchemist cloaked in an aura of darkness. She admires Criselda, the leader of the Polar Night Alchemists, regarding her as a close friend and assisting her for some time now. She also loves playing with dolls, having given names to the four dolls that she always keeps by her side. Vindictive by nature, she never forgets a deed done to her—whether it be a gesture of kindness or an act of betrayal.",
+        "fullname": "Antje Moltke",
+        "leader_skill": {
+          "description": "Boosts Bolt affinity characters' P. ATK, M. ATK, P. DEF, and M. DEF by 25%.",
+          "name": "Puppeteer's Devotion"
+        },
+        "name": "Antje",
+        "overlay_name": "Antje Moltke",
+        "profile_voice_text": "I'm Antje, an alchemist... Nice to meet you. Come now, everyone, say hello.",
+        "start_at": "2025-03-03T03:00:00Z"
+      },
+      {
+        "id": 44901,
+        "acquisition_text": "My wish is to know everything in this world. I'd be honored if you'd lend me your aid!",
+        "another_name": "Wisdom Inquirer",
+        "description": "An alchemist with the mind of a researcher. Driven by an insatiable thirst for knowledge, he constantly seeks new discoveries. He despises being interrupted in his research, which often brings him into conflict with Resna and the others. Though his personal life suffers because he is always engrossed in research, his refined upbringing is evident in his everyday mannerisms.",
+        "fullname": "Walther Mann",
+        "leader_skill": {
+          "description": "Boosts Glasses characters' burst skill damage by 100%.",
+          "name": "Seeker of Knowledge's Favorite Specs"
+        },
+        "name": "Walther",
+        "overlay_name": "Walther Mann",
+        "profile_voice_text": "I am Walther, an alchemist and seeker of knowledge. I possess more than enough common sense, so worry not.",
+        "start_at": "2025-03-03T03:00:00Z"
+      },
+      {
+        "id": 45001,
+        "acquisition_text": "私のすべてを、あなたに預けるわ\n――ふふっ、たっぷり楽しませてね",
+        "another_name": "【Ambitious Alchemist】",
+        "description": "「極夜の錬金党」の党首。\n各地で素材の独占・強奪を繰り返し、己の渇望を満たすために錬金術の研究をしていた。\n敵対する者に対しては非情に振る舞うが、協力的な人間には惜しみない援助を送る。料理が得意で、意外と面倒見のいい一面も。",
+        "fullname": "クリセルダ・アメルハウザー",
+        "leader_skill": {
+          "description": "得意属性が雷属性のキャラは「攻撃対象がブレイク状態の時、スキルダメージ+100%」",
+          "name": "私たちの渇望のために"
+        },
+        "name": "クリセルダ",
+        "overlay_name": "Criselda Amelhauser",
+        "profile_voice_text": "私はクリセルダ。紆余曲折はあったけど……\nふふっ、仲良くしてくれると嬉しいわ",
+        "start_at": "2024-12-20T03:00:00Z"
+      },
+      {
+        "id": 45101,
+        "acquisition_text": "故郷への想いと、姉様への想い――\nどちらも背負って、私は強くなる",
+        "another_name": "【Mourning Blades】",
+        "description": "ノーヴァ神聖国で「聖戦士」を務める少女。\nアルビーナを「姉様」と呼び、血は繋がっていないが本当の姉妹のように慕っている。\nクールでミステリアスな雰囲気を纏っているが、天然なところがあり、奇抜な行動で周囲を驚かせることも。",
+        "fullname": "ベップ・ジムロック",
+        "leader_skill": {
+          "description": "「無数島群域」は「物攻・魔攻+50%」",
+          "name": "復讐を誓う若き戦士"
+        },
+        "name": "ベップ",
+        "overlay_name": "Bepp Zimlock",
+        "profile_voice_text": "ベップ・ジムロック。ノーヴァ神聖国の\n聖戦士にして、アルビーナ姉様の護衛役よ",
+        "start_at": "2025-03-12T03:00:00Z"
+      },
+      {
+        "id": 45201,
+        "acquisition_text": "未知なる冒険へ、アタシが案内してあげる！\n……なーんてね",
+        "another_name": "【Dream of Hero】",
+        "description": "ノーヴァ神聖国の「星の案内人」にして、錬金術士。\n島にやってきた錬金術士と出会ったことをきっかけに、錬金術にのめり込むようになる。神聖国では各人の「天命」として決められた仕事以外への従事は禁じられているため、錬金術士としての活動は周囲に隠している。\n頭の回転が速く口も達者で、よく悪知恵が働く。",
+        "fullname": "アルビーナ・ジムロック",
+        "leader_skill": {
+          "description": "「無数島群域」は「物攻・ブレイクダメージ+30%」",
+          "name": "星の案内人"
+        },
+        "name": "アルビーナ",
+        "overlay_name": "Alvina Zimlock",
+        "profile_voice_text": "アルビーナだよ！\u3000ノーヴァ神聖国の\n星の案内人にして……駆け出しの錬金術士！",
+        "start_at": "2025-03-06T03:00:00Z"
+      }
+    ]
+  }
+}

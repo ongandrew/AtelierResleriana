@@ -1,0 +1,994 @@
+[
+  {
+    "id": 10004009,
+    "description": "- No tips available"
+  },
+  {
+    "id": 10004011,
+    "description": "- Delays turn\n- Reduces damage received for allies\n- Reduces damage dealt by opponents"
+  },
+  {
+    "id": 10005014,
+    "description": "- Boosts damage dealt\n- Delays opponent's turn\n- Chance to advance own turn each turn"
+  },
+  {
+    "id": 10009022,
+    "description": "- Chance to inflict Paralysis\n- When stunned, boosts own damage dealt\n- When stunned, boosts own damage received"
+  },
+  {
+    "id": 10014011,
+    "description": "- Chance to counter\n- Inflicts Poison"
+  },
+  {
+    "id": 10017005,
+    "description": "- Chance to counter\n- Inflicts Poison\n- Grants Regeneration to allies"
+  },
+  {
+    "id": 10026001,
+    "description": "- When KO'd, boosts all allies' damage dealt and damage received\n- Inflicts Burn\n- Reduces damage received for allies\n- Reduces damage dealt by opponents"
+  },
+  {
+    "id": 10034007,
+    "description": "- Protection\n- Grants self Regeneration\n- Restores stun gauge each turn\n- Inflicts Sleep on opponents with reduced SPD\n- Converts allies' panels into burst panels"
+  },
+  {
+    "id": 10049001,
+    "description": "- No tips available"
+  },
+  {
+    "id": 10052001,
+    "description": "- Counters\n- Inflicts Poison\n- Grants Regeneration to allies\n- Inflicts Nullify Recovery on all opponents"
+  },
+  {
+    "id": 10069003,
+    "description": "- Heals self after turn\n- Receives increased damage while stunned"
+  },
+  {
+    "id": 10073003,
+    "description": "- Receives increased damage while stunned\n- Removes own positive effects when stunned\n- Restores allies' stun gauge"
+  },
+  {
+    "id": 10091001,
+    "description": "- At the start of battle, grants self Damage Received Down\n- Burst power increases based on number of positive effects\n- Makes all allies evade\n- Heals all allies"
+  },
+  {
+    "id": 10091002,
+    "description": "- Grants Evasion to all allies\n- Heals all allies"
+  },
+  {
+    "id": 10092001,
+    "description": "- At the start of battle, grants self Damage Received Down\n- At certain HP threshold, grants multiple effects to self and restores HP\n- Chance to inflict Burn\n- Inflicts Nullify Recovery on all opponents\n- Reduces HP recovery amount received by all opponents\n- Heals allies"
+  },
+  {
+    "id": 10100018,
+    "description": "- At the start of battle, boosts own damage dealt against opponents with negative effects\n- Deals increased damage to opponents with negative effects\n- Heals all allies and grants Regeneration"
+  },
+  {
+    "id": 10107008,
+    "description": "- When hit with full stun gauge, converts weaken panels into boost panels\n- When hit with full stun gauge, converts boost panels into weaken panels\n- Delays turn\n- Inflicts Nullify Positive Effects"
+  },
+  {
+    "id": 10142003,
+    "description": "- When gaining weaken panels, inflicts Paralysis and Damage Received Up on self\n- Inflicts Burn\n- Removes all positive effects from opponents\n- Increases appearance of burn panels"
+  },
+  {
+    "id": 10146019,
+    "description": "- When KO'd, creates boost+ panels\n- Reduces positive effect potency received by all opponents\n- Removes all positive effects from opponents\n- Increases appearance of defense weaken panels"
+  },
+  {
+    "id": 10148007,
+    "description": "- Heals allies\n- Reduces SPD\n- Reduces damage dealt\n- Increases appearance of burn panels\n- Chance to inflict multiple status effects on all opponents\n- At certain HP threshold, heals self and triggers multiple positive effects\n- After Criselda is KO'd, inflicts multiple negative effects on all targets on first action"
+  },
+  {
+    "id": 10149006,
+    "description": "- Reduces HP recovery amount received\n- At the start of battle, grants Nullify Status Effect Resistance Down to all allies\n- Deals increased damage to targets with status effects\n- At certain HP threshold, boosts own damage dealt\n- At certain HP threshold, reduces HP recovery amount received by all opponents\n- While not stunned, gains resistance to the element of received attacks\n- When stunned, removes own element resistance boosts"
+  },
+  {
+    "id": 10205003,
+    "description": "- Inflicts Stun\n- Delays turn\n- Deals increased damage when HP is above certain level\n- Heals self\n- At the start of battle, grants self Regeneration"
+  },
+  {
+    "id": 10206002,
+    "description": "- After using a powerful attack, applies a Field Effect that reduces damage dealt and stun damage dealt\n- Delays turn"
+  },
+  {
+    "id": 10208001,
+    "description": "- When stunned, boosts own damage received\n- When recovering from stun, grants self multiple positive effects\n- After using a powerful attack, applies a Field Effect that reduces damage dealt and stun damage dealt\n- Delays turn"
+  },
+  {
+    "id": 10208002,
+    "description": "- When stunned, boosts own damage received\n- When recovering from stun, grants self multiple positive effects\n- Uses powerful attack after certain number of stuns\n- After using a powerful attack, applies a Field Effect that reduces damage dealt and stun damage dealt\n- Reduces negative effect potency received by opponents\n- Delays turn"
+  },
+  {
+    "id": 10212001,
+    "description": "- At the start of battle, grants self All Element Resistance Up, Damage Received Down, and Stun Damage Received Down\n- While stunned, Kravelga (Right Arm) and Kravelga (Left Arm) cannot act\n- Changes action when ally is KO'd\n- Inflicts Stun\n- Increases appearance of burn panels"
+  },
+  {
+    "id": 10213001,
+    "description": "- Inflicts Darkness\n- Grants self Evasion\n- Reduces HP recovery amount received by all opponents\n- Increases appearance of darkness panels"
+  },
+  {
+    "id": 10214001,
+    "description": "- When KO'd, converts weaken panels into darkness panels\n- Inflicts Darkness\n- Heals all allies\n- Reduces positive effect potency received by all opponents\n- Increases appearance of weaken panels"
+  },
+  {
+    "id": 10218001,
+    "description": "- At the start of battle, grants self All Element Resistance Up, Damage Received Down, and Stun Damage Received Down\n- While stunned, Kravelga (Right Arm) and Kravelga (Left Arm) cannot act\n- Changes action when ally is KO'd\n- Inflicts Stun\n- Increases appearance of burn panels"
+  },
+  {
+    "id": 10219001,
+    "description": "- When KO'd, removes Kravelga (Main Body)'s All Element Resistance Up and reduces stun gauge by 50%\n- Inflicts Stun"
+  },
+  {
+    "id": 10220001,
+    "description": "- When KO'd, removes Kravelga (Main Body)'s Damage Received Down and Stun Damage Received Down and reduces stun gauge by 50%\n- Increases appearance of burn panels"
+  },
+  {
+    "id": 10221001,
+    "description": "- Performs attacks that ignore targeting preferences\n- Immune to critical panel effects\n- Cannot receive recovery effects"
+  },
+  {
+    "id": 10222001,
+    "description": "- When an ally is KO'd, grants self Magic Element Resistance Up"
+  },
+  {
+    "id": 10223001,
+    "description": "- Cannot attack while away from the ship\n- After 3 turns, or when all Evil Mimics in play are KO'd, summons new Evil Mimics\n- After defeating a certain number of Evil Mimics, makes contact with ship and delays own turn\n- At the start of turn while in contact with ship, moves away from ship and summons Evil Mimics"
+  },
+  {
+    "id": 10224001,
+    "description": "- When KO'd, applies a Field Effect that reduces status effect resistance for all enemies and allies\n- Heals all allies and removes all status effects\n- Chance to inflict Paralysis"
+  },
+  {
+    "id": 10225001,
+    "description": "- Counters non-WEAK attacks\n- When defeating an opponent, grants self Counter\n- Increases appearance of weaken panels\n- Grants self All Element Resistance Up and Regeneration"
+  },
+  {
+    "id": 10226001,
+    "description": "- At certain HP threshold, advances own turn and changes action\n- Deals increased damage based on number of SPD Up effects active on self\n- Grants self SPD Up and Evasion (MAX 30%)\n- Reduces negative effect potency received by self\n- When stunned, removes one SPD Up effect from self"
+  },
+  {
+    "id": 20092001,
+    "description": "- At the start of battle, grants self Damage Received Down\n- At certain HP threshold, grants multiple effects to self and restores HP\n- Inflicts Burn\n- Inflicts Nullify Recovery on all opponents\n- Reduces HP recovery amount received by all opponents\n- Heals allies"
+  },
+  {
+    "id": 20190002,
+    "description": "- When KO'd, boosts damage dealt for all opponents and all allies\n- Inflicts Burn\n- Heals all allies\n- Converts all allies' panels into boost panels\n- Increases appearance of HP recovery panels"
+  },
+  {
+    "id": 40008001,
+    "description": "- At the start of battle, inflicts Sleep on self\n- When not in Sleep state, changes action after turn (up to 1 time)\n- Protection\n- Counters"
+  },
+  {
+    "id": 40008002,
+    "description": "- Inflicts Sleep on self at the start of battle\n- When not asleep, changes action after acting (up to 1 time)\n- Protection\n- Counters"
+  },
+  {
+    "id": 40008003,
+    "description": "- Inflicts Sleep on self at the start of battle\n- When not asleep, changes action after acting (up to 1 time)\n- Protection\n- Counters"
+  },
+  {
+    "id": 40008004,
+    "description": "- Inflicts Sleep on self at the start of battle\n- When not asleep, changes action after acting (up to 1 time)\n- Protection\n- Counters"
+  },
+  {
+    "id": 40008005,
+    "description": "- Inflicts Sleep on self at the start of battle\n- When not asleep, changes action after acting (up to 1 time)\n- Protection\n- Counters"
+  },
+  {
+    "id": 40008006,
+    "description": "- Inflicts Sleep on self at the start of battle\n- When not asleep, changes action after acting (up to 1 time)\n- Protection\n- Counters"
+  },
+  {
+    "id": 40008007,
+    "description": "- Inflicts Sleep on self at the start of battle\n- When not asleep, changes action after acting (up to 1 time)\n- Protection\n- Counters"
+  },
+  {
+    "id": 40010001,
+    "description": "- Grants Nullify Damage to self at the start of battle\n- Inflicts Poison"
+  },
+  {
+    "id": 40010003,
+    "description": "- Grants Nullify Damage to self at the start of battle\n- Inflicts Poison"
+  },
+  {
+    "id": 40010005,
+    "description": "- Grants Nullify Damage to self at the start of battle\n- Inflicts Poison"
+  },
+  {
+    "id": 40010007,
+    "description": "- Grants Nullify Damage to self at the start of battle\n- Inflicts Poison"
+  },
+  {
+    "id": 40010009,
+    "description": "- Grants Nullify Damage to self at the start of battle\n- Inflicts Poison"
+  },
+  {
+    "id": 40010011,
+    "description": "- Grants Nullify Damage to self at the start of battle\n- Inflicts Poison"
+  },
+  {
+    "id": 40010013,
+    "description": "- Grants Nullify Damage to self at the start of battle\n- Inflicts Poison"
+  },
+  {
+    "id": 40015001,
+    "description": "- Inflicts Sleep on self at the start of battle\n- When not asleep, changes action after acting (up to 1 time)\n- Counters\n- Inflicts Poison\n- Inflicts Paralysis\n- Heals allies"
+  },
+  {
+    "id": 40015002,
+    "description": "- Inflicts Sleep on self at the start of battle\n- When not asleep, changes action after acting (up to 1 time)\n- Counters\n- Inflicts Poison\n- Inflicts Paralysis\n- Heals allies"
+  },
+  {
+    "id": 40015003,
+    "description": "- Inflicts Sleep on self at the start of battle\n- When not asleep, changes action after acting (up to 1 time)\n- Counters\n- Inflicts Poison\n- Inflicts Paralysis\n- Heals allies"
+  },
+  {
+    "id": 40015004,
+    "description": "- Inflicts Sleep on self at the start of battle\n- When not asleep, changes action after acting (up to 1 time)\n- Counters\n- Inflicts Poison\n- Inflicts Paralysis\n- Heals allies"
+  },
+  {
+    "id": 40015005,
+    "description": "- Inflicts Sleep on self at the start of battle\n- When not asleep, changes action after acting (up to 1 time)\n- Counters\n- Inflicts Poison\n- Inflicts Paralysis\n- Heals allies"
+  },
+  {
+    "id": 40015006,
+    "description": "- Inflicts Sleep on self at the start of battle\n- When not asleep, changes action after acting (up to 1 time)\n- Counters\n- Inflicts Poison\n- Inflicts Paralysis\n- Heals allies"
+  },
+  {
+    "id": 40015007,
+    "description": "- Inflicts Sleep on self at the start of battle\n- When not asleep, changes action after acting (up to 1 time)\n- Counters\n- Inflicts Poison\n- Inflicts Paralysis\n- Heals allies"
+  },
+  {
+    "id": 40019001,
+    "description": "- Damage dealt increases based on the number of different status effects inflicted on self\n- Heals allies"
+  },
+  {
+    "id": 40019002,
+    "description": "- Damage dealt increases based on the number of different status effects inflicted on self\n- Heals allies"
+  },
+  {
+    "id": 40019003,
+    "description": "- Damage dealt increases based on the number of different status effects inflicted on self\n- Heals allies"
+  },
+  {
+    "id": 40019004,
+    "description": "- Damage dealt increases based on the number of different status effects inflicted on self\n- Heals allies"
+  },
+  {
+    "id": 40019005,
+    "description": "- Damage dealt increases based on the number of different status effects inflicted on self\n- Heals allies"
+  },
+  {
+    "id": 40019006,
+    "description": "- Damage dealt increases based on the number of different status effects inflicted on self\n- Heals allies"
+  },
+  {
+    "id": 40019007,
+    "description": "- Damage dealt increases based on the number of different status effects inflicted on self\n- Heals allies"
+  },
+  {
+    "id": 40026001,
+    "description": "- When KO'd, boosts all allies' damage dealt and damage received\n- Inflicts Burn\n- Reduces allies' damage received\n- Reduces opponents' damage dealt"
+  },
+  {
+    "id": 40026002,
+    "description": "- When KO'd, boosts all allies' damage dealt and damage received\n- Inflicts Burn\n- Reduces allies' damage received\n- Reduces opponents' damage dealt"
+  },
+  {
+    "id": 40026003,
+    "description": "- When KO'd, boosts all allies' damage dealt and damage received\n- Inflicts Burn\n- Reduces allies' damage received\n- Reduces opponents' damage dealt"
+  },
+  {
+    "id": 40026004,
+    "description": "- When KO'd, boosts all allies' damage dealt and damage received\n- Inflicts Burn\n- Reduces allies' damage received\n- Reduces opponents' damage dealt"
+  },
+  {
+    "id": 40026005,
+    "description": "- When KO'd, boosts all allies' damage dealt and damage received\n- Inflicts Burn\n- Reduces allies' damage received\n- Reduces opponents' damage dealt"
+  },
+  {
+    "id": 40026006,
+    "description": "- When KO'd, boosts all allies' damage dealt and damage received\n- Inflicts Burn\n- Reduces allies' damage received\n- Reduces opponents' damage dealt"
+  },
+  {
+    "id": 40026007,
+    "description": "- When KO'd, boosts all allies' damage dealt and damage received\n- Inflicts Burn\n- Reduces allies' damage received\n- Reduces opponents' damage dealt"
+  },
+  {
+    "id": 40031001,
+    "description": "- Each time action is taken, reduces own damage received\n- When stunned, removes own Damage Received Down\n- Each time action is taken, boosts own damage dealt"
+  },
+  {
+    "id": 40031002,
+    "description": "- Each time action is taken, reduces own damage received\n- When stunned, removes own Damage Received Down\n- Each time action is taken, boosts own damage dealt"
+  },
+  {
+    "id": 40031003,
+    "description": "- Each time action is taken, reduces own damage received\n- When stunned, removes own Damage Received Down\n- Each time action is taken, boosts own damage dealt"
+  },
+  {
+    "id": 40031004,
+    "description": "- Each time action is taken, reduces own damage received\n- When stunned, removes own Damage Received Down\n- Each time action is taken, boosts own damage dealt"
+  },
+  {
+    "id": 40031005,
+    "description": "- Each time action is taken, reduces own damage received\n- When stunned, removes own Damage Received Down\n- Each time action is taken, boosts own damage dealt"
+  },
+  {
+    "id": 40031006,
+    "description": "- Each time action is taken, reduces own damage received\n- When stunned, removes own Damage Received Down\n- Each time action is taken, boosts own damage dealt"
+  },
+  {
+    "id": 40031007,
+    "description": "- Reduces own damage received with each turn\n- Removes own damage received reduction when stunned\n- Boosts own damage dealt with each turn"
+  },
+  {
+    "id": 40038001,
+    "description": "- Reduces damage received while not stunned\n- Receives increased critical damage\n- When recovering from stun, boosts own negative effect potency and grants Regen\n- When stunned, removes all own Regen effects\n- Boosts own damage dealt with each turn\n- Inflicts Paralysis\n- Delays turn"
+  },
+  {
+    "id": 40038002,
+    "description": "- Reduces damage received while not stunned\n- Receives increased critical damage\n- When recovering from stun, boosts own negative effect potency and grants Regen\n- When stunned, removes all own Regen effects\n- Boosts own damage dealt with each turn\n- Inflicts Paralysis\n- Delays turn"
+  },
+  {
+    "id": 40038003,
+    "description": "- Reduces damage received while not stunned\n- Receives increased critical damage\n- When recovering from stun, boosts own negative effect potency and grants Regen\n- When stunned, removes all own Regen effects\n- Boosts own damage dealt with each turn\n- Inflicts Paralysis\n- Delays turn"
+  },
+  {
+    "id": 40038004,
+    "description": "- Reduces damage received while not stunned\n- Receives increased critical damage\n- When recovering from stun, boosts own negative effect potency and grants Regen\n- When stunned, removes all own Regen effects\n- Boosts own damage dealt with each turn\n- Inflicts Paralysis\n- Delays turn"
+  },
+  {
+    "id": 40038005,
+    "description": "- Reduces damage received while not stunned\n- Receives increased critical damage\n- When recovering from stun, boosts own negative effect potency and grants Regen\n- When stunned, removes all own Regen effects\n- Boosts own damage dealt with each turn\n- Inflicts Paralysis\n- Delays turn"
+  },
+  {
+    "id": 40038006,
+    "description": "- Reduces damage received while not stunned\n- Receives increased critical damage\n- When recovering from stun, boosts own negative effect potency and grants Regen\n- When stunned, removes all own Regen effects\n- Boosts own damage dealt with each turn\n- Inflicts Paralysis\n- Delays turn"
+  },
+  {
+    "id": 40038007,
+    "description": "- Reduces damage received while not stunned\n- Receives increased critical damage\n- When recovering from stun, boosts own negative effect potency and grants Regen\n- When stunned, removes all own Regen effects\n- Boosts own damage dealt with each turn\n- Inflicts Paralysis\n- Delays turn"
+  },
+  {
+    "id": 40055001,
+    "description": "- At battle start, grants Damage Immunity to self\n- Removes own negative effects with each turn\n- When Damage Immunity is active, increases remaining times of own Damage Immunity\n- When Damage Immunity is not active, grants Damage Immunity to self"
+  },
+  {
+    "id": 40055002,
+    "description": "- At battle start, grants Damage Immunity to self\n- Removes own negative effects with each turn\n- When Damage Immunity is active, increases remaining times of own Damage Immunity\n- When Damage Immunity is not active, grants Damage Immunity to self"
+  },
+  {
+    "id": 40055003,
+    "description": "- At battle start, grants Damage Immunity to self\n- Removes own negative effects with each turn\n- When Damage Immunity is active, increases remaining times of own Damage Immunity\n- When Damage Immunity is not active, grants Damage Immunity to self"
+  },
+  {
+    "id": 40055004,
+    "description": "- At battle start, grants Damage Immunity to self\n- Removes own negative effects with each turn\n- When Damage Immunity is active, increases remaining times of own Damage Immunity\n- When Damage Immunity is not active, grants Damage Immunity to self"
+  },
+  {
+    "id": 40055005,
+    "description": "- At battle start, grants Damage Immunity to self\n- Removes own negative effects with each turn\n- When Damage Immunity is active, increases remaining times of own Damage Immunity\n- When Damage Immunity is not active, grants Damage Immunity to self"
+  },
+  {
+    "id": 40055006,
+    "description": "- At battle start, grants Damage Immunity to self\n- Removes own negative effects with each turn\n- When Damage Immunity is active, increases remaining times of own Damage Immunity\n- When Damage Immunity is not active, grants Damage Immunity to self"
+  },
+  {
+    "id": 40055007,
+    "description": "- At battle start, grants Damage Immunity to self\n- Removes own negative effects with each turn\n- When Damage Immunity is active, increases remaining times of own Damage Immunity\n- When Damage Immunity is not active, grants Damage Immunity to self"
+  },
+  {
+    "id": 40062001,
+    "description": "- At battle start, inflicts Sleep on self\n- When not in Sleep state, changes action after acting (MAX 1 time)\n- Preemptive\n- Restores own HP with each turn\n- Delays turn"
+  },
+  {
+    "id": 40062002,
+    "description": "- At battle start, inflicts Sleep on self\n- When not in Sleep state, changes action after acting (MAX 1 time)\n- Preemptive\n- Restores own HP with each turn\n- Delays turn"
+  },
+  {
+    "id": 40062003,
+    "description": "- At battle start, inflicts Sleep on self\n- When not in Sleep state, changes action after acting (MAX 1 time)\n- Preemptive\n- Restores own HP with each turn\n- Delays turn"
+  },
+  {
+    "id": 40062004,
+    "description": "- At battle start, inflicts Sleep on self\n- When not in Sleep state, changes action after acting (MAX 1 time)\n- Preemptive\n- Restores own HP with each turn\n- Delays turn"
+  },
+  {
+    "id": 40062005,
+    "description": "- At battle start, inflicts Sleep on self\n- When not in Sleep state, changes action after acting (MAX 1 time)\n- Preemptive\n- Restores own HP with each turn\n- Delays turn"
+  },
+  {
+    "id": 40062006,
+    "description": "- At battle start, inflicts Sleep on self\n- When not in Sleep state, changes action after acting (MAX 1 time)\n- Preemptive\n- Restores own HP with each turn\n- Delays turn"
+  },
+  {
+    "id": 40062007,
+    "description": "- At battle start, inflicts Sleep on self\n- When not in Sleep state, changes action after acting (MAX 1 time)\n- Preemptive\n- Restores own HP with each turn\n- Delays turn"
+  },
+  {
+    "id": 40089001,
+    "description": "- Inflicts Poison\n- Counters"
+  },
+  {
+    "id": 40089002,
+    "description": "- Inflicts Poison\n- Counters"
+  },
+  {
+    "id": 40089003,
+    "description": "- Inflicts Poison\n- Counters"
+  },
+  {
+    "id": 40089004,
+    "description": "- Inflicts Poison\n- Counters"
+  },
+  {
+    "id": 40089005,
+    "description": "- Inflicts Poison\n- Counters"
+  },
+  {
+    "id": 40089006,
+    "description": "- Inflicts Poison\n- Counters"
+  },
+  {
+    "id": 40089007,
+    "description": "- Inflicts Poison\n- Counters"
+  },
+  {
+    "id": 40120001,
+    "description": "- When KO'd, converts all panels except Debuff and Status Effect panels to Paralysis panels\n- Boosts damage dealt when self has 5 or more negative effects\n- Advances allies' turns and grants Evasion\n- Has a chance to inflict Poison\n- Has a chance to inflict Brittle"
+  },
+  {
+    "id": 40120002,
+    "description": "- When KO'd, converts all panels except Debuff and Status Effect panels to Paralysis panels\n- Boosts damage dealt when self has 5 or more negative effects\n- Advances allies' turns and grants Evasion\n- Has a chance to inflict Poison\n- Has a chance to inflict Brittle"
+  },
+  {
+    "id": 40120003,
+    "description": "- When KO'd, converts all panels except Debuff and Status Effect panels to Paralysis panels\n- Boosts damage dealt when self has 5 or more negative effects\n- Advances allies' turns and grants Evasion\n- Has a chance to inflict Poison\n- Has a chance to inflict Brittle"
+  },
+  {
+    "id": 40120004,
+    "description": "- When KO'd, converts all panels except Debuff and Status Effect panels to Paralysis panels\n- Boosts damage dealt when self has 5 or more negative effects\n- Advances allies' turns and grants Evasion\n- Has a chance to inflict Poison\n- Has a chance to inflict Brittle"
+  },
+  {
+    "id": 40120005,
+    "description": "- When KO'd, converts all panels except Debuff and Status Effect panels to Paralysis panels\n- Boosts damage dealt when self has 5 or more negative effects\n- Advances allies' turns and grants Evasion\n- Has a chance to inflict Poison\n- Has a chance to inflict Brittle"
+  },
+  {
+    "id": 40120006,
+    "description": "- When KO'd, converts all panels except Debuff and Status Effect panels to Paralysis panels\n- Boosts damage dealt when self has 5 or more negative effects\n- Advances allies' turns and grants Evasion\n- Has a chance to inflict Poison\n- Has a chance to inflict Brittle"
+  },
+  {
+    "id": 40120007,
+    "description": "- When KO'd, converts all panels except Debuff and Status Effect panels to Paralysis panels\n- Boosts damage dealt when self has 5 or more negative effects\n- Advances allies' turns and grants Evasion\n- Has a chance to inflict Poison\n- Has a chance to inflict Brittle"
+  },
+  {
+    "id": 40122001,
+    "description": "- At battle start, grants Damage Immunity to self\n- When stunned, converts Strengthened panels to Burst panels\n- Protection\n- Heals self and removes all status effects\n- Restores own HP and stun gauge"
+  },
+  {
+    "id": 40122003,
+    "description": "- At battle start, grants Damage Immunity to self\n- When stunned, converts Strengthened panels to Burst panels\n- Protection\n- Heals self and removes all status effects\n- Restores own HP and stun gauge"
+  },
+  {
+    "id": 40122005,
+    "description": "- At battle start, grants Damage Immunity to self\n- When stunned, converts Strengthened panels to Burst panels\n- Protection\n- Heals self and removes all status effects\n- Restores own HP and stun gauge"
+  },
+  {
+    "id": 40122007,
+    "description": "- At battle start, grants Damage Immunity to self\n- When stunned, converts Strengthened panels to Burst panels\n- Protection\n- Heals self and removes all status effects\n- Restores own HP and stun gauge"
+  },
+  {
+    "id": 40122009,
+    "description": "- At the start of battle, grants self Damage Immunity\n- When stunned, converts strengthened panels to burst panels\n- Covers\n- Heals self and removes all status effects\n- Restores own HP and stun gauge"
+  },
+  {
+    "id": 40122011,
+    "description": "- At the start of battle, grants self Damage Immunity\n- When stunned, converts strengthened panels to burst panels\n- Covers\n- Heals self and removes all status effects\n- Restores own HP and stun gauge"
+  },
+  {
+    "id": 40122013,
+    "description": "- At the start of battle, grants self Damage Immunity\n- When stunned, converts strengthened panels to burst panels\n- Covers\n- Heals self and removes all status effects\n- Restores own HP and stun gauge"
+  },
+  {
+    "id": 40167001,
+    "description": "- Damage dealt increases with the number of different status effects inflicted on self"
+  },
+  {
+    "id": 40167002,
+    "description": "- Damage dealt increases with the number of different status effects inflicted on self"
+  },
+  {
+    "id": 40167003,
+    "description": "- Damage dealt increases with the number of different status effects inflicted on self"
+  },
+  {
+    "id": 40167004,
+    "description": "- Damage dealt increases with the number of different status effects inflicted on self"
+  },
+  {
+    "id": 40167005,
+    "description": "- Damage dealt increases with the number of different status effects inflicted on self"
+  },
+  {
+    "id": 40167006,
+    "description": "- Damage dealt increases with the number of different status effects inflicted on self"
+  },
+  {
+    "id": 40167007,
+    "description": "- Damage dealt increases with the number of different status effects inflicted on self"
+  },
+  {
+    "id": 40187001,
+    "description": "- When damaged by battle items, reduces own All Element Resistance (non-stackable)\n- Delays turn\n- Reduces negative effect potency received\n- Grants self immunity to negative effects\n- Nullifies effects that delay turns"
+  },
+  {
+    "id": 40187002,
+    "description": "- When damaged by battle items, reduces own All Element Resistance (non-stackable)\n- Delays turn\n- Reduces negative effect potency received\n- Grants self immunity to negative effects\n- Nullifies effects that delay turns"
+  },
+  {
+    "id": 40187003,
+    "description": "- When damaged by battle items, reduces own All Element Resistance (non-stackable)\n- Delays turn\n- Reduces negative effect potency received\n- Grants self immunity to negative effects\n- Nullifies effects that delay turns"
+  },
+  {
+    "id": 40187004,
+    "description": "- When damaged by battle items, reduces own All Element Resistance (non-stackable)\n- Delays turn\n- Reduces negative effect potency received\n- Grants self immunity to negative effects\n- Nullifies effects that delay turns"
+  },
+  {
+    "id": 40187005,
+    "description": "- When damaged by battle items, reduces own All Element Resistance (non-stackable)\n- Delays turn\n- Reduces negative effect potency received\n- Grants self immunity to negative effects\n- Nullifies effects that delay turns"
+  },
+  {
+    "id": 40187006,
+    "description": "- When damaged by battle items, reduces own All Element Resistance (non-stackable)\n- Delays turn\n- Reduces negative effect potency received\n- Grants self immunity to negative effects\n- Nullifies effects that delay turns"
+  },
+  {
+    "id": 40187007,
+    "description": "- When damaged by battle items, reduces own All Element Resistance (non-stackable)\n- Delays turn\n- Reduces negative effect potency received\n- Grants self immunity to negative effects\n- Nullifies effects that delay turns"
+  },
+  {
+    "id": 40203001,
+    "description": "- Before acting, inflicts Taunt on all opponents\n- Boosts damage dealt when HP is below a certain level\n- Inflicts Poison\n- Inflicts Darkness\n- Increases appearance of burn panels"
+  },
+  {
+    "id": 40203002,
+    "description": "- Before acting, inflicts Taunt on all opponents\n- Boosts damage dealt when HP is below a certain level\n- Inflicts Poison\n- Inflicts Darkness\n- Increases appearance of burn panels"
+  },
+  {
+    "id": 40203003,
+    "description": "- Before acting, inflicts Taunt on all opponents\n- Boosts damage dealt when HP is below a certain level\n- Inflicts Poison\n- Inflicts Darkness\n- Increases appearance of burn panels"
+  },
+  {
+    "id": 40203004,
+    "description": "- Before acting, inflicts Taunt on all opponents\n- Boosts damage dealt when HP is below a certain level\n- Inflicts Poison\n- Inflicts Darkness\n- Increases appearance of burn panels"
+  },
+  {
+    "id": 40203005,
+    "description": "- Before acting, inflicts Taunt on all opponents\n- Boosts damage dealt when HP is below a certain level\n- Inflicts Poison\n- Inflicts Darkness\n- Increases appearance of burn panels"
+  },
+  {
+    "id": 40203006,
+    "description": "- Before acting, inflicts Taunt on all opponents\n- Boosts damage dealt when HP is below a certain level\n- Inflicts Poison\n- Inflicts Darkness\n- Increases appearance of burn panels"
+  },
+  {
+    "id": 40203007,
+    "description": "- Before acting, inflicts Taunt on all opponents\n- Boosts damage dealt when HP is below a certain level\n- Inflicts Poison\n- Inflicts Darkness\n- Increases appearance of burn panels"
+  },
+  {
+    "id": 60004004,
+    "description": "- Delays opponent's turn"
+  },
+  {
+    "id": 60004006,
+    "description": "- Delays opponent's turn"
+  },
+  {
+    "id": 60005008,
+    "description": "- Delays opponent's turn\n- Each action has a chance to advance own turn"
+  },
+  {
+    "id": 60005009,
+    "description": "- Delays opponent's turn\n- Each action has a chance to advance own turn"
+  },
+  {
+    "id": 60007001,
+    "description": "- Uses powerful attack when self has 3 or more positive effects\n- When hit by a critical attack, removes all own positive effects and increases damage received (up to 100%)\n- Inflicts Paralysis when opponent has certain number of negative effects\n- Inflicts Stun when opponent has status effects\n- Delays turn when opponent has status effects"
+  },
+  {
+    "id": 60008007,
+    "description": "- Counters\n- Covers"
+  },
+  {
+    "id": 60009011,
+    "description": "- Inflicts Paralysis\n- When stunned, boosts own damage dealt\n- When stunned, reduces own damage received"
+  },
+  {
+    "id": 60012007,
+    "description": "- Inflicts Poison\n- Damage dealt is increased against targets with reduced SPD"
+  },
+  {
+    "id": 60012017,
+    "description": "- Inflicts Poison"
+  },
+  {
+    "id": 60013016,
+    "description": "- Grants Damage Immunity to all allies\n- Receives increased damage while stunned"
+  },
+  {
+    "id": 60013019,
+    "description": "- When stunned, increases positive effect potency received for all opponents and allies\n- Grants Damage Immunity to all allies"
+  },
+  {
+    "id": 60015003,
+    "description": "- Heals allies\n- Chance to counter\n- Chance to inflict Paralysis\n- Inflicts Poison"
+  },
+  {
+    "id": 60015004,
+    "description": "- Counters\n- Heals allies\n- Chance to inflict Paralysis\n- Inflicts Poison"
+  },
+  {
+    "id": 60015005,
+    "description": "- Chance to counter\n- Heals allies\n- Inflicts Poison\n- Chance to inflict Paralysis"
+  },
+  {
+    "id": 60015007,
+    "description": "- Heals allies\n- Counters\n- Chance to inflict Paralysis\n- Inflicts Poison"
+  },
+  {
+    "id": 60017008,
+    "description": "- Chance to counter\n- Inflicts Poison\n- Grants Regen to allies"
+  },
+  {
+    "id": 60017010,
+    "description": "- Has a chance to counter\n- Grants Regen to allies"
+  },
+  {
+    "id": 60017011,
+    "description": "- Has a chance to counter\n- Inflicts Poison\n- Grants Regen to allies\n- Reduces HP recovery amount received by single target opponent"
+  },
+  {
+    "id": 60020004,
+    "description": "- Counters\n- Receives reduced stun damage while Counter is active"
+  },
+  {
+    "id": 60025003,
+    "description": "- Inflicts Sleep"
+  },
+  {
+    "id": 60026010,
+    "description": "- Inflicts Burn on all opponents\n- When KO'd, boosts all allies' damage dealt\n- When KO'd, boosts all allies' damage received"
+  },
+  {
+    "id": 60026014,
+    "description": "- When KO'd, boosts all allies' damage dealt\n- When KO'd, boosts all allies' damage received\n- Inflicts Burn"
+  },
+  {
+    "id": 60030007,
+    "description": "- At the start of wave, grants self Damage Received Down\n- When hit by a physical attack, boosts own damage dealt and damage received\n- When hit by a magic attack, boosts own damage dealt and reduces damage received\n- Has a chance to counter"
+  },
+  {
+    "id": 60034010,
+    "description": "- Protection\n- Grants self Regen\n- Converts allies' panels into burst panels\n- Inflicts SPD Down\n- Inflicts Sleep on opponents with reduced SPD"
+  },
+  {
+    "id": 60035007,
+    "description": "- When stunned, grants Regen to all opponents\n- Delays opponents' turns\n- Advances allies' turns"
+  },
+  {
+    "id": 60035008,
+    "description": "- When stunned, grants Regen to all opponents\n- At certain HP threshold, boosts own damage dealt\n- Delays opponents' turns\n- Advances allies' turns"
+  },
+  {
+    "id": 60039001,
+    "description": "- Inflicts Taunt\n- Dealt damage is increased against taunted targets\n- Has a chance to inflict Paralysis\n- Grants Regen to allies"
+  },
+  {
+    "id": 60039004,
+    "description": "- When stunned, boosts all opponents' damage dealt and critical damage\n- Inflicts Taunt\n- Has a chance to inflict Paralysis\n- Grants Regen to allies"
+  },
+  {
+    "id": 60051001,
+    "description": "- Dealt damage is increased against taunted targets\n- Inflicts Taunt\n- Has a chance to inflict Paralysis\n- Heals allies"
+  },
+  {
+    "id": 60060002,
+    "description": "- Delays turn\n- Before action, restores HP and stun gauge"
+  },
+  {
+    "id": 60063003,
+    "description": "- When inflicted with negative effects, boosts damage received and stun damage received\n- Removes opponents' positive effects\n- Inflicts Poison\n- Heals allies"
+  },
+  {
+    "id": 60063005,
+    "description": "- Inflicts Poison"
+  },
+  {
+    "id": 60063007,
+    "description": "- Inflicts Poison\n- Removes all positive effects from opponents\n- Heals allies"
+  },
+  {
+    "id": 60064001,
+    "description": "- When inflicted with negative effects, boosts damage received and stun damage received\n- Removes all positive effects from opponents\n- Heals allies"
+  },
+  {
+    "id": 60069002,
+    "description": "- When stunned, boosts damage received\n- Restores HP with each action\n- Inflicts Taunt"
+  },
+  {
+    "id": 60069003,
+    "description": "- After action, heals self\n- While stunned, boosts damage received\n- Inflicts Taunt"
+  },
+  {
+    "id": 60071001,
+    "description": "- While stunned, boosts damage received\n- Restores HP with each action\n- Heals allies\n- Heals all allies"
+  },
+  {
+    "id": 60072001,
+    "description": "- When stunned, removes positive effects"
+  },
+  {
+    "id": 60081007,
+    "description": "- Restores own HP and stun gauge with each action\n- Inflicts Taunt\n- Uses powerful attacks"
+  },
+  {
+    "id": 60082002,
+    "description": "- Restores own HP and stun gauge with each action\n- Uses powerful attacks"
+  },
+  {
+    "id": 60089007,
+    "description": "- Inflicts Poison\n- Counters"
+  },
+  {
+    "id": 60090008,
+    "description": "- Protection\n- At the start of battle, grants self multiple Damage Received Down"
+  },
+  {
+    "id": 60091011,
+    "description": "- At the start of battle, grants self Damage Received Down\n- Grants Evasion to all allies\n- Heals all allies"
+  },
+  {
+    "id": 60092001,
+    "description": "- At the start of battle, grants self Damage Received Down\n- At certain HP threshold, grants multiple effects to self and restores HP\n- Has a chance to inflict Burn\n- Reduces HP recovery amount received by all opponents\n- Heals allies"
+  },
+  {
+    "id": 60099002,
+    "description": "- Delays turn of opponents with negative effects\n- Removes opponents' positive effects\n- Inflicts Nullify Positive Effects\n- At the start of battle, grants self Damage Received Down"
+  },
+  {
+    "id": 60102001,
+    "description": "- When inflicted with a status effect, breaks when hit by an attack\n- While stunned, when hit by an attack, boosts own damage received\n- Heals self\n- Restores own stun gauge"
+  },
+  {
+    "id": 60103002,
+    "description": "- When stunned, grants self Petrify\n- When hit by an attack while petrified, inflicts self with Blindness\n- When hit by a Bolt attack, boosts own damage received (non-stackable)\n- When hit by an Ice attack, boosts own damage received (non-stackable)\n- When not inflicted with status effects, grants multiple negative effects to all opponents\n- When inflicted with status effects, grants multiple positive effects to all opponents and heals them\n- When not inflicted with status effects, grants multiple positive effects to all allies and heals them\n- When inflicted with status effects, grants multiple negative effects to all allies"
+  },
+  {
+    "id": 60107012,
+    "description": "- When hit while stun gauge is full, converts weaken panels into boost panels\n- When hit while stun gauge is full, converts boost panels into weaken panels\n- Delays turn"
+  },
+  {
+    "id": 60109018,
+    "description": "- Heals self"
+  },
+  {
+    "id": 60109020,
+    "description": "- Heals self\n- Inflicts Taunt\n- Grants self Damage Received Down and Stun Damage Received Down"
+  },
+  {
+    "id": 60110014,
+    "description": "- Heals allies"
+  },
+  {
+    "id": 60110016,
+    "description": "- When hit by an attack, grants Critical Rate Up to Queen Specter\n- Heals allies\n- Grants Regen to allies"
+  },
+  {
+    "id": 60116010,
+    "description": "- When stunned, converts positive panels into burst panels\n- When stunned, converts negative panels into positive panels\n- Grants self Damage Received Down with each action\n- Grants all allies Damage Received Down and Stun Damage Received Down\n- Reduces stun damage dealt by all opponents"
+  },
+  {
+    "id": 60117005,
+    "description": "- When broken by physical attacks, boosts physical damage received\n- When broken by magic attacks, boosts magic damage received"
+  },
+  {
+    "id": 60119009,
+    "description": "- Preemptive\n- While stunned, converts non-burst panels into boost panels when hit by critical attacks\n- Restores allies' HP and stun gauge"
+  },
+  {
+    "id": 60119014,
+    "description": "- When stunned, removes all negative effects from all opponents\n- Restores allies' HP and stun gauge\n- Reduces all opponents' damage dealt and stun damage dealt"
+  },
+  {
+    "id": 60119015,
+    "description": "- First Strike\n- While stunned, converts non-burst panels to boost panels each time hit by a critical attack\n- Restores allies' HP and stun gauge\n- Uses powerful attacks after certain turns"
+  },
+  {
+    "id": 60120004,
+    "description": "- When KO'd, converts weaken panels to paralysis panels\n- Chance to inflict Poison\n- Chance to inflict Frozen\n- Advances allies' turns and grants Evasion"
+  },
+  {
+    "id": 60122010,
+    "description": "- First Strike\n- When stunned, converts boost-type panels to burst panels\n- Protection\n- Heals self and removes all status effects\n- Restores own HP and stun gauge"
+  },
+  {
+    "id": 60122012,
+    "description": "- When stunned, converts boost-type panels to burst panels\n- Protection\n- Heals allies\n- Restores own HP and stun gauge"
+  },
+  {
+    "id": 60122013,
+    "description": "- When stunned, converts boost-type panels to burst panels\n- Protection\n- Restores own HP and stun gauge"
+  },
+  {
+    "id": 60122014,
+    "description": "- When stunned, converts boost-type panels to burst panels\n- Protection\n- Restores own stun gauge"
+  },
+  {
+    "id": 60122015,
+    "description": "- When stunned, converts boost panels to burst panels\n- Protection\n- Restores own stun gauge"
+  },
+  {
+    "id": 60122018,
+    "description": "- When stunned, converts boost-type panels and critical panels to burst panels\n- Heals self\n- Restores own HP and stun gauge"
+  },
+  {
+    "id": 60123011,
+    "description": "- No tips available."
+  },
+  {
+    "id": 60127001,
+    "description": "- Receives increased stun damage from attacks that target all enemies\n- Heals allies"
+  },
+  {
+    "id": 60128001,
+    "description": "- Receives increased damage while Frozen\n- Receives increased critical damage\n- Heals allies"
+  },
+  {
+    "id": 60132010,
+    "description": "- When KO'd, inflicts Poison on all opponents\n- Boosts own received panel effect potency\n- Inflicts multiple negative effects on all opponents\n- Grants conditional damage boost to all allies"
+  },
+  {
+    "id": 60137001,
+    "description": "- When taking damage from battle items, inflicts multiple negative effects on self\n- When stun gauge is above a certain level, delays opponents' turns\n- Restores allies' HP and stun gauge\n- Restores all allies' stun gauge"
+  },
+  {
+    "id": 60139003,
+    "description": "- When recovering from stun, grants multiple positive effects to self (up to 3 times)\n- Restores all allies' HP and stun gauge\n- Heals all opponents\n- When opponent's HP is at maximum, inflicts multiple negative effects\n- Increases damage dealt when opponent's HP is above a certain level"
+  },
+  {
+    "id": 60142001,
+    "description": "- When using weaken panels, inflicts Paralysis and boosts damage received on self\n- Uses powerful attack on 4th turn\n- From 5th turn onwards, boosts own damage received and changes actions"
+  },
+  {
+    "id": 60143004,
+    "description": "- Creates weaken panels\n- Creates empty panels\n- Heals all allies\n- When KO'd, inflicts Nullify Positive Effects on all opponents"
+  },
+  {
+    "id": 60143006,
+    "description": "- Creates weaken panels\n- Creates empty panels\n- Heals all allies"
+  },
+  {
+    "id": 60146005,
+    "description": "- When KO'd, creates boost+ panels"
+  },
+  {
+    "id": 60146006,
+    "description": "- When KO'd, creates boost+ panels\n- Creates defense weaken panels\n- Removes opponents' positive effects"
+  },
+  {
+    "id": 60169004,
+    "description": "- Restores all allies' HP\n- Restores allies' HP and stun gauge"
+  },
+  {
+    "id": 60175001,
+    "description": "- Creates weaken panels\n- When KO'd, advances all allies' turns\n- Grants damage immunity below certain threshold to allies\n- Delays turn"
+  },
+  {
+    "id": 60183001,
+    "description": "- Creates weaken panels\n- When KO'd, heals all allies and all opponents\n- Inflicts Taunt\n- Heals all allies\n- Grants Regen to self"
+  },
+  {
+    "id": 60183002,
+    "description": "- Creates weaken panels\n- When KO'd, heals all allies and all opponents\n- Ignores target priority when attacking\n- Inflicts Taunt\n- Heals all allies\n- Grants Regen to self"
+  },
+  {
+    "id": 60183004,
+    "description": "- When KO'd, heals all allies and all opponents\n- Inflicts Taunt\n- Heals all allies\n- Grants Regen to self"
+  },
+  {
+    "id": 60188002,
+    "description": "- Inflicts Taunt"
+  },
+  {
+    "id": 60192001,
+    "description": "- Protection\n- When using boost panels, heals self"
+  },
+  {
+    "id": 60193002,
+    "description": "- Advances allies' turns\n- Inflicts Frozen"
+  },
+  {
+    "id": 60193003,
+    "description": "- Advances allies' turns\n- Chance to inflict Frozen"
+  },
+  {
+    "id": 60207001,
+    "description": "- At battle start, grants Max HP Up and M.ATK Up to all opponents and heals them\n- When not under Damage Immunity, grants Damage Immunity to self\n- Delays turn\n- Heals all allies"
+  },
+  {
+    "id": 60207002,
+    "description": "- First Strike\n- At battle start, grants Max HP Up and M.ATK Up to all opponents and heals them\n- When not under Damage Immunity, grants Damage Immunity to self\n- Delays turn\n- Heals all allies"
+  },
+  {
+    "id": 60207003,
+    "description": "- First Strike\n- At battle start, grants Max HP Up and M.ATK Up to all opponents and heals them\n- Grants Damage Immunity to self\n- Delays turn\n- Heals all allies"
+  },
+  {
+    "id": 60210001,
+    "description": "- Heals all allies and grants Evasion\n- When KO'd while stunned, boosts negative effect potency received by all opponents and allies"
+  },
+  {
+    "id": 60210003,
+    "description": "- Heals all allies and grants Evasion\n- When KO'd while stunned, boosts negative effect potency received by all opponents and allies"
+  },
+  {
+    "id": 60210015,
+    "description": "- Heals all allies and grants Evasion\n- When KO'd while stunned, boosts negative effect potency received by all opponents and allies"
+  },
+  {
+    "id": 60211001,
+    "description": "- Heals all allies\n- Each time hit by an Ice attack, reduces own damage dealt and boosts own damage received\n- When stunned, removes all negative effects from all opponents"
+  },
+  {
+    "id": 60211002,
+    "description": "- Heals all allies\n- When receiving a certain amount of damage from Ice critical attacks, reduces own damage dealt\n- Each time receiving a certain amount of damage from Ice critical attacks, boosts own damage received\n- When stunned, removes all negative effects from all opponents"
+  },
+  {
+    "id": 60215001,
+    "description": "- When inflicted with a status effect, gets stunned when hit by a weak attack\n- Inflicts Poison\n- Removes multiple positive effects from all opponents\n- At battle start, grants all opponents: \"When having 10 or more positive effects, boosts own damage dealt when healed by healing skills or items that target all allies\""
+  },
+  {
+    "id": 60216001,
+    "description": "- When hit by a burst skill, reduces own damage dealt (up to 100%)\n- Grants Regen to all allies"
+  },
+  {
+    "id": 60217001,
+    "description": "- When KO'd, grants Regen to all opponents\n- Heals all allies"
+  },
+  {
+    "id": 60226001,
+    "description": "- When HP reaches a certain level, advances own turn and changes actions\n- Increases damage dealt based on the number of SPD Up effects on self\n- Boosts own SPD\n- Reduces negative effect potency received by self\n- When stunned, removes one SPD Up effect from self"
+  },
+  {
+    "id": 60226002,
+    "description": "- At certain HP threshold, advances own turn and changes action\n- Higher number of Speed Up effects on self increases damage dealt\n- Grants self Speed Up\n- Reduces potency of negative effects received\n- Immune to turn delay effects\n- Immune to Speed Down\n- When stunned, removes one Speed Up effect from self"
+  },
+  {
+    "id": 20042001,
+    "description": "- Each time stunned, increases own damage dealt\n- When HP reaches a certain level, grants self Regen and boosts damage dealt\n- When HP reaches a certain level, heals self and grants Damage Dealt Up and Damage Received Down\n- Inflicts Nullify Positive Effects on all opponents"
+  },
+  {
+    "id": 20133002,
+    "description": "- At the start of battle, grants self Damage Received Down and Stun Damage Received Down\n- When recovering from stun, grants self Magical Damage Up and SPD Up (1 time only)\n- When HP reaches a certain level, grants self Damage Received Down and Stun Damage Received Down\n- Counters"
+  },
+  {
+    "id": 60006001,
+    "description": "- Delays turn\n- Attacks ignoring Provoke"
+  },
+  {
+    "id": 60008011,
+    "description": "- Counters\n- Protection"
+  },
+  {
+    "id": 60009012,
+    "description": "- Inflicts Paralysis\n- When stunned, grants self Damage Dealt Up\n- When stunned, grants self Damage Received Up"
+  },
+  {
+    "id": 60015008,
+    "description": "- Has a chance to counter\n- Heals allies\n- Inflicts Poison\n- Has a chance to inflict Paralysis\n- Uses a powerful attack"
+  },
+  {
+    "id": 60099005,
+    "description": "- Delays turn of opponents with negative effects\n- Attacks ignoring Provoke"
+  }
+]

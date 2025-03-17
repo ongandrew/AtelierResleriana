@@ -1,0 +1,227 @@
+[
+  {
+    "id": 10201,
+    "acquisition_text": "I've been helped by so many people until now.\nNow it's my turn to help others!",
+    "another_name": "One And Only",
+    "description": "A gentle noblewoman.\nAs Marie's childhood friend, they share an unparalleled bond. Their relationship remains unchanged in this world - they go gathering materials together, and she even helps clean Marie's room.\nWhile she has a kind and mature personality, she occasionally lets slip a sharp tongue.",
+    "fullname": "Schea Donnerstag",
+    "leader_skill": {
+      "description": "Boosts Caretaker characters' P.ATK and M.ATK by 40%.",
+      "name": "Time for Cleaning"
+    },
+    "name": "Schea",
+    "overlay_name": "Schea Donnerstag",
+    "profile_voice_text": "I'm Schea. I may not have any special abilities, but if there's anything I can help with, just let me know.",
+    "start_at": "2024-12-27T03:00:00Z"
+  },
+  {
+    "id": 33503,
+    "acquisition_text": "New discoveries, new encounters—\nWhat an incredibly fascinating world!",
+    "another_name": "Curious Theorist",
+    "description": "A young, ambitious alchemist.\nShe devotes herself day and night to research in pursuit of mastering alchemy. Intrigued by this world's alchemy as well, she often buries herself in books at the atelier.\nThough she's a cool-headed theorist, she has a prideful side and hates to lose. Her eyes light up like a child's when faced with new discoveries.",
+    "fullname": "Plachta",
+    "leader_skill": {
+      "description": "Characters with Ice as their favored element receive 25% less damage.",
+      "name": "I'll Protect You with This Shield!"
+    },
+    "name": "Plachta",
+    "overlay_name": "Plachta",
+    "profile_voice_text": "There are so many things in this world I've never seen before. How absolutely fascinating!",
+    "start_at": "2025-02-14T03:00:00Z"
+  },
+  {
+    "id": 35003,
+    "acquisition_text": "Now then, are you ready?\nLet me invite you on a mysterious journey!",
+    "another_name": "Twinning Ribbon",
+    "description": "An alchemist who loves to travel.\nHer ribbon was prepared by her sister Liane so she could match with Ilmeria, who is both her rival and friend.\nApparently, wearing this ribbon makes her feel confident that she's a genius alchemist.",
+    "fullname": "Firis Mistlud",
+    "leader_skill": {
+      "description": "Characters with Air as their favored element deal 50% more skill damage when their attack target is stunned.",
+      "name": "Let the Ribbon Dance in the Wind"
+    },
+    "name": "Firis",
+    "overlay_name": "Firis Mistlud",
+    "profile_voice_text": "This ribbon is super cute and I love it!\nIt goes all fluffy when I move, fluffy fluffy♪",
+    "start_at": "2025-01-24T03:00:00Z"
+  },
+  {
+    "id": 35101,
+    "acquisition_text": "Time for this genius to make her entrance!\nI'll show you just what my talent can do!",
+    "another_name": "Diligent Genius",
+    "description": "A young alchemist who proclaims herself a genius. She travels across the Lantarna continent helping people with her alchemy to make her abilities known. She shares a competitive yet close friendship with Firis, considering her both a rival and her best friend. Though she can be prideful and childish at times, she's a hard worker who approaches alchemy with genuine dedication.",
+    "fullname": "Ilmeria Von Leinweber",
+    "leader_skill": {
+      "description": "Characters whose favored element is Air gain P. DEF and M. DEF +10% and deal 50% more skill damage to stunned targets.",
+      "name": "How About Some First-Class Help?"
+    },
+    "name": "Ilmeria",
+    "overlay_name": "Ilmeria Von Leinweber",
+    "profile_voice_text": "I'm Ilmeria!\nA genius alchemist acknowledged by everyone!",
+    "start_at": "2025-01-31T03:00:00Z"
+  },
+  {
+    "id": 39906,
+    "acquisition_text": "Looks like there's still a whole world out there I don't know about!\nLet's go discover new sights together!",
+    "another_name": "Flowering Explorer",
+    "description": "An adventure-loving alchemist. She used to work at the Star Weave Cafe in the capital of the Lantarna Kingdom, but has set off in search of new grand adventures. Her heart leaps at the thought of traveling with her beloved companions, including her close friend Klaudia and her junior alchemist Resna.",
+    "fullname": "Reisalin Stout",
+    "leader_skill": {
+      "description": "Characters whose favored element is Stab gain P. ATK +40%",
+      "name": "Adventure Comes When You Least Expect It!"
+    },
+    "name": "Ryza",
+    "overlay_name": "Reisalin Stout",
+    "profile_voice_text": "If you've got any problems,\nleave them to Reisalin Stout!",
+    "start_at": "2025-02-28T03:00:00Z"
+  },
+  {
+    "id": 40004,
+    "acquisition_text": "It's amazing that there are worlds we've never seen before!\nWould you like to go together?",
+    "another_name": "Flowering Doer",
+    "description": "A merchant's daughter and capable businesswoman. She provides support to traveling merchants across various regions. Though she finds fulfillment in her busy daily life, she feels lonely about rarely getting to spend time with her close friend Ryza. She strongly desires to embark on another grand adventure with Ryza and watches for any opportunity to do so.",
+    "fullname": "Klaudia Valentz",
+    "leader_skill": {
+      "description": "All allies gain P. ATK and M. ATK +10% for each Kurken Island character in the party",
+      "name": "Memories of That Summer Close to Heart"
+    },
+    "name": "Klaudia",
+    "overlay_name": "Klaudia Valentz",
+    "profile_voice_text": "I'm so excited about our journey to new lands!\nLet's have a fun adventure together.",
+    "start_at": "2025-02-21T03:00:00Z"
+  },
+  {
+    "id": 40402,
+    "acquisition_text": "Then, as a sign of our friendship--\nPerhaps I should also dress up a bit?",
+    "another_name": "Sweet Butler",
+    "description": "A wandering alchemist who taught Ryza alchemy. Though he has deep ties with Lara of the Polar Night Alchemists, they have now formed a cooperative relationship. As proof of their friendship, she gifted him this outfit. Being an extreme sweet tooth, he can't forget the taste of the pastries Lara once treated him to, and hopes to taste them again.",
+    "fullname": "Empel Vollmer",
+    "leader_skill": {
+      "description": "Boosts all allies' P. ATK and M. ATK by 10% for each Mentor character in the party.",
+      "name": "Inherited Knowledge"
+    },
+    "name": "Empel",
+    "overlay_name": "Empel Vollmer",
+    "profile_voice_text": "I'm Empel. This outfit was given to me as a sign of friendship. I must say, it's quite pleasing.",
+    "start_at": "2025-01-17T03:00:00Z"
+  },
+  {
+    "id": 43403,
+    "acquisition_text": "Now then, it's time for the party.\n...Perhaps being led by the hand isn't so bad once in a while.",
+    "another_name": "Starry Beauty",
+    "description": "An elite member of the Royal Knights known as the Knight of Midnight Sun. For a royal party, she has set aside her usual white armor and donned a crimson dress. The outfit is designed to allow for easy movement in case of unexpected situations. All who have seen her in this elegant dress have discovered a new charm to the Knight of Midnight Sun, Juna.",
+    "fullname": "Juna Waitz",
+    "leader_skill": {
+      "description": "Boosts Knight characters' P. DEF and M. DEF by 35%.",
+      "name": "Elegant Knight of the Starry Night"
+    },
+    "name": "Juna",
+    "overlay_name": "Juna Waitz",
+    "profile_voice_text": "I am Juna Waitz. Though it may seem unsuitable for a knight,\nI shall graciously wear this dress.",
+    "start_at": "2024-12-13T03:00:00Z"
+  },
+  {
+    "id": 43902,
+    "acquisition_text": "Being able to celebrate the new year with everyone...\nHehe... It makes me so happy.",
+    "another_name": "Spring Wishes",
+    "description": "Resna's alchemy mentor. Since her disciple became independent, she has been traveling the world for her own purposes. She values the connections between people, and has a rather formal side to her, making it a rule to visit and give gifts to those who have helped her at the start of each year. Few know where she was born or how she has lived her life.",
+    "fullname": "Saskia",
+    "leader_skill": {
+      "description": "Boosts Ice affinity characters' M. ATK by 40%.",
+      "name": "I'll Freeze You to the Core"
+    },
+    "name": "Saskia",
+    "overlay_name": "Saskia",
+    "profile_voice_text": "I'm Saskia. I'm so happy we can celebrate the new year together.\nLet's get along this year too~",
+    "start_at": "2024-12-31T15:00:00Z"
+  },
+  {
+    "id": 44202,
+    "acquisition_text": "When you lose your way, follow my lead.\nI shall guide you to our ideal country.",
+    "another_name": "Great Refinement",
+    "description": "An alchemist and ruler of the Lara Kingdom.\nShe travels to various regions in search of talented individuals to recruit as vassals of the Lara Kingdom. Though she can be somewhat forceful, she is adored by her subjects and vassals for her caring nature.\nWhen she wears this outfit coordinated with Empel, she particularly enjoys how it makes him look like her secretary.",
+    "fullname": "Lara Trockel",
+    "leader_skill": {
+      "description": "All allies gain P. ATK and M. ATK +10% and Skill Damage and Stun Damage +20% for each Noble character in the party.",
+      "name": "Grace in All Things"
+    },
+    "name": "Lara",
+    "overlay_name": "Lara Trockel",
+    "profile_voice_text": "I am Lara Trockel. As one who would be queen, let us proceed with elegance and splendor.",
+    "start_at": "2025-01-17T03:00:00Z"
+  },
+  {
+    "id": 45001,
+    "acquisition_text": "I shall dedicate my all to you—\nHehe, let's make this thoroughly enjoyable.",
+    "another_name": "Ambitious Alchemist",
+    "description": "Leader of the Polar Night Alchemists.\nShe has repeatedly monopolized and seized materials across various regions to further her alchemical research in pursuit of her desires.\nWhile ruthless toward her enemies, she provides generous support to those who cooperate with her. She is skilled at cooking and surprisingly caring beneath her exterior.",
+    "fullname": "Criselda Amelhauser",
+    "leader_skill": {
+      "description": "Bolt affinity characters deal 100% more Skill Damage to stunned targets.",
+      "name": "For the Sake of Our Desires"
+    },
+    "name": "Criselda",
+    "overlay_name": "Criselda Amelhauser",
+    "profile_voice_text": "I am Criselda. Though there have been some complications...\nHehe, I'd be happy if we could get along.",
+    "start_at": "2024-12-20T03:00:00Z"
+  },
+  {
+    "id": 45101,
+    "acquisition_text": "My feelings for my homeland and my sister—\nI carry both close to my heart as I grow stronger.",
+    "another_name": "Mourning Blades",
+    "description": "A young girl who serves as a Sacred Knight in the Nova.\nThough not related by blood, she looks up to Alvina as an older sister.\nWhile she maintains a cool and mysterious air, she has a natural side to her and sometimes surprises others with her unexpected actions.",
+    "fullname": "Bepp Zimlock",
+    "leader_skill": {
+      "description": "Boosts Nova characters' P. ATK and M. ATK by 50%.",
+      "name": "Young Warrior Who Swears Vengeance"
+    },
+    "name": "Bepp",
+    "overlay_name": "Bepp Zimlock",
+    "profile_voice_text": "I am Bepp Zimlock, Sacred Knight of the Nova and the protector of Alvina.",
+    "start_at": "2025-03-12T03:00:00Z"
+  },
+  {
+    "id": 45201,
+    "acquisition_text": "Let me guide you on your unknown adventure!\n...Just kidding!",
+    "another_name": "Dream of Hero",
+    "description": "The Star Guide of Nova and a secret alchemist.\nAfter meeting an alchemist who arrived on the island, she became deeply involved in alchemy herself. Since pursuing work outside one's divine calling is forbidden in the sacred lands of Nova, she keeps her activities as an alchemist hidden from others.\nQuick-witted and sharp-tongued, she often finds herself getting into clever mischief.",
+    "fullname": "Alvina Zimlock",
+    "leader_skill": {
+      "description": "Boosts Nova characters' P.ATK and stun damage by 30%",
+      "name": "Star Guide"
+    },
+    "name": "Alvina",
+    "overlay_name": "Alvina Zimlock",
+    "profile_voice_text": "I'm Alvina! Star Guide of Nova and... a fledgling alchemist!",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 43108,
+    "acquisition_text": "The path toward endless possibilities — I'll pave the way with my own hands!",
+    "another_name": "Rise Above Fate",
+    "description": "An alchemist seeking World's End.\nShe has become well-known in the Kingdom of Lantarna for using alchemy to resolve various requests and incidents. In pursuit of her dream to find World's End and revive alchemy, she ventures beyond Lantarna to explore the islands across the sea.\nHer knowledge of and love for alchemy remains unchanged—if anything, it has only grown stronger.",
+    "fullname": "Resna Sternenlicht",
+    "leader_skill": {
+      "description": "Boosts all Slash affinity allies' stun damage and critical damage by 50%.",
+      "name": "Clear the Path and Press On!"
+    },
+    "name": "Resna",
+    "overlay_name": "Resna Sternenlicht",
+    "profile_voice_text": "A new journey begins! I'll show you how different I've become from who I was before!",
+    "start_at": "2025-03-21T03:00:00Z"
+  },
+  {
+    "id": 45301,
+    "acquisition_text": "I will protect you with these hands—for that is the divine duty bestowed upon me.",
+    "another_name": "Mother's Affection",
+    "description": "A Sacred Knight of Nova and mother of one.\nEarnest and devout in her faith, she's dedicated to her duties. She's one of the country's most skilled fighters and has even won martial arts tournaments. She's also an excellent cook with a domestic side and dotes on her daughter.\nShe's been looking after Alvina since long ago and remains concerned for her well-being.",
+    "fullname": "Janne Lindemann",
+    "leader_skill": {
+      "description": "Boosts Slash affinity characters' P.ATK, M.ATK, P.DEF, and M.DEF by 25%.",
+      "name": "Nova's Strongest Sacred Knight"
+    },
+    "name": "Janne",
+    "overlay_name": "Janne Lindemann",
+    "profile_voice_text": "As a Sacred Knight of Nova, I'll show you how I protect everyone.",
+    "start_at": "2025-03-17T03:00:00Z"
+  }
+]

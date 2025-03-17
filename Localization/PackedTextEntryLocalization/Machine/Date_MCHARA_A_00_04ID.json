@@ -1,0 +1,1753 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "\u3088\u3057\uFF01\u3000\u3053\u308C\u3067\u3001\u4F9D\u983C\u5206\u306F\u96C6\u307E\u3063\u305F\u304B\u306A\u3002\n\u3042\u308A\u304C\u3068\u3046\u3001\u30EC\u30B9\u30CA\u306E\u304A\u304B\u3052\u3060\u3088",
+        "localizations": {
+          "en": "Great! I think we\u0027ve got everything for the request.\nThanks, Resna. It\u0027s all thanks to you."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "\u2026\u2026\u30EC\u30B9\u30CA\uFF1F\u3000\u5927\u4E08\u592B\uFF1F",
+        "localizations": {
+          "en": "...Resna? Are you alright?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "\u3059\u3001\u3059\u307F\u307E\u305B\u3093\uFF01\u3000\u3061\u3087\u3063\u3068\u8003\u3048\u3054\u3068\u3092\u2026\u2026",
+        "localizations": {
+          "en": "S-Sorry! I was just lost in thought..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "\u6C17\u306B\u306A\u308B\u3053\u3068\u3042\u3063\u305F\uFF1F",
+        "localizations": {
+          "en": "Something on your mind?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u306E\u3001\u30E9\u30A4\u30B6\u5148\u8F29\u306B\u300C\u5148\u8F29\u300D\u3068\n\u547C\u3093\u3067\u3044\u305F\u3060\u3044\u305F\u3053\u3068\u306A\u3093\u3067\u3059\u304C\u2026\u2026",
+        "localizations": {
+          "en": "Well, it\u0027s about you calling me your junior..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u3042\u305F\u3057\u306E\u77E5\u3089\u306A\u3044\u8ABF\u7406\u6CD5\u306B\u3064\u3044\u3066\n\u3000\u8A73\u3057\u304F\u6559\u3048\u3066\u304F\u308C\u305F\u304B\u3089\u306D\uFF09",
+        "localizations": {
+          "en": "(She taught me so much about cooking methods\nI didn\u0027t know about.)"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "\u3084\u3063\u3071\u308A\u8EAB\u306B\u4F59\u308B\u304A\u8A00\u8449\u3060\u3068\u601D\u3046\u3093\u3067\u3059",
+        "localizations": {
+          "en": "I really don\u0027t think I deserve such an honor..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "\u3078\uFF1F",
+        "localizations": {
+          "en": "Huh?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "\u79C1\u306F\u307E\u3060\u307E\u3060\u82E5\u8F29\u8005\u2026\u2026",
+        "localizations": {
+          "en": "I\u0027m still just a novice..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "\u305B\u3081\u3066\u3001\u4E00\u4EBA\u524D\u306E\u81EA\u4FE1\u304C\u3064\u304F\u307E\u3067\u306F\n\u4FDD\u7559\u306B\u3057\u3066\u3044\u305F\u3060\u3051\u307E\u305B\u3093\u304B\uFF01\uFF1F",
+        "localizations": {
+          "en": "Could you please hold off on that until I\u0027ve proven myself worthy!?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "\u6C17\u306B\u3057\u306A\u304F\u3066\u3044\u3044\u306E\u306B",
+        "localizations": {
+          "en": "You don\u0027t need to worry about it"
+        }
+      },
+      "2072370017": {
+        "text": "\u9078\u629E\u80A2",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "\u6C17\u306B\u3057\u306A\u304F\u3066\u3044\u3044\u306E\u306B\u3002\n\u81EA\u4FE1\u306A\u3093\u3066\u3001\u3069\u308C\u3060\u3051\u3084\u3063\u3066\u3082\n\u3064\u304B\u306A\u3044\u3082\u306E\u3060\u3088",
+        "localizations": {
+          "en": "You don\u0027t need to worry about it.\nNo matter how much you do,\nconfidence isn\u0027t something that just comes to you."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "\u30E9\u30A4\u30B6\u5148\u8F29\u3067\u3082\u3001\u305D\u3046\u306A\u3093\u3067\u3059\u304B\uFF1F",
+        "localizations": {
+          "en": "Even you feel that way, Ryza?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "\u3046\u3093\u3001\u3044\u307E\u3060\u306B\u7DCA\u5F35\u3059\u308B\u3053\u3068\u3060\u3063\u3066\u3042\u308B\u3057",
+        "localizations": {
+          "en": "Yeah, I still get nervous sometimes."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "\u3046\u30FC\u3093\u3001\u5148\u306F\u9577\u3044\u3093\u3067\u3059\u306D\u2026\u2026",
+        "localizations": {
+          "en": "Mmm... looks like I have a long way to go..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u3057\u3088\u3063\u304B",
+        "localizations": {
+          "en": "Alright, let\u0027s do that"
+        }
+      },
+      "2072370017": {
+        "text": "\u9078\u629E\u80A2",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u3057\u3088\u3063\u304B\u3002\n\u305D\u3053\u307E\u3067\u6C17\u306B\u306A\u308B\u306A\u3089\u3001\u3084\u3081\u3068\u3053\u3046",
+        "localizations": {
+          "en": "Alright, let\u0027s do that.\nIf it bothers you that much, we can stop."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "\u3053\u306E\u307E\u307E\u3058\u3083\u3001\u5148\u8F29\u304C\u305F\u3092\u304A\u547C\u3073\u3059\u308B\u305F\u3073\u306B\n\u7F6A\u60AA\u611F\u304C\u75BC\u3044\u3066\u4ED5\u65B9\u3042\u308A\u307E\u305B\u3093\uFF01",
+        "localizations": {
+          "en": "If things stay like this, I\u0027ll feel guilty\nevery time I address my seniors!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "\u3046\u30FC\u3093\u3001\u91CD\u75C7\u3060\u306A\u2026\u2026",
+        "localizations": {
+          "en": "Wow, this is serious..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "\u30EC\u30B9\u30CA\u3089\u3057\u3044\u306D",
+        "localizations": {
+          "en": "That\u0027s so like you"
+        }
+      },
+      "2072370017": {
+        "text": "\u9078\u629E\u80A2",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "\u306A\u3093\u3060\u304B\u30EC\u30B9\u30CA\u3089\u3057\u3044\u306D",
+        "localizations": {
+          "en": "That\u0027s so like you, Resna."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3001\u305D\u3046\u3067\u3059\u304B\uFF1F",
+        "localizations": {
+          "en": "I-Is it?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "\u932C\u91D1\u8853\u306B\u306F\u8CAA\u6B32\u3060\u3051\u3069\n\u8B19\u865A\u306A\u6C17\u6301\u3061\u306F\u5FD8\u308C\u306A\u3044\u3068\u3053\u308D\u3001\n\u3042\u305F\u3057\u306F\u7F8E\u70B9\u3060\u3068\u601D\u3046\u306A\uFF5E",
+        "localizations": {
+          "en": "Being eager about alchemy while staying humble...\nI think that\u0027s a great quality~"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u3001\u3042\u308A\u304C\u3068\u3046\u3054\u3056\u3044\u307E\u3059\u2026\u2026",
+        "localizations": {
+          "en": "Th-Thank you..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "\u3060\u3051\u3069\u3055\u3001\u30EC\u30B9\u30CA\u3082\u30A2\u30C8\u30EA\u30A8\u3092\n\u5F15\u304D\u7D99\u3044\u3060\u3093\u3060\u304B\u3089\u3001\u3082\u3046\u4E00\u4EBA\u524D\u3067\u3057\u3087\u3002\n\u3069\u30FC\u3093\u3068\u69CB\u3048\u3088\u3046\u3088\uFF01",
+        "localizations": {
+          "en": "But you\u0027ve inherited an atelier now,\nso you\u0027re already a proper alchemist.\nYou should be more confident!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "\u306F\u3044\uFF01",
+        "localizations": {
+          "en": "Yes!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u3060\u306A\u3041\u2026\u2026\u3053\u308C\u306F\n\u5E2B\u5320\u306B\u51FA\u4F1A\u3063\u305F\u9803\u306E\u8A71\u306A\u3093\u3060\u3051\u3069",
+        "localizations": {
+          "en": "You know... this reminds me of when\nI first met my master..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "\u611F\u6FC0\u3057\u305F\u3042\u305F\u3057\u304C\u300C\u5148\u751F\u300D\u3063\u3066\u547C\u3093\u3060\u3089\n\u3059\u3052\u306A\u304F\u6D41\u3055\u308C\u305F\u3053\u3068\u304C\u3042\u3063\u305F\u3093\u3060\u3088\u306D",
+        "localizations": {
+          "en": "When I called them \u0022teacher\u0022 out of excitement,\nthey just brushed it off."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "\u3075\u3075\u3063\u3002\u3067\u3082\u3001\u672C\u6C17\u3060\u3063\u305F\u3093\u3067\u3059\u3088\u306D\uFF1F",
+        "localizations": {
+          "en": "Hehe. But you were sincere, weren\u0027t you?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u3060\u3088\u3002\u30EC\u30B9\u30CA\u306B\u300C\u5148\u8F29\u3060\u306D\u300D\u3063\u3066\n\u8A00\u3063\u305F\u306E\u3068\u540C\u3058\u304F\u3089\u3044\u306D",
+        "localizations": {
+          "en": "Yeah. Just as sincere as when I called you my junior."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "\u6559\u3048\u3066\u3082\u3089\u3048\u3066\u3001\u5B09\u3057\u304B\u3063\u305F\u3002\n\u5F97\u610F\u306A\u3053\u3068\u306F\u3001\u81EA\u4FE1\u6301\u3063\u3066\u3088",
+        "localizations": {
+          "en": "I was happy you taught me.\nYou should be confident about your strengths."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "\u3067\u3059\u304C\u3001\u5927\u3057\u305F\u3053\u3068\u3058\u3083\u3042\u308A\u307E\u305B\u3093\u3088\uFF1F",
+        "localizations": {
+          "en": "But it wasn\u0027t anything special..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "\u306A\u3093\u3066\u3053\u3068\u306A\u3044\u3068\u601D\u3046\u3053\u3068\u306B\u3053\u305D\u3001\n\u767A\u898B\u304C\u3042\u308B\u3093\u3060\u3088",
+        "localizations": {
+          "en": "Sometimes the things we think are ordinary\ncan lead to discoveries."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "\u305F\u3068\u3048\u3070\u3001\u81EA\u5206\u306B\u3068\u3063\u3066\u306F\u666E\u901A\u306E\u3053\u3068\u304C\u3001\n\u4EBA\u306B\u306F\u7FA8\u307E\u3057\u304F\u898B\u3048\u308B\u9577\u6240\u3060\u3063\u305F\u308A\u306D",
+        "localizations": {
+          "en": "For example, what\u0027s normal to you might be\nsomething others admire as a strength."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "\u3058\u3083\u3042\u79C1\u3082\u3001\u30E9\u30A4\u30B6\u5148\u8F29\u306E\u3088\u3046\u306B\u2026\u2026",
+        "localizations": {
+          "en": "Then maybe I too, like you..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "\u3044\u3044\u3048\u3001\u81EA\u5206\u3060\u3051\u304C\u76EE\u6307\u305B\u308B\n\u932C\u91D1\u8853\u58EB\u306E\u59FF\u304C\u3042\u308B\u3093\u3067\u3057\u3087\u3046\u304B\uFF1F",
+        "localizations": {
+          "en": "No... I wonder if there\u0027s a unique path\nonly I can follow as an alchemist?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "\u4ECA\u306E\u307E\u307E\u3067\u3044\u3044",
+        "localizations": {
+          "en": "You\u0027re fine as you are"
+        }
+      },
+      "2072370017": {
+        "text": "\u9078\u629E\u80A2",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "\u4ECA\u306E\u307E\u307E\u3067\u3044\u3044\u3093\u3058\u3083\u306A\u3044\u304B\u306A",
+        "localizations": {
+          "en": "I think you\u0027re fine just as you are."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "\u4ECA\u306E\u307E\u307E\u2026\u2026\u3067\u3059\u304B\uFF1F",
+        "localizations": {
+          "en": "Just as I am... you think so?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "\u8A00\u3063\u305F\u3067\u3057\u3087\uFF1F\n\u30EC\u30B9\u30CA\u306B\u306F\u30EC\u30B9\u30CA\u306E\u7F8E\u70B9\u304C\u3042\u308B\u3063\u3066",
+        "localizations": {
+          "en": "I told you, didn\u0027t I?\nYou have your own special qualities."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u308C\u306F\u3001\u60F3\u3044\u306E\u307E\u307E\u306B\u7A81\u304D\u9032\u3081\u308B\u3053\u3068",
+        "localizations": {
+          "en": "Like how you can follow your heart without hesitation."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u3063\u2026\u2026\uFF01\n\u932C\u91D1\u8853\u3078\u306E\u60F3\u3044\u3053\u305D\u304C\u3001\n\u79C1\u3092\u6210\u9577\u3055\u305B\u3066\u304F\u308C\u308B\u2026\u2026\uFF01",
+        "localizations": {
+          "en": "Ah...!\nMy passion for alchemy\nis what will help me grow...!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u3044\u3046\u3053\u3068\uFF01\n\u3060\u304B\u3089\u3053\u306E\u307E\u307E\u7A81\u3063\u8D70\u3063\u3066\u3001\n\u7ACB\u6D3E\u306A\u932C\u91D1\u8853\u58EB\u306B\u306A\u308B\u3093\u3060\u3088\uFF01",
+        "localizations": {
+          "en": "That\u0027s right!\nSo keep moving forward and become\na great alchemist!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 43,
+    "properties": {
+      "999008199": {
+        "text": "\u306F\u3044\u3063\uFF01",
+        "localizations": {
+          "en": "Yes!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 44,
+    "properties": {
+      "999008199": {
+        "text": "\u52AA\u529B\u3092\u7D9A\u3051\u308C\u3070\u53F6\u3046",
+        "localizations": {
+          "en": "Keep working hard and it\u0027ll come true"
+        }
+      },
+      "2072370017": {
+        "text": "\u9078\u629E\u80A2",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 45,
+    "properties": {
+      "999008199": {
+        "text": "\u4E0D\u5B89\u306A\u3068\u304D\u306F\u3001\u52AA\u529B\u3092\u7D9A\u3051\u308B\u3057\u304B\u306A\u3044\u3088\u3002\n\u305D\u3046\u3059\u308C\u3070\u3001\u5B9F\u529B\u3082\u3064\u3044\u3066\u304F\u308B\u3057\u3055",
+        "localizations": {
+          "en": "When you\u0027re uncertain, all you can do is keep trying.\nThat way, your skills will naturally improve too."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 46,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u3067\u3059\u306D\u3002\n\u305F\u3060\u3001\u304C\u3080\u3057\u3083\u3089\u306B\u52AA\u529B\u3059\u308B\u3088\u308A\u3001\n\u76EE\u6A19\u3092\u7D5E\u3063\u305F\u307B\u3046\u304C\u3044\u3044\u306E\u304B\u306A\u3063\u3066\u2026\u2026",
+        "localizations": {
+          "en": "That\u0027s true.\nRather than just working hard aimlessly,\nmaybe I should focus on specific goals..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 47,
+    "properties": {
+      "999008199": {
+        "text": "\u52AA\u529B\u2026\u2026\u79C1\u306F\u4F55\u3092\u3059\u308B\u3079\u304D\u3067\u3057\u3087\u3046\u304B\uFF1F\n\u3069\u3001\u52AA\u529B\u3063\u3066\u2026\u2026\u52AA\u529B\u3063\u3066\u3044\u3063\u305F\u3044\uFF01\uFF1F\n\u3046\uFF5E\uFF5E\u3093\u2026\u2026",
+        "localizations": {
+          "en": "Hard work... what should I be doing?\nW-working hard... what does that even mean!?\nUuugh..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 48,
+    "properties": {
+      "999008199": {
+        "text": "\u304A\u624B\u672C\u306F\u305F\u304F\u3055\u3093\u3042\u308B",
+        "localizations": {
+          "en": "There are lots of role models"
+        }
+      },
+      "2072370017": {
+        "text": "\u9078\u629E\u80A2",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 49,
+    "properties": {
+      "999008199": {
+        "text": "\u8FF7\u3046\u6C17\u6301\u3061\u306F\u5206\u304B\u308B\u3051\u3069\u3001\n\u4ECA\u306E\u30A2\u30C8\u30EA\u30A8\u306F\u53C2\u8003\u306B\u306A\u308B\u4EBA\u304C\u591A\u3044\u3088\u306D\u3002\n\u305D\u3046\u8003\u3048\u308B\u3068\u3001\u304A\u624B\u672C\u306F\u305F\u304F\u3055\u3093\u3042\u308B\u3088",
+        "localizations": {
+          "en": "I understand your hesitation, but\nthere are so many people to learn from at the atelier now.\nThere are lots of role models when you think about it!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 50,
+    "properties": {
+      "999008199": {
+        "text": "\u932C\u91D1\u8853\u58EB\u304C\u96C6\u307E\u3063\u3066\u308B\u3093\u3060\u304B\u3089\uFF01",
+        "localizations": {
+          "en": "After all, we\u0027ve got so many alchemists gathered here!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 51,
+    "properties": {
+      "999008199": {
+        "text": "\u305F\u3057\u304B\u306B\u5FC3\u5F37\u3044\u3067\u3059\u306D\uFF01\u3000\u305F\u3060\u2026\u2026",
+        "localizations": {
+          "en": "That is reassuring! However..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 52,
+    "properties": {
+      "999008199": {
+        "text": "\u3067\u304D\u308B\u3053\u3068\u306A\u3089\u79C1\u3082\u3001\u4ED6\u306E\u4EBA\u306B\u306F\u306A\u3044\n\u4F55\u304B\u306B\u9577\u3051\u305F\u932C\u91D1\u8853\u58EB\u306B\u306A\u308A\u305F\u3044\u3093\u3067\u3059",
+        "localizations": {
+          "en": "If possible, I\u0027d like to become an alchemist\nwho excels in something unique."
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 53,
+    "properties": {
+      "999008199": {
+        "text": "\u30EC\u30B9\u30CA\u306F\u3001\u5FC3\u914D\u3057\u3066\u308B\u4EE5\u4E0A\u306B\n\u672A\u6765\u306B\u5411\u3051\u3066\u9032\u3093\u3067\u308B\u3088",
+        "localizations": {
+          "en": "Resna, you\u0027re making more progress\nthan you realize."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 54,
+    "properties": {
+      "999008199": {
+        "text": "\u4ECA\u306F\u5C11\u3057\u305A\u3064\u3067\u3082\u3001\n\u3044\u3064\u304B\u304E\u3085\u30FC\u3093\u3063\u3066\u52A0\u901F\u3059\u308B\u304B\u3089\uFF01",
+        "localizations": {
+          "en": "Even if it\u0027s little by little now,\nyou\u0027ll suddenly accelerate one day!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 55,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u308A\u304C\u3068\u3046\u3054\u3056\u3044\u307E\u3059\u3001\u30E9\u30A4\u30B6\u5148\u8F29\u3002\n\u79C1\u3001\u5C11\u3057\u306F\u80F8\u3092\u5F35\u308C\u305D\u3046\u3067\u3059\uFF01",
+        "localizations": {
+          "en": "Thank you, Ryza!\nI think I can hold my head a bit higher now!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 56,
+    "properties": {
+      "999008199": {
+        "text": "\u3046\u3093\uFF01\u3000\u305D\u308C\u3058\u3083\u3001\u5E30\u308B\u652F\u5EA6\u3057\u3088\u3063\u304B\u3002\n\u738B\u90FD\u306B\u623B\u3063\u305F\u3089\u3001\u91E3\u3063\u305F\u9B5A\u3092\u8ABF\u7406\u3057\u3088\u30FC\u3063\u3068",
+        "localizations": {
+          "en": "Yeah! Well then, let\u0027s get ready to head back.\nWhen we return to the capital, I\u0027ll cook the fish we caught."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 57,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\uFF01\u3000\u3069\u3093\u306A\u98A8\u306B\u8ABF\u7406\u3055\u308C\u308B\u3093\u3067\u3057\u3087\u3046\uFF01\uFF1F",
+        "localizations": {
+          "en": "Oh! How are you planning to prepare it!?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 58,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u305B\u3063\u304B\u304F\u3060\u304B\u3089\u3001\u3055\u3063\u304D\u30EC\u30B9\u30CA\u304C\n\u3000\u52E7\u3081\u3066\u304F\u308C\u305F\u8ABF\u7406\u6CD5\u3067\u2026\u2026\uFF09",
+        "localizations": {
+          "en": "(Since we\u0027re here, I should try that cooking method\nResna recommended...)"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 59,
+    "properties": {
+      "999008199": {
+        "text": "\u523A\u8EAB\u306B\u3059\u308B\uFF01",
+        "localizations": {
+          "en": "Make sashimi!"
+        }
+      },
+      "2072370017": {
+        "text": "\u9078\u629E\u80A2",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 60,
+    "properties": {
+      "999008199": {
+        "text": "\u3048\u3063\u3002\u523A\u8EAB\u2026\u2026\u3067\u3059\u304B\uFF1F",
+        "localizations": {
+          "en": "Eh? Sashimi...?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 61,
+    "properties": {
+      "999008199": {
+        "text": "\u3046\u3093\u3002\u8EAB\u304C\u3077\u308A\u3077\u308A\u3063\u3066\u805E\u3044\u305F\u3057\u3001\n\u307E\u3060\u91E3\u308A\u305F\u3066\u3067\u65B0\u9BAE\u3060\u304B\u3089\u306D\uFF01",
+        "localizations": {
+          "en": "Yeah! I heard the meat is firm, and\nit\u0027s still fresh from being caught!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 62,
+    "properties": {
+      "999008199": {
+        "text": "\u3048\uFF1F\u3000\u30C0\u30E1\u3060\u3063\u305F\uFF1F",
+        "localizations": {
+          "en": "Huh? Is that not good?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 63,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u306E\u9B5A\u306F\u3001\u305D\u306E\u2026\u2026\n\u5BC4\u751F\u866B\u306E\u3044\u308B\u53EF\u80FD\u6027\u304C\u3042\u308B\u306E\u3067\u2026\u2026",
+        "localizations": {
+          "en": "Well, that fish... there\u0027s a possibility\nit might have parasites..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 64,
+    "properties": {
+      "999008199": {
+        "text": "\u3046\u308F\u3063\uFF01\u3000\u672C\u5F53\u306B\uFF1F\n\u3042\u3001\u5371\u306A\u304B\u3063\u305F\u2026\u2026",
+        "localizations": {
+          "en": "Whoa! Really?\nOh... that was close..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 65,
+    "properties": {
+      "999008199": {
+        "text": "\u98DF\u3079\u308B\u969B\u306F\u305C\u3072\u3001\u52A0\u71B1\u3092\u304A\u9858\u3044\u3057\u307E\u3059\uFF01\n\u3067\u3082\u65B0\u9BAE\u306A\u9B5A\u3060\u304B\u3089\u3053\u305D\u523A\u8EAB\u306B\u3001\u3068\u3044\u3046\u306E\u306F\n\u3055\u3059\u304C\u30E9\u30A4\u30B6\u5148\u8F29\u3001\u3068\u3044\u3046\u611F\u3058\u3067\u3059\uFF01",
+        "localizations": {
+          "en": "Please make sure to cook it thoroughly!\nBut wanting to make sashimi because it\u0027s fresh...\nthat\u0027s just like you, Ryza!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 66,
+    "properties": {
+      "999008199": {
+        "text": "\u63DA\u3052\u308B\uFF01",
+        "localizations": {
+          "en": "Deep fry it!"
+        }
+      },
+      "2072370017": {
+        "text": "\u9078\u629E\u80A2",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 67,
+    "properties": {
+      "999008199": {
+        "text": "\u304A\u3059\u3059\u3081\u3057\u305F\u901A\u308A\u306B\u3067\u3059\u304B\uFF01\uFF1F",
+        "localizations": {
+          "en": "You\u0027re going to cook it the way I suggested!?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 68,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u308C\u306F\u3082\u3061\u308D\u3093\uFF01\n\u3042\u308C\u3092\u805E\u3044\u305F\u3089\u3001\u3082\u3046\u63DA\u3052\u4EE5\u5916\n\u8003\u3048\u3089\u308C\u306A\u3044\u3088\u30FC\uFF01",
+        "localizations": {
+          "en": "Of course!\nAfter hearing about it,\nI can\u0027t think of preparing it any other way!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 69,
+    "properties": {
+      "999008199": {
+        "text": "\u3048\u3078\u3078\u3001\u5B09\u3057\u3044\u3067\u3059\uFF01\n\u7D76\u5BFE\u7F8E\u5473\u3057\u3044\u3068\n\u81EA\u4FE1\u3092\u6301\u3063\u3066\u304A\u3059\u3059\u3081\u3057\u307E\u3059\uFF01",
+        "localizations": {
+          "en": "Ehehe, I\u0027m so happy!\nI can confidently say\nit\u0027ll definitely be delicious!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 70,
+    "properties": {
+      "999008199": {
+        "text": "\u3067\u3082\u5B9F\u306F\u3001\u3082\u3063\u3068\u7F8E\u5473\u3057\u304F\u3067\u304D\u3066\u2026\u2026\u3002\n\u53EF\u80FD\u6027\u3092\u6975\u9650\u307E\u3067\u7A81\u304D\u8A70\u3081\u305F\u3001\n\u79C1\u7279\u88FD\u9999\u8F9B\u6599\u3068\u4E00\u7DD2\u306A\u3089\u2026\u2026\uFF01",
+        "localizations": {
+          "en": "But actually, we could make it even better...\nIf we use my special spice blend\nthat I\u0027ve perfected to the limit...!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 71,
+    "properties": {
+      "999008199": {
+        "text": "\u308F\u30FC\u3063\uFF01\u3000\u4F55\u305D\u308C\uFF01\u3000\u6559\u3048\u3066\u3088\uFF5E\uFF01",
+        "localizations": {
+          "en": "Woah! What\u0027s that!? Tell me more~!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 72,
+    "properties": {
+      "999008199": {
+        "text": "\u84B8\u3059\uFF01",
+        "localizations": {
+          "en": "Steam it!"
+        }
+      },
+      "2072370017": {
+        "text": "\u9078\u629E\u80A2",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 73,
+    "properties": {
+      "999008199": {
+        "text": "\u84B8\u3059\u2026\u2026\u3093\u3067\u3059\u304B\uFF1F",
+        "localizations": {
+          "en": "Steam it... you say?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 74,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u308C\u3001\u9055\u3063\u305F\uFF1F",
+        "localizations": {
+          "en": "Oh, is that wrong?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 75,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u3001\u3044\u3048\uFF01\u3000\u9055\u3046\u3068\u304B\u3067\u306F\u306A\u3044\u3093\u3067\u3059\u304C\u3001\n\u3042\u307E\u308A\u84B8\u3057\u3066\u98DF\u3079\u3089\u308C\u308B\u9B5A\u3067\u306F\u306A\u3044\u306E\u3067",
+        "localizations": {
+          "en": "Ah, no! It\u0027s not wrong exactly, but\nit\u0027s not really the kind of fish that\u0027s best steamed..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 76,
+    "properties": {
+      "999008199": {
+        "text": "\u84B8\u3059\u3068\u306A\u308B\u3068\u3001\n\u5473\u304C\u629C\u3051\u3066\u3057\u307E\u3044\u305D\u3046\u306A\u6C17\u3082\u3057\u307E\u3059\u304C\u2026\u2026",
+        "localizations": {
+          "en": "If we steam it,\nI worry it might lose its flavor..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 77,
+    "properties": {
+      "999008199": {
+        "text": "\u65B0\u3057\u3044\u98DF\u3079\u65B9\u306B\u6311\u3080\u306A\u3093\u3066\u3001\n\u3055\u3059\u304C\u30E9\u30A4\u30B6\u5148\u8F29\u3067\u3059\uFF01\n\u3084\u3063\u3071\u308A\u79C1\u3001\u6559\u308F\u308B\u307B\u3046\u304C\u597D\u304D\u307F\u305F\u3044\u3067\u3059",
+        "localizations": {
+          "en": "But trying new ways to cook things,\nthat\u0027s just like you, Ryza!\nI guess I really do prefer being the student!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 78,
+    "properties": {
+      "999008199": {
+        "text": "\u3053\u306E\u4E16\u754C\u306E\u6599\u7406\u306F\u3001\n\u8AB0\u3082\u30EC\u30B9\u30CA\u306B\u306F\u6575\u308F\u306A\u3044\u306D",
+        "localizations": {
+          "en": "When it comes to cooking in this world,\nno one can match you, Resna."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 79,
+    "properties": {
+      "999008199": {
+        "text": "\u3044\u3048\u3044\u3048\u3001\u305D\u3093\u306A\uFF01",
+        "localizations": {
+          "en": "No, no, not at all!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 80,
+    "properties": {
+      "999008199": {
+        "text": "\u79C1\u304C\u6559\u3048\u3089\u308C\u308B\u3053\u3068\u306A\u3093\u3066\u3001\u307B\u3093\u306E\u5C11\u3057\u3067\uFF01",
+        "localizations": {
+          "en": "I can only teach such a small amount!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 81,
+    "properties": {
+      "999008199": {
+        "text": "\u2026\u2026\u3042\u306E\u306D\u3001\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "...You know, Resna"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 82,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u305F\u3057\u306E\u5E2B\u5320\u306F\u3001\u306A\u3093\u3067\u3082\u304B\u3093\u3067\u3082\n\u6559\u3048\u3066\u304F\u308C\u308B\u4EBA\u3058\u3083\u306A\u3044\u3093\u3060",
+        "localizations": {
+          "en": "My master isn\u0027t someone who\nteaches everything directly."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 83,
+    "properties": {
+      "999008199": {
+        "text": "\u3060\u3051\u3069\u3001\u534A\u4EBA\u524D\u3060\u3063\u305F\u3042\u305F\u3057\u3068\n\u5BFE\u7B49\u306B\u63A5\u3057\u3066\u304F\u308C\u305F",
+        "localizations": {
+          "en": "But they treated me as an equal,\neven when I was just a beginner."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 84,
+    "properties": {
+      "999008199": {
+        "text": "\u5927\u304D\u306A\u554F\u984C\u306E\u3068\u304D\u306F\u610F\u898B\u3092\u51FA\u3057\u5408\u3063\u3066\u3001\n\u6311\u6226\u3057\u3066\u3001\u5207\u78CB\u7422\u78E8\u3057\u3066\u304D\u305F\u3093\u3060\u3088",
+        "localizations": {
+          "en": "We\u0027d share ideas about big problems,\ntake on challenges, and grow together."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 85,
+    "properties": {
+      "999008199": {
+        "text": "\u7D20\u6575\u3067\u3059\u3002\u305D\u3093\u306A\u5E2B\u5F1F\u95A2\u4FC2\u3082\u3042\u308B\u3093\u3067\u3059\u306D",
+        "localizations": {
+          "en": "That\u0027s wonderful. I didn\u0027t know such a\nmaster-apprentice relationship could exist."
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 86,
+    "properties": {
+      "999008199": {
+        "text": "\u3046\u3093\u3002\u3060\u304B\u3089\u306D\u2026\u2026\n\u3044\u3064\u304B\u30EC\u30B9\u30CA\u3068\u3082\u305D\u3046\u306A\u308A\u305F\u3044",
+        "localizations": {
+          "en": "Yeah. That\u0027s why...\nI\u0027d like to have that kind of relationship with you someday."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 87,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3093\u306A\u3002\u79C1\u306A\u3093\u3066\u3001\u307E\u3060\u5168\u7136\u2026\u2026\u3067\u3082\u2026\u2026",
+        "localizations": {
+          "en": "But I\u0027m still... not nearly... and yet..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 88,
+    "properties": {
+      "999008199": {
+        "text": "\u5149\u6804\u3067\u3059\u3002\u30E9\u30A4\u30B6\u5148\u8F29\uFF01",
+        "localizations": {
+          "en": "I\u0027m honored, Ryza!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 89,
+    "properties": {
+      "999008199": {
+        "text": "\u3048\u3078\u3078\u3002\u3088\u304B\u3063\u305F\uFF5E",
+        "localizations": {
+          "en": "Hehe. I\u0027m glad~"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 90,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u3060\u3002\u305D\u306E\u300C\u5148\u8F29\u300D\u3063\u3066\u3044\u3046\u306E\n\u3061\u3087\u3063\u3068\u3084\u3081\u3066\u307F\u306A\u3044\uFF1F",
+        "localizations": {
+          "en": "Oh right. Why don\u0027t you try\ndropping the \u0027senpai\u0027 thing?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 91,
+    "properties": {
+      "999008199": {
+        "text": "\u3048\u3048\u3063\uFF01\uFF1F\u3000\u305D\u3001\u305D\u308C\u306F\u3055\u3059\u304C\u306B\u2026\u2026",
+        "localizations": {
+          "en": "Eeh!? Th-that\u0027s a bit too much..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 92,
+    "properties": {
+      "999008199": {
+        "text": "\u307B\u3089\u3001\u7DF4\u7FD2\uFF01\u3000\u300C\u30E9\u30A4\u30B6\u300D\u3063\u3066\uFF01",
+        "localizations": {
+          "en": "Come on, practice! Just say \u0027Ryza\u0027!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 93,
+    "properties": {
+      "999008199": {
+        "text": "\u30E9\u30A4\u30B6\u2026\u2026\u3055\u3093\uFF01",
+        "localizations": {
+          "en": "Ryza... san!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 94,
+    "properties": {
+      "999008199": {
+        "text": "\u300C\u3055\u3093\u300D\u3063\u3066\u2026\u2026\u307E\u3042\u3044\u3063\u304B\u3002\u3042\u306F\u306F\uFF01",
+        "localizations": {
+          "en": "\u0027San\u0027... well, I guess that works. Ahaha!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 95,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u3053\u308C\u304C\u3042\u305F\u3057\u3068\u30EC\u30B9\u30CA\u306E\u4ECA\u306E\u95A2\u4FC2\u3002\n\u3000\u5148\u8F29\u5F8C\u8F29\u95A2\u4FC2\u306B\u3001\u6B63\u89E3\u306A\u3093\u3066\u306A\u3044\u3063\uFF01\uFF09",
+        "localizations": {
+          "en": "(This is the relationship Resna and I have now.\nThere\u0027s no single right way to be senior and junior!)"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 96,
+    "properties": {
+      "999008199": {
+        "text": "\u3046\u30FC\u3093\u3001\u3084\u3063\u3071\u308A\u2026\u2026\u79C1\u306B\u306F\u30E9\u30A4\u30B6\u5148\u8F29\u306B\n\u610F\u898B\u3059\u308B\u306A\u3093\u3066\u304A\u3053\u304C\u307E\u3057\u304F\u601D\u3048\u307E\u3059",
+        "localizations": {
+          "en": "Mmm, after all... I don\u0027t feel worthy\nof giving opinions to Ryza..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 97,
+    "properties": {
+      "999008199": {
+        "text": "\u30E9\u30A4\u30B6\u5148\u8F29\u306F\u3001\u3054\u81EA\u8EAB\u306E\u7D4C\u9A13\u3092\n\u512A\u5148\u3057\u3066\u304F\u3060\u3055\u3044\uFF01",
+        "localizations": {
+          "en": "Please prioritize your own experience!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 98,
+    "properties": {
+      "999008199": {
+        "text": "\u3088\u308D\u3057\u3051\u308C\u3070\u3001\u5148\u8F29\u306E\u5192\u967A\u306B\u3064\u3044\u3066\n\u304A\u805E\u304B\u305B\u3044\u305F\u3060\u3051\u307E\u305B\u3093\u304B\uFF1F",
+        "localizations": {
+          "en": "If you don\u0027t mind, could you tell me\nabout your adventures?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 99,
+    "properties": {
+      "999008199": {
+        "text": "\u3046\u3001\u3046\u3093\u3002\u3069\u306E\u8A71\u3092\u3057\u3088\u3046\u304B\u306A\u2026\u2026",
+        "localizations": {
+          "en": "O-Okay. Let me think which story to tell..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 100,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u6B8B\u5FF5\u3060\u306A\u2026\u2026\u30EC\u30B9\u30CA\u306B\n\u3000\u3082\u3063\u3068\u805E\u304D\u305F\u3044\u3053\u3068\u304C\u3042\u3063\u305F\u306E\u306B\uFF09",
+        "localizations": {
+          "en": "(That\u0027s too bad... I had more things\nI wanted to ask Resna.)"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 101,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u3053\u306E\u7D9A\u304D\u306F\u307E\u305F\u4ECA\u5EA6\u2026\u2026\u304B\u306A\uFF09",
+        "localizations": {
+          "en": "(I guess we\u0027ll continue this... another time.)"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30A4\u30B6",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 102,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u306E\u305F\u3081\u306B\u3001\u79C1\u306F\u4F55\u3092\u304A\u624B\u672C\u306B\u3059\u308B\u3079\u304D\n\u306A\u3093\u3067\u3057\u3087\u3046\u304B\u2026\u2026\u81EA\u5206\u3060\u3051\u306E\u9577\u6240\u306B\n\u304A\u624B\u672C\u306F\u306A\u3044\u306E\u304B\u3082\uFF01\uFF1F\u3000\u3042\u3042\u3042\uFF5E\uFF5E",
+        "localizations": {
+          "en": "What should I use as my example...\nMaybe there isn\u0027t an example for finding\nmy own strengths!? Aaaaah~~"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  }
+]

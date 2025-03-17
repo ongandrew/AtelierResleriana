@@ -1,0 +1,40 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>AtelierResleriana.Encryption</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.12.0" />
+    <PackageReference Include="MSTest" Version="3.6.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AtelierResleriana.AkatsukiGames\AtelierResleriana.AkatsukiGames.csproj" />
+    <ProjectReference Include="..\AtelierResleriana.Encryption\AtelierResleriana.Encryption.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Using Include="Microsoft.VisualStudio.TestTools.UnitTesting" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Resources\AkatsukiAssetBundles\00077028d3cd0fc37fdea2376aec4e41_6959df3ffb10f42513e85d20de868b67">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Resources\AkatsukiAssetBundles\00077028d3cd0fc37fdea2376aec4e41_6959df3ffb10f42513e85d20de868b67.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Resources\CachedMasterData.1739164044_6p7CNzPRcccY1DVD.bin">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Resources\CachedMasterData.1739423910_cUAPYN4t6CGt_5gI.bin">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

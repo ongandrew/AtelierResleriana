@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Universal.Anthropic.Client" Version="2.2.0" />
+    <PackageReference Include="Universal.Common.Json" Version="1.5.0" />
+    <PackageReference Include="Universal.GenerativeAI.Anthropic" Version="1.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AtelierResleriana.AkatsukiGames\AtelierResleriana.AkatsukiGames.csproj" />
+    <ProjectReference Include="..\AtelierResleriana.Encryption\AtelierResleriana.Encryption.csproj" />
+    <ProjectReference Include="..\AtelierResleriana.Game\AtelierResleriana.Game.csproj" />
+    <ProjectReference Include="..\AtelierResleriana.Localization\AtelierResleriana.Localization.csproj" />
+    <ProjectReference Include="..\AtelierResleriana.Text\AtelierResleriana.Text.csproj" />
+    <ProjectReference Include="..\AtelierResleriana.Unity\AtelierResleriana.Unity.csproj" />
+  </ItemGroup>
+
+</Project>

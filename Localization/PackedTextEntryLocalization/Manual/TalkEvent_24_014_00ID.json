@@ -1,0 +1,512 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "ふう、片付いた……",
+        "localizations": {
+          "en": "Phew, that takes care of them..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "問答無用で襲ってくる相手には、容赦しない",
+        "localizations": {
+          "en": "No mercy for those who attack without warning."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "……って、やばっ！\u3000そろそろ仕事の時間だ！\nベップのほうも大丈夫？",
+        "localizations": {
+          "en": "...Oh crap! It's almost time for work! You okay on your end?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "今日は海岸の見回りの予定だから……走れば間に合う",
+        "localizations": {
+          "en": "I have coastal patrol duty today... If I run, I can make it."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "急げ～！\u3000いっちに！",
+        "localizations": {
+          "en": "Let's hurry! One, two!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "さん、し！",
+        "localizations": {
+          "en": "Three, four!"
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "最後はこの広場をご案内します。あちらに見えるのは\n神官長様がいらっしゃる大聖堂です",
+        "localizations": {
+          "en": "And finally, we come to this plaza. Over there you can see the Grand Cathedral, where the High Priest resides."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "これで案内は終わりになります。\n最後に皆さんの旅の無事を祈って――",
+        "localizations": {
+          "en": "This concludes our tour. Now, let us pray for your safe travels—"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "大変だ！\u3000海のほうから魔物が！",
+        "localizations": {
+          "en": "Emergency! Monsters are coming from the sea!"
+        }
+      },
+      "2072370017": {
+        "text": "住民Ａ",
+        "localizations": {
+          "en": "Citizen A"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "なんだって！？",
+        "localizations": {
+          "en": "What did you say!?"
+        }
+      },
+      "2072370017": {
+        "text": "観光客の老人",
+        "localizations": {
+          "en": "Elderly Tourist"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "お母さん……！",
+        "localizations": {
+          "en": "Mommy...!"
+        }
+      },
+      "2072370017": {
+        "text": "観光客の子供",
+        "localizations": {
+          "en": "Child Tourist"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "だ、大丈夫よ。ねえ、案内人さん！",
+        "localizations": {
+          "en": "I-it's okay! Guide, what should we do!?"
+        }
+      },
+      "2072370017": {
+        "text": "観光客の母親",
+        "localizations": {
+          "en": "Tourist Mother"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "皆さん、落ち着いて！\n広がらず、広場の隅に固まって待っていてください",
+        "localizations": {
+          "en": "Everyone, stay calm!\nGather in the corner of the plaza and stay together!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "（よりにもよって海のほうから……\n\u3000ベップ、大丈夫かな……）",
+        "localizations": {
+          "en": "(Of all places, they're coming from the sea... I hope Bepp is alright...)"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "アルビー！",
+        "localizations": {
+          "en": "Alvie!"
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "ああ、イェルカ……って、どうしたの！？\nなんかボロボロだけど……",
+        "localizations": {
+          "en": "Oh, Jelka... Wait, what happened!? You're all beaten up..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "海で釣りをしてたら、いきなり魔物が上がってきてさ。\nそいつらの相手をしてた。ったく、お気に入りの服が",
+        "localizations": {
+          "en": "I was fishing when monsters suddenly emerged from the sea. Had to deal with them. Man, they ruined my favorite clothes."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "イェルカでも手こずるくらいなの！？",
+        "localizations": {
+          "en": "Even you had trouble with them!?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "だいぶ倒したけど、数が多くてね。\n本職の聖戦士が駆けつけてきたから、いったん任せた",
+        "localizations": {
+          "en": "I took down quite a few, but there were too many. The Sacred Knights showed up, so I left it to them."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "そっか、じゃあ、ベップも戦ってるんだ……",
+        "localizations": {
+          "en": "I see... so Bepp is fighting too..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "ベップが……大勢の魔物と……",
+        "localizations": {
+          "en": "... against so many monsters..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "この身に代えても！！",
+        "localizations": {
+          "en": "Even if it costs me my life!!"
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "アタシ、ちょっと様子を見てくる！",
+        "localizations": {
+          "en": "I'm going to check on her!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "そいつは、心得違いじゃないかい",
+        "localizations": {
+          "en": "That might not be the best idea."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "お前さんの仕事は、観光客の面倒を見ることだろう。\n天命に背くつもりか？\u3000ベップの強さを信じなよ",
+        "localizations": {
+          "en": "Your duty is to look after the tourists. Would you go against your divine calling? Have faith in her strength."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "でも、ベップ、まだ聖戦士になったばかりだし！\n心構えだって、危なっかしいとこがあって……！",
+        "localizations": {
+          "en": "But she only just became a Sacred Knight!\nShe can still be reckless sometimes...!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "……妹分が心配な気持ちはよく分かる。\nそれを邪魔するのも無粋、か",
+        "localizations": {
+          "en": "...I understand you're worried about your sister. It'd be cruel of me to stop you."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "ありがとう！",
+        "localizations": {
+          "en": "Thank you!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "皆さーん！\u3000安全が確認できるまで、\nこの広場から出ないようにお願いします！",
+        "localizations": {
+          "en": "Everyone! Please remain in this plaza until we confirm it's safe!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "聖戦士が、魔物の対応に出ていますので、\nこの広場にいる限りは、大丈夫ですから！",
+        "localizations": {
+          "en": "The Sacred Knights are dealing with the monsters, so you'll be safe as long as you stay in the plaza!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  }
+]

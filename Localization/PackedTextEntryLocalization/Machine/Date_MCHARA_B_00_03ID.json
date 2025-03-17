@@ -1,0 +1,682 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "\u307F\u3093\u306A\u3001\u304A\u306F\u3088\u3046\uFF01\n\u4ECA\u65E5\u3082\u304A\u59C9\u3061\u3083\u3093\u306B\u305F\u304F\u3055\u3093\u7518\u3048\u3066\u306D\uFF01",
+        "localizations": {
+          "en": "Good morning, everyone! Come and let your big sister spoil you today!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "\u306F\u3044\uFF01\u3000\u305F\u304F\u3055\u3093\u7518\u3048\u3055\u305B\u3066\u304F\u3060\u3055\u3044\uFF01",
+        "localizations": {
+          "en": "Yes! Please do spoil us!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "\u3082\u3046\u3059\u3063\u304B\u308A\u3001\u3044\u3044\u5922\u59C9\u6C17\u5206\u3001\u3058\u3083\u306A",
+        "localizations": {
+          "en": "You\u0027re really getting into this big sister role, huh?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30CF\u30A4\u30C7\u30A3",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "\u3067\u3082\u3001\u672C\u5F53\u306B\u5E78\u305B\u305D\u3046\u3067\u3059\u306D\uFF01",
+        "localizations": {
+          "en": "But she looks so happy about it!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D5\u30ED\u30C3\u30B1",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "\u3055\u3066\u3001\u4ECA\u65E5\u306F\u59B9\u305F\u3061\u306B\u4F55\u3092\u3057\u3066\u3042\u3052\u3088\u3046\u304B\u3057\u3089\u3002\n\u3082\u3063\u3068\u59C9\u3068\u3057\u3066\u5C0A\u656C\u3055\u308C\u308B\u305F\u3081\u306B\u306F\u2026\u2026",
+        "localizations": {
+          "en": "Now, what should I do for my little sisters today? To be an even more respectable big sister..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u3060\uFF01\u3000\u306D\u3048\u3001\u30A2\u30FC\u30B7\u30E3\u3002\n\u79C1\u306B\u85AC\u4F5C\u308A\u3092\u624B\u4F1D\u308F\u305B\u3066\u304F\u308C\u306A\u3044\uFF1F",
+        "localizations": {
+          "en": "Oh, I know! Hey, Ayesha, would you let me help you make medicine?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u3093\u305F\u3001\u85AC\u4F5C\u308A\u306A\u3093\u3066\u3067\u304D\u308B\u306E\uFF1F\n\u30A2\u30FC\u30B7\u30E3\u306B\u8FF7\u60D1\u304B\u3051\u308B\u3060\u3051\u3058\u3083\u2026\u2026",
+        "localizations": {
+          "en": "Wait, you know how to make medicine? You\u0027ll just end up causing trouble..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30CF\u30A4\u30C7\u30A3",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "\u304A\u59C9\u3061\u3083\u3093\u306B\u3067\u304D\u306A\u3044\u3053\u3068\u306F\u306A\u3044\u308F\uFF01",
+        "localizations": {
+          "en": "There\u0027s nothing your big sister can\u0027t do!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "\u306A\u3093\u304B\u76F8\u68D2\u3001\u59C9\u306B\u76F8\u5F53\u306A\u3053\u3060\u308F\u308A\u304C\u3042\u308B\u306A\u3041\u3002\n\u30A2\u30FC\u30B7\u30E3\u3001\u65AD\u3063\u3066\u3082\u3044\u3044\u304B\u3089\u306D\uFF1F",
+        "localizations": {
+          "en": "She\u0027s really serious about this sister thing... Ayesha, you can say no if you want to."
+        }
+      },
+      "2072370017": {
+        "text": "\u30CF\u30A4\u30C7\u30A3",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "\u3044\u3048\u3001\u305C\u3072\u304A\u624B\u4F1D\u3044\u3092\u304A\u9858\u3044\u3057\u307E\u3059\uFF01\n\u4E8C\u4EBA\u3067\u3084\u3063\u305F\u307B\u3046\u304C\u901F\u3044\u3067\u3059\u304B\u3089\uFF01",
+        "localizations": {
+          "en": "No, I\u0027d love your help! It\u0027ll go faster with two people!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "\u3048\u3048\u3001\u4EFB\u305B\u3066\uFF01\n\u305D\u308C\u3058\u3083\u3042\u65E9\u901F\u59CB\u3081\u307E\u3057\u3087\u3046\uFF01",
+        "localizations": {
+          "en": "Leave it to me! Let\u0027s get started right away!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u305D\u308C\u304B\u3089\u30F4\u30A1\u30EC\u30EA\u30A2\u3055\u3093\u3068\n\u3000\u85AC\u4F5C\u308A\u3092\u958B\u59CB\u3057\u305F\u306E\u3067\u3059\u304C\u2026\u2026\uFF09",
+        "localizations": {
+          "en": "(And so we began making medicine with Valeria, but...)"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2\u304A\u59C9\u3061\u3083\u3093\u3002\n\u9999\u308A\u4ED8\u3051\u306E\u85AC\u8349\u3092\u53D6\u3063\u3066\u304F\u308C\u307E\u3059\u304B\uFF1F",
+        "localizations": {
+          "en": "Big Sister Valeria, could you get the herbs for the fragrance?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "\u3048\u30FC\u3063\u3068\u2026\u2026\u3053\u308C\u304B\u3057\u3089\uFF1F",
+        "localizations": {
+          "en": "Um... is it this one?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u3001\u305D\u306E\u96A3\u306E\u85AC\u8349\u3067\u3059\u306D",
+        "localizations": {
+          "en": "Ah, it\u0027s the one next to that."
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "\u3069\u308C\u3082\u540C\u3058\u306B\u898B\u3048\u308B\u308F\u2026\u2026",
+        "localizations": {
+          "en": "They all look the same to me..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u3068\u306F\u5168\u4F53\u3092\u3086\u3063\u304F\u308A\u304B\u304D\u6DF7\u305C\u308C\u3070\u2026\u2026",
+        "localizations": {
+          "en": "Now we just need to stir it gently..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "\u529B\u4ED5\u4E8B\u306F\u79C1\u306B\u4EFB\u305B\u3066\uFF01\n\u5B8C\u74A7\u306B\u304B\u304D\u6DF7\u305C\u3066\u307F\u305B\u308B\u308F",
+        "localizations": {
+          "en": "Leave the physical work to me! I\u0027ll stir it perfectly!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "\u306F\u3041\uFF5E\uFF5E\uFF5E\uFF01",
+        "localizations": {
+          "en": "Haaaaah!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u3042\u3063\u3001\u305D\u3093\u306A\u306B\u52E2\u3044\u3088\u304F\u306F\u30C0\u30E1\u3067\u3059\uFF01\n\u3086\u3063\u304F\u308A\uFF01\u3000\u3086\u3063\u304F\u308A\u6DF7\u305C\u3066\u304F\u3060\u3055\u3044\uFF01",
+        "localizations": {
+          "en": "Ah, not so vigorously! Slowly! Please stir it slowly!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u307E\u308A\u65E9\u304F\u6DF7\u305C\u3059\u304E\u308B\u3068\u3001\n\u60AA\u3044\u53CD\u5FDC\u304C\u8D77\u3053\u3063\u3066\u2026\u2026",
+        "localizations": {
+          "en": "If you stir too quickly, it\u0027ll cause a bad reaction and..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "\u306A\u3001\u306A\u306B\u3063\uFF01\uFF1F",
+        "localizations": {
+          "en": "W-What!?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "\u4ECA\u307F\u305F\u3044\u306B\u7206\u767A\u3057\u3061\u3083\u3046\u3093\u3067\u3059\u2026\u2026",
+        "localizations": {
+          "en": "It\u0027ll explode like that..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "\u3051\u307B\u3063\u3001\u3051\u307B\u3063\uFF01\u3000\u306A\u3093\u3068\u307E\u3041",
+        "localizations": {
+          "en": "*cough* *cough* Oh my..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "\u3051\u307B\u3063\u2026\u2026\u85AC\u4F5C\u308A\u3063\u3066\u96E3\u3057\u3044\u306E\u306D\u3002\n\u79C1\u304C\u624B\u4F1D\u3046\u3068\u9006\u306B\u8FF7\u60D1\u304B\u3082",
+        "localizations": {
+          "en": "*cough*... Making medicine is harder than I thought. Maybe I\u0027m just getting in the way..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "\u3044\u3048\u3001\u6C17\u306B\u3057\u306A\u3044\u3067\u304F\u3060\u3055\u3044\uFF01\n\u6C17\u6301\u3061\u3060\u3051\u3067\u3082\u5B09\u3057\u3044\u3067\u3059\uFF01",
+        "localizations": {
+          "en": "No, please don\u0027t worry about it! I\u0027m just happy you wanted to help!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u306E\u4EE3\u308F\u308A\u3001\u6599\u7406\u3092\u4F5C\u3063\u3066\u3042\u3052\u308B\uFF01\n\u305A\u3063\u3068\u96C6\u4E2D\u3057\u3066\u3066\u304A\u8179\u7A7A\u3044\u3066\u308B\u3067\u3057\u3087\uFF01",
+        "localizations": {
+          "en": "Then let me make you something to eat instead! You must be hungry from all that concentration!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "\u5F85\u3063\u3066\u3066\u306D\u3001\u30D1\u30D1\u3063\u3068\u4F5C\u3063\u3066\u304F\u308B\u304B\u3089\uFF01",
+        "localizations": {
+          "en": "Wait here, I\u0027ll whip something up real quick!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "\u6700\u5F8C\u306E\u4ED5\u4E0A\u3052\u306B\u6DF7\u305C\u3066\u2026\u2026\n\u304F\u308B\u308B\u3093\u3001\u304F\u308B\u308B\u3093\u3002\u3088\u3057\u3001\u5B8C\u6210\uFF01",
+        "localizations": {
+          "en": "For the final touch, stir it... swirl, swirl. There, it\u0027s done!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2\u3055\u3093\u3001\u9045\u3044\u306A\u3002\n\u3042\u308C\u304B\u3089\u623B\u3063\u3066\u6765\u306A\u3044\u3051\u3069\u3001\u4F55\u304B\u3042\u3063\u305F\u306E\u304B\u306A\uFF1F",
+        "localizations": {
+          "en": "Valeria\u0027s taking a while. She hasn\u0027t come back yet... I wonder if something happened?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "\u30A2\u30FC\u30B7\u30E3\u3001\u3054\u3081\u3093\u2026\u2026\n\u6599\u7406\u3092\u4F5C\u308D\u3046\u3068\u3057\u305F\u3093\u3060\u3051\u3069\u3001\u5931\u6557\u3057\u3061\u3083\u3063\u3066\u2026\u2026",
+        "localizations": {
+          "en": "Ayesha, I\u0027m sorry... I tried to make something, but I messed up..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u3060\u3063\u305F\u3093\u3067\u3059\u306D\u3002\n\u3058\u3083\u3042\u3001\u4ECA\u304B\u3089\u4E00\u7DD2\u306B\u4F5C\u308A\u307E\u3057\u3087\u3046\u304B",
+        "localizations": {
+          "en": "Oh, I see. Well, why don\u0027t we cook something together?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "\u306F\u3041\u2026\u2026\n\u305C\u3093\u305C\u3093\u59C9\u3089\u3057\u3044\u3053\u3068\u3067\u304D\u3066\u306A\u3044\u2026\u2026",
+        "localizations": {
+          "en": "*sigh*... I can\u0027t do anything a big sister should..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "\u3053\u3093\u306A\u3093\u3058\u3083\u304A\u59C9\u3061\u3083\u3093\u5931\u683C\u3060\u308F",
+        "localizations": {
+          "en": "I\u0027m failing as a big sister..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3093\u306A\u3053\u3068\u3042\u308A\u307E\u305B\u3093\u3002\n\u30F4\u30A1\u30EC\u30EA\u30A2\u3055\u3093\u306F\u5341\u5206\u304A\u59C9\u3061\u3083\u3093\u3067\u3059\u3088\uFF01",
+        "localizations": {
+          "en": "That\u0027s not true at all. You\u0027re a wonderful big sister, Valeria!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u304B\u306A\u2026\u2026\uFF1F",
+        "localizations": {
+          "en": "You really think so...?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u3067\u3059\u3088\u3002\n\u3060\u304B\u3089\u5143\u6C17\u3092\u51FA\u3057\u3066\u304F\u3060\u3055\u3044\uFF01",
+        "localizations": {
+          "en": "I do! So please cheer up!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "\u2026\u2026\u3046\u3093\u3002\u3042\u308A\u304C\u3068\u3046\u3001\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "...Thanks, Ayesha."
+        }
+      },
+      "2072370017": {
+        "text": "\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u59C9\u3068\u3044\u3046\u306E\u306F\u3001\u85AC\u8349\u304C\u5224\u5225\u3067\u304D\u308B\u3068\u304B\u3001\u6599\u7406\u304C\u3067\u304D\u308B\n\u3000\u3068\u304B\u3001\u305D\u3046\u3044\u3046\u3053\u3068\u3060\u3051\u3058\u3083\u306A\u3044\u3068\u601D\u3044\u307E\u3059\uFF09",
+        "localizations": {
+          "en": "(Being a big sister isn\u0027t just about knowing herbs or being able to cook...)"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u59C9\u306E\u6570\u3060\u3051\u3001\u59C9\u306E\u5728\u308A\u65B9\u304C\n\u3000\u5B58\u5728\u3057\u3066\u3044\u308B\u3093\u3058\u3083\u306A\u3044\u304B\u306A\u2026\u2026\uFF09",
+        "localizations": {
+          "en": "(I think there are as many ways to be a big sister as there are sisters in the world...)"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A2\u30FC\u30B7\u30E3",
+        "localizations": {
+          "en": "Ayesha"
+        }
+      }
+    }
+  }
+]

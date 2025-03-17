@@ -1,0 +1,2459 @@
+[
+  {
+    "id": 10016,
+    "name": "Use 200 stamina",
+    "name_when_count_one": "",
+    "start_at": "2025-01-01T03:00:00Z"
+  },
+  {
+    "id": 10017,
+    "name": "Clear 3 Training Quests",
+    "name_when_count_one": "",
+    "start_at": "2025-01-01T03:00:00Z"
+  },
+  {
+    "id": 10018,
+    "name": "Clear 6 Training Quests",
+    "name_when_count_one": "",
+    "start_at": "2025-01-01T03:00:00Z"
+  },
+  {
+    "id": 10019,
+    "name": "Clear 9 Training Quests",
+    "name_when_count_one": "",
+    "start_at": "2025-01-01T03:00:00Z"
+  },
+  {
+    "id": 20014,
+    "name": "Clear {} Piece Quest(s)",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 60016,
+    "guide_mission_home_label": "Obtained by clearing Chapter 12!",
+    "name": "Clear Chapter 12-60 of the main story",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 60017,
+    "guide_mission_home_label": "Obtained by clearing Chapter 13!",
+    "name": "Clear Chapter 13-52 of the main story",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 60018,
+    "guide_mission_home_label": "Obtained by clearing Chapter 14!",
+    "name": "Clear Chapter 14-58 of the main story",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 60019,
+    "guide_mission_home_label": "Obtained by clearing Chapter 15!",
+    "name": "Clear Chapter 15-52 of the main story",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 60020,
+    "guide_mission_home_label": "Obtained by clearing Chapter 15 Additional Scenario",
+    "name": "Clear Chapter 15-74 of the main story",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 60021,
+    "guide_mission_home_label": "Obtained by clearing Chapter 16!",
+    "name": "Clear Chapter 16-53 of the main story",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 60022,
+    "guide_mission_home_label": "Obtained by clearing Chapter 17!",
+    "name": "Clear Chapter 17-54 of the main story",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 60023,
+    "guide_mission_home_label": "Obtained by clearing Chapter 17 Additional Scenario",
+    "name": "Clear Chapter 17-76 of the main story",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 60024,
+    "guide_mission_home_label": "Obtained by clearing Chapter 18!",
+    "name": "Clear Chapter 18-53 of the main story",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 60025,
+    "guide_mission_home_label": "Obtained by clearing Chapter 18 Additional Scenario",
+    "name": "Clear Chapter 18-73 of the main story",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 60026,
+    "guide_mission_home_label": "Obtained by clearing Chapter 19!",
+    "name": "Clear Chapter 19-53 of the main story",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 60027,
+    "guide_mission_home_label": "Obtained by clearing Chapter 20!",
+    "name": "Clear Chapter 20-52 of the main story",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 60028,
+    "guide_mission_home_label": "Obtained by clearing Chapter 21 Part 1!",
+    "name": "Clear Chapter 21-29 of the main story",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 60029,
+    "guide_mission_home_label": "Obtained by clearing Chapter 21 Part 2!",
+    "name": "Clear Chapter 21-53 of the main story",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 106001,
+    "name": "Synthesize 30 time(s)",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 106002,
+    "name": "Synthesize 60 times",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 106003,
+    "name": "Synthesize 90 times",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 106004,
+    "name": "Synthesize 120 times",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 106005,
+    "name": "Synthesize 150 times",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 106006,
+    "name": "Synthesize 180 times",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 106007,
+    "name": "Synthesize 210 times",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 106008,
+    "name": "Synthesize 240 times",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 106009,
+    "name": "Synthesize 270 times",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 106010,
+    "name": "Synthesize 300 times",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 107001,
+    "name": "Welcome Ryza [Flowering Explorer]",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 107002,
+    "name": "Clear 10 quests with Ryza [Flowering Explorer] in the party",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 107003,
+    "name": "Clear 20 quests with Ryza [Flowering Explorer] in the party",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 107004,
+    "name": "Synthesize 5 times with Ryza [Flowering Explorer] in the party",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 107005,
+    "name": "Synthesize 10 times with Ryza [Flowering Explorer] in the party",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 111001,
+    "name": "Clear Continuous Battle β Version: Beginner",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 111002,
+    "name": "Clear Continuous Battle β Version: Intermediate",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 111003,
+    "name": "Clear Continuous Battle β Version: Intermediate",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 111004,
+    "name": "Clear Continuous Battle β Version: Advanced",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 111005,
+    "name": "Clear Continuous Battle β Version: Advanced",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 300088,
+    "name": "Follow the official TikTok account",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 300144,
+    "name": "Link with KT App  ※Can be done from Menu > KT App Linking",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 300167,
+    "name": "Clear Chapter 21-53 of the main story",
+    "name_when_count_one": "",
+    "start_at": "2024-12-20T03:00:00Z"
+  },
+  {
+    "id": 300168,
+    "name": "Clear Chapter 22-54 of the main story",
+    "name_when_count_one": "",
+    "start_at": "2025-01-27T03:00:00Z"
+  },
+  {
+    "id": 300169,
+    "name": "Clear Chapter 23-37 of the main story",
+    "name_when_count_one": "",
+    "start_at": "2025-02-28T03:00:00Z"
+  },
+  {
+    "id": 300170,
+    "name": "Clear Chapter 24-40 of the main story",
+    "name_when_count_one": "",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 640010,
+    "name": "Clear {} Training Quest(s)",
+    "name_when_count_one": "",
+    "start_at": "2024-12-20T03:00:00Z"
+  },
+  {
+    "id": 640011,
+    "name": "Accept {} order(s)",
+    "name_when_count_one": "",
+    "start_at": "2024-12-20T03:00:00Z"
+  },
+  {
+    "id": 640012,
+    "name": "Synthesize {} Battle Item(s) (Attack)",
+    "name_when_count_one": "",
+    "start_at": "2024-12-27T03:00:00Z"
+  },
+  {
+    "id": 640013,
+    "name": "Synthesize {} Battle Item(s) (Recovery)",
+    "name_when_count_one": "",
+    "start_at": "2024-12-27T03:00:00Z"
+  },
+  {
+    "id": 640014,
+    "name": "Synthesize {} Battle Item(s) (Enhancement)",
+    "name_when_count_one": "",
+    "start_at": "2024-12-27T03:00:00Z"
+  },
+  {
+    "id": 680001,
+    "name": "Clear Floor 1 of the Tower of Bolt",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 680002,
+    "name": "Clear Floor 2 of the Tower of Bolt",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 680003,
+    "name": "Clear Floor 3 of the Tower of Bolt",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 680004,
+    "name": "Clear Floor 4 of the Tower of Bolt",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 680005,
+    "name": "Clear Floor 5 of the Tower of Bolt",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 720001,
+    "name": "Clear the Glittering Sekirara Star Festival! Boss Challenge with an SS rank score",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 720002,
+    "name": "Synthesize {} Winter Halberd(s)",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 720003,
+    "name": "Synthesize {} Winter Dress(es)",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 720004,
+    "name": "Synthesize {} Winter Necklace(s)",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 720005,
+    "name": "Synthesize {} item(s) with a total trait level of 7 or more",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 720006,
+    "name": "Synthesize {} times",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 720008,
+    "name": "Clear Sparkling Sekirara Star Festival! CHARISMA",
+    "name_when_count_one": "",
+    "start_at": "2024-12-18T03:00:00Z"
+  },
+  {
+    "id": 720009,
+    "name": "Clear Hot Springs Reclamation Operation! ~In Search of Ultimate Relaxation~ LEGEND",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 720010,
+    "name": "Welcome Juna [Starry Beauty]",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 720011,
+    "name": "Clear up to Episode 5 of Juna [Starry Beauty]'s Friendship Story",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 720012,
+    "name": "Clear 10 quests with Juna [Starry Beauty] in your party",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 720013,
+    "name": "Synthesize 5 times with Juna [Starry Beauty] in your party",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 720014,
+    "name": "Synthesize 10 times with Juna [Starry Beauty] in your party",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 720015,
+    "end_at": "2024-12-23T03:00:00Z",
+    "name": "[Until 12/23 12:00] Clear Sparkling Sekirara Star Festival! CHARISMA",
+    "name_when_count_one": "",
+    "start_at": "2024-12-18T03:00:00Z"
+  },
+  {
+    "id": 730001,
+    "name": "Synthesize 30 times",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 730002,
+    "name": "Synthesize 60 times",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 730003,
+    "name": "Synthesize 90 times",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 730004,
+    "name": "Synthesize 120 times",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 730005,
+    "name": "Synthesize 150 times",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 730006,
+    "name": "Synthesize 180 times",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 730007,
+    "name": "Synthesize 210 times",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 730008,
+    "name": "Synthesize 240 times",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 730009,
+    "name": "Synthesize 270 times",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 730010,
+    "name": "Synthesize 300 times",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 740001,
+    "name": "Clear The Path of Starlight: Bonded Ones Boss Challenge with SS rank",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 740002,
+    "name": "Synthesize Fortune-bringing Fan × {}",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 740003,
+    "name": "Synthesize Fortune-bringing Kimono × {}",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 740004,
+    "name": "Synthesize Fortune-bringing Hairpin × {}",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 740005,
+    "name": "Acquire {} Battle Coin [Path of the Star-lit Bond]",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 770001,
+    "name": "Welcome Criselda [Ambitious Alchemist]",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 770002,
+    "name": "Clear up to Bond Episode 5 with Criselda [Ambitious Alchemist]",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 770003,
+    "name": "Clear 10 quests with Criselda [Ambitious Alchemist] in your party",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 770004,
+    "name": "Synthesize 5 times with Criselda [Ambitious Alchemist] in your party",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 770005,
+    "name": "Synthesize 10 times with Criselda [Ambitious Alchemist] in your party",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 780001,
+    "name": "Welcome Saskia [Spring Wishes]",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 780002,
+    "name": "Clear up to Bond Episode 5 with Saskia [Spring Wishes]",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 780003,
+    "name": "Clear 10 quests with Saskia [Spring Wishes] in your party",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 780004,
+    "name": "Synthesize 5 times with Saskia [Spring Wishes] in your party",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 780005,
+    "name": "Synthesize 10 times with Saskia [Spring Wishes] in your party",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 790001,
+    "name": "Log in for {} day(s) during the mission period",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 790002,
+    "name": "Clear Score Battle {} time(s)",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 790003,
+    "name": "Clear Training Quest {} time(s)",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 790004,
+    "name": "Use {} stamina",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 790005,
+    "name": "Synthesize {} time(s)",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 800001,
+    "name": "Log in for 3 days during the mission period",
+    "name_when_count_one": "",
+    "start_at": "2024-12-31T15:00:00Z"
+  },
+  {
+    "id": 800002,
+    "name": "Synthesize battle items 25 times",
+    "name_when_count_one": "",
+    "start_at": "2024-12-31T15:00:00Z"
+  },
+  {
+    "id": 800003,
+    "name": "Challenge Training Quests 25 times",
+    "name_when_count_one": "",
+    "start_at": "2024-12-31T15:00:00Z"
+  },
+  {
+    "id": 800004,
+    "name": "Defeat 250 enemies",
+    "name_when_count_one": "",
+    "start_at": "2025-01-02T03:00:00Z"
+  },
+  {
+    "id": 800005,
+    "name": "Synthesize weapons 25 times",
+    "name_when_count_one": "",
+    "start_at": "2025-01-02T03:00:00Z"
+  },
+  {
+    "id": 800006,
+    "name": "Challenge Score Battles 25 times",
+    "name_when_count_one": "",
+    "start_at": "2025-01-02T03:00:00Z"
+  },
+  {
+    "id": 800007,
+    "name": "Log in for 5 days during the mission period",
+    "name_when_count_one": "",
+    "start_at": "2025-01-03T03:00:00Z"
+  },
+  {
+    "id": 800008,
+    "name": "Synthesize armor 25 times",
+    "name_when_count_one": "",
+    "start_at": "2025-01-03T03:00:00Z"
+  },
+  {
+    "id": 800009,
+    "name": "Use 1500 stamina",
+    "name_when_count_one": "",
+    "start_at": "2025-01-03T03:00:00Z"
+  },
+  {
+    "id": 800010,
+    "name": "Defeat 500 enemies",
+    "name_when_count_one": "",
+    "start_at": "2025-01-04T03:00:00Z"
+  },
+  {
+    "id": 800011,
+    "name": "Synthesize accessories 25 times",
+    "name_when_count_one": "",
+    "start_at": "2025-01-04T03:00:00Z"
+  },
+  {
+    "id": 800012,
+    "name": "Accept 10 orders",
+    "name_when_count_one": "",
+    "start_at": "2025-01-04T03:00:00Z"
+  },
+  {
+    "id": 800013,
+    "name": "Synthesize 5 battle items with total trait levels of 6 or higher",
+    "name_when_count_one": "",
+    "start_at": "2025-01-05T03:00:00Z"
+  },
+  {
+    "id": 800014,
+    "name": "Synthesize 200 times",
+    "name_when_count_one": "",
+    "start_at": "2025-01-05T03:00:00Z"
+  },
+  {
+    "id": 800015,
+    "name": "Use 3000 stamina",
+    "name_when_count_one": "",
+    "start_at": "2025-01-05T03:00:00Z"
+  },
+  {
+    "id": 810001,
+    "name": "Welcome Thea [One And Only]",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 810002,
+    "name": "Clear 10 quests with Thea [One And Only] in the party",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 810003,
+    "name": "Clear 20 quests with Thea [One And Only] in the party",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 810004,
+    "name": "Synthesize 5 times with Thea [One And Only] in the party",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 810005,
+    "name": "Synthesize 10 times with Thea [One And Only] in the party",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 820001,
+    "name": "Recruit Lara [Great Refinement]",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 820002,
+    "name": "Complete up to Episode 5 of Lara [Great Refinement]'s Interactions",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 820003,
+    "name": "Clear 10 quests with Lara [Great Refinement] in your party",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 820004,
+    "name": "Synthesize 5 times with Lara [Great Refinement] in your party",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 820005,
+    "name": "Synthesize 10 times with Lara [Great Refinement] in your party",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 830001,
+    "name": "Recruit Empel [Sweet Butler]",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 830002,
+    "name": "Clear 10 quests with Empel [Sweet Butler] in your party",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 830003,
+    "name": "Clear 20 quests with Empel [Sweet Butler] in your party",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 830004,
+    "name": "Synthesize 5 times with Empel [Sweet Butler] in your party",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 830005,
+    "name": "Synthesize 10 times with Empel [Sweet Butler] in your party",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 850001,
+    "name": "Clear Floor 1 of the Ice Tower",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 850002,
+    "name": "Clear Floor 2 of the Ice Tower",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 850003,
+    "name": "Clear Floor 3 of the Ice Tower",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 850004,
+    "name": "Clear Floor 4 of the Ice Tower",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 850005,
+    "name": "Clear Floor 5 of the Ice Tower",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 870001,
+    "name": "Synthesize {} time(s)",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 870002,
+    "name": "Synthesize {} equipment item(s) with trait levels totaling 8 or higher",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 870003,
+    "name": "Synthesize {} weapon(s)",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 870004,
+    "name": "Synthesize {} armor(s)",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 870005,
+    "name": "Synthesize {} accessory(ies)",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 870006,
+    "name": "Synthesize {} battle item(s) (attack)",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 870007,
+    "name": "Synthesize Combat Item (Debuff) × {}",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 870008,
+    "name": "Synthesize Combat Item (Recovery) × {}",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 870009,
+    "name": "Synthesize Combat Item (Buff) × {}",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 880001,
+    "name": "Welcome Firis [Twinning Ribbon]",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 880002,
+    "name": "Clear 10 quests with Firis [Twinning Ribbon] in party",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 880003,
+    "name": "Clear 20 quests with Firis [Twinning Ribbon] in party",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 880004,
+    "name": "Synthesize 5 times with Firis [Twinning Ribbon] in party",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 880005,
+    "name": "Synthesize 10 times with Firis [Twinning Ribbon] in party",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 890001,
+    "name": "Clear Walking into the Future with Friends Boss Challenge with SS rank",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 890002,
+    "name": "Synthesize Bird and Sun Staff × {}",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 890003,
+    "name": "Synthesize Alchemist's Coat × {}",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 890004,
+    "name": "Synthesize Beast Aroma × {}",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 890005,
+    "name": "Obtain Battle Coin [Walking into the Future with Friends] × {}",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 900001,
+    "name": "Welcome Ilmeria [Diligent Genius]",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 900002,
+    "name": "Clear 10 quests with Ilmeria [Diligent Genius] in party",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 900003,
+    "name": "Clear 20 quests with Ilmeria [Diligent Genius] in party",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 900004,
+    "name": "Synthesize 5 times with Ilmeria [Diligent Genius] in party",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 900005,
+    "name": "Synthesize 10 times with Ilmeria [Diligent Genius] in party",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 910001,
+    "name": "Clear Competing with Rivals Future Boss Challenge with SS rank",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 910002,
+    "name": "Synthesize Azure Cage × {}",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 910003,
+    "name": "Synthesize {} Traveler's Outfit(s)",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 910004,
+    "name": "Synthesize {} Heart Earring(s)",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 910005,
+    "name": "Obtain {} Battle Coin(s) [Future Rivals]",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 930001,
+    "name": "Synthesize 30 time(s)",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 930002,
+    "name": "Synthesize 60 time(s)",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 930003,
+    "name": "Synthesize 90 time(s)",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 930004,
+    "name": "Synthesize 120 time(s)",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 930005,
+    "name": "Synthesize 150 time(s)",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 930006,
+    "name": "Synthesize 180 time(s)",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 930007,
+    "name": "Synthesize 210 time(s)",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 930008,
+    "name": "Synthesize 240 time(s)",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 930009,
+    "name": "Synthesize 270 time(s)",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 930010,
+    "name": "Synthesize 300 time(s)",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 940001,
+    "name": "Welcome Plachta [Curious Theorist]",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 940002,
+    "name": "Clear 10 quests with Plachta [Curious Theorist] in your party",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 940003,
+    "name": "Clear 20 quests with Plachta [Curious Theorist] in your party",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 940004,
+    "name": "Synthesize 5 time(s) with Plachta [Curious Theorist] in your party",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 940005,
+    "name": "Synthesize 10 time(s) with Plachta [Curious Theorist] in your party",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 950001,
+    "name": "Clear Dreaming of You Special Stage",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 950002,
+    "name": "Clear Dreaming of You Special Boss Challenge",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 950003,
+    "name": "Clear Special Boss Challenge - Dreaming of You with a score rank of SS",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 950004,
+    "name": "Clear Special Boss Challenge - Dreaming of You with a score rank of SS",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 950005,
+    "name": "Welcome Plachta [Curious Theorist]",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 950006,
+    "name": "Raise Plachta [Curious Theorist] to ★3.5",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 950007,
+    "name": "Obtain \"In Sweet, Cloudy Weather\"",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 950008,
+    "name": "Unlock stage 1 of \"In Sweet, Cloudy Weather\"",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 960001,
+    "name": "Clear Floor 1 of the Tower of Breakthrough",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 960002,
+    "name": "Clear Floor 2 of the Tower of Breakthrough",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 960003,
+    "name": "Clear Floor 3 of the Tower of Breakthrough",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 960004,
+    "name": "Clear Floor 4 of the Tower of Breakthrough",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 960005,
+    "name": "Clear Floor 5 of the Tower of Breakthrough",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 970001,
+    "name": "Welcome Klaudia [Flowering Doer]",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 970002,
+    "name": "Clear 10 quests with Klaudia [Flowering Doer] in the party",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 970003,
+    "name": "Clear 20 quests with Klaudia [Flowering Doer] in the party",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 970004,
+    "name": "Synthesize 5 times with Klaudia [Flowering Doer] in the party",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 970005,
+    "name": "Synthesize 10 times with Klaudia [Flowering Doer] in the party",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 980001,
+    "name": "Clear Special - Adventure with You",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 980002,
+    "name": "Clear Special Boss Challenge - Adventure with You",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 980003,
+    "name": "Clear Special Boss Challenge - Adventure with You with a score rank of SS",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 980004,
+    "name": "Clear Special Boss Challenge - Adventure with You with a score rank of SS",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 980005,
+    "name": "Welcome Klaudia [Flowering Doer]",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 980006,
+    "name": "Raise Klaudia [Flowering Doer] to ★3.5",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 980007,
+    "name": "Obtain \"Closer Than Before\"",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 980008,
+    "name": "Unlock Phase 1 of \"Closer Than Before\"",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1011001,
+    "end_at": "2025-02-11T03:00:00Z",
+    "name": "[Updated 2025/02/11 12:00] Clear Dragon's Tears Scatter Like Flowers LEGEND CHALLENGE",
+    "name_when_count_one": "",
+    "start_at": "2025-02-07T03:00:00Z"
+  },
+  {
+    "id": 1011002,
+    "end_at": "2025-02-14T03:00:00Z",
+    "name": "Clear Dragon's Tears Scatter Like Flowers LEGEND CHALLENGE",
+    "name_when_count_one": "",
+    "start_at": "2025-02-11T03:00:00Z"
+  },
+  {
+    "id": 1011003,
+    "end_at": "2025-02-08T03:00:00Z",
+    "name": "[Daily Update] Log in",
+    "name_when_count_one": "",
+    "start_at": "2025-02-07T03:00:00Z"
+  },
+  {
+    "id": 1011004,
+    "end_at": "2025-02-08T03:00:00Z",
+    "name": "[Daily Update] Log in",
+    "name_when_count_one": "",
+    "start_at": "2025-02-07T03:00:00Z"
+  },
+  {
+    "id": 1011005,
+    "end_at": "2025-02-08T03:00:00Z",
+    "name": "[Daily Update] Log in",
+    "name_when_count_one": "",
+    "start_at": "2025-02-07T03:00:00Z"
+  },
+  {
+    "id": 1011006,
+    "end_at": "2025-02-08T03:00:00Z",
+    "name": "[Daily Update] Log in",
+    "name_when_count_one": "",
+    "start_at": "2025-02-07T03:00:00Z"
+  },
+  {
+    "id": 1011007,
+    "end_at": "2025-02-09T03:00:00Z",
+    "name": "[Daily Update] Log in",
+    "name_when_count_one": "",
+    "start_at": "2025-02-08T03:00:00Z"
+  },
+  {
+    "id": 1011008,
+    "end_at": "2025-02-09T03:00:00Z",
+    "name": "[Daily Update] Log in",
+    "name_when_count_one": "",
+    "start_at": "2025-02-08T03:00:00Z"
+  },
+  {
+    "id": 1011009,
+    "end_at": "2025-02-09T03:00:00Z",
+    "name": "[Daily Update] Log in",
+    "name_when_count_one": "",
+    "start_at": "2025-02-08T03:00:00Z"
+  },
+  {
+    "id": 1011010,
+    "end_at": "2025-02-09T03:00:00Z",
+    "name": "[Daily Update] Log in",
+    "name_when_count_one": "",
+    "start_at": "2025-02-08T03:00:00Z"
+  },
+  {
+    "id": 1011011,
+    "end_at": "2025-02-10T03:00:00Z",
+    "name": "[Daily Update] Log in",
+    "name_when_count_one": "",
+    "start_at": "2025-02-09T03:00:00Z"
+  },
+  {
+    "id": 1011012,
+    "end_at": "2025-02-10T03:00:00Z",
+    "name": "[Daily Update] Log in",
+    "name_when_count_one": "",
+    "start_at": "2025-02-09T03:00:00Z"
+  },
+  {
+    "id": 1011013,
+    "end_at": "2025-02-10T03:00:00Z",
+    "name": "[Daily Update] Log in",
+    "name_when_count_one": "",
+    "start_at": "2025-02-09T03:00:00Z"
+  },
+  {
+    "id": 1011014,
+    "end_at": "2025-02-10T03:00:00Z",
+    "name": "[Daily Update] Log in",
+    "name_when_count_one": "",
+    "start_at": "2025-02-09T03:00:00Z"
+  },
+  {
+    "id": 1011015,
+    "end_at": "2025-02-11T03:00:00Z",
+    "name": "[Daily Update] Log in",
+    "name_when_count_one": "",
+    "start_at": "2025-02-10T03:00:00Z"
+  },
+  {
+    "id": 1011016,
+    "end_at": "2025-02-11T03:00:00Z",
+    "name": "[Daily Update] Log in",
+    "name_when_count_one": "",
+    "start_at": "2025-02-10T03:00:00Z"
+  },
+  {
+    "id": 1011017,
+    "end_at": "2025-02-11T03:00:00Z",
+    "name": "[Daily Reset] Log in",
+    "name_when_count_one": "",
+    "start_at": "2025-02-10T03:00:00Z"
+  },
+  {
+    "id": 1011018,
+    "end_at": "2025-02-11T03:00:00Z",
+    "name": "[Daily Reset] Log in",
+    "name_when_count_one": "",
+    "start_at": "2025-02-10T03:00:00Z"
+  },
+  {
+    "id": 1011019,
+    "end_at": "2025-02-12T03:00:00Z",
+    "name": "[Daily Reset] Log in",
+    "name_when_count_one": "",
+    "start_at": "2025-02-11T03:00:00Z"
+  },
+  {
+    "id": 1011020,
+    "end_at": "2025-02-12T03:00:00Z",
+    "name": "[Daily Reset] Log in",
+    "name_when_count_one": "",
+    "start_at": "2025-02-11T03:00:00Z"
+  },
+  {
+    "id": 1011021,
+    "end_at": "2025-02-12T03:00:00Z",
+    "name": "[Daily Reset] Log in",
+    "name_when_count_one": "",
+    "start_at": "2025-02-11T03:00:00Z"
+  },
+  {
+    "id": 1011022,
+    "end_at": "2025-02-12T03:00:00Z",
+    "name": "[Daily Reset] Log in",
+    "name_when_count_one": "",
+    "start_at": "2025-02-11T03:00:00Z"
+  },
+  {
+    "id": 1011023,
+    "end_at": "2025-02-13T03:00:00Z",
+    "name": "[Daily Reset] Log in",
+    "name_when_count_one": "",
+    "start_at": "2025-02-12T03:00:00Z"
+  },
+  {
+    "id": 1011024,
+    "end_at": "2025-02-13T03:00:00Z",
+    "name": "[Daily Reset] Log in",
+    "name_when_count_one": "",
+    "start_at": "2025-02-12T03:00:00Z"
+  },
+  {
+    "id": 1011025,
+    "end_at": "2025-02-13T03:00:00Z",
+    "name": "[Daily Reset] Log in",
+    "name_when_count_one": "",
+    "start_at": "2025-02-12T03:00:00Z"
+  },
+  {
+    "id": 1011026,
+    "end_at": "2025-02-13T03:00:00Z",
+    "name": "[Daily Reset] Log in",
+    "name_when_count_one": "",
+    "start_at": "2025-02-12T03:00:00Z"
+  },
+  {
+    "id": 1011027,
+    "end_at": "2025-02-14T03:00:00Z",
+    "name": "[Daily Reset] Log in",
+    "name_when_count_one": "",
+    "start_at": "2025-02-13T03:00:00Z"
+  },
+  {
+    "id": 1011028,
+    "end_at": "2025-02-14T03:00:00Z",
+    "name": "[Daily Reset] Log in",
+    "name_when_count_one": "",
+    "start_at": "2025-02-13T03:00:00Z"
+  },
+  {
+    "id": 1011029,
+    "end_at": "2025-02-14T03:00:00Z",
+    "name": "[Daily Reset] Log in",
+    "name_when_count_one": "",
+    "start_at": "2025-02-13T03:00:00Z"
+  },
+  {
+    "id": 1011030,
+    "end_at": "2025-02-14T03:00:00Z",
+    "name": "[Daily Reset] Log in",
+    "name_when_count_one": "",
+    "start_at": "2025-02-13T03:00:00Z"
+  },
+  {
+    "id": 1020001,
+    "name": "Clear the Dreaming with You LEGEND CHALLENGE",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1030001,
+    "name": "Clear the Adventuring with You LEGEND CHALLENGE",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1040001,
+    "name": "Clear Score Battle {} times",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1040002,
+    "name": "Accept {} orders",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1040003,
+    "name": "Clear Training Quest {} times",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1040004,
+    "name": "Synthesize {} times",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1040005,
+    "name": "Take on Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1040006,
+    "name": "Make a wish {} time(s)",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1040007,
+    "name": "Use {} Cole(s) in the shop",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1040008,
+    "name": "Log in {} day(s) during the mission period",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1040009,
+    "name": "Convert {} item(s)",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1040010,
+    "name": "Unlock Memoria {} time(s)",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1080001,
+    "name": "Clear Chapter 3 of the main story",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1080002,
+    "name": "Clear Chapter 7 of the main story",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1080003,
+    "name": "Clear Chapter 11 of the main story",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1080004,
+    "name": "Clear Chapter 17 of the main story",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1080005,
+    "name": "Clear Chapter 21 of the main story",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1080006,
+    "name": "Clear Score Battle 22-1 Normal",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1080007,
+    "name": "Clear Score Battle 22-2 Normal",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1080008,
+    "name": "Clear Score Battle 22-3 Normal",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1080009,
+    "name": "Clear Chapter 22 of the main story",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1080010,
+    "name": "Clear Score Battle 23-1 Normal",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1080011,
+    "name": "Clear Score Battle 23-2 Normal",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1080012,
+    "name": "Clear Score Battle 23-3 Normal",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1080013,
+    "name": "Clear Chapter 23 of the main story",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1080014,
+    "name": "Clear Score Battle 24-1 Normal",
+    "name_when_count_one": "",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1080015,
+    "name": "Clear Score Battle 24-2 Normal",
+    "name_when_count_one": "",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1080016,
+    "name": "Clear Chapter 24 of the main story",
+    "name_when_count_one": "",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1090006,
+    "name": "Wish {} time(s) from 'A New Guide - Alvina' LEGEND FES *Includes paid wishes",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1090007,
+    "name": "Wish {} time(s) from 'A New Guide - Alvina' LEGEND FES *Includes paid wishes",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1090008,
+    "name": "Wish {} time(s) from 'A New Guide - Alvina' LEGEND FES *Includes paid wishes",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1090009,
+    "name": "Wish {} time(s) from 'A New Guide - Alvina' LEGEND FES *Includes paid wishes",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1090010,
+    "name": "Wish {} time(s) from 'A New Guide - Alvina' LEGEND FES *Includes paid wishes",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1090011,
+    "name": "Wish {} time(s) from 'A New Guide - Alvina' LEGEND FES *Includes paid wishes",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1100006,
+    "name": "Wish {} time(s) from 'Twin Blades of Destiny - Bepp' LEGEND FES *Includes paid wishes",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1100007,
+    "name": "Wish {} time(s) from 'Twin Blades of Destiny - Bepp' LEGEND FES *Includes paid wishes",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1100008,
+    "name": "Wish {} time(s) from 'Twin Blades of Destiny - Bepp' LEGEND FES *Includes paid wishes",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1100009,
+    "name": "Wish {} time(s) from 'Twin Blades of Destiny - Bepp' LEGEND FES *Includes paid wishes",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1100010,
+    "name": "Wish {} time(s) from 'Twin Blades of Destiny - Bepp' LEGEND FES *Includes paid wishes",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1100011,
+    "name": "Wish {} time(s) from 'Twin Blades of Destiny - Bepp' LEGEND FES *Includes paid wishes",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 69000001,
+    "name": "Participate in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 69000002,
+    "name": "Deal a total of 100,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 69000003,
+    "name": "Deal a total of 200,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 69000004,
+    "name": "Deal a total of 300,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 69000005,
+    "name": "Deal a total of 400,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 69000006,
+    "name": "Deal a total of 500,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 69000007,
+    "name": "Deal a total of 500,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 69000008,
+    "name": "Deal a total of 600,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 69000009,
+    "name": "Deal a total of 700,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 69000010,
+    "name": "Deal a total of 800,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 69000011,
+    "name": "Deal a total of 900,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 69000012,
+    "name": "Deal a total of 1,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 69000013,
+    "name": "Deal a total of 1,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 69000014,
+    "name": "Deal a total of 1,200,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 69000015,
+    "name": "Deal a total of 1,400,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 69000016,
+    "name": "Deal a total of 1,600,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 69000017,
+    "name": "Deal a total of 1,800,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 69000018,
+    "name": "Deal a total of 2,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 69000019,
+    "name": "Deal a total of 2,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 69000020,
+    "name": "Deal a total of 2,200,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 69000021,
+    "name": "Deal a total of 2,400,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 69000022,
+    "name": "Deal a total of 2,600,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 69000023,
+    "name": "Deal a total of 2,800,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 69000024,
+    "name": "Deal a total of 3,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 69000025,
+    "name": "Deal a total of 3,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 74000001,
+    "name": "Participate in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 74000002,
+    "name": "Deal a total of 100,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 74000003,
+    "name": "Deal a total of 200,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 74000004,
+    "name": "Deal a total of 300,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 74000005,
+    "name": "Deal a total of 400,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 74000006,
+    "name": "Deal a total of 500,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 74000007,
+    "name": "Deal a total of 500,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 74000008,
+    "name": "Deal a total of 600,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 74000009,
+    "name": "Deal a total of 700,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 74000010,
+    "name": "Deal a total of 800,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 74000011,
+    "name": "Deal a total of 900,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 74000012,
+    "name": "Deal a total of 1,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 74000013,
+    "name": "Deal a total of 1,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 74000014,
+    "name": "Deal a total of 1,200,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 74000015,
+    "name": "Deal a total of 1,400,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 74000016,
+    "name": "Deal a total of 1,600,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 74000017,
+    "name": "Deal a total of 1,800,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 74000018,
+    "name": "Deal a total of 2,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 74000019,
+    "name": "Deal a total of 2,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 74000020,
+    "name": "Deal a total of 2,200,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 74000021,
+    "name": "Deal a total of 2,400,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 74000022,
+    "name": "Deal a total of 2,600,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 74000023,
+    "name": "Deal a total of 2,800,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 74000024,
+    "name": "Deal a total of 3,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 74000025,
+    "name": "Deal a total of 3,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 84000001,
+    "name": "Participate in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 84000002,
+    "name": "Deal a total of 100,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 84000003,
+    "name": "Deal a total of 200,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 84000004,
+    "name": "Deal a total of 300,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 84000005,
+    "name": "Deal a total of 400,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 84000006,
+    "name": "Deal a total of 500,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 84000007,
+    "name": "Deal a total of 500,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 84000008,
+    "name": "Deal a total of 600,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 84000009,
+    "name": "Deal a total of 700,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 84000010,
+    "name": "Deal a total of 800,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 84000011,
+    "name": "Deal a total of 900,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 84000012,
+    "name": "Deal a total of 1,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 84000013,
+    "name": "Deal a total of 1,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 84000014,
+    "name": "Deal a total of 1,200,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 84000015,
+    "name": "Deal a total of 1,400,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 84000016,
+    "name": "Deal a total of 1,600,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 84000017,
+    "name": "Deal a total of 1,800,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 84000018,
+    "name": "Deal a total of 2,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 84000019,
+    "name": "Deal a total of 2,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 84000020,
+    "name": "Deal a total of 2,200,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 84000021,
+    "name": "Deal a total of 2,400,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 84000022,
+    "name": "Deal a total of 2,600,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 84000023,
+    "name": "Deal a total of 2,800,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 84000024,
+    "name": "Deal a total of 3,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 84000025,
+    "name": "Deal a total of 3,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 94000001,
+    "name": "Participate in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 94000002,
+    "name": "Deal a total of 100,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 94000003,
+    "name": "Deal a total of 200,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 94000004,
+    "name": "Deal a total of 300,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 94000005,
+    "name": "Deal a total of 400,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 94000006,
+    "name": "Deal a total of 500,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 94000007,
+    "name": "Deal a total of 500,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 94000008,
+    "name": "Deal a total of 600,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 94000009,
+    "name": "Deal a total of 700,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 94000010,
+    "name": "Deal a total of 800,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 94000011,
+    "name": "Deal a total of 900,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 94000012,
+    "name": "Deal a total of 1,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 94000013,
+    "name": "Deal a total of 1,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 94000014,
+    "name": "Deal a total of 1,200,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 94000015,
+    "name": "Deal a total of 1,400,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 94000016,
+    "name": "Deal a total of 1,600,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 94000017,
+    "name": "Deal a total of 1,800,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 94000018,
+    "name": "Deal a total of 2,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 94000019,
+    "name": "Deal a total of 2,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 94000020,
+    "name": "Deal a total of 2,200,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 94000021,
+    "name": "Deal a total of 2,400,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 94000022,
+    "name": "Deal a total of 2,600,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 94000023,
+    "name": "Deal a total of 2,800,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 94000024,
+    "name": "Deal a total of 3,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 94000025,
+    "name": "Deal a total of 3,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 100000001,
+    "name": "Participate in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 100000002,
+    "name": "Deal a total of 100,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 100000003,
+    "name": "Deal a total of 200,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 100000004,
+    "name": "Deal a total of 300,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 100000005,
+    "name": "Deal a total of 400,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 100000006,
+    "name": "Deal a total of 500,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 100000007,
+    "name": "Deal a total of 500,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 100000008,
+    "name": "Deal a total of 600,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 100000009,
+    "name": "Deal a total of 700,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 100000010,
+    "name": "Deal a total of 800,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 100000011,
+    "name": "Deal a total of 900,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 100000012,
+    "name": "Deal a total of 1,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 100000013,
+    "name": "Deal a total of 1,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 100000014,
+    "name": "Deal a total of 1,200,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 100000015,
+    "name": "Deal a total of 1,400,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 100000016,
+    "name": "Deal a total of 1,600,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 100000017,
+    "name": "Deal a total of 1,800,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 100000018,
+    "name": "Deal a total of 2,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 100000019,
+    "name": "Deal a total of 2,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 100000020,
+    "name": "Deal a total of 2,200,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 100000021,
+    "name": "Deal a total of 2,400,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 100000022,
+    "name": "Deal a total of 2,600,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 100000023,
+    "name": "Deal a total of 2,800,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 100000024,
+    "name": "Deal a total of 3,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 100000025,
+    "name": "Deal a total of 3,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 105000001,
+    "name": "Participate in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 105000002,
+    "name": "Deal a total of 100,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 105000003,
+    "name": "Deal a total of 200,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 105000004,
+    "name": "Deal a total of 300,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 105000005,
+    "name": "Deal a total of 400,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 105000006,
+    "name": "Deal a total of 500,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 105000007,
+    "name": "Deal a total of 500,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 105000008,
+    "name": "Deal a total of 600,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 105000009,
+    "name": "Deal a total of 700,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 105000010,
+    "name": "Deal a total of 800,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 105000011,
+    "name": "Deal a total of 900,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 105000012,
+    "name": "Deal a total of 1,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 105000013,
+    "name": "Deal a total of 1,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 105000014,
+    "name": "Deal a total of 1,200,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 105000015,
+    "name": "Deal a total of 1,400,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 105000016,
+    "name": "Deal a total of 1,600,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 105000017,
+    "name": "Deal a total of 1,800,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 105000018,
+    "name": "Deal a total of 2,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 105000019,
+    "name": "Deal a total of 2,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 105000020,
+    "name": "Deal a total of 2,200,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 105000021,
+    "name": "Deal a total of 2,400,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 105000022,
+    "name": "Deal a total of 2,600,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 105000023,
+    "name": "Deal a total of 2,800,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 105000024,
+    "name": "Deal a total of 3,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 105000025,
+    "name": "Deal a total of 3,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 300171,
+    "name": "Clear Chapter 25-22 of the main story",
+    "name_when_count_one": "",
+    "start_at": "2025-03-21T03:00:00Z"
+  },
+  {
+    "id": 1080017,
+    "name": "Clear Score Battle 25-1 Normal",
+    "name_when_count_one": "",
+    "start_at": "2025-03-21T03:00:00Z"
+  },
+  {
+    "id": 1080018,
+    "name": "Clear Score Battle 25-2 Normal",
+    "name_when_count_one": "",
+    "start_at": "2025-03-21T03:00:00Z"
+  },
+  {
+    "id": 1080019,
+    "name": "Clear Chapter 25 of the main story",
+    "name_when_count_one": "",
+    "start_at": "2025-03-21T03:00:00Z"
+  },
+  {
+    "id": 1120001,
+    "name": "Clear Janne Lindemann's Love and Past Boss Challenge with SS rank",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1120002,
+    "name": "Synthesize {} Schwarzluster(s)",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1120003,
+    "name": "Synthesize {} Feather One-piece(s)",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1120004,
+    "name": "Synthesize {} White West Pouch(es)",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1140006,
+    "name": "Wish {} time(s) on Holy Knight Mother Janne LEGEND FES *Including paid-only wishes",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1140007,
+    "name": "Wish {} time(s) on Holy Knight Mother Janne LEGEND FES *Including paid-only wishes",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1140008,
+    "name": "Wish {} time(s) on Holy Knight Mother Janne LEGEND FES *Including paid-only wishes",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1140009,
+    "name": "Wish {} time(s) on Holy Knight Mother Janne LEGEND FES *Including paid-only wishes",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1140010,
+    "name": "Wish {} time(s) on Holy Knight Mother Janne LEGEND FES *Including paid-only wishes",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1140011,
+    "name": "Wish {} time(s) on Holy Knight Mother Janne LEGEND FES *Including paid-only wishes",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1150006,
+    "name": "Wish {} time(s) on She Who Rises Above Fate - Resna LEGEND FES *Including paid-only wishes",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1150007,
+    "name": "Wish {} time(s) on She Who Rises Above Fate - Resna LEGEND FES *Including paid-only wishes",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1150008,
+    "name": "Wish {} time(s) on She Who Rises Above Fate -Resna LEGEND FES *Including paid-only wishes",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1150009,
+    "name": "Wish {} time(s) on She Who Rises Above Fate -Resna LEGEND FES *Including paid-only wishes",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1150010,
+    "name": "Wish {} time(s) on She Who Rises Above Fate -Resna LEGEND FES *Including paid-only wishes",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 1150011,
+    "name": "Wish {} time(s) on She Who Rises Above Fate -Resna LEGEND FES *Including paid-only wishes",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 106000001,
+    "name": "Participate in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 106000002,
+    "name": "Deal a total of 100,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 106000003,
+    "name": "Deal a total of 200,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 106000004,
+    "name": "Deal a total of 300,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 106000005,
+    "name": "Deal a total of 400,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 106000006,
+    "name": "Deal a total of 500,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 106000007,
+    "name": "Deal a total of 500,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 106000008,
+    "name": "Deal a total of 600,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 106000009,
+    "name": "Deal a total of 700,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 106000010,
+    "name": "Deal a total of 800,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 106000011,
+    "name": "Deal a total of 900,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 106000012,
+    "name": "Deal a total of 1,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 106000013,
+    "name": "Deal a total of 1,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 106000014,
+    "name": "Deal a total of 1,200,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 106000015,
+    "name": "Deal a total of 1,400,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 106000016,
+    "name": "Deal a total of 1,600,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 106000017,
+    "name": "Deal a total of 1,800,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 106000018,
+    "name": "Deal a total of 2,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 106000019,
+    "name": "Deal a total of 2,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 106000020,
+    "name": "Deal a total of 2,200,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 106000021,
+    "name": "Deal a total of 2,400,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 106000022,
+    "name": "Deal a total of 2,600,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 106000023,
+    "name": "Deal a total of 2,800,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 106000024,
+    "name": "Deal a total of 3,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  },
+  {
+    "id": 106000025,
+    "name": "Deal a total of 3,000,000 or more damage in Roman's Grand Tournament",
+    "name_when_count_one": ""
+  }
+]

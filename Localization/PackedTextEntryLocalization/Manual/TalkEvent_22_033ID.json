@@ -1,0 +1,733 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "今日はお招きいただき、ありがとうございます！",
+        "localizations": {
+          "en": "Thank you for having me today!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "硬い挨拶はいいって！\u3000フロッケがご馳走作るって\n言うから、声かけたんだ！",
+        "localizations": {
+          "en": "No need to be so formal! I invited you because Flocke said she'd cook for us!"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "レスナさんが忙しくしていると聞きまして。\n色々作ったので、たくさん食べてくださいね！",
+        "localizations": {
+          "en": "I heard you've been so busy lately, Resna. I made lots of dishes, so please eat up!"
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "フロッケちゃん、ありがとう！",
+        "localizations": {
+          "en": "Thank you, Flocke!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "（ヴァレリアとは、まだ微妙な関係のまま。\n\u3000あまりぐいぐい行くのも良くないけど……）",
+        "localizations": {
+          "en": "(Things are still awkward with Valeria. I shouldn't push too hard, but...)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "（でも……最近はあまり話せてなかったし、\n\u3000もう少し、話しかけてもいいのかな）",
+        "localizations": {
+          "en": "(Still... we haven't talked much lately. Maybe it'd be okay to chat a little more?)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "そういや外海に出る準備はどうだ？\nクリセルダたちとも話したりしたんだろ？",
+        "localizations": {
+          "en": "By the way, how're the preparations for heading out to sea? Heard you've been talking with Criselda and the others?"
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "少しずつ……です。まずは情報収集からですね",
+        "localizations": {
+          "en": "Little by little... Starting with gathering information first."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "まあ、外海を渡るのはそれだけキツいからな。\n慎重になるに越したことはねえ",
+        "localizations": {
+          "en": "Well, crossing the outer sea is no easy feat. Can't be too careful about it."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "そのキツい場所にまた挑むわけだし、おっさんも\nもっと鍛えといたほうがいいかもね～",
+        "localizations": {
+          "en": "Since we're heading back to that dangerous place, maybe you should train up a bit more too, old man."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "抜かせ！",
+        "localizations": {
+          "en": "Watch your mouth!"
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "そっか。旅の準備で忙しかったのね",
+        "localizations": {
+          "en": "I see. So you've been busy preparing for the journey."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "え、う、うん！\u3000あんまりヴァレリアに付きまとっても\n良くないかなって思ったし……",
+        "localizations": {
+          "en": "Oh, y-yeah! I thought maybe I shouldn't hover around you too much..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "そうなのね。ぜんぜん来なくなったから、\nどうしてるのかなって思ってたの",
+        "localizations": {
+          "en": "Is that so? I was wondering what you were up to since you stopped coming by."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "私、ええと……ヴァレリアは身体の調子はどう？",
+        "localizations": {
+          "en": "I, um... How are you feeling, Valeria?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "うん。何も思い出せないこと以外は、元気よ。\nフロッケのご飯は美味しいし",
+        "localizations": {
+          "en": "Fine. Apart from not remembering anything, I'm doing well. Flocke's cooking is delicious."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "そうだね！\u3000今日のご馳走もとっても美味しかった！",
+        "localizations": {
+          "en": "It really is! Today's feast was amazing!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "えへへ……しっかり食べてもらえると、\n作り甲斐がありますよ",
+        "localizations": {
+          "en": "Hehe... It makes cooking worthwhile when everyone enjoys it so much."
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "ヴァレリア、たくさん食べて\nもっと元気になってね……あ！",
+        "localizations": {
+          "en": "Valeria, make sure you eat plenty and get your strength back... Oh!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "実は今日、流れ星が降る日なんだよ。知ってた？",
+        "localizations": {
+          "en": "Actually, there's going to be a meteor shower today. Did you know?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "流れ星？",
+        "localizations": {
+          "en": "A meteor shower?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "そういえばそうですね！\n今日は晴れてますし、きっと綺麗に見えますよ",
+        "localizations": {
+          "en": "Oh, that's right! With such clear skies, we should get a beautiful view!"
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "そういや、レスナたちと初めて遠出した時も、\n流れ星を一緒に見たっけ。もはや懐かしいねえ",
+        "localizations": {
+          "en": "Come to think of it, we watched shooting stars together on our first trip with Resna too. Feels like ages ago now."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "そうなんだ……",
+        "localizations": {
+          "en": "Is that so..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "ヴァレリア、よかったらこの後一緒に見ない？\n願いを込めてお祈りするの。とても綺麗なんだよ！",
+        "localizations": {
+          "en": "Valeria, would you like to watch them together later? We can make wishes on them. It's really beautiful!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "……うん。いいわよ",
+        "localizations": {
+          "en": "...Sure, why not."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "やった！\u3000じゃあ、準備してくるね",
+        "localizations": {
+          "en": "Great! I'll go get ready then!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "私も――",
+        "localizations": {
+          "en": "I should—"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "ちょっと！\u3000あんたは先に後片付け手伝っていきなよ！",
+        "localizations": {
+          "en": "Hold it! You're helping with the cleanup first!"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "はいはい。分かってるわよ、相棒",
+        "localizations": {
+          "en": "Yes, yes. I know, partner."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "え……",
+        "localizations": {
+          "en": "Huh..."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "あ……ええと。うん、ちゃんと手伝うわよ",
+        "localizations": {
+          "en": "Ah... um. Right, I'll help clean up."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "聞いた？\u3000今、あいつふと相棒って言った！\nやっぱり、どこか無意識的にでも、覚えてるんだよ",
+        "localizations": {
+          "en": "Did you hear that? She just called me 'partner' without thinking! She must remember something, even if just subconsciously!"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "ヴァレリアさんは、ヴァレリアさんですね",
+        "localizations": {
+          "en": "Valeria is still Valeria, after all."
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "レスナ、お疲れさま",
+        "localizations": {
+          "en": "Good work, Resna."
+        }
+      },
+      "2072370017": {
+        "text": "ザスキア",
+        "localizations": {
+          "en": "Saskia"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "――――！",
+        "localizations": {
+          "en": "—!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "随分楽しそうね。何かいいことでもあった？",
+        "localizations": {
+          "en": "You seem to be in high spirits. Did something good happen?"
+        }
+      },
+      "2072370017": {
+        "text": "ザスキア",
+        "localizations": {
+          "en": "Saskia"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "師匠……",
+        "localizations": {
+          "en": "Miss Saskia..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "（このアトリエを作ったのも、飴を作ったのも師匠。\n\u3000ならば、いつでもここに来られる）",
+        "localizations": {
+          "en": "(Miss Saskia created this atelier and made those candies. Of course she could come here anytime.)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "（この時が来るのは覚悟していた）",
+        "localizations": {
+          "en": "(I knew this moment would come.)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "師匠。胸襟を開いて、話し合いたいことがあります！",
+        "localizations": {
+          "en": "Miss Saskia. There are things I'd like to discuss with you openly!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "私もよ、レスナ",
+        "localizations": {
+          "en": "As do I, Resna."
+        }
+      },
+      "2072370017": {
+        "text": "ザスキア",
+        "localizations": {
+          "en": "Saskia"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "ここでは邪魔が入るかもしれないから、\n二人きりになれる場所にいかない？",
+        "localizations": {
+          "en": "We might be interrupted here. Shall we go somewhere more private?"
+        }
+      },
+      "2072370017": {
+        "text": "ザスキア",
+        "localizations": {
+          "en": "Saskia"
+        }
+      }
+    }
+  }
+]

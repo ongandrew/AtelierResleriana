@@ -1,0 +1,127 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <AssemblyName>AtelierResleriana.Plugin.Localization</AssemblyName>
+    <Product>Localization plugin for Atelier Resleriana (JP) Steam.</Product>
+    <Version>1.3.1</Version>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <LangVersion>latest</LangVersion>
+    <RestoreAdditionalProjectSources>
+      https://api.nuget.org/v3/index.json;
+      https://nuget.bepinex.dev/v3/index.json;
+      https://nuget.samboy.dev/v3/index.json
+    </RestoreAdditionalProjectSources>
+    <RootNamespace>AtelierResleriana.Plugin.Localization</RootNamespace>
+	<CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+  </PropertyGroup>
+	
+  <ItemGroup>
+    <PackageReference Include="BepInEx.Unity.IL2CPP" Version="6.0.0-be.*" IncludeAssets="compile" />
+    <PackageReference Include="BepInEx.PluginInfoProps" Version="2.*" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AtelierResleriana.Bundle\AtelierResleriana.Bundle.csproj" />
+    <ProjectReference Include="..\AtelierResleriana.Localization\AtelierResleriana.Localization.csproj" />
+    <ProjectReference Include="..\AtelierResleriana.MasterData\AtelierResleriana.MasterData.csproj" />
+    <ProjectReference Include="..\AtelierResleriana.Text\AtelierResleriana.Text.csproj" />
+    <ProjectReference Include="..\AtelierResleriana.Unity\AtelierResleriana.Unity.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Aktsk.ABCache">
+      <HintPath>..\Assemblies\Aktsk.ABCache.dll</HintPath>
+    </Reference>
+    <Reference Include="BestHTTP">
+      <HintPath>..\Assemblies\BestHTTP.dll</HintPath>
+    </Reference>
+    <Reference Include="Blend">
+      <HintPath>..\Assemblies\Blend.dll</HintPath>
+    </Reference>
+    <Reference Include="Blend.Framework">
+      <HintPath>..\Assemblies\Blend.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="Il2Cppmscorlib">
+      <HintPath>..\Assemblies\Il2Cppmscorlib.dll</HintPath>
+    </Reference>
+    <Reference Include="Il2CppSystem">
+      <HintPath>..\Assemblies\Il2CppSystem.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Addressables">
+      <HintPath>..\Assemblies\Unity.Addressables.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ResourceManager">
+      <HintPath>..\Assemblies\Unity.ResourceManager.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>..\Assemblies\Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AssetBundleModule">
+      <HintPath>..\Assemblies\UnityEngine.AssetBundleModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>..\Assemblies\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>..\Assemblies\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Vuplex.WebView">
+      <HintPath>..\Assemblies\Vuplex.WebView.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+	<ItemGroup>
+		<PluginFiles Include="$(OutDir)AtelierResleriana.Bundle.dll" />
+		<PluginFiles Include="$(OutDir)AtelierResleriana.Compression.dll" />
+		<PluginFiles Include="$(OutDir)AtelierResleriana.Encryption.dll" />
+		<PluginFiles Include="$(OutDir)AtelierResleriana.Localization.dll" />
+		<PluginFiles Include="$(OutDir)AtelierResleriana.MasterData.dll" />
+		<PluginFiles Include="$(OutDir)AtelierResleriana.MessagePack.dll" />
+		<PluginFiles Include="$(OutDir)AtelierResleriana.MessagePack.Annotations.dll" />
+		<PluginFiles Include="$(OutDir)AtelierResleriana.Text.dll" />
+		<PluginFiles Include="$(OutDir)AtelierResleriana.Unity.dll" />
+		<PluginFiles Include="$(OutDir)K4os.Compression.LZ4.dll" />
+		<PluginFiles Include="$(OutDir)Universal.Common.dll" />
+		<PluginFiles Include="$(TargetPath)" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Update="Resources\LocalizationData.json">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+	</ItemGroup>
+
+	<Target Name="PostBuildDebug" AfterTargets="PostBuildEvent" Condition="'$(Configuration)' == 'Debug'">
+		<Copy SourceFiles="@(PluginFiles)" DestinationFolder="C:\Program Files (x86)\Steam\steamapps\common\AtelierResleriana\BepInEx\plugins" />
+
+		<MakeDir Directories="C:\Program Files (x86)\Steam\steamapps\common\AtelierResleriana\BepInEx\plugins\Resources" />
+		<Copy SourceFiles="Resources\LocalizationData.json" DestinationFolder="C:\Program Files (x86)\Steam\steamapps\common\AtelierResleriana\BepInEx\plugins\Resources" />
+	</Target>
+
+	<Target Name="PostBuildRelease" AfterTargets="PostBuildEvent" Condition="'$(Configuration)' == 'Release'">
+		<!-- Create the versioned directory -->
+		<PropertyGroup>
+			<VersionedPluginDir>$(OutDir)AtelierResleriana.Plugin.Localization-$(Version)</VersionedPluginDir>
+			<BepInExSourceDir>$(SolutionDir)Resources\BepInEx</BepInExSourceDir>
+		</PropertyGroup>
+		<!-- Get all directories from source, including empty ones -->
+		<ItemGroup>
+			<BepInExDirs Include="$(BepInExSourceDir)\**" />
+		</ItemGroup>
+		<!-- Create all directories -->
+		<MakeDir Directories="@(BepInExDirs->'$(VersionedPluginDir)\%(RecursiveDir)')" />
+		<!-- Copy all files if they exist -->
+		<ItemGroup>
+			<BepInExFiles Include="$(BepInExSourceDir)\**\*.*" />
+		</ItemGroup>
+		<Copy SourceFiles="@(BepInExFiles)" DestinationFiles="@(BepInExFiles->'$(VersionedPluginDir)\%(RecursiveDir)%(Filename)%(Extension)')" />
+		<!-- Copy plugin files -->
+		<Copy SourceFiles="@(PluginFiles)" DestinationFolder="$(VersionedPluginDir)\BepInEx\plugins" />
+
+		<MakeDir Directories="$(VersionedPluginDir)\BepInEx\plugins\Resources" />
+		<Copy SourceFiles="Resources\LocalizationData.json" DestinationFolder="$(VersionedPluginDir)\BepInEx\plugins\Resources" />
+
+		<ZipDirectory SourceDirectory="$(VersionedPluginDir)" DestinationFile="$(OutDir)AtelierResleriana.Plugin.Localization-$(Version).zip" Overwrite="true" />
+	</Target>
+</Project>

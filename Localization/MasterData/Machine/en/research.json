@@ -1,0 +1,537 @@
+[
+  {
+    "id": 151,
+    "name": "Defender Combat Research 38",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 152,
+    "name": "Supporter Combat Research 38",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 153,
+    "name": "Attacker Combat Research 39",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 154,
+    "name": "Breaker Combat Research 39",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 155,
+    "name": "Defender Combat Research 39",
+    "requirements": [
+      {
+        "name": "Clear Floor 10 of the Tower of Fire"
+      }
+    ],
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 156,
+    "name": "Supporter Combat Research 39",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 157,
+    "name": "Attacker Combat Research 40",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 158,
+    "name": "Breaker Combat Research 40",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 159,
+    "name": "Defender Combat Research 40",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 160,
+    "name": "Supporter Combat Research 40",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 161,
+    "name": "Attacker Combat Research 41",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 162,
+    "name": "Breaker Combat Research 41",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 163,
+    "name": "Defender Combat Research 41",
+    "requirements": [
+      {
+        "name": "Clear Floor 10 of the Tower of Ice"
+      }
+    ],
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 164,
+    "name": "Supporter Combat Research 41",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 165,
+    "name": "Attacker Combat Research 42",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 166,
+    "name": "Breaker Combat Research 42",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 167,
+    "name": "Defender Combat Research 42",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 168,
+    "name": "Supporter Combat Research 42",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 169,
+    "name": "Attacker Combat Research 43",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 170,
+    "name": "Breaker Combat Research 43",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 171,
+    "name": "Defender Combat Research 43",
+    "requirements": [
+      {
+        "name": "Clear Floor 10 of the Air Tower"
+      }
+    ],
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 172,
+    "name": "Supporter Combat Research 43",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 173,
+    "name": "Attacker Combat Research 44",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 174,
+    "name": "Breaker Combat Research 44",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 175,
+    "name": "Defender Combat Research 44",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 176,
+    "name": "Supporter Combat Research 44",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 177,
+    "name": "Attacker Combat Research 45",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 178,
+    "name": "Breaker Combat Research 45",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 179,
+    "name": "Defender Combat Research 45",
+    "requirements": [
+      {
+        "name": "Clear Floor 10 of the Bolt Tower"
+      }
+    ],
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 180,
+    "name": "Supporter Combat Research 45",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 181,
+    "name": "Attacker Combat Research 46",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 182,
+    "name": "Breaker Combat Research 46",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 183,
+    "name": "Defender Combat Research 46",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 184,
+    "name": "Supporter Combat Research 46",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 185,
+    "name": "Attacker Combat Research 47",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 186,
+    "name": "Breaker Combat Research 47",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 187,
+    "name": "Defender Combat Research 47",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 188,
+    "name": "Supporter Combat Research 47",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 189,
+    "name": "Attacker Combat Research 48",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 190,
+    "name": "Breaker Combat Research 48",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 191,
+    "name": "Defender Combat Research 48",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 192,
+    "name": "Supporter Combat Research 48",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 193,
+    "name": "Attacker Combat Research 49",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 194,
+    "name": "Breaker Combat Research 49",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 195,
+    "name": "Defender Combat Research 49",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 196,
+    "name": "Supporter Combat Research 49",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 197,
+    "name": "Attacker Combat Research 50",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 198,
+    "name": "Breaker Combat Research 50",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 199,
+    "name": "Defender Combat Research 50",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 200,
+    "name": "Supporter Combat Research 50",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1151,
+    "name": "Battle Item Research 87",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1152,
+    "name": "Equipment Research 65",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1153,
+    "name": "Battle Item Research 88",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1154,
+    "name": "Equipment Research 66",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1155,
+    "name": "Battle Item Research 89",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1156,
+    "name": "Battle Item Research 90",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1157,
+    "name": "Equipment Research 67",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1158,
+    "name": "Battle Item Research 91",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1159,
+    "name": "Equipment Research 68",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1160,
+    "name": "Battle Item Research 92",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1161,
+    "name": "Equipment Research 69",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1162,
+    "name": "Battle Item Research 93",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1163,
+    "name": "Battle Item Research 94",
+    "requirements": [
+      {
+        "name": "Clear Tower of Slash 10F"
+      }
+    ],
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1164,
+    "name": "Equipment Research 70",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1165,
+    "name": "Battle Item Research 95",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1166,
+    "name": "Equipment Research 71",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1167,
+    "name": "Battle Item Research 96",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1168,
+    "name": "Equipment Research 72",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1169,
+    "name": "Battle Item Research 97",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1170,
+    "name": "Battle Item Research 98",
+    "requirements": [
+      {
+        "name": "Clear Tower of Strike 10F"
+      }
+    ],
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1171,
+    "name": "Equipment Research 73",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1172,
+    "name": "Battle Item Research 99",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1173,
+    "name": "Equipment Research 74",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1174,
+    "name": "Battle Item Research 100",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1175,
+    "name": "Equipment Research 75",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1176,
+    "name": "Battle Item Research 101",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1177,
+    "name": "Battle Item Research 102",
+    "requirements": [
+      {
+        "name": "Clear Tower of Stab 10F"
+      }
+    ],
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1178,
+    "name": "Equipment Research 76",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1179,
+    "name": "Battle Item Research 103",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1180,
+    "name": "Equipment Research 77",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1181,
+    "name": "Battle Item Research 104",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1182,
+    "name": "Equipment Research 78",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1183,
+    "name": "Battle Item Research 105",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1184,
+    "name": "Battle Item Research 106",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1185,
+    "name": "Equipment Research 79",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1186,
+    "name": "Battle Item Research 107",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1187,
+    "name": "Equipment Research 80",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1188,
+    "name": "Battle Item Research 108",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1189,
+    "name": "Equipment Research 81",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1190,
+    "name": "Battle Item Research 109",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1191,
+    "name": "Battle Item Research 110",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1192,
+    "name": "Equipment Research 82",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1193,
+    "name": "Battle Item Research 111",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1194,
+    "name": "Equipment Research 83",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1195,
+    "name": "Battle Item Research 112",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1196,
+    "name": "Equipment Research 84",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1197,
+    "name": "Battle Item Research 113",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1198,
+    "name": "Battle Item Research 114",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1199,
+    "name": "Equipment Research 85",
+    "start_at": "2025-03-06T03:00:00Z"
+  },
+  {
+    "id": 1200,
+    "name": "Battle Item Research 115",
+    "start_at": "2025-03-06T03:00:00Z"
+  }
+]

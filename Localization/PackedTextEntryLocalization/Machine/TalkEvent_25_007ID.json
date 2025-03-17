@@ -1,0 +1,665 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "トトリちゃん、さっき作ったこの部品って\n何に使うんだっけ？",
+        "localizations": {
+          "en": "Hey Totori, what was this part used for again?"
+        }
+      },
+      "2072370017": {
+        "text": "ロロナ",
+        "localizations": {
+          "en": "Rorona"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "船の推進装置ですよ。１つでも欠けたら海の上で\n爆発しちゃうかもしれないので、気を付けてくださいね",
+        "localizations": {
+          "en": "It's for the ship's propulsion system. If even one piece is missing, it could cause a catastrophic failure while we're at sea, so please be careful."
+        }
+      },
+      "2072370017": {
+        "text": "トトリ",
+        "localizations": {
+          "en": "Totori"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "お、おどかさないでええ……",
+        "localizations": {
+          "en": "D-don't scare me like that..."
+        }
+      },
+      "2072370017": {
+        "text": "ロロナ",
+        "localizations": {
+          "en": "Rorona"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "よーし、次、行っちゃおう！",
+        "localizations": {
+          "en": "Alright, let's move on to the next one!"
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "先輩方、よろしくお願いします！",
+        "localizations": {
+          "en": "I'll be counting on your help, everyone!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "…………！",
+        "localizations": {
+          "en": "...!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "ヴァレリア？\u3000どうかした？",
+        "localizations": {
+          "en": "Valeria? What's wrong?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "いや……何だか、こんなことが前にもあった気がして",
+        "localizations": {
+          "en": "No... Something about this feels familiar..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "――――！",
+        "localizations": {
+          "en": "...!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "私が目覚めたばっかりの頃に、話してたわよね。\n昔、私もみんなと一緒に調合してたって",
+        "localizations": {
+          "en": "We talked about it when I first regained consciousness, didn't we? About how I used to synthesize with everyone before."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "あの時は途中でやめちゃったけど……\nもう一度、やってみてもいい？",
+        "localizations": {
+          "en": "I know I stopped halfway back then, but... could I try again?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "うん……うん！\u3000やろう、一緒に！",
+        "localizations": {
+          "en": "Yes... yes! I'll give you a hand!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "素材の下準備は済んでるから、\nレシピを見ながら釜に入れていって",
+        "localizations": {
+          "en": "The materials are already prepared, so just follow the recipe as you add them to the cauldron."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "ええと、これを、こうして……よし。\nこれで……かき混ぜるのね？",
+        "localizations": {
+          "en": "Let's see, this goes here... right. And now... I stir it?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "そうそう、その調子！",
+        "localizations": {
+          "en": "That's right, just like that!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "上手いじゃん、ヴァレリア！",
+        "localizations": {
+          "en": "You're doing great, Valeria!"
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "あっ、光が――",
+        "localizations": {
+          "en": "Ah, there's a flash of light—"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "できた！\u3000取り出してみて",
+        "localizations": {
+          "en": "It's done! Try taking it out!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "わあ、大成功ですよ！",
+        "localizations": {
+          "en": "Wow, it's perfect!"
+        }
+      },
+      "2072370017": {
+        "text": "ロロナ",
+        "localizations": {
+          "en": "Rorona"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "これを、私が……",
+        "localizations": {
+          "en": "This... I made this...?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "前のヴァレリアさんと変わらない腕前でしたよ",
+        "localizations": {
+          "en": "You're just as skilled as you used to be."
+        }
+      },
+      "2072370017": {
+        "text": "トトリ",
+        "localizations": {
+          "en": "Totori"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "なんとなくやるべきことが分かる気がしたし、\n戦い方と一緒で、身体が覚えてるのかも……",
+        "localizations": {
+          "en": "Somehow I just knew what to do. Like fighting, maybe my body remembers the motions..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "どうだった？\u3000久々……じゃなくて、初めての調合",
+        "localizations": {
+          "en": "How was it? Your first synthesis... well, first one in a while."
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "なんだか不思議な気分。でも、楽しかったわ",
+        "localizations": {
+          "en": "It felt strange. But I enjoyed it."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "きっと、前の私もこんな風に感じたのね",
+        "localizations": {
+          "en": "I'm sure my past self would have felt the same way."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "ヴァレリア……",
+        "localizations": {
+          "en": "Valeria..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "ねぇ、レスナ。前の私が初めて調合した時のこと、\n知りたいわ。改めて聞いてもいい？",
+        "localizations": {
+          "en": "Hey Resna, would you tell me about our first time synthesizing together?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "う、うん！\u3000もちろん！",
+        "localizations": {
+          "en": "O-of course! Absolutely!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "えっと……あれはヴァレリアが初めてアトリエに来て\n少し経った頃なんだけど……",
+        "localizations": {
+          "en": "Let's see... it was a little while after you first came to the atelier..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "確か、あの時も初めてなのに\nなんとなくやり方が分かるって言ってたんだよ",
+        "localizations": {
+          "en": "If I remember right, even then you said you somehow knew what to do, despite it being your first time."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "へぇ……",
+        "localizations": {
+          "en": "Really...?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "その後、依頼で遺跡に魔物退治に行ったんだけど、\nヴァレリアが考えた道具が大活躍したの",
+        "localizations": {
+          "en": "After that, we took a request to clear out monsters from some ruins, and the tools you designed were a huge help!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "遺跡？\u3000私が道具を考えて作ったの？",
+        "localizations": {
+          "en": "Ruins? I designed and made tools?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "あったねー！\u3000懐かしいなあ",
+        "localizations": {
+          "en": "Oh yeah! Those were the days!"
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "そういえば……ハイディさんがヴァレリアと\n出会ったのも、そこだって話してたっけ",
+        "localizations": {
+          "en": "Come to think of it... Heidi mentioned that's where she first met you too."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "私とハイディが、初めて会った場所？",
+        "localizations": {
+          "en": "The place where Heidi and I first met?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "もしかしたら、ヴァレリアの記憶と\n何か関係がある場所なのかな？",
+        "localizations": {
+          "en": "I wonder if that place might have some connection to Valeria's memories?"
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "一度、行ってみるのも手かもしれませんね",
+        "localizations": {
+          "en": "It might be worth paying a visit."
+        }
+      },
+      "2072370017": {
+        "text": "トトリ",
+        "localizations": {
+          "en": "Totori"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "調合のほうは、わたしたちで進めておきますから！",
+        "localizations": {
+          "en": "Don't worry about the synthesis work here—we'll keep at it!"
+        }
+      },
+      "2072370017": {
+        "text": "ロロナ",
+        "localizations": {
+          "en": "Rorona"
+        }
+      }
+    }
+  }
+]

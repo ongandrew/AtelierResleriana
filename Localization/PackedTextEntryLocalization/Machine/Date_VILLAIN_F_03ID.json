@@ -1,0 +1,597 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u4ECA\u65E5\u3082\u30EF\u30EB\u30BF\u30FC\u306E\u76E3\u8996\u5F79\u3092\u4EFB\u3055\u308C\u305F\u3002\n\u3000\u6700\u8FD1\u3001\u4F9D\u983C\u3055\u308C\u308B\u3053\u3068\u304C\u5897\u3048\u3066\u3044\u308B\u6C17\u304C\u3059\u308B\uFF09",
+        "localizations": {
+          "en": "(I\u0027ve been assigned to keep an eye on Walther again today. Come to think of it, I\u0027ve been getting these requests more often lately.)"
+        }
+      },
+      "2072370017": {
+        "text": "\u30ED\u30B8\u30FC",
+        "localizations": {
+          "en": "Logy"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u3082\u3057\u304B\u3057\u3066\u3001\u30EF\u30EB\u30BF\u30FC\u306E\u8981\u671B\u306A\u306E\u304B\uFF1F\n\u3000\u4FE1\u983C\u3055\u308C\u3066\u3044\u308B\u306A\u3089\u60AA\u3044\u6C17\u306F\u3057\u306A\u3044\u304C\u2026\u2026\uFF09",
+        "localizations": {
+          "en": "(Could it be at Walther\u0027s request? I wouldn\u0027t mind if he trusts me, but...)"
+        }
+      },
+      "2072370017": {
+        "text": "\u30ED\u30B8\u30FC",
+        "localizations": {
+          "en": "Logy"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "\u304A\u5F85\u305F\u305B\u3057\u307E\u3057\u305F\u3001\u30ED\u30B8\u30FC\u6BBF",
+        "localizations": {
+          "en": "My apologies for keeping you waiting, Sir Logy."
+        }
+      },
+      "2072370017": {
+        "text": "\u30EF\u30EB\u30BF\u30FC",
+        "localizations": {
+          "en": "Walther"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "\u3044\u3084\u3001\u6642\u9593\u901A\u308A\u3060\u3002\u305D\u308C\u3067\u3001\u4ECA\u65E5\u306F\u3069\u3053\u3078\u5411\u304B\u3046\u3093\u3060\uFF1F\n\u4E8B\u524D\u306E\u7533\u8ACB\u306B\u5177\u4F53\u7684\u306A\u5834\u6240\u306F\u66F8\u3044\u3066\u3044\u306A\u304B\u3063\u305F\u304C\u2026\u2026",
+        "localizations": {
+          "en": "No, you\u0027re right on time. So, where are we headed today? The prior request didn\u0027t specify a location..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30ED\u30B8\u30FC",
+        "localizations": {
+          "en": "Logy"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "\u30ED\u30B8\u30FC\u6BBF\u306E\u884C\u304D\u305F\u3044\u5834\u6240\u306B\u304A\u4F9B\u3057\u305F\u3044\u3068\u601D\u3044\u307E\u3057\u3066\u3002\n\u5148\u65E5\u306F\u79C1\u306E\u884C\u304D\u305F\u3044\u5834\u6240\u306B\u6765\u3066\u3044\u305F\u3060\u304D\u307E\u3057\u305F\u304B\u3089",
+        "localizations": {
+          "en": "I thought I might accompany you wherever you\u0027d like to go. You did indulge my choice of destination last time, after all."
+        }
+      },
+      "2072370017": {
+        "text": "\u30EF\u30EB\u30BF\u30FC",
+        "localizations": {
+          "en": "Walther"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "\u4FFA\u306E\uFF1F\u3000\u2026\u2026\u3044\u3084\u30C0\u30E1\u3060\u3001\u304A\u524D\u306F\u7814\u7A76\u306E\u540D\u76EE\u3067\n\u3042\u308B\u7A0B\u5EA6\u81EA\u7531\u306A\u884C\u52D5\u304C\u8A31\u3055\u308C\u3066\u3044\u308B\u3093\u3060\u304B\u3089",
+        "localizations": {
+          "en": "My choice? ...No, that won\u0027t do. You\u0027re allowed some freedom of movement for your research..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30ED\u30B8\u30FC",
+        "localizations": {
+          "en": "Logy"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "\u3067\u306F\u3001\u7570\u90A6\u4EBA\u306E\u7814\u7A76\u3092\u884C\u3046\u3068\u3044\u3046\u4F53\u3067\u3002\n\u3044\u304B\u304C\u3067\u3057\u3087\u3046\uFF1F",
+        "localizations": {
+          "en": "Then perhaps under the pretext of studying foreigners? How does that sound?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EF\u30EB\u30BF\u30FC",
+        "localizations": {
+          "en": "Walther"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "\u2026\u2026\u4ED5\u65B9\u306A\u3044\u306A\u3002\u305D\u308C\u306A\u3089\u2026\u2026",
+        "localizations": {
+          "en": "...I suppose there\u0027s no helping it. In that case..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30ED\u30B8\u30FC",
+        "localizations": {
+          "en": "Logy"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "\u2026\u2026\u9802\u7363\u306E\u75D5\u8DE1\u306F\u3053\u3093\u306A\u3068\u3053\u308D\u304B\u3002",
+        "localizations": {
+          "en": "...So these are the Apex Beast traces."
+        }
+      },
+      "2072370017": {
+        "text": "\u30ED\u30B8\u30FC",
+        "localizations": {
+          "en": "Logy"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "\u30ED\u30B8\u30FC\u6BBF\u306F\u9802\u7363\u306B\u3064\u3044\u3066\u8ABF\u3079\u3066\u3044\u308B\u306E\u3067\u3059\u306D\u3002\n\u5C11\u3057\u3001\u304A\u8A71\u3092\u304A\u4F3A\u3044\u3057\u3066\u3082\uFF1F",
+        "localizations": {
+          "en": "You\u0027re researching the Apex Beasts, aren\u0027t you? May I ask you about that?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EF\u30EB\u30BF\u30FC",
+        "localizations": {
+          "en": "Walther"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u3042\u3002\u306A\u3093\u3060\uFF1F",
+        "localizations": {
+          "en": "Sure. What is it?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30ED\u30B8\u30FC",
+        "localizations": {
+          "en": "Logy"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "\u521D\u3081\u3066\u304A\u4F1A\u3044\u3057\u305F\u6642\u3001\u30ED\u30B8\u30FC\u6BBF\u306F\u738B\u56FD\u9A0E\u58EB\u306B\n\u5354\u529B\u3057\u3066\u3044\u308B\u3068\u8A00\u3063\u3066\u3044\u307E\u3057\u305F\u306D\u3002\u4F55\u6545\u5354\u529B\u3092\uFF1F",
+        "localizations": {
+          "en": "When we first met, you mentioned you were cooperating with the Royal Knights. What made you decide to help them?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EF\u30EB\u30BF\u30FC",
+        "localizations": {
+          "en": "Walther"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "\u4FFA\u306F\u3053\u306E\u4E16\u754C\u306E\u672A\u8E0F\u306E\u5730\u306B\u8208\u5473\u304C\u3042\u308B\u3093\u3060\u3002\n\u3060\u304C\u305D\u3053\u306B\u5411\u304B\u3046\u306B\u306F\u3001\u9802\u7363\u304C\u969C\u5BB3\u3060\u3063\u305F",
+        "localizations": {
+          "en": "I\u0027m interested in this world\u0027s unexplored territories. But the Apex Beasts were an obstacle to reaching them."
+        }
+      },
+      "2072370017": {
+        "text": "\u30ED\u30B8\u30FC",
+        "localizations": {
+          "en": "Logy"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "\u3060\u304B\u3089\u307E\u305A\u306F\u9802\u7363\u306B\u3064\u3044\u3066\u8ABF\u3079\u3066\u3044\u3066\u3001\u305D\u3053\u3067\u9A0E\u58EB\u3068\n\u77E5\u308A\u5408\u3044\u3001\u5354\u529B\u95A2\u4FC2\u306B\u306A\u3063\u305F\u3093\u3060\u3088",
+        "localizations": {
+          "en": "So I started researching the Apex Beasts, met the knights, and we began working together."
+        }
+      },
+      "2072370017": {
+        "text": "\u30ED\u30B8\u30FC",
+        "localizations": {
+          "en": "Logy"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "\u306A\u308B\u307B\u3069\u2026\u2026\u3053\u306E\u6D77\u306E\u5411\u3053\u3046\u306B\u8208\u5473\u304C\u3042\u308B\u306E\u3067\u3059\u306D",
+        "localizations": {
+          "en": "I see... So you\u0027re interested in what lies beyond this sea."
+        }
+      },
+      "2072370017": {
+        "text": "\u30EF\u30EB\u30BF\u30FC",
+        "localizations": {
+          "en": "Walther"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u306A\u305F\u304C\u672A\u8E0F\u306E\u5730\u3068\u8003\u3048\u3066\u3044\u308B\u3067\u3042\u308D\u3046\u3001\n\u7121\u6570\u5CF6\u7FA4\u57DF\u306B\u79C1\u306F\u884C\u3063\u305F\u3053\u3068\u304C\u3042\u308A\u307E\u3059",
+        "localizations": {
+          "en": "I\u0027ve actually been to the Archipelago Region that you likely consider unexplored territory."
+        }
+      },
+      "2072370017": {
+        "text": "\u30EF\u30EB\u30BF\u30FC",
+        "localizations": {
+          "en": "Walther"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "\u672C\u5F53\u304B\uFF1F\u3000\u3069\u3093\u306A\u5834\u6240\u3060\u3063\u305F\uFF1F",
+        "localizations": {
+          "en": "Really? What kind of place was it?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30ED\u30B8\u30FC",
+        "localizations": {
+          "en": "Logy"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3053\u306E\u8A71\u3067\u3088\u3051\u308C\u3070\u3044\u304F\u3089\u3067\u3082\u3057\u307E\u3059\u3088\u3002\n\u305D\u306E\u4EE3\u308F\u308A\u3068\u8A00\u3063\u3066\u306F\u306A\u3093\u3067\u3059\u304C\u3001\u79C1\u3082\u805E\u304D\u305F\u3044\u3053\u3068\u304C",
+        "localizations": {
+          "en": "I\u0027d be happy to tell you all about it. Though in exchange, if I may, I have some questions of my own."
+        }
+      },
+      "2072370017": {
+        "text": "\u30EF\u30EB\u30BF\u30FC",
+        "localizations": {
+          "en": "Walther"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "\u306A\u308B\u307B\u3069\u3002\u4FFA\u306E\u3053\u3068\u304C\u805E\u304D\u305F\u3044\u3093\u3060\u306A",
+        "localizations": {
+          "en": "I see. You want to know about me."
+        }
+      },
+      "2072370017": {
+        "text": "\u30ED\u30B8\u30FC",
+        "localizations": {
+          "en": "Logy"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "\u3048\u3048\u3002\u30ED\u30B8\u30FC\u6BBF\u306E\u3053\u3068\u3002\u305D\u3057\u3066\u3001\u3042\u306A\u305F\u304C\u3044\u305F\n\u4E16\u754C\u306B\u3064\u3044\u3066\u8208\u5473\u304C\u3042\u308A\u307E\u3059",
+        "localizations": {
+          "en": "Yes. About you, and about the world you came from. I find it quite fascinating."
+        }
+      },
+      "2072370017": {
+        "text": "\u30EF\u30EB\u30BF\u30FC",
+        "localizations": {
+          "en": "Walther"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "\u2026\u2026\u3044\u3044\u3060\u308D\u3046\u3002\u53D6\u5F15\u6210\u7ACB\u3060",
+        "localizations": {
+          "en": "...Alright. Deal."
+        }
+      },
+      "2072370017": {
+        "text": "\u30ED\u30B8\u30FC",
+        "localizations": {
+          "en": "Logy"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "\u4FFA\u306F\u5143\u306E\u4E16\u754C\u3067\u306F\u3001\u672A\u958B\u767A\u5730\u65B9\u7279\u5225\u8ABF\u67FB\u5C40\u306E\u3001\n\u958B\u767A\u73ED\u306E\u4E00\u54E1\u3068\u3057\u3066\u50CD\u3044\u3066\u3044\u308B",
+        "localizations": {
+          "en": "In my original world, I worked as a member of the development team in the Special Regional Development Bureau."
+        }
+      },
+      "2072370017": {
+        "text": "\u30ED\u30B8\u30FC",
+        "localizations": {
+          "en": "Logy"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "\u5206\u304B\u308A\u3084\u3059\u304F\u8A00\u3046\u3068\u3001\u305D\u3046\u3060\u306A\u2026\u2026\u3002\n\u5730\u65B9\u306E\u753A\u5F79\u5834\u306E\u8077\u54E1\u3068\u601D\u3063\u3066\u3082\u3089\u3048\u3070\u3044\u3044",
+        "localizations": {
+          "en": "To put it simply... think of it as being a local government worker."
+        }
+      },
+      "2072370017": {
+        "text": "\u30ED\u30B8\u30FC",
+        "localizations": {
+          "en": "Logy"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3053\u3067\u4FFA\u9054\u306F\u3001\u5927\u5730\u304C\u75E9\u305B\u3001\u6C34\u304C\u67AF\u308C\u308B\u73FE\u8C61\u2026\u2026\n\u201C\u9EC4\u660F\u201D\u306B\u3064\u3044\u3066\u8ABF\u3079\u3066\u3044\u305F\u2015\u2015",
+        "localizations": {
+          "en": "There, we were investigating a phenomenon called the \u0027Dusk\u0027 where the land would wither and water would dry up\u2014"
+        }
+      },
+      "2072370017": {
+        "text": "\u30ED\u30B8\u30FC",
+        "localizations": {
+          "en": "Logy"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "\u2026\u2026\u3044\u3084\u306F\u3084\u3002\u5927\u5909\u8208\u5473\u6DF1\u3044\u304A\u8A71\u3067\u3057\u305F\u3002\n\u305D\u3061\u3089\u306E\u4E16\u754C\u306E\u932C\u91D1\u8853\u306F\u8208\u5473\u6DF1\u3044\u767A\u5C55\u3092\u9042\u3052\u3066\u3044\u307E\u3059\u306D",
+        "localizations": {
+          "en": "...My, my. What a fascinating story. The alchemy in your world has developed in quite an interesting direction."
+        }
+      },
+      "2072370017": {
+        "text": "\u30EF\u30EB\u30BF\u30FC",
+        "localizations": {
+          "en": "Walther"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "\u30ED\u30B8\u30FC\u6BBF\u306E\u932C\u91D1\u5263\u306B\u3082\u305D\u308C\u304C\u73FE\u308C\u3066\u3044\u308B\u3002\n\u305C\u3072\u8A73\u3057\u304F\u898B\u3066\u307F\u305F\u3044\u3082\u306E\u3067\u3059",
+        "localizations": {
+          "en": "It\u0027s evident in your Alchemic Sword as well. I would love to examine it more closely."
+        }
+      },
+      "2072370017": {
+        "text": "\u30EF\u30EB\u30BF\u30FC",
+        "localizations": {
+          "en": "Walther"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3061\u3089\u3082\u3001\u7121\u6570\u5CF6\u7FA4\u57DF\u306E\u8A71\u306F\u3068\u3066\u3082\u53C2\u8003\u306B\u306A\u3063\u305F\u3002\n\u306A\u3093\u3068\u3057\u3066\u3082\u305D\u3053\u3078\u884C\u3063\u3066\u307F\u305F\u304F\u306A\u3063\u305F\u3088",
+        "localizations": {
+          "en": "Your information about the Archipelago Region was very helpful too. Now I\u0027m even more determined to go there."
+        }
+      },
+      "2072370017": {
+        "text": "\u30ED\u30B8\u30FC",
+        "localizations": {
+          "en": "Logy"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u308C\u306B\u3057\u3066\u3082\u3001\u201C\u9EC4\u660F\u201D\u3067\u3059\u304B\u2026\u2026",
+        "localizations": {
+          "en": "Still, this \u0027Dusk\u0027 phenomenon..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30EF\u30EB\u30BF\u30FC",
+        "localizations": {
+          "en": "Walther"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "\u8A71\u3092\u805E\u304F\u9650\u308A\u3001\u751F\u7269\u306B\u6B7B\u304C\u6765\u308B\u3088\u3046\u306B\u3001\u4E16\u754C\u306E\u6B7B\u3068\u3044\u3046\n\u73FE\u8C61\u305D\u306E\u3082\u306E\u306A\u306E\u304B\u3082\u3057\u308C\u306A\u3044\u3067\u3059\u306D",
+        "localizations": {
+          "en": "From what you\u0027ve described, it sounds like just as living beings face death, it might be the phenomenon of a world\u0027s death itself."
+        }
+      },
+      "2072370017": {
+        "text": "\u30EF\u30EB\u30BF\u30FC",
+        "localizations": {
+          "en": "Walther"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "\u306A\u3093\u3068\u304B\u305D\u3061\u3089\u306E\u4E16\u754C\u306B\u884C\u3051\u308B\u3088\u3046\u306B\u306A\u3089\u306A\u3044\u3067\n\u3057\u3087\u3046\u304B\u3002\u305C\u3072\u305D\u306E\u201C\u9EC4\u660F\u201D\u3092\u8ABF\u3079\u3066\u307F\u305F\u3044\u3082\u306E\u3067\u3059",
+        "localizations": {
+          "en": "I wonder if there might be a way to reach your world. I would very much like to study this \u0027Dusk.\u0027"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EF\u30EB\u30BF\u30FC",
+        "localizations": {
+          "en": "Walther"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "\u7814\u7A76\u8005\u306E\u8840\u304C\u9A12\u3050\u306E\u3067\u3059\u3088\u3002\n\u201C\u9EC4\u660F\u201D\u306E\u7406\u3092\u3001\u932C\u91D1\u8853\u306E\u53E1\u667A\u3067\u8986\u3057\u3066\u307F\u305F\u3044\u3068\uFF01\uFF01",
+        "localizations": {
+          "en": "My researcher\u0027s blood is stirring! To overcome the principles of the \u0027Dusk\u0027 with alchemical wisdom!!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EF\u30EB\u30BF\u30FC",
+        "localizations": {
+          "en": "Walther"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u7814\u7A76\u71B1\u5FC3\u306A\u30EF\u30EB\u30BF\u30FC\u3089\u3057\u3044\u8A00\u8449\u3060\uFF09",
+        "localizations": {
+          "en": "(That\u0027s just like Walther, always eager to research.)"
+        }
+      },
+      "2072370017": {
+        "text": "\u30ED\u30B8\u30FC",
+        "localizations": {
+          "en": "Logy"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u30EF\u30EB\u30BF\u30FC\u306A\u3089\u305D\u306E\u7406\u3092\u6975\u5730\u307E\u3067\u7A81\u304D\u8A70\u3081\u3066\u3001\n\u3000\u4F55\u304B\u3084\u3063\u3066\u306E\u3051\u308B\u304B\u3082\u3057\u308C\u306A\u3044\u3002\u3060\u304C\u2026\u2026\uFF09",
+        "localizations": {
+          "en": "(Someone like Walther might be able to pursue those principles to their limit and accomplish something. However...)"
+        }
+      },
+      "2072370017": {
+        "text": "\u30ED\u30B8\u30FC",
+        "localizations": {
+          "en": "Logy"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u201C\u9EC4\u660F\u201D\u306F\u305D\u3046\u3044\u3063\u305F\u932C\u91D1\u8853\u58EB\u306E\u9A55\u308A\u304C\u751F\u3093\u3060\u7F6A\u3002\n\u3000\u7406\u3092\u8986\u3059\u306A\u3069\u2026\u2026\u5B89\u6613\u306B\u3084\u308B\u306E\u306F\u5371\u967A\u3060\uFF09",
+        "localizations": {
+          "en": "(The \u0027Dusk\u0027 was born from the hubris of alchemists like that. Trying to overcome its principles... that would be dangerous.)"
+        }
+      },
+      "2072370017": {
+        "text": "\u30ED\u30B8\u30FC",
+        "localizations": {
+          "en": "Logy"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u2026\u2026\u307E\u3042\u3001\u305D\u308C\u4EE5\u524D\u306B\u3053\u3063\u3061\u306E\u4E16\u754C\u306E\u907A\u8DE1\u306B\n\u3000\u9023\u308C\u3066\u884C\u3063\u305F\u3089\u8208\u596E\u3067\u5012\u308C\u3066\u3057\u307E\u3044\u305D\u3046\u3060\u3051\u3069\u306A\uFF09",
+        "localizations": {
+          "en": "(Though I suppose if I took him to the ruins in this world first, he might pass out from excitement before we got that far.)"
+        }
+      },
+      "2072370017": {
+        "text": "\u30ED\u30B8\u30FC",
+        "localizations": {
+          "en": "Logy"
+        }
+      }
+    }
+  }
+]

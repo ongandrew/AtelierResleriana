@@ -1,0 +1,74 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <AssemblyName>AtelierResleriana.Plugin.Inspection</AssemblyName>
+    <Product>AtelierResleriana.Plugin.Inspection</Product>
+    <Version>1.0.0</Version>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <LangVersion>latest</LangVersion>
+    <RestoreAdditionalProjectSources>
+      https://api.nuget.org/v3/index.json;
+      https://nuget.bepinex.dev/v3/index.json;
+      https://nuget.samboy.dev/v3/index.json
+    </RestoreAdditionalProjectSources>
+    <RootNamespace>AtelierResleriana.Plugin.Inspection</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BepInEx.Unity.IL2CPP" Version="6.0.0-be.*" IncludeAssets="compile" />
+    <PackageReference Include="BepInEx.PluginInfoProps" Version="2.*" />
+  </ItemGroup>
+
+	<ItemGroup>
+		<PluginFiles Include="$(TargetPath)" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\AtelierResleriana.Reflection\AtelierResleriana.Reflection.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Reference Include="Aktsk.ABCache">
+	    <HintPath>..\Assemblies\Aktsk.ABCache.dll</HintPath>
+	  </Reference>
+	  <Reference Include="BestHTTP">
+	    <HintPath>..\Assemblies\BestHTTP.dll</HintPath>
+	  </Reference>
+	  <Reference Include="Blend">
+	    <HintPath>..\Assemblies\Blend.dll</HintPath>
+	  </Reference>
+	  <Reference Include="Blend.Framework">
+	    <HintPath>..\Assemblies\Blend.Framework.dll</HintPath>
+	  </Reference>
+	  <Reference Include="Il2Cppmscorlib">
+	    <HintPath>..\Assemblies\Il2Cppmscorlib.dll</HintPath>
+	  </Reference>
+	  <Reference Include="MasterMemory">
+	    <HintPath>..\Assemblies\MasterMemory.dll</HintPath>
+	  </Reference>
+	  <Reference Include="MessagePack">
+	    <HintPath>..\Assemblies\MessagePack.dll</HintPath>
+	  </Reference>
+	  <Reference Include="Unity.TextMeshPro">
+	    <HintPath>..\Assemblies\Unity.TextMeshPro.dll</HintPath>
+	  </Reference>
+	  <Reference Include="UnityEngine.AssetBundleModule">
+	    <HintPath>..\Assemblies\UnityEngine.AssetBundleModule.dll</HintPath>
+	  </Reference>
+	  <Reference Include="UnityEngine.CoreModule">
+	    <HintPath>..\Assemblies\UnityEngine.CoreModule.dll</HintPath>
+	  </Reference>
+	  <Reference Include="Vuplex.WebView">
+	    <HintPath>..\Assemblies\Vuplex.WebView.dll</HintPath>
+	  </Reference>
+	</ItemGroup>
+
+	<Target Name="PostBuildDebug" AfterTargets="PostBuildEvent">
+		<Copy SourceFiles="@(PluginFiles)" DestinationFolder="C:\Program Files (x86)\Steam\steamapps\common\AtelierResleriana\BepInEx\plugins" />
+	</Target>
+
+	<Target Name="CleanDebug" BeforeTargets="Clean">
+		<Delete Files="C:\Program Files (x86)\Steam\steamapps\common\AtelierResleriana\BepInEx\plugins\$(AssemblyName).dll" ContinueOnError="true" />
+	</Target>
+</Project>

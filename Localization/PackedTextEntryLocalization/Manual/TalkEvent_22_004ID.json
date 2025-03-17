@@ -1,0 +1,512 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "彼らの話をする前に、\nランターナ大陸の歴史をおさらいしておきましょう",
+        "localizations": {
+          "en": "Before we discuss them, let's review the history of the Lantarna continent."
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "かつて、大陸に小勢力が乱立していた時代。\nアメルハウザー家は大陸統一の野心を持っていた",
+        "localizations": {
+          "en": "Long ago, when the continent was divided among small powers, House Amelhauser harbored ambitions of unification."
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "精強な軍隊を組織し、その力で周囲の国を\n従えていくという、分かりやすい手法でね",
+        "localizations": {
+          "en": "Their method was straightforward—building a powerful army and subjugating neighboring nations through force."
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "私も改めてこの大陸の歴史を調べ直してみたが……\nアメルハウザー家についての記録はほとんどなかった",
+        "localizations": {
+          "en": "I've been researching our continent's history anew, but... there are barely any records of House Amelhauser."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "せいぜい、大陸統一前に大きな勢力を持っていたこと\nくらいだ。統一後は歴史から姿を消している",
+        "localizations": {
+          "en": "At most, we know they were a major power before unification. After that, they simply vanish from the records."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "まあ、そうでしょうね。アメルハウザー家の存在は\n「彼ら」にとって都合が悪かったから",
+        "localizations": {
+          "en": "Not surprising. House Amelhauser's very existence was... inconvenient for 'them.'"
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "あのアウグストたちのような連中が\nアメルハウザー家に介入してきたというのか",
+        "localizations": {
+          "en": "Are you saying those people—August and his ilk—intervened with House Amelhauser?"
+        }
+      },
+      "2072370017": {
+        "text": "ブラッド",
+        "localizations": {
+          "en": "Brad"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "ええ。当然、表向きは秘匿されているけれどね",
+        "localizations": {
+          "en": "Yes. Though naturally, this was all kept from public record."
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "ある時、アメルハウザーの当主や嫡子を始め、\n実力者たちが次々と不自然な死を遂げた",
+        "localizations": {
+          "en": "At some point, the head of House Amelhauser, their heir, and other influential members began dying under suspicious circumstances."
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "兵を動かせる者、戦う気概がある者が、\nいなくなってしまったのよ",
+        "localizations": {
+          "en": "Anyone who could command troops or had the will to fight... they all disappeared."
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "結果的にアメルハウザー家は力を失い、残った勢力が\n手を取り合い、ランターナ王国を建国した",
+        "localizations": {
+          "en": "As a result, House Amelhauser lost its power, and the remaining factions joined hands to establish the Kingdom of Lantarna."
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "一族の残された者たちは当然、王国統一に関わった\n他の家を疑った。共謀して暗殺に手を染めたのだと",
+        "localizations": {
+          "en": "The surviving family members naturally suspected the other houses involved in unification, believing they had conspired to carry out the assassinations."
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "アメルハウザーの視点で見れば、\nそう疑って当然だったろうね",
+        "localizations": {
+          "en": "From the Amelhausers' perspective, such suspicions were only natural."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "我が一族は秘密裏に調査を続けた。\nしかし……陰謀の証拠は何一つ見つからなかった",
+        "localizations": {
+          "en": "My family continued investigating in secret. However... we couldn't find a single shred of evidence pointing to a conspiracy."
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "むしろ、人の良い初代のランターナ国王は、\nアメルハウザーの没落に心を痛めてさえいたそうよ",
+        "localizations": {
+          "en": "If anything, Lantarna's kind-hearted first king was genuinely troubled by House Amelhauser's downfall."
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "どこからつついても、一族に起こった不審な死の犯人は\nいなかった。それでも長い間、調査を続けた末に",
+        "localizations": {
+          "en": "No matter where we looked, we couldn't find those responsible for the suspicious deaths. Yet after years of investigation..."
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "――この大陸を外から操る「何者か」の存在に\nたどり着いた",
+        "localizations": {
+          "en": "We discovered the existence of 'someone' manipulating the continent from the outside."
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "実物が現れたのだから、その説は当たっていたわけだ。\nよくそこまでたどり着けたものだな",
+        "localizations": {
+          "en": "Given recent events, that theory proved correct. Remarkable that you managed to uncover this."
+        }
+      },
+      "2072370017": {
+        "text": "ブラッド",
+        "localizations": {
+          "en": "Brad"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "私も最初は半信半疑だった。でも、一族の生き残りが\n代々受け継いできた様々な記録を当たり、確信を得たわ",
+        "localizations": {
+          "en": "I was skeptical at first. But after examining the various records passed down by my family's survivors, I became convinced."
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "一族を滅ぼした者たちへの復讐を果たすことは、\nアメルハウザー家の悲願だった",
+        "localizations": {
+          "en": "Avenging those who destroyed our family became House Amelhauser's dying wish."
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "代をまたぎ、長い年月をかけた一族の執念か。\n君もまた、その意思を受け継いだということだね",
+        "localizations": {
+          "en": "A family's obsession spanning generations... And you inherited that will?"
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "いいえ",
+        "localizations": {
+          "en": "No."
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "なに？",
+        "localizations": {
+          "en": "What?"
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "一族の悲願や復讐なんてどうでもいい。\n私はただ、奴らが気に食わないのよ",
+        "localizations": {
+          "en": "I couldn't care less about the family's dying wish or revenge. I simply can't stand them."
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "世界の管理者を気取り、過保護な親のように口を出す。\nそんな傲慢な奴らをその座から引きずり下ろしたいだけ",
+        "localizations": {
+          "en": "Playing at being the world's caretakers, meddling like overprotective parents. I just want to drag those arrogant beings down from their pedestal."
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "そのために利用できるものは、なんでも利用したわ",
+        "localizations": {
+          "en": "I used whatever I could to achieve that goal."
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "アメルハウザー家の資産も、陰で一族に協力していた\n支援者たちもね",
+        "localizations": {
+          "en": "The Amelhauser family assets, those who secretly supported us—everything."
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "その過程で作られたのが、極夜の錬金党というわけか",
+        "localizations": {
+          "en": "And that's how the Polar Night Alchemists came to be."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "そういうこと。\n錬金術を用い、私は奴らと戦うための準備を整えたの",
+        "localizations": {
+          "en": "Precisely. Through alchemy, I prepared everything needed to fight against them."
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "そしてついに、奴らを目の前に引きずり出すことに\n成功した",
+        "localizations": {
+          "en": "And finally, I succeeded in drawing them out into the open."
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  }
+]

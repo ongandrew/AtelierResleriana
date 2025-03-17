@@ -1,0 +1,35 @@
+[
+  {
+    "id": 820802291,
+    "properties": {
+      "999008199": {
+        "text": "\u4ED6\u306E\u30D7\u30EC\u30A4\u30E4\u30FC\u540D\u3092\u975E\u8868\u793A",
+        "localizations": {
+          "en": "Hide Other Player Names"
+        }
+      }
+    }
+  },
+  {
+    "id": 296491844,
+    "properties": {
+      "999008199": {
+        "text": "\u203BON\u306B\u3059\u308B\u3068\u4ED6\u306E\u30D7\u30EC\u30A4\u30E4\u30FC\u306E\u540D\u524D\u3092\u975E\u8868\u793A\u306B\u3057\u307E\u3059",
+        "localizations": {
+          "en": "\u203BWhen enabled, other players\u0027 names will be hidden"
+        }
+      }
+    }
+  },
+  {
+    "id": 1032814016,
+    "properties": {
+      "999008199": {
+        "text": "\u003Ccolor=#c45a11\u003E\u30D7\u30EC\u30A4\u30E4\u30FC\u003C/color\u003E",
+        "localizations": {
+          "en": "\u003Ccolor=#c45a11\u003EPlayer\u003C/color\u003E"
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 26,
+    "description": "Allies: Reduces damage dealt by 80%.",
+    "popup_text": "Dealt Damage Down"
+  },
+  {
+    "id": 27,
+    "description": "Allies: Reduces damage dealt by 90%.",
+    "popup_text": "Dealt Damage Down"
+  },
+  {
+    "id": 28,
+    "description": "Allies: Reduces damage dealt by 90% and stun damage dealt by 30%.",
+    "popup_text": "Dealt Damage/Stun Damage Down"
+  },
+  {
+    "id": 29,
+    "description": "Allies: Reduces damage dealt by 95% and stun damage dealt by 50%.",
+    "popup_text": "Dealt Damage/Stun Damage Down"
+  },
+  {
+    "id": 30,
+    "description": "Enemies: Boosts damage received by 100%.",
+    "popup_text": "Damage Received Up"
+  },
+  {
+    "id": 31,
+    "description": "All: Reduces status effect resistance.",
+    "popup_text": "Status Effect Resistance Down"
+  }
+]

@@ -1,0 +1,580 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "ふむ、この素材は初めて見ますね。\nこの森でしか採れないものでしょうか",
+        "localizations": {
+          "en": "Hmm, I've never seen this material before.\nI wonder if it can only be found in this forest?"
+        }
+      },
+      "2072370017": {
+        "text": "プラフタ",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "何かの役に立つかもしれないし、一応採っていこっか",
+        "localizations": {
+          "en": "It might come in handy, so let's gather some!"
+        }
+      },
+      "2072370017": {
+        "text": "ソフィー",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "そういえば……ララ。\nお前に聞きたいことがあるのだが",
+        "localizations": {
+          "en": "Come to think of it... Lara.\nThere's something I'd like to ask you."
+        }
+      },
+      "2072370017": {
+        "text": "アンペル",
+        "localizations": {
+          "en": "Empel"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "なんですの？",
+        "localizations": {
+          "en": "What is it?"
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "あの時の菓子は、今も持っているのか？",
+        "localizations": {
+          "en": "Those sweets from back then... do you still have any?"
+        }
+      },
+      "2072370017": {
+        "text": "アンペル",
+        "localizations": {
+          "en": "Empel"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "菓子？\u3000ああ……あの焼き菓子ですか。\nあれは、クリセルダが作っていたものですわ",
+        "localizations": {
+          "en": "Sweets? Ah... you mean those baked treats?\nThose were made by Criselda."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "あの方は今や囚われの身。\n釈放されるのを待つほかないですわね",
+        "localizations": {
+          "en": "She's imprisoned now.\nWe'll have to wait until she's released."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "そうか。もう一度食べたいと思っていたのだが……",
+        "localizations": {
+          "en": "I see. And here I was hoping to taste them again..."
+        }
+      },
+      "2072370017": {
+        "text": "アンペル",
+        "localizations": {
+          "en": "Empel"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "アンペルさん、お菓子好きなんですか？",
+        "localizations": {
+          "en": "Empel, do you have a sweet tooth?"
+        }
+      },
+      "2072370017": {
+        "text": "ソフィー",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "ああ。なければ生きていけん",
+        "localizations": {
+          "en": "Indeed. Life without sweets isn't worth living."
+        }
+      },
+      "2072370017": {
+        "text": "アンペル",
+        "localizations": {
+          "en": "Empel"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "そ、そこまでですか！？",
+        "localizations": {
+          "en": "I had no idea you were such a dessert fanatic!"
+        }
+      },
+      "2072370017": {
+        "text": "ソフィー",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "そうだ。よかったらお団子でも食べます？",
+        "localizations": {
+          "en": "Oh, I know! Would you like to try some cookies?"
+        }
+      },
+      "2072370017": {
+        "text": "ソフィー",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "この間レスナちゃんに作り方を教えてもらったんです。\nお口に合うかは分からないですけど……",
+        "localizations": {
+          "en": "Resna taught me how to make them recently.\nI'm not sure if they'll be to your taste, but..."
+        }
+      },
+      "2072370017": {
+        "text": "ソフィー",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "ぜひ、いただこう",
+        "localizations": {
+          "en": "I'd love to try them."
+        }
+      },
+      "2072370017": {
+        "text": "アンペル",
+        "localizations": {
+          "en": "Empel"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "では、少し休憩にいたしましょうか。\nミーケ、ディオーナ。お茶の準備を",
+        "localizations": {
+          "en": "Then shall we take a short break?\nMieke, Diona, please prepare some tea."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "はーい！",
+        "localizations": {
+          "en": "Right away!"
+        }
+      },
+      "2072370017": {
+        "text": "ミーケ",
+        "localizations": {
+          "en": "Mieke"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "ふむ……なかなかイケるな。\nもう少し甘ければさらにいいのだが",
+        "localizations": {
+          "en": "Hmm... not bad at all.\nThough they'd be even better if they were a bit sweeter."
+        }
+      },
+      "2072370017": {
+        "text": "アンペル",
+        "localizations": {
+          "en": "Empel"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "あら、程よい甘さだと思いますけれど",
+        "localizations": {
+          "en": "My, I thought the sweetness was just right."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "なにぶん甘党なものでな",
+        "localizations": {
+          "en": "Well, I am quite the sweet tooth."
+        }
+      },
+      "2072370017": {
+        "text": "アンペル",
+        "localizations": {
+          "en": "Empel"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "……あなた、少しは節制しないと早死にしますわよ",
+        "localizations": {
+          "en": "...You know, you might want to show some restraint or you won't live very long."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "余計なお世話だ",
+        "localizations": {
+          "en": "That's none of your concern."
+        }
+      },
+      "2072370017": {
+        "text": "アンペル",
+        "localizations": {
+          "en": "Empel"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "余計なお世話ついでですが……\nその腕の補助器具のこと、結局聞けずじまいでしたわね",
+        "localizations": {
+          "en": "And while I'm meddling...\nWe never did get to hear about that device on your arm."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "ああ……気になるか？",
+        "localizations": {
+          "en": "Ah... curious, are you?"
+        }
+      },
+      "2072370017": {
+        "text": "アンペル",
+        "localizations": {
+          "en": "Empel"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "ええ、まあ。ただ、無理に話していただく必要は\nありませんわよ。あなたにも事情があるのでしょうから",
+        "localizations": {
+          "en": "Well, yes. Though you needn't tell me if you'd rather not.\nI'm sure you have your reasons."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "……いや、今さら隠す必要もないだろう",
+        "localizations": {
+          "en": "...No, there's no point in hiding it anymore."
+        }
+      },
+      "2072370017": {
+        "text": "アンペル",
+        "localizations": {
+          "en": "Empel"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "別に面白くもない話だ。私はかつて、ある国の王宮に\n仕える錬金術士だった",
+        "localizations": {
+          "en": "It's not a particularly interesting story. I was once\nan alchemist serving in a royal court."
+        }
+      },
+      "2072370017": {
+        "text": "アンペル",
+        "localizations": {
+          "en": "Empel"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "だが、王宮の意向に背いたことで不興を買い、\n策謀によって片腕に再起不能の傷を負った",
+        "localizations": {
+          "en": "But I went against the court's wishes and fell from favor.\nThrough their schemes, my arm was left crippled."
+        }
+      },
+      "2072370017": {
+        "text": "アンペル",
+        "localizations": {
+          "en": "Empel"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "それは、友と信じていた同僚の錬金術士が\n主導したものだった",
+        "localizations": {
+          "en": "The plot was orchestrated by a fellow alchemist...\nsomeone I had considered a friend."
+        }
+      },
+      "2072370017": {
+        "text": "アンペル",
+        "localizations": {
+          "en": "Empel"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "そうでしたの……もしや、あなたが極夜の錬金党を\n目の敵にしていたのも、それが理由なのかしら",
+        "localizations": {
+          "en": "I see... Is that why you were so adamantly opposed\nto the Polar Night Alchemists?"
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "一因ではあるな。私は、錬金術士の悪しき行いを正す\nことを目的に旅をしていた",
+        "localizations": {
+          "en": "That was part of it. I traveled with the purpose of\ncorrecting the misdeeds of corrupt alchemists."
+        }
+      },
+      "2072370017": {
+        "text": "アンペル",
+        "localizations": {
+          "en": "Empel"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "ライザたちに出会ったのも、そんな旅の最中だった",
+        "localizations": {
+          "en": "Meeting Ryza and the others happened during those travels."
+        }
+      },
+      "2072370017": {
+        "text": "アンペル",
+        "localizations": {
+          "en": "Empel"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "この腕も、二度と治らないと覚悟していたのだがな。\n優秀な教え子がこの補助器具を完成させてくれたんだ",
+        "localizations": {
+          "en": "I had resigned myself to never recovering the use of this arm.\nBut a talented student of mine created this support device."
+        }
+      },
+      "2072370017": {
+        "text": "アンペル",
+        "localizations": {
+          "en": "Empel"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "なるほど……\n話してくださって、ありがとうございます",
+        "localizations": {
+          "en": "I see...\nThank you for sharing that with me."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "……あなたとは相容れないと思っていましたが、\n案外、似ているところもあるのかもしれませんわね",
+        "localizations": {
+          "en": "...I thought we were incompatible, but perhaps\nwe're more alike than I imagined."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  }
+]

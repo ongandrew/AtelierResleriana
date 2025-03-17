@@ -1,0 +1,580 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "くっ！\u3000野郎、海の中なら優位に立てると踏んだか",
+        "localizations": {
+          "en": "Tch! The bastard thinks it's got the upper hand underwater, eh?"
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "厄介ですね……\nこのままでは、一方的にやられてしまいます",
+        "localizations": {
+          "en": "This is troublesome... At this rate, we'll be completely overwhelmed."
+        }
+      },
+      "2072370017": {
+        "text": "プラフタ",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "ちょっとでも上に上がってきたときを狙って……\n撃つ！\u3000撃つ！",
+        "localizations": {
+          "en": "If you even surface by a little... Fire! Keep firing!"
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "ダメです！\u3000効いてません！\n船底に取り付けてある武器も、効果が薄いようです",
+        "localizations": {
+          "en": "It's no good! Nothing's working! Even the hull-mounted weapons barely seem to affect it!"
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "くっ……こうなったら、飛び込んで直接殴ろうかしら！",
+        "localizations": {
+          "en": "Ngh... Maybe I should just dive in and punch it!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "それこそダメですよ！\u3000作戦を忘れないでください",
+        "localizations": {
+          "en": "Absolutely not! Don't forget the plan!"
+        }
+      },
+      "2072370017": {
+        "text": "プラフタ",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "分かってるけど……このままじゃ埒が明かないわよ",
+        "localizations": {
+          "en": "I know, but... we're getting nowhere like this."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "ここは、私たちに任せて",
+        "localizations": {
+          "en": "Leave this to us."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "何か手があるのか？",
+        "localizations": {
+          "en": "You have something in mind?"
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "ん",
+        "localizations": {
+          "en": "Mm."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "お、おい！\u3000危ねえぞ！",
+        "localizations": {
+          "en": "H-hey! That's dangerous!"
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "聖戦士だから、平気",
+        "localizations": {
+          "en": "I'm a Holy Warrior. I'll be fine."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "ん？\u3000今何か――",
+        "localizations": {
+          "en": "Hm? Did something just—"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "ちょっとうるさいかもしれない。耳を塞いで",
+        "localizations": {
+          "en": "This might get a bit loud. Cover your ears."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "えっ？",
+        "localizations": {
+          "en": "Huh?"
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "きゃっ！？",
+        "localizations": {
+          "en": "Eek!?"
+        }
+      },
+      "2072370017": {
+        "text": "クラウディア",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "なにこの音！？",
+        "localizations": {
+          "en": "What is this sound!?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "音波を発する爆弾……でしょうか！？",
+        "localizations": {
+          "en": "A sonic bomb... perhaps!?"
+        }
+      },
+      "2072370017": {
+        "text": "プラフタ",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "出てきた！",
+        "localizations": {
+          "en": "There it is!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "そっか！\u3000あの音に引き寄せられたんだ！",
+        "localizations": {
+          "en": "I get it! The sound drew it out!"
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "本来は、頂獣の気をそらすために使うものだけどね",
+        "localizations": {
+          "en": "We normally use these to distract Apexi."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "あの頂獣は、音を頼りに敵の居場所を判別している",
+        "localizations": {
+          "en": "This Apexi uses sound to locate its enemies."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "水中は音が伝わりやすいから、あれにはよく効く……\nって、姉様が言っていた",
+        "localizations": {
+          "en": "Sound travels well underwater, so this works particularly well... or so my sister said."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "ベップさんのお姉さん……？",
+        "localizations": {
+          "en": "Your sister, Bepp...?"
+        }
+      },
+      "2072370017": {
+        "text": "クラウディア",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "私たちとしても、頂獣を倒すべく研究は進めていたの",
+        "localizations": {
+          "en": "We've been researching ways to defeat the Apexi ourselves."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "こ、この動きは……！",
+        "localizations": {
+          "en": "Th-this movement...!"
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "水の刃が来るぞ！\u3000拘束弾の準備だ！",
+        "localizations": {
+          "en": "Water blade incoming! Ready the binding shots!"
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "は、はいっ！",
+        "localizations": {
+          "en": "Y-yes, sir!"
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "あれがクヴァレルガの心臓部分……！",
+        "localizations": {
+          "en": "That must be Kvarelga's weak spot...!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "きゃあっ！",
+        "localizations": {
+          "en": "Kyaah!"
+        }
+      },
+      "2072370017": {
+        "text": "クラウディア",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "これじゃ狙いがつけられない！",
+        "localizations": {
+          "en": "I can't get a clear shot like this!"
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "くそっ、大人しくしやがれ！",
+        "localizations": {
+          "en": "Damn it, stay still!"
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "ああっ！\u3000鎖が！",
+        "localizations": {
+          "en": "Ah! The chains!"
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "お前ら、伏せろおおおおっ！！",
+        "localizations": {
+          "en": "Everyone, get doooown!!"
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  }
+]

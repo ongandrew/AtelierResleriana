@@ -1,0 +1,954 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "ねぇアルビちゃん。あなた、最近どうなの？",
+        "localizations": {
+          "en": "So Alvie, how are things with you lately?"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "どうなの、って？\u3000日々金欠と戦ってるっす",
+        "localizations": {
+          "en": "How are things? Oh, you know... just the daily struggle of being broke."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "誰か気になる人とかいないのかなって",
+        "localizations": {
+          "en": "I was wondering if there might be someone special in your life."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "姉様の……気になる人……\n私より強い？\u3000姉様を守れる人じゃなきゃ認めないわ",
+        "localizations": {
+          "en": "Someone special... for Alvina? They'd better be stronger than me. I won't accept anyone who can't protect her."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "まぁ、悲しいぐらいに何もないっすねぇ～",
+        "localizations": {
+          "en": "Sadly, there's nothing to report on that front..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "むしろヤンネおねーちゃんに聞きたい！\n恋愛経験者として、色々聞かせてよ！",
+        "localizations": {
+          "en": "I'd rather hear about your experiences, Big Sis! You're the love expert here!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "私の話？\u3000そうね、アルビちゃんは小さかったし、\nあまりこういう話はしたことなかったわね",
+        "localizations": {
+          "en": "My story? Well, you were quite young back then. We never really talked about these things."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "（昔のヤンネおねーちゃんは、アタシの家に遊びに\n\u3000来るたび、お母さんに恋の相談とかしてたけど）",
+        "localizations": {
+          "en": "(Though I remember Big Sis always asking Mom for relationship advice whenever she visited...)"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "（アタシは幼くて、聞いても分かんなくて……でも、\n\u3000ヤンネおねーちゃんが幸せそうだったのは覚えてる）",
+        "localizations": {
+          "en": "(I was too young to understand then... but I remember how happy she looked.)"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "ヤンネ姉様のお相手って……",
+        "localizations": {
+          "en": "About Big Sis' husband..."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "あっ……話題、違うほうがいいっ？",
+        "localizations": {
+          "en": "Oh... should we change the subject?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "いいえ、大丈夫よ。むしろ、あの人の話を\n聞いてもらえるなんて嬉しいわ。何から話そうかしら",
+        "localizations": {
+          "en": "No, it's fine. Actually, I'd love to share stories about him. Where should I begin?"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "じゃあ第一印象は？\u3000アタシ、会ったことあるけど\n小さかったから、どんな人かあまり覚えてなくて",
+        "localizations": {
+          "en": "What was your first impression? I met him when I was little, but I don't remember much."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "第一印象は、可憐、そして快活……\n共に過ごすうちにその聡明さにも惹かれて――",
+        "localizations": {
+          "en": "First impression... graceful and spirited... growing more captivated by their intelligence as time went on—"
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "ちょ、ベップ？\u3000それ誰の話――",
+        "localizations": {
+          "en": "Wait, Bepp? Who are you talking about—"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "もちろん、姉様のことよ",
+        "localizations": {
+          "en": "Why, Alvina of course."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "も、も～！\u3000事実でも恥ずかしいよ！\u3000事実でもぉ！",
+        "localizations": {
+          "en": "Geez! Even if it's true, it's embarrassing! Even if it's true!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "私は、食いしんぼうなのかなって思ったわ。\n初めて会った赤子のアルビちゃん、私の指を咥えて――",
+        "localizations": {
+          "en": "I thought you were quite the little glutton. When we first met, baby Alvie tried to eat my finger—"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "ヤンネおねーちゃんまでアタシの話！？\n確かにつまみ食いばかりしている子どもだったけど！",
+        "localizations": {
+          "en": "Not you too, Big Sis!? I mean, yes, I was always sneaking snacks, but still!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "アタシの話は今はいいから！\nヤンネおねーちゃんの話を聞かせて！",
+        "localizations": {
+          "en": "Enough about me! Tell us your story!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "ふふ、分かったわ。私と彼の出会いは、\n町の外で魔物に襲われていた時だったの",
+        "localizations": {
+          "en": "Hehe, alright. I met him when he was being attacked by monsters outside town."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "危ないって思って、飛び出して助けたわ。\n間に合ってよかった。聖戦士になりたての時でね",
+        "localizations": {
+          "en": "I rushed out to help without thinking. Thank goodness I made it in time. I had just become a Sacred Knight then."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "やっぱりヤンネ姉様が助けるほうだった",
+        "localizations": {
+          "en": "So Big Sis was the one doing the rescuing..."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "ヤンネおねーちゃんは子どもの頃から強かったから。\n尊敬の念もこめて、後ろをついて回ってたもん",
+        "localizations": {
+          "en": "Big Sis was always strong, even as a kid. I used to follow her around everywhere out of admiration."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "（ヤンネおねーちゃんは、強いけど、よく泣いた。\n\u3000嬉しいことでも、悲しいことでも）",
+        "localizations": {
+          "en": "(Though she was strong, she cried easily. Whether from happiness or sadness.)"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "（アタシが歌でちっちゃい賞をもらったときも、\n\u3000旦那さんがちょっとしたケガをしたときも）",
+        "localizations": {
+          "en": "(She cried when I won a tiny award for singing, and when her husband got a minor injury.)"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "（自分のことじゃないのに、\n\u3000泣いて喜んでくれた。心配して泣いてくれた）",
+        "localizations": {
+          "en": "(Even when it wasn't about her, she'd cry with joy or worry.)"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "（――きっとあの日、ヤンネおねーちゃんは\n\u3000すべての涙を流しつくしてしまったんだと思う）",
+        "localizations": {
+          "en": "(I think that day... Big Sis must have shed all her tears.)"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "（だって、旦那さんが亡くなってから、\n\u3000ヤンネおねーちゃんは泣かなくなったから）",
+        "localizations": {
+          "en": "(Because after her husband passed away, she stopped crying altogether.)"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "――彼と過ごした時間は決して長くはなかったけれど、\nとても幸せで、満ち足りた時間だったわ",
+        "localizations": {
+          "en": "Though our time together wasn't long... it was filled with happiness and contentment."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "ヤンネおねーちゃんたちがお互いを大切に想い合って\nいたんだって伝わってきたよ。はぁ～、いい話だった！",
+        "localizations": {
+          "en": "I can tell how much you treasured each other. Ahh... what a wonderful story!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "とても素敵な話だった。ヤンネ姉様が\n大切に想っている人に、私も会ってみたかったわ",
+        "localizations": {
+          "en": "Such a beautiful tale. I wish I could have met someone so dear to Big Sis."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "ありがとう、ベップちゃん。私も、彼にベップちゃんの\nことを紹介したかったわ。自慢の妹なのよ、って",
+        "localizations": {
+          "en": "Thank you, Little Bepp. I would have loved to introduce you to him. To show off my wonderful little sister."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "そういえば、少し気になったんだけど……",
+        "localizations": {
+          "en": "Come to think of it, I've been wondering about something..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "ヤンネおねーちゃんって、結婚する前も今も\n姓はリンデマンだよね？\u3000変えなかったの？",
+        "localizations": {
+          "en": "Big Sis, you kept your surname Lindemann both before and after marriage. Why didn't you change it?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "それは、彼が私の姓に合わせてくれたからよ。\n彼がリンデマン姓になってくれたの",
+        "localizations": {
+          "en": "That's because he took my name. He became a Lindemann."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "リンデマンって……リンデ祭の？",
+        "localizations": {
+          "en": "Lindemann... as in the Linde Festival?"
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "そう！\u3000そのリンデマン",
+        "localizations": {
+          "en": "Yes! That Lindemann!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "リンデ祭は、リンデマンという人が広めた\nチョコレートを贈る日……詳しいことは知らないけれど",
+        "localizations": {
+          "en": "The Linde Festival is when we give chocolate, started by someone named Lindemann... though I don't know the details."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "その起源になったリンデマンさんは、私の先祖なの。\nあの人はそれを知ってくれていてね",
+        "localizations": {
+          "en": "The original Lindemann was my ancestor. He knew about that."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "彼は、リンデマンの姓が私らしいって言ってくれて、\n私の姓に合わせて入籍してくれたの",
+        "localizations": {
+          "en": "He said the Lindemann name suited me, so he took it when we married."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "らしい？\u3000ヤンネおねーちゃんがお菓子作り得意で、\nリンデマンもチョコレートを有名にした人だから？",
+        "localizations": {
+          "en": "Suited you? Because you're good at making sweets, like how the original Lindemann made chocolate famous?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "そういうことじゃないと思うけれど……",
+        "localizations": {
+          "en": "I don't think that's quite it..."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 43,
+    "properties": {
+      "999008199": {
+        "text": "リンデ祭の起源に関係していたりする？",
+        "localizations": {
+          "en": "Is it related to the origins of the Linde Festival?"
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 44,
+    "properties": {
+      "999008199": {
+        "text": "ええ、きっとそう。\nでも、この話の続きはまた今度にしましょう",
+        "localizations": {
+          "en": "Yes, that's probably it. But let's save the rest of this story for another time."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 45,
+    "properties": {
+      "999008199": {
+        "text": "ええっ！？\u3000なんで！\nリンデマンの話、気ーにーなーるー！",
+        "localizations": {
+          "en": "What!? Why!? I really want to know more about the Lindemanns!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 46,
+    "properties": {
+      "999008199": {
+        "text": "今日はもう遅いから寝るわよ。明日はお仕事でしょ",
+        "localizations": {
+          "en": "It's getting late, and you have work tomorrow."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 47,
+    "properties": {
+      "999008199": {
+        "text": "ほーらアルビちゃん、いい子のベップちゃんを見て",
+        "localizations": {
+          "en": "Look at Little Bepp being such a good girl."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 48,
+    "properties": {
+      "999008199": {
+        "text": "いい子だから、もういつでも寝られるわ",
+        "localizations": {
+          "en": "I'm such a good girl, I could fall asleep right now."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 49,
+    "properties": {
+      "999008199": {
+        "text": "アルビちゃんもいい子だから寝るわよ",
+        "localizations": {
+          "en": "And you're a good girl too, Little Alvi, so time for bed."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 50,
+    "properties": {
+      "999008199": {
+        "text": "……はーい。明かり消すよー",
+        "localizations": {
+          "en": "...Okay. I'll turn off the light!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 51,
+    "properties": {
+      "999008199": {
+        "text": "おやすみなさい、二人とも",
+        "localizations": {
+          "en": "Good night, you two."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 52,
+    "properties": {
+      "999008199": {
+        "text": "おやすみなさい、姉様。\nおやすみなさい、ヤンネ姉様",
+        "localizations": {
+          "en": "Good night, Alvina. Good night, Big Sis."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 53,
+    "properties": {
+      "999008199": {
+        "text": "おやすみー",
+        "localizations": {
+          "en": "Night~"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 54,
+    "properties": {
+      "999008199": {
+        "text": "（リンデマン姓が、ヤンネおねーちゃんらしい、か）",
+        "localizations": {
+          "en": "(The Lindemann name suited her, huh?)"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 55,
+    "properties": {
+      "999008199": {
+        "text": "（明日仕事が終わったら、リンデマンについて\n\u3000師匠に聞いてみよ。物知りだから知ってるでしょ！）",
+        "localizations": {
+          "en": "(I'll ask Master about the Lindemanns after work tomorrow. They know everything!)"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  }
+]

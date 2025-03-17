@@ -1,0 +1,1343 @@
+[
+  {
+    "classId": 142,
+    "isStrippedType": false,
+    "scriptTypeIndex": -1,
+    "scriptId": null,
+    "oldTypeHash": "l9pfRojkWlfItC1PQklylw==",
+    "node": {
+      "level": 0,
+      "type": "AssetBundle",
+      "name": "Base",
+      "size": -1,
+      "version": 3,
+      "typeFlags": 0,
+      "metaFlag": 32768,
+      "index": 0,
+      "variableCount": null,
+      "children": [
+        {
+          "level": 1,
+          "type": "string",
+          "name": "m_Name",
+          "size": -1,
+          "version": 1,
+          "typeFlags": 0,
+          "metaFlag": 557057,
+          "index": 1,
+          "variableCount": null,
+          "children": [
+            {
+              "level": 2,
+              "type": "Array",
+              "name": "Array",
+              "size": -1,
+              "version": 1,
+              "typeFlags": 1,
+              "metaFlag": 540673,
+              "index": 2,
+              "variableCount": null,
+              "children": [
+                {
+                  "level": 3,
+                  "type": "int",
+                  "name": "size",
+                  "size": 4,
+                  "version": 1,
+                  "typeFlags": 0,
+                  "metaFlag": 524289,
+                  "index": 3,
+                  "variableCount": null,
+                  "children": []
+                },
+                {
+                  "level": 3,
+                  "type": "char",
+                  "name": "data",
+                  "size": 1,
+                  "version": 1,
+                  "typeFlags": 0,
+                  "metaFlag": 524289,
+                  "index": 4,
+                  "variableCount": null,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "type": "vector",
+          "name": "m_PreloadTable",
+          "size": -1,
+          "version": 1,
+          "typeFlags": 0,
+          "metaFlag": 32768,
+          "index": 5,
+          "variableCount": null,
+          "children": [
+            {
+              "level": 2,
+              "type": "Array",
+              "name": "Array",
+              "size": -1,
+              "version": 1,
+              "typeFlags": 1,
+              "metaFlag": 16384,
+              "index": 6,
+              "variableCount": null,
+              "children": [
+                {
+                  "level": 3,
+                  "type": "int",
+                  "name": "size",
+                  "size": 4,
+                  "version": 1,
+                  "typeFlags": 0,
+                  "metaFlag": 0,
+                  "index": 7,
+                  "variableCount": null,
+                  "children": []
+                },
+                {
+                  "level": 3,
+                  "type": "PPtr<Object>",
+                  "name": "data",
+                  "size": 12,
+                  "version": 1,
+                  "typeFlags": 0,
+                  "metaFlag": 0,
+                  "index": 8,
+                  "variableCount": null,
+                  "children": [
+                    {
+                      "level": 4,
+                      "type": "int",
+                      "name": "m_FileID",
+                      "size": 4,
+                      "version": 1,
+                      "typeFlags": 0,
+                      "metaFlag": 8388609,
+                      "index": 9,
+                      "variableCount": null,
+                      "children": []
+                    },
+                    {
+                      "level": 4,
+                      "type": "SInt64",
+                      "name": "m_PathID",
+                      "size": 8,
+                      "version": 1,
+                      "typeFlags": 0,
+                      "metaFlag": 8388609,
+                      "index": 10,
+                      "variableCount": null,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "type": "map",
+          "name": "m_Container",
+          "size": -1,
+          "version": 1,
+          "typeFlags": 0,
+          "metaFlag": 32768,
+          "index": 11,
+          "variableCount": null,
+          "children": [
+            {
+              "level": 2,
+              "type": "Array",
+              "name": "Array",
+              "size": -1,
+              "version": 1,
+              "typeFlags": 1,
+              "metaFlag": 32768,
+              "index": 12,
+              "variableCount": null,
+              "children": [
+                {
+                  "level": 3,
+                  "type": "int",
+                  "name": "size",
+                  "size": 4,
+                  "version": 1,
+                  "typeFlags": 0,
+                  "metaFlag": 0,
+                  "index": 13,
+                  "variableCount": null,
+                  "children": []
+                },
+                {
+                  "level": 3,
+                  "type": "pair",
+                  "name": "data",
+                  "size": -1,
+                  "version": 1,
+                  "typeFlags": 0,
+                  "metaFlag": 32768,
+                  "index": 14,
+                  "variableCount": null,
+                  "children": [
+                    {
+                      "level": 4,
+                      "type": "string",
+                      "name": "first",
+                      "size": -1,
+                      "version": 1,
+                      "typeFlags": 0,
+                      "metaFlag": 32768,
+                      "index": 15,
+                      "variableCount": null,
+                      "children": [
+                        {
+                          "level": 5,
+                          "type": "Array",
+                          "name": "Array",
+                          "size": -1,
+                          "version": 1,
+                          "typeFlags": 1,
+                          "metaFlag": 16385,
+                          "index": 16,
+                          "variableCount": null,
+                          "children": [
+                            {
+                              "level": 6,
+                              "type": "int",
+                              "name": "size",
+                              "size": 4,
+                              "version": 1,
+                              "typeFlags": 0,
+                              "metaFlag": 1,
+                              "index": 17,
+                              "variableCount": null,
+                              "children": []
+                            },
+                            {
+                              "level": 6,
+                              "type": "char",
+                              "name": "data",
+                              "size": 1,
+                              "version": 1,
+                              "typeFlags": 0,
+                              "metaFlag": 1,
+                              "index": 18,
+                              "variableCount": null,
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "level": 4,
+                      "type": "AssetInfo",
+                      "name": "second",
+                      "size": 20,
+                      "version": 1,
+                      "typeFlags": 0,
+                      "metaFlag": 0,
+                      "index": 19,
+                      "variableCount": null,
+                      "children": [
+                        {
+                          "level": 5,
+                          "type": "int",
+                          "name": "preloadIndex",
+                          "size": 4,
+                          "version": 1,
+                          "typeFlags": 0,
+                          "metaFlag": 0,
+                          "index": 20,
+                          "variableCount": null,
+                          "children": []
+                        },
+                        {
+                          "level": 5,
+                          "type": "int",
+                          "name": "preloadSize",
+                          "size": 4,
+                          "version": 1,
+                          "typeFlags": 0,
+                          "metaFlag": 0,
+                          "index": 21,
+                          "variableCount": null,
+                          "children": []
+                        },
+                        {
+                          "level": 5,
+                          "type": "PPtr<Object>",
+                          "name": "asset",
+                          "size": 12,
+                          "version": 1,
+                          "typeFlags": 0,
+                          "metaFlag": 0,
+                          "index": 22,
+                          "variableCount": null,
+                          "children": [
+                            {
+                              "level": 6,
+                              "type": "int",
+                              "name": "m_FileID",
+                              "size": 4,
+                              "version": 1,
+                              "typeFlags": 0,
+                              "metaFlag": 8388609,
+                              "index": 23,
+                              "variableCount": null,
+                              "children": []
+                            },
+                            {
+                              "level": 6,
+                              "type": "SInt64",
+                              "name": "m_PathID",
+                              "size": 8,
+                              "version": 1,
+                              "typeFlags": 0,
+                              "metaFlag": 8388609,
+                              "index": 24,
+                              "variableCount": null,
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "type": "AssetInfo",
+          "name": "m_MainAsset",
+          "size": 20,
+          "version": 1,
+          "typeFlags": 0,
+          "metaFlag": 0,
+          "index": 25,
+          "variableCount": null,
+          "children": [
+            {
+              "level": 2,
+              "type": "int",
+              "name": "preloadIndex",
+              "size": 4,
+              "version": 1,
+              "typeFlags": 0,
+              "metaFlag": 0,
+              "index": 26,
+              "variableCount": null,
+              "children": []
+            },
+            {
+              "level": 2,
+              "type": "int",
+              "name": "preloadSize",
+              "size": 4,
+              "version": 1,
+              "typeFlags": 0,
+              "metaFlag": 0,
+              "index": 27,
+              "variableCount": null,
+              "children": []
+            },
+            {
+              "level": 2,
+              "type": "PPtr<Object>",
+              "name": "asset",
+              "size": 12,
+              "version": 1,
+              "typeFlags": 0,
+              "metaFlag": 0,
+              "index": 28,
+              "variableCount": null,
+              "children": [
+                {
+                  "level": 3,
+                  "type": "int",
+                  "name": "m_FileID",
+                  "size": 4,
+                  "version": 1,
+                  "typeFlags": 0,
+                  "metaFlag": 8388609,
+                  "index": 29,
+                  "variableCount": null,
+                  "children": []
+                },
+                {
+                  "level": 3,
+                  "type": "SInt64",
+                  "name": "m_PathID",
+                  "size": 8,
+                  "version": 1,
+                  "typeFlags": 0,
+                  "metaFlag": 8388609,
+                  "index": 30,
+                  "variableCount": null,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "type": "unsigned int",
+          "name": "m_RuntimeCompatibility",
+          "size": 4,
+          "version": 1,
+          "typeFlags": 0,
+          "metaFlag": 0,
+          "index": 31,
+          "variableCount": null,
+          "children": []
+        },
+        {
+          "level": 1,
+          "type": "string",
+          "name": "m_AssetBundleName",
+          "size": -1,
+          "version": 1,
+          "typeFlags": 0,
+          "metaFlag": 32768,
+          "index": 32,
+          "variableCount": null,
+          "children": [
+            {
+              "level": 2,
+              "type": "Array",
+              "name": "Array",
+              "size": -1,
+              "version": 1,
+              "typeFlags": 1,
+              "metaFlag": 16385,
+              "index": 33,
+              "variableCount": null,
+              "children": [
+                {
+                  "level": 3,
+                  "type": "int",
+                  "name": "size",
+                  "size": 4,
+                  "version": 1,
+                  "typeFlags": 0,
+                  "metaFlag": 1,
+                  "index": 34,
+                  "variableCount": null,
+                  "children": []
+                },
+                {
+                  "level": 3,
+                  "type": "char",
+                  "name": "data",
+                  "size": 1,
+                  "version": 1,
+                  "typeFlags": 0,
+                  "metaFlag": 1,
+                  "index": 35,
+                  "variableCount": null,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "type": "vector",
+          "name": "m_Dependencies",
+          "size": -1,
+          "version": 1,
+          "typeFlags": 0,
+          "metaFlag": 32768,
+          "index": 36,
+          "variableCount": null,
+          "children": [
+            {
+              "level": 2,
+              "type": "Array",
+              "name": "Array",
+              "size": -1,
+              "version": 1,
+              "typeFlags": 1,
+              "metaFlag": 49152,
+              "index": 37,
+              "variableCount": null,
+              "children": [
+                {
+                  "level": 3,
+                  "type": "int",
+                  "name": "size",
+                  "size": 4,
+                  "version": 1,
+                  "typeFlags": 0,
+                  "metaFlag": 0,
+                  "index": 38,
+                  "variableCount": null,
+                  "children": []
+                },
+                {
+                  "level": 3,
+                  "type": "string",
+                  "name": "data",
+                  "size": -1,
+                  "version": 1,
+                  "typeFlags": 0,
+                  "metaFlag": 32768,
+                  "index": 39,
+                  "variableCount": null,
+                  "children": [
+                    {
+                      "level": 4,
+                      "type": "Array",
+                      "name": "Array",
+                      "size": -1,
+                      "version": 1,
+                      "typeFlags": 1,
+                      "metaFlag": 16385,
+                      "index": 40,
+                      "variableCount": null,
+                      "children": [
+                        {
+                          "level": 5,
+                          "type": "int",
+                          "name": "size",
+                          "size": 4,
+                          "version": 1,
+                          "typeFlags": 0,
+                          "metaFlag": 1,
+                          "index": 41,
+                          "variableCount": null,
+                          "children": []
+                        },
+                        {
+                          "level": 5,
+                          "type": "char",
+                          "name": "data",
+                          "size": 1,
+                          "version": 1,
+                          "typeFlags": 0,
+                          "metaFlag": 1,
+                          "index": 42,
+                          "variableCount": null,
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "type": "bool",
+          "name": "m_IsStreamedSceneAssetBundle",
+          "size": 1,
+          "version": 1,
+          "typeFlags": 0,
+          "metaFlag": 16384,
+          "index": 43,
+          "variableCount": null,
+          "children": []
+        },
+        {
+          "level": 1,
+          "type": "int",
+          "name": "m_ExplicitDataLayout",
+          "size": 4,
+          "version": 1,
+          "typeFlags": 0,
+          "metaFlag": 0,
+          "index": 44,
+          "variableCount": null,
+          "children": []
+        },
+        {
+          "level": 1,
+          "type": "int",
+          "name": "m_PathFlags",
+          "size": 4,
+          "version": 1,
+          "typeFlags": 0,
+          "metaFlag": 0,
+          "index": 45,
+          "variableCount": null,
+          "children": []
+        },
+        {
+          "level": 1,
+          "type": "map",
+          "name": "m_SceneHashes",
+          "size": -1,
+          "version": 1,
+          "typeFlags": 0,
+          "metaFlag": 32768,
+          "index": 46,
+          "variableCount": null,
+          "children": [
+            {
+              "level": 2,
+              "type": "Array",
+              "name": "Array",
+              "size": -1,
+              "version": 1,
+              "typeFlags": 1,
+              "metaFlag": 32768,
+              "index": 47,
+              "variableCount": null,
+              "children": [
+                {
+                  "level": 3,
+                  "type": "int",
+                  "name": "size",
+                  "size": 4,
+                  "version": 1,
+                  "typeFlags": 0,
+                  "metaFlag": 0,
+                  "index": 48,
+                  "variableCount": null,
+                  "children": []
+                },
+                {
+                  "level": 3,
+                  "type": "pair",
+                  "name": "data",
+                  "size": -1,
+                  "version": 1,
+                  "typeFlags": 0,
+                  "metaFlag": 32768,
+                  "index": 49,
+                  "variableCount": null,
+                  "children": [
+                    {
+                      "level": 4,
+                      "type": "string",
+                      "name": "first",
+                      "size": -1,
+                      "version": 1,
+                      "typeFlags": 0,
+                      "metaFlag": 32768,
+                      "index": 50,
+                      "variableCount": null,
+                      "children": [
+                        {
+                          "level": 5,
+                          "type": "Array",
+                          "name": "Array",
+                          "size": -1,
+                          "version": 1,
+                          "typeFlags": 1,
+                          "metaFlag": 16385,
+                          "index": 51,
+                          "variableCount": null,
+                          "children": [
+                            {
+                              "level": 6,
+                              "type": "int",
+                              "name": "size",
+                              "size": 4,
+                              "version": 1,
+                              "typeFlags": 0,
+                              "metaFlag": 1,
+                              "index": 52,
+                              "variableCount": null,
+                              "children": []
+                            },
+                            {
+                              "level": 6,
+                              "type": "char",
+                              "name": "data",
+                              "size": 1,
+                              "version": 1,
+                              "typeFlags": 0,
+                              "metaFlag": 1,
+                              "index": 53,
+                              "variableCount": null,
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "level": 4,
+                      "type": "string",
+                      "name": "second",
+                      "size": -1,
+                      "version": 1,
+                      "typeFlags": 0,
+                      "metaFlag": 32768,
+                      "index": 54,
+                      "variableCount": null,
+                      "children": [
+                        {
+                          "level": 5,
+                          "type": "Array",
+                          "name": "Array",
+                          "size": -1,
+                          "version": 1,
+                          "typeFlags": 1,
+                          "metaFlag": 16385,
+                          "index": 55,
+                          "variableCount": null,
+                          "children": [
+                            {
+                              "level": 6,
+                              "type": "int",
+                              "name": "size",
+                              "size": 4,
+                              "version": 1,
+                              "typeFlags": 0,
+                              "metaFlag": 1,
+                              "index": 56,
+                              "variableCount": null,
+                              "children": []
+                            },
+                            {
+                              "level": 6,
+                              "type": "char",
+                              "name": "data",
+                              "size": 1,
+                              "version": 1,
+                              "typeFlags": 0,
+                              "metaFlag": 1,
+                              "index": 57,
+                              "variableCount": null,
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "className": null,
+    "namespace": null,
+    "assemblyName": null,
+    "dependencies": []
+  },
+  {
+    "classId": 329,
+    "isStrippedType": false,
+    "scriptTypeIndex": -1,
+    "scriptId": null,
+    "oldTypeHash": "CT5FAKCmfR7YTrARZSD6LQ==",
+    "node": {
+      "level": 0,
+      "type": "VideoClip",
+      "name": "Base",
+      "size": -1,
+      "version": 1,
+      "typeFlags": 0,
+      "metaFlag": 32768,
+      "index": 0,
+      "variableCount": null,
+      "children": [
+        {
+          "level": 1,
+          "type": "string",
+          "name": "m_Name",
+          "size": -1,
+          "version": 1,
+          "typeFlags": 0,
+          "metaFlag": 557057,
+          "index": 1,
+          "variableCount": null,
+          "children": [
+            {
+              "level": 2,
+              "type": "Array",
+              "name": "Array",
+              "size": -1,
+              "version": 1,
+              "typeFlags": 1,
+              "metaFlag": 540673,
+              "index": 2,
+              "variableCount": null,
+              "children": [
+                {
+                  "level": 3,
+                  "type": "int",
+                  "name": "size",
+                  "size": 4,
+                  "version": 1,
+                  "typeFlags": 0,
+                  "metaFlag": 524289,
+                  "index": 3,
+                  "variableCount": null,
+                  "children": []
+                },
+                {
+                  "level": 3,
+                  "type": "char",
+                  "name": "data",
+                  "size": 1,
+                  "version": 1,
+                  "typeFlags": 0,
+                  "metaFlag": 524289,
+                  "index": 4,
+                  "variableCount": null,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "type": "string",
+          "name": "m_OriginalPath",
+          "size": -1,
+          "version": 1,
+          "typeFlags": 0,
+          "metaFlag": 49153,
+          "index": 5,
+          "variableCount": null,
+          "children": [
+            {
+              "level": 2,
+              "type": "Array",
+              "name": "Array",
+              "size": -1,
+              "version": 1,
+              "typeFlags": 1,
+              "metaFlag": 16385,
+              "index": 6,
+              "variableCount": null,
+              "children": [
+                {
+                  "level": 3,
+                  "type": "int",
+                  "name": "size",
+                  "size": 4,
+                  "version": 1,
+                  "typeFlags": 0,
+                  "metaFlag": 1,
+                  "index": 7,
+                  "variableCount": null,
+                  "children": []
+                },
+                {
+                  "level": 3,
+                  "type": "char",
+                  "name": "data",
+                  "size": 1,
+                  "version": 1,
+                  "typeFlags": 0,
+                  "metaFlag": 1,
+                  "index": 8,
+                  "variableCount": null,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "type": "unsigned int",
+          "name": "m_ProxyWidth",
+          "size": 4,
+          "version": 1,
+          "typeFlags": 0,
+          "metaFlag": 1,
+          "index": 9,
+          "variableCount": null,
+          "children": []
+        },
+        {
+          "level": 1,
+          "type": "unsigned int",
+          "name": "m_ProxyHeight",
+          "size": 4,
+          "version": 1,
+          "typeFlags": 0,
+          "metaFlag": 1,
+          "index": 10,
+          "variableCount": null,
+          "children": []
+        },
+        {
+          "level": 1,
+          "type": "unsigned int",
+          "name": "Width",
+          "size": 4,
+          "version": 1,
+          "typeFlags": 0,
+          "metaFlag": 1,
+          "index": 11,
+          "variableCount": null,
+          "children": []
+        },
+        {
+          "level": 1,
+          "type": "unsigned int",
+          "name": "Height",
+          "size": 4,
+          "version": 1,
+          "typeFlags": 0,
+          "metaFlag": 1,
+          "index": 12,
+          "variableCount": null,
+          "children": []
+        },
+        {
+          "level": 1,
+          "type": "unsigned int",
+          "name": "m_PixelAspecRatioNum",
+          "size": 4,
+          "version": 1,
+          "typeFlags": 0,
+          "metaFlag": 1,
+          "index": 13,
+          "variableCount": null,
+          "children": []
+        },
+        {
+          "level": 1,
+          "type": "unsigned int",
+          "name": "m_PixelAspecRatioDen",
+          "size": 4,
+          "version": 1,
+          "typeFlags": 0,
+          "metaFlag": 1,
+          "index": 14,
+          "variableCount": null,
+          "children": []
+        },
+        {
+          "level": 1,
+          "type": "double",
+          "name": "m_FrameRate",
+          "size": 8,
+          "version": 1,
+          "typeFlags": 0,
+          "metaFlag": 1,
+          "index": 15,
+          "variableCount": null,
+          "children": []
+        },
+        {
+          "level": 1,
+          "type": "UInt64",
+          "name": "m_FrameCount",
+          "size": 8,
+          "version": 1,
+          "typeFlags": 0,
+          "metaFlag": 1,
+          "index": 16,
+          "variableCount": null,
+          "children": []
+        },
+        {
+          "level": 1,
+          "type": "int",
+          "name": "m_Format",
+          "size": 4,
+          "version": 1,
+          "typeFlags": 0,
+          "metaFlag": 1,
+          "index": 17,
+          "variableCount": null,
+          "children": []
+        },
+        {
+          "level": 1,
+          "type": "vector",
+          "name": "m_AudioChannelCount",
+          "size": -1,
+          "version": 1,
+          "typeFlags": 0,
+          "metaFlag": 49153,
+          "index": 18,
+          "variableCount": null,
+          "children": [
+            {
+              "level": 2,
+              "type": "Array",
+              "name": "Array",
+              "size": -1,
+              "version": 1,
+              "typeFlags": 1,
+              "metaFlag": 16385,
+              "index": 19,
+              "variableCount": null,
+              "children": [
+                {
+                  "level": 3,
+                  "type": "int",
+                  "name": "size",
+                  "size": 4,
+                  "version": 1,
+                  "typeFlags": 0,
+                  "metaFlag": 1,
+                  "index": 20,
+                  "variableCount": null,
+                  "children": []
+                },
+                {
+                  "level": 3,
+                  "type": "UInt16",
+                  "name": "data",
+                  "size": 2,
+                  "version": 1,
+                  "typeFlags": 0,
+                  "metaFlag": 1,
+                  "index": 21,
+                  "variableCount": null,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "type": "vector",
+          "name": "m_AudioSampleRate",
+          "size": -1,
+          "version": 1,
+          "typeFlags": 0,
+          "metaFlag": 49153,
+          "index": 22,
+          "variableCount": null,
+          "children": [
+            {
+              "level": 2,
+              "type": "Array",
+              "name": "Array",
+              "size": -1,
+              "version": 1,
+              "typeFlags": 1,
+              "metaFlag": 16385,
+              "index": 23,
+              "variableCount": null,
+              "children": [
+                {
+                  "level": 3,
+                  "type": "int",
+                  "name": "size",
+                  "size": 4,
+                  "version": 1,
+                  "typeFlags": 0,
+                  "metaFlag": 1,
+                  "index": 24,
+                  "variableCount": null,
+                  "children": []
+                },
+                {
+                  "level": 3,
+                  "type": "unsigned int",
+                  "name": "data",
+                  "size": 4,
+                  "version": 1,
+                  "typeFlags": 0,
+                  "metaFlag": 1,
+                  "index": 25,
+                  "variableCount": null,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "type": "vector",
+          "name": "m_AudioLanguage",
+          "size": -1,
+          "version": 1,
+          "typeFlags": 0,
+          "metaFlag": 49153,
+          "index": 26,
+          "variableCount": null,
+          "children": [
+            {
+              "level": 2,
+              "type": "Array",
+              "name": "Array",
+              "size": -1,
+              "version": 1,
+              "typeFlags": 1,
+              "metaFlag": 49153,
+              "index": 27,
+              "variableCount": null,
+              "children": [
+                {
+                  "level": 3,
+                  "type": "int",
+                  "name": "size",
+                  "size": 4,
+                  "version": 1,
+                  "typeFlags": 0,
+                  "metaFlag": 1,
+                  "index": 28,
+                  "variableCount": null,
+                  "children": []
+                },
+                {
+                  "level": 3,
+                  "type": "string",
+                  "name": "data",
+                  "size": -1,
+                  "version": 1,
+                  "typeFlags": 0,
+                  "metaFlag": 32769,
+                  "index": 29,
+                  "variableCount": null,
+                  "children": [
+                    {
+                      "level": 4,
+                      "type": "Array",
+                      "name": "Array",
+                      "size": -1,
+                      "version": 1,
+                      "typeFlags": 1,
+                      "metaFlag": 16385,
+                      "index": 30,
+                      "variableCount": null,
+                      "children": [
+                        {
+                          "level": 5,
+                          "type": "int",
+                          "name": "size",
+                          "size": 4,
+                          "version": 1,
+                          "typeFlags": 0,
+                          "metaFlag": 1,
+                          "index": 31,
+                          "variableCount": null,
+                          "children": []
+                        },
+                        {
+                          "level": 5,
+                          "type": "char",
+                          "name": "data",
+                          "size": 1,
+                          "version": 1,
+                          "typeFlags": 0,
+                          "metaFlag": 1,
+                          "index": 32,
+                          "variableCount": null,
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "type": "vector",
+          "name": "m_VideoShaders",
+          "size": -1,
+          "version": 1,
+          "typeFlags": 0,
+          "metaFlag": 49152,
+          "index": 33,
+          "variableCount": null,
+          "children": [
+            {
+              "level": 2,
+              "type": "Array",
+              "name": "Array",
+              "size": -1,
+              "version": 1,
+              "typeFlags": 1,
+              "metaFlag": 16384,
+              "index": 34,
+              "variableCount": null,
+              "children": [
+                {
+                  "level": 3,
+                  "type": "int",
+                  "name": "size",
+                  "size": 4,
+                  "version": 1,
+                  "typeFlags": 0,
+                  "metaFlag": 0,
+                  "index": 35,
+                  "variableCount": null,
+                  "children": []
+                },
+                {
+                  "level": 3,
+                  "type": "PPtr<Shader>",
+                  "name": "data",
+                  "size": 12,
+                  "version": 1,
+                  "typeFlags": 0,
+                  "metaFlag": 0,
+                  "index": 36,
+                  "variableCount": null,
+                  "children": [
+                    {
+                      "level": 4,
+                      "type": "int",
+                      "name": "m_FileID",
+                      "size": 4,
+                      "version": 1,
+                      "typeFlags": 0,
+                      "metaFlag": 8388609,
+                      "index": 37,
+                      "variableCount": null,
+                      "children": []
+                    },
+                    {
+                      "level": 4,
+                      "type": "SInt64",
+                      "name": "m_PathID",
+                      "size": 8,
+                      "version": 1,
+                      "typeFlags": 0,
+                      "metaFlag": 8388609,
+                      "index": 38,
+                      "variableCount": null,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "type": "StreamedResource",
+          "name": "m_ExternalResources",
+          "size": -1,
+          "version": 1,
+          "typeFlags": 0,
+          "metaFlag": 32768,
+          "index": 39,
+          "variableCount": null,
+          "children": [
+            {
+              "level": 2,
+              "type": "string",
+              "name": "m_Source",
+              "size": -1,
+              "version": 1,
+              "typeFlags": 0,
+              "metaFlag": 32769,
+              "index": 40,
+              "variableCount": null,
+              "children": [
+                {
+                  "level": 3,
+                  "type": "Array",
+                  "name": "Array",
+                  "size": -1,
+                  "version": 1,
+                  "typeFlags": 1,
+                  "metaFlag": 16385,
+                  "index": 41,
+                  "variableCount": null,
+                  "children": [
+                    {
+                      "level": 4,
+                      "type": "int",
+                      "name": "size",
+                      "size": 4,
+                      "version": 1,
+                      "typeFlags": 0,
+                      "metaFlag": 1,
+                      "index": 42,
+                      "variableCount": null,
+                      "children": []
+                    },
+                    {
+                      "level": 4,
+                      "type": "char",
+                      "name": "data",
+                      "size": 1,
+                      "version": 1,
+                      "typeFlags": 0,
+                      "metaFlag": 1,
+                      "index": 43,
+                      "variableCount": null,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 2,
+              "type": "FileSize",
+              "name": "m_Offset",
+              "size": 8,
+              "version": 1,
+              "typeFlags": 0,
+              "metaFlag": 1,
+              "index": 44,
+              "variableCount": null,
+              "children": []
+            },
+            {
+              "level": 2,
+              "type": "UInt64",
+              "name": "m_Size",
+              "size": 8,
+              "version": 1,
+              "typeFlags": 0,
+              "metaFlag": 1,
+              "index": 45,
+              "variableCount": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "type": "bool",
+          "name": "m_HasSplitAlpha",
+          "size": 1,
+          "version": 1,
+          "typeFlags": 0,
+          "metaFlag": 0,
+          "index": 46,
+          "variableCount": null,
+          "children": []
+        },
+        {
+          "level": 1,
+          "type": "bool",
+          "name": "m_sRGB",
+          "size": 1,
+          "version": 1,
+          "typeFlags": 0,
+          "metaFlag": 1,
+          "index": 47,
+          "variableCount": null,
+          "children": []
+        }
+      ]
+    },
+    "className": null,
+    "namespace": null,
+    "assemblyName": null,
+    "dependencies": []
+  }
+]

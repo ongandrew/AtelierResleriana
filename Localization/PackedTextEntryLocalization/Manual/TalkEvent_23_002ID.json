@@ -1,0 +1,716 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "ロマンさん。何かご不便はありませんか？",
+        "localizations": {
+          "en": "Roman, is everything to your liking?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "潮の香りに広がる青空。心地よく流れていく風……\nいやあ、いいねえ。船旅は！",
+        "localizations": {
+          "en": "The salty breeze, blue skies overhead, and refreshing wind... Ahh, there's nothing quite like a sea voyage!"
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "今のところ順調ですしね。\nこれも王国のご支援のおかげです！",
+        "localizations": {
+          "en": "Things have been going smoothly so far. All thanks to the kingdom's support!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "いいや、様々な対策を練り、この船を造り上げたのは\n君たち錬金術士さ",
+        "localizations": {
+          "en": "Not at all—it was you alchemists who devised the countermeasures and built this ship."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "おかげで、今のところは優雅な船旅を満喫できている",
+        "localizations": {
+          "en": "Thanks to that, we've been able to enjoy quite the luxurious voyage so far."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "こうしていると色んなしがらみを忘れて、\nただの一冒険者になった気持ちになれるねぇ",
+        "localizations": {
+          "en": "Being out here makes me feel like I can forget all my obligations and just be another adventurer."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "あはは。ロマン君……いえ、殿下も忙しくされて\nいましたから",
+        "localizations": {
+          "en": "Ahaha. Roman—er, I mean, Your Highness has been so busy lately..."
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "いやいや。こうしている間、私はただのロマンだよ。\nそう堅苦しいと寂しくなってしまう",
+        "localizations": {
+          "en": "No, no. While we're out here, I'm just Roman. All that formality would make this rather lonely."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "殿下。そうは言っても無数島群域に到着すれば、\n王国の代表として交渉されるのですよ？",
+        "localizations": {
+          "en": "Your Highness, once we reach the Infinite Island Chain, you'll still need to negotiate as a representative of the kingdom, you know?"
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "そ、それはそうだけど……",
+        "localizations": {
+          "en": "W-well, that's true, but..."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "それに海には魔物もいます。だらけきっておられず、\n少しは気を引き締めてくださらないと",
+        "localizations": {
+          "en": "And there are monsters in these waters. You can't let your guard down completely."
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "はは……\nきっとユナがそばにいるから安心してしまうんだろうね",
+        "localizations": {
+          "en": "Haha... I suppose having you nearby makes me feel a bit too secure."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "では、少し緊張感を与えて差し上げましょうか",
+        "localizations": {
+          "en": "Perhaps I should help you maintain a proper sense of tension, then?"
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "そ、それには及ばないよ！\nさーて、少し身体を動かしてこようかなあ！",
+        "localizations": {
+          "en": "Th-that won't be necessary! Now then, I think I'll go stretch my legs a bit!"
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "――おっと！",
+        "localizations": {
+          "en": "—Whoa!"
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "これは！",
+        "localizations": {
+          "en": "What's that?!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "前方より敵襲！",
+        "localizations": {
+          "en": "Enemies approaching from the fore!"
+        }
+      },
+      "2072370017": {
+        "text": "騎士Ａ",
+        "localizations": {
+          "en": "Knight A"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "噂をしていたら、早速ご登場のようだね",
+        "localizations": {
+          "en": "Speak of the devil, and they shall appear."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "……例の頂獣じゃないみたいだね",
+        "localizations": {
+          "en": "...Doesn't look like Apexi, at least."
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "殿下はこちらへ。イザナ、指揮は任せたぞ",
+        "localizations": {
+          "en": "Your Highness, this way. Izana, take command."
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "はい！",
+        "localizations": {
+          "en": "Yes, ma'am!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "迎撃用の武装を展開！\n周囲にも敵がいないか確認して！",
+        "localizations": {
+          "en": "Deploy combat systems! Check for additional hostiles!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "イザナ！\u3000ちょっと空から周りを見てくるわ！",
+        "localizations": {
+          "en": "Izana! I'll take a look from above!"
+        }
+      },
+      "2072370017": {
+        "text": "ウィルベル",
+        "localizations": {
+          "en": "Wilbell"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "うん、お願い！",
+        "localizations": {
+          "en": "Thanks, I'm counting on you!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "武装展開完了！\u3000いつでも行けます！",
+        "localizations": {
+          "en": "Weapons deployed! Ready to engage!"
+        }
+      },
+      "2072370017": {
+        "text": "騎士Ｂ",
+        "localizations": {
+          "en": "Knight B"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "よーし！\u3000撃て！",
+        "localizations": {
+          "en": "Alright! Fire!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "もう一度！\u3000撃て！",
+        "localizations": {
+          "en": "Once more! Fire!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "大体片付いたみたいよ！\nでも、討ち漏らしもいるみたい！",
+        "localizations": {
+          "en": "Looks like we got most of them! But there are still stragglers!"
+        }
+      },
+      "2072370017": {
+        "text": "ウィルベル",
+        "localizations": {
+          "en": "Wilbell"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "ひゃぁっ！",
+        "localizations": {
+          "en": "Eek!"
+        }
+      },
+      "2072370017": {
+        "text": "ウィルベル",
+        "localizations": {
+          "en": "Wilbell"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "討ち漏らした分は、直接迎え撃とう！",
+        "localizations": {
+          "en": "We'll handle the rest in close combat!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "ふふ。王の行く手を阻む者には容赦しませんわ",
+        "localizations": {
+          "en": "Those who stand in the way of royalty shall receive no mercy."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "ちょうど退屈していたところよ。かかってきなさい",
+        "localizations": {
+          "en": "I was just starting to get bored. Come and get it!"
+        }
+      },
+      "2072370017": {
+        "text": "ミミ",
+        "localizations": {
+          "en": "Mimi"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "船には傷一つ付けさせないからね！",
+        "localizations": {
+          "en": "They won't lay a scratch on this ship!"
+        }
+      },
+      "2072370017": {
+        "text": "トトリ",
+        "localizations": {
+          "en": "Totori"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "イザナちゃん、行こう！",
+        "localizations": {
+          "en": "Let's go, Izana!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "うん！\u3000レスナちゃん！",
+        "localizations": {
+          "en": "Right behind you, Resna!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "やぁっ！",
+        "localizations": {
+          "en": "Haah!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "はぁぁっ！",
+        "localizations": {
+          "en": "Hyaah!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "よし、あと一息！\u3000一斉に叩くよ！",
+        "localizations": {
+          "en": "Almost there! Everyone, attack together!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "冒険者の青年。その正体は王国第二王子であり、\n本名は「リヒャルト・ランターナ」",
+        "localizations": {
+          "en": "A young adventurer whose true identity is Prince Richard Lantarna, second in line to the throne."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン・カルマン",
+        "localizations": {
+          "en": "Roman Kalman"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "王国に仕える「白夜の騎士」の一人。ロマンの護衛を\n務めるが、王子らしからぬ振る舞いには手を焼きがち",
+        "localizations": {
+          "en": "One of the kingdom's Knights of the Midnight Sun. Though tasked with guarding Roman, she often struggles with his un-princelike behavior."
+        }
+      },
+      "2072370017": {
+        "text": "ユナ・ヴァイツ",
+        "localizations": {
+          "en": "Juna Waitz"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "凄腕の魔法使い。\nホウキに乗って空を自在に飛び回ることができる",
+        "localizations": {
+          "en": "A talented witch who can freely soar through the skies on her broomstick."
+        }
+      },
+      "2072370017": {
+        "text": "ウィルベル・フォル＝エルスリート",
+        "localizations": {
+          "en": "Wilbell Voll-Ersleid"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "錬金術士にして、独立国家「ララ・キングダム」の王。\nかつてはレスナと敵対していたが、現在は和解している",
+        "localizations": {
+          "en": "An alchemist and ruler of the independent Kingdom of Lara. Though once Resna's enemy, they have since become allies."
+        }
+      },
+      "2072370017": {
+        "text": "ララ・トロッケル",
+        "localizations": {
+          "en": "Lara Trockel"
+        }
+      }
+    }
+  }
+]

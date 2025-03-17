@@ -1,0 +1,665 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "（錬金術との出会いから１年。アタシはアウグストさん\n\u3000に弟子入りし、錬金術士見習いとなった）",
+        "localizations": {
+          "en": "(It's been a year since I discovered alchemy. Under August's guidance, I've become an apprentice alchemist.)"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "おーし、完成じゃい！\nみんなも手伝ってくれてありがとね",
+        "localizations": {
+          "en": "All right, it's done!\nThanks for helping out, everyone!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "このくらい、当然よ姉様",
+        "localizations": {
+          "en": "Of course. It was the least I could do."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "（ベップは師匠と一緒にこの島に来た女の子。\n\u3000でも、親子というわけじゃないんだよね）",
+        "localizations": {
+          "en": "(Bepp came to this island with my mentor. Though they're not actually related...)"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "（アタシのほうが年上なこともあり、姉のように慕って\n\u3000くれている。姉様って呼び方は少し恥ずかしいけど）",
+        "localizations": {
+          "en": "(Being the older one, she looks up to me as her sister. Though she doesn't need to be quite so formal about it...)"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "やっぱり、錬金術ってヤツは面白いね。\nそこらに落ちてるものからなんでも作っちまうんだから",
+        "localizations": {
+          "en": "Alchemy sure is something else, isn't it?\nTurning random stuff lying around into whatever you want!"
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "（イェルカは師匠の古い知り合い。冒険者として旅に\n\u3000出ていることが多く、よく土産話を聞かせてくれる）",
+        "localizations": {
+          "en": "(Jelka is an old friend of my mentor. She's often away adventuring, but always comes back with interesting stories.)"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "調合にも慣れてきたな、アルビーナ。\nやはり、お前を選んだ私の目に狂いはなかったようだ",
+        "localizations": {
+          "en": "You've grown quite comfortable with synthesis, Alvina.\nIt seems my eye for talent wasn't mistaken after all."
+        }
+      },
+      "2072370017": {
+        "text": "アウグスト",
+        "localizations": {
+          "en": "August"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "えっへへ、それほどでも……あるかも？\nいやあ、隠れた才能発揮しちゃってるかもなあ～",
+        "localizations": {
+          "en": "Hehehe, you think so...? Maybe?\nI guess my hidden talents are really shining through."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "でも、それを見抜いた師匠もさすがですよ？\u3000このこの",
+        "localizations": {
+          "en": "But Master, you deserve credit for spotting that talent in the first place!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "今作った薬をよく見せてくれ",
+        "localizations": {
+          "en": "Let me take a look at the medicine you just made."
+        }
+      },
+      "2072370017": {
+        "text": "アウグスト",
+        "localizations": {
+          "en": "August"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "うーん、ほめ甲斐ないすなあ……",
+        "localizations": {
+          "en": "Ugh, way to kill the mood..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "ふむ。船酔いに効く薬か",
+        "localizations": {
+          "en": "Hmm. A remedy for seasickness?"
+        }
+      },
+      "2072370017": {
+        "text": "アウグスト",
+        "localizations": {
+          "en": "August"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "はい。このところ海が荒れてるみたいだから、\n観光客のみんなも大変だろうなって",
+        "localizations": {
+          "en": "Yes. The seas have been rough lately,\nso I figured the tourists might need it."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "船を降りたばかりの客に売りつければ……\nふっふっふ、これはいい儲けになる予感！",
+        "localizations": {
+          "en": "If we sell it to passengers just getting off the ships...\nHehehe, I can smell the profit already!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "商売上手ではあるけど、粋な心も忘れちゃいけないよ",
+        "localizations": {
+          "en": "You're a savvy merchant, but don't forget to keep it classy!"
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "分かってますがな。でも、器材の修理代も必要だし",
+        "localizations": {
+          "en": "I know, I know. But equipment repairs don't pay for themselves..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "ちゃんと言いつけは守っているだろうな？",
+        "localizations": {
+          "en": "You've been following our agreement, haven't you?"
+        }
+      },
+      "2072370017": {
+        "text": "アウグスト",
+        "localizations": {
+          "en": "August"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "「錬金術のことは周りには話さない」でしょ",
+        "localizations": {
+          "en": "'Don't tell anyone about the alchemy,' right?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "それは、アタシが授かった天命とは違うから",
+        "localizations": {
+          "en": "Because it goes against the divine calling I received."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "ああ。己の天命に背く行いは、この国の教えに反する。\n商人の真似ごとは、もはや学問ではすまされん",
+        "localizations": {
+          "en": "Indeed. Going against one's divine calling violates this nation's teachings. Playing merchant is far beyond mere academic pursuit."
+        }
+      },
+      "2072370017": {
+        "text": "アウグスト",
+        "localizations": {
+          "en": "August"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "だから、観光客の人たちだけ相手にしてるッスよ",
+        "localizations": {
+          "en": "That's why I only deal with tourists!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "話が広がる心配も少ないし、最悪バレても\n案内人としての仕事だって言い訳できるし！",
+        "localizations": {
+          "en": "Less chance of word spreading, and worst case, I can pass it off as part of my Star Guide duties!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "十分気を付けろよ。咎められ、\n錬金術を学ぶことを禁じられては、元も子もないのだ",
+        "localizations": {
+          "en": "Be very careful. If you're caught and forbidden from studying alchemy, all will have been for nothing."
+        }
+      },
+      "2072370017": {
+        "text": "アウグスト",
+        "localizations": {
+          "en": "August"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "はーい。分かってまーす。\n錬金術のことは、ここにいる５人だけの秘密だから！",
+        "localizations": {
+          "en": "Yes, yes, I understand completely. The secret of alchemy stays between just the five of us!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "そもそも、聖戦士のヤンネさんにバレてる時点で、\n今さらって気もするけどね",
+        "localizations": {
+          "en": "Though honestly, since Janne the Sacred Knight already knows, it feels a bit late to worry about it..."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "ヤンネさんはアルビちゃんが赤子の時から知ってるし、\n理解があるから",
+        "localizations": {
+          "en": "Janne's known me since I was a baby, so she understands."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "最初知った時はどうしようかと思ったけど、\n悪い子じゃないことは知ってるし……",
+        "localizations": {
+          "en": "I was quite concerned when I first found out, but I know you've got a good heart..."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "きちんと案内人としてのお仕事をした上でやる分には、\n口を出さないことにしたの",
+        "localizations": {
+          "en": "As long as you properly fulfill your Star Guide duties, I've decided to look the other way."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "さすがヤンネさん！\u3000話が分かる！\nベップ！\u3000肩をお揉みして",
+        "localizations": {
+          "en": "That's our Janne! So understanding! Bepp! Give her shoulders a massage!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "今日も凝ってる",
+        "localizations": {
+          "en": "You're tense again today."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "ただ、悪い方向に行かないよう目は光らせているわよ\n結構きわどいことをしているんだから……ンンっ",
+        "localizations": {
+          "en": "Just know I'm keeping an eye on you to make sure things don't go wrong. You're walking quite a fine line... Mmnh!"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "……それはそうと、もうじき集会が始まる。\n出かける準備をしておけ",
+        "localizations": {
+          "en": "...At any rate, the assembly will begin soon. Make your preparations to leave."
+        }
+      },
+      "2072370017": {
+        "text": "アウグスト",
+        "localizations": {
+          "en": "August"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "あ、もうそんな時間か、おっす",
+        "localizations": {
+          "en": "Oh, is it that time already? Right!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "そうそう、だからあなたを迎えに来ていたの\n遅刻したら大変よ",
+        "localizations": {
+          "en": "That's right, that's why we came to get you. It would be trouble if you were late."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "はーい！",
+        "localizations": {
+          "en": "Coming!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "ノーヴァ神聖国で「星の案内人」を務める少女。\n密かに錬金術士としても活動している",
+        "localizations": {
+          "en": "A young woman who serves as a Star Guide in the sacred lands of Nova.\nShe secretly practices alchemy on the side."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ・ジムロック",
+        "localizations": {
+          "en": "Alvina Zimlock"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "神聖国を拠点に活動している冒険者。\n「粋」を信条とする、いなせな風来坊",
+        "localizations": {
+          "en": "An adventurer based in the sacred lands. A stylish free spirit who lives by their own sense of chic."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "アルビーナに錬金術を教えた師匠。\n多くを語らず、その素性は謎に包まれている",
+        "localizations": {
+          "en": "The mentor who taught Alvina alchemy.\nHe speaks little of himself and his background is shrouded in mystery."
+        }
+      },
+      "2072370017": {
+        "text": "アウグスト・ザイフェルト",
+        "localizations": {
+          "en": "August Seifert"
+        }
+      }
+    }
+  }
+]

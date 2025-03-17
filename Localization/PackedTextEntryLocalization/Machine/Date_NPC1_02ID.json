@@ -1,0 +1,1617 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "\u308F\u3063\uFF01\u3000\u3082\u3046\u3053\u3093\u306A\u6642\u9593\u2026\u2026\n\u3059\u3063\u304B\u308A\u8ABF\u3079\u3082\u306E\u306B\u6CA1\u982D\u3057\u3061\u3083\u3063\u305F",
+        "localizations": {
+          "en": "Ah! Is it that late already...?\nI got completely absorbed in my research."
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "\u3046\u3046\uFF5E\u2026\u2026\u304A\u8179\u307A\u3053\u307A\u3053\u3060\u3088\uFF5E",
+        "localizations": {
+          "en": "Oogh... I\u0027m starving..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u308C\uFF1F\u3000\u30EC\u30B9\u30CA\u3061\u3083\u3093\uFF1F",
+        "localizations": {
+          "en": "Huh? Resna?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "\u30A4\u30B6\u30CA\u3061\u3083\u3093\uFF01\n\u307E\u3055\u304B\u3053\u306E\u6642\u9593\u307E\u3067\u935B\u932C\u3092\uFF1F",
+        "localizations": {
+          "en": "Izana! Don\u0027t tell me you\u0027ve been training until this hour?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "\u30EC\u30B9\u30CA\u3061\u3083\u3093\u3053\u305D\uFF01\u3000\u5927\u4E08\u592B\u306A\u306E\uFF1F",
+        "localizations": {
+          "en": "What about you? Are you okay?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "\u79C1\u306F\u2026\u2026",
+        "localizations": {
+          "en": "Well, I..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u306F\u306F\u3001\u304A\u4E92\u3044\u306B\u9650\u754C\u307F\u305F\u3044\u3060\u306D",
+        "localizations": {
+          "en": "Ahaha, looks like we\u0027re both at our limit!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "\u4F55\u304B\u98DF\u3079\u308B\u3082\u306E\u3042\u308B\u304B\u306A\uFF1F",
+        "localizations": {
+          "en": "I wonder if there\u0027s anything to eat?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "\u91CE\u83DC\u305F\u3063\u3077\u308A\u30B9\u30FC\u30D7",
+        "localizations": {
+          "en": "Vegetable-rich soup"
+        }
+      },
+      "2072370017": {
+        "text": "\u9078\u629E\u80A2",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "\u3046\u30FC\u3093\u3001\u67D3\u307F\u6E21\u308B\uFF5E\uFF01",
+        "localizations": {
+          "en": "Mmm, so soothing~!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "\u307A\u3053\u307A\u3053\u306E\u304A\u8179\u306B\u3082\u512A\u3057\u3044\u306D\uFF01",
+        "localizations": {
+          "en": "Just what my empty stomach needed!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "\u8EAB\u4F53\u306E\u8ABF\u5B50\u3092\u6574\u3048\u3001\u75B2\u52B4\u56DE\u5FA9\u306B\u52B9\u304F\u3001\n\u304A\u91CE\u83DC\u305F\u3063\u3077\u308A\u306E\u4E00\u54C1\u3060\u3088\uFF01",
+        "localizations": {
+          "en": "It\u0027s packed with vegetables to help regulate your body and recover from fatigue!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "\u304C\u3063\u3064\u308A\u304A\u8089\u30B5\u30F3\u30C9",
+        "localizations": {
+          "en": "Hearty meat sandwich"
+        }
+      },
+      "2072370017": {
+        "text": "\u9078\u629E\u80A2",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "\u4F53\u529B\u3092\u4F7F\u3063\u305F\u5206\u3060\u3051\u3001\u88DC\u308F\u306A\u3044\u3068\u306D\uFF01",
+        "localizations": {
+          "en": "Gotta replenish all that energy we used up!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "\u3046\u3093\u3001\u98DF\u3079\u5FDC\u3048\u305F\u3063\u3077\u308A\u3067\u7F8E\u5473\u3057\u3044\uFF5E\uFF01",
+        "localizations": {
+          "en": "Yum! It\u0027s so filling and delicious~!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "\u3046\u3001\u7FA8\u307E\u3057\u3044\u2026\u2026\u79C1\u3082\u98DF\u3079\u3088\uFF01",
+        "localizations": {
+          "en": "Ooh, I\u0027m jealous... I want some too!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "\u8EAB\u4F53\u3092\u4F5C\u308B\u30C1\u30FC\u30BA\u30EA\u30BE\u30C3\u30C8",
+        "localizations": {
+          "en": "Body-building cheese risotto"
+        }
+      },
+      "2072370017": {
+        "text": "\u9078\u629E\u80A2",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "\u307E\u308D\u3084\u304B\u3067\u512A\u3057\u3044\u5473\u3060\u306D\u2026\u2026",
+        "localizations": {
+          "en": "Such a mild, gentle flavor..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "\u5BB6\u306B\u5E30\u3063\u305F\u307F\u305F\u3044\u3067\u3001\u307B\u3063\u3068\u3059\u308B\u3088",
+        "localizations": {
+          "en": "It\u0027s so comforting, like being at home"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "\u9AA8\u3082\u7B4B\u8089\u3082\u80B2\u3080\u3001\u4E73\u88FD\u54C1\u305F\u3063\u3077\u308A\u3060\u304B\u3089\u306D",
+        "localizations": {
+          "en": "It\u0027s loaded with dairy to help build strong bones and muscles!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "\u306F\u3041\u2026\u2026\u3054\u3061\u305D\u3046\u3055\u307E\uFF01\u3000\u7F8E\u5473\u3057\u304B\u3063\u305F\uFF01",
+        "localizations": {
+          "en": "Ahh... Thanks for the meal! That was delicious!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "\u3088\u304B\u3063\u305F\uFF5E\u3002\u30A4\u30B6\u30CA\u3061\u3083\u3093\u306E\u8EAB\u4F53\u4F5C\u308A\u3092\n\u52A9\u3051\u3089\u308C\u308B\u5185\u5BB9\u306B\u3057\u305F\u3093\u3060\u3088",
+        "localizations": {
+          "en": "I\u0027m glad! I made sure to include things that would help with your training"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "\u935B\u932C\u306E\u5F8C\u306E\u98DF\u4E8B\u3063\u3066\u3044\u3046\u3068\u3001\u601D\u3044\u51FA\u3059\u306D",
+        "localizations": {
+          "en": "Post-training meals like this remind me of the old days"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "\u3078\u3068\u3078\u3068\u306E\u8EAB\u4F53\u3067\u30EC\u30B9\u30CA\u3061\u3083\u3093\u3061\u306E\n\u7A93\u306B\u58F0\u3092\u304B\u3051\u308B\u3068\u2026\u2026",
+        "localizations": {
+          "en": "When I\u0027d be totally exhausted and call up to your window..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "\u751F\u713C\u3051\u306E\u30AF\u30C3\u30AD\u30FC\u3084\n\u305C\u3093\u305C\u3093\u81A8\u3089\u3093\u3067\u306A\u3044\u30D1\u30F3\u3092\u4F5C\u3063\u3066\u305F\u308A\u3057\u3066",
+        "localizations": {
+          "en": "And you\u0027d have half-baked cookies or completely flat bread waiting"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u3001\u3042\u306E\u9803\u306F\u6599\u7406\u304C\u4E0B\u624B\u3060\u3063\u305F\u304B\u3089\uFF01\n\u4ECA\u306F\u3055\u3059\u304C\u306B\u305D\u3093\u306A\u3053\u3068\u306A\u3044\u3067\u3057\u3087\uFF1F",
+        "localizations": {
+          "en": "H-Hey, I was terrible at cooking back then!\nI\u0027m much better now, aren\u0027t I?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "\u3082\u3061\u308D\u3093\u3002\n\u30EC\u30B9\u30CA\u3061\u3083\u3093\u306E\u6599\u7406\u306F\u6700\u9AD8\u3060\u3082\u3093",
+        "localizations": {
+          "en": "Of course! Your cooking is the best now"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "\u30A2\u30BF\u30B7\u3060\u3063\u3066\u3001\u3042\u306E\u9803\u3088\u308A\u6210\u9577\u3057\u305F\u3088",
+        "localizations": {
+          "en": "I\u0027ve grown a lot since then too"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "\u4ECA\u65E5\u306F\u663C\u304B\u3089\u591C\u307E\u3067\u305A\u3063\u3068\n\u30CF\u30F3\u30DE\u30FC\u306E\u7D20\u632F\u308A\u306B\u8D70\u308A\u8FBC\u307F\u2026\u2026",
+        "localizations": {
+          "en": "Today I did hammer swings and running drills from noon until night..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3057\u3066\u591C\u306B\u306A\u3063\u3066\u304B\u3089\u3055\u3063\u304D\u307E\u3067\u3001\n\u8EAB\u4F53\u3065\u304F\u308A\u306B\u6253\u3061\u8FBC\u3093\u3067\u305F\u3093\u3060\uFF01",
+        "localizations": {
+          "en": "And then right up until now, I was doing strength training!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "\u304D\u3087\u3001\u9A5A\u5929\u52D5\u5730\u3060\u3088\u3001\u30A4\u30B6\u30CA\u3061\u3083\u3093\u2026\u2026",
+        "localizations": {
+          "en": "That\u0027s... absolutely incredible, Izana..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "\u3048\u3078\u3078\uFF01\u3000\u3059\u3054\u3044\u3067\u3057\u3087\uFF01",
+        "localizations": {
+          "en": "Hehe! Pretty amazing, right?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "\u3060\u3051\u3069\u3001\u5FC3\u914D\u3060\u306A\u3042\u2026\u2026",
+        "localizations": {
+          "en": "But I\u0027m a bit worried..."
+        }
+      },
+      "2072370017": {
+        "text": "\u9078\u629E\u80A2",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "\u3060\u3051\u3069\u3001\u5FC3\u914D\u3060\u306A\u3042\u2026\u2026\u3002\n\u3082\u3057\u304B\u3057\u3066\u3001\u935B\u932C\u306E\u5185\u5BB9\u304C\n\u504F\u3063\u3066\u305F\u308A\u3057\u3066\u306A\u3044\uFF1F",
+        "localizations": {
+          "en": "But I\u0027m a bit worried... Your training might be a little unbalanced?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "\u5B9F\u306F\u3001\u672C\u3067\u8AAD\u3093\u3060\u3093\u3060\u3051\u3069\u2026\u2026\n\u7B4B\u8089\u306B\u306F\u3001\u77AC\u767A\u529B\u306B\u9577\u3051\u305F\u3082\u306E\u3068\n\u9577\u6642\u9593\u306E\u904B\u52D5\u306B\u9577\u3051\u305F\u3082\u306E\u304C\u3042\u308B\u3093\u3060\u3063\u3066",
+        "localizations": {
+          "en": "I actually read in a book...\nThere are muscles suited for quick bursts of power,\nand others better for endurance"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u306E\u3069\u3061\u3089\u3082\u935B\u3048\u306A\u3044\u3068\u3001\n\u5747\u6574\u306E\u53D6\u308C\u305F\u7B4B\u8089\u306B\u306A\u3089\u306A\u3044\u307F\u305F\u3044",
+        "localizations": {
+          "en": "You need to train both types\nto develop balanced musculature"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "\u3046\u308F\u3042\u2026\u2026\u7B4B\u8089\u306B\u3082\u52C9\u5F37\u304C\u5FC5\u8981\u306A\u306E\uFF01\uFF1F\n\u52C9\u5F37\u306F\u982D\u304C\u3053\u3046\u3001\u308F\u3042\u3042\u3042\u3063\u3066\u306A\u3063\u3066\n\u3044\u3063\u3071\u3044\u3044\u3063\u3071\u3044\u306B\u306A\u308B\u304B\u3089\u5ACC\u306A\u306E\u306B\u30FC",
+        "localizations": {
+          "en": "Whaaaat... Even muscles need studying!?\nStudying makes my head go all fuzzy\nand I can\u0027t take anymore\u2014"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u306E\u6642\u9593\u3092\u935B\u932C\u306B\u56DE\u3057\u305F\u3044\u3093\u3060\u3051\u3069\u306A\u3042\u3002\n\u3067\u3082\u3001\u3053\u308C\u3082\u9A0E\u58EB\u8A66\u9A13\u3068\u4E00\u7DD2\u304B\u3042",
+        "localizations": {
+          "en": "I\u0027d rather spend that time training.\nBut I guess it\u0027s like the knight exam all over again"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "\u8A66\u9A13\u52C9\u5F37\u3068\u4E00\u7DD2\u306B\u7B4B\u8089\u52C9\u5F37\u3082\n\u3053\u308C\u304B\u3089\u306F\u3057\u3066\u3044\u304B\u306A\u3044\u3068\u306D\u3002\n\u7B4B\u8089\u7B4B\u8089\uFF01",
+        "localizations": {
+          "en": "I\u0027ll have to study muscles along with my exam prep.\nMuscles, muscles!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "\u5F37\u304F\u306A\u308B\u306E\u3082\u7D0D\u5F97\u3060\u306D\uFF01",
+        "localizations": {
+          "en": "No wonder you\u0027re getting stronger!"
+        }
+      },
+      "2072370017": {
+        "text": "\u9078\u629E\u80A2",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "\u3046\u3093\u3002\u5B9F\u611F\u304C\u4F34\u3063\u3066\u308B\u3088\u3002\n\u7B4B\u8089\u304C\u305F\u304E\u3063\u3066\u308B\u306E\u3092\u611F\u3058\u308B\u3082\u3093\uFF01",
+        "localizations": {
+          "en": "Yeah, I can really feel it!\nMy muscles are burning with energy!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "\u3060\u3051\u3069\u3001\u307E\u3060\u307E\u3060\u2026\u2026\uFF01\n\u30A2\u30BF\u30B7\u306E\u7B4B\u8089\u3061\u3083\u3093\u305F\u3061\u306F\n\u3082\u3063\u3068\u9811\u5F35\u308C\u308B\u3063\u3066\u8A00\u3063\u3066\u308B\uFF01",
+        "localizations": {
+          "en": "But it\u0027s not enough...!\nMy muscles are telling me\nthey can work even harder!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "\u30EA\u30E9\u3055\u3093\u306B\u306F\u304B\u306A\u308F\u306A\u304F\u3066\u3082\u3001\n\u305B\u3081\u3066\u8FFD\u3044\u3064\u304B\u306A\u3044\u3068\uFF01",
+        "localizations": {
+          "en": "I might not match up to Lila,\nbut I\u0027ve got to at least catch up!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 43,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u30A4\u30B6\u30CA\u3061\u3083\u3093\u2026\u2026\u304B\u3063\u3053\u3044\u3044\u306A\uFF09",
+        "localizations": {
+          "en": "(Izana... you\u0027re so cool)"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 44,
+    "properties": {
+      "999008199": {
+        "text": "\u30DE\u30C3\u30B5\u30FC\u30B8\u3059\u308B\u3088\uFF01",
+        "localizations": {
+          "en": "Let me give you a massage!"
+        }
+      },
+      "2072370017": {
+        "text": "\u9078\u629E\u80A2",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 45,
+    "properties": {
+      "999008199": {
+        "text": "\u30DE\u30C3\u30B5\u30FC\u30B8\u3059\u308B\u3088\u3001\u30A4\u30B6\u30CA\u3061\u3083\u3093\uFF01\n\u7B4B\u8089\u304C\u5F35\u3063\u3066\u308B\u304B\u3089\u3001\u307B\u3050\u3057\u3066\u3044\u304F\u306D",
+        "localizations": {
+          "en": "Let me give you a massage, Izana!\nYour muscles are all tense, I\u0027ll help loosen them up"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 46,
+    "properties": {
+      "999008199": {
+        "text": "\u307E\u305A\u306F\u811A\u304B\u3089\u2026\u2026\uFF01",
+        "localizations": {
+          "en": "Starting with your legs...!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 47,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u3063\u3002\u3048\u3063\u3001\u3061\u3087\u3063\u3068\u5F85\u3063\u3066\uFF01",
+        "localizations": {
+          "en": "Ah! W-wait a second!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 48,
+    "properties": {
+      "999008199": {
+        "text": "\u304F\u3059\u3050\u3063\u305F\u3044\u2026\u2026\u3042\u306F\u306F\u306F\u306F\uFF01",
+        "localizations": {
+          "en": "That tickles... ahahahaha!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 49,
+    "properties": {
+      "999008199": {
+        "text": "\u3082\u3046\uFF01\u3000\u30C0\u30E1\u3060\u3063\u3066\u3070\u30FC\u30FC\u30FC\u30FC\u30FC\uFF01\uFF01",
+        "localizations": {
+          "en": "Stop! I can\u0027t take it\u2014!!!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 50,
+    "properties": {
+      "999008199": {
+        "text": "\u30A4\u30B6\u30CA\u3061\u3083\u3093\uFF01\u3000\u5927\u4E08\u592B\uFF01\uFF1F",
+        "localizations": {
+          "en": "Izana! Are you okay!?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 51,
+    "properties": {
+      "999008199": {
+        "text": "\u3046\u3001\u3046\u3093\u2026\u2026\u5927\u5909\u3060\u3063\u305F\u3041",
+        "localizations": {
+          "en": "Y-yeah... that was intense..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 52,
+    "properties": {
+      "999008199": {
+        "text": "\u3068\u306B\u304B\u304F\u3001\u30A2\u30BF\u30B7\u306F\u3082\u3063\u3068\u3082\u3063\u3068\n\u5F37\u304F\u306A\u308B\u304B\u3089\u697D\u3057\u307F\u306B\u3057\u3066\u3066\u306D\uFF01",
+        "localizations": {
+          "en": "Anyway, I\u0027m going to keep getting stronger\nso look forward to it!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 53,
+    "properties": {
+      "999008199": {
+        "text": "\u660E\u65E5\u306F\u8AB0\u304B\u306B\u624B\u5408\u308F\u305B\u3092\u304A\u9858\u3044\u3057\u3088\u3046\u304B\u306A",
+        "localizations": {
+          "en": "Maybe I\u0027ll ask someone to spar with me tomorrow"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 54,
+    "properties": {
+      "999008199": {
+        "text": "\u2026\u2026\u3055\u3059\u304C\u306B\u3001\u6839\u3092\u8A70\u3081\u3059\u304E\u3058\u3083\u306A\u3044\u304B\u306A",
+        "localizations": {
+          "en": "...Aren\u0027t you pushing yourself too hard?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 55,
+    "properties": {
+      "999008199": {
+        "text": "\u3048\uFF1F",
+        "localizations": {
+          "en": "Huh?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 56,
+    "properties": {
+      "999008199": {
+        "text": "\u672C\u306B\u66F8\u3044\u3066\u3042\u3063\u305F\u3093\u3060\u3051\u3069\u306D",
+        "localizations": {
+          "en": "I read it in a book..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 57,
+    "properties": {
+      "999008199": {
+        "text": "\u7B4B\u8089\u306F\u3001\u935B\u3048\u305F\u3068\u304D\u3058\u3083\u306A\u304F\u3066\n\u4F11\u606F\u6642\u306B\u3053\u305D\u767A\u9054\u3059\u308B\u3093\u3060\u3063\u3066",
+        "localizations": {
+          "en": "Muscles actually develop during rest periods,\nnot during training"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 58,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u3001\u30EA\u30E9\u3055\u3093\u306B\u6559\u3048\u3066\u3082\u3089\u3063\u305F\u3053\u3068\u3068\n\u9055\u3063\u305F\u3089\u6C17\u306B\u3057\u306A\u304F\u3066\u3044\u3044\u3093\u3060\u3051\u3069\u2026\u2026\uFF01",
+        "localizations": {
+          "en": "Ah, but if that\u0027s different from what Lila taught you,\ndon\u0027t worry about it...!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 59,
+    "properties": {
+      "999008199": {
+        "text": "\u2026\u2026\u5FC3\u914D\u3057\u3066\u304F\u308C\u3066\u3001\u3042\u308A\u304C\u3068\u3046",
+        "localizations": {
+          "en": "...Thanks for worrying about me"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 60,
+    "properties": {
+      "999008199": {
+        "text": "\u3060\u3051\u3069\u3001\u30EA\u30E9\u3055\u3093\u304C\u8A00\u3063\u3066\u305F\u3093\u3060\n\u932C\u91D1\u8853\u58EB\u3068\u5171\u306B\u5728\u308D\u3046\u3068\u3059\u308B\u306E\u306F\u5927\u5909\u3063\u3066",
+        "localizations": {
+          "en": "But Lila told me that being with an alchemist\ncan be really challenging"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 61,
+    "properties": {
+      "999008199": {
+        "text": "\u304D\u3063\u3068\u3001\u30A2\u30F3\u30DA\u30EB\u3068\u306E\u65C5\u3067\n\u3044\u304F\u3064\u3082\u306E\u56F0\u96E3\u304C\u3042\u3063\u305F\u3093\u3060\u308D\u3046\u306D",
+        "localizations": {
+          "en": "She must have faced lots of difficulties\nwhile traveling with Empel"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 62,
+    "properties": {
+      "999008199": {
+        "text": "\u3060\u304B\u3089\u30A2\u30BF\u30B7\u3082\u3001\u30EC\u30B9\u30CA\u3061\u3083\u3093\u3092\u5B88\u308B\u305F\u3081\u306B\n\u5F37\u304F\u306A\u3089\u306A\u304D\u3083\u3063\u3066\u899A\u609F\u3092\u6C7A\u3081\u305F\u306E",
+        "localizations": {
+          "en": "That\u0027s why I\u0027m determined to get stronger\u2014\nso I can protect you"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 63,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u306E\u305F\u3081\u306E\u935B\u932C\u306F\u82E6\u3058\u3083\u306A\u3044\u3057\u3001\n\u884C\u3051\u308B\u5834\u6240\u304C\u5E83\u304C\u3063\u3066\u3001\u5B09\u3057\u3044\u3093\u3060\u3088",
+        "localizations": {
+          "en": "The training doesn\u0027t feel like a burden,\nand I\u0027m happy that I can go to more places now"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 64,
+    "properties": {
+      "999008199": {
+        "text": "\u30A4\u30B6\u30CA\u3061\u3083\u3093\u2026\u2026\u3042\u308A\u304C\u3068\u3046",
+        "localizations": {
+          "en": "Izana... thank you"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 65,
+    "properties": {
+      "999008199": {
+        "text": "\u3060\u304B\u3089\u306D\u3001\u4F9D\u983C\u304C\u4E00\u6BB5\u843D\u3057\u305F\u3089\n\u3069\u3053\u3078\u3060\u3063\u3066\u9023\u308C\u3066\u3044\u304F\u3088\uFF01",
+        "localizations": {
+          "en": "Once we\u0027re done with our current requests,\nI\u0027ll take you anywhere!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 66,
+    "properties": {
+      "999008199": {
+        "text": "\u884C\u304D\u305F\u3044\u5834\u6240\u3001\u3042\u308B\uFF1F",
+        "localizations": {
+          "en": "Is there somewhere you want to go?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 67,
+    "properties": {
+      "999008199": {
+        "text": "\u30CF\u30F3\u30DE\u30FC\u306B\u805E\u3053\u3046",
+        "localizations": {
+          "en": "Let\u0027s ask your hammer"
+        }
+      },
+      "2072370017": {
+        "text": "\u9078\u629E\u80A2",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 68,
+    "properties": {
+      "999008199": {
+        "text": "\u30CF\u30F3\u30DE\u30FC\u306B\u805E\u3053\u3046\uFF01\n\u30CF\u30F3\u30DE\u30FC\u3082\u30A4\u30B6\u30CA\u3061\u3083\u3093\u3068\u4E00\u7DD2\u306B\n\u9811\u5F35\u3063\u305F\u3093\u3060\u304B\u3089\u3001\u610F\u898B\u3092\u805E\u304B\u306A\u304F\u3061\u3083",
+        "localizations": {
+          "en": "Let\u0027s ask your hammer!\nIt\u0027s worked so hard with you,\nwe should hear its opinion too"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 69,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u308A\u304C\u3068\u3046\u3002\u304D\u3063\u3068\u559C\u3076\u3088",
+        "localizations": {
+          "en": "Thanks. I\u0027m sure it\u0027ll be happy"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 70,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u308C\u3058\u3083\u3001\u8033\u3092\u6F84\u307E\u305B\u3066\u2026\u2026",
+        "localizations": {
+          "en": "Now, let\u0027s listen carefully..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 71,
+    "properties": {
+      "999008199": {
+        "text": "\u30CF\u30F3\u30DE\u30FC\u3055\u3093\u3001\u30CF\u30F3\u30DE\u30FC\u3055\u3093\u3002\n\u3069\u3053\u306B\u884C\u304D\u305F\u3044\u3067\u3059\u304B\uFF1F",
+        "localizations": {
+          "en": "Mr. Hammer, Mr. Hammer.\nWhere would you like to go?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 72,
+    "properties": {
+      "999008199": {
+        "text": "\u30B1\u30FC\u30AD\u30E4\u30B5\u30F3\u30CB\u2026\u2026\u30A4\u30AD\u30BF\u30A4\u30CA\u2026\u2026",
+        "localizations": {
+          "en": "I... want to go... to the cake shop..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30CF\u30F3\u30DE\u30FC\uFF1F",
+        "localizations": {
+          "en": "Hammer?"
+        }
+      }
+    }
+  },
+  {
+    "id": 73,
+    "properties": {
+      "999008199": {
+        "text": "\u3093\uFF01\uFF1F\u3000\u4ECA\u306E\u3001\u30A4\u30B6\u30CA\u3061\u3083\u3093\u3060\u3088\u306D\uFF1F",
+        "localizations": {
+          "en": "Hm!? That was you just now, wasn\u0027t it, Izana?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 74,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u306F\u306F\u3001\u30D0\u30EC\u3061\u3083\u3063\u305F",
+        "localizations": {
+          "en": "Ahaha, you caught me"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 75,
+    "properties": {
+      "999008199": {
+        "text": "\u738B\u90FD\u306E\u751F\u5730\u5C4B",
+        "localizations": {
+          "en": "The capital\u0027s fabric shop"
+        }
+      },
+      "2072370017": {
+        "text": "\u9078\u629E\u80A2",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 76,
+    "properties": {
+      "999008199": {
+        "text": "\u738B\u90FD\u306E\u751F\u5730\u5C4B\u3055\u3093\u306B\u884C\u304D\u305F\u3044\u306A\u3002\n\u30B9\u30AB\u30FC\u30C8\u304C\u307B\u3064\u308C\u3061\u3083\u3063\u305F\u304B\u3089\u3001\n\u7E55\u3046\u751F\u5730\u304C\u6B32\u3057\u304F\u3066",
+        "localizations": {
+          "en": "I\u0027d like to go to the fabric shop in the capital.\nMy skirt has a tear, so\nI need some fabric to fix it"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 77,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u308C\u306A\u3089\u3001\u65B0\u3057\u3044\u306E\u4F5C\u3063\u3061\u3083\u304A\u3046\u3088\uFF01",
+        "localizations": {
+          "en": "In that case, let\u0027s make a new one!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 78,
+    "properties": {
+      "999008199": {
+        "text": "\u30EC\u30B9\u30CA\u3061\u3083\u3093\u304C\u6620\u3048\u308B\u3088\u3046\u306B\u3001\n\u30EC\u30FC\u30B9\u3084\u30D5\u30EA\u30EB\u3092\u3064\u3051\u305F\u3044\u306A\uFF5E",
+        "localizations": {
+          "en": "I want to add lace and frills\nto make you look even cuter~"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 79,
+    "properties": {
+      "999008199": {
+        "text": "\u3058\u3083\u3042\u79C1\u306F\u3001\u30A4\u30B6\u30CA\u3061\u3083\u3093\u306B\n\u30EA\u30DC\u30F3\u306E\u4ED8\u3051\u895F\u3092\u4F5C\u3063\u3061\u3083\u3044\u307E\u3059\uFF01",
+        "localizations": {
+          "en": "Then I\u0027ll make you a ribbon collar!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 80,
+    "properties": {
+      "999008199": {
+        "text": "\u3084\u3063\u305F\uFF01\u3000\u697D\u3057\u307F\uFF5E\uFF01",
+        "localizations": {
+          "en": "Yay! I can\u0027t wait~!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 81,
+    "properties": {
+      "999008199": {
+        "text": "\u30EC\u30B9\u30CA\u306E\u5BB6",
+        "localizations": {
+          "en": "Resna\u0027s house"
+        }
+      },
+      "2072370017": {
+        "text": "\u9078\u629E\u80A2",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 82,
+    "properties": {
+      "999008199": {
+        "text": "\u91CC\u5E30\u308A\uFF1F",
+        "localizations": {
+          "en": "Going back home?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 83,
+    "properties": {
+      "999008199": {
+        "text": "\u81EA\u5206\u306E\u90E8\u5C4B\u3067\u3001\u30A4\u30B6\u30CA\u3061\u3083\u3093\u3068\n\u306E\u3093\u3073\u308A\u904E\u3054\u3057\u305F\u3044\u306A",
+        "localizations": {
+          "en": "I want to relax with you\nin my room"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 84,
+    "properties": {
+      "999008199": {
+        "text": "\u3053\u3053\u306F\u4EBA\u306E\u51FA\u5165\u308A\u304C\u3042\u308B\u304B\u3089\u3001\n\u3061\u3087\u3063\u3068\u6065\u305A\u304B\u3057\u304F\u3066",
+        "localizations": {
+          "en": "It\u0027s a bit embarrassing here\nwith people coming and going"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 85,
+    "properties": {
+      "999008199": {
+        "text": "\u6614\u306F\u304A\u83D3\u5B50\u7247\u624B\u306B\u3001\u30B4\u30ED\u30B4\u30ED\u3057\u305F\u3088\u306D\uFF5E",
+        "localizations": {
+          "en": "We used to lounge around eating snacks back then~"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 86,
+    "properties": {
+      "999008199": {
+        "text": "\u540C\u3058\u90E8\u5C4B\u306B\u3044\u308B\u306E\u306B\u3001\n\u8AAD\u3093\u3067\u305F\u672C\u306F\u5225\u3005\u3060\u3063\u305F",
+        "localizations": {
+          "en": "We\u0027d be in the same room,\nbut reading different books"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 87,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u306E\u3046\u3061\u3001\u3046\u3068\u3046\u3068\u3057\u3061\u3083\u3063\u3066\u306D",
+        "localizations": {
+          "en": "And then we\u0027d start dozing off..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 88,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u305D\u3046\uFF01",
+        "localizations": {
+          "en": "Yeah, exactly!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 89,
+    "properties": {
+      "999008199": {
+        "text": "\u3060\u3051\u3069\u3001\u307E\u305A\u306F\u6C17\u306B\u306A\u3063\u3066\u305F\u63A1\u53D6\u5730\u304B\u306A",
+        "localizations": {
+          "en": "But first, I want to check out that gathering spot I was curious about"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 90,
+    "properties": {
+      "999008199": {
+        "text": "\u3046\u3093\u3002\u305D\u308C\u3058\u3083\u3001\u307E\u305F\u660E\u65E5\u3002\u304A\u3084\u3059\u307F\uFF01",
+        "localizations": {
+          "en": "Sure. Well then, see you tomorrow. Good night!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 91,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u5B09\u3057\u304F\u3063\u3066\u304A\u9858\u3044\u3057\u3061\u3083\u3063\u305F\u3051\u3069\u2026\u2026\uFF09",
+        "localizations": {
+          "en": "(I got excited and made plans, but...)"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 92,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u304A\u4F11\u307F\u306A\u3057\u3067\u3001\u5927\u4E08\u592B\u304B\u306A\u3042\uFF09",
+        "localizations": {
+          "en": "(I hope she\u0027ll be okay without taking a break)"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 93,
+    "properties": {
+      "999008199": {
+        "text": "\u5F37\u304F\u306A\u308B\u306E\u3082\u7D0D\u5F97\u3060\u306D\uFF01",
+        "localizations": {
+          "en": "No wonder you\u0027re getting stronger!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 94,
+    "properties": {
+      "999008199": {
+        "text": "\u30D5\u30EA\u30FC\u30B2\u30F3\u306E\u3001\u79C1\u306E\u5BB6\u306F\u3069\u3046\u304B\u306A\uFF1F",
+        "localizations": {
+          "en": "How about my house in Fliegen?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30EC\u30B9\u30CA",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  }
+]

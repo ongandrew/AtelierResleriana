@@ -1,0 +1,112 @@
+[
+  {
+    "id": 2703,
+    "description": "The amount of synthesis materials obtained increases based on your Memoria ownership status. The bonus amount increases with each Memoria's release rank, and for duplicate Memoria, release ranks are combined up to rank V.",
+    "name": "Memoria Bonus"
+  },
+  {
+    "id": 2804,
+    "description": "You can challenge battles by renting characters and Memoria suitable for battle. Since the rewards don't change, try challenging with a rental party and synthesis items when you find it difficult.",
+    "name": "Rental Party"
+  },
+  {
+    "id": 3105,
+    "description": "Recipes marked with \"Bonus\" are featured recipes. During the feature period, there's a higher chance of creating high rarity synthesis items and getting high-level traits.",
+    "name": "Recipe Pick-up"
+  },
+  {
+    "id": 3106,
+    "description": "In \"Popular Compositions,\" you can check popular recipes for each item. You can also rent unowned characters that appear in the top 3 positions up to 10 times per day for synthesis.",
+    "name": "Popular Recipes & Rental Synthesis"
+  },
+  {
+    "id": 3207,
+    "description": "When synthesizing, you have a chance to obtain Trait Catalysts for traits that are candidates for application. Using these Trait Catalysts increases the chance of the corresponding trait being applied to the synthesis item.",
+    "name": "Trait Catalyst"
+  },
+  {
+    "id": 5801,
+    "description": "This is a ranking content where you compete in score battles. You can obtain various rewards based on your ranking position.",
+    "name": "Legend Challenge"
+  },
+  {
+    "id": 5802,
+    "description": "You can only challenge one battle per event, and the score evaluation criteria are the same as score battles. Keep challenging to aim for a higher score!",
+    "name": "Score Calculation"
+  },
+  {
+    "id": 5803,
+    "description": "After the event period ends, you can receive rewards based on your ranking. Ranking rewards will be distributed via mail after you log in again following the end of the period.",
+    "name": "Ranking Rewards"
+  },
+  {
+    "id": 5901,
+    "description": "By giving synthesis items as presents, you can increase your intimacy level. As intimacy increases, conversation scenes may occur and you may receive gifts from characters.",
+    "name": "Present"
+  },
+  {
+    "id": 5902,
+    "description": "You can check which synthesis items can be given as presents from the \"Synthesize Presents\" menu.",
+    "name": "Presentable Synthesis Items"
+  },
+  {
+    "id": 5903,
+    "description": "The friendship points required to increase intimacy are determined by the type and quality of the synthesis items given as presents.",
+    "name": "Earning Friendship Points"
+  },
+  {
+    "id": 6001,
+    "description": "Characters who have awakened to 6★ can evolve their skills. By evolving skills, their effects and power will increase, becoming more powerful.",
+    "name": "Skill Evolution"
+  },
+  {
+    "id": 6002,
+    "description": "By evolving all three skills - Skill 1, Skill 2, and Burst Skill - a third ability will be unlocked.",
+    "name": "Skill Evolution"
+  },
+  {
+    "id": 4340301,
+    "description": "Skill 2 has charge indicators, and when 3 are lit, after attacking, boosts all allies' skill damage and Bolt skill damage, and also grants all allies Evasion (fixed 70% chance)!\nNote: Trial battles are at max level, max awakening stage, and full Grow Board release",
+    "name": "Juna \"Starry Beauty\" Bolt | Defender"
+  },
+  {
+    "id": 4340302,
+    "description": "When Skill 2 has less than 3 charge indicators lit:\n- Lights 1 indicator after attacking with Skill 2!\n- Lights 1 indicator when self obtains a panel or takes damage!",
+    "name": "Juna \"Starry Beauty\" Bolt | Defender"
+  },
+  {
+    "id": 4340303,
+    "description": "Before attacking with Burst Skill, removes all negative effects from all allies! After attacking, restores 15% HP to all allies and grants all allies Evasion (fixed 100% chance) until they take 1 attack!",
+    "name": "Juna \"Starry Beauty\" Bolt | Defender"
+  },
+  {
+    "id": 4340304,
+    "description": "- How to Fight -\n- Light up charge indicators and use Skill 2 to boost all allies' skill damage!\n- Use Burst Skill to grant all allies Evasion to protect them from enemy attacks!",
+    "name": "Juna \"Starry Beauty\" Bolt | Defender"
+  },
+  {
+    "id": 4500101,
+    "description": "With this ability, when using a battle item, grants self Force Stun until end of action! (Maximum 3 activations)\nNote: Trial battles are at max level, max awakening stage, and full Grow Board release",
+    "name": "Klicessa \"Ambitious Alchemist\" Bolt | Breaker"
+  },
+  {
+    "id": 4500102,
+    "description": "Additionally, when an attack target becomes stunned by using Skill 1 or Skill 2, converts or creates all panels except burst panels for all allies into Wisdom Release panels!",
+    "name": "Klicessa \"Ambitious Alchemist\" Bolt | Breaker"
+  },
+  {
+    "id": 4500103,
+    "description": "Wisdom Release panels: When self obtains one, allows Burst Skill activation! When an ally obtains one, boosts their skill power and all allies' M.ATK! When an enemy obtains one, increases their magic attack damage received!",
+    "name": "Klicessa \"Ambitious Alchemist\" Bolt | Breaker"
+  },
+  {
+    "id": 4500104,
+    "description": "Before attacking with Burst Skill, reduces target's Bolt resistance by 35%! After attacking, boosts target's Bolt damage received by 75%! (MAX 150%) When the target is stunned, increases the effect from boost panels for all allies!",
+    "name": "Grisella \"Ambitious Alchemist\" Bolt | Breaker"
+  },
+  {
+    "id": 4500105,
+    "description": "- How to Fight -\nUse battle items to stun powerful enemies with large stun gauges!\nCollect burst panels to activate the Burst Skill and support your allies' attacks!",
+    "name": "Grisella \"Ambitious Alchemist\" Bolt | Breaker"
+  }
+]

@@ -1,0 +1,444 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u3063\uFF01\u3000\u3042\u306A\u305F\u3001\u3082\u3057\u304B\u3057\u3066\u5642\u306E\u932C\u91D1\u8853\u58EB\u306E\u2026\u2026",
+        "localizations": {
+          "en": "Oh! Could you be those famous alchemists...?"
+        }
+      },
+      "2072370017": {
+        "text": "\u5973\u6027",
+        "localizations": {
+          "en": "Woman"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "\u3093\uFF1F",
+        "localizations": {
+          "en": "Hmm?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30EB\u30E1\u30EA\u30A2",
+        "localizations": {
+          "en": "Ilmeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "\u3082\u3057\u304B\u3057\u3066\u3001\u30A4\u30EB\u30E1\u30EA\u30A2\u3061\u3083\u3093\u3068\u30D5\u30A3\u30EA\u30B9\u3061\u3083\u3093\u304B\uFF01\uFF1F\n\u5929\u624D\u3060\u3063\u3066\u5642\u3060\u3088\u306A",
+        "localizations": {
+          "en": "Could it be Ilmeria and Firis!?\nI heard you\u0027re both geniuses!"
+        }
+      },
+      "2072370017": {
+        "text": "\u7537\u6027",
+        "localizations": {
+          "en": "Man"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "\u3044\u304B\u306B\u3082\u3002\u30A2\u30BF\u30B7\u304C\u30A4\u30EB\u30E1\u30EA\u30A2\u3002\n\u4ECA\u3092\u3068\u304D\u3081\u304F\u3001\u8D85\u4E00\u6D41\u306E\u5929\u624D\u932C\u91D1\u8853\u58EB\u3088\uFF01",
+        "localizations": {
+          "en": "Indeed! I am Ilmeria.\nThe most brilliant genius alchemist of our time!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30EB\u30E1\u30EA\u30A2",
+        "localizations": {
+          "en": "Ilmeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "\u304D\u3083\u30FC\u3001\u5B9F\u7269\u898B\u308C\u3061\u3083\u3063\u305F\uFF01\n\u53CB\u9054\u306B\u81EA\u6162\u3057\u3088\u30FC\u3063\u3068",
+        "localizations": {
+          "en": "Kyaa! I can\u0027t believe I got to see them in person!\nI have to tell my friends about this!"
+        }
+      },
+      "2072370017": {
+        "text": "\u5973\u6027",
+        "localizations": {
+          "en": "Woman"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "\u3075\u3075\u2026\u2026\u30A2\u30BF\u30B7\u305F\u3061\u304C\u5929\u624D\u3060\u3063\u3066\u5642\u306F\n\u7740\u3005\u3068\u5E83\u307E\u3063\u3066\u3044\u308B\u3088\u3046\u306D",
+        "localizations": {
+          "en": "Hehe... Word of our genius seems to be\nspreading quite nicely."
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30EB\u30E1\u30EA\u30A2",
+        "localizations": {
+          "en": "Ilmeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "\u3067\u3082\u3001\u3059\u3063\u304B\u308A\u82B8\u4EBA\u3063\u3066\u8A55\u5224\u306F\u306A\u304F\u306A\u3063\u3061\u3083\u3063\u305F\u306D\u3002\n\u305D\u308C\u306F\u305D\u308C\u3067\u306A\u3093\u3060\u304B\u5BC2\u3057\u3044\u306A\u3042",
+        "localizations": {
+          "en": "But everyone\u0027s stopped calling us comedians now.\nIt feels a bit lonely, somehow..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30D5\u30A3\u30EA\u30B9",
+        "localizations": {
+          "en": "Firis"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "\u6D41\u884C\u308A\u3082\u306E\u306A\u3093\u3066\u3001\u307F\u3093\u306A\u71B1\u3057\u3084\u3059\u304F\u51B7\u3081\u3084\u3059\u3044\u306E\u3088\u3002\n\u304D\u3063\u3068\u6765\u5E74\u306B\u306A\u3063\u305F\u3089\u8AB0\u3082\u899A\u3048\u3066\u3044\u306A\u3044\u308F",
+        "localizations": {
+          "en": "Trends come and go, you know.\nBy next year, everyone will have forgotten about it."
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30EB\u30E1\u30EA\u30A2",
+        "localizations": {
+          "en": "Ilmeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u3001\u3042\u306A\u305F\u306F\u2026\u2026\uFF01",
+        "localizations": {
+          "en": "Oh, you\u0027re...!"
+        }
+      },
+      "2072370017": {
+        "text": "\u5192\u967A\u8005",
+        "localizations": {
+          "en": "Adventurer"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u3089\u3001\u307E\u305F\u30A2\u30BF\u30B7\u305F\u3061\u3092\u77E5\u3063\u3066\u3044\u308B\u4EBA\u304C\u2026\u2026",
+        "localizations": {
+          "en": "My, another person who knows us..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30EB\u30E1\u30EA\u30A2",
+        "localizations": {
+          "en": "Ilmeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "\u3082\u3057\u304B\u3057\u3066\u3001\u30A6\u30A7\u30EB\u30C6\u30C3\u30AF\u30B9\u8A0E\u4F10\u6226\u306B\u53C2\u52A0\u3057\u305F\u3068\u3044\u3046\u3001\n\u30D5\u30A3\u30EA\u30B9\u3055\u3093\u3067\u3059\u304B\uFF01\uFF1F",
+        "localizations": {
+          "en": "Could you be Firis, the one who participated\nin the battle against the Weltex!?"
+        }
+      },
+      "2072370017": {
+        "text": "\u5192\u967A\u8005",
+        "localizations": {
+          "en": "Adventurer"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "\u2026\u2026\u3093\uFF1F",
+        "localizations": {
+          "en": "...Huh?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30EB\u30E1\u30EA\u30A2",
+        "localizations": {
+          "en": "Ilmeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u3001\u306F\u3044\u3002\u305D\u3046\u3067\u3059\u3051\u3069\u2026\u2026",
+        "localizations": {
+          "en": "Oh, yes, that\u0027s me, but..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30D5\u30A3\u30EA\u30B9",
+        "localizations": {
+          "en": "Firis"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u306E\u30A6\u30A7\u30EB\u30C6\u30C3\u30AF\u30B9\u306B\u7ACB\u3061\u5411\u304B\u3046\u306A\u3093\u3066\u3001\n\u306A\u3093\u3066\u52C7\u6C17\u306E\u3042\u308B\u304A\u65B9\u3060\uFF01",
+        "localizations": {
+          "en": "To face the Weltex like that...\nWhat an incredibly brave person!"
+        }
+      },
+      "2072370017": {
+        "text": "\u5192\u967A\u8005",
+        "localizations": {
+          "en": "Adventurer"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "\u3044\u3084\u3042\u3001\u7D20\u6674\u3089\u3057\u3044\u6D3B\u8E8D\u3092\u3057\u305F\u6226\u95D8\u306E\u5929\u624D\u3060\u3068\n\u8033\u306B\u3057\u307E\u3057\u305F\u3088\uFF01\u3000\u5192\u967A\u8005\u3068\u3057\u3066\u61A7\u308C\u306A\u3093\u3067\u3059\uFF01",
+        "localizations": {
+          "en": "I\u0027ve heard all about how you\u0027re a combat genius\nwith amazing achievements! You\u0027re my role model as an adventurer!"
+        }
+      },
+      "2072370017": {
+        "text": "\u5192\u967A\u8005",
+        "localizations": {
+          "en": "Adventurer"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "\u63E1\u624B\u3044\u3044\u3067\u3059\u304B\uFF01\uFF1F",
+        "localizations": {
+          "en": "May I shake your hand!?"
+        }
+      },
+      "2072370017": {
+        "text": "\u5192\u967A\u8005",
+        "localizations": {
+          "en": "Adventurer"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "\u3048\u3048\u3063\uFF01\uFF1F\u3000\u6226\u95D8\u306E\u5929\u624D\u3060\u306A\u3093\u3066\u3001\u305D\u3093\u306A\u2026\u2026",
+        "localizations": {
+          "en": "Ehh!? A combat genius? That\u0027s not..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30D5\u30A3\u30EA\u30B9",
+        "localizations": {
+          "en": "Firis"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "\u2026\u2026\u3069\u3046\u3044\u3046\u3053\u3068\u3088",
+        "localizations": {
+          "en": "...What is the meaning of this?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30EB\u30E1\u30EA\u30A2",
+        "localizations": {
+          "en": "Ilmeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "\u3048\u2026\u2026\u30A4\u30EB\u3061\u3083\u3093\u3001\u3069\u3046\u3057\u305F\u306E\uFF1F",
+        "localizations": {
+          "en": "Um... Ilmeria, what\u0027s wrong?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D5\u30A3\u30EA\u30B9",
+        "localizations": {
+          "en": "Firis"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "\u3069\u3046\u3044\u3046\u3053\u3068\u3088\uFF01\u3000\u6226\u95D8\u306E\u5929\u624D\u3063\u3066\uFF01",
+        "localizations": {
+          "en": "What is this about being a combat genius!?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30EB\u30E1\u30EA\u30A2",
+        "localizations": {
+          "en": "Ilmeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "\u524D\u306B\u3001\u9802\u7363\u3063\u3066\u3044\u3046\u9B54\u7269\u3068\u6226\u3063\u305F\u3060\u3051\u3060\u3088\u3002\n\u5225\u306B\u308F\u305F\u3057\u3060\u3051\u3067\u5012\u3057\u305F\u308F\u3051\u3058\u3083\u306A\u304F\u3066\u2026\u2026",
+        "localizations": {
+          "en": "I just fought against an Apex Beast before.\nI didn\u0027t even defeat it by myself..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30D5\u30A3\u30EA\u30B9",
+        "localizations": {
+          "en": "Firis"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "\u7D4C\u7DEF\u306F\u3069\u3046\u3060\u3063\u3066\u3044\u3044\u306E\uFF01\n\u3042\u306A\u305F\u3060\u3051\u304C\u6226\u95D8\u306E\u5929\u624D\u3068\u547C\u3070\u308C\u3066\u308B\u306E\u304C\u554F\u984C\u306A\u306E\uFF01",
+        "localizations": {
+          "en": "I don\u0027t care about the details!\nThe problem is that you\u0027re the only one being called a combat genius!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30EB\u30E1\u30EA\u30A2",
+        "localizations": {
+          "en": "Ilmeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "\u3053\u3046\u3057\u3061\u3083\u3044\u3089\u308C\u306A\u3044\u308F\u3002\n\u30A2\u30BF\u30B7\u3082\u3001\u540D\u3092\u99B3\u305B\u308B\u3093\u3060\u304B\u3089",
+        "localizations": {
+          "en": "This won\u0027t do at all.\nI\u0027ll make a name for myself too!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30EB\u30E1\u30EA\u30A2",
+        "localizations": {
+          "en": "Ilmeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "\u6226\u95D8\u306E\u5929\u624D\u3068\u3057\u3066\uFF01\uFF01",
+        "localizations": {
+          "en": "As a combat genius!!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30EB\u30E1\u30EA\u30A2",
+        "localizations": {
+          "en": "Ilmeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "\u3048\u3048\u3048\u3063\uFF01\uFF1F",
+        "localizations": {
+          "en": "Ehhh!?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30D5\u30A3\u30EA\u30B9",
+        "localizations": {
+          "en": "Firis"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "\u3055\u3042\u3001\u9B54\u7269\u3092\u5012\u3057\u307E\u304F\u308B\u308F\u3088\uFF01\uFF01\uFF01",
+        "localizations": {
+          "en": "Come on, let\u0027s go defeat tons of monsters!!!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30EB\u30E1\u30EA\u30A2",
+        "localizations": {
+          "en": "Ilmeria"
+        }
+      }
+    }
+  }
+]

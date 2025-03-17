@@ -1,0 +1,716 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "魔物は無事に撃退できたみたいですね",
+        "localizations": {
+          "en": "Looks like we managed to drive off those monsters."
+        }
+      },
+      "2072370017": {
+        "text": "プラフタ",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "ほら、言ったでしょ。あの程度の魔物なら\nレスナたちの敵じゃないって",
+        "localizations": {
+          "en": "See? What did I tell you? Those small fry were no match for Resna and the others."
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "ええ、心配は無用でした",
+        "localizations": {
+          "en": "Indeed. There was no need for concern."
+        }
+      },
+      "2072370017": {
+        "text": "プラフタ",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "ちぇー。どうせ襲ってくるなら、こっちの船に\nすればいいのに",
+        "localizations": {
+          "en": "Ugh, if they were gonna attack anyway, they could've at least picked our ship..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "そんなに身体を動かしてぇんなら、船の仕事を手伝え。\n働かざる者、食うべからずだぞ！",
+        "localizations": {
+          "en": "If you're that eager to move around, help out with the ship work! No freeloaders!"
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "もー。私は二重に記憶喪失なんだから、\nもっと優しくしてほしいわ",
+        "localizations": {
+          "en": "Come on! I've got double amnesia, you could be a little nicer to me!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "記憶喪失だろうがなんだろうが関係ねぇな。\nいいから手伝いなさい！\u3000おさぼりは許しませんよ！",
+        "localizations": {
+          "en": "Amnesia or not, that's no excuse. Now get to work! No slacking off!"
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "はぁーい",
+        "localizations": {
+          "en": "Fiiine..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "（――私が「ヴァレリア」として\n\u3000生まれてから、１年が経った）",
+        "localizations": {
+          "en": "(It's been a year since I was... reborn as 'Valeria.')"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "（目が覚めた時、私は「ヴァレリア」の\n\u3000記憶をすべて失っていた……）",
+        "localizations": {
+          "en": "(When I woke up, all my memories as Valeria were gone...)"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "（まだ記憶は戻っていないから、私の中には\n\u3000この１年分の記憶しかない）",
+        "localizations": {
+          "en": "(My memories still haven't returned. All I have are the memories from this past year.)"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "（私の家族だという\n\u3000ハイディ、フロッケ、ランツェ）",
+        "localizations": {
+          "en": "(The people who call themselves my family—Heidi, Flocke, and Lanze.)"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "（そして、レスナ……）",
+        "localizations": {
+          "en": "(And Resna...)"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "（みんなと一緒に過ごした時間は短いけど）",
+        "localizations": {
+          "en": "(Though the time I've spent with everyone has been short...)"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "（「ヴァレリア」がどれほど大切な存在だったのか。\n\u3000私に向けられる笑顔を見れば分かる）",
+        "localizations": {
+          "en": "(I can tell from their smiles just how important this 'Valeria' was to them all.)"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "（今回の旅に参加を名乗り出たのも、そんなみんなの\n\u3000力に少しでもなりたいって思ったから）",
+        "localizations": {
+          "en": "(That's why I volunteered for this journey—I wanted to help everyone, even if just a little.)"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "（そうすることで……\n\u3000私が何者なのかを、少しでも見つけ出せたら）",
+        "localizations": {
+          "en": "(And maybe... maybe I'll discover who I really am along the way.)"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "「ヴァレリア」か……",
+        "localizations": {
+          "en": "'Valeria,' huh..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "相棒！",
+        "localizations": {
+          "en": "Partner!"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "（私が記憶を取り戻したら、\n\u3000みんなもっと喜んでくれるわよね）",
+        "localizations": {
+          "en": "(If I get my memories back, everyone would be so happy.)"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "（まあ、焦らなくていいって、\n\u3000レスナもハイディも言ってくれてるけど）",
+        "localizations": {
+          "en": "(Though Resna and Heidi keep telling me not to rush things.)"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "（いつか戻るといいな）",
+        "localizations": {
+          "en": "(I hope they come back someday.)"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "ヴァレリアさん",
+        "localizations": {
+          "en": "Valeria?"
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "えっ？\u3000あ、フロッケ……",
+        "localizations": {
+          "en": "Huh? Oh, Flocke..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "ぼーっとしてましたけど、大丈夫ですか？",
+        "localizations": {
+          "en": "You seemed lost in thought. Are you alright?"
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "もしかして、お腹空きました？",
+        "localizations": {
+          "en": "Are you hungry perhaps?"
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "ううん、大丈夫。ちょっと一仕事してくる！",
+        "localizations": {
+          "en": "No, I'm fine. Just going to get some work done!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "よっこい……ん？\nなんかこのたる、すごいベトベトしてる……",
+        "localizations": {
+          "en": "Heave-ho... Hm? This barrel feels really sticky..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "ランツェ！\u3000このたるって中身なんだっけ",
+        "localizations": {
+          "en": "Lanze! What's in this barrel again?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "船の燃料だ。そろそろ補充の時間だから、\n中に運んどいてくれ",
+        "localizations": {
+          "en": "That's ship fuel. It's about time to refill, so take it below deck."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "風がなくても動く船なんて、すごいですよね",
+        "localizations": {
+          "en": "It's amazing how the ship moves without wind, isn't it?"
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "ああ。おかげで進む速さも段違いだ。\n錬金術さまさまだな",
+        "localizations": {
+          "en": "Sure is. We're moving way faster than normal ships. Thank the alchemists for that."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "う、燃料の話をしていたら、私のお腹も減ってきた",
+        "localizations": {
+          "en": "Ugh, all this talk about fuel is making me hungry..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "そうだと思って、ご飯を持ってきましたよ",
+        "localizations": {
+          "en": "I thought you might say that, so I brought you some food!"
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "わーー、ありがとう！",
+        "localizations": {
+          "en": "Yaaay, thank you!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "天使ちゃんもさまさまだ",
+        "localizations": {
+          "en": "Bless you, little angel."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "異邦人の錬金術士。\n錬金術への探求心が強く、日々研究に没頭している",
+        "localizations": {
+          "en": "A wanderer and alchemist. Her strong drive for alchemical research keeps her devoted to daily studies."
+        }
+      },
+      "2072370017": {
+        "text": "プラフタ",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "王国のカフェ「星の繭」で働いていた錬金術士。\n冒険が好きで、カフェを飛び出しこの旅に同行した",
+        "localizations": {
+          "en": "An alchemist who worked at the kingdom's café, the Star's Cocoon. Her love of adventure led her to leave the café and join this journey."
+        }
+      },
+      "2072370017": {
+        "text": "ライザリン・シュタウト",
+        "localizations": {
+          "en": "Reisalin Stout"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "王国では少し名の知れた船乗り。かつては飲んだくれの\nダメ人間だったが、今では改心し頼れる船長となった",
+        "localizations": {
+          "en": "A well-known sailor in the kingdom. Once a good-for-nothing drunkard, he's now reformed into a reliable captain."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ・ダッハ",
+        "localizations": {
+          "en": "Lanze Dach"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "レスナと旅を共にする冒険者。昔の記憶を失っている。\n戦闘技術は確かだが、頭を使うのは少し苦手",
+        "localizations": {
+          "en": "An adventurer traveling with Resna who has lost her memories. Though skilled in combat, she struggles with tasks requiring careful thought."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "心優しき行商人の少女。\nヴァレリアやランツェたちと一緒に暮らしている",
+        "localizations": {
+          "en": "A kind-hearted young traveling merchant. Lives together with Valeria, Lanze, and the others."
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ・チェルハ",
+        "localizations": {
+          "en": "Flocke Cerha"
+        }
+      }
+    }
+  }
+]

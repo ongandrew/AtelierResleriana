@@ -1,0 +1,3347 @@
+[
+  {
+    "id": 3000240,
+    "description": "Boosts Bolt skill power by {0}%",
+    "popup_text": ""
+  },
+  {
+    "id": 3000244,
+    "description": "Boosts Ice skill power by {0}%",
+    "popup_text": ""
+  },
+  {
+    "id": 3000246,
+    "description": "Boosts Air skill power by {0}%",
+    "popup_text": ""
+  },
+  {
+    "id": 3000321,
+    "description": "Boosts Slash skill power by {0}%",
+    "popup_text": ""
+  },
+  {
+    "id": 3000322,
+    "description": "Boosts Strike skill power by {0}%",
+    "popup_text": ""
+  },
+  {
+    "id": 3000323,
+    "description": "Boosts Stab skill power by {0}%",
+    "popup_text": ""
+  },
+  {
+    "id": 3000324,
+    "description": "Boosts Fire skill power by {0}%",
+    "popup_text": ""
+  },
+  {
+    "id": 3000325,
+    "description": "Boosts potency of 'Slash resistance down' effects given to target by {0}%",
+    "popup_text": ""
+  },
+  {
+    "id": 3000326,
+    "description": "Boosts potency of 'Strike resistance down' effects given to target by {0}%",
+    "popup_text": ""
+  },
+  {
+    "id": 3000327,
+    "description": "Boosts potency of 'Air resistance down' effects given to target by {0}%",
+    "popup_text": ""
+  },
+  {
+    "id": 6000924,
+    "description": "When self is Defender, at the start of battle, grants 'Recover HP when taking damage' to all allies until taking 1 attack",
+    "popup_text": ""
+  },
+  {
+    "id": 6000925,
+    "description": "Boosts M.DEF of all allies with 'Lantarna' tag",
+    "popup_text": ""
+  },
+  {
+    "id": 6000926,
+    "description": "When preferred element is Bolt, after attacking, grants 'Damage Down' to target until the end of their action (1 time)",
+    "popup_text": ""
+  },
+  {
+    "id": 6000927,
+    "description": "When preferred element is Bolt and role is Defender, evade when taking damage",
+    "popup_text": ""
+  },
+  {
+    "id": 6000928,
+    "description": "When preferred element is Bolt and role is Defender, reduces damage received",
+    "popup_text": ""
+  },
+  {
+    "id": 6000933,
+    "description": "When preferred element is Bolt and role is Breaker, boosts stun damage on WEAK attacks",
+    "popup_text": ""
+  },
+  {
+    "id": 6000934,
+    "description": "When self is Breaker and target is stunned, recover item gauge",
+    "popup_text": ""
+  },
+  {
+    "id": 6000935,
+    "description": "When target is stunned, after attacking, grants 'Recover HP after using skill' to all allies until the end of their action (up to 3 stacks)",
+    "popup_text": ""
+  },
+  {
+    "id": 6000936,
+    "description": "Grants 'Stun damage received up' to all enemies until taking 2 attacks",
+    "popup_text": ""
+  },
+  {
+    "id": 6000937,
+    "description": "When target is stunned, after attacking, grants 'Recover HP after using skill' to all allies until the end of their action (up to 3 stacks)",
+    "popup_text": ""
+  },
+  {
+    "id": 6000938,
+    "description": "While equipped to an Attacker with Ice affinity, boosts critical damage from single-target attacks.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000939,
+    "description": "While equipped to an Attacker with Ice affinity, when landing a critical hit, boosts own M.ATK until action ends (1 time).",
+    "popup_text": ""
+  },
+  {
+    "id": 6000940,
+    "description": "While equipped to an Attacker with Ice affinity, when landing a critical hit, boosts own skill damage until action ends (1 time).",
+    "popup_text": ""
+  },
+  {
+    "id": 6000941,
+    "description": "While equipped to a character with Ice affinity and HP is 70% or higher, boosts own skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000942,
+    "description": "While equipped to a Supporter with Slash affinity, after using a skill, grants \"Burst Skill Damage Up\" to the ally with highest P.ATK until action ends (1 time, non-stackable).",
+    "popup_text": ""
+  },
+  {
+    "id": 6000943,
+    "description": "While equipped to a Supporter with Slash affinity, after using a skill, grants \"Burst Skill Damage Up\" to the ally with highest P.ATK until action ends (1 time, non-stackable).",
+    "popup_text": ""
+  },
+  {
+    "id": 6000944,
+    "description": "While equipped to a Supporter with Bolt affinity, after using a skill, grants \"Weak Attack Damage Up\" to the ally with highest M.ATK until action ends (1 time, non-stackable).",
+    "popup_text": ""
+  },
+  {
+    "id": 6000945,
+    "description": "While equipped to a Supporter with Bolt affinity, after using a skill, grants \"Weak Attack Damage Up\" to the ally with highest M.ATK until action ends (1 time, non-stackable).",
+    "popup_text": ""
+  },
+  {
+    "id": 6000946,
+    "description": "While equipped to a Breaker with Ice affinity and target is stunned, after attacking, grants \"Critical Damage Received Up\" to target until they take 2 hits.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000947,
+    "description": "While equipped to a Breaker with Ice affinity, boosts Skill 2 stun damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000948,
+    "description": "While equipped to a character with Ice affinity, after a weakness attack, grants \"Stun Damage Up\" to self (up to 30%).",
+    "popup_text": ""
+  },
+  {
+    "id": 6000949,
+    "description": "While equipped to a character with Ice affinity, after a weakness attack, grants \"Stun Damage Up\" to self (up to 25%).",
+    "popup_text": ""
+  },
+  {
+    "id": 6000950,
+    "description": "While equipped to a Supporter with Ice affinity, after attacking, grants \"Magical Damage Received Up\" to target until they take 2 hits.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000951,
+    "description": "While equipped to a Supporter with Ice affinity, boosts potency of buffs given.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000952,
+    "description": "While equipped to a Supporter with Ice affinity, boosts M.ATK of all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000953,
+    "description": "Reduces speed of all enemies until 2 actions end.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000954,
+    "description": "Grants \"Skill Damage Up against Stunned Targets\" to ally with highest M.ATK until action ends (1 time).",
+    "popup_text": ""
+  },
+  {
+    "id": 6000955,
+    "description": "While equipped to a character with Air affinity, boosts Skill 2 damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000956,
+    "description": "Boosts M.ATK of all allies with \"Adventurer\" tag.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000957,
+    "description": "While equipped to an Attacker with Air affinity, boosts critical damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000958,
+    "description": "When equipped to an Attacker with Air affinity and attacking a stunned target, increases skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000959,
+    "description": "When equipped to a character with Air affinity, after using a skill, grants \"M.ATK Up\" to self 2 times until action ends.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000960,
+    "description": "When equipped to a character with Air affinity, after using a skill, grants \"M.DEF Up\" to self 2 times until taking damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000961,
+    "description": "When equipped to a Supporter with Air affinity, increases HP recovery dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000962,
+    "description": "When equipped to a Supporter with Air affinity, at the start of battle, grants \"Damage Received Down\" to all allies 3 times until taking damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000963,
+    "description": "When equipped to a Supporter with Air affinity, increases stun damage dealt by all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000964,
+    "description": "When equipped to a Defender with Ice affinity, after attacking, grants \"Damage Down\" to target 1 time until action ends.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000965,
+    "description": "When equipped to a Defender with Ice affinity, reduces damage received from single target attacks.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000966,
+    "description": "When equipped to a Defender, at the start of wave, grants \"Area Attack Damage Received Down\" to all allies 2 times until taking damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000967,
+    "description": "Grants \"HP Recovery Received Up\" to all allies 1 time until action ends.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000968,
+    "description": "Grants \"Fire Damage Received Up\" to target 2 times until action ends.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000969,
+    "description": "Grants \"Ice Damage Received Up\" to target 2 times until action ends.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000970,
+    "description": "Grants \"Bolt Damage Received Up\" to target 2 times until action ends.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000971,
+    "description": "Grants \"Air Damage Received Up\" to target 2 times until action ends.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000972,
+    "description": "Grants \"Slash Damage Received Up\" to target 2 times until action ends.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000973,
+    "description": "Grants \"Strike Damage Received Up\" to target 2 times until action ends.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000974,
+    "description": "Grants \"Stab Damage Received Up\" to target 2 times until action ends.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000975,
+    "description": "When equipped to a character with Stab affinity, after using a skill, grants \"Physical Attack Skill Damage Up\" to all allies (up to 16%).",
+    "popup_text": ""
+  },
+  {
+    "id": 6000976,
+    "description": "When equipped to a character with Stab affinity, after using a skill, grants \"Physical Attack Skill Damage Up\" to all allies (up to 12%).",
+    "popup_text": ""
+  },
+  {
+    "id": 6000977,
+    "description": "When equipped to a Supporter with Stab affinity, when obtaining a panel, grants \"Critical Damage Up\" to all allies 1 time until action ends.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000978,
+    "description": "While equipped to a Supporter with Stab affinity, boosts all allies' P.ATK.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000979,
+    "description": "While equipped to an Attacker with Stab affinity, boosts critical damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000980,
+    "description": "While equipped to a character with Stab affinity, boosts P.ATK.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000981,
+    "description": "While equipped to an Attacker with Stab affinity, after a critical hit, boosts own skill damage (up to 40%).",
+    "popup_text": ""
+  },
+  {
+    "id": 6000982,
+    "description": "While equipped to an Attacker with Stab affinity, after a critical hit, boosts own skill damage (up to 30%).",
+    "popup_text": ""
+  },
+  {
+    "id": 6000983,
+    "description": "Grants \"Physical skill damage up\" to the ally with highest P.ATK for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000984,
+    "description": "Reduces damage received by the ally with highest P.ATK for 1 attack.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000985,
+    "description": "After using a skill, boosts all allies' physical skill damage for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000986,
+    "description": "Boosts P.ATK of all \"Laid-back\" allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000987,
+    "description": "While equipped to a Supporter with Slash affinity, after attacking, increases damage received by target for 2 attacks.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000988,
+    "description": "While equipped to a Supporter with Slash affinity, boosts effects received from strengthened panels for all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000989,
+    "description": "While equipped to a Supporter, recovers item gauge after using burst skill.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000990,
+    "description": "While equipped to a Supporter with Slash affinity, recovers item gauge after using burst skill.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000991,
+    "description": "While equipped to Alvina [Dream of Hero], boosts buff effect potency given.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000992,
+    "description": "While equipped to Alvina [Dream of Hero], boosts all allies' P.ATK.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000993,
+    "description": "While equipped to an Attacker with Slash affinity, after using burst skill, boosts critical rate for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000994,
+    "description": "While equipped to an Attacker with Slash affinity, boosts buff effect potency received.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000995,
+    "description": "While equipped to an Attacker with Slash affinity, after using a skill, increases physical damage received by target for 2 attacks.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000996,
+    "description": "While equipped to Bepp [Mourning Blades], boosts critical damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000997,
+    "description": "While equipped to a character with Fire affinity, after attacking, increases damage received by target for 1 attack.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000998,
+    "description": "While equipped to a Breaker, boosts stun damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 6000999,
+    "description": "While equipped to a character with Bolt affinity, boosts skill damage for all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001000,
+    "description": "While equipped to a Supporter, boosts HP recovery granted.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001001,
+    "description": "While equipped to a character with Fire affinity, after WEAK attacks, grants M.ATK up to self until after 2 actions.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001002,
+    "description": "While equipped to an Attacker, boosts critical damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001003,
+    "description": "Grants \"Critical damage received up\" to all enemies for 2 attacks.",
+    "popup_text": ""
+  },
+  {
+    "id": 13000239,
+    "description": "When self has Bolt affinity, HP recovery received +{}%",
+    "popup_text": ""
+  },
+  {
+    "id": 13000241,
+    "description": "Skill power +{0}%",
+    "popup_text": ""
+  },
+  {
+    "id": 13000242,
+    "description": "M.ATK +{0}% (max 50%)",
+    "popup_text": ""
+  },
+  {
+    "id": 13000243,
+    "description": "Magical damage received +{0}%",
+    "popup_text": ""
+  },
+  {
+    "id": 13000245,
+    "description": "When there is 1 enemy, critical damage +{0}%",
+    "popup_text": ""
+  },
+  {
+    "id": 13000247,
+    "description": "When self has Air affinity, HP recovery granted +{}%",
+    "popup_text": ""
+  },
+  {
+    "id": 13000320,
+    "description": "When self has Ice affinity, HP recovery received +{}%",
+    "popup_text": ""
+  },
+  {
+    "id": 13000328,
+    "description": "When self has Slash affinity, skill damage +{}%",
+    "popup_text": ""
+  },
+  {
+    "id": 71092001,
+    "description": "Grants Nullify HP Recovery (1 turn) to target enemy.",
+    "popup_text": ""
+  },
+  {
+    "id": 71146000,
+    "description": "Reduces potency of positive effects received by target enemy for 3 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 71149013,
+    "description": "Boosts power against enemies with status effects.",
+    "popup_text": ""
+  },
+  {
+    "id": 71206001,
+    "description": "Reduces potency of positive effects received by target enemy for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 71206002,
+    "description": "Reduces potency of negative effects received by self for 3 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 71212001,
+    "description": "Reduces item gauge recovery for target enemy for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 71212002,
+    "description": "Grants Critical Rate Up to self (up to 100%).",
+    "popup_text": ""
+  },
+  {
+    "id": 71212003,
+    "description": "Grants SPD Up to self (up to 100%).",
+    "popup_text": ""
+  },
+  {
+    "id": 71212004,
+    "description": "When granted Critical Rate Up (up to 100%), grants additional Critical Rate Up to self (up to 100%).",
+    "popup_text": ""
+  },
+  {
+    "id": 71212005,
+    "description": "When granted SPD Up (up to 100%), grants additional SPD Up to self (up to 100%).",
+    "popup_text": ""
+  },
+  {
+    "id": 71212006,
+    "description": "Grants Critical Damage Up to self (1 time).",
+    "popup_text": ""
+  },
+  {
+    "id": 71212007,
+    "description": "Reduces negative effect potency by {value}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 71212008,
+    "description": "When obtaining a Weaken Panel, extends the duration of self's Damage Dealt Down (for Weaken Panel effect).",
+    "popup_text": ""
+  },
+  {
+    "id": 71212009,
+    "description": "Grants Negative Effect Potency Down (2 times) to target enemies that are not Ice or Air element.",
+    "popup_text": ""
+  },
+  {
+    "id": 71212010,
+    "description": "Grants Conditional Negative Effect Count Up (2 times) to target enemies.",
+    "popup_text": ""
+  },
+  {
+    "id": 71212011,
+    "description": "Converts target enemy's non-Burst Skill panels into Weaken+ panels.",
+    "popup_text": ""
+  },
+  {
+    "id": 71212012,
+    "description": "Grants Nullify Positive Effects (2 times) to target enemies that are not Ice or Air element.",
+    "popup_text": ""
+  },
+  {
+    "id": 71214001,
+    "description": "Converts enemy's non-Burst Skill panels into Weaken panels.",
+    "popup_text": ""
+  },
+  {
+    "id": 71214002,
+    "description": "Grants Magical Damage Received Up (2 times) to target enemies.",
+    "popup_text": ""
+  },
+  {
+    "id": 71218036,
+    "description": "20% chance to inflict Stun on target.",
+    "popup_text": ""
+  },
+  {
+    "id": 71222001,
+    "description": "Grants Damage Received Down to self (3 times).",
+    "popup_text": ""
+  },
+  {
+    "id": 71222002,
+    "description": "Grants M.ATK Down to skill target (2 times).",
+    "popup_text": ""
+  },
+  {
+    "id": 71222003,
+    "description": "Grants Damage Dealt Down to skill target (3 times).",
+    "popup_text": ""
+  },
+  {
+    "id": 71222004,
+    "description": "Grants Damage Received Up to skill target (3 times).",
+    "popup_text": ""
+  },
+  {
+    "id": 71222005,
+    "description": "Grants SPD Up to skill target (3 times).",
+    "popup_text": ""
+  },
+  {
+    "id": 71222006,
+    "description": "Grants Damage Dealt Up to skill target (3 times).",
+    "popup_text": ""
+  },
+  {
+    "id": 71225001,
+    "description": "Permanently boosts self counter attack damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 71225002,
+    "description": "Converts target's non-BS panels into Weaken Panels.",
+    "popup_text": ""
+  },
+  {
+    "id": 71225003,
+    "description": "Boosts self resistance to all elements for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 71225004,
+    "description": "Increases damage dealt when performing counter attacks.",
+    "popup_text": ""
+  },
+  {
+    "id": 71226001,
+    "description": "Grants self Evasion (permanent/up to 30%).",
+    "popup_text": ""
+  },
+  {
+    "id": 72001156,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001157,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001158,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001159,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001160,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001161,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001162,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001163,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001164,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001165,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001166,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001167,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001168,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001169,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001170,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001171,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001172,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001173,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001174,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001175,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001176,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001177,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001178,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001179,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001181,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001184,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001185,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001186,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001187,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001188,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001189,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001190,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001191,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001192,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001193,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001194,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001195,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001196,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001197,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001198,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001199,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001200,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001201,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001202,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001203,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001204,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001205,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001206,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001207,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001208,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001209,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001210,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001212,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72500149,
+    "description": "[Self/The more Prim characters/P.ATK Up]",
+    "popup_text": ""
+  },
+  {
+    "id": 72500150,
+    "description": "[Self/The more Prim characters/M.ATK Up]",
+    "popup_text": ""
+  },
+  {
+    "id": 72500151,
+    "description": "[Self/Skill damage increases with more Prim characters]",
+    "popup_text": ""
+  },
+  {
+    "id": 72500152,
+    "description": "[Self/Stun damage increases with more Prim characters]",
+    "popup_text": ""
+  },
+  {
+    "id": 72500153,
+    "description": "[Self/P.ATK increases with more Mentor characters]",
+    "popup_text": ""
+  },
+  {
+    "id": 72500154,
+    "description": "[Self/M.ATK increases with more Mentor characters]",
+    "popup_text": ""
+  },
+  {
+    "id": 72500155,
+    "description": "[Self/Increased skill damage against stunned targets]",
+    "popup_text": ""
+  },
+  {
+    "id": 72500156,
+    "description": "state_change_use",
+    "popup_text": ""
+  },
+  {
+    "id": 72500157,
+    "description": "[Self/Reduced damage received]",
+    "popup_text": ""
+  },
+  {
+    "id": 72500158,
+    "description": "[Self/P.ATK increases with more Kurken Island characters]",
+    "popup_text": ""
+  },
+  {
+    "id": 72500159,
+    "description": "[Self/M.ATK increases with more Kurken Island characters]",
+    "popup_text": ""
+  },
+  {
+    "id": 74031001,
+    "description": "Grants single-target skill damage up (1 time) to self",
+    "popup_text": ""
+  },
+  {
+    "id": 74055001,
+    "description": "If damage nullification is applied, increases number of times for self's damage nullification",
+    "popup_text": ""
+  },
+  {
+    "id": 74055002,
+    "description": "If damage nullification is not applied, grants damage nullification (2 times) to self",
+    "popup_text": ""
+  },
+  {
+    "id": 74120000,
+    "description": "Changes all panels except Weaken and Status Effect panels to Paralysis panels",
+    "popup_text": ""
+  },
+  {
+    "id": 76007001,
+    "description": "Inflicts Paralysis when target has 3 negative effects",
+    "popup_text": ""
+  },
+  {
+    "id": 76007002,
+    "description": "Inflicts Paralysis when target has 5 negative effects",
+    "popup_text": ""
+  },
+  {
+    "id": 76007003,
+    "description": "When target has a status effect, inflicts Stun (1 time/30% chance)",
+    "popup_text": ""
+  },
+  {
+    "id": 76007004,
+    "description": "When target has a status effect, delays target's turn",
+    "popup_text": ""
+  },
+  {
+    "id": 76013001,
+    "description": "Grants increased negative effect potency (2 times) to all allies",
+    "popup_text": ""
+  },
+  {
+    "id": 76052001,
+    "description": "Removes 3 status effects from skill target",
+    "popup_text": ""
+  },
+  {
+    "id": 76052002,
+    "description": "Grants reduced damage received (2 times) to self",
+    "popup_text": ""
+  },
+  {
+    "id": 76052003,
+    "description": "Reduces target's SPD for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76052004,
+    "description": "Reduces target's damage dealt for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76052005,
+    "description": "Reduces target's Air resistance for 3 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76052006,
+    "description": "Reduces own status effect resistance for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76082001,
+    "description": "Increases target ally's SPD for 3 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76089001,
+    "description": "Puts target into Counter state for 4 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76207001,
+    "description": "Permanently increases own damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 76207002,
+    "description": "Reduces own SPD for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 76207003,
+    "description": "When not already nullifying damage, nullifies damage to self for 1 hit.",
+    "popup_text": ""
+  },
+  {
+    "id": 76207004,
+    "description": "Nullifies damage to self for 2 hits.",
+    "popup_text": ""
+  },
+  {
+    "id": 76207005,
+    "description": "Permanently increases own damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 76210001,
+    "description": "Grants Evasion to all allies for 2 hits.",
+    "popup_text": ""
+  },
+  {
+    "id": 76210002,
+    "description": "Increases own damage dealt for 3 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76210003,
+    "description": "Increases target's damage received for 3 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76210005,
+    "description": "Reduces damage received by all allies for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 76211001,
+    "description": "Increases positive effects received by all allies for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76211002,
+    "description": "Reduces target's SPD for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76211003,
+    "description": "Increases target's damage received for 3 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76211004,
+    "description": "Increases own damage dealt for 3 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76211005,
+    "description": "Reduces own damage received for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76211006,
+    "description": "Grants \"Potency of positive effects received -\" (2 times) to skill target.",
+    "popup_text": ""
+  },
+  {
+    "id": 76211007,
+    "description": "Grants SPD Up (2 times) to all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 76216002,
+    "description": "Grants Damage Received Down to all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 76216003,
+    "description": "Grants Damage Received Up to target.",
+    "popup_text": ""
+  },
+  {
+    "id": 76216004,
+    "description": "Grants SPD Down to target.",
+    "popup_text": ""
+  },
+  {
+    "id": 76216005,
+    "description": "Grants Damage Dealt Up to self.",
+    "popup_text": ""
+  },
+  {
+    "id": 76216006,
+    "description": "Grants Regeneration to all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 76217002,
+    "description": "Grants Damage Received Up to target.",
+    "popup_text": ""
+  },
+  {
+    "id": 76217003,
+    "description": "Grants Stab Resistance Down to target.",
+    "popup_text": ""
+  },
+  {
+    "id": 76217004,
+    "description": "Grants M.ATK Down to target.",
+    "popup_text": ""
+  },
+  {
+    "id": 81148006,
+    "description": "After Criselda becomes incapacitated, reduces status effect resistance for all enemies on her first action.",
+    "popup_text": ""
+  },
+  {
+    "id": 81148007,
+    "description": "After Criselda becomes incapacitated, reduces status effect resistance for all allies on her first action.",
+    "popup_text": ""
+  },
+  {
+    "id": 81148008,
+    "description": "After Criselda becomes incapacitated, inflicts Poison (5 times) on all enemies on her first action.",
+    "popup_text": ""
+  },
+  {
+    "id": 81148009,
+    "description": "After Criselda becomes incapacitated, inflicts Poison (5 times) on all allies on her first action.",
+    "popup_text": ""
+  },
+  {
+    "id": 81149015,
+    "description": "Grants All Elements Resistance Down Nullify to all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 81149016,
+    "description": "Grants All Elements Resistance Down Nullify to all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 81206001,
+    "description": "When recovering from stun, grants Damage Dealt Up (15%) to self.",
+    "popup_text": ""
+  },
+  {
+    "id": 81206002,
+    "description": "When recovering from stun, grants SPD Up (7%) to self.",
+    "popup_text": ""
+  },
+  {
+    "id": 81206003,
+    "description": "When recovering from stun, removes own debuffs.",
+    "popup_text": "Remove negative effects"
+  },
+  {
+    "id": 81212001,
+    "description": "Grants Damage Received Down (1st time) (permanent) to self.",
+    "popup_text": ""
+  },
+  {
+    "id": 81212002,
+    "description": "Grants Damage Received Down (2nd time) (permanent) to self",
+    "popup_text": ""
+  },
+  {
+    "id": 81212003,
+    "description": "Grants Damage Received Down (3rd time) (permanent) to self",
+    "popup_text": ""
+  },
+  {
+    "id": 81212004,
+    "description": "When stunned for the 1st time, removes Damage Received Down (1st time) (permanent) from self",
+    "popup_text": ""
+  },
+  {
+    "id": 81212005,
+    "description": "When stunned for the 2nd time, removes Damage Received Down (2nd time) (permanent) from self",
+    "popup_text": ""
+  },
+  {
+    "id": 81212006,
+    "description": "When stunned for the 3rd time, removes Damage Received Down (3rd time) (permanent) from self",
+    "popup_text": ""
+  },
+  {
+    "id": 81212008,
+    "description": "When recovering from stun for the 1st time, grants SPD Up (permanent) (max 100%) to self",
+    "popup_text": ""
+  },
+  {
+    "id": 81212009,
+    "description": "When recovering from stun for the 2nd time, grants SPD Up (permanent) (max 100%) to self",
+    "popup_text": ""
+  },
+  {
+    "id": 81212010,
+    "description": "When recovering from stun for the 3rd time, grants SPD Up (permanent) (max 100%) to self",
+    "popup_text": ""
+  },
+  {
+    "id": 81212011,
+    "description": "Saskia battle start_regeneration",
+    "popup_text": ""
+  },
+  {
+    "id": 81212012,
+    "description": "Removes negative effects from self",
+    "popup_text": "Negative Effects Removed"
+  },
+  {
+    "id": 81214001,
+    "description": "Converts Weaken Panels to Darkness Panels",
+    "popup_text": ""
+  },
+  {
+    "id": 81218001,
+    "description": "Summon allies. 4 Quarelga Units",
+    "popup_text": ""
+  },
+  {
+    "id": 81218002,
+    "description": "Grants Cannot Be Attacked status to self",
+    "popup_text": ""
+  },
+  {
+    "id": 81218003,
+    "description": "Displays gimmick progress gauge. For 10 Quarelga Units",
+    "popup_text": ""
+  },
+  {
+    "id": 81218004,
+    "description": "Grants Summon Ally control buff (10 activations) to self",
+    "popup_text": ""
+  },
+  {
+    "id": 81218005,
+    "description": "Summons 4 Quarelga Units",
+    "popup_text": ""
+  },
+  {
+    "id": 81218006,
+    "description": "Grants Cannot Be Attacked status to self",
+    "popup_text": ""
+  },
+  {
+    "id": 81218007,
+    "description": "Displays gimmick progress gauge. For 10 Quarelga Units",
+    "popup_text": ""
+  },
+  {
+    "id": 81218008,
+    "description": "Grants Summon Ally control buff (10 activations) to self",
+    "popup_text": ""
+  },
+  {
+    "id": 81218009,
+    "description": "Increases internal buff level by 1",
+    "popup_text": ""
+  },
+  {
+    "id": 81218010,
+    "description": "Removes Cannot Attack status from self.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218011,
+    "description": "Removes internal ally call buff from self.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218012,
+    "description": "Removes 3-turn count buff from self.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218013,
+    "description": "Delays own turn by 3 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218014,
+    "description": "Grants level 1 3-turn count buff to self.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218015,
+    "description": "Removes 3-turn count buff from self.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218016,
+    "description": "Removes 3-turn count buff from self.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218017,
+    "description": "Removes 3-turn count buff from self.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218018,
+    "description": "Triggers ally call based on internal buffs and battle conditions. Effects vary based on number of enemies on field.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218019,
+    "description": "Triggers ally call based on internal buffs and battle conditions. Effects vary based on number of enemies on field.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218020,
+    "description": "Triggers ally call based on internal buffs and battle conditions. Effects vary based on number of enemies on field.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218021,
+    "description": "Triggers ally call based on internal buffs and battle conditions. Effects vary based on number of enemies on field.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218022,
+    "description": "Triggers ally call based on internal buffs and battle conditions. Effects vary based on number of enemies on field.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218023,
+    "description": "Triggers ally call based on internal buffs and battle conditions. Effects vary based on number of enemies on field.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218024,
+    "description": "Triggers ally call based on internal buffs and battle conditions. Effects vary based on number of enemies on field.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218025,
+    "description": "Triggers ally call based on internal buffs and battle conditions. Effects vary based on number of enemies on field.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218026,
+    "description": "Triggers ally call based on internal buffs and battle conditions. Effects vary based on number of enemies on field.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218027,
+    "description": "Triggers ally call based on internal buffs and battle conditions. Effects vary based on number of enemies on field.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218028,
+    "description": "Triggers ally call based on internal buffs and battle conditions. Effects vary based on number of enemies on field.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218029,
+    "description": "Triggers ally call based on internal buffs and battle conditions. Effects vary based on number of enemies on field.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218030,
+    "description": "Calls allies based on internal buffs and battle conditions. Effect varies based on number of enemies on the field.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218031,
+    "description": "Calls allies based on internal buffs and battle conditions. Effect varies based on number of enemies on the field.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218032,
+    "description": "Calls allies based on internal buffs and battle conditions. Effect varies based on number of enemies on the field.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218033,
+    "description": "Calls allies based on internal buffs and battle conditions. Effect varies based on number of enemies on the field.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218034,
+    "description": "Calls allies based on internal buffs and battle conditions. Effect varies based on number of enemies on the field.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218035,
+    "description": "Calls allies based on internal buffs and battle conditions. Effect varies based on number of enemies on the field.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218037,
+    "description": "Grants self unclearable All-Element resistance UP.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218038,
+    "description": "Grants self unclearable damage received DOWN.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218039,
+    "description": "Grants self unclearable stun damage received DOWN.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218040,
+    "description": "Inflicts Stun on all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218041,
+    "description": "Removes special stun from all allies when stun gauge recovers.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218042,
+    "description": "Grants self SPD UP when stun gauge recovers.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218043,
+    "description": "Grants self damage received DOWN during non-stun state when stun gauge recovers.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218044,
+    "description": "Nullifies special stun for Kvarelga battle.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218045,
+    "description": "Calls allies. Summons 4 Kvarelga units.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218046,
+    "description": "Summons 4 Kvarelga units.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218047,
+    "description": "Calls allies based on internal buffs and battle conditions. Effect varies based on number of enemies on the field.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218048,
+    "description": "Calls allies based on internal buffs and battle conditions. Effect varies based on number of enemies on the field.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218049,
+    "description": "Calls allies based on internal buffs and battle conditions. Effect varies based on number of enemies on the field.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218050,
+    "description": "Calls allies based on internal buffs and battle conditions. Effect varies based on number of enemies on the field.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218051,
+    "description": "Calls allies based on internal buffs and battle conditions. Changes based on number of enemies on the field.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218052,
+    "description": "Calls allies based on internal buffs and battle conditions. Changes based on number of enemies on the field.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218053,
+    "description": "Calls allies based on internal buffs and battle conditions. Changes based on number of enemies on the field.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218054,
+    "description": "Calls allies based on internal buffs and battle conditions. Changes based on number of enemies on the field.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218055,
+    "description": "Calls allies based on internal buffs and battle conditions. Changes based on number of enemies on the field.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218056,
+    "description": "Calls allies based on internal buffs and battle conditions. Changes based on number of enemies on the field.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218057,
+    "description": "Calls allies based on internal buffs and battle conditions. Changes based on number of enemies on the field.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218058,
+    "description": "Calls allies based on internal buffs and battle conditions. Changes based on number of enemies on the field.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218059,
+    "description": "Calls allies based on internal buffs and battle conditions. Changes based on number of enemies on the field.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218060,
+    "description": "Calls allies based on internal buffs and battle conditions. Changes based on number of enemies on the field.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218061,
+    "description": "Calls allies based on internal buffs and battle conditions. Changes based on number of enemies on the field.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218062,
+    "description": "Calls allies based on internal buffs and battle conditions. Changes based on number of enemies on the field.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218063,
+    "description": "Calls allies based on internal buffs and battle conditions. Changes based on number of enemies on the field.",
+    "popup_text": ""
+  },
+  {
+    "id": 81218064,
+    "description": "Calls allies based on internal buffs and battle conditions. Changes based on number of enemies on the field.",
+    "popup_text": ""
+  },
+  {
+    "id": 81219001,
+    "description": "Removes all elemental resistance buffs from enemy with highest HP.",
+    "popup_text": ""
+  },
+  {
+    "id": 81219002,
+    "description": "Reduces stun gauge of enemy with highest HP.",
+    "popup_text": ""
+  },
+  {
+    "id": 81220001,
+    "description": "Removes damage received down from enemy with highest HP.",
+    "popup_text": ""
+  },
+  {
+    "id": 81220002,
+    "description": "Removes stun damage received down from enemy with highest HP.",
+    "popup_text": ""
+  },
+  {
+    "id": 81220003,
+    "description": "Reduces stun gauge of enemy with highest HP.",
+    "popup_text": ""
+  },
+  {
+    "id": 81221001,
+    "description": "Constantly nullifies HP recovery during battle.",
+    "popup_text": ""
+  },
+  {
+    "id": 81222001,
+    "description": "Boosts own Fire resistance for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 81222002,
+    "description": "Boosts own Ice resistance for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 81222003,
+    "description": "Boosts own Air resistance for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 81222004,
+    "description": "Boosts own Bolt resistance for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 81225001,
+    "description": "Grants self Counter against non-WEAK attacks (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 81225002,
+    "description": "When receiving a non-WEAK attack, performs a counter-attack.",
+    "popup_text": ""
+  },
+  {
+    "id": 81225003,
+    "description": "When stunned, gains Counter (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 81225004,
+    "description": "When stunned, removes own non-WEAK Counter.",
+    "popup_text": "Conditional Counter"
+  },
+  {
+    "id": 81226001,
+    "description": "Advances own turn when HP is 30% or lower.",
+    "popup_text": "Turn Advance"
+  },
+  {
+    "id": 81226002,
+    "description": "Redraws action when HP is 30% or lower.",
+    "popup_text": ""
+  },
+  {
+    "id": 81226003,
+    "description": "Increases damage dealt based on number of SPD Up effects (0-20) on self.",
+    "popup_text": ""
+  },
+  {
+    "id": 81226004,
+    "description": "When stunned, removes own SPD Up effects.",
+    "popup_text": ""
+  },
+  {
+    "id": 84008001,
+    "description": "Grants self Sleep (1 time).",
+    "popup_text": ""
+  },
+  {
+    "id": 84010001,
+    "description": "Grants self Nullify Damage (6 times).",
+    "popup_text": ""
+  },
+  {
+    "id": 84015001,
+    "description": "Grants self Sleep (2 times).",
+    "popup_text": ""
+  },
+  {
+    "id": 84031001,
+    "description": "When stunned, removes own Damage Received Down.",
+    "popup_text": ""
+  },
+  {
+    "id": 84038001,
+    "description": "Grants self Damage Dealt Up (max 999%/permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 84038002,
+    "description": "When stunned, removes own Regeneration.",
+    "popup_text": ""
+  },
+  {
+    "id": 84055001,
+    "description": "Grants self Nullify Damage (8 times).",
+    "popup_text": ""
+  },
+  {
+    "id": 84062001,
+    "description": "Grants self Sleep (4 times).",
+    "popup_text": ""
+  },
+  {
+    "id": 84062002,
+    "description": "Reselects action when self is not asleep",
+    "popup_text": ""
+  },
+  {
+    "id": 84122001,
+    "description": "Grants self Damage Nullification for 4 times",
+    "popup_text": ""
+  },
+  {
+    "id": 86013001,
+    "description": "When stunned, grants all enemies Received Buff Potency Up for 2 turns",
+    "popup_text": ""
+  },
+  {
+    "id": 86013002,
+    "description": "When stunned, grants all allies Received Buff Potency Up for 2 turns",
+    "popup_text": ""
+  },
+  {
+    "id": 86026001,
+    "description": "Grants Damage Received Up to all allies for 3 turns",
+    "popup_text": ""
+  },
+  {
+    "id": 86026002,
+    "description": "Grants Damage Dealt Up to all allies for 3 turns",
+    "popup_text": ""
+  },
+  {
+    "id": 86039001,
+    "description": "Boosts damage dealt when target is Provoked",
+    "popup_text": ""
+  },
+  {
+    "id": 86039002,
+    "description": "When stunned, grants Critical Damage Up for 2 turns to all enemies",
+    "popup_text": ""
+  },
+  {
+    "id": 86039003,
+    "description": "When stunned, grants Damage Dealt Up for 2 turns to all enemies",
+    "popup_text": ""
+  },
+  {
+    "id": 86052000,
+    "description": "Damage Dealt Up (Mystic)",
+    "popup_text": ""
+  },
+  {
+    "id": 86052001,
+    "description": "Force Stun when receiving a WEAK attack while afflicted with a status effect",
+    "popup_text": ""
+  },
+  {
+    "id": 86052002,
+    "description": "When receiving AoE healing with 10 or more buffs, grants self Damage Dealt Up (100%/1 time)",
+    "popup_text": ""
+  },
+  {
+    "id": 86103010,
+    "description": "When hit by Bolt attacks, grants self Damage Received Up (20%/3 times) (Does not trigger when Damage Received Up (Christmas Golem_Bolt Hit) is active)",
+    "popup_text": ""
+  },
+  {
+    "id": 86103011,
+    "description": "When hit by Ice attacks, grants self Damage Received Up (10%/5 times) (Does not trigger when Damage Received Up (Christmas Golem_Ice Hit) is active)",
+    "popup_text": ""
+  },
+  {
+    "id": 86103012,
+    "description": "When stunned, inflicts Brittle on self",
+    "popup_text": ""
+  },
+  {
+    "id": 86110001,
+    "description": "Increases Critical Rate of ally with highest max HP (max 100%)",
+    "popup_text": "Critical Rate Up"
+  },
+  {
+    "id": 86119003,
+    "description": "While stunned, converts non-Burst panels to Strengthened panels when hit by a critical attack",
+    "popup_text": ""
+  },
+  {
+    "id": 86122001,
+    "description": "When stunned, converts Strengthened panels to Burst panels",
+    "popup_text": ""
+  },
+  {
+    "id": 86122002,
+    "description": "When stunned, replaces Critical panels with Burst panels",
+    "popup_text": ""
+  },
+  {
+    "id": 86132002,
+    "description": "Inflicts Poison for 2 turns on all enemies",
+    "popup_text": ""
+  },
+  {
+    "id": 86142000,
+    "description": "Grants increased damage dealt (invisible) to self",
+    "popup_text": ""
+  },
+  {
+    "id": 86142003,
+    "description": "Increases damage received by self (permanent)",
+    "popup_text": ""
+  },
+  {
+    "id": 86207001,
+    "description": "Increases max HP of all enemies (permanent)",
+    "popup_text": ""
+  },
+  {
+    "id": 86207002,
+    "description": "Increases M.ATK of all enemies (permanent)",
+    "popup_text": ""
+  },
+  {
+    "id": 86207004,
+    "description": "Recovers HP of all enemies",
+    "popup_text": ""
+  },
+  {
+    "id": 86207005,
+    "description": "For effect_motion display",
+    "popup_text": ""
+  },
+  {
+    "id": 86210001,
+    "description": "When stunned and unable to act, increases negative effect potency received by all enemies for 3 turns",
+    "popup_text": ""
+  },
+  {
+    "id": 86210002,
+    "description": "When stunned and unable to act, increases negative effect potency received by all allies for 3 turns",
+    "popup_text": ""
+  },
+  {
+    "id": 86211001,
+    "description": "Each time Ice damage is received, reduces damage dealt (up to 30%)",
+    "popup_text": ""
+  },
+  {
+    "id": 86211002,
+    "description": "Each time Ice damage is received, increases damage received (up to 50%)",
+    "popup_text": ""
+  },
+  {
+    "id": 86211003,
+    "description": "When stunned, removes all negative effects from all enemies",
+    "popup_text": ""
+  },
+  {
+    "id": 86211004,
+    "description": "When receiving Ice critical damage greater than 5% of own HP, reduces damage dealt for 2 turns",
+    "popup_text": ""
+  },
+  {
+    "id": 86211005,
+    "description": "When receiving Ice critical damage greater than 5% of own HP, increases damage received (up to 100%)",
+    "popup_text": ""
+  },
+  {
+    "id": 86216001,
+    "description": "When hit by a Burst Skill, reduces damage dealt by self (up to 100%)",
+    "popup_text": ""
+  },
+  {
+    "id": 86217001,
+    "description": "Grants Regeneration to all enemies",
+    "popup_text": ""
+  },
+  {
+    "id": 86226001,
+    "description": "Immune to SPD reduction effects on self",
+    "popup_text": ""
+  },
+  {
+    "id": 91001465,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001466,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001467,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001469,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001474,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001475,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001476,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001477,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001478,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001479,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001480,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001481,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001482,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001483,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001484,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001485,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001487,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001488,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001490,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001491,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001492,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001493,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001494,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001495,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001496,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001497,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001498,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001499,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001500,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001501,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001502,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001503,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001504,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001505,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001506,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001507,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001508,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001509,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001510,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001511,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001512,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001513,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001514,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001515,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001518,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001519,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001520,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001521,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001522,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001523,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001524,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001525,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001526,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001531,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001533,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001534,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001535,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001539,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001540,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001543,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001544,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001546,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001547,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001548,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001549,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001550,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001551,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001552,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001553,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001554,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001557,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001558,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001559,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001560,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001561,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001562,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001563,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001564,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001565,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001566,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001567,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001568,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001569,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001570,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001571,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001572,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001573,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001574,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001575,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001576,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001587,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001599,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000157,
+    "description": "While equipped to a character with Bolt affinity, boosts positive effect potency granted to others.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000158,
+    "description": "While equipped to a character with Bolt affinity, boosts stun damage on WEAK attacks.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000159,
+    "description": "While equipped to a Supporter, boosts skill power for all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000160,
+    "description": "While equipped to a Supporter, when there is only 1 enemy, boosts skill damage for all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000161,
+    "description": "While equipped to a Defender, when taking damage, grants \"Damage Received Up\" to all enemies until they take damage (max 4 stacks).",
+    "popup_text": ""
+  },
+  {
+    "id": 95000162,
+    "description": "While equipped to a character with Ice affinity, on WEAK attacks, grants \"Critical Damage Up\" to self for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000163,
+    "description": "After attacking, grants \"Magic Attack Damage Received Up\" to target until they take damage 2 times (max 4 stacks).",
+    "popup_text": ""
+  },
+  {
+    "id": 95000167,
+    "description": "While equipped to a character with Bolt affinity, boosts HP recovery amount granted to others.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000168,
+    "description": "While equipped to a character with Ice affinity, boosts negative effect potency granted to others.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000169,
+    "description": "While equipped to an Attacker, on WEAK attacks, grants \"Skill Damage Up\" to self for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000170,
+    "description": "While equipped to a character with Air affinity, boosts positive effect potency granted to others.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000171,
+    "description": "While equipped to an Attacker with Fire affinity, boosts skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000172,
+    "description": "Boosts critical damage when Preferred Element is Fire, role is Attacker, and HP is 50% or higher.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000173,
+    "description": "Boosts skill damage when Preferred Element is Ice and role is Attacker.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000174,
+    "description": "Boosts critical damage when Preferred Element is Ice, role is Attacker, and HP is 50% or higher.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000175,
+    "description": "Boosts skill damage when Preferred Element is Air and role is Attacker.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000176,
+    "description": "Boosts critical damage when Preferred Element is Air, role is Attacker, and HP is 50% or higher.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000177,
+    "description": "Boosts skill damage when Preferred Element is Bolt and role is Attacker.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000178,
+    "description": "Boosts critical damage when Preferred Element is Bolt, role is Attacker, and HP is 50% or higher.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000179,
+    "description": "Boosts skill damage when Preferred Element is Slash and role is Attacker.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000180,
+    "description": "Boosts critical damage when Preferred Element is Slash, role is Attacker, and HP is 50% or higher.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000181,
+    "description": "Boosts skill damage when Preferred Element is Strike and role is Attacker.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000182,
+    "description": "Boosts critical damage when Preferred Element is Strike, role is Attacker, and HP is 50% or higher.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000183,
+    "description": "Boosts skill damage when Preferred Element is Stab and role is Attacker.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000184,
+    "description": "Boosts critical damage when Preferred Element is Stab, role is Attacker, and HP is 50% or higher.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000185,
+    "description": "Reduces damage received.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000186,
+    "description": "When role is Defender, after using a skill, grants all allies a fixed damage reduction until taking damage (non-stackable).",
+    "popup_text": ""
+  },
+  {
+    "id": 95000187,
+    "description": "When Preferred Element is Stab, boosts critical damage for all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000188,
+    "description": "When Preferred Element is Stab and attacking a weakness, boosts own critical damage for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000189,
+    "description": "When Preferred Element is Ice and role is Defender, boosts critical damage for all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000190,
+    "description": "When \"Diligent\" tag is present, boosts HP recovery received.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000191,
+    "description": "When Preferred Element is Stab and role is Supporter, boosts single target skill damage for all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000192,
+    "description": "When tagged as \"Merchant\", reduces area attack damage received (fixed)",
+    "popup_text": ""
+  },
+  {
+    "id": 95000193,
+    "description": "When proficient in Slash element, increases positive effect potency given to allies",
+    "popup_text": ""
+  },
+  {
+    "id": 95000194,
+    "description": "When proficient in Slash element, increases critical damage for single target attacks",
+    "popup_text": ""
+  },
+  {
+    "id": 120000565,
+    "description": "When poisoned, increases damage dealt",
+    "popup_text": ""
+  },
+  {
+    "id": 120000566,
+    "description": "When burned, increases damage dealt",
+    "popup_text": ""
+  },
+  {
+    "id": 120000567,
+    "description": "When paralyzed, increases damage dealt",
+    "popup_text": ""
+  },
+  {
+    "id": 120000568,
+    "description": "When in darkness, increases damage dealt",
+    "popup_text": ""
+  },
+  {
+    "id": 120000569,
+    "description": "When provoked, increases damage dealt",
+    "popup_text": ""
+  },
+  {
+    "id": 120000570,
+    "description": "When frozen, increases damage dealt",
+    "popup_text": ""
+  },
+  {
+    "id": 120000571,
+    "description": "When stunned, increases damage dealt",
+    "popup_text": ""
+  },
+  {
+    "id": 120000572,
+    "description": "When asleep, increases damage dealt",
+    "popup_text": ""
+  },
+  {
+    "id": 120000573,
+    "description": "When afflicted with 5 or more negative effects, increases damage dealt",
+    "popup_text": ""
+  },
+  {
+    "id": 120000574,
+    "description": "When not Fire element, reduces item gauge recovery",
+    "popup_text": ""
+  },
+  {
+    "id": 120000575,
+    "description": "When not Ice element, reduces item gauge recovery",
+    "popup_text": ""
+  },
+  {
+    "id": 120000576,
+    "description": "When not Bolt element, reduces item gauge recovery",
+    "popup_text": ""
+  },
+  {
+    "id": 120000577,
+    "description": "When not Air element, reduces item gauge recovery",
+    "popup_text": ""
+  },
+  {
+    "id": 120000578,
+    "description": "When not Slash element, reduces item gauge recovery",
+    "popup_text": ""
+  },
+  {
+    "id": 120000579,
+    "description": "When not Strike element, reduces item gauge recovery",
+    "popup_text": ""
+  },
+  {
+    "id": 120000580,
+    "description": "When not Stab element, reduces item gauge recovery",
+    "popup_text": ""
+  },
+  {
+    "id": 120000581,
+    "description": "When Fire element, increases item gauge recovery",
+    "popup_text": ""
+  },
+  {
+    "id": 120000582,
+    "description": "When self has Ice affinity, increases Item Gauge recovery amount",
+    "popup_text": ""
+  },
+  {
+    "id": 120000583,
+    "description": "When self has Bolt affinity, increases Item Gauge recovery amount",
+    "popup_text": ""
+  },
+  {
+    "id": 120000584,
+    "description": "When self has Air affinity, increases Item Gauge recovery amount",
+    "popup_text": ""
+  },
+  {
+    "id": 120000585,
+    "description": "When self has Slash affinity, increases Item Gauge recovery amount",
+    "popup_text": ""
+  },
+  {
+    "id": 120000586,
+    "description": "When self has Strike affinity, increases Item Gauge recovery amount",
+    "popup_text": ""
+  },
+  {
+    "id": 120000587,
+    "description": "When self has Stab affinity, increases Item Gauge recovery amount",
+    "popup_text": ""
+  },
+  {
+    "id": 120000588,
+    "description": "When using a Fire battle item, grants target increased damage taken from battle items (Max 999%)",
+    "popup_text": ""
+  },
+  {
+    "id": 120000589,
+    "description": "When using an Ice battle item, grants target increased damage taken from battle items (Max 999%)",
+    "popup_text": ""
+  },
+  {
+    "id": 120000590,
+    "description": "When using a Bolt battle item, grants target increased damage taken from battle items (Max 999%)",
+    "popup_text": ""
+  },
+  {
+    "id": 120000591,
+    "description": "When using an Air battle item, grants target increased damage taken from battle items (Max 999%)",
+    "popup_text": ""
+  },
+  {
+    "id": 120000592,
+    "description": "When using a Slash battle item, grants target increased damage taken from battle items (Max 999%)",
+    "popup_text": ""
+  },
+  {
+    "id": 120000593,
+    "description": "When using a Strike battle item, grants target increased damage taken from battle items (Max 999%)",
+    "popup_text": ""
+  },
+  {
+    "id": 120000594,
+    "description": "When using a Stab battle item, grants target increased damage taken from battle items (Max 999%)",
+    "popup_text": ""
+  },
+  {
+    "id": 120000595,
+    "description": "When self does not have Fire affinity, reduces negative effect potency given",
+    "popup_text": ""
+  },
+  {
+    "id": 120000596,
+    "description": "When self does not have Ice affinity, reduces negative effect potency given",
+    "popup_text": ""
+  },
+  {
+    "id": 120000597,
+    "description": "When self does not have Bolt affinity, reduces negative effect potency given",
+    "popup_text": ""
+  },
+  {
+    "id": 120000598,
+    "description": "When self does not have Air affinity, reduces negative effect potency given",
+    "popup_text": ""
+  },
+  {
+    "id": 120000599,
+    "description": "When self does not have Slash affinity, reduces negative effect potency given",
+    "popup_text": ""
+  },
+  {
+    "id": 120000600,
+    "description": "When self does not have Strike affinity, reduces negative effect potency given",
+    "popup_text": ""
+  },
+  {
+    "id": 120000601,
+    "description": "When self does not have Stab affinity, reduces negative effect potency given",
+    "popup_text": ""
+  },
+  {
+    "id": 120000602,
+    "description": "When stunning an enemy, grants 1 stack of Nullify Damage to all allies who don't have Nullify Damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000603,
+    "description": "When stunning an enemy, increases the number of Nullify Damage stacks on all allies who have Nullify Damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000604,
+    "description": "Grants \"When stunning an enemy, increases the number of Nullify Damage stacks on all allies who have Nullify Damage.\"",
+    "popup_text": ""
+  },
+  {
+    "id": 120000605,
+    "description": "Grants \"When stunning an enemy, grants 1 stack of Nullify Damage to all allies who don't have Nullify Damage.\"",
+    "popup_text": ""
+  },
+  {
+    "id": 120000606,
+    "description": "Grants a state that \"When using Fire element battle items, increases damage taken from battle items by target (MAX 999%).\"",
+    "popup_text": ""
+  },
+  {
+    "id": 120000607,
+    "description": "Grants a state that \"When using Ice element battle items, increases damage taken from battle items by target (MAX 999%).\"",
+    "popup_text": ""
+  },
+  {
+    "id": 120000608,
+    "description": "Grants a state that \"When using Bolt element battle items, increases damage taken from battle items by target (MAX 999%).\"",
+    "popup_text": ""
+  },
+  {
+    "id": 120000609,
+    "description": "Grants a state that \"When using Air element battle items, increases damage taken from battle items by target (MAX 999%).\"",
+    "popup_text": ""
+  },
+  {
+    "id": 120000610,
+    "description": "Grants a state that \"When using Slash element battle items, increases damage taken from battle items by target (MAX 999%).\"",
+    "popup_text": ""
+  },
+  {
+    "id": 120000611,
+    "description": "Grants a state that \"When using Strike element battle items, increases damage taken from battle items by target (MAX 999%).\"",
+    "popup_text": ""
+  },
+  {
+    "id": 120000612,
+    "description": "Grants a state that \"When using Stab element battle items, increases damage taken from battle items by target (MAX 999%).\"",
+    "popup_text": ""
+  },
+  {
+    "id": 120000614,
+    "description": "Reduces potency of positive effects granted when not Fire element.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000615,
+    "description": "Reduces potency of positive effects granted when not Ice element.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000616,
+    "description": "Reduces potency of positive effects granted when not Bolt element.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000617,
+    "description": "Reduces potency of positive effects granted when not Air element.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000618,
+    "description": "Reduces potency of positive effects granted when not Slash element.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000619,
+    "description": "Reduces potency of positive effects granted when not Strike element.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000620,
+    "description": "Reduces potency of positive effects granted when not Stab element.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000621,
+    "description": "Reduces damage dealt to stunned enemies.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000622,
+    "description": "Grants \"When not Fire element, reduces item gauge recovery amount\" permanently to self.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000623,
+    "description": "When expert element is not Ice, reduces item gauge recovery for self (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000624,
+    "description": "When expert element is not Bolt, reduces item gauge recovery for self (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000625,
+    "description": "When expert element is not Air, reduces item gauge recovery for self (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000626,
+    "description": "When expert element is not Slash, reduces item gauge recovery for self (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000627,
+    "description": "When expert element is not Strike, reduces item gauge recovery for self (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000628,
+    "description": "When expert element is not Stab, reduces item gauge recovery for self (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000629,
+    "description": "When expert element is Fire, increases item gauge recovery for self (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000630,
+    "description": "When expert element is Ice, increases item gauge recovery for self (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000631,
+    "description": "When expert element is Bolt, increases item gauge recovery for self (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000632,
+    "description": "When expert element is Air, increases item gauge recovery for self (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000633,
+    "description": "When expert element is Slash, increases item gauge recovery for self (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000634,
+    "description": "When expert element is Strike, increases item gauge recovery for self (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000635,
+    "description": "When expert element is Stab, increases item gauge recovery for self (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000636,
+    "description": "When expert element is Fire, increases stun damage dealt for self (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000637,
+    "description": "When expert element is Ice, increases stun damage dealt for self (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000638,
+    "description": "When expert element is Bolt, increases stun damage dealt for self (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000639,
+    "description": "When expert element is Air, increases stun damage dealt for self (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000640,
+    "description": "When expert element is Slash, increases stun damage dealt for self (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000641,
+    "description": "When expert element is Strike, increases stun damage dealt for self (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000642,
+    "description": "When expert element is Stab, increases stun damage dealt for self (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000643,
+    "description": "Grants \"Damage Dealt Up when afflicted with Poison\" to self (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000644,
+    "description": "Grants \"Damage Dealt Up when afflicted with Burn\" to self (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000645,
+    "description": "Grants \"Damage Dealt Up when afflicted with Paralysis\" to self (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000646,
+    "description": "Grants \"Damage Dealt Up when afflicted with Darkness\" to self (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000647,
+    "description": "Grants \"Damage Dealt Up when afflicted with Provoke\" to self (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000648,
+    "description": "Grants \"Damage Dealt Up when immobilized\" to self (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000649,
+    "description": "Grants \"Damage Dealt Up when stunned\" to self (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000650,
+    "description": "Grants \"Damage Dealt Up when afflicted with Sleep\" to self (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000651,
+    "description": "Grants \"Damage Dealt Up when affected by 5 or more negative effects\" to self (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000652,
+    "description": "Grants \"Damage Dealt Up when HP is 50% or below\" to self (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000653,
+    "description": "Grants \"Damage Dealt Up when target has status effects\" to self (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000654,
+    "description": "Grants \"Negative Effect Potency Down when affinity is not Fire\" to self (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000655,
+    "description": "Grants \"Negative Effect Potency Down when affinity is not Ice\" to self (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000656,
+    "description": "Grants \"Negative Effect Potency Down when affinity is not Bolt\" to self (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000657,
+    "description": "Grants \"Negative Effect Potency Down when affinity is not Air\" to self (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000658,
+    "description": "Grants \"Negative Effect Potency Down when affinity is not Slash\" to self (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000659,
+    "description": "Grants \"Negative Effect Potency Down when affinity is not Strike\" to self (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000660,
+    "description": "Grants \"Negative Effect Potency Down when affinity is not Stab\" to self (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000661,
+    "description": "Grants \"Positive Effect Potency Down when affinity is not Fire\" to self (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000662,
+    "description": "Grants \"Positive Effect Potency Down when affinity is not Ice\" to self (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000663,
+    "description": "Reduces positive effect potency granted when affinity is not Bolt (Permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000664,
+    "description": "Reduces positive effect potency granted when affinity is not Air (Permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000665,
+    "description": "Reduces positive effect potency granted when affinity is not Slash (Permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000666,
+    "description": "Reduces positive effect potency granted when affinity is not Strike (Permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000667,
+    "description": "Reduces positive effect potency granted when affinity is not Stab (Permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000668,
+    "description": "Reduces damage dealt by sources other than battle items (Permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000669,
+    "description": "Reduces damage dealt to stunned enemies (Permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000670,
+    "description": "When using Fire affinity, grants Nullify Damage (5 times).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000671,
+    "description": "When using Ice affinity, grants Nullify Damage (5 times).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000672,
+    "description": "When using Bolt affinity, grants Nullify Damage (5 times).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000673,
+    "description": "When using Air affinity, grants Nullify Damage (5 times).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000674,
+    "description": "When using Slash affinity, grants Nullify Damage (5 times).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000675,
+    "description": "When using Strike affinity, grants Nullify Damage (5 times).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000676,
+    "description": "When using Stab affinity, grants Nullify Damage (5 times).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000678,
+    "description": "Boosts item recovery amount.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000679,
+    "description": "After action, boosts item gauge recovery amount.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000680,
+    "description": "Increases critical rate for battle items.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000681,
+    "description": "Boosts critical rate for items.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000682,
+    "description": "For each ally from Infinite Island Chain, boosts battle item damage (up to 3000%).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000683,
+    "description": "When using Stab battle items, grants battle item damage boost to all allies (up to 3000%).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000684,
+    "description": "When using a Slash battle item, grants all allies Item Damage Up (up to 3000%).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000685,
+    "description": "Grants \"When using a Stab battle item, apply Item Damage Up to self\".",
+    "popup_text": ""
+  },
+  {
+    "id": 120000686,
+    "description": "Grants \"When using a Slash battle item, apply Item Damage Up to self\".",
+    "popup_text": ""
+  },
+  {
+    "id": 780097008,
+    "description": "Applies a wet effect to the character.",
+    "popup_text": ""
+  },
+  {
+    "id": 814000026,
+    "description": "Ally Counter: Decreases allies' damage dealt by 90%, stun damage dealt by 30%.",
+    "popup_text": ""
+  },
+  {
+    "id": 814000027,
+    "description": "Ally Counter: Decreases allies' damage dealt by 95%, stun damage dealt by 50%.",
+    "popup_text": ""
+  },
+  {
+    "id": 814000028,
+    "description": "Enemy Counter: Increases enemy's damage received by 100%.",
+    "popup_text": ""
+  },
+  {
+    "id": 814000029,
+    "description": "All Counter: Decreases status effect resistance by 50%.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001004,
+    "description": "While equipped to a Defender with Slash affinity, reduces damage received when HP is 70% or higher.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001005,
+    "description": "While equipped to a Defender with Slash affinity, reduces damage received from single target attacks.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001006,
+    "description": "While equipped to a Defender with Slash affinity, after using a skill, grants \"Reduce Damage from Area Attacks\" to all allies until they take 1 hit.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001007,
+    "description": "When equipped to Yanne [Mother's Affection], when taking damage, grants \"Critical Damage Up\" to 1 ally with highest P.ATK until the end of their next action (non-stackable).",
+    "popup_text": ""
+  },
+  {
+    "id": 6001008,
+    "description": "While equipped to a Breaker with Slash affinity, increases stun damage when attacking enemy weaknesses.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001009,
+    "description": "While equipped with Slash affinity, increases effect potency received from boost-type panels.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001010,
+    "description": "While equipped to a Breaker with Slash affinity, before attacking, reduces target's slash resistance until they take 2 hits.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001011,
+    "description": "When equipped to Resna [Rise Above Fate], when target is stunned, increases damage received by target until they take 2 hits.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001012,
+    "description": "When equipped to Resna [Rise Above Fate], when target is stunned, grants \"Stun Damage Up\" to self (non-stackable).",
+    "popup_text": ""
+  },
+  {
+    "id": 13000330,
+    "description": "While equipped with Slash affinity, increases HP recovery received by {}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 71042001,
+    "description": "Grants permanent damage reduction to self.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001213,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001214,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001215,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001216,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001217,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001218,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001219,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001233,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 81014001,
+    "description": "Grants counter state to self (100% activation rate).",
+    "popup_text": ""
+  },
+  {
+    "id": 81133001,
+    "description": "When recovering from stun, grants SPD Up to self for 3 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 81133002,
+    "description": "When HP falls to 70% or lower, grants Damage Received Down to self for 5 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 86006000,
+    "description": "Grants Critical Damage Received Up (200% accumulated) to self.",
+    "popup_text": ""
+  },
+  {
+    "id": 91001577,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001578,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001579,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001580,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001581,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001582,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001583,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001584,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001588,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001589,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001590,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001591,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001592,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001600,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000195,
+    "description": "When specialty element is Slash, upon taking damage, grants \"Critical Damage Up\" to all allies until the end of action (max 2 stacks).",
+    "popup_text": ""
+  },
+  {
+    "id": 95000196,
+    "description": "Boosts stun damage when specialty element is Slash and attacking weakness.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000198,
+    "description": "When equipped to an Attacker, boosts critical damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000199,
+    "description": "While equipped to an Attacker, boosts Critical Rate.",
+    "popup_text": ""
+  }
+]

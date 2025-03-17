@@ -1,0 +1,954 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u308C\u3058\u3083\u3001\u78BA\u304B\u306B\u304A\u9810\u304B\u308A\u3057\u307E\u3057\u305F",
+        "localizations": {
+          "en": "I\u0027ll be sure to deliver these safely."
+        }
+      },
+      "2072370017": {
+        "text": "\u884C\u5546\u4EBA",
+        "localizations": {
+          "en": "Merchant"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "\u3048\u3048\u3001\u304A\u9858\u3044\u3057\u307E\u3059\u308F\u3002\u3069\u3046\u304B\u3001\u5E83\u3044\u4E16\u754C\u3078",
+        "localizations": {
+          "en": "Yes, please do. Send them far and wide."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30E9",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "\u672C\u3001\u51FA\u767A\u3057\u305F\u306D",
+        "localizations": {
+          "en": "The book\u0027s finally on its way!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "\u2026\u2026\u3048\u3048",
+        "localizations": {
+          "en": "...Indeed."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30E9",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "\u30E9\u30E9\u306E\u60F3\u3044\u304C\u3001\u6B32\u3057\u3044\u4EBA\u306B\u5C4A\u304F\u3068\u3044\u3044\u306D",
+        "localizations": {
+          "en": "I hope your message reaches the people who need it!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u9858\u3063\u3066\u3044\u307E\u3059\u308F",
+        "localizations": {
+          "en": "That is my wish as well."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30E9",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "\u2026\u2026\u3060\u3051\u3069\u3001\u524D\u306E\u672C\u3068\u9055\u3063\u3066\u3001\n\u3042\u3093\u307E\u308A\u5206\u539A\u304F\u306A\u304B\u3063\u305F\u3088\u306D\uFF1F",
+        "localizations": {
+          "en": "But you know... this one\u0027s a lot thinner than your last book, isn\u0027t it?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "\u3082\u3063\u3068\u66F8\u304D\u305F\u3044\u3053\u3068\u3042\u3063\u305F\u3093\u3058\u3083\u306A\u3044\uFF1F",
+        "localizations": {
+          "en": "Didn\u0027t you have more you wanted to say?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "\u3044\u3048\u3002\u3042\u308C\u3067\u3044\u3044\u306E\u3067\u3059",
+        "localizations": {
+          "en": "No, this length is perfect."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30E9",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u307E\u308A\u5206\u539A\u304F\u3066\u3082\u656C\u9060\u3055\u308C\u3066\u3057\u307E\u3044\u307E\u3059\u3082\u306E",
+        "localizations": {
+          "en": "Too thick a book might discourage readers."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30E9",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "\u3069\u3046\u3057\u3066\u3082\u4F1D\u3048\u305F\u3044\u3053\u3068\u3060\u3051\u3092\u3001\u7C21\u6F54\u306B\u3002\n\u305D\u306E\u307B\u3046\u304C\u5927\u5207\u3060\u3068\u5224\u65AD\u3057\u305F\u306E\u3067\u3059",
+        "localizations": {
+          "en": "I chose to be concise, focusing only on what absolutely needed to be said."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30E9",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3063\u304B\u2026\u2026\n\u306D\u3001\u4F55\u3092\u66F8\u3044\u305F\u304B\u805E\u3044\u3066\u3082\u3044\u3044\uFF1F",
+        "localizations": {
+          "en": "I see... Hey, can I ask what you wrote about?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "\u2026\u2026\u91CD\u8981\u306A\u3053\u3068\u306F\u3001\uFF12\u3064\u3060\u3051",
+        "localizations": {
+          "en": "...There were only two crucial points."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30E9",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "\u7686\u306E\u6280\u8853\u306F\u751F\u6D3B\u3092\u8C4A\u304B\u306B\u3059\u308B\n\u5C0A\u3044\u4FA1\u5024\u306E\u3042\u308B\u3082\u306E\u3060\u3068\u3044\u3046\u3053\u3068",
+        "localizations": {
+          "en": "First, that everyone\u0027s skills are precious and can enrich our daily lives."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30E9",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3057\u3066\u3001\u30E9\u30E9\u30FB\u30AD\u30F3\u30B0\u30C0\u30E0\u306B\u306F\u3001\n\u73FE\u72B6\u306B\u6E80\u8DB3\u305B\u305A\u6E07\u304D\u3092\u899A\u3048\u308B\u4EBA\u3005\u3092\n\u8FCE\u3048\u308B\u6E96\u5099\u304C\u3042\u308B\u3053\u3068",
+        "localizations": {
+          "en": "And second, that Lara Kingdom stands ready to welcome those who yearn for more than their current situation."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30E9",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "\u3067\u3059\u304B\u3089\u6C17\u8CA0\u308F\u305A\u306B\u3001\u58F0\u3092\u4E0A\u3052\u3066\u307B\u3057\u3044\u3068",
+        "localizations": {
+          "en": "I want them to feel free to reach out."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30E9",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u308C\u3001\u3059\u3063\u3054\u304F\u5206\u304B\u308A\u3084\u3059\u3044\u306D\uFF01",
+        "localizations": {
+          "en": "That\u0027s super easy to understand!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "\u304D\u3063\u3068\u3001\u5171\u611F\u3059\u308B\u4EBA\u305F\u3061\u304C\u898B\u3064\u304B\u308B\u3088\u3002\n\u3044\u3064\u304B\u306E\u30EC\u30B9\u30CA\u3061\u3083\u3093\u307F\u305F\u3044\u306B\uFF01",
+        "localizations": {
+          "en": "I\u0027m sure you\u0027ll find people who feel the same way. Just like Resna did!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "\u3048\u3048\u3001\u305D\u3046\u9858\u3044\u307E\u3059\u308F\u3002\u306F\u3044\u3001\u3053\u3061\u3089\n\uFF11\u518A\u3001\u3042\u306A\u305F\u306B\u8D08\u308A\u307E\u3059",
+        "localizations": {
+          "en": "Yes, that is my hope. Here, this copy is for you."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30E9",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "\uFF01\u3000\u3042\u308A\u304C\u3068\u3046\n\u3086\u3063\u304F\u308A\u8AAD\u3093\u3067\u307F\u308B\u3088",
+        "localizations": {
+          "en": "Oh! Thank you! I\u0027ll read it carefully."
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "\u304B\u3064\u3066\u3001\u81EA\u8EAB\u306E\u6E07\u304D\u3092\n\u7652\u3059\u305F\u3081\u3067\u3057\u304B\u306A\u304B\u3063\u305F\u884C\u70BA\u304C\u2026\u2026",
+        "localizations": {
+          "en": "What began as a mere pursuit to quench my own thirst..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30E9",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "\u4ECA\u306F\u3001\u8AB0\u304B\u3092\u6551\u3046\u304B\u3082\u3057\u308C\u306A\u3044\u306A\u3093\u3066",
+        "localizations": {
+          "en": "Now might actually help save others..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30E9",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u6C17\u4ED8\u3051\u305F\u306E\u306F\u3001\n\u30EC\u30B9\u30CA\u3068\u3042\u306A\u305F\u306E\u304A\u304B\u3052\u3067\u3059\u308F",
+        "localizations": {
+          "en": "I realized this thanks to you and Resna."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30E9",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "\u30EC\u30B9\u30CA\u3061\u3083\u3093\u306F\u3068\u3082\u304B\u304F\u3001\u30A2\u30BF\u30B7\u306F\u5225\u306B\u2026\u2026",
+        "localizations": {
+          "en": "Well, Resna maybe, but I didn\u0027t do anything special..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "\u3067\u306F\u3001\u3042\u306A\u305F\u306E\u3054\u5BB6\u65CF\u306B\u3082\u611F\u8B1D\u3092",
+        "localizations": {
+          "en": "Then I shall thank your family as well."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30E9",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3046\u8A00\u308F\u308C\u305F\u3089\u2026\u2026\u53D7\u3051\u53D6\u3063\u3066\u304A\u3053\u3046\u304B\u306A",
+        "localizations": {
+          "en": "Well, if you put it that way... I guess I\u0027ll accept the thanks!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "\u3048\u3078\u3078\u3002\u3069\u3046\u3044\u305F\u3057\u307E\u3057\u3066\uFF01",
+        "localizations": {
+          "en": "Hehehe. You\u0027re welcome!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u308A\u304C\u3068\u3046\u3001\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Thank you, Izana."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30E9",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u3001\u8033\u306B\u89E6\u308C\u3066\u3044\u3044\u306E\u306F\u30EC\u30B9\u30CA\u3061\u3083\u3093\n\u3060\u3051\u3060\u304B\u3089\u306D\uFF01",
+        "localizations": {
+          "en": "Ah, remember only Resna gets to touch my ears!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "\u5927\u4E08\u592B\u3067\u3059\u308F\u3002\u9AEA\u3092\u64AB\u3067\u308B\u3060\u3051\u3067\u3059\u3082\u306E",
+        "localizations": {
+          "en": "Don\u0027t worry. I shall only pat your head."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30E9",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "\u3046\u30FC\u3093\u3001\u307E\u3042\u3001\u305D\u308C\u306A\u3089\uFF1F",
+        "localizations": {
+          "en": "Mmm, well... I guess that\u0027s okay?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u3044\u3001\u610F\u5916\u3068\u4E0A\u624B\u3044\u2026\u2026\uFF01\uFF1F\uFF09",
+        "localizations": {
+          "en": "(W-wow, she\u0027s surprisingly good at this...!?)"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "\u306F\u3041\u3042\u3042\uFF5E\uFF5E\uFF5E",
+        "localizations": {
+          "en": "Ahhhhh~"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "\u3075\u3075\u3002\u304A\u6C17\u306B\u53EC\u3057\u3066\uFF1F",
+        "localizations": {
+          "en": "Fufu. Are you enjoying yourself?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30E9",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3001\u305D\u3001\u305D\u3093\u306A\u3053\u3068\u2026\u2026\uFF01",
+        "localizations": {
+          "en": "N-n-not at all...!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "\u3075\u308F\u3041\u3042\u3042\uFF5E\uFF5E\uFF5E",
+        "localizations": {
+          "en": "Mmmmm~"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "\u304A\u3049\u3001\u3053\u308C\u304C\u738B\u306E\u3044\u305F\u308F\u308A\u2026\u2026",
+        "localizations": {
+          "en": "Ooh, so this is royal pampering..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "\u3055\u3042\u3001\u8EAB\u3092\u4EFB\u305B\u3066\u2026\u2026",
+        "localizations": {
+          "en": "Yes, just relax..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30E9",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "\u3075\u306B\u3083\u3042\u3041\u3042\uFF5E\u2026\u2026",
+        "localizations": {
+          "en": "Nyaaaa~..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "\u3082\u3046\u3001\u3082\u3066\u3042\u305D\u3070\u306A\u3044\u3067\u3088\u306D\uFF01",
+        "localizations": {
+          "en": "Hey, stop teasing me!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "\u3068\u306F\u3044\u3048\u3001\u3042\u306A\u305F\u3082\u307E\u3093\u3056\u3089\u3067\u306F\n\u306A\u304B\u3063\u305F\u306E\u3067\u306F\uFF1F",
+        "localizations": {
+          "en": "But you seemed to be enjoying it quite a bit."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30E9",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "\u305D\u3001\u305D\u3093\u306A\u3053\u3068\u306A\u3044\u3082\u3093\uFF01\n\u6B21\u306F\u305D\u3046\u7C21\u5358\u306B\u64AB\u3067\u3055\u305B\u306A\u3044\u3088",
+        "localizations": {
+          "en": "N-no I wasn\u0027t! I won\u0027t let you pat me so easily next time!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u3089\u3002\u6B21\u304C\u3042\u308B\u3001\u3068\uFF1F",
+        "localizations": {
+          "en": "Oh? So there will be a next time?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30E9",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 43,
+    "properties": {
+      "999008199": {
+        "text": "\u306A\u3001\u306A\u3044\u3063\u3066\u3070\uFF01\n\u307E\u3063\u305F\u304F\u2026\u2026\u6CB9\u65AD\u3082\u9699\u3082\u306A\u3044\u3093\u3060\u304B\u3089",
+        "localizations": {
+          "en": "N-no there won\u0027t! Geez... you never let your guard down, do you?"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 44,
+    "properties": {
+      "999008199": {
+        "text": "\u3067\u3059\u304C\u3001\u3044\u3064\u304B\u307E\u305F\n\u5354\u529B\u3092\u4EF0\u3050\u3053\u3068\u3082\u3042\u308B\u3067\u3057\u3087\u3046",
+        "localizations": {
+          "en": "Though I\u0027m sure I\u0027ll need your help again someday."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30E9",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 45,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u306A\u305F\u306E\u77E5\u8B58\u3084\u3001\u7D4C\u9A13\u3092\u983C\u308A\u306B\u3002\n\u305D\u306E\u3068\u304D\u306F\u2026\u2026",
+        "localizations": {
+          "en": "Your knowledge and experience will be invaluable. When that time comes..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30E9",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 46,
+    "properties": {
+      "999008199": {
+        "text": "\u3044\u3044\u3088\u3002\u624B\u4F1D\u3063\u3066\u3042\u3052\u308B",
+        "localizations": {
+          "en": "Sure, I\u0027ll help you out."
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 47,
+    "properties": {
+      "999008199": {
+        "text": "\u30E9\u30E9\u306E\u9811\u5F35\u308A\u3092\u898B\u305F\u3089\u3001\n\u5FDC\u63F4\u3057\u305F\u304F\u306A\u3063\u3061\u3083\u3063\u305F\u3057",
+        "localizations": {
+          "en": "Seeing how hard you work makes me want to support you!"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 48,
+    "properties": {
+      "999008199": {
+        "text": "\u2026\u2026\u5B09\u3057\u3044\u3053\u3068\u3092\u4EF0\u3044\u307E\u3059\u306E\u306D",
+        "localizations": {
+          "en": "...How kind of you to say."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30E9",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 49,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u306A\u305F\u3092\u9A0E\u58EB\u306B\u8FCE\u3048\u3089\u308C\u306A\u304B\u3063\u305F\u3053\u3068\u306F\n\u4ECA\u3067\u3082\u6B8B\u5FF5\u306B\u601D\u3063\u3066\u3044\u307E\u3059\u308F",
+        "localizations": {
+          "en": "I still regret that I couldn\u0027t make you one of my knights."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30E9",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 50,
+    "properties": {
+      "999008199": {
+        "text": "\u3067\u3059\u304C\u3001\u305D\u308C\u3088\u308A\u3082\u2026\u2026",
+        "localizations": {
+          "en": "However, more than that..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30E9",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 51,
+    "properties": {
+      "999008199": {
+        "text": "\u30AD\u30F3\u30B0\u30C0\u30E0\u306E\u7406\u89E3\u8005\u3068\u306A\u3063\u3066\n\u304F\u3060\u3055\u3063\u305F\u3053\u3068\u304C\u3001\u4F55\u3088\u308A\u3082\u5B09\u3057\u3044\u306E\u3067\u3059",
+        "localizations": {
+          "en": "I\u0027m happier that you\u0027ve come to understand and support the Kingdom."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30E9",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 52,
+    "properties": {
+      "999008199": {
+        "text": "\u3042\u308A\u304C\u3068\u3046\u3001\u30A4\u30B6\u30CA\u3002\n\u3053\u308C\u304B\u3089\u3082\u983C\u308A\u306B\u3057\u3066\u3044\u307E\u3057\u3066\u3088",
+        "localizations": {
+          "en": "Thank you, Izana. I\u0027ll be counting on you."
+        }
+      },
+      "2072370017": {
+        "text": "\u30E9\u30E9",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 53,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u30A2\u30BF\u30B7\u306F\u30EC\u30B9\u30CA\u3061\u3083\u3093\u306E\u9A0E\u58EB\u3060\u3002\n\u3000\u305D\u306E\u6C7A\u610F\u306F\u63FA\u3089\u304C\u306A\u3044\u3051\u3069\u2026\u2026\uFF09",
+        "localizations": {
+          "en": "(I\u0027m Resna\u0027s knight, and that won\u0027t change..."
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 54,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u3061\u3087\u3063\u3068\u60DC\u3057\u304B\u3063\u305F\u304B\u3082\u3063\u3066\u601D\u3046\u304F\u3089\u3044\n\u3000\u30AD\u30F3\u30B0\u30C0\u30E0\u304C\u8C4A\u304B\u306B\u306A\u3063\u305F\u3089\u7D20\u6575\u3060\u306A\uFF09",
+        "localizations": {
+          "en": "(But it would be nice if the Kingdom becomes so prosperous that I almost regret not joining!)"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 55,
+    "properties": {
+      "999008199": {
+        "text": "\uFF08\u3067\u3082\u3001\u4ECA\u306E\u30E9\u30E9\u3092\u898B\u3066\u3044\u308B\u3068\u3001\n\u3000\u305D\u306E\u65E5\u306F\u9060\u304F\u306A\u3044\u3063\u3066\u6C17\u304C\u3059\u308B\u3088\uFF01\uFF09",
+        "localizations": {
+          "en": "(And seeing Lara now, I have a feeling that day isn\u0027t too far off!)"
+        }
+      },
+      "2072370017": {
+        "text": "\u30A4\u30B6\u30CA",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  }
+]

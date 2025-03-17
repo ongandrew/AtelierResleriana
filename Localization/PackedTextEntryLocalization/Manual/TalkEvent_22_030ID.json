@@ -1,0 +1,631 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "ヴァレリアー！",
+        "localizations": {
+          "en": "Valeria!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "レスナじゃねぇか。どうした？",
+        "localizations": {
+          "en": "Oh, if it isn't Resna. What's up?"
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "こんにちは。今日は「星の繭」に食事に行かないか、\nヴァレリアを誘おうと思って……",
+        "localizations": {
+          "en": "Hello. I was thinking of inviting Valeria to eat at the Star's Cocoon..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "おう。ヴァレリア、行ってきたらどうだ？",
+        "localizations": {
+          "en": "Hey, that sounds nice. Valeria, why don't you go with her?"
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "私……ちょっと身体を動かしたいから。\n山に出かけてくる",
+        "localizations": {
+          "en": "I... want to get some exercise. I'm heading to the mountains."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "あ……",
+        "localizations": {
+          "en": "Oh..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "毎日来てもらってんのに悪いな",
+        "localizations": {
+          "en": "Sorry about that. She keeps turning you down even though you visit every day."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "あいつも色々、不安なんだろう。\nあんまり責めないでやってくれ",
+        "localizations": {
+          "en": "She's probably dealing with a lot of uncertainty right now. Try not to take it personally."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "いえ……私のせいです。\nヴァレリアの都合も考えないから……",
+        "localizations": {
+          "en": "No... it's my fault. I wasn't considering her feelings..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "まぁ、気楽に待ってやってくれよ",
+        "localizations": {
+          "en": "Well, just take it easy and give her time."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "はい……",
+        "localizations": {
+          "en": "Yes..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "バーバラよぅ、こういうとき、なんて言ってやるのが\n一番いいんだろうな……",
+        "localizations": {
+          "en": "Barbara, what would you say at a time like this..."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "はぁ……私、何してるんだろ……",
+        "localizations": {
+          "en": "*sigh* What am I doing..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "（ヴァレリアに避けられるようになっちゃった……）",
+        "localizations": {
+          "en": "(Valeria's been avoiding me...)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "（記憶が無くなることは、覚悟してた。\n\u3000私への作られた好意が無くなったことも）",
+        "localizations": {
+          "en": "(I was prepared for her losing her memories. Even for her forced feelings for me to disappear.)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "（でも、やっぱり辛いよ……）",
+        "localizations": {
+          "en": "(But it still hurts...)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "（どうしたら……また仲良くなれるんだろう）",
+        "localizations": {
+          "en": "(How can I... get close to her again?)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "あれ。レスナ、ヴァレリアと一緒に来るって\n言ってなかったっけ？",
+        "localizations": {
+          "en": "Huh? Didn't you say you were coming with Valeria?"
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "それが、断られてしまいまして……",
+        "localizations": {
+          "en": "Well, she turned me down..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "……ヴァレリア、まだ相変わらず？",
+        "localizations": {
+          "en": "...Still the same with Valeria?"
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "はい……",
+        "localizations": {
+          "en": "Yes..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "そっか……",
+        "localizations": {
+          "en": "I see..."
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "ごめんね、レスナ。「きっと元通りになる」だなんて\n無責任なこと言っちゃって",
+        "localizations": {
+          "en": "I'm sorry, Resna. I shouldn't have carelessly said that everything will go back to normal."
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "そ、そんな！\u3000ライザ先輩が謝る必要なんて……",
+        "localizations": {
+          "en": "N-no! You don't need to apologize, Miss Ryza..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "あたしも、できることはなんでも手伝うからさ。\nあんまり、一人で抱え込んじゃダメだよ",
+        "localizations": {
+          "en": "I'll help however I can, okay? Don't try to handle everything by yourself."
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "そんなことは……",
+        "localizations": {
+          "en": "That's not..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "その顔を見れば分かるよ。\nぜんぜん余裕ないって顔してる",
+        "localizations": {
+          "en": "I can tell by your face. You're really struggling with this."
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "話がしたくなったら、いつでも聞くから。\n無理しないでね",
+        "localizations": {
+          "en": "If you ever need to talk, I'm here. Don't push yourself too hard."
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "私、そんな顔してたんだ……",
+        "localizations": {
+          "en": "Was it that obvious on my face..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "（ヴァレリアだって、記憶を無くして不安なはず）",
+        "localizations": {
+          "en": "(Valeria must be anxious too, having lost her memories.)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "（私、自分のことばかりで、ヴァレリアの気持ちを\n\u3000ちゃんと考えられていなかったのかも）",
+        "localizations": {
+          "en": "(I've been so wrapped up in my own feelings, I haven't properly considered how Valeria feels.)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "（焦ったからって、ヴァレリアの記憶が\n\u3000戻るわけじゃない）",
+        "localizations": {
+          "en": "(Being impatient won't bring her memories back.)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "（「急がば回れ」って、イザナちゃんも言ってた）",
+        "localizations": {
+          "en": "(Like Izana always says, 'more haste, less speed.')"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "（少し距離を置いてみるのも悪くない、かも）",
+        "localizations": {
+          "en": "(Maybe giving her some space isn't such a bad idea.)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "……そういえば今度、\n王様に謁見するよう言われてたっけ",
+        "localizations": {
+          "en": "...Come to think of it, I was summoned for an audience with His Majesty."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "私の夢に向けての大きな一歩……\n中途半端な気持ちじゃダメだ",
+        "localizations": {
+          "en": "This is a big step toward my dream... I can't face it half-heartedly."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "気持ちを切り替えて、\n錬金術の腕も、もっともっと磨かなきゃ！",
+        "localizations": {
+          "en": "Time to focus and work even harder on my alchemy!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  }
+]

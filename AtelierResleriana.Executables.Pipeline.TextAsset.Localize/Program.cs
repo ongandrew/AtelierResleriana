@@ -747,7 +747,7 @@ namespace AtelierResleriana.Executables.Pipeline.TextAsset.Localize
                 }
 
                 foreach (string combinedFilePath in Directory.EnumerateFiles(combinedLocalizationsDirectory))
-                {
+                {   
                     string fileName = Path.GetFileName(combinedFilePath);
                     string machineFilePath = Path.Combine(machineLocalizationsDirectory, fileName);
                     string finalFilePath = Path.Combine(finalLocalizationsDirectory, fileName);

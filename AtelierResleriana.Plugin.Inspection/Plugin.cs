@@ -28,19 +28,16 @@ public class Plugin : BasePlugin
 
         Harmony = new Harmony(MyPluginInfo.PLUGIN_GUID);
 
-        //Harmony.Patch(AccessTools.Method(typeof(BaseWebViewPrefab), nameof(BaseWebViewPrefab.WaitUntilInitialized)),
-        //    prefix: new HarmonyMethod(typeof(Plugin), nameof(BaseWebViewPrefabWaitUntilInitializedPrefix)));
+        //foreach (var methodInfo in typeof(BaseWebView).GetMethods(BindingFlags.Public | BindingFlags.Static | BindingFlags.Instance | BindingFlags.NonPublic))
+        //{
+        //    if (methodInfo.Name != "LoadUrl")
+        //    {
+        //        continue;
+        //    }
 
-        foreach (var methodInfo in typeof(BaseWebView).GetMethods(BindingFlags.Public | BindingFlags.Static | BindingFlags.Instance | BindingFlags.NonPublic))
-        {
-            if (methodInfo.Name != "LoadUrl")
-            {
-                continue;
-            }
-
-            Harmony.Patch(methodInfo,
-                prefix: new HarmonyMethod(typeof(Plugin), nameof(BaseWebViewLoadUrlPrefix)));
-        }
+        //    Harmony.Patch(methodInfo,
+        //        prefix: new HarmonyMethod(typeof(Plugin), nameof(BaseWebViewLoadUrlPrefix)));
+        //}
 
         //Harmony.Patch(AccessTools.Method(typeof(BaseWebView), nameof(BaseWebView.LoadUrl), new Type[] { typeof(string) }),
         //    prefix: new HarmonyMethod(typeof(Plugin), nameof(Inspect)));

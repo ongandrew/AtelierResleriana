@@ -104,7 +104,7 @@
       "999008199": {
         "text": "{0}を使ってキャラまたはメモリアを交換しますか？",
         "localizations": {
-          "en": "Exchange using {0}?"
+          "en": "Exchange {0} for {1}?"
         }
       }
     }
@@ -113,9 +113,9 @@
     "id": 411598872,
     "properties": {
       "999008199": {
-        "text": "※交換できるキャラ、メモリアの提供割合は「提供割合」から確認できます。",
+        "text": "※交換できる{0}の提供割合は「提供割合」から確認できます。",
         "localizations": {
-          "en": "※You can check the available character and memoria rates in 'Drop Rates.'"
+          "en": "※You can check the available {0} rates in 'Drop Rates.'"
         }
       }
     }

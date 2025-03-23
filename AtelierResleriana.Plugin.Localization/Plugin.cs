@@ -85,6 +85,14 @@ namespace AtelierResleriana.Plugin.Localization
                 Harmony.Patch(AccessTools.Method(typeof(ILNFJFLDFMJ), nameof(ILNFJFLDFMJ.IPFEBHBEJCL)),
                     prefix: new HarmonyMethod(typeof(Plugin), nameof(ILNFJFLDFMJIPFEBHBEJCLPrefix)));
 
+                // Character profile voice line.
+                Harmony.Patch(AccessTools.Method(typeof(CharaProfileDisplay), nameof(CharaProfileDisplay.KDNMGKADBEF)),
+                    prefix: new HarmonyMethod(typeof(Plugin), nameof(CharaProfileDisplayKDNMGKADBEFPrefix)));
+
+                // Character awakening window synthesis item gift description.
+                Harmony.Patch(AccessTools.Method(typeof(CharaRarityUpWindow), nameof(CharaRarityUpWindow.NICCOKABDGM)),
+                    prefix: new HarmonyMethod(typeof(Plugin), nameof(CharaRarityUpWindowNICCOKABDGMPrefix)));
+
                 // Synthesis item material window description.
                 Harmony.Patch(AccessTools.Method(typeof(SynthesisMaterialInfoDisp), nameof(SynthesisMaterialInfoDisp.KDNMGKADBEF), new Type[] { typeof(AECFEKECHCK), typeof(bool) }),
                     prefix: new HarmonyMethod(typeof(Plugin), nameof(SynthesisMaterialInfoDispKDNMGKADBEFPrefix)));
@@ -334,6 +342,33 @@ namespace AtelierResleriana.Plugin.Localization
                 if (!string.IsNullOrWhiteSpace(newsServerUrl))
                 {
                     url = newsServerUrl;
+                }
+            }
+        }
+
+        private static void CharaProfileDisplayKDNMGKADBEFPrefix(CharaProfileDisplay __instance)
+        {
+            if (__instance != null)
+            {
+                if (__instance.m_voiceDetailText != null)
+                {
+                    __instance.m_voiceDetailText.enableWordWrapping = true;
+                    __instance.m_voiceDetailText.overflowMode = TMPro.TextOverflowModes.Overflow;
+                }
+            }
+        }
+
+        private static void CharaRarityUpWindowNICCOKABDGMPrefix(CharaRarityUpWindow __instance)
+        {
+            if (__instance != null)
+            {
+                if (__instance.m_giftBonusElement != null)
+                {
+                    if (__instance.m_giftBonusElement.m_detailText != null)
+                    {
+                        __instance.m_giftBonusElement.m_detailText.enableWordWrapping = true;
+                        __instance.m_giftBonusElement.m_detailText.overflowMode = TMPro.TextOverflowModes.Overflow;
+                    }
                 }
             }
         }

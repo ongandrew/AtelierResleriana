@@ -1,0 +1,920 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "いやあ……あの魔物が近づいてきた時は、\nもうダメかと思ったよ",
+        "localizations": {
+          "en": "Man... when that monster got close, I thought we were done for."
+        }
+      },
+      "2072370017": {
+        "text": "乗客Ａ",
+        "localizations": {
+          "en": "Passenger A"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "なあ、見たかい？\u3000空を飛ぶ魔女！",
+        "localizations": {
+          "en": "Hey, did you see her? The witch in the sky!"
+        }
+      },
+      "2072370017": {
+        "text": "乗客Ｂ",
+        "localizations": {
+          "en": "Passenger B"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "見た見た！\u3000魔物を船から引き剥がしてくれたんだろ？",
+        "localizations": {
+          "en": "I sure did! She lured that monster away from the ship!"
+        }
+      },
+      "2072370017": {
+        "text": "乗客Ａ",
+        "localizations": {
+          "en": "Passenger A"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "いったい何者だったんだろうな",
+        "localizations": {
+          "en": "I wonder who she was..."
+        }
+      },
+      "2072370017": {
+        "text": "乗客Ｂ",
+        "localizations": {
+          "en": "Passenger B"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "良かった……船が無事で",
+        "localizations": {
+          "en": "I'm so glad that the ship is safe."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "アルビーナのおかげね",
+        "localizations": {
+          "en": "It's all thanks to you, Alvina."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "いや、アタシはちょっと手伝っただけで……",
+        "localizations": {
+          "en": "I didn't really do anything..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "あっ！\u3000魔女のお姉ちゃん！",
+        "localizations": {
+          "en": "Oh! It's the witch lady!"
+        }
+      },
+      "2072370017": {
+        "text": "乗客の子供",
+        "localizations": {
+          "en": "Child Passenger"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "えっ！？",
+        "localizations": {
+          "en": "Huh!?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "見てたよ！\u3000ホウキで飛んでたの！",
+        "localizations": {
+          "en": "I saw you! Flying on your broom!"
+        }
+      },
+      "2072370017": {
+        "text": "乗客の子供",
+        "localizations": {
+          "en": "Child Passenger"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "あ、あはは……そうか、見てたかー。\nでもあれは、神様の加護の力なんだよ",
+        "localizations": {
+          "en": "Ah, haha... is that so? That was just the a blessing bestowed unto us from our gods."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "！\u3000そっか。そうだね、うん！\u3000とにかく、ありがとう",
+        "localizations": {
+          "en": "Oh! Is that so? Anyway, thank you!"
+        }
+      },
+      "2072370017": {
+        "text": "乗客の子供",
+        "localizations": {
+          "en": "Child Passenger"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "（魔女っていうのは、秘密にしなくちゃ\n\u3000いけないことなんだね！\u3000よし協力するぞ！）",
+        "localizations": {
+          "en": "(Is that your secret identity? I'll keep it a secret!)"
+        }
+      },
+      "2072370017": {
+        "text": "乗客の子供",
+        "localizations": {
+          "en": "Child Passenger"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "おお、あなたが助けてくださったのですね！",
+        "localizations": {
+          "en": "Oh, so you're the one who saved us!"
+        }
+      },
+      "2072370017": {
+        "text": "乗客Ａ",
+        "localizations": {
+          "en": "Passenger A"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "あんたは命の恩人だよ！",
+        "localizations": {
+          "en": "We owe you our lives!"
+        }
+      },
+      "2072370017": {
+        "text": "乗客Ｂ",
+        "localizations": {
+          "en": "Passenger B"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "…………",
+        "localizations": {
+          "en": "..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "アルビーナ、いいんだよ、胸を張って",
+        "localizations": {
+          "en": "It's okay, Alvina. This is your moment."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "レスナ……",
+        "localizations": {
+          "en": "Resna..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "ありがとね！\u3000お姉ちゃん！",
+        "localizations": {
+          "en": "Thank you, miss!"
+        }
+      },
+      "2072370017": {
+        "text": "乗客の子供",
+        "localizations": {
+          "en": "Child Passenger"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "う、うん……",
+        "localizations": {
+          "en": "Y-yeah..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "（よかった……本当に）",
+        "localizations": {
+          "en": "(I'm glad everything turned out alright...)"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina."
+        }
+      },
+      "2072370017": {
+        "text": "神官長",
+        "localizations": {
+          "en": "High Priest"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "し、神官長様！！",
+        "localizations": {
+          "en": "H-High Priest!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "あなたも分かっているでしょう。先の魔物の件です。\nまた、あなたが天命に背く行いをしたと",
+        "localizations": {
+          "en": "I think you know what this is about. Once again, you're actions have defied your divine calling."
+        }
+      },
+      "2072370017": {
+        "text": "神官長",
+        "localizations": {
+          "en": "High Priest"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "神官長様、アルビーナは――",
+        "localizations": {
+          "en": "High Priest, Alvina was just—"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "神官長様。アタシはこの島にあの魔物を「案内」\nしたんです。星の案内人として",
+        "localizations": {
+          "en": "High Priest, I simply guided that monster to the island. In accordance with my duty as a Star Guide."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "…………",
+        "localizations": {
+          "en": "..."
+        }
+      },
+      "2072370017": {
+        "text": "神官長",
+        "localizations": {
+          "en": "High Priest"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "それに、あの船の乗客は、\nみんなこの国を訪れた観光客たちです",
+        "localizations": {
+          "en": "Besides, everyone on the ship was an esteemed tourist visiting our land."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "アタシは最後まで、\nあの人たちを見守る義務がありますから",
+        "localizations": {
+          "en": "As their guide, it was my duty to watch over them until the very end."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "船も人も無事で、本当によかったです",
+        "localizations": {
+          "en": "I'm truly grateful that all are well and safe."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "……分かりました。今回は不問としましょう。\nただし、今後無茶な行動は控えることです",
+        "localizations": {
+          "en": "...Very well. I will overlook this incident. However, you must refrain from such reckless behavior in the future."
+        }
+      },
+      "2072370017": {
+        "text": "神官長",
+        "localizations": {
+          "en": "High Priest"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "ふぅ～～～～い……よかった",
+        "localizations": {
+          "en": "Phew... that was close."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "やるじゃん！\u3000危なかったら飛び出すつもりだったけど\n結局やっつけちまったな！",
+        "localizations": {
+          "en": "Not bad! I was ready to intervene if things went south, but you all took care of it!"
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "イェルカ！\u3000結局丸く収まったからよかったけど……\nさっきのはちょっとやりすぎだったんじゃない？",
+        "localizations": {
+          "en": "Jelka! I'm glad everything worked out, but... don't you think you took things a bit too far earlier?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "アタシたちを守りたいって気持ちは分かるけどさ……",
+        "localizations": {
+          "en": "I understand you wanted to protect us, but..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "気持ち？\u3000違う違う、アルビー",
+        "localizations": {
+          "en": "Protect you? No no, Alvie."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "これはアタシに与えられた「役割」だよ。\n神聖国風に言うなら、天命か",
+        "localizations": {
+          "en": "This was my assigned role. Or as they say in Nova, my divine calling."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "……どういうこと？",
+        "localizations": {
+          "en": "...What do you mean?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "それは、きっと",
+        "localizations": {
+          "en": "That must be..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "イェルカの言う通りだ。\n彼女は私から下された命令を守ったに過ぎない",
+        "localizations": {
+          "en": "Jelka speaks the truth. She was merely following my orders."
+        }
+      },
+      "2072370017": {
+        "text": "？？？",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "っ――！",
+        "localizations": {
+          "en": "Ah—!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "あ……",
+        "localizations": {
+          "en": "Oh..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "師匠！",
+        "localizations": {
+          "en": "Miss Saskia! Master August!"
+        }
+      },
+      "2072370017": {
+        "text": "ふたり",
+        "localizations": {
+          "en": "Both"
+        }
+      }
+    }
+  },
+  {
+    "id": 43,
+    "properties": {
+      "999008199": {
+        "text": "え……？",
+        "localizations": {
+          "en": "What...?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 44,
+    "properties": {
+      "999008199": {
+        "text": "やっぱり……",
+        "localizations": {
+          "en": "I was right..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 45,
+    "properties": {
+      "999008199": {
+        "text": "あなたが、アルビーナの師匠だったんですね",
+        "localizations": {
+          "en": "So, you were Alvina's mentor all along."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 46,
+    "properties": {
+      "999008199": {
+        "text": "そうだ",
+        "localizations": {
+          "en": "Indeed."
+        }
+      },
+      "2072370017": {
+        "text": "アウグスト",
+        "localizations": {
+          "en": "August"
+        }
+      }
+    }
+  },
+  {
+    "id": 47,
+    "properties": {
+      "999008199": {
+        "text": "師匠……私、聞きたいことがたくさんあります",
+        "localizations": {
+          "en": "Miss Saskia... I have so many things to ask you."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 48,
+    "properties": {
+      "999008199": {
+        "text": "ええ、いいわよ。\nここまで来られたご褒美に、なんでも答えてあげる",
+        "localizations": {
+          "en": "Sure, why not. I suppose that as a reward for making it this far, I'll grant you your answers."
+        }
+      },
+      "2072370017": {
+        "text": "ザスキア",
+        "localizations": {
+          "en": "Saskia"
+        }
+      }
+    }
+  },
+  {
+    "id": 49,
+    "properties": {
+      "999008199": {
+        "text": "ちょっと、勝手に話を進めないで！\nど、どうなってるの、これ。どういうこと……？",
+        "localizations": {
+          "en": "Hey, don't just move the conversation along! What's all this?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 50,
+    "properties": {
+      "999008199": {
+        "text": "師匠！\u3000説明してください！",
+        "localizations": {
+          "en": "Master! Please explain!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 51,
+    "properties": {
+      "999008199": {
+        "text": "よかろう。\nランターナ大陸から無数島群域へ、歩みは進んだ",
+        "localizations": {
+          "en": "Very well. The stage has moved from Lantarna to the Infinite Island Chain."
+        }
+      },
+      "2072370017": {
+        "text": "アウグスト",
+        "localizations": {
+          "en": "August"
+        }
+      }
+    }
+  },
+  {
+    "id": 52,
+    "properties": {
+      "999008199": {
+        "text": "いっ！？",
+        "localizations": {
+          "en": "Wha-!?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 53,
+    "properties": {
+      "999008199": {
+        "text": "今話せることを、お前たちに話す――",
+        "localizations": {
+          "en": "I shall tell you what I can—"
+        }
+      },
+      "2072370017": {
+        "text": "アウグスト",
+        "localizations": {
+          "en": "August"
+        }
+      }
+    }
+  }
+]

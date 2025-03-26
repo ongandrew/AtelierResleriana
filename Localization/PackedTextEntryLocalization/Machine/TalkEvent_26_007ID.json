@@ -1,0 +1,801 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "いつもなら案内は終わりなんだけど、最後にこちら！\nアタシのアトリエに案内しまーす！",
+        "localizations": {
+          "en": "Usually this would be the end of the tour, but we've got one last stop! I'm taking you to my atelier!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "お、お邪魔します！",
+        "localizations": {
+          "en": "W-We'd be honored!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "表向きは、ここでは学問をしているってことで\n通してまーす。案内人は博識じゃないとって名分でね",
+        "localizations": {
+          "en": "Officially, this is where I study. It makes for a good cover story - Star Guides need to be scholarly, after all!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "おかえり、アルビー。そちらさんは……\n大陸から来た錬金術士ご一行かい",
+        "localizations": {
+          "en": "Welcome back, Alvie. And these must be... the alchemists from the continent?"
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "その通り！\u3000皆さん、この人は冒険者のイェルカ。\n元々師匠の知り合いで、よく手伝いに来てくれるんだ",
+        "localizations": {
+          "en": "That's right! Everyone, this is Jelka, an adventurer. She's an old friend of Master's and often helps out around here."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "はじめまして。レスナ・シュテルネンリヒトと申します",
+        "localizations": {
+          "en": "Pleased to meet you. I'm Resna Sternenlicht."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "イェルカだよ。よろしく",
+        "localizations": {
+          "en": "Name's Jelka. Nice to meet you."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "お前さん、なかなかイカした角だね。粋じゃないか",
+        "localizations": {
+          "en": "Those are some stylish horns you've got there. Very chic."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "ん、私？\u3000ありがと。\nあんたのほうも結構似合ってるわよ",
+        "localizations": {
+          "en": "Huh, me? Thanks. You've got quite the fashion sense yourself."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "へぇー。調合方法もマナを使うってことも、\nあたしたちが使ってる錬金術と同じなんだね",
+        "localizations": {
+          "en": "Wow, your synthesis methods and even the way you use mana... it's just like how we do it!"
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "こうやって街の中に普通にアトリエがあるの、\n逆に珍しいって思うようになっちゃった",
+        "localizations": {
+          "en": "It feels strange now to see an atelier right in the middle of town like this. We've gotten so used to hiding them away."
+        }
+      },
+      "2072370017": {
+        "text": "トトリ",
+        "localizations": {
+          "en": "Totori"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "私たちが使うアトリエは、マナの力を増幅するために\n特殊な処理をしているそうですが……",
+        "localizations": {
+          "en": "The ateliers we use are specially crafted to amplify mana..."
+        }
+      },
+      "2072370017": {
+        "text": "プラフタ",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "この釜も、同じような機能があるみたいですね。\nこれって、アルビーナさんのお師匠様が？",
+        "localizations": {
+          "en": "This cauldron seems to have similar properties. Was this your master's work?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "多分、そうだと思う。\nここ、元々師匠が使ってたアトリエだから",
+        "localizations": {
+          "en": "Probably. This used to be Master's atelier, after all."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "（この世界で調合可能なアトリエを作るなんて……\n\u3000クリセルダさん並みの天才が、他にもいるんだ）",
+        "localizations": {
+          "en": "(To create an atelier capable of synthesis in this world... there must be another genius out there on par with Criselda.)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "（後で詳しく、聞いてみよう）",
+        "localizations": {
+          "en": "(I should ask more about this later.)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "マナの力を増幅？\u3000とかはよく分からないんだけど……",
+        "localizations": {
+          "en": "Amplifying mana? I don't really understand all that..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "ランターナ大陸ではかつて、マナをほとんど\n使い尽くして、錬金術が廃れてしまいました",
+        "localizations": {
+          "en": "Back in Lantarna, mana was almost depleted, and alchemy fell into decline."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "残った僅かなマナを有効利用するため、\nそういった方法が必要になるんです",
+        "localizations": {
+          "en": "We needed ways to make the most of the little mana that remained."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "なるほど……確かに、アタシもマナが尽きたら\nどうしようって思いはじめてた",
+        "localizations": {
+          "en": "I see... Come to think of it, I have been wondering what I would do when mana runs out."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "今は師匠が残してくれたのが、わりとあるんだけど。\n複製もできないし、代わりのものも見つからないし",
+        "localizations": {
+          "en": "Master left me quite a bit, but I haven't been able to replenish it, and I haven't found any alternatives."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "はい、いずれ底を突いてしまう時が来ます",
+        "localizations": {
+          "en": "Yes, eventually it will run out."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "だから、私は「果ての大陸」を目指しているんです",
+        "localizations": {
+          "en": "That's why I'm searching for World's End."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "果ての大陸……そういえば、さっきも話してたよね。\nなんなの、それ？",
+        "localizations": {
+          "en": "World's End... You mentioned that earlier too. What exactly is it?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "手つかずのマナが眠るという土地……\n錬金術士にとっての理想郷です",
+        "localizations": {
+          "en": "A land where untapped mana still sleeps... You could say it's an alchemist's paradise."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "おお～……なんだか壮大な話になってきた！",
+        "localizations": {
+          "en": "Ooh... That's interesting!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "この国では、果ての大陸の伝承は伝わってないんだね？",
+        "localizations": {
+          "en": "The legends of World's End aren't known in this country?"
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "無数島群域には１０００以上の島があって、まだまだ\n未知の部分も多いから、色んな噂話はありますけど",
+        "localizations": {
+          "en": "The Infinite Island Chain has over a thousand islands, and there's still so much we don't know. We do have all sorts of rumors..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "果ての大陸は初耳だなあ。あれ、じゃあレスナたちが\nこの国にはるばるやってきたのって……",
+        "localizations": {
+          "en": "But I've never heard of World's End. Wait, is that why you came all this way?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "はい。果ての大陸を探すためです。\nこの無数島群域に、手掛かりがあると信じて",
+        "localizations": {
+          "en": "Yes. We're searching for World's End. We believe there are clues here in the Infinite Island Chain."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "そして先ほど、早速その１つが見つかったんです！\n苦労してここまで来たのは間違いじゃなかった！",
+        "localizations": {
+          "en": "And we've already found one! Coming all this way wasn't a mistake after all!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "…………",
+        "localizations": {
+          "en": "......"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "それなら、アルビーもついてったらどうだい？\n果ての大陸とやらを探す旅に。楽しそうじゃないか",
+        "localizations": {
+          "en": "Why don't you go with them, Alvie? Join their quest for World's End. It could be fun."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "ええっ！？",
+        "localizations": {
+          "en": "What?!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "いいじゃない。きっと楽しいわよ",
+        "localizations": {
+          "en": "Why not? It'll be an adventure."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "いやいやいや。待って。考えたこともなかった",
+        "localizations": {
+          "en": "No, no, no! Wait. I could never imagine doing something like that!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "アルビーナさんが一緒なら、とても心強いです！\n私たちは大歓迎ですよ！",
+        "localizations": {
+          "en": "Having you with us would be wonderful! You'd be more than welcome!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "ダメダメ！\u3000アタシは星の案内人としての天命を\n全うしないといけないんだから",
+        "localizations": {
+          "en": "I can't! I have to fulfill my divine calling as a Star Guide!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "この国を出て行くなんて……無理だよ\nイェルカだって分かってるはずでしょ？\u3000試してる？",
+        "localizations": {
+          "en": "Jelka, you know full well that leaving is... impossible. Why are you teasing me?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "そんな無粋なことはしないよ。思うのさ。\nこいつなら天命の決まりを守りつつなんでもできるって",
+        "localizations": {
+          "en": "I wouldn't do anything so un-chic. I just think you could find a way to do both - follow the rules and still go on an adventure."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "案内人をやりながらの旅は、\nさすがに理由付けが難しいっしょ……",
+        "localizations": {
+          "en": "Even I'd have trouble explaining how guiding tourists fits with a journey like that..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "……ん？",
+        "localizations": {
+          "en": "...Hm?"
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "やぁ野生児。怖い顔して何かあったの？",
+        "localizations": {
+          "en": "Hey there, wild child. Why the scary face?"
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 43,
+    "properties": {
+      "999008199": {
+        "text": "海の様子が……いつもと違う気がする",
+        "localizations": {
+          "en": "The sea feels... different today somehow."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 44,
+    "properties": {
+      "999008199": {
+        "text": "そうかなぁ？ 僕には普通に見えるよ",
+        "localizations": {
+          "en": "You think so? Looks normal to me."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 45,
+    "properties": {
+      "999008199": {
+        "text": "うーーん。まぁ、じーっと見ても、\n特に異常は無いんだけど",
+        "localizations": {
+          "en": "Hmm. Well, I've been watching and I can't put my finger on anything in particular..."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 46,
+    "properties": {
+      "999008199": {
+        "text": "もしかしたら、嵐でも来るのかもしれないね",
+        "localizations": {
+          "en": "I suppose a storm might be coming."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  }
+]

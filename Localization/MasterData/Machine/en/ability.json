@@ -2763,5 +2763,135 @@
     "id": 26006000,
     "description": "Each time when attacking a Defender, grants self critical damage received up (30%/cumulative up to 200%).",
     "name": ""
+  },
+  {
+    "id": 301129,
+    "description": "While equipped to an Attacker with Slash affinity, boosts skill damage by {0}%",
+    "name": "Polkus=Castor"
+  },
+  {
+    "id": 301130,
+    "description": "While equipped to an Attacker with Slash affinity, boosts skill damage by {0}%",
+    "name": "Polkus=Castor"
+  },
+  {
+    "id": 301131,
+    "description": "While equipped to an Attacker with Slash affinity, when obtaining a panel, boosts own P.ATK by {0}% for 1 turn",
+    "name": "Resolve Jacket"
+  },
+  {
+    "id": 301132,
+    "description": "While equipped to an Attacker with Slash affinity, when obtaining a panel, boosts own P.ATK by {0}% for 1 turn",
+    "name": "Resolve Jacket"
+  },
+  {
+    "id": 301133,
+    "description": "While equipped to an Attacker with Slash affinity, before attacking, reduces target's Slash resistance by {0}% for 1 attack.",
+    "name": "Metol Boots"
+  },
+  {
+    "id": 301134,
+    "description": "While equipped to an Attacker with Slash affinity, before attacking, reduces target's Slash resistance by {0}% for 1 attack.",
+    "name": "Metol Boots"
+  },
+  {
+    "id": 301135,
+    "description": "While equipped to Valeria [Get Over Limit], when attacking a weakness, boosts skill power by {0}% and skill damage by {1}%.",
+    "name": "Sickle the Wake"
+  },
+  {
+    "id": 1980182,
+    "description": "Grants Laid-back initiative and P.ATK +{0}%.",
+    "name": "Let's Make Quick Work of This!"
+  },
+  {
+    "id": 1990330,
+    "description": "At the start of battle, charges {0} of Hetzen Drachen's charge indicators.<br>For each charged charge indicator, boosts skill damage by {1}%.",
+    "name": "Carving a Path with Friends!"
+  },
+  {
+    "id": 1990331,
+    "description": "When a party member uses a battle item or when attacking a weakness with Laevateinn, Hetzen Drachen, or Zerreissen, charges 1 of Hetzen Drachen's charge indicators.<br>Note: Even when using multiple items at the same time, this effect will only activate once.",
+    "name": "My Body Remembers How to Fight"
+  },
+  {
+    "id": 4990818,
+    "description": "While equipped to a character with Slash affinity, boosts skill damage by {0}% when attacking a weakness.",
+    "name": "Slash Affinity Weak Point Damage Up III"
+  },
+  {
+    "id": 4990819,
+    "description": "While equipped to a character with Slash affinity, boosts skill damage by {0}% when attacking a weakness.",
+    "name": "Slash Affinity Weak Point Damage Up III"
+  },
+  {
+    "id": 4990820,
+    "description": "While equipped to a character with Slash affinity, boosts skill damage by {0}% when attacking a weakness.",
+    "name": "Slash Affinity Weak Point Damage Up III"
+  },
+  {
+    "id": 4990821,
+    "description": "While equipped to a character with Slash affinity, boosts skill damage by {0}% when attacking a weakness.",
+    "name": "Slash Affinity Weak Point Damage Up III"
+  },
+  {
+    "id": 4990822,
+    "description": "While equipped to a character with Slash affinity, boosts skill damage by {0}% when attacking a weakness.",
+    "name": "Slash Affinity Weak Point Damage Up III"
+  },
+  {
+    "id": 7000720,
+    "description": "Boosts single-target attack skill damage by {0}% for characters with Slash affinity.",
+    "name": "Slash Affinity Single Target Damage Up (1)"
+  },
+  {
+    "id": 7000721,
+    "description": "Boosts single-target attack skill damage by {0}% for characters with Slash affinity.",
+    "name": "Slash Affinity Single Target Damage Up (2)"
+  },
+  {
+    "id": 7000722,
+    "description": "Boosts single-target attack skill damage by {0}% for characters with Slash affinity.",
+    "name": "Slash Affinity Single Target Damage Up (3)"
+  },
+  {
+    "id": 21014000,
+    "description": "At the start of wave, grants Counter (50% chance) to self",
+    "name": ""
+  },
+  {
+    "id": 21227001,
+    "description": "When defeating an enemy, converts own next panel to a critical panel (except burst panels)",
+    "name": ""
+  },
+  {
+    "id": 21227002,
+    "description": "When hit by a weakness with an attack item while stunned, grants increased stun damage and damage received to self",
+    "name": ""
+  },
+  {
+    "id": 21228001,
+    "description": "At wave start, grants reduced special damage received, increased all element resistance, and reduced negative effect potency x2 to self",
+    "name": ""
+  },
+  {
+    "id": 21228002,
+    "description": "Before acting while stunned, grants increased damage dealt and SPD to self (triggers up to 1 time)",
+    "name": ""
+  },
+  {
+    "id": 21228003,
+    "description": "When self is stunned, grants special stun to allies, removes special stun before acting, grants special stun immunity, reselects action when ally is destroyed",
+    "name": ""
+  },
+  {
+    "id": 21229001,
+    "description": "When KO'd, reduces main body's stun gauge by 50%, removes reduced damage received and reduced negative effect potency. Delays all allies' turns",
+    "name": ""
+  },
+  {
+    "id": 21230001,
+    "description": "When KO'd, reduces main body's stun gauge by 50%, removes increased all element resistance and reduced negative effect potency. Delays all allies' turns",
+    "name": ""
   }
 ]

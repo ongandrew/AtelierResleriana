@@ -990,5 +990,37 @@
   {
     "id": 60099005,
     "description": "- Delays turn of opponents with negative effects\n- Attacks ignoring Provoke"
+  },
+  {
+    "id": 10014014,
+    "description": "- Chance to counter\n- Inflicts Poison\n- Inflicts Nullify Positive Effects\n- Deals increased damage to targets with status effects"
+  },
+  {
+    "id": 10030003,
+    "description": "No tips available."
+  },
+  {
+    "id": 10039010,
+    "description": "- Inflicts Taunt\n- Inflicts Paralysis\n- Deals increased damage to taunted targets\n- Grants allies Regen"
+  },
+  {
+    "id": 10091003,
+    "description": "- At the start of battle, reduces own damage received\n- Grants evasion to all allies\n- Heals all allies\n- Boosts damage dealt based on number of positive effects"
+  },
+  {
+    "id": 10227001,
+    "description": "- Creates Critical Panels when defeating opponents or using skills\n- While stunned, when hit by a weakness attack from battle items, receives Stun and boosts damage received\n- Delays turn\n- Reduces damage received\n- Inflicts Nullify Positive Effects"
+  },
+  {
+    "id": 10228001,
+    "description": "- At the start of battle, boosts own resistance to all elements, reduces damage received, and reduces negative effect potency received\n- While stunned, Kvarelga Spirit (Right Arm) and Kvarelga Spirit (Left Arm) become unable to act\n- Changes action when allies are KO'd\n- Before acting when allies except self are KO'd, boosts own damage dealt and SPD\n- Chance to inflict Paralysis\n- Creates Burn Panels\n- Heals all allies' HP and removes negative effects\n- Reduces all allies' stun damage received\n- Removes positive effects from attack targets"
+  },
+  {
+    "id": 10229001,
+    "description": "- When KO'd, removes Kvarelga Spirit (Body)'s damage received reduction and negative effect potency reduction, and reduces stun gauge by 50%\n- Chance to inflict Paralysis\n- Reduces all allies' stun damage received\n- Removes positive effects from attack targets"
+  },
+  {
+    "id": 10230001,
+    "description": "- When KO'd, removes Kvarelga Spirit (Body)'s all element resistance boost and negative effect potency reduction, and reduces stun gauge by 50%\n- Creates Burn Panels\n- Heals all allies' HP and removes negative effects\n- Removes positive effects from attack targets"
   }
 ]

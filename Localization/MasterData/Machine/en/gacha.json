@@ -1386,5 +1386,40 @@
     "name": "Season 2 Opening! She Who Rises Above Fate - Resna LEGEND FES [Paid Lodestar Gems Only]",
     "start_at": "2025-03-21T03:00:00Z",
     "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 2213,
+    "description": "New Character! Valeria Featured!\nUntil 2025/04/01 11:59 (UTC+8).",
+    "end_at": "2025-04-01T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Season 2 Opening! She Who Pursues Her Memories - Valeria LEGEND FES",
+    "name": "Season 2 Opening! She Who Pursues Her Memories - Valeria LEGEND FES",
+    "start_at": "2025-03-26T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2214,
+    "description": "For every 20 Wishes with Paid Lodestar Gems, get 10 Wishes for free! Max 5 times!\nUntil 2025/04/01 11:59 (UTC+8).",
+    "end_at": "2025-04-01T03:00:00Z",
+    "name": "Season 2 Opening! She Who Pursues Her Memories - Valeria LEGEND FES [Paid Lodestar Gems Only]",
+    "start_at": "2025-03-26T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
   }
 ]

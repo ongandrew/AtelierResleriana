@@ -3343,5 +3343,220 @@
     "id": 95000199,
     "description": "While equipped to an Attacker, boosts Critical Rate.",
     "popup_text": ""
+  },
+  {
+    "id": 6001013,
+    "description": "Boosts skill damage when equipped to an Attacker with Slash affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001014,
+    "description": "When equipped to an Attacker with Slash affinity, grants \"P.ATK Up\" until the end of action when obtaining a panel.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001015,
+    "description": "When equipped to an Attacker with Slash affinity, after attacking, grants \"Slash Resistance Down\" to target until they take damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001016,
+    "description": "When self is Valeria [Get Over Limit], boosts skill power when attacking a weakness.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001017,
+    "description": "When self is Valeria [Get Over Limit], boosts skill damage when attacking a weakness.",
+    "popup_text": ""
+  },
+  {
+    "id": 13000329,
+    "description": "Boosts skill power by {0}% when attacking a weakness.",
+    "popup_text": ""
+  },
+  {
+    "id": 13000332,
+    "description": "When equipped to a character with Slash affinity, boosts single target skill damage by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 71227001,
+    "description": "Converts self's next panel to a critical panel.",
+    "popup_text": ""
+  },
+  {
+    "id": 71227002,
+    "description": "Applies Nullify Positive Effects to target.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001220,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001221,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001222,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001223,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001224,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001225,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001226,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001227,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 81014002,
+    "description": "Grants Counter chance to self.",
+    "popup_text": ""
+  },
+  {
+    "id": 81014003,
+    "description": "50% chance to trigger Counter.",
+    "popup_text": ""
+  },
+  {
+    "id": 81227001,
+    "description": "When defeating an enemy, converts self's next panel to a critical panel.",
+    "popup_text": ""
+  },
+  {
+    "id": 81227002,
+    "description": "When hit by a weakness-targeting item attack while stunned, becomes stunned.",
+    "popup_text": ""
+  },
+  {
+    "id": 81227003,
+    "description": "When hit by a weakness-targeting item attack while stunned, increases damage received.",
+    "popup_text": ""
+  },
+  {
+    "id": 81228001,
+    "description": "At the start of wave, reduces own damage received.",
+    "popup_text": ""
+  },
+  {
+    "id": 81228002,
+    "description": "At the start of wave, boosts own resistance to all elements.",
+    "popup_text": ""
+  },
+  {
+    "id": 81228003,
+    "description": "At the start of wave, reduces own negative effect potency by 1.",
+    "popup_text": ""
+  },
+  {
+    "id": 81228004,
+    "description": "At the start of wave, reduces own negative effect potency by 2.",
+    "popup_text": ""
+  },
+  {
+    "id": 81228005,
+    "description": "Before taking action while stunned, boosts own damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 81228006,
+    "description": "Before taking action while stunned, boosts own SPD.",
+    "popup_text": ""
+  },
+  {
+    "id": 81229001,
+    "description": "When unable to battle, consumes 50% of main body's BG.",
+    "popup_text": ""
+  },
+  {
+    "id": 81229002,
+    "description": "Removes main body's special damage reduction.",
+    "popup_text": ""
+  },
+  {
+    "id": 81229003,
+    "description": "Removes main body's negative effect potency reduction 1.",
+    "popup_text": ""
+  },
+  {
+    "id": 81229004,
+    "description": "Delays all allies' turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 81230001,
+    "description": "Consumes 50% of main body's BG.",
+    "popup_text": ""
+  },
+  {
+    "id": 81230002,
+    "description": "Removes main body's resistance boost to all elements.",
+    "popup_text": ""
+  },
+  {
+    "id": 81230003,
+    "description": "Removes main body's negative effect potency reduction 2.",
+    "popup_text": ""
+  },
+  {
+    "id": 81230004,
+    "description": "Delays all allies' turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 91001593,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001594,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001595,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001596,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001597,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001598,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000197,
+    "description": "When equipped to a character with Slash affinity, boosts skill damage when attacking a weakness.",
+    "popup_text": ""
   }
 ]

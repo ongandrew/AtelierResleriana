@@ -1064,6 +1064,7 @@ namespace AtelierResleriana.Localization.Utilities
                 強化効果を持つ - with positive effects (as a condition)
                 WEAK攻撃時 - when attacking a weakness
                 得意属性 - affinity, commonly used in phrases like 得意属性が斬属性の時 (when equipped to a character with Slash affinity), 得意属性が突属性かつブレイカーの時 (when equipped to a Breaker with Stab affinity), 得意属性が雷属性の味方全員 (all allies with Bolt affinity).
+                スキルランプ - charge indicators - some skills can have charge indicators which are "charged" (equivalent of the JP's skill lamp terminiology getting "lit").
 
                 CHARACTERS
                 {DetailedCharacterInformation}

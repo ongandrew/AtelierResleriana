@@ -7024,5 +7024,827 @@
     "description": "After attacking, reduces target's M.ATK by 10% and P.ATK by 10% for 1 turn.",
     "name": "Horn Strike",
     "summary": ""
+  },
+  {
+    "id": 11002326,
+    "description": "After attacking, recovers item gauge by {0}%.<br>Grants P.ATK +{1}% and Skill Damage +{2}% to self for 2 turns.",
+    "name": "Laevateinn",
+    "summary": "After attack, recovers item gauge.<br>Increases self's P.ATK and skill damage."
+  },
+  {
+    "id": 11002327,
+    "description": "After attacking, recovers item gauge by {0}%.<br>Grants P.ATK +{1}% and Skill Damage +{2}% to self for 2 turns.",
+    "name": "Laevateinn",
+    "summary": "After attack, recovers item gauge.<br>Increases self's P.ATK and skill damage."
+  },
+  {
+    "id": 11002328,
+    "description": "After attacking, recovers item gauge by {0}%.<br>Grants P.ATK +{1}% and Skill Damage +{2}% to self for 2 turns.",
+    "name": "Laevateinn",
+    "summary": "After attack, recovers item gauge.<br>Increases self's P.ATK and skill damage."
+  },
+  {
+    "id": 11002329,
+    "description": "After attacking, recovers item gauge by {0}%.<br>Grants P.ATK +{1}% and Skill Damage +{2}% to self for 2 turns.",
+    "name": "Laevateinn",
+    "summary": "After attack, recovers item gauge.<br>Increases self's P.ATK and skill damage."
+  },
+  {
+    "id": 11002330,
+    "description": "After attacking, recovers item gauge by {0}%.<br>Grants P.ATK +{1}% and Skill Damage +{2}% to self for 2 turns.",
+    "name": "Laevateinn",
+    "summary": "After attack, recovers item gauge.<br>Increases self's P.ATK and skill damage."
+  },
+  {
+    "id": 12002331,
+    "description": "After attack, grants +{0}% damage when attacking a weakness and P.ATK +{1}% to self for 2 turns.<br>Hetzen Drachen has charge indicators that change effect when 3 are charged.<br>Can light up to 3 skill lamps<br><br>When fewer than 3 charge indicators are charged, charges {2} charge indicator(s) after attacking.<br><br>When 3 charge indicators are charged:<br>Penetration +{3}<br>When attacking weakness, Damage +{4}%<br>After attacking, grants \"P.ATK +{5}%\" to self for 2 turns.<br>Converts self's next panel to a burst panel (or creates one if empty) and removes all charges.",
+    "name": "Hetzen Drachen",
+    "summary": "After attacking, increases self's damage when attacking weakness and P.ATK.<br>When less than 3 charge indicators are charged, charges 1 charge indicator.<br>With 3 charges, increases penetration and damage when attacking weakness, increases self's P.ATK after attacking, and converts the next panel into a burst panel, removing all charges."
+  },
+  {
+    "id": 12002332,
+    "description": "After attack, grants +{0}% damage when attacking a weakness and P.ATK +{1}% to self for 2 turns.<br>Hetzen Drachen has charge indicators that change effect when 3 are charged.<br>Can light up to 3 skill lamps<br><br>When fewer than 3 charge indicators are charged, charges {2} charge indicator(s) after attacking.<br><br>When 3 charge indicators are charged:<br>Penetration +{3}<br>When attacking weakness, Damage +{4}%<br>After attacking, grants \"P.ATK +{5}%\" to self for 2 turns.<br>Converts self's next panel to a burst panel (or creates one if empty) and removes all charges.",
+    "name": "Hetzen Drachen",
+    "summary": "After attacking, increases self's damage when attacking weakness and P.ATK.<br>When less than 3 charge indicators are charged, charges 1 charge indicator.<br>With 3 charges, increases penetration and damage when attacking weakness, increases self's P.ATK after attacking, and converts the next panel into a burst panel, removing all charges."
+  },
+  {
+    "id": 12002333,
+    "description": "After attack, grants +{0}% damage when attacking a weakness and P.ATK +{1}% to self for 2 turns.<br>Hetzen Drachen has charge indicators that change effect when 3 are charged.<br>Can light up to 3 skill lamps<br><br>When fewer than 3 charge indicators are charged, charges {2} charge indicator(s) after attacking.<br><br>When 3 charge indicators are charged:<br>Penetration +{3}<br>When attacking weakness, Damage +{4}%<br>After attacking, grants \"P.ATK +{5}%\" to self for 2 turns.<br>Converts self's next panel to a burst panel (or creates one if empty) and removes all charges.",
+    "name": "Hetzen Drachen",
+    "summary": "After attacking, increases self's damage when attacking weakness and P.ATK.<br>When less than 3 charge indicators are charged, charges 1 charge indicator.<br>With 3 charges, increases penetration and damage when attacking weakness, increases self's P.ATK after attacking, and converts the next panel into a burst panel, removing all charges."
+  },
+  {
+    "id": 12002334,
+    "description": "After attack, grants +{0}% damage when attacking a weakness and P.ATK +{1}% to self for 2 turns.<br>Hetzen Drachen has charge indicators that change effect when 3 are charged.<br>Can light up to 3 skill lamps<br><br>When fewer than 3 charge indicators are charged, charges {2} charge indicator(s) after attacking.<br><br>When 3 charge indicators are charged:<br>Penetration +{3}<br>When attacking weakness, Damage +{4}%<br>After attacking, grants \"P.ATK +{5}%\" to self for 2 turns.<br>Converts self's next panel to a burst panel (or creates one if empty) and removes all charges.",
+    "name": "Hetzen Drachen",
+    "summary": "After attacking, increases self's damage when attacking weakness and P.ATK.<br>When less than 3 charge indicators are charged, charges 1 charge indicator.<br>With 3 charges, increases penetration and damage when attacking weakness, increases self's P.ATK after attacking, and converts the next panel into a burst panel, removing all charges."
+  },
+  {
+    "id": 12002335,
+    "description": "After attack, grants +{0}% damage when attacking a weakness and P.ATK +{1}% to self for 2 turns.<br>Hetzen Drachen has charge indicators that change effect when 3 are charged.<br>Can light up to 3 skill lamps<br><br>When fewer than 3 charge indicators are charged, charges {2} charge indicator(s) after attacking.<br><br>When 3 charge indicators are charged:<br>Penetration +{3}<br>When attacking weakness, Damage +{4}%<br>After attacking, grants \"P.ATK +{5}%\" to self for 2 turns.<br>Converts self's next panel to a burst panel (or creates one if empty) and removes all charges.",
+    "name": "Hetzen Drachen",
+    "summary": "After attacking, increases self's damage when attacking weakness and P.ATK.<br>When less than 3 charge indicators are charged, charges 1 charge indicator.<br>With 3 charges, increases penetration and damage when attacking weakness, increases self's P.ATK after attacking, and converts the next panel into a burst panel, removing all charges."
+  },
+  {
+    "id": 14002336,
+    "description": "Boost this attack's penetration by +{0}.<br>Before attack, removes negative effects from self.<br>After attacking, grants damage +{1}% when attacking a weakness to self for 1 turn,<br>grants increased Damage Received +{2}% to target for 2 attacks,<br>and creates an extra turn (Extra Skill: {hyperlink_id 80}) {3} turns later.",
+    "name": "Zelpstbeweise",
+    "summary": "Increases penetration.<br>Before attacking, removes negative effects from self.<br>After attacking, increases self's damage to weakness.<br>Increases target's damage received.<br>Creates an extra turn."
+  },
+  {
+    "id": 14002337,
+    "description": "Boost this attack's penetration by +{0}.<br>Before attack, removes negative effects from self.<br>After attacking, grants damage +{1}% when attacking a weakness to self for 1 turn,<br>grants increased Damage Received +{2}% to target for 2 attacks,<br>and creates an extra turn (Extra Skill: {hyperlink_id 80}) {3} turns later.",
+    "name": "Zelpstbeweise",
+    "summary": "Increases penetration.<br>Before attacking, removes negative effects from self.<br>After attacking, increases self's damage to weakness.<br>Increases target's damage received.<br>Creates an extra turn."
+  },
+  {
+    "id": 14002338,
+    "description": "Boost this attack's penetration by +{0}.<br>Before attack, removes negative effects from self.<br>After attacking, grants damage +{1}% when attacking a weakness to self for 1 turn,<br>grants increased Damage Received +{2}% to target for 2 attacks,<br>and creates an extra turn (Extra Skill: {hyperlink_id 80}) {3} turns later.",
+    "name": "Zelpstbeweise",
+    "summary": "Increases penetration.<br>Before attacking, removes negative effects from self.<br>After attacking, increases self's damage to weakness.<br>Increases target's damage received.<br>Creates an extra turn."
+  },
+  {
+    "id": 14002339,
+    "description": "Boost this attack's penetration by +{0}.<br>Before attack, removes negative effects from self.<br>After attacking, grants damage +{1}% when attacking a weakness to self for 1 turn,<br>grants increased Damage Received +{2}% to target for 2 attacks,<br>and creates an extra turn (Extra Skill: {hyperlink_id 80}) {3} turns later.",
+    "name": "Zelpstbeweise",
+    "summary": "Increases penetration.<br>Before attacking, removes negative effects from self.<br>After attacking, increases self's damage to weakness.<br>Increases target's damage received.<br>Creates an extra turn."
+  },
+  {
+    "id": 14002340,
+    "description": "Boost this attack's penetration by +{0}.<br>Before attack, removes negative effects from self.<br>After attacking, grants damage +{1}% when attacking a weakness to self for 1 turn,<br>grants increased Damage Received +{2}% to target for 2 attacks,<br>and creates an extra turn (Extra Skill: {hyperlink_id 80}) {3} turns later.",
+    "name": "Zelpstbeweise",
+    "summary": "Increases penetration.<br>Before attacking, removes negative effects from self.<br>After attacking, increases self's damage to weakness.<br>Increases target's damage received.<br>Creates an extra turn."
+  },
+  {
+    "id": 14002485,
+    "description": "Boost this attack's penetration +{0}.<br>Before attacking, grants Slash Resistance -{1}% to target for 1 attack.<br>After attacking, grants P.ATK +{2}% to self for 1 turn.",
+    "name": "Zerreissen",
+    "summary": "Increases penetration.<br>Before attack, reduces target's Slash resistance.<br>After attack, increases self's P.ATK."
+  },
+  {
+    "id": 14002486,
+    "description": "Boost this attack's penetration +{0}.<br>Before attacking, grants Slash Resistance -{1}% to target for 1 attack.<br>After attacking, grants P.ATK +{2}% to self for 1 turn.",
+    "name": "Zerreissen",
+    "summary": "Increases penetration.<br>Before attack, reduces target's Slash resistance.<br>After attack, increases self's P.ATK."
+  },
+  {
+    "id": 14002487,
+    "description": "Boost this attack's penetration +{0}.<br>Before attacking, grants Slash Resistance -{1}% to target for 1 attack.<br>After attacking, grants P.ATK +{2}% to self for 1 turn.",
+    "name": "Zerreissen",
+    "summary": "Increases penetration.<br>Before attack, reduces target's Slash resistance.<br>After attack, increases self's P.ATK."
+  },
+  {
+    "id": 14002488,
+    "description": "Boost this attack's penetration +{0}.<br>Before attacking, grants Slash Resistance -{1}% to target for 1 attack.<br>After attacking, grants P.ATK +{2}% to self for 1 turn.",
+    "name": "Zerreissen",
+    "summary": "Increases penetration.<br>Before attack, reduces target's Slash resistance.<br>After attack, increases self's P.ATK."
+  },
+  {
+    "id": 14002489,
+    "description": "Boost this attack's penetration +{0}.<br>Before attacking, grants Slash Resistance -{1}% to target for 1 attack.<br>After attacking, grants P.ATK +{2}% to self for 1 turn.",
+    "name": "Zerreissen",
+    "summary": "Increases penetration.<br>Before attack, reduces target's Slash resistance.<br>After attack, increases self's P.ATK."
+  },
+  {
+    "id": 22001629,
+    "description": "No additional effects",
+    "name": "Turtle Head",
+    "summary": ""
+  },
+  {
+    "id": 22001630,
+    "description": "Grants Nullify Damage (1 time) to all allies",
+    "name": "Shell Field",
+    "summary": ""
+  },
+  {
+    "id": 22001631,
+    "description": "No additional effects",
+    "name": "Raging Turtle",
+    "summary": ""
+  },
+  {
+    "id": 22001632,
+    "description": "Reduces own damage received by 40% for 2 turns",
+    "name": "Spin Up",
+    "summary": ""
+  },
+  {
+    "id": 22001633,
+    "description": "After attacking, inflicts Stun (1 time) on target",
+    "name": "Blue Wave",
+    "summary": ""
+  },
+  {
+    "id": 22001634,
+    "description": "After attacking, delays target's turn by 2 turns",
+    "name": "Splash",
+    "summary": ""
+  },
+  {
+    "id": 22001635,
+    "description": "No additional effects",
+    "name": "Jump Attack",
+    "summary": ""
+  },
+  {
+    "id": 22001636,
+    "description": "When own HP is 70% or higher, increases damage dealt by this attack by 20%",
+    "name": "Fall Crash",
+    "summary": ""
+  },
+  {
+    "id": 22001637,
+    "description": "Grants self SPD Up (5%/3 turns) and Damage Received Down (20%/3 turns)",
+    "name": "Moisture Charge",
+    "summary": ""
+  },
+  {
+    "id": 22001638,
+    "description": "No additional effects",
+    "name": "Roll",
+    "summary": ""
+  },
+  {
+    "id": 22001639,
+    "description": "No additional effects",
+    "name": "Puni Bomber",
+    "summary": ""
+  },
+  {
+    "id": 22001640,
+    "description": "No additional effects",
+    "name": "Puni Breath",
+    "summary": ""
+  },
+  {
+    "id": 22001641,
+    "description": "Recovers 30% HP of a single ally",
+    "name": "Heal",
+    "summary": ""
+  },
+  {
+    "id": 22001642,
+    "description": "Reduces damage dealt of single enemy by 30% for 1 turn",
+    "name": "Puni Dark",
+    "summary": ""
+  },
+  {
+    "id": 22001643,
+    "description": "After attacking, delays target's turn by 3 turns",
+    "name": "Tackle",
+    "summary": ""
+  },
+  {
+    "id": 22001644,
+    "description": "No additional effects",
+    "name": "Rush",
+    "summary": ""
+  },
+  {
+    "id": 22001645,
+    "description": "After attacking, reduces target's damage dealt by 20% for 3 turns",
+    "name": "Slash Meteor",
+    "summary": ""
+  },
+  {
+    "id": 22001646,
+    "description": "No additional effects",
+    "name": "Thunder Slash",
+    "summary": ""
+  },
+  {
+    "id": 22001647,
+    "description": "Reduces damage received of single ally by 30% for 2 turns",
+    "name": "Cheer Up",
+    "summary": ""
+  },
+  {
+    "id": 22001648,
+    "description": "No additional effects",
+    "name": "Glide",
+    "summary": ""
+  },
+  {
+    "id": 22001649,
+    "description": "Boosts own damage dealt by 15% for 3 turns.",
+    "name": "Aerial Dance",
+    "summary": ""
+  },
+  {
+    "id": 22001650,
+    "description": "After attacking, inflicts Paralysis on target for 3 turns.",
+    "name": "Paralyze Gale",
+    "summary": ""
+  },
+  {
+    "id": 22001651,
+    "description": "No additional effects.",
+    "name": "Mini Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 22001652,
+    "description": "After attacking, inflicts Nullify Positive Effects on target for 3 turns.",
+    "name": "Seal Blow",
+    "summary": ""
+  },
+  {
+    "id": 22001653,
+    "description": "No additional effects.",
+    "name": "Thunder Shot",
+    "summary": ""
+  },
+  {
+    "id": 22001654,
+    "description": "After attacking, inflicts Poison ×6 on target for 3 turns.",
+    "name": "Death Spin",
+    "summary": ""
+  },
+  {
+    "id": 22001655,
+    "description": "Deals 15% more damage to targets with status effects.",
+    "name": "Death Touch",
+    "summary": ""
+  },
+  {
+    "id": 22001656,
+    "description": "No additional effects.",
+    "name": "Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 22001657,
+    "description": "Boosts single ally's damage dealt by 20% and reduces damage received by 20% for 2 turns.",
+    "name": "Energy Gain",
+    "summary": ""
+  },
+  {
+    "id": 22001658,
+    "description": "No additional effects.",
+    "name": "Turtle Head",
+    "summary": ""
+  },
+  {
+    "id": 22001659,
+    "description": "No additional effects.",
+    "name": "Raging Turtle",
+    "summary": ""
+  },
+  {
+    "id": 22001660,
+    "description": "Inflicts Provoke on all enemies for 2 turns. Reduces own damage received by 15% for 3 turns.",
+    "name": "Shell Sign",
+    "summary": ""
+  },
+  {
+    "id": 22001661,
+    "description": "No additional effects.",
+    "name": "Rock Cutter",
+    "summary": ""
+  },
+  {
+    "id": 22001662,
+    "description": "No additional effects.",
+    "name": "Wild Strike",
+    "summary": ""
+  },
+  {
+    "id": 22001663,
+    "description": "Recovers 30% HP for all allies.",
+    "name": "Heal Powder",
+    "summary": ""
+  },
+  {
+    "id": 22001664,
+    "description": "No additional effects.",
+    "name": "Lightning Slash",
+    "summary": ""
+  },
+  {
+    "id": 22001665,
+    "description": "No additional effects.",
+    "name": "Spinning Slash",
+    "summary": ""
+  },
+  {
+    "id": 22001666,
+    "description": "Boosts single ally's damage dealt by 15% for 3 turns.",
+    "name": "Energy Powder",
+    "summary": ""
+  },
+  {
+    "id": 22001667,
+    "description": "Increases single enemy's damage received by 10% for 3 turns.",
+    "name": "Curse Powder",
+    "summary": ""
+  },
+  {
+    "id": 22001668,
+    "description": "No additional effects.",
+    "name": "Octopus Strike",
+    "summary": ""
+  },
+  {
+    "id": 22001669,
+    "description": "Boosts damage dealt by 20% when target has negative effects.",
+    "name": "Ice Totem",
+    "summary": ""
+  },
+  {
+    "id": 22001670,
+    "description": "Boosts damage dealt by 20% when target has negative effects.",
+    "name": "Ice Shot",
+    "summary": ""
+  },
+  {
+    "id": 22001671,
+    "description": "Boosts damage dealt by 20% when target has negative effects.",
+    "name": "Ice Rain",
+    "summary": ""
+  },
+  {
+    "id": 22001672,
+    "description": "Recovers 15% HP for all allies and grants target Regeneration (10% for 3 turns).",
+    "name": "Restoration",
+    "summary": ""
+  },
+  {
+    "id": 22001673,
+    "description": "After attacking, increases target's negative effect potency by 50% for 3 turns.",
+    "name": "Mental Break",
+    "summary": ""
+  },
+  {
+    "id": 22001674,
+    "description": "No effect.",
+    "name": "Erratic Strike",
+    "summary": ""
+  },
+  {
+    "id": 22001675,
+    "description": "No effect.",
+    "name": "Jump Strike",
+    "summary": ""
+  },
+  {
+    "id": 22001676,
+    "description": "After attacking, inflicts Taunt on target for 5 turns.",
+    "name": "Thunder Strike",
+    "summary": ""
+  },
+  {
+    "id": 22001677,
+    "description": "No effect.",
+    "name": "Thunder Kick",
+    "summary": ""
+  },
+  {
+    "id": 22001678,
+    "description": "After attacking, inflicts Paralysis on target for 3 turns.",
+    "name": "Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 22001679,
+    "description": "Reduces damage received by 25% and grants Regeneration (20%) to a single ally for 2 turns.",
+    "name": "Relax",
+    "summary": ""
+  },
+  {
+    "id": 22001680,
+    "description": "Reduces single enemy's damage dealt by 20% for 2 turns.",
+    "name": "Weakening Smoke",
+    "summary": ""
+  },
+  {
+    "id": 22001681,
+    "description": "After attacking, 35% chance to reduce target's M.ATK by 30% and P.ATK by 30% for 2 turns.",
+    "name": "Fierce Blow",
+    "summary": ""
+  },
+  {
+    "id": 22001682,
+    "description": "No effect.",
+    "name": "Heavy Strike",
+    "summary": ""
+  },
+  {
+    "id": 22001683,
+    "description": "No effect.",
+    "name": "Explosive Fist",
+    "summary": ""
+  },
+  {
+    "id": 22001684,
+    "description": "No effect.",
+    "name": "Rising Inferno",
+    "summary": ""
+  },
+  {
+    "id": 22001685,
+    "description": "No effect.",
+    "name": "Strike",
+    "summary": ""
+  },
+  {
+    "id": 22001686,
+    "description": "Reduces own damage received by 40% for 3 turns.",
+    "name": "Defensive Stance",
+    "summary": ""
+  },
+  {
+    "id": 22001687,
+    "description": "Reduces single enemy's P.ATK by 15% for 3 turns.",
+    "name": "Overwhelm",
+    "summary": ""
+  },
+  {
+    "id": 22001688,
+    "description": "Recovers 50% HP for a single ally.",
+    "name": "Healing Draught",
+    "summary": ""
+  },
+  {
+    "id": 22001689,
+    "description": "Recovers a single ally's HP by 25% and Stun Gauge by 40%",
+    "name": "Support",
+    "summary": ""
+  },
+  {
+    "id": 22001690,
+    "description": "Recovers all allies' HP by 15%",
+    "name": "Support",
+    "summary": ""
+  },
+  {
+    "id": 22001691,
+    "description": "No effects",
+    "name": "Rough and Ready",
+    "summary": ""
+  },
+  {
+    "id": 22001692,
+    "description": "After attacking, applies \"Damage Dealt -30%\" to target for 1 turn",
+    "name": "Whirlwind Dance",
+    "summary": ""
+  },
+  {
+    "id": 22001693,
+    "description": "No effects",
+    "name": "Dragon Spiral Dance",
+    "summary": ""
+  },
+  {
+    "id": 22001694,
+    "description": "After attacking, applies \"Damage Dealt +20%\" to all allies for 1 turn",
+    "name": "Whirlwind Performance",
+    "summary": ""
+  },
+  {
+    "id": 22001695,
+    "description": "Recovers a single ally's HP by 20% and applies \"Damage Dealt +25%\" for 1 turn",
+    "name": "Drum Dance War Cry",
+    "summary": ""
+  },
+  {
+    "id": 22001696,
+    "description": "Applies \"Regeneration (15%/2 turns)\" and \"Damage Received -40%\" for 1 turn to a single ally",
+    "name": "Endurance Battle Cry",
+    "summary": ""
+  },
+  {
+    "id": 22001697,
+    "description": "After attacking, applies \"Damage Dealt +10%\" to all allies for 1 turn",
+    "name": "Scratch",
+    "summary": ""
+  },
+  {
+    "id": 22001698,
+    "description": "After attacking, applies \"Damage Received -20%\" to all allies for 1 turn",
+    "name": "Tail Slash",
+    "summary": ""
+  },
+  {
+    "id": 22001699,
+    "description": "This attack's damage increases by 10% for each of the following buffs on self: Damage Dealt Up, Damage Received Down, Stun Damage Received Down, Evasion, Regeneration, SPD Up",
+    "name": "Power Shot",
+    "summary": ""
+  },
+  {
+    "id": 22001700,
+    "description": "After attacking, applies \"Damage Dealt +5%\" to all allies for 10 turns",
+    "name": "Spin Slash",
+    "summary": ""
+  },
+  {
+    "id": 22001701,
+    "description": "After attacking, recovers all allies' HP by 15%",
+    "name": "Heal Gale",
+    "summary": ""
+  },
+  {
+    "id": 22001702,
+    "description": "After attacking, applies \"Damage Received -5%\" to all allies for 10 turns",
+    "name": "Storm",
+    "summary": ""
+  },
+  {
+    "id": 22001703,
+    "description": "Grants 1 stack of Evasion to all allies",
+    "name": "Caution Call",
+    "summary": ""
+  },
+  {
+    "id": 22001704,
+    "description": "Applies \"SPD -20%\" to a single enemy for 1 turn",
+    "name": "Speed Down",
+    "summary": ""
+  },
+  {
+    "id": 22001705,
+    "description": "After attacking, applies \"Damage Dealt -30%\" to target for 3 turns",
+    "name": "Call Hellfire",
+    "summary": ""
+  },
+  {
+    "id": 22001706,
+    "description": "No effects",
+    "name": "Shadow Punch",
+    "summary": ""
+  },
+  {
+    "id": 22001707,
+    "description": "After attacking, applies \"Damage Dealt -15%\" to target for 2 turns",
+    "name": "Shadow Fire",
+    "summary": ""
+  },
+  {
+    "id": 22001708,
+    "description": "Applies Darkness to a single enemy for 3 turns",
+    "name": "Shadow Curse",
+    "summary": ""
+  },
+  {
+    "id": 22001709,
+    "description": "Provokes all enemies for 3 turns and reduces own damage received by 30% for 3 turns",
+    "name": "Attention",
+    "summary": ""
+  },
+  {
+    "id": 22001710,
+    "description": "Reduces own damage received by 20% for 2 turns and restores 15% HP",
+    "name": "Healing Roar",
+    "summary": ""
+  },
+  {
+    "id": 22001711,
+    "description": "After attacking, reduces own damage received by 30% for 1 turn and increases own damage dealt by 10% for 2 turns",
+    "name": "Pork Bite",
+    "summary": ""
+  },
+  {
+    "id": 22001712,
+    "description": "No additional effects.",
+    "name": "Spin Needle",
+    "summary": ""
+  },
+  {
+    "id": 22001713,
+    "description": "No additional effects.",
+    "name": "Ice Bite",
+    "summary": ""
+  },
+  {
+    "id": 22001714,
+    "description": "After attacking, increases own damage dealt by 20% for 3 turns, reduces own stun damage received by 50% for 1 turn, and reduces own damage received by 50% for 1 turn",
+    "name": "Iceberg Shell",
+    "summary": ""
+  },
+  {
+    "id": 22001715,
+    "description": "No additional effects.",
+    "name": "Shield Charge",
+    "summary": ""
+  },
+  {
+    "id": 22001716,
+    "description": "No additional effects.",
+    "name": "Rampage",
+    "summary": ""
+  },
+  {
+    "id": 22001717,
+    "description": "No additional effects.",
+    "name": "Down Thrust",
+    "summary": ""
+  },
+  {
+    "id": 22001718,
+    "description": "No additional effects.",
+    "name": "Rage Slash",
+    "summary": ""
+  },
+  {
+    "id": 22001719,
+    "description": "No additional effects.",
+    "name": "Rage Fire",
+    "summary": ""
+  },
+  {
+    "id": 22001720,
+    "description": "Reduces own damage received by 30% for 3 turns and grants Protection for 3 turns",
+    "name": "Covering",
+    "summary": ""
+  },
+  {
+    "id": 22001721,
+    "description": "After attacking, converts next panel to a critical panel (except burst skills) and nullifies target's positive effects for 2 turns",
+    "name": "Volare Bestia",
+    "summary": ""
+  },
+  {
+    "id": 22001722,
+    "description": "After attacking, delays target's turn by 3 and reduces target's SPD by 20% for 2 turns",
+    "name": "Fortis Pugnas",
+    "summary": ""
+  },
+  {
+    "id": 22001723,
+    "description": "No additional effects.",
+    "name": "Fortis Cras",
+    "summary": ""
+  },
+  {
+    "id": 22001724,
+    "description": "After attacking, reduces target's damage dealt by 40% for 1 turn",
+    "name": "Cauda Exitium",
+    "summary": ""
+  },
+  {
+    "id": 22001725,
+    "description": "After attacking, reduces own damage received by 60% for 2 turns",
+    "name": "Vis Exitium",
+    "summary": ""
+  },
+  {
+    "id": 22001726,
+    "description": "Increases own SPD by 15% for 2 turns and converts next panel to a critical panel (except burst skills)",
+    "name": "Dragon Star Stance",
+    "summary": ""
+  },
+  {
+    "id": 22001727,
+    "description": "After attacking, removes 5 positive effects from target",
+    "name": "Envious Grudge",
+    "summary": ""
+  },
+  {
+    "id": 22001728,
+    "description": "After attacking, 50% chance to inflict Paralysis on target for 2 turns",
+    "name": "Paralyzing Fang",
+    "summary": ""
+  },
+  {
+    "id": 22001729,
+    "description": "No effect",
+    "name": "Water Blade",
+    "summary": ""
+  },
+  {
+    "id": 22001730,
+    "description": "After attacking, creates a burn panel on target",
+    "name": "Infernal Mark",
+    "summary": ""
+  },
+  {
+    "id": 22001731,
+    "description": "After attacking, reduces damage received by all allies by 40% for 2 turns",
+    "name": "Crushing Strike",
+    "summary": ""
+  },
+  {
+    "id": 22001732,
+    "description": "After attacking, boosts damage dealt by all allies by 15% and reduces stun damage received by 30% for 2 turns",
+    "name": "Dragon Claw",
+    "summary": ""
+  },
+  {
+    "id": 22001733,
+    "description": "Reduces all enemies' SPD by 15% for 2 turns. Boosts own damage dealt by 15% for 2 turns",
+    "name": "Piercing Roar",
+    "summary": ""
+  },
+  {
+    "id": 22001734,
+    "description": "Restores all allies' HP by 30% and removes target's negative effects",
+    "name": "Cry of Resentment",
+    "summary": ""
+  },
+  {
+    "id": 22001735,
+    "description": "After attacking, removes 5 positive effects from target",
+    "name": "Vengeful Grudge",
+    "summary": ""
+  },
+  {
+    "id": 22001736,
+    "description": "After attacking, 50% chance to inflict Paralysis on target for 2 turns",
+    "name": "Paralyzing Bite",
+    "summary": ""
+  },
+  {
+    "id": 22001737,
+    "description": "No effect",
+    "name": "Water Blade",
+    "summary": ""
+  },
+  {
+    "id": 22001738,
+    "description": "After attacking, boosts damage dealt by all allies by 15% and reduces stun damage received by 30% for 2 turns",
+    "name": "Dragon Claw",
+    "summary": ""
+  },
+  {
+    "id": 22001739,
+    "description": "After attacking, removes 5 positive effects from target",
+    "name": "Vengeful Grudge",
+    "summary": ""
+  },
+  {
+    "id": 22001740,
+    "description": "After attacking, creates a burn panel on target",
+    "name": "Infernal Mark",
+    "summary": ""
+  },
+  {
+    "id": 22001741,
+    "description": "After attacking, reduces damage received by all allies by 40% for 2 turns",
+    "name": "Crushing Strike",
+    "summary": ""
+  },
+  {
+    "id": 22001742,
+    "description": "Restores all allies' HP by 30% and removes target's negative effects",
+    "name": "Cry of Resentment",
+    "summary": ""
+  },
+  {
+    "id": 22001743,
+    "description": "After attacking, creates a burn panel on target",
+    "name": "Infernal Mark",
+    "summary": ""
+  },
+  {
+    "id": 22001744,
+    "description": "After attacking, reduces damage received by all allies by 40% for 2 turns",
+    "name": "Crushing Strike",
+    "summary": ""
+  },
+  {
+    "id": 22001745,
+    "description": "After attacking, boosts damage dealt by all allies by 15% and reduces stun damage received by 30% for 2 turns",
+    "name": "Dragon Claw",
+    "summary": ""
   }
 ]

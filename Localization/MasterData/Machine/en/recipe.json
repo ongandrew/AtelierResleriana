@@ -733,5 +733,52 @@
     ],
     "start_at": "2025-03-21T03:00:00Z",
     "tracking_id": "af_synthesis_recipe_672"
+  },
+  {
+    "id": 680,
+    "name": "Pollux=Castor",
+    "requirements": [
+      {
+        "name": "Clear Score Battle 26-1 Normal"
+      }
+    ],
+    "start_at": "2025-03-26T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_673"
+  },
+  {
+    "id": 681,
+    "name": "Resolve Jacket",
+    "requirements": [
+      {
+        "name": "Clear Score Battle 26-2 Normal"
+      }
+    ],
+    "start_at": "2025-03-26T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_674"
+  },
+  {
+    "id": 682,
+    "name": "Metre Boots",
+    "requirements": [
+      {
+        "name": "Clear Score Battle 26-1 Normal"
+      },
+      {
+        "name": "Gather Rose Stamm × 10"
+      }
+    ],
+    "start_at": "2025-03-26T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_675"
+  },
+  {
+    "id": 683,
+    "name": "Sickzahlwerk",
+    "requirements": [
+      {
+        "name": "Awaken Valeria [Get Over Limit] to ★5"
+      }
+    ],
+    "start_at": "2025-03-26T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_676"
   }
 ]

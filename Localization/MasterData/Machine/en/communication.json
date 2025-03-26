@@ -371,5 +371,56 @@
       }
     ],
     "name": "Chapter 5"
+  },
+  {
+    "id": 45201001,
+    "name": "Chapter 1",
+    "start_at": "2025-03-26T03:00:00Z"
+  },
+  {
+    "id": 45201002,
+    "key_tasks": [
+      {
+        "name": "Welcome Alvina \"Dream of Hero\""
+      },
+      {
+        "name": "Clear 5 quests with Alvina \"Dream of Hero\" in your lineup"
+      }
+    ],
+    "name": "Chapter 2",
+    "start_at": "2025-03-26T03:00:00Z"
+  },
+  {
+    "id": 45201003,
+    "key_tasks": [
+      {
+        "name": "Synthesize 10 times with Alvina \"Dream of Hero\" in your lineup"
+      }
+    ],
+    "name": "Chapter 3",
+    "start_at": "2025-03-26T03:00:00Z"
+  },
+  {
+    "id": 45201004,
+    "key_tasks": [
+      {
+        "name": "Clear 25 quests with Alvina \"Dream of Hero\" in your lineup"
+      }
+    ],
+    "name": "Chapter 4",
+    "start_at": "2025-03-26T03:00:00Z"
+  },
+  {
+    "id": 45201005,
+    "key_tasks": [
+      {
+        "name": "Awaken Alvina \"Dream of Hero\" to ★3.5"
+      },
+      {
+        "name": "Clear Chapter 4 (Chapter 4 can be cleared by selecting the correct choice)"
+      }
+    ],
+    "name": "Chapter 5",
+    "start_at": "2025-03-26T03:00:00Z"
   }
 ]

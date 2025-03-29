@@ -426,23 +426,23 @@
   },
   {
     "id": 800111,
-    "description": "Boosts burst skill damage by {value}%. (Non-stackable)",
+    "description": "Boosts burst skill damage by {value}%. (cannot be stacked)",
     "name": "Burst Damage Up"
   },
   {
     "id": 800112,
-    "description": "Boosts burst skill damage by {value}%. (Non-stackable)",
+    "description": "Boosts burst skill damage by {value}%. (cannot be stacked)",
     "name": "Burst Damage Up"
   },
   {
     "id": 800113,
-    "description": "When attacking WEAK point, boosts skill damage by {value}%. (Non-stackable)",
-    "name": "WEAK Attack Damage Up"
+    "description": "When attacking a weakness, boosts skill damage by {value}%. (cannot be stacked)",
+    "name": "Damage Up On Weakness"
   },
   {
     "id": 800114,
-    "description": "When attacking WEAK point, boosts skill damage by {value}%. (Non-stackable)",
-    "name": "WEAK Attack Damage Up"
+    "description": "When attacking a weakness, boosts skill damage by {value}%. (cannot be stacked)",
+    "name": "Damage Up On Weakness"
   },
   {
     "id": 800115,

@@ -506,7 +506,7 @@
   },
   {
     "id": 1990284,
-    "description": "When attacking a stunned target, grants \"Magical damage received +{0}%\" to target for 2 attacks<br>When performing WEAK attacks, boosts skill damage by {1}%",
+    "description": "When attacking a stunned target, grants \"Magical damage received +{0}%\" to target for 2 attacks<br>When attacking a weakness, boosts skill damage by {1}%",
     "name": "No More Wasted Steps"
   },
   {
@@ -576,7 +576,7 @@
   },
   {
     "id": 1990298,
-    "description": "After performing a WEAK attack, grants \"Skill power +{0}%\" to self (up to 5 stacks)",
+    "description": "When attacking a weakness, grants \"Skill power +{0}%\" to self (up to 5 stacks)",
     "name": "Adventure Makes Me Grow!"
   },
   {
@@ -1976,7 +1976,7 @@
   },
   {
     "id": 21225001,
-    "description": "At battle start, grants self permanent counter status for non-WEAK attacks\nWhen destroyed, grants self counter (permanent) once only\nWhen destroyed, removes all counter states for non-WEAK attacks from self\nhas effect_motion",
+    "description": "Counters when attacked by an attack that it isn't weak to.\nWhen defeated, grants self counter (permanent) once only\nWhen defeated, removes all counter status for attacks not attacking a weakness.",
     "name": ""
   },
   {
@@ -2111,7 +2111,7 @@
   },
   {
     "id": 26052001,
-    "description": "When inflicted with a status effect and receiving a WEAK attack, triggers Force Stun",
+    "description": "When inflicted with a status effect and receiving an attack that targets a weakness, triggers Force Stun.",
     "name": ""
   },
   {
@@ -2556,7 +2556,7 @@
   },
   {
     "id": 301117,
-    "description": "While equipped to a Defender with Slash affinity, reduces single target damage received by {0}%.",
+    "description": "WheWhilen equipped to a Defender with Slash affinity, reduces single target damage received by {0}%.",
     "name": "Feather One-Piece"
   },
   {
@@ -2581,12 +2581,12 @@
   },
   {
     "id": 301122,
-    "description": "While equipped to a character with Slash affinity and who is a Breaker, boosts stun damage by {0}% against WEAK targets.",
+    "description": "While equipped to a Breaker with Slash affinity, boosts stun damage by {0}% when attacking a weakness.",
     "name": "Cercatore"
   },
   {
     "id": 301123,
-    "description": "While equipped to a character with Slash affinity and who is a Breaker, boosts stun damage by {0}% against WEAK targets.",
+    "description": "While equipped to a Breaker with Slash affinity, boosts stun damage by {0}% when attacking a weakness.",
     "name": "Cercatore"
   },
   {
@@ -2601,12 +2601,12 @@
   },
   {
     "id": 301126,
-    "description": "While equipped to a character with Slash affinity and who is a Breaker, before attacking, applies Slash resistance -{0}% to target until taking 2 attacks.",
+    "description": "While equipped to a Breaker with Slash affinity, before attacking, applies Slash resistance -{0}% to target until taking 2 attacks.",
     "name": "Sage's Lens"
   },
   {
     "id": 301127,
-    "description": "While equipped to a character with Slash affinity and who is a Breaker, before attacking, applies Slash resistance -{0}% to target until taking 2 attacks.",
+    "description": "While equipped to a Breaker with Slash affinity, before attacking, applies Slash resistance -{0}% to target until taking 2 attacks.",
     "name": "Sage's Lens"
   },
   {
@@ -2626,7 +2626,7 @@
   },
   {
     "id": 1990326,
-    "description": "Becomes much more likely to be targeted by enemies<br>Boosts own P.DEF and M.DEF by {0}%.",
+    "description": "Becomes much more likely to be targeted by enemies.<br>Boosts own P.DEF and M.DEF by {0}%.",
     "name": "Presence of the Strong"
   },
   {
@@ -2641,32 +2641,32 @@
   },
   {
     "id": 1990329,
-    "description": "When stunning target with \"Stella Storm\" or \"Stella Prism\", nullifies panels on target until the end of 3 actions.",
+    "description": "When stunning target with Stella Storm or Stella Prism, nullifies panels on target until the end of 3 actions.",
     "name": "I Won't Let Evil Prevail!"
   },
   {
     "id": 4990808,
-    "description": "While equipped to a character with Slash affinity, when taking damage, grants \"Critical Damage +{0}%\" to all allies until end of action (max 2 stacks).",
+    "description": "While equipped to a character with Slash affinity, when taking damage, grants Critical Damage +{0}% to all allies until end of action (max 2 stacks).",
     "name": "Slash Critical Damage Up All When Hit III"
   },
   {
     "id": 4990809,
-    "description": "While equipped to a character with Slash affinity, when taking damage, grants \"Critical Damage +{0}%\" to all allies until end of action (max 2 stacks).",
+    "description": "While equipped to a character with Slash affinity, when taking damage, grants Critical Damage +{0}% to all allies until end of action (max 2 stacks).",
     "name": "Slash Critical Damage Up All When Hit III"
   },
   {
     "id": 4990810,
-    "description": "While equipped to a character with Slash affinity, when taking damage, grants \"Critical Damage +{0}%\" to all allies until end of action (max 2 stacks).",
+    "description": "While equipped to a character with Slash affinity, when taking damage, grants Critical Damage +{0}% to all allies until end of action (max 2 stacks).",
     "name": "Slash Critical Damage Up All When Hit III"
   },
   {
     "id": 4990811,
-    "description": "While equipped to a character with Slash affinity, when taking damage, grants \"Critical Damage +{0}%\" to all allies until end of action (max 2 stacks).",
+    "description": "While equipped to a character with Slash affinity, when taking damage, grants Critical Damage +{0}% to all allies until end of action (max 2 stacks).",
     "name": "Slash Critical Damage Up All When Hit III"
   },
   {
     "id": 4990812,
-    "description": "While equipped to a character with Slash affinity, when taking damage, grants \"Critical Damage +{0}%\" to all allies until end of action (max 2 stacks).",
+    "description": "While equipped to a character with Slash affinity, when taking damage, grants Critical Damage +{0}% to all allies until end of action (max 2 stacks).",
     "name": "Slash Critical Damage Up All When Hit III"
   },
   {

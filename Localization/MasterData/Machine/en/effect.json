@@ -51,37 +51,37 @@
   },
   {
     "id": 6000924,
-    "description": "When self is Defender, at the start of battle, grants 'Recover HP when taking damage' to all allies until taking 1 attack",
+    "description": "At the start of battle, grants Defenders 'Recover HP when taking damage' to all allies until taking 1 attack.",
     "popup_text": ""
   },
   {
     "id": 6000925,
-    "description": "Boosts M.DEF of all allies with 'Lantarna' tag",
+    "description": "Boosts M.DEF of all Lantarna characters.",
     "popup_text": ""
   },
   {
     "id": 6000926,
-    "description": "When preferred element is Bolt, after attacking, grants 'Damage Down' to target until the end of their action (1 time)",
+    "description": "After attacking, characters with Bolt affinity grant 'Damage Down' to target until the end of their action (1 time)",
     "popup_text": ""
   },
   {
     "id": 6000927,
-    "description": "When preferred element is Bolt and role is Defender, evade when taking damage",
+    "description": "Defenders with Bolt affinity gain evasion when taking damage.",
     "popup_text": ""
   },
   {
     "id": 6000928,
-    "description": "When preferred element is Bolt and role is Defender, reduces damage received",
+    "description": "Reduces damage received for Defenders with Bolt affinity.",
     "popup_text": ""
   },
   {
     "id": 6000933,
-    "description": "When preferred element is Bolt and role is Breaker, boosts stun damage on WEAK attacks",
+    "description": "Boosts stun damage when attacking a weakness for Breakers with Bolt affinity.",
     "popup_text": ""
   },
   {
     "id": 6000934,
-    "description": "When self is Breaker and target is stunned, recover item gauge",
+    "description": "When Breakers stun a target, recover item gauge.",
     "popup_text": ""
   },
   {
@@ -416,7 +416,7 @@
   },
   {
     "id": 6001001,
-    "description": "While equipped to a character with Fire affinity, after WEAK attacks, grants M.ATK up to self until after 2 actions.",
+    "description": "While equipped to a character with Fire affinity, after attacking a weakness, grants M.ATK up to self until after 2 actions.",
     "popup_text": ""
   },
   {
@@ -1621,12 +1621,12 @@
   },
   {
     "id": 81225001,
-    "description": "Grants self Counter against non-WEAK attacks (permanent).",
+    "description": "Grants self Counter against non-weakness attacks (permanent).",
     "popup_text": ""
   },
   {
     "id": 81225002,
-    "description": "When receiving a non-WEAK attack, performs a counter-attack.",
+    "description": "When receiving a non-weakness attack, performs a counter-attack.",
     "popup_text": ""
   },
   {
@@ -1636,7 +1636,7 @@
   },
   {
     "id": 81225004,
-    "description": "When stunned, removes own non-WEAK Counter.",
+    "description": "When stunned, removes own non-weakness Counter.",
     "popup_text": "Conditional Counter"
   },
   {
@@ -1751,7 +1751,7 @@
   },
   {
     "id": 86052001,
-    "description": "Force Stun when receiving a WEAK attack while afflicted with a status effect",
+    "description": "Force Stun when weakness is attacked while afflicted with a status effect.",
     "popup_text": ""
   },
   {
@@ -2346,7 +2346,7 @@
   },
   {
     "id": 95000158,
-    "description": "While equipped to a character with Bolt affinity, boosts stun damage on WEAK attacks.",
+    "description": "While equipped to a character with Bolt affinity, boosts stun damage when attacking weakness.",
     "popup_text": ""
   },
   {
@@ -2366,12 +2366,12 @@
   },
   {
     "id": 95000162,
-    "description": "While equipped to a character with Ice affinity, on WEAK attacks, grants \"Critical Damage Up\" to self for 2 turns.",
+    "description": "While equipped to a character with Ice affinity, when attacking weakness, grants Critical Damage Up to self for 2 turns.",
     "popup_text": ""
   },
   {
     "id": 95000163,
-    "description": "After attacking, grants \"Magic Attack Damage Received Up\" to target until they take damage 2 times (max 4 stacks).",
+    "description": "After attacking, grants Magic Attack Damage Received Up to target until they take damage 2 times (max 4 stacks).",
     "popup_text": ""
   },
   {
@@ -2386,7 +2386,7 @@
   },
   {
     "id": 95000169,
-    "description": "While equipped to an Attacker, on WEAK attacks, grants \"Skill Damage Up\" to self for 2 turns.",
+    "description": "While equipped to an Attacker, when attacking a weakness, grants Skill Damage Up to self for 2 turns.",
     "popup_text": ""
   },
   {

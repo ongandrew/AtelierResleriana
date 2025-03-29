@@ -396,7 +396,7 @@
   },
   {
     "id": 1027,
-    "description": "While equipped to a character with Fire affinity, after landing a WEAK attack, boosts own M. ATK by {0}% for 2 turns.<br>While equipped to an Attacker, boosts critical damage by {1}%.",
+    "description": "While equipped to a character with Fire affinity, after attacking a weakness, boosts own M. ATK by {0}% for 2 turns.<br>While equipped to an Attacker, boosts critical damage by {1}%.",
     "name": "Liberty Summer Hat"
   },
   {
@@ -436,12 +436,12 @@
   },
   {
     "id": 1035,
-    "description": "While equipped to a Breaker with Slash affinity, boosts stun damage by {0}% when attacking WEAK points.",
+    "description": "While equipped to a Breaker with Slash affinity, boosts stun damage by {0}% when attacking a weakness.",
     "name": "Cercatore"
   },
   {
     "id": 1036,
-    "description": "While equipped to a Breaker with Slash affinity, boosts stun damage by {0}% when attacking WEAK points.",
+    "description": "While equipped to a Breaker with Slash affinity, boosts stun damage by {0}% when attacking a weakness.",
     "name": "Cercatore"
   },
   {

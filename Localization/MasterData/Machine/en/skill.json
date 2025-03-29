@@ -709,15 +709,15 @@
   },
   {
     "id": 12002109,
-    "description": "On WEAK attacks, Stun Damage +{0}%\nBefore attacking, applies \"Bolt Element Resistance -{1}%\" to target until taking 2 attacks\nAfter attacking, applies \"Received Magical Attack Damage +{2}%\" to target until taking 1 attack",
+    "description": "When attacking a weakness, Stun Damage +{0}%.\nBefore attacking, applies Bolt Resistance -{1}% to target for 2 attacks.\nAfter attacking, applies Received Magical Attack Damage +{2}% to target for 1 attack.",
     "name": "Fulgur Hasta",
-    "summary": "On WEAK attacks, increases Stun Damage\nBefore attack, lowers target's Bolt Element Resistance\nAfter attack, increases target's received magical attack damage"
+    "summary": "When attacking a weakness, increases Stun Damage.\nBefore attacking, lowers target's Bolt Resistance.\nAfter attacking, boost target's received magical damage."
   },
   {
     "id": 12002110,
-    "description": "On WEAK attacks, Stun Damage +{0}%\nBefore attacking, applies \"Bolt Element Resistance -{1}%\" to target until taking 2 attacks\nAfter attacking, applies \"Received Magical Attack Damage +{2}%\" to target until taking 1 attack",
+    "description": "When attacking a weakness, Stun Damage +{0}%.\nBefore attacking, applies Bolt Resistance -{1}% to target for 2 attacks.\nAfter attacking, applies Received Magical Attack Damage +{2}% to target for 1 attack.",
     "name": "Fulgur Hasta",
-    "summary": "On WEAK attacks, increases Stun Damage\nBefore attack, lowers target's Bolt Element Resistance\nAfter attack, increases target's received magical attack damage"
+    "summary": "When attacking a weakness, increases Stun Damage.\nBefore attacking, lowers target's Bolt Resistance.\nAfter attacking, boost target's received magical damage."
   },
   {
     "id": 12002111,
@@ -1069,15 +1069,15 @@
   },
   {
     "id": 12002447,
-    "description": "When attacking WEAK point, boosts damage by {0}%<br>Before attacking, reduces target's Fire resistance by {1}% (max 50%)",
+    "description": "When attacking a weakness, boosts damage by {0}%<br>Before attacking, reduces target's Fire resistance by {1}% (max 50%)",
     "name": "Calling Star",
-    "summary": "When attacking WEAK point, boosts damage<br>Before attack, reduces target's Fire resistance"
+    "summary": "When attacking a weakness, boosts damage<br>Before attack, reduces target's Fire resistance"
   },
   {
     "id": 12002448,
-    "description": "When attacking WEAK point, boosts damage by {0}%<br>Before attacking, reduces target's Fire resistance by {1}% (max 50%)",
+    "description": "When attacking a weakness, boosts damage by {0}%<br>Before attacking, reduces target's Fire resistance by {1}% (max 50%)",
     "name": "Calling Star",
-    "summary": "When attacking WEAK point, boosts damage<br>Before attack, reduces target's Fire resistance"
+    "summary": "When attacking a weakness, boosts damage<br>Before attack, reduces target's Fire resistance"
   },
   {
     "id": 12002449,
@@ -6685,33 +6685,33 @@
   },
   {
     "id": 14002299,
-    "description": "When attacking WEAK points, Stun Damage +{0}%<br>Before attacking, grants \"Slash Resistance -{1}%\" to target for 2 attacks and<br>grants \"Skill Damage +{2}%\" to all allies with Slash affinity (MAX 150%)<br>After attacking, grants \"Physical Attack Damage Received +{3}%\" to target for 3 attacks",
+    "description": "When attacking a weakness, Stun Damage +{0}%<br>Before attacking, grants \"Slash Resistance -{1}%\" to target for 2 attacks and<br>grants \"Skill Damage +{2}%\" to all allies with Slash affinity (MAX 150%)<br>After attacking, grants \"Physical Attack Damage Received +{3}%\" to target for 3 attacks",
     "name": "Beyond Aurora",
-    "summary": "When attacking WEAK points, increases Stun Damage<br>Before attacking, reduces target's Slash resistance<br>Increases Skill Damage for all Slash affinity allies<br>After attacking, increases target's Physical Attack Damage received"
+    "summary": "When attacking a weakness, increases Stun Damage<br>Before attacking, reduces target's Slash resistance<br>Increases Skill Damage for all Slash affinity allies<br>After attacking, increases target's Physical Attack Damage received"
   },
   {
     "id": 14002300,
-    "description": "When attacking WEAK points, Stun Damage +{0}%<br>Before attacking, grants \"Slash Resistance -{1}%\" to target for 2 attacks and<br>grants \"Skill Damage +{2}%\" to all allies with Slash affinity (MAX 150%)<br>After attacking, grants \"Physical Attack Damage Received +{3}%\" to target for 3 attacks",
+    "description": "When attacking a weakness, Stun Damage +{0}%<br>Before attacking, grants \"Slash Resistance -{1}%\" to target for 2 attacks and<br>grants \"Skill Damage +{2}%\" to all allies with Slash affinity (MAX 150%)<br>After attacking, grants \"Physical Attack Damage Received +{3}%\" to target for 3 attacks",
     "name": "Beyond Aurora",
-    "summary": "When attacking WEAK points, increases Stun Damage<br>Before attacking, reduces target's Slash resistance<br>Increases Skill Damage for all Slash affinity allies<br>After attacking, increases target's Physical Attack Damage received"
+    "summary": "When attacking a weakness, increases Stun Damage<br>Before attacking, reduces target's Slash resistance<br>Increases Skill Damage for all Slash affinity allies<br>After attacking, increases target's Physical Attack Damage received"
   },
   {
     "id": 14002301,
-    "description": "When attacking WEAK points, Stun Damage +{0}%<br>Before attacking, grants \"Slash Resistance -{1}%\" to target for 2 attacks and<br>grants \"Skill Damage +{2}%\" to all allies with Slash affinity (MAX 150%)<br>After attacking, grants \"Physical Attack Damage Received +{3}%\" to target for 3 attacks",
+    "description": "When attacking a weakness, Stun Damage +{0}%<br>Before attacking, grants \"Slash Resistance -{1}%\" to target for 2 attacks and<br>grants \"Skill Damage +{2}%\" to all allies with Slash affinity (MAX 150%)<br>After attacking, grants \"Physical Attack Damage Received +{3}%\" to target for 3 attacks",
     "name": "Beyond Aurora",
-    "summary": "When attacking WEAK points, increases Stun Damage<br>Before attacking, reduces target's Slash resistance<br>Increases Skill Damage for all Slash affinity allies<br>After attacking, increases target's Physical Attack Damage received"
+    "summary": "When attacking a weakness, increases Stun Damage<br>Before attacking, reduces target's Slash resistance<br>Increases Skill Damage for all Slash affinity allies<br>After attacking, increases target's Physical Attack Damage received"
   },
   {
     "id": 14002302,
-    "description": "When attacking WEAK points, Stun Damage +{0}%<br>Before attacking, grants \"Slash Resistance -{1}%\" to target for 2 attacks and<br>grants \"Skill Damage +{2}%\" to all allies with Slash affinity (MAX 150%)<br>After attacking, grants \"Physical Attack Damage Received +{3}%\" to target for 3 attacks",
+    "description": "When attacking a weakness, Stun Damage +{0}%<br>Before attacking, grants \"Slash Resistance -{1}%\" to target for 2 attacks and<br>grants \"Skill Damage +{2}%\" to all allies with Slash affinity (MAX 150%)<br>After attacking, grants \"Physical Attack Damage Received +{3}%\" to target for 3 attacks",
     "name": "Beyond Aurora",
-    "summary": "When attacking WEAK points, increases Stun Damage<br>Before attacking, reduces target's Slash resistance<br>Increases Skill Damage for all Slash affinity allies<br>After attacking, increases target's Physical Attack Damage received"
+    "summary": "When attacking a weakness, increases Stun Damage<br>Before attacking, reduces target's Slash resistance<br>Increases Skill Damage for all Slash affinity allies<br>After attacking, increases target's Physical Attack Damage received"
   },
   {
     "id": 14002303,
-    "description": "When attacking WEAK points, Stun Damage +{0}%<br>Before attacking, grants \"Slash Resistance -{1}%\" to target for 2 attacks and<br>grants \"Skill Damage +{2}%\" to all allies with Slash affinity (MAX 150%)<br>After attacking, grants \"Physical Attack Damage Received +{3}%\" to target for 3 attacks",
+    "description": "When attacking a weakness, Stun Damage +{0}%<br>Before attacking, grants \"Slash Resistance -{1}%\" to target for 2 attacks and<br>grants \"Skill Damage +{2}%\" to all allies with Slash affinity (MAX 150%)<br>After attacking, grants \"Physical Attack Damage Received +{3}%\" to target for 3 attacks",
     "name": "Beyond Aurora",
-    "summary": "When attacking WEAK points, increases Stun Damage<br>Before attacking, reduces target's Slash resistance<br>Increases Skill Damage for all Slash affinity allies<br>After attacking, increases target's Physical Attack Damage received"
+    "summary": "When attacking a weakness, increases Stun Damage<br>Before attacking, reduces target's Slash resistance<br>Increases Skill Damage for all Slash affinity allies<br>After attacking, increases target's Physical Attack Damage received"
   },
   {
     "id": 24001538,

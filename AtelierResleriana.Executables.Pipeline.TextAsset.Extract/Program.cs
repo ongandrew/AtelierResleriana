@@ -15,8 +15,11 @@ namespace AtelierResleriana.Executables.Pipeline.TextAsset.Extract
                 {
                     Region = region
                 });
-
-                await assetBundleDownloader.DownloadAsync();
+                // RIP global.
+                if (region != Region.Global)
+                {
+                    await assetBundleDownloader.DownloadAsync();
+                }
 
                 Localization.Utilities.AssetBundleDecryptor assetBundleDecryptor = new Localization.Utilities.AssetBundleDecryptor();
                 assetBundleDecryptor.Decrypt(region, dataDirectoryPath);

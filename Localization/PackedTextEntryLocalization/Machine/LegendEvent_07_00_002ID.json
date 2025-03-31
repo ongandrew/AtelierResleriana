@@ -1,0 +1,393 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "とある世界、アラディス地方のとある場所――",
+        "localizations": {
+          "en": "In a place somewhere in the Aladiss region, in another world—"
+        }
+      },
+      "2072370017": {
+        "text": "",
+        "localizations": {
+          "en": ""
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "みんな、どこに行っちゃったんだろ……。\nアイラ！\u3000ルトガー！\u3000近くにいたら返事して！",
+        "localizations": {
+          "en": "Where did everyone go...? Isla! Rutger! Answer me if you're nearby!"
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "レイニャ！\u3000ニーナ！\nくっ。視界が悪すぎるし、このマナの濃度じゃ……",
+        "localizations": {
+          "en": "Lenja! Nina! Damn, the visibility's too poor, and with this mana concentration..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴィクトル",
+        "localizations": {
+          "en": "Viktor"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "ユミア。まもなくエナジー切れです。\n早急な高濃度マナ領域からの離脱をお勧めします",
+        "localizations": {
+          "en": "Yumia, energy levels are nearly depleted. I strongly recommend immediate withdrawal from this high-concentration mana zone."
+        }
+      },
+      "2072370017": {
+        "text": "フラミィ",
+        "localizations": {
+          "en": "Flammi"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "くっ……やむを得ない、僕たちだけでも退避……を……",
+        "localizations": {
+          "en": "Ngh... We have no choice but to retreat... on our own..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴィクトル",
+        "localizations": {
+          "en": "Viktor"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "ダメ……みんなと合……流……",
+        "localizations": {
+          "en": "No... need to find... every..."
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "（みんな……どこ……）",
+        "localizations": {
+          "en": "(Everyone... where...)"
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "神聖国を安寧へと案内するお役目？",
+        "localizations": {
+          "en": "A duty to guide Nova toward tranquility?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "ええ。具体的にはノーヴァ神聖国近海に落ちた流れ星。\nそれにまつわる調査と、状況の解決です",
+        "localizations": {
+          "en": "Yes. Specifically regarding the shooting star that fell near the sacred lands of Nova. We need you to investigate and resolve the situation."
+        }
+      },
+      "2072370017": {
+        "text": "神官長",
+        "localizations": {
+          "en": "High Priest"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "流れ星の……お言葉ですが神官長。\nあれは１週間前に調査団を向かわせたのでは……",
+        "localizations": {
+          "en": "About the shooting star... High Priest, didn't we send an investigation team there a week ago?"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "何か、あったということですね？",
+        "localizations": {
+          "en": "Something happened, didn't it?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "島についた調査団たちは早速、探索を\n開始したそうです。しかし……",
+        "localizations": {
+          "en": "The investigation team began their exploration as soon as they reached the island. However..."
+        }
+      },
+      "2072370017": {
+        "text": "神官長",
+        "localizations": {
+          "en": "High Priest"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "昨日のことです。突如青く光る粒子の領域が\n島の一帯に広がりました",
+        "localizations": {
+          "en": "Yesterday, an area of blue luminescent particles suddenly spread across the island."
+        }
+      },
+      "2072370017": {
+        "text": "神官長",
+        "localizations": {
+          "en": "High Priest"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "その領域の中から戻ってきた調査団は\n様子がおかしくなっており……",
+        "localizations": {
+          "en": "The investigation team that returned from that area was behaving strangely..."
+        }
+      },
+      "2072370017": {
+        "text": "神官長",
+        "localizations": {
+          "en": "High Priest"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "何も得ることなく戻ってきたそうです",
+        "localizations": {
+          "en": "They came back without discovering anything."
+        }
+      },
+      "2072370017": {
+        "text": "神官長",
+        "localizations": {
+          "en": "High Priest"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "様子が、おかしく……なった？\n具体的にはどのような？",
+        "localizations": {
+          "en": "Behaving strangely...? What exactly do you mean?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "ひどく調子を崩し、衰弱してしまったのです",
+        "localizations": {
+          "en": "They fell terribly ill and became extremely weak."
+        }
+      },
+      "2072370017": {
+        "text": "神官長",
+        "localizations": {
+          "en": "High Priest"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "唯一、領域外で船の番をしていた船員がいましてね。\n彼がそう証言してくれました",
+        "localizations": {
+          "en": "There was one sailor who stayed with the ship outside the affected area. He provided this testimony."
+        }
+      },
+      "2072370017": {
+        "text": "神官長",
+        "localizations": {
+          "en": "High Priest"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "中に入った人からは、話が聞けなかったってこと……？",
+        "localizations": {
+          "en": "So we couldn't get any information from those who went inside?"
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "無人島に渡り、領域内がどうなっているのか、\n流れ星がどうなっているか。これを調べてほしいのです",
+        "localizations": {
+          "en": "I want you to travel to the uninhabited island and investigate what's happening within that area, and what became of the shooting star."
+        }
+      },
+      "2072370017": {
+        "text": "神官長",
+        "localizations": {
+          "en": "High Priest"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "聖戦士の投入だけでなく、アルビーナもですか？",
+        "localizations": {
+          "en": "Not just deploying Sacred Knights, but Alvina as well?"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "学んだ「錬金術」も活かせ、そういうことですね",
+        "localizations": {
+          "en": "So you want me to put my alchemy studies to use too, is that right?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "案内人にして錬金術士アルビーナ・ジムロック。\n謹んでお役目、お受けします！",
+        "localizations": {
+          "en": "I, Alvina Zimlock, Star Guide and Alchemist, humbly accept this duty!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  }
+]

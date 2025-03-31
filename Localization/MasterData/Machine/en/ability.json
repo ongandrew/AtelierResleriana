@@ -2893,5 +2893,260 @@
     "id": 21230001,
     "description": "When KO'd, reduces main body's stun gauge by 50%, removes increased all element resistance and reduced negative effect potency. Delays all allies' turns",
     "name": ""
+  },
+  {
+    "id": 301136,
+    "description": "While equipped to Eumia [Seeker of Memories], after landing a critical hit, boosts magical damage received by all enemies by {0}% (max 30%).",
+    "name": "Ephemeral Record"
+  },
+  {
+    "id": 301137,
+    "description": "While equipped to a character with Fire affinity, reduces damage received from area attacks by {0}%.",
+    "name": "Wanderer's Garb"
+  },
+  {
+    "id": 301138,
+    "description": "While equipped to a character with Fire affinity, reduces damage received from area attacks by {0}%.",
+    "name": "Wanderer's Garb"
+  },
+  {
+    "id": 301139,
+    "description": "While equipped to an Attacker with Fire affinity, after a party member uses a battle item, boosts weakness damage by {0}% for 1 turn.<br>Note: Even when using multiple items at the same time, this effect will only activate once.",
+    "name": "Saphensia Nyulas"
+  },
+  {
+    "id": 301140,
+    "description": "While equipped to an Attacker with Fire affinity, after a party member uses a battle item, boosts weakness damage by {0}% for 1 turn.<br>Note: Even when using multiple items at the same time, this effect will only activate once.",
+    "name": "Saphensia Nyulas"
+  },
+  {
+    "id": 301141,
+    "description": "While equipped to Reinia [Sincere Devotion], when at max HP, boosts physical attack skill damage by {0}%.",
+    "name": "Golden Spring Beetle"
+  },
+  {
+    "id": 301142,
+    "description": "While equipped to an Attacker with Strike affinity and attacking a stunned target, boosts skill damage by {0}%.",
+    "name": "Hunter Wear"
+  },
+  {
+    "id": 301143,
+    "description": "While equipped to an Attacker with Strike affinity and attacking a stunned target, boosts skill damage by {0}%.",
+    "name": "Hunter Wear"
+  },
+  {
+    "id": 301144,
+    "description": "While equipped to an Attacker with Strike affinity, boosts positive effect potency received by {0}%.",
+    "name": "Grace Ribbon"
+  },
+  {
+    "id": 301145,
+    "description": "While equipped to an Attacker with Strike affinity, boosts positive effect potency received by {0}%.",
+    "name": "Grace Ribbon"
+  },
+  {
+    "id": 301146,
+    "description": "While equipped to Victor [Noble of Justice], when attacking a stunned target, increases target's weakness damage received by {0}% for 2 attacks.",
+    "name": "Imperial Drive"
+  },
+  {
+    "id": 301147,
+    "description": "While equipped to a Breaker with Strike affinity, boosts Skill 2 stun damage by {0}%.",
+    "name": "Corundum Armor"
+  },
+  {
+    "id": 301148,
+    "description": "While equipped to a Breaker with Strike affinity, boosts Skill 2 stun damage by {0}%.",
+    "name": "Corundum Armor"
+  },
+  {
+    "id": 301149,
+    "description": "While equipped to a Breaker with Strike affinity, boosts negative effect potency dealt by {0}%.",
+    "name": "Curse Spoiler"
+  },
+  {
+    "id": 301150,
+    "description": "While equipped to a Breaker with Strike affinity, boosts negative effect potency dealt by {0}%.",
+    "name": "Curse Spoiler"
+  },
+  {
+    "id": 1980183,
+    "description": "For each \"Aradis Investigation Team\" member, boosts M.ATK and M.DEF by {0}%.",
+    "name": "Tracing Memories"
+  },
+  {
+    "id": 1980184,
+    "description": "For each \"Aradis Investigation Team\" member, boosts skill damage and stun damage by {0}%.",
+    "name": "Justice Prevails"
+  },
+  {
+    "id": 1980185,
+    "description": "Boosts battle item damage by {0}% and skill damage & burst skill damage by {1}%.",
+    "name": "Journey of Atonement"
+  },
+  {
+    "id": 1990334,
+    "description": "When obtaining a boost-type panel or when someone uses a battle item, boosts own critical rate by {0}% for 1 turn.<br>Note: Even when using multiple items at the same time, this effect will only activate once.<br><br>When obtaining a boost panel or burst panel, activates panel skill: {{hyperlink_id 37}} on the enemy with the highest current HP.",
+    "name": "Something Only I Can Do"
+  },
+  {
+    "id": 1990335,
+    "description": "After using a skill, boosts own SPD by {0}% (max 15%) and<br>boosts skill damage by {1}% (max 175%).<br>When targeting an enemy with increased damage received, boosts damage by {2}%.",
+    "name": "This is My Potential!"
+  },
+  {
+    "id": 1990336,
+    "description": "When self obtains a burst panel, activates Panel Skill: {hyperlink_id 58} on the enemy with the highest current HP",
+    "name": "Never Miss an Opportunity"
+  },
+  {
+    "id": 1990337,
+    "description": "While self has \"Pile\", activates all of the following bonus effects:<br>・Boosts skill damage by {0}%<br>・When attacking a weakness, boosts stun damage by {1}%",
+    "name": "Protecting Someone Once Again"
+  },
+  {
+    "id": 1990338,
+    "description": "When self obtains a positive panel or burst panel, recovers {0}% of own HP and activates Panel Skill: {{hyperlink_id 79}} on the enemy with the lowest HP<br>When at max HP, boosts critical rate by {1}% and critical damage by {2}%",
+    "name": "Rainya, I'll Try Harder!"
+  },
+  {
+    "id": 1990339,
+    "description": "When obtaining a panel, if self does not have \"Flying Sword\", grants \"Flying Sword (Lv2)\"<br>If already granted, increases \"Flying Sword\" Lv by 2 (max Lv10)<br>Gains the following bonuses based on \"Flying Sword\" Lv:<br>Lv3 or higher: Penetration +{0}<br>Lv5 or higher: Penetration +{1}<br>Lv10: Penetration +{2}<br><br>When attacking a stunned target, boosts damage by {3}%",
+    "name": "Where Are Rainya's Enemies~?"
+  },
+  {
+    "id": 4990828,
+    "description": "When equipped to a character with Fire affinity and attacking a weakness, grants \"Critical damage +{0}%\" to self until the end of 2 actions",
+    "name": "Fire Affinity - Weakness Critical Damage Up III"
+  },
+  {
+    "id": 4990829,
+    "description": "When equipped to a character with Fire affinity and attacking a weakness, grants \"Critical damage +{0}%\" to self until the end of 2 actions",
+    "name": "Fire Affinity - Weakness Critical Damage Up III"
+  },
+  {
+    "id": 4990830,
+    "description": "When equipped to a character with Fire affinity and attacking a weakness, grants \"Critical damage +{0}%\" to self until the end of 2 actions",
+    "name": "Fire Affinity - Weakness Critical Damage Up III"
+  },
+  {
+    "id": 4990831,
+    "description": "When equipped to a character with Fire affinity and attacking a weakness, grants \"Critical damage +{0}%\" to self until the end of 2 actions",
+    "name": "Fire Affinity - Weakness Critical Damage Up III"
+  },
+  {
+    "id": 4990832,
+    "description": "When equipped to a character with Fire affinity and attacking a weakness, grants \"Critical damage +{0}%\" to self until the end of 2 actions",
+    "name": "Fire Affinity - Weakness Critical Damage Up III"
+  },
+  {
+    "id": 4990833,
+    "description": "When equipped to a \"Knight\", boosts stun damage by {0}%",
+    "name": "Knight Stun Up II"
+  },
+  {
+    "id": 4990834,
+    "description": "When equipped to a \"Knight\", boosts stun damage by {0}%",
+    "name": "Knight Stun Up II"
+  },
+  {
+    "id": 4990835,
+    "description": "When equipped to a \"Knight\", boosts stun damage by {0}%",
+    "name": "Knight Stun Up II"
+  },
+  {
+    "id": 4990836,
+    "description": "When equipped to a \"Knight\", boosts stun damage by {0}%",
+    "name": "Knight Stun Up II"
+  },
+  {
+    "id": 4990837,
+    "description": "When equipped to a \"Knight\", boosts stun damage by {0}%",
+    "name": "Knight Stun Up II"
+  },
+  {
+    "id": 4990838,
+    "description": "When obtaining a panel, grants \"Skill damage +{0}%\" to self until the end of 2 actions",
+    "name": "Panel Gain Damage Up III"
+  },
+  {
+    "id": 4990839,
+    "description": "When obtaining a panel, grants \"Skill damage +{0}%\" to self until the end of 2 actions",
+    "name": "Panel Gain Damage Up III"
+  },
+  {
+    "id": 4990840,
+    "description": "When obtaining a panel, grants \"Skill damage +{0}%\" to self until the end of 2 actions",
+    "name": "Panel Gain Damage Up III"
+  },
+  {
+    "id": 4990841,
+    "description": "When obtaining a panel, grants \"Skill damage +{0}%\" to self until the end of 2 actions",
+    "name": "Panel Gain Damage Up III"
+  },
+  {
+    "id": 4990842,
+    "description": "When obtaining a panel, grants \"Skill damage +{0}%\" to self until the end of 2 actions",
+    "name": "Panel Gain Damage Up III"
+  },
+  {
+    "id": 7000723,
+    "description": "Boosts critical damage by {0}% for characters with Fire affinity",
+    "name": "Fire Affinity Critical Damage Up (1)"
+  },
+  {
+    "id": 7000724,
+    "description": "Boosts critical damage by {0}% for characters with Fire affinity.",
+    "name": "Fire Affinity Critical Damage Up (2)"
+  },
+  {
+    "id": 7000725,
+    "description": "Boosts critical damage by {0}% for characters with Fire affinity.",
+    "name": "Fire Affinity Critical Damage Up (3)"
+  },
+  {
+    "id": 26001001,
+    "description": "When incapacitated, reduces Ice resistance by 40% permanently for the ally with highest max HP.\nWhen stunned, reduces Ice resistance by 15% permanently for the ally with highest max HP.",
+    "name": ""
+  },
+  {
+    "id": 26002001,
+    "description": "When incapacitated, reduces Air resistance by 40% permanently for the ally with highest max HP.\nWhen stunned, reduces Air resistance by 15% permanently for the ally with highest max HP.",
+    "name": ""
+  },
+  {
+    "id": 26035002,
+    "description": "When incapacitated, reduces Bolt resistance by 40% permanently for the ally with highest max HP.\nWhen stunned, reduces Bolt resistance by 15% permanently for the ally with highest max HP.",
+    "name": ""
+  },
+  {
+    "id": 26060003,
+    "description": "Recovers 5% HP after each turn.\nIncreases damage received by 30% while affected by status effects.\nIncreases stun damage received by 30% while affected by status effects.\nInflicts Paralysis on self when stunned.",
+    "name": ""
+  },
+  {
+    "id": 26102001,
+    "description": "After each action, grants self Counter against all attacks except weakness attacks.\nRemoves own Counter when hit by a weakness attack.",
+    "name": ""
+  },
+  {
+    "id": 26107002,
+    "description": "When stun gauge is full, converts panels 10 spaces ahead upon taking single target damage (- → +)(+ → -).",
+    "name": ""
+  },
+  {
+    "id": 26121001,
+    "description": "When incapacitated, reduces Stab resistance by 40% and Slash resistance by 40% permanently for the ally with highest max HP.\nWhen stunned, reduces Stab resistance by 15% and Slash resistance by 15% permanently for the ally with highest max HP.",
+    "name": ""
+  },
+  {
+    "id": 26231001,
+    "description": "After taking 10 weakness attacks, increases Bolt resistance for all enemies.",
+    "name": ""
+  },
+  {
+    "id": 26231002,
+    "description": "After using a skill, boosts own damage dealt by 100% for 2 turns.\nClears all own damage dealt boosts after taking 5 single target attacks.",
+    "name": ""
   }
 ]

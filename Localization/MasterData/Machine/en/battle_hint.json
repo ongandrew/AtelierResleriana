@@ -1022,5 +1022,61 @@
   {
     "id": 10230001,
     "description": "- When KO'd, removes Kvarelga Spirit (Body)'s all element resistance boost and negative effect potency reduction, and reduces stun gauge by 50%\n- Creates Burn Panels\n- Heals all allies' HP and removes negative effects\n- Removes positive effects from attack targets"
+  },
+  {
+    "id": 60001013,
+    "description": "- When KO'd or stunned, reduces Massive Peak's Ice resistance\n- Randomly increases Massive Peak's elemental resistances except Fire and Strike\n- Heals allies"
+  },
+  {
+    "id": 60002019,
+    "description": "- When KO'd or stunned, reduces Massive Peak's Air resistance\n- Randomly increases Massive Peak's elemental resistances except Fire and Strike\n- Heals allies"
+  },
+  {
+    "id": 60009014,
+    "description": "- Inflicts Paralysis\n- After stun, boosts damage dealt\n- After stun, increases damage received"
+  },
+  {
+    "id": 60031001,
+    "description": "- Reduces own damage received with each action\n- When stunned, removes own positive effects and increases damage received"
+  },
+  {
+    "id": 60034013,
+    "description": "- Protection\n- Grants self Regeneration\n- Converts allies' panels to burst panels\n- Reduces SPD\n- Inflicts Sleep on opponents with reduced SPD\n- Uses powerful attacks"
+  },
+  {
+    "id": 60035009,
+    "description": "- When KO'd or stunned, reduces Massive Peak's Bolt resistance\n- Randomly increases Massive Peak's elemental resistances except Fire and Strike"
+  },
+  {
+    "id": 60048001,
+    "description": "- Inflicts Poison\n- When stunned, boosts damage dealt"
+  },
+  {
+    "id": 60060003,
+    "description": "- Recovers own HP with each action\n- When stunned, inflicts Paralysis on self\n- When affected by status effects, increases damage and stun damage received\n- Delays turn"
+  },
+  {
+    "id": 60061002,
+    "description": "- Recovers own HP with each action\n- When stunned, inflicts Paralysis on self\n- When affected by status effects, increases damage and stun damage received\n- Delays turn\n- Heals allies"
+  },
+  {
+    "id": 60102003,
+    "description": "- Heals self\n- Restores own stun gauge\n- Reflects all attacks except weakness attacks\n- Reflection is removed when hit by a weakness attack"
+  },
+  {
+    "id": 60107013,
+    "description": "- When hit by a single target attack while stun gauge is full, converts weaken panels to boost panels\n- When hit by a single target attack while stun gauge is full, converts boost-type panels to weaken panels\n- Delays opponents' turns\n- Inflicts Nullify Positive Effects except panel effects"
+  },
+  {
+    "id": 60121012,
+    "description": "- When KO'd or stunned, reduces Massive Peak's Slash and Stab resistance\n- Randomly increases Massive Peak's elemental resistances except Fire and Strike"
+  },
+  {
+    "id": 60231001,
+    "description": "- After taking a certain number of weakness attacks, increases all opponents' Bolt resistance\n- Inflicts Stun when attacking weaknesses\n- Heals self\n- Removes all own negative effects"
+  },
+  {
+    "id": 60231003,
+    "description": "- After taking a certain number of weakness attacks, increases all opponents' Bolt resistance\n- Boosts own damage dealt with each action\n- After taking a certain number of single target attacks, removes all own Damage Dealt Up\n- Inflicts Stun when attacking weaknesses\n- Heals self\n- Removes all own negative effects"
   }
 ]

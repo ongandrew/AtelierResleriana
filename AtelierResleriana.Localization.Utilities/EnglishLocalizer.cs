@@ -87,6 +87,13 @@ namespace AtelierResleriana.Localization.Utilities
         - ヤンネ・リンデマン (ヤンネ) → Janne Lindemann (Janne) - Veteran Sacred Knight of Nova who acts as a mentor figure to Bepp
         - レア → Leah Lindemann (Leah) - Daughter of Janne
         - イェルカ → Jelka (Jelka) - An adventurer based in the sacred lands of Nova and an old acquaintance of August
+        - ユミア → Yumia Liessfeldt (Yumia) - Due to an accident in her childhood, she lost her mother and learned that she was an alchemist.
+        - ルトガー → Rutger Arendt (Rutger) - A member of the Aladiss Research Team and a seasoned adventurer who loves valuable items.
+        - ヴィクトル → Viktor von Duerer (Viktor) - A member of the Aladiss Research Team, he joined the investigation as Yumia’s supervisor. He comes from the influential Duerer family and is also a member of the Order of Eustella.
+        - アイラ → Isla von Duerer (Isla) - Isla is a member of the Aladiss Research Team, and Viktor's younger sister.
+        - レイニャ → Lenja (Lenja) - The only Welleks demihuman in the investigation team. She possesses high physical abilities and mana aptitude.
+        - ニーナ → Nina Friede (Nina) - A member of the Aladiss Research Team with a mysterious aura.
+        - フラミィ → Flammi (Flammi) - A self-proclaimed “super-high-spec independent survey-assistance device” that Yumia carries around.
         """;
 
         private static Dictionary<string, string> SpeakerNotes = new Dictionary<string, string>

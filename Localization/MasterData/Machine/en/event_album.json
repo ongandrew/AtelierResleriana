@@ -1,0 +1,172 @@
+[
+  {
+    "id": 2009,
+    "description": "Today, as always, the stars shine beautifully, watching over us from the distant heavens. But today was different. A single small star fell to an island on the outskirts of the sacred lands. Everyone said it was \"a blessing from the heavens\" and celebrated. Soon after, an investigation team headed to the uninhabited island where the falling star landed. I wish I could go too. I wonder what a falling star looks like. Is it like mana? What could I make with it using alchemy? Since learning alchemy, my view of the world seems to have changed.\nI can't wait to hear the investigation team's findings! (Alvina)",
+    "name": "Blessing from the Heavens"
+  },
+  {
+    "id": 2010,
+    "description": "□About This World's Alchemy\nLocation: Atelier   Weather: Clear   Recorded by: Viktor\n\nYumia and I observed this world's alchemy. Materials are placed in a jar that emits light, and when stirred with a rod, the synthesis completes along with the light. It seems this world's alchemy is completely different from the alchemy we know, and Yumia found it fresh and interesting. I never thought that I, who am not an alchemist, would end up helping with synthesis... but with everyone's cooperation, we completed the \"Blau Rechen,\" a tool for investigating the \"Blue Domain.\" After establishing our base, let's head out to investigate.",
+    "key_tasks": [
+      {
+        "name": "Clear Story \"Different Kinds of Alchemy\""
+      }
+    ],
+    "name": "This World's Alchemy"
+  },
+  {
+    "id": 2011,
+    "description": "□We established a temporary base\nLocation: Uninhabited Island Shore   Weather: Clear   Recorded by: Alvina\n\nAfter arriving at the island for investigation, we set up a temporary base to conduct our investigation safely. Yumia and Viktor seem used to this kind of thing - they really feel like professional investigators! I wanted to have a base completion party with everyone inside, but... it was a bit too cramped. Still, it was fun just huddling inside with Bepp and Yumia. We invited Janne too, but he said he'd pass because it would be embarrassing. Too bad!",
+    "key_tasks": [
+      {
+        "name": "Clear Story \"Different Kinds of Alchemy\""
+      },
+      {
+        "name": "Level the facility to 2"
+      }
+    ],
+    "name": "Temporary Base Complete!"
+  },
+  {
+    "id": 2012,
+    "description": "□We held a strategy meeting\nLocation: In front of the base   Weather: Clear   Recorded by: Yumia\n\nAfter setting up our temporary base, we also made a desk. Having a desk is very convenient both for sharing information and having light meals. We quickly gathered around the desk for a strategy meeting about investigating the \"Blue Domain.\"\nDuring our discussion, Janne brought us some drinks from somewhere. It was quite cramped with everyone gathered around the desk drinking together, with all our faces so close, illuminated by Flammy's light. It felt a bit funny somehow.",
+    "key_tasks": [
+      {
+        "name": "Clear Story \"Investigation Basics\""
+      },
+      {
+        "name": "Level the facility to 4"
+      }
+    ],
+    "name": "Let's Have a Strategy Meeting"
+  },
+  {
+    "id": 2013,
+    "description": "□Lost in an Unknown Forest\nLocation: Probably a forest   Weather: Clear   Recorded by: Aira\n\nI suddenly got separated from everyone, and while I don't really know what's going on, I'll leave a record just in case.\nMy head hurts from the high mana concentration, there's weird blue fog everywhere, and I'm really anxious being in this unknown place, but I'm sure we'll regroup soon. Rutger even said \"We'll meet up eventually.\"\nThey all worry about each other in their own way. Even about me - he said he'd \"leave me behind if I fell,\" but when I actually stumbled, he seemed concerned. ...I guess I should be grateful.",
+    "key_tasks": [
+      {
+        "name": "Clear Story \"Searching Together\""
+      }
+    ],
+    "name": "In the Forest"
+  },
+  {
+    "id": 2014,
+    "description": "□Building a House-Like Base\nLocation: In front of the uninhabited island base   Weather: Clear   Recorded by: Viktor\n\nTo make our temporary base more comfortable and improve investigation efficiency, we all worked together to start building a house-like base. The logs used in construction were heavy, so I was planning to handle the transportation... but surprisingly, Janne lifted them with ease. When I expressed my surprise, Alvina and Bepp explained that Janne is Nova's strongest Holy Warrior.\nJust like her, the Holy Warriors must train daily and build their strength to protect the people. I should learn from their example.",
+    "key_tasks": [
+      {
+        "name": "Clear Story \"Searching Together\""
+      },
+      {
+        "name": "Level the facility to 6"
+      }
+    ],
+    "name": "The Holy Warriors of Nova"
+  },
+  {
+    "id": 2015,
+    "description": "□I gave Reina some food\nLocation: Somewhere   Weather: Clear   Recorded by: Nina\n\nWhen I realized I was lost with Reina, I tried to find my way to the investigation team's base, but... it seems we wandered into a different investigation team's base instead. Before I knew it, I ended up having to help out there.\nI used the small reward I got to buy some food for Reina. When I got praised and received fruit earlier, I thought... I wonder if Reina's wariness is okay? She just eats things given to her by others right away. I worry about her because she's so cute.",
+    "key_tasks": [
+      {
+        "name": "Clear Story \"The Leader's Situation\""
+      }
+    ],
+    "name": "Reina's Wariness"
+  },
+  {
+    "id": 2016,
+    "description": "□Base Complete!\nLocation: Our base   Weather: Clear   Recorded by: Alvina\n\nFinally! Our base is super complete~! As expected of Albi-chan! With this size, there's plenty of room for everyone, so we'll be fine whether it's sudden rain, guns, or sea urchins!\nI thought about keeping a Puni as a gatekeeper to guard the base while we're away on watch duty, but I was told no. When I asked why, they said it would be too pitiful to make one Puni do guard duty alone, and we don't have the resources to keep more than two. Janne is so kind in these situations...",
+    "key_tasks": [
+      {
+        "name": "Clear Story \"The Leader's Situation\""
+      },
+      {
+        "name": "Level the facility to 8"
+      }
+    ],
+    "name": "We Need a Base Guard!"
+  },
+  {
+    "id": 2017,
+    "description": "□We investigated this world's aquatic life\nLocation: River   Weather: Clear   Recorded by: Yumia\n\nTo gather food supplies, we took a break from investigating to go fishing with everyone. But for Viktor and me, even fishing was part of our investigation. There were so many discoveries - it was really fun!\nBepp told Viktor he wanted to catch lots of delicious fish for Alvina to eat, and apprenticed himself to Viktor, who's good at fishing. Once they both got focused, they created a mountain of fish in no time... Viktor seemed happy to have found a friend to fish with.",
+    "key_tasks": [
+      {
+        "name": "Clear Story \"Food Gathering\""
+      }
+    ],
+    "name": "Mountain of Fish"
+  },
+  {
+    "id": 2018,
+    "description": "□Thank you so much Zornfluch!\nLocation: Near the base   Weather: Clear   Recorded by: Alvina\n\nJust because Albi-chan is cute doesn't mean we can allow just anything! If Yumia and the others hadn't been there, I...\nRight after being helped, I was just focused on staying alive and didn't really feel it, but after calming down and seeing Bepp and Janne's relieved faces, I felt like crying. Bepp tried to help me first, and Janne still worries about me now just like he did back then. I was so happy! Of course, I'm really really thankful to Yumia and Viktor too!",
+    "key_tasks": [
+      {
+        "name": "Clear Story \"A Close Call\""
+      }
+    ],
+    "name": "Warm Relief"
+  },
+  {
+    "id": 2019,
+    "description": "□To reunite with our companions\nLocation: Near the base   Weather: Clear   Recorded by: Viktor\n\nThe wall we must overcome has become clear.\nFor Alvina and the others to investigate the \"Blue Domain,\" and for us to reunite with our companions... we must defeat that monster, Zornfluch.\nI've heard it's difficult to defeat, but that doesn't mean there's no way. Right now, gathering information is crucial. And with this world's alchemy that created the Blau Rechen, we might be able to find a solution.\nWe will definitely reunite with everyone. Please wait for us.",
+    "key_tasks": [
+      {
+        "name": "Clear Story \"Source of the Domain\""
+      }
+    ],
+    "name": "Praying for Everyone's Safety"
+  },
+  {
+    "id": 2020,
+    "description": "□We ate the fish we caught\nLocation: Base   Weather: Clear   Recorded by: Yumia\n\nBack at the base, we all ate the fish we caught after grilling them. Viktor and I talked about how the fish don't seem much different from the ones we eat in Aradis. Bepp gave the biggest fish to Alvina. You could really feel the love there.\nBepp tried to feed some to Flammy too. While the sentiment was nice, Flammy doesn't need to eat. When I told Janne, who cooked the fish, that it was \"delicious,\" he told me his specialty is actually desserts. I'd like to try those sometime.",
+    "key_tasks": [
+      {
+        "name": "Clear Story \"Source of the Domain\""
+      },
+      {
+        "name": "Level the facility to 10"
+      }
+    ],
+    "name": "Fish Party"
+  },
+  {
+    "id": 2021,
+    "description": "ED Investigation Record 1  *Text update needed",
+    "key_tasks": [
+      {
+        "name": "Complete a base containing at least 3 \"Beautiful\" and 2 \"Cute\""
+      }
+    ],
+    "name": "ED Investigation Record 1  *Text update needed"
+  },
+  {
+    "id": 2022,
+    "description": "ED Investigation Record 2  *Text update needed",
+    "key_tasks": [
+      {
+        "name": "Complete a base containing at least 3 \"Practical\" and 2 \"Beautiful\""
+      }
+    ],
+    "name": "ED Investigation Record 2  *Text update needed"
+  },
+  {
+    "id": 2023,
+    "description": "ED Investigation Record 3  *Text update needed",
+    "key_tasks": [
+      {
+        "name": "Complete a base containing at least 3 \"Cute\" and 2 \"Practical\""
+      }
+    ],
+    "name": "ED Investigation Record 3  *Text update needed"
+  },
+  {
+    "id": 2024,
+    "description": "ED Investigation Record 4  *Text update needed",
+    "key_tasks": [
+      {
+        "name": "Collect all 3 special investigation records"
+      }
+    ],
+    "name": "ED Investigation Record 4  *Text update needed"
+  }
+]

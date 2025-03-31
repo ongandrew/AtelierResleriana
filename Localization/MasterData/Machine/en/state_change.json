@@ -1123,5 +1123,170 @@
     "id": 910155,
     "description": "Boosts skill power by {value}% when attacking a weakness.",
     "name": "Weakness Skill Power Up"
+  },
+  {
+    "id": 510115,
+    "description": "Boosts speed by {value}%. (MAX 15%)",
+    "name": "This is My Potential!"
+  },
+  {
+    "id": 510116,
+    "description": "Boosts skill damage by {value}%. (MAX 175%)",
+    "name": "This is My Potential!"
+  },
+  {
+    "id": 510117,
+    "description": "Boosts damage by {value}% when target has Received Damage Up status.",
+    "name": "Damage Up vs. Received Damage Up"
+  },
+  {
+    "id": 510118,
+    "description": "When self has Pile, boosts skill damage by {value}%.",
+    "name": "Damage Up with Pile"
+  },
+  {
+    "id": 510119,
+    "description": "When self has Pile and attacking weakness, boosts stun damage by {value}%.",
+    "name": "Stun Damage Up with Pile vs. Weakness"
+  },
+  {
+    "id": 510120,
+    "description": "When HP is at maximum, boosts critical rate by {value}%.",
+    "name": "Critical Rate Up at Full HP"
+  },
+  {
+    "id": 510121,
+    "description": "When HP is at maximum, boosts critical damage by {value}%.",
+    "name": "Critical Damage Up at Full HP"
+  },
+  {
+    "id": 510122,
+    "description": "Lv3 or higher: Boosts penetration by {value}.",
+    "name": "Penetration Up at Flying Sword Lv3+"
+  },
+  {
+    "id": 510123,
+    "description": "Lv5 or higher: Boosts penetration by {value}.",
+    "name": "Penetration Up at Flying Sword Lv5+"
+  },
+  {
+    "id": 510124,
+    "description": "Lv10 or higher: Boosts penetration by {value}.",
+    "name": "Penetration Up at Flying Sword Lv10+"
+  },
+  {
+    "id": 510125,
+    "description": "Boosts damage by {value}% when target is stunned.",
+    "name": "Damage Up vs. Stunned"
+  },
+  {
+    "id": 510130,
+    "description": "Boosts critical rate by {value}%.",
+    "name": "Something Only I Can Do"
+  },
+  {
+    "id": 610226,
+    "description": "Boosts damage received from Fire attacks by {value}%.",
+    "name": "Fire Damage Received Up"
+  },
+  {
+    "id": 610227,
+    "description": "Target with this status is considered to be in long range.",
+    "name": "Out of Range"
+  },
+  {
+    "id": 610228,
+    "description": "Boosts P.ATK by {value}%. (Cannot be stacked)",
+    "name": "Pile"
+  },
+  {
+    "id": 610229,
+    "description": "Grants bonuses based on Flying Sword level for \"Where Are Rainia's Enemies?\"",
+    "name": "Flying Sword"
+  },
+  {
+    "id": 610230,
+    "description": "Target with this status is considered to be in long range.",
+    "name": "Out of Range"
+  },
+  {
+    "id": 720021,
+    "description": "Boosts damage received from Bolt attacks by {value}%. (MAX 50%)",
+    "name": "Bolt Resistance Down"
+  },
+  {
+    "id": 720022,
+    "description": "Blocks positive effects from being applied except panel effects.",
+    "name": "Nullify Positive Effects (Cond.)"
+  },
+  {
+    "id": 800130,
+    "description": "Boosts magical damage received by {value}%. (MAX 30%)",
+    "name": "Magical Damage Received Up"
+  },
+  {
+    "id": 800131,
+    "description": "When an ally uses a battle item, grants \"Boosts skill damage by {value}% when attacking a weakness\" until the end of the next action.<br>※Only triggers once even if multiple items are used simultaneously.",
+    "name": "Ally Item Use: Skill Damage Up on Weakness (1 Time)"
+  },
+  {
+    "id": 800132,
+    "description": "Boosts own physical attack damage by {value}% when HP is at 100% or higher.",
+    "name": "Physical Damage Up at 100%+ HP"
+  },
+  {
+    "id": 810378,
+    "description": "Reflects {value}% of damage when hit by non-weakness attacks.",
+    "name": "Non-Weakness Attack Reflection"
+  },
+  {
+    "id": 810380,
+    "description": "Boosts Ice resistance by {value}%. (MAX 10%)",
+    "name": "Ice Resistance Up (MAX 10%)"
+  },
+  {
+    "id": 810381,
+    "description": "Boosts Bolt resistance by {value}%. (MAX 10%)",
+    "name": "Bolt Resistance Up (MAX 10%)"
+  },
+  {
+    "id": 810382,
+    "description": "Boosts Air resistance by {value}%. (MAX 10%)",
+    "name": "Air Resistance Up (MAX 10%)"
+  },
+  {
+    "id": 810383,
+    "description": "Boosts Stab resistance by {value}%. (MAX 10%)",
+    "name": "Stab Resistance Up (MAX 10%)"
+  },
+  {
+    "id": 810384,
+    "description": "Boosts Slash resistance by {value}%. (MAX 10%)",
+    "name": "Slash Resistance Up (MAX 10%)"
+  },
+  {
+    "id": 850110,
+    "description": "Counts times hit by weakness attacks.",
+    "name": "Weakness Hit Counter"
+  },
+  {
+    "id": 850111,
+    "description": "Counts times hit by single target attacks.",
+    "name": "Single Target Hit Counter"
+  },
+  {
+    "id": 910158,
+    "description": "Treats target with this status as being in close range.",
+    "name": "In-Range Status"
+  },
+  {
+    "id": 910159,
+    "description": "Treats target with this status as being at long range.",
+    "name": "Out-Range Status"
+  },
+  {
+    "id": 910160,
+    "description": "Boosts skill damage received by {value}% when hit by weakness attacks.",
+    "name": "Received Skill Damage Up on Weakness"
   }
 ]

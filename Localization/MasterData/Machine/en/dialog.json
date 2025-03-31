@@ -108,5 +108,50 @@
     "id": 4500105,
     "description": "- How to Fight -\nUse battle items to stun powerful enemies with large stun gauges!\nCollect burst panels to activate the Burst Skill and support your allies' attacks!",
     "name": "Grisella \"Ambitious Alchemist\" Bolt | Breaker"
+  },
+  {
+    "id": 6101,
+    "description": "The Yumia Festival Special Cup is a limited-time battle event during the Yumia Festival period.\nYour ranking changes based on total damage dealt,\nand you can obtain various rewards based on your ranking position.",
+    "name": "Yumia Festival Special Cup"
+  },
+  {
+    "id": 6102,
+    "description": "Your \"Total HP depleted from enemies\" will be measured within a set number of turns.\nIn battles at the highest difficulty, enemies will appear with infinite HP.",
+    "name": "Battle Format"
+  },
+  {
+    "id": 6103,
+    "description": "After the event period ends, you can receive rewards based on your final ranking.\nRanking rewards will be distributed via mail sequentially\nafter logging in again once the period has ended.",
+    "name": "Ranking Rewards"
+  },
+  {
+    "id": 6201,
+    "description": "Investigation Bases offer various content including story and battle content.\nUsing the button in the top left, you can use coins collected from Score Battles\nto level up facilities and obtain rewards.",
+    "name": "Investigation Base"
+  },
+  {
+    "id": 6202,
+    "description": "At certain facility levels, events will occur where you choose\nwhich facility to develop. Your developed facilities will be reflected in the Investigation Base,\nand you can also obtain rewards based on the number of different facility types you've developed.",
+    "name": "Facility Selection"
+  },
+  {
+    "id": 6203,
+    "description": "By meeting various event-related conditions, you can obtain\nInvestigation Records. Through Investigation Records, you can view\nrecords written by various characters.",
+    "name": "Investigation Records"
+  },
+  {
+    "id": 6204,
+    "description": "When you reach facility level 30, you can obtain a special Investigation Record.\nThe Investigation Record you receive will vary depending on the distribution\nof facility types you've chosen up until reaching level 30.",
+    "name": "Special Investigation Record"
+  },
+  {
+    "id": 6205,
+    "description": "After reaching facility level 30, you can perform a facility level reset.\nThis resets your level and facility status, allowing you to develop different facilities\nand obtain different facility level rewards based on the number of times you've reset.",
+    "name": "Facility Level Reset"
+  },
+  {
+    "id": 6301,
+    "description": "When you reset the facility level, all developed facilities will return to their initial state.\nSpent coins will not be returned. After resetting, you can develop facilities again.\nAim to develop all facilities and obtain all Investigation Records!",
+    "name": "Facility Level Reset"
   }
 ]

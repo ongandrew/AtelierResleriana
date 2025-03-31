@@ -7846,5 +7846,1751 @@
     "description": "After attacking, boosts damage dealt by all allies by 15% and reduces stun damage received by 30% for 2 turns",
     "name": "Dragon Claw",
     "summary": ""
+  },
+  {
+    "id": 32121,
+    "description": "Recovers 7% HP for all allies. After recovery, grants \"Recover {0}% HP at the start of turn\" to all allies for 2 turns.",
+    "name": "Forest Medicine",
+    "summary": ""
+  },
+  {
+    "id": 32122,
+    "description": "Recovers 5% HP for all allies. After recovery, grants \"Recover {0}% HP at the start of turn\" to all allies for 2 turns.",
+    "name": "Forest Medicine",
+    "summary": ""
+  },
+  {
+    "id": 11002386,
+    "description": "After attacking, grants M.ATK +{0}% and Skill Damage +{1}% to self for 1 turn,<br>moves self to outrange position.<br>Skill when outranged: {hyperlink_id 27}",
+    "name": "Piercing Arts",
+    "summary": "After attack, boosts own M.ATK and Skill Damage<br>Moves self to outrange position"
+  },
+  {
+    "id": 11002387,
+    "description": "After attacking, grants M.ATK +{0}% and Skill Damage +{1}% to self for 1 turn,<br>moves self to outrange position.<br>Skill when outranged: {hyperlink_id 28}",
+    "name": "Piercing Arts",
+    "summary": "After attack, boosts own M.ATK and Skill Damage<br>Moves self to outrange position"
+  },
+  {
+    "id": 11002388,
+    "description": "After attacking, grants M.ATK +{0}% and Skill Damage +{1}% to self for 1 turn,<br>moves self to outrange position.<br>Skill when outranged: {hyperlink_id 29}",
+    "name": "Piercing Arts",
+    "summary": "After attack, boosts own M.ATK and Skill Damage<br>Moves self to outrange position"
+  },
+  {
+    "id": 11002389,
+    "description": "After attacking, grants M.ATK +{0}% and Skill Damage +{1}% to self for 1 turn,<br>moves self to outrange position.<br>Skill when outranged: {hyperlink_id 30}",
+    "name": "Piercing Arts",
+    "summary": "After attack, boosts own M.ATK and Skill Damage<br>Moves self to outrange position"
+  },
+  {
+    "id": 11002390,
+    "description": "After attacking, grants M.ATK +{0}% and Skill Damage +{1}% to self for 1 turn,<br>moves self to outrange position.<br>Skill when outranged: {hyperlink_id 31}",
+    "name": "Piercing Arts",
+    "summary": "After attack, boosts own M.ATK and Skill Damage<br>Moves self to outrange position"
+  },
+  {
+    "id": 11002391,
+    "description": "After attacking, grants M.ATK +{0}% and Skill Damage +{1}% to self for 1 turn,<br>moves self to outrange position",
+    "name": "Piercing Arts",
+    "summary": "After attack, boosts own M.ATK and Skill Damage<br>Moves self to outrange position"
+  },
+  {
+    "id": 11002392,
+    "description": "After attacking, grants M.ATK +{0}% and Skill Damage +{1}% to self for 1 turn,<br>moves self to outrange position",
+    "name": "Piercing Arts",
+    "summary": "After attack, boosts own M.ATK and Skill Damage<br>Moves self to outrange position"
+  },
+  {
+    "id": 11002393,
+    "description": "After attacking, grants M.ATK +{0}% and Skill Damage +{1}% to self for 1 turn,<br>moves self to outrange position",
+    "name": "Piercing Arts",
+    "summary": "After attack, boosts own M.ATK and Skill Damage<br>Moves self to outrange position"
+  },
+  {
+    "id": 11002394,
+    "description": "After attacking, grants M.ATK +{0}% and Skill Damage +{1}% to self for 1 turn,<br>moves self to outrange position",
+    "name": "Piercing Arts",
+    "summary": "After attack, boosts own M.ATK and Skill Damage<br>Moves self to outrange position"
+  },
+  {
+    "id": 11002395,
+    "description": "After attacking, grants M.ATK +{0}% and Skill Damage +{1}% to self for 1 turn,<br>moves self to outrange position",
+    "name": "Piercing Arts",
+    "summary": "After attack, boosts own M.ATK and Skill Damage<br>Moves self to outrange position"
+  },
+  {
+    "id": 11002401,
+    "description": "After attacking, grants Stun Damage +{0}% and Skill Damage +{1}% to self for 1 turn,<br>moves self to outrange position.<br>Skill when outranged: {hyperlink_id 48}",
+    "name": "Low Blow",
+    "summary": "After attack, boosts own Stun Damage and Skill Damage<br>Moves self to outrange position"
+  },
+  {
+    "id": 11002402,
+    "description": "After attacking, grants Stun Damage +{0}% and Skill Damage +{1}% to self for 1 turn,<br>moves self to outrange position.<br>Skill when outranged: {hyperlink_id 49}",
+    "name": "Low Blow",
+    "summary": "After attack, boosts own Stun Damage and Skill Damage<br>Moves self to outrange position"
+  },
+  {
+    "id": 11002403,
+    "description": "After attacking, grants Stun Damage +{0}% and Skill Damage +{1}% to self for 1 turn,<br>moves self to outrange position.<br>Skill when outranged: {hyperlink_id 50}",
+    "name": "Low Blow",
+    "summary": "After attack, boosts own Stun Damage and Skill Damage<br>Moves self to outrange position"
+  },
+  {
+    "id": 11002404,
+    "description": "After attacking, grants Stun Damage +{0}% and Skill Damage +{1}% to self for 1 turn,<br>moves self to outrange position.<br>Skill when outranged: {hyperlink_id 51}",
+    "name": "Low Blow",
+    "summary": "After attack, boosts own Stun Damage and Skill Damage<br>Moves self to outrange position"
+  },
+  {
+    "id": 11002405,
+    "description": "After attacking, grants Stun Damage +{0}% and Skill Damage +{1}% to self for 1 turn,<br>moves self to outrange position.<br>Skill when outranged: {hyperlink_id 52}",
+    "name": "Low Blow",
+    "summary": "After attack, boosts own Stun Damage and Skill Damage<br>Moves self to outrange position"
+  },
+  {
+    "id": 11002416,
+    "description": "When target is Stunned, damage +{0}%, recovers {1}% of own HP<br>After attacking, reduces target's Strike resistance by {2}% for 2 hits,<br>grants P.ATK +{3}% to self for 1 turn,<br>moves self to outrange position.<br>Skill when outranged: {hyperlink_id 69}",
+    "name": "Full Moon",
+    "summary": "When target is Stunned, increases damage and recovers own HP<br>After attack, reduces target's Strike resistance<br>Boosts own P.ATK<br>Moves self to outrange position"
+  },
+  {
+    "id": 11002417,
+    "description": "When target is Stunned, damage +{0}%, recovers {1}% of own HP<br>After attacking, reduces target's Strike resistance by {2}% for 2 hits,<br>grants P.ATK +{3}% to self for 1 turn,<br>moves self to outrange position.<br>Skill when outranged: {hyperlink_id 70}",
+    "name": "Full Moon",
+    "summary": "When target is Stunned, increases damage and recovers own HP<br>After attack, reduces target's Strike resistance<br>Boosts own P.ATK<br>Moves self to outrange position"
+  },
+  {
+    "id": 11002418,
+    "description": "When target is Stunned, damage +{0}%, recovers {1}% of own HP<br>After attacking, reduces target's Strike resistance by {2}% for 2 hits,<br>grants P.ATK +{3}% to self for 1 turn,<br>moves self to outrange position.<br>Skill when outranged: {hyperlink_id 71}",
+    "name": "Full Moon",
+    "summary": "When target is Stunned, increases damage and recovers own HP<br>After attack, reduces target's Strike resistance<br>Boosts own P.ATK<br>Moves self to outrange position"
+  },
+  {
+    "id": 11002419,
+    "description": "When target is Stunned, damage +{0}% and recover {1}% of own HP<br>After attacking, reduces target's Strike resistance by {2}% for 2 attacks, and<br>Boosts own P.ATK by {3}% until action ends<br>Moves self to Out Range<br>Out Range skill: {hyperlink_id 72}",
+    "name": "Full Moon",
+    "summary": "When target is Stunned, boosts damage and recovers own HP<br>After attack, reduces target's Strike resistance<br>Boosts own P.ATK<br>Moves self to Out Range"
+  },
+  {
+    "id": 11002420,
+    "description": "When target is Stunned, damage +{0}% and recover {1}% of own HP<br>After attacking, reduces target's Strike resistance by {2}% for 2 attacks, and<br>Boosts own P.ATK by {3}% until action ends<br>Moves self to Out Range<br>Out Range skill: {hyperlink_id 73}",
+    "name": "Full Moon",
+    "summary": "When target is Stunned, boosts damage and recovers own HP<br>After attack, reduces target's Strike resistance<br>Boosts own P.ATK<br>Moves self to Out Range"
+  },
+  {
+    "id": 11002541,
+    "description": "Before attacking, removes own negative effects<br>After attacking, recovers Item Gauge by {0}%, and<br>Increases target's Fire damage received by {1}% for 2 actions<br>Moves self to In Range<br>In Range skill: {hyperlink_id 17}",
+    "name": "Strike Arts",
+    "summary": "Before attack, removes own negative effects<br>After attack, recovers Item Gauge<br>Increases target's Fire damage received<br>Moves self to In Range"
+  },
+  {
+    "id": 11002542,
+    "description": "Before attacking, removes own negative effects<br>After attacking, recovers Item Gauge by {0}%, and<br>Increases target's Fire damage received by {1}% for 2 actions<br>Moves self to In Range<br>In Range skill: {hyperlink_id 18}",
+    "name": "Strike Arts",
+    "summary": "Before attack, removes own negative effects<br>After attack, recovers Item Gauge<br>Increases target's Fire damage received<br>Moves self to In Range"
+  },
+  {
+    "id": 11002543,
+    "description": "Before attacking, removes own negative effects<br>After attacking, recovers Item Gauge by {0}%, and<br>Increases target's Fire damage received by {1}% for 2 actions<br>Moves self to In Range<br>In Range skill: {hyperlink_id 19}",
+    "name": "Strike Arts",
+    "summary": "Before attack, removes own negative effects<br>After attack, recovers Item Gauge<br>Increases target's Fire damage received<br>Moves self to In Range"
+  },
+  {
+    "id": 11002544,
+    "description": "Before attacking, removes own negative effects<br>After attacking, recovers Item Gauge by {0}%, and<br>Increases target's Fire damage received by {1}% for 2 actions<br>Moves self to In Range<br>In Range skill: {hyperlink_id 20}",
+    "name": "Strike Arts",
+    "summary": "Before attack, removes own negative effects<br>After attack, recovers Item Gauge<br>Increases target's Fire damage received<br>Moves self to In Range"
+  },
+  {
+    "id": 11002545,
+    "description": "Before attacking, removes own negative effects<br>After attacking, recovers Item Gauge by {0}%, and<br>Increases target's Fire damage received by {1}% for 2 actions<br>Moves self to In Range<br>In Range skill: {hyperlink_id 21}",
+    "name": "Strike Arts",
+    "summary": "Before attack, removes own negative effects<br>After attack, recovers Item Gauge<br>Increases target's Fire damage received<br>Moves self to In Range"
+  },
+  {
+    "id": 11002546,
+    "description": "Before attacking, removes own negative effects<br>After attacking, recovers Item Gauge by {0}%, and<br>Increases target's Fire damage received by {1}% for 2 actions<br>Moves self to In Range",
+    "name": "Strike Arts",
+    "summary": "Before attack, removes own negative effects<br>After attack, recovers Item Gauge<br>Increases target's Fire damage received<br>Moves self to In Range"
+  },
+  {
+    "id": 11002547,
+    "description": "Before attacking, removes own negative effects<br>After attacking, recovers Item Gauge by {0}%, and<br>Increases target's Fire damage received by {1}% for 2 actions<br>Moves self to In Range",
+    "name": "Strike Arts",
+    "summary": "Before attack, removes own negative effects<br>After attack, recovers Item Gauge<br>Increases target's Fire damage received<br>Moves self to In Range"
+  },
+  {
+    "id": 11002548,
+    "description": "Before attacking, removes own negative effects<br>After attacking, recovers Item Gauge by {0}%, and<br>Increases target's Fire damage received by {1}% for 2 actions<br>Moves self to In Range",
+    "name": "Strike Arts",
+    "summary": "Before attack, removes own negative effects<br>After attack, recovers Item Gauge<br>Increases target's Fire damage received<br>Moves self to In Range"
+  },
+  {
+    "id": 11002549,
+    "description": "Before attacking, removes own negative effects<br>After attacking, recovers Item Gauge by {0}%, and<br>Increases target's Fire damage received by {1}% for 2 actions<br>Moves self to In Range",
+    "name": "Strike Arts",
+    "summary": "Before attack, removes own negative effects<br>After attack, recovers Item Gauge<br>Increases target's Fire damage received<br>Moves self to In Range"
+  },
+  {
+    "id": 11002550,
+    "description": "Before attacking, removes own negative effects<br>After attacking, recovers Item Gauge by {0}%, and<br>Increases target's Fire damage received by {1}% for 2 actions<br>Moves self to In Range",
+    "name": "Strike Arts",
+    "summary": "Before attack, removes own negative effects<br>After attack, recovers Item Gauge<br>Increases target's Fire damage received<br>Moves self to In Range"
+  },
+  {
+    "id": 11002556,
+    "description": "After attacking, reduces target's Strike resistance by {0}% and Fire resistance by {1}% for 1 attack, and<br>Moves self to In Range<br>In Range skill: {hyperlink_id 38}",
+    "name": "Upper Blow",
+    "summary": "After attack, reduces target's Strike and Fire resistance<br>Moves self to In Range"
+  },
+  {
+    "id": 11002557,
+    "description": "After attacking, reduces target's Strike resistance by {0}% and Fire resistance by {1}% for 1 attack, and<br>Moves self to In Range<br>In Range skill: {hyperlink_id 39}",
+    "name": "Upper Blow",
+    "summary": "After attack, reduces target's Strike and Fire resistance<br>Moves self to In Range"
+  },
+  {
+    "id": 11002558,
+    "description": "After attacking, reduces target's Strike resistance by {0}% and Fire resistance by {1}% for 1 attack, and<br>Moves self to In Range<br>In Range skill: {hyperlink_id 40}",
+    "name": "Upper Blow",
+    "summary": "After attack, reduces target's Strike and Fire resistance<br>Moves self to In Range"
+  },
+  {
+    "id": 11002559,
+    "description": "After attacking, reduces target's Strike resistance by {0}% and Fire resistance by {1}% for 1 attack, and<br>Moves self to In Range<br>In Range skill: {hyperlink_id 41}",
+    "name": "Upper Blow",
+    "summary": "After attack, reduces target's Strike and Fire resistance<br>Moves self to In Range"
+  },
+  {
+    "id": 11002560,
+    "description": "After attacking, reduces target's Strike resistance by {0}% and Fire resistance by {1}% for 1 attack, and<br>Moves self to In Range<br>In Range skill: {hyperlink_id 42}",
+    "name": "Upper Blow",
+    "summary": "After attack, reduces target's Strike and Fire resistance<br>Moves self to In Range"
+  },
+  {
+    "id": 11002566,
+    "description": "After attacking, boosts own Stun Damage by {0}% and Skill Damage by {1}% until action ends, and<br>Moves self to Out Range",
+    "name": "Low Blow",
+    "summary": "After attack, boosts own Stun Damage and Skill Damage<br>Moves self to Out Range"
+  },
+  {
+    "id": 11002567,
+    "description": "After attacking, boosts own Stun Damage by {0}% and Skill Damage by {1}% until action ends, and<br>Moves self to Out Range",
+    "name": "Low Blow",
+    "summary": "After attack, boosts own Stun Damage and Skill Damage<br>Moves self to Out Range"
+  },
+  {
+    "id": 11002568,
+    "description": "After attacking, boosts own Stun Damage by {0}% and Skill Damage by {1}% until action ends, and<br>Moves self to Out Range",
+    "name": "Low Blow",
+    "summary": "After attack, boosts own Stun Damage and Skill Damage<br>Moves self to Out Range"
+  },
+  {
+    "id": 11002569,
+    "description": "After attacking, grants self stun damage +{0}% and skill damage +{1}% until the end of 1 action and<br>Moves self to out-range",
+    "name": "Low Blow",
+    "summary": "After attacking, increases self stun damage and skill damage<br>Moves self to out-range"
+  },
+  {
+    "id": 11002570,
+    "description": "After attacking, grants self stun damage +{0}% and skill damage +{1}% until the end of 1 action and<br>Moves self to out-range",
+    "name": "Low Blow",
+    "summary": "After attacking, increases self stun damage and skill damage<br>Moves self to out-range"
+  },
+  {
+    "id": 11002576,
+    "description": "After attacking, reduces target's Strike resistance by {0}% and Fire resistance by {1}% for 1 attack and<br>Moves self to in-range",
+    "name": "Upper Blow",
+    "summary": "After attacking, reduces target's Strike and Fire resistance<br>Moves self to in-range"
+  },
+  {
+    "id": 11002577,
+    "description": "After attacking, reduces target's Strike resistance by {0}% and Fire resistance by {1}% for 1 attack and<br>Moves self to in-range",
+    "name": "Upper Blow",
+    "summary": "After attacking, reduces target's Strike and Fire resistance<br>Moves self to in-range"
+  },
+  {
+    "id": 11002578,
+    "description": "After attacking, reduces target's Strike resistance by {0}% and Fire resistance by {1}% for 1 attack and<br>Moves self to in-range",
+    "name": "Upper Blow",
+    "summary": "After attacking, reduces target's Strike and Fire resistance<br>Moves self to in-range"
+  },
+  {
+    "id": 11002579,
+    "description": "After attacking, reduces target's Strike resistance by {0}% and Fire resistance by {1}% for 1 attack and<br>Moves self to in-range",
+    "name": "Upper Blow",
+    "summary": "After attacking, reduces target's Strike and Fire resistance<br>Moves self to in-range"
+  },
+  {
+    "id": 11002580,
+    "description": "After attacking, reduces target's Strike resistance by {0}% and Fire resistance by {1}% for 1 attack and<br>Moves self to in-range",
+    "name": "Upper Blow",
+    "summary": "After attacking, reduces target's Strike and Fire resistance<br>Moves self to in-range"
+  },
+  {
+    "id": 11002587,
+    "description": "After attacking, grants self skill damage +{0}% until the end of 1 action and<br>If self's next panel is not a boost-type panel or Burst panel, converts it to a boost panel (or creates one if empty) and<br>Moves self to in-range<br>Skill when in-range: {hyperlink_id 59}",
+    "name": "Eclipse",
+    "summary": "After attacking, increases self skill damage<br>Converts next panel to boost panel or creates one<br>Moves self to in-range"
+  },
+  {
+    "id": 11002588,
+    "description": "After attacking, grants self skill damage +{0}% until the end of 1 action and<br>If self's next panel is not a boost-type panel or Burst panel, converts it to a boost panel (or creates one if empty) and<br>Moves self to in-range<br>Skill when in-range: {hyperlink_id 60}",
+    "name": "Eclipse",
+    "summary": "After attacking, increases self skill damage<br>Converts next panel to boost panel or creates one<br>Moves self to in-range"
+  },
+  {
+    "id": 11002589,
+    "description": "After attacking, grants self skill damage +{0}% until the end of 1 action and<br>If self's next panel is not a boost-type panel or Burst panel, converts it to a boost panel (or creates one if empty) and<br>Moves self to in-range<br>Skill when in-range: {hyperlink_id 61}",
+    "name": "Eclipse",
+    "summary": "After attacking, increases self skill damage<br>Converts next panel to boost panel or creates one<br>Moves self to in-range"
+  },
+  {
+    "id": 11002590,
+    "description": "After attacking, grants self skill damage +{0}% until the end of 1 action and<br>If self's next panel is not a boost-type panel or Burst panel, converts it to a boost panel (or creates one if empty) and<br>Moves self to in-range<br>Skill when in-range: {hyperlink_id 62}",
+    "name": "Eclipse",
+    "summary": "After attacking, increases self skill damage<br>Converts next panel to boost panel or creates one<br>Moves self to in-range"
+  },
+  {
+    "id": 11002591,
+    "description": "After attacking, grants self skill damage +{0}% until the end of 1 action and<br>If self's next panel is not a boost-type panel or Burst panel, converts it to a boost panel (or creates one if empty) and<br>Moves self to in-range<br>Skill when in-range: {hyperlink_id 63}",
+    "name": "Eclipse",
+    "summary": "After attacking, increases self skill damage<br>Converts next panel to boost panel or creates one<br>Moves self to in-range"
+  },
+  {
+    "id": 11002597,
+    "description": "When target is Stunned, damage +{0}% and recovers {1}% of self HP<br>After attacking, reduces target's Strike resistance by {2}% for 2 attacks and<br>Grants self P.ATK +{3}% until the end of 1 action and<br>Moves self to out-range",
+    "name": "Full Moon",
+    "summary": "When target is Stunned, increases damage and recovers self HP<br>After attacking, reduces target's Strike resistance<br>Increases self P.ATK<br>Moves self to out-range"
+  },
+  {
+    "id": 11002598,
+    "description": "When target is Stunned, damage +{0}% and recovers {1}% of self HP<br>After attacking, reduces target's Strike resistance by {2}% for 2 attacks and<br>Grants self P.ATK +{3}% until the end of 1 action and<br>Moves self to out-range",
+    "name": "Full Moon",
+    "summary": "When target is Stunned, increases damage and recovers self HP<br>After attacking, reduces target's Strike resistance<br>Increases self P.ATK<br>Moves self to out-range"
+  },
+  {
+    "id": 11002599,
+    "description": "When target is Stunned, damage +{0}% and recovers {1}% of self HP<br>After attacking, reduces target's Strike resistance by {2}% for 2 attacks and<br>Grants self P.ATK +{3}% until the end of 1 action and<br>Moves self to out-range",
+    "name": "Full Moon",
+    "summary": "When target is Stunned, increases damage and recovers self HP<br>After attacking, reduces target's Strike resistance<br>Increases self P.ATK<br>Moves self to out-range"
+  },
+  {
+    "id": 11002600,
+    "description": "When target is Stunned, damage +{0}% and recovers {1}% of self HP<br>After attacking, reduces target's Strike resistance by {2}% for 2 attacks and<br>Grants self P.ATK +{3}% until the end of 1 action and<br>Moves self to out-range",
+    "name": "Full Moon",
+    "summary": "When target is Stunned, increases damage and recovers self HP<br>After attacking, reduces target's Strike resistance<br>Increases self P.ATK<br>Moves self to out-range"
+  },
+  {
+    "id": 11002601,
+    "description": "When target is Stunned, damage +{0}% and recovers {1}% of self HP<br>After attacking, reduces target's Strike resistance by {2}% for 2 attacks and<br>Grants self P.ATK +{3}% until the end of 1 action and<br>Moves self to out-range",
+    "name": "Full Moon",
+    "summary": "When target is Stunned, increases damage and recovers self HP<br>After attacking, reduces target's Strike resistance<br>Increases self P.ATK<br>Moves self to out-range"
+  },
+  {
+    "id": 11002612,
+    "description": "After attacking, grants self skill damage +{0}% until the end of 1 action and<br>If self's next panel is not a boost-type panel or Burst panel, converts it to a boost panel (or creates one if empty) and<br>Moves self to in-range",
+    "name": "Eclipse",
+    "summary": "After attacking, increases self skill damage<br>Converts next panel to boost panel or creates one<br>Moves self to in-range"
+  },
+  {
+    "id": 11002613,
+    "description": "After attacking, grants self skill damage +{0}% until the end of 1 action and<br>If self's next panel is not a boost-type panel or Burst panel, converts it to a boost panel (or creates one if empty) and<br>Moves self to in-range",
+    "name": "Eclipse",
+    "summary": "After attacking, increases self skill damage<br>Converts next panel to boost panel or creates one<br>Moves self to in-range"
+  },
+  {
+    "id": 11002614,
+    "description": "After attacking, grants self skill damage +{0}% until the end of 1 action and<br>If self's next panel is not a boost-type panel or Burst panel, converts it to a boost panel (or creates one if empty) and<br>Moves self to in-range",
+    "name": "Eclipse",
+    "summary": "After attacking, increases self skill damage<br>Converts next panel to boost panel or creates one<br>Moves self to in-range"
+  },
+  {
+    "id": 11002615,
+    "description": "After attacking, boosts own skill damage by {0}% for 1 turn. If own next panel is neither a boost-type panel nor a burst panel, converts it into a boost panel (creates a boost panel if empty). Moves self to in-range.",
+    "name": "Eclipse",
+    "summary": "After attacking, boosts own skill damage.\nConverts own next panel into a boost panel.\nMoves self to in-range."
+  },
+  {
+    "id": 11002616,
+    "description": "After attacking, boosts own skill damage by {0}% for 1 turn. If own next panel is neither a boost-type panel nor a burst panel, converts it into a boost panel (creates a boost panel if empty). Moves self to in-range.",
+    "name": "Eclipse",
+    "summary": "After attacking, boosts own skill damage.\nConverts own next panel into a boost panel.\nMoves self to in-range."
+  },
+  {
+    "id": 12002391,
+    "description": "After attacking, boosts own M. ATK by {0}% and skill damage by {1}% for 2 turns.\nOut-range skill: {hyperlink_id 32}",
+    "name": "Spiral Rond",
+    "summary": "After attacking, boosts own M. ATK and skill damage."
+  },
+  {
+    "id": 12002392,
+    "description": "After attacking, boosts own M. ATK by {0}% and skill damage by {1}% for 2 turns.\nOut-range skill: {hyperlink_id 33}",
+    "name": "Spiral Rond",
+    "summary": "After attacking, boosts own M. ATK and skill damage."
+  },
+  {
+    "id": 12002393,
+    "description": "After attacking, boosts own M. ATK by {0}% and skill damage by {1}% for 2 turns.\nOut-range skill: {hyperlink_id 34}",
+    "name": "Spiral Rond",
+    "summary": "After attacking, boosts own M. ATK and skill damage."
+  },
+  {
+    "id": 12002394,
+    "description": "After attacking, boosts own M. ATK by {0}% and skill damage by {1}% for 2 turns.\nOut-range skill: {hyperlink_id 35}",
+    "name": "Spiral Rond",
+    "summary": "After attacking, boosts own M. ATK and skill damage."
+  },
+  {
+    "id": 12002395,
+    "description": "After attacking, boosts own M. ATK by {0}% and skill damage by {1}% for 2 turns.\nOut-range skill: {hyperlink_id 36}",
+    "name": "Spiral Rond",
+    "summary": "After attacking, boosts own M. ATK and skill damage."
+  },
+  {
+    "id": 12002396,
+    "description": "After attacking, boosts own M. ATK by {0}% and skill damage by {1}% for 2 turns.",
+    "name": "Spiral Rond",
+    "summary": "After attacking, boosts own M. ATK and skill damage."
+  },
+  {
+    "id": 12002397,
+    "description": "After attacking, boosts own M. ATK by {0}% and skill damage by {1}% for 2 turns.",
+    "name": "Spiral Rond",
+    "summary": "After attacking, boosts own M. ATK and skill damage."
+  },
+  {
+    "id": 12002398,
+    "description": "After attacking, boosts own M. ATK by {0}% and skill damage by {1}% for 2 turns.",
+    "name": "Spiral Rond",
+    "summary": "After attacking, boosts own M. ATK and skill damage."
+  },
+  {
+    "id": 12002399,
+    "description": "After attacking, boosts own M. ATK by {0}% and skill damage by {1}% for 2 turns.",
+    "name": "Spiral Rond",
+    "summary": "After attacking, boosts own M. ATK and skill damage."
+  },
+  {
+    "id": 12002400,
+    "description": "After attacking, boosts own M. ATK by {0}% and skill damage by {1}% for 2 turns.",
+    "name": "Spiral Rond",
+    "summary": "After attacking, boosts own M. ATK and skill damage."
+  },
+  {
+    "id": 12002406,
+    "description": "After attacking, boosts target's Fire damage received by {0}% and Strike damage received by {1}% for 2 attacks, and grants self Pile (non-stackable).\nBased on the number of characters with the Arland Investigation Team tag, after attacking, boosts target's Fire damage received by 5~{2}%, Strike damage received by 5~{3}%, and Stun damage received by 5~{4}% for 2 attacks (increases with more members, 1~5).\n※ Pile boosts P. ATK by 50%\nOut-range skill: {hyperlink_id 53}",
+    "name": "Crusade Rush",
+    "summary": "After attacking, boosts target's Fire damage received and Strike damage received.\nGrants self Pile.\nBased on Arland Investigation Team members, boosts target's Fire damage received, Strike damage received, and Stun damage received."
+  },
+  {
+    "id": 12002407,
+    "description": "After attacking, boosts target's Fire damage received by {0}% and Strike damage received by {1}% for 2 attacks, and grants self Pile (non-stackable).\nBased on the number of characters with the Arland Investigation Team tag, after attacking, boosts target's Fire damage received by 5~{2}%, Strike damage received by 5~{3}%, and Stun damage received by 5~{4}% for 2 attacks (increases with more members, 1~5).\n※ Pile boosts P. ATK by 50%\nOut-range skill: {hyperlink_id 54}",
+    "name": "Crusade Rush",
+    "summary": "After attacking, boosts target's Fire damage received and Strike damage received.\nGrants self Pile.\nBased on Arland Investigation Team members, boosts target's Fire damage received, Strike damage received, and Stun damage received."
+  },
+  {
+    "id": 12002408,
+    "description": "After attacking, boosts target's Fire damage received by {0}% and Strike damage received by {1}% for 2 attacks, and grants self Pile (non-stackable).\nBased on the number of characters with the Arland Investigation Team tag, after attacking, boosts target's Fire damage received by 5~{2}%, Strike damage received by 5~{3}%, and Stun damage received by 5~{4}% for 2 attacks (increases with more members, 1~5).\n※ Pile boosts P. ATK by 50%\nOut-range skill: {hyperlink_id 55}",
+    "name": "Crusade Rush",
+    "summary": "After attacking, boosts target's Fire damage received and Strike damage received.\nGrants self Pile.\nBased on Arland Investigation Team members, boosts target's Fire damage received, Strike damage received, and Stun damage received."
+  },
+  {
+    "id": 12002409,
+    "description": "After attacking, boosts target's Fire damage received by {0}% and Strike damage received by {1}% for 2 attacks, and grants self Pile (non-stackable).\nBased on the number of characters with the Arland Investigation Team tag, after attacking, boosts target's Fire damage received by 5~{2}%, Strike damage received by 5~{3}%, and Stun damage received by 5~{4}% for 2 attacks (increases with more members, 1~5).\n※ Pile boosts P. ATK by 50%\nOut-range skill: {hyperlink_id 56}",
+    "name": "Crusade Rush",
+    "summary": "After attacking, boosts target's Fire damage received and Strike damage received.\nGrants self Pile.\nBased on Arland Investigation Team members, boosts target's Fire damage received, Strike damage received, and Stun damage received."
+  },
+  {
+    "id": 12002410,
+    "description": "After attacking, boosts target's Fire damage received by {0}% and Strike damage received by {1}% for 2 attacks, and grants self Pile (non-stackable).\nBased on the number of characters with the Arland Investigation Team tag, after attacking, boosts target's Fire damage received by 5~{2}%, Strike damage received by 5~{3}%, and Stun damage received by 5~{4}% for 2 attacks (increases with more members, 1~5).\n※ Pile boosts P. ATK by 50%\nOut-range skill: {hyperlink_id 57}",
+    "name": "Crusade Rush",
+    "summary": "After attacking, boosts target's Fire damage received and Strike damage received.\nGrants self Pile.\nBased on Arland Investigation Team members, boosts target's Fire damage received, Strike damage received, and Stun damage received."
+  },
+  {
+    "id": 12002421,
+    "description": "Before attacking, reduces target's Strike resistance by {0}% for 2 attacks.\nAfter attacking, boosts own P. ATK by {1}% for 2 turns.\nIf Flying Sword is not granted, grants Flying Sword (Lv. 2).\nIf already granted, increases Flying Sword's Lv by 2 (MAX Lv. 10).\nOut-range skill: {hyperlink_id 74}",
+    "name": "Spinning Edge",
+    "summary": "Before attacking, reduces target's Strike resistance.\nAfter attacking, boosts own P. ATK.\nGrants Flying Sword or increases its level."
+  },
+  {
+    "id": 12002422,
+    "description": "Before attacking, reduces target's Strike resistance by {0}% for 2 attacks.\nAfter attacking, boosts own P. ATK by {1}% for 2 turns.\nIf Flying Sword is not granted, grants Flying Sword (Lv. 2).\nIf already granted, increases Flying Sword's Lv by 2 (MAX Lv. 10).\nOut-range skill: {hyperlink_id 75}",
+    "name": "Spinning Edge",
+    "summary": "Before attacking, reduces target's Strike resistance.\nAfter attacking, boosts own P. ATK.\nGrants Flying Sword or increases its level."
+  },
+  {
+    "id": 12002423,
+    "description": "Before attacking, reduces target's Strike resistance by {0}% for 2 attacks.\nAfter attacking, boosts own P. ATK by {1}% for 2 turns.\nIf Flying Sword is not granted, grants Flying Sword (Lv. 2).\nIf already granted, increases Flying Sword's Lv by 2 (MAX Lv. 10).\nOut-range skill: {hyperlink_id 76}",
+    "name": "Spinning Edge",
+    "summary": "Before attacking, reduces target's Strike resistance.\nAfter attacking, boosts own P. ATK.\nGrants Flying Sword or increases its level."
+  },
+  {
+    "id": 12002424,
+    "description": "Before attacking, reduces target's Strike resistance by {0}% for 2 attacks.<br>After attacking, boosts own P.ATK by {1}% for 2 turns.<br>When there is no \"Flying Sword\" effect on self, grant \"Flying Sword (Lv. 2)\"<br>When already granted, increases \"Flying Sword\" level by 2 (max Lv. 10)<br>Out-of-range skill: {hyperlink_id 77}",
+    "name": "Spinning Edge",
+    "summary": "Before attack, reduces target's Strike resistance<br>After attack, boosts own P.ATK<br>Grant or level up \"Flying Sword\""
+  },
+  {
+    "id": 12002425,
+    "description": "Before attacking, reduces target's Strike resistance by {0}% for 2 attacks.<br>After attacking, boosts own P.ATK by {1}% for 2 turns.<br>When there is no \"Flying Sword\" effect on self, grant \"Flying Sword (Lv. 2)\"<br>When already granted, increases \"Flying Sword\" level by 2 (max Lv. 10)<br>Out-of-range skill: {hyperlink_id 78}",
+    "name": "Spinning Edge",
+    "summary": "Before attack, reduces target's Strike resistance<br>After attack, boosts own P.ATK<br>Grant or level up \"Flying Sword\""
+  },
+  {
+    "id": 12002546,
+    "description": "Boosts damage by 30~120% based on number of enemies (higher with 1~4 enemies)<br>Boosts critical damage by 60~180% based on number of enemies (higher with fewer enemies, 1~4)<br>Before attacking, reduces target's Fire resistance by {0}% for 2 attacks<br>After attacking, boosts own M.ATK by {1}% for 2 turns and recovers Item Gauge by {2}%<br>In-range skill: {hyperlink_id 22}",
+    "name": "Mailstrom",
+    "summary": "Boosts skill damage and critical damage based on enemy count<br>Before attack, reduces target's Fire resistance<br>After attack, boosts own M.ATK<br>Recovers Item Gauge"
+  },
+  {
+    "id": 12002547,
+    "description": "Boosts damage by 30~120% based on number of enemies (higher with 1~4 enemies)<br>Boosts critical damage by 60~180% based on number of enemies (higher with fewer enemies, 1~4)<br>Before attacking, reduces target's Fire resistance by {0}% for 2 attacks<br>After attacking, boosts own M.ATK by {1}% for 2 turns and recovers Item Gauge by {2}%<br>In-range skill: {hyperlink_id 23}",
+    "name": "Mailstrom",
+    "summary": "Boosts skill damage and critical damage based on enemy count<br>Before attack, reduces target's Fire resistance<br>After attack, boosts own M.ATK<br>Recovers Item Gauge"
+  },
+  {
+    "id": 12002548,
+    "description": "Boosts damage by 30~120% based on number of enemies (higher with 1~4 enemies)<br>Boosts critical damage by 60~180% based on number of enemies (higher with fewer enemies, 1~4)<br>Before attacking, reduces target's Fire resistance by {0}% for 2 attacks<br>After attacking, boosts own M.ATK by {1}% for 2 turns and recovers Item Gauge by {2}%<br>In-range skill: {hyperlink_id 24}",
+    "name": "Mailstrom",
+    "summary": "Boosts skill damage and critical damage based on enemy count<br>Before attack, reduces target's Fire resistance<br>After attack, boosts own M.ATK<br>Recovers Item Gauge"
+  },
+  {
+    "id": 12002549,
+    "description": "Boosts damage by 30~120% based on number of enemies (higher with 1~4 enemies)<br>Boosts critical damage by 60~180% based on number of enemies (higher with fewer enemies, 1~4)<br>Before attacking, reduces target's Fire resistance by {0}% for 2 attacks<br>After attacking, boosts own M.ATK by {1}% for 2 turns and recovers Item Gauge by {2}%<br>In-range skill: {hyperlink_id 25}",
+    "name": "Mailstrom",
+    "summary": "Boosts skill damage and critical damage based on enemy count<br>Before attack, reduces target's Fire resistance<br>After attack, boosts own M.ATK<br>Recovers Item Gauge"
+  },
+  {
+    "id": 12002550,
+    "description": "Boosts damage by 30~120% based on number of enemies (higher with 1~4 enemies)<br>Boosts critical damage by 60~180% based on number of enemies (higher with fewer enemies, 1~4)<br>Before attacking, reduces target's Fire resistance by {0}% for 2 attacks<br>After attacking, boosts own M.ATK by {1}% for 2 turns and recovers Item Gauge by {2}%<br>In-range skill: {hyperlink_id 26}",
+    "name": "Mailstrom",
+    "summary": "Boosts skill damage and critical damage based on enemy count<br>Before attack, reduces target's Fire resistance<br>After attack, boosts own M.ATK<br>Recovers Item Gauge"
+  },
+  {
+    "id": 12002551,
+    "description": "Boosts damage by 30~120% based on number of enemies (higher with 1~4 enemies)<br>Boosts critical damage by 60~180% based on number of enemies (higher with fewer enemies, 1~4)<br>Before attacking, reduces target's Fire resistance by {0}% for 2 attacks<br>After attacking, boosts own M.ATK by {1}% for 2 turns and recovers Item Gauge by {2}%",
+    "name": "Mailstrom",
+    "summary": "Boosts skill damage and critical damage based on enemy count<br>Before attack, reduces target's Fire resistance<br>After attack, boosts own M.ATK<br>Recovers Item Gauge"
+  },
+  {
+    "id": 12002552,
+    "description": "Boosts damage by 30~120% based on number of enemies (higher with 1~4 enemies)<br>Boosts critical damage by 60~180% based on number of enemies (higher with fewer enemies, 1~4)<br>Before attacking, reduces target's Fire resistance by {0}% for 2 attacks<br>After attacking, boosts own M.ATK by {1}% for 2 turns and recovers Item Gauge by {2}%",
+    "name": "Mailstrom",
+    "summary": "Boosts skill damage and critical damage based on enemy count<br>Before attack, reduces target's Fire resistance<br>After attack, boosts own M.ATK<br>Recovers Item Gauge"
+  },
+  {
+    "id": 12002553,
+    "description": "Boosts damage by 30~120% based on number of enemies (higher with 1~4 enemies)<br>Boosts critical damage by 60~180% based on number of enemies (higher with fewer enemies, 1~4)<br>Before attacking, reduces target's Fire resistance by {0}% for 2 attacks<br>After attacking, boosts own M.ATK by {1}% for 2 turns and recovers Item Gauge by {2}%",
+    "name": "Mailstrom",
+    "summary": "Boosts skill damage and critical damage based on enemy count<br>Before attack, reduces target's Fire resistance<br>After attack, boosts own M.ATK<br>Recovers Item Gauge"
+  },
+  {
+    "id": 12002554,
+    "description": "Boosts damage by 30~120% based on number of enemies (higher with 1~4 enemies)<br>Boosts critical damage by 60~180% based on number of enemies (higher with fewer enemies, 1~4)<br>Before attacking, reduces target's Fire resistance by {0}% for 2 attacks<br>After attacking, boosts own M.ATK by {1}% for 2 turns and recovers Item Gauge by {2}%",
+    "name": "Mailstrom",
+    "summary": "Boosts skill damage and critical damage based on enemy count<br>Before attack, reduces target's Fire resistance<br>After attack, boosts own M.ATK<br>Recovers Item Gauge"
+  },
+  {
+    "id": 12002555,
+    "description": "Boosts damage by 30~120% based on number of enemies (higher with 1~4 enemies)<br>Boosts critical damage by 60~180% based on number of enemies (higher with fewer enemies, 1~4)<br>Before attacking, reduces target's Fire resistance by {0}% for 2 attacks<br>After attacking, boosts own M.ATK by {1}% for 2 turns and recovers Item Gauge by {2}%",
+    "name": "Mailstrom",
+    "summary": "Boosts skill damage and critical damage based on enemy count<br>Before attack, reduces target's Fire resistance<br>After attack, boosts own M.ATK<br>Recovers Item Gauge"
+  },
+  {
+    "id": 12002561,
+    "description": "When granted \"Pile\", boosts skill damage by {0}%<br>Before attacking, reduces target's Fire resistance by {1}% and Strike resistance by {2}% for 2 attacks<br>After attacking, boosts own stun damage by {3}% for 2 turns and<br>When granted \"Pile\", removes \"Pile\" from self<br>Based on number of characters with \"Aradis Investigation Team\" tag, before attacking, reduces target's Fire resistance by 3~{4}% and Strike resistance by 3~{5}% for 2 attacks<br>After attacking, boosts own stun damage by 4~{6}% for 2 turns (increases with 1~5 characters)<br>*Pile grants P.ATK +50%<br>In-range skill: {hyperlink_id 43}",
+    "name": "Fortress",
+    "summary": "When granted \"Pile\", boosts skill damage<br>Before attack, reduces target's Fire and Strike resistance<br>After attack, boosts own stun damage<br>When granted \"Pile\", removes \"Pile\" from self<br>Based on number of Aradis Investigation Team characters, before attack, reduces target's Fire and Strike resistance<br>After attack, boosts own stun damage"
+  },
+  {
+    "id": 12002562,
+    "description": "When granted \"Pile\", boosts skill damage by {0}%<br>Before attacking, reduces target's Fire resistance by {1}% and Strike resistance by {2}% for 2 attacks<br>After attacking, boosts own stun damage by {3}% for 2 turns and<br>When granted \"Pile\", removes \"Pile\" from self<br>Based on number of characters with \"Aradis Investigation Team\" tag, before attacking, reduces target's Fire resistance by 3~{4}% and Strike resistance by 3~{5}% for 2 attacks<br>After attacking, boosts own stun damage by 4~{6}% for 2 turns (increases with 1~5 characters)<br>*Pile grants P.ATK +50%<br>In-range skill: {hyperlink_id 44}",
+    "name": "Fortress",
+    "summary": "When granted \"Pile\", boosts skill damage<br>Before attack, reduces target's Fire and Strike resistance<br>After attack, boosts own stun damage<br>When granted \"Pile\", removes \"Pile\" from self<br>Based on number of Aradis Investigation Team characters, before attack, reduces target's Fire and Strike resistance<br>After attack, boosts own stun damage"
+  },
+  {
+    "id": 12002563,
+    "description": "When granted \"Pile\", boosts skill damage by {0}%<br>Before attacking, reduces target's Fire resistance by {1}% and Strike resistance by {2}% for 2 attacks<br>After attacking, boosts own stun damage by {3}% for 2 turns and<br>When granted \"Pile\", removes \"Pile\" from self<br>Based on number of characters with \"Aradis Investigation Team\" tag, before attacking, reduces target's Fire resistance by 3~{4}% and Strike resistance by 3~{5}% for 2 attacks<br>After attacking, boosts own stun damage by 4~{6}% for 2 turns (increases with 1~5 characters)<br>*Pile grants P.ATK +50%<br>In-range skill: {hyperlink_id 45}",
+    "name": "Fortress",
+    "summary": "When granted \"Pile\", boosts skill damage<br>Before attack, reduces target's Fire and Strike resistance<br>After attack, boosts own stun damage<br>When granted \"Pile\", removes \"Pile\" from self<br>Based on number of Aradis Investigation Team characters, before attack, reduces target's Fire and Strike resistance<br>After attack, boosts own stun damage"
+  },
+  {
+    "id": 12002564,
+    "description": "When granted \"Pile\", boosts skill damage by {0}%<br>Before attacking, reduces target's Fire resistance by {1}% and Strike resistance by {2}% for 2 attacks<br>After attacking, boosts own stun damage by {3}% for 2 turns and<br>When granted \"Pile\", removes \"Pile\" from self<br>Based on number of characters with \"Aradis Investigation Team\" tag, before attacking, reduces target's Fire resistance by 3~{4}% and Strike resistance by 3~{5}% for 2 attacks<br>After attacking, boosts own stun damage by 4~{6}% for 2 turns (increases with 1~5 characters)<br>*Pile grants P.ATK +50%<br>In-range skill: {hyperlink_id 46}",
+    "name": "Fortress",
+    "summary": "When granted \"Pile\", boosts skill damage<br>Before attack, reduces target's Fire and Strike resistance<br>After attack, boosts own stun damage<br>When granted \"Pile\", removes \"Pile\" from self<br>Based on number of Aradis Investigation Team characters, before attack, reduces target's Fire and Strike resistance<br>After attack, boosts own stun damage"
+  },
+  {
+    "id": 12002565,
+    "description": "When granted \"Pile\", boosts skill damage by {0}%<br>Before attacking, reduces target's Fire resistance by {1}% and Strike resistance by {2}% for 2 attacks<br>After attacking, boosts own stun damage by {3}% for 2 turns and<br>When granted \"Pile\", removes \"Pile\" from self<br>Based on number of characters with \"Aradis Investigation Team\" tag, before attacking, reduces target's Fire resistance by 3~{4}% and Strike resistance by 3~{5}% for 2 attacks<br>After attacking, boosts own stun damage by 4~{6}% for 2 turns (increases with 1~5 characters)<br>*Pile grants P.ATK +50%<br>In-range skill: {hyperlink_id 47}",
+    "name": "Fortress",
+    "summary": "When granted \"Pile\", boosts skill damage<br>Before attack, reduces target's Fire and Strike resistance<br>After attack, boosts own stun damage<br>When granted \"Pile\", removes \"Pile\" from self<br>Based on number of Aradis Investigation Team characters, before attack, reduces target's Fire and Strike resistance<br>After attack, boosts own stun damage"
+  },
+  {
+    "id": 12002571,
+    "description": "After attacking, increases Fire damage received by {0}% and Strike damage received by {1}% for 2 attacks and<br>Grants \"Pile\" to self (non-stackable)<br>Based on number of characters with \"Aradis Investigation Team\" tag, after attacking, increases target's Fire damage received by 5~{2}% and Strike damage received by 5~{3}% and stun damage received by 5~{4}% for 2 attacks (increases with 1~5 characters)<br>*Pile grants P.ATK +50%",
+    "name": "Crusade Rush",
+    "summary": "After attack, increases target's Fire damage and Strike damage received<br>Grants \"Pile\" to self<br>Based on number of Aradis Investigation Team characters, increases target's Fire damage, Strike damage and stun damage received"
+  },
+  {
+    "id": 12002572,
+    "description": "After attacking, increases Fire damage received by {0}% and Strike damage received by {1}% for 2 attacks and<br>Grants \"Pile\" to self (non-stackable)<br>Based on number of characters with \"Aradis Investigation Team\" tag, after attacking, increases target's Fire damage received by 5~{2}% and Strike damage received by 5~{3}% and stun damage received by 5~{4}% for 2 attacks (increases with 1~5 characters)<br>*Pile grants P.ATK +50%",
+    "name": "Crusade Rush",
+    "summary": "After attack, increases target's Fire damage and Strike damage received<br>Grants \"Pile\" to self<br>Based on number of Aradis Investigation Team characters, increases target's Fire damage, Strike damage and stun damage received"
+  },
+  {
+    "id": 12002573,
+    "description": "After attacking, increases Fire damage received by {0}% and Strike damage received by {1}% for 2 attacks and<br>Grants \"Pile\" to self (non-stackable)<br>Based on number of characters with \"Aradis Investigation Team\" tag, after attacking, increases target's Fire damage received by 5~{2}% and Strike damage received by 5~{3}% and stun damage received by 5~{4}% for 2 attacks (increases with 1~5 characters)<br>*Pile grants P.ATK +50%",
+    "name": "Crusade Rush",
+    "summary": "After attack, increases target's Fire damage and Strike damage received<br>Grants \"Pile\" to self<br>Based on number of Aradis Investigation Team characters, increases target's Fire damage, Strike damage and stun damage received"
+  },
+  {
+    "id": 12002574,
+    "description": "After attacking, boosts target's Fire damage received by {0}% and Strike damage received by {1}% for 2 attacks.<br>Grants self Pile (non-stackable).<br>Based on the number of characters with 'Aradis Survey Corps' tag, after attacking, boosts target's Fire damage received by 5~{2}%, Strike damage received by 5~{3}%, and stun damage received by 5~{4}% for 2 attacks (higher boost for more allies, range: 1-5 allies).<br>※Pile: P.ATK +50%",
+    "name": "Crusade Rush",
+    "summary": "After attacking, boosts target's Fire and Strike damage received.<br>Grants self Pile.<br>Based on number of allies with 'Aradis Survey Corps' tag, boosts target's Fire damage received, Strike damage received, and stun damage received."
+  },
+  {
+    "id": 12002575,
+    "description": "After attacking, boosts target's Fire damage received by {0}% and Strike damage received by {1}% for 2 attacks.<br>Grants self Pile (non-stackable).<br>Based on the number of characters with 'Aradis Survey Corps' tag, after attacking, boosts target's Fire damage received by 5~{2}%, Strike damage received by 5~{3}%, and stun damage received by 5~{4}% for 2 attacks (higher boost for more allies, range: 1-5 allies).<br>※Pile: P.ATK +50%",
+    "name": "Crusade Rush",
+    "summary": "After attacking, boosts target's Fire and Strike damage received.<br>Grants self Pile.<br>Based on number of allies with 'Aradis Survey Corps' tag, boosts target's Fire damage received, Strike damage received, and stun damage received."
+  },
+  {
+    "id": 12002581,
+    "description": "When Pile is granted, skill damage +{0}%.<br>Before attacking, reduces target's Fire resistance by {1}% and Strike resistance by {2}% for 2 attacks.<br>After attacking, boosts own stun damage by {3}% for 2 turns.<br>If self has Pile, removes Pile.<br>Based on the number of characters with 'Aradis Survey Corps' tag, before attacking, reduces target's Fire resistance by 3~{4}% and Strike resistance by 3~{5}% for 2 attacks.<br>After attacking, boosts own stun damage by 4~{6}% for 2 turns (higher boost for more allies, range: 1-5 allies).<br>※Pile: P.ATK +50%",
+    "name": "Fortress",
+    "summary": "When Pile is granted, skill damage up.<br>Before attacking, reduces target's Fire and Strike resistance.<br>After attacking, boosts own stun damage.<br>If self has Pile, removes Pile.<br>Based on number of allies with 'Aradis Survey Corps' tag, reduces target's Fire and Strike resistance.<br>After attacking, boosts own stun damage."
+  },
+  {
+    "id": 12002582,
+    "description": "When Pile is granted, skill damage +{0}%.<br>Before attacking, reduces target's Fire resistance by {1}% and Strike resistance by {2}% for 2 attacks.<br>After attacking, boosts own stun damage by {3}% for 2 turns.<br>If self has Pile, removes Pile.<br>Based on the number of characters with 'Aradis Survey Corps' tag, before attacking, reduces target's Fire resistance by 3~{4}% and Strike resistance by 3~{5}% for 2 attacks.<br>After attacking, boosts own stun damage by 4~{6}% for 2 turns (higher boost for more allies, range: 1-5 allies).<br>※Pile: P.ATK +50%",
+    "name": "Fortress",
+    "summary": "When Pile is granted, skill damage up.<br>Before attacking, reduces target's Fire and Strike resistance.<br>After attacking, boosts own stun damage.<br>If self has Pile, removes Pile.<br>Based on number of allies with 'Aradis Survey Corps' tag, reduces target's Fire and Strike resistance.<br>After attacking, boosts own stun damage."
+  },
+  {
+    "id": 12002583,
+    "description": "When Pile is granted, skill damage +{0}%.<br>Before attacking, reduces target's Fire resistance by {1}% and Strike resistance by {2}% for 2 attacks.<br>After attacking, boosts own stun damage by {3}% for 2 turns.<br>If self has Pile, removes Pile.<br>Based on the number of characters with 'Aradis Survey Corps' tag, before attacking, reduces target's Fire resistance by 3~{4}% and Strike resistance by 3~{5}% for 2 attacks.<br>After attacking, boosts own stun damage by 4~{6}% for 2 turns (higher boost for more allies, range: 1-5 allies).<br>※Pile: P.ATK +50%",
+    "name": "Fortress",
+    "summary": "When Pile is granted, skill damage up.<br>Before attacking, reduces target's Fire and Strike resistance.<br>After attacking, boosts own stun damage.<br>If self has Pile, removes Pile.<br>Based on number of allies with 'Aradis Survey Corps' tag, reduces target's Fire and Strike resistance.<br>After attacking, boosts own stun damage."
+  },
+  {
+    "id": 12002584,
+    "description": "When Pile is granted, skill damage +{0}%.<br>Before attacking, reduces target's Fire resistance by {1}% and Strike resistance by {2}% for 2 attacks.<br>After attacking, boosts own stun damage by {3}% for 2 turns.<br>If self has Pile, removes Pile.<br>Based on the number of characters with 'Aradis Survey Corps' tag, before attacking, reduces target's Fire resistance by 3~{4}% and Strike resistance by 3~{5}% for 2 attacks.<br>After attacking, boosts own stun damage by 4~{6}% for 2 turns (higher boost for more allies, range: 1-5 allies).<br>※Pile: P.ATK +50%",
+    "name": "Fortress",
+    "summary": "When Pile is granted, skill damage up.<br>Before attacking, reduces target's Fire and Strike resistance.<br>After attacking, boosts own stun damage.<br>If self has Pile, removes Pile.<br>Based on number of allies with 'Aradis Survey Corps' tag, reduces target's Fire and Strike resistance.<br>After attacking, boosts own stun damage."
+  },
+  {
+    "id": 12002585,
+    "description": "When Pile is granted, skill damage +{0}%.<br>Before attacking, reduces target's Fire resistance by {1}% and Strike resistance by {2}% for 2 attacks.<br>After attacking, boosts own stun damage by {3}% for 2 turns.<br>If self has Pile, removes Pile.<br>Based on the number of characters with 'Aradis Survey Corps' tag, before attacking, reduces target's Fire resistance by 3~{4}% and Strike resistance by 3~{5}% for 2 attacks.<br>After attacking, boosts own stun damage by 4~{6}% for 2 turns (higher boost for more allies, range: 1-5 allies).<br>※Pile: P.ATK +50%",
+    "name": "Fortress",
+    "summary": "When Pile is granted, skill damage up.<br>Before attacking, reduces target's Fire and Strike resistance.<br>After attacking, boosts own stun damage.<br>If self has Pile, removes Pile.<br>Based on number of allies with 'Aradis Survey Corps' tag, reduces target's Fire and Strike resistance.<br>After attacking, boosts own stun damage."
+  },
+  {
+    "id": 12002592,
+    "description": "Before attacking, removes own negative effects and reduces target's Strike resistance by {0}% for 2 attacks.<br><br>When Flying Sword is Lv. 1 or higher, this attack's damage +{1}%.<br>When Flying Sword is Lv. 3 or higher, this attack's damage +{2}% and after attacking, restores own HP by {3}%.<br>When Flying Sword is Lv. 5 or higher, this attack's damage +{4}% and after attacking, restores own HP by {5}%.<br>When Flying Sword is Lv. 7 or higher, this attack's damage +{6}% and after attacking, restores own HP by {7}%.<br>When Flying Sword is Lv. 10, this attack's damage +{8}%.<br><br>After attacking, removes Flying Sword.<br>In-Range Skill: {hyperlink_id 64}",
+    "name": "Sonic Blast",
+    "summary": "Before attacking, removes own negative effects.<br>Reduces target's Strike resistance.<br>Additional effects activate based on Flying Sword's level.<br>After attacking, removes Flying Sword."
+  },
+  {
+    "id": 12002593,
+    "description": "Before attacking, removes own negative effects and reduces target's Strike resistance by {0}% for 2 attacks.<br><br>When Flying Sword is Lv. 1 or higher, this attack's damage +{1}%.<br>When Flying Sword is Lv. 3 or higher, this attack's damage +{2}% and after attacking, restores own HP by {3}%.<br>When Flying Sword is Lv. 5 or higher, this attack's damage +{4}% and after attacking, restores own HP by {5}%.<br>When Flying Sword is Lv. 7 or higher, this attack's damage +{6}% and after attacking, restores own HP by {7}%.<br>When Flying Sword is Lv. 10, this attack's damage +{8}%.<br><br>After attacking, removes Flying Sword.<br>In-Range Skill: {hyperlink_id 65}",
+    "name": "Sonic Blast",
+    "summary": "Before attacking, removes own negative effects.<br>Reduces target's Strike resistance.<br>Additional effects activate based on Flying Sword's level.<br>After attacking, removes Flying Sword."
+  },
+  {
+    "id": 12002594,
+    "description": "Before attacking, removes own negative effects and reduces target's Strike resistance by {0}% for 2 attacks.<br><br>When Flying Sword is Lv. 1 or higher, this attack's damage +{1}%.<br>When Flying Sword is Lv. 3 or higher, this attack's damage +{2}% and after attacking, restores own HP by {3}%.<br>When Flying Sword is Lv. 5 or higher, this attack's damage +{4}% and after attacking, restores own HP by {5}%.<br>When Flying Sword is Lv. 7 or higher, this attack's damage +{6}% and after attacking, restores own HP by {7}%.<br>When Flying Sword is Lv. 10, this attack's damage +{8}%.<br><br>After attacking, removes Flying Sword.<br>In-Range Skill: {hyperlink_id 66}",
+    "name": "Sonic Blast",
+    "summary": "Before attacking, removes own negative effects.<br>Reduces target's Strike resistance.<br>Additional effects activate based on Flying Sword's level.<br>After attacking, removes Flying Sword."
+  },
+  {
+    "id": 12002595,
+    "description": "Before attacking, removes own negative effects and reduces target's Strike resistance by {0}% for 2 attacks.<br><br>When Flying Sword is Lv. 1 or higher, this attack's damage +{1}%.<br>When Flying Sword is Lv. 3 or higher, this attack's damage +{2}% and after attacking, restores own HP by {3}%.<br>When Flying Sword is Lv. 5 or higher, this attack's damage +{4}% and after attacking, restores own HP by {5}%.<br>When Flying Sword is Lv. 7 or higher, this attack's damage +{6}% and after attacking, restores own HP by {7}%.<br>When Flying Sword is Lv. 10, this attack's damage +{8}%.<br><br>After attacking, removes Flying Sword.<br>In-Range Skill: {hyperlink_id 67}",
+    "name": "Sonic Blast",
+    "summary": "Before attacking, removes own negative effects.<br>Reduces target's Strike resistance.<br>Additional effects activate based on Flying Sword's level.<br>After attacking, removes Flying Sword."
+  },
+  {
+    "id": 12002596,
+    "description": "Before attacking, removes own negative effects and reduces target's Strike resistance by {0}% for 2 attacks.<br><br>When Flying Sword is Lv. 1 or higher, this attack's damage +{1}%.<br>When Flying Sword is Lv. 3 or higher, this attack's damage +{2}% and after attacking, restores own HP by {3}%.<br>When Flying Sword is Lv. 5 or higher, this attack's damage +{4}% and after attacking, restores own HP by {5}%.<br>When Flying Sword is Lv. 7 or higher, this attack's damage +{6}% and after attacking, restores own HP by {7}%.<br>When Flying Sword is Lv. 10, this attack's damage +{8}%.<br><br>After attacking, removes Flying Sword.<br>In-Range Skill: {hyperlink_id 68}",
+    "name": "Sonic Blast",
+    "summary": "Before attacking, removes own negative effects.<br>Reduces target's Strike resistance.<br>Additional effects activate based on Flying Sword's level.<br>After attacking, removes Flying Sword."
+  },
+  {
+    "id": 12002602,
+    "description": "Before attacking, reduces target's Strike resistance by {0}% for 2 attacks.<br>After attacking, boosts own P.ATK by {1}% for 2 turns.<br>When self does not have Flying Sword, grants Flying Sword (Lv. 2).<br>When already granted, increases Flying Sword level by 2 (max Lv. 10).",
+    "name": "Spinning Edge",
+    "summary": "Before attacking, reduces target's Strike resistance.<br>After attacking, boosts own P.ATK.<br>Grants or levels up Flying Sword."
+  },
+  {
+    "id": 12002603,
+    "description": "Before attacking, reduces target's Strike resistance by {0}% for 2 attacks.<br>After attacking, boosts own P.ATK by {1}% for 2 turns.<br>When self does not have Flying Sword, grants Flying Sword (Lv. 2).<br>When already granted, increases Flying Sword level by 2 (max Lv. 10).",
+    "name": "Spinning Edge",
+    "summary": "Before attacking, reduces target's Strike resistance.<br>After attacking, boosts own P.ATK.<br>Grants or levels up Flying Sword."
+  },
+  {
+    "id": 12002604,
+    "description": "Before attacking, reduces target's Strike resistance by {0}% for 2 attacks.<br>After attacking, boosts own P.ATK by {1}% for 2 turns.<br>When self does not have Flying Sword, grants Flying Sword (Lv. 2).<br>When already granted, increases Flying Sword level by 2 (max Lv. 10).",
+    "name": "Spinning Edge",
+    "summary": "Before attacking, reduces target's Strike resistance.<br>After attacking, boosts own P.ATK.<br>Grants or levels up Flying Sword."
+  },
+  {
+    "id": 12002605,
+    "description": "Before attacking, reduces target's Strike resistance by {0}% for 2 attacks.<br>After attacking, boosts own P.ATK by {1}% for 2 turns.<br>When self does not have Flying Sword, grants Flying Sword (Lv. 2).<br>When already granted, increases Flying Sword level by 2 (max Lv. 10).",
+    "name": "Spinning Edge",
+    "summary": "Before attacking, reduces target's Strike resistance.<br>After attacking, boosts own P.ATK.<br>Grants or levels up Flying Sword."
+  },
+  {
+    "id": 12002606,
+    "description": "Before attacking, reduces target's Strike resistance by {0}% for 2 attacks.<br>After attacking, boosts own P.ATK by {1}% for 2 turns.<br>When self does not have Flying Sword, grants Flying Sword (Lv. 2).<br>When already granted, increases Flying Sword level by 2 (max Lv. 10).",
+    "name": "Spinning Edge",
+    "summary": "Before attacking, reduces target's Strike resistance.<br>After attacking, boosts own P.ATK.<br>Grants or levels up Flying Sword."
+  },
+  {
+    "id": 12002617,
+    "description": "Before attacking, removes own negative effects and reduces target's Strike resistance by {0}% for 2 attacks.<br><br>When Flying Sword is Lv. 1 or higher, this attack's damage +{1}%.<br>When Flying Sword is Lv. 3 or higher, this attack's damage +{2}% and after attacking, restores own HP by {3}%.<br>When Flying Sword is Lv. 5 or higher, this attack's damage +{4}% and after attacking, restores own HP by {5}%.<br>When Flying Sword is Lv. 7 or higher, this attack's damage +{6}% and after attacking, restores own HP by {7}%.<br>When Flying Sword is Lv. 10, this attack's damage +{8}%.<br><br>After attacking, removes Flying Sword.",
+    "name": "Sonic Blast",
+    "summary": "Before attacking, removes own negative effects.<br>Reduces target's Strike resistance.<br>Additional effects activate based on Flying Sword's level.<br>After attacking, removes Flying Sword."
+  },
+  {
+    "id": 12002618,
+    "description": "Before attacking, removes own negative effects and reduces target's Strike resistance by {0}% for 2 attacks.<br><br>When Flying Sword is Lv. 1 or higher, this attack's damage +{1}%.<br>When Flying Sword is Lv. 3 or higher, this attack's damage +{2}% and after attacking, restores own HP by {3}%.<br>When Flying Sword is Lv. 5 or higher, this attack's damage +{4}% and after attacking, restores own HP by {5}%.<br>When Flying Sword is Lv. 7 or higher, this attack's damage +{6}% and after attacking, restores own HP by {7}%.<br>When Flying Sword is Lv. 10, this attack's damage +{8}%.<br><br>After attacking, removes Flying Sword.",
+    "name": "Sonic Blast",
+    "summary": "Before attacking, removes own negative effects.<br>Reduces target's Strike resistance.<br>Additional effects activate based on Flying Sword's level.<br>After attacking, removes Flying Sword."
+  },
+  {
+    "id": 12002619,
+    "description": "Before attacking, removes own negative effects and reduces target's Strike resistance by {0}% for 2 attacks.<br><br>When Flying Sword is Lv. 1 or higher, this attack's damage +{1}%.<br>When Flying Sword is Lv. 3 or higher, this attack's damage +{2}% and after attacking, restores own HP by {3}%.<br>When Flying Sword is Lv. 5 or higher, this attack's damage +{4}% and after attacking, restores own HP by {5}%.<br>When Flying Sword is Lv. 7 or higher, this attack's damage +{6}% and after attacking, restores own HP by {7}%.<br>When Flying Sword is Lv. 10, this attack's damage +{8}%.<br><br>After attacking, removes Flying Sword.",
+    "name": "Sonic Blast",
+    "summary": "Before attacking, removes own negative effects.<br>Reduces target's Strike resistance.<br>Additional effects activate based on Flying Sword's level.<br>After attacking, removes Flying Sword."
+  },
+  {
+    "id": 12002620,
+    "description": "Before attacking, removes own negative effects,<br>Reduces target's Strike resistance by {0}% for 2 hits<br><br>If \"Flying Sword\" is Lv. 1 or higher, increases damage of this attack by {1}%<br>If \"Flying Sword\" is Lv. 3 or higher, increases damage of this attack by {2}% and restores {3}% HP after attacking<br>If \"Flying Sword\" is Lv. 5 or higher, increases damage of this attack by {4}% and restores {5}% HP after attacking<br>If \"Flying Sword\" is Lv. 7 or higher, increases damage of this attack by {6}% and restores {7}% HP after attacking<br>If \"Flying Sword\" is Lv. 10, increases damage of this attack by {8}%<br><br>After attacking, removes \"Flying Sword\"",
+    "name": "Sonic Blast",
+    "summary": "Before attacking, removes own negative effects<br>Reduces target's Strike resistance<br>Additional effects based on \"Flying Sword\" level<br>After attacking, removes \"Flying Sword\""
+  },
+  {
+    "id": 12002621,
+    "description": "Before attacking, removes own negative effects,<br>Reduces target's Strike resistance by {0}% for 2 hits<br><br>If \"Flying Sword\" is Lv. 1 or higher, increases damage of this attack by {1}%<br>If \"Flying Sword\" is Lv. 3 or higher, increases damage of this attack by {2}% and restores {3}% HP after attacking<br>If \"Flying Sword\" is Lv. 5 or higher, increases damage of this attack by {4}% and restores {5}% HP after attacking<br>If \"Flying Sword\" is Lv. 7 or higher, increases damage of this attack by {6}% and restores {7}% HP after attacking<br>If \"Flying Sword\" is Lv. 10, increases damage of this attack by {8}%<br><br>After attacking, removes \"Flying Sword\"",
+    "name": "Sonic Blast",
+    "summary": "Before attacking, removes own negative effects<br>Reduces target's Strike resistance<br>Additional effects based on \"Flying Sword\" level<br>After attacking, removes \"Flying Sword\""
+  },
+  {
+    "id": 14002396,
+    "description": "Increases critical damage of this attack by {0}%<br>Before attacking, reduces target's Fire resistance by {1}% for 3 hits<br>After attacking, boosts own M.ATK by {2}% and skill damage by {3}% for 2 turns",
+    "name": "Requiem Trigger",
+    "summary": "Increases critical damage of this attack<br>Before attacking, reduces target's Fire resistance<br>After attacking, boosts own M.ATK and skill damage"
+  },
+  {
+    "id": 14002397,
+    "description": "Increases critical damage of this attack by {0}%<br>Before attacking, reduces target's Fire resistance by {1}% for 3 hits<br>After attacking, boosts own M.ATK by {2}% and skill damage by {3}% for 2 turns",
+    "name": "Requiem Trigger",
+    "summary": "Increases critical damage of this attack<br>Before attacking, reduces target's Fire resistance<br>After attacking, boosts own M.ATK and skill damage"
+  },
+  {
+    "id": 14002398,
+    "description": "Increases critical damage of this attack by {0}%<br>Before attacking, reduces target's Fire resistance by {1}% for 3 hits<br>After attacking, boosts own M.ATK by {2}% and skill damage by {3}% for 2 turns",
+    "name": "Requiem Trigger",
+    "summary": "Increases critical damage of this attack<br>Before attacking, reduces target's Fire resistance<br>After attacking, boosts own M.ATK and skill damage"
+  },
+  {
+    "id": 14002399,
+    "description": "Increases critical damage of this attack by {0}%<br>Before attacking, reduces target's Fire resistance by {1}% for 3 hits<br>After attacking, boosts own M.ATK by {2}% and skill damage by {3}% for 2 turns",
+    "name": "Requiem Trigger",
+    "summary": "Increases critical damage of this attack<br>Before attacking, reduces target's Fire resistance<br>After attacking, boosts own M.ATK and skill damage"
+  },
+  {
+    "id": 14002400,
+    "description": "Increases critical damage of this attack by {0}%<br>Before attacking, reduces target's Fire resistance by {1}% for 3 hits<br>After attacking, boosts own M.ATK by {2}% and skill damage by {3}% for 2 turns",
+    "name": "Requiem Trigger",
+    "summary": "Increases critical damage of this attack<br>Before attacking, reduces target's Fire resistance<br>After attacking, boosts own M.ATK and skill damage"
+  },
+  {
+    "id": 14002411,
+    "description": "After attacking, increases target's Strike damage received by {0}% for 3 hits and<br>boosts own stun damage by {1}% for 2 turns<br>If target is stunned, additionally increases target's Strike damage received by {2}% for 3 hits and<br>nullifies target's panels for 1 turn",
+    "name": "Omega Buster",
+    "summary": "After attacking, increases target's Strike damage received<br>Boosts own stun damage<br>If target is stunned, increases target's Strike damage received<br>Nullifies target's panels"
+  },
+  {
+    "id": 14002412,
+    "description": "After attacking, increases target's Strike damage received by {0}% for 3 hits and<br>boosts own stun damage by {1}% for 2 turns<br>If target is stunned, additionally increases target's Strike damage received by {2}% for 3 hits and<br>nullifies target's panels for 1 turn",
+    "name": "Omega Buster",
+    "summary": "After attacking, increases target's Strike damage received<br>Boosts own stun damage<br>If target is stunned, increases target's Strike damage received<br>Nullifies target's panels"
+  },
+  {
+    "id": 14002413,
+    "description": "After attacking, increases target's Strike damage received by {0}% for 3 hits and<br>boosts own stun damage by {1}% for 2 turns<br>If target is stunned, additionally increases target's Strike damage received by {2}% for 3 hits and<br>nullifies target's panels for 1 turn",
+    "name": "Omega Buster",
+    "summary": "After attacking, increases target's Strike damage received<br>Boosts own stun damage<br>If target is stunned, increases target's Strike damage received<br>Nullifies target's panels"
+  },
+  {
+    "id": 14002414,
+    "description": "After attacking, increases target's Strike damage received by {0}% for 3 hits and<br>boosts own stun damage by {1}% for 2 turns<br>If target is stunned, additionally increases target's Strike damage received by {2}% for 3 hits and<br>nullifies target's panels for 1 turn",
+    "name": "Omega Buster",
+    "summary": "After attacking, increases target's Strike damage received<br>Boosts own stun damage<br>If target is stunned, increases target's Strike damage received<br>Nullifies target's panels"
+  },
+  {
+    "id": 14002415,
+    "description": "After attacking, increases target's Strike damage received by {0}% for 3 hits and<br>boosts own stun damage by {1}% for 2 turns<br>If target is stunned, additionally increases target's Strike damage received by {2}% for 3 hits and<br>nullifies target's panels for 1 turn",
+    "name": "Omega Buster",
+    "summary": "After attacking, increases target's Strike damage received<br>Boosts own stun damage<br>If target is stunned, increases target's Strike damage received<br>Nullifies target's panels"
+  },
+  {
+    "id": 14002426,
+    "description": "Damage +50~150% based on own HP (more damage at 50~100% HP)<br>After attacking, very high chance to inflict Stun on target until action starts and boosts own P.ATK by {0}% and skill damage by {1}% for 2 turns",
+    "name": "Beast King's Infinity",
+    "summary": "Damage increases based on own HP<br>After attacking, very high chance to inflict Stun on target<br>Boosts own P.ATK and skill damage"
+  },
+  {
+    "id": 14002427,
+    "description": "Damage +50~150% based on own HP (more damage at 50~100% HP)<br>After attacking, very high chance to inflict Stun on target until action starts and boosts own P.ATK by {0}% and skill damage by {1}% for 2 turns",
+    "name": "Beast King's Infinity",
+    "summary": "Damage increases based on own HP<br>After attacking, very high chance to inflict Stun on target<br>Boosts own P.ATK and skill damage"
+  },
+  {
+    "id": 14002428,
+    "description": "Damage +50~150% based on own HP (more damage at 50~100% HP)<br>After attacking, very high chance to inflict Stun on target until action starts and boosts own P.ATK by {0}% and skill damage by {1}% for 2 turns",
+    "name": "Beast King's Infinity",
+    "summary": "Damage increases based on own HP<br>After attacking, very high chance to inflict Stun on target<br>Boosts own P.ATK and skill damage"
+  },
+  {
+    "id": 14002429,
+    "description": "Damage +50~150% based on own HP (more damage at 50~100% HP)<br>After attacking, very high chance to inflict Stun on target until action starts and boosts own P.ATK by {0}% and skill damage by {1}% for 2 turns",
+    "name": "Beast King's Infinity",
+    "summary": "Damage increases based on own HP<br>After attacking, very high chance to inflict Stun on target<br>Boosts own P.ATK and skill damage"
+  },
+  {
+    "id": 14002430,
+    "description": "Damage +50~150% based on own HP (more damage at 50~100% HP)<br>After attacking, very high chance to inflict Stun on target until action starts and boosts own P.ATK by {0}% and skill damage by {1}% for 2 turns",
+    "name": "Beast King's Infinity",
+    "summary": "Damage increases based on own HP<br>After attacking, very high chance to inflict Stun on target<br>Boosts own P.ATK and skill damage"
+  },
+  {
+    "id": 14002551,
+    "description": "Damage +{0}%<br>*Does not consume status effect uses and does not activate additional effects",
+    "name": "Stabbing Arts",
+    "summary": "Increases damage<br>Does not consume status effect uses"
+  },
+  {
+    "id": 14002586,
+    "description": "Stun damage +{0}%<br>*Does not consume status effect uses and does not activate additional effects",
+    "name": "Straight Blow",
+    "summary": "Increases stun damage<br>Does not consume status effect uses"
+  },
+  {
+    "id": 14002622,
+    "description": "No additional effects<br>*Does not consume status effect uses and does not activate additional effects",
+    "name": "New Moon",
+    "summary": "No additional effects<br>Does not consume status effect uses"
+  },
+  {
+    "id": 32001763,
+    "description": "No additional effects.",
+    "name": "Rock Score",
+    "summary": ""
+  },
+  {
+    "id": 32001764,
+    "description": "After attacking, recovers 30% of own stun gauge.",
+    "name": "Head Butt",
+    "summary": ""
+  },
+  {
+    "id": 32001766,
+    "description": "After attacking, recovers 30% of own HP.",
+    "name": "Ice Bite",
+    "summary": ""
+  },
+  {
+    "id": 32001767,
+    "description": "No additional effects.",
+    "name": "Ice Rain",
+    "summary": ""
+  },
+  {
+    "id": 32001768,
+    "description": "Grants self: Damage Dealt +30% for 2 turns, Damage Received -30% for 2 turns, Stun Damage Received -30% for 2 turns, Status Effect Resistance -50% for 3 turns",
+    "name": "Meditation",
+    "summary": ""
+  },
+  {
+    "id": 32001769,
+    "description": "After attacking, target receives 15% more damage for 3 turns",
+    "name": "Slash Bite",
+    "summary": ""
+  },
+  {
+    "id": 32001771,
+    "description": "No additional effects.",
+    "name": "Wind Breath",
+    "summary": ""
+  },
+  {
+    "id": 32001772,
+    "description": "After attacking, reduces target's M.ATK by 15% for 3 turns, P.ATK by 15% for 3 turns, and SPD by 10% for 2 turns",
+    "name": "Bloody Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32001773,
+    "description": "Randomly grants target +10% permanent resistance to one element (excluding Fire and Strike)\nGrants target SPD +1% for 1 turn",
+    "name": "Spin Roar",
+    "summary": ""
+  },
+  {
+    "id": 32001774,
+    "description": "Reduces target's P.DEF by 10% for 2 turns and M.DEF by 10% for 2 turns",
+    "name": "Dark Roar",
+    "summary": ""
+  },
+  {
+    "id": 32001775,
+    "description": "No additional effects.",
+    "name": "Surprise Burn",
+    "summary": ""
+  },
+  {
+    "id": 32001777,
+    "description": "After attacking, reduces Stun Damage Received by 15% for 2 turns for all allies",
+    "name": "Magic Fire Gift",
+    "summary": ""
+  },
+  {
+    "id": 32001778,
+    "description": "After attacking, reduces target's M.ATK by 10% for 2 turns",
+    "name": "Curse Burn",
+    "summary": ""
+  },
+  {
+    "id": 32001779,
+    "description": "After attacking, reduces target's P.ATK by 10% for 2 turns",
+    "name": "Magical Smoke",
+    "summary": ""
+  },
+  {
+    "id": 32001780,
+    "description": "Randomly grants target +10% permanent resistance to one element (excluding Fire and Strike)\nReduces target's Damage Received by 5% for 2 turns and Stun Damage Received by 5% for 2 turns",
+    "name": "Blessing",
+    "summary": ""
+  },
+  {
+    "id": 32001781,
+    "description": "No additional effects.",
+    "name": "Rolling",
+    "summary": ""
+  },
+  {
+    "id": 32001782,
+    "description": "No additional effects.",
+    "name": "Puni Bomber",
+    "summary": ""
+  },
+  {
+    "id": 32001783,
+    "description": "No additional effects.",
+    "name": "Puni Breath",
+    "summary": ""
+  },
+  {
+    "id": 32001784,
+    "description": "Recovers 10% of target's HP and randomly grants +10% permanent resistance to one element (excluding Fire and Strike)",
+    "name": "Heal",
+    "summary": ""
+  },
+  {
+    "id": 32001785,
+    "description": "Reduces target's Damage Dealt by 15% for 1 turn",
+    "name": "Puni Dark",
+    "summary": ""
+  },
+  {
+    "id": 32001786,
+    "description": "No additional effects.",
+    "name": "Rolling",
+    "summary": ""
+  },
+  {
+    "id": 32001787,
+    "description": "No additional effects.",
+    "name": "Puni Bomber",
+    "summary": ""
+  },
+  {
+    "id": 32001789,
+    "description": "Restores target's HP by 10% and grants 10% resistance to a random element except Fire and Strike (permanent)",
+    "name": "Heal",
+    "summary": ""
+  },
+  {
+    "id": 32001790,
+    "description": "Reduces target's damage dealt by 15% for 1 turn",
+    "name": "Puni Dark",
+    "summary": ""
+  },
+  {
+    "id": 32001791,
+    "description": "No additional effects.",
+    "name": "Blazing Vortex",
+    "summary": ""
+  },
+  {
+    "id": 32001792,
+    "description": "After attacking, 50% chance to inflict Paralysis on target for 2 turns",
+    "name": "Seal Blow",
+    "summary": ""
+  },
+  {
+    "id": 32001793,
+    "description": "After attacking, reduces own damage received by 15% for 2 turns",
+    "name": "Firasfia Needle",
+    "summary": ""
+  },
+  {
+    "id": 32001794,
+    "description": "No additional effects.",
+    "name": "Fire Tornado",
+    "summary": ""
+  },
+  {
+    "id": 32001795,
+    "description": "After attacking, increases own damage dealt by 15% for 2 turns",
+    "name": "Fire Dance",
+    "summary": ""
+  },
+  {
+    "id": 32001796,
+    "description": "Restores all allies' HP by 10%\nRemoves all status effects from all allies",
+    "name": "Magic Recovery",
+    "summary": ""
+  },
+  {
+    "id": 32001797,
+    "description": "No additional effects.",
+    "name": "Wind Cross",
+    "summary": ""
+  },
+  {
+    "id": 32001798,
+    "description": "After attacking, increases own damage dealt by 20% for 2 turns",
+    "name": "Bite",
+    "summary": ""
+  },
+  {
+    "id": 32001799,
+    "description": "After attacking, reduces target's stun damage dealt by 20% for 2 turns",
+    "name": "Dark Tremor",
+    "summary": ""
+  },
+  {
+    "id": 32001800,
+    "description": "After attacking, reduces target's stun damage dealt by 30% for 2 turns\nAfter attacking, reduces target's HP recovery by 30% for 2 turns",
+    "name": "Blood Fang",
+    "summary": ""
+  },
+  {
+    "id": 32001801,
+    "description": "After attacking, converts the next ally's panel into a burst panel",
+    "name": "Ice Dance",
+    "summary": ""
+  },
+  {
+    "id": 32001802,
+    "description": "After attacking, inflicts Sleep for 1 turn on enemies with reduced SPD",
+    "name": "Ice Spin",
+    "summary": ""
+  },
+  {
+    "id": 32001803,
+    "description": "After attacking, reduces target's damage dealt by 20% for 2 turns",
+    "name": "Ice Mist",
+    "summary": ""
+  },
+  {
+    "id": 32001804,
+    "description": "Reduces target's SPD by 10% for 3 turns",
+    "name": "Speed Down",
+    "summary": ""
+  },
+  {
+    "id": 32001805,
+    "description": "Grants Cover for 3 turns to self\nGrants Regeneration (5% HP) for 3 turns to self",
+    "name": "Tough Covering",
+    "summary": ""
+  },
+  {
+    "id": 32001806,
+    "description": "No additional effects.",
+    "name": "Lightning Strike",
+    "summary": ""
+  },
+  {
+    "id": 32001807,
+    "description": "After attacking, reduces target's P.DEF by 15% for 2 turns.\nAfter attacking, reduces target's M.DEF by 15% for 2 turns.",
+    "name": "Horn Attack",
+    "summary": ""
+  },
+  {
+    "id": 32001808,
+    "description": "After attacking, delays turn by 2 for targets with negative effects.",
+    "name": "Noisy Voice",
+    "summary": ""
+  },
+  {
+    "id": 32001809,
+    "description": "After attacking, nullifies positive effects on target for 2 turns.",
+    "name": "Thunder Shot",
+    "summary": ""
+  },
+  {
+    "id": 32001810,
+    "description": "Removes all positive effects from target.\nReduces target's P.ATK by 15% for 2 turns.\nReduces target's M.ATK by 15% for 2 turns.",
+    "name": "Dreadful Cry",
+    "summary": ""
+  },
+  {
+    "id": 32001811,
+    "description": "No effects.",
+    "name": "Puni Bomber",
+    "summary": ""
+  },
+  {
+    "id": 32001812,
+    "description": "After attacking, delays target's turn by 2.",
+    "name": "Rolling",
+    "summary": ""
+  },
+  {
+    "id": 32001813,
+    "description": "After attacking, reduces target's damage dealt by 15% for 3 turns.",
+    "name": "Puni Ball",
+    "summary": ""
+  },
+  {
+    "id": 32001814,
+    "description": "Reduces damage received by target ally by 15% for 1 turn.",
+    "name": "Puni Boost",
+    "summary": ""
+  },
+  {
+    "id": 32001815,
+    "description": "Increases damage received by target enemy by 15% for 2 turns.",
+    "name": "Puni Dark",
+    "summary": ""
+  },
+  {
+    "id": 32001816,
+    "description": "Before attacking, removes all negative effects from self.\nAfter attacking, boosts own damage dealt by 20% for 3 turns.",
+    "name": "Meteor Astein",
+    "summary": ""
+  },
+  {
+    "id": 32001817,
+    "description": "After attacking, recovers 10% of own HP.",
+    "name": "Stürzen",
+    "summary": ""
+  },
+  {
+    "id": 32001818,
+    "description": "After attacking, reduces target's Bolt resistance by 15% for 3 turns (MAX 50%).",
+    "name": "Lila Stürzen",
+    "summary": ""
+  },
+  {
+    "id": 32001819,
+    "description": "After attacking, reduces target's Bolt resistance by 10% for 3 turns (MAX 50%).",
+    "name": "Ergaluf",
+    "summary": ""
+  },
+  {
+    "id": 32001820,
+    "description": "No effects.",
+    "name": "Zerbrechen",
+    "summary": ""
+  },
+  {
+    "id": 32001821,
+    "description": "After attacking, applies Stun for 1 turn to targets weak to Bolt.",
+    "name": "Violet Gewitter",
+    "summary": ""
+  },
+  {
+    "id": 32001822,
+    "description": "After attacking, creates 1 weaken+ panel on target's timeline.",
+    "name": "Cursed Thunder Breath",
+    "summary": ""
+  },
+  {
+    "id": 32001823,
+    "description": "No effects.",
+    "name": "Thunder Breath",
+    "summary": ""
+  },
+  {
+    "id": 32001824,
+    "description": "After attacking, removes all positive effects from target.",
+    "name": "Slash Bite",
+    "summary": ""
+  },
+  {
+    "id": 32001825,
+    "description": "After attacking, reduces target's damage dealt by 15% for 2 turns.",
+    "name": "Thunder Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32001826,
+    "description": "No effects.",
+    "name": "Scatter Slash",
+    "summary": ""
+  },
+  {
+    "id": 32001827,
+    "description": "Reduces positive effect potency received by all enemies by 50% for 3 turns.",
+    "name": "Dark Roar",
+    "summary": ""
+  },
+  {
+    "id": 32001828,
+    "description": "No additional effects.",
+    "name": "Rolling",
+    "summary": ""
+  },
+  {
+    "id": 32001829,
+    "description": "No additional effects.",
+    "name": "Puni Bomber",
+    "summary": ""
+  },
+  {
+    "id": 32001830,
+    "description": "No additional effects.",
+    "name": "Puni Breath",
+    "summary": ""
+  },
+  {
+    "id": 32001831,
+    "description": "Restores 15% HP to target ally.",
+    "name": "Heal",
+    "summary": ""
+  },
+  {
+    "id": 32001832,
+    "description": "Reduces damage dealt by target enemy by 20% for 1 turn.",
+    "name": "Puni Dark",
+    "summary": ""
+  },
+  {
+    "id": 32001833,
+    "description": "Restores 15% HP to target ally.",
+    "name": "Heal Powder",
+    "summary": ""
+  },
+  {
+    "id": 32001834,
+    "description": "Boosts damage dealt by all allies by 20% for 2 turns.",
+    "name": "Energy Powder",
+    "summary": ""
+  },
+  {
+    "id": 32001835,
+    "description": "No additional effects.",
+    "name": "Octopus Strike",
+    "summary": ""
+  },
+  {
+    "id": 32001836,
+    "description": "After attacking, reduces damage dealt by target enemy by 20% for 2 turns.",
+    "name": "Wild Strike",
+    "summary": ""
+  },
+  {
+    "id": 32001837,
+    "description": "No additional effects.",
+    "name": "Wind Slice",
+    "summary": ""
+  },
+  {
+    "id": 32001838,
+    "description": "After attacking, nullifies positive effects on target enemy for 1 turn.",
+    "name": "Flurry Strike",
+    "summary": ""
+  },
+  {
+    "id": 32001839,
+    "description": "No additional effects.",
+    "name": "Jump Attack",
+    "summary": ""
+  },
+  {
+    "id": 32001840,
+    "description": "No additional effects.",
+    "name": "Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 32001841,
+    "description": "After attacking, reduces damage dealt by all enemies by 15% for 3 turns.",
+    "name": "Black Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 32001842,
+    "description": "Boosts damage dealt by target ally by 15% for 3 turns.",
+    "name": "Relax",
+    "summary": ""
+  },
+  {
+    "id": 32001843,
+    "description": "After attacking, delays target enemy's turn by 2 turns.",
+    "name": "Puni Bomber",
+    "summary": ""
+  },
+  {
+    "id": 32001844,
+    "description": "After attacking, reduces damage dealt by target enemy by 15% for 3 turns.",
+    "name": "Rolling",
+    "summary": ""
+  },
+  {
+    "id": 32001845,
+    "description": "No additional effects.",
+    "name": "Puni Ball",
+    "summary": ""
+  },
+  {
+    "id": 32001846,
+    "description": "Restores 20% HP to target ally.",
+    "name": "Heal",
+    "summary": ""
+  },
+  {
+    "id": 32001847,
+    "description": "Reduces target enemy's damage dealt by 30% for 3 attacks",
+    "name": "Puni Dark",
+    "summary": ""
+  },
+  {
+    "id": 32001848,
+    "description": "After attacking, restores all allies' HP by 15%",
+    "name": "First Aid",
+    "summary": ""
+  },
+  {
+    "id": 32001849,
+    "description": "After attacking, restores own HP by 10%",
+    "name": "Nibble",
+    "summary": ""
+  },
+  {
+    "id": 32001850,
+    "description": "After attacking, reduces all enemies' HP recovery by 30% for 2 attacks",
+    "name": "Stone Rain",
+    "summary": ""
+  },
+  {
+    "id": 32001851,
+    "description": "No effects",
+    "name": "Thunder Kick",
+    "summary": ""
+  },
+  {
+    "id": 32001852,
+    "description": "No effects",
+    "name": "Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 32001853,
+    "description": "Nullifies target enemy's positive effects except panel effects for 1 time",
+    "name": "Escape Prevention",
+    "summary": ""
+  },
+  {
+    "id": 32001854,
+    "description": "Reduces target enemy's stun damage dealt by 20% for 2 attacks\nReduces target enemy's damage dealt by 20% for 2 attacks\nIncreases target enemy's damage received by 20% for 2 attacks",
+    "name": "Shadow Curse",
+    "summary": ""
+  },
+  {
+    "id": 32001855,
+    "description": "After attacking, if target enemy has a negative effect, delays their turn by 1\nAfter attacking, if target enemy has 2 or more negative effects, delays their turn by 1",
+    "name": "Slash Ring",
+    "summary": ""
+  },
+  {
+    "id": 32001856,
+    "description": "After attacking, reduces all enemies' M.ATK by 20% for 2 attacks\nAfter attacking, reduces all enemies' P.ATK by 20% for 2 attacks\nAfter attacking, reduces all enemies' SPD by 10% for 2 attacks",
+    "name": "Call Hellfire",
+    "summary": ""
+  },
+  {
+    "id": 32001857,
+    "description": "After attacking, delays target enemy's turn by 2 turns",
+    "name": "Shadow Fire",
+    "summary": ""
+  },
+  {
+    "id": 32001858,
+    "description": "After attacking, increases own damage dealt by 20% for 3 attacks\nAfter attacking, reduces own damage received by 20% for 3 attacks",
+    "name": "Fire Burst",
+    "summary": ""
+  },
+  {
+    "id": 32001859,
+    "description": "After attacking, converts the next ally's panel into a burst panel",
+    "name": "Ice Dance",
+    "summary": ""
+  },
+  {
+    "id": 32001860,
+    "description": "After attacking, inflicts Sleep for 1 time on enemies with SPD Down",
+    "name": "Ice Spin",
+    "summary": ""
+  },
+  {
+    "id": 32001861,
+    "description": "After attacking, reduces target enemy's damage dealt by 20% for 2 attacks",
+    "name": "Ice Mist",
+    "summary": ""
+  },
+  {
+    "id": 32001862,
+    "description": "Reduces target enemy's SPD by 10% for 3 attacks",
+    "name": "Speed Down",
+    "summary": ""
+  },
+  {
+    "id": 32001863,
+    "description": "Grants self Cover for 6 attacks\nGrants self Regeneration (5%) for 6 attacks",
+    "name": "Tough Covering",
+    "summary": ""
+  },
+  {
+    "id": 32001864,
+    "description": "No effects",
+    "name": "Horn Attack",
+    "summary": ""
+  },
+  {
+    "id": 32001865,
+    "description": "After attacking, if target's HP is 75% or higher, increases their damage received by 15% for 5 attacks",
+    "name": "Unpleasant Cry",
+    "summary": ""
+  },
+  {
+    "id": 32001866,
+    "description": "Reduces own damage received by 15% for 3 attacks",
+    "name": "Full Power Cry",
+    "summary": ""
+  },
+  {
+    "id": 32001867,
+    "description": "Grants Cover (3 turns) and Counter (2 turns) to self",
+    "name": "Rush Protection",
+    "summary": ""
+  },
+  {
+    "id": 32001868,
+    "description": "No additional effects.",
+    "name": "Ice Rain",
+    "summary": ""
+  },
+  {
+    "id": 32001869,
+    "description": "No additional effects.",
+    "name": "Horn Strike",
+    "summary": ""
+  },
+  {
+    "id": 32001870,
+    "description": "After attacking, delays target's turn by 3.",
+    "name": "Tackle",
+    "summary": ""
+  },
+  {
+    "id": 32001871,
+    "description": "No additional effects.",
+    "name": "Rush",
+    "summary": ""
+  },
+  {
+    "id": 32001872,
+    "description": "After attacking, reduces target's damage dealt by 20% for 3 turns.",
+    "name": "Meteor Slash",
+    "summary": ""
+  },
+  {
+    "id": 32001873,
+    "description": "No additional effects.",
+    "name": "Fire Slash",
+    "summary": ""
+  },
+  {
+    "id": 32001874,
+    "description": "Increases target ally's damage dealt by 15% for 1 turn.",
+    "name": "Cheer Up",
+    "summary": ""
+  },
+  {
+    "id": 32001875,
+    "description": "No additional effects.",
+    "name": "Spike Roll",
+    "summary": ""
+  },
+  {
+    "id": 32001876,
+    "description": "No additional effects.",
+    "name": "Spike Shot",
+    "summary": ""
+  },
+  {
+    "id": 32001877,
+    "description": "No additional effects.",
+    "name": "Puni Fire",
+    "summary": ""
+  },
+  {
+    "id": 32001878,
+    "description": "After attacking, inflicts Burn (1% damage/permanent) 5 times on all enemies.",
+    "name": "Puni Flame",
+    "summary": ""
+  },
+  {
+    "id": 32001879,
+    "description": "No additional effects.",
+    "name": "Spike Roll",
+    "summary": ""
+  },
+  {
+    "id": 32001880,
+    "description": "Reduces target ally's damage received by 25% for 1 turn.",
+    "name": "Puni Boost",
+    "summary": ""
+  },
+  {
+    "id": 32001881,
+    "description": "Reduces all enemies' damage dealt by 15% for 1 turn.",
+    "name": "Puni Dark",
+    "summary": ""
+  },
+  {
+    "id": 32001882,
+    "description": "After attacking, grants Regeneration (10% HP/3 turns) to self.",
+    "name": "Energy Storm",
+    "summary": ""
+  },
+  {
+    "id": 32001883,
+    "description": "Inflicts Provoke on all enemies for 3 turns.",
+    "name": "Rage Powder",
+    "summary": ""
+  },
+  {
+    "id": 32001884,
+    "description": "After attacking, reduces own damage received by 20% for 5 turns.",
+    "name": "Excited Spin Punch",
+    "summary": ""
+  },
+  {
+    "id": 32001885,
+    "description": "No additional effects.",
+    "name": "Wild Strike",
+    "summary": ""
+  },
+  {
+    "id": 32001886,
+    "description": "After attacking, converts all panels except Burst panels on enemies' timeline into weaken panels.",
+    "name": "Dark Storm",
+    "summary": ""
+  },
+  {
+    "id": 32001887,
+    "description": "Restores 15% HP to all allies",
+    "name": "Heal Powder",
+    "summary": ""
+  },
+  {
+    "id": 32001888,
+    "description": "After attacking, delays target's turn by 1",
+    "name": "Slash Bite",
+    "summary": ""
+  },
+  {
+    "id": 32001889,
+    "description": "No effect",
+    "name": "Scatter Slash",
+    "summary": ""
+  },
+  {
+    "id": 32001890,
+    "description": "No effect",
+    "name": "Wind Breath",
+    "summary": ""
+  },
+  {
+    "id": 32001891,
+    "description": "After attacking, reduces target's M.ATK by 15% for 3 turns, P.ATK by 15% for 3 turns, and SPD by 15% for 2 turns",
+    "name": "Bloody Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32001892,
+    "description": "Advances target ally's turn by 2",
+    "name": "Spin Roar",
+    "summary": ""
+  },
+  {
+    "id": 32001893,
+    "description": "Reduces P.DEF and M.DEF of all enemies by 20% for 2 turns",
+    "name": "Dark Roar",
+    "summary": ""
+  },
+  {
+    "id": 32001894,
+    "description": "Boosts own SPD by 20% for 1 turn",
+    "name": "Fatal Bite",
+    "summary": ""
+  },
+  {
+    "id": 32001895,
+    "description": "After attacking, reduces target's SPD by 10% for 1 turn",
+    "name": "Bite",
+    "summary": ""
+  },
+  {
+    "id": 32001896,
+    "description": "No effect",
+    "name": "Thorn Roar",
+    "summary": ""
+  },
+  {
+    "id": 32001897,
+    "description": "No effect",
+    "name": "Bolt Shot",
+    "summary": ""
+  },
+  {
+    "id": 32001898,
+    "description": "No effect",
+    "name": "Thunder Shout",
+    "summary": ""
+  },
+  {
+    "id": 32001899,
+    "description": "Boosts own damage dealt by 20% for 1 turn",
+    "name": "Far Howl",
+    "summary": ""
+  },
+  {
+    "id": 32001900,
+    "description": "Before attacking, boosts own damage dealt by 25% for 2 turns and reduces damage received by 25% for 2 turns, then restores 15% of own HP",
+    "name": "Maximum Uni Throw",
+    "summary": ""
+  },
+  {
+    "id": 32001901,
+    "description": "After attacking, boosts own damage dealt by 20% for 2 turns",
+    "name": "Warm-up Throw",
+    "summary": ""
+  },
+  {
+    "id": 32001902,
+    "description": "No effect",
+    "name": "Iron Block Throw",
+    "summary": ""
+  },
+  {
+    "id": 32001903,
+    "description": "After attacking, boosts own critical rate by 20% for 2 turns",
+    "name": "Thunder After Clear Skies",
+    "summary": ""
+  },
+  {
+    "id": 32001904,
+    "description": "No effect",
+    "name": "Lightning Strike",
+    "summary": ""
+  },
+  {
+    "id": 32001905,
+    "description": "Restores 15% of own HP",
+    "name": "Self Recovery",
+    "summary": ""
+  },
+  {
+    "id": 32001906,
+    "description": "No effect",
+    "name": "Golden Fist",
+    "summary": ""
+  },
+  {
+    "id": 32001907,
+    "description": "After attacking, reduces damage dealt by all enemies by 25% for 3 turns.",
+    "name": "Diamond Strike",
+    "summary": ""
+  },
+  {
+    "id": 32001908,
+    "description": "No additional effects.",
+    "name": "Blow",
+    "summary": ""
+  },
+  {
+    "id": 32001909,
+    "description": "Boosts own damage dealt by 25% for 2 turns.",
+    "name": "Rising Power",
+    "summary": ""
+  },
+  {
+    "id": 32001910,
+    "description": "Reduces target enemy's SPD by 10% and damage dealt by 30% for 3 turns.",
+    "name": "Intimidate",
+    "summary": ""
+  },
+  {
+    "id": 32001911,
+    "description": "No additional effects.",
+    "name": "Dangerous Bite",
+    "summary": ""
+  },
+  {
+    "id": 32001912,
+    "description": "After attacking, increases damage received by target by 15% for 1 turn.",
+    "name": "Sonic Voice",
+    "summary": ""
+  },
+  {
+    "id": 32001913,
+    "description": "After attacking, inflicts 5 stacks of Poison for 1 turn on target.",
+    "name": "Poison Bite",
+    "summary": ""
+  },
+  {
+    "id": 32001914,
+    "description": "After attacking, inflicts 3 stacks of Poison for 1 turn on all enemies.",
+    "name": "Dark Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32001915,
+    "description": "After attacking, reduces damage dealt by all enemies by 30% for 2 turns.",
+    "name": "Thunder Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32001916,
+    "description": "Reduces damage received by target ally by 30% for 2 turns.",
+    "name": "Spin Roar",
+    "summary": ""
+  },
+  {
+    "id": 32001966,
+    "description": "After attacking, converts the next ally's panel into a burst panel.",
+    "name": "Ice Dance",
+    "summary": ""
   }
 ]

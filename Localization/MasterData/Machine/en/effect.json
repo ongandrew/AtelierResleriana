@@ -3558,5 +3558,645 @@
     "id": 95000197,
     "description": "When equipped to a character with Slash affinity, boosts skill damage when attacking a weakness.",
     "popup_text": ""
+  },
+  {
+    "id": 6001018,
+    "description": "When equipped to Yumia [Seeker of Memories], after a critical hit, grants \"Boost received magical damage\" to all enemies (up to 30%).",
+    "popup_text": ""
+  },
+  {
+    "id": 6001019,
+    "description": "When equipped to a character with Fire affinity, reduces damage received from area attacks.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001020,
+    "description": "When equipped to an Attacker with Fire affinity, after any party member uses a battle item, grants \"Boost damage against weakness\" to self until end of action.<br>※Effect triggers only once even if multiple items are used simultaneously.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001021,
+    "description": "When equipped to Reinia [Sincere Devotion], boosts physical skill damage when HP is at maximum.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001022,
+    "description": "When equipped to an Attacker with Strike affinity and target is stunned, boosts skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001023,
+    "description": "When equipped to an Attacker with Strike affinity, boosts received positive effect potency.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001024,
+    "description": "When equipped to Victor [Noble of Justice], grants \"Boost damage received from weakness\" to target for 2 hits when target is stunned.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001025,
+    "description": "When equipped to a Breaker with Strike affinity, boosts Skill 2's stun damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001026,
+    "description": "When equipped to a Breaker with Strike affinity, boosts negative effect potency.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001027,
+    "description": "state_change用",
+    "popup_text": ""
+  },
+  {
+    "id": 6001028,
+    "description": "Grants \"Recover HP at start of turn\" to all allies for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001029,
+    "description": "state_change用",
+    "popup_text": ""
+  },
+  {
+    "id": 13000331,
+    "description": "When hit by an attack targeting weakness, increases received skill damage by {0}%",
+    "popup_text": ""
+  },
+  {
+    "id": 13000333,
+    "description": "When equipped to a character with Fire affinity, critical damage +{}%",
+    "popup_text": ""
+  },
+  {
+    "id": 72001234,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001235,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001236,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001237,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001238,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001239,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001240,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001241,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001242,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001243,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001244,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001245,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001246,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001247,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001248,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001249,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001250,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001251,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001252,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001253,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001254,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001255,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001256,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001257,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001258,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001259,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001260,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001261,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72500160,
+    "description": "[Self/The more members there are in the Aladis Investigation Team/M.ATK Up]",
+    "popup_text": ""
+  },
+  {
+    "id": 72500161,
+    "description": "[Self/The more members there are in the Aladis Investigation Team/M.DEF Up]",
+    "popup_text": ""
+  },
+  {
+    "id": 72500162,
+    "description": "[Self/The more members there are in the Aladis Investigation Team/Skill Damage Up]",
+    "popup_text": ""
+  },
+  {
+    "id": 72500163,
+    "description": "[Self/The more members there are in the Aladis Investigation Team/Stun Damage Up]",
+    "popup_text": ""
+  },
+  {
+    "id": 76001001,
+    "description": "Grants random element resistance Up (permanent)",
+    "popup_text": ""
+  },
+  {
+    "id": 76001003,
+    "description": "Grants Ice resistance Up to skill target (permanent)",
+    "popup_text": ""
+  },
+  {
+    "id": 76001004,
+    "description": "Grants Bolt resistance Up to skill target (permanent)",
+    "popup_text": ""
+  },
+  {
+    "id": 76001005,
+    "description": "Grants Air resistance Up to skill target (permanent)",
+    "popup_text": ""
+  },
+  {
+    "id": 76001007,
+    "description": "Grants Stab resistance Up to skill target (permanent)",
+    "popup_text": ""
+  },
+  {
+    "id": 76001008,
+    "description": "Grants Slash resistance Up to skill target (permanent)",
+    "popup_text": ""
+  },
+  {
+    "id": 76034001,
+    "description": "Grants Cover (6 times) to self",
+    "popup_text": ""
+  },
+  {
+    "id": 76034002,
+    "description": "Grants Regeneration (6 times) to self",
+    "popup_text": ""
+  },
+  {
+    "id": 76107001,
+    "description": "Nullifies all positive effects except panel effects",
+    "popup_text": ""
+  },
+  {
+    "id": 76107002,
+    "description": "Grants target enemy Nullify Positive Effects except panel effects (1 time)",
+    "popup_text": ""
+  },
+  {
+    "id": 76231001,
+    "description": "Reduces Bolt resistance (up to 50%) for 3 turns",
+    "popup_text": ""
+  },
+  {
+    "id": 76231002,
+    "description": "When attacking a weakness, grants Stunned (1 time) to target",
+    "popup_text": ""
+  },
+  {
+    "id": 86001009,
+    "description": "Reduces Ice resistance (permanent)",
+    "popup_text": ""
+  },
+  {
+    "id": 86001010,
+    "description": "When self is stunned, reduces Ice resistance (permanent)",
+    "popup_text": ""
+  },
+  {
+    "id": 86002001,
+    "description": "Air resistance DOWN (permanent)",
+    "popup_text": ""
+  },
+  {
+    "id": 86002002,
+    "description": "When stunned, Air resistance DOWN (permanent)",
+    "popup_text": ""
+  },
+  {
+    "id": 86035002,
+    "description": "Bolt resistance DOWN (permanent)",
+    "popup_text": ""
+  },
+  {
+    "id": 86035003,
+    "description": "When stunned, Bolt resistance DOWN (permanent)",
+    "popup_text": ""
+  },
+  {
+    "id": 86102000,
+    "description": "Reflects attacks except weakness attacks",
+    "popup_text": ""
+  },
+  {
+    "id": 86102002,
+    "description": "When taking attacks except weakness attacks, reflects damage",
+    "popup_text": ""
+  },
+  {
+    "id": 86102003,
+    "description": "When taking weakness attacks, removes reflection",
+    "popup_text": ""
+  },
+  {
+    "id": 86107001,
+    "description": "When stun gauge is full, converts panels on single target hit (+ → overwrite)",
+    "popup_text": ""
+  },
+  {
+    "id": 86107002,
+    "description": "When stun gauge is full, converts panels on single target hit (- → +)",
+    "popup_text": ""
+  },
+  {
+    "id": 86107003,
+    "description": "When stun gauge is full, converts panels on single target hit (overwrite → -)",
+    "popup_text": ""
+  },
+  {
+    "id": 86121001,
+    "description": "Stab resistance DOWN (permanent)",
+    "popup_text": ""
+  },
+  {
+    "id": 86121002,
+    "description": "When stunned, Stab resistance DOWN (permanent)",
+    "popup_text": ""
+  },
+  {
+    "id": 86121003,
+    "description": "Slash resistance DOWN (permanent)",
+    "popup_text": ""
+  },
+  {
+    "id": 86121004,
+    "description": "When stunned, Slash resistance DOWN (permanent)",
+    "popup_text": ""
+  },
+  {
+    "id": 86231001,
+    "description": "When hit by weakness attack, if 9 Counts are present, grants Bolt resistance UP (5 times) to all enemies",
+    "popup_text": ""
+  },
+  {
+    "id": 86231002,
+    "description": "When hit by weakness attack, grants self Count (Zornflock)",
+    "popup_text": ""
+  },
+  {
+    "id": 86231003,
+    "description": "When hit by weakness attack, if 9 Counts are present, removes Counts",
+    "popup_text": ""
+  },
+  {
+    "id": 86231004,
+    "description": "Grants self damage dealt UP (2 times)",
+    "popup_text": ""
+  },
+  {
+    "id": 86231005,
+    "description": "When hit by single target attack, grants self Count",
+    "popup_text": ""
+  },
+  {
+    "id": 86231006,
+    "description": "When hit by single target attack, if 4 Counts are present, removes damage dealt UP",
+    "popup_text": ""
+  },
+  {
+    "id": 86231007,
+    "description": "When there are 4 Single Target Attack counters, removes the counters.",
+    "popup_text": ""
+  },
+  {
+    "id": 91001607,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001608,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001609,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001610,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001611,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001615,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001616,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001619,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001620,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001622,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001623,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001624,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001625,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001626,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001627,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001628,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001629,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001630,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001632,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001633,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001634,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001635,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001636,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001637,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001638,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001639,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001640,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001641,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001642,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001643,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001644,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001645,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001646,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001648,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001649,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001658,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001659,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001687,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001688,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001689,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001690,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001691,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001692,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002028,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000200,
+    "description": "When equipped to a character with Fire affinity and attacking a weakness, grants self \"Critical Damage Up\" until the end of their next 2 actions",
+    "popup_text": ""
+  },
+  {
+    "id": 95000201,
+    "description": "When equipped to a character with \"Knight\" tag, increases stun damage",
+    "popup_text": ""
+  },
+  {
+    "id": 95000202,
+    "description": "When obtaining a panel, grants self \"Skill Damage Up\" until the end of their next 2 actions",
+    "popup_text": ""
   }
 ]

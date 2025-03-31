@@ -1,0 +1,852 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "エナジーコア……それで、ユミアたちの世界の\n高濃度マナ領域を中和しながら移動できるんだね",
+        "localizations": {
+          "en": "An Energy Core... so that's how you move through the high-concentration mana zones in your world while neutralizing them."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "うん。だから、似ているものなら同じようなものを\n作れれば良さそうだけど……",
+        "localizations": {
+          "en": "Yes. Since they're similar, maybe we could make something like it..."
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "この青い粒子を使って調合できないかな？",
+        "localizations": {
+          "en": "Could we synthesize something using these blue particles?"
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "伝想器は我々の世界のマナを前提としているので、\nこの世界で用いることはできないと思われます",
+        "localizations": {
+          "en": "The transmission device is designed for our world's mana. I don't believe it will function in this world."
+        }
+      },
+      "2072370017": {
+        "text": "フラミィ",
+        "localizations": {
+          "en": "Flammi"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "じゃあ、ダメかあ……マナがあればな",
+        "localizations": {
+          "en": "Oh, so it won't work... if only we had mana..."
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "あ、それは多分大丈夫",
+        "localizations": {
+          "en": "Oh, that shouldn't be a problem!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "ええっ。そんな簡単に",
+        "localizations": {
+          "en": "What? Just like that?"
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "まず最初に、この世界のマナは確かに枯渇寸前。\nだからあんまり大掛かりなことはできないんだけど",
+        "localizations": {
+          "en": "Well, first off, this world's mana is nearly depleted. So we can't do anything too extravagant..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "でもこのアトリエは、少ないマナを効率的に使って\n調合できるように造られてるんだって",
+        "localizations": {
+          "en": "But this atelier was built to use what little mana we have efficiently for synthesis."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "……単語が同じだから混乱するかもしれないけど、\nそれぞれの世界でマナの在り方がまったく異なるのね",
+        "localizations": {
+          "en": "Though we use the same word, it seems mana manifests quite differently in each world."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "この世界に来た異邦人の中には、色んな世界の\n錬金術士たちがいて、色んな錬金術があって",
+        "localizations": {
+          "en": "Among the wanderers who've come to this world, there are alchemists from all sorts of worlds, with all kinds of alchemy..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "でもみんな、このアトリエでちゃんと調合できてるしね",
+        "localizations": {
+          "en": "And they can all synthesize just fine in this atelier!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "色々な世界の錬金術士！？\nそ、それは危険ではないのか？",
+        "localizations": {
+          "en": "Alchemists from different worlds!? Isn't that dangerous?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴィクトル",
+        "localizations": {
+          "en": "Viktor"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "もちろん、間違った使い方をすれば危険だと思う。\nそういう錬金術士もいたみたいだよ",
+        "localizations": {
+          "en": "Of course it could be dangerous if used wrongly. There have been alchemists like that before."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "でも、このアトリエを使う錬金術士たちはみんな、\n錬金術を人のために使おうとしてるんだ",
+        "localizations": {
+          "en": "But every alchemist who uses this atelier wants to use their alchemy to help people."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "それは……悪いが、この目で確かめたい",
+        "localizations": {
+          "en": "That's... forgive me, but I need to see this with my own eyes."
+        }
+      },
+      "2072370017": {
+        "text": "ヴィクトル",
+        "localizations": {
+          "en": "Viktor"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "真面目ですな。ま、事情を聞いちゃうと仕方ないか～。\nともかく「青の領域」に入る手掛かりは掴めたと！",
+        "localizations": {
+          "en": "So serious! Well, given your circumstances, I can't blame you. Anyway, we've got a lead on entering the blue domain!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "あとは、この「エナジーコア」の動力を\nどうにか作ればいいのかぁ……",
+        "localizations": {
+          "en": "Now we just need to figure out how to power this Energy Core..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "おや。皆さんお揃いですね。\n何やら見かけぬ方々もいるようですが……",
+        "localizations": {
+          "en": "My, everyone's gathered here. And I see some unfamiliar faces..."
+        }
+      },
+      "2072370017": {
+        "text": "プラフタ",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "プラフタさん！\u3000ちょうどいいところに！",
+        "localizations": {
+          "en": "Plachta! Perfect timing!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "それじゃ私は神官長に報告しに一度戻るわ。\n頑張ってね",
+        "localizations": {
+          "en": "I'll head back to report to the High Priest. Good luck, everyone."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "ありがと、ヤンネさん！",
+        "localizations": {
+          "en": "Thanks, Janne!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "なるほど。構造は理解しました",
+        "localizations": {
+          "en": "I see. I understand the structure."
+        }
+      },
+      "2072370017": {
+        "text": "プラフタ",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "ええっ\u3000もう！？",
+        "localizations": {
+          "en": "What? Already!?"
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "これでも錬金術士ですからね",
+        "localizations": {
+          "en": "I am an alchemist, after all."
+        }
+      },
+      "2072370017": {
+        "text": "プラフタ",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "え！\u3000プラフタさんも！",
+        "localizations": {
+          "en": "Oh! You're an alchemist too!?"
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "しかし話を聞く限り、中和すべきものは\n元の世界のものと厳密には異なります",
+        "localizations": {
+          "en": "However, from what I've heard, what we need to neutralize isn't exactly the same as in your world."
+        }
+      },
+      "2072370017": {
+        "text": "プラフタ",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "それなら「青の領域」で役に立つ、この世界での\n「エナジーコア」を作るべきでしょう。つまり……",
+        "localizations": {
+          "en": "We should create an Energy Core that works specifically for this world's blue domain. In other words..."
+        }
+      },
+      "2072370017": {
+        "text": "プラフタ",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "よし。これで作り方も決まったっすわ。\nただ、このレシピで調合するとなると、人手が……",
+        "localizations": {
+          "en": "Great, now we know how to make it. Though with this recipe, we'll need more hands..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "いるじゃないですか",
+        "localizations": {
+          "en": "We have them right here."
+        }
+      },
+      "2072370017": {
+        "text": "プラフタ",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "ユミア。ヴィクトル。手伝ってくれますね？",
+        "localizations": {
+          "en": "Yumia, Viktor. You'll help us, won't you?"
+        }
+      },
+      "2072370017": {
+        "text": "プラフタ",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "え？\u3000は、はい。私にできるなら",
+        "localizations": {
+          "en": "Oh? Y-yes, if I can help..."
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "ぼ、僕は錬金術士ではないぞ？",
+        "localizations": {
+          "en": "B-but I'm not an alchemist!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴィクトル",
+        "localizations": {
+          "en": "Viktor"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "できることをお願いするし！\u3000ここで手伝って\nもらえないと、道具ができなくて調査できないけど？",
+        "localizations": {
+          "en": "We'll only ask what you can do! Besides, without your help, we can't make the tools we need to investigate!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "が、頑張りましょうよ、ヴィクトルさん！",
+        "localizations": {
+          "en": "L-let's do our best, Viktor!"
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "……やってみよう",
+        "localizations": {
+          "en": "...Very well, I'll try."
+        }
+      },
+      "2072370017": {
+        "text": "ヴィクトル",
+        "localizations": {
+          "en": "Viktor"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "アルビーナ、今です",
+        "localizations": {
+          "en": "Alvina, now!"
+        }
+      },
+      "2072370017": {
+        "text": "プラフタ",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "よっしゃの、しゃあ！",
+        "localizations": {
+          "en": "Let's do this!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "すごい……私の知ってる錬金術とぜんぜん違う……",
+        "localizations": {
+          "en": "Amazing... This is completely different from the alchemy I know..."
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "これが……この世界の錬金術……",
+        "localizations": {
+          "en": "So this is... this world's alchemy..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴィクトル",
+        "localizations": {
+          "en": "Viktor"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "やった！\u3000名付けて「ブラオレッシェン」！\nこれで「青の領域」を調査できるね！\u3000イエエエ",
+        "localizations": {
+          "en": "We did it! I'll call it the 'Blaureschen'! Now we can investigate the blue domain! Yeahhh!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "待ってくれ",
+        "localizations": {
+          "en": "Wait."
+        }
+      },
+      "2072370017": {
+        "text": "ヴィクトル",
+        "localizations": {
+          "en": "Viktor"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "エっ？",
+        "localizations": {
+          "en": "Huh?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 43,
+    "properties": {
+      "999008199": {
+        "text": "確かに僕たちは、一刻も早く仲間たちを見つけ出したい",
+        "localizations": {
+          "en": "While we need to find our companions as quickly as possible..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴィクトル",
+        "localizations": {
+          "en": "Viktor"
+        }
+      }
+    }
+  },
+  {
+    "id": 44,
+    "properties": {
+      "999008199": {
+        "text": "だが、未知の場所に未知の領域だ。\nそういう場所での調査は一筋縄では行かないはずだ",
+        "localizations": {
+          "en": "This is an unknown place with an unknown phenomenon. Such investigations are never straightforward."
+        }
+      },
+      "2072370017": {
+        "text": "ヴィクトル",
+        "localizations": {
+          "en": "Viktor"
+        }
+      }
+    }
+  },
+  {
+    "id": 45,
+    "properties": {
+      "999008199": {
+        "text": "こうした状況の場合、慎重に行動すべきだ。\n僕たち調査団は、そうしてきた",
+        "localizations": {
+          "en": "In situations like this, we must proceed with caution. That's how our investigation team has always operated."
+        }
+      },
+      "2072370017": {
+        "text": "ヴィクトル",
+        "localizations": {
+          "en": "Viktor"
+        }
+      }
+    }
+  },
+  {
+    "id": 46,
+    "properties": {
+      "999008199": {
+        "text": "ふむふむ、つまり……？",
+        "localizations": {
+          "en": "Hmm, so...?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 47,
+    "properties": {
+      "999008199": {
+        "text": "「青の領域」付近に前哨基地となる拠点を設けよう。\n調査団の経験と君たちの錬金術。これがあれば――",
+        "localizations": {
+          "en": "Let's establish a forward base near the blue domain. With the investigation team's experience and your alchemy..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴィクトル",
+        "localizations": {
+          "en": "Viktor"
+        }
+      }
+    }
+  },
+  {
+    "id": 48,
+    "properties": {
+      "999008199": {
+        "text": "私も賛成です",
+        "localizations": {
+          "en": "I agree!"
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 49,
+    "properties": {
+      "999008199": {
+        "text": "乗った！",
+        "localizations": {
+          "en": "Count me in!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  }
+]

@@ -138,5 +138,15 @@
     "id": 270,
     "description": "All enemies receive {0}% more critical damage for 2 attacks.",
     "name": "Alluring Incense Burner"
+  },
+  {
+    "id": 274,
+    "description": "Restores 7% HP to all allies. After recovery, restores {0}% HP at the start of turn for all allies for 2 turns.",
+    "name": "Forest Medicine"
+  },
+  {
+    "id": 275,
+    "description": "Restores 5% HP to all allies. After recovery, restores {0}% HP at the start of turn for all allies for 2 turns.",
+    "name": "Forest Medicine"
   }
 ]

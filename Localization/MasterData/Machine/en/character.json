@@ -238,5 +238,50 @@
     "overlay_name": "Valeria",
     "profile_voice_text": "I'm Valeria. There's a lot I've forgotten, but I plan to recover it all, bit by bit.",
     "start_at": "2025-03-26T03:00:00Z"
+  },
+  {
+    "id": 50101,
+    "acquisition_text": "My alchemy will surely be of help.\nSo, won't you come along with me?",
+    "another_name": "Seeker of Memories",
+    "description": "The only alchemist in the Aladiss Research Team. In her original world, alchemy was considered a forbidden art, so she joined the investigation team to discover the truth behind it. She cherishes her mother's words: \"Learn how to judge what is right by yourself.\"",
+    "fullname": "Yumia Liessfeldt",
+    "leader_skill": {
+      "description": "All allies gain M.ATK and M.DEF +10% for each Aladiss Research Team member.",
+      "name": "Following Memories"
+    },
+    "name": "Yumia",
+    "overlay_name": "Yumia Liessfeldt",
+    "profile_voice_text": "I'm Yumia, an alchemist.\nI hope to make new discoveries in this world.",
+    "start_at": "2025-03-31T03:00:00Z"
+  },
+  {
+    "id": 50201,
+    "acquisition_text": "I am Viktor of the Eustera Knights.\nLet us swear to fight in the name of justice.",
+    "another_name": "Noble Who Upholds Justice",
+    "description": "A knight belonging to the Aladiss Research Team. He's been assigned to monitor Yumia, who practices the forbidden art of alchemy. Though born into nobility, his family fell from grace due to a disaster in their territory. While he has a strong sense of justice and loyalty, he can be rather inflexible at times.",
+    "fullname": "Viktor von Duerer",
+    "leader_skill": {
+      "description": "All allies gain skill damage and stun damage +20% for each Aladiss Research Team member.",
+      "name": "Unwavering Justice"
+    },
+    "name": "Viktor",
+    "overlay_name": "Viktor von Duerer",
+    "profile_voice_text": "When the time comes, I will be everyone's shield.\nSo please, follow me with confidence.",
+    "start_at": "2025-03-31T03:00:00Z"
+  },
+  {
+    "id": 50301,
+    "acquisition_text": "I-I'm Lenja...!\nI'll do my very best to be helpful...!",
+    "another_name": "Sincere Devotion",
+    "description": "A young girl of the demihuman race known as Welleks. As a racial trait, she possesses high physical capabilities and mana affinity, serving as a member of the investigation team. Despite her abilities, she's timid and lacks self-confidence, often apologizing for various things.",
+    "fullname": "Lenja",
+    "leader_skill": {
+      "description": "Aladiss Research Team members gain battle item damage +40% and skill damage & burst skill damage +50%.",
+      "name": "Journey of Atonement"
+    },
+    "name": "Lenja",
+    "overlay_name": "Lenja",
+    "profile_voice_text": "I-I'm Lenja...!\nI'll do my best to be helpful, so...",
+    "start_at": "2025-04-04T03:00:00Z"
   }
 ]

@@ -47,6 +47,8 @@ namespace AtelierResleriana.Plugin.Localization
         private static ConfigEntry<bool> ConfigEntryDataAutoUpdate { get; set; }
         private static ConfigEntry<string> ConfigEntryDataUpdateServer { get; set; }
         private static ConfigEntry<string> ConfigEntryNewsServerUrl { get; set; }
+        private static ConfigEntry<int> ConfigEntryDataUpdateCheckTimeout { get; set; }
+        private static ConfigEntry<int> ConfigEntryDataUpdateDownloadTimeout { get; set; }
 
         private static IDictionary<string, Il2CppStructArray<byte>> LocalizedSerializedFileCache { get; set; } = new Dictionary<string, Il2CppStructArray<byte>>();
 
@@ -134,7 +136,8 @@ namespace AtelierResleriana.Plugin.Localization
             ConfigEntryDataAutoUpdate = Config.Bind<bool>("Data", "AutoUpdate", true, "Enable this to automatically check for updates to the localization data. This will only run if the default localization data path is used.");
             ConfigEntryNewsServerUrl = Config.Bind<string>("Data", "NewsServerUrl", "https://atelierresleriana.azurewebsites.net/news/", "[Experimental] The news server to use.");
             ConfigEntryDataUpdateServer = Config.Bind<string>("Data", "UpdateServer", "atelierresleriana.azurewebsites.net", "The host of the server to use to check for automatic updates.");
-
+            ConfigEntryDataUpdateCheckTimeout = Config.Bind<int>("Data", "UpdateCheckTimeout", 5, "The number of seconds to wait before timing out on the check for localization data updates.");
+            ConfigEntryDataUpdateDownloadTimeout = Config.Bind<int>("Data", "UpdateDownloadTimeout", 30, "The number of seconds to wait for localization updates to download before timing out.");
 
             Config.Save();
         }
@@ -534,7 +537,10 @@ namespace AtelierResleriana.Plugin.Localization
             try
             {
                 CancellationTokenSource cancellationTokenSource = new CancellationTokenSource();
-                cancellationTokenSource.CancelAfter(TimeSpan.FromSeconds(5));
+                if (ConfigEntryDataUpdateCheckTimeout.Value > 0)
+                {
+                    cancellationTokenSource.CancelAfter(TimeSpan.FromSeconds(ConfigEntryDataUpdateCheckTimeout.Value));
+                }
                 string localizationDataVersionsJson = await httpClient.GetStringAsync(localizationDataVersionsUriBuilder, cancellationTokenSource.Token);
                 LocalizationDataVersion[] localizationDataVersions = JsonSerializer.Deserialize<LocalizationDataVersion[]>(localizationDataVersionsJson, new JsonSerializerOptions()
                 {
@@ -582,7 +588,10 @@ namespace AtelierResleriana.Plugin.Localization
                     Log.LogInfo(localizationDataVersion.Uri);
 
                     cancellationTokenSource = new CancellationTokenSource();
-                    cancellationTokenSource.CancelAfter(TimeSpan.FromSeconds(30));
+                    if (ConfigEntryDataUpdateDownloadTimeout.Value > 0)
+                    {
+                        cancellationTokenSource.CancelAfter(TimeSpan.FromSeconds(ConfigEntryDataUpdateDownloadTimeout.Value));
+                    }
 
                     byte[] localizationDataZipArchiveBytes = await httpClient.GetByteArrayAsync(localizationDataVersion.Uri, cancellationTokenSource.Token);
 

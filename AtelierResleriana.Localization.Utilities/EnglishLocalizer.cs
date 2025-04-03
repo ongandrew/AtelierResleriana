@@ -960,6 +960,7 @@ namespace AtelierResleriana.Localization.Utilities
                 睡眠 - Sleep
                 挑発 - Provoke/Taunt
                 再生 - Regeneration
+                スタン - Daze
                 素早さダウン - Speed Down
                 強化効果無効 - Nullify Positive Effects
                 回復無効 - Nullify HP Recovery

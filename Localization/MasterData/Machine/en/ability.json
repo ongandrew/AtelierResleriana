@@ -2896,7 +2896,7 @@
   },
   {
     "id": 301136,
-    "description": "While equipped to Eumia [Seeker of Memories], after landing a critical hit, boosts magical damage received by all enemies by {0}% (max 30%).",
+    "description": "While equipped to Yumia [Seeker of Memories], after landing a critical hit, boosts magical damage received by all enemies by {0}% (max 30%).",
     "name": "Ephemeral Record"
   },
   {
@@ -2921,7 +2921,7 @@
   },
   {
     "id": 301141,
-    "description": "While equipped to Reinia [Sincere Devotion], when at max HP, boosts physical attack skill damage by {0}%.",
+    "description": "While equipped to Lenja [Sincere Devotion], when at max HP, boosts physical attack skill damage by {0}%.",
     "name": "Golden Spring Beetle"
   },
   {
@@ -2971,12 +2971,12 @@
   },
   {
     "id": 1980183,
-    "description": "For each \"Aradis Investigation Team\" member, boosts M.ATK and M.DEF by {0}%.",
+    "description": "For each Aladiss Research Team member, boosts M.ATK and M.DEF by {0}%.",
     "name": "Tracing Memories"
   },
   {
     "id": 1980184,
-    "description": "For each \"Aradis Investigation Team\" member, boosts skill damage and stun damage by {0}%.",
+    "description": "For each Aladiss Research Team member, boosts skill damage and stun damage by {0}%.",
     "name": "Justice Prevails"
   },
   {
@@ -2986,7 +2986,7 @@
   },
   {
     "id": 1990334,
-    "description": "When obtaining a boost-type panel or when someone uses a battle item, boosts own critical rate by {0}% for 1 turn.<br>Note: Even when using multiple items at the same time, this effect will only activate once.<br><br>When obtaining a boost panel or burst panel, activates panel skill: {{hyperlink_id 37}} on the enemy with the highest current HP.",
+    "description": "When using a boost-type panel or when someone uses a battle item, boosts own critical rate by {0}% for 1 turn.<br>Note: Even when using multiple items at the same time, this effect will only activate once.<br><br>When using a boost panel or burst panel, activates panel skill {{hyperlink_id 37}} on the enemy with the highest current HP.",
     "name": "Something Only I Can Do"
   },
   {
@@ -2996,98 +2996,98 @@
   },
   {
     "id": 1990336,
-    "description": "When self obtains a burst panel, activates Panel Skill: {hyperlink_id 58} on the enemy with the highest current HP",
+    "description": "When using a burst panel, activates skill {hyperlink_id 58} on the enemy with the highest current HP.",
     "name": "Never Miss an Opportunity"
   },
   {
     "id": 1990337,
-    "description": "While self has \"Pile\", activates all of the following bonus effects:<br>・Boosts skill damage by {0}%<br>・When attacking a weakness, boosts stun damage by {1}%",
+    "description": "While Pile is granted, gains the following bonuses:<br>・Boosts skill damage by {0}%.<br>・When attacking a weakness, boosts stun damage by {1}%.",
     "name": "Protecting Someone Once Again"
   },
   {
     "id": 1990338,
-    "description": "When self obtains a positive panel or burst panel, recovers {0}% of own HP and activates Panel Skill: {{hyperlink_id 79}} on the enemy with the lowest HP<br>When at max HP, boosts critical rate by {1}% and critical damage by {2}%",
-    "name": "Rainya, I'll Try Harder!"
+    "description": "When using a positive panel or burst panel, recovers {0}% of own HP and activates skill {{hyperlink_id 79}} on the enemy with the lowest HP.<br>When at max HP, boosts critical rate by {1}% and critical damage by {2}%.",
+    "name": "I'll Try Harder!"
   },
   {
     "id": 1990339,
-    "description": "When obtaining a panel, if self does not have \"Flying Sword\", grants \"Flying Sword (Lv2)\"<br>If already granted, increases \"Flying Sword\" Lv by 2 (max Lv10)<br>Gains the following bonuses based on \"Flying Sword\" Lv:<br>Lv3 or higher: Penetration +{0}<br>Lv5 or higher: Penetration +{1}<br>Lv10: Penetration +{2}<br><br>When attacking a stunned target, boosts damage by {3}%",
-    "name": "Where Are Rainya's Enemies~?"
+    "description": "When using a panel, if Flying Sword has not been granted, grants self Flying Sword (Lv. 2).<br>If already granted Flying Sword, increases the buff's level by 2. (MAX Lv. 10).<br>Depending on the current level of Flying Sword, gains the following bonuses:<br>Lv. 3+: Penetration +{0}.<br>Lv. 5+: Penetration +{1}.<br>Lv. 10: Penetration +{2}.<br><br>When attacking a stunned target, boosts damage by {3}%.",
+    "name": "Where Are My Enemies?"
   },
   {
     "id": 4990828,
-    "description": "When equipped to a character with Fire affinity and attacking a weakness, grants \"Critical damage +{0}%\" to self until the end of 2 actions",
+    "description": "While equipped to a character with Fire affinity, when attacking a weakness, boosts own critical damage by +{0}% for 2 turns.",
     "name": "Fire Affinity - Weakness Critical Damage Up III"
   },
   {
     "id": 4990829,
-    "description": "When equipped to a character with Fire affinity and attacking a weakness, grants \"Critical damage +{0}%\" to self until the end of 2 actions",
+    "description": "While equipped to a character with Fire affinity, when attacking a weakness, boosts own critical damage by +{0}% for 2 turns.",
     "name": "Fire Affinity - Weakness Critical Damage Up III"
   },
   {
     "id": 4990830,
-    "description": "When equipped to a character with Fire affinity and attacking a weakness, grants \"Critical damage +{0}%\" to self until the end of 2 actions",
+    "description": "While equipped to a character with Fire affinity, when attacking a weakness, boosts own critical damage by +{0}% for 2 turns.",
     "name": "Fire Affinity - Weakness Critical Damage Up III"
   },
   {
     "id": 4990831,
-    "description": "When equipped to a character with Fire affinity and attacking a weakness, grants \"Critical damage +{0}%\" to self until the end of 2 actions",
+    "description": "While equipped to a character with Fire affinity, when attacking a weakness, boosts own critical damage by +{0}% for 2 turns.",
     "name": "Fire Affinity - Weakness Critical Damage Up III"
   },
   {
     "id": 4990832,
-    "description": "When equipped to a character with Fire affinity and attacking a weakness, grants \"Critical damage +{0}%\" to self until the end of 2 actions",
+    "description": "While equipped to a character with Fire affinity, when attacking a weakness, boosts own critical damage by +{0}% for 2 turns.",
     "name": "Fire Affinity - Weakness Critical Damage Up III"
   },
   {
     "id": 4990833,
-    "description": "When equipped to a \"Knight\", boosts stun damage by {0}%",
+    "description": "While equipped to a Knight character, boosts stun damage by {0}%.",
     "name": "Knight Stun Up II"
   },
   {
     "id": 4990834,
-    "description": "When equipped to a \"Knight\", boosts stun damage by {0}%",
+    "description": "While equipped to a Knight character, boosts stun damage by {0}%.",
     "name": "Knight Stun Up II"
   },
   {
     "id": 4990835,
-    "description": "When equipped to a \"Knight\", boosts stun damage by {0}%",
+    "description": "While equipped to a Knight character, boosts stun damage by {0}%.",
     "name": "Knight Stun Up II"
   },
   {
     "id": 4990836,
-    "description": "When equipped to a \"Knight\", boosts stun damage by {0}%",
+    "description": "While equipped to a Knight character, boosts stun damage by {0}%.",
     "name": "Knight Stun Up II"
   },
   {
     "id": 4990837,
-    "description": "When equipped to a \"Knight\", boosts stun damage by {0}%",
+    "description": "While equipped to a Knight character, boosts stun damage by {0}%.",
     "name": "Knight Stun Up II"
   },
   {
     "id": 4990838,
-    "description": "When obtaining a panel, grants \"Skill damage +{0}%\" to self until the end of 2 actions",
-    "name": "Panel Gain Damage Up III"
+    "description": "When using a panel, boosts own skill damage by +{0}% for 2 turns.",
+    "name": "Panel Damage Up III"
   },
   {
     "id": 4990839,
-    "description": "When obtaining a panel, grants \"Skill damage +{0}%\" to self until the end of 2 actions",
-    "name": "Panel Gain Damage Up III"
+    "description": "When using a panel, boosts own skill damage by +{0}% for 2 turns.",
+    "name": "Panel Damage Up III"
   },
   {
     "id": 4990840,
-    "description": "When obtaining a panel, grants \"Skill damage +{0}%\" to self until the end of 2 actions",
-    "name": "Panel Gain Damage Up III"
+    "description": "When using a panel, boosts own skill damage by +{0}% for 2 turns.",
+    "name": "Panel Damage Up III"
   },
   {
     "id": 4990841,
-    "description": "When obtaining a panel, grants \"Skill damage +{0}%\" to self until the end of 2 actions",
-    "name": "Panel Gain Damage Up III"
+    "description": "When using a panel, boosts own skill damage by +{0}% for 2 turns.",
+    "name": "Panel Damage Up III"
   },
   {
     "id": 4990842,
-    "description": "When obtaining a panel, grants \"Skill damage +{0}%\" to self until the end of 2 actions",
-    "name": "Panel Gain Damage Up III"
+    "description": "When using a panel, boosts own skill damage by +{0}% for 2 turns.",
+    "name": "Panel Damage Up III"
   },
   {
     "id": 7000723,

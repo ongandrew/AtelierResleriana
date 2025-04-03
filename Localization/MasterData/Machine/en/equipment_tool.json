@@ -506,7 +506,7 @@
   },
   {
     "id": 1049,
-    "description": "While equipped to Yumia [Seeker of Memories], after a critical hit, increases all enemies' magical damage received by {0}% (MAX 30%).",
+    "description": "While equipped to Yumia [Seeker of Memories], after a critical attack, increases all enemies' magical damage received by {0}% (MAX 30%).",
     "name": "Ephemeral Record"
   },
   {
@@ -531,7 +531,7 @@
   },
   {
     "id": 1054,
-    "description": "While equipped to Reinia [Sincere Devotion], when at max HP, boosts physical skill damage by {0}%.",
+    "description": "While equipped to Lenja [Sincere Devotion], when at max HP, boosts physical skill damage by {0}%.",
     "name": "Golden Spring Butterfly"
   },
   {
@@ -556,7 +556,7 @@
   },
   {
     "id": 1059,
-    "description": "While equipped to Victor [Noble of Justice], when attacking a stunned target, increases target's weakness damage received by {0}% for 2 attacks.",
+    "description": "While equipped to Viktor [Noble of Justice], when attacking a stunned target, increases target's weakness damage received by {0}% for 2 attacks.",
     "name": "Imperial Drive"
   },
   {
@@ -571,12 +571,12 @@
   },
   {
     "id": 1062,
-    "description": "While equipped to a Breaker with Strike affinity, boosts negative effect potency by {0}%.",
+    "description": "While equipped to a Breaker with Strike affinity, boosts the potency of negative effects inflicted by {0}%.",
     "name": "Curse Spoiler"
   },
   {
     "id": 1063,
-    "description": "While equipped to a Breaker with Strike affinity, boosts negative effect potency by {0}%.",
+    "description": "While equipped to a Breaker with Strike affinity, boosts the potency of negative effects inflicted by {0}%.",
     "name": "Curse Spoiler"
   }
 ]

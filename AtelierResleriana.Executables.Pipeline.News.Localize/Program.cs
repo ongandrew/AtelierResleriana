@@ -166,6 +166,12 @@ namespace AtelierResleriana.Executables.Pipeline.News.Localize
                                     - シトリン → Citrine (Gender Ambiguous)
                                     - ヤンネ → Janne (Male)
                                     - イェルカ → Jelka (Female)
+                                    - ユミア → Yumia (Female)
+                                    - ルトガー → Rutger (Male)
+                                    - ヴィクトル → Viktor (Male)
+                                    - アイラ → Isla (Female)
+                                    - レイニャ → Lenja (Female)
+                                    - ニーナ → Nina (Female)
 
                                     TECHNICAL TERMS:
                                     ガチャ - Wish: The term "Wish" is to be used instead of "gacha".

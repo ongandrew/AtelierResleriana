@@ -37,19 +37,19 @@ namespace AtelierResleriana.Executables.Pipeline.MasterData.Prepare
             MasterDataFileReducer masterDataFileReducer = new MasterDataFileReducer();
             MasterDataFileUpdater masterDataFileUpdater = new MasterDataFileUpdater();
 
-            // Process Japanese files first
+            Dictionary<string, JsonNode> japaneseBaselines = new Dictionary<string, JsonNode>();
             foreach (string japanMasterDataFile in Directory.EnumerateFiles(localizationMasterDataJapanDirectoryPath))
             {
+                string fileName = Path.GetFileName(japanMasterDataFile);
                 string jsonContent = File.ReadAllText(japanMasterDataFile);
                 var reducedJson = masterDataFileReducer.Reduce(jsonContent);
 
                 if (reducedJson != null)
                 {
-                    string baselineFilePath = Path.Combine(localizationMasterDataBaselineDirectoryPath,
-                        Path.GetFileName(japanMasterDataFile));
+                    string baselineFilePath = Path.Combine(localizationMasterDataBaselineDirectoryPath, fileName);
 
-                    File.WriteAllText(baselineFilePath,
-                        reducedJson.ToJsonString(jsonSerializerOptions));
+                    File.WriteAllText(baselineFilePath, reducedJson.ToJsonString(jsonSerializerOptions));
+                    japaneseBaselines[fileName] = reducedJson;
                 }
             }
 
@@ -74,36 +74,49 @@ namespace AtelierResleriana.Executables.Pipeline.MasterData.Prepare
                 }
                 Directory.CreateDirectory(localizationMasterDataBaselineExtractedLocaleDirectoryPath);
 
-                foreach (string globalMasterDataFile in Directory.EnumerateFiles(localizationMasterDataGlobalLocaleDirectoryPath))
+                HashSet<string> processedFiles = new HashSet<string>();
+
+                if (Directory.Exists(localizationMasterDataGlobalLocaleDirectoryPath))
                 {
-                    string jsonContent = File.ReadAllText(globalMasterDataFile);
-                    var reducedJson = masterDataFileReducer.Reduce(jsonContent);
-
-                    if (reducedJson != null)
+                    foreach (string globalMasterDataFile in Directory.EnumerateFiles(localizationMasterDataGlobalLocaleDirectoryPath))
                     {
-                        string extractedFilePath = Path.Combine(localizationMasterDataExtractedLocaleDirectoryPath,
-                            Path.GetFileName(globalMasterDataFile));
+                        string fileName = Path.GetFileName(globalMasterDataFile);
+                        processedFiles.Add(fileName);
 
-                        File.WriteAllText(extractedFilePath, reducedJson.ToJsonString(jsonSerializerOptions));
+                        string jsonContent = File.ReadAllText(globalMasterDataFile);
+                        var reducedJson = masterDataFileReducer.Reduce(jsonContent);
 
-                        string baselineFilePath = Path.Combine(localizationMasterDataBaselineDirectoryPath,
-                            Path.GetFileName(globalMasterDataFile));
-
-                        if (File.Exists(baselineFilePath))
+                        if (reducedJson != null)
                         {
-                            string baselineContent = File.ReadAllText(baselineFilePath);
-                            JsonNode? baseline = JsonNode.Parse(baselineContent);
+                            string extractedFilePath = Path.Combine(localizationMasterDataExtractedLocaleDirectoryPath, fileName);
+                            File.WriteAllText(extractedFilePath, reducedJson.ToJsonString(jsonSerializerOptions));
 
-                            if (baseline != null)
+                            string baselineFilePath = Path.Combine(localizationMasterDataBaselineDirectoryPath, fileName);
+
+                            if (File.Exists(baselineFilePath))
                             {
-                                masterDataFileUpdater.UpdateEntities(baseline, reducedJson);
+                                string baselineContent = File.ReadAllText(baselineFilePath);
+                                JsonNode? baseline = JsonNode.Parse(baselineContent);
 
-                                string baselineExtractedFilePath = Path.Combine(localizationMasterDataBaselineExtractedLocaleDirectoryPath,
-                                    Path.GetFileName(baselineFilePath));
+                                if (baseline != null)
+                                {
+                                    masterDataFileUpdater.UpdateEntities(baseline, reducedJson);
 
-                                File.WriteAllText(baselineExtractedFilePath, baseline.ToJsonString(jsonSerializerOptions));
+                                    string baselineExtractedFilePath = Path.Combine(localizationMasterDataBaselineExtractedLocaleDirectoryPath, fileName);
+                                    File.WriteAllText(baselineExtractedFilePath, baseline.ToJsonString(jsonSerializerOptions));
+                                }
                             }
                         }
+                    }
+                }
+
+                // Handle Japanese files that don't exist in global
+                foreach (var baselineEntry in japaneseBaselines)
+                {
+                    if (!processedFiles.Contains(baselineEntry.Key))
+                    {
+                        string baselineExtractedFilePath = Path.Combine(localizationMasterDataBaselineExtractedLocaleDirectoryPath, baselineEntry.Key);
+                        File.WriteAllText(baselineExtractedFilePath, baselineEntry.Value.ToJsonString(jsonSerializerOptions));
                     }
                 }
             }

@@ -148,5 +148,15 @@
     "id": 275,
     "description": "Restores 5% HP to all allies. After recovery, restores {0}% HP at the start of turn for all allies for 2 turns.",
     "name": "Forest Medicine"
+  },
+  {
+    "id": 276,
+    "description": "Boosts critical damage of all Attacker allies by {0}% for 1 turn.",
+    "name": "Enhance Fruit"
+  },
+  {
+    "id": 277,
+    "description": "Boosts critical damage of all Attacker allies by {0}% for 1 turn.",
+    "name": "Enhance Fruit"
   }
 ]

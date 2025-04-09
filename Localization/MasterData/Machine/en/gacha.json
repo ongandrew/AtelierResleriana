@@ -1491,5 +1491,40 @@
     "name": "Yumia Festival: A Timid but Determined Worker! Rainia LEGEND FES [Paid Lodestar Gems Only]",
     "start_at": "2025-04-04T03:00:00Z",
     "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 2236,
+    "description": "Isla makes her debut!\nFeatured until 2025/05/01 11:59 (UTC+8)",
+    "end_at": "2025-05-01T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Yumia Festival: Fashionable, Energetic, Young Lady! Isla LEGEND FES",
+    "name": "Yumia Festival: Fashionable, Energetic, Young Lady! Isla LEGEND FES",
+    "start_at": "2025-04-09T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2237,
+    "description": "5 weeks only! Wish 20 times with paid Star Guidance Stones\nand get 10 free wishes! Until 2025/05/01 11:59 (UTC+8)",
+    "end_at": "2025-05-01T03:00:00Z",
+    "name": "Yumia Festival: Fashionable, Energetic, Young Lady! Isla LEGEND FES [Paid Limited]",
+    "start_at": "2025-04-09T03:00:00Z",
+    "step_up_loop_description": "{} weeks remaining"
   }
 ]

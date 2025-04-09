@@ -1,0 +1,614 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "大丈夫？\u3000とんでもない量を\n持って帰って来たけど……",
+        "localizations": {
+          "en": "Are you alright? You brought back quite a haul..."
+        }
+      },
+      "2072370017": {
+        "text": "ウィルベル",
+        "localizations": {
+          "en": "Wilbell"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "だ、大丈夫ですぅ……調査団の仕事で\nこれくらい慣れてますから……",
+        "localizations": {
+          "en": "I-I'm fine... This much is normal for research team work..."
+        }
+      },
+      "2072370017": {
+        "text": "レイニャ",
+        "localizations": {
+          "en": "Lenja"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "いやいや、こんな量を二人で運ぼうだなんて\n無理だって言ってるのに",
+        "localizations": {
+          "en": "No way! We told you it was too much for just two people to carry!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "依頼したのは私たちだし……運んだ分オマケして\nもらえたらいいなぁ、なんて下心は……ないわよ",
+        "localizations": {
+          "en": "Well, we did make the request... Not that I was hoping to get a little extra for helping carry it or anything..."
+        }
+      },
+      "2072370017": {
+        "text": "ニーナ",
+        "localizations": {
+          "en": "Nina"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "そんなことで、ここまで頑なにねぇ……\n調査団の報酬って、そんなに安いのかしら",
+        "localizations": {
+          "en": "You're being awfully stubborn about this... Is the research team's pay really that bad?"
+        }
+      },
+      "2072370017": {
+        "text": "ウィルベル",
+        "localizations": {
+          "en": "Wilbell"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "うぅっ……",
+        "localizations": {
+          "en": "Nngh..."
+        }
+      },
+      "2072370017": {
+        "text": "レイニャ",
+        "localizations": {
+          "en": "Lenja"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "（無一文で知らない世界。少しでも稼いでおきたい\n\u3000なんて事情は言えないわよね……）",
+        "localizations": {
+          "en": "(We can't exactly tell them we're broke and stranded in an unfamiliar world...)"
+        }
+      },
+      "2072370017": {
+        "text": "ニーナ",
+        "localizations": {
+          "en": "Nina"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "た、体力作りも兼ねてるかしらね？",
+        "localizations": {
+          "en": "L-let's just call it strength training!"
+        }
+      },
+      "2072370017": {
+        "text": "ニーナ",
+        "localizations": {
+          "en": "Nina"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "ともかく、少し休んだら調合を始めましょう",
+        "localizations": {
+          "en": "Anyway, let's rest a bit before we start synthesis."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "それでは、調合を始めましょうか",
+        "localizations": {
+          "en": "Shall we begin the synthesis?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "それにしても、すごい場所だとは思ったけれど……\nここがこの世界のアトリエなのねぇ",
+        "localizations": {
+          "en": "This place is incredible... So this is what an atelier looks like in this world."
+        }
+      },
+      "2072370017": {
+        "text": "ニーナ",
+        "localizations": {
+          "en": "Nina"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "ユミアさんのアトリエとも、また違いますね……",
+        "localizations": {
+          "en": "It's quite different from Yumia's atelier..."
+        }
+      },
+      "2072370017": {
+        "text": "レイニャ",
+        "localizations": {
+          "en": "Lenja"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "調合の仕方も、ユミアさんとはぜんぜん違うんですねぇ",
+        "localizations": {
+          "en": "And the synthesis method is completely different from Yumia's too."
+        }
+      },
+      "2072370017": {
+        "text": "レイニャ",
+        "localizations": {
+          "en": "Lenja"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "変なことを言うけど、もしかしたら……\n別の世界なのかもしれないわね",
+        "localizations": {
+          "en": "This might sound strange, but... We might actually be in a different world."
+        }
+      },
+      "2072370017": {
+        "text": "ニーナ",
+        "localizations": {
+          "en": "Nina"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "んー、こんなにたくさんのブレスレット、\n神官長さんは何に使うんだろうね～",
+        "localizations": {
+          "en": "Hmm, I wonder what the High Priest needs all these bracelets for~"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "さぁねぇ。私たちも突然、調査団長から言われたし",
+        "localizations": {
+          "en": "Who knows? The research team leader just suddenly told us about it."
+        }
+      },
+      "2072370017": {
+        "text": "ニーナ",
+        "localizations": {
+          "en": "Nina"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "あれ？\u3000調査団長って確か、この間調査に出かけて\n体調を崩したって聞いたわよ",
+        "localizations": {
+          "en": "Huh? I heard the team leader got sick after investigating something recently."
+        }
+      },
+      "2072370017": {
+        "text": "ウィルベル",
+        "localizations": {
+          "en": "Wilbell"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "流れ星が落ちたっていう場所の跡地でしたっけ。\nアルビーナが調査に行くって言ってたような",
+        "localizations": {
+          "en": "That was at the site where the shooting star fell, right? I think Alvina said she was going to investigate it."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "そんな怪しい場所、あたしがホウキで\nひとっ飛びすれば簡単に調べられる気もするけど",
+        "localizations": {
+          "en": "Such a suspicious place... I could probably check it out easily with my bro- I mean..."
+        }
+      },
+      "2072370017": {
+        "text": "ウィルベル",
+        "localizations": {
+          "en": "Wilbell"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "ホウキでひとっ飛び……？",
+        "localizations": {
+          "en": "With your... broom?"
+        }
+      },
+      "2072370017": {
+        "text": "レイニャ",
+        "localizations": {
+          "en": "Lenja"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "えっ、そ、それはえーと、ものの例えっていうか！",
+        "localizations": {
+          "en": "Ah, th-that's just a figure of speech!"
+        }
+      },
+      "2072370017": {
+        "text": "ウィルベル",
+        "localizations": {
+          "en": "Wilbell"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "そういえばウィルベルって、ちょっと見ないような\n変わった格好してるって思ってたのよねぇ",
+        "localizations": {
+          "en": "Come to think of it, I thought your outfit was a bit unusual, Wilbell."
+        }
+      },
+      "2072370017": {
+        "text": "ニーナ",
+        "localizations": {
+          "en": "Nina"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "えっ、あたしそんな変わった格好してないから！\n魔法使いとして品位あるオシャレよ！\u3000……あっ",
+        "localizations": {
+          "en": "N-no it's not! This is dignified fashion for a witch! ...Oops."
+        }
+      },
+      "2072370017": {
+        "text": "ウィルベル",
+        "localizations": {
+          "en": "Wilbell"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "あ、あの！",
+        "localizations": {
+          "en": "Um, excuse me!"
+        }
+      },
+      "2072370017": {
+        "text": "レイニャ",
+        "localizations": {
+          "en": "Lenja"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "な、何よ！？",
+        "localizations": {
+          "en": "W-what is it!?"
+        }
+      },
+      "2072370017": {
+        "text": "ウィルベル",
+        "localizations": {
+          "en": "Wilbell"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "ババーンと何かしちゃうくらい、ウィルベルさんって\nすごい魔法を使えるんですか！？",
+        "localizations": {
+          "en": "Can you use amazing magic? Like something that goes KABOOM!?"
+        }
+      },
+      "2072370017": {
+        "text": "レイニャ",
+        "localizations": {
+          "en": "Lenja"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "そ、そりゃあたしはすごい魔法使いだもん\n……って、そっちなの！？",
+        "localizations": {
+          "en": "W-well of course I can, I am a great witch after all... Wait, that's what you're excited about!?"
+        }
+      },
+      "2072370017": {
+        "text": "ウィルベル",
+        "localizations": {
+          "en": "Wilbell"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "レイニャたちの居た世界でも魔法は当たり前にあるん\nですが、もっとささやかなものなので、素敵ですっ！",
+        "localizations": {
+          "en": "We had magic in our world too, but it was much more modest. This is so wonderful!"
+        }
+      },
+      "2072370017": {
+        "text": "レイニャ",
+        "localizations": {
+          "en": "Lenja"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "レイニャちゃんたちの居た世界？",
+        "localizations": {
+          "en": "Your world?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "うふふ。すごい田舎にいたものだから、\n世界は広いのねぇって、びっくりしてばかりなの",
+        "localizations": {
+          "en": "Hehe. We're from such a remote place that everything here is surprising to us."
+        }
+      },
+      "2072370017": {
+        "text": "ニーナ",
+        "localizations": {
+          "en": "Nina"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "気持ち分かる！\u3000アタシもレスナちゃんと\n旅を始めた頃は、びっくりし通しだったもん",
+        "localizations": {
+          "en": "I know how that feels! When I first started traveling with Resna, everything was surprising to me too!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "懐かしいよね、イザナちゃん",
+        "localizations": {
+          "en": "Those were the days, weren't they, Izana?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "あ、あの！\u3000ウィルベルさんの魔法、\n今度見せていただけませんか？",
+        "localizations": {
+          "en": "Um! Could you please show me your magic sometime, Wilbell?"
+        }
+      },
+      "2072370017": {
+        "text": "レイニャ",
+        "localizations": {
+          "en": "Lenja"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "うーん。どうしようかしら？\nあ、でもあたしが魔法使いなのは内緒にしてよね",
+        "localizations": {
+          "en": "Hmm, I'll think about it. But keep the whole witch thing a secret, okay?"
+        }
+      },
+      "2072370017": {
+        "text": "ウィルベル",
+        "localizations": {
+          "en": "Wilbell"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "内緒にしてても態度に出るかもしれないから要注意だよ",
+        "localizations": {
+          "en": "Better be careful though—it's pretty obvious from the way you act!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "さてと、これを全部本部に運べば一仕事終わりね",
+        "localizations": {
+          "en": "Well then, once we get all this back to headquarters, we're done for the day."
+        }
+      },
+      "2072370017": {
+        "text": "ニーナ",
+        "localizations": {
+          "en": "Nina"
+        }
+      }
+    }
+  }
+]

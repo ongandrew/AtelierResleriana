@@ -9592,5 +9592,605 @@
     "description": "After attacking, converts the next ally's panel into a burst panel.",
     "name": "Ice Dance",
     "summary": ""
+  },
+  {
+    "id": 32123,
+    "description": "Boosts all allies' critical damage by {0}% for 1 turn while equipped to an Attacker.",
+    "name": "Enhance Fruit",
+    "summary": ""
+  },
+  {
+    "id": 32124,
+    "description": "Boosts all allies' critical damage by {0}% for 1 turn while equipped to an Attacker.",
+    "name": "Enhance Fruit",
+    "summary": ""
+  },
+  {
+    "id": 11002464,
+    "description": "After attacking, grants target panel immunity for 1 turn. If own next panel is not a burst panel, converts it to a stun boost panel (or creates one if empty). Switches to long-range attacks.<br>Long-range Skill: {hyperlink_id 91}",
+    "name": "Bouncing Pierce",
+    "summary": "After attacking, grants target panel immunity. Converts own next non-burst panel to stun boost panel. Switches to long range."
+  },
+  {
+    "id": 11002465,
+    "description": "After attacking, grants target panel immunity for 1 turn. If own next panel is not a burst panel, converts it to a stun boost panel (or creates one if empty). Switches to long-range attacks.<br>Long-range Skill: {hyperlink_id 92}",
+    "name": "Bouncing Pierce",
+    "summary": "After attacking, grants target panel immunity. Converts own next non-burst panel to stun boost panel. Switches to long range."
+  },
+  {
+    "id": 11002466,
+    "description": "After attacking, grants target panel immunity for 1 turn. If own next panel is not a burst panel, converts it to a stun boost panel (or creates one if empty). Switches to long-range attacks.<br>Long-range Skill: {hyperlink_id 93}",
+    "name": "Bouncing Pierce",
+    "summary": "After attacking, grants target panel immunity. Converts own next non-burst panel to stun boost panel. Switches to long range."
+  },
+  {
+    "id": 11002467,
+    "description": "After attacking, grants target panel immunity for 1 turn. If own next panel is not a burst panel, converts it to a stun boost panel (or creates one if empty). Switches to long-range attacks.<br>Long-range Skill: {hyperlink_id 94}",
+    "name": "Bouncing Pierce",
+    "summary": "After attacking, grants target panel immunity. Converts own next non-burst panel to stun boost panel. Switches to long range."
+  },
+  {
+    "id": 11002468,
+    "description": "After attacking, grants target panel immunity for 1 turn. If own next panel is not a burst panel, converts it to a stun boost panel (or creates one if empty). Switches to long-range attacks.<br>Long-range Skill: {hyperlink_id 95}",
+    "name": "Bouncing Pierce",
+    "summary": "After attacking, grants target panel immunity. Converts own next non-burst panel to stun boost panel. Switches to long range."
+  },
+  {
+    "id": 11002638,
+    "description": "Before attacking, reduces target's Fire resistance by {0}% for 3 attacks.<br>After attacking, boosts own stun damage by {1}% for 1 turn. Switches to close-range attacks.<br>Close-range Skill: {hyperlink_id 81}",
+    "name": "Jumping Pierce",
+    "summary": "Before attacking, reduces target's Fire resistance. After attacking, boosts own stun damage. Switches to close range."
+  },
+  {
+    "id": 11002639,
+    "description": "Before attacking, reduces target's Fire resistance by {0}% for 3 attacks.<br>After attacking, boosts own stun damage by {1}% for 1 turn. Switches to close-range attacks.<br>Close-range Skill: {hyperlink_id 82}",
+    "name": "Jumping Pierce",
+    "summary": "Before attacking, reduces target's Fire resistance. After attacking, boosts own stun damage. Switches to close range."
+  },
+  {
+    "id": 11002640,
+    "description": "Before attacking, reduces target's Fire resistance by {0}% for 3 attacks.<br>After attacking, boosts own stun damage by {1}% for 1 turn. Switches to close-range attacks.<br>Close-range Skill: {hyperlink_id 83}",
+    "name": "Jumping Pierce",
+    "summary": "Before attacking, reduces target's Fire resistance. After attacking, boosts own stun damage. Switches to close range."
+  },
+  {
+    "id": 11002641,
+    "description": "Before attacking, reduces target's Fire resistance by {0}% for 3 attacks.<br>After attacking, boosts own stun damage by {1}% for 1 turn. Switches to close-range attacks.<br>Close-range Skill: {hyperlink_id 84}",
+    "name": "Jumping Pierce",
+    "summary": "Before attacking, reduces target's Fire resistance. After attacking, boosts own stun damage. Switches to close range."
+  },
+  {
+    "id": 11002642,
+    "description": "Before attacking, reduces target's Fire resistance by {0}% for 3 attacks.<br>After attacking, boosts own stun damage by {1}% for 1 turn. Switches to close-range attacks.<br>Close-range Skill: {hyperlink_id 85}",
+    "name": "Jumping Pierce",
+    "summary": "Before attacking, reduces target's Fire resistance. After attacking, boosts own stun damage. Switches to close range."
+  },
+  {
+    "id": 11002649,
+    "description": "After attacking, grants target panel immunity for 1 turn. If own next panel is not a burst panel, converts it to a stun boost panel (or creates one if empty). Switches to long-range attacks.",
+    "name": "Bouncing Pierce",
+    "summary": "After attacking, grants target panel immunity. Converts own next non-burst panel to stun boost panel. Switches to long range."
+  },
+  {
+    "id": 11002650,
+    "description": "After attacking, grants target panel immunity for 1 turn. If own next panel is not a burst panel, converts it to a stun boost panel (or creates one if empty). Switches to long-range attacks.",
+    "name": "Bouncing Pierce",
+    "summary": "After attacking, grants target panel immunity. Converts own next non-burst panel to stun boost panel. Switches to long range."
+  },
+  {
+    "id": 11002651,
+    "description": "After attacking, grants target panel immunity for 1 turn. If own next panel is not a burst panel, converts it to a stun boost panel (or creates one if empty). Switches to long-range attacks.",
+    "name": "Bouncing Pierce",
+    "summary": "After attacking, grants target panel immunity. Converts own next non-burst panel to stun boost panel. Switches to long range."
+  },
+  {
+    "id": 11002652,
+    "description": "After attacking, grants target panel immunity for 1 turn. If own next panel is not a burst panel, converts it to a stun boost panel (or creates one if empty). Switches to long-range attacks.",
+    "name": "Bouncing Pierce",
+    "summary": "After attacking, grants target panel immunity. Converts own next non-burst panel to stun boost panel. Switches to long range."
+  },
+  {
+    "id": 11002653,
+    "description": "After attacking, grants target panel immunity for 1 turn. If own next panel is not a burst panel, converts it to a stun boost panel (or creates one if empty). Switches to long-range attacks.",
+    "name": "Bouncing Pierce",
+    "summary": "After attacking, grants target panel immunity. Converts own next non-burst panel to stun boost panel. Switches to long range."
+  },
+  {
+    "id": 11002659,
+    "description": "Before attacking, reduces target's Fire resistance by {0}% for 3 attacks.<br>After attacking, boosts own stun damage by {1}% for 1 turn. Switches to close-range attacks.",
+    "name": "Jumping Pierce",
+    "summary": "Before attacking, reduces target's Fire resistance. After attacking, boosts own stun damage. Switches to close range."
+  },
+  {
+    "id": 11002660,
+    "description": "Before attacking, reduces target's Fire resistance by {0}% for 3 attacks.<br>After attacking, boosts own stun damage by {1}% for 1 turn. Switches to close-range attacks.",
+    "name": "Jumping Pierce",
+    "summary": "Before attacking, reduces target's Fire resistance. After attacking, boosts own stun damage. Switches to close range."
+  },
+  {
+    "id": 11002661,
+    "description": "Before attacking, reduces target's Fire resistance by {0}% for 3 attacks.<br>After attacking, boosts own stun damage by {1}% for 1 turn. Switches to close-range attacks.",
+    "name": "Jumping Pierce",
+    "summary": "Before attacking, reduces target's Fire resistance. After attacking, boosts own stun damage. Switches to close range."
+  },
+  {
+    "id": 11002662,
+    "description": "Before attacking, reduces target's Fire resistance by {0}% for 3 attacks.<br>After attacking, boosts own stun damage by {1}% for 1 turn.<br>Switches to close-range attacks.",
+    "name": "Jumping Pierce",
+    "summary": "Before attacking, reduces target's Fire resistance.<br>After attacking, boosts own stun damage.<br>Switches to close-range attacks."
+  },
+  {
+    "id": 11002663,
+    "description": "Before attacking, reduces target's Fire resistance by {0}% for 3 attacks.<br>After attacking, boosts own stun damage by {1}% for 1 turn.<br>Switches to close-range attacks.",
+    "name": "Jumping Pierce",
+    "summary": "Before attacking, reduces target's Fire resistance.<br>After attacking, boosts own stun damage.<br>Switches to close-range attacks."
+  },
+  {
+    "id": 12002469,
+    "description": "When attacking a weakness, boosts stun damage by {0}%.<br>Before attacking, reduces target's Fire resistance by {1}% (Max: 50%).<br>After attacking, increases target's magical damage received by {2}% for 2 attacks.<br>If target's next panel is empty, creates a weaken panel.<br>Long-range skill: {hyperlink_id 96}",
+    "name": "Twinkle Thrust",
+    "summary": "When attacking a weakness, boosts stun damage.<br>Before attacking, reduces target's Fire resistance.<br>After attacking, increases target's magical damage received.<br>If target's next panel is empty, creates a weaken panel."
+  },
+  {
+    "id": 12002470,
+    "description": "When attacking a weakness, boosts stun damage by {0}%.<br>Before attacking, reduces target's Fire resistance by {1}% (Max: 50%).<br>After attacking, increases target's magical damage received by {2}% for 2 attacks.<br>If target's next panel is empty, creates a weaken panel.<br>Long-range skill: {hyperlink_id 97}",
+    "name": "Twinkle Thrust",
+    "summary": "When attacking a weakness, boosts stun damage.<br>Before attacking, reduces target's Fire resistance.<br>After attacking, increases target's magical damage received.<br>If target's next panel is empty, creates a weaken panel."
+  },
+  {
+    "id": 12002471,
+    "description": "When attacking a weakness, boosts stun damage by {0}%.<br>Before attacking, reduces target's Fire resistance by {1}% (Max: 50%).<br>After attacking, increases target's magical damage received by {2}% for 2 attacks.<br>If target's next panel is empty, creates a weaken panel.<br>Long-range skill: {hyperlink_id 98}",
+    "name": "Twinkle Thrust",
+    "summary": "When attacking a weakness, boosts stun damage.<br>Before attacking, reduces target's Fire resistance.<br>After attacking, increases target's magical damage received.<br>If target's next panel is empty, creates a weaken panel."
+  },
+  {
+    "id": 12002472,
+    "description": "When attacking a weakness, boosts stun damage by {0}%.<br>Before attacking, reduces target's Fire resistance by {1}% (Max: 50%).<br>After attacking, increases target's magical damage received by {2}% for 2 attacks.<br>If target's next panel is empty, creates a weaken panel.<br>Long-range skill: {hyperlink_id 99}",
+    "name": "Twinkle Thrust",
+    "summary": "When attacking a weakness, boosts stun damage.<br>Before attacking, reduces target's Fire resistance.<br>After attacking, increases target's magical damage received.<br>If target's next panel is empty, creates a weaken panel."
+  },
+  {
+    "id": 12002473,
+    "description": "When attacking a weakness, boosts stun damage by {0}%.<br>Before attacking, reduces target's Fire resistance by {1}% (Max: 50%).<br>After attacking, increases target's magical damage received by {2}% for 2 attacks.<br>If target's next panel is empty, creates a weaken panel.<br>Long-range skill: {hyperlink_id 100}",
+    "name": "Twinkle Thrust",
+    "summary": "When attacking a weakness, boosts stun damage.<br>Before attacking, reduces target's Fire resistance.<br>After attacking, increases target's magical damage received.<br>If target's next panel is empty, creates a weaken panel."
+  },
+  {
+    "id": 12002643,
+    "description": "After attacking, boosts own stun damage by {0}% (Max: 60%) and grants additional stun damage +{1}% for 3 turns.<br>When attack target is stunned, converts own next panel to a burst panel (creates one if empty).<br>Close-range skill: {hyperlink_id 86}",
+    "name": "Wild Rose",
+    "summary": "After attacking, boosts own stun damage.<br>When attack target is stunned, converts own next panel to a burst panel."
+  },
+  {
+    "id": 12002644,
+    "description": "After attacking, boosts own stun damage by {0}% (Max: 60%) and grants additional stun damage +{1}% for 3 turns.<br>When attack target is stunned, converts own next panel to a burst panel (creates one if empty).<br>Close-range skill: {hyperlink_id 87}",
+    "name": "Wild Rose",
+    "summary": "After attacking, boosts own stun damage.<br>When attack target is stunned, converts own next panel to a burst panel."
+  },
+  {
+    "id": 12002645,
+    "description": "After attacking, boosts own stun damage by {0}% (Max: 60%) and grants additional stun damage +{1}% for 3 turns.<br>When attack target is stunned, converts own next panel to a burst panel (creates one if empty).<br>Close-range skill: {hyperlink_id 88}",
+    "name": "Wild Rose",
+    "summary": "After attacking, boosts own stun damage.<br>When attack target is stunned, converts own next panel to a burst panel."
+  },
+  {
+    "id": 12002646,
+    "description": "After attacking, boosts own stun damage by {0}% (Max: 60%) and grants additional stun damage +{1}% for 3 turns.<br>When attack target is stunned, converts own next panel to a burst panel (creates one if empty).<br>Close-range skill: {hyperlink_id 89}",
+    "name": "Wild Rose",
+    "summary": "After attacking, boosts own stun damage.<br>When attack target is stunned, converts own next panel to a burst panel."
+  },
+  {
+    "id": 12002647,
+    "description": "After attacking, boosts own stun damage by {0}% (Max: 60%) and grants additional stun damage +{1}% for 3 turns.<br>When attack target is stunned, converts own next panel to a burst panel (creates one if empty).<br>Close-range skill: {hyperlink_id 90}",
+    "name": "Wild Rose",
+    "summary": "After attacking, boosts own stun damage.<br>When attack target is stunned, converts own next panel to a burst panel."
+  },
+  {
+    "id": 12002654,
+    "description": "When attacking a weakness, boosts stun damage by {0}%.<br>Before attacking, reduces target's Fire resistance by {1}% (Max: 50%).<br>After attacking, increases target's magical damage received by {2}% for 2 attacks.<br>If target's next panel is empty, creates a weaken panel.",
+    "name": "Twinkle Thrust",
+    "summary": "When attacking a weakness, boosts stun damage.<br>Before attacking, reduces target's Fire resistance.<br>After attacking, increases target's magical damage received.<br>If target's next panel is empty, creates a weaken panel."
+  },
+  {
+    "id": 12002655,
+    "description": "When attacking a weakness, boosts stun damage by {0}%.<br>Before attacking, reduces target's Fire resistance by {1}% (Max: 50%).<br>After attacking, increases target's magical damage received by {2}% for 2 attacks.<br>If target's next panel is empty, creates a weaken panel.",
+    "name": "Twinkle Thrust",
+    "summary": "When attacking a weakness, boosts stun damage.<br>Before attacking, reduces target's Fire resistance.<br>After attacking, increases target's magical damage received.<br>If target's next panel is empty, creates a weaken panel."
+  },
+  {
+    "id": 12002656,
+    "description": "When attacking a weakness, boosts stun damage by {0}%.<br>Before attacking, reduces target's Fire resistance by {1}% (Max: 50%).<br>After attacking, increases target's magical damage received by {2}% for 2 attacks.<br>If target's next panel is empty, creates a weaken panel.",
+    "name": "Twinkle Thrust",
+    "summary": "When attacking a weakness, boosts stun damage.<br>Before attacking, reduces target's Fire resistance.<br>After attacking, increases target's magical damage received.<br>If target's next panel is empty, creates a weaken panel."
+  },
+  {
+    "id": 12002657,
+    "description": "When attacking a weakness, boosts stun damage by {0}%.<br>Before attacking, reduces target's Fire resistance by {1}% (Max: 50%).<br>After attacking, increases target's magical damage received by {2}% for 2 attacks.<br>If target's next panel is empty, creates a weaken panel.",
+    "name": "Twinkle Thrust",
+    "summary": "When attacking a weakness, boosts stun damage.<br>Before attacking, reduces target's Fire resistance.<br>After attacking, increases target's magical damage received.<br>If target's next panel is empty, creates a weaken panel."
+  },
+  {
+    "id": 12002658,
+    "description": "When attacking a weakness, boosts stun damage by {0}%.<br>Before attacking, reduces target's Fire resistance by {1}% (Max: 50%).<br>After attacking, increases target's magical damage received by {2}% for 2 attacks.<br>If target's next panel is empty, creates a weaken panel.",
+    "name": "Twinkle Thrust",
+    "summary": "When attacking a weakness, boosts stun damage.<br>Before attacking, reduces target's Fire resistance.<br>After attacking, increases target's magical damage received.<br>If target's next panel is empty, creates a weaken panel."
+  },
+  {
+    "id": 12002664,
+    "description": "After attacking, boosts own stun damage by {0}% (Max: 60%) and grants additional stun damage +{1}% for 3 turns.<br>When attack target is stunned, converts own next panel to a burst panel (creates one if empty).",
+    "name": "Wild Rose",
+    "summary": "After attacking, boosts own stun damage.<br>When attack target is stunned, converts own next panel to a burst panel."
+  },
+  {
+    "id": 12002665,
+    "description": "After attacking, boosts own stun damage by {0}% (Max: 60%) and grants additional stun damage +{1}% for 3 turns.<br>When attack target is stunned, converts own next panel to a burst panel (creates one if empty).",
+    "name": "Wild Rose",
+    "summary": "After attacking, boosts own stun damage.<br>When attack target is stunned, converts own next panel to a burst panel."
+  },
+  {
+    "id": 12002666,
+    "description": "After attacking, boosts own stun damage by {0}% (Max: 60%) and grants additional stun damage +{1}% for 3 turns.<br>When attack target is stunned, converts own next panel to a burst panel (creates one if empty).",
+    "name": "Wild Rose",
+    "summary": "After attacking, boosts own stun damage.<br>When attack target is stunned, converts own next panel to a burst panel."
+  },
+  {
+    "id": 12002667,
+    "description": "After attacking, boosts own stun damage by {0}% (MAX 60%), and boosts own stun damage by {1}% for 3 turns. When attack target is stunned, converts own next panel into a burst panel (Creates a burst panel if the panel is empty).",
+    "name": "Wild Rose",
+    "summary": "After attacking, boosts own stun damage.<br>When target is stunned, converts own next panel to a burst panel."
+  },
+  {
+    "id": 12002668,
+    "description": "After attacking, boosts own stun damage by {0}% (MAX 60%), and boosts own stun damage by {1}% for 3 turns. When attack target is stunned, converts own next panel into a burst panel (Creates a burst panel if the panel is empty).",
+    "name": "Wild Rose",
+    "summary": "After attacking, boosts own stun damage.<br>When target is stunned, converts own next panel to a burst panel."
+  },
+  {
+    "id": 14002474,
+    "description": "When attacking a weakness, boosts stun damage by {0}%. After attacking, reduces target's Fire resistance by {1}% and increases target's magical damage received by {2}% for 2 attacks, boosts own stun damage by {3}% for 3 turns, and boosts M.ATK by {4}% for 2 turns for all allies with Fire affinity. Converts all of target's panels into weaken+ panels (Creates a weaken+ panel if the panel is empty).",
+    "name": "Heartbreaker",
+    "summary": "When attacking a weakness, boosts stun damage.<br>After attacking, reduces target's Fire resistance and increases target's magical damage received.<br>Boosts own stun damage.<br>Boosts M.ATK of all allies with Fire affinity.<br>Converts target's panels into weaken+ panels."
+  },
+  {
+    "id": 14002475,
+    "description": "When attacking a weakness, boosts stun damage by {0}%. After attacking, reduces target's Fire resistance by {1}% and increases target's magical damage received by {2}% for 2 attacks, boosts own stun damage by {3}% for 3 turns, and boosts M.ATK by {4}% for 2 turns for all allies with Fire affinity. Converts all of target's panels into weaken+ panels (Creates a weaken+ panel if the panel is empty).",
+    "name": "Heartbreaker",
+    "summary": "When attacking a weakness, boosts stun damage.<br>After attacking, reduces target's Fire resistance and increases target's magical damage received.<br>Boosts own stun damage.<br>Boosts M.ATK of all allies with Fire affinity.<br>Converts target's panels into weaken+ panels."
+  },
+  {
+    "id": 14002476,
+    "description": "When attacking a weakness, boosts stun damage by {0}%. After attacking, reduces target's Fire resistance by {1}% and increases target's magical damage received by {2}% for 2 attacks, boosts own stun damage by {3}% for 3 turns, and boosts M.ATK by {4}% for 2 turns for all allies with Fire affinity. Converts all of target's panels into weaken+ panels (Creates a weaken+ panel if the panel is empty).",
+    "name": "Heartbreaker",
+    "summary": "When attacking a weakness, boosts stun damage.<br>After attacking, reduces target's Fire resistance and increases target's magical damage received.<br>Boosts own stun damage.<br>Boosts M.ATK of all allies with Fire affinity.<br>Converts target's panels into weaken+ panels."
+  },
+  {
+    "id": 14002477,
+    "description": "When attacking a weakness, boosts stun damage by {0}%. After attacking, reduces target's Fire resistance by {1}% and increases target's magical damage received by {2}% for 2 attacks, boosts own stun damage by {3}% for 3 turns, and boosts M.ATK by {4}% for 2 turns for all allies with Fire affinity. Converts all of target's panels into weaken+ panels (Creates a weaken+ panel if the panel is empty).",
+    "name": "Heartbreaker",
+    "summary": "When attacking a weakness, boosts stun damage.<br>After attacking, reduces target's Fire resistance and increases target's magical damage received.<br>Boosts own stun damage.<br>Boosts M.ATK of all allies with Fire affinity.<br>Converts target's panels into weaken+ panels."
+  },
+  {
+    "id": 14002478,
+    "description": "When attacking a weakness, boosts stun damage by {0}%. After attacking, reduces target's Fire resistance by {1}% and increases target's magical damage received by {2}% for 2 attacks, boosts own stun damage by {3}% for 3 turns, and boosts M.ATK by {4}% for 2 turns for all allies with Fire affinity. Converts all of target's panels into weaken+ panels (Creates a weaken+ panel if the panel is empty).",
+    "name": "Heartbreaker",
+    "summary": "When attacking a weakness, boosts stun damage.<br>After attacking, reduces target's Fire resistance and increases target's magical damage received.<br>Boosts own stun damage.<br>Boosts M.ATK of all allies with Fire affinity.<br>Converts target's panels into weaken+ panels."
+  },
+  {
+    "id": 14002648,
+    "description": "Boosts this attack's stun damage by {0}%.<br>*Does not consume status effect stacks and does not trigger additional effects.",
+    "name": "Shiny Ride",
+    "summary": "Boosts stun damage.<br>Does not consume status effect stacks."
+  },
+  {
+    "id": 32001917,
+    "description": "No additional effects.",
+    "name": "Thorn Spin",
+    "summary": ""
+  },
+  {
+    "id": 32001918,
+    "description": "No additional effects.",
+    "name": "Thorn Spit",
+    "summary": ""
+  },
+  {
+    "id": 32001919,
+    "description": "No additional effects.",
+    "name": "Puni Fire",
+    "summary": ""
+  },
+  {
+    "id": 32001920,
+    "description": "After attacking, inflicts target with Burn x5.",
+    "name": "Puni Flame",
+    "summary": ""
+  },
+  {
+    "id": 32001921,
+    "description": "No additional effects.",
+    "name": "Thorn Spin",
+    "summary": ""
+  },
+  {
+    "id": 32001922,
+    "description": "Reduces damage received by a single ally by 30% for 1 attack.",
+    "name": "Puni Boost",
+    "summary": ""
+  },
+  {
+    "id": 32001923,
+    "description": "Reduces damage dealt by all enemies by 20% for 1 attack.",
+    "name": "Puni Dark",
+    "summary": ""
+  },
+  {
+    "id": 32001924,
+    "description": "No additional effects.",
+    "name": "Glide",
+    "summary": ""
+  },
+  {
+    "id": 32001925,
+    "description": "No additional effects.",
+    "name": "Sonic Blow",
+    "summary": ""
+  },
+  {
+    "id": 32001926,
+    "description": "No additional effects.",
+    "name": "Wing Cutter",
+    "summary": ""
+  },
+  {
+    "id": 32001927,
+    "description": "Boosts own damage dealt by 15% for 3 attacks.",
+    "name": "Aerial Dance",
+    "summary": ""
+  },
+  {
+    "id": 32001928,
+    "description": "After attacking, inflicts target with Paralysis (80% chance) for 3 times.",
+    "name": "Wind Breath",
+    "summary": ""
+  },
+  {
+    "id": 32001929,
+    "description": "No additional effects.",
+    "name": "Mini Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32001930,
+    "description": "After attacking, restores own HP by 20%, boosts own damage dealt by 15% for 2 turns, and reduces damage received by 30% for 2 turns.",
+    "name": "Max Uni Throw",
+    "summary": ""
+  },
+  {
+    "id": 32001931,
+    "description": "After attacking, boosts own damage dealt by 25% for 2 turns.",
+    "name": "Warm-up Pitch",
+    "summary": ""
+  },
+  {
+    "id": 32001932,
+    "description": "No additional effects.",
+    "name": "Iron Block Throw",
+    "summary": ""
+  },
+  {
+    "id": 32001933,
+    "description": "After attacking, boosts own critical rate by 10% for 2 turns.",
+    "name": "Thunder Cross Flash",
+    "summary": ""
+  },
+  {
+    "id": 32001934,
+    "description": "No additional effects.",
+    "name": "Thunder Drop",
+    "summary": ""
+  },
+  {
+    "id": 32001935,
+    "description": "Restores own HP by 25%.",
+    "name": "Self Recovery",
+    "summary": ""
+  },
+  {
+    "id": 32001936,
+    "description": "After attacking, grants self regeneration (20% HP per turn) for 3 turns.",
+    "name": "Energy Storm",
+    "summary": ""
+  },
+  {
+    "id": 32001937,
+    "description": "Inflicts Provoke on all enemies for 3 turns.",
+    "name": "Rage Powder",
+    "summary": ""
+  },
+  {
+    "id": 32001938,
+    "description": "After attacking, reduces own damage received by 30% for 5 turns.",
+    "name": "Energetic Whirlwind Punch",
+    "summary": ""
+  },
+  {
+    "id": 32001939,
+    "description": "No additional effects.",
+    "name": "Wild Strike",
+    "summary": ""
+  },
+  {
+    "id": 32001940,
+    "description": "After attacking, converts all enemies' panels to weaken panels (except burst panels).",
+    "name": "Dark Storm",
+    "summary": ""
+  },
+  {
+    "id": 32001941,
+    "description": "Restores all allies' HP by 15%.",
+    "name": "Heal Powder",
+    "summary": ""
+  },
+  {
+    "id": 32001942,
+    "description": "After attacking, reduces target's P.DEF & M.DEF by 30% for 2 turns.",
+    "name": "Release Voltage",
+    "summary": ""
+  },
+  {
+    "id": 32001943,
+    "description": "No additional effects.",
+    "name": "Death Roll",
+    "summary": ""
+  },
+  {
+    "id": 32001944,
+    "description": "After attacking, reduces own damage received by 40% for 2 turns.",
+    "name": "Double Vinta",
+    "summary": ""
+  },
+  {
+    "id": 32001945,
+    "description": "After attacking, reduces target's damage dealt by 40% for 2 turns.",
+    "name": "Power Tail",
+    "summary": ""
+  },
+  {
+    "id": 32001946,
+    "description": "After attacking, reduces target's item gauge recovery by 50% for 2 turns.",
+    "name": "Body Press",
+    "summary": ""
+  },
+  {
+    "id": 32001947,
+    "description": "Boosts own damage dealt by 20% for 2 turns and reduces own speed by 5% for 1 turn.",
+    "name": "Giga Ton Voice",
+    "summary": ""
+  },
+  {
+    "id": 32001948,
+    "description": "After attacking, reduces target's speed by 15% for 2 turns.",
+    "name": "Glide",
+    "summary": ""
+  },
+  {
+    "id": 32001949,
+    "description": "No effect",
+    "name": "White Breath",
+    "summary": ""
+  },
+  {
+    "id": 32001950,
+    "description": "No effect",
+    "name": "Giga White Breath",
+    "summary": ""
+  },
+  {
+    "id": 32001951,
+    "description": "No effect",
+    "name": "Storm",
+    "summary": ""
+  },
+  {
+    "id": 32001952,
+    "description": "Grants all allies Damage Dealt +15% permanently.",
+    "name": "Aerial Roar",
+    "summary": ""
+  },
+  {
+    "id": 32001953,
+    "description": "After attacking, reduces target's P.DEF and M.DEF by 30% for 2 attacks.",
+    "name": "Release Voltage",
+    "summary": ""
+  },
+  {
+    "id": 32001954,
+    "description": "No effect",
+    "name": "Golden Fist",
+    "summary": ""
+  },
+  {
+    "id": 32001955,
+    "description": "After attacking, reduces skill target's damage dealt by 15% for 3 attacks.",
+    "name": "Golden Wave",
+    "summary": ""
+  },
+  {
+    "id": 32001956,
+    "description": "No effect",
+    "name": "Strike",
+    "summary": ""
+  },
+  {
+    "id": 32001957,
+    "description": "Reduces skill target's stun damage by 20% for 2 attacks, reduces damage dealt by 20% for 2 attacks, and increases damage received by 20% for 2 attacks.",
+    "name": "Shadow Curse",
+    "summary": ""
+  },
+  {
+    "id": 32001958,
+    "description": "After attacking, if skill target has 1 negative effect, delays turn by 1.\nIf target has 2 or more negative effects, delays turn by 2.",
+    "name": "Slash Ring",
+    "summary": ""
+  },
+  {
+    "id": 32001959,
+    "description": "After attacking, reduces M.ATK by 20% for 2 attacks, reduces P.ATK by 20% for 2 attacks, and reduces SPD by 20% for 2 attacks.",
+    "name": "Call Hellfire",
+    "summary": ""
+  },
+  {
+    "id": 32001960,
+    "description": "After attacking, grants self damage dealt +20% and reduces damage received by 20% for 3 attacks.",
+    "name": "Fire Burst",
+    "summary": ""
+  },
+  {
+    "id": 32001961,
+    "description": "After attacking, grants all allies damage dealt +20% for 1 attack.",
+    "name": "Whirlwind Dance",
+    "summary": ""
+  },
+  {
+    "id": 32001962,
+    "description": "Restores skill target's HP by 20% and grants damage dealt +20% for 1 attack.",
+    "name": "Drum's Echo",
+    "summary": ""
+  },
+  {
+    "id": 32001963,
+    "description": "Grants skill target regeneration (10% HP for 2 turns) and reduces damage received by 30% for 1 attack.",
+    "name": "Call of Endurance",
+    "summary": ""
+  },
+  {
+    "id": 32001964,
+    "description": "After attacking, grants all allies damage dealt +10% for 1 attack.",
+    "name": "Scratch",
+    "summary": ""
+  },
+  {
+    "id": 32001965,
+    "description": "After attacking, reduces all allies' damage received by 20% for 1 attack.",
+    "name": "Tail Strike",
+    "summary": ""
+  },
+  {
+    "id": 32001967,
+    "description": "No effect",
+    "name": "Golden Fist",
+    "summary": ""
+  },
+  {
+    "id": 32001968,
+    "description": "After attacking, if skill target has 1 negative effect, delays turn by 1.\nIf target has 2 or more negative effects, delays turn by 2.",
+    "name": "Slash Ring",
+    "summary": ""
+  },
+  {
+    "id": 32001989,
+    "description": "After attacking, grants all allies damage dealt +10% for 1 attack.",
+    "name": "Scratch",
+    "summary": ""
   }
 ]

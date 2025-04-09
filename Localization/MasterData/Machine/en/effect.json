@@ -4198,5 +4198,155 @@
     "id": 95000202,
     "description": "When obtaining a panel, grants self \"Skill Damage Up\" until the end of their next 2 actions",
     "popup_text": ""
+  },
+  {
+    "id": 6001030,
+    "description": "When equipped to Isla [Friendly Fashionista], after attacking, increases target's magical damage received for 2 attacks.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001031,
+    "description": "While equipped to a Breaker with Fire affinity, when obtaining a panel, boosts own stun damage for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001032,
+    "description": "While equipped to a Breaker with Fire affinity, before attacking, increases target's stun damage received for 2 attacks.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001033,
+    "description": "When equipped by an Attacker, boosts all allies' critical damage for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001034,
+    "description": "state_change_use",
+    "popup_text": ""
+  },
+  {
+    "id": 13000334,
+    "description": "When equipped to a character with Fire affinity, boosts stun damage by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001262,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001274,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 76232001,
+    "description": "Reduces skill target's P.DEF for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76232002,
+    "description": "Reduces skill target's M.DEF for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76232004,
+    "description": "Reduces skill target's item gauge recovery amount for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76232012,
+    "description": "Reduces own SPD for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 86031000,
+    "description": "Increases negative effect potency received by self. (MAX 1000%)",
+    "popup_text": ""
+  },
+  {
+    "id": 86232005,
+    "description": "When damaged by battle items, reduces own P.ATK. (Cumulative)",
+    "popup_text": ""
+  },
+  {
+    "id": 86232006,
+    "description": "Grants self immunity to negative effects.",
+    "popup_text": ""
+  },
+  {
+    "id": 86232007,
+    "description": "When stunned, removes special damage boost.",
+    "popup_text": ""
+  },
+  {
+    "id": 86232008,
+    "description": "When stunned, removes special debuff immunity.",
+    "popup_text": ""
+  },
+  {
+    "id": 86232009,
+    "description": "When HP is below 60%, grants self special damage boost.",
+    "popup_text": ""
+  },
+  {
+    "id": 86232010,
+    "description": "When HP is below 60%, reduces stun damage received by self.",
+    "popup_text": ""
+  },
+  {
+    "id": 86232011,
+    "description": "When HP is below 60%, delays own turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 86232013,
+    "description": "When HP is 60% or below, restores own stun gauge.",
+    "popup_text": ""
+  },
+  {
+    "id": 91001650,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001651,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001652,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001655,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001656,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001657,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001693,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000203,
+    "description": "When attacking a weakness with Fire, reduces target's Fire resistance for 2 attacks.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000204,
+    "description": "Boosts skill damage when equipped to a member of the Aladiss Research Team.",
+    "popup_text": ""
   }
 ]

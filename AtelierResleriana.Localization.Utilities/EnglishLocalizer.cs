@@ -890,7 +890,7 @@ namespace AtelierResleriana.Localization.Utilities
 
             // Include an optional section for specific files.
             string contextPrompt =
-                $"""
+                $$"""
                 TECHNICAL TERMINOLOGY
 
                 Elements/Affinities (属性/得意属性):
@@ -1051,12 +1051,8 @@ namespace AtelierResleriana.Localization.Utilities
                 Other:
                 手番 - turn (in context of delaying turns)
                 ターン開始時 - at the start of turn
-                行動開始するまで - until action starts  
-                行動終了するまで - until action ends
-                攻撃を受けるまで - until taking damage
                 X回付与 - granted X times
                 確率 - chance (低確率 - low, 中確率 - medium, 高確率 - high, 超高確率 - very high)
-                行動後 - After action
                 現在HP - Current HP
                 最大HP - Max HP
                 回復 - Recovery
@@ -1074,11 +1070,31 @@ namespace AtelierResleriana.Localization.Utilities
                 得意属性 - affinity, commonly used in phrases like 得意属性が斬属性の時 (when equipped to a character with Slash affinity), 得意属性が突属性かつブレイカーの時 (when equipped to a Breaker with Stab affinity), 得意属性が雷属性の味方全員 (all allies with Bolt affinity).
                 スキルランプ - charge indicators - some skills can have charge indicators which are "charged" (equivalent of the JP's skill lamp terminiology getting "lit").
 
+                Templating Examples:
+                得意属性が雷属性かつディフェンダーの時 - while equipped to a Defender with Bolt affinity
+                単体攻撃のクリティカルダメージ+{0}% - boosts critical damage by {0}% for single target attacks
+                攻撃対象がブレイク状態の時 - when attack target is stunned
+                自身のHPに応じ、ダメージ+50〜150%(HP50〜100%で多いほど増加) - boosts damage by 50-150% depending on own HP (Higher boost for higher HP, range: 50-100% HP)
+                攻撃後、対象に「受ける打属性ダメージ+{0}%」を3回攻撃を受けるまで付与し - after attacking, increases target's Strike damage received by {0}% for 3 attacks
+                対象に「パネル無効」を1回行動終了するまで付与 - grants target panel immunity for 1 turn
+                自身に「カウンター(雪抜剣)」を2回カウンターするまで付与 - grants self Counter (Snow Sword) for 2 counterattacks
+                自身に「ぬくもりデュプリケイト」を付与(重複不可) - grants "Duplicate Warmth" to self. (Cannot be stacked)
+                自身に「戦姫開花」が付与されていない時、「戦姫開花(Lv3)」を付与 - if Battle Maiden Bloom has not been granted, grants self Battle Maiden Bloom (Lv. 3)
+                この攻撃はクリティカル確率+100% - boosts this attack's critical rate by 100%
+                アイテムゲージを{1}%回復 - restores the item gauge by {1}%
+                自身に「WEAK攻撃時、ブレイクダメージ+{0}%」を1回行動終了するまで付与 - boosts own stun damage by {0}% when attacking a weakness for 1 turn
+                自身の位置をアウトレンジに移動 - switches to long-range attacks
+                自身の位置をインレンジに移動 - switches to close-range attacks
+                自身がバーストパネル獲得時 - when using a burst panel
+
+                NB - Not all 「」 elements get preserved - those referencing basic mechanics like skill damage and critical damage always get dropped and rewritten. The existing localization prefers to drop the punctuation completely but sometimes keeps double quotes when referring to specific skills or abilities. Prefer to drop them going forwards.
+                NB - For skills with multiple parts, always end the fragments with proper punctuation, usually a period (.).
+
                 CHARACTERS
-                {DetailedCharacterInformation}
+                {{DetailedCharacterInformation}}
 
                 WORLD
-                {string.Join("\n", WorldContext.Select(kv => $"{kv.Key}: {kv.Value}"))}
+                {{string.Join("\n", WorldContext.Select(kv => $"{kv.Key}: {kv.Value}"))}}
                 """;
 
             string prompt =

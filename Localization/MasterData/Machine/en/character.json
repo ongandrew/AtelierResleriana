@@ -283,5 +283,20 @@
     "overlay_name": "Lenja",
     "profile_voice_text": "I-I'm Lenja...!\nI'll do my best to be helpful, so...",
     "start_at": "2025-04-04T03:00:00Z"
+  },
+  {
+    "id": 50401,
+    "acquisition_text": "Leave the fashion coordination to me!\nLet's have a stylish adventure together!",
+    "another_name": "Friendly Fashionista",
+    "description": "A member of the Research Team and Viktor's younger sister. She has a strong passion for clothing and accessories, maintaining her fashionable spirit even during investigations. Her bright and proactive personality, combined with her sharp intuition, helps her complement areas where her brother falls short.",
+    "fullname": "Isla von Duerer",
+    "leader_skill": {
+      "description": "Characters with Fire affinity deal 100% more skill damage when attacking stunned targets.",
+      "name": "Fashion-Forward Mind"
+    },
+    "name": "Isla",
+    "overlay_name": "Isla von Duerer",
+    "profile_voice_text": "Fashion is important at all times! After all, don't people who dress well just shine brighter?",
+    "start_at": "2025-04-09T03:00:00Z"
   }
 ]

@@ -3148,5 +3148,130 @@
     "id": 26231002,
     "description": "After using a skill, boosts own damage dealt by 100% for 2 turns.\nClears all own damage dealt boosts after taking 5 single target attacks.",
     "name": ""
+  },
+  {
+    "id": 301151,
+    "description": "While equipped to Isla [Friendly Fashionista], after attacking, increases magical damage received by target by {0}% for 2 attacks.",
+    "name": "Secret Lance Triaina"
+  },
+  {
+    "id": 301152,
+    "description": "While equipped to a Breaker with Fire affinity, when obtaining a panel, boosts own stun damage by {0}% for 1 turn.",
+    "name": "Pixie Robe"
+  },
+  {
+    "id": 301153,
+    "description": "While equipped to a Breaker with Fire affinity, when obtaining a panel, boosts own stun damage by {0}% for 1 turn.",
+    "name": "Pixie Robe"
+  },
+  {
+    "id": 301154,
+    "description": "While equipped to a Breaker with Fire affinity, before attacking, increases stun damage received by target by {0}% for 2 attacks.",
+    "name": "Scarlet Scarf"
+  },
+  {
+    "id": 301155,
+    "description": "While equipped to a Breaker with Fire affinity, before attacking, increases stun damage received by target by {0}% for 2 attacks.",
+    "name": "Scarlet Scarf"
+  },
+  {
+    "id": 1980186,
+    "description": "Characters with Fire affinity: When attack target is stunned, boosts skill damage by {0}%.",
+    "name": "Fashionable Mind"
+  },
+  {
+    "id": 1990340,
+    "description": "When using a burst panel, activates panel skill: {{hyperlink_id 101}} on enemy with highest current HP.<br>When attacking a weakness, boosts skill damage by {0}%.",
+    "name": "I'm Strong Now!"
+  },
+  {
+    "id": 1990341,
+    "description": "When attack target is stunned, boosts skill damage by {0}% for all allies with Fire affinity for 1 turn,<br>and increases damage received by target by {1}% for 1 attack.",
+    "name": "Be Cute at the End"
+  },
+  {
+    "id": 4990843,
+    "description": "When attacking a Fire weakness, reduces target's Fire resistance by {0}% for 2 attacks.",
+    "name": "Fire Weak Point Resist Down Fire III"
+  },
+  {
+    "id": 4990844,
+    "description": "When attacking a Fire weakness, reduces target's Fire resistance by {0}% for 2 attacks.",
+    "name": "Fire Weak Point Resist Down Fire III"
+  },
+  {
+    "id": 4990845,
+    "description": "When attacking a Fire weakness, reduces target's Fire resistance by {0}% for 2 attacks.",
+    "name": "Fire Weak Point Resist Down Fire III"
+  },
+  {
+    "id": 4990846,
+    "description": "When attacking a Fire weakness, reduces target's Fire resistance by {0}% for 2 attacks.",
+    "name": "Fire Weak Point Resist Down Fire III"
+  },
+  {
+    "id": 4990847,
+    "description": "When attacking a Fire weakness, reduces target's Fire resistance by {0}% for 2 attacks.",
+    "name": "Fire Weak Point Resist Down Fire III"
+  },
+  {
+    "id": 4990848,
+    "description": "Boosts skill damage by {0}% for Aladiss Research Team members.",
+    "name": "Aladiss Research Team Damage Up II"
+  },
+  {
+    "id": 4990849,
+    "description": "Boosts skill damage by {0}% for Aladiss Research Team members.",
+    "name": "Aladiss Research Team Damage Up II"
+  },
+  {
+    "id": 4990850,
+    "description": "Boosts skill damage by {0}% for Aladiss Research Team members.",
+    "name": "Aladiss Research Team Damage Up II"
+  },
+  {
+    "id": 4990851,
+    "description": "Boosts skill damage by {0}% for Aladiss Research Team members.",
+    "name": "Aladiss Research Team Damage Up II"
+  },
+  {
+    "id": 4990852,
+    "description": "Boosts skill damage by {0}% for Aladiss Research Team members.",
+    "name": "Aladiss Research Team Damage Up II"
+  },
+  {
+    "id": 7000726,
+    "description": "Boosts stun damage by {0}% for characters with Fire affinity.",
+    "name": "Fire Affinity Character Stun Damage Up (1)"
+  },
+  {
+    "id": 7000727,
+    "description": "Boosts stun damage by {0}% for characters with Fire affinity.",
+    "name": "Fire Affinity Character Stun Damage Up (2)"
+  },
+  {
+    "id": 7000728,
+    "description": "Boosts the stun damage of characters with Fire affinity by {0}%.",
+    "name": "Fire Affinity Stun Damage Up (3)"
+  },
+  {
+    "id": 26031001,
+    "description": "At the start of battle, reduces own damage received by 50% (permanent).\nWhen stunned, removes all positive effects from self.",
+    "name": ""
+  },
+  {
+    "id": 26031002,
+    "description": "Each time hit by an attack, increases potency of negative effects received by 20% (stacks up to 1000%).",
+    "name": ""
+  },
+  {
+    "id": 26232001,
+    "description": "When hit by battle item damage, reduces own P. ATK by 6% (up to 30%).\nWhen hit by an attack with HP at 60% or below, delays own turn by 3 turns, restores stun gauge by 40%, and grants self damage dealt +40% (1 time) and stun damage received -40% (2 times).\nWhen stunned, removes own damage dealt up effects.",
+    "name": ""
+  },
+  {
+    "id": 26232002,
+    "description": "At the start of each wave, grants self immunity to negative effects.\nLoses immunity to negative effects when stunned.",
+    "name": ""
   }
 ]

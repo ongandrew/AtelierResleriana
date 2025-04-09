@@ -1288,5 +1288,60 @@
     "id": 910160,
     "description": "Boosts skill damage received by {value}% when hit by weakness attacks.",
     "name": "Received Skill Damage Up on Weakness"
+  },
+  {
+    "id": 610231,
+    "description": "Target with this effect is considered to be at long range.",
+    "name": "Long Range"
+  },
+  {
+    "id": 610232,
+    "description": "Boosts damage received from Fire attacks by {value}%. (MAX 50%)",
+    "name": "Fire Resistance Down"
+  },
+  {
+    "id": 610233,
+    "description": "Boosts damage received from magical attack skills by {value}%. (MAX 40%)",
+    "name": "Magical Damage Received Up"
+  },
+  {
+    "id": 610234,
+    "description": "Boosts stun damage by {value}%. (MAX 40%)",
+    "name": "Stun Damage Up"
+  },
+  {
+    "id": 610235,
+    "description": "Boosts stun damage by {value}%. (MAX 60%)",
+    "name": "Stun Damage Up"
+  },
+  {
+    "id": 720023,
+    "description": "Reduces item gauge recovery after actions by {value}%.",
+    "name": "Item Gauge Recovery Down"
+  },
+  {
+    "id": 800133,
+    "description": "Boosts critical damage by {value}% while equipped to an Attacker.",
+    "name": "Attacker Critical Damage Up"
+  },
+  {
+    "id": 810373,
+    "description": "Boosts damage dealt by {value}%.",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 810374,
+    "description": "Becomes immune to negative effects.",
+    "name": "Negative Effect Immunity"
+  },
+  {
+    "id": 820000,
+    "description": "Boosts negative effect potency received by {value}%.",
+    "name": "Received Negative Effect Potency Up"
+  },
+  {
+    "id": 820377,
+    "description": "Reduces P.ATK by {value}%. (MAX 30%) Cannot be removed.",
+    "name": "P.ATK Down"
   }
 ]

@@ -1078,5 +1078,29 @@
   {
     "id": 60231003,
     "description": "- After taking a certain number of weakness attacks, increases all opponents' Bolt resistance\n- Boosts own damage dealt with each action\n- After taking a certain number of single target attacks, removes all own Damage Dealt Up\n- Inflicts Stun when attacking weaknesses\n- Heals self\n- Removes all own negative effects"
+  },
+  {
+    "id": 60011001,
+    "description": "- Restores HP and reduces damage received each turn\n- When stunned, removes all own positive effects"
+  },
+  {
+    "id": 60031002,
+    "description": "- At battle start, reduces damage received\n- When stunned, removes all own positive effects\n- Increases received negative effect potency each time hit by an attack"
+  },
+  {
+    "id": 60047001,
+    "description": "- Chance to inflict Paralysis\n- Boosts own damage dealt each turn\n- When stunned, inflicts Paralysis on self\n- Deals increased damage to targets inflicted with Paralysis"
+  },
+  {
+    "id": 60107015,
+    "description": "- When hit with a full stun gauge, converts weaken panels into boost panels\n- When hit with a full stun gauge, converts boost-type panels into weaken panels\n- Delays turn when opponent has negative effects"
+  },
+  {
+    "id": 60232001,
+    "description": "- When HP reaches a certain threshold, gains multiple positive effects and restores stun gauge\n- When stunned, removes the damage boost granted above\n- When damaged by battle items, reduces own P.ATK (up to 30%)"
+  },
+  {
+    "id": 60232002,
+    "description": "- When HP reaches a certain threshold, gains multiple positive effects and restores stun gauge\n- When stunned, removes the damage boost granted above\n- When damaged by battle items, reduces own P.ATK (up to 30%)\n- At battle start, grants self immunity to negative effects\n- When stunned, removes immunity to negative effects"
   }
 ]

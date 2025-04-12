@@ -1083,8 +1083,8 @@ namespace AtelierResleriana.Localization.Utilities
                 この攻撃はクリティカル確率+100% - boosts this attack's critical rate by 100%
                 アイテムゲージを{1}%回復 - restores the item gauge by {1}%
                 自身に「WEAK攻撃時、ブレイクダメージ+{0}%」を1回行動終了するまで付与 - boosts own stun damage by {0}% when attacking a weakness for 1 turn
-                自身の位置をアウトレンジに移動 - switches to long-range attacks
-                自身の位置をインレンジに移動 - switches to close-range attacks
+                自身の位置をアウトレンジに移動 - shifts to the outer range
+                自身の位置をインレンジに移動 - shifts to the inner range
                 自身がバーストパネル獲得時 - when using a burst panel
 
                 NB - Not all 「」 elements get preserved - those referencing basic mechanics like skill damage and critical damage always get dropped and rewritten. The existing localization prefers to drop the punctuation completely but sometimes keeps double quotes when referring to specific skills or abilities. Prefer to drop them going forwards.

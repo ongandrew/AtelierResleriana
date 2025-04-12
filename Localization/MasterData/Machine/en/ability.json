@@ -1881,22 +1881,22 @@
   },
   {
     "id": 21218001,
-    "description": "Long-range movement ability. Grants Attack Immunity, summons 4 support units, grants Summon Count buff, activates Gimmick Progress Gauge",
+    "description": "Outer range movement ability. Grants Attack Immunity, summons 4 support units, grants Summon Count buff, activates Gimmick Progress Gauge",
     "name": ""
   },
   {
     "id": 21218002,
-    "description": "Close-range movement ability. Removes 3-turn count buff, removes Summon Count buff, removes Attack Immunity status, delays self by 5 turns",
+    "description": "Inner range movement ability. Removes 3-turn count buff, removes Summon Count buff, removes Attack Immunity status, delays self by 5 turns",
     "name": ""
   },
   {
     "id": 21218003,
-    "description": "Ally summon processing after action while at long range",
+    "description": "Ally summon processing after action while in the outer range",
     "name": ""
   },
   {
     "id": 21218004,
-    "description": "Ally summon processing when allies become incapacitated while at long range",
+    "description": "Ally summon processing when allies become incapacitated while in the outer range",
     "name": ""
   },
   {
@@ -1916,7 +1916,7 @@
   },
   {
     "id": 21218008,
-    "description": "Ability when moving to close range. Removes 3-turn count buff, removes ally call count buff, removes attack immunity status, delays self by 5 turns",
+    "description": "Ability when shifting to the inner range. Removes 3-turn count buff, removes ally call count buff, removes attack immunity status, delays self by 5 turns",
     "name": ""
   },
   {

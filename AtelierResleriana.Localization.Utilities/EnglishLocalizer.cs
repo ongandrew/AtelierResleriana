@@ -931,15 +931,16 @@ namespace AtelierResleriana.Localization.Utilities
                 単体攻撃 - Single Target Attack
 
                 Panel System (don't capitalize - not proper nouns):
-                パネル - Panel (ie. panel)
-                強化系パネル - Boost-type panel (ie. boost-type panel)
-                強化パネル - Boost panel (ie. boost panel)
-                強化+パネル - Boost+ panel (ie. boost+ panel)
-                弱体パネル - Weaken panel
-                弱体+パネル - Weaken+ panel
-                バーストパネル - Burst panel
-                クリティカルパネル - Critical panel
-                ブレイク強化パネル - Stun boost
+                パネル - panel
+                強化系パネル - boost-type panel
+                強化パネル - boost panel
+                強化+パネル - boost+ panel
+                弱体パネル - weaken panel
+                弱体+パネル - weaken+ panel
+                バーストパネル - burst panel
+                クリティカルパネル - critical panel
+                ブレイク強化パネル - stun boost panel
+                加護弱化パネル - protection weaken panel
                 パネル生成 - (panel creation): certain skills or items can create panels on the timeline.
                 パネル変換 - (panel conversion): certain skills or items can convert existing panels to panels of other types.
 

@@ -4348,5 +4348,215 @@
     "id": 95000204,
     "description": "Boosts skill damage when equipped to a member of the Aladiss Research Team.",
     "popup_text": ""
+  },
+  {
+    "id": 6001035,
+    "description": "While equipped to Rutger [Path Seeker], after attacking, reduces target's damage dealt for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001036,
+    "description": "While equipped to a Defender with Strike affinity, reduces damage received when HP is 70% or higher.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001037,
+    "description": "While equipped to a Defender with Strike affinity, reduces damage received by all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 13000335,
+    "description": "While equipped to a character with Strike affinity, boosts single target skill damage by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001265,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001267,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001268,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001269,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001270,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001271,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001275,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001276,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001277,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 76233001,
+    "description": "Permanently increases damage dealt to target when attacking their weakness.",
+    "popup_text": ""
+  },
+  {
+    "id": 76233002,
+    "description": "Reduces all enemies' Bolt resistance by up to 50%.",
+    "popup_text": ""
+  },
+  {
+    "id": 76233003,
+    "description": "Reduces target's Bolt resistance by up to 50%.",
+    "popup_text": ""
+  },
+  {
+    "id": 76233004,
+    "description": "Reduces all enemies' Bolt resistance by up to 60%.",
+    "popup_text": ""
+  },
+  {
+    "id": 76233005,
+    "description": "Reduces target's Bolt resistance by up to 60%.",
+    "popup_text": ""
+  },
+  {
+    "id": 76233006,
+    "description": "Permanently increases damage dealt to target when attacking their weakness.",
+    "popup_text": ""
+  },
+  {
+    "id": 76233008,
+    "description": "Removes all negative effects from self.",
+    "popup_text": "Remove negative effects"
+  },
+  {
+    "id": 86017009,
+    "description": "30% chance to counter.",
+    "popup_text": ""
+  },
+  {
+    "id": 86017010,
+    "description": "30% chance to counter.",
+    "popup_text": ""
+  },
+  {
+    "id": 86233007,
+    "description": "After attacking a weakness, grants self regeneration.",
+    "popup_text": ""
+  },
+  {
+    "id": 91001665,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001666,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001669,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001670,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001671,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001672,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001673,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001674,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001675,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001676,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001677,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001678,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001694,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001695,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001698,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001699,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001700,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001701,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000205,
+    "description": "When attacking, increases target's physical damage received for 2 hits (max 4 stacks).",
+    "popup_text": ""
   }
 ]

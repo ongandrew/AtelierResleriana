@@ -1102,5 +1102,17 @@
   {
     "id": 60232002,
     "description": "- When HP reaches a certain threshold, gains multiple positive effects and restores stun gauge\n- When stunned, removes the damage boost granted above\n- When damaged by battle items, reduces own P.ATK (up to 30%)\n- At battle start, grants self immunity to negative effects\n- When stunned, removes immunity to negative effects"
+  },
+  {
+    "id": 60025005,
+    "description": "- Inflicts Sleep\n- Grants Magic Attack Reflection to allies"
+  },
+  {
+    "id": 60101002,
+    "description": "- Protection\n- When hit by a physical attack, reduces attacker's damage dealt\n- When HP reaches a certain level, boosts own damage dealt and reduces own damage received\n- Grants self Physical Damage Immunity"
+  },
+  {
+    "id": 60233002,
+    "description": "- Reduces all opponents' Bolt resistance\n- When attacking a weakness, grants self Regen\n- Increases all opponents' damage received from attacks targeting their weaknesses\n- Restores own HP\n- Removes all negative effects from self"
   }
 ]

@@ -1,0 +1,648 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "あれからブレスレットってどうなったの？",
+        "localizations": {
+          "en": "What happened to those bracelets after everything?"
+        }
+      },
+      "2072370017": {
+        "text": "アイラ",
+        "localizations": {
+          "en": "Isla"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "神官長を通じて全部回収して、アタシのアトリエに\n運んでもらったんだ",
+        "localizations": {
+          "en": "The High Priest had them all collected and brought to my atelier."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "今回の件で調べた石も全部集めたのよね",
+        "localizations": {
+          "en": "Including all the stones we investigated this time?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "神官長も、この石は人の身に余るって仰って、\n処理はアタシに任せてくれるって",
+        "localizations": {
+          "en": "The High Priest said these stones were beyond human control and left their disposal to me."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "錬金術士として信頼されてるね、アルビーナ",
+        "localizations": {
+          "en": "They really trust you as an alchemist, Alvina!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "えへへ。先輩方に比べたらまだまだかな",
+        "localizations": {
+          "en": "Hehe. I still have a long way to go compared to my seniors."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "その石の処分はどうするんだ？\nユミアも調査に協力していただろう？",
+        "localizations": {
+          "en": "What are you planning to do with those stones? Yumia helped with the investigation, didn't she?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴィクトル",
+        "localizations": {
+          "en": "Viktor"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "はい。錬金術士の皆さんとフラミィとで、\nもう少し分析を進めることができました",
+        "localizations": {
+          "en": "Yes. The other alchemists, Flammi, and I were able to analyze them further."
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "この石の本質は、触れた者同士の思念を、私たちの\n世界のマナのような状態で飛ばすことができる……",
+        "localizations": {
+          "en": "The essence of these stones is their ability to transmit thoughts between those who touch them, similar to how mana works in our world..."
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "いわば思念伝達器のようなものでした",
+        "localizations": {
+          "en": "They're essentially thought transmission devices."
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "それ、使い方次第で便利なんじゃないの？",
+        "localizations": {
+          "en": "Couldn't that be useful depending on how it's used?"
+        }
+      },
+      "2072370017": {
+        "text": "ニーナ",
+        "localizations": {
+          "en": "Nina"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "それがそーでもないんですよ。魔物はともかく、\n人間には上手く機能しないみたいでね～",
+        "localizations": {
+          "en": "Not really. While it works on monsters, it doesn't function properly with humans."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "そして、もう１つ分かったことがあります。それは、\nこの石には本来、このような力は無かったということ",
+        "localizations": {
+          "en": "And we discovered something else. These stones didn't originally possess this power."
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "え？\u3000それってどういう……",
+        "localizations": {
+          "en": "Huh? What do you mean..."
+        }
+      },
+      "2072370017": {
+        "text": "レイニャ",
+        "localizations": {
+          "en": "Lenja"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "この石から、私たちの世界のマナの痕跡が\n見つかったんだ",
+        "localizations": {
+          "en": "We found traces of mana from our world in these stones."
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "離島に落下した流れ星は、とても強い怒りと恨みを\n抱いたツォルンフルクに突き刺さった",
+        "localizations": {
+          "en": "The falling star that landed on the island struck a Zornfluch filled with intense anger and hatred."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "そんなところに、ユミアさんたちが世界を越えて\nやってきた。周囲に漂うマナと一緒に",
+        "localizations": {
+          "en": "Then Yumia and the others arrived from across worlds, bringing mana with them."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "そのマナが、流れ星に触れて……。\nなんらかの変質を起こしたんだと思う",
+        "localizations": {
+          "en": "When that mana came in contact with the falling star... I think it triggered some kind of transformation."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "その結果、この石は力を宿して……\nツォルンフルクの思念を伝達するようになった",
+        "localizations": {
+          "en": "As a result, these stones gained power... becoming capable of transmitting the Zornfluch's thoughts."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "そして石を通じて離島全域を包み込み、思念の\n濃度が高い領域は、「青の領域」となったんだ",
+        "localizations": {
+          "en": "Through the stones, it spread across the entire island, and areas with high thought concentration became the 'Blue Territory.'"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "そんなことってあるんだねぇ",
+        "localizations": {
+          "en": "I can't believe something like that could happen..."
+        }
+      },
+      "2072370017": {
+        "text": "アイラ",
+        "localizations": {
+          "en": "Isla"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "で、石に触った奴は、あの魔物の思念に\n操られちまった、ってことか",
+        "localizations": {
+          "en": "So anyone who touched the stones fell under that monster's control?"
+        }
+      },
+      "2072370017": {
+        "text": "ルトガー",
+        "localizations": {
+          "en": "Rutger"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "じゃ、じゃあ……もしまた、危ない魔物が石を\n手にしてしまったら……",
+        "localizations": {
+          "en": "Th-then... if another dangerous monster got hold of these stones..."
+        }
+      },
+      "2072370017": {
+        "text": "レイニャ",
+        "localizations": {
+          "en": "Lenja"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "うん。そんなことが起きたら、また人が\n操られるかもしれない危険を秘めてる",
+        "localizations": {
+          "en": "Yeah. If that happened, people might be controlled again. The risk is still there."
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "研究次第では、遠距離の意思疎通も可能になって\n大幅に文化が発展する可能性を秘めているけど……",
+        "localizations": {
+          "en": "With enough research, they could enable long-distance communication and lead to major cultural advances..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "危険を回避する手段を探すほうが難しそうかも",
+        "localizations": {
+          "en": "But finding ways to prevent the dangers might be even more difficult."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "うーん。まぁ色々残念な気がするけど……",
+        "localizations": {
+          "en": "Hmm. Well, it's a shame, but..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "ここは、ぱーっと処分しよう！",
+        "localizations": {
+          "en": "Let's just destroy them all!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "ええっ！？\u3000そんな簡単に決めちゃっていいの？",
+        "localizations": {
+          "en": "What!? Can you really decide that so easily?"
+        }
+      },
+      "2072370017": {
+        "text": "アイラ",
+        "localizations": {
+          "en": "Isla"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "だって、思念でやり取りする言葉が無い世界って、\n味気なくない？\u3000アタシはそう思う！",
+        "localizations": {
+          "en": "Don't you think a world without spoken words would be boring? That's how I feel!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "やっぱりこうやって声を聞いて伝えたい！\n……どうかな？",
+        "localizations": {
+          "en": "I'd rather hear people's voices like this! What do you think?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "うん。いいと思う",
+        "localizations": {
+          "en": "Yeah. I agree."
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "えへへ！\u3000じゃあ決まりだ！",
+        "localizations": {
+          "en": "Hehe! Then it's decided!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "私たちが動くより先に解決するとは、\nなかなかやりますね",
+        "localizations": {
+          "en": "They resolved this before we had to step in. Not bad at all."
+        }
+      },
+      "2072370017": {
+        "text": "？？？",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "別世界から人を召喚している弊害が\n出ちゃったよね今回は",
+        "localizations": {
+          "en": "This time we saw the drawbacks of summoning people from other worlds."
+        }
+      },
+      "2072370017": {
+        "text": "？？？",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "はい、その世界特有の物まで一緒に入ってきてしまう。\nそれがこの世界のものと思わぬ反応を巻き起こす……",
+        "localizations": {
+          "en": "Yes, elements unique to their world came along with them. When those interact with this world's elements, unexpected reactions occur..."
+        }
+      },
+      "2072370017": {
+        "text": "？？？",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "初めての現象です。今後の学びとしましょう",
+        "localizations": {
+          "en": "This is the first time we've seen such a phenomenon. Let's learn from it."
+        }
+      },
+      "2072370017": {
+        "text": "？？？",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "ま、いい処理の仕方だったと思うよ。\nやるねアルビーたち",
+        "localizations": {
+          "en": "Well, I think they handled it well. Nice work, Alvie and the others."
+        }
+      },
+      "2072370017": {
+        "text": "？？？",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  }
+]

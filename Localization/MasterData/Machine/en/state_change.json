@@ -1343,5 +1343,75 @@
     "id": 820377,
     "description": "Reduces P.ATK by {value}%. (MAX 30%) Cannot be removed.",
     "name": "P.ATK Down"
+  },
+  {
+    "id": 510127,
+    "description": "Boosts P.DEF by {value}%. (MAX 70%)",
+    "name": "Showtime!"
+  },
+  {
+    "id": 510128,
+    "description": "Boosts M.DEF by {value}%. (MAX 70%)",
+    "name": "Showtime!"
+  },
+  {
+    "id": 510131,
+    "description": "Boosts P.DEF by {value}%. (MAX 30%)",
+    "name": "Showtime!"
+  },
+  {
+    "id": 510132,
+    "description": "Boosts M.DEF by {value}%. (MAX 30%)",
+    "name": "Showtime!"
+  },
+  {
+    "id": 610237,
+    "description": "Treats target with this status as being in the outer range.",
+    "name": "Outer Range Status"
+  },
+  {
+    "id": 610239,
+    "description": "Treats target with this status as being in the inner range.",
+    "name": "Inner Range Status"
+  },
+  {
+    "id": 610240,
+    "description": "Invisible buff used for trigger limit configuration.",
+    "name": "Limit Configuration Dummy Buff"
+  },
+  {
+    "id": 610241,
+    "description": "Boosts P.DEF by {value}%. (MAX 2 stacks)",
+    "name": "P.DEF Up"
+  },
+  {
+    "id": 610242,
+    "description": "Boosts M.DEF by {value}%. (MAX 2 stacks)",
+    "name": "M.DEF Up"
+  },
+  {
+    "id": 610243,
+    "description": "Reduces damage received by {value}%. (MAX 2 stacks)",
+    "name": "Received Damage Down"
+  },
+  {
+    "id": 720024,
+    "description": "Boosts damage received from weakness attacks by {value}%.",
+    "name": "Received Weakness Damage Up (Permanent)"
+  },
+  {
+    "id": 720025,
+    "description": "Boosts damage received from Bolt attacks by {value}%. (MAX 60%)",
+    "name": "Bolt Resistance Down"
+  },
+  {
+    "id": 810110,
+    "description": "Performs a counter-attack when receiving an attack.",
+    "name": "Counter Status"
+  },
+  {
+    "id": 910161,
+    "description": "Boosts physical damage received by {value}%. (MAX 4 stacks)",
+    "name": "Physical Received Damage Up"
   }
 ]

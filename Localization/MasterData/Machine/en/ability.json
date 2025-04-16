@@ -3273,5 +3273,95 @@
     "id": 26232002,
     "description": "At the start of each wave, grants self immunity to negative effects.\nLoses immunity to negative effects when stunned.",
     "name": ""
+  },
+  {
+    "id": 301156,
+    "description": "While equipped to Rutger [Seeker of My Path], after attacking, reduces target's damage by {0}% for 1 turn.",
+    "name": "Diabolic Scythe"
+  },
+  {
+    "id": 301157,
+    "description": "While equipped to a Defender with Strike affinity, reduces damage received by {0}% when HP is 70% or higher.",
+    "name": "Warrior's Binding"
+  },
+  {
+    "id": 301158,
+    "description": "While equipped to a Defender with Strike affinity, reduces damage received by {0}% when HP is 70% or higher.",
+    "name": "Warrior's Binding"
+  },
+  {
+    "id": 301159,
+    "description": "While equipped to a Defender with Strike affinity, reduces damage received by all allies by {0}%.",
+    "name": "Ascetic's Mask"
+  },
+  {
+    "id": 301160,
+    "description": "While equipped to a Defender with Strike affinity, reduces damage received by all allies by {0}%.",
+    "name": "Ascetic's Mask"
+  },
+  {
+    "id": 1980188,
+    "description": "Characters with Strike affinity gain P.ATK, M.ATK, P.DEF, and M.DEF +{0}%.",
+    "name": "Personal Aesthetics"
+  },
+  {
+    "id": 1990344,
+    "description": "When using a burst panel, restores own HP by {0}% and activates Panel Skill: {{hyperlink_id 143}} on enemy with highest current HP. Becomes more likely to be targeted by enemies. Boosts own P.DEF and M.DEF by {1}%.",
+    "name": "My Limits Are Mine to Decide"
+  },
+  {
+    "id": 1990345,
+    "description": "Boosts max HP of all allies with Strike affinity or in the \"Aladiss Research Team\" by {0}%. At battle start, restores all allies' HP to 100%. When using boost panels or burst panels, boosts P.DEF and M.DEF of all \"Aladiss Research Team\" allies by {1}% (up to 70%). When using burst panels, boosts P.DEF and M.DEF of all non-\"Aladiss Research Team\" allies by {2}% (up to 30%).",
+    "name": "It's Showtime!"
+  },
+  {
+    "id": 4990853,
+    "description": "When attacking, increases target's physical damage received by {0}% for 2 attacks (max 4 stacks).",
+    "name": "Attack Physical Damage Received Up III"
+  },
+  {
+    "id": 4990854,
+    "description": "When attacking, increases target's physical damage received by {0}% for 2 attacks (max 4 stacks).",
+    "name": "Attack Physical Damage Received Up III"
+  },
+  {
+    "id": 4990855,
+    "description": "When attacking, increases target's physical damage received by {0}% for 2 attacks (max 4 stacks).",
+    "name": "Attack Physical Damage Received Up III"
+  },
+  {
+    "id": 4990856,
+    "description": "When attacking, increases target's physical damage received by {0}% for 2 attacks (max 4 stacks).",
+    "name": "Attack Physical Damage Received Up III"
+  },
+  {
+    "id": 4990857,
+    "description": "When attacking, increases target's physical damage received by {0}% for 2 attacks (max 4 stacks).",
+    "name": "Attack Physical Damage Received Up III"
+  },
+  {
+    "id": 7000729,
+    "description": "Boosts single-target skill damage by {0}% for characters with Strike affinity.",
+    "name": "Single Target Damage Up (Strike Affinity) (1)"
+  },
+  {
+    "id": 7000730,
+    "description": "Boosts single-target skill damage by {0}% for characters with Strike affinity.",
+    "name": "Single Target Damage Up (Strike Affinity) (2)"
+  },
+  {
+    "id": 7000731,
+    "description": "Boosts single-target skill damage by {0}% for characters with Strike affinity.",
+    "name": "Single Target Damage Up (Strike Affinity) (3)"
+  },
+  {
+    "id": 26017002,
+    "description": "30% chance to counter.",
+    "name": ""
+  },
+  {
+    "id": 26233001,
+    "description": "After attacking a weakness, grants self regeneration (10% / 3 times).",
+    "name": ""
   }
 ]

@@ -315,5 +315,149 @@
     ],
     "name": "Gathered Miracle",
     "start_at": "2025-04-09T03:00:00Z"
+  },
+  {
+    "id": 2037,
+    "description": "□Forest Investigation\nLocation: Forest   Weather: Clear   Recorded by: Isla\n\nBig Brother and I went investigating where we first were, thinking we might find some clues... but ugh, THE WORST! My feet got stuck in some mud and my shoes got all dirty. Big Brother just said \"Deal with it\" - how cold! I wonder if I could ask Yumia or Alvina to make me some kind of alchemical soap that could instantly remove stains anytime, anywhere? ...Probably too much to ask~ By the way, we didn't find anything in the forest.",
+    "key_tasks": [
+      {
+        "name": "Clear Story \"Let's Organize Information\""
+      },
+      {
+        "name": "Level the facility to 22"
+      }
+    ],
+    "name": "A Maiden's Wish",
+    "start_at": "2025-04-16T03:00:00Z"
+  },
+  {
+    "id": 2038,
+    "description": "□\nLocation:      Weather:      Recorded by: Rutger\n\nLenja's really enjoying that hammock. She asked if we could ride it together, but that'd obviously be too dangerous for two people.",
+    "key_tasks": [
+      {
+        "name": "Clear Story \"Raid on Investigation Team HQ!\""
+      },
+      {
+        "name": "Level the facility to 24"
+      }
+    ],
+    "name": "Swaying",
+    "start_at": "2025-04-16T03:00:00Z"
+  },
+  {
+    "id": 2039,
+    "description": "□Strange Stone Investigation\nLocation: Nova   Weather: Clear   Recorded by: Viktor\n\nTo prevent the distribution of bracelets made with strange stones throughout the country, we split up to handle both the collection of the stones and the search for this world's investigation team leader, who's likely at the command tower.\nYumia's ability to jump and survey the surroundings from high places is truly remarkable. While she credits it to \"her boots,\" using those boots effectively must require excellent physical coordination, balance, muscle strength, and experience. I believe Yumia's strength goes well beyond just alchemy.",
+    "key_tasks": [
+      {
+        "name": "Clear Story \"People Gathering at the Temple\""
+      }
+    ],
+    "name": "Yumia's Skill",
+    "start_at": "2025-04-16T03:00:00Z"
+  },
+  {
+    "id": 2040,
+    "description": "□This World's Fruit\nLocation: Forest   Weather: Clear   Recorded by: Lenja\n\nNina rubbed a strongly scented fruit on the team leader, so we all followed Lenja to track her scent and find her.\nI thought this fruit was something commonly eaten here since we got it from this world's investigation team before, but Alvina told me that \"not many people eat this.\" Apparently, it's even banned in some areas because of its strong smell. But since it tastes good, I wish there was a way to get rid of the smell.",
+    "key_tasks": [
+      {
+        "name": "Clear Story \"Chasing the Leader\""
+      }
+    ],
+    "name": "Strong Scent",
+    "start_at": "2025-04-16T03:00:00Z"
+  },
+  {
+    "id": 2041,
+    "description": "□Shooting Practice\nLocation: Base   Weather: Clear   Recorded by: Nina\n\nI set up shooting targets in front of the base. Since we had the chance, Yumia and I taught Alvina how to use a gun.\nShe seems interested in guns and apparently had borrowed Yumia's before for some target practice. According to Yumia, \"Alvina has good form.\" I thought the same thing watching her today. Once Alvina gets a bit better at shooting, it might be fun to have some shooting competitions.",
+    "key_tasks": [
+      {
+        "name": "Clear Story \"Stop It!\""
+      },
+      {
+        "name": "Level the facility to 26"
+      }
+    ],
+    "name": "Hidden Talent?",
+    "start_at": "2025-04-16T03:00:00Z"
+  },
+  {
+    "id": 2042,
+    "description": "□I Ate Fish Pie\nLocation: Base   Weather: Clear   Recorded by: Lenja\n\nJanne baked a delicious pie because he said we can't be satisfied if we're hungry! And since Lenja likes fish, he made it a fish pie. The fish was caught by Bepp, I heard. It was a big, fatty fish that was really delicious. Janne and Bepp are such kind people to be so nice to someone like Lenja. Lenja wants to do something to repay them somehow with what Lenja can do.",
+    "key_tasks": [
+      {
+        "name": "Clear Story \"The Things We Control\""
+      },
+      {
+        "name": "Level the facility to 28"
+      }
+    ],
+    "name": "Favorite Things",
+    "start_at": "2025-04-16T03:00:00Z"
+  },
+  {
+    "id": 2043,
+    "description": "□\nLocation:      Weather:      Recorded by: Rutger\n\nSo I got beaten up by that brute strength, all for keeping up morale? She said \"You can handle this much, right?\" but what's her basis for saying that? Really gets on my nerves... but I guess I can't complain this time.",
+    "key_tasks": [
+      {
+        "name": "Clear Story \"Strategy Meeting Together\""
+      }
+    ],
+    "name": "Brute Strength",
+    "start_at": "2025-04-16T03:00:00Z"
+  },
+  {
+    "id": 2044,
+    "description": "□Encirclement Operation!\nLocation: Forest   Weather: Clear   Recorded by: Isla\n\nWe all scattered bags with scents that Zornfluch hates throughout the forest! We spread them around the perimeter to drive Zornfluch toward the center of the forest! The operation went great with everyone's cooperation!\nI worked together with Yumia, and our coordination was perfect! I've started to understand instinctively how Yumia wants to move. That must be because we've been working together all this time!\n...Really, I'm so glad we could meet again.",
+    "key_tasks": [
+      {
+        "name": "Clear Story \"Operation Start!\""
+      }
+    ],
+    "name": "Perfect Coordination!",
+    "start_at": "2025-04-16T03:00:00Z"
+  },
+  {
+    "id": 2045,
+    "description": "□We Cornered Zornfluch\nLocation: Ruins   Weather: Clear   Recorded by: Lenja\n\nWhen we cornered Zornfluch in the ruins in the forest, it used the people of Nova as shields. Everyone was being controlled by Zornfluch's stone power... this is horrible! Unforgivable!\nLenja might not have been able to do anything alone because Lenja is no good. But now Lenja has Yumia and everyone else! Lenja will help everyone with everything Lenja can do!",
+    "key_tasks": [
+      {
+        "name": "Clear Story \"To Save the Hostages\""
+      }
+    ],
+    "name": "Unforgivable!",
+    "start_at": "2025-04-16T03:00:00Z"
+  },
+  {
+    "id": 2046,
+    "description": "□Got Zornfluch, We Really Did!\nLocation: Ruins   Weather: Clear   Recorded by: Alvina\n\nWhen the blue mist cleared with Yumia's dance, I thought \"Now's the time! This is it!\" It was the result of shooting practice with Yumia and Nina. In that moment, all my senses were focused, and I strongly felt I absolutely wouldn't miss. I was totally the hero of that scene, right!? I'm so glad I didn't miss! Well, Yumia and Nina say I have good form! But since it's really tiring to concentrate that hard, I think I'll stick to using guns only occasionally.",
+    "key_tasks": [
+      {
+        "name": "Clear Story \"Blue Finale\""
+      }
+    ],
+    "name": "Hero's Shot",
+    "start_at": "2025-04-16T03:00:00Z"
+  },
+  {
+    "id": 2047,
+    "description": "□After That\nLocation: Cafe   Weather: Clear   Recorded by: Yumia\n\nAfter defeating Zornfluch, we decided to dispose of all the recovered stones and bracelets.\nAlvina said something that stuck with me: \"A world without words would be so bland.\" I thought that was a very Alvina-like way of thinking. It's through words that we understand each other, through communication that things get across. Even if we're from different worlds, we can become friends by learning about each other through words. That's really something wonderful, isn't it?",
+    "key_tasks": [
+      {
+        "name": "Clear Story \"Alvina's Decision\""
+      }
+    ],
+    "name": "A World with Words",
+    "start_at": "2025-04-16T03:00:00Z"
+  },
+  {
+    "id": 2048,
+    "description": "□Investigation Complete!\nLocation: Base   Weather: Clear   Recorded by: Alvina\n\nWith this, the deserted island investigation is complete! I think we achieved some wonderful results! As both a Star Guide and an alchemist, I believe I successfully fulfilled my role in guiding Nova to safety! All of this was thanks to Bepp, Janne, Yumia, and everyone else.\nWhile my investigation records end here for now, it seems Yumia and the others will continue investigating this world, so maybe I'll write more entries someday? Until then, farewell!",
+    "key_tasks": [
+      {
+        "name": "Clear Story \"Let's Keep Working Together!\""
+      }
+    ],
+    "name": "Thanks for the Hard Work!",
+    "start_at": "2025-04-16T03:00:00Z"
   }
 ]

@@ -1,0 +1,818 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "事の起こりは、ある日、流れ星が離島に落ちたこと。\nその一週間後に、調査団は離島へと向かった",
+        "localizations": {
+          "en": "It all started when a shooting star fell on a remote island. One week later, an investigation team was sent to look into it."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "調査団は、なんの収穫も得られず、そして\nひどく調子を崩して帰還したとのことだったけど――",
+        "localizations": {
+          "en": "They supposedly returned empty-handed and in terrible condition, but—"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "結果から言えば、それは嘘だったということだな",
+        "localizations": {
+          "en": "As it turns out, that was a lie."
+        }
+      },
+      "2072370017": {
+        "text": "ヴィクトル",
+        "localizations": {
+          "en": "Viktor"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "うん。あたしたちは、星が落ちたらしき場所を\n見つけたよ。大きく地面が抉れてたんだ",
+        "localizations": {
+          "en": "Right. We found where the star seemed to have landed. There was a huge gouge in the ground."
+        }
+      },
+      "2072370017": {
+        "text": "アイラ",
+        "localizations": {
+          "en": "Isla"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "そのすぐ近くに、焚火の跡があったからね。\n調査団は、多分そこまで辿り着いたんだよ",
+        "localizations": {
+          "en": "And we found traces of a campfire nearby. The investigation team must have made it that far."
+        }
+      },
+      "2072370017": {
+        "text": "アイラ",
+        "localizations": {
+          "en": "Isla"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "で、その石を回収しようと作業してたってわけか",
+        "localizations": {
+          "en": "So they were trying to collect those stones, huh?"
+        }
+      },
+      "2072370017": {
+        "text": "ルトガー",
+        "localizations": {
+          "en": "Rutger"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "私が調査団の倉庫から削ってきた石と、\nルトガーが拾った石は同じものみたいね。確かな証拠よ",
+        "localizations": {
+          "en": "The stone I took from the investigation team's storage and the one Rutger found are definitely the same. That's solid evidence."
+        }
+      },
+      "2072370017": {
+        "text": "ニーナ",
+        "localizations": {
+          "en": "Nina"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "この石は状況的に、落ちた星の欠片。\nそれが、こんな騒ぎを引き起こしているなんて……",
+        "localizations": {
+          "en": "Given the circumstances, these stones must be fragments of that fallen star. To think they'd cause all this trouble..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "ルトガーは石に操られたじゃない？\nただの流れ星じゃなさそうよね",
+        "localizations": {
+          "en": "The stone was controlling Rutger, wasn't it? This is definitely no ordinary meteor."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "し、神官長さんの様子を思い出すと……そっか。\nあれは操られてたんですね",
+        "localizations": {
+          "en": "When I think about how the High Priest was acting... I see. He was being controlled too."
+        }
+      },
+      "2072370017": {
+        "text": "レイニャ",
+        "localizations": {
+          "en": "Lenja"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "うん。フラミィに石を解析してもらったんだけど",
+        "localizations": {
+          "en": "Yeah. I had Flammi analyze the stone..."
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "簡単な解析ですが、石はマナと極めて類似した物質を\n発信、または受信する性質を備えているようです",
+        "localizations": {
+          "en": "From my basic analysis, the stone appears to transmit or receive a substance remarkably similar to mana."
+        }
+      },
+      "2072370017": {
+        "text": "フラミィ",
+        "localizations": {
+          "en": "Flammi"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "マナのような物質……「青の領域」の粒子と同じ\nものなのかな？",
+        "localizations": {
+          "en": "A mana-like substance... Could it be the same as the particles in the Blue Domain?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "私やニーナみたいに、なぜか大丈夫な人もいる\nみたいだけどね",
+        "localizations": {
+          "en": "Though it seems some people, like Nina and me, are somehow immune to it."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "そんな力で、調査団はいったい何をしようと\nしているんだろう？",
+        "localizations": {
+          "en": "What could the investigation team be planning to do with such power?"
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "これは僕の推測だが、調査団はまず「青の領域」に\n棲息する魔物で効果を確かめたんだろう",
+        "localizations": {
+          "en": "This is just my theory, but they probably first tested its effects on the monsters living in the Blue Domain."
+        }
+      },
+      "2072370017": {
+        "text": "ヴィクトル",
+        "localizations": {
+          "en": "Viktor"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "その中にツォルンフルクもいたんじゃない\nだろうか？",
+        "localizations": {
+          "en": "I suspect Zornfolk was among them."
+        }
+      },
+      "2072370017": {
+        "text": "ヴィクトル",
+        "localizations": {
+          "en": "Viktor"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "で、欲に駆られて石を拾ったルトガーが、まんまと\n魔物たちに交じって行動したがった、っと",
+        "localizations": {
+          "en": "And then Rutger, driven by greed, picked up a stone and ended up wanting to hang out with the monsters!"
+        }
+      },
+      "2072370017": {
+        "text": "アイラ",
+        "localizations": {
+          "en": "Isla"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "うるせぇな！",
+        "localizations": {
+          "en": "Shut up already!"
+        }
+      },
+      "2072370017": {
+        "text": "ルトガー",
+        "localizations": {
+          "en": "Rutger"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "まぁまぁ。神官長は今、その石を使って作った\nブレスレットを国中に広めようとしてるんだよね",
+        "localizations": {
+          "en": "Now, now. The High Priest is currently trying to distribute bracelets made with these stones throughout the country."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "すべての国民に着用を義務付けようとしてるんだって",
+        "localizations": {
+          "en": "I heard they're planning to make wearing them mandatory for all citizens."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "そんなことになったら、国が乗っ取られちゃうよ！\n何が目的で、そんなこと……",
+        "localizations": {
+          "en": "If that happens, they'll take over the whole country! What could they possibly be trying to achieve..."
+        }
+      },
+      "2072370017": {
+        "text": "アイラ",
+        "localizations": {
+          "en": "Isla"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "うーん。１つだけ言えるのは、神官長を操らせたのは\n石を触らせた調査団の団長よね",
+        "localizations": {
+          "en": "Hmm. One thing's for sure—the investigation team's leader made the High Priest touch the stone to control him."
+        }
+      },
+      "2072370017": {
+        "text": "ニーナ",
+        "localizations": {
+          "en": "Nina"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "ブレスレットを作るのを提案したのも、団長だし？",
+        "localizations": {
+          "en": "And it was the leader who suggested making the bracelets too, right?"
+        }
+      },
+      "2072370017": {
+        "text": "ニーナ",
+        "localizations": {
+          "en": "Nina"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "恐らく団長って奴が、現場で一番最初に\n石に触ったんだろうな",
+        "localizations": {
+          "en": "The leader was probably the first one to touch the stone at the site."
+        }
+      },
+      "2072370017": {
+        "text": "ルトガー",
+        "localizations": {
+          "en": "Rutger"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "団長は、石の意思ってヤツを真っ先に受信して、\n忠実に動いてるんだろうぜ",
+        "localizations": {
+          "en": "They must have been the first to receive the stone's will and now they're acting on its behalf."
+        }
+      },
+      "2072370017": {
+        "text": "ルトガー",
+        "localizations": {
+          "en": "Rutger"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "「イシのイシ」って、上手いこと言ったつもり！？",
+        "localizations": {
+          "en": "Really? You're trying to make puns at a time like this!?"
+        }
+      },
+      "2072370017": {
+        "text": "アイラ",
+        "localizations": {
+          "en": "Isla"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "いやいや待って。それだと石そのものが意思を\n持ってるってことになっちゃうけど……",
+        "localizations": {
+          "en": "Hold on. That would mean the stone itself has a will of its own..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "この世界には、意思を持つ物質が存在するの？",
+        "localizations": {
+          "en": "Are there materials in this world that possess consciousness?"
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "そ、それは私たちも聞いたことが無いかも",
+        "localizations": {
+          "en": "W-we've never heard of anything like that..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "とすれば、団長を起点として考えた場合、\n１つ疑問が残るんだが",
+        "localizations": {
+          "en": "If we focus on the leader's involvement, one question remains."
+        }
+      },
+      "2072370017": {
+        "text": "ヴィクトル",
+        "localizations": {
+          "en": "Viktor"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "団長が石の力を得て皆を操ろうとしたと\nしたとすると、彼が「青の領域」を作ったのだろうか？",
+        "localizations": {
+          "en": "If the leader gained the stone's power and is trying to control everyone, did they create the Blue Domain?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴィクトル",
+        "localizations": {
+          "en": "Viktor"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "んー、確かに。あの領域はなんで……\nなんのために作ったんだろう？",
+        "localizations": {
+          "en": "Hmm, you're right. Why... what purpose does that domain serve?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "「青の領域」には謎が多すぎて、今のところは\n考えても仕方ない気がするかな",
+        "localizations": {
+          "en": "There are too many mysteries surrounding the Blue Domain. I don't think we can figure it out right now."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "ともかく今の団長は石の司令塔みたいな状態で、\n神官長すら操る力がある。そこだけ考えようよ",
+        "localizations": {
+          "en": "For now, let's focus on how the leader is like a command center for the stones, with enough power to control even the High Priest."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "最初に石に触ったからそうなったのか、\nそういう特別な石があるのか分からないけど……",
+        "localizations": {
+          "en": "Whether it's because they were the first to touch the stones, or because they have some special stone..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "でも、団長はきっと、みんなを\n操る司令塔となる石か何かを持ってるはずなんだ",
+        "localizations": {
+          "en": "The leader must have some kind of master stone that lets them control everyone."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "だからまずはそれをどうにかするのが\n先決かなーって思うんだけど？",
+        "localizations": {
+          "en": "I think our first priority should be dealing with that. What do you think?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "賛成！\u3000早速調査団の本部に乗り込みましょ！",
+        "localizations": {
+          "en": "Agreed! Let's storm the investigation team's headquarters!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "いいかな、みんな？",
+        "localizations": {
+          "en": "Is everyone okay with that?"
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "ふふっ。あんなただ働きをさせた報いは\n受けてもらわないといけないわよね",
+        "localizations": {
+          "en": "Hehe. They need to pay for making us work for free."
+        }
+      },
+      "2072370017": {
+        "text": "ニーナ",
+        "localizations": {
+          "en": "Nina"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "待って待って！\u3000ユミアたちは仲間と\n合流できたわけだし……なのに協力してくれるの？",
+        "localizations": {
+          "en": "Wait, wait! You've all found your companions now... Are you sure you still want to help us?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "もっちろんだよ！\u3000困ってる人は放っておけないし！",
+        "localizations": {
+          "en": "Of course! We can't just ignore people in trouble!"
+        }
+      },
+      "2072370017": {
+        "text": "アイラ",
+        "localizations": {
+          "en": "Isla"
+        }
+      }
+    }
+  },
+  {
+    "id": 43,
+    "properties": {
+      "999008199": {
+        "text": "レイニャたちも、助けていただきましたし",
+        "localizations": {
+          "en": "You helped us too..."
+        }
+      },
+      "2072370017": {
+        "text": "レイニャ",
+        "localizations": {
+          "en": "Lenja"
+        }
+      }
+    }
+  },
+  {
+    "id": 44,
+    "properties": {
+      "999008199": {
+        "text": "同じ調査団として、騒動の元となっているのを\n見逃すことはできないからね",
+        "localizations": {
+          "en": "As fellow members of the investigation team, we can't turn a blind eye to what's causing all this chaos."
+        }
+      },
+      "2072370017": {
+        "text": "ヴィクトル",
+        "localizations": {
+          "en": "Viktor"
+        }
+      }
+    }
+  },
+  {
+    "id": 45,
+    "properties": {
+      "999008199": {
+        "text": "チッ……仕方ねえ。乗り掛かった舟だしな",
+        "localizations": {
+          "en": "Tch... Whatever. We're already in this deep."
+        }
+      },
+      "2072370017": {
+        "text": "ルトガー",
+        "localizations": {
+          "en": "Rutger"
+        }
+      }
+    }
+  },
+  {
+    "id": 46,
+    "properties": {
+      "999008199": {
+        "text": "これも何かの縁だし、最後まで協力させて",
+        "localizations": {
+          "en": "This must be fate. Let us help you until the end."
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 47,
+    "properties": {
+      "999008199": {
+        "text": "ありがとう！\u3000心強いよ！",
+        "localizations": {
+          "en": "Thank you! That means so much to us!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  }
+]

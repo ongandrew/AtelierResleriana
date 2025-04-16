@@ -10192,5 +10192,641 @@
     "description": "After attacking, grants all allies damage dealt +10% for 1 attack.",
     "name": "Scratch",
     "summary": ""
+  },
+  {
+    "id": 11002490,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, grants self Evasion ({0}% chance) for 1 attack.<br>Shifts to the outer range.<br>Skill when at outer range: {hyperlink_id 133}",
+    "name": "Bloody Heart",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, grants self Evasion.<br>Shifts to the outer range."
+  },
+  {
+    "id": 11002491,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, grants self Evasion ({0}% chance) for 1 attack.<br>Shifts to the outer range.<br>Skill when at outer range: {hyperlink_id 134}",
+    "name": "Bloody Heart",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, grants self Evasion.<br>Shifts to the outer range."
+  },
+  {
+    "id": 11002492,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, grants self Evasion ({0}% chance) for 1 attack.<br>Shifts to the outer range.<br>Skill when at outer range: {hyperlink_id 135}",
+    "name": "Bloody Heart",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, grants self Evasion.<br>Shifts to the outer range."
+  },
+  {
+    "id": 11002493,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, grants self Evasion ({0}% chance) for 1 attack.<br>Shifts to the outer range.<br>Skill when at outer range: {hyperlink_id 136}",
+    "name": "Bloody Heart",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, grants self Evasion.<br>Shifts to the outer range."
+  },
+  {
+    "id": 11002494,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, grants self Evasion ({0}% chance) for 1 attack.<br>Shifts to the outer range.<br>Skill when at outer range: {hyperlink_id 137}",
+    "name": "Bloody Heart",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, grants self Evasion.<br>Shifts to the outer range."
+  },
+  {
+    "id": 11002700,
+    "description": "After attacking, restores own HP by {0}%.<br>Boosts P.DEF and M.DEF of all allies with Strike affinity or Aladiss Investigation Team tag by {1}% for 1 attack.<br>Shifts to the inner range.<br>Skill when at inner range: {hyperlink_id 123}",
+    "name": "Desperate",
+    "summary": "After attacking, restores own HP.<br>Boosts stats of all allies with Strike affinity or Aladiss Investigation Team tag.<br>Shifts to the inner range."
+  },
+  {
+    "id": 11002701,
+    "description": "After attacking, restores own HP by {0}%.<br>Boosts P.DEF and M.DEF of all allies with Strike affinity or Aladiss Investigation Team tag by {1}% for 1 attack.<br>Shifts to the inner range.<br>Skill when at inner range: {hyperlink_id 124}",
+    "name": "Desperate",
+    "summary": "After attacking, restores own HP.<br>Boosts stats of all allies with Strike affinity or Aladiss Investigation Team tag.<br>Shifts to the inner range."
+  },
+  {
+    "id": 11002702,
+    "description": "After attacking, restores own HP by {0}%.<br>Boosts P.DEF and M.DEF of all allies with Strike affinity or Aladiss Investigation Team tag by {1}% for 1 attack.<br>Shifts to the inner range.<br>Skill when at inner range: {hyperlink_id 125}",
+    "name": "Desperate",
+    "summary": "After attacking, restores own HP.<br>Boosts stats of all allies with Strike affinity or Aladiss Investigation Team tag.<br>Shifts to the inner range."
+  },
+  {
+    "id": 11002703,
+    "description": "After attacking, restores own HP by {0}%.<br>Boosts P.DEF and M.DEF of all allies with Strike affinity or Aladiss Investigation Team tag by {1}% for 1 attack.<br>Shifts to the inner range.<br>Skill when at inner range: {hyperlink_id 126}",
+    "name": "Desperate",
+    "summary": "After attacking, restores own HP.<br>Boosts stats of all allies with Strike affinity or Aladiss Investigation Team tag.<br>Shifts to the inner range."
+  },
+  {
+    "id": 11002704,
+    "description": "After attacking, restores own HP by {0}%.<br>Boosts P.DEF and M.DEF of all allies with Strike affinity or Aladiss Investigation Team tag by {1}% for 1 attack.<br>Shifts to the inner range.<br>Skill when at inner range: {hyperlink_id 127}",
+    "name": "Desperate",
+    "summary": "After attacking, restores own HP.<br>Boosts stats of all allies with Strike affinity or Aladiss Investigation Team tag.<br>Shifts to the inner range."
+  },
+  {
+    "id": 11002711,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, grants self Evasion ({0}% chance) for 1 attack.<br>Shifts to the outer range.",
+    "name": "Bloody Heart",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, grants self Evasion.<br>Shifts to the outer range."
+  },
+  {
+    "id": 11002712,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, grants self Evasion ({0}% chance) for 1 attack.<br>Shifts to the outer range.",
+    "name": "Bloody Heart",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, grants self Evasion.<br>Shifts to the outer range."
+  },
+  {
+    "id": 11002713,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, grants self Evasion ({0}% chance) for 1 attack.<br>Shifts to the outer range.",
+    "name": "Bloody Heart",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, grants self Evasion.<br>Shifts to the outer range."
+  },
+  {
+    "id": 11002714,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, grants self Evasion ({0}% chance) for 1 attack.<br>Shifts to the outer range.",
+    "name": "Bloody Heart",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, grants self Evasion.<br>Shifts to the outer range."
+  },
+  {
+    "id": 11002715,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, grants self Evasion ({0}% chance) for 1 attack.<br>Shifts to the outer range.",
+    "name": "Bloody Heart",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, grants self Evasion.<br>Shifts to the outer range."
+  },
+  {
+    "id": 11002721,
+    "description": "After attacking, restores own HP by {0}%.<br>Boosts P.DEF and M.DEF of all allies with Strike affinity or Aladiss Investigation Team tag by {1}% for 1 attack.<br>Shifts to the inner range.",
+    "name": "Desperate",
+    "summary": "After attacking, restores own HP.<br>Boosts stats of all allies with Strike affinity or Aladiss Investigation Team tag.<br>Shifts to the inner range."
+  },
+  {
+    "id": 11002722,
+    "description": "After attacking, restores own HP by {0}%.<br>Boosts P.DEF and M.DEF of all allies with Strike affinity or Aladiss Investigation Team tag by {1}% for 1 attack.<br>Shifts to the inner range.",
+    "name": "Desperate",
+    "summary": "After attacking, restores own HP.<br>Boosts stats of all allies with Strike affinity or Aladiss Investigation Team tag.<br>Shifts to the inner range."
+  },
+  {
+    "id": 11002723,
+    "description": "After attacking, restores own HP by {0}%.<br>Boosts P.DEF and M.DEF of all allies with Strike affinity or Aladiss Investigation Team tag by {1}% for 1 attack.<br>Shifts to the inner range.",
+    "name": "Desperate",
+    "summary": "After attacking, restores own HP.<br>Boosts stats of all allies with Strike affinity or Aladiss Investigation Team tag.<br>Shifts to the inner range."
+  },
+  {
+    "id": 11002724,
+    "description": "After attacking, restores own HP by {0}%.<br>Boosts P.DEF and M.DEF of all allies with Strike affinity or Aladiss Investigation Team tag by {1}% for 1 attack.<br>Shifts to the inner range.",
+    "name": "Desperate",
+    "summary": "After attacking, restores own HP.<br>Boosts stats of all allies with Strike affinity or Aladiss Investigation Team tag.<br>Shifts to the inner range."
+  },
+  {
+    "id": 11002725,
+    "description": "After attacking, restores own HP by {0}%.<br>Boosts P.DEF and M.DEF of all allies with Strike affinity or Aladiss Investigation Team tag by {1}% for 1 attack.<br>Shifts to the inner range.",
+    "name": "Desperate",
+    "summary": "After attacking, restores own HP.<br>Boosts stats of all allies with Strike affinity or Aladiss Investigation Team tag.<br>Shifts to the inner range."
+  },
+  {
+    "id": 12002495,
+    "description": "After attacking, restores own HP by {0}%. Grants damage received -{1}% to all allies with Strike affinity or from \"Aladiss Research Team\" for 2 attacks (max 2 stacks). Converts all of the attack target's panels into defense weaken panels (creates panels if empty) (max 3 activations).<br>Skill when in outer range: {hyperlink_id 138}",
+    "name": "Sacrifice",
+    "summary": "After attacking, restores own HP.<br>Reduces damage received for all allies with Strike affinity or from \"Aladiss Research Team\".<br>Converts all of the next enemy's panels on the timeline into defense weaken panels."
+  },
+  {
+    "id": 12002496,
+    "description": "After attacking, restores own HP by {0}%. Grants damage received -{1}% to all allies with Strike affinity or from \"Aladiss Research Team\" for 2 attacks (max 2 stacks). Converts all of the attack target's panels into defense weaken panels (creates panels if empty) (max 3 activations).<br>Skill when in outer range: {hyperlink_id 139}",
+    "name": "Sacrifice",
+    "summary": "After attacking, restores own HP.<br>Reduces damage received for all allies with Strike affinity or from \"Aladiss Research Team\".<br>Converts all of the next enemy's panels on the timeline into defense weaken panels."
+  },
+  {
+    "id": 12002497,
+    "description": "After attacking, restores own HP by {0}%. Grants damage received -{1}% to all allies with Strike affinity or from \"Aladiss Research Team\" for 2 attacks (max 2 stacks). Converts all of the attack target's panels into defense weaken panels (creates panels if empty) (max 3 activations).<br>Skill when in outer range: {hyperlink_id 140}",
+    "name": "Sacrifice",
+    "summary": "After attacking, restores own HP.<br>Reduces damage received for all allies with Strike affinity or from \"Aladiss Research Team\".<br>Converts all of the next enemy's panels on the timeline into defense weaken panels."
+  },
+  {
+    "id": 12002498,
+    "description": "After attacking, restores own HP by {0}%. Grants damage received -{1}% to all allies with Strike affinity or from \"Aladiss Research Team\" for 2 attacks (max 2 stacks). Converts all of the attack target's panels into defense weaken panels (creates panels if empty) (max 3 activations).<br>Skill when in outer range: {hyperlink_id 141}",
+    "name": "Sacrifice",
+    "summary": "After attacking, restores own HP.<br>Reduces damage received for all allies with Strike affinity or from \"Aladiss Research Team\".<br>Converts all of the next enemy's panels on the timeline into defense weaken panels."
+  },
+  {
+    "id": 12002499,
+    "description": "After attacking, restores own HP by {0}%. Grants damage received -{1}% to all allies with Strike affinity or from \"Aladiss Research Team\" for 2 attacks (max 2 stacks). Converts all of the attack target's panels into defense weaken panels (creates panels if empty) (max 3 activations).<br>Skill when in outer range: {hyperlink_id 142}",
+    "name": "Sacrifice",
+    "summary": "After attacking, restores own HP.<br>Reduces damage received for all allies with Strike affinity or from \"Aladiss Research Team\".<br>Converts all of the next enemy's panels on the timeline into defense weaken panels."
+  },
+  {
+    "id": 12002705,
+    "description": "After attacking, grants P.DEF/M.DEF +{0}% to all allies with Strike affinity or from \"Aladiss Research Team\" for 2 attacks (max 2 stacks). Grants self evasion ({1}% chance) for 1 attack.<br>Skill when in inner range: {hyperlink_id 128}",
+    "name": "Revenge Size",
+    "summary": "After attacking, boosts stats for all allies with Strike affinity or from \"Aladiss Research Team\".<br>Grants self evasion."
+  },
+  {
+    "id": 12002706,
+    "description": "After attacking, grants P.DEF/M.DEF +{0}% to all allies with Strike affinity or from \"Aladiss Research Team\" for 2 attacks (max 2 stacks). Grants self evasion ({1}% chance) for 1 attack.<br>Skill when in inner range: {hyperlink_id 129}",
+    "name": "Revenge Size",
+    "summary": "After attacking, boosts stats for all allies with Strike affinity or from \"Aladiss Research Team\".<br>Grants self evasion."
+  },
+  {
+    "id": 12002707,
+    "description": "After attacking, grants P.DEF/M.DEF +{0}% to all allies with Strike affinity or from \"Aladiss Research Team\" for 2 attacks (max 2 stacks). Grants self evasion ({1}% chance) for 1 attack.<br>Skill when in inner range: {hyperlink_id 130}",
+    "name": "Revenge Size",
+    "summary": "After attacking, boosts stats for all allies with Strike affinity or from \"Aladiss Research Team\".<br>Grants self evasion."
+  },
+  {
+    "id": 12002708,
+    "description": "After attacking, grants P.DEF/M.DEF +{0}% to all allies with Strike affinity or from \"Aladiss Research Team\" for 2 attacks (max 2 stacks). Grants self evasion ({1}% chance) for 1 attack.<br>Skill when in inner range: {hyperlink_id 131}",
+    "name": "Revenge Size",
+    "summary": "After attacking, boosts stats for all allies with Strike affinity or from \"Aladiss Research Team\".<br>Grants self evasion."
+  },
+  {
+    "id": 12002709,
+    "description": "After attacking, grants P.DEF/M.DEF +{0}% to all allies with Strike affinity or from \"Aladiss Research Team\" for 2 attacks (max 2 stacks). Grants self evasion ({1}% chance) for 1 attack.<br>Skill when in inner range: {hyperlink_id 132}",
+    "name": "Revenge Size",
+    "summary": "After attacking, boosts stats for all allies with Strike affinity or from \"Aladiss Research Team\".<br>Grants self evasion."
+  },
+  {
+    "id": 12002716,
+    "description": "After attacking, restores own HP by {0}%. Grants damage received -{1}% to all allies with Strike affinity or from \"Aladiss Research Team\" for 2 attacks (max 2 stacks). Converts all of the attack target's panels into defense weaken panels (creates panels if empty) (max 3 activations).",
+    "name": "Sacrifice",
+    "summary": "After attacking, restores own HP.<br>Reduces damage received for all allies with Strike affinity or from \"Aladiss Research Team\".<br>Converts all of the next enemy's panels on the timeline into defense weaken panels."
+  },
+  {
+    "id": 12002717,
+    "description": "After attacking, restores own HP by {0}%. Grants damage received -{1}% to all allies with Strike affinity or from \"Aladiss Research Team\" for 2 attacks (max 2 stacks). Converts all of the attack target's panels into defense weaken panels (creates panels if empty) (max 3 activations).",
+    "name": "Sacrifice",
+    "summary": "After attacking, restores own HP.<br>Reduces damage received for all allies with Strike affinity or from \"Aladiss Research Team\".<br>Converts all of the next enemy's panels on the timeline into defense weaken panels."
+  },
+  {
+    "id": 12002718,
+    "description": "After attacking, restores own HP by {0}%. Grants damage received -{1}% to all allies with Strike affinity or from \"Aladiss Research Team\" for 2 attacks (max 2 stacks). Converts all of the attack target's panels into defense weaken panels (creates panels if empty) (max 3 activations).",
+    "name": "Sacrifice",
+    "summary": "After attacking, restores own HP.<br>Reduces damage received for all allies with Strike affinity or from \"Aladiss Research Team\".<br>Converts all of the next enemy's panels on the timeline into defense weaken panels."
+  },
+  {
+    "id": 12002719,
+    "description": "After attacking, restores own HP by {0}%. Grants damage received -{1}% to all allies with Strike affinity or from \"Aladiss Research Team\" for 2 attacks (max 2 stacks). Converts all of the attack target's panels into defense weaken panels (creates panels if empty) (max 3 activations).",
+    "name": "Sacrifice",
+    "summary": "After attacking, restores own HP.<br>Reduces damage received for all allies with Strike affinity or from \"Aladiss Research Team\".<br>Converts all of the next enemy's panels on the timeline into defense weaken panels."
+  },
+  {
+    "id": 12002720,
+    "description": "After attacking, restores own HP by {0}%. Grants damage received -{1}% to all allies with Strike affinity or from \"Aladiss Research Team\" for 2 attacks (max 2 stacks). Converts all of the attack target's panels into defense weaken panels (creates panels if empty) (max 3 activations).",
+    "name": "Sacrifice",
+    "summary": "After attacking, restores own HP.<br>Reduces damage received for all allies with Strike affinity or from \"Aladiss Research Team\".<br>Converts all of the next enemy's panels on the timeline into defense weaken panels."
+  },
+  {
+    "id": 12002726,
+    "description": "After attacking, grants P.DEF/M.DEF +{0}% to all allies with Strike affinity or from \"Aladiss Research Team\" for 2 attacks (max 2 stacks). Grants self evasion ({1}% chance) for 1 attack.",
+    "name": "Revenge Size",
+    "summary": "After attacking, boosts stats for all allies with Strike affinity or from \"Aladiss Research Team\".<br>Grants self evasion."
+  },
+  {
+    "id": 12002727,
+    "description": "After attacking, grants P.DEF/M.DEF +{0}% to all allies with Strike affinity or from \"Aladiss Research Team\" for 2 attacks (max 2 stacks). Grants self evasion ({1}% chance) for 1 attack.",
+    "name": "Revenge Size",
+    "summary": "After attacking, boosts stats for all allies with Strike affinity or from \"Aladiss Research Team\".<br>Grants self evasion."
+  },
+  {
+    "id": 12002728,
+    "description": "After attacking, grants P.DEF/M.DEF +{0}% to all allies with Strike affinity or from \"Aladiss Research Team\" for 2 attacks (max 2 stacks). Grants self evasion ({1}% chance) for 1 attack.",
+    "name": "Revenge Size",
+    "summary": "After attacking, boosts stats for all allies with Strike affinity or from \"Aladiss Research Team\".<br>Grants self evasion."
+  },
+  {
+    "id": 12002729,
+    "description": "After attacking, grants P.DEF/M.DEF +{0}% to all allies with Strike affinity or from \"Aladiss Research Team\" for 2 attacks (max 2 stacks). Grants self evasion ({1}% chance) for 1 attack.",
+    "name": "Revenge Size",
+    "summary": "After attacking, boosts stats for all allies with Strike affinity or from \"Aladiss Research Team\".<br>Grants self evasion."
+  },
+  {
+    "id": 12002730,
+    "description": "After attacking, grants P.DEF/M.DEF +{0}% to all allies with Strike affinity or from \"Aladiss Research Team\" for 2 attacks (max 2 stacks). Grants self evasion ({1}% chance) for 1 attack.",
+    "name": "Revenge Size",
+    "summary": "After attacking, boosts stats for all allies with Strike affinity or from \"Aladiss Research Team\".<br>Grants self evasion."
+  },
+  {
+    "id": 14002500,
+    "description": "Before attacking, removes own negative effects and status effects.<br>After attacking, has a very high chance to inflict Paralysis on target for 2 turns, restores {0}% HP to all allies, and if equipped by a character with Strike affinity or member of \"Aladiss Research Team\", grants Evasion ({1}% fixed chance) to all allies for 1 attack.",
+    "name": "Embrace of Darkness",
+    "summary": "Before attacking, removes own negative effects and status effects.<br>After attacking, has a very high chance to inflict Paralysis on target.<br>Restores HP to all allies.<br>If equipped by a character with Strike affinity or member of \"Aladiss Research Team\", grants Evasion to all allies."
+  },
+  {
+    "id": 14002501,
+    "description": "Before attacking, removes own negative effects and status effects.<br>After attacking, has a very high chance to inflict Paralysis on target for 2 turns, restores {0}% HP to all allies, and if equipped by a character with Strike affinity or member of \"Aladiss Research Team\", grants Evasion ({1}% fixed chance) to all allies for 1 attack.",
+    "name": "Embrace of Darkness",
+    "summary": "Before attacking, removes own negative effects and status effects.<br>After attacking, has a very high chance to inflict Paralysis on target.<br>Restores HP to all allies.<br>If equipped by a character with Strike affinity or member of \"Aladiss Research Team\", grants Evasion to all allies."
+  },
+  {
+    "id": 14002502,
+    "description": "Before attacking, removes own negative effects and status effects.<br>After attacking, has a very high chance to inflict Paralysis on target for 2 turns, restores {0}% HP to all allies, and if equipped by a character with Strike affinity or member of \"Aladiss Research Team\", grants Evasion ({1}% fixed chance) to all allies for 1 attack.",
+    "name": "Embrace of Darkness",
+    "summary": "Before attacking, removes own negative effects and status effects.<br>After attacking, has a very high chance to inflict Paralysis on target.<br>Restores HP to all allies.<br>If equipped by a character with Strike affinity or member of \"Aladiss Research Team\", grants Evasion to all allies."
+  },
+  {
+    "id": 14002503,
+    "description": "Before attacking, removes own negative effects and status effects.<br>After attacking, has a very high chance to inflict Paralysis on target for 2 turns, restores {0}% HP to all allies, and if equipped by a character with Strike affinity or member of \"Aladiss Research Team\", grants Evasion ({1}% fixed chance) to all allies for 1 attack.",
+    "name": "Embrace of Darkness",
+    "summary": "Before attacking, removes own negative effects and status effects.<br>After attacking, has a very high chance to inflict Paralysis on target.<br>Restores HP to all allies.<br>If equipped by a character with Strike affinity or member of \"Aladiss Research Team\", grants Evasion to all allies."
+  },
+  {
+    "id": 14002504,
+    "description": "Before attacking, removes own negative effects and status effects.<br>After attacking, has a very high chance to inflict Paralysis on target for 2 turns, restores {0}% HP to all allies, and if equipped by a character with Strike affinity or member of \"Aladiss Research Team\", grants Evasion ({1}% fixed chance) to all allies for 1 attack.",
+    "name": "Embrace of Darkness",
+    "summary": "Before attacking, removes own negative effects and status effects.<br>After attacking, has a very high chance to inflict Paralysis on target.<br>Restores HP to all allies.<br>If equipped by a character with Strike affinity or member of \"Aladiss Research Team\", grants Evasion to all allies."
+  },
+  {
+    "id": 14002710,
+    "description": "No additional effects.<br>*Does not consume state change counts and does not trigger additional effects.",
+    "name": "Guilty Leap",
+    "summary": "No additional effects.<br>Does not consume state change counts."
+  },
+  {
+    "id": 32001990,
+    "description": "Boosts this attack's critical damage by 30%.",
+    "name": "Fatal Bite",
+    "summary": ""
+  },
+  {
+    "id": 32001991,
+    "description": "After attacking, boosts own critical rate by 20% for 1 turn.",
+    "name": "Bite",
+    "summary": ""
+  },
+  {
+    "id": 32001992,
+    "description": "After attacking, boosts own critical damage by 20% for 3 turns.",
+    "name": "Thorn Roar",
+    "summary": ""
+  },
+  {
+    "id": 32001993,
+    "description": "No effect.",
+    "name": "Wind Ball",
+    "summary": ""
+  },
+  {
+    "id": 32001994,
+    "description": "No effect.",
+    "name": "Dragon Lift",
+    "summary": ""
+  },
+  {
+    "id": 32001995,
+    "description": "Boosts SPD of all allies by 10% for 3 turns.",
+    "name": "Sky Yell",
+    "summary": ""
+  },
+  {
+    "id": 32001996,
+    "description": "No effect.",
+    "name": "Glide",
+    "summary": ""
+  },
+  {
+    "id": 32001997,
+    "description": "After attacking, grants 5 stacks of Poison for 5 turns to target.",
+    "name": "Charge Rush",
+    "summary": ""
+  },
+  {
+    "id": 32001998,
+    "description": "After attacking, increases own damage received by 20% for 3 turns and increases target's damage received by 20% for 1 turn.",
+    "name": "White Breath",
+    "summary": ""
+  },
+  {
+    "id": 32001999,
+    "description": "No effect.",
+    "name": "Mini Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32002000,
+    "description": "No effect.",
+    "name": "Tail Slap",
+    "summary": ""
+  },
+  {
+    "id": 32002001,
+    "description": "After attacking, reduces target's healing received by 50% for 2 turns.",
+    "name": "Thunder Drop",
+    "summary": ""
+  },
+  {
+    "id": 32002002,
+    "description": "After attacking, grants 5 stacks of Poison for 3 turns to target.",
+    "name": "Spore Spray",
+    "summary": ""
+  },
+  {
+    "id": 32002003,
+    "description": "Grants Regeneration (10% HP) to target's allies for 3 turns.",
+    "name": "Lucky Call",
+    "summary": ""
+  },
+  {
+    "id": 32002004,
+    "description": "After attacking, applies 8 stacks of Poison (3 turns) to all enemies.",
+    "name": "Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 32002005,
+    "description": "Reduces target's damage dealt by 15% for 2 turns.",
+    "name": "Attack Down",
+    "summary": ""
+  },
+  {
+    "id": 32002006,
+    "description": "No effects.",
+    "name": "Super Cast",
+    "summary": ""
+  },
+  {
+    "id": 32002007,
+    "description": "After attacking, inflicts Sleep (2 turns) on all enemies.",
+    "name": "Suffocating Flare",
+    "summary": ""
+  },
+  {
+    "id": 32002008,
+    "description": "No effects.",
+    "name": "Shadow Fire",
+    "summary": ""
+  },
+  {
+    "id": 32002009,
+    "description": "Grants target ally magic reflection (10% for 2 turns).",
+    "name": "Magic Reflection",
+    "summary": ""
+  },
+  {
+    "id": 32002010,
+    "description": "After attacking, grants self Cover (3 turns).",
+    "name": "Heavy Burden",
+    "summary": ""
+  },
+  {
+    "id": 32002011,
+    "description": "When own HP is 50% or below, boosts own damage dealt by 20% for 3 turns after attacking.\nAfter attacking, reduces own damage received by 30% for 2 turns.",
+    "name": "Iron Block Throw",
+    "summary": ""
+  },
+  {
+    "id": 32002012,
+    "description": "When own HP is 50% or below, boosts own damage dealt by 20% for 3 turns after attacking.",
+    "name": "Uni Throw",
+    "summary": ""
+  },
+  {
+    "id": 32002013,
+    "description": "After attacking, reduces physical damage dealt by all enemies by 15% for 2 turns.",
+    "name": "Wind Block Drop",
+    "summary": ""
+  },
+  {
+    "id": 32002014,
+    "description": "Grants self Cover (3 turns) and physical damage immunity (2 turns).",
+    "name": "Standby",
+    "summary": ""
+  },
+  {
+    "id": 32002015,
+    "description": "No effects.",
+    "name": "Spinning Saw",
+    "summary": ""
+  },
+  {
+    "id": 32002016,
+    "description": "No effects.",
+    "name": "Rolling Cut",
+    "summary": ""
+  },
+  {
+    "id": 32002017,
+    "description": "No effects.",
+    "name": "Spread Slash",
+    "summary": ""
+  },
+  {
+    "id": 32002018,
+    "description": "No effects.",
+    "name": "Ice Call",
+    "summary": ""
+  },
+  {
+    "id": 32002019,
+    "description": "Grants self Counter state (2 times).",
+    "name": "Counter Stance",
+    "summary": ""
+  },
+  {
+    "id": 32002020,
+    "description": "When targeting skills with positive effects, boosts damage dealt by 20% for 2 turns, reduces damage received by 20% for 2 turns, and boosts SPD by 10% for 1 turn.",
+    "name": "Cheer Addition",
+    "summary": ""
+  },
+  {
+    "id": 32002021,
+    "description": "After attacking, reduces target's SPD by 10% for 1 turn and reduces own damage received by 25% for 2 turns.",
+    "name": "Counter Tail",
+    "summary": ""
+  },
+  {
+    "id": 32002022,
+    "description": "Restores target ally's HP by 15%.",
+    "name": "Blessing Gesture",
+    "summary": ""
+  },
+  {
+    "id": 32002023,
+    "description": "After attacking, applies 8 stacks of Poison (5 turns) to target.",
+    "name": "Explosive Bloom",
+    "summary": ""
+  },
+  {
+    "id": 32002024,
+    "description": "No effects.",
+    "name": "Magic Shoot",
+    "summary": ""
+  },
+  {
+    "id": 32002025,
+    "description": "After attacking, 70% chance to inflict Paralysis on target for 3 turns.",
+    "name": "Paralyze Shot",
+    "summary": ""
+  },
+  {
+    "id": 32002026,
+    "description": "After attacking, converts all non-burst panels of enemies to weaken panels.",
+    "name": "Surprise Burn",
+    "summary": ""
+  },
+  {
+    "id": 32002027,
+    "description": "No effects.",
+    "name": "Burning Tongue",
+    "summary": ""
+  },
+  {
+    "id": 32002028,
+    "description": "After attacking, inflicts Darkness on target for 2 turns.",
+    "name": "Magical Slash",
+    "summary": ""
+  },
+  {
+    "id": 32002029,
+    "description": "After attacking, reduces positive effect potency by 50% on all enemies for 2 turns.",
+    "name": "Curse Burn",
+    "summary": ""
+  },
+  {
+    "id": 32002030,
+    "description": "After attacking, increases magical damage received by target by 25% for 2 turns.",
+    "name": "Magical Dark Slide",
+    "summary": ""
+  },
+  {
+    "id": 32002031,
+    "description": "Restores 15% HP to all allies, then reduces damage received by 20% for 2 turns.",
+    "name": "Heal All",
+    "summary": ""
+  },
+  {
+    "id": 32002032,
+    "description": "Increases critical rate of all allies by 20% for 1 turn.",
+    "name": "Rallying Call",
+    "summary": ""
+  },
+  {
+    "id": 32002033,
+    "description": "No effects.",
+    "name": "Tail Rush",
+    "summary": ""
+  },
+  {
+    "id": 32002034,
+    "description": "No effects.",
+    "name": "Freezing Breath",
+    "summary": ""
+  },
+  {
+    "id": 32002035,
+    "description": "No effects.",
+    "name": "Freeze Rain",
+    "summary": ""
+  },
+  {
+    "id": 32002036,
+    "description": "Increases critical rate of target ally by 25% for 1 turn.",
+    "name": "Rallying Call",
+    "summary": ""
+  },
+  {
+    "id": 32002037,
+    "description": "Reduces critical rate of all enemies by 15% for 1 turn.",
+    "name": "Dissonant Sound",
+    "summary": ""
+  },
+  {
+    "id": 32002038,
+    "description": "Before attacking, removes own negative effects. After attacking, increases own damage dealt by 20% for 2 turns.",
+    "name": "Meteor Ashtain",
+    "summary": ""
+  },
+  {
+    "id": 32002039,
+    "description": "After attacking, restores 15% of own HP.",
+    "name": "Sturzen",
+    "summary": ""
+  },
+  {
+    "id": 32002040,
+    "description": "After attacking, reduces target's Bolt resistance by 10% (up to 50%).",
+    "name": "Vice Sturzen",
+    "summary": ""
+  },
+  {
+    "id": 32002041,
+    "description": "After attacking, reduces target's Bolt resistance by 5% (up to 50%).",
+    "name": "Elgarlauf",
+    "summary": ""
+  },
+  {
+    "id": 32002042,
+    "description": "No effects.",
+    "name": "Zerbrechen",
+    "summary": ""
+  },
+  {
+    "id": 32002043,
+    "description": "After attacking, permanently increases target's damage received from weakness attacks by 10%.",
+    "name": "Goldgewitter",
+    "summary": ""
+  },
+  {
+    "id": 32002044,
+    "description": "Before attacking, removes own negative effects and after attacking, boosts own damage dealt by 30% for 2 turns.",
+    "name": "Meteor Ashutain",
+    "summary": ""
+  },
+  {
+    "id": 32002045,
+    "description": "After attacking, recovers own HP by 15%.",
+    "name": "Sturzen",
+    "summary": ""
+  },
+  {
+    "id": 32002046,
+    "description": "After attacking, reduces target's Bolt resistance by 15%. (Maximum: 60%)",
+    "name": "Weiss Sturzen",
+    "summary": ""
+  },
+  {
+    "id": 32002047,
+    "description": "After attacking, reduces target's Bolt resistance by 10%. (Maximum: 60%)",
+    "name": "Elgaaluf",
+    "summary": ""
+  },
+  {
+    "id": 32002048,
+    "description": "No additional effects.",
+    "name": "Zerbrechen",
+    "summary": ""
+  },
+  {
+    "id": 32002049,
+    "description": "After attacking, increases target's damage received from weakness attacks by 20%. (Permanent)",
+    "name": "Goldgewitter",
+    "summary": ""
   }
 ]

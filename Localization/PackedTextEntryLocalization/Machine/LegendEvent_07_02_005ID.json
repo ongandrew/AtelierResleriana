@@ -1,0 +1,648 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "止まって！",
+        "localizations": {
+          "en": "Stop right there!"
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "うわぁっ！\u3000な、なんだ！？",
+        "localizations": {
+          "en": "Whoa! W-what's going on?!"
+        }
+      },
+      "2072370017": {
+        "text": "運び屋",
+        "localizations": {
+          "en": "Courier"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "あんたの運んでる荷物、それ神殿に運ばれちゃ\nまずいのよ",
+        "localizations": {
+          "en": "Those goods you're carrying? They can't make it to the temple."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "とにかく取り押さえといたほうがいいぞ。\n操られてて何しでかすか分からねぇ",
+        "localizations": {
+          "en": "Better restrain 'em. No telling what they might do while under control."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "ま、待ってくれ！\u3000操られてるってなんのことだ！？\n俺はただ、荷物を運ぶように依頼されただけだぞ！",
+        "localizations": {
+          "en": "W-wait! What do you mean 'under control'?! I was just hired to make a delivery!"
+        }
+      },
+      "2072370017": {
+        "text": "運び屋",
+        "localizations": {
+          "en": "Courier"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "もっともらしいこと言ってるわね！\nそう言って解放されようとしてるのよ",
+        "localizations": {
+          "en": "Oh, likely story! You're just trying to trick us into letting you go!"
+        }
+      },
+      "2072370017": {
+        "text": "ウィルベル",
+        "localizations": {
+          "en": "Wilbell"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "なっ！\u3000だからなんのことだよ！\u3000放してくれよ！\n今日はこの後、他にも仕事が入ってるんだ！",
+        "localizations": {
+          "en": "What?! I keep telling you, I don't know what you're talking about! Let me go! I've got other jobs lined up today!"
+        }
+      },
+      "2072370017": {
+        "text": "運び屋",
+        "localizations": {
+          "en": "Courier"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "嘘は言っていないみたいですけど……\nこの荷物が何かを知っていますか？",
+        "localizations": {
+          "en": "He doesn't seem to be lying... Do you know what's in these packages?"
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "知らないよ！\u3000俺たちは調査団の本部から\n教会に運べって依頼されただけなんだ！",
+        "localizations": {
+          "en": "No idea! We just got orders from the investigation team's headquarters to deliver them to the church!"
+        }
+      },
+      "2072370017": {
+        "text": "運び屋",
+        "localizations": {
+          "en": "Courier"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "……本当に何も知らないの？",
+        "localizations": {
+          "en": "...You really don't know anything?"
+        }
+      },
+      "2072370017": {
+        "text": "アイラ",
+        "localizations": {
+          "en": "Isla"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "待て！\u3000「俺たち」ということは、もしかして\n荷物を運んでいるのは君だけじゃないということか？",
+        "localizations": {
+          "en": "Hold on! When you say 'we,' does that mean you're not the only one making deliveries?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴィクトル",
+        "localizations": {
+          "en": "Viktor"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "ああ。山のようにあったから、何人かで\n手分けしてるんだ。多分これが最後の荷物だ",
+        "localizations": {
+          "en": "Yeah. There was a mountain of packages, so we split them between a few of us. This is probably the last batch."
+        }
+      },
+      "2072370017": {
+        "text": "運び屋",
+        "localizations": {
+          "en": "Courier"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "えええ！\u3000じゃあもうほとんど運ばれちゃったって\nことじゃん！\u3000まずいよ！",
+        "localizations": {
+          "en": "What?! Then most of them have already been delivered! This is bad!"
+        }
+      },
+      "2072370017": {
+        "text": "アイラ",
+        "localizations": {
+          "en": "Isla"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "申し訳ないけど、荷物は私たちが預かります。あなたは\nここで仕事を終えたことにしてください",
+        "localizations": {
+          "en": "I'm sorry, but we'll be taking these packages. Consider your job here done."
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "急がないと",
+        "localizations": {
+          "en": "We need to hurry!"
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "星の恩寵は皆に行き渡るだけ揃えてあります。\n列を乱さず、速やかに受け取るように",
+        "localizations": {
+          "en": "We have enough of the stars' blessing for everyone. Please remain orderly and collect yours promptly."
+        }
+      },
+      "2072370017": {
+        "text": "神官",
+        "localizations": {
+          "en": "Priest"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "ありがたい……星の恵みがありますように",
+        "localizations": {
+          "en": "Such a blessing... May the stars' grace be with us."
+        }
+      },
+      "2072370017": {
+        "text": "男性Ｃ",
+        "localizations": {
+          "en": "Man C"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "星の恩寵です。受け取り、肌身離さず\n身に着けなさい",
+        "localizations": {
+          "en": "This is the stars' blessing. Take it, and keep it with you always."
+        }
+      },
+      "2072370017": {
+        "text": "神官長",
+        "localizations": {
+          "en": "High Priest"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "うわ。もう配っちゃってる",
+        "localizations": {
+          "en": "Oh no. They're already handing them out!"
+        }
+      },
+      "2072370017": {
+        "text": "アイラ",
+        "localizations": {
+          "en": "Isla"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "星の恩寵などと言っているのか",
+        "localizations": {
+          "en": "Calling it a 'blessing from the stars,' are they?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴィクトル",
+        "localizations": {
+          "en": "Viktor"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "早く止めないと！",
+        "localizations": {
+          "en": "We have to stop this now!"
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "お、お前たちは！？",
+        "localizations": {
+          "en": "Y-you! What are you doing here?!"
+        }
+      },
+      "2072370017": {
+        "text": "神官長",
+        "localizations": {
+          "en": "High Priest"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "石！\u3000あったわね！",
+        "localizations": {
+          "en": "The stones! Found them!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "何を……ぐっ",
+        "localizations": {
+          "en": "What are you... ugh..."
+        }
+      },
+      "2072370017": {
+        "text": "神官長",
+        "localizations": {
+          "en": "High Priest"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "行き違いが生じた！\u3000配布は中止だ！",
+        "localizations": {
+          "en": "There's been a mistake! Distribution is canceled!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴィクトル",
+        "localizations": {
+          "en": "Viktor"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "星の恩寵？\u3000だけど、不良品だったんだ！\nいったん中止するよ～！",
+        "localizations": {
+          "en": "The stars' blessing? Sorry, but they're defective! We need to halt this~!"
+        }
+      },
+      "2072370017": {
+        "text": "アイラ",
+        "localizations": {
+          "en": "Isla"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "受け取っちまった奴は置いていけ！\n集まってる奴らも、とりあえず帰れ！",
+        "localizations": {
+          "en": "If you've received one, leave it here! Everyone else, go home!"
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "な、何を勝手な！",
+        "localizations": {
+          "en": "How dare you act so brazenly!"
+        }
+      },
+      "2072370017": {
+        "text": "神官",
+        "localizations": {
+          "en": "Priest"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "う……や、やめなさい……",
+        "localizations": {
+          "en": "Ugh... s-stop this..."
+        }
+      },
+      "2072370017": {
+        "text": "神官長",
+        "localizations": {
+          "en": "High Priest"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "神官長様もこう仰っている！\n勝手な真似はやめて……",
+        "localizations": {
+          "en": "The High Priest commands it! Cease this at once..."
+        }
+      },
+      "2072370017": {
+        "text": "神官",
+        "localizations": {
+          "en": "Priest"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "いえ、やめるのはあなたです、落ち着いて",
+        "localizations": {
+          "en": "No, you are the one who must stop. Please, calm yourself."
+        }
+      },
+      "2072370017": {
+        "text": "神官長",
+        "localizations": {
+          "en": "High Priest"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "え……",
+        "localizations": {
+          "en": "What...?"
+        }
+      },
+      "2072370017": {
+        "text": "神官",
+        "localizations": {
+          "en": "Priest"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "彼らの言う通りなのです。\n配布は、中止にしなければならない",
+        "localizations": {
+          "en": "They speak the truth. We must cease distribution immediately."
+        }
+      },
+      "2072370017": {
+        "text": "神官長",
+        "localizations": {
+          "en": "High Priest"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "神官長様！？",
+        "localizations": {
+          "en": "High Priest?!"
+        }
+      },
+      "2072370017": {
+        "text": "神官",
+        "localizations": {
+          "en": "Priest"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "この星の恩寵には大きな欠陥が見つかったとの\n星のお声が降りたのです",
+        "localizations": {
+          "en": "The stars have spoken to me of a grave defect in these blessings."
+        }
+      },
+      "2072370017": {
+        "text": "神官長",
+        "localizations": {
+          "en": "High Priest"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "手にした方々は教会へ返却に来るように。\n皆も他の人たちに伝えてください",
+        "localizations": {
+          "en": "Those who have received one must return it to the church. Please spread word to the others."
+        }
+      },
+      "2072370017": {
+        "text": "神官長",
+        "localizations": {
+          "en": "High Priest"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "……まずは礼を。私は神官長の身でありながら、\nどうやら操られていたようです",
+        "localizations": {
+          "en": "...First, I must thank you. Despite my position as High Priest, it seems I was being controlled."
+        }
+      },
+      "2072370017": {
+        "text": "神官長",
+        "localizations": {
+          "en": "High Priest"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "調査団、団長――彼を止めてください",
+        "localizations": {
+          "en": "The investigation team's leader... please, stop him."
+        }
+      },
+      "2072370017": {
+        "text": "神官長",
+        "localizations": {
+          "en": "High Priest"
+        }
+      }
+    }
+  }
+]

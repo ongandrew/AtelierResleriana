@@ -3306,7 +3306,7 @@
   },
   {
     "id": 1990344,
-    "description": "When using a burst panel, restores own HP by {0}% and activates Panel Skill: {{hyperlink_id 143}} on enemy with highest current HP. Becomes more likely to be targeted by enemies. Boosts own P.DEF and M.DEF by {1}%.",
+    "description": "When using a burst panel, restores own HP by {0}% and activates panel skill: {{hyperlink_id 143}} on enemy with highest current HP. Becomes more likely to be targeted by enemies. Boosts own P.DEF and M.DEF by {1}%.",
     "name": "My Limits Are Mine to Decide"
   },
   {
@@ -3362,6 +3362,91 @@
   {
     "id": 26233001,
     "description": "After attacking a weakness, grants self regeneration (10% / 3 times).",
+    "name": ""
+  },
+  {
+    "id": 301161,
+    "description": "When equipped by Nina [Mysterious Mercenary], restores all allies' HP by 5% after using a skill.",
+    "name": "Oryx Apostle"
+  },
+  {
+    "id": 301162,
+    "description": "While equipped to a Supporter with Fire affinity, after using a skill, boosts the skill damage of the ally with highest M.ATK by {0}% for 1 turn. (cannot be stacked).",
+    "name": "Cavalier Plate"
+  },
+  {
+    "id": 301163,
+    "description": "While equipped to a Supporter with Fire affinity, after using a skill, boosts the skill damage of the ally with highest M.ATK by {0}% for 1 turn. (cannot be stacked).",
+    "name": "Cavalier Plate"
+  },
+  {
+    "id": 301164,
+    "description": "While equipped to a Supporter with Fire affinity, boosts potency of granted positive effects by {0}%.",
+    "name": "Eternal Flower"
+  },
+  {
+    "id": 301165,
+    "description": "While equipped to a Supporter with Fire affinity, boosts potency of granted positive effects by {0}%.",
+    "name": "Eternal Flower"
+  },
+  {
+    "id": 1980187,
+    "description": "Boosts P.ATK, M.ATK, P.DEF, and M.DEF by {0}% for members of the Aladiss Research Team.",
+    "name": "Mysterious Mercenary"
+  },
+  {
+    "id": 1990342,
+    "description": "When using a burst panel, restores the item gauge by {0}% and activates panel skill: {{hyperlink_id 122}} on enemy with highest current HP.<br>Boosts effects received from positive panels by {1}% for all allies with Fire affinity.",
+    "name": "Let's All Rush Forward!"
+  },
+  {
+    "id": 1990343,
+    "description": "After using a skill, restores the item gauge by {0}% and restores all allies' HP by {1}%.<br>When granted Evasion, boosts M.ATK for all allies with Fire affinity by {2}% for 1 turn. (cannot be stacked).",
+    "name": "There's Always More to Learn"
+  },
+  {
+    "id": 4990858,
+    "description": "While equipped to a Supporter, boosts magical skill damage by {0}% for all allies.",
+    "name": "Supporter Magic Damage Up (All) III"
+  },
+  {
+    "id": 4990859,
+    "description": "While equipped to a Supporter, boosts magical skill damage by {0}% for all allies.",
+    "name": "Supporter Magic Damage Up (All) III"
+  },
+  {
+    "id": 4990860,
+    "description": "While equipped to a Supporter, boosts magical skill damage by {0}% for all allies.",
+    "name": "Supporter Magic Damage Up (All) III"
+  },
+  {
+    "id": 4990861,
+    "description": "While equipped to a Supporter, boosts magical skill damage by {0}% for all allies.",
+    "name": "Supporter Magic Damage Up (All) III"
+  },
+  {
+    "id": 4990862,
+    "description": "While equipped to a Supporter, boosts magical skill damage by {0}% for all allies.",
+    "name": "Supporter Magic Damage Up (All) III"
+  },
+  {
+    "id": 26022000,
+    "description": "Increases damage received by 100% while stunned.\nRemoves all positive effects from self when stunned.",
+    "name": ""
+  },
+  {
+    "id": 26030000,
+    "description": "When hit by a physical attack, grants self damage dealt +15% and damage received +15% for 3 hits.\nWhen hit by a magical attack, grants self damage received -15% and damage dealt -15% for 3 hits.\neffect_motion included.",
+    "name": ""
+  },
+  {
+    "id": 26176000,
+    "description": "At the start of the wave, grants self damage dealt +1000% against enemies without Fire affinity.",
+    "name": ""
+  },
+  {
+    "id": 26187000,
+    "description": "At the start of the wave, grants self damage dealt +1000% against enemies without Air affinity.",
     "name": ""
   }
 ]

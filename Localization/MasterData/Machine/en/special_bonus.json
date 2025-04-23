@@ -328,5 +328,27 @@
     ],
     "end_at": "2025-04-30T03:00:00Z",
     "start_at": "2025-04-16T03:00:00Z"
+  },
+  {
+    "id": 49,
+    "bonuses": [
+      {
+        "name": "Challenge Ticket Bonus",
+        "warning_text": "The Challenge Ticket [Deserted Island Survey: Magic] bonus is limited to a maximum of +10 tickets for the entire party."
+      }
+    ],
+    "end_at": "2025-04-30T03:00:00Z",
+    "start_at": "2025-04-23T03:00:00Z"
+  },
+  {
+    "id": 54,
+    "bonuses": [
+      {
+        "name": "Challenge Ticket Bonus",
+        "warning_text": "The Challenge Ticket [Deserted Island Survey: Magic] bonus is limited to a maximum of +10 tickets for the entire party."
+      }
+    ],
+    "end_at": "2025-04-30T03:00:00Z",
+    "start_at": "2025-04-23T03:00:00Z"
   }
 ]

@@ -313,5 +313,20 @@
     "overlay_name": "Rutger Arendt",
     "profile_voice_text": "Name's Rutger. I'll take on requests if the pay's right.\nJust don't expect me to take on anything that's not worth my time.",
     "start_at": "2025-04-16T03:00:00Z"
+  },
+  {
+    "id": 50601,
+    "acquisition_text": "I'm looking for something.\nWon't you take me along on your journey?",
+    "another_name": "Mysterious Mercenary",
+    "description": "A mysterious woman who is a member of the research team.\nFormerly active as a mercenary, she possesses such high capability that she can conduct investigations even on her own.\nWhile she maintains a mysterious aura, she also has a cheerful and mischievous side.",
+    "fullname": "Nina Friede",
+    "leader_skill": {
+      "description": "Boosts Aladiss Research Team characters' P.ATK, M.ATK, P.DEF, and M.DEF by 30%.",
+      "name": "Enigmatic Ex-Mercenary"
+    },
+    "name": "Nina",
+    "overlay_name": "Nina Friede",
+    "profile_voice_text": "I'm Nina. Usually I work as a mercenary.\nHehe... I live each day freely.",
+    "start_at": "2025-04-23T03:00:00Z"
   }
 ]

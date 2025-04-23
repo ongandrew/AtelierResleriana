@@ -1413,5 +1413,50 @@
     "id": 910161,
     "description": "Boosts physical damage received by {value}%. (MAX 4 stacks)",
     "name": "Physical Received Damage Up"
+  },
+  {
+    "id": 510126,
+    "description": "Boosts positive effects received from boost panels by {value}%.",
+    "name": "Boost Panel Effect Up"
+  },
+  {
+    "id": 510129,
+    "description": "Boosts M.ATK by {value}%. (Cannot be stacked)",
+    "name": "There's Always More to Learn"
+  },
+  {
+    "id": 610236,
+    "description": "Treats target afflicted with this status as being in the outer range.",
+    "name": "Outer Range State"
+  },
+  {
+    "id": 610238,
+    "description": "Treats target afflicted with this status as being in the inner range.",
+    "name": "Inner Range State"
+  },
+  {
+    "id": 610248,
+    "description": "Boosts effects received from boost-type panels by {value}%. (Cannot be stacked)",
+    "name": "Boost-type Panel Effect Up"
+  },
+  {
+    "id": 800134,
+    "description": "Boosts skill damage by {value}%. (Cannot be stacked)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 800135,
+    "description": "Boosts skill damage by {value}%. (Cannot be stacked)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 810128,
+    "description": "Boosts damage dealt to targets without Fire affinity by {value}%. Cannot be removed.",
+    "name": "Conditional Dealt Damage Up"
+  },
+  {
+    "id": 810130,
+    "description": "Boosts damage dealt to targets without Air affinity by {value}%. Cannot be removed.",
+    "name": "Conditional Dealt Damage Up"
   }
 ]

@@ -967,5 +967,49 @@
     ],
     "start_at": "2025-04-16T03:00:00Z",
     "tracking_id": "af_synthesis_recipe_693"
+  },
+  {
+    "id": 703,
+    "name": "Orx Apostle",
+    "requirements": [
+      {
+        "name": "Awaken Nina [Mysterious Mercenary] to ★5"
+      }
+    ],
+    "start_at": "2025-04-23T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_694"
+  },
+  {
+    "id": 704,
+    "name": "Cavalier Plate",
+    "requirements": [
+      {
+        "name": "Gather Sticky Thread × 10"
+      }
+    ],
+    "start_at": "2025-04-23T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_695"
+  },
+  {
+    "id": 705,
+    "name": "Eternal Flower",
+    "requirements": [
+      {
+        "name": "Gather Kasadake × 10"
+      }
+    ],
+    "start_at": "2025-04-23T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_696"
+  },
+  {
+    "id": 706,
+    "name": "Happy Shuttle",
+    "requirements": [
+      {
+        "name": "Gather Kasadake × 10"
+      }
+    ],
+    "start_at": "2025-04-23T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_697"
   }
 ]

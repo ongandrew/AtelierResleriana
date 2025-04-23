@@ -4558,5 +4558,175 @@
     "id": 95000205,
     "description": "When attacking, increases target's physical damage received for 2 hits (max 4 stacks).",
     "popup_text": ""
+  },
+  {
+    "id": 6001038,
+    "description": "When equipped to Nina [Mysterious Mercenary], recovers HP of all allies after using a skill.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001039,
+    "description": "While equipped to a Supporter with Fire affinity, after using a skill, grants Skill Damage Up to 1 ally with highest M.ATK for 1 turn. (Cannot be stacked)",
+    "popup_text": ""
+  },
+  {
+    "id": 6001040,
+    "description": "While equipped to a Supporter with Fire affinity, after using a skill, grants Skill Damage Up to 1 ally with highest M.ATK for 1 turn. (Cannot be stacked)",
+    "popup_text": ""
+  },
+  {
+    "id": 6001041,
+    "description": "While equipped to a Supporter with Fire affinity, increases potency of positive effects granted.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001042,
+    "description": "Reduces Status Effect Resistance of 1 enemy with highest max HP for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001043,
+    "description": "Increases magical damage received by 1 enemy with highest max HP for 2 attacks.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001263,
+    "description": "state_change_use",
+    "popup_text": ""
+  },
+  {
+    "id": 72001264,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001266,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001272,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001273,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 86030010,
+    "description": "When hit by physical attacks, boosts own damage dealt for 3 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 86030011,
+    "description": "When hit by physical attacks, increases own damage received for 3 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 86030012,
+    "description": "When hit by magical attacks, reduces own damage dealt for 3 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 86030013,
+    "description": "When hit by magical attacks, reduces own damage received for 3 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 86176000,
+    "description": "Boosts own damage dealt to targets without Fire affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 86187000,
+    "description": "Boosts own damage dealt to targets without Air affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 91001661,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001663,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001664,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001667,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001668,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001679,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001680,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001681,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001682,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001683,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001684,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001685,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001686,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001696,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001697,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001716,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000206,
+    "description": "While self is a Supporter, boosts magical skill damage for all allies.",
+    "popup_text": ""
   }
 ]

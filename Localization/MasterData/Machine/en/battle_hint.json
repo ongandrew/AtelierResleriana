@@ -1114,5 +1114,89 @@
   {
     "id": 60233002,
     "description": "- Reduces all opponents' Bolt resistance\n- When attacking a weakness, grants self Regen\n- Increases all opponents' damage received from attacks targeting their weaknesses\n- Restores own HP\n- Removes all negative effects from self"
+  },
+  {
+    "id": 60010012,
+    "description": "- Inflicts Poison\n- At the start of battle, boosts damage dealt to opponents without Air affinity"
+  },
+  {
+    "id": 60019011,
+    "description": "- No tips available."
+  },
+  {
+    "id": 60019013,
+    "description": "- At the start of battle, boosts damage dealt to opponents without Air affinity"
+  },
+  {
+    "id": 60022005,
+    "description": "- While stunned, boosts damage received\n- When stunned, removes all positive effects\n- Delays turn\n- Boosts own damage dealt and restores stun gauge"
+  },
+  {
+    "id": 60030004,
+    "description": "- When hit by a physical attack, boosts own damage dealt and damage received\n- When hit by a magic attack, reduces own damage dealt and damage received\n- Chance to counter"
+  },
+  {
+    "id": 60063008,
+    "description": "- When inflicted with negative effects, boosts damage and stun damage received\n- Removes all positive effects from opponents\n- Inflicts Poison\n- Heals allies"
+  },
+  {
+    "id": 60064002,
+    "description": "- When inflicted with negative effects, boosts damage and stun damage received\n- Removes all positive effects from opponents\n- Restores allies' HP\n- Restores allies' stun gauge"
+  },
+  {
+    "id": 60076001,
+    "description": "- When stunned, removes all positive effects and reduces SPD"
+  },
+  {
+    "id": 60077001,
+    "description": "- When stunned, removes all positive effects and reduces SPD"
+  },
+  {
+    "id": 60097010,
+    "description": "- When KO'd, reduces all opponents' damage dealt\n- When KO'd, boosts all opponents' damage received\n- Delays turn"
+  },
+  {
+    "id": 60097012,
+    "description": "- When KO'd, reduces all opponents' damage dealt\n- When KO'd, boosts all opponents' damage received\n- Delays turn\n- At the start of battle, boosts damage dealt to opponents without Air affinity"
+  },
+  {
+    "id": 60102005,
+    "description": "- When hit while inflicted with a status effect, becomes stunned\n- While stunned, boosts damage received when hit\n- Heals self\n- Restores own stun gauge"
+  },
+  {
+    "id": 60118005,
+    "description": "- When inflicted with a status effect, reduces damage dealt and boosts damage received\n- Advances all allies' turns\n- Grants self damage dealt up, SPD up, and reduces status effect resistance"
+  },
+  {
+    "id": 60176001,
+    "description": "- When acquiring boost-type panels, boosts damage dealt and removes damage dealt down\n- When acquiring weaken panels, reduces damage dealt and removes damage dealt up\n- Converts opponent's non-burst panels to weaken panels\n- Converts own non-burst panels to boost panels\n- Advances all allies' turns"
+  },
+  {
+    "id": 60176003,
+    "description": "- When acquiring boost-type panels, boosts damage dealt and removes damage dealt down\n- When acquiring weaken panels, reduces damage dealt and removes damage dealt up\n- Converts opponent's non-burst panels to weaken panels\n- Converts own non-burst panels to boost panels\n- Advances all allies' turns\n- At the start of battle, boosts damage dealt to opponents without Fire affinity"
+  },
+  {
+    "id": 60187003,
+    "description": "- When damaged by battle items, reduces all element resistances\n- Reduces negative effect potency received"
+  },
+  {
+    "id": 60187005,
+    "description": "- When damaged by battle items, reduces all element resistances\n- Reduces negative effect potency received\n- At the start of battle, boosts damage dealt to opponents without Air affinity"
+  },
+  {
+    "id": 60190015,
+    "description": "- When KO'd, boosts damage dealt for all opponents and allies\n- Chance to inflict Burn\n- Converts all allies' panels to boost panels"
+  },
+  {
+    "id": 60190017,
+    "description": "- When KO'd, boosts damage dealt for all opponents and allies\n- Chance to inflict Burn\n- Converts all allies' panels to boost panels\n- At the start of battle, boosts damage dealt to opponents without Fire affinity"
+  },
+  {
+    "id": 60214002,
+    "description": "- When KO'd, converts weaken panels to darkness panels\n- Inflicts Darkness\n- Reduces positive effect potency received by all opponents\n- Converts all opponents' non-burst panels to weaken panels"
+  },
+  {
+    "id": 60214004,
+    "description": "- When KO'd, converts weaken panels to darkness panels\n- Inflicts Darkness\n- Reduces positive effect potency received by all opponents\n- Converts all opponents' non-burst panels to weaken panels\n- At the start of battle, boosts damage dealt to opponents without Fire affinity"
   }
 ]

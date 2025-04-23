@@ -158,5 +158,15 @@
     "id": 277,
     "description": "Boosts critical damage of all Attacker allies by {0}% for 1 turn.",
     "name": "Enhance Fruit"
+  },
+  {
+    "id": 278,
+    "description": "Inflicts status effect resistance -{0}% and received M. ATK damage +{1}% to enemy with the highest max HP for 2 turns.",
+    "name": "Hapless Shuttle"
+  },
+  {
+    "id": 279,
+    "description": "Inflicts status effect resistance -{0}% and received M. ATK damage +{1}% to enemy with the highest max HP for 2 turns.",
+    "name": "Hapless Shuttle"
   }
 ]

@@ -1561,5 +1561,59 @@
     "name": "Yumia Festival - LEGEND FES Rutger: The Cutter Who Laughs at Adversity [Paid Lodestar Gems Only]",
     "start_at": "2025-04-16T03:00:00Z",
     "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 2240,
+    "description": "Nina makes her debut!\nFeatured until 2025/05/01 11:59 (UTC+8).",
+    "end_at": "2025-05-01T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Yumia Festival Mysterious & Beauty Nina LEGEND FES",
+    "name": "Yumia Festival Mysterious & Beauty Nina LEGEND FES",
+    "start_at": "2025-04-23T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2241,
+    "description": "For every 20 Wishes with Paid Lodestar Gems, get 10 Wishes for free! Max 5 times!\nUntil 2025/05/01 11:59 (UTC+8).",
+    "end_at": "2025-05-01T03:00:00Z",
+    "name": "Yumia Festival Mysterious & Beauty Nina LEGEND FES [Paid Lodestar Gems Only]",
+    "start_at": "2025-04-23T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 3001,
+    "description": "One time only! Guaranteed ★3 character & SSR Memoria!\nUntil 2025/05/01 11:59 (UTC+8).",
+    "end_at": "2025-05-01T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 30011,
+            "description": "{} Times Left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Yumia's Atelier 300,000 Downloads Celebration ★3 Character & SSR Memoria Guaranteed Wish",
+    "name": "Yumia's Atelier 300,000 Downloads Celebration ★3 Character & SSR Memoria Guaranteed Wish",
+    "start_at": "2025-04-23T03:00:00Z",
+    "step_up_loop_description": ""
   }
 ]

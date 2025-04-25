@@ -1,0 +1,1515 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "（ランターナからの長い船旅で、\n\u3000食料も結構消費しちゃったなあ）",
+        "localizations": {
+          "en": "(We used up quite a bit of food during our long voyage from Lantarna.)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "（ユナさんに補充をお願いされたけど、\n\u3000いくつかは錬金術で調合するとして……）",
+        "localizations": {
+          "en": "(Juna asked me to restock our supplies, and while I'll synthesize some of it...)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "（せっかくだし、この島ならではの食材とか\n\u3000使ったものを用意してみようかな？）",
+        "localizations": {
+          "en": "(Maybe I should try to make something using ingredients unique to this island?)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "と、なると……まずは現地のお店を\n回ってみるのが一番だよね",
+        "localizations": {
+          "en": "In that case... I should probably start by checking out the local shops."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "うん、よし！\u3000とにかく、\nまずは行ってみよう！\nノーヴァ神聖国の冒険に、いざ行かん！",
+        "localizations": {
+          "en": "Right! Time to get going! Let the Nova adventure begin!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "なになに？\u3000冒険っすか？",
+        "localizations": {
+          "en": "Hmm? Did someone say adventure?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "わあっ！？\nア、アルビーナ！？",
+        "localizations": {
+          "en": "Waaah?! A-Alvina?!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "どーも！\u3000アルビちゃんです！\nごきげんいかが？",
+        "localizations": {
+          "en": "Heya! Alvie at your service! How's it going?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "驚いて大きな声を出しちゃったよ",
+        "localizations": {
+          "en": "You startled me so much I shouted!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "あはは、驚かせるつもりは\nこれっぽっちもなかったんだけどねー",
+        "localizations": {
+          "en": "Ahaha, I didn't mean to surprise you at all, really!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "それで？\u3000冒険って？\u3000どこかに行くの？",
+        "localizations": {
+          "en": "So? Adventure? Where are you headed?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "ノーヴァ神聖国で現地の食材を\n手に入れようと思ったんだ",
+        "localizations": {
+          "en": "I was planning to get some local ingredients here in Nova."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "今後の船旅のために食料を補充したいん\nだけど、せっかくなら新しい食文化にも\n触れてみたいから",
+        "localizations": {
+          "en": "We need to restock for the rest of our voyage, and I figured it'd be nice to experience a new food culture while we're here."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "なるほどっす、なるほどっす。\nそういうことなら、いいお店知ってるよ！\nよかったら、案内しよっか？",
+        "localizations": {
+          "en": "I see, I see! Well if that's the case, I know some great places! Want me to show you around?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "ノーヴァ神聖国の誇る「星の案内人」である\nアルビちゃんなら間違いないよ！",
+        "localizations": {
+          "en": "You can't go wrong with Alvie, Nova's finest Star Guide!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "ぜひお願い！",
+        "localizations": {
+          "en": "Yes please!"
+        }
+      },
+      "2072370017": {
+        "text": "選択肢",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "それ、すっごく助かるかも！\nぜひお願い！",
+        "localizations": {
+          "en": "That would be super helpful! Yes please!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "お任せあれい！\nというわけで、案内料はっと……",
+        "localizations": {
+          "en": "Leave it to me! Now, as for my guide fee..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "お金取るの！？",
+        "localizations": {
+          "en": "You're charging me?!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "そりゃ～星の案内人ですから！",
+        "localizations": {
+          "en": "Well, I am a Star Guide after all!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "あ、そっか……\nだったら、今回は自分で――",
+        "localizations": {
+          "en": "Oh, right... In that case, maybe I should just—"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "ふふっ、冗談すよ、冗談！\nそこまでアコギなことはしませんって！",
+        "localizations": {
+          "en": "Hehe, just kidding, just kidding! I'm not that mercenary!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "なんだ冗談かあ……\nびっくりさせるのがうまいねぇ、アルビーナ",
+        "localizations": {
+          "en": "So it was a joke... You're really good at surprising people, Alvina."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "助かるけど、なんだか悪いような……",
+        "localizations": {
+          "en": "That's helpful, but I feel bad..."
+        }
+      },
+      "2072370017": {
+        "text": "選択肢",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "予定とか、ないの？\n助かるけど、なんだか悪いような……",
+        "localizations": {
+          "en": "Don't you have plans? That's helpful, but I feel bad..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "いや、ちょうど暇してたから大丈夫",
+        "localizations": {
+          "en": "Nah, I was just killing time, so it's fine."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "港に来たのは、散歩がてら\nみんなの様子を見にきただけだから",
+        "localizations": {
+          "en": "I only came to the harbor for a walk and to check how everyone was doing."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "それに！\nアタシ、これでも星の案内人だよ？\n案内が必要そうな人は放っておけないって！",
+        "localizations": {
+          "en": "Besides! I am a Star Guide after all! I can't just leave someone who needs directions!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "んー……そこまで言ってくれるなら、\n案内お願いしちゃおうかな？",
+        "localizations": {
+          "en": "Hmm... Well, if you insist, I'll take you up on your offer."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "遺跡以外のことも詳しいんだ？",
+        "localizations": {
+          "en": "You know about more than just ruins?"
+        }
+      },
+      "2072370017": {
+        "text": "選択肢",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "もしかしなくても、\n遺跡以外のことも詳しいんだ？",
+        "localizations": {
+          "en": "I'm guessing you know about more than just ruins?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "それはもちろん！\nじゃなきゃ、案内人は務まらないって！",
+        "localizations": {
+          "en": "Of course! I wouldn't be much of a guide otherwise!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "この島一番の案内人と名高い\nアルビちゃんの実力。\n余すことなく見せちゃうから！",
+        "localizations": {
+          "en": "Just watch as I show off the full extent of my skills as the island's top guide!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "なら、お店の案内お願いしようかな？",
+        "localizations": {
+          "en": "In that case, I'd love for you to show me around the shops."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "それじゃあ、\n星の案内人であるアルビちゃんが\nご要望通りのお店に案内しちゃいます！",
+        "localizations": {
+          "en": "Then allow me, Alvie the Star Guide, to take you to exactly the shops you're looking for!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "おおー、頼もしい！",
+        "localizations": {
+          "en": "Wow, I'm impressed!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "けど、案内してもらうだけなのも\n悪いよ、何かお礼をば……",
+        "localizations": {
+          "en": "But I feel bad just having you guide me. I should give you something in return..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "気にしなくていいって。\nアタシが案内したくて案内するだけだから",
+        "localizations": {
+          "en": "Don't worry about it. I'm guiding you because I want to."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "そう……？",
+        "localizations": {
+          "en": "Really...?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "もし、それでも気になるなら、\n冒険のお話聞かせてくださいよ",
+        "localizations": {
+          "en": "Well, if you're still concerned, you could tell me about your adventures."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "冒険？",
+        "localizations": {
+          "en": "Adventures?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "そう！\nノーヴァ神聖国に来るまでの！",
+        "localizations": {
+          "en": "Yeah! About how you got to Nova!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "いくらでもしてあげるよ！",
+        "localizations": {
+          "en": "I'd be happy to tell you!"
+        }
+      },
+      "2072370017": {
+        "text": "選択肢",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 43,
+    "properties": {
+      "999008199": {
+        "text": "削除",
+        "localizations": {
+          "en": null
+        }
+      },
+      "2072370017": {
+        "text": "削除",
+        "localizations": {
+          "en": null
+        }
+      }
+    }
+  },
+  {
+    "id": 44,
+    "properties": {
+      "999008199": {
+        "text": "それなら、いくらでもしてあげるよ！",
+        "localizations": {
+          "en": "I'd be happy to tell you all about it!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 45,
+    "properties": {
+      "999008199": {
+        "text": "本当！？\u3000根掘り葉掘り、\nあれやこれや聞いちゃうよ！？",
+        "localizations": {
+          "en": "Really?! I'm going to ask tons of questions, you know?!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 46,
+    "properties": {
+      "999008199": {
+        "text": "もちろんだよ。\n答えられることなら、なんでもどうぞ",
+        "localizations": {
+          "en": "Of course. I'll answer anything I can."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 47,
+    "properties": {
+      "999008199": {
+        "text": "ええ～！？\u3000ヤバい！\n急にこんな機会が来るなんて……！",
+        "localizations": {
+          "en": "Whaaaat?! This is crazy! I never expected to get an opportunity like this...!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 48,
+    "properties": {
+      "999008199": {
+        "text": "やったぁ～！\nめっちゃラッキー！",
+        "localizations": {
+          "en": "Yesss! So lucky!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 49,
+    "properties": {
+      "999008199": {
+        "text": "そんなことでいいの？",
+        "localizations": {
+          "en": "Is that enough for you?"
+        }
+      },
+      "2072370017": {
+        "text": "選択肢",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 50,
+    "properties": {
+      "999008199": {
+        "text": "別にいいけど、そんなことでいいの？",
+        "localizations": {
+          "en": "I don't mind, but is that enough for you?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 51,
+    "properties": {
+      "999008199": {
+        "text": "チッチッチッ、アタシにとっては\n『そんなこと』じゃないんすよ！",
+        "localizations": {
+          "en": "Tsk, tsk, tsk! It's not just \"enough\" for me!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 52,
+    "properties": {
+      "999008199": {
+        "text": "なんてったって、生まれてこの方\nず～～っとノーヴァ神聖国の外に\n出たことないし……",
+        "localizations": {
+          "en": "I mean, I've lived my entire life without ever leaving Nova..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 53,
+    "properties": {
+      "999008199": {
+        "text": "それに、案内人として島の外のお話を\nたくさん聞いて勉強することも\n大事だと思うんだよねー",
+        "localizations": {
+          "en": "Plus, as a guide, I think it's important to learn about the world outside the island by listening to lots of stories."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 54,
+    "properties": {
+      "999008199": {
+        "text": "爆速冒険語り",
+        "localizations": {
+          "en": "Speed-run adventure storytelling"
+        }
+      },
+      "2072370017": {
+        "text": "選択肢",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 55,
+    "properties": {
+      "999008199": {
+        "text": "もちろんいいよ！\n思い返せば、色んなことがあったなあ",
+        "localizations": {
+          "en": "Of course! Come to think of it, we've been through so much."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 56,
+    "properties": {
+      "999008199": {
+        "text": "始まりは一人前の錬金術士になるために\n王都へ向かっていた旅の途中。\n聞くも涙、語るも涙の出会いの物語",
+        "localizations": {
+          "en": "It all began during my journey to the capital to become a full-fledged alchemist. A tearful tale of fateful encounters!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 57,
+    "properties": {
+      "999008199": {
+        "text": "私は初めて錬金術士の先輩方と出会い、\n未熟だった技術や精神について教わり、\n錬金術を通して一人の人としての――",
+        "localizations": {
+          "en": "I met my senior alchemists for the first time, who taught me about my undeveloped techniques and mindset, and through alchemy, I grew as a person—"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 58,
+    "properties": {
+      "999008199": {
+        "text": "だあああ！\u3000止まって！\nこれ、もしかして腰を据えて\n聞く必要がある！？",
+        "localizations": {
+          "en": "Whoa, whoa, whoa! Hold up! Is this going to be a sit-down-and-get-comfortable kind of story?!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 59,
+    "properties": {
+      "999008199": {
+        "text": "ご、ごめん……\n一から話してたら、\n今日中には終わらないかも",
+        "localizations": {
+          "en": "S-sorry... If I start from the beginning, we might not finish by the end of today."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 60,
+    "properties": {
+      "999008199": {
+        "text": "ええ！？\u3000めっちゃ冒険してるってこと！？\nす、すごーい！",
+        "localizations": {
+          "en": "What?! So you've been on THAT many adventures?! A-amazing!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 61,
+    "properties": {
+      "999008199": {
+        "text": "冒険の話を聞かせてくれるレスナのために、\nまずは水分補給用の天然水を用意しなくちゃ",
+        "localizations": {
+          "en": "I should get some spring water for Resna, so she doesn't get dehydrated while telling her stories."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 62,
+    "properties": {
+      "999008199": {
+        "text": "――って、やることやってからだよね！",
+        "localizations": {
+          "en": "—Wait, we have things to do first!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 63,
+    "properties": {
+      "999008199": {
+        "text": "いや～、冒険のお話聞けるからって\nちょっと浮かれちゃってた",
+        "localizations": {
+          "en": "Sorry, I got a bit carried away at the thought of hearing adventure stories."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 64,
+    "properties": {
+      "999008199": {
+        "text": "そんなに楽しみなんだね",
+        "localizations": {
+          "en": "You're really looking forward to it, huh?"
+        }
+      },
+      "2072370017": {
+        "text": "選択肢",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 65,
+    "properties": {
+      "999008199": {
+        "text": "削除",
+        "localizations": {
+          "en": null
+        }
+      },
+      "2072370017": {
+        "text": "削除",
+        "localizations": {
+          "en": null
+        }
+      }
+    }
+  },
+  {
+    "id": 66,
+    "properties": {
+      "999008199": {
+        "text": "ふふ、そんなに楽しみなんだね",
+        "localizations": {
+          "en": "Hehe, you're really looking forward to it, huh?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 67,
+    "properties": {
+      "999008199": {
+        "text": "それはもう！\nここで暮らしてると、\n毎日毎日同じことの繰り返しだし……",
+        "localizations": {
+          "en": "You bet! When you live here, every day is pretty much the same..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 68,
+    "properties": {
+      "999008199": {
+        "text": "もちろん、お客さんから島外の話を\n聞く機会はなくはないけど……",
+        "localizations": {
+          "en": "I mean, I do get to hear stories from visitors about the outside world, but..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 69,
+    "properties": {
+      "999008199": {
+        "text": "お仕事してる途中で、そこまで詳しく\n聞いたりする暇はないからさ",
+        "localizations": {
+          "en": "I never have time to listen to all the details while I'm working."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 70,
+    "properties": {
+      "999008199": {
+        "text": "それもそっか",
+        "localizations": {
+          "en": "That makes sense."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 71,
+    "properties": {
+      "999008199": {
+        "text": "それに、同じ錬金術士となると\n師匠以外にはだ～れもいなかったんで",
+        "localizations": {
+          "en": "And when it comes to other alchemists, I've never met anyone except my master."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 72,
+    "properties": {
+      "999008199": {
+        "text": "だから、すっごく楽しみなんだよね！",
+        "localizations": {
+          "en": "So I'm super excited about this!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 73,
+    "properties": {
+      "999008199": {
+        "text": "焦らなくてもいいよ",
+        "localizations": {
+          "en": "No need to rush"
+        }
+      },
+      "2072370017": {
+        "text": "選択肢",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 74,
+    "properties": {
+      "999008199": {
+        "text": "ふふ、そんなに焦らなくてもいいよ。\nちゃんとお話してあげるから",
+        "localizations": {
+          "en": "Hehe, there's no need to rush. I promise I'll tell you all about it."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 75,
+    "properties": {
+      "999008199": {
+        "text": "あははは……師匠以外の錬金術士の\nお話を聞けると思ったら、つい……",
+        "localizations": {
+          "en": "Ahaha... I just got carried away at the thought of hearing stories from another alchemist besides my master..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 76,
+    "properties": {
+      "999008199": {
+        "text": "どんな風に活動してるのか、\n全然知らないから",
+        "localizations": {
+          "en": "I have no idea how other alchemists actually work."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 77,
+    "properties": {
+      "999008199": {
+        "text": "それに島にずっといると、\n毎日があんまり代り映えしないからさ。\n外の話に飢えてるんだよ……",
+        "localizations": {
+          "en": "Plus when you're stuck on this island, every day feels the same. I'm starved for stories from the outside..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 78,
+    "properties": {
+      "999008199": {
+        "text": "そんなに楽しみなら、先にお話する？",
+        "localizations": {
+          "en": "If you're that excited, should I tell you now?"
+        }
+      },
+      "2072370017": {
+        "text": "選択肢",
+        "localizations": {
+          "en": "Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 79,
+    "properties": {
+      "999008199": {
+        "text": "そんなに楽しみなら、先にお話する？\n食料の調達はそこまで急ぎじゃないしね",
+        "localizations": {
+          "en": "If you're that excited, should I tell you now? Getting supplies isn't that urgent."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 80,
+    "properties": {
+      "999008199": {
+        "text": "いや、それはさすがに……！",
+        "localizations": {
+          "en": "No, I couldn't possibly...!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 81,
+    "properties": {
+      "999008199": {
+        "text": "まずは案内人としての役目を果たしてから！\nこれはレスナを\n案内することに対してのお礼だからね",
+        "localizations": {
+          "en": "I need to fulfill my duty as a guide first! This is a reward for guiding you, after all."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 82,
+    "properties": {
+      "999008199": {
+        "text": "アルビちゃんは責任感のあるプロなんで！\nその辺りはきっちり、しっかりしてますよ！",
+        "localizations": {
+          "en": "Alvie is a responsible professional! I take these things very seriously!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 83,
+    "properties": {
+      "999008199": {
+        "text": "というわけで、早速案内するから！\nはぐれないよう、アタシについてきて\nくださいね～！",
+        "localizations": {
+          "en": "So, let's get going! Make sure you stay close and don't get separated from me!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 84,
+    "properties": {
+      "999008199": {
+        "text": "（ふふふ、一目見て分かるくらい\n\u3000ご機嫌だなあ）",
+        "localizations": {
+          "en": "(Hehehe, she's visibly in a good mood.)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 85,
+    "properties": {
+      "999008199": {
+        "text": "（冒険の話をするってだけなのに、\n\u3000まさかあんなに喜んでくれるなんて）",
+        "localizations": {
+          "en": "(I never would have guessed that just offering to tell her about my adventures would make her so happy.)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 86,
+    "properties": {
+      "999008199": {
+        "text": "（……昔の私も、新しい場所に行くたびに\n\u3000興奮してた気がする。\n\u3000あんな感じだったのかなあ）",
+        "localizations": {
+          "en": "(I think I used to get excited like that whenever I went somewhere new. Was I just like her?)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 87,
+    "properties": {
+      "999008199": {
+        "text": "お～い、レスナ！\u3000はやくはやく～！",
+        "localizations": {
+          "en": "Hey, Resna! Hurry up, hurry up~!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 88,
+    "properties": {
+      "999008199": {
+        "text": "はーい！\u3000ちょっと待ってー！",
+        "localizations": {
+          "en": "Coming! Just a second!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  }
+]

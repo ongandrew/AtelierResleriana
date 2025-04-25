@@ -219,14 +219,14 @@ namespace AtelierResleriana.Localization.Utilities
 
         public IAsyncTextGenerator TextGenerator { get; set; }
         public IAsyncTextTransformer TextTransformer { get; set; }
-        public int MaxDialogueHistoryCounty { get; set; }
+        public int MaxDialogueHistoryCount { get; set; }
 
         public EnglishLocalizer(IAsyncTextGenerator textGenerator, IAsyncTextTransformer textTransformer) : this(textGenerator, textTransformer, new Options()) { }
         public EnglishLocalizer(IAsyncTextGenerator textGenerator, IAsyncTextTransformer textTransformer, Options options)
         {
             TextGenerator = textGenerator;
             TextTransformer = textTransformer;
-            MaxDialogueHistoryCounty = options.MaxDialogueHistoryCount;
+            MaxDialogueHistoryCount = options.MaxDialogueHistoryCount;
         }
 
         public async Task<string> LocalizeAsync(string text, CancellationToken cancellationToken = default)

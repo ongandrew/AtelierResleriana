@@ -22,6 +22,14 @@ namespace AtelierResleriana.Executables.Pipeline.TextAsset.Extract
                 }
 
                 Localization.Utilities.AssetBundleDecryptor assetBundleDecryptor = new Localization.Utilities.AssetBundleDecryptor();
+                // JP is live, so the developers may reuse asset bundles by changing their contents, always unpack again to ensure we don't miss bundle changes (rare but happens).
+                if (region == Region.Japan)
+                {
+                    assetBundleDecryptor = new Localization.Utilities.AssetBundleDecryptor(new Localization.Utilities.AssetBundleDecryptor.Options()
+                    {
+                        ForceDecrypt = true
+                    });
+                }
                 assetBundleDecryptor.Decrypt(region, dataDirectoryPath);
 
                 Localization.Utilities.TextAssetExtractor textAssetExtractor = new Localization.Utilities.TextAssetExtractor(new Localization.Utilities.TextAssetExtractor.Options()

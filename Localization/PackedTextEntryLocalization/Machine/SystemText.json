@@ -922,5 +922,247 @@
         }
       }
     }
+  },
+  {
+    "id": 1731113733,
+    "properties": {
+      "999008199": {
+        "text": "前編",
+        "localizations": {
+          "en": "Part 1"
+        }
+      }
+    }
+  },
+  {
+    "id": 1236358837,
+    "properties": {
+      "999008199": {
+        "text": "中編",
+        "localizations": {
+          "en": "Part 2"
+        }
+      }
+    }
+  },
+  {
+    "id": 1264882096,
+    "properties": {
+      "999008199": {
+        "text": "後編",
+        "localizations": {
+          "en": "Part 3"
+        }
+      }
+    }
+  },
+  {
+    "id": 1603567015,
+    "properties": {
+      "999008199": {
+        "text": "今後解放されるクエストです",
+        "localizations": {
+          "en": "This quest will be unlocked in the future"
+        }
+      }
+    }
+  },
+  {
+    "id": 1599748673,
+    "properties": {
+      "999008199": {
+        "text": "・調合素材とコインのドロップ量に効果が発揮されます",
+        "localizations": {
+          "en": "・Effects increase material synthesis drop rates and coin amounts"
+        }
+      }
+    }
+  },
+  {
+    "id": 967611397,
+    "properties": {
+      "999008199": {
+        "text": "・挑戦券やコール、獲得する経験値量には効果が発揮されません ",
+        "localizations": {
+          "en": "・Does not affect challenge tickets, calls, or experience points gained"
+        }
+      }
+    }
+  },
+  {
+    "id": 836483863,
+    "properties": {
+      "999008199": {
+        "text": "施設レベルをリセットしますか？",
+        "localizations": {
+          "en": "Would you like to reset the facility level?"
+        }
+      }
+    }
+  },
+  {
+    "id": 941789497,
+    "properties": {
+      "999008199": {
+        "text": "・施設レベルが1になり、施設の状況もリセットされます\n・使用したコインは戻りません\n・リセット後、2周目、3周目以降でそれぞれ異なる施設レベル報酬を受け取ることができます",
+        "localizations": {
+          "en": "・Facility level will return to 1 and all facility conditions will be reset\n・Used coins will not be refunded\n・After resetting, you can receive different facility level rewards for 2nd and subsequent playthroughs"
+        }
+      }
+    }
+  },
+  {
+    "id": 1402921105,
+    "properties": {
+      "999008199": {
+        "text": "施設",
+        "localizations": {
+          "en": "Facility"
+        }
+      }
+    }
+  },
+  {
+    "id": 2009567248,
+    "properties": {
+      "999008199": {
+        "text": "施設一覧",
+        "localizations": {
+          "en": "Facility List"
+        }
+      }
+    }
+  },
+  {
+    "id": 1115873174,
+    "properties": {
+      "999008199": {
+        "text": "レベル報酬",
+        "localizations": {
+          "en": "Level Rewards"
+        }
+      }
+    }
+  },
+  {
+    "id": 875599619,
+    "properties": {
+      "999008199": {
+        "text": "{0}周目",
+        "localizations": {
+          "en": "Cycle {0}"
+        }
+      }
+    }
+  },
+  {
+    "id": 22583696,
+    "properties": {
+      "999008199": {
+        "text": "開発施設数",
+        "localizations": {
+          "en": "Developed Facilities"
+        }
+      }
+    }
+  },
+  {
+    "id": 396003994,
+    "properties": {
+      "999008199": {
+        "text": "開発可能！",
+        "localizations": {
+          "en": "Development Available!"
+        }
+      }
+    }
+  },
+  {
+    "id": 94598200,
+    "properties": {
+      "999008199": {
+        "text": "調査記録",
+        "localizations": {
+          "en": "Survey Records"
+        }
+      }
+    }
+  },
+  {
+    "id": 872999593,
+    "properties": {
+      "999008199": {
+        "text": "建てるもの",
+        "localizations": {
+          "en": "Construction Options"
+        }
+      }
+    }
+  },
+  {
+    "id": 1312165660,
+    "properties": {
+      "999008199": {
+        "text": "施設レベルアップ！",
+        "localizations": {
+          "en": "Facility Level Up!"
+        }
+      }
+    }
+  },
+  {
+    "id": 930161656,
+    "properties": {
+      "999008199": {
+        "text": "施設レベルをリセットしました",
+        "localizations": {
+          "en": "Facility level has been reset"
+        }
+      }
+    }
+  },
+  {
+    "id": 131043667,
+    "properties": {
+      "999008199": {
+        "text": "調査拠点",
+        "localizations": {
+          "en": "Research Base"
+        }
+      }
+    }
+  },
+  {
+    "id": 415905667,
+    "properties": {
+      "999008199": {
+        "text": "ユミア祭特別杯",
+        "localizations": {
+          "en": "Yumia Festival Special Cup"
+        }
+      }
+    }
+  },
+  {
+    "id": 1447628188,
+    "properties": {
+      "999008199": {
+        "text": "追加される施設はありません",
+        "localizations": {
+          "en": "No additional facilities available"
+        }
+      }
+    }
+  },
+  {
+    "id": 589416799,
+    "properties": {
+      "999008199": {
+        "text": "施設イベントを解放後に解放されます",
+        "localizations": {
+          "en": "Will be unlocked after facility event is unlocked"
+        }
+      }
+    }
   }
 ]

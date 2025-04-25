@@ -7,7 +7,13 @@ namespace AtelierResleriana.Localization.Utilities
 {
     public class AssetBundleDecryptor
     {
-        public AssetBundleDecryptor() { }
+        public bool ForceDecrypt { get; set; }
+
+        public AssetBundleDecryptor() : this(new Options()) { }
+        public AssetBundleDecryptor(Options options)
+        {
+            ForceDecrypt = options.ForceDecrypt;
+        }
 
         public void Decrypt(Region region, string outputDirectoryPath)
         {
@@ -35,7 +41,7 @@ namespace AtelierResleriana.Localization.Utilities
                 {
                     string destinationFilePath = Path.Combine(regionOutputDirectoryPath, bundleInfo.BundleName);
 
-                    if (File.Exists(destinationFilePath))
+                    if (!ForceDecrypt && File.Exists(destinationFilePath))
                     {
                         return;
                     }
@@ -57,6 +63,11 @@ namespace AtelierResleriana.Localization.Utilities
                     }
                 }
             });
+        }
+
+        public class Options
+        {
+            public bool ForceDecrypt { get; set; } = false;
         }
     }
 }

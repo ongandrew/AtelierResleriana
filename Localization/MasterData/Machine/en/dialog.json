@@ -153,5 +153,25 @@
     "id": 6301,
     "description": "When you reset the facility level, all developed facilities will return to their initial state.\nSpent coins will not be returned. After resetting, you can develop facilities again.\nAim to develop all facilities and obtain all Investigation Records!",
     "name": "Facility Level Reset"
+  },
+  {
+    "id": 6401,
+    "description": "Total Force Battle is a special event battle where characters who have cleared a battle once cannot be deployed in other battles within the event.",
+    "name": "What is Total Force Battle?"
+  },
+  {
+    "id": 6402,
+    "description": "Characters who become unavailable for deployment can be used again by resetting the progress of the battles they have cleared, allowing them to be deployed in event battles once more.",
+    "name": "Resetting Battles"
+  },
+  {
+    "id": 6403,
+    "description": "The background color of each square indicates the difficulty of that battle. Use this as a reference when forming your party.",
+    "name": "About Difficulty"
+  },
+  {
+    "id": 6404,
+    "description": "Clear all battles in a row simultaneously to earn Achievement Line rewards. Clear all battles simultaneously to earn Complete rewards. Try different party compositions to aim for completion!",
+    "name": "About Rewards"
   }
 ]

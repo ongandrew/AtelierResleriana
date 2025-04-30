@@ -3448,5 +3448,310 @@
     "id": 26187000,
     "description": "At the start of the wave, grants self damage dealt +1000% against enemies without Air affinity.",
     "name": ""
+  },
+  {
+    "id": 301166,
+    "description": "While equipped to Klaudia [Blooming Creation], boosts skill power by {0}% when attacking a weakness.",
+    "name": "Artemis Compound"
+  },
+  {
+    "id": 301167,
+    "description": "While equipped to an Attacker with Air affinity, boosts Skill 2 damage by {0}%.",
+    "name": "Boxed Girl's Sailor Uniform"
+  },
+  {
+    "id": 301168,
+    "description": "While equipped to an Attacker with Air affinity, boosts Skill 2 damage by {0}%.",
+    "name": "Boxed Girl's Sailor Uniform"
+  },
+  {
+    "id": 301169,
+    "description": "While equipped to an Attacker with Air affinity, when receiving a boost-type panel, boosts magical damage by {0}% for 1 turn.",
+    "name": "Boxed Girl's Loafers"
+  },
+  {
+    "id": 301170,
+    "description": "While equipped to an Attacker with Air affinity, when receiving a boost-type panel, boosts magical damage by {0}% for 1 turn.",
+    "name": "Boxed Girl's Loafers"
+  },
+  {
+    "id": 301171,
+    "description": "While equipped to a character with Air affinity, after attacking a weakness, grants 1 ally with highest M.ATK Air damage +{0}% for 1 turn.<br>When attack target is stunned, grants all allies boost panel effect potency +{1}% for 1 turn. (Cannot be stacked)",
+    "name": "Blooming Clover"
+  },
+  {
+    "id": 301172,
+    "description": "While equipped to Plachta [Mighty Manager], boosts critical rate by {0}% when attack target has a status effect.",
+    "name": "Wing Trooper Type-1"
+  },
+  {
+    "id": 301173,
+    "description": "While equipped to an Attacker with Stab affinity, boosts area attack skill damage by {0}%.",
+    "name": "Foreign Girl's Sailor Uniform"
+  },
+  {
+    "id": 301174,
+    "description": "While equipped to an Attacker with Stab affinity, boosts area attack skill damage by {0}%.",
+    "name": "Foreign Girl's Sailor Uniform"
+  },
+  {
+    "id": 301175,
+    "description": "While equipped to an Attacker with Stab affinity, boosts positive effect potency received by {0}%.",
+    "name": "Foreign Girl's Watch"
+  },
+  {
+    "id": 301176,
+    "description": "While equipped to an Attacker with Stab affinity, boosts positive effect potency received by {0}%.",
+    "name": "Foreign Girl's Watch"
+  },
+  {
+    "id": 1980190,
+    "description": "For each character with the Resleriana Academy tag, M.ATK and M.DEF +{0}%.",
+    "name": "Won't You Be My Friend?"
+  },
+  {
+    "id": 1980191,
+    "description": "For each character with the Resleriana Academy tag, P.ATK and M.ATK +{0}%.",
+    "name": "Learning Together"
+  },
+  {
+    "id": 1990307,
+    "description": "When attack target is stunned, boosts Air damage received by all enemies by 20-100% based on the number of characters with the Resleriana Academy tag (Max: 100%).",
+    "name": "Don't Miss This Shutter Chance!"
+  },
+  {
+    "id": 1990348,
+    "description": "When attacking a target inflicted with a status effect by Emit Resonance or Clarté Resonance, converts all non-burst panels for all allies to Maltelato panels (or creates them if panel slot is empty).<br>When receiving a Maltelato panel, grants self Accelerando for 1 turn and enables burst skill usage.<br>Note: Accelerando grants M.ATK +30%.",
+    "name": "Let's Go Rhythmically!"
+  },
+  {
+    "id": 1990349,
+    "description": "After a party member uses a battle item, has a very high chance to inflict Paralysis on all enemies until the start of 1 turn.<br>Note: Even when using multiple items at the same time, this effect will only activate once.<br>Boosts skill damage by 30% when attack target has a status effect.",
+    "name": "Club President's Daughter's Sense"
+  },
+  {
+    "id": 1990350,
+    "description": "After using a skill or receiving HP recovery, grants self burst skill damage +{0}% (Max: 50%) and skill damage +{1}% (Max: 120%).",
+    "name": "I'll Prove My Theory"
+  },
+  {
+    "id": 1990351,
+    "description": "Boosts skill damage by {0}% when attack target has a status effect.",
+    "name": "Young Genius's Observant Eye"
+  },
+  {
+    "id": 4990863,
+    "description": "While equipped to a character with Air affinity, boosts skill damage by {0}% when attacking a weakness.",
+    "name": "Air Affinity Weak Point Damage Up III"
+  },
+  {
+    "id": 4990864,
+    "description": "While equipped to a character with Air affinity, boosts skill damage by {0}% when attacking a weakness.",
+    "name": "Air Affinity Weak Point Damage Up III"
+  },
+  {
+    "id": 4990865,
+    "description": "While equipped to a character with Air affinity, boosts skill damage by {0}% when attacking a weakness",
+    "name": "Air Affinity Weakness Damage Up III"
+  },
+  {
+    "id": 4990866,
+    "description": "While equipped to a character with Air affinity, boosts skill damage by {0}% when attacking a weakness",
+    "name": "Air Affinity Weakness Damage Up III"
+  },
+  {
+    "id": 4990867,
+    "description": "While equipped to a character with Air affinity, boosts skill damage by {0}% when attacking a weakness",
+    "name": "Air Affinity Weakness Damage Up III"
+  },
+  {
+    "id": 4990868,
+    "description": "Boosts skill damage by {0}% for characters with the Resleriana Academy tag",
+    "name": "Resleriana Academy Damage Up II"
+  },
+  {
+    "id": 4990869,
+    "description": "Boosts skill damage by {0}% for characters with the Resleriana Academy tag",
+    "name": "Resleriana Academy Damage Up II"
+  },
+  {
+    "id": 4990870,
+    "description": "Boosts skill damage by {0}% for characters with the Resleriana Academy tag",
+    "name": "Resleriana Academy Damage Up II"
+  },
+  {
+    "id": 4990871,
+    "description": "Boosts skill damage by {0}% for characters with the Resleriana Academy tag",
+    "name": "Resleriana Academy Damage Up II"
+  },
+  {
+    "id": 4990872,
+    "description": "Boosts skill damage by {0}% for characters with the Resleriana Academy tag",
+    "name": "Resleriana Academy Damage Up II"
+  },
+  {
+    "id": 4990873,
+    "description": "While equipped to an Attacker, after attacking a target with a status effect, boosts own skill damage by {0}% for 2 turns",
+    "name": "Attacker Status Effect Attack Damage Up III"
+  },
+  {
+    "id": 4990874,
+    "description": "While equipped to an Attacker, after attacking a target with a status effect, boosts own skill damage by {0}% for 2 turns",
+    "name": "Attacker Status Effect Attack Damage Up III"
+  },
+  {
+    "id": 4990875,
+    "description": "While equipped to an Attacker, after attacking a target with a status effect, boosts own skill damage by {0}% for 2 turns",
+    "name": "Attacker Status Effect Attack Damage Up III"
+  },
+  {
+    "id": 4990876,
+    "description": "While equipped to an Attacker, after attacking a target with a status effect, boosts own skill damage by {0}% for 2 turns",
+    "name": "Attacker Status Effect Attack Damage Up III"
+  },
+  {
+    "id": 4990877,
+    "description": "While equipped to an Attacker, after attacking a target with a status effect, boosts own skill damage by {0}% for 2 turns",
+    "name": "Attacker Status Effect Attack Damage Up III"
+  },
+  {
+    "id": 7000732,
+    "description": "Boosts the skill damage of characters with Air affinity by {0}%",
+    "name": "Air Affinity Skill Damage Up (1)"
+  },
+  {
+    "id": 7000733,
+    "description": "Boosts the skill damage of characters with Air affinity by {0}%",
+    "name": "Air Affinity Skill Damage Up (2)"
+  },
+  {
+    "id": 7000734,
+    "description": "Boosts the skill damage of characters with Air affinity by {0}%",
+    "name": "Air Affinity Skill Damage Up (3)"
+  },
+  {
+    "id": 26031003,
+    "description": "At the start of wave, boosts own damage dealt by 1000% against enemies without Strike affinity",
+    "name": ""
+  },
+  {
+    "id": 26038001,
+    "description": "Upon recovering from stun, once only: grants increased negative effect potency (2 times) and regeneration (2 times)",
+    "name": ""
+  },
+  {
+    "id": 26038002,
+    "description": "Push immunity",
+    "name": ""
+  },
+  {
+    "id": 26038003,
+    "description": "When stunned, grants self 8 stacks of poison (100% chance/2%/1 time)",
+    "name": ""
+  },
+  {
+    "id": 26038004,
+    "description": "When stunned, inflicts Poison to self (100% chance/2%/1 time) 7 times.",
+    "name": ""
+  },
+  {
+    "id": 26052003,
+    "description": "Increases panel effect potency received by 50%.",
+    "name": ""
+  },
+  {
+    "id": 26164001,
+    "description": "While affected by status effects, grants self: Damage dealt -15%, Critical rate received -15%, Damage received +15%.",
+    "name": ""
+  },
+  {
+    "id": 26164002,
+    "description": "When stunned, removes all buffs from self.",
+    "name": ""
+  },
+  {
+    "id": 26164003,
+    "description": "When own HP falls below 15% after being hit by an attack skill, grants self: Damage dealt +25%, SPD +15%, Damage received -30%.",
+    "name": ""
+  },
+  {
+    "id": 26234001,
+    "description": "When hit by a battle item, removes all buffs from self (once only).",
+    "name": ""
+  },
+  {
+    "id": 26235001,
+    "description": "When unable to act, converts boost panels to boost+ panels and weaken panels to weaken+ panels.",
+    "name": ""
+  },
+  {
+    "id": 600000655,
+    "description": "While equipped to a character with Fire affinity, boosts M.ATK by 25%.",
+    "name": "Fire Affinity M.ATK Up"
+  },
+  {
+    "id": 600000656,
+    "description": "While equipped to a character with Ice affinity, boosts M.ATK by 25%.",
+    "name": "Ice Affinity M.ATK Up"
+  },
+  {
+    "id": 600000657,
+    "description": "While equipped to a character with Bolt affinity, boosts M.ATK by 25%.",
+    "name": "Bolt Affinity M.ATK Up"
+  },
+  {
+    "id": 600000658,
+    "description": "While equipped to a character with Air affinity, boosts M.ATK by 25%.",
+    "name": "Air Affinity M.ATK Up"
+  },
+  {
+    "id": 600000659,
+    "description": "While equipped to a character with Slash affinity, boosts P.ATK by 25%.",
+    "name": "Slash Affinity P.ATK Up"
+  },
+  {
+    "id": 600000660,
+    "description": "While equipped to a character with Strike affinity, boosts P.ATK by 25%.",
+    "name": "Strike Affinity P.ATK Up"
+  },
+  {
+    "id": 600000661,
+    "description": "While equipped to a character with Stab affinity, boosts P.ATK by 25%.",
+    "name": "Stab Affinity P.ATK Up"
+  },
+  {
+    "id": 600000662,
+    "description": "Boosts critical damage by 80%.",
+    "name": "Critical Damage Up"
+  },
+  {
+    "id": 600000663,
+    "description": "Reduces skill damage dealt by Attackers by 99%.",
+    "name": "Attacker Skill Damage Down"
+  },
+  {
+    "id": 600000664,
+    "description": "Boosts skill damage by 50%.",
+    "name": "Skill Damage Up"
+  },
+  {
+    "id": 600000665,
+    "description": "Boosts burst skill damage by 50%.",
+    "name": "Burst Skill Damage Up"
+  },
+  {
+    "id": 600000666,
+    "description": "While equipped to a character with Air affinity, boosts critical rate by 25%.",
+    "name": "Air Affinity Critical Rate Up"
+  },
+  {
+    "id": 600000667,
+    "description": "While equipped to a character with Strike affinity, boosts critical rate by 25%.",
+    "name": "Strike Affinity Critical Rate Up"
+  },
+  {
+    "id": 600000668,
+    "description": "Boosts skill damage by 40% when attack target has a status effect.",
+    "name": "Skill Damage Up Against Status Effects"
   }
 ]

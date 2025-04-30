@@ -1,0 +1,597 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "なるほど……ユナ先輩はソフィー先輩と同じ学年で、\nずっと留学に出ていたんですね",
+        "localizations": {
+          "en": "I see... So Juna is in the same year as Sophie, but she's been studying abroad all this time?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "ああ。いくつもの学校を回って、先日戻ってきた\nばかりだ。よろしく、レスナ",
+        "localizations": {
+          "en": "Indeed. I've just returned from visiting several schools. It's a pleasure to meet you, Resna."
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "ユナはね、頭もいいし、スポーツも万能。\n先生からの評判もいい完璧超人なんだ！",
+        "localizations": {
+          "en": "Juna's amazing! She's smart, athletic, and all the teachers love her. She's the definition of perfect!"
+        }
+      },
+      "2072370017": {
+        "text": "ソフィー",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "よしてくれ。ほめても何も出ないぞ",
+        "localizations": {
+          "en": "Please stop. Flattery will get you nowhere."
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "それなのに「もっと多くを学びに行く！」って\n留学しに行っちゃったから、びっくりしたよ",
+        "localizations": {
+          "en": "It was quite the surprise when she suddenly declared that she was going abroad."
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "そうして今度は私たちをこちらの学園に\nお誘いいただいたという形ですね",
+        "localizations": {
+          "en": "And now she's invited us to study at this academy."
+        }
+      },
+      "2072370017": {
+        "text": "プラフタ",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "改めまして、プラフタです。\n以後お見知りおきを",
+        "localizations": {
+          "en": "Allow me to properly introduce myself. I'm Plachta. It's a pleasure to make your acquaintance."
+        }
+      },
+      "2072370017": {
+        "text": "プラフタ",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "ね、ねえ。ちょっと聞いてもいい？\nプラフタって、若き経営の天才の……？",
+        "localizations": {
+          "en": "H-hey, can I ask you something? Are you THE Plachta? The young business genius...?"
+        }
+      },
+      "2072370017": {
+        "text": "ソフィー",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "ええ、そうです",
+        "localizations": {
+          "en": "Yes, that would be me."
+        }
+      },
+      "2072370017": {
+        "text": "プラフタ",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "その……ファンです！\u3000大ファンです！",
+        "localizations": {
+          "en": "I'm... I'm your biggest fan!"
+        }
+      },
+      "2072370017": {
+        "text": "ソフィー",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "若き経営の……？",
+        "localizations": {
+          "en": "Business genuis...?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "知らないの！？\u3000テレビでも有名なんだよ！\nいくつもの会社の経営を改善したって！",
+        "localizations": {
+          "en": "You didn't know?! She's famous even on TV! She's improved the performance of so many companies!"
+        }
+      },
+      "2072370017": {
+        "text": "ソフィー",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "あまりの人気にグッズも出てるんだから。\nあたし、プラフタ人形持ってるんです！",
+        "localizations": {
+          "en": "She's so popular there's even merchandise of her! I have a Plachta doll at home!"
+        }
+      },
+      "2072370017": {
+        "text": "ソフィー",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "（あ……あの時の人形！\u3000確かに、プラフタさんに\n\u3000似てたかも！）",
+        "localizations": {
+          "en": "(Oh... that doll from before! I do see the resemblance!)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "（会社の経営の改善かあ。\n\u3000まだ学生なのにすごいなあ）",
+        "localizations": {
+          "en": "(Improving company management... That's incredible for someone who's still a student.)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "まさか、あれを買うもの好きがいるとは……",
+        "localizations": {
+          "en": "I'm surprised anyone would actually buy one of those..."
+        }
+      },
+      "2072370017": {
+        "text": "プラフタ",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "ふふ……",
+        "localizations": {
+          "en": "Hehe..."
+        }
+      },
+      "2072370017": {
+        "text": "クラウディア",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "こほん……そして、こっちがクラウディア。\n私のパートナーです",
+        "localizations": {
+          "en": "Ahem... And this is Klaudia. My partner."
+        }
+      },
+      "2072370017": {
+        "text": "プラフタ",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "パートナー？",
+        "localizations": {
+          "en": "Partner?"
+        }
+      },
+      "2072370017": {
+        "text": "ロロナ",
+        "localizations": {
+          "en": "Rorona"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "ビジネスパートナーです。\n私たちは二人で１つのチームなんですよ",
+        "localizations": {
+          "en": "Business partner. We work as a team."
+        }
+      },
+      "2072370017": {
+        "text": "クラウディア",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "アクセビジネススクールでは、次世代のリーダーの\n創出を目的とした経営学を学んで……",
+        "localizations": {
+          "en": "At ACSE Business School, we study management with the goal of cultivating the next generation of leaders..."
+        }
+      },
+      "2072370017": {
+        "text": "クラウディア",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "実技で実際の企業の経営課題の改善に取り組んだり\nするんです",
+        "localizations": {
+          "en": "And for practical training, we work on improving real management issues in actual companies."
+        }
+      },
+      "2072370017": {
+        "text": "クラウディア",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "そんな中、プラフタが得意としているのが\nデータや理論を元にした経営手法",
+        "localizations": {
+          "en": "Plachta specializes in management methods based on data and theory."
+        }
+      },
+      "2072370017": {
+        "text": "クラウディア",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "私が得意なのが、顧客の感情に訴えかける手法",
+        "localizations": {
+          "en": "And I specialize in approaches that appeal to customers' emotions."
+        }
+      },
+      "2072370017": {
+        "text": "クラウディア",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "それぞれの得意分野が違うからこそ、手を組みました。\n力を合わせれば、怖いものなしだよねって",
+        "localizations": {
+          "en": "We joined forces because our strengths are different. Together, we can tackle anything."
+        }
+      },
+      "2072370017": {
+        "text": "クラウディア",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "へえ。ビジネススクールって、\nそんなことをするんですね",
+        "localizations": {
+          "en": "Oh? So that's what you do at business school."
+        }
+      },
+      "2072370017": {
+        "text": "ミミ",
+        "localizations": {
+          "en": "Mimi"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "錬金術なんかより、よっぽど難しいこと\nしてるんじゃない？",
+        "localizations": {
+          "en": "Sounds a lot harder than alchemy, doesn't it?"
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "そんなことありませんよ。私たちからしたら、\n錬金術のほうが未知で困難な代物",
+        "localizations": {
+          "en": "Not at all. From our perspective, alchemy is the more unknown and challenging discipline."
+        }
+      },
+      "2072370017": {
+        "text": "プラフタ",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "だからこそ学びに来たのです。\nあなたたちとは、Ｗｉｎ－Ｗｉｎの関係になれるはず",
+        "localizations": {
+          "en": "That's precisely why we've come to learn. I believe we can establish a win-win relationship with you all."
+        }
+      },
+      "2072370017": {
+        "text": "プラフタ",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "うぃんうぃん？",
+        "localizations": {
+          "en": "Win-win?"
+        }
+      },
+      "2072370017": {
+        "text": "ロロナ",
+        "localizations": {
+          "en": "Rorona"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "科学学校の方は敵意を持たれていたようですが、\nぜひ仲良くしていただければ",
+        "localizations": {
+          "en": "The science school students have been hostile so far, but I hope we can all get along."
+        }
+      },
+      "2072370017": {
+        "text": "プラフタ",
+        "localizations": {
+          "en": "Plachta"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "もちろんだよ！\u3000ね、クラウディア？",
+        "localizations": {
+          "en": "Of course! Right, Klaudia?"
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "うん",
+        "localizations": {
+          "en": "Yes."
+        }
+      },
+      "2072370017": {
+        "text": "クラウディア",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "（あれ……なんだか、ライザ先輩とクラウディアさんは\n\u3000もう仲が良さげ……？）",
+        "localizations": {
+          "en": "(Huh... Ryza and Klaudia already seem close...?)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "（知り合いだったりするのかな？）",
+        "localizations": {
+          "en": "(I wonder if they knew each other before?)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  }
+]

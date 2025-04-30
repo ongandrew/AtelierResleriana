@@ -1164,5 +1164,126 @@
         }
       }
     }
+  },
+  {
+    "id": 2088189352,
+    "properties": {
+      "999008199": {
+        "text": "総力戦",
+        "localizations": {
+          "en": "All-Out War"
+        }
+      }
+    }
+  },
+  {
+    "id": 1100984535,
+    "properties": {
+      "999008199": {
+        "text": "バトルの進捗をリセットします。よろしいですか？",
+        "localizations": {
+          "en": "Reset battle progress? Are you sure?"
+        }
+      }
+    }
+  },
+  {
+    "id": 1254100559,
+    "properties": {
+      "999008199": {
+        "text": "バトル進捗のリセットが完了しました",
+        "localizations": {
+          "en": "Battle progress has been reset."
+        }
+      }
+    }
+  },
+  {
+    "id": 532976391,
+    "properties": {
+      "999008199": {
+        "text": "クリアパーティ",
+        "localizations": {
+          "en": "Clear Party"
+        }
+      }
+    }
+  },
+  {
+    "id": 1805244781,
+    "properties": {
+      "999008199": {
+        "text": "達成ライン報酬",
+        "localizations": {
+          "en": "Achievement Milestone Rewards"
+        }
+      }
+    }
+  },
+  {
+    "id": 1042250475,
+    "properties": {
+      "999008199": {
+        "text": "達成中ライン数",
+        "localizations": {
+          "en": "Current Milestone Count"
+        }
+      }
+    }
+  },
+  {
+    "id": 597914211,
+    "properties": {
+      "999008199": {
+        "text": "※バトル進捗をリセットすることでクリアパーティもリセットされ、\n\u3000他のバトルに組み込むことができるようになります。\n※進捗リセット後バトルを再度クリアしても、\n\u3000受取済の初回報酬および達成ライン報酬を再獲得することはできません。",
+        "localizations": {
+          "en": "※Resetting battle progress will also reset clear parties,\n  allowing you to assign characters to other battles.\n※Even if you clear the battle again after resetting progress,\n  you cannot receive first-time rewards and milestone rewards that have already been claimed."
+        }
+      }
+    }
+  },
+  {
+    "id": 1413183167,
+    "properties": {
+      "999008199": {
+        "text": "達成数",
+        "localizations": {
+          "en": "Achievement Count"
+        }
+      }
+    }
+  },
+  {
+    "id": 56306514,
+    "properties": {
+      "999008199": {
+        "text": "編成できるキャラがいません",
+        "localizations": {
+          "en": "No characters available for formation"
+        }
+      }
+    }
+  },
+  {
+    "id": 1926950390,
+    "properties": {
+      "999008199": {
+        "text": "別のバトルで出撃済のため、選択できません",
+        "localizations": {
+          "en": "Cannot select because already deployed in another battle"
+        }
+      }
+    }
+  },
+  {
+    "id": 1033716472,
+    "properties": {
+      "999008199": {
+        "text": "投票先選択",
+        "localizations": {
+          "en": "Select Voting Option"
+        }
+      }
+    }
   }
 ]

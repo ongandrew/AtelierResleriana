@@ -4728,5 +4728,390 @@
     "id": 95000206,
     "description": "While self is a Supporter, boosts magical skill damage for all allies.",
     "popup_text": ""
+  },
+  {
+    "id": 6001044,
+    "description": "While equipped to Klaudia [Blooming Creation], boosts skill power when attacking a weakness.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001045,
+    "description": "While equipped to an Attacker with Air affinity, boosts Skill 2 damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001046,
+    "description": "While equipped to an Attacker with Air affinity, when gaining a boost-type panel, boosts magical attack damage for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001047,
+    "description": "While equipped to a character with Air affinity, after attacking a weakness, grants Air damage up to 1 ally with highest M.ATK for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001048,
+    "description": "When attacking a stunned target, boosts positive panel effect potency for all allies for 1 turn. (Non-stackable)",
+    "popup_text": ""
+  },
+  {
+    "id": 6001049,
+    "description": "While equipped to Plachta [Mighty Manager], boosts critical rate when attacking a target with a status effect.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001050,
+    "description": "state_change_use",
+    "popup_text": ""
+  },
+  {
+    "id": 6001051,
+    "description": "While equipped to an Attacker with Stab affinity, boosts skill damage for area attacks.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001052,
+    "description": "While equipped to an Attacker with Stab affinity, boosts potency of buffs received.",
+    "popup_text": ""
+  },
+  {
+    "id": 13000336,
+    "description": "M.ATK +{0}%",
+    "popup_text": ""
+  },
+  {
+    "id": 13000337,
+    "description": "While Air affinity, boosts skill damage by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001289,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001290,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001291,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001292,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001293,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001294,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001295,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001296,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001297,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72500164,
+    "description": "[Self/Boosts M.ATK based on number of Resleriana Academy characters]",
+    "popup_text": ""
+  },
+  {
+    "id": 72500165,
+    "description": "[Self/Boosts M.DEF based on number of Resleriana Academy characters]",
+    "popup_text": ""
+  },
+  {
+    "id": 72500166,
+    "description": "[Self/Boosts P.ATK based on number of Resleriana Academy characters]",
+    "popup_text": ""
+  },
+  {
+    "id": 76038001,
+    "description": "Push immunity",
+    "popup_text": ""
+  },
+  {
+    "id": 76168001,
+    "description": "Invisible buff for countdown (5 turns remaining)",
+    "popup_text": ""
+  },
+  {
+    "id": 76168002,
+    "description": "Invisible buff for countdown (4 turns remaining)",
+    "popup_text": ""
+  },
+  {
+    "id": 76168003,
+    "description": "Invisible buff for countdown (3 turns remaining)",
+    "popup_text": ""
+  },
+  {
+    "id": 76168004,
+    "description": "Invisible buff for countdown (2 turns remaining)",
+    "popup_text": ""
+  },
+  {
+    "id": 76168005,
+    "description": "Invisible buff for countdown (1 turn remaining)",
+    "popup_text": ""
+  },
+  {
+    "id": 86031001,
+    "description": "Boosts damage dealt to targets without Strike affinity",
+    "popup_text": ""
+  },
+  {
+    "id": 86038001,
+    "description": "When stunned, 100% chance to inflict Poison on self for 1 turn",
+    "popup_text": ""
+  },
+  {
+    "id": 86164001,
+    "description": "Permanently increases own damage dealt",
+    "popup_text": ""
+  },
+  {
+    "id": 86164002,
+    "description": "Permanently increases own SPD",
+    "popup_text": ""
+  },
+  {
+    "id": 86164003,
+    "description": "Permanently decreases own damage received",
+    "popup_text": ""
+  },
+  {
+    "id": 86164004,
+    "description": "Decreases own damage dealt while affected by status effects",
+    "popup_text": ""
+  },
+  {
+    "id": 86164005,
+    "description": "Increases own critical damage received while affected by status effects",
+    "popup_text": ""
+  },
+  {
+    "id": 86164006,
+    "description": "Increases own damage received while affected by status effects",
+    "popup_text": ""
+  },
+  {
+    "id": 86164007,
+    "description": "Increases own critical rate received",
+    "popup_text": ""
+  },
+  {
+    "id": 86234001,
+    "description": "When damaged by battle items, removes all buffs from self",
+    "popup_text": ""
+  },
+  {
+    "id": 86235001,
+    "description": "When unable to battle, converts boost-type panels to boost+ panels",
+    "popup_text": ""
+  },
+  {
+    "id": 86235002,
+    "description": "When unable to battle, converts weaken panels to weaken+ panels",
+    "popup_text": ""
+  },
+  {
+    "id": 91001706,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001707,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001709,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001710,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001712,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001713,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001714,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001715,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000207,
+    "description": "While equipped to a character with Air affinity, boosts skill damage when attacking a weakness",
+    "popup_text": ""
+  },
+  {
+    "id": 95000208,
+    "description": "While equipped to a character with Air affinity, boosts skill damage when attacking a weakness",
+    "popup_text": ""
+  },
+  {
+    "id": 95000209,
+    "description": "Boosts skill damage when equipped to a Resleriana Academy character",
+    "popup_text": ""
+  },
+  {
+    "id": 95000210,
+    "description": "When self is an Attacker and the target has a status effect, after attacking, boosts own skill damage for 2 turns",
+    "popup_text": ""
+  },
+  {
+    "id": 120000688,
+    "description": "While equipped to a character with Fire affinity, boosts M.ATK",
+    "popup_text": ""
+  },
+  {
+    "id": 120000689,
+    "description": "While equipped to a character with Ice affinity, boosts M.ATK",
+    "popup_text": ""
+  },
+  {
+    "id": 120000690,
+    "description": "While equipped to a character with Bolt affinity, boosts M.ATK",
+    "popup_text": ""
+  },
+  {
+    "id": 120000691,
+    "description": "While equipped to a character with Air affinity, boosts M.ATK",
+    "popup_text": ""
+  },
+  {
+    "id": 120000692,
+    "description": "While equipped to a character with Slash affinity, boosts P.ATK",
+    "popup_text": ""
+  },
+  {
+    "id": 120000693,
+    "description": "While equipped to a character with Strike affinity, boosts P.ATK",
+    "popup_text": ""
+  },
+  {
+    "id": 120000694,
+    "description": "While equipped to a character with Stab affinity, boosts P.ATK",
+    "popup_text": ""
+  },
+  {
+    "id": 120000695,
+    "description": "Boosts critical damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000696,
+    "description": "Reduces Attacker damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000697,
+    "description": "Boosts damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000698,
+    "description": "Boosts burst skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000699,
+    "description": "Boosts critical rate when equipped to a character with Air affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000700,
+    "description": "Boosts critical rate when equipped to a character with Strike affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000701,
+    "description": "Boosts damage dealt to targets with status effects.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000702,
+    "description": "Boosts M.ATK when equipped to a character with Fire affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000703,
+    "description": "Boosts M.ATK when equipped to a character with Ice affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000704,
+    "description": "Boosts M.ATK when equipped to a character with Bolt affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000705,
+    "description": "Boosts M.ATK when equipped to a character with Air affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000706,
+    "description": "Boosts P.ATK when equipped to a character with Slash affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000707,
+    "description": "Boosts P.ATK when equipped to a character with Strike affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000708,
+    "description": "Boosts P.ATK when equipped to a character with Stab affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000710,
+    "description": "Reduces Attacker damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000713,
+    "description": "Boosts critical rate when equipped to a character with Air affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000714,
+    "description": "Boosts critical rate when equipped to a character with Strike affinity.",
+    "popup_text": ""
   }
 ]

@@ -1615,5 +1615,129 @@
     "name": "Yumia's Atelier 300,000 Downloads Celebration ★3 Character & SSR Memoria Guaranteed Wish",
     "start_at": "2025-04-23T03:00:00Z",
     "step_up_loop_description": ""
+  },
+  {
+    "id": 2242,
+    "description": "Klaudia newly appears as a Featured character!\nAvailable until 2025/05/31 11:59 (UTC+8)",
+    "end_at": "2025-05-31T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Resleriana Academy LEGEND FES The Naive Exchange Student",
+    "name": "Resleriana Academy LEGEND FES The Naive Exchange Student",
+    "start_at": "2025-04-30T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2243,
+    "description": "5-week limited event! Wish 20 times with paid Star Guide Stones\nto get 10 free Wishes! Available until 2025/05/31 11:59 (UTC+8)",
+    "end_at": "2025-05-31T03:00:00Z",
+    "name": "Resleriana Academy LEGEND FES The Naive Exchange Student [Paid Limited]",
+    "start_at": "2025-04-30T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 2244,
+    "description": "Ryza [Blooming Energy] is Featured!\nAvailable until 2025/05/31 11:59 (UTC+8)",
+    "end_at": "2025-05-31T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Ryza [Blooming Energy] ★6 Release Celebration Wish",
+    "name": "Ryza [Blooming Energy] ★6 Release Celebration Wish",
+    "start_at": "2025-04-30T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2245,
+    "description": "For every 20 Wishes with Paid Lodestar Gems, get 10 Wishes for free! Max 5 times!\nUntil 2025/05/31 10:59 (UTC+8).",
+    "end_at": "2025-05-31T03:00:00Z",
+    "name": "Ryza [Blooming Energy] 6★ Release Celebration Wish [Paid Lodestar Gems Only]",
+    "start_at": "2025-04-30T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 2246,
+    "description": "Plachta makes her debut!\nFeatured until 2025/05/31 10:59 (UTC+8).",
+    "end_at": "2025-05-31T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Resleriana Academy - LEGEND FES My Best Partner",
+    "name": "Resleriana Academy - LEGEND FES My Best Partner",
+    "start_at": "2025-05-07T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2247,
+    "description": "For every 20 Wishes with Paid Lodestar Gems, get 10 Wishes for free! Max 5 times!\nUntil 2025/05/31 10:59 (UTC+8).",
+    "end_at": "2025-05-31T03:00:00Z",
+    "name": "Resleriana Academy - LEGEND FES My Best Partner [Paid Lodestar Gems Only]",
+    "start_at": "2025-05-07T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 3002,
+    "description": "Resna, Ryza, and Eren from Resleriana Academy are featured!\nPick 3★ characters of your choice! Featured until 2025/05/31 10:59 (UTC+8).",
+    "end_at": "2025-05-31T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 30011,
+            "description": "Selected character guaranteed!\n{} chances remaining!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Resleriana Academy Selection Wish Part 1",
+    "name": "Resleriana Academy Selection Wish Part 1",
+    "start_at": "2025-04-30T03:00:00Z",
+    "step_up_loop_description": ""
   }
 ]

@@ -350,5 +350,60 @@
     ],
     "end_at": "2025-04-30T03:00:00Z",
     "start_at": "2025-04-23T03:00:00Z"
+  },
+  {
+    "id": 50,
+    "bonuses": [
+      {
+        "name": "Challenge Ticket Bonus",
+        "warning_text": "The bonus to Challenge Tickets [Group Training ~Material Gathering~] is \nlimited to a maximum of 10 additional tickets per party."
+      }
+    ],
+    "end_at": "2025-05-30T03:00:00Z",
+    "start_at": "2025-05-07T03:00:00Z"
+  },
+  {
+    "id": 51,
+    "bonuses": [
+      {
+        "name": "",
+        "warning_text": ""
+      }
+    ],
+    "end_at": "2025-05-07T03:00:00Z",
+    "start_at": "2025-04-30T03:00:00Z"
+  },
+  {
+    "id": 52,
+    "bonuses": [
+      {
+        "name": "",
+        "warning_text": ""
+      }
+    ],
+    "end_at": "2025-05-31T03:00:00Z",
+    "start_at": "2025-05-07T03:00:00Z"
+  },
+  {
+    "id": 53,
+    "bonuses": [
+      {
+        "name": "Challenge Ticket Bonus",
+        "warning_text": "The bonus to Challenge Tickets [Group Training ~Material Gathering~] is \nlimited to a maximum of 10 additional tickets per party."
+      }
+    ],
+    "end_at": "2025-05-30T03:00:00Z",
+    "start_at": "2025-05-07T03:00:00Z"
+  },
+  {
+    "id": 55,
+    "bonuses": [
+      {
+        "name": "",
+        "warning_text": ""
+      }
+    ],
+    "end_at": "2025-05-30T03:00:00Z",
+    "start_at": "2025-05-07T03:00:00Z"
   }
 ]

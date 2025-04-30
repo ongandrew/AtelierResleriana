@@ -11644,5 +11644,1097 @@
     "description": "No effect",
     "name": "Wind Slice",
     "summary": ""
+  },
+  {
+    "id": 32127,
+    "description": "Deals Air damage to the enemy with lowest current HP.",
+    "name": "Experimental Tornado Bomb",
+    "summary": ""
+  },
+  {
+    "id": 32128,
+    "description": "Deals Air damage to the enemy with lowest current HP.",
+    "name": "Experimental Tornado Bomb",
+    "summary": ""
+  },
+  {
+    "id": 11002623,
+    "description": "Before attacking, removes negative effects from self.<br>After attacking, boosts own M.ATK by {0}% (Max: 30%).",
+    "name": "Emit Resonance",
+    "summary": "Before attacking, removes negative effects from self.<br>After attacking, boosts own M.ATK."
+  },
+  {
+    "id": 11002624,
+    "description": "Before attacking, removes negative effects from self.<br>After attacking, boosts own M.ATK by {0}% (Max: 30%).",
+    "name": "Emit Resonance",
+    "summary": "Before attacking, removes negative effects from self.<br>After attacking, boosts own M.ATK."
+  },
+  {
+    "id": 11002625,
+    "description": "Before attacking, removes negative effects from self.<br>After attacking, boosts own M.ATK by {0}% (Max: 30%).",
+    "name": "Emit Resonance",
+    "summary": "Before attacking, removes negative effects from self.<br>After attacking, boosts own M.ATK."
+  },
+  {
+    "id": 11002626,
+    "description": "Before attacking, removes negative effects from self.<br>After attacking, boosts own M.ATK by {0}% (Max: 30%).",
+    "name": "Emit Resonance",
+    "summary": "Before attacking, removes negative effects from self.<br>After attacking, boosts own M.ATK."
+  },
+  {
+    "id": 11002627,
+    "description": "Before attacking, removes negative effects from self.<br>After attacking, boosts own M.ATK by {0}% (Max: 30%).",
+    "name": "Emit Resonance",
+    "summary": "Before attacking, removes negative effects from self.<br>After attacking, boosts own M.ATK."
+  },
+  {
+    "id": 11002731,
+    "description": "Before attacking, reduces target's Stab resistance by {0}% for 1 attack.<br>After attacking, boosts own P.ATK by {1}% for 1 turn.",
+    "name": "Knock Thrust",
+    "summary": "Before attacking, reduces target's Stab resistance.<br>After attacking, boosts own P.ATK."
+  },
+  {
+    "id": 11002732,
+    "description": "Before attacking, reduces target's Stab resistance by {0}% for 1 attack.<br>After attacking, boosts own P.ATK by {1}% for 1 turn.",
+    "name": "Knock Thrust",
+    "summary": "Before attacking, reduces target's Stab resistance.<br>After attacking, boosts own P.ATK."
+  },
+  {
+    "id": 11002733,
+    "description": "Before attacking, reduces target's Stab resistance by {0}% for 1 attack.<br>After attacking, boosts own P.ATK by {1}% for 1 turn.",
+    "name": "Knock Thrust",
+    "summary": "Before attacking, reduces target's Stab resistance.<br>After attacking, boosts own P.ATK."
+  },
+  {
+    "id": 11002734,
+    "description": "Before attacking, reduces target's Stab resistance by {0}% for 1 attack.<br>After attacking, boosts own P.ATK by {1}% for 1 turn.",
+    "name": "Knock Thrust",
+    "summary": "Before attacking, reduces target's Stab resistance.<br>After attacking, boosts own P.ATK."
+  },
+  {
+    "id": 11002735,
+    "description": "Before attacking, reduces target's Stab resistance by {0}% for 1 attack.<br>After attacking, boosts own P.ATK by {1}% for 1 turn.",
+    "name": "Knock Thrust",
+    "summary": "Before attacking, reduces target's Stab resistance.<br>After attacking, boosts own P.ATK."
+  },
+  {
+    "id": 11002791,
+    "description": "Before attacking, reduces target's Air resistance by {0}% for 2 attacks.<br>After attacking, boosts own stun damage by {1}% for 1 turn,<br>and grants target panel immunity for 1 turn.<br>*Panel immunity prevents activation of all panels except burst panels.",
+    "name": "Wind Slicer",
+    "summary": "Before attacking, reduces target's Air resistance.<br>After attacking, boosts own stun damage.<br>Grants target panel immunity."
+  },
+  {
+    "id": 11002792,
+    "description": "Before attacking, reduces target's Air resistance by {0}% for 2 attacks.<br>After attacking, boosts own stun damage by {1}% for 1 turn,<br>and grants target panel immunity for 1 turn.<br>*Panel immunity prevents activation of all panels except burst panels.",
+    "name": "Wind Slicer",
+    "summary": "Before attacking, reduces target's Air resistance.<br>After attacking, boosts own stun damage.<br>Grants target panel immunity."
+  },
+  {
+    "id": 11002793,
+    "description": "Before attacking, reduces target's Air resistance by {0}% for 2 attacks.<br>After attacking, boosts own stun damage by {1}% for 1 turn,<br>and grants target panel immunity for 1 turn.<br>*Panel immunity prevents activation of all panels except burst panels.",
+    "name": "Wind Slicer",
+    "summary": "Before attacking, reduces target's Air resistance.<br>After attacking, boosts own stun damage.<br>Grants target panel immunity."
+  },
+  {
+    "id": 11002794,
+    "description": "Before attacking, reduces target's Air resistance by {0}% for 2 attacks.<br>After attacking, boosts own stun damage by {1}% for 1 turn,<br>and grants target panel immunity for 1 turn.<br>*Panel immunity prevents activation of all panels except burst panels.",
+    "name": "Wind Slicer",
+    "summary": "Before attacking, reduces target's Air resistance.<br>After attacking, boosts own stun damage.<br>Grants target panel immunity."
+  },
+  {
+    "id": 11002795,
+    "description": "Before attacking, reduces target's Air resistance by {0}% for 2 attacks.<br>After attacking, boosts own stun damage by {1}% for 1 turn,<br>and grants target panel immunity for 1 turn.<br>*Panel immunity prevents activation of all panels except burst panels.",
+    "name": "Wind Slicer",
+    "summary": "Before attacking, reduces target's Air resistance.<br>After attacking, boosts own stun damage.<br>Grants target panel immunity."
+  },
+  {
+    "id": 12002628,
+    "description": "Boosts damage by {0}% while buffed by Accelerando. Before attacking, reduces target's Air resistance by {1}% for 2 attacks. After attacking, boosts own M.ATK by {2}% for 2 turns and boosts stun damage by {3}% for all allies for 2 turns.",
+    "name": "Clarté Resonance",
+    "summary": "Boosts damage while buffed by Accelerando."
+  },
+  {
+    "id": 12002629,
+    "description": "Boosts damage by {0}% while buffed by Accelerando. Before attacking, reduces target's Air resistance by {1}% for 2 attacks. After attacking, boosts own M.ATK by {2}% for 2 turns and boosts stun damage by {3}% for all allies for 2 turns.",
+    "name": "Clarté Resonance",
+    "summary": "Boosts damage while buffed by Accelerando."
+  },
+  {
+    "id": 12002630,
+    "description": "Boosts damage by {0}% while buffed by Accelerando. Before attacking, reduces target's Air resistance by {1}% for 2 attacks. After attacking, boosts own M.ATK by {2}% for 2 turns and boosts stun damage by {3}% for all allies for 2 turns.",
+    "name": "Clarté Resonance",
+    "summary": "Boosts damage while buffed by Accelerando."
+  },
+  {
+    "id": 12002631,
+    "description": "Boosts damage by {0}% while buffed by Accelerando. Before attacking, reduces target's Air resistance by {1}% for 2 attacks. After attacking, boosts own M.ATK by {2}% for 2 turns and boosts stun damage by {3}% for all allies for 2 turns.",
+    "name": "Clarté Resonance",
+    "summary": "Boosts damage while buffed by Accelerando.<br>Before attack, reduces target's Air resistance.<br>After attack, boosts own M.ATK.<br>Boosts all allies' stun damage."
+  },
+  {
+    "id": 12002632,
+    "description": "Boosts damage by {0}% while buffed by Accelerando. Before attacking, reduces target's Air resistance by {1}% for 2 attacks. After attacking, boosts own M.ATK by {2}% for 2 turns and boosts stun damage by {3}% for all allies for 2 turns.",
+    "name": "Clarté Resonance",
+    "summary": "Boosts damage while buffed by Accelerando.<br>Before attack, reduces target's Air resistance.<br>After attack, boosts own M.ATK.<br>Boosts all allies' stun damage."
+  },
+  {
+    "id": 12002736,
+    "description": "Boosts damage by {0}% when attacking a weakness. Before attacking, reduces target's Stab resistance by {1}% for 2 attacks. After attacking, boosts own P.ATK by {2}% for 2 turns.",
+    "name": "Sparkle Lancer Charge",
+    "summary": "Boosts damage when attacking a weakness.<br>Before attack, reduces target's Stab resistance.<br>After attack, boosts own P.ATK."
+  },
+  {
+    "id": 12002737,
+    "description": "Boosts damage by {0}% when attacking a weakness. Before attacking, reduces target's Stab resistance by {1}% for 2 attacks. After attacking, boosts own P.ATK by {2}% for 2 turns.",
+    "name": "Sparkle Lancer Charge",
+    "summary": "Boosts damage when attacking a weakness.<br>Before attack, reduces target's Stab resistance.<br>After attack, boosts own P.ATK."
+  },
+  {
+    "id": 12002738,
+    "description": "Boosts damage by {0}% when attacking a weakness. Before attacking, reduces target's Stab resistance by {1}% for 2 attacks. After attacking, boosts own P.ATK by {2}% for 2 turns.",
+    "name": "Sparkle Lancer Charge",
+    "summary": "Boosts damage when attacking a weakness.<br>Before attack, reduces target's Stab resistance.<br>After attack, boosts own P.ATK."
+  },
+  {
+    "id": 12002739,
+    "description": "Boosts damage by {0}% when attacking a weakness. Before attacking, reduces target's Stab resistance by {1}% for 2 attacks. After attacking, boosts own P.ATK by {2}% for 2 turns.",
+    "name": "Sparkle Lancer Charge",
+    "summary": "Boosts damage when attacking a weakness.<br>Before attack, reduces target's Stab resistance.<br>After attack, boosts own P.ATK."
+  },
+  {
+    "id": 12002740,
+    "description": "Boosts damage by {0}% when attacking a weakness. Before attacking, reduces target's Stab resistance by {1}% for 2 attacks. After attacking, boosts own P.ATK by {2}% for 2 turns.",
+    "name": "Sparkle Lancer Charge",
+    "summary": "Boosts damage when attacking a weakness.<br>Before attack, reduces target's Stab resistance.<br>After attack, boosts own P.ATK."
+  },
+  {
+    "id": 12002796,
+    "description": "Before attacking, reduces target's Air resistance by {0}% for 2 attacks. After attacking, boosts target's magical damage received by {1}% for 2 attacks. Converts all panels except boost-type panels and burst panels for the ally with the highest M.ATK to boost panels (creates panels if empty).",
+    "name": "Snap Shot",
+    "summary": "Before attack, reduces target's Air resistance.<br>After attack, boosts target's magical damage received.<br>Converts all panels except boost-type panels and burst panels to boost panels for ally with highest M.ATK."
+  },
+  {
+    "id": 12002797,
+    "description": "Before attacking, reduces target's Air resistance by {0}% for 2 attacks. After attacking, boosts target's magical damage received by {1}% for 2 attacks. Converts all panels except boost-type panels and burst panels for the ally with the highest M.ATK to boost panels (creates panels if empty).",
+    "name": "Snap Shot",
+    "summary": "Before attack, reduces target's Air resistance.<br>After attack, boosts target's magical damage received.<br>Converts all panels except boost-type panels and burst panels to boost panels for ally with highest M.ATK."
+  },
+  {
+    "id": 12002798,
+    "description": "Before attacking, reduces target's Air resistance by {0}% for 2 attacks. After attacking, boosts target's magical damage received by {1}% for 2 attacks. Converts all panels except boost-type panels and burst panels for the ally with the highest M.ATK to boost panels (creates panels if empty).",
+    "name": "Snap Shot",
+    "summary": "Before attack, reduces target's Air resistance.<br>After attack, boosts target's magical damage received.<br>Converts all panels except boost-type panels and burst panels to boost panels for ally with highest M.ATK."
+  },
+  {
+    "id": 12002799,
+    "description": "Before attacking, reduces target's Air resistance by {0}% for 2 attacks. After attacking, boosts target's magical damage received by {1}% for 2 attacks. Converts all panels except boost-type panels and burst panels for the ally with the highest M.ATK to boost panels (creates panels if empty).",
+    "name": "Snap Shot",
+    "summary": "Before attack, reduces target's Air resistance.<br>After attack, boosts target's magical damage received.<br>Converts all panels except boost-type panels and burst panels to boost panels for ally with highest M.ATK."
+  },
+  {
+    "id": 12002800,
+    "description": "Before attacking, reduces target's Air resistance by {0}% for 2 attacks. After attacking, boosts target's magical damage received by {1}% for 2 attacks. Converts all panels except boost-type panels and burst panels for the ally with the highest M.ATK to boost panels (creates panels if empty).",
+    "name": "Snap Shot",
+    "summary": "Before attack, reduces target's Air resistance.<br>After attack, boosts target's magical damage received.<br>Converts all panels except boost-type panels and burst panels to boost panels for ally with highest M.ATK."
+  },
+  {
+    "id": 14002315,
+    "description": "After attacking, boosts target's magical damage received by {0}% for 2 attacks. When target is stunned, boosts M.ATK by {1}% for the ally with the highest M.ATK for 1 turn.",
+    "name": "Dazzling Vivid",
+    "summary": "After attack, boosts target's magical damage received.<br>When target is stunned, boosts M.ATK for ally with highest M.ATK."
+  },
+  {
+    "id": 14002633,
+    "description": "Boosts damage by {0}% when target has a status effect. Before attacking, reduces target's Air resistance by {1}% for 2 attacks. After attacking, boosts own M.ATK by {2}% and skill damage by {3}% for 2 turns. Converts own next panel to a Maltelato panel if it's not a burst panel (creates panel if empty).",
+    "name": "Calculator Fall",
+    "summary": "Boosts damage when target has a status effect.<br>Before attack, reduces target's Air resistance.<br>After attack, boosts own M.ATK and skill damage.<br>Converts own next non-burst panel to Maltelato panel."
+  },
+  {
+    "id": 14002634,
+    "description": "Boosts damage by {0}% when target has a status effect. Before attacking, reduces target's Air resistance by {1}% for 2 attacks. After attacking, boosts own M.ATK by {2}% and skill damage by {3}% for 2 turns. Converts own next panel to a Maltelato panel if it's not a burst panel (creates panel if empty).",
+    "name": "Calculator Fall",
+    "summary": "Boosts damage when target has a status effect.<br>Before attack, reduces target's Air resistance.<br>After attack, boosts own M.ATK and skill damage.<br>Converts own next non-burst panel to Maltelato panel."
+  },
+  {
+    "id": 14002635,
+    "description": "Boosts damage by {0}% when target has a status effect. Before attacking, reduces target's Air resistance by {1}% for 2 attacks. After attacking, boosts own M.ATK by {2}% and skill damage by {3}% for 2 turns. Converts own next panel to a Maltelato panel if it's not a burst panel (creates panel if empty).",
+    "name": "Calculator Fall",
+    "summary": "Boosts damage when target has a status effect.<br>Before attack, reduces target's Air resistance.<br>After attack, boosts own M.ATK and skill damage.<br>Converts own next non-burst panel to Maltelato panel."
+  },
+  {
+    "id": 14002636,
+    "description": "Boosts damage by {0}% when target has a status effect. Before attacking, reduces target's Air resistance by {1}% for 2 attacks. After attacking, boosts own M.ATK by {2}% and skill damage by {3}% for 2 turns. Converts own next panel to a Maltelato panel if it's not a burst panel (creates panel if empty).",
+    "name": "Calculator Fall",
+    "summary": "Boosts damage when target has a status effect.<br>Before attack, reduces target's Air resistance.<br>After attack, boosts own M.ATK and skill damage.<br>Converts own next non-burst panel to Maltelato panel."
+  },
+  {
+    "id": 14002637,
+    "description": "Boosts damage by {0}% when target has a status effect. Before attacking, reduces target's Air resistance by {1}% for 2 attacks. After attacking, boosts own M.ATK by {2}% and skill damage by {3}% for 2 turns. Converts own next panel to a Maltelato panel if it's not a burst panel (creates panel if empty).",
+    "name": "Calculator Fall",
+    "summary": "Boosts damage when target has a status effect.<br>Before attack, reduces target's Air resistance.<br>After attack, boosts own M.ATK and skill damage.<br>Converts own next non-burst panel to Maltelato panel."
+  },
+  {
+    "id": 14002741,
+    "description": "Boosts this attack's penetration by {0}. Boosts damage by 20-100% depending on number of enemies (Higher boost for more enemies, range: 1-4). Before attacking, reduces target's Stab resistance by {1}% for 1 attack and reduces status effect resistance by {2}% for 1 turn. After attacking, has a very high chance to inflict Poison on target for 2 turns and boosts own P.ATK by {3}% for 1 turn.",
+    "name": "Super Burst: Analyze Cannon",
+    "summary": "Boosts this attack's penetration.<br>Boosts damage based on number of enemies.<br>Before attack, reduces target's Stab resistance and status effect resistance.<br>After attack, inflicts Poison with very high chance.<br>Boosts own P.ATK."
+  },
+  {
+    "id": 14002742,
+    "description": "Boosts this attack's penetration by {0}. Boosts damage by 20-100% depending on number of enemies (Higher boost for more enemies, range: 1-4). Before attacking, reduces target's Stab resistance by {1}% for 1 attack and reduces status effect resistance by {2}% for 1 turn. After attacking, has a very high chance to inflict Poison on target for 2 turns and boosts own P.ATK by {3}% for 1 turn.",
+    "name": "Super Burst: Analyze Cannon",
+    "summary": "Boosts this attack's penetration.<br>Boosts damage based on number of enemies.<br>Before attack, reduces target's Stab resistance and status effect resistance.<br>After attack, inflicts Poison with very high chance.<br>Boosts own P.ATK."
+  },
+  {
+    "id": 14002743,
+    "description": "Increases this attack's piercing power by {0}.<br>Boosts damage by 20-100% based on number of enemies (Higher boost for more enemies, range: 1-4 enemies).<br>Before attacking, reduces target's Stab resistance by {1}% for 1 attack and reduces status effect resistance by {2}% for 1 turn.<br>After attacking, inflicts Poison on target with very high chance for 2 turns and boosts own P.ATK by {3}% for 1 turn.",
+    "name": "Super Burst Analyze Cannon",
+    "summary": "Increases this attack's piercing power<br>Higher damage for more enemies<br>Before attacking, reduces target's Stab and status effect resistance<br>After attacking, inflicts Poison with very high chance<br>Boosts own P.ATK"
+  },
+  {
+    "id": 14002744,
+    "description": "Increases this attack's piercing power by {0}.<br>Boosts damage by 20-100% based on number of enemies (Higher boost for more enemies, range: 1-4 enemies).<br>Before attacking, reduces target's Stab resistance by {1}% for 1 attack and reduces status effect resistance by {2}% for 1 turn.<br>After attacking, inflicts Poison on target with very high chance for 2 turns and boosts own P.ATK by {3}% for 1 turn.",
+    "name": "Super Burst Analyze Cannon",
+    "summary": "Increases this attack's piercing power<br>Higher damage for more enemies<br>Before attacking, reduces target's Stab and status effect resistance<br>After attacking, inflicts Poison with very high chance<br>Boosts own P.ATK"
+  },
+  {
+    "id": 14002745,
+    "description": "Increases this attack's piercing power by {0}.<br>Boosts damage by 20-100% based on number of enemies (Higher boost for more enemies, range: 1-4 enemies).<br>Before attacking, reduces target's Stab resistance by {1}% for 1 attack and reduces status effect resistance by {2}% for 1 turn.<br>After attacking, inflicts Poison on target with very high chance for 2 turns and boosts own P.ATK by {3}% for 1 turn.",
+    "name": "Super Burst Analyze Cannon",
+    "summary": "Increases this attack's piercing power<br>Higher damage for more enemies<br>Before attacking, reduces target's Stab and status effect resistance<br>After attacking, inflicts Poison with very high chance<br>Boosts own P.ATK"
+  },
+  {
+    "id": 14002801,
+    "description": "Before attacking, reduces target's Air resistance by {0}% for 2 attacks.<br>After attacking, increases target's magical damage received by {1}% for 2 attacks.<br>When target is stunned, boosts M.ATK of ally with highest M.ATK by {2}% for 1 turn.<br>Boosts boost-type panel effect potency by {3}% for all Resleriana Academy allies. (Cannot be stacked)",
+    "name": "Dazzling Vivid",
+    "summary": "Before attacking, reduces target's Air resistance<br>After attacking, increases target's magical damage received<br>When target is stunned, boosts M.ATK of ally with highest M.ATK<br>Boosts boost-type panel effect potency for all Resleriana Academy allies"
+  },
+  {
+    "id": 32002109,
+    "description": "After attacking, inflicts Daze (1 time) on target and delays their turn by 3 turns.",
+    "name": "Big Blue Wave",
+    "summary": ""
+  },
+  {
+    "id": 32002110,
+    "description": "After attacking, delays target's turn by 2 turns and reduces own damage received by 15% for 3 attacks.",
+    "name": "Big Splash",
+    "summary": ""
+  },
+  {
+    "id": 32002111,
+    "description": "After attacking, reduces target's damage dealt by 20% for 3 attacks.",
+    "name": "Impact Rising",
+    "summary": ""
+  },
+  {
+    "id": 32002112,
+    "description": "When own HP is 80% or higher, boosts this attack's damage dealt by 40%.\nAfter attacking, recovers own HP by 10%.",
+    "name": "Drop Crash",
+    "summary": ""
+  },
+  {
+    "id": 32002113,
+    "description": "Increases target's SPD by 5% for 3 attacks and reduces damage received by 15% for 3 attacks.",
+    "name": "Moisturizing Charge",
+    "summary": ""
+  },
+  {
+    "id": 32002114,
+    "description": "No effect.",
+    "name": "Thunder Strike",
+    "summary": ""
+  },
+  {
+    "id": 32002115,
+    "description": "Grants 8 stacks of Poison (100% chance/2% per stack/5 turns) to target.",
+    "name": "Thunder Poison",
+    "summary": ""
+  },
+  {
+    "id": 32002116,
+    "description": "After attacking, inflicts Nullify HP Recovery on target for 2 turns.",
+    "name": "Unhealing Thunder",
+    "summary": ""
+  },
+  {
+    "id": 32002117,
+    "description": "Grants target Regeneration (15% for 3 turns) and increases damage dealt by 30% for 3 attacks.",
+    "name": "Fortune Call",
+    "summary": ""
+  },
+  {
+    "id": 32002118,
+    "description": "Reduces target's damage dealt by 35% for 2 attacks.",
+    "name": "Attack Down",
+    "summary": ""
+  },
+  {
+    "id": 32002119,
+    "description": "Grants 4 stacks of Poison (100% chance/2% per stack/5 turns) to target.",
+    "name": "Spore Spray",
+    "summary": ""
+  },
+  {
+    "id": 32002120,
+    "description": "No effect.",
+    "name": "Surprise Burn",
+    "summary": ""
+  },
+  {
+    "id": 32002121,
+    "description": "No effect.",
+    "name": "Explosion",
+    "summary": ""
+  },
+  {
+    "id": 32002122,
+    "description": "After attacking, reduces target's SPD by 5% for 2 attacks. If target has M.ATK Down, adds M.ATK Down (40% for 2 attacks). If target has P.ATK Down, adds P.ATK Down (40% for 2 attacks).",
+    "name": "Burning Tongue",
+    "summary": ""
+  },
+  {
+    "id": 32002123,
+    "description": "After attacking, reduces target's M.ATK by 25% for 2 attacks.",
+    "name": "Curse Burn",
+    "summary": ""
+  },
+  {
+    "id": 32002124,
+    "description": "After attacking, reduces target's P.ATK by 25% for 2 attacks.",
+    "name": "Magical Smoke",
+    "summary": ""
+  },
+  {
+    "id": 32002125,
+    "description": "Reduces target's damage received by 60% for 2 attacks and stun damage received by 60% for 2 attacks.",
+    "name": "Blessing",
+    "summary": ""
+  },
+  {
+    "id": 32002126,
+    "description": "After attacking, boosts own damage dealt by 30% for 1 attack and SPD by 5% for 2 turns.",
+    "name": "Fatal Bite",
+    "summary": ""
+  },
+  {
+    "id": 32002127,
+    "description": "After attacking, boosts own damage dealt by 20% for 1 attack.",
+    "name": "Bite",
+    "summary": ""
+  },
+  {
+    "id": 32002128,
+    "description": "No effect",
+    "name": "Thorn Roar",
+    "summary": ""
+  },
+  {
+    "id": 32002129,
+    "description": "After attacking, increases target's damage received by 25% for 1 attack.",
+    "name": "Thunder Shout",
+    "summary": ""
+  },
+  {
+    "id": 32002130,
+    "description": "Boosts target's SPD by 15% for 2 turns.",
+    "name": "Call",
+    "summary": ""
+  },
+  {
+    "id": 32002131,
+    "description": "After attacking, reduces target's SPD by 20% for 2 turns and Bolt resistance by 30% for 2 turns.",
+    "name": "Shut Out",
+    "summary": ""
+  },
+  {
+    "id": 32002132,
+    "description": "After attacking, applies Paralysis to target (50% chance for 2 turns).",
+    "name": "Lightning Axe",
+    "summary": ""
+  },
+  {
+    "id": 32002133,
+    "description": "After attacking, delays target's turn by 3 turns.",
+    "name": "Gigantic Soul",
+    "summary": ""
+  },
+  {
+    "id": 32002134,
+    "description": "After attacking, boosts own damage dealt by 15% for 2 attacks and reduces damage received by 30% for 5 attacks.",
+    "name": "Megaton Shock",
+    "summary": ""
+  },
+  {
+    "id": 32002135,
+    "description": "After attacking, reduces target's damage dealt by 25% for 3 attacks.",
+    "name": "Primal Stroke",
+    "summary": ""
+  },
+  {
+    "id": 32002136,
+    "description": "After attacking, grants self negative effect immunity for 2 attacks and reduces damage received by 30% for 3 attacks.",
+    "name": "Great Heavy Storm",
+    "summary": ""
+  },
+  {
+    "id": 32002137,
+    "description": "No effect",
+    "name": "Triple Slash",
+    "summary": ""
+  },
+  {
+    "id": 32002138,
+    "description": "After attacking, increases target's damage received by 10% for 2 attacks and reduces P.ATK by 60% for 2 attacks.",
+    "name": "Menacing Hook",
+    "summary": ""
+  },
+  {
+    "id": 32002139,
+    "description": "After attacking, delays target's turn by 2 turns and reduces SPD by 10% for 1 turn.",
+    "name": "Breeze Ribbon",
+    "summary": ""
+  },
+  {
+    "id": 32002140,
+    "description": "After attacking, reduces target's Air resistance by 20% for 2 turns.",
+    "name": "Heavy Storm",
+    "summary": ""
+  },
+  {
+    "id": 32002141,
+    "description": "Boosts target's SPD by 15% for 3 turns.",
+    "name": "Sky Yell",
+    "summary": ""
+  },
+  {
+    "id": 32002142,
+    "description": "No effect",
+    "name": "Glide",
+    "summary": ""
+  },
+  {
+    "id": 32002143,
+    "description": "Grants target 5 stacks of Poison (100% chance to apply, 2% damage, 5 turns).",
+    "name": "Charge Rush",
+    "summary": ""
+  },
+  {
+    "id": 32002144,
+    "description": "Increases target's damage received by 15% for 1 attack and increases own damage received by 15% for 3 attacks.",
+    "name": "White Breath",
+    "summary": ""
+  },
+  {
+    "id": 32002145,
+    "description": "No additional effects.",
+    "name": "Mini Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32002146,
+    "description": "After attacking, reduces target's positive effects received by 30% for 3 times.",
+    "name": "Flurry Strike",
+    "summary": ""
+  },
+  {
+    "id": 32002147,
+    "description": "No additional effects.",
+    "name": "Leap",
+    "summary": ""
+  },
+  {
+    "id": 32002148,
+    "description": "No additional effects.",
+    "name": "Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 32002149,
+    "description": "After attacking, reduces target's damage dealt by 40% for 3 times.",
+    "name": "Black Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 32002150,
+    "description": "After attacking, boosts own critical rate by 30% for 1 time.",
+    "name": "Blizzard",
+    "summary": ""
+  },
+  {
+    "id": 32002151,
+    "description": "After attacking, reduces target's critical rate by 40% for 1 time.",
+    "name": "Tail Rush",
+    "summary": ""
+  },
+  {
+    "id": 32002152,
+    "description": "No additional effects.",
+    "name": "Freezing Breath",
+    "summary": ""
+  },
+  {
+    "id": 32002153,
+    "description": "After attacking, reduces target's damage dealt by 15% for 1 time.",
+    "name": "Freeze Rain",
+    "summary": ""
+  },
+  {
+    "id": 32002155,
+    "description": "No additional effects. (For countdown)",
+    "name": "Charging with sinister power...!",
+    "summary": ""
+  },
+  {
+    "id": 32002156,
+    "description": "No additional effects. (For countdown)",
+    "name": "4 Turns Remaining",
+    "summary": ""
+  },
+  {
+    "id": 32002157,
+    "description": "No additional effects. (For countdown)",
+    "name": "3 Turns Remaining",
+    "summary": ""
+  },
+  {
+    "id": 32002158,
+    "description": "No additional effects. (For countdown)",
+    "name": "2 Turns Remaining",
+    "summary": ""
+  },
+  {
+    "id": 32002159,
+    "description": "No additional effects. (For countdown)",
+    "name": "1 Turn Remaining",
+    "summary": ""
+  },
+  {
+    "id": 32002160,
+    "description": "No additional effects.",
+    "name": "Death Blizzard",
+    "summary": ""
+  },
+  {
+    "id": 32002161,
+    "description": "After attacking, delays target's turn by 3 turns.",
+    "name": "Tackle",
+    "summary": ""
+  },
+  {
+    "id": 32002162,
+    "description": "No additional effects.",
+    "name": "Rush",
+    "summary": ""
+  },
+  {
+    "id": 32002163,
+    "description": "After attacking, reduces target's damage dealt by 20% for 2 times.",
+    "name": "Meteor Slash",
+    "summary": ""
+  },
+  {
+    "id": 32002164,
+    "description": "After attacking, delays target's turn by 3 turns and inflicts Paralysis (80% chance to apply/3 times).",
+    "name": "Fall Impact",
+    "summary": ""
+  },
+  {
+    "id": 32002165,
+    "description": "No additional effects.",
+    "name": "Fall Slash",
+    "summary": ""
+  },
+  {
+    "id": 32002166,
+    "description": "No effect.",
+    "name": "Thunder Slash",
+    "summary": ""
+  },
+  {
+    "id": 32002167,
+    "description": "Reduces skill target's damage received by 30% for 3 turns.",
+    "name": "Cheer Up",
+    "summary": ""
+  },
+  {
+    "id": 32002168,
+    "description": "After attacking, boosts own damage dealt by 30% for 2 turns.",
+    "name": "Laid-back Study Ball",
+    "summary": ""
+  },
+  {
+    "id": 32002169,
+    "description": "After attacking, delays target's turn by 2.",
+    "name": "Rolling Slash",
+    "summary": ""
+  },
+  {
+    "id": 32002170,
+    "description": "No effect.",
+    "name": "Leaf Cutter",
+    "summary": ""
+  },
+  {
+    "id": 32002171,
+    "description": "Restores target ally's HP by 20% and advances their turn by 2.",
+    "name": "Tailwind Heal",
+    "summary": ""
+  },
+  {
+    "id": 32002172,
+    "description": "No effect.",
+    "name": "Fire Throw",
+    "summary": ""
+  },
+  {
+    "id": 32002173,
+    "description": "No effect.",
+    "name": "Fire All",
+    "summary": ""
+  },
+  {
+    "id": 32002174,
+    "description": "Boosts target ally's damage dealt by 25% for 2 turns.",
+    "name": "Power Grant",
+    "summary": ""
+  },
+  {
+    "id": 32002175,
+    "description": "No effect.",
+    "name": "Karma Blaze",
+    "summary": ""
+  },
+  {
+    "id": 32002176,
+    "description": "Reduces target's P.ATK by 35% for 2 turns.",
+    "name": "Power Suppress",
+    "summary": ""
+  },
+  {
+    "id": 32002177,
+    "description": "No effect.",
+    "name": "Pain Pointer",
+    "summary": ""
+  },
+  {
+    "id": 32002178,
+    "description": "No effect.",
+    "name": "Explosive Bloom",
+    "summary": ""
+  },
+  {
+    "id": 32002179,
+    "description": "No effect.",
+    "name": "Cold Release",
+    "summary": ""
+  },
+  {
+    "id": 32002180,
+    "description": "Restores target ally's HP by 15% and boosts damage dealt by 25% for 3 turns.",
+    "name": "Blessing Pointer",
+    "summary": ""
+  },
+  {
+    "id": 32002181,
+    "description": "Increases target's damage received by 25% and reduces SPD by 10% for 3 turns.",
+    "name": "Cursed Pointer",
+    "summary": ""
+  },
+  {
+    "id": 32002182,
+    "description": "No effect.",
+    "name": "Lightning Throw",
+    "summary": ""
+  },
+  {
+    "id": 32002183,
+    "description": "No effect.",
+    "name": "Lightning All",
+    "summary": ""
+  },
+  {
+    "id": 32002184,
+    "description": "No effect.",
+    "name": "Zap It All",
+    "summary": ""
+  },
+  {
+    "id": 32002185,
+    "description": "Reduces target's damage dealt by 35% for 2 turns.",
+    "name": "Power Suppress",
+    "summary": ""
+  },
+  {
+    "id": 32002186,
+    "description": "Boosts all allies' damage dealt by 20% for 2 turns.",
+    "name": "Bestowal of Power",
+    "summary": ""
+  },
+  {
+    "id": 32002187,
+    "description": "Recovers own stun gauge by 25%, boosts damage dealt by 35% and reduces stun damage received by 35% for 2 turns.",
+    "name": "High Reinforce",
+    "summary": ""
+  },
+  {
+    "id": 32002188,
+    "description": "No additional effects.",
+    "name": "Rampage",
+    "summary": ""
+  },
+  {
+    "id": 32002189,
+    "description": "After attacking, delays target's turn by 2.",
+    "name": "Down Thrust",
+    "summary": ""
+  },
+  {
+    "id": 32002190,
+    "description": "No additional effects.",
+    "name": "Rage Fire",
+    "summary": ""
+  },
+  {
+    "id": 32002191,
+    "description": "Reduces own damage received by 25% and stun damage received by 25% for 2 turns, and grants Cover for 2 attacks.",
+    "name": "Ongoing Battle Spirit",
+    "summary": ""
+  },
+  {
+    "id": 32002192,
+    "description": "Boosts all allies' damage dealt by 25% for 5 turns and converts all non-burst panels to boost+ panels.",
+    "name": "Brave Flame Dance",
+    "summary": ""
+  },
+  {
+    "id": 32002193,
+    "description": "No additional effects.",
+    "name": "Reckless",
+    "summary": ""
+  },
+  {
+    "id": 32002194,
+    "description": "After attacking, inflicts Burn (60% chance) on target 5 times.",
+    "name": "Hot Hot Spinning Punch",
+    "summary": ""
+  },
+  {
+    "id": 32002195,
+    "description": "After attacking, converts own next panel to a heal panel (except burst panels).",
+    "name": "Magma Dance",
+    "summary": ""
+  },
+  {
+    "id": 32002196,
+    "description": "Recovers all allies' HP by 15%, then boosts damage dealt by 20% for 3 turns.",
+    "name": "Support",
+    "summary": ""
+  },
+  {
+    "id": 32002203,
+    "description": "After attacking, reduces skill target's SPD by 10% for 1 turn and reduces own damage received by 15% for 2 turns.",
+    "name": "Counter Tail",
+    "summary": ""
+  },
+  {
+    "id": 32002216,
+    "description": "After attacking, boosts own damage dealt by 45% and SPD by 15% for 1 turn.",
+    "name": "Chaos Ray",
+    "summary": ""
+  },
+  {
+    "id": 32002217,
+    "description": "After attacking, boosts own damage dealt by 35% for 1 turn.",
+    "name": "Laser Eyes",
+    "summary": ""
+  },
+  {
+    "id": 32002218,
+    "description": "No additional effects.",
+    "name": "Glide",
+    "summary": ""
+  },
+  {
+    "id": 32002219,
+    "description": "After attacking, reduces own damage received by 35% for 1 turn.",
+    "name": "Scatter Ray",
+    "summary": ""
+  },
+  {
+    "id": 32002220,
+    "description": "Recovers own stun gauge by 40%, boosts damage dealt by 40% and reduces stun damage received by 40% for 2 turns.",
+    "name": "High Reinforce",
+    "summary": ""
+  },
+  {
+    "id": 32002221,
+    "description": "No additional effects.",
+    "name": "Rampage",
+    "summary": ""
+  },
+  {
+    "id": 32002222,
+    "description": "After attacking, delays target's turn by 2.",
+    "name": "Down Thrust",
+    "summary": ""
+  },
+  {
+    "id": 32002223,
+    "description": "No additional effects.",
+    "name": "Rage Fire",
+    "summary": ""
+  },
+  {
+    "id": 32002224,
+    "description": "Reduces own damage received by 35% for 2 turns, reduces own stun damage received by 35% for 2 turns, and grants Cover for 2 hits.",
+    "name": "Warrior's Spirit",
+    "summary": ""
+  },
+  {
+    "id": 32002225,
+    "description": "After attacking, delays target's turn by 2.",
+    "name": "Slash Bite",
+    "summary": ""
+  },
+  {
+    "id": 32002226,
+    "description": "No effects.",
+    "name": "Scatter Slash",
+    "summary": ""
+  },
+  {
+    "id": 32002227,
+    "description": "No effects.",
+    "name": "Wind Breath",
+    "summary": ""
+  },
+  {
+    "id": 32002228,
+    "description": "After attacking, reduces all enemies' M.ATK by 35%, P.ATK by 35%, and SPD by 15% for 2 turns.",
+    "name": "Bloody Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32002229,
+    "description": "Advances target ally's turn by 2.",
+    "name": "Spin Roar",
+    "summary": ""
+  },
+  {
+    "id": 32002231,
+    "description": "Target ally ignores damage below 20% of their max HP for 2 hits.",
+    "name": "Solid Reflection",
+    "summary": ""
+  },
+  {
+    "id": 32002232,
+    "description": "After attacking, converts target's panel to a weaken panel.",
+    "name": "Grab Comet",
+    "summary": ""
+  },
+  {
+    "id": 32002233,
+    "description": "No effects.",
+    "name": "Debris Fall",
+    "summary": ""
+  },
+  {
+    "id": 32002234,
+    "description": "After attacking, delays target's turn by 2.",
+    "name": "Dizzy Glint",
+    "summary": ""
+  },
+  {
+    "id": 32002235,
+    "description": "After attacking, reduces damage dealt by all enemies by 25% for 2 turns.",
+    "name": "Chaos Explosion",
+    "summary": ""
+  },
+  {
+    "id": 32002236,
+    "description": "No effects.",
+    "name": "Turtle Head",
+    "summary": ""
+  },
+  {
+    "id": 32002237,
+    "description": "No effects.",
+    "name": "Raging Turtle",
+    "summary": ""
+  },
+  {
+    "id": 32002238,
+    "description": "Provokes all enemies for 2 turns and reduces own damage received by 15% for 3 turns.",
+    "name": "Shell Sign",
+    "summary": ""
+  },
+  {
+    "id": 32002239,
+    "description": "Boosts this attack's critical damage by 15%.",
+    "name": "Fatal Bite",
+    "summary": ""
+  },
+  {
+    "id": 32002240,
+    "description": "After attacking, boosts own critical rate by 10% for 1 turn.",
+    "name": "Bite Attack",
+    "summary": ""
+  },
+  {
+    "id": 32002241,
+    "description": "After attacking, boosts own critical damage by 10% for 3 turns.",
+    "name": "Thorn Roar",
+    "summary": ""
+  },
+  {
+    "id": 32002243,
+    "description": "No effects.",
+    "name": "Spinning Saw",
+    "summary": ""
+  },
+  {
+    "id": 32002244,
+    "description": "No effects.",
+    "name": "Rolling Cut",
+    "summary": ""
+  },
+  {
+    "id": 32002245,
+    "description": "No effects.",
+    "name": "Spread Slash",
+    "summary": ""
+  },
+  {
+    "id": 32002246,
+    "description": "Grants self Counter for 2 counters.",
+    "name": "Counter Ready",
+    "summary": ""
+  },
+  {
+    "id": 32002247,
+    "description": "Grants target with positive effects: damage dealt +30% for 2 attacks, damage received -30% for 2 attacks, and SPD +10% for 1 turn.",
+    "name": "Cheer Addition",
+    "summary": ""
+  },
+  {
+    "id": 32002248,
+    "description": "After attacking, reduces target's SPD by 10% for 1 turn and damage received by 15% for 2 attacks.",
+    "name": "Counter Tail",
+    "summary": ""
+  },
+  {
+    "id": 32002249,
+    "description": "After attacking, reduces target's M.ATK by 25% for 3 attacks and P.ATK by 25% for 3 attacks.",
+    "name": "Ice Block Throw",
+    "summary": ""
+  },
+  {
+    "id": 32002250,
+    "description": "Increases target's damage received by 30% for 2 attacks, reduces HP recovery received by 30% for 2 attacks, and reduces status effect resistance by 40% for 2 attacks.",
+    "name": "Misfortune Call",
+    "summary": ""
+  },
+  {
+    "id": 32002251,
+    "description": "Grants target: When attacking a target with negative effects, boosts damage dealt by 30% for 2 attacks.",
+    "name": "Targeting Weakness",
+    "summary": ""
+  },
+  {
+    "id": 32002252,
+    "description": "No effect.",
+    "name": "Ice Score",
+    "summary": ""
+  },
+  {
+    "id": 32002352,
+    "description": "No effect.",
+    "name": "Golden Fist",
+    "summary": ""
+  },
+  {
+    "id": 32002353,
+    "description": "After attacking, reduces target's damage dealt by 40% for 3 attacks.",
+    "name": "Gold Strike",
+    "summary": ""
+  },
+  {
+    "id": 32002354,
+    "description": "No effect.",
+    "name": "Strike",
+    "summary": ""
+  },
+  {
+    "id": 32002355,
+    "description": "Increases own damage dealt by 30% for 2 attacks.",
+    "name": "Surging Power",
+    "summary": ""
+  },
+  {
+    "id": 32002356,
+    "description": "No effect.",
+    "name": "Spinning Saw",
+    "summary": ""
+  },
+  {
+    "id": 32002357,
+    "description": "No effect.",
+    "name": "Rolling Cut",
+    "summary": ""
+  },
+  {
+    "id": 32002358,
+    "description": "No effect.",
+    "name": "Spread Slash",
+    "summary": ""
+  },
+  {
+    "id": 32002359,
+    "description": "Grants self Counter for 2 counters.",
+    "name": "Counter Ready",
+    "summary": ""
+  },
+  {
+    "id": 32002360,
+    "description": "For all allies with positive effects: increases damage dealt by 30% for 2 attacks, reduces damage received by 30% for 2 attacks, and increases SPD by 10% for 1 turn.",
+    "name": "Cheer Addition",
+    "summary": ""
+  },
+  {
+    "id": 32002361,
+    "description": "After attacking, reduces target's SPD by 10% for 1 turn and reduces own damage received by 15% for 2 attacks.",
+    "name": "Counter Tail",
+    "summary": ""
+  },
+  {
+    "id": 32002362,
+    "description": "Inflicts all enemies with Provoke for 3 turns and reduces damage received by 30% for 3 attacks.",
+    "name": "Attention",
+    "summary": ""
+  },
+  {
+    "id": 32002364,
+    "description": "After attacking, reduces own damage received by 30% for 1 attack and increases damage dealt by 20% for 2 attacks.",
+    "name": "Pork Bite",
+    "summary": ""
+  },
+  {
+    "id": 32002365,
+    "description": "No effect.",
+    "name": "Spinning Needle",
+    "summary": ""
+  },
+  {
+    "id": 32002366,
+    "description": "No additional effects.",
+    "name": "Ice Bite",
+    "summary": ""
+  },
+  {
+    "id": 32002367,
+    "description": "After attacking, boosts own damage by 20% for 3 hits, reduces own stun damage by 50% for 1 hit and reduces own damage received by 50% for 1 hit.",
+    "name": "Glacial Shell",
+    "summary": ""
   }
 ]

@@ -168,5 +168,15 @@
     "id": 279,
     "description": "Inflicts status effect resistance -{0}% and received M. ATK damage +{1}% to enemy with the highest max HP for 2 turns.",
     "name": "Hapless Shuttle"
+  },
+  {
+    "id": 280,
+    "description": "Deals Air damage to the enemy with the lowest current HP.",
+    "name": "Prototype Tornado Bomb"
+  },
+  {
+    "id": 281,
+    "description": "Deals Air damage to the enemy with the lowest current HP.",
+    "name": "Prototype Tornado Bomb"
   }
 ]

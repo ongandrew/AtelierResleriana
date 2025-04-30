@@ -328,5 +328,35 @@
     "overlay_name": "Nina Friede",
     "profile_voice_text": "I'm Nina. Usually I work as a mercenary.\nHehe... I live each day freely.",
     "start_at": "2025-04-23T03:00:00Z"
+  },
+  {
+    "id": 33504,
+    "acquisition_text": "I've meticulously crafted my theories—\nNow, let me prove their validity to you.",
+    "another_name": "Mighty Manager",
+    "description": "An exchange student from ACSE Business School. A logical thinker with extensive knowledge of business management from ancient to modern times, specializing in data-driven strategy development. Despite being a student, she has received numerous advisory offers from companies and has gained idol-like popularity in certain business circles as a young genius.",
+    "fullname": "Plachta",
+    "leader_skill": {
+      "description": "Boosts all allies' P.ATK and M.ATK by 10% for each Resleriana Academy character in the party.",
+      "name": "Learn Together"
+    },
+    "name": "Plachta",
+    "overlay_name": "Plachta",
+    "profile_voice_text": "I'm Plachta, an exchange student here. Let's learn and grow together.",
+    "start_at": "2025-05-07T03:00:00Z"
+  },
+  {
+    "id": 40005,
+    "acquisition_text": "Nice to meet you! Are you a student at this academy?\nWould you like to be friends?",
+    "another_name": "Blooming Creation",
+    "description": "An exchange student from ACSE Business School. As the daughter of a famous company president, she studies business management to eventually succeed her father's work. With her friendly personality, she excels at creating promotional strategies that connect with people's emotions. She forms an excellent partnership with her classmate Plachta, each complementing the other's weaknesses.",
+    "fullname": "Klaudia Valentz",
+    "leader_skill": {
+      "description": "Boosts all allies' M.ATK and M.DEF by 10% for each Resleriana Academy character in the party.",
+      "name": "Will You Be My Friend?"
+    },
+    "name": "Klaudia",
+    "overlay_name": "Klaudia Valentz",
+    "profile_voice_text": "As a businesswoman's daughter, I always keep myself well-informed. Don't hesitate to come to me if you need anything!",
+    "start_at": "2025-04-30T03:00:00Z"
   }
 ]

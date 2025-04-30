@@ -1458,5 +1458,175 @@
     "id": 810130,
     "description": "Boosts damage dealt to targets without Air affinity by {value}%. Cannot be removed.",
     "name": "Conditional Dealt Damage Up"
+  },
+  {
+    "id": 510138,
+    "description": "Boosts damage received from Air attacks by {value}%. (MAX 100%)",
+    "name": "Don't Miss this Shutter Chance!"
+  },
+  {
+    "id": 510139,
+    "description": "Boosts burst skill damage by {value}%. (MAX 50%)",
+    "name": "I'll Prove My Theory"
+  },
+  {
+    "id": 510140,
+    "description": "Boosts skill damage by {value}%. (MAX 120%)",
+    "name": "I'll Prove My Theory"
+  },
+  {
+    "id": 610246,
+    "description": "Boosts M.ATK by {value}%. (MAX 30%)",
+    "name": "M.ATK Up"
+  },
+  {
+    "id": 610247,
+    "description": "Boosts effects received from boost-type panels by {value}%. (Non-stackable)",
+    "name": "Boost Panel Effect Up"
+  },
+  {
+    "id": 800136,
+    "description": "Boosts effects received from positive panels by {value}%.",
+    "name": "Positive Panel Effect Up"
+  },
+  {
+    "id": 800137,
+    "description": "Boosts critical rate by {value}% when attack target has a status effect.",
+    "name": "Conditional Critical Rate Up"
+  },
+  {
+    "id": 810133,
+    "description": "Boosts damage dealt to enemies with non-Strike affinity by {value}%. Cannot be removed.",
+    "name": "Conditional Dealt Damage Up"
+  },
+  {
+    "id": 810386,
+    "description": "Boosts damage dealt by {value}%.",
+    "name": "4 Turns Remaining"
+  },
+  {
+    "id": 810387,
+    "description": "Boosts damage dealt by {value}%.",
+    "name": "3 Turns Remaining"
+  },
+  {
+    "id": 810388,
+    "description": "Boosts damage dealt by {value}%.",
+    "name": "2 Turns Remaining"
+  },
+  {
+    "id": 810389,
+    "description": "Boosts damage dealt by {value}%.",
+    "name": "1 Turn Remaining"
+  },
+  {
+    "id": 810390,
+    "description": "Boosts damage dealt by {value}%.",
+    "name": "5 Turns Remaining"
+  },
+  {
+    "id": 810391,
+    "description": "Nullifies push effects.",
+    "name": "Block Push"
+  },
+  {
+    "id": 820111,
+    "description": "Boosts chance to be critically hit by {value}%.",
+    "name": "Received Critical Rate Up"
+  },
+  {
+    "id": 910162,
+    "description": "Boosts M.ATK by {value}%.",
+    "name": "Accelerando"
+  },
+  {
+    "id": 910163,
+    "description": "Boosts M.ATK by {value}%.",
+    "name": "M.ATK Up"
+  },
+  {
+    "id": 910164,
+    "description": "When equipped to a character with Air affinity, boosts skill damage by {value}% when attacking a weakness.",
+    "name": "Air Affinity Weakness Damage Up"
+  },
+  {
+    "id": 1210372,
+    "description": "Boosts M.ATK by {value}%. Cannot be removed.",
+    "name": "M.ATK Up"
+  },
+  {
+    "id": 1210373,
+    "description": "Boosts P.ATK by {value}%. Cannot be removed.",
+    "name": "P.ATK Up"
+  },
+  {
+    "id": 1210374,
+    "description": "Boosts critical damage by {value}%. Cannot be removed.",
+    "name": "Critical Damage Up"
+  },
+  {
+    "id": 1210375,
+    "description": "Boosts skill damage by {value}%. Cannot be removed.",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 1210376,
+    "description": "Boosts burst skill damage by {value}%. Cannot be removed.",
+    "name": "Burst Damage Up"
+  },
+  {
+    "id": 1210377,
+    "description": "Boosts critical rate by {value}% for characters with Air affinity. Cannot be removed.",
+    "name": "Air: Critical Rate Up"
+  },
+  {
+    "id": 1210378,
+    "description": "Boosts skill damage by {value}% when attacking targets with status effects. Cannot be removed.",
+    "name": "Status Effect Target: Dealt Damage Up"
+  },
+  {
+    "id": 1210379,
+    "description": "Boosts M.ATK by 25% for characters with Fire affinity. Cannot be removed.",
+    "name": "Fire: M.ATK Up"
+  },
+  {
+    "id": 1210380,
+    "description": "Boosts M.ATK by 25% for characters with Ice affinity. Cannot be removed.",
+    "name": "Ice: M.ATK Up"
+  },
+  {
+    "id": 1210381,
+    "description": "Boosts M.ATK by 25% for characters with Bolt affinity. Cannot be removed.",
+    "name": "Bolt: M.ATK Up"
+  },
+  {
+    "id": 1210382,
+    "description": "Boosts M.ATK by 25% for characters with Air affinity. Cannot be removed.",
+    "name": "Air: M.ATK Up"
+  },
+  {
+    "id": 1210383,
+    "description": "Boosts P.ATK by 25% for characters with Slash affinity. Cannot be removed.",
+    "name": "Slash: P.ATK Up"
+  },
+  {
+    "id": 1210384,
+    "description": "Boosts P.ATK by 25% for characters with Strike affinity. Cannot be removed.",
+    "name": "Strike: P.ATK Up"
+  },
+  {
+    "id": 1210385,
+    "description": "Boosts P.ATK by 25% for characters with Stab affinity. Cannot be removed.",
+    "name": "Stab: P.ATK Up"
+  },
+  {
+    "id": 1210386,
+    "description": "Boosts critical rate by {value}% for characters with Strike affinity. Cannot be removed.",
+    "name": "Strike: Critical Rate Up"
+  },
+  {
+    "id": 1220069,
+    "description": "Reduces Attacker skill damage by {value}%. Cannot be removed.",
+    "name": "Attacker Dealt Damage Down"
   }
 ]

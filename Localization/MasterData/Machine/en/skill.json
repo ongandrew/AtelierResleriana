@@ -12736,5 +12736,419 @@
     "description": "After attacking, boosts own damage by 20% for 3 hits, reduces own stun damage by 50% for 1 hit and reduces own damage received by 50% for 1 hit.",
     "name": "Glacial Shell",
     "summary": ""
+  },
+  {
+    "id": 32129,
+    "description": "Boosts Air skill damage by {0}% and Stab skill damage by {1}% for all allies for 2 turns.",
+    "name": "Cosmic Energy",
+    "summary": ""
+  },
+  {
+    "id": 32130,
+    "description": "Boosts Air skill damage by {0}% and Stab skill damage by {1}% for all allies for 2 turns.",
+    "name": "Cosmic Energy",
+    "summary": ""
+  },
+  {
+    "id": 11002746,
+    "description": "After attacking, boosts own stun damage by {0}% (up to 60%). If own next panel is not a burst panel, converts it to a stun boost panel (creates one if empty).",
+    "name": "Spanner Boomerang",
+    "summary": "After attacking, boosts own stun damage. Converts own next non-burst panel to a stun boost panel."
+  },
+  {
+    "id": 11002747,
+    "description": "After attacking, boosts own stun damage by {0}% (up to 60%). If own next panel is not a burst panel, converts it to a stun boost panel (creates one if empty).",
+    "name": "Spanner Boomerang",
+    "summary": "After attacking, boosts own stun damage. Converts own next non-burst panel to a stun boost panel."
+  },
+  {
+    "id": 11002748,
+    "description": "After attacking, boosts own stun damage by {0}% (up to 60%). If own next panel is not a burst panel, converts it to a stun boost panel (creates one if empty).",
+    "name": "Spanner Boomerang",
+    "summary": "After attacking, boosts own stun damage. Converts own next non-burst panel to a stun boost panel."
+  },
+  {
+    "id": 11002749,
+    "description": "After attacking, boosts own stun damage by {0}% (up to 60%). If own next panel is not a burst panel, converts it to a stun boost panel (creates one if empty).",
+    "name": "Spanner Boomerang",
+    "summary": "After attacking, boosts own stun damage. Converts own next non-burst panel to a stun boost panel."
+  },
+  {
+    "id": 11002750,
+    "description": "After attacking, boosts own stun damage by {0}% (up to 60%). If own next panel is not a burst panel, converts it to a stun boost panel (creates one if empty).",
+    "name": "Spanner Boomerang",
+    "summary": "After attacking, boosts own stun damage. Converts own next non-burst panel to a stun boost panel."
+  },
+  {
+    "id": 12002751,
+    "description": "Before attacking, reduces target's Air resistance by {0}% for 3 attacks. After attacking, boosts own stun damage by {1}% for 1 turn and boosts target's magical damage received by {2}% for 2 attacks. If Analysis Report is not granted, grants Analysis Report. If already granted, increases Analysis Report Lv by 1 (Max Lv. 10).",
+    "name": "Drive Docking",
+    "summary": "Before attacking, reduces target's Air resistance. After attacking, boosts own stun damage and target's magical damage received. Grants Analysis Report or increases its level."
+  },
+  {
+    "id": 12002752,
+    "description": "Before attacking, reduces target's Air resistance by {0}% for 3 attacks. After attacking, boosts own stun damage by {1}% for 1 turn and boosts target's magical damage received by {2}% for 2 attacks. If Analysis Report is not granted, grants Analysis Report. If already granted, increases Analysis Report Lv by 1 (Max Lv. 10).",
+    "name": "Drive Docking",
+    "summary": "Before attacking, reduces target's Air resistance. After attacking, boosts own stun damage and target's magical damage received. Grants Analysis Report or increases its level."
+  },
+  {
+    "id": 12002753,
+    "description": "Before attacking, reduces target's Air resistance by {0}% for 3 attacks. After attacking, boosts own stun damage by {1}% for 1 turn and boosts target's magical damage received by {2}% for 2 attacks. If Analysis Report is not granted, grants Analysis Report. If already granted, increases Analysis Report Lv by 1 (Max Lv. 10).",
+    "name": "Drive Docking",
+    "summary": "Before attacking, reduces target's Air resistance. After attacking, boosts own stun damage and target's magical damage received. Grants Analysis Report or increases its level."
+  },
+  {
+    "id": 12002754,
+    "description": "Before attacking, reduces target's Air resistance by {0}% for 3 attacks. After attacking, boosts own stun damage by {1}% for 1 turn and boosts target's magical damage received by {2}% for 2 attacks. If Analysis Report is not granted, grants Analysis Report. If already granted, increases Analysis Report Lv by 1 (Max Lv. 10).",
+    "name": "Drive Docking",
+    "summary": "Before attacking, reduces target's Air resistance. After attacking, boosts own stun damage and target's magical damage received. Grants Analysis Report or increases its level."
+  },
+  {
+    "id": 12002755,
+    "description": "Before attacking, reduces target's Air resistance by {0}% for 3 attacks. After attacking, boosts own stun damage by {1}% for 1 turn and boosts target's magical damage received by {2}% for 2 attacks. If Analysis Report is not granted, grants Analysis Report. If already granted, increases Analysis Report Lv by 1 (Max Lv. 10).",
+    "name": "Drive Docking",
+    "summary": "Before attacking, reduces target's Air resistance. After attacking, boosts own stun damage and target's magical damage received. Grants Analysis Report or increases its level."
+  },
+  {
+    "id": 14002756,
+    "description": "Before attacking, reduces target's Air resistance by {0}% for 2 attacks. After attacking, boosts target's magical damage received by {1}%, Air damage received by {2}%, and stun damage received by {3}% for 2 attacks. When attack target is stunned, boosts M.ATK by {4}% for 2 turns for the ally with highest M.ATK before using this skill. If Analysis Report is not granted, grants Analysis Report (Lv. 3). If already granted, increases Analysis Report Lv by 3 (Max Lv. 10).",
+    "name": "Joint Air-Ground Assault",
+    "summary": "Before attacking, reduces target's Air resistance. After attacking, boosts target's magical, Air, and stun damage received. When target is stunned, boosts ally with highest M.ATK. Grants Analysis Report or increases its level."
+  },
+  {
+    "id": 14002757,
+    "description": "Before attacking, reduces target's Air resistance by {0}% for 2 attacks. After attacking, boosts target's magical damage received by {1}%, Air damage received by {2}%, and stun damage received by {3}% for 2 attacks. When attack target is stunned, boosts M.ATK by {4}% for 2 turns for the ally with highest M.ATK before using this skill. If Analysis Report is not granted, grants Analysis Report (Lv. 3). If already granted, increases Analysis Report Lv by 3 (Max Lv. 10).",
+    "name": "Joint Air-Ground Assault",
+    "summary": "Before attacking, reduces target's Air resistance. After attacking, boosts target's magical, Air, and stun damage received. When target is stunned, boosts ally with highest M.ATK. Grants Analysis Report or increases its level."
+  },
+  {
+    "id": 14002758,
+    "description": "Before attacking, reduces target's Air resistance by {0}% for 2 attacks. After attacking, boosts target's magical damage received by {1}%, Air damage received by {2}%, and stun damage received by {3}% for 2 attacks. When attack target is stunned, boosts M.ATK by {4}% for 2 turns for the ally with highest M.ATK before using this skill. If Analysis Report is not granted, grants Analysis Report (Lv. 3). If already granted, increases Analysis Report Lv by 3 (Max Lv. 10).",
+    "name": "Joint Air-Ground Assault",
+    "summary": "Before attacking, reduces target's Air resistance. After attacking, boosts target's magical, Air, and stun damage received. When target is stunned, boosts ally with highest M.ATK. Grants Analysis Report or increases its level."
+  },
+  {
+    "id": 14002759,
+    "description": "Before attacking, reduces target's Air resistance by {0}% for 2 attacks. After attacking, boosts target's magical damage received by {1}%, Air damage received by {2}%, and stun damage received by {3}% for 2 attacks. When attack target is stunned, boosts M.ATK by {4}% for 2 turns for the ally with highest M.ATK before using this skill. If Analysis Report is not granted, grants Analysis Report (Lv. 3). If already granted, increases Analysis Report Lv by 3 (Max Lv. 10).",
+    "name": "Joint Air-Ground Assault",
+    "summary": "Before attacking, reduces target's Air resistance. After attacking, boosts target's magical, Air, and stun damage received. When target is stunned, boosts ally with highest M.ATK. Grants Analysis Report or increases its level."
+  },
+  {
+    "id": 14002760,
+    "description": "Before attacking, reduces target's Air resistance by {0}% for 2 attacks. After attacking, boosts target's magical damage received by {1}%, Air damage received by {2}%, and stun damage received by {3}% for 2 attacks. When attack target is stunned, boosts M.ATK by {4}% for 2 turns for the ally with highest M.ATK before using this skill. If Analysis Report is not granted, grants Analysis Report (Lv. 3). If already granted, increases Analysis Report Lv by 3 (Max Lv. 10).",
+    "name": "Joint Air-Ground Assault",
+    "summary": "Before attacking, reduces target's Air resistance. After attacking, boosts target's magical, Air, and stun damage received. When target is stunned, boosts ally with highest M.ATK. Grants Analysis Report or increases its level."
+  },
+  {
+    "id": 32002197,
+    "description": "No effect",
+    "name": "Falling Meteor",
+    "summary": ""
+  },
+  {
+    "id": 32002198,
+    "description": "No effect",
+    "name": "Strike Rolling",
+    "summary": ""
+  },
+  {
+    "id": 32002199,
+    "description": "No effect",
+    "name": "Rock Call",
+    "summary": ""
+  },
+  {
+    "id": 32002200,
+    "description": "No effects",
+    "name": "Falling Meteor",
+    "summary": ""
+  },
+  {
+    "id": 32002201,
+    "description": "No effects",
+    "name": "Strike Rolling",
+    "summary": ""
+  },
+  {
+    "id": 32002202,
+    "description": "No effects",
+    "name": "Rock Call",
+    "summary": ""
+  },
+  {
+    "id": 32002272,
+    "description": "No effects",
+    "name": "Dangerous Bite",
+    "summary": ""
+  },
+  {
+    "id": 32002273,
+    "description": "After attacking, reduces target's damage dealt by 15% for 3 attacks",
+    "name": "Sonic Voice",
+    "summary": ""
+  },
+  {
+    "id": 32002274,
+    "description": "After attacking, applies 5 stacks of Poison to the target (100% chance, 2% damage, 5 turns)",
+    "name": "Poison Bite",
+    "summary": ""
+  },
+  {
+    "id": 32002275,
+    "description": "After attacking, reduces target's SPD by 10% for 5 turns",
+    "name": "Thunder Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32002276,
+    "description": "Increases target's damage dealt by 15% for 3 attacks",
+    "name": "Spin Roar",
+    "summary": ""
+  },
+  {
+    "id": 32002277,
+    "description": "No effects",
+    "name": "Turtle Head",
+    "summary": ""
+  },
+  {
+    "id": 32002278,
+    "description": "Grants target immunity from damage for 1 attack",
+    "name": "Shell Field",
+    "summary": ""
+  },
+  {
+    "id": 32002279,
+    "description": "No effects",
+    "name": "Raging Turtle",
+    "summary": ""
+  },
+  {
+    "id": 32002280,
+    "description": "Reduces own damage received by 10% for 2 attacks",
+    "name": "Spin Up",
+    "summary": ""
+  },
+  {
+    "id": 32002281,
+    "description": "Reduces target's HP recovery by 50% for 2 turns",
+    "name": "Rock Score",
+    "summary": ""
+  },
+  {
+    "id": 32002282,
+    "description": "After attacking, restores own HP by 10%",
+    "name": "Nibble",
+    "summary": ""
+  },
+  {
+    "id": 32002283,
+    "description": "No effects",
+    "name": "Stone Rain",
+    "summary": ""
+  },
+  {
+    "id": 32002284,
+    "description": "After attacking, increases target's damage received by 10% for 2 attacks",
+    "name": "Thunder Kick",
+    "summary": ""
+  },
+  {
+    "id": 32002285,
+    "description": "After attacking, restores all allies' HP by 5%",
+    "name": "Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 32002286,
+    "description": "Advances target's turn by 3 turns",
+    "name": "Command of Vigor",
+    "summary": ""
+  },
+  {
+    "id": 32002287,
+    "description": "After attacking, increases target's damage received by 20% for 3 attacks",
+    "name": "Painful Guidance",
+    "summary": ""
+  },
+  {
+    "id": 32002288,
+    "description": "After attacking, reduces target's damage dealt by 20% for 3 attacks and critical rate by 20% for 1 attack",
+    "name": "Cold Release",
+    "summary": ""
+  },
+  {
+    "id": 32002289,
+    "description": "Advances skill target's turn by 3 turns",
+    "name": "Energetic Direction",
+    "summary": ""
+  },
+  {
+    "id": 32002290,
+    "description": "50% chance to inflict Paralysis on skill target for 2 turns",
+    "name": "Freezing Release",
+    "summary": ""
+  },
+  {
+    "id": 32002291,
+    "description": "After attacking, boosts own damage dealt by 30% for 3 times and reduces damage received by 30% for 3 times",
+    "name": "Stage on Ice",
+    "summary": ""
+  },
+  {
+    "id": 32002292,
+    "description": "Reduces skill target's damage received by 25% for 3 times",
+    "name": "Protective Dance",
+    "summary": ""
+  },
+  {
+    "id": 32002293,
+    "description": "Reduces skill target's damage dealt by 50% for 3 times and stun damage dealt by 50% for 3 times",
+    "name": "Dangerous Snow Powder",
+    "summary": ""
+  },
+  {
+    "id": 32002294,
+    "description": "Restores skill target's HP by 15% and stun gauge by 30%",
+    "name": "Support",
+    "summary": ""
+  },
+  {
+    "id": 32002397,
+    "description": "After attacking, reduces skill target's damage dealt by 30% for 3 times and stun damage dealt by 30% for 3 times",
+    "name": "Needle Blast",
+    "summary": ""
+  },
+  {
+    "id": 32002398,
+    "description": "No effect",
+    "name": "Turtle Head",
+    "summary": ""
+  },
+  {
+    "id": 32002399,
+    "description": "After attacking, reduces skill target's stun damage dealt by 25% for 3 times",
+    "name": "Thunder Head",
+    "summary": ""
+  },
+  {
+    "id": 32002400,
+    "description": "After attacking, reduces skill target's damage dealt by 15% for 1 time",
+    "name": "Thunder Breath",
+    "summary": ""
+  },
+  {
+    "id": 32002401,
+    "description": "After attacking, reduces skill target's damage dealt by 25% for 2 times and stun damage dealt by 25% for 2 times",
+    "name": "Needle Blast",
+    "summary": ""
+  },
+  {
+    "id": 32002402,
+    "description": "After attacking, reduces skill target's stun damage dealt by 20% for 2 times",
+    "name": "Thunder Bite",
+    "summary": ""
+  },
+  {
+    "id": 32002403,
+    "description": "After attacking, reduces skill target's damage dealt by 20% for 2 times",
+    "name": "Thunder Breath",
+    "summary": ""
+  },
+  {
+    "id": 32002404,
+    "description": "No effect",
+    "name": "Spin Needle",
+    "summary": ""
+  },
+  {
+    "id": 32002405,
+    "description": "Reduces critical damage by 25% for 2 times for all enemies",
+    "name": "Dark Breath",
+    "summary": ""
+  },
+  {
+    "id": 32002406,
+    "description": "Reduces stun damage received by 25% for 2 times for all allies",
+    "name": "Shell Field",
+    "summary": ""
+  },
+  {
+    "id": 32002407,
+    "description": "Boosts this attack's critical damage by 15%",
+    "name": "Fatal Bite",
+    "summary": ""
+  },
+  {
+    "id": 32002408,
+    "description": "After attacking, boosts own critical rate by 10% for 1 time",
+    "name": "Bite",
+    "summary": ""
+  },
+  {
+    "id": 32002409,
+    "description": "After attacking, boosts own critical damage by 10% for 3 times",
+    "name": "Thorn Roar",
+    "summary": ""
+  },
+  {
+    "id": 32002410,
+    "description": "No effect",
+    "name": "Wind Ball",
+    "summary": ""
+  },
+  {
+    "id": 32002411,
+    "description": "No effect",
+    "name": "Dragon Rising",
+    "summary": ""
+  },
+  {
+    "id": 32002412,
+    "description": "No effect",
+    "name": "Horn Attack",
+    "summary": ""
+  },
+  {
+    "id": 32002413,
+    "description": "After attacking, increases damage received by 15% for 5 attacks on skill targets with 75% or more HP.",
+    "name": "Vicious Roar",
+    "summary": ""
+  },
+  {
+    "id": 32002414,
+    "description": "Reduces own damage received by 15% for 5 attacks.",
+    "name": "Full-Power Roar",
+    "summary": ""
+  },
+  {
+    "id": 32002415,
+    "description": "Grants self Cover (3 times) and Counter (2 times).",
+    "name": "Prepare to Charge",
+    "summary": ""
+  },
+  {
+    "id": 32002416,
+    "description": "No effect",
+    "name": "Ice Rain",
+    "summary": ""
+  },
+  {
+    "id": 32002417,
+    "description": "No effect",
+    "name": "Horn Strike",
+    "summary": ""
+  },
+  {
+    "id": 32002422,
+    "description": "No effect",
+    "name": "Spin Needle",
+    "summary": ""
+  },
+  {
+    "id": 32002423,
+    "description": "Reduces skill target's stun damage received by 30% for 3 attacks.",
+    "name": "Shell Field",
+    "summary": ""
   }
 ]

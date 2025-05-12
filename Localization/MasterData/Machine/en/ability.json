@@ -3753,5 +3753,85 @@
     "id": 600000668,
     "description": "Boosts skill damage by 40% when attack target has a status effect.",
     "name": "Skill Damage Up Against Status Effects"
+  },
+  {
+    "id": 301177,
+    "description": "While equipped by Heidi [Dream Future] when attacking a stunned target, increases magical damage received for all enemies by {0}% for 2 hits. (Maximum 4 stacks)",
+    "name": "Genius Solution"
+  },
+  {
+    "id": 301178,
+    "description": "While equipped to a Breaker with Air affinity, at the start of wave, boosts status effect application rate by {0}% for all allies for 2 turns.",
+    "name": "Mechanic's White Coat"
+  },
+  {
+    "id": 301179,
+    "description": "While equipped to a Breaker with Air affinity, at the start of wave, boosts status effect application rate by {0}% for all allies for 2 turns.",
+    "name": "Mechanic's White Coat"
+  },
+  {
+    "id": 301180,
+    "description": "While equipped to a Breaker with Air affinity, boosts stun damage by {0}% when attacking a weakness.",
+    "name": "Mechanic's Goggles"
+  },
+  {
+    "id": 301181,
+    "description": "While equipped to a Breaker with Air affinity, boosts stun damage by {0}% when attacking a weakness.",
+    "name": "Mechanic's Goggles"
+  },
+  {
+    "id": 1980189,
+    "description": "Characters with Air affinity gain M.ATK +{0}%.",
+    "name": "The Winds of Change Are in Science!"
+  },
+  {
+    "id": 1990346,
+    "description": "When attacking a weakness or stunned target, if Analysis Report is not active, grants Analysis Report (Lv. 2).\nIf already active, increases Analysis Report level by 2 (Max Lv. 10).\nGain the following bonuses based on Analysis Report level:\nPer level: Boosts stun damage by {0}%.\nLv. 3 or higher: Boosts skill damage by {1}%.\nLv. 5 or higher: Boosts skill damage by {2}%.\nLv. 10: Boosts skill damage by {3}%.",
+    "name": "Contribute to Scientific Progress!"
+  },
+  {
+    "id": 1990347,
+    "description": "When attacking a weakness, boosts stun damage by {0}%.\nWhen a target inflicted with a status effect becomes stunned, boosts critical rate by {1}% for all Resleriana Academy allies for 1 turn.",
+    "name": "Technology That Shapes the Future"
+  },
+  {
+    "id": 4990878,
+    "description": "While equipped to a Breaker with Air affinity, boosts negative effect potency by {0}%.",
+    "name": "Air Affinity Breaker Debuff Up III"
+  },
+  {
+    "id": 4990879,
+    "description": "While equipped to a Breaker with Air affinity, boosts negative effect potency by {0}%.",
+    "name": "Air Affinity Breaker Debuff Up III"
+  },
+  {
+    "id": 4990880,
+    "description": "While equipped to a Breaker with Air affinity, boosts negative effect potency by {0}%.",
+    "name": "Air Affinity Breaker Debuff Up III"
+  },
+  {
+    "id": 4990881,
+    "description": "While equipped to a Breaker with Air affinity, boosts negative effect potency by {0}%.",
+    "name": "Air Affinity Breaker Debuff Up III"
+  },
+  {
+    "id": 4990882,
+    "description": "While equipped to a Breaker with Air affinity, boosts negative effect potency by {0}%.",
+    "name": "Air Affinity Breaker Debuff Up III"
+  },
+  {
+    "id": 26141001,
+    "description": "At the start of wave, grants self a 1000% damage boost against enemies without Stab affinity.",
+    "name": ""
+  },
+  {
+    "id": 26141002,
+    "description": "At the start of wave, triggers the following effects:\n- Reduces damage received by 25% for 1 hit.\n- Reduces stun damage received by 25% for 1 hit.\n- Reduces damage dealt by 25% for 2 hits.",
+    "name": ""
+  },
+  {
+    "id": 26178000,
+    "description": "Each time stunned, reduces own stun damage received by 30% permanently (up to 3 times).\nGrants effects to self or enemy based on number of times stunned:\n2nd time: Increases own damage received by 40% permanently.\n3rd time: Increases own negative effect potency received by 50% permanently.\n4th time: Increases positive effect potency received by 80% permanently for all enemies.",
+    "name": ""
   }
 ]

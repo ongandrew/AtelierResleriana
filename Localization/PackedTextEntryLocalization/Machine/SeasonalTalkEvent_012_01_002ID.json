@@ -1,0 +1,648 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "ふーん、これが出し物の申請リストねえ……\nうげ、すごい量だなこりゃ",
+        "localizations": {
+          "en": "Hmm, so this is the application list for exhibits... Ugh, there's a ton of them."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "それでもまだ全体の半分ほどといったところだ。\n申請期限まではまだ日があるからな",
+        "localizations": {
+          "en": "And that's only about half of them. There's still a few days until the formal application deadline."
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "全体を見つつ場所割りや予算などを管理する必要が\nあるのだが……これがなかなか手ごわくてな",
+        "localizations": {
+          "en": "I need to manage space allocation and budgets while keeping an eye on the big picture... and it's proving quite challenging."
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "それで遅くまで作業してたってことか。\n他の実行委員たちは？",
+        "localizations": {
+          "en": "So that's why you were working late. What about the other committee members?"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "皆、それぞれ自分自身の仕事で手いっぱいだ",
+        "localizations": {
+          "en": "Everyone's already occupied with their own responsibilities."
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "学園内外との交渉やパンフレット作成……\nやるべき仕事はいくらでもある",
+        "localizations": {
+          "en": "Like negotiations both inside and outside the academy, creating pamphlets... there's no shortage of tasks to handle."
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "実行委員って大変なんだねえ……",
+        "localizations": {
+          "en": "Being on the committee sounds like a tough gig..."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "しかし、本当に手伝ってもらっていいのだろうか？",
+        "localizations": {
+          "en": "Are you certain you want to help me with this?"
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "いいよ。こういうのは得意な奴がやればいいんだって",
+        "localizations": {
+          "en": "Yeah, no worries! It's always best to let someone who knows what they're doing handle it."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "面目ない。私も他の作業をしているから、\n何かあったら声をかけてくれ",
+        "localizations": {
+          "en": "Okay, appreciate it! I'll be busy with other stuff, but don't hesitate to call me if anything comes up."
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "はいよー",
+        "localizations": {
+          "en": "Sure thing!"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "……っし、こんなもんかな。\nユナさーん！\u3000終わったよー！",
+        "localizations": {
+          "en": "Alright, that should do it. Juna! I'm finished!"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "早いな！？",
+        "localizations": {
+          "en": "What?! Already?!"
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "とりあえず出し物のジャンルと規模、必要な物品なんか\nをまとめてソートできるようにしといた",
+        "localizations": {
+          "en": "I've organized everything by genre, scale, and required materials and I've made it so that it's all sortable now."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "あと、新規申請の登録がしやすいように入力フォーム\n作っといたから。今後の作業も多少は楽になると思う",
+        "localizations": {
+          "en": "I also created an input form to make new applications easier to register. That should make future applications easier to process."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "何から何まで……ありがとう、助かった",
+        "localizations": {
+          "en": "You've really thought of everything... This will be a tremendous help, thank you."
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "そちらの学校では、やはりそういった\nコンピューターの扱いについても学んでいるのか？",
+        "localizations": {
+          "en": "So, do they also teach you guys about using computers at your school?"
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "んー……まあ、研究に必要だからって\n自主的に勉強してる人は多いけど",
+        "localizations": {
+          "en": "Hmm... well, many students study it independently since it's necessary for research."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "私はどっちかっていうと親の影響かな。\n……「オルペウスインダストリー」って知ってる？",
+        "localizations": {
+          "en": "For me, it's more my parents' influence. Have you heard of Orpheus Industries?"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "ああ、もちろん。\nこの国でも有数の大企業だからな",
+        "localizations": {
+          "en": "Yes, of course. It's the largest corporation in the country, after all."
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "うちの両親はどっちもそこの社員でさ。\nどうやら凄腕のシステムエンジニアらしい",
+        "localizations": {
+          "en": "Both my parents work there. And I've heard that they're quite talented system engineers."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "だから、私も小さい頃からパソコンの扱いとか\nプログラミングとか、色々叩き込まれてたんだよね",
+        "localizations": {
+          "en": "So I've been drilled in computer use and programming since I was little."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "なるほど。教育熱心な親御さんなのだな",
+        "localizations": {
+          "en": "I get it. So your parents were really keen on your education, huh?"
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "まあ……正直、うんざりすることもあるけどね。\n別に親の後を継ぎたいわけでもないし",
+        "localizations": {
+          "en": "Well... honestly, it gets exhausting sometimes. It's not like I want to follow in their footsteps."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "嫌になって家出することもしょっちゅうだったよ",
+        "localizations": {
+          "en": "I used to run away from home pretty often when it became too much for me to handle."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "……そうか。すまない、変なことを聞いてしまった",
+        "localizations": {
+          "en": "...Oh. Sorry, I didn't mean to pry."
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "いや、いいよ。その教育のおかげで、\nこうして人様のお役に立てたわけですし？",
+        "localizations": {
+          "en": "No, it's quite alright. It's thanks to that that I was able to be of service to you, yeah?"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "そうだな……",
+        "localizations": {
+          "en": "True..."
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "…………",
+        "localizations": {
+          "en": "..."
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "…………",
+        "localizations": {
+          "en": "..."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "お二人とも、お茶が入りましたよー",
+        "localizations": {
+          "en": "The tea is ready, you two!"
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "あ、ああ。ありがとう",
+        "localizations": {
+          "en": "Ah, yes. Thank you."
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "あれ、もしかしてもうお仕事終わっちゃいました？",
+        "localizations": {
+          "en": "Have you already finished your work?"
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "さっき一段落ついたとこ。\nユナさん、他に手伝うことある？",
+        "localizations": {
+          "en": "We just wrapped up a moment ago. Juna, is there anything else I can help with?"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "いや、とりあえず大丈夫だ。\n残りは私と他の実行委員たちでなんとかなる",
+        "localizations": {
+          "en": "No, we should be fine for now. The other committee members and I can handle the rest."
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "それに、近々人員の補充も行う予定になっている。\n後のことは心配ない",
+        "localizations": {
+          "en": "Besides, we're planning to recruit more personnel soon, so don't worry about what comes next."
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "せっかく留学に来ているのだから、\nお前たちも文化祭を楽しんでくれ",
+        "localizations": {
+          "en": "You're here as exchange students, please enjoy the cultural festival yourselves."
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "そっか。じゃあお茶を飲んだら退散しますかねー",
+        "localizations": {
+          "en": "I see. Well then, we'll head out after we finish our tea."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  }
+]

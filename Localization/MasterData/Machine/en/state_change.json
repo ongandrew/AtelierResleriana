@@ -1628,5 +1628,45 @@
     "id": 1220069,
     "description": "Reduces Attacker skill damage by {value}%. Cannot be removed.",
     "name": "Attacker Dealt Damage Down"
+  },
+  {
+    "id": 510133,
+    "description": "Boosts stun damage by {value}% based on Analysis Report level.",
+    "name": "Stun Damage Up (Report Lv.)"
+  },
+  {
+    "id": 510134,
+    "description": "Lv. 3 or higher: Boosts skill damage by {value}%.",
+    "name": "Dealt Damage Up (Report Lv. 3+)"
+  },
+  {
+    "id": 510135,
+    "description": "Lv. 5 or higher: Boosts skill damage by {value}%.",
+    "name": "Dealt Damage Up (Report Lv. 5+)"
+  },
+  {
+    "id": 510136,
+    "description": "Lv. 10 or higher: Boosts skill damage by {value}%.",
+    "name": "Dealt Damage Up (Report Lv. 10+)"
+  },
+  {
+    "id": 610244,
+    "description": "Boosts stun damage by {value}%. (MAX 60%)",
+    "name": "Stun Damage Up"
+  },
+  {
+    "id": 610245,
+    "description": "Gain bonus rewards from \"Contribute to Scientific Progress!\" based on Analysis Report level.",
+    "name": "Analysis Report"
+  },
+  {
+    "id": 800140,
+    "description": "Increases magical damage received by {value}%. (MAX 4 stacks)",
+    "name": "Magic Received Damage Up"
+  },
+  {
+    "id": 810134,
+    "description": "Boosts damage dealt by {value}% to targets without Stab affinity. Cannot be removed.",
+    "name": "Dealt Damage Up (Cond.)"
   }
 ]

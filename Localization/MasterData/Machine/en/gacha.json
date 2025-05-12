@@ -1739,5 +1739,40 @@
     "name": "Resleriana Academy Selection Wish Part 1",
     "start_at": "2025-04-30T03:00:00Z",
     "step_up_loop_description": ""
+  },
+  {
+    "id": 2248,
+    "description": "Heidi makes her debut!\nFeatured until 2025/05/31 11:59 (UTC+8).",
+    "end_at": "2025-05-31T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Resleriana Academy LEGEND FES - Science Festival!",
+    "name": "Resleriana Academy LEGEND FES - Science Festival!",
+    "start_at": "2025-05-12T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2249,
+    "description": "For every 20 Wishes with Paid Lodestar Gems, get 10 Wishes for free! Max 5 times!\nUntil 2025/05/31 11:59 (UTC+8).",
+    "end_at": "2025-05-31T03:00:00Z",
+    "name": "Resleriana Academy LEGEND FES - Science Festival! [Paid Lodestar Gems Only]",
+    "start_at": "2025-05-12T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
   }
 ]

@@ -1278,5 +1278,33 @@
   {
     "id": 60235001,
     "description": "- When KO'd, converts boost panels into boost+ panels and weaken panels into weaken+ panels\n- Heals allies' HP and speeds up their turns\n- Delays turn"
+  },
+  {
+    "id": 60008019,
+    "description": "- Counters\n- Protection\n- At battle start, boosts own damage dealt to enemies that do not have Stab affinity"
+  },
+  {
+    "id": 60027009,
+    "description": "- At the start of a wave, reduces own damage received\n- At the start of a wave, reduces own damage dealt\n- At battle start, boosts own damage dealt to enemies that do not have Stab affinity"
+  },
+  {
+    "id": 60141006,
+    "description": "- At the start of a wave, reduces own damage received\n- At the start of a wave, reduces own stun damage received\n- At the start of a wave, reduces own damage dealt\n- At battle start, boosts own damage dealt to enemies that do not have Stab affinity"
+  },
+  {
+    "id": 60153013,
+    "description": "- When an ally is KO'd, grants self a guaranteed critical\n- Removes own positive effects when stunned\n- At battle start, boosts own damage dealt to enemies that do not have Stab affinity"
+  },
+  {
+    "id": 60178001,
+    "description": "- Each time stunned, reduces own stun damage received\n- Based on number of times stunned, applies debuffs to self or buffs to opponent\n- Restores own HP\n- Heals all allies"
+  },
+  {
+    "id": 60240008,
+    "description": "- No hint available"
+  },
+  {
+    "id": 60240009,
+    "description": "- High attack power"
   }
 ]

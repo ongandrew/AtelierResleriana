@@ -1,0 +1,648 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "いらっしゃいませ。こちらにどうぞ",
+        "localizations": {
+          "en": "Welcome! Please, right this way."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "は、はい",
+        "localizations": {
+          "en": "O-okay."
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "召し上がれ",
+        "localizations": {
+          "en": "Here you go. Enjoy."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "いただきます……",
+        "localizations": {
+          "en": "Thank you for the tea..."
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "これ、ちゃんとお茶の香りが！",
+        "localizations": {
+          "en": "This actually smells like real tea!"
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "飲んでみて",
+        "localizations": {
+          "en": "Try a sip."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "……ごく",
+        "localizations": {
+          "en": "*gulp*"
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "す、すごいです！\u3000ちゃんとお茶の味がします！\nお茶の温かさもしっかり感じられますし！",
+        "localizations": {
+          "en": "A-amazing! It tastes just like real tea! I can even feel the warmth!"
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "びっくりした？",
+        "localizations": {
+          "en": "Surprised?"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "はい！\u3000どうやって作ったんですか？\nフロッケの設計じゃ実現できていなかったのに……",
+        "localizations": {
+          "en": "Yes! How did you make this? My design couldn't achieve anything close to this..."
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "うちの親に頭下げて手伝ってもらったんだ。\nまあ、文化祭の出し物としては反則スレスレかもだけど",
+        "localizations": {
+          "en": "I swallowed my pride and asked my parents for help. It might be bending the rules a bit for a school festival project, though."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "ご両親って、オルペウスインダストリーの研究員\nでしたよね？\u3000……もしや、ＶＲがご専門なんですか？",
+        "localizations": {
+          "en": "Your parents work at Orpheus Industries, right? Don't tell me VR is their speciality?"
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "ピンポーン。\nそれも、私らが苦手なソフト系のスペシャリストだよ",
+        "localizations": {
+          "en": "Ding ding ding! And they're experts in software development—exactly what we struggle with."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "フロッケが練ってた理論設計と、試作機をベースに、\n会社が持ってる技術も借りて仕上げたんだ",
+        "localizations": {
+          "en": "We used your theoretical design and prototype as a base, then borrowed some company technology to finish it."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "……フロッケが倒れるくらい頑張ってたからさ。\n私も同じくらい頑張らないとと思って",
+        "localizations": {
+          "en": "...You worked yourself so hard to the point of collapsing. I figured I needed to step up my game."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "ハイディさん……",
+        "localizations": {
+          "en": "Heidi..."
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "……この間、キツく言っちゃってごめん",
+        "localizations": {
+          "en": "...Sorry I was so harsh on you before."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "いいえ、こちらこそ。心配かけてごめんなさい",
+        "localizations": {
+          "en": "No, I should be the one apologizing. I'm sorry for making you worry."
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "それと、ありがとうございます。\nフロッケの夢を叶えてくれて",
+        "localizations": {
+          "en": "And thank you. For making my dream come true."
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "……うん",
+        "localizations": {
+          "en": "...No problem."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "ふう……。今さらだけど、フロッケは、\nどうしてこのカフェをやりたいって思ったの？",
+        "localizations": {
+          "en": "*sigh*... I know it's a bit late to be asking, but why did you want to create this café in the first place?"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "ええと……覚えてますか？\nフロッケたちが初めて会った頃のこと",
+        "localizations": {
+          "en": "Well... do you remember when we first met?"
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "もちろん。日影の会にお世話になってた時のことでしょ",
+        "localizations": {
+          "en": "Of course. Back when we were involved with the Sunshine Society, right?"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "はい。その時、みんなで一緒にご飯を食べたり、\nお茶をしたり……それがすごく思い出に残っていて",
+        "localizations": {
+          "en": "Yes. At that time, we all ate meals together and had tea... Those memories really stayed with me."
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "フロッケのお母さんとお父さんは忙しい人で、\nあまり一緒にご飯を食べたりできなかったので……",
+        "localizations": {
+          "en": "My parents were always busy, so we rarely got to have meals together..."
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "…………",
+        "localizations": {
+          "en": "..."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "だから、みんなが集まって一緒に過ごせる場所が\n作りたいな、って思っていたんです",
+        "localizations": {
+          "en": "That's why I wanted to create a place where everyone could gather and spend time together."
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "それでカフェか。\nＶＲでやろうって思ったのはどうして？",
+        "localizations": {
+          "en": "Aha, so that's why a café. But why did you want to do it in VR?"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "今回はそこまでできませんけど、仮想空間なら\n遠く離れた場所からでも来られるじゃないですか",
+        "localizations": {
+          "en": "We're limited by what we can achieve for now, but a virtual space means anyone can come, even from far away."
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "オンラインでってことね。\n確かに、そういうこともできるか",
+        "localizations": {
+          "en": "You mean an online VR space, right? That's definitely within the realms of possibility!"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "友達や家族と離れ離れでも、\nこの場所なら一緒に過ごすことができる……",
+        "localizations": {
+          "en": "Even if friends and family are separated, they can still spend time together in this place..."
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "いつか、そんなことができたらいいなって",
+        "localizations": {
+          "en": "I thought it would be nice if we could do something like that someday."
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "なるほどね……それなら、成績不良で留学しそびれた\n「あいつ」も一緒にお茶できるかもね",
+        "localizations": {
+          "en": "I see... Then maybe even you know who who missed the exchange program due to poor grades could join us for tea."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "仮想だからいくら食べてもノーコストだし！",
+        "localizations": {
+          "en": "And since it's virtual, you can eat as much as you want at no cost!"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "……ふふっ、そうですね",
+        "localizations": {
+          "en": "...Hehe, that's true."
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "そういえば、フードメニューも実装されてるんですか？",
+        "localizations": {
+          "en": "By the way, have you implemented food menu items too?"
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "それはこれから。あまり時間はないけど、\nできるだけ充実させていこう",
+        "localizations": {
+          "en": "That's next on the list. We don't have much time, but let's make it as complete as possible."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "はい！\u3000頑張りましょう！",
+        "localizations": {
+          "en": "Yes! Let's give it our all!"
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  }
+]

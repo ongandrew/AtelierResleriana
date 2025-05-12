@@ -178,5 +178,15 @@
     "id": 281,
     "description": "Deals Air damage to the enemy with the lowest current HP.",
     "name": "Prototype Tornado Bomb"
+  },
+  {
+    "id": 282,
+    "description": "Boosts all allies' Air skill damage by {0}% and Stab skill damage by {1}% for 2 turns.",
+    "name": "Cosmic Energy"
+  },
+  {
+    "id": 283,
+    "description": "Boosts all allies' Air skill damage by {0}% and Stab skill damage by {1}% for 2 turns.",
+    "name": "Cosmic Energy"
   }
 ]

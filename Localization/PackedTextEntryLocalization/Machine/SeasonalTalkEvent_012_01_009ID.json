@@ -1,0 +1,478 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "よーし。試作品１号、起動！",
+        "localizations": {
+          "en": "Alright! Prototype #1, activate!"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "わあ……！\u3000本当にカフェにいるみたいです！",
+        "localizations": {
+          "en": "Wow...! It really feels like being in a café!"
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "よしよし、とりあえず見た目は成功だね",
+        "localizations": {
+          "en": "Good, good! The visuals are a success, at least."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "ではお客様、お席へどうぞ",
+        "localizations": {
+          "en": "Please, madam, have a seat."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "さあ、召し上がれ",
+        "localizations": {
+          "en": "Here you go. Bon appétit!"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "いただきます！",
+        "localizations": {
+          "en": "Thank you for the meal!"
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "……うーん",
+        "localizations": {
+          "en": "...Hmm."
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "なんか渋い反応だね……",
+        "localizations": {
+          "en": "That's a rather underwhelming reaction..."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "ええと……味も匂いもしないので、\nなんだか実感が湧かなくって",
+        "localizations": {
+          "en": "Well... there's no taste or smell, so it doesn't quite feel real."
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "そりゃね。見た目だけだし",
+        "localizations": {
+          "en": "Well, yeah. It's just visual right now."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "本当は味覚や嗅覚も再現できたらいいんだろうけど。\nそれって結構難しいんでしょ？",
+        "localizations": {
+          "en": "It would be great if we could simulate taste and smell too, but that's pretty difficult, isn't it?"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "はい……準備を始めてから、\nずっと調べてはいるんですけど",
+        "localizations": {
+          "en": "Yes... I've been researching it since we started our preparations."
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "研究はされているようなのですが、\nまだ実用化には至っていないみたいです",
+        "localizations": {
+          "en": "It seems there is ongoing research, but nothing that's been implemented practically yet."
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "そこは気分だけ味わってもらうってので\nいいと思うけどね。今のままでも十分インパクトあるし",
+        "localizations": {
+          "en": "I think it's fine if people just imagine the taste. What we have now already makes quite an impression."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "……でも、せっかくなら実現したいです。\nもう少し考えてみます",
+        "localizations": {
+          "en": "...But since we've come this far, I want to make it happen. I'll think about it some more."
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "文化祭本番まであと２週間かあ。\n時間がいくらあっても足りないね",
+        "localizations": {
+          "en": "There's only two weeks left until the cultural festival. It doesn't matter how much time we have - it won't be enough."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "そうですね。でも、できる範囲で頑張ります",
+        "localizations": {
+          "en": "True. But we'll do our best with what we've been given."
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "お、お二人さん！\u3000遅くまでお疲れー",
+        "localizations": {
+          "en": "Hey, you two! Working late, huh?"
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "おやおや、錬金術部の皆さん。\nあんたらも文化祭準備の帰り？",
+        "localizations": {
+          "en": "Well, well, if it isn't the Alchemy Club. Are you all heading back from festival preparations too?"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "はい！\u3000最近はどこのクラスや部活でも\n遅くまで残って作業してますよね",
+        "localizations": {
+          "en": "Yes! It seems like every class and club is staying late to work these days."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "……そういえば、噂で聞いたんですけど、\n文化祭直前は学園に泊まりで作業するって本当ですか？",
+        "localizations": {
+          "en": "...I've heard rumors that students actually stay overnight at the academy right before the cultural festival. Is that true?"
+        }
+      },
+      "2072370017": {
+        "text": "ミミ",
+        "localizations": {
+          "en": "Mimi"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "本当だよ！\u3000大体１週間くらい前からかな？\n寮生以外もみんな学園に泊まって朝まで準備するんだ",
+        "localizations": {
+          "en": "It sure is! Starting about a week before, everyone—even non-dormitory students—stays overnight at the academy to prepare until morning!"
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "ひえー……この学園、文化祭にガチりすぎでしょ",
+        "localizations": {
+          "en": "Yikes... This academy takes its cultural festival way too seriously."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "それ、本当に大丈夫なんですか？",
+        "localizations": {
+          "en": "Is that really allowed?"
+        }
+      },
+      "2072370017": {
+        "text": "ミミ",
+        "localizations": {
+          "en": "Mimi"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "ま、校則違反ではあるんだけど、\nそこは伝統って言うか、先生たちも黙認してるみたい",
+        "localizations": {
+          "en": "Well, technically it breaks school rules, but it's kind of a tradition, you know? The teachers turn a blind eye to it."
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "なんだか非日常感があってワクワクします……！",
+        "localizations": {
+          "en": "There's just something so exciting and out of the ordinary about this...!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "泊まりで作業すれば、時間もいっぱい取れますね！",
+        "localizations": {
+          "en": "If we stay overnight to work, we'll have plenty of time!"
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "あんまり無理しないでよー……？",
+        "localizations": {
+          "en": "Again, don't push yourself too hard, okay...?"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  }
+]

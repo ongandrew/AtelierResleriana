@@ -373,5 +373,20 @@
     "overlay_name": "Heidi",
     "profile_voice_text": "Hey there! I'm Heidi, an exchange student!\nLeave any mechanical work to me! Looking forward to working with you!",
     "start_at": "2025-05-12T03:00:00Z"
+  },
+  {
+    "id": 43603,
+    "acquisition_text": "I'm Flocke, an exchange student!\nPlease let me study many things at this academy!",
+    "another_name": "Heartful Future",
+    "description": "An exchange student from the Schaffen Science Academy.\nShe is enthusiastic about learning and possesses broad knowledge across various scientific fields. She is eager about this exchange opportunity, believing there must be things to learn from alchemy as well.\nThough physically weak and often absent from school in her younger days, she now lives a healthy life thanks to the support of Heidi and others.",
+    "fullname": "Flocke Cerha",
+    "leader_skill": {
+      "description": "Boosts Resleriana Academy characters' M.ATK and M.DEF by 40%.",
+      "name": "A Place to Be Together"
+    },
+    "name": "Flocke",
+    "overlay_name": "Flocke Cerha",
+    "profile_voice_text": "I'm Flocke, an exchange student!\nI think I can be of help when it comes to science!",
+    "start_at": "2025-05-16T03:00:00Z"
   }
 ]

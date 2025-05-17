@@ -1143,5 +1143,38 @@
     ],
     "start_at": "2025-05-12T03:00:00Z",
     "tracking_id": "af_synthesis_recipe_709"
+  },
+  {
+    "id": 719,
+    "name": "Cybanetic Case",
+    "requirements": [
+      {
+        "name": "Awaken Flocke [Heartful Future] to ★5"
+      }
+    ],
+    "start_at": "2025-05-16T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_710"
+  },
+  {
+    "id": 720,
+    "name": "Scientist's White Coat",
+    "requirements": [
+      {
+        "name": "Gather Gold Meat × 10"
+      }
+    ],
+    "start_at": "2025-05-16T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_711"
+  },
+  {
+    "id": 721,
+    "name": "Scientist's Shoes",
+    "requirements": [
+      {
+        "name": "Gather Academy Potato × 10"
+      }
+    ],
+    "start_at": "2025-05-16T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_712"
   }
 ]

@@ -733,5 +733,35 @@
     "id": 1095,
     "description": "While equipped to a Breaker with Air affinity, boosts stun damage by {0}% when attacking a weakness.",
     "name": "Mechanic's Goggles"
+  },
+  {
+    "id": 1096,
+    "description": "While equipped to Flocke [Heartful Mirai], boosts potency of buff effects given by {0}%",
+    "name": "Cybanetics Case"
+  },
+  {
+    "id": 1097,
+    "description": "While equipped to a Supporter with Air affinity, after attacking, increases target's damage received by {0}% for 2 attacks.",
+    "name": "Scientist's White Coat"
+  },
+  {
+    "id": 1098,
+    "description": "While equipped to a Supporter with Air affinity, after attacking, increases target's damage received by {0}% for 2 attacks.",
+    "name": "Scientist's White Coat"
+  },
+  {
+    "id": 1099,
+    "description": "While equipped to a Supporter with Air affinity, after using a skill, grants ally with highest M.ATK a {0}% damage boost when attacking a weakness for 1 turn. (Non-stackable)",
+    "name": "Scientist's Shoes"
+  },
+  {
+    "id": 1100,
+    "description": "While equipped to a Supporter with Air affinity, after using a skill, grants ally with highest M.ATK a {0}% damage boost when attacking a weakness for 1 turn. (Non-stackable)",
+    "name": "Scientist's Shoes"
+  },
+  {
+    "id": 1107,
+    "description": "No additional effects.",
+    "name": "Voting Ticket"
   }
 ]

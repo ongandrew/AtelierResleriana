@@ -13150,5 +13150,461 @@
     "description": "Reduces skill target's stun damage received by 30% for 3 attacks.",
     "name": "Shell Field",
     "summary": ""
+  },
+  {
+    "id": 11002761,
+    "description": "After attacking, recovers all allies' HP by {0}% and boosts M.ATK by {1}% (MAX 30%).",
+    "name": "Rolling Knock",
+    "summary": "After attacking, recovers all allies' HP.<br>Boosts all allies' M.ATK."
+  },
+  {
+    "id": 11002762,
+    "description": "After attacking, recovers all allies' HP by {0}% and boosts M.ATK by {1}% (MAX 30%).",
+    "name": "Rolling Knock",
+    "summary": "After attacking, recovers all allies' HP.<br>Boosts all allies' M.ATK."
+  },
+  {
+    "id": 11002763,
+    "description": "After attacking, recovers all allies' HP by {0}% and boosts M.ATK by {1}% (MAX 30%).",
+    "name": "Rolling Knock",
+    "summary": "After attacking, recovers all allies' HP.<br>Boosts all allies' M.ATK."
+  },
+  {
+    "id": 11002764,
+    "description": "After attacking, recovers all allies' HP by {0}% and boosts M.ATK by {1}% (MAX 30%).",
+    "name": "Rolling Knock",
+    "summary": "After attacking, recovers all allies' HP.<br>Boosts all allies' M.ATK."
+  },
+  {
+    "id": 11002765,
+    "description": "After attacking, recovers all allies' HP by {0}% and boosts M.ATK by {1}% (MAX 30%).",
+    "name": "Rolling Knock",
+    "summary": "After attacking, recovers all allies' HP.<br>Boosts all allies' M.ATK."
+  },
+  {
+    "id": 12002766,
+    "description": "Before attacking, reduces target's Air resistance by {0}% (MAX 50%) and status effect resistance by {1}% (MAX 50%).<br>After attacking, very high chance to inflict Paralysis on target for 2 turns, and grants all allies with Air affinity or from Resleriana Academy M.ATK +{2}% and M.DEF +{3}% for 2 attacks.<br>Grants all allies M.ATK +10-50% for 2 turns and M.DEF +5-25% for 2 attacks based on number of characters with Resleriana Academy tag (Greater boost for more characters, range: 1-5)",
+    "name": "Missile Shower",
+    "summary": "Before attacking, reduces target's Air resistance and status effect resistance.<br>After attacking, very high chance to inflict Paralysis on target.<br>Boosts stats for all allies with Air affinity or from Resleriana Academy.<br>Based on number of characters with Resleriana Academy tag, boosts all allies' stats after attacking."
+  },
+  {
+    "id": 12002767,
+    "description": "Before attacking, reduces target's Air resistance by {0}% (MAX 50%) and status effect resistance by {1}% (MAX 50%).<br>After attacking, very high chance to inflict Paralysis on target for 2 turns, and grants all allies with Air affinity or from Resleriana Academy M.ATK +{2}% and M.DEF +{3}% for 2 attacks.<br>Grants all allies M.ATK +10-50% for 2 turns and M.DEF +5-25% for 2 attacks based on number of characters with Resleriana Academy tag (Greater boost for more characters, range: 1-5)",
+    "name": "Missile Shower",
+    "summary": "Before attacking, reduces target's Air resistance and status effect resistance.<br>After attacking, very high chance to inflict Paralysis on target.<br>Boosts stats for all allies with Air affinity or from Resleriana Academy.<br>Based on number of characters with Resleriana Academy tag, boosts all allies' stats after attacking."
+  },
+  {
+    "id": 12002768,
+    "description": "Before attacking, reduces target's Air resistance by {0}% (MAX 50%) and status effect resistance by {1}% (MAX 50%).<br>After attacking, very high chance to inflict Paralysis on target for 2 turns, and grants all allies with Air affinity or from Resleriana Academy M.ATK +{2}% and M.DEF +{3}% for 2 attacks.<br>Grants all allies M.ATK +10-50% for 2 turns and M.DEF +5-25% for 2 attacks based on number of characters with Resleriana Academy tag (Greater boost for more characters, range: 1-5)",
+    "name": "Missile Shower",
+    "summary": "Before attacking, reduces target's Air resistance and status effect resistance.<br>After attacking, very high chance to inflict Paralysis on target.<br>Boosts stats for all allies with Air affinity or from Resleriana Academy.<br>Based on number of characters with Resleriana Academy tag, boosts all allies' stats after attacking."
+  },
+  {
+    "id": 12002769,
+    "description": "Before attacking, reduces target's Air resistance by {0}% (MAX 50%) and status effect resistance by {1}% (MAX 50%).<br>After attacking, very high chance to inflict Paralysis on target for 2 turns, and grants all allies with Air affinity or from Resleriana Academy M.ATK +{2}% and M.DEF +{3}% for 2 attacks.<br>Grants all allies M.ATK +10-50% for 2 turns and M.DEF +5-25% for 2 attacks based on number of characters with Resleriana Academy tag (Greater boost for more characters, range: 1-5)",
+    "name": "Missile Shower",
+    "summary": "Before attacking, reduces target's Air resistance and status effect resistance.<br>After attacking, very high chance to inflict Paralysis on target.<br>Boosts stats for all allies with Air affinity or from Resleriana Academy.<br>Based on number of characters with Resleriana Academy tag, boosts all allies' stats after attacking."
+  },
+  {
+    "id": 12002770,
+    "description": "Before attacking, reduces target's Air resistance by {0}% (MAX 50%) and status effect resistance by {1}% (MAX 50%).<br>After attacking, very high chance to inflict Paralysis on target for 2 turns, and grants all allies with Air affinity or from Resleriana Academy M.ATK +{2}% and M.DEF +{3}% for 2 attacks.<br>Grants all allies M.ATK +10-50% for 2 turns and M.DEF +5-25% for 2 attacks based on number of characters with Resleriana Academy tag (Greater boost for more characters, range: 1-5)",
+    "name": "Missile Shower",
+    "summary": "Before attacking, reduces target's Air resistance and status effect resistance.<br>After attacking, very high chance to inflict Paralysis on target.<br>Boosts stats for all allies with Air affinity or from Resleriana Academy.<br>Based on number of characters with Resleriana Academy tag, boosts all allies' stats after attacking."
+  },
+  {
+    "id": 14002771,
+    "description": "After attacking, grants all allies with Air affinity or from Resleriana Academy M.ATK +{0}% for 3 turns.<br>Reduces target's Air resistance by {1}% and increases magical damage received by {2}% for 2 attacks.<br>Converts all of target's panels to weaken+ panels (creates a weaken+ panel if empty).",
+    "name": "Angel Take Off",
+    "summary": "After attacking, boosts M.ATK of all allies with Air affinity or from Resleriana Academy.<br>Reduces target's Air resistance.<br>Increases target's magical damage received.<br>Converts target's panels to weaken+ panels."
+  },
+  {
+    "id": 14002772,
+    "description": "After attacking, grants all allies with Air affinity or from Resleriana Academy M.ATK +{0}% for 3 turns.<br>Reduces target's Air resistance by {1}% and increases magical damage received by {2}% for 2 attacks.<br>Converts all of target's panels to weaken+ panels (creates a weaken+ panel if empty).",
+    "name": "Angel Take Off",
+    "summary": "After attacking, boosts M.ATK of all allies with Air affinity or from Resleriana Academy.<br>Reduces target's Air resistance.<br>Increases target's magical damage received.<br>Converts target's panels to weaken+ panels."
+  },
+  {
+    "id": 14002773,
+    "description": "After attacking, grants all allies with Air affinity or from Resleriana Academy M.ATK +{0}% for 3 turns.<br>Reduces target's Air resistance by {1}% and increases magical damage received by {2}% for 2 attacks.<br>Converts all of target's panels to weaken+ panels (creates a weaken+ panel if empty).",
+    "name": "Angel Take Off",
+    "summary": "After attacking, boosts M.ATK of all allies with Air affinity or from Resleriana Academy.<br>Reduces target's Air resistance.<br>Increases target's magical damage received.<br>Converts target's panels to weaken+ panels."
+  },
+  {
+    "id": 14002774,
+    "description": "After attacking, grants all allies with Air affinity or from Resleriana Academy M.ATK +{0}% for 3 turns.<br>Reduces target's Air resistance by {1}% and increases magical damage received by {2}% for 2 attacks.<br>Converts all of target's panels to weaken+ panels (creates a weaken+ panel if empty).",
+    "name": "Angel Take Off",
+    "summary": "After attacking, boosts M.ATK of all allies with Air affinity or from Resleriana Academy.<br>Reduces target's Air resistance.<br>Increases target's magical damage received.<br>Converts target's panels to weaken+ panels."
+  },
+  {
+    "id": 14002775,
+    "description": "After attacking, grants all allies with Air affinity or from Resleriana Academy M.ATK +{0}% for 3 turns.<br>Reduces target's Air resistance by {1}% and increases magical damage received by {2}% for 2 attacks.<br>Converts all of target's panels to weaken+ panels (creates a weaken+ panel if empty).",
+    "name": "Angel Take Off",
+    "summary": "After attacking, boosts M.ATK of all allies with Air affinity or from Resleriana Academy.<br>Reduces target's Air resistance.<br>Increases target's magical damage received.<br>Converts target's panels to weaken+ panels."
+  },
+  {
+    "id": 32002295,
+    "description": "No effects.",
+    "name": "Dangerous Bite",
+    "summary": ""
+  },
+  {
+    "id": 32002296,
+    "description": "After attacking, reduces target's damage dealt by 15% for 3 attacks.",
+    "name": "Sonic Voice",
+    "summary": ""
+  },
+  {
+    "id": 32002297,
+    "description": "After attacking, inflicts 5 stacks of Poison (5 turns) on target.",
+    "name": "Poison Bite",
+    "summary": ""
+  },
+  {
+    "id": 32002298,
+    "description": "After attacking, reduces target's SPD by 10% for 5 turns.",
+    "name": "Thunder Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32002299,
+    "description": "No effects.",
+    "name": "Fire Throw",
+    "summary": ""
+  },
+  {
+    "id": 32002300,
+    "description": "効果なし",
+    "name": "Ice Throw",
+    "summary": ""
+  },
+  {
+    "id": 32002301,
+    "description": "効果なし",
+    "name": "Bolt Throw",
+    "summary": ""
+  },
+  {
+    "id": 32002302,
+    "description": "効果なし",
+    "name": "Air Throw",
+    "summary": ""
+  },
+  {
+    "id": 32002303,
+    "description": "効果なし",
+    "name": "Wild Rock Throw",
+    "summary": ""
+  },
+  {
+    "id": 32002304,
+    "description": "効果なし",
+    "name": "Wild Boulder Throw",
+    "summary": ""
+  },
+  {
+    "id": 32002305,
+    "description": "After attacking, boosts target's damage received by 15% for 1 turn.",
+    "name": "Armor-piercing Rock Throw",
+    "summary": ""
+  },
+  {
+    "id": 32002306,
+    "description": "Inflicts target with Poison x5 for 5 turns.",
+    "name": "Share the Poison",
+    "summary": ""
+  },
+  {
+    "id": 32002307,
+    "description": "After attacking, converts 5 empty panels to darkness panels.\nAfter attacking, boosts own damage dealt by 30% for 3 turns.",
+    "name": "Dark Slash Gift",
+    "summary": ""
+  },
+  {
+    "id": 32002308,
+    "description": "After attacking, inflicts target with Darkness for 3 turns.",
+    "name": "Magical Slash",
+    "summary": ""
+  },
+  {
+    "id": 32002309,
+    "description": "After attacking, boosts own damage dealt by 20% for 3 turns.\nAfter attacking, grants self Evasion for 2 turns.",
+    "name": "White Slash",
+    "summary": ""
+  },
+  {
+    "id": 32002310,
+    "description": "After attacking, reduces own damage received by 20% for 3 turns.",
+    "name": "Mega Explosion",
+    "summary": ""
+  },
+  {
+    "id": 32002311,
+    "description": "効果なし",
+    "name": "Magical Slide",
+    "summary": ""
+  },
+  {
+    "id": 32002312,
+    "description": "Reduces HP recovery by 40% for 2 turns for all enemies.",
+    "name": "Magical Smoke",
+    "summary": ""
+  },
+  {
+    "id": 32002313,
+    "description": "Grants target ally immunity to damage below 20% of max HP for 2 turns.",
+    "name": "Solid Reflection",
+    "summary": ""
+  },
+  {
+    "id": 32002314,
+    "description": "After attacking, converts target's panels to weaken panels.",
+    "name": "Grab Comet",
+    "summary": ""
+  },
+  {
+    "id": 32002315,
+    "description": "効果なし",
+    "name": "Debris Fall",
+    "summary": ""
+  },
+  {
+    "id": 32002316,
+    "description": "After attacking, delays target's turn by 1.",
+    "name": "Dizzy Glint",
+    "summary": ""
+  },
+  {
+    "id": 32002317,
+    "description": "After attacking, reduces damage dealt by all enemies by 20% for 2 turns.",
+    "name": "Chaos Explosion",
+    "summary": ""
+  },
+  {
+    "id": 32002318,
+    "description": "Grants Nullify Positive Effects for 1 turn.",
+    "name": "No Escape",
+    "summary": ""
+  },
+  {
+    "id": 32002319,
+    "description": "Reduces target's damage dealt by 10% for 2 turns, stun damage by 20% for 2 turns, and increases damage received by 15% for 2 turns.",
+    "name": "Shadow Curse",
+    "summary": ""
+  },
+  {
+    "id": 32002320,
+    "description": "If target has 1 or more negative effects, delays their turn by 1. If target has 2 or more negative effects, delays their turn by 2.",
+    "name": "Slash Ring",
+    "summary": ""
+  },
+  {
+    "id": 32002321,
+    "description": "After attacking, reduces M.ATK by 15% (2 turns), P.ATK by 15% (2 turns), and SPD by 10% (2 turns).",
+    "name": "Black Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 32002322,
+    "description": "After attacking, delays target's turn by 1.",
+    "name": "Thunder Shot",
+    "summary": ""
+  },
+  {
+    "id": 32002323,
+    "description": "After attacking, delays target's turn by 3. Boosts own damage dealt by 20% (3 times) and reduces damage received by 20% (3 times).",
+    "name": "White Meteor Thunder",
+    "summary": ""
+  },
+  {
+    "id": 32002324,
+    "description": "Grants self Counter (4 times).\nBoosts own damage dealt by 10% (5 times).",
+    "name": "Groovy Gale",
+    "summary": ""
+  },
+  {
+    "id": 32002325,
+    "description": "No effects.",
+    "name": "Trick Slash",
+    "summary": ""
+  },
+  {
+    "id": 32002326,
+    "description": "No effects.",
+    "name": "Trick Wind",
+    "summary": ""
+  },
+  {
+    "id": 32002327,
+    "description": "After attacking, if target's HP is 70% or lower, inflicts 3 stacks of Poison (5 turns).",
+    "name": "Call Storm",
+    "summary": ""
+  },
+  {
+    "id": 32002328,
+    "description": "No effects.",
+    "name": "Surprise Burn",
+    "summary": ""
+  },
+  {
+    "id": 32002329,
+    "description": "No effects.",
+    "name": "Explosion",
+    "summary": ""
+  },
+  {
+    "id": 32002330,
+    "description": "After attacking, reduces target's SPD by 5% (2 turns). If target has M.ATK Down, reduces M.ATK by 30% (2 turns). If target has P.ATK Down, reduces P.ATK by 30% (2 turns).",
+    "name": "Burning Tongue",
+    "summary": ""
+  },
+  {
+    "id": 32002331,
+    "description": "After attacking, reduces target's M.ATK by 20% (2 turns).",
+    "name": "Curse Burn",
+    "summary": ""
+  },
+  {
+    "id": 32002332,
+    "description": "Reduces target's P.ATK by 25% (2 turns).",
+    "name": "Magical Smoke",
+    "summary": ""
+  },
+  {
+    "id": 32002333,
+    "description": "Reduces target's damage received by 30% (2 turns) and stun damage received by 30% (2 turns).",
+    "name": "Blessing",
+    "summary": ""
+  },
+  {
+    "id": 32002334,
+    "description": "No effects.",
+    "name": "Fire Throw",
+    "summary": ""
+  },
+  {
+    "id": 32002335,
+    "description": "No effects.",
+    "name": "Ice Throw",
+    "summary": ""
+  },
+  {
+    "id": 32002336,
+    "description": "No effects.",
+    "name": "Bolt Throw",
+    "summary": ""
+  },
+  {
+    "id": 32002337,
+    "description": "No effects.",
+    "name": "Wind Throw",
+    "summary": ""
+  },
+  {
+    "id": 32002338,
+    "description": "No effects.",
+    "name": "Burn It All",
+    "summary": ""
+  },
+  {
+    "id": 32002339,
+    "description": "No effects.",
+    "name": "Freeze It All",
+    "summary": ""
+  },
+  {
+    "id": 32002340,
+    "description": "No effect",
+    "name": "Thunder Strike",
+    "summary": ""
+  },
+  {
+    "id": 32002341,
+    "description": "No effect",
+    "name": "Whirlwind",
+    "summary": ""
+  },
+  {
+    "id": 32002342,
+    "description": "After attacking, increases damage received by 15% for 2 turns for skill target",
+    "name": "Wild Rock Throw",
+    "summary": ""
+  },
+  {
+    "id": 32002343,
+    "description": "No effect",
+    "name": "Wild Boulder Throw",
+    "summary": ""
+  },
+  {
+    "id": 32002344,
+    "description": "Grants 6 stacks of Poison (5 turns) to skill target",
+    "name": "Poison Sharing",
+    "summary": ""
+  },
+  {
+    "id": 32002345,
+    "description": "Restores 10% HP to skill target",
+    "name": "Life Sharing",
+    "summary": ""
+  },
+  {
+    "id": 32002346,
+    "description": "Boosts damage dealt by 20% for 2 turns for skill target",
+    "name": "Power Sharing",
+    "summary": ""
+  },
+  {
+    "id": 32002347,
+    "description": "After attacking, advances all allies' turns by 1",
+    "name": "Dimension Collapse",
+    "summary": ""
+  },
+  {
+    "id": 32002348,
+    "description": "After attacking, converts 1 of target's panels into a weaken panel (except burst)",
+    "name": "Grab Comet",
+    "summary": ""
+  },
+  {
+    "id": 32002349,
+    "description": "No effect",
+    "name": "Debris Fall",
+    "summary": ""
+  },
+  {
+    "id": 32002350,
+    "description": "After attacking, delays skill target's turn by 1",
+    "name": "Dizzy Glint",
+    "summary": ""
+  },
+  {
+    "id": 32002351,
+    "description": "After attacking, converts 1 of own panels into a boost panel (except burst)",
+    "name": "Chaos Explosion",
+    "summary": ""
+  },
+  {
+    "id": 32002418,
+    "description": "No effect",
+    "name": "High Heat Laser Kai",
+    "summary": ""
+  },
+  {
+    "id": 32002419,
+    "description": "After attacking, removes 2 positive effects from target",
+    "name": "High Heat Laser Break",
+    "summary": ""
+  },
+  {
+    "id": 32002420,
+    "description": "No effect",
+    "name": "Heat Missile Kai",
+    "summary": ""
+  },
+  {
+    "id": 32002421,
+    "description": "After attacking, boosts all allies' damage dealt by 10% for 1 turn",
+    "name": "Heat Missile Glory",
+    "summary": ""
   }
 ]

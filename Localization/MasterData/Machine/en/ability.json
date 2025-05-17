@@ -3833,5 +3833,95 @@
     "id": 26178000,
     "description": "Each time stunned, reduces own stun damage received by 30% permanently (up to 3 times).\nGrants effects to self or enemy based on number of times stunned:\n2nd time: Increases own damage received by 40% permanently.\n3rd time: Increases own negative effect potency received by 50% permanently.\n4th time: Increases positive effect potency received by 80% permanently for all enemies.",
     "name": ""
+  },
+  {
+    "id": 301182,
+    "description": "While equipped to Flocke [Heartful Future], boosts potency of buff effects granted by {0}%.",
+    "name": "Cybernetics Case"
+  },
+  {
+    "id": 301183,
+    "description": "While equipped to a Supporter with Air affinity, after attacking, boosts target's damage received by {0}% for 2 attacks.",
+    "name": "Scientist's White Coat"
+  },
+  {
+    "id": 301184,
+    "description": "While equipped to a Supporter with Air affinity, after attacking, boosts target's damage received by {0}% for 2 attacks.",
+    "name": "Scientist's White Coat"
+  },
+  {
+    "id": 301185,
+    "description": "While equipped to a Supporter with Air affinity, after using a skill, grants the ally with highest M.ATK a {0}% damage boost when attacking weaknesses for 1 turn. (Cannot be stacked)",
+    "name": "Scientist's Shoes"
+  },
+  {
+    "id": 301186,
+    "description": "While equipped to a Supporter with Air affinity, after using a skill, grants the ally with highest M.ATK a {0}% damage boost when attacking weaknesses for 1 turn. (Cannot be stacked)",
+    "name": "Scientist's Shoes"
+  },
+  {
+    "id": 1980192,
+    "description": "Characters with the Resleriana Academy tag gain M.ATK and M.DEF +{0}%.",
+    "name": "A Place to Share Together"
+  },
+  {
+    "id": 1990352,
+    "description": "When attacking a target with a status effect, restores all allies' HP by {0}%, recovers item gauge by {1}%, and grants all allies with Air affinity M.ATK +{2}% for 1 turn. (Cannot be stacked)",
+    "name": "Scientific Support Power"
+  },
+  {
+    "id": 1990353,
+    "description": "After a party member uses a battle item, restores all allies' HP by {0}% and removes all negative effects from all allies.",
+    "name": "Well Prepared!"
+  },
+  {
+    "id": 4990883,
+    "description": "While equipped to a Supporter, when dealing damage with an area attack, boosts all allies' skill damage by {0}% for 1 turn.",
+    "name": "Supporter Area Attack All Damage Up III"
+  },
+  {
+    "id": 4990884,
+    "description": "While equipped to a Supporter, when dealing damage with an area attack, boosts all allies' skill damage by {0}% for 1 turn.",
+    "name": "Supporter Area Attack All Damage Up III"
+  },
+  {
+    "id": 4990885,
+    "description": "While equipped to a Supporter, when dealing damage with an area attack, boosts all allies' skill damage by {0}% for 1 turn.",
+    "name": "Supporter Area Attack All Damage Up III"
+  },
+  {
+    "id": 4990886,
+    "description": "While equipped to a Supporter, when dealing damage with an area attack, boosts all allies' skill damage by {0}% for 1 turn.",
+    "name": "Supporter Area Attack All Damage Up III"
+  },
+  {
+    "id": 4990887,
+    "description": "While equipped to a Supporter, when dealing damage with an area attack, boosts all allies' skill damage by {0}% for 1 turn.",
+    "name": "Supporter Area Attack All Damage Up III"
+  },
+  {
+    "id": 26241001,
+    "description": "After acting, recovers additional item gauge based on the number of party members with the Resleriana Academy tag. (MAX 10%)",
+    "name": ""
+  },
+  {
+    "id": 26241002,
+    "description": "Boosts all allies' battle item damage based on the number of party members with the Resleriana Academy tag. (MAX 300%)",
+    "name": ""
+  },
+  {
+    "id": 26241003,
+    "description": "Boosts all allies' battle item critical rate based on the number of party members with the Resleriana Academy tag. (MAX 100%)",
+    "name": ""
+  },
+  {
+    "id": 26241005,
+    "description": "Boosts all allies' battle item skill power by 700%.",
+    "name": ""
+  },
+  {
+    "id": 26241006,
+    "description": "After acting, recovers all allies' item gauge by an additional 10%.",
+    "name": ""
   }
 ]

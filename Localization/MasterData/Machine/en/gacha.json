@@ -1774,5 +1774,40 @@
     "name": "Resleriana Academy LEGEND FES - Science Festival! [Paid Lodestar Gems Only]",
     "start_at": "2025-05-12T03:00:00Z",
     "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 2250,
+    "description": "Flocke makes her debut!\nFeatured until 2025/05/31 11:59 (UTC+8)",
+    "end_at": "2025-05-31T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Resleriana Academy LEGEND FES - Shall We Dance?",
+    "name": "Resleriana Academy LEGEND FES - Shall We Dance?",
+    "start_at": "2025-05-16T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2251,
+    "description": "5 weeks only! Spend paid Star Guidance Stones on 20 wishes\nto get 10 wishes free! Available until 2025/05/31 11:59 (UTC+8)",
+    "end_at": "2025-05-31T03:00:00Z",
+    "name": "Resleriana Academy LEGEND FES - Shall We Dance? [Paid Only]",
+    "start_at": "2025-05-16T03:00:00Z",
+    "step_up_loop_description": "{} weeks remaining"
   }
 ]

@@ -1306,5 +1306,33 @@
   {
     "id": 60240009,
     "description": "- High attack power"
+  },
+  {
+    "id": 60030005,
+    "description": "- No tips available."
+  },
+  {
+    "id": 60108003,
+    "description": "- After being hit when stun gauge is full, converts weaken panels to boost panels\n- After being hit when stun gauge is full, converts boost-type panels to weaken panels\n- Delays turn"
+  },
+  {
+    "id": 60117003,
+    "description": "- When stunned by physical attacks, boosts physical damage received\n- When stunned by magical attacks, boosts magical damage received"
+  },
+  {
+    "id": 60176004,
+    "description": "- When acquiring a boost-type panel, boosts own damage dealt and removes own Damage Dealt Down\n- When acquiring a weaken panel, reduces own damage dealt and removes own Damage Dealt Up\n- Delays turn\n- Advances turn"
+  },
+  {
+    "id": 60213001,
+    "description": "- Inflicts Darkness\n- Grants self Evasion\n- Reduces HP recovery received by all opponents\n- Creates darkness panels"
+  },
+  {
+    "id": 60241001,
+    "description": "- Removes some positive effects from target\n- Uses a powerful attack"
+  },
+  {
+    "id": 60242001,
+    "description": "- Uses a powerful attack"
   }
 ]

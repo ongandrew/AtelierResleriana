@@ -1668,5 +1668,65 @@
     "id": 810134,
     "description": "Boosts damage dealt by {value}% to targets without Stab affinity. Cannot be removed.",
     "name": "Dealt Damage Up (Cond.)"
+  },
+  {
+    "id": 510141,
+    "description": "Boosts M.ATK by {value}%. (Cannot be stacked)",
+    "name": "Scientific Support"
+  },
+  {
+    "id": 510142,
+    "description": "Boosts M.ATK by {value}%. (Cannot be stacked)",
+    "name": "Scientific Support"
+  },
+  {
+    "id": 610249,
+    "description": "Boosts M.ATK by {value}%. (MAX 30%)",
+    "name": "M.ATK Up"
+  },
+  {
+    "id": 610250,
+    "description": "Boosts Air damage received by {value}%. (MAX 50%)",
+    "name": "Air Resistance Down"
+  },
+  {
+    "id": 610251,
+    "description": "Reduces negative status effect resistance by {value}%. (MAX 50%)",
+    "name": "Status Effect Resistance Down"
+  },
+  {
+    "id": 800138,
+    "description": "Boosts skill damage by {value}% when attacking a weakness. (Cannot be stacked)",
+    "name": "Weakness Attack Damage Up"
+  },
+  {
+    "id": 800139,
+    "description": "Boosts skill damage by {value}% when attacking a weakness. (Cannot be stacked)",
+    "name": "Weakness Attack Damage Up"
+  },
+  {
+    "id": 1210387,
+    "description": "Boosts battle item damage by {value}%. (MAX 300%). Cannot be removed.",
+    "name": "Item Damage Up"
+  },
+  {
+    "id": 1210388,
+    "description": "Boosts battle item skill power by {value}%. Cannot be removed.",
+    "name": "Item Skill Power Up"
+  },
+  {
+    "id": 1210389,
+    "description": "Boosts additional item gauge recovery after actions by {value}%. (MAX 10%). Cannot be removed.",
+    "name": "Item Gauge Recovery Up"
+  },
+  {
+    "id": 1210390,
+    "description": "Boosts battle item critical rate by {value}%. (MAX 100%). Cannot be removed.",
+    "name": "Item Critical Rate Up"
+  },
+  {
+    "id": 1210392,
+    "description": "Boosts additional item gauge recovery after actions by {value}%. Cannot be removed.",
+    "name": "Item Gauge Recovery Up"
   }
 ]

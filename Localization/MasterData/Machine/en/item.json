@@ -1142,5 +1142,42 @@
     "description": "Material needed for synthesis.",
     "name": "Academy Bench",
     "start_at": "2025-05-12T03:00:00Z"
+  },
+  {
+    "id": 1008,
+    "description": "A ticket needed to challenge the event \"Witch's Mansion in the Forest VR.\"",
+    "end_at": "2025-05-30T03:00:00Z",
+    "name": "Challenge Ticket [Witch's Mansion in the Forest VR]",
+    "start_at": "2025-05-16T03:00:00Z"
+  },
+  {
+    "id": 1011,
+    "description": "Material needed for synthesis.",
+    "name": "Gold Meat",
+    "start_at": "2025-05-16T03:00:00Z"
+  },
+  {
+    "id": 1012,
+    "description": "Material needed for synthesis.",
+    "name": "Academy Potato",
+    "start_at": "2025-05-16T03:00:00Z"
+  },
+  {
+    "id": 1013,
+    "description": "Material needed for synthesis.",
+    "name": "Academy Turnip",
+    "start_at": "2025-05-16T03:00:00Z"
+  },
+  {
+    "id": 1014,
+    "description": "Exchange for items at the \"Witch's Mansion in the Forest VR\" Exchange.",
+    "end_at": "2025-05-31T03:00:00Z",
+    "name": "Dungeon Coin [Witch's Mansion in the Forest VR]"
+  },
+  {
+    "id": 1015,
+    "description": "A ticket that can be used to perform 1 wish on the Resleriana Academy LEGEND FES Shall We Dance?",
+    "end_at": "2025-05-31T03:00:00Z",
+    "name": "Resleriana Academy Shall We Dance? Wish Ticket"
   }
 ]

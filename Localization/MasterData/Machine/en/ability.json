@@ -3923,5 +3923,105 @@
     "id": 26241006,
     "description": "After acting, recovers all allies' item gauge by an additional 10%.",
     "name": ""
+  },
+  {
+    "id": 301187,
+    "description": "When equipped to Juna [With Ideals], after using a skill, grants Physical Attack Damage +{0}% to all allies for 1 turn",
+    "name": "Symbol of Justice and Pride"
+  },
+  {
+    "id": 301188,
+    "description": "While equipped to a character with Stab affinity and Supporter role, at the start of battle, grants HP Recovery +{0}% at the start of turn to all allies for 5 turns (Cannot be stacked)",
+    "name": "Role Model's Uniform"
+  },
+  {
+    "id": 301189,
+    "description": "While equipped to a character with Stab affinity and Supporter role, at the start of battle, grants HP Recovery +{0}% at the start of turn to all allies for 5 turns (Cannot be stacked)",
+    "name": "Role Model's Uniform"
+  },
+  {
+    "id": 301190,
+    "description": "While equipped to a character with Stab affinity and Supporter role, after using a skill, grants Stab Damage +{0}% to all allies for 1 turn",
+    "name": "Role Model's Necktie"
+  },
+  {
+    "id": 301191,
+    "description": "While equipped to a character with Stab affinity and Supporter role, after using a skill, grants Stab Damage +{0}% to all allies for 1 turn",
+    "name": "Role Model's Necktie"
+  },
+  {
+    "id": 301192,
+    "description": "While equipped to a character with Stab affinity, when obtaining a boost-type panel, grants Skill Damage +{0}% to 1 ally with highest P.ATK for 1 turn (Cannot be stacked).<br>While equipped to a Supporter, boosts HP recovery received by all allies by {1}%",
+    "name": "Mighty Chain"
+  },
+  {
+    "id": 1980193,
+    "description": "Boosts Diligent characters' P.DEF and M.DEF by {0}%",
+    "name": "Extraordinary Leadership"
+  },
+  {
+    "id": 1990305,
+    "description": "After using a skill, grants Burst Skill Damage +15-35% to all allies with Stab affinity or Resleriana Academy tag based on number of characters with Resleriana Academy tag (Max 140%)",
+    "name": "Follow My Special Training!"
+  },
+  {
+    "id": 1990354,
+    "description": "At the start of battle, charges 3 charge indicators for Dreischnellstoss.<br>After using a skill or when any party member uses a battle item, charges 1 charge indicator for Dreischnellstoss and restores all allies' HP by {0}%.<br>Note: Only 1 charge indicator will be lit even if multiple items are used simultaneously",
+    "name": "Living Up to Everyone's Expectations"
+  },
+  {
+    "id": 1990355,
+    "description": "Boosts skill damage by 30% for all allies with Stab affinity.<br>Boosts all allies' skill damage by 6-30% based on number of characters with Resleriana Academy tag (Higher boost for more characters, range: 1-5 characters)",
+    "name": "Kitty Cat Team Honor Student"
+  },
+  {
+    "id": 4990888,
+    "description": "While equipped to a character with Stab affinity, boosts potency of buff effects given by {0}%",
+    "name": "Stab Affinity Enhancer Up III"
+  },
+  {
+    "id": 4990889,
+    "description": "While equipped to a character with Stab affinity, boosts potency of buff effects given by {0}%",
+    "name": "Stab Affinity Enhancer Up III"
+  },
+  {
+    "id": 4990890,
+    "description": "While equipped to a character with Stab affinity, boosts potency of buff effects given by {0}%",
+    "name": "Stab Affinity Enhancer Up III"
+  },
+  {
+    "id": 4990891,
+    "description": "While equipped to a character with Stab affinity, boosts potency of buff effects given by {0}%",
+    "name": "Stab Affinity Enhancer Up III"
+  },
+  {
+    "id": 4990892,
+    "description": "While equipped to a character with Stab affinity, boosts potency of buff effects given by {0}%",
+    "name": "Stab Affinity Enhancer Up III"
+  },
+  {
+    "id": 7000735,
+    "description": "Boosts single target skill damage by {0}% for characters with Stab affinity",
+    "name": "Stab Character Single Target Damage Up (1)"
+  },
+  {
+    "id": 7000736,
+    "description": "Boosts single target skill damage by {0}% for characters with Stab affinity",
+    "name": "Stab Character Single Target Damage Up (2)"
+  },
+  {
+    "id": 7000737,
+    "description": "Boosts single target skill damage by {0}% for characters with Stab affinity",
+    "name": "Stab Character Single Target Damage Up (3)"
+  },
+  {
+    "id": 26009001,
+    "description": "When stunned, grants self Damage Received Up (15%/permanent) and Damage Dealt Up (15%/permanent)",
+    "name": ""
+  },
+  {
+    "id": 26236001,
+    "description": "When HP falls below 50%, grants self Panel Immunity (2 times), Damage Dealt Up (20%/permanent), and SPD Up (15%/permanent)",
+    "name": ""
   }
 ]

@@ -1334,5 +1334,17 @@
   {
     "id": 60242001,
     "description": "- Uses a powerful attack"
+  },
+  {
+    "id": 60009020,
+    "description": "- Inflicts Paralysis\n- When stunned, boosts own damage received and damage dealt"
+  },
+  {
+    "id": 60072005,
+    "description": "- When stunned, removes 1 positive effect"
+  },
+  {
+    "id": 60239001,
+    "description": "- When HP reaches a certain level, grants self panel immunity, boosts damage dealt, and boosts SPD\n- Grants self 5 random element resistances\n- Creates Burn panels"
   }
 ]

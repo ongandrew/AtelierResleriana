@@ -5553,5 +5553,220 @@
     "id": 126241053,
     "description": "Grants additional item gauge recovery to all allies based on number of Resleriana Academy characters.",
     "popup_text": ""
+  },
+  {
+    "id": 6001062,
+    "description": "When equipped to Juna [With Ideals], after using a skill, grants all allies Physical Attack Damage Up for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001063,
+    "description": "While equipped to a Supporter with Stab affinity, at the start of battle, grants all allies HP Recovery at Start of Turn for 5 turns. (Cannot be stacked)",
+    "popup_text": ""
+  },
+  {
+    "id": 6001064,
+    "description": "While equipped to a Supporter with Stab affinity, after using a skill, grants all allies Stab Damage Up for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001065,
+    "description": "While equipped to a character with Stab affinity, when obtaining a boost-type panel, grants Skill Damage Up to the ally with highest P.ATK for 1 turn. (Cannot be stacked)",
+    "popup_text": ""
+  },
+  {
+    "id": 6001066,
+    "description": "While equipped to a Supporter, boosts HP recovery received by all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001067,
+    "description": "While equipped to a Supporter with Stab affinity, at the start of battle, grants all allies HP Recovery at Start of Turn for 5 turns. (Cannot be stacked)",
+    "popup_text": ""
+  },
+  {
+    "id": 13000338,
+    "description": "While equipped to a character with Stab affinity, boosts single target skill damage by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001306,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001307,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001308,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001309,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001317,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 76236001,
+    "description": "Grants 5 random element resistance increases to self.",
+    "popup_text": ""
+  },
+  {
+    "id": 76236002,
+    "description": "Increases Ice resistance. (3 times)",
+    "popup_text": ""
+  },
+  {
+    "id": 76236003,
+    "description": "Increases Air resistance. (3 times)",
+    "popup_text": ""
+  },
+  {
+    "id": 76236004,
+    "description": "Increases Fire resistance. (3 times)",
+    "popup_text": ""
+  },
+  {
+    "id": 76236005,
+    "description": "Increases Bolt resistance. (3 times)",
+    "popup_text": ""
+  },
+  {
+    "id": 76236006,
+    "description": "Increases Slash resistance. (3 times)",
+    "popup_text": ""
+  },
+  {
+    "id": 76236007,
+    "description": "Increases Strike resistance. (3 times)",
+    "popup_text": ""
+  },
+  {
+    "id": 76236008,
+    "description": "Increases Stab resistance. (3 times)",
+    "popup_text": ""
+  },
+  {
+    "id": 86009001,
+    "description": "When stunned, increases damage received permanently.",
+    "popup_text": ""
+  },
+  {
+    "id": 86009002,
+    "description": "When stunned, increases damage dealt permanently.",
+    "popup_text": ""
+  },
+  {
+    "id": 86236001,
+    "description": "Grants self panel immunity for 2 times.",
+    "popup_text": ""
+  },
+  {
+    "id": 86236002,
+    "description": "Increases damage dealt permanently.",
+    "popup_text": ""
+  },
+  {
+    "id": 86236003,
+    "description": "Increases SPD permanently.",
+    "popup_text": ""
+  },
+  {
+    "id": 91001729,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001730,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001731,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001732,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001733,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001734,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001735,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001736,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001737,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001738,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001742,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001743,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001744,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001745,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000213,
+    "description": "While equipped to a character with Stab affinity, increases positive effect potency.",
+    "popup_text": ""
+  },
+  {
+    "id": 126241046,
+    "description": "Boosts battle item damage based on the number of Academy characters.",
+    "popup_text": ""
+  },
+  {
+    "id": 126241047,
+    "description": "Boosts battle item critical rate based on the number of Academy characters.",
+    "popup_text": ""
+  },
+  {
+    "id": 126241049,
+    "description": "Grants additional item gauge recovery based on the number of Academy characters.",
+    "popup_text": ""
   }
 ]

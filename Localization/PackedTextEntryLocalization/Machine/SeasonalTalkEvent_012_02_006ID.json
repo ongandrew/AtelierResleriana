@@ -1,0 +1,988 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "すまない、ロロナ。推薦人として手を挙げてくれたのに\n肝心の私がこのザマでは……",
+        "localizations": {
+          "en": "I'm sorry, Rorona. You volunteered to be my sponsor, and here I am letting you down..."
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "気にしてないよ。まだ選挙活動は始まったばかり、\n一緒に頑張ろう！",
+        "localizations": {
+          "en": "Don't worry about it! The election campaign's only just begun. We'll get through this together!"
+        }
+      },
+      "2072370017": {
+        "text": "ロロナ",
+        "localizations": {
+          "en": "Rorona"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "ああ……",
+        "localizations": {
+          "en": "Yeah..."
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "ユナさん。あんまり気を落とさないでください",
+        "localizations": {
+          "en": "Juna, please don't get discouraged."
+        }
+      },
+      "2072370017": {
+        "text": "クラウディア",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "さっきは自信満々に答えちゃいましたけど、\n私も長い間自分の夢が何か分かっていなかったんです",
+        "localizations": {
+          "en": "I might have answered confidently earlier, but for a long time, I didn't know what my dream was either."
+        }
+      },
+      "2072370017": {
+        "text": "クラウディア",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "そうなのか？",
+        "localizations": {
+          "en": "Is that so?"
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "この学園に来て学ぶ中で、ようやく自分の夢を\n自覚することができました",
+        "localizations": {
+          "en": "It was only through studying at this academy that I finally became aware of my own aspirations."
+        }
+      },
+      "2072370017": {
+        "text": "クラウディア",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "自分の夢が分からない、見つからない、って言う人は\n少なくないと思います。ユナさんだけじゃありません",
+        "localizations": {
+          "en": "I think there are plenty of people who don't know or haven't found their dreams yet. You're not alone."
+        }
+      },
+      "2072370017": {
+        "text": "クラウディア",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "焦らず、じっくり考えて探していきましょう",
+        "localizations": {
+          "en": "So take all the time you need."
+        }
+      },
+      "2072370017": {
+        "text": "クラウディア",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "ああ。ありがとう、クラウディア",
+        "localizations": {
+          "en": "Yes. Thank you, Klaudia."
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "（テストで満点を取ると、母がほめてくれた。\n\u3000それがとても嬉しかったのが、記憶に残っている）",
+        "localizations": {
+          "en": "(Whenever I got perfect scores on tests, my mother would praise me. I still remember how happy that made me.)"
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "（家は決して豊かではなかったが、自慢の娘だと言って\n\u3000くれて、私はそれだけでお腹いっぱいになれた）",
+        "localizations": {
+          "en": "(We weren't particularly wealthy, but she would call me her pride and joy, and that alone was enough to fill me with satisfaction.)"
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "（良い点数を取ると先生もほめてくれる。\n\u3000態度がいいとなおさらだ）",
+        "localizations": {
+          "en": "(Teachers would praise me for my good grades. And even more so when my behavior was exemplary.)"
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "（スポーツに力を入れると、友達からもすごいねと\n\u3000言われるようになった）",
+        "localizations": {
+          "en": "(When I put effort into sports, my friends started telling me how amazing I was.)"
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "（だから頑張った。期待に応えると皆喜んでくれる。\n\u3000気付けば、ランターナ学園への推薦も手にしていた）",
+        "localizations": {
+          "en": "(That's why I worked hard. Meeting expectations made everyone happy. Before I knew it, I had secured a place at Lantarna Academy.)"
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "（もっと勉強した。もっと身体も鍛えた。\n\u3000皆の理想になるべく振る舞った）",
+        "localizations": {
+          "en": "(Here, I studied harder. Trained my body more. Conducted myself as everyone's ideal role model.)"
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "（先日のテストの点数だって満点だった。\n\u3000それなのに……）",
+        "localizations": {
+          "en": "(Even on the recent midterms, I achieved perfect scores. And yet...)"
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "（「あなたの夢はなんですか？」）",
+        "localizations": {
+          "en": "'What is your dream?'"
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "（このテストの答えが、私には分からない）",
+        "localizations": {
+          "en": "If it were a test, I wouldn't have an answer to this question."
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "ねえ、どこ受けるかもう決めた？",
+        "localizations": {
+          "en": "Hey, have you decided which university you're applying to?"
+        }
+      },
+      "2072370017": {
+        "text": "女子生徒Ａ",
+        "localizations": {
+          "en": "Female Student A"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "まだー。色んな大学のパンフとか見てたら\n迷っちゃって",
+        "localizations": {
+          "en": "Not yet. I've been looking at so many university pamphlets that I can't make up my mind."
+        }
+      },
+      "2072370017": {
+        "text": "女子生徒Ｂ",
+        "localizations": {
+          "en": "Female Student B"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "迷えるだけ羨ましー。\nあたし、第一志望受かるか怪しそうなんだよねえ",
+        "localizations": {
+          "en": "I'm jealous you even have options. I'm not sure I'll get into my first choice."
+        }
+      },
+      "2072370017": {
+        "text": "女子生徒Ａ",
+        "localizations": {
+          "en": "Female Student A"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "先輩方は、もう少しすれば受験か",
+        "localizations": {
+          "en": "The seniors will be taking entrance exams soon."
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "意外と、この時期まで\n進路を決めていない者もいるのだな",
+        "localizations": {
+          "en": "It's surprising that some haven't decided on their path even at this stage."
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "隣、いいかな",
+        "localizations": {
+          "en": "Mind if I sit here?"
+        }
+      },
+      "2072370017": {
+        "text": "アウグスト",
+        "localizations": {
+          "en": "August"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "あなたは……科学学校の。\nこちらにいらしていたのですか",
+        "localizations": {
+          "en": "You're... from the science academy. Are you visiting?"
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "ああ、野暮用でな",
+        "localizations": {
+          "en": "Yes, I just some business to attend to."
+        }
+      },
+      "2072370017": {
+        "text": "アウグスト",
+        "localizations": {
+          "en": "August"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "少し呟きが聞こえてしまったのだが……\n進路の悩みかな？",
+        "localizations": {
+          "en": "I couldn't help overhearing... You're worried about your future?"
+        }
+      },
+      "2072370017": {
+        "text": "アウグスト",
+        "localizations": {
+          "en": "August"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "……ええ、まあ。そのような感じです",
+        "localizations": {
+          "en": "...Ah, yes, it's something like that."
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "どうやら私には夢が無いようで……\n今になって、焦っているというか……",
+        "localizations": {
+          "en": "It seems that I don't have a dream... And I'm starting to feel hesitant now."
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "であれば、夢探しのベテランの言葉を君にやろう",
+        "localizations": {
+          "en": "Then allow me to offer you the words of a veteran dream-seeker."
+        }
+      },
+      "2072370017": {
+        "text": "アウグスト",
+        "localizations": {
+          "en": "August"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "おお。確かに、あなたともなれば\n色々な夢をお持ちなのでしょう",
+        "localizations": {
+          "en": "Oh. I imagine someone like you must have had many dreams."
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "いいや、無い",
+        "localizations": {
+          "en": "Not at all. I have none."
+        }
+      },
+      "2072370017": {
+        "text": "アウグスト",
+        "localizations": {
+          "en": "August"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "え？",
+        "localizations": {
+          "en": "What?"
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "言っただろう。夢探しのベテランだと。\n生まれてこの方ずっと夢を探し続けている",
+        "localizations": {
+          "en": "I told you—I'm a veteran dream-seeker. I've been searching for my dream since the day I was born."
+        }
+      },
+      "2072370017": {
+        "text": "アウグスト",
+        "localizations": {
+          "en": "August"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "は、はあ……。\nでは、なぜあなたは科学学校の校長を？",
+        "localizations": {
+          "en": "I... see. Then why are you the principal of the science academy?"
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "求められて、私にはそれができたからだ。\n私以上に上手くやれる奴がいないからやっている",
+        "localizations": {
+          "en": "Because I was needed, and I could do it. I'm doing it because there's no one who could do it better than me."
+        }
+      },
+      "2072370017": {
+        "text": "アウグスト",
+        "localizations": {
+          "en": "August"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "…………",
+        "localizations": {
+          "en": "..."
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "嫌な奴だと思ったか？\nすまない、私は君ほど世渡りが上手くない",
+        "localizations": {
+          "en": "Did that come across as unpleasant? If so, I apologize. I'm not as skilled at navigating society as you might be."
+        }
+      },
+      "2072370017": {
+        "text": "アウグスト",
+        "localizations": {
+          "en": "August"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "それで失敗したことも多くあるが、\n人一倍経験はしてきたつもりだ",
+        "localizations": {
+          "en": "I've had my share of failures because of it, but I'd like to think I've experienced more than most."
+        }
+      },
+      "2072370017": {
+        "text": "アウグスト",
+        "localizations": {
+          "en": "August"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "だからこれは、年寄りの戯言だと思って\n聞いてほしいのだが",
+        "localizations": {
+          "en": "So, take this as the idle musings of an old man, if you will."
+        }
+      },
+      "2072370017": {
+        "text": "アウグスト",
+        "localizations": {
+          "en": "August"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "……はい",
+        "localizations": {
+          "en": "...Yes."
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "夢を持っていないことに焦るな",
+        "localizations": {
+          "en": "You don't have to feel bad about not having a dream."
+        }
+      },
+      "2072370017": {
+        "text": "アウグスト",
+        "localizations": {
+          "en": "August"
+        }
+      }
+    }
+  },
+  {
+    "id": 43,
+    "properties": {
+      "999008199": {
+        "text": "え？",
+        "localizations": {
+          "en": "What?"
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 44,
+    "properties": {
+      "999008199": {
+        "text": "様々な未来に想いを馳せ、\n夢を見つけるまでの過程というのもいいものだ",
+        "localizations": {
+          "en": "Contemplating various futures and the process of searching for a dream is valuable in itself."
+        }
+      },
+      "2072370017": {
+        "text": "アウグスト",
+        "localizations": {
+          "en": "August"
+        }
+      }
+    }
+  },
+  {
+    "id": 45,
+    "properties": {
+      "999008199": {
+        "text": "そして、その結果夢が見つからなかったとしても、\n悩んだ時間は人生の糧となるはずだ",
+        "localizations": {
+          "en": "And even if you don't find a dream in the end, the time spent wrestling with the question will surely become nourishment for your life."
+        }
+      },
+      "2072370017": {
+        "text": "アウグスト",
+        "localizations": {
+          "en": "August"
+        }
+      }
+    }
+  },
+  {
+    "id": 46,
+    "properties": {
+      "999008199": {
+        "text": "……そうなのでしょうか",
+        "localizations": {
+          "en": "...Do you really think so?"
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 47,
+    "properties": {
+      "999008199": {
+        "text": "そう思わんとやってられん",
+        "localizations": {
+          "en": "That's what I tell myself to keep going."
+        }
+      },
+      "2072370017": {
+        "text": "アウグスト",
+        "localizations": {
+          "en": "August"
+        }
+      }
+    }
+  },
+  {
+    "id": 48,
+    "properties": {
+      "999008199": {
+        "text": "実感がこもってますね",
+        "localizations": {
+          "en": "I see that you speak from experience."
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 49,
+    "properties": {
+      "999008199": {
+        "text": "老い先が短いからな",
+        "localizations": {
+          "en": "It's not like I have many years ahead of me."
+        }
+      },
+      "2072370017": {
+        "text": "アウグスト",
+        "localizations": {
+          "en": "August"
+        }
+      }
+    }
+  },
+  {
+    "id": 50,
+    "properties": {
+      "999008199": {
+        "text": "いいか。よく周りを見ろ",
+        "localizations": {
+          "en": "Listen. And look around you carefully."
+        }
+      },
+      "2072370017": {
+        "text": "アウグスト",
+        "localizations": {
+          "en": "August"
+        }
+      }
+    }
+  },
+  {
+    "id": 51,
+    "properties": {
+      "999008199": {
+        "text": "自分の明確な夢を自覚している者など一握りだ。\nなんとなく生きている者などたくさんいる",
+        "localizations": {
+          "en": "Only a handful of people are conscious of their aspirations. Many just live day-to-day without much direction."
+        }
+      },
+      "2072370017": {
+        "text": "アウグスト",
+        "localizations": {
+          "en": "August"
+        }
+      }
+    }
+  },
+  {
+    "id": 52,
+    "properties": {
+      "999008199": {
+        "text": "…………！",
+        "localizations": {
+          "en": "...!"
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 53,
+    "properties": {
+      "999008199": {
+        "text": "……彼らは皆、私や君と同じ。愛すべき仲間だよ",
+        "localizations": {
+          "en": "...They're like you and me. Kindred spirits that are still worth caring about."
+        }
+      },
+      "2072370017": {
+        "text": "アウグスト",
+        "localizations": {
+          "en": "August"
+        }
+      }
+    }
+  },
+  {
+    "id": 54,
+    "properties": {
+      "999008199": {
+        "text": "……そうですね。なんとなく、私は独りなのでは\nないかと思っていました",
+        "localizations": {
+          "en": "...You're right. I somehow thought I was the only one like this."
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 55,
+    "properties": {
+      "999008199": {
+        "text": "そう思っている者はたくさんいるだろうな",
+        "localizations": {
+          "en": "There are likely many who feel the same way."
+        }
+      },
+      "2072370017": {
+        "text": "アウグスト",
+        "localizations": {
+          "en": "August"
+        }
+      }
+    }
+  },
+  {
+    "id": 56,
+    "properties": {
+      "999008199": {
+        "text": "ありがとうございます、参考になりました。\n私にやれることが、あるかもしれません",
+        "localizations": {
+          "en": "Thank you. That was helpful. I think there might be something I can do after all."
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 57,
+    "properties": {
+      "999008199": {
+        "text": "……若いな",
+        "localizations": {
+          "en": "Ah... to be young."
+        }
+      },
+      "2072370017": {
+        "text": "アウグスト",
+        "localizations": {
+          "en": "August"
+        }
+      }
+    }
+  }
+]

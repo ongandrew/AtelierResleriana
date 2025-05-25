@@ -1728,5 +1728,40 @@
     "id": 1210392,
     "description": "Boosts additional item gauge recovery after actions by {value}%. Cannot be removed.",
     "name": "Item Gauge Recovery Up"
+  },
+  {
+    "id": 510143,
+    "description": "Boosts burst skill damage by {value}%. (MAX 140%)",
+    "name": "Follow My Special Training!"
+  },
+  {
+    "id": 610252,
+    "description": "Boosts P.DEF by {value}%. (MAX 3 stacks)",
+    "name": "P.DEF Up"
+  },
+  {
+    "id": 610253,
+    "description": "Boosts M.DEF by {value}%. (MAX 3 stacks)",
+    "name": "M.DEF Up"
+  },
+  {
+    "id": 610254,
+    "description": "Boosts effects received from boost-type panels by {value}%. (Cannot be stacked)",
+    "name": "Boost-type Panel Effect Up"
+  },
+  {
+    "id": 800141,
+    "description": "Boosts skill damage by {value}%. (Cannot be stacked)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 800142,
+    "description": "At the start of turn, restores own HP by {value}%. (Cannot be stacked)",
+    "name": "Regeneration"
+  },
+  {
+    "id": 800143,
+    "description": "At the start of turn, restores own HP by {value}%. (Cannot be stacked)",
+    "name": "Regeneration"
   }
 ]

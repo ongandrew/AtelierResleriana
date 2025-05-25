@@ -388,5 +388,65 @@
     "overlay_name": "Flocke Cerha",
     "profile_voice_text": "I'm Flocke, an exchange student!\nI think I can be of help when it comes to science!",
     "start_at": "2025-05-16T03:00:00Z"
+  },
+  {
+    "id": 10199,
+    "acquisition_text": "Alchemy has infinite possibilities!\nWon't you explore them with me?",
+    "another_name": "Election Event Version",
+    "description": "An energetic and spirited alchemist.\nShe studied alchemy at an academy in a certain town. Currently, she travels across the Lantarna continent in pursuit of alchemical truth.\nWhile cheerful and kind, she can be lazy and hates doing troublesome things.\nShe has a tendency to try solving problems with explosives, which earned her the nickname \"Bomberwoman.\"",
+    "fullname": "Marlone",
+    "leader_skill": {
+      "description": "Boosts Student characters' M.ATK and M.DEF by 25%.",
+      "name": "Academy Graduate"
+    },
+    "name": "Marie",
+    "overlay_name": "Marlone",
+    "profile_voice_text": "I'm Marlone. I studied at the Academy.\nI hope my alchemy can be of help.",
+    "start_at": "2049-12-31T15:00:00Z"
+  },
+  {
+    "id": 43404,
+    "acquisition_text": "Let us pledge to study and grow further\nso we may serve as role models for our fellow students.",
+    "another_name": "With Ideals",
+    "description": "A second-year student in Lantarna Academy's alchemy department.\nAn exemplary student who excels in both academics and martial arts, she has visited various schools as an exchange student.\nA member of the Alchemy Club, she's friends with Sophie and her classmates. She aims to become the next Student Council President.",
+    "fullname": "Juna Waitz",
+    "leader_skill": {
+      "description": "Boosts Diligent characters' P.DEF and M.DEF by 50%.",
+      "name": "Rare Leadership"
+    },
+    "name": "Juna",
+    "overlay_name": "Juna Waitz",
+    "profile_voice_text": "I'll never spare any effort\nto make our academy an even better place.",
+    "start_at": "2025-05-21T03:00:00Z"
+  },
+  {
+    "id": 43999,
+    "acquisition_text": "Reviving alchemy is also my wish.\nNow then, shall we go together?",
+    "another_name": "Election Event Version",
+    "description": "Resna's alchemy mentor.\nDuring her travels, she stopped at Resna's village and began teaching her the basics of alchemy.\nWhile she has a bright and straightforward personality, she can be quite strict when it comes to alchemy.\nShe's also quite messy in her personal life, often requiring Resna to take care of her.",
+    "fullname": "Saskia",
+    "leader_skill": {
+      "description": "Boosts all allies' critical damage by 5% for each Lantarna character in the party.",
+      "name": "The Comet Star is With Us"
+    },
+    "name": "Saskia",
+    "overlay_name": "Saskia",
+    "profile_voice_text": "I'm Saskia. Like Resna, I'm an alchemist with dreams.\nLet's aim for World's End together.",
+    "start_at": "2049-12-31T15:00:00Z"
+  },
+  {
+    "id": 45599,
+    "acquisition_text": "Reviving alchemy is my wish as well.\nNow then, let's go together.",
+    "another_name": "Election Event Version",
+    "description": "Resna's alchemy mentor.\nDuring her travels, she stopped at Resna's village and taught her the basics of alchemy.\nThough she has a bright and straightforward personality, she shows a strict side when it comes to alchemy.\nShe's also quite carefree in her personal life, often causing Resna to worry about her.",
+    "fullname": "Saskia",
+    "leader_skill": {
+      "description": "Boosts all allies' critical damage by 5% for each Lantarna character.",
+      "name": "The Comet Star Is with Us"
+    },
+    "name": "August",
+    "overlay_name": "Saskia",
+    "profile_voice_text": "I am Saskia. Like Resna, I'm an alchemist with dreams.\nSet your sights on World's End.",
+    "start_at": "2049-12-31T15:00:00Z"
   }
 ]

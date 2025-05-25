@@ -763,5 +763,35 @@
     "id": 1107,
     "description": "No additional effects.",
     "name": "Voting Ticket"
+  },
+  {
+    "id": 1101,
+    "description": "While equipped to Juna [With Ideals], after using a skill, boosts all allies' physical attack damage by {0}% for 1 turn.",
+    "name": "Symbol of Justice and Pride"
+  },
+  {
+    "id": 1102,
+    "description": "While equipped to a Supporter with Stab affinity, at battle start, grants all allies HP recovery +{0}% at the start of turn for 5 turns. (Non-stackable)",
+    "name": "Model Student Uniform"
+  },
+  {
+    "id": 1103,
+    "description": "While equipped to a Supporter with Stab affinity, at battle start, grants all allies HP recovery +{0}% at the start of turn for 5 turns. (Non-stackable)",
+    "name": "Model Student Uniform"
+  },
+  {
+    "id": 1104,
+    "description": "While equipped to a Supporter with Stab affinity, after using a skill, boosts all allies' Stab damage by {0}% for 1 turn.",
+    "name": "Model Student Tie"
+  },
+  {
+    "id": 1105,
+    "description": "While equipped to a Supporter with Stab affinity, after using a skill, boosts all allies' Stab damage by {0}% for 1 turn.",
+    "name": "Model Student Tie"
+  },
+  {
+    "id": 1106,
+    "description": "While equipped to a character with Stab affinity, when obtaining a boost-type panel, grants the ally with the highest P.ATK skill damage +{0}% for 1 turn. (Non-stackable). While equipped to a Supporter, boosts all allies' HP recovery amount by {1}%.",
+    "name": "Mighty Chain"
   }
 ]

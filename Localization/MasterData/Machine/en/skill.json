@@ -13606,5 +13606,341 @@
     "description": "After attacking, boosts all allies' damage dealt by 10% for 1 turn",
     "name": "Heat Missile Glory",
     "summary": ""
+  },
+  {
+    "id": 11002776,
+    "description": "Boosts all allies' P.ATK by {0}% and Stab damage by {1}% for 1 turn.",
+    "name": "Unterstützen",
+    "summary": "Boosts all allies' P.ATK and Stab damage."
+  },
+  {
+    "id": 11002777,
+    "description": "Boosts all allies' P.ATK by {0}% and Stab damage by {1}% for 1 turn.",
+    "name": "Unterstützen",
+    "summary": "Boosts all allies' P.ATK and Stab damage."
+  },
+  {
+    "id": 11002778,
+    "description": "Boosts all allies' P.ATK by {0}% and Stab damage by {1}% for 1 turn.",
+    "name": "Unterstützen",
+    "summary": "Boosts all allies' P.ATK and Stab damage."
+  },
+  {
+    "id": 11002779,
+    "description": "Boosts all allies' P.ATK by {0}% and Stab damage by {1}% for 1 turn.",
+    "name": "Unterstützen",
+    "summary": "Boosts all allies' P.ATK and Stab damage."
+  },
+  {
+    "id": 11002780,
+    "description": "Boosts all allies' P.ATK by {0}% and Stab damage by {1}% for 1 turn.",
+    "name": "Unterstützen",
+    "summary": "Boosts all allies' P.ATK and Stab damage."
+  },
+  {
+    "id": 11002832,
+    "description": "After attacking, grants target panel immunity for 1 turn and reduces Stab resistance by {0}% for 2 attacks. Panel immunity nullifies all panels except burst panels.",
+    "name": "Soulful Warrior's Contemplation",
+    "summary": "After attacking, grants target panel immunity and reduces Stab resistance."
+  },
+  {
+    "id": 11002833,
+    "description": "After attacking, grants target panel immunity for 1 turn and reduces Stab resistance by {0}% for 2 attacks. Panel immunity nullifies all panels except burst panels.",
+    "name": "Soulful Warrior's Contemplation",
+    "summary": "After attacking, grants target panel immunity and reduces Stab resistance."
+  },
+  {
+    "id": 11002834,
+    "description": "After attacking, grants target panel immunity for 1 turn and reduces Stab resistance by {0}% for 2 attacks. Panel immunity nullifies all panels except burst panels.",
+    "name": "Soulful Warrior's Contemplation",
+    "summary": "After attacking, grants target panel immunity and reduces Stab resistance."
+  },
+  {
+    "id": 11002835,
+    "description": "After attacking, grants target panel immunity for 1 turn and reduces Stab resistance by {0}% for 2 attacks. Panel immunity nullifies all panels except burst panels.",
+    "name": "Soulful Warrior's Contemplation",
+    "summary": "After attacking, grants target panel immunity and reduces Stab resistance."
+  },
+  {
+    "id": 11002836,
+    "description": "After attacking, grants target panel immunity for 1 turn and reduces Stab resistance by {0}% for 2 attacks. Panel immunity nullifies all panels except burst panels.",
+    "name": "Soulful Warrior's Contemplation",
+    "summary": "After attacking, grants target panel immunity and reduces Stab resistance."
+  },
+  {
+    "id": 12002781,
+    "description": "After attacking, reduces target's Stab resistance by {0}% for 2 attacks and boosts P.ATK by {1}% for 2 turns for all allies with Stab affinity or from Resleriana Academy. Boosts their P.DEF and M.DEF by {2}% for 2 attacks (MAX 3 stacks). Dreischnellstoss has charge indicators. At 3 charges, its effects change. Can gain up to 3 charges. When under 3 charges, charges 1 indicator after attacking. At 3 charges, boosts burst skill damage by {3}% for 1 turn for 1 ally with highest P.ATK before this skill was used, converts next panel to a burst panel (or creates one if empty), and consumes all charges.",
+    "name": "Dreischnellstoss",
+    "summary": "After attacking, reduces target's Stab resistance. Boosts stats for all allies with Stab affinity or from Resleriana Academy. At less than 3 charges, charges 1 indicator after attacking. At 3 charges, boosts burst skill damage for ally with highest P.ATK, converts next panel to burst panel, and consumes all charges."
+  },
+  {
+    "id": 12002782,
+    "description": "After attacking, reduces target's Stab resistance by {0}% for 2 attacks and boosts P.ATK by {1}% for 2 turns for all allies with Stab affinity or from Resleriana Academy. Boosts their P.DEF and M.DEF by {2}% for 2 attacks (MAX 3 stacks). Dreischnellstoss has charge indicators. At 3 charges, its effects change. Can gain up to 3 charges. When under 3 charges, charges 1 indicator after attacking. At 3 charges, boosts burst skill damage by {3}% for 1 turn for 1 ally with highest P.ATK before this skill was used, converts next panel to a burst panel (or creates one if empty), and consumes all charges.",
+    "name": "Dreischnellstoss",
+    "summary": "After attacking, reduces target's Stab resistance. Boosts stats for all allies with Stab affinity or from Resleriana Academy. At less than 3 charges, charges 1 indicator after attacking. At 3 charges, boosts burst skill damage for ally with highest P.ATK, converts next panel to burst panel, and consumes all charges."
+  },
+  {
+    "id": 12002783,
+    "description": "After attacking, reduces target's Stab resistance by {0}% for 2 attacks and boosts P.ATK by {1}% for 2 turns for all allies with Stab affinity or from Resleriana Academy. Boosts their P.DEF and M.DEF by {2}% for 2 attacks (MAX 3 stacks). Dreischnellstoss has charge indicators. At 3 charges, its effects change. Can gain up to 3 charges. When under 3 charges, charges 1 indicator after attacking. At 3 charges, boosts burst skill damage by {3}% for 1 turn for 1 ally with highest P.ATK before this skill was used, converts next panel to a burst panel (or creates one if empty), and consumes all charges.",
+    "name": "Dreischnellstoss",
+    "summary": "After attacking, reduces target's Stab resistance. Boosts stats for all allies with Stab affinity or from Resleriana Academy. At less than 3 charges, charges 1 indicator after attacking. At 3 charges, boosts burst skill damage for ally with highest P.ATK, converts next panel to burst panel, and consumes all charges."
+  },
+  {
+    "id": 12002784,
+    "description": "After attacking, reduces target's Stab resistance by {0}% for 2 attacks and boosts P.ATK by {1}% for 2 turns for all allies with Stab affinity or from Resleriana Academy. Boosts their P.DEF and M.DEF by {2}% for 2 attacks (MAX 3 stacks). Dreischnellstoss has charge indicators. At 3 charges, its effects change. Can gain up to 3 charges. When under 3 charges, charges 1 indicator after attacking. At 3 charges, boosts burst skill damage by {3}% for 1 turn for 1 ally with highest P.ATK before this skill was used, converts next panel to a burst panel (or creates one if empty), and consumes all charges.",
+    "name": "Dreischnellstoss",
+    "summary": "After attacking, reduces target's Stab resistance. Boosts stats for all allies with Stab affinity or from Resleriana Academy. At less than 3 charges, charges 1 indicator after attacking. At 3 charges, boosts burst skill damage for ally with highest P.ATK, converts next panel to burst panel, and consumes all charges."
+  },
+  {
+    "id": 12002785,
+    "description": "After attacking, reduces target's Stab resistance by {0}% for 2 attacks and boosts P.ATK by {1}% for 2 turns for all allies with Stab affinity or from Resleriana Academy. Boosts their P.DEF and M.DEF by {2}% for 2 attacks (MAX 3 stacks). Dreischnellstoss has charge indicators. At 3 charges, its effects change. Can gain up to 3 charges. When under 3 charges, charges 1 indicator after attacking. At 3 charges, boosts burst skill damage by {3}% for 1 turn for 1 ally with highest P.ATK before this skill was used, converts next panel to a burst panel (or creates one if empty), and consumes all charges.",
+    "name": "Dreischnellstoss",
+    "summary": "After attacking, reduces target's Stab resistance. Boosts stats for all allies with Stab affinity or from Resleriana Academy. At less than 3 charges, charges 1 indicator after attacking. At 3 charges, boosts burst skill damage for ally with highest P.ATK, converts next panel to burst panel, and consumes all charges."
+  },
+  {
+    "id": 12002837,
+    "description": "After recovery, converts all panels except boost-type panels and burst panels to boost panels (creates if empty). Boosts P.ATK by {0}% for 2 turns for all allies with Stab affinity and boosts P.ATK by {1}% for 2 turns for Resleriana Academy allies.",
+    "name": "My Mincing Technique",
+    "summary": "After recovery, converts panels to boost panels. Boosts P.ATK for all allies with Stab affinity and for Resleriana Academy allies."
+  },
+  {
+    "id": 12002838,
+    "description": "After recovery, converts all panels except boost-type panels and burst panels to boost panels (creates if empty). Boosts P.ATK by {0}% for 2 turns for all allies with Stab affinity and boosts P.ATK by {1}% for 2 turns for Resleriana Academy allies.",
+    "name": "My Mincing Technique",
+    "summary": "After recovery, converts panels to boost panels. Boosts P.ATK for all allies with Stab affinity and for Resleriana Academy allies."
+  },
+  {
+    "id": 12002839,
+    "description": "After recovery, converts all panels except boost-type panels and burst panels to boost panels (creates if empty). Boosts P.ATK by {0}% for 2 turns for all allies with Stab affinity and boosts P.ATK by {1}% for 2 turns for Resleriana Academy allies.",
+    "name": "My Mincing Technique",
+    "summary": "After recovery, converts panels to boost panels. Boosts P.ATK for all allies with Stab affinity and for Resleriana Academy allies."
+  },
+  {
+    "id": 12002840,
+    "description": "After recovery, converts all panels except boost-type panels and burst panels to boost panels (creates if empty). Boosts P.ATK by {0}% for 2 turns for all allies with Stab affinity and boosts P.ATK by {1}% for 2 turns for Resleriana Academy allies.",
+    "name": "My Mincing Technique",
+    "summary": "After recovery, converts panels to boost panels. Boosts P.ATK for all allies with Stab affinity and for Resleriana Academy allies."
+  },
+  {
+    "id": 12002841,
+    "description": "After recovery, converts all panels except boost-type panels and burst panels to boost panels (creates if empty). Boosts P.ATK by {0}% for 2 turns for all allies with Stab affinity and boosts P.ATK by {1}% for 2 turns for Resleriana Academy allies.",
+    "name": "My Mincing Technique",
+    "summary": "After recovery, converts panels to boost panels. Boosts P.ATK for all allies with Stab affinity and for Resleriana Academy allies."
+  },
+  {
+    "id": 14002313,
+    "description": "After attacking, converts all panels of the next enemy in the timeline into protection weaken panels (or creates them if empty).<br>Boosts HP recovery provided by {0}% (max: 100%).",
+    "name": "Straight Rising Dragon Dense Fog",
+    "summary": "After attacking, converts all panels of the next enemy in the timeline into protection weaken panels.<br>Boosts HP recovery amounts."
+  },
+  {
+    "id": 14002786,
+    "description": "Before attacking, reduces target's Stab resistance by {0}% for 3 attacks.<br>After attacking, grants target panel immunity for 1 turn.<br>Boosts P.ATK by {1}% for 3 turns for the ally with highest P.ATK before using this skill.<br>Boosts P.ATK by {2}% and skill damage by {3}% for 3 turns for all allies with Stab affinity.",
+    "name": "Majestätlaufen",
+    "summary": "Before attacking, reduces target's Stab resistance.<br>After attacking, grants target panel immunity.<br>Boosts P.ATK for ally with highest P.ATK.<br>Boosts stats for all allies with Stab affinity."
+  },
+  {
+    "id": 14002787,
+    "description": "Before attacking, reduces target's Stab resistance by {0}% for 3 attacks.<br>After attacking, grants target panel immunity for 1 turn.<br>Boosts P.ATK by {1}% for 3 turns for the ally with highest P.ATK before using this skill.<br>Boosts P.ATK by {2}% and skill damage by {3}% for 3 turns for all allies with Stab affinity.",
+    "name": "Majestätlaufen",
+    "summary": "Before attacking, reduces target's Stab resistance.<br>After attacking, grants target panel immunity.<br>Boosts P.ATK for ally with highest P.ATK.<br>Boosts stats for all allies with Stab affinity."
+  },
+  {
+    "id": 14002788,
+    "description": "Before attacking, reduces target's Stab resistance by {0}% for 3 attacks.<br>After attacking, grants target panel immunity for 1 turn.<br>Boosts P.ATK by {1}% for 3 turns for the ally with highest P.ATK before using this skill.<br>Boosts P.ATK by {2}% and skill damage by {3}% for 3 turns for all allies with Stab affinity.",
+    "name": "Majestätlaufen",
+    "summary": "Before attacking, reduces target's Stab resistance.<br>After attacking, grants target panel immunity.<br>Boosts P.ATK for ally with highest P.ATK.<br>Boosts stats for all allies with Stab affinity."
+  },
+  {
+    "id": 14002789,
+    "description": "Before attacking, reduces target's Stab resistance by {0}% for 3 attacks.<br>After attacking, grants target panel immunity for 1 turn.<br>Boosts P.ATK by {1}% for 3 turns for the ally with highest P.ATK before using this skill.<br>Boosts P.ATK by {2}% and skill damage by {3}% for 3 turns for all allies with Stab affinity.",
+    "name": "Majestätlaufen",
+    "summary": "Before attacking, reduces target's Stab resistance.<br>After attacking, grants target panel immunity.<br>Boosts P.ATK for ally with highest P.ATK.<br>Boosts stats for all allies with Stab affinity."
+  },
+  {
+    "id": 14002790,
+    "description": "Before attacking, reduces target's Stab resistance by {0}% for 3 attacks.<br>After attacking, grants target panel immunity for 1 turn.<br>Boosts P.ATK by {1}% for 3 turns for the ally with highest P.ATK before using this skill.<br>Boosts P.ATK by {2}% and skill damage by {3}% for 3 turns for all allies with Stab affinity.",
+    "name": "Majestätlaufen",
+    "summary": "Before attacking, reduces target's Stab resistance.<br>After attacking, grants target panel immunity.<br>Boosts P.ATK for ally with highest P.ATK.<br>Boosts stats for all allies with Stab affinity."
+  },
+  {
+    "id": 14002842,
+    "description": "After attacking, converts all panels of the next enemy in the timeline into protection weaken panels (or creates them if empty).<br>Boosts HP recovery provided by {0}% (max: 100%).<br>When the next panel of the ally with highest P.ATK before using this skill is not a burst panel, converts it into a boost+ panel (or creates it if empty).<br>Boosts boost-type panel effects by {1}% for all Attackers with Stab affinity. (Cannot be stacked).",
+    "name": "Straight Rising Dragon Dense Fog",
+    "summary": "After attacking, converts all panels of the next enemy in the timeline into protection weaken panels.<br>Boosts HP recovery amounts.<br>Converts next non-burst panel of ally with highest P.ATK into boost+ panel.<br>Boosts boost-type panel effects for all Attackers with Stab affinity."
+  },
+  {
+    "id": 32002368,
+    "description": "After attacking, grants 5 random elemental resistances +25% to self for 3 attacks out of 7 elements.",
+    "name": "Super Explosive Buster Missile",
+    "summary": ""
+  },
+  {
+    "id": 32002369,
+    "description": "After attacking, converts target's panel into a burn panel.",
+    "name": "Explosive Buster Punch",
+    "summary": ""
+  },
+  {
+    "id": 32002370,
+    "description": "No effect.",
+    "name": "Rocket Punch",
+    "summary": ""
+  },
+  {
+    "id": 32002371,
+    "description": "After attacking, boosts own damage dealt by 25% for 2 attacks.",
+    "name": "Rising Flame Build Up",
+    "summary": ""
+  },
+  {
+    "id": 32002372,
+    "description": "After attacking, reduces own damage received by 35% for 2 attacks.",
+    "name": "Power Dive",
+    "summary": ""
+  },
+  {
+    "id": 32002373,
+    "description": "After attacking, reduces stun damage dealt to all enemies by 20% for 2 attacks.",
+    "name": "Rage Flame Lockdown",
+    "summary": ""
+  },
+  {
+    "id": 32002374,
+    "description": "No effect.",
+    "name": "Ice Score",
+    "summary": ""
+  },
+  {
+    "id": 32002375,
+    "description": "After attacking, reduces single enemy's M.ATK by 25% and P.ATK by 25% for 3 attacks.",
+    "name": "Ice Block Throw",
+    "summary": ""
+  },
+  {
+    "id": 32002376,
+    "description": "Increases damage received by 20%, reduces HP recovery received by 20%, reduces damage dealt by 20%, and reduces stun damage dealt by 20% for target for 2 attacks. Removes positive effects.",
+    "name": "Disaster Calling",
+    "summary": ""
+  },
+  {
+    "id": 32002377,
+    "description": "Increases damage received by 20%, reduces HP recovery received by 20%, and reduces status effect resistance by 50% for all enemies for 2 attacks.",
+    "name": "Misfortune Calling",
+    "summary": ""
+  },
+  {
+    "id": 32002378,
+    "description": "Boosts damage dealt by 20% for 2 attacks for all allies when attacking targets with negative effects.",
+    "name": "Targeting Weakness",
+    "summary": ""
+  },
+  {
+    "id": 32002379,
+    "description": "When having any of the following buffs: damage dealt up, damage received down, stun damage received down, evasion, regeneration, or speed up - boosts this attack's damage by 10% per buff type.",
+    "name": "Power Shot",
+    "summary": ""
+  },
+  {
+    "id": 32002380,
+    "description": "After attacking, boosts damage dealt by 10% for 10 attacks for all allies.",
+    "name": "Spin Slash",
+    "summary": ""
+  },
+  {
+    "id": 32002381,
+    "description": "After attacking, restores 5% HP to all allies",
+    "name": "Heal Gale",
+    "summary": ""
+  },
+  {
+    "id": 32002382,
+    "description": "After attacking, reduces damage received by 10% for all allies for 10 turns",
+    "name": "Storm",
+    "summary": ""
+  },
+  {
+    "id": 32002383,
+    "description": "Grants all allies Evasion for 1 hit",
+    "name": "Caution Call",
+    "summary": ""
+  },
+  {
+    "id": 32002384,
+    "description": "Reduces target's SPD by 20% for 1 turn",
+    "name": "Speed Down",
+    "summary": ""
+  },
+  {
+    "id": 32002385,
+    "description": "No effects.",
+    "name": "Thorn Roll",
+    "summary": ""
+  },
+  {
+    "id": 32002386,
+    "description": "No effects.",
+    "name": "Thorn Spit",
+    "summary": ""
+  },
+  {
+    "id": 32002387,
+    "description": "No effects.",
+    "name": "Puni Fire",
+    "summary": ""
+  },
+  {
+    "id": 32002388,
+    "description": "After attacking, inflicts Burn on all enemies for 5 turns",
+    "name": "Puni Flame",
+    "summary": ""
+  },
+  {
+    "id": 32002389,
+    "description": "No effects.",
+    "name": "Thorn Roll",
+    "summary": ""
+  },
+  {
+    "id": 32002390,
+    "description": "Reduces target's damage received by 35% for 1 turn",
+    "name": "Puni Boost",
+    "summary": ""
+  },
+  {
+    "id": 32002391,
+    "description": "Reduces damage dealt by all enemies by 20% for 1 turn",
+    "name": "Puni Dark",
+    "summary": ""
+  },
+  {
+    "id": 32002392,
+    "description": "After attacking, boosts damage dealt by 30% for all allies for 1 turn",
+    "name": "Whirlwind Dance",
+    "summary": ""
+  },
+  {
+    "id": 32002393,
+    "description": "Restores target's HP by 10% and boosts their damage dealt by 25% for 1 turn",
+    "name": "Drum Beat Call",
+    "summary": ""
+  },
+  {
+    "id": 32002394,
+    "description": "Grants target 5% Regen for 2 turns and reduces their damage received by 25% for 1 turn",
+    "name": "Endurance Call",
+    "summary": ""
+  },
+  {
+    "id": 32002395,
+    "description": "After attacking, boosts damage dealt by 20% for all allies for 1 turn",
+    "name": "Scratch",
+    "summary": ""
+  },
+  {
+    "id": 32002396,
+    "description": "After attacking, reduces damage received by 20% for all allies for 1 turn",
+    "name": "Tail Slash",
+    "summary": ""
   }
 ]

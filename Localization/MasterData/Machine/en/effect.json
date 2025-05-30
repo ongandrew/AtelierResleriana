@@ -5768,5 +5768,200 @@
     "id": 126241049,
     "description": "Grants additional item gauge recovery based on the number of Academy characters.",
     "popup_text": ""
+  },
+  {
+    "id": 6001068,
+    "description": "Boosts skill damage while equipped to Izana [Knight's Beginning].",
+    "popup_text": ""
+  },
+  {
+    "id": 6001069,
+    "description": "Boosts critical damage while equipped to Izana [Knight's Beginning].",
+    "popup_text": ""
+  },
+  {
+    "id": 6001070,
+    "description": "When equipped to a character with Air affinity, grants M.ATK Up for 1 turn when hit by an attack. (Cannot be stacked)",
+    "popup_text": ""
+  },
+  {
+    "id": 6001071,
+    "description": "When equipped to a character with Air affinity, grants M.ATK Up for 1 turn when hit by an attack. (Cannot be stacked)",
+    "popup_text": ""
+  },
+  {
+    "id": 6001072,
+    "description": "When equipped to an Attacker with Air affinity, grants increased damage against weaknesses for 1 turn after using a skill.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001073,
+    "description": "Grants increased critical damage to all allies for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001310,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001311,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001318,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001319,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 76179005,
+    "description": "Restores own stun gauge.",
+    "popup_text": ""
+  },
+  {
+    "id": 76179006,
+    "description": "Reduces own damage received by 100% for 3 hits.",
+    "popup_text": ""
+  },
+  {
+    "id": 76179015,
+    "description": "After using a specific skill, removes own countdown buffs.",
+    "popup_text": ""
+  },
+  {
+    "id": 86179001,
+    "description": "When hit by a critical attack, reduces positive effect potency received by up to 50%.",
+    "popup_text": ""
+  },
+  {
+    "id": 86179002,
+    "description": "Reselects action when granted \"Damage Dealt Up (Chapter 17 Hunting Artificial Apexi_Flame)\".",
+    "popup_text": ""
+  },
+  {
+    "id": 86179003,
+    "description": "Grants SPD Up with 100% chance for 3 times.",
+    "popup_text": ""
+  },
+  {
+    "id": 86179004,
+    "description": "Reselects own turn order.",
+    "popup_text": ""
+  },
+  {
+    "id": 86179008,
+    "description": "Grants self 2 turns remaining (invisible).",
+    "popup_text": ""
+  },
+  {
+    "id": 86179009,
+    "description": "Grants self 1 turn remaining (invisible).",
+    "popup_text": ""
+  },
+  {
+    "id": 86179010,
+    "description": "Reselects action when granted 1 turn remaining (invisible).",
+    "popup_text": ""
+  },
+  {
+    "id": 86179011,
+    "description": "Removes own buffs when hit by a burst skill.",
+    "popup_text": ""
+  },
+  {
+    "id": 86179012,
+    "description": "Nullifies Remaining 1 Turn (Invisible) applied to self when hit by a burst skill.",
+    "popup_text": ""
+  },
+  {
+    "id": 86179013,
+    "description": "Nullifies Remaining 1 Turn (Invisible) being applied.",
+    "popup_text": ""
+  },
+  {
+    "id": 86179014,
+    "description": "When affected by Remaining 1 Turn (Invisible), redraws turn order upon being hit by a burst skill.",
+    "popup_text": ""
+  },
+  {
+    "id": 91001708,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001746,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001747,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000214,
+    "description": "While equipped to an Attacker with Air affinity, boosts critical damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000215,
+    "description": "Boosts M.ATK when tagged with Knight.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000216,
+    "description": "Boosts battle item damage for all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000217,
+    "description": "At the start of battle, boosts potency of positive effects granted for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000218,
+    "description": "At the start of battle, boosts potency of positive effects received for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000219,
+    "description": "At the start of battle, boosts critical rate for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000220,
+    "description": "At the start of battle, boosts skill damage when attacking a weakness for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000221,
+    "description": "At the start of battle, reduces damage received for 1 attack.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000222,
+    "description": "At the start of battle, reduces physical damage received for 1 attack.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000223,
+    "description": "At the start of battle, boosts skill damage for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000224,
+    "description": "At the start of battle, boosts HP recovery granted for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000225,
+    "description": "At the start of battle, boosts critical damage for 1 turn.",
+    "popup_text": ""
   }
 ]

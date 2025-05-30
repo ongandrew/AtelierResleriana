@@ -1987,5 +1987,94 @@
     "name": "Stab Division - LEGEND FES",
     "start_at": "2025-05-26T03:00:00Z",
     "step_up_loop_description": ""
+  },
+  {
+    "id": 2256,
+    "description": "Izana debuts & Pick UP!\nUntil 2025/06/14 11:59 (UTC+8)",
+    "end_at": "2025-06-14T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Great Lance Knight's Arrival - Izana LEGEND FES",
+    "name": "Great Lance Knight's Arrival - Izana LEGEND FES",
+    "start_at": "2025-05-30T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2257,
+    "description": "After 50 Wishes with Paid Lodestar Gems, an additional Wish banner will appear!\nUntil 2025/06/14 11:59 (UTC+8)",
+    "end_at": "2025-06-14T03:00:00Z",
+    "name": "Great Lance Knight's Arrival - Izana LEGEND FES [Paid Lodestar Gems Only]",
+    "start_at": "2025-05-30T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 3010,
+    "description": "Commemorative Memoria for the release of FumoColle merchandise!\nUntil 2025/06/14 11:59 (UTC+8)",
+    "end_at": "2025-06-14T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 30101,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 30102,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "FumoColle Merchandise Launch Commemoration Wish",
+    "name": "FumoColle Merchandise Launch Commemoration Wish",
+    "start_at": "2025-05-30T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 3011,
+    "description": "STEP 4 guarantees either Season 2 Resna or Valeria!\nFeatured until 2025/06/14 11:59 (UTC+8)\n*STEP 1-3 have no rate up.",
+    "end_at": "2025-06-14T03:00:00Z",
+    "name": "Season 2 Resna or Valeria Guarantee Wish",
+    "start_at": "2025-05-30T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 225701,
+    "description": "Limited to 5 times! 2x featured rate!\nGet 16 medals! Featured until 2025/06/14 11:59 (UTC+8)",
+    "end_at": "2025-06-14T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10005,
+            "description": "With bonus!\n{} times left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Your Great Lance Knight Arrives! Izana LEGEND FES [Paid Lodestar Gems Only]",
+    "name": "Your Great Lance Knight Arrives! Izana LEGEND FES [Paid Lodestar Gems Only]",
+    "start_at": "2025-05-30T03:00:00Z",
+    "step_up_loop_description": ""
   }
 ]

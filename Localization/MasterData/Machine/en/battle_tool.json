@@ -188,5 +188,15 @@
     "id": 283,
     "description": "Boosts all allies' Air skill damage by {0}% and Stab skill damage by {1}% for 2 turns.",
     "name": "Cosmic Energy"
+  },
+  {
+    "id": 284,
+    "description": "Restores 10% HP to all allies. After recovery, boosts all allies' critical damage by {0}% for 1 turn.",
+    "name": "Apple Tart"
+  },
+  {
+    "id": 285,
+    "description": "Restores 5% HP to all allies. After recovery, boosts all allies' critical damage by {0}% for 1 turn.",
+    "name": "Apple Tart"
   }
 ]

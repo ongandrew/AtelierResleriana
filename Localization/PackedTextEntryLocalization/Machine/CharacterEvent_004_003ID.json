@@ -1,0 +1,835 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "さて、ここではお前たちの持久力を見させてもらう！\n駆け足で山頂まで行って戻ってこい！",
+        "localizations": {
+          "en": "Now, I'm going to test your endurance! Run to the mountain peak and back!"
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "この酷暑の中をですか！？",
+        "localizations": {
+          "en": "In this scorching heat?!"
+        }
+      },
+      "2072370017": {
+        "text": "横柄な志願者",
+        "localizations": {
+          "en": "Arrogant Candidate"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "そうだ。敵は戦場を選んではくれない。\nどんな環境にも適応する必要がある",
+        "localizations": {
+          "en": "That's right. Enemies won't choose comfortable battlefields. You need to adapt to any environment."
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "限界を感じたら、信号弾を撃て。助けに行く。\nしかし、その時点で試験は失格と思え",
+        "localizations": {
+          "en": "If you reach your limit, fire a flare. I'll come help you. But consider yourself disqualified from the exam at that point."
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "では、行動開始だ！",
+        "localizations": {
+          "en": "Now, begin!"
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "ふう……ちょっと休憩。さすがに堪えるわね",
+        "localizations": {
+          "en": "Phew... I need a break. This is really taking a toll."
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "でも、もうそろそろ山頂だよ。\nあとは下るだけだから、なんとかなりそうだね",
+        "localizations": {
+          "en": "We're almost at the peak though! After that, it's all downhill, so we should be able to manage."
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "はあ、はあ……僕は、もうダメそうです……",
+        "localizations": {
+          "en": "Huff... huff... I don't think I can make it..."
+        }
+      },
+      "2072370017": {
+        "text": "臆病な志願者",
+        "localizations": {
+          "en": "Timid Candidate"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "えっ！？\u3000頑張ろうよ！\u3000ここまで来たんだから！",
+        "localizations": {
+          "en": "What?! Come on, you can do it! You've come this far!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "でも、のどもカラカラで……水筒の水も\nもうないんだ。だから……",
+        "localizations": {
+          "en": "But my throat is so dry... I've already run out of water. So..."
+        }
+      },
+      "2072370017": {
+        "text": "臆病な志願者",
+        "localizations": {
+          "en": "Timid Candidate"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "アタシのを飲んでいいよ",
+        "localizations": {
+          "en": "You can have mine!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "でもそうしたら、君の分が無くなってしまう。\n足手まといにはなりたくない",
+        "localizations": {
+          "en": "But then you'll have nothing left. I don't want to be a burden."
+        }
+      },
+      "2072370017": {
+        "text": "臆病な志願者",
+        "localizations": {
+          "en": "Timid Candidate"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "大丈夫！\u3000水筒もう一つ持ってきてるから！\n昨日火山に向かってるって話を聞いて用意してたんだ",
+        "localizations": {
+          "en": "It's fine! I brought an extra water bottle! When I heard we might be heading to a volcano yesterday, I came prepared."
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "……いいの？",
+        "localizations": {
+          "en": "...Are you sure?"
+        }
+      },
+      "2072370017": {
+        "text": "臆病な志願者",
+        "localizations": {
+          "en": "Timid Candidate"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "そもそも君が火山に向かってるって言わなきゃ\n用意しなかったものなんだからさ。遠慮しないで？",
+        "localizations": {
+          "en": "If you hadn't mentioned the volcano, I wouldn't have prepared at all. Don't worry about it!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "それにアタシたち、仲間でしょ？",
+        "localizations": {
+          "en": "Besides, we're teammates, right?"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "……ありがとう",
+        "localizations": {
+          "en": "...Thank you."
+        }
+      },
+      "2072370017": {
+        "text": "臆病な志願者",
+        "localizations": {
+          "en": "Timid Candidate"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "ほら、行こう！\u3000きっとみんな乗り越えられるよ！",
+        "localizations": {
+          "en": "Come on, let's go! I know we can all make it through this!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "うん！",
+        "localizations": {
+          "en": "Yes!"
+        }
+      },
+      "2072370017": {
+        "text": "臆病な志願者",
+        "localizations": {
+          "en": "Timid Candidate"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "次の試験内容は、ある魔物の追跡と記録だ。\n期間は３日間",
+        "localizations": {
+          "en": "Your next test is to track and document a specific monster. You have three days."
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "この、寒さの中をですか！？",
+        "localizations": {
+          "en": "In this freezing cold?!"
+        }
+      },
+      "2072370017": {
+        "text": "横柄な志願者",
+        "localizations": {
+          "en": "Arrogant Candidate"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "それをどう乗り切るかも試験のうちだ。\nさあ、行動開始！",
+        "localizations": {
+          "en": "Overcoming that is part of the exam. Now, begin!"
+        }
+      },
+      "2072370017": {
+        "text": "ユナ",
+        "localizations": {
+          "en": "Juna"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "３日間不眠不休とはな。火山での試験が終わって\nそのままここに来たばっかりだっていうのに",
+        "localizations": {
+          "en": "Three days without sleep? And we just finished the volcano test before coming straight here."
+        }
+      },
+      "2072370017": {
+        "text": "横柄な志願者",
+        "localizations": {
+          "en": "Arrogant Candidate"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "……分担しよう",
+        "localizations": {
+          "en": "...We should take shifts."
+        }
+      },
+      "2072370017": {
+        "text": "臆病な志願者",
+        "localizations": {
+          "en": "Timid Candidate"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "分担？",
+        "localizations": {
+          "en": "Shifts?"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "３日間をさらに昼夜にわけて６回の期間がある。\nそのそれぞれを担当する６つの班に分かれるんだ",
+        "localizations": {
+          "en": "Three days can be divided into six periods—day and night. We should form six teams, each responsible for one period."
+        }
+      },
+      "2072370017": {
+        "text": "臆病な志願者",
+        "localizations": {
+          "en": "Timid Candidate"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "追跡している班以外はしっかり休息をとる。\nこの後にどんな試験が待っているか分からないから",
+        "localizations": {
+          "en": "Everyone not actively tracking can get proper rest. We don't know what tests await us after this."
+        }
+      },
+      "2072370017": {
+        "text": "臆病な志願者",
+        "localizations": {
+          "en": "Timid Candidate"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "協力しちゃダメだなんて言われてない。\nううん、むしろ協力すべきなんだ",
+        "localizations": {
+          "en": "Nobody said we couldn't cooperate. In fact, I think we should."
+        }
+      },
+      "2072370017": {
+        "text": "臆病な志願者",
+        "localizations": {
+          "en": "Timid Candidate"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "僕らは仲間なんだから",
+        "localizations": {
+          "en": "Because we're teammates."
+        }
+      },
+      "2072370017": {
+        "text": "臆病な志願者",
+        "localizations": {
+          "en": "Timid Candidate"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "……うん、そうだね！\u3000よーし、\nみんなで同じハンマーで飯を食べよう！",
+        "localizations": {
+          "en": "...Yeah, you're right! Alright, let's all eat from the same pot!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "……なんか、お前変わったな",
+        "localizations": {
+          "en": "...You've changed."
+        }
+      },
+      "2072370017": {
+        "text": "横柄な志願者",
+        "localizations": {
+          "en": "Arrogant Candidate"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "次は……どこへ向かってるんだろう？",
+        "localizations": {
+          "en": "Where are we headed next, I wonder?"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "こっちの方向は……きっとベルク州の高地ね",
+        "localizations": {
+          "en": "This direction... we must be going to the highlands in Berg territory."
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "すごい、よく分かったね",
+        "localizations": {
+          "en": "Wow, how did you know that?"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "まあ、一度行った場所だし？\u3000天才の脳は\n記憶力が優れてるのよ",
+        "localizations": {
+          "en": "Well, I've been there before. Plus, my genius brain has an excellent memory."
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "それより……なんだか、人数が減ってない？",
+        "localizations": {
+          "en": "More importantly... doesn't it seem like our numbers have decreased?"
+        }
+      },
+      "2072370017": {
+        "text": "臆病な志願者",
+        "localizations": {
+          "en": "Timid Candidate"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "辞退者がいるんだとよ。試験がキツすぎて\nもう嫌なんだとさ",
+        "localizations": {
+          "en": "Some people dropped out. Said the tests were too brutal and they couldn't take it anymore."
+        }
+      },
+      "2072370017": {
+        "text": "横柄な志願者",
+        "localizations": {
+          "en": "Arrogant Candidate"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "そんな……ここまで頑張ってきたのに",
+        "localizations": {
+          "en": "That's terrible... after they worked so hard to get this far."
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "いいことじゃねえか。競争相手が減るしな。\nそれに……",
+        "localizations": {
+          "en": "It's a good thing. Fewer competitors. Besides..."
+        }
+      },
+      "2072370017": {
+        "text": "横柄な志願者",
+        "localizations": {
+          "en": "Arrogant Candidate"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "ここで逃げ出すような奴は、騎士になるべきじゃ\nねえんだ",
+        "localizations": {
+          "en": "Someone who runs away now has no business becoming a knight."
+        }
+      },
+      "2072370017": {
+        "text": "横柄な志願者",
+        "localizations": {
+          "en": "Arrogant Candidate"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "もう、暗いこと言わない！\nここまで来れただけでもすごいことなんだから！",
+        "localizations": {
+          "en": "Stop being so negative! Making it this far is already an achievement!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "ま、諦めないほうがいいんじゃない？\nこいつに馬鹿にされたくなかったらね",
+        "localizations": {
+          "en": "Well, better not give up if you don't want this guy looking down on you."
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "はは、言うじゃねえか。お前らは脱落すんなよな、\n張り合いのある奴がいねえとつまらねえ",
+        "localizations": {
+          "en": "Haha, you got that right. Don't drop out—it's no fun without worthy rivals."
+        }
+      },
+      "2072370017": {
+        "text": "横柄な志願者",
+        "localizations": {
+          "en": "Arrogant Candidate"
+        }
+      }
+    }
+  },
+  {
+    "id": 43,
+    "properties": {
+      "999008199": {
+        "text": "あんたこそ",
+        "localizations": {
+          "en": "Same goes for you."
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 44,
+    "properties": {
+      "999008199": {
+        "text": "（……最初は不安だったけど、なんだかみんなの\n\u3000雰囲気が変わってきている気がする）",
+        "localizations": {
+          "en": "(I was worried at first, but I think everyone's attitude is changing.)"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 45,
+    "properties": {
+      "999008199": {
+        "text": "（今の仲間たちとなら、きっとこの試験だって\n\u3000乗り越えられるよね！）",
+        "localizations": {
+          "en": "(With these teammates, I bet we can overcome this exam!)"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 46,
+    "properties": {
+      "999008199": {
+        "text": "僕は、まだ自分のことは信じきれない。\nだけどね",
+        "localizations": {
+          "en": "I still don't fully believe in myself. But..."
+        }
+      },
+      "2072370017": {
+        "text": "臆病な志願者",
+        "localizations": {
+          "en": "Timid Candidate"
+        }
+      }
+    }
+  },
+  {
+    "id": 47,
+    "properties": {
+      "999008199": {
+        "text": "僕を助けてくれる人の期待を裏切るわけには\nいかないんだ",
+        "localizations": {
+          "en": "I can't let down the people who helped me."
+        }
+      },
+      "2072370017": {
+        "text": "臆病な志願者",
+        "localizations": {
+          "en": "Timid Candidate"
+        }
+      }
+    }
+  },
+  {
+    "id": 48,
+    "properties": {
+      "999008199": {
+        "text": "フッ。面白え、乗った！\nお前ら、班に分かれるぞ！",
+        "localizations": {
+          "en": "Hmph. Interesting! I'm in! Let's split into teams!"
+        }
+      },
+      "2072370017": {
+        "text": "横柄な志願者",
+        "localizations": {
+          "en": "Arrogant Candidate"
+        }
+      }
+    }
+  }
+]

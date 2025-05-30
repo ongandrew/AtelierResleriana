@@ -4023,5 +4023,345 @@
     "id": 26236001,
     "description": "When HP falls below 50%, grants self Panel Immunity (2 times), Damage Dealt Up (20%/permanent), and SPD Up (15%/permanent)",
     "name": ""
+  },
+  {
+    "id": 301193,
+    "description": "While equipped to Izana [Knight's Beginning], boosts skill damage by {0}% and critical damage by {1}%",
+    "name": "Cat's Sieval"
+  },
+  {
+    "id": 301194,
+    "description": "While equipped to a character with Air affinity, when hit by an attack, grants M.ATK +{0}% for 1 turn (non-stackable)",
+    "name": "Fairy Dress"
+  },
+  {
+    "id": 301195,
+    "description": "While equipped to a character with Air affinity, when hit by an attack, grants M.ATK +{0}% for 1 turn (non-stackable)",
+    "name": "Fairy Dress"
+  },
+  {
+    "id": 301196,
+    "description": "While equipped to an Attacker with Air affinity, after using a skill, boosts damage when attacking a weakness by {0}% for 1 turn",
+    "name": "Fighter's Bangle"
+  },
+  {
+    "id": 301197,
+    "description": "While equipped to an Attacker with Air affinity, after using a skill, boosts damage when attacking a weakness by {0}% for 1 turn",
+    "name": "Fighter's Bangle"
+  },
+  {
+    "id": 1980194,
+    "description": "Characters with Air affinity gain skill damage and critical damage +{0}%",
+    "name": "Feel the Hammer's Wind!"
+  },
+  {
+    "id": 1990356,
+    "description": "At the start of turn 1, converts own panel to a burst panel (creates one if empty)",
+    "name": "Hammer of the Radiant Knight"
+  },
+  {
+    "id": 1990357,
+    "description": "When critical rate exceeds 100%, converts excess critical rate into skill power when attacking (up to 200%). When attacking a weakness, grants critical rate +{0}% (max: 200%)",
+    "name": "My Evolution Won't Stop!"
+  },
+  {
+    "id": 4990893,
+    "description": "While equipped to an Attacker with Air affinity, boosts critical damage by {0}%. While in 'Knight' state, boosts M.ATK by {1}%",
+    "name": "Determination \"As a Knight\""
+  },
+  {
+    "id": 4990894,
+    "description": "While equipped to an Attacker with Air affinity, boosts critical damage by {0}%. While in 'Knight' state, boosts M.ATK by {1}%",
+    "name": "Determination \"As a Knight\""
+  },
+  {
+    "id": 4990895,
+    "description": "While equipped to an Attacker with Air affinity, boosts critical damage by {0}%. While in 'Knight' state, boosts M.ATK by {1}%",
+    "name": "Determination \"As a Knight\""
+  },
+  {
+    "id": 4990896,
+    "description": "While equipped to an Attacker with Air affinity, boosts critical damage by {0}%. While in 'Knight' state, boosts M.ATK by {1}%",
+    "name": "Determination \"As a Knight\""
+  },
+  {
+    "id": 4990897,
+    "description": "While equipped to an Attacker with Air affinity, boosts critical damage by {0}%. While in 'Knight' state, boosts M.ATK by {1}%",
+    "name": "Determination \"As a Knight\""
+  },
+  {
+    "id": 4990898,
+    "description": "Boosts battle item damage by {0}% for all allies",
+    "name": "Item Damage Up All III"
+  },
+  {
+    "id": 4990899,
+    "description": "Boosts battle item damage by {0}% for all allies",
+    "name": "Item Damage Up All III"
+  },
+  {
+    "id": 4990900,
+    "description": "Boosts battle item damage by {0}% for all allies",
+    "name": "Item Damage Up All III"
+  },
+  {
+    "id": 4990901,
+    "description": "Boosts battle item damage by {0}% for all allies",
+    "name": "Item Damage Up All III"
+  },
+  {
+    "id": 4990902,
+    "description": "Boosts battle item damage by {0}% for all allies",
+    "name": "Item Damage Up All III"
+  },
+  {
+    "id": 4990903,
+    "description": "At the start of battle, boosts own buff effect potency by {0}% for 1 turn",
+    "name": "Battle Start Enhance Up III"
+  },
+  {
+    "id": 4990904,
+    "description": "At the start of battle, boosts own buff effect potency by {0}% for 1 turn",
+    "name": "Battle Start Enhance Up III"
+  },
+  {
+    "id": 4990905,
+    "description": "At the start of battle, boosts potency of buff effects by {0}% for 1 turn.",
+    "name": "Initial Enhance Up III"
+  },
+  {
+    "id": 4990906,
+    "description": "At the start of battle, boosts potency of buff effects by {0}% for 1 turn.",
+    "name": "Initial Enhance Up III"
+  },
+  {
+    "id": 4990907,
+    "description": "At the start of battle, boosts potency of buff effects by {0}% for 1 turn.",
+    "name": "Initial Enhance Up III"
+  },
+  {
+    "id": 4990908,
+    "description": "At the start of battle, boosts potency of buff effects received by {0}% for 1 turn.",
+    "name": "Initial Receive Enhance Up III"
+  },
+  {
+    "id": 4990909,
+    "description": "At the start of battle, boosts potency of buff effects received by {0}% for 1 turn.",
+    "name": "Initial Receive Enhance Up III"
+  },
+  {
+    "id": 4990910,
+    "description": "At the start of battle, boosts potency of buff effects received by {0}% for 1 turn.",
+    "name": "Initial Receive Enhance Up III"
+  },
+  {
+    "id": 4990911,
+    "description": "At the start of battle, boosts potency of buff effects received by {0}% for 1 turn.",
+    "name": "Initial Receive Enhance Up III"
+  },
+  {
+    "id": 4990912,
+    "description": "At the start of battle, boosts potency of buff effects received by {0}% for 1 turn.",
+    "name": "Initial Receive Enhance Up III"
+  },
+  {
+    "id": 4990913,
+    "description": "At the start of battle, boosts critical rate by {0}% for 1 turn.",
+    "name": "Initial Critical Up III"
+  },
+  {
+    "id": 4990914,
+    "description": "At the start of battle, boosts critical rate by {0}% for 1 turn.",
+    "name": "Initial Critical Up III"
+  },
+  {
+    "id": 4990915,
+    "description": "At the start of battle, boosts critical rate by {0}% for 1 turn.",
+    "name": "Initial Critical Up III"
+  },
+  {
+    "id": 4990916,
+    "description": "At the start of battle, boosts critical rate by {0}% for 1 turn.",
+    "name": "Initial Critical Up III"
+  },
+  {
+    "id": 4990917,
+    "description": "At the start of battle, boosts critical rate by {0}% for 1 turn.",
+    "name": "Initial Critical Up III"
+  },
+  {
+    "id": 4990918,
+    "description": "At the start of battle, boosts skill damage by {0}% when attacking a weakness for 1 turn.",
+    "name": "Initial Weakness Damage Up III"
+  },
+  {
+    "id": 4990919,
+    "description": "At the start of battle, boosts skill damage by {0}% when attacking a weakness for 1 turn.",
+    "name": "Initial Weakness Damage Up III"
+  },
+  {
+    "id": 4990920,
+    "description": "At the start of battle, boosts skill damage by {0}% when attacking a weakness for 1 turn.",
+    "name": "Initial Weakness Damage Up III"
+  },
+  {
+    "id": 4990921,
+    "description": "At the start of battle, boosts skill damage by {0}% when attacking a weakness for 1 turn.",
+    "name": "Initial Weakness Damage Up III"
+  },
+  {
+    "id": 4990922,
+    "description": "At the start of battle, boosts skill damage by {0}% when attacking a weakness for 1 turn.",
+    "name": "Initial Weakness Damage Up III"
+  },
+  {
+    "id": 4990923,
+    "description": "At the start of battle, reduces damage received by {0}% for 1 attack.",
+    "name": "Initial Guard Up III"
+  },
+  {
+    "id": 4990924,
+    "description": "At the start of battle, reduces damage received by {0}% for 1 attack.",
+    "name": "Initial Guard Up III"
+  },
+  {
+    "id": 4990925,
+    "description": "At the start of battle, reduces own damage received by {0}% until hit by 1 attack",
+    "name": "Guard Up at Battle Start III"
+  },
+  {
+    "id": 4990926,
+    "description": "At the start of battle, reduces own damage received by {0}% until hit by 1 attack",
+    "name": "Guard Up at Battle Start III"
+  },
+  {
+    "id": 4990927,
+    "description": "At the start of battle, reduces own damage received by {0}% until hit by 1 attack",
+    "name": "Guard Up at Battle Start III"
+  },
+  {
+    "id": 4990928,
+    "description": "At the start of battle, reduces own physical damage received by {0}% until hit by 1 attack",
+    "name": "Physical Guard Up at Battle Start III"
+  },
+  {
+    "id": 4990929,
+    "description": "At the start of battle, reduces own physical damage received by {0}% until hit by 1 attack",
+    "name": "Physical Guard Up at Battle Start III"
+  },
+  {
+    "id": 4990930,
+    "description": "At the start of battle, reduces own physical damage received by {0}% until hit by 1 attack",
+    "name": "Physical Guard Up at Battle Start III"
+  },
+  {
+    "id": 4990931,
+    "description": "At the start of battle, reduces own physical damage received by {0}% until hit by 1 attack",
+    "name": "Physical Guard Up at Battle Start III"
+  },
+  {
+    "id": 4990932,
+    "description": "At the start of battle, reduces own physical damage received by {0}% until hit by 1 attack",
+    "name": "Physical Guard Up at Battle Start III"
+  },
+  {
+    "id": 4990933,
+    "description": "At the start of battle, boosts own skill damage by {0}% for 1 turn",
+    "name": "Damage Up at Battle Start III"
+  },
+  {
+    "id": 4990934,
+    "description": "At the start of battle, boosts own skill damage by {0}% for 1 turn",
+    "name": "Damage Up at Battle Start III"
+  },
+  {
+    "id": 4990935,
+    "description": "At the start of battle, boosts own skill damage by {0}% for 1 turn",
+    "name": "Damage Up at Battle Start III"
+  },
+  {
+    "id": 4990936,
+    "description": "At the start of battle, boosts own skill damage by {0}% for 1 turn",
+    "name": "Damage Up at Battle Start III"
+  },
+  {
+    "id": 4990937,
+    "description": "At the start of battle, boosts own skill damage by {0}% for 1 turn",
+    "name": "Damage Up at Battle Start III"
+  },
+  {
+    "id": 4990938,
+    "description": "At the start of battle, boosts HP recovery given by {0}% for 1 turn",
+    "name": "Heal Up at Battle Start III"
+  },
+  {
+    "id": 4990939,
+    "description": "At the start of battle, boosts HP recovery given by {0}% for 1 turn",
+    "name": "Heal Up at Battle Start III"
+  },
+  {
+    "id": 4990940,
+    "description": "At the start of battle, boosts HP recovery given by {0}% for 1 turn",
+    "name": "Heal Up at Battle Start III"
+  },
+  {
+    "id": 4990941,
+    "description": "At the start of battle, boosts HP recovery given by {0}% for 1 turn",
+    "name": "Heal Up at Battle Start III"
+  },
+  {
+    "id": 4990942,
+    "description": "At the start of battle, boosts HP recovery given by {0}% for 1 turn",
+    "name": "Heal Up at Battle Start III"
+  },
+  {
+    "id": 4990943,
+    "description": "At the start of battle, boosts own critical damage by {0}% for 1 turn",
+    "name": "Critical Damage Up at Battle Start III"
+  },
+  {
+    "id": 4990944,
+    "description": "At the start of battle, boosts own critical damage by {0}% for 1 turn",
+    "name": "Critical Damage Up at Battle Start III"
+  },
+  {
+    "id": 4990945,
+    "description": "At the start of battle, boosts own critical damage by {0}% for 1 turn",
+    "name": "Battle Start Critical Damage Up III"
+  },
+  {
+    "id": 4990946,
+    "description": "At the start of battle, boosts own critical damage by {0}% for 1 turn",
+    "name": "Battle Start Critical Damage Up III"
+  },
+  {
+    "id": 4990947,
+    "description": "At the start of battle, boosts own critical damage by {0}% for 1 turn",
+    "name": "Battle Start Critical Damage Up III"
+  },
+  {
+    "id": 26179001,
+    "description": "When hit by a critical attack, reduces own buff potency (Stacks up to 50%, 5% per stack)",
+    "name": ""
+  },
+  {
+    "id": 26179002,
+    "description": "When granted Damage Up (Ch. 17 Man-made Apexi - Flame), reroll action. When stunned, removes all positive effects from self and rerolls action.",
+    "name": ""
+  },
+  {
+    "id": 26179003,
+    "description": "When HP falls below 30%, once only, grants self SPD Up (15%/3 times) and rerolls action",
+    "name": ""
+  },
+  {
+    "id": 26179004,
+    "description": "After acting, grants self a countdown buff (invisible). When granted 2 or more countdown buffs, rerolls action.",
+    "name": ""
+  },
+  {
+    "id": 26179005,
+    "description": "When hit by a burst skill, removes and nullifies own 1 Turn Remaining (Knight Training Invisible) buff. When hit by a burst skill while having 1 Turn Remaining (Knight Training Invisible), rerolls action.",
+    "name": ""
   }
 ]

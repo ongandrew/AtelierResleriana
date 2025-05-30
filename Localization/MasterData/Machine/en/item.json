@@ -1221,5 +1221,74 @@
     "description": "A ticket that allows you to make a wish in the Stab Festival LEGEND FES.",
     "end_at": "2025-06-09T03:00:00Z",
     "name": "Stab Festival Wish Ticket No.2"
+  },
+  {
+    "id": 1020,
+    "description": "Points needed to obtain Mission Pass rewards.",
+    "end_at": "2025-07-01T03:00:00Z",
+    "name": "Mission Pass Points",
+    "start_at": "2025-06-01T03:00:00Z"
+  },
+  {
+    "id": 1021,
+    "description": "A delicious cookie kneaded with chocolate.\nCan be used to restore stamina.\nNote: Since it doesn't keep well, please consume upon summoning.",
+    "end_at": "2025-09-01T03:00:00Z",
+    "name": "Chocolate Cookie"
+  },
+  {
+    "id": 1022,
+    "description": "Fragments of mana that once rained down from a comet.\nCan be used to restore mana.\nNote: The glow is weak and seems to be fading, so use it soon.",
+    "end_at": "2025-09-01T03:00:00Z",
+    "name": "Mana Fragment"
+  },
+  {
+    "id": 1023,
+    "description": "A ticket that can be used to perform one Wish on the \"Knight of the Great Lance: Izana LEGEND FES.\"",
+    "end_at": "2025-06-14T03:00:00Z",
+    "name": "Knight of the Great Lance: Izana Wish Ticket"
+  },
+  {
+    "id": 1025,
+    "description": "A special medal with an engraved design.\nCan be used at the Medal Exchange.",
+    "name": "Fumocollection Medal",
+    "start_at": "2025-05-30T03:00:00Z"
+  },
+  {
+    "id": 1026,
+    "description": "A ticket that can be used to perform one Wish on the Fumocollection Goods Launch Celebration Wish.",
+    "end_at": "2025-06-14T03:00:00Z",
+    "name": "Fumocollection Goods Launch Celebration Wish Ticket"
+  },
+  {
+    "id": 1027,
+    "description": "Material needed for synthesis.",
+    "name": "Bundle of Salary",
+    "start_at": "2025-05-30T03:00:00Z"
+  },
+  {
+    "id": 1028,
+    "description": "Material needed for synthesis.",
+    "name": "Quincariberlicky",
+    "start_at": "2025-05-30T03:00:00Z"
+  },
+  {
+    "id": 1029,
+    "description": "An item that can be used at the \"Testing the Awakening Bell\" Exchange.",
+    "end_at": "2025-06-14T03:00:00Z",
+    "name": "Battle Coin [Testing the Awakening Bell]"
+  },
+  {
+    "id": 1030,
+    "description": "Points needed to obtain Event Mission Pass rewards.",
+    "end_at": "2025-06-13T03:00:00Z",
+    "name": "Event Mission Pass Points",
+    "start_at": "2025-05-30T03:00:00Z"
+  },
+  {
+    "id": 1034,
+    "description": "Points required to obtain Mission Pass rewards for Star Prayer Stone.",
+    "end_at": "2025-06-13T03:00:00Z",
+    "name": "Mission Pass Points [Star Prayer Stone]",
+    "start_at": "2025-05-30T03:00:00Z"
   }
 ]

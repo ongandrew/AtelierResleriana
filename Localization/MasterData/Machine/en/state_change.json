@@ -1763,5 +1763,50 @@
     "id": 800143,
     "description": "At the start of turn, restores own HP by {value}%. (Cannot be stacked)",
     "name": "Regeneration"
+  },
+  {
+    "id": 510146,
+    "description": "Boosts critical rate by {value}%. (MAX 200%)",
+    "name": "My Evolution Won't Stop!"
+  },
+  {
+    "id": 510150,
+    "description": "Dummy buff for judgment",
+    "name": "Dummy Buff (Judgment)"
+  },
+  {
+    "id": 610255,
+    "description": "Boosts M.ATK by {value}%. (MAX 50%)",
+    "name": "M.ATK Up"
+  },
+  {
+    "id": 800144,
+    "description": "Boosts M.ATK by {value}%. (Cannot be stacked)",
+    "name": "M.ATK Up"
+  },
+  {
+    "id": 800145,
+    "description": "Boosts M.ATK by {value}%. (Cannot be stacked)",
+    "name": "M.ATK Up"
+  },
+  {
+    "id": 820393,
+    "description": "Reduces potency of positive effects received by {value}%. (MAX 50%) Cannot be removed.",
+    "name": "Positive Effect Potency Down"
+  },
+  {
+    "id": 850394,
+    "description": "Nullifies granting of Remaining 1 Turn (Invisible).",
+    "name": "Nullify Countdown Buff"
+  },
+  {
+    "id": 850395,
+    "description": "Boosts damage dealt by {value}%.",
+    "name": "Remaining 1 Turn"
+  },
+  {
+    "id": 910167,
+    "description": "Boosts potency of positive effects granted by {value}%.",
+    "name": "Granted Positive Effect Potency Up"
   }
 ]

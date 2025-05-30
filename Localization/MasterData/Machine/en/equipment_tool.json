@@ -793,5 +793,30 @@
     "id": 1106,
     "description": "While equipped to a character with Stab affinity, when obtaining a boost-type panel, grants the ally with the highest P.ATK skill damage +{0}% for 1 turn. (Non-stackable). While equipped to a Supporter, boosts all allies' HP recovery amount by {1}%.",
     "name": "Mighty Chain"
+  },
+  {
+    "id": 1108,
+    "description": "While equipped to Izana [Knight's Beginning], boosts skill damage by {0}% and critical damage by {1}%.",
+    "name": "Katzsiebel"
+  },
+  {
+    "id": 1109,
+    "description": "While equipped to a character with Air affinity, when taking damage, boosts own M. ATK by {0}% for 1 turn. (Cannot be stacked)",
+    "name": "Fairy Dress"
+  },
+  {
+    "id": 1110,
+    "description": "While equipped to a character with Air affinity, when taking damage, boosts own M. ATK by {0}% for 1 turn. (Cannot be stacked)",
+    "name": "Fairy Dress"
+  },
+  {
+    "id": 1111,
+    "description": "While equipped to an Attacker with Air affinity, after using a skill, boosts own damage by {0}% when attacking a weakness for 1 turn.",
+    "name": "Warrior's Bangle"
+  },
+  {
+    "id": 1112,
+    "description": "While equipped to an Attacker with Air affinity, after using a skill, boosts own damage by {0}% when attacking a weakness for 1 turn.",
+    "name": "Warrior's Bangle"
   }
 ]

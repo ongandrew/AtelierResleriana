@@ -178,5 +178,10 @@
     "id": 6501,
     "description": "Select a character from the candidates and vote for them.\nVoting tickets can be synthesized. Check the recipe in \"Synthesize Voting Tickets.\"",
     "name": "Voting"
+  },
+  {
+    "id": 608,
+    "description": "You can check the party compositions other users used to clear quests. Clear party information is not displayed for certain quests like the Roman Grand Battle Tournament and Legend Challenge.",
+    "name": "Clear Party"
   }
 ]

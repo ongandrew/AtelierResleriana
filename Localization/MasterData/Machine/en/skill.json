@@ -13942,5 +13942,215 @@
     "description": "After attacking, reduces damage received by 20% for all allies for 1 turn",
     "name": "Tail Slash",
     "summary": ""
+  },
+  {
+    "id": 32131,
+    "description": "Recovers 10% HP for all allies<br>After recovery, boosts critical damage by {0}% for all allies for 1 turn.",
+    "name": "Apple Tart",
+    "summary": ""
+  },
+  {
+    "id": 32132,
+    "description": "Recovers 5% HP for all allies<br>After recovery, boosts critical damage by {0}% for all allies for 1 turn.",
+    "name": "Apple Tart",
+    "summary": ""
+  },
+  {
+    "id": 11002802,
+    "description": "Before attacking, reduces target's Air resistance by {0}% for 1 attack<br>After attacking, boosts own M.ATK by {1}% (MAX 50%).",
+    "name": "Accolade Stamp",
+    "summary": "Before attack, reduces target's Air resistance<br>After attack, boosts own M.ATK"
+  },
+  {
+    "id": 11002803,
+    "description": "Before attacking, reduces target's Air resistance by {0}% for 1 attack<br>After attacking, boosts own M.ATK by {1}% (MAX 50%).",
+    "name": "Accolade Stamp",
+    "summary": "Before attack, reduces target's Air resistance<br>After attack, boosts own M.ATK"
+  },
+  {
+    "id": 11002804,
+    "description": "Before attacking, reduces target's Air resistance by {0}% for 1 attack<br>After attacking, boosts own M.ATK by {1}% (MAX 50%).",
+    "name": "Accolade Stamp",
+    "summary": "Before attack, reduces target's Air resistance<br>After attack, boosts own M.ATK"
+  },
+  {
+    "id": 11002805,
+    "description": "Before attacking, reduces target's Air resistance by {0}% for 1 attack<br>After attacking, boosts own M.ATK by {1}% (MAX 50%).",
+    "name": "Accolade Stamp",
+    "summary": "Before attack, reduces target's Air resistance<br>After attack, boosts own M.ATK"
+  },
+  {
+    "id": 11002806,
+    "description": "Before attacking, reduces target's Air resistance by {0}% for 1 attack<br>After attacking, boosts own M.ATK by {1}% (MAX 50%).",
+    "name": "Accolade Stamp",
+    "summary": "Before attack, reduces target's Air resistance<br>After attack, boosts own M.ATK"
+  },
+  {
+    "id": 12002807,
+    "description": "Boosts this attack's critical rate by 100% and critical damage by {0}%<br>When landing a critical hit, boosts own M.ATK by {1}% for 2 turns<br>After attacking, boosts own skill damage by {2}% for 2 turns.",
+    "name": "Sibal Lee Knock",
+    "summary": "Boosts this attack's critical rate and critical damage<br>When landing a critical hit, boosts own M.ATK<br>After attack, boosts own skill damage"
+  },
+  {
+    "id": 12002808,
+    "description": "Boosts this attack's critical rate by 100% and critical damage by {0}%<br>When landing a critical hit, boosts own M.ATK by {1}% for 2 turns<br>After attacking, boosts own skill damage by {2}% for 2 turns.",
+    "name": "Sibal Lee Knock",
+    "summary": "Boosts this attack's critical rate and critical damage<br>When landing a critical hit, boosts own M.ATK<br>After attack, boosts own skill damage"
+  },
+  {
+    "id": 12002809,
+    "description": "Boosts this attack's critical rate by 100% and critical damage by {0}%<br>When landing a critical hit, boosts own M.ATK by {1}% for 2 turns<br>After attacking, boosts own skill damage by {2}% for 2 turns.",
+    "name": "Sibal Lee Knock",
+    "summary": "Boosts this attack's critical rate and critical damage<br>When landing a critical hit, boosts own M.ATK<br>After attack, boosts own skill damage"
+  },
+  {
+    "id": 12002810,
+    "description": "Boosts this attack's critical rate by 100% and critical damage by {0}%<br>When landing a critical hit, boosts own M.ATK by {1}% for 2 turns<br>After attacking, boosts own skill damage by {2}% for 2 turns.",
+    "name": "Sibal Lee Knock",
+    "summary": "Boosts this attack's critical rate and critical damage<br>When landing a critical hit, boosts own M.ATK<br>After attack, boosts own skill damage"
+  },
+  {
+    "id": 12002811,
+    "description": "Boosts this attack's critical rate by 100% and critical damage by {0}%<br>When landing a critical hit, boosts own M.ATK by {1}% for 2 turns<br>After attacking, boosts own skill damage by {2}% for 2 turns.",
+    "name": "Sibal Lee Knock",
+    "summary": "Boosts this attack's critical rate and critical damage<br>When landing a critical hit, boosts own M.ATK<br>After attack, boosts own skill damage"
+  },
+  {
+    "id": 14002812,
+    "description": "Boosts this attack's critical rate by 100% and critical damage by {0}%<br>When landing a critical hit, boosts own M.ATK by {1}% for 1 turn<br>After attacking, has a very high chance to inflict Daze on target until their next action and boosts own skill damage by {2}% for 2 turns.",
+    "name": "Pulverize Impact",
+    "summary": "Boosts this attack's critical rate and critical damage<br>When landing a critical hit, boosts own M.ATK<br>After attack, has a very high chance to inflict Daze on target<br>Boosts own skill damage"
+  },
+  {
+    "id": 14002813,
+    "description": "Boosts this attack's critical rate by 100% and critical damage by {0}%<br>When landing a critical hit, boosts own M.ATK by {1}% for 1 turn<br>After attacking, has a very high chance to inflict Daze on target until their next action and boosts own skill damage by {2}% for 2 turns.",
+    "name": "Pulverize Impact",
+    "summary": "Boosts this attack's critical rate and critical damage<br>When landing a critical hit, boosts own M.ATK<br>After attack, has a very high chance to inflict Daze on target<br>Boosts own skill damage"
+  },
+  {
+    "id": 14002814,
+    "description": "Boosts this attack's critical rate by 100% and critical damage by {0}%<br>When landing a critical hit, boosts own M.ATK by {1}% for 1 turn<br>After attacking, has a very high chance to inflict Daze on target until their next action and boosts own skill damage by {2}% for 2 turns.",
+    "name": "Pulverize Impact",
+    "summary": "Boosts this attack's critical rate and critical damage<br>When landing a critical hit, boosts own M.ATK<br>After attack, has a very high chance to inflict Daze on target<br>Boosts own skill damage"
+  },
+  {
+    "id": 14002815,
+    "description": "Boosts this attack's critical rate by 100% and critical damage by {0}%<br>When landing a critical hit, boosts own M.ATK by {1}% for 1 turn<br>After attacking, has a very high chance to inflict Daze on target until their next action and boosts own skill damage by {2}% for 2 turns.",
+    "name": "Pulverize Impact",
+    "summary": "Boosts this attack's critical rate and critical damage<br>When landing a critical hit, boosts own M.ATK<br>After attack, has a very high chance to inflict Daze on target<br>Boosts own skill damage"
+  },
+  {
+    "id": 14002816,
+    "description": "Boosts this attack's critical rate by 100% and critical damage by {0}%<br>When landing a critical hit, boosts own M.ATK by {1}% for 1 turn<br>After attacking, has a very high chance to inflict Daze on target until their next action and boosts own skill damage by {2}% for 2 turns.",
+    "name": "Pulverize Impact",
+    "summary": "Boosts this attack's critical rate and critical damage<br>When landing a critical hit, boosts own M.ATK<br>After attack, has a very high chance to inflict Daze on target<br>Boosts own skill damage"
+  },
+  {
+    "id": 32002424,
+    "description": "After attacking, converts the skill target's panel into a weaken+ panel.",
+    "name": "Violent Strike",
+    "summary": ""
+  },
+  {
+    "id": 32002425,
+    "description": "After attacking, converts own next panel into a boost panel.",
+    "name": "Fist Strike",
+    "summary": ""
+  },
+  {
+    "id": 32002426,
+    "description": "No effect.",
+    "name": "Violent Strike",
+    "summary": ""
+  },
+  {
+    "id": 32002427,
+    "description": "After attacking, reduces target's damage dealt by 20% and increases damage received by 20% for 3 turns.",
+    "name": "Wild Wind Fist",
+    "summary": ""
+  },
+  {
+    "id": 32002428,
+    "description": "After attacking, reduces target's HP recovery by 10% for 3 turns.",
+    "name": "Double Tempest",
+    "summary": ""
+  },
+  {
+    "id": 32002429,
+    "description": "Advances target's turn by 3.",
+    "name": "Vitality Command",
+    "summary": ""
+  },
+  {
+    "id": 32002430,
+    "description": "After attacking, increases target's damage received by 20% for 3 turns.",
+    "name": "Painful Point",
+    "summary": ""
+  },
+  {
+    "id": 32002431,
+    "description": "After attacking, reduces target's damage dealt by 20% for 3 turns and critical rate by 20% for 1 turn.",
+    "name": "Cold Release",
+    "summary": ""
+  },
+  {
+    "id": 32002432,
+    "description": "Advances target's turn by 3.",
+    "name": "Vitality Point",
+    "summary": ""
+  },
+  {
+    "id": 32002433,
+    "description": "After attacking, applies field effect (10% slip damage/5 turn enemy counter).\nThen removes all buffs from self and reselects action.",
+    "name": "Disastrous Karma",
+    "summary": ""
+  },
+  {
+    "id": 32002434,
+    "description": "After attacking, inflicts Burn (70% chance/unlimited duration) on target.",
+    "name": "Spitfire",
+    "summary": ""
+  },
+  {
+    "id": 32002435,
+    "description": "Increases target's damage received by 15% for 3 turns and converts empty panels above to burn panels.",
+    "name": "Great Spitfire",
+    "summary": ""
+  },
+  {
+    "id": 32002436,
+    "description": "After attacking, reduces target's SPD by 20% and increases damage received by 15% for 3 turns.",
+    "name": "Earth Split",
+    "summary": ""
+  },
+  {
+    "id": 32002437,
+    "description": "No effects.",
+    "name": "Fur Strike",
+    "summary": ""
+  },
+  {
+    "id": 32002438,
+    "description": "Consumes 5% of own HP, then boosts own damage dealt by 20% and SPD by 7% for 3 turns.",
+    "name": "Roar",
+    "summary": ""
+  },
+  {
+    "id": 32002439,
+    "description": "Recovers 10% HP, then restores 50% of own stun gauge and grants damage received reduction by 99% for 3 turns and 100% chance to boost damage dealt for 1 turn.",
+    "name": "Regeneration",
+    "summary": ""
+  },
+  {
+    "id": 32002440,
+    "description": "After attacking, applies field effect (10% slip damage/5 turn enemy counter).",
+    "name": "Disastrous Karma",
+    "summary": ""
+  },
+  {
+    "id": 32002441,
+    "description": "After attacking, applies field effect (10% slip damage/5 turn enemy counter).\nRemoves all buffs from target.",
+    "name": "Disastrous Karma",
+    "summary": ""
   }
 ]

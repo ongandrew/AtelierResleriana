@@ -1346,5 +1346,13 @@
   {
     "id": 60239001,
     "description": "- When HP reaches a certain level, grants self panel immunity, boosts damage dealt, and boosts SPD\n- Grants self 5 random element resistances\n- Creates Burn panels"
+  },
+  {
+    "id": 60179002,
+    "description": "- When hit by a critical attack, reduces potency of positive effects received by self\n- Has a chance to inflict Burn\n- Restores own HP and stun gauge\n- After using Burst Skill, applies field effect\n- After stun gauge recovery, enters an enhanced state and uses a powerful attack\n- When stunned, removes enhanced state\n- Uses a powerful attack when HP reaches a certain threshold (MAX 1 time)\n- If not hit by a Burst Skill within 3 turns, uses a powerful attack that removes all positive effects from opponents"
+  },
+  {
+    "id": 60193006,
+    "description": "- Advances allies' turns"
   }
 ]

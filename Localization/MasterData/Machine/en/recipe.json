@@ -1278,5 +1278,38 @@
     ],
     "start_at": "2025-05-30T03:00:00Z",
     "tracking_id": "af_synthesis_recipe_721"
+  },
+  {
+    "id": 731,
+    "name": "Fugi=Muni",
+    "requirements": [
+      {
+        "name": "Awaken Johanna [Phenom's Reborn] to ★5"
+      }
+    ],
+    "start_at": "2025-06-06T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_722"
+  },
+  {
+    "id": 732,
+    "name": "Shadow to Shadow",
+    "requirements": [
+      {
+        "name": "Clear Knight's Combat Trial 1"
+      }
+    ],
+    "start_at": "2025-06-06T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_723"
+  },
+  {
+    "id": 733,
+    "name": "Darkest Night Scarf",
+    "requirements": [
+      {
+        "name": "Clear Knight's Combat Trial 2"
+      }
+    ],
+    "start_at": "2025-06-06T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_724"
   }
 ]

@@ -1,0 +1,733 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "――それで、ランターナ王国とノーヴァ神聖国が\n友好関係を結んでくれたおかげで、海路も繋がった",
+        "localizations": {
+          "en": "Thanks to the friendship established between the Lantarna Kingdom and the sacred lands of Nova, the sea routes have been connected once again."
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "物資補給の目途も立ったし、\n他の島に向かう準備も整ってきたね",
+        "localizations": {
+          "en": "We've secured our supply routes, so we're almost ready to head to the other islands too."
+        }
+      },
+      "2072370017": {
+        "text": "ソフィー",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "私としてはこのまま\n果ての大陸を見つける旅を続けたいのですが……",
+        "localizations": {
+          "en": "Personally, I'd like to continue our journey to find World's End, but..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "アルビーナはどう？\u3000考えはまとまった？",
+        "localizations": {
+          "en": "What about you, Alvina? Have you made up your mind?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "……実は神官長からこの前の集会で言われたんすよ。\n島の外に行って、錬金術で人助けしてこいって",
+        "localizations": {
+          "en": "Actually, the High Priest announced at the last assembly that I should go out beyond the island and help people with alchemy."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "師匠たちが、手を回したんだね",
+        "localizations": {
+          "en": "Miss Saskia and the others must have pulled some strings."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "うん、師匠はレスナについていけって言ってたし",
+        "localizations": {
+          "en": "Yeah, Master did tell me to accompany you."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "……アルビーナ自身は、どうしたいの？",
+        "localizations": {
+          "en": "What do you want to do, Alvina?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "行きたい。教えとやらに縛られてこの島で暮らすより、\nそのほうがずっと楽しそうだから",
+        "localizations": {
+          "en": "I'm onboard with it. Living on this island bound by so-called teachings sounds way less fun than joining you all."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "アタシも錬金術士として、果ての大陸を目指す！",
+        "localizations": {
+          "en": "As an alchemist, I'm setting my sights on World's End too!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "って言っても、航海の心得もないし、ひとまずは\nレスナたちの船に乗せてもらえればなーと……",
+        "localizations": {
+          "en": "Though I don't know the first thing about seafaring, so I was hoping I could hitch a ride on your ship for now..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "ふふっ、もちろん！\n改めてよろしくね！\u3000アルビーナ！",
+        "localizations": {
+          "en": "Hehe, of course! It's great to have you with us, Alvina!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "よろしく、レスナ！\u3000みんな！",
+        "localizations": {
+          "en": "Looking forward to it!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "心強い仲間が増えたね！",
+        "localizations": {
+          "en": "It's great to have another reliable ally joining us!"
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "あ……そうだ。本題に入る前に、私からもいい？\nこの間、私のところにイェルカたちが来たのよ",
+        "localizations": {
+          "en": "Oh... right. Before we get to the main topic, can I say something? Jelka and the others came to see me the other day."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "えっ！？\u3000変なことされなかった？",
+        "localizations": {
+          "en": "What?! They didn't do anything to you, did they?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "せいぜい頭を撫でられたくらいよ。\nただ、ちょっと気になる話をされてね",
+        "localizations": {
+          "en": "Aside from patting me, not really. But they mentioned something that's been bothering me."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "九偉人の正体が、パルメ族が創ったホムンクルス……",
+        "localizations": {
+          "en": "To think that the Nine Great Ones were homunculi created by the Palme..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "それって確か、レスナが言ってた果ての大陸の\n伝承に出てきたヤツだよね？",
+        "localizations": {
+          "en": "Weren't those the heroes from the legend of World's End that you mentioned before, Resna?"
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "はい。星に降りかかる災厄を祓い、世界を救った英雄。\n最後は果ての大陸で眠りについた……と伝わっています",
+        "localizations": {
+          "en": "Yes. The legend says they were heroes who repelled a calamity falling from the stars and saved the world. They're said to have gone to sleep in World's End afterward."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "え、じゃあヴァレリアさんたちは\n果ての大陸からやって来たってこと！？",
+        "localizations": {
+          "en": "Wait, so does that mean Valeria and the others came from World's End?!"
+        }
+      },
+      "2072370017": {
+        "text": "ソフィー",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "伝承が事実と同じかは分かりません。でも、あの人たち\nから手掛かりを得られる可能性は高いと思います",
+        "localizations": {
+          "en": "I don't know if the legend matches reality. But I think there's a good chance we can get some clues from them."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "あいつら、嘘はついてなかった……と思う。\nとはいえ、具体的なことは思い出せないけど……",
+        "localizations": {
+          "en": "I think they were telling the truth... but I can't remember any specifics."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "気にしないで。それより……この先もあの人たちと\n戦うことになるかもしれないけど、大丈夫？",
+        "localizations": {
+          "en": "Don't worry about it. More importantly... we might end up fighting with them again. Will you be okay with that?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "ああ、それは平気。兄弟だろうが、邪魔をするなら\nぶっ飛ばすつもりだから。兄弟ゲンカ上等！",
+        "localizations": {
+          "en": "Yeah, I'm fine with it. Whether they're my siblings or not, if they get in our way, I'll knock them flying. Sibling rivalry is nothing new!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "あはは、頼もしいね！\nそれで、早速だけど、まずはどこから行く？",
+        "localizations": {
+          "en": "Haha, that's reassuring! So, where should we head first?"
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "とにもかくにも、必要なのはまず情報です",
+        "localizations": {
+          "en": "Above all, what we need is information."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "この国で調べられることは調べ尽くしましたが……\nまだまだ分からないことだらけですから",
+        "localizations": {
+          "en": "We've exhausted what we can learn in this country, but there's still so much we don't know."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "果ての大陸はもちろんですが、無数島群域の島々に\nついても、もっとよく知る必要があります",
+        "localizations": {
+          "en": "We need to learn more not just about World's End, but also about the islands in the Infinite Island Chain."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "あの～……前から気になってたんだけど、その\n「無数島群域」って何？\u3000いやなんとなくは分かるけど",
+        "localizations": {
+          "en": "Um... I've been wondering for a while, but what exactly is this Infinite Island Chain? I mean, I sort of get it, but..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "この周辺の海域のことだよ。数えきれないくらい島が\nあるから、無数島群域。大陸から見た呼び方だけどね",
+        "localizations": {
+          "en": "It refers to the waters around here. There are countless islands, hence Infinite Island Chain. That's what they call it from the mainland."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "やっぱりそうだったんだ。\nなんかワクワクする響きでかっこいいかも……",
+        "localizations": {
+          "en": "I thought as much. It has such an exciting ring to it, almost cool..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "現地の人たちはどう呼んでるの？",
+        "localizations": {
+          "en": "What do the locals call it?"
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "ひとまとめにこれ！\u3000って呼び方はないかなあ。\n交流がある島以外は普段意識もしないし",
+        "localizations": {
+          "en": "I don't think we have a collective name for all of them. We usually only think about the islands we regularly interact with."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "１０００以上の島があるって話だもんね。\n一つ一つ回ってたらキリがなさそうだなあ……",
+        "localizations": {
+          "en": "They say there are over a thousand islands. We'd never finish if we tried to visit them all..."
+        }
+      },
+      "2072370017": {
+        "text": "ソフィー",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "アルビーナ、何かおすすめの島とか知ってる？",
+        "localizations": {
+          "en": "Alvina, any islands you'd recommend?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "ん～……\nそれなら、ここから北にある「カロストン」とか？",
+        "localizations": {
+          "en": "Hmm... How about Karolston to the north of here?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "あっ、私本で読んだよ！\u3000確か諸島同盟に加入している\n島の１つで、学問が盛んなんだよね",
+        "localizations": {
+          "en": "Oh, I read about that! It's one of the islands in the Archipelago Federation, known for its scholarship, right?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "そうそう！\u3000この島にもよく、\nきゃぴきゃぴの学生さんたちが旅行で来るんだよねえ",
+        "localizations": {
+          "en": "That's right! We often get lively students from there visiting our island on trips."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "聞いた話によると、おお～きな図書館があって、\nそこに他の島から集められた本がズラリと……",
+        "localizations": {
+          "en": "I've heard they have a huuuge library filled with books collected from other islands..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "図書館！\u3000なんとも魅力的な響き……",
+        "localizations": {
+          "en": "A library! What an enticing prospect..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "情報収集にはうってつけだね",
+        "localizations": {
+          "en": "And perfect for gathering information!"
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "では、最初の目的地はノーヴァ神聖国より北、\n学問の島カロストンに決まりです！",
+        "localizations": {
+          "en": "Then it's settled! Our first destination will be Karolston, the island of scholarship north of the sacred lands of Nova!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  }
+]

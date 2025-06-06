@@ -14152,5 +14152,425 @@
     "description": "After attacking, applies field effect (10% slip damage/5 turn enemy counter).\nRemoves all buffs from target.",
     "name": "Disastrous Karma",
     "summary": ""
+  },
+  {
+    "id": 11002817,
+    "description": "Before attacking, reduces target's Ice resistance by {0}% for 2 attacks.\nAfter attacking, increases target's magical damage received by {1}%. (MAX 30%)",
+    "name": "True Moon Shadow",
+    "summary": "Before attacking, reduces target's Ice resistance.\nAfter attacking, increases target's magical damage received."
+  },
+  {
+    "id": 11002818,
+    "description": "Before attacking, reduces target's Ice resistance by {0}% for 2 attacks.\nAfter attacking, increases target's magical damage received by {1}%. (MAX 30%)",
+    "name": "True Moon Shadow",
+    "summary": "Before attacking, reduces target's Ice resistance.\nAfter attacking, increases target's magical damage received."
+  },
+  {
+    "id": 11002819,
+    "description": "Before attacking, reduces target's Ice resistance by {0}% for 2 attacks.\nAfter attacking, increases target's magical damage received by {1}%. (MAX 30%)",
+    "name": "True Moon Shadow",
+    "summary": "Before attacking, reduces target's Ice resistance.\nAfter attacking, increases target's magical damage received."
+  },
+  {
+    "id": 11002820,
+    "description": "Before attacking, reduces target's Ice resistance by {0}% for 2 attacks.\nAfter attacking, increases target's magical damage received by {1}%. (MAX 30%)",
+    "name": "True Moon Shadow",
+    "summary": "Before attacking, reduces target's Ice resistance.\nAfter attacking, increases target's magical damage received."
+  },
+  {
+    "id": 11002821,
+    "description": "Before attacking, reduces target's Ice resistance by {0}% for 2 attacks.\nAfter attacking, increases target's magical damage received by {1}%. (MAX 30%)",
+    "name": "True Moon Shadow",
+    "summary": "Before attacking, reduces target's Ice resistance.\nAfter attacking, increases target's magical damage received."
+  },
+  {
+    "id": 12002822,
+    "description": "Boosts critical damage by {0}% for this attack.\nBefore attacking, reduces target's Ice resistance by {1}% for 2 attacks.\nAfter attacking, boosts skill damage by {2}% for 2 turns.\nWhen landing a critical hit, creates an extra turn (Extra Skill: {hyperlink_id 144}) 2 turns later (MAX 5 times).",
+    "name": "Lightning Slash",
+    "summary": "Boosts critical damage for this attack.\nBefore attacking, reduces target's Ice resistance.\nAfter attacking, boosts skill damage.\nWhen landing a critical hit, creates an extra turn."
+  },
+  {
+    "id": 12002823,
+    "description": "Boosts critical damage by {0}% for this attack.\nBefore attacking, reduces target's Ice resistance by {1}% for 2 attacks.\nAfter attacking, boosts skill damage by {2}% for 2 turns.\nWhen landing a critical hit, creates an extra turn (Extra Skill: {hyperlink_id 145}) 2 turns later (MAX 5 times).",
+    "name": "Lightning Slash",
+    "summary": "Boosts critical damage for this attack.\nBefore attacking, reduces target's Ice resistance.\nAfter attacking, boosts skill damage.\nWhen landing a critical hit, creates an extra turn."
+  },
+  {
+    "id": 12002824,
+    "description": "Boosts critical damage by {0}% for this attack.\nBefore attacking, reduces target's Ice resistance by {1}% for 2 attacks.\nAfter attacking, boosts skill damage by {2}% for 2 turns.\nWhen landing a critical hit, creates an extra turn (Extra Skill: {hyperlink_id 146}) 2 turns later (MAX 5 times).",
+    "name": "Lightning Slash",
+    "summary": "Boosts critical damage for this attack.\nBefore attacking, reduces target's Ice resistance.\nAfter attacking, boosts skill damage.\nWhen landing a critical hit, creates an extra turn."
+  },
+  {
+    "id": 12002825,
+    "description": "Boosts critical damage by {0}% for this attack.\nBefore attacking, reduces target's Ice resistance by {1}% for 2 attacks.\nAfter attacking, boosts skill damage by {2}% for 2 turns.\nWhen landing a critical hit, creates an extra turn (Extra Skill: {hyperlink_id 147}) 2 turns later (MAX 5 times).",
+    "name": "Lightning Slash",
+    "summary": "Boosts critical damage for this attack.\nBefore attacking, reduces target's Ice resistance.\nAfter attacking, boosts skill damage.\nWhen landing a critical hit, creates an extra turn."
+  },
+  {
+    "id": 12002826,
+    "description": "Boosts critical damage by {0}% for this attack.\nBefore attacking, reduces target's Ice resistance by {1}% for 2 attacks.\nAfter attacking, boosts skill damage by {2}% for 2 turns.\nWhen landing a critical hit, creates an extra turn (Extra Skill: {hyperlink_id 148}) 2 turns later (MAX 5 times).",
+    "name": "Lightning Slash",
+    "summary": "Boosts critical damage for this attack.\nBefore attacking, reduces target's Ice resistance.\nAfter attacking, boosts skill damage.\nWhen landing a critical hit, creates an extra turn."
+  },
+  {
+    "id": 14002827,
+    "description": "Boosts critical damage by {0}% for this attack.\nBefore attacking, reduces target's Ice resistance by {1}% for 3 attacks.\nAfter attacking, boosts M.ATK by {2}% for 1 turn.",
+    "name": "Dawn Flash Dance",
+    "summary": "Boosts critical damage for this attack.\nBefore attacking, reduces target's Ice resistance.\nAfter attacking, boosts own M.ATK."
+  },
+  {
+    "id": 14002828,
+    "description": "Boosts critical damage by {0}% for this attack.\nBefore attacking, reduces target's Ice resistance by {1}% for 3 attacks.\nAfter attacking, boosts M.ATK by {2}% for 1 turn.",
+    "name": "Dawn Flash Dance",
+    "summary": "Boosts critical damage for this attack.\nBefore attacking, reduces target's Ice resistance.\nAfter attacking, boosts own M.ATK."
+  },
+  {
+    "id": 14002829,
+    "description": "Boosts critical damage by {0}% for this attack.\nBefore attacking, reduces target's Ice resistance by {1}% for 3 attacks.\nAfter attacking, boosts M.ATK by {2}% for 1 turn.",
+    "name": "Dawn Flash Dance",
+    "summary": "Boosts critical damage for this attack.\nBefore attacking, reduces target's Ice resistance.\nAfter attacking, boosts own M.ATK."
+  },
+  {
+    "id": 14002830,
+    "description": "Boosts critical damage by {0}% for this attack.\nBefore attacking, reduces target's Ice resistance by {1}% for 3 attacks.\nAfter attacking, boosts M.ATK by {2}% for 1 turn.",
+    "name": "Dawn Flash Dance",
+    "summary": "Boosts critical damage for this attack.\nBefore attacking, reduces target's Ice resistance.\nAfter attacking, boosts own M.ATK."
+  },
+  {
+    "id": 14002831,
+    "description": "Boosts critical damage by {0}% for this attack.\nBefore attacking, reduces target's Ice resistance by {1}% for 3 attacks.\nAfter attacking, boosts M.ATK by {2}% for 1 turn.",
+    "name": "Dawn Flash Dance",
+    "summary": "Boosts critical damage for this attack.\nBefore attacking, reduces target's Ice resistance.\nAfter attacking, boosts own M.ATK."
+  },
+  {
+    "id": 14002888,
+    "description": "Boosts damage by {0}%.\nAfter attacking, boosts M.ATK by {1}% for 2 turns.",
+    "name": "Dark Moon Shadow",
+    "summary": "Boosts damage.\nAfter attacking, boosts own M.ATK."
+  },
+  {
+    "id": 14002889,
+    "description": "Boosts damage by {0}%.\nAfter attacking, boosts M.ATK by {1}% for 2 turns.",
+    "name": "Dark Moon Shadow",
+    "summary": "Boosts damage.\nAfter attacking, boosts own M.ATK."
+  },
+  {
+    "id": 14002890,
+    "description": "Boosts damage by {0}%.\nAfter attacking, boosts M.ATK by {1}% for 2 turns.",
+    "name": "Dark Moon Shadow",
+    "summary": "Boosts damage.\nAfter attacking, boosts own M.ATK."
+  },
+  {
+    "id": 14002891,
+    "description": "Boosts damage by {0}%.\nAfter attacking, boosts M.ATK by {1}% for 2 turns.",
+    "name": "Dark Moon Shadow",
+    "summary": "Boosts damage.\nAfter attacking, boosts own M.ATK."
+  },
+  {
+    "id": 14002892,
+    "description": "Boosts damage by {0}%.\nAfter attacking, boosts M.ATK by {1}% for 2 turns.",
+    "name": "Dark Moon Shadow",
+    "summary": "Boosts damage.\nAfter attacking, boosts own M.ATK."
+  },
+  {
+    "id": 22001746,
+    "description": "After attacking, reduces all enemies' damage dealt by 25% (2 times) and stun damage dealt by 25% (2 times)",
+    "name": "Needle Blast",
+    "summary": ""
+  },
+  {
+    "id": 22001747,
+    "description": "No effect",
+    "name": "Turtle Head",
+    "summary": ""
+  },
+  {
+    "id": 22001748,
+    "description": "After attacking, reduces target's stun damage dealt by 20% (2 times)",
+    "name": "Thunder Bite",
+    "summary": ""
+  },
+  {
+    "id": 22001749,
+    "description": "After attacking, reduces all enemies' damage dealt by 20% (2 times)",
+    "name": "Thunder Breath",
+    "summary": ""
+  },
+  {
+    "id": 22001750,
+    "description": "No effect",
+    "name": "Spin Needle",
+    "summary": ""
+  },
+  {
+    "id": 22001751,
+    "description": "Reduces all enemies' critical damage by 25% (2 times)",
+    "name": "Dark Breath",
+    "summary": ""
+  },
+  {
+    "id": 22001752,
+    "description": "Reduces all allies' stun damage received by 25% (2 times)",
+    "name": "Shell Field",
+    "summary": ""
+  },
+  {
+    "id": 22001753,
+    "description": "After attacking, converts all enemies' panels into empty panels",
+    "name": "Mill Storm",
+    "summary": ""
+  },
+  {
+    "id": 22001754,
+    "description": "No effect",
+    "name": "Tail Rush",
+    "summary": ""
+  },
+  {
+    "id": 22001755,
+    "description": "After attacking, converts target's panel into a weaken panel",
+    "name": "Wind Ball",
+    "summary": ""
+  },
+  {
+    "id": 22001756,
+    "description": "After attacking, reduces all enemies' SPD by 15% (1 time)",
+    "name": "Blood Storm",
+    "summary": ""
+  },
+  {
+    "id": 22001757,
+    "description": "Recovers all allies' HP by 15% and boosts panel boost effect potency by 25% (2 times)",
+    "name": "Taiko's Cry",
+    "summary": ""
+  },
+  {
+    "id": 32002442,
+    "description": "Before attacking, grants self damage dealt +20% (2 times), critical rate +50% (2 times), and damage received -10% (2 times)",
+    "name": "Rock Shower",
+    "summary": ""
+  },
+  {
+    "id": 32002443,
+    "description": "After attacking, boosts own damage dealt by 25% (2 times)",
+    "name": "Iron Block Throw",
+    "summary": ""
+  },
+  {
+    "id": 32002444,
+    "description": "No effect",
+    "name": "Power Fist",
+    "summary": ""
+  },
+  {
+    "id": 32002445,
+    "description": "Before attacking, boosts own critical rate by 20% (2 times)",
+    "name": "Ice Throw",
+    "summary": ""
+  },
+  {
+    "id": 32002446,
+    "description": "No effect",
+    "name": "Ice Rain",
+    "summary": ""
+  },
+  {
+    "id": 32002447,
+    "description": "After attacking, reduces target's SPD by 20% (2 times) and Bolt resistance by 30% (2 times)",
+    "name": "Shutdown",
+    "summary": ""
+  },
+  {
+    "id": 32002448,
+    "description": "After attacking, inflicts Paralysis on target (50% chance, 2 times)",
+    "name": "Lightning Axe",
+    "summary": ""
+  },
+  {
+    "id": 32002449,
+    "description": "After attacking, delays target's turn by 3 turns",
+    "name": "Gigantic Soul",
+    "summary": ""
+  },
+  {
+    "id": 32002450,
+    "description": "After attacking, boosts own damage by 15% for 2 hits and reduces damage received by 30% for 5 hits.",
+    "name": "Megaton Shock",
+    "summary": ""
+  },
+  {
+    "id": 32002451,
+    "description": "After attacking, reduces target's damage dealt by 40% for 3 hits.",
+    "name": "Primal Stroke",
+    "summary": ""
+  },
+  {
+    "id": 32002452,
+    "description": "Restores target's HP by 30%.",
+    "name": "Healing Gathering",
+    "summary": ""
+  },
+  {
+    "id": 32002453,
+    "description": "Restores target's HP by 15%, then restores target's stun gauge by 15%.",
+    "name": "Support",
+    "summary": ""
+  },
+  {
+    "id": 32002454,
+    "description": "Restores target's HP by 20%.",
+    "name": "Support",
+    "summary": ""
+  },
+  {
+    "id": 32002455,
+    "description": "No additional effects.",
+    "name": "Reckless",
+    "summary": ""
+  },
+  {
+    "id": 32002457,
+    "description": "No additional effects.",
+    "name": "Dragon Spiral Dance",
+    "summary": ""
+  },
+  {
+    "id": 32002458,
+    "description": "After attacking, boosts damage dealt by all allies by 30% for 3 hits and reduces damage received by 30% for 3 hits.",
+    "name": "Stage On Ice",
+    "summary": ""
+  },
+  {
+    "id": 32002459,
+    "description": "Reduces target's damage received by 25% for 3 hits.",
+    "name": "Guardian Dance",
+    "summary": ""
+  },
+  {
+    "id": 32002460,
+    "description": "Reduces target's damage dealt by 40% for 3 hits and stun damage dealt by 40% for 3 hits.",
+    "name": "Dangerous Snow",
+    "summary": ""
+  },
+  {
+    "id": 32002461,
+    "description": "Restores HP by 10%, then restores target's stun gauge by 30%.",
+    "name": "Support",
+    "summary": ""
+  },
+  {
+    "id": 32002534,
+    "description": "After attacking, creates 15 weaken panels.",
+    "name": "Thunder Ground Excavation",
+    "summary": ""
+  },
+  {
+    "id": 32002535,
+    "description": "After attacking, creates a weaken panel above the target.",
+    "name": "Thunder Tail",
+    "summary": ""
+  },
+  {
+    "id": 32002536,
+    "description": "No additional effects.",
+    "name": "Thunder Wheel",
+    "summary": ""
+  },
+  {
+    "id": 32002537,
+    "description": "No additional effects.",
+    "name": "Stomp",
+    "summary": ""
+  },
+  {
+    "id": 32002538,
+    "description": "After attacking, increases target's damage received by 25% for 2 hits.",
+    "name": "Heaven and Earth Return",
+    "summary": ""
+  },
+  {
+    "id": 32002539,
+    "description": "After attacking, reduces target's damage dealt by 45% for 5 hits.",
+    "name": "Flash Tail",
+    "summary": ""
+  },
+  {
+    "id": 32002540,
+    "description": "After attacking, boosts damage dealt by all allies by 30% for 3 hits and reduces damage received by 30% for 3 hits.",
+    "name": "Stage On Ice",
+    "summary": ""
+  },
+  {
+    "id": 32002541,
+    "description": "Reduces damage received by all allies by 25% for 3 hits.",
+    "name": "Guardian Dance",
+    "summary": ""
+  },
+  {
+    "id": 32002542,
+    "description": "Reduces damage dealt by all enemies by 50% for 3 hits and stun damage dealt by 50% for 3 hits.",
+    "name": "Dangerous Snow",
+    "summary": ""
+  },
+  {
+    "id": 32002543,
+    "description": "After attacking, increases target's damage received by 30% for 2 attacks.",
+    "name": "Ground Bind",
+    "summary": ""
+  },
+  {
+    "id": 32002544,
+    "description": "After attacking, grants target 5 stacks of Poison for 5 turns.",
+    "name": "Disease Finger",
+    "summary": ""
+  },
+  {
+    "id": 32002545,
+    "description": "No effects",
+    "name": "Cold Blooming",
+    "summary": ""
+  },
+  {
+    "id": 32002546,
+    "description": "After attacking, removes target's positive effects.",
+    "name": "Cold Release",
+    "summary": ""
+  },
+  {
+    "id": 32002547,
+    "description": "Boosts all allies' skill damage by 20% for 1 attack and reduces damage received by 25% for 2 attacks.",
+    "name": "Blessing Light Flower",
+    "summary": ""
+  },
+  {
+    "id": 32002548,
+    "description": "After attacking, restores own stun gauge by 20%.",
+    "name": "Energetic Spinning Punch",
+    "summary": ""
+  },
+  {
+    "id": 32002549,
+    "description": "After attacking, reduces target's damage dealt by 40% for 4 attacks.",
+    "name": "Spinning Punch",
+    "summary": ""
+  },
+  {
+    "id": 32002550,
+    "description": "After attacking, reduces target's stun damage dealt by 40% for 4 attacks.",
+    "name": "Dark Storm",
+    "summary": ""
+  },
+  {
+    "id": 32002551,
+    "description": "Grants Cover to self for 3 activations.",
+    "name": "Stand By",
+    "summary": ""
+  },
+  {
+    "id": 32002552,
+    "description": "Reduces damage received by all allies by 40% for 2 attacks.",
+    "name": "Energy Powder",
+    "summary": ""
   }
 ]

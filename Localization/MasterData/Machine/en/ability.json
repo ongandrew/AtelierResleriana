@@ -4363,5 +4363,85 @@
     "id": 26179005,
     "description": "When hit by a burst skill, removes and nullifies own 1 Turn Remaining (Knight Training Invisible) buff. When hit by a burst skill while having 1 Turn Remaining (Knight Training Invisible), rerolls action.",
     "name": ""
+  },
+  {
+    "id": 301198,
+    "description": "While equipped to Johanna [Phenom's Reborn], before skill activation, grants Damage Received +{0}% to target until end of action (max 3 stacks).",
+    "name": "Fugi=Muni"
+  },
+  {
+    "id": 301199,
+    "description": "While equipped to an Attacker with Ice affinity, after attacking, grants M.ATK +{0}% to self for 2 turns.",
+    "name": "Shadow to Shadow"
+  },
+  {
+    "id": 301200,
+    "description": "While equipped to an Attacker with Ice affinity, after attacking, grants M.ATK +{0}% to self for 2 turns.",
+    "name": "Shadow to Shadow"
+  },
+  {
+    "id": 301201,
+    "description": "While equipped to an Attacker with Ice affinity, after a critical hit, grants Skill Damage +{0}% to self (max 60%).",
+    "name": "Midnight Scarf"
+  },
+  {
+    "id": 301202,
+    "description": "While equipped to an Attacker with Ice affinity, after a critical hit, grants Skill Damage +{0}% to self (max 40%).",
+    "name": "Midnight Scarf"
+  },
+  {
+    "id": 1980196,
+    "description": "Characters with Ice affinity receive Burst Skill Damage +{0}%.",
+    "name": "Tremble in Anticipation!"
+  },
+  {
+    "id": 1990360,
+    "description": "After using a skill, grants M.ATK +{0}% (max 100%) and Skill Damage +{1}% (max 100%) to self.",
+    "name": "The Prodigy's New Power"
+  },
+  {
+    "id": 1990361,
+    "description": "When attacking a target with damage received up from True Moon Shadow, Lightning Slash, or Dark Moon Shadow, grants Critical Rate +{0}% (max 100%)<br>When attacking a weakness, grants Burst Skill Damage +{1}% to self (max 60%).",
+    "name": "Let Me Show You How It's Done!"
+  },
+  {
+    "id": 4990948,
+    "description": "While equipped to an Attacker with Ice affinity, after attacking, grants Skill Damage +{0}% to self for 3 turns.<br>While equipped to a Spirited character, after attacking, grants Critical Damage +{1}% to self for 3 turns.",
+    "name": "Imaginative Power \"Soaring Into the World\""
+  },
+  {
+    "id": 4990949,
+    "description": "While equipped to an Attacker with Ice affinity, after attacking, grants Skill Damage +{0}% to self for 3 turns.<br>While equipped to a Spirited character, after attacking, grants Critical Damage +{1}% to self for 3 turns.",
+    "name": "Imaginative Power \"Soaring Into the World\""
+  },
+  {
+    "id": 4990950,
+    "description": "While equipped to an Attacker with Ice affinity, after attacking, grants Skill Damage +{0}% to self for 3 turns.<br>While equipped to a Spirited character, after attacking, grants Critical Damage +{1}% to self for 3 turns.",
+    "name": "Imaginative Power \"Soaring Into the World\""
+  },
+  {
+    "id": 4990951,
+    "description": "While equipped to an Attacker with Ice affinity, after attacking, grants Skill Damage +{0}% to self for 3 turns.<br>While equipped to a Spirited character, after attacking, grants Critical Damage +{1}% to self for 3 turns.",
+    "name": "Imaginative Power \"Soaring Into the World\""
+  },
+  {
+    "id": 4990952,
+    "description": "While equipped to an Attacker with Ice affinity, after attacking, grants Skill Damage +{0}% to self for 3 turns.<br>While equipped to a Spirited character, after attacking, grants Critical Damage +{1}% to self for 3 turns.",
+    "name": "Imaginative Power \"Soaring Into the World\""
+  },
+  {
+    "id": 26038005,
+    "description": "Each time a weakness attack is countered, grants increased damage received to self.",
+    "name": ""
+  },
+  {
+    "id": 26072001,
+    "description": "When stunned, removes all positive effects from self.",
+    "name": ""
+  },
+  {
+    "id": 26160000,
+    "description": "At the start of wave, grants increased damage dealt to enemies without Ice affinity by 1000% to self.",
+    "name": ""
   }
 ]

@@ -1808,5 +1808,60 @@
     "id": 910167,
     "description": "Boosts potency of positive effects granted by {value}%.",
     "name": "Granted Positive Effect Potency Up"
+  },
+  {
+    "id": 510151,
+    "description": "Boosts M.ATK by {value}%. (MAX 100%)",
+    "name": "Genius's New Power"
+  },
+  {
+    "id": 510152,
+    "description": "Boosts skill damage by {value}%. (MAX 100%)",
+    "name": "Genius's New Power"
+  },
+  {
+    "id": 510153,
+    "description": "Boosts critical rate by {value}%. (MAX 100%)",
+    "name": "Let Me Show You How It's Done!"
+  },
+  {
+    "id": 510154,
+    "description": "Boosts burst skill damage by {value}%. (MAX 60%)",
+    "name": "Let Me Show You How It's Done!"
+  },
+  {
+    "id": 610261,
+    "description": "Boosts magical skill damage received by {value}%. (MAX 30%)",
+    "name": "Magic Damage Received Up"
+  },
+  {
+    "id": 610262,
+    "description": "Invisible buff used for activation limit settings.",
+    "name": "Dummy Buff for Limit Settings"
+  },
+  {
+    "id": 800146,
+    "description": "Boosts skill damage by {value}%. (MAX 60%)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 800147,
+    "description": "Boosts skill damage by {value}%. (MAX 40%)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 800149,
+    "description": "Boosts damage received by {value}%. (MAX 3 stacks)",
+    "name": "Received Damage Up"
+  },
+  {
+    "id": 810129,
+    "description": "Boosts damage dealt by {value}% against enemies without Ice affinity. Cannot be removed.",
+    "name": "Conditional Dealt Damage Up"
+  },
+  {
+    "id": 820396,
+    "description": "Boosts damage dealt by {value}%. (MAX 1000%)",
+    "name": "Received Damage Up"
   }
 ]

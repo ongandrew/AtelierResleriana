@@ -460,5 +460,38 @@
     ],
     "end_at": "2025-06-13T03:00:00Z",
     "start_at": "2025-05-30T03:00:00Z"
+  },
+  {
+    "id": 61,
+    "bonuses": [
+      {
+        "name": "",
+        "warning_text": ""
+      }
+    ],
+    "end_at": "2025-06-20T03:00:00Z",
+    "start_at": "2025-06-06T03:00:00Z"
+  },
+  {
+    "id": 62,
+    "bonuses": [
+      {
+        "name": "Event Box Wish Ticket Bonus",
+        "warning_text": "The Event Box Wish Ticket [Knight Combat Trial] bonus is limited to a maximum of +10 tickets for the entire party."
+      }
+    ],
+    "end_at": "2025-06-20T03:00:00Z",
+    "start_at": "2025-06-06T03:00:00Z"
+  },
+  {
+    "id": 63,
+    "bonuses": [
+      {
+        "name": "Event Box Wish Ticket Bonus",
+        "warning_text": "The Event Box Wish Ticket [Knight Combat Trial] bonus is limited to a maximum of +10 tickets for the entire party."
+      }
+    ],
+    "end_at": "2025-06-20T03:00:00Z",
+    "start_at": "2025-06-06T03:00:00Z"
   }
 ]

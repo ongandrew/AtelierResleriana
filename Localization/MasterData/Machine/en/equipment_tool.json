@@ -818,5 +818,30 @@
     "id": 1112,
     "description": "While equipped to an Attacker with Air affinity, after using a skill, boosts own damage by {0}% when attacking a weakness for 1 turn.",
     "name": "Warrior's Bangle"
+  },
+  {
+    "id": 1113,
+    "description": "While equipped to Johanna [Phenom's Reborn], before using a skill, increases target's damage received by {0}% for 1 turn. (MAX 3 stacks)",
+    "name": "Fugi=Muni"
+  },
+  {
+    "id": 1114,
+    "description": "While equipped to an Attacker with Ice affinity, after attacking, boosts own M. ATK by {0}% for 2 turns.",
+    "name": "Shadow to Shadow"
+  },
+  {
+    "id": 1115,
+    "description": "While equipped to an Attacker with Ice affinity, after attacking, boosts own M. ATK by {0}% for 2 turns.",
+    "name": "Shadow to Shadow"
+  },
+  {
+    "id": 1116,
+    "description": "While equipped to an Attacker with Ice affinity, after landing a critical hit, boosts own skill damage by {0}%. (MAX 60%)",
+    "name": "Dusk Scarf"
+  },
+  {
+    "id": 1117,
+    "description": "While equipped to an Attacker with Ice affinity, after landing a critical hit, boosts own skill damage by {0}%. (MAX 40%)",
+    "name": "Dusk Scarf"
   }
 ]

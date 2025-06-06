@@ -5963,5 +5963,105 @@
     "id": 95000225,
     "description": "At the start of battle, boosts critical damage for 1 turn.",
     "popup_text": ""
+  },
+  {
+    "id": 6001074,
+    "description": "When using Johanna [Phenom's Reborn], before skill activation, grants target \"Damage Received Up\" for 1 turn (MAX 3 stacks).",
+    "popup_text": ""
+  },
+  {
+    "id": 6001075,
+    "description": "While equipped to an Attacker with Ice affinity, after attacking, grants self \"M.ATK Up\" for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001076,
+    "description": "While equipped to an Attacker with Ice affinity, after a critical hit, grants self \"Skill Damage Up\" (MAX 60%).",
+    "popup_text": ""
+  },
+  {
+    "id": 6001077,
+    "description": "While equipped to an Attacker with Ice affinity, after a critical hit, grants self \"Skill Damage Up\" (MAX 40%).",
+    "popup_text": ""
+  },
+  {
+    "id": 72001320,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001321,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001322,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001323,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001324,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 86038002,
+    "description": "Grants self damage received up (MAX 1000%).",
+    "popup_text": ""
+  },
+  {
+    "id": 86160000,
+    "description": "Grants self increased damage dealt against targets without Ice affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 91001754,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001755,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001756,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001757,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001758,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001759,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001760,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000226,
+    "description": "While equipped to an Attacker with Ice affinity, after attacking, grants self \"Skill Damage Up\" for 3 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000227,
+    "description": "When using Spirited character, after attacking, grants self \"Critical Damage Up\" for 3 turns.",
+    "popup_text": ""
   }
 ]

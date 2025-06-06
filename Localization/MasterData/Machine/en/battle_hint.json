@@ -1354,5 +1354,45 @@
   {
     "id": 60193006,
     "description": "- Advances allies' turns"
+  },
+  {
+    "id": 60038005,
+    "description": "- When recovering from stun, grants multiple positive effects\n- Grants Regen\n- Inflicts Paralysis\n- Delays turn\n- Each time hit by a weakness attack, increases own damage received"
+  },
+  {
+    "id": 60063013,
+    "description": "- Inflicts Poison\n- Removes all positive effects from enemies"
+  },
+  {
+    "id": 60063015,
+    "description": "- Inflicts Poison\n- Removes all positive effects from enemies\n- At battle start, boosts own damage dealt to opponents without Air affinity"
+  },
+  {
+    "id": 60105008,
+    "description": "- When 2 or more positive effects are granted to self, converts weaken panels to boost panels before turn start"
+  },
+  {
+    "id": 60119020,
+    "description": "- Creates boost panels when hit by critical attacks\n- Reduces opponents' damage dealt and stun damage dealt"
+  },
+  {
+    "id": 60119022,
+    "description": "- Creates boost panels when hit by critical attacks\n- Reduces opponents' damage dealt and stun damage dealt\n- At battle start, boosts own damage dealt to opponents without Air affinity"
+  },
+  {
+    "id": 60122020,
+    "description": "- When stunned, converts boost-type panels to burst panels\n- Protection\n- Restores own stun gauge"
+  },
+  {
+    "id": 60122022,
+    "description": "- When stunned, converts boost-type panels to burst panels\n- Protection\n- Restores own stun gauge\n- At battle start, boosts own damage dealt to opponents without Air affinity"
+  },
+  {
+    "id": 60160001,
+    "description": "- After being hit by a critical attack, increases own damage received\n- While stunned, increases own critical rate received\n- Converts opponents' panels to weaken panels\n- Creates weaken+ panels"
+  },
+  {
+    "id": 60160003,
+    "description": "- After being hit by a critical attack, increases own damage received\n- While stunned, increases own critical rate received\n- Converts opponents' panels to weaken panels\n- Creates weaken+ panels\n- At battle start, boosts own damage dealt to opponents without Air affinity"
   }
 ]

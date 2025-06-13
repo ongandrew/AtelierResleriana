@@ -95,7 +95,8 @@ namespace AtelierResleriana.Plugin.Localization
                 Harmony.Patch(AccessTools.Method(typeof(CharaRarityUpWindow), nameof(CharaRarityUpWindow.NICCOKABDGM)),
                     prefix: new HarmonyMethod(typeof(Plugin), nameof(CharaRarityUpWindowNICCOKABDGMPrefix)));
 
-                Harmony.Patch(AccessTools.Method(typeof(GachaResultCharacter), nameof(GachaResultCharacter.SetDefault)),
+                // Gacha character pickup acquisition text.
+                Harmony.Patch(AccessTools.Method(typeof(GachaResultCharacter), nameof(GachaResultCharacter.SetDefault), new Type[] { typeof(AGAJFINGPKJ), typeof(bool), typeof(FAJCHCEDBPM) }),
                     prefix: new HarmonyMethod(typeof(Plugin), nameof(GachaResultCharacterSetDefaultPrefix)));
 
                 // Synthesis item material window description.

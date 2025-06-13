@@ -95,6 +95,9 @@ namespace AtelierResleriana.Plugin.Localization
                 Harmony.Patch(AccessTools.Method(typeof(CharaRarityUpWindow), nameof(CharaRarityUpWindow.NICCOKABDGM)),
                     prefix: new HarmonyMethod(typeof(Plugin), nameof(CharaRarityUpWindowNICCOKABDGMPrefix)));
 
+                Harmony.Patch(AccessTools.Method(typeof(GachaResultCharacter), nameof(GachaResultCharacter.SetDefault)),
+                    prefix: new HarmonyMethod(typeof(Plugin), nameof(GachaResultCharacterSetDefaultPrefix)));
+
                 // Synthesis item material window description.
                 Harmony.Patch(AccessTools.Method(typeof(SynthesisMaterialInfoDisp), nameof(SynthesisMaterialInfoDisp.KDNMGKADBEF), new Type[] { typeof(AECFEKECHCK), typeof(bool) }),
                     prefix: new HarmonyMethod(typeof(Plugin), nameof(SynthesisMaterialInfoDispKDNMGKADBEFPrefix)));
@@ -372,6 +375,18 @@ namespace AtelierResleriana.Plugin.Localization
                         __instance.m_giftBonusElement.m_detailText.enableWordWrapping = true;
                         __instance.m_giftBonusElement.m_detailText.overflowMode = TMPro.TextOverflowModes.Overflow;
                     }
+                }
+            }
+        }
+
+        private static void GachaResultCharacterSetDefaultPrefix(GachaResultCharacter __instance)
+        {
+            if (__instance != null)
+            {
+                if (__instance.m_acquisitionText != null)
+                {
+                    __instance.m_acquisitionText.enableWordWrapping = true;
+                    __instance.m_acquisitionText.overflowMode = TMPro.TextOverflowModes.Overflow;
                 }
             }
         }

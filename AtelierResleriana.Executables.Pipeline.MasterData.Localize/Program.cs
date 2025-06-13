@@ -149,8 +149,14 @@ namespace AtelierResleriana.Executables.Pipeline.MasterData.Localize
             ILocalizer[] localizers =
             [
                 new EnglishLocalizer(
-                    new AnthropicTextGenerator(new AnthropicClient(configuration["Anthropic:ApiKey"])),
-                    new AnthropicTextTransformer(new AnthropicClient(configuration["Anthropic:ApiKey"]))
+                    new AnthropicTextGenerator(new AnthropicClient(configuration["Anthropic:ApiKey"]), new AnthropicTextGenerator.Options()
+                    {
+                        Model = Models.ClaudeSonnet4
+                    }),
+                    new AnthropicTextTransformer(new AnthropicClient(configuration["Anthropic:ApiKey"]), new AnthropicTextTransformer.Options()
+                    {
+                        Model = Models.ClaudeSonnet4
+                    })
                 )
             ];
 

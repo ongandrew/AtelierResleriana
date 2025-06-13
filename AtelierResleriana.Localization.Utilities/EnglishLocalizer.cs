@@ -218,7 +218,8 @@ namespace AtelierResleriana.Localization.Utilities
             { "星への祈り", "Star Prayer - Formal religious practice in Nova involving songs and rituals directed at the stars. Essential part of Nova's state religion." },
             { "天命", "Divine Calling - A sacred mandate given by the stars that determines one's role in society." },
             { "カロストン", "Karlston - A location on the Infinite Island Chain." },
-            { "諸島同盟", "Archipelago Federation - An alliance on the Infinite Island Chain that shares a common currency, religious beliefs, and cultural practices" }
+            { "諸島同盟", "Archipelago Federation - An alliance on the Infinite Island Chain that shares a common currency, religious beliefs, and cultural practices" },
+            { "ケイウン", "Keiun - A location on the Infinite Island Chain." }
         };
 
         public string Locale { get => "en"; }

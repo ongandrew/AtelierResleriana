@@ -1321,5 +1321,65 @@
     "description": "Item that can be used in the Knight Skills Test ~Additional Practice~ Event Box Wish.",
     "end_at": "2025-06-21T03:00:00Z",
     "name": "Event Box Wish Ticket [Knight Skills Test]"
+  },
+  {
+    "id": 1038,
+    "description": "A ticket that allows you to make a wish in the Journey to the Land of Love - Lila LEGEND FES.",
+    "end_at": "2025-06-28T03:00:00Z",
+    "name": "Journey to the Land of Love - Lila Wish Ticket"
+  },
+  {
+    "id": 1039,
+    "description": "A ticket that allows you to make a wish in the Arland Festival - The Proud Noble Daughter Mimi LEGEND FES.",
+    "end_at": "2025-07-12T03:00:00Z",
+    "name": "Arland Festival - The Proud Noble Daughter Mimi Wish Ticket"
+  },
+  {
+    "id": 1040,
+    "description": "Material needed for synthesis.",
+    "name": "Yaktol Frog",
+    "start_at": "2025-06-13T03:00:00Z"
+  },
+  {
+    "id": 1041,
+    "description": "Material needed for synthesis.",
+    "name": "Mystic Spring Water",
+    "start_at": "2025-06-13T03:00:00Z"
+  },
+  {
+    "id": 1042,
+    "description": "Material needed for synthesis.",
+    "name": "Starry Sky Slug",
+    "start_at": "2025-06-19T03:00:00Z"
+  },
+  {
+    "id": 1043,
+    "description": "Material needed for synthesis.",
+    "name": "Adamant",
+    "start_at": "2025-06-19T03:00:00Z"
+  },
+  {
+    "id": 1044,
+    "description": "Exchange for items at the \"Phantasmagoric: Loyal Warriors of the East\" Exchange.",
+    "end_at": "2025-06-28T03:00:00Z",
+    "name": "Battle Coin [Phantasmagoric: Loyal Warriors of the East]"
+  },
+  {
+    "id": 1045,
+    "description": "Exchange for items at the \"Isle of Learning: Karlston\" Exchange.",
+    "end_at": "2025-07-12T03:00:00Z",
+    "name": "Battle Coin [Isle of Learning: Karlston Part 1]"
+  },
+  {
+    "id": 1046,
+    "description": "A coin engraved with a crown.\nCan be used in the shop.",
+    "name": "Legend Challenge Coin",
+    "start_at": "2025-06-19T03:00:00Z"
+  },
+  {
+    "id": 1047,
+    "description": "Exchange for items at the \"Atelier Week\" Exchange.",
+    "end_at": "2025-07-01T03:00:00Z",
+    "name": "Atelier Week Coin"
   }
 ]

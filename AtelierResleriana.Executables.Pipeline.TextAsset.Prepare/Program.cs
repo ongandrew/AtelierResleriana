@@ -21,6 +21,7 @@ namespace AtelierResleriana.Executables.Pipeline.TextAsset.Prepare
                 TextAssetPrefixes.ErrorText,
                 TextAssetPrefixes.LegendEvent,
                 TextAssetPrefixes.SeasonalTalkEvent,
+                TextAssetPrefixes.SideStoryEvent,
                 TextAssetPrefixes.SystemText,
                 TextAssetPrefixes.TalkEvent
             };

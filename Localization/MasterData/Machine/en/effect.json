@@ -6063,5 +6063,335 @@
     "id": 95000227,
     "description": "When using Spirited character, after attacking, grants self \"Critical Damage Up\" for 3 turns.",
     "popup_text": ""
+  },
+  {
+    "id": 6001078,
+    "description": "When equipped to Lila [Noble Prodigy] and taking damage, grants \"Magical Damage Up\" to all allies for 1 turn (Up to 2 stacks).",
+    "popup_text": ""
+  },
+  {
+    "id": 6001079,
+    "description": "While equipped to a Defender with Air affinity and taking damage, grants \"Damage Received Down\" to all allies until taking damage (Up to 2 stacks).",
+    "popup_text": ""
+  },
+  {
+    "id": 6001080,
+    "description": "While equipped to a Defender with Air affinity, after using a skill, grants \"HP Recovery Amount Up\" to all allies for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001081,
+    "description": "When equipped to Mimi [Proud Voyager] and attacking a stunned target, grants \"Skill Power Up\" to the ally with highest M.ATK (Up to 30%).",
+    "popup_text": ""
+  },
+  {
+    "id": 6001082,
+    "description": "While equipped to a Breaker with Ice affinity, increases positive effect potency granted.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001083,
+    "description": "While equipped to a character with Ice affinity, reduces damage received from area attacks.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001084,
+    "description": "Grants \"Critical Rate Up while an Attacker\" to all allies for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001085,
+    "description": "While equipped to a Defender with Air affinity and taking damage, grants \"Damage Received Down\" to all allies until taking damage (Up to 2 stacks).",
+    "popup_text": ""
+  },
+  {
+    "id": 6001086,
+    "description": "For state_change",
+    "popup_text": ""
+  },
+  {
+    "id": 72001312,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001313,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001314,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001315,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001316,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001325,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001326,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001327,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72500167,
+    "description": "[Self/Increases with more Arland/Skill Damage Up]",
+    "popup_text": ""
+  },
+  {
+    "id": 72500168,
+    "description": "[Self/Increases with more Arland/Stun Damage Up]",
+    "popup_text": ""
+  },
+  {
+    "id": 76243001,
+    "description": "Reduces target's HP recovery amount",
+    "popup_text": ""
+  },
+  {
+    "id": 76243002,
+    "description": "Restores own HP.",
+    "popup_text": ""
+  },
+  {
+    "id": 76243003,
+    "description": "Has a chance to inflict Burn.",
+    "popup_text": ""
+  },
+  {
+    "id": 76243004,
+    "description": "Summons a Fanged Bat.",
+    "popup_text": ""
+  },
+  {
+    "id": 76243005,
+    "description": "Summons a Fanged Bat.",
+    "popup_text": ""
+  },
+  {
+    "id": 86215001,
+    "description": "Boosts skill power of Johanna [Phenom's Reborn].",
+    "popup_text": ""
+  },
+  {
+    "id": 86215002,
+    "description": "Boosts stun damage of Mimi [Proud Voyager].",
+    "popup_text": ""
+  },
+  {
+    "id": 86215003,
+    "description": "Boosts skill power.",
+    "popup_text": ""
+  },
+  {
+    "id": 86215004,
+    "description": "Boosts stun damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 86215005,
+    "description": "Increases SPD of all allies (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 86243001,
+    "description": "Summons 2 Ghosts.",
+    "popup_text": ""
+  },
+  {
+    "id": 86243002,
+    "description": "When defeating a character, restores own HP.",
+    "popup_text": ""
+  },
+  {
+    "id": 86243003,
+    "description": "Summons 2 Ghosts.",
+    "popup_text": ""
+  },
+  {
+    "id": 91001748,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001749,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001750,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001751,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001752,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001753,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001761,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001763,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001764,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000228,
+    "description": "While equipped to a Defender with Air affinity, after using a skill, grants all allies damage reduction (fixed) for 1 attack. (Non-stackable)",
+    "popup_text": ""
+  },
+  {
+    "id": 95000229,
+    "description": "When equipped to a character with the Mentor tag, when taking damage, grants all allies skill damage up for 1 turn. (Max 3 stacks)",
+    "popup_text": ""
+  },
+  {
+    "id": 95000230,
+    "description": "While equipped to a Breaker with Ice affinity, when stunning a target, grants all allies skill damage up for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000231,
+    "description": "When equipped to a character with the Adventurer tag, boosts stun damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000232,
+    "description": "When equipped to a character with the Arland tag, reduces damage received (fixed).",
+    "popup_text": ""
+  },
+  {
+    "id": 95000233,
+    "description": "When equipped to a character with the Arland tag, increases positive effect potency.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000234,
+    "description": "When equipped to a character with the Arland tag, increases HP recovery potency.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000715,
+    "description": "While equipped to Zahlburg, grants additional item gauge recovery.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000716,
+    "description": "Nullifies Strike resistance reduction.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000717,
+    "description": "Nullifies Slash resistance reduction.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000718,
+    "description": "Nullifies Stab resistance reduction.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000719,
+    "description": "Nullifies Fire resistance reduction.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000722,
+    "description": "Nullifies Bolt resistance reduction.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000723,
+    "description": "Nullifies Strike resistance reduction.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000724,
+    "description": "Nullifies Slash resistance reduction.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000725,
+    "description": "Nullifies Stab resistance reduction.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000726,
+    "description": "Nullifies Fire resistance reduction.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000729,
+    "description": "Nullifies Bolt resistance reduction.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000730,
+    "description": "While Johanna [Phenom's Reborn] is in the party, reduces damage received.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000731,
+    "description": "Reduces damage received while Mimi [Proud Voyager] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000733,
+    "description": "Reduces damage received while Lila [Elegant Hero] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000734,
+    "description": "Boosts skill power.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000735,
+    "description": "Boosts skill power of Izana [Knight's Beginning].",
+    "popup_text": ""
+  },
+  {
+    "id": 120000736,
+    "description": "Boosts skill power when self has the Arland tag.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000737,
+    "description": "Boosts skill power when self has the Kurken Island tag.",
+    "popup_text": ""
   }
 ]

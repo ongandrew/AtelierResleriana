@@ -198,5 +198,15 @@
     "id": 285,
     "description": "Restores 5% HP to all allies. After recovery, boosts all allies' critical damage by {0}% for 1 turn.",
     "name": "Apple Tart"
+  },
+  {
+    "id": 286,
+    "description": "While in Attacker role, boosts all allies' critical rate by {0}% for 2 turns.",
+    "name": "Brain Clarity Tonic"
+  },
+  {
+    "id": 287,
+    "description": "While in Attacker role, boosts all allies' critical rate by {0}% for 2 turns.",
+    "name": "Brain Clarity Tonic"
   }
 ]

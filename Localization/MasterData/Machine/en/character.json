@@ -478,5 +478,35 @@
     "overlay_name": "Johanna",
     "profile_voice_text": "I'll show those outsiders beyond the continent what this genius can really do!",
     "start_at": "2025-06-06T03:00:00Z"
+  },
+  {
+    "id": 27002,
+    "acquisition_text": "Don't worry.\nI'll protect your back.",
+    "another_name": "Proud Voyager",
+    "description": "An adventurer and Totori's friend.\nAt Totori's request, she accompanies her on her journey.\nShe has immense pride and takes great honor in her family name.\nThough she carries herself like a proper lady, she becomes quite flustered whenever Totori is mentioned.",
+    "fullname": "Mimi Houllier von Schwarzlang",
+    "leader_skill": {
+      "description": "All allies gain 20% skill damage and stun damage for each Arland character.",
+      "name": "Noble Daughter of Arland"
+    },
+    "name": "Mimi",
+    "overlay_name": "Mimi Houllier von Schwarzlang",
+    "profile_voice_text": "I'm Mimi. In my world, I was quite well-known\nas an adventurer, you know?",
+    "start_at": "2025-06-19T03:00:00Z"
+  },
+  {
+    "id": 40102,
+    "acquisition_text": "Even warriors need rest sometimes.\n—Want to join me?",
+    "another_name": "Graceful Hero",
+    "description": "A mysterious wandering warrior.\nShe has traveled alongside the alchemist Empel for a long time.\nWhile blunt in personality, she has a caring side.\nHer attire is connected to Keiwun culture and is traditionally worn during festivals.",
+    "fullname": "Lila Decyrus",
+    "leader_skill": {
+      "description": "Boosts Air affinity characters' P.DEF and M.DEF by 35%.",
+      "name": "Wrapped in Spirit Winds"
+    },
+    "name": "Lila",
+    "overlay_name": "Lila Decyrus",
+    "profile_voice_text": "A warrior of the White Fang clan in festival attire...\nLife can be interesting if you live it long enough.",
+    "start_at": "2025-06-13T03:00:00Z"
   }
 ]

@@ -14572,5 +14572,527 @@
     "description": "Reduces damage received by all allies by 40% for 2 attacks.",
     "name": "Energy Powder",
     "summary": ""
+  },
+  {
+    "id": 32133,
+    "description": "Boosts all allies' critical rate by {0}% for 2 turns when they are Attackers.",
+    "name": "Mental Clarity Potion",
+    "summary": ""
+  },
+  {
+    "id": 32134,
+    "description": "Boosts all allies' critical rate by {0}% for 2 turns when they are Attackers.",
+    "name": "Mental Clarity Potion",
+    "summary": ""
+  },
+  {
+    "id": 11002843,
+    "description": "Before attacking, removes own negative effects. After attacking, boosts own P.DEF & M.DEF by {0}% (Max: 30%) and recovers {1}% HP for all allies.",
+    "name": "Bell Strike",
+    "summary": "Before attack, removes own negative effects.\nAfter attack, boosts own stats.\nRecovers HP for all allies."
+  },
+  {
+    "id": 11002844,
+    "description": "Before attacking, removes own negative effects. After attacking, boosts own P.DEF & M.DEF by {0}% (Max: 30%) and recovers {1}% HP for all allies.",
+    "name": "Bell Strike",
+    "summary": "Before attack, removes own negative effects.\nAfter attack, boosts own stats.\nRecovers HP for all allies."
+  },
+  {
+    "id": 11002845,
+    "description": "Before attacking, removes own negative effects. After attacking, boosts own P.DEF & M.DEF by {0}% (Max: 30%) and recovers {1}% HP for all allies.",
+    "name": "Bell Strike",
+    "summary": "Before attack, removes own negative effects.\nAfter attack, boosts own stats.\nRecovers HP for all allies."
+  },
+  {
+    "id": 11002846,
+    "description": "Before attacking, removes own negative effects. After attacking, boosts own P.DEF & M.DEF by {0}% (Max: 30%) and recovers {1}% HP for all allies.",
+    "name": "Bell Strike",
+    "summary": "Before attack, removes own negative effects.\nAfter attack, boosts own stats.\nRecovers HP for all allies."
+  },
+  {
+    "id": 11002847,
+    "description": "Before attacking, removes own negative effects. After attacking, boosts own P.DEF & M.DEF by {0}% (Max: 30%) and recovers {1}% HP for all allies.",
+    "name": "Bell Strike",
+    "summary": "Before attack, removes own negative effects.\nAfter attack, boosts own stats.\nRecovers HP for all allies."
+  },
+  {
+    "id": 11002858,
+    "description": "Before attacking, reduces target's Ice resistance by {0}% until taking damage. After attacking, boosts own stun damage by {1}% (Max: 30%) and grants target panel immunity for 1 turn.",
+    "name": "Blitz Stoß",
+    "summary": "Before attack, reduces target's Ice resistance.\nAfter attack, boosts own stun damage.\nGrants target panel immunity."
+  },
+  {
+    "id": 11002859,
+    "description": "Before attacking, reduces target's Ice resistance by {0}% until taking damage. After attacking, boosts own stun damage by {1}% (Max: 30%) and grants target panel immunity for 1 turn.",
+    "name": "Blitz Stoß",
+    "summary": "Before attack, reduces target's Ice resistance.\nAfter attack, boosts own stun damage.\nGrants target panel immunity."
+  },
+  {
+    "id": 11002860,
+    "description": "Before attacking, reduces target's Ice resistance by {0}% until taking damage. After attacking, boosts own stun damage by {1}% (Max: 30%) and grants target panel immunity for 1 turn.",
+    "name": "Blitz Stoß",
+    "summary": "Before attack, reduces target's Ice resistance.\nAfter attack, boosts own stun damage.\nGrants target panel immunity."
+  },
+  {
+    "id": 11002861,
+    "description": "Before attacking, reduces target's Ice resistance by {0}% until taking damage. After attacking, boosts own stun damage by {1}% (Max: 30%) and grants target panel immunity for 1 turn.",
+    "name": "Blitz Stoß",
+    "summary": "Before attack, reduces target's Ice resistance.\nAfter attack, boosts own stun damage.\nGrants target panel immunity."
+  },
+  {
+    "id": 11002862,
+    "description": "Before attacking, reduces target's Ice resistance by {0}% until taking damage. After attacking, boosts own stun damage by {1}% (Max: 30%) and grants target panel immunity for 1 turn.",
+    "name": "Blitz Stoß",
+    "summary": "Before attack, reduces target's Ice resistance.\nAfter attack, boosts own stun damage.\nGrants target panel immunity."
+  },
+  {
+    "id": 12002848,
+    "description": "Reduces own damage received by {0}% for 2 hits. Grants target \"Recover {1}% HP when taking damage\" for 1 hit (Max: 1 stack). Boosts P.DEF & M.DEF by {2}% for all allies with Air affinity for 2 hits (Max: 2 stacks).",
+    "name": "Wind Guard Bell",
+    "summary": "Reduces own damage received.\nGrants target \"HP recovery when taking damage\".\nBoosts stats for all allies with Air affinity."
+  },
+  {
+    "id": 12002849,
+    "description": "Reduces own damage received by {0}% for 2 hits. Grants target \"Recover {1}% HP when taking damage\" for 1 hit (Max: 1 stack). Boosts P.DEF & M.DEF by {2}% for all allies with Air affinity for 2 hits (Max: 2 stacks).",
+    "name": "Wind Guard Bell",
+    "summary": "Reduces own damage received.\nGrants target \"HP recovery when taking damage\".\nBoosts stats for all allies with Air affinity."
+  },
+  {
+    "id": 12002850,
+    "description": "Reduces own damage received by {0}% for 2 hits. Grants target \"Recover {1}% HP when taking damage\" for 1 hit (Max: 1 stack). Boosts P.DEF & M.DEF by {2}% for all allies with Air affinity for 2 hits (Max: 2 stacks).",
+    "name": "Wind Guard Bell",
+    "summary": "Reduces own damage received.\nGrants target \"HP recovery when taking damage\".\nBoosts stats for all allies with Air affinity."
+  },
+  {
+    "id": 12002851,
+    "description": "Reduces own damage received by {0}% for 2 hits. Grants target \"Recover {1}% HP when taking damage\" for 1 hit (Max: 1 stack). Boosts P.DEF & M.DEF by {2}% for all allies with Air affinity for 2 hits (Max: 2 stacks).",
+    "name": "Wind Guard Bell",
+    "summary": "Reduces own damage received.\nGrants target \"HP recovery when taking damage\".\nBoosts stats for all allies with Air affinity."
+  },
+  {
+    "id": 12002852,
+    "description": "Reduces own damage received by {0}% for 2 hits. Grants target \"Recover {1}% HP when taking damage\" for 1 hit (Max: 1 stack). Boosts P.DEF & M.DEF by {2}% for all allies with Air affinity for 2 hits (Max: 2 stacks).",
+    "name": "Wind Guard Bell",
+    "summary": "Reduces own damage received.\nGrants target \"HP recovery when taking damage\".\nBoosts stats for all allies with Air affinity."
+  },
+  {
+    "id": 12002863,
+    "description": "Boosts stun damage by {0}% when attacking a weakness. Before attacking, reduces target's Ice resistance by {1}% for 2 hits. After attacking, increases target's magical damage received by {2}% for 2 hits. When target is stunned, removes all damage reduction effects, increases damage received by {3}% for 3 hits, and delays turn by 2.",
+    "name": "Schwarzwaltz Slicer",
+    "summary": "Boosts stun damage when attacking a weakness.\nBefore attack, reduces target's Ice resistance.\nAfter attack, increases target's magical damage received.\nWhen target is stunned, removes damage reduction effects.\nIncreases target's damage received.\nDelays target's turn."
+  },
+  {
+    "id": 12002864,
+    "description": "Boosts stun damage by {0}% when attacking a weakness. Before attacking, reduces target's Ice resistance by {1}% for 2 hits. After attacking, increases target's magical damage received by {2}% for 2 hits. When target is stunned, removes all damage reduction effects, increases damage received by {3}% for 3 hits, and delays turn by 2.",
+    "name": "Schwarzwaltz Slicer",
+    "summary": "Boosts stun damage when attacking a weakness.\nBefore attack, reduces target's Ice resistance.\nAfter attack, increases target's magical damage received.\nWhen target is stunned, removes damage reduction effects.\nIncreases target's damage received.\nDelays target's turn."
+  },
+  {
+    "id": 12002865,
+    "description": "Boosts stun damage by {0}% when attacking a weakness. Before attacking, reduces target's Ice resistance by {1}% for 2 hits. After attacking, increases target's magical damage received by {2}% for 2 hits. When target is stunned, removes all damage reduction effects, increases damage received by {3}% for 3 hits, and delays turn by 2.",
+    "name": "Schwarzwaltz Slicer",
+    "summary": "Boosts stun damage when attacking a weakness.\nBefore attack, reduces target's Ice resistance.\nAfter attack, increases target's magical damage received.\nWhen target is stunned, removes damage reduction effects.\nIncreases target's damage received.\nDelays target's turn."
+  },
+  {
+    "id": 12002866,
+    "description": "When attacking a weakness, boosts stun damage by {0}%.<br>Before attacking, reduces target's Ice resistance by {1}% for 2 attacks.<br>After attacking, increases target's magical damage received by {2}% for 2 attacks.<br>When target is stunned, removes all damage reduction effects from target, increases damage received by {3}% for 3 attacks, and delays their turn by 2 turns.",
+    "name": "Schwaltz Slicer",
+    "summary": "When attacking a weakness, boosts stun damage.<br>Before attacking, reduces target's Ice resistance.<br>After attacking, increases target's magical damage received.<br>When target is stunned, removes their damage reduction effects.<br>Increases target's damage received.<br>Delays target's turn."
+  },
+  {
+    "id": 12002867,
+    "description": "When attacking a weakness, boosts stun damage by {0}%.<br>Before attacking, reduces target's Ice resistance by {1}% for 2 attacks.<br>After attacking, increases target's magical damage received by {2}% for 2 attacks.<br>When target is stunned, removes all damage reduction effects from target, increases damage received by {3}% for 3 attacks, and delays their turn by 2 turns.",
+    "name": "Schwaltz Slicer",
+    "summary": "When attacking a weakness, boosts stun damage.<br>Before attacking, reduces target's Ice resistance.<br>After attacking, increases target's magical damage received.<br>When target is stunned, removes their damage reduction effects.<br>Increases target's damage received.<br>Delays target's turn."
+  },
+  {
+    "id": 14002853,
+    "description": "After attacking, restores all allies' HP by {0}% and removes status effects.<br>Delays target's turn by {1} turn(s).<br>Reduces damage received by {2}% for 1 attack for all allies with Air affinity.",
+    "name": "Rushing Combat",
+    "summary": "After attacking, restores all allies' HP.<br>Removes all allies' status effects.<br>Delays target's turn.<br>Reduces damage received for all allies with Air affinity."
+  },
+  {
+    "id": 14002854,
+    "description": "After attacking, restores all allies' HP by {0}% and removes status effects.<br>Delays target's turn by {1} turn(s).<br>Reduces damage received by {2}% for 1 attack for all allies with Air affinity.",
+    "name": "Rushing Combat",
+    "summary": "After attacking, restores all allies' HP.<br>Removes all allies' status effects.<br>Delays target's turn.<br>Reduces damage received for all allies with Air affinity."
+  },
+  {
+    "id": 14002855,
+    "description": "After attacking, restores all allies' HP by {0}% and removes status effects.<br>Delays target's turn by {1} turn(s).<br>Reduces damage received by {2}% for 1 attack for all allies with Air affinity.",
+    "name": "Rushing Combat",
+    "summary": "After attacking, restores all allies' HP.<br>Removes all allies' status effects.<br>Delays target's turn.<br>Reduces damage received for all allies with Air affinity."
+  },
+  {
+    "id": 14002856,
+    "description": "After attacking, restores all allies' HP by {0}% and removes status effects.<br>Delays target's turn by {1} turn(s).<br>Reduces damage received by {2}% for 1 attack for all allies with Air affinity.",
+    "name": "Rushing Combat",
+    "summary": "After attacking, restores all allies' HP.<br>Removes all allies' status effects.<br>Delays target's turn.<br>Reduces damage received for all allies with Air affinity."
+  },
+  {
+    "id": 14002857,
+    "description": "After attacking, restores all allies' HP by {0}% and removes status effects.<br>Delays target's turn by {1} turn(s).<br>Reduces damage received by {2}% for 1 attack for all allies with Air affinity.",
+    "name": "Rushing Combat",
+    "summary": "After attacking, restores all allies' HP.<br>Removes all allies' status effects.<br>Delays target's turn.<br>Reduces damage received for all allies with Air affinity."
+  },
+  {
+    "id": 14002868,
+    "description": "When attacking a weakness, boosts stun damage by {0}%.<br>Before attacking, reduces target's Ice resistance by {1}% for 3 attacks.<br>After attacking, converts own next non-burst panel to a stun boost panel (creates one if empty).<br>When target is stunned, increases damage received by {2}% for 1 attack for all enemies and boosts M.ATK by {3}% for 1 turn for all allies with Ice affinity.",
+    "name": "Engelhorn Wilbern",
+    "summary": "When attacking a weakness, boosts stun damage.<br>Before attacking, reduces target's Ice resistance.<br>After attacking, converts next non-burst panel to stun boost panel.<br>When target is stunned, increases all enemies' damage received.<br>Boosts M.ATK for all allies with Ice affinity."
+  },
+  {
+    "id": 14002869,
+    "description": "When attacking a weakness, boosts stun damage by {0}%.<br>Before attacking, reduces target's Ice resistance by {1}% for 3 attacks.<br>After attacking, converts own next non-burst panel to a stun boost panel (creates one if empty).<br>When target is stunned, increases damage received by {2}% for 1 attack for all enemies and boosts M.ATK by {3}% for 1 turn for all allies with Ice affinity.",
+    "name": "Engelhorn Wilbern",
+    "summary": "When attacking a weakness, boosts stun damage.<br>Before attacking, reduces target's Ice resistance.<br>After attacking, converts next non-burst panel to stun boost panel.<br>When target is stunned, increases all enemies' damage received.<br>Boosts M.ATK for all allies with Ice affinity."
+  },
+  {
+    "id": 14002870,
+    "description": "When attacking a weakness, boosts stun damage by {0}%.<br>Before attacking, reduces target's Ice resistance by {1}% for 3 attacks.<br>After attacking, converts own next non-burst panel to a stun boost panel (creates one if empty).<br>When target is stunned, increases damage received by {2}% for 1 attack for all enemies and boosts M.ATK by {3}% for 1 turn for all allies with Ice affinity.",
+    "name": "Engelhorn Wilbern",
+    "summary": "When attacking a weakness, boosts stun damage.<br>Before attacking, reduces target's Ice resistance.<br>After attacking, converts next non-burst panel to stun boost panel.<br>When target is stunned, increases all enemies' damage received.<br>Boosts M.ATK for all allies with Ice affinity."
+  },
+  {
+    "id": 14002871,
+    "description": "When attacking a weakness, boosts stun damage by {0}%.<br>Before attacking, reduces target's Ice resistance by {1}% for 3 attacks.<br>After attacking, converts own next non-burst panel to a stun boost panel (creates one if empty).<br>When target is stunned, increases damage received by {2}% for 1 attack for all enemies and boosts M.ATK by {3}% for 1 turn for all allies with Ice affinity.",
+    "name": "Engelhorn Wilbern",
+    "summary": "When attacking a weakness, boosts stun damage.<br>Before attacking, reduces target's Ice resistance.<br>After attacking, converts next non-burst panel to stun boost panel.<br>When target is stunned, increases all enemies' damage received.<br>Boosts M.ATK for all allies with Ice affinity."
+  },
+  {
+    "id": 14002872,
+    "description": "When attacking a weakness, boosts stun damage by {0}%.<br>Before attacking, reduces target's Ice resistance by {1}% for 3 attacks.<br>After attacking, converts own next non-burst panel to a stun boost panel (creates one if empty).<br>When target is stunned, increases damage received by {2}% for 1 attack for all enemies and boosts M.ATK by {3}% for 1 turn for all allies with Ice affinity.",
+    "name": "Engelhorn Wilbern",
+    "summary": "When attacking a weakness, boosts stun damage.<br>Before attacking, reduces target's Ice resistance.<br>After attacking, converts next non-burst panel to stun boost panel.<br>When target is stunned, increases all enemies' damage received.<br>Boosts M.ATK for all allies with Ice affinity."
+  },
+  {
+    "id": 32002462,
+    "description": "After attacking, reduces Ice resistance by 20% and HP recovery amount by 20% for 2 turns for all enemies.",
+    "name": "Glacier Crumble",
+    "summary": ""
+  },
+  {
+    "id": 32002463,
+    "description": "After attacking, boosts own SPD by 5% and reduces negative effect potency received by 20% for 2 turns.",
+    "name": "Ice Rod",
+    "summary": ""
+  },
+  {
+    "id": 32002464,
+    "description": "After attacking, reduces damage dealt and stun damage dealt by 25% for 2 turns for all enemies.",
+    "name": "Freezer Bomb",
+    "summary": ""
+  },
+  {
+    "id": 32002465,
+    "description": "Reduces own damage received by 30% for 2 turns.",
+    "name": "Power Element B",
+    "summary": ""
+  },
+  {
+    "id": 32002466,
+    "description": "Boosts own Ice damage dealt by 20% for 2 turns.",
+    "name": "Power Element A",
+    "summary": ""
+  },
+  {
+    "id": 32002477,
+    "description": "After attacking, reduces target's damage dealt by 15% for 2 turns.",
+    "name": "Frigid Ice Throw",
+    "summary": ""
+  },
+  {
+    "id": 32002478,
+    "description": "No effect",
+    "name": "Frigid Ice Coating",
+    "summary": ""
+  },
+  {
+    "id": 32002479,
+    "description": "No effect",
+    "name": "Ice Coating",
+    "summary": ""
+  },
+  {
+    "id": 32002480,
+    "description": "Reduces target's P.ATK by 10% and M.ATK by 10% for 2 turns.",
+    "name": "Power Restriction",
+    "summary": ""
+  },
+  {
+    "id": 32002481,
+    "description": "After attacking, reduces target's damage dealt by 20% for 2 turns.",
+    "name": "Freezing Ice Throw",
+    "summary": ""
+  },
+  {
+    "id": 32002482,
+    "description": "After attacking, reduces all enemies' damage dealt by 15% for 2 turns.",
+    "name": "Freezing Ice Storm",
+    "summary": ""
+  },
+  {
+    "id": 32002483,
+    "description": "No effect.",
+    "name": "Prison Ice Storm",
+    "summary": ""
+  },
+  {
+    "id": 32002484,
+    "description": "Reduces target's damage dealt by 30% for 2 turns.",
+    "name": "Power Restriction",
+    "summary": ""
+  },
+  {
+    "id": 32002485,
+    "description": "Recovers ally's HP by 15% and boosts damage dealt by 15% for 2 turns.",
+    "name": "Life's Gift",
+    "summary": ""
+  },
+  {
+    "id": 32002486,
+    "description": "Boosts all allies' damage dealt by 25% for 2 turns.",
+    "name": "Power Dispersal",
+    "summary": ""
+  },
+  {
+    "id": 32002487,
+    "description": "After attacking, reduces target's HP recovery by 30% for 2 turns.",
+    "name": "Flame Scar",
+    "summary": ""
+  },
+  {
+    "id": 32002488,
+    "description": "After attacking, recovers own HP by 15%.",
+    "name": "Mind Shock",
+    "summary": ""
+  },
+  {
+    "id": 32002489,
+    "description": "",
+    "name": "Blaze Shock",
+    "summary": ""
+  },
+  {
+    "id": 32002490,
+    "description": "After attacking, 60% chance to inflict 1 stack of permanent Burn on all enemies.",
+    "name": "Shadow Scorch",
+    "summary": ""
+  },
+  {
+    "id": 32002491,
+    "description": "Summons 1 Fang Bat.",
+    "name": "Summon Shadow",
+    "summary": ""
+  },
+  {
+    "id": 32002492,
+    "description": "After attacking, reduces target's HP recovery by 30% for 2 turns.",
+    "name": "Flame Scar",
+    "summary": ""
+  },
+  {
+    "id": 32002493,
+    "description": "After attacking, recovers own HP by 15%.",
+    "name": "Mind Shock",
+    "summary": ""
+  },
+  {
+    "id": 32002494,
+    "description": "",
+    "name": "Blaze Shock",
+    "summary": ""
+  },
+  {
+    "id": 32002495,
+    "description": "After attacking, 60% chance to inflict 1 stack of permanent Burn on all enemies.",
+    "name": "Shadow Scorch",
+    "summary": ""
+  },
+  {
+    "id": 32002496,
+    "description": "Summons 1 Fang Bat.",
+    "name": "Summon Shadow",
+    "summary": ""
+  },
+  {
+    "id": 32002498,
+    "description": "No effect.",
+    "name": "Rolling",
+    "summary": ""
+  },
+  {
+    "id": 32002499,
+    "description": "After attacking, delays target's turn by 2 turns.",
+    "name": "Spin Tackle",
+    "summary": ""
+  },
+  {
+    "id": 32002500,
+    "description": "Grants self Cover (3 times) and Counter (2 times).",
+    "name": "Cover Preparation",
+    "summary": ""
+  },
+  {
+    "id": 32002501,
+    "description": "No effect.",
+    "name": "Ice Rain",
+    "summary": ""
+  },
+  {
+    "id": 32002502,
+    "description": "Reduces own damage received by 15% for 3 attacks.",
+    "name": "Full Power Cry",
+    "summary": ""
+  },
+  {
+    "id": 32002503,
+    "description": "No effect.",
+    "name": "Horn Counterattack",
+    "summary": ""
+  },
+  {
+    "id": 32002504,
+    "description": "After attacking, removes 3 status effects from skill target.",
+    "name": "Ribbon Tornado",
+    "summary": ""
+  },
+  {
+    "id": 32002505,
+    "description": "After attacking, reduces own damage received by 25% for 2 attacks.",
+    "name": "Tail Bash",
+    "summary": ""
+  },
+  {
+    "id": 32002506,
+    "description": "After attacking, reduces skill target's SPD by 10% for 2 turns.",
+    "name": "Ribbon Toss",
+    "summary": ""
+  },
+  {
+    "id": 32002507,
+    "description": "After attacking, reduces skill target's damage dealt by 25% for 2 turns and Air resistance by 25% for 3 attacks.",
+    "name": "Pink Roar",
+    "summary": ""
+  },
+  {
+    "id": 32002508,
+    "description": "No effect.",
+    "name": "Pink Wind",
+    "summary": ""
+  },
+  {
+    "id": 32002509,
+    "description": "Grants 6 stacks of Poison to skill target and reduces own status effect resistance by 50% for 2 turns.",
+    "name": "Toxic Spray",
+    "summary": ""
+  },
+  {
+    "id": 32002510,
+    "description": "After attacking, converts skill target's empty panels to darkness panels and boosts own damage dealt by 30% for 3 attacks.",
+    "name": "Dark Slash Gift",
+    "summary": ""
+  },
+  {
+    "id": 32002511,
+    "description": "After attacking, inflicts Darkness on skill target for 3 turns.",
+    "name": "Magical Slash",
+    "summary": ""
+  },
+  {
+    "id": 32002512,
+    "description": "After attacking, boosts own damage dealt by 20% for 3 attacks and grants Evasion for 2 attacks.",
+    "name": "White Slash",
+    "summary": ""
+  },
+  {
+    "id": 32002513,
+    "description": "After attacking, reduces own damage received by 20% for 3 attacks.",
+    "name": "Mega Explosion",
+    "summary": ""
+  },
+  {
+    "id": 32002514,
+    "description": "No effect.",
+    "name": "Magical Slide",
+    "summary": ""
+  },
+  {
+    "id": 32002515,
+    "description": "Reduces skill target's HP recovery by 50% for 2 turns.",
+    "name": "Magical Smoke",
+    "summary": ""
+  },
+  {
+    "id": 32002516,
+    "description": "Converts the next ally's overhead panel on the timeline to a healing panel if it is empty, boost panel, weaken panel, burst panel, critical panel, stun boost panel, protection boost panel, protection weaken panel, paralysis panel, darkness panel, or burn panel.",
+    "name": "Assault",
+    "summary": ""
+  },
+  {
+    "id": 32002517,
+    "description": "No effect.",
+    "name": "Dragon Rising",
+    "summary": ""
+  },
+  {
+    "id": 32002518,
+    "description": "No effect.",
+    "name": "Wind Orb",
+    "summary": ""
+  },
+  {
+    "id": 32002519,
+    "description": "After attacking, reduces target's damage dealt by 10% for 3 attacks.",
+    "name": "Bite",
+    "summary": ""
+  },
+  {
+    "id": 32002520,
+    "description": "Boosts damage dealt by 15% for 3 attacks for all allies.",
+    "name": "Far Howl",
+    "summary": ""
+  },
+  {
+    "id": 32002521,
+    "description": "Grants target ally damage received -10% for 3 attacks and stun damage received -10% for 3 attacks.",
+    "name": "Queen's Command",
+    "summary": ""
+  },
+  {
+    "id": 32002522,
+    "description": "Reduces P.ATK of enemy target by 15% for 3 attacks.",
+    "name": "Intimidating Roar",
+    "summary": ""
+  },
+  {
+    "id": 32002523,
+    "description": "Recovers 10% of target's HP and advances their turn by 2.",
+    "name": "Royal Reward",
+    "summary": ""
+  },
+  {
+    "id": 32002530,
+    "description": "After attacking, reduces own damage received by 25% for 2 attacks.",
+    "name": "Tail Whip",
+    "summary": ""
+  },
+  {
+    "id": 32002531,
+    "description": "After attacking, reduces target's SPD by 10% for 2 attacks.",
+    "name": "Ribbon Toss",
+    "summary": ""
+  },
+  {
+    "id": 32002532,
+    "description": "After attacking, inflicts target with Darkness for 3 attacks.",
+    "name": "Magical Slash",
+    "summary": ""
+  },
+  {
+    "id": 32002533,
+    "description": "After attacking, boosts own damage dealt by 20% for 3 attacks and grants Evasion for 2 attacks.",
+    "name": "White Slash",
+    "summary": ""
   }
 ]

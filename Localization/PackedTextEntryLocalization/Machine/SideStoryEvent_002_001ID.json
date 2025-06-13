@@ -1,0 +1,580 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "それじゃ、クラウディアさんは\n一緒に行かれないんですね",
+        "localizations": {
+          "en": "So Klaudia isn't coming with us then?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "うん。ノーヴァ神聖国でやりたいことがあるって。\nウィルベル連れて、早速出かけちゃった",
+        "localizations": {
+          "en": "Nope. She said she had something she wanted to do in Nova. She took Wilbell with her and headed out right away."
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "（ランターナ王国とノーヴァ神聖国の国交が樹立され、\n\u3000私たちは果ての大陸の情報を集めるために――）",
+        "localizations": {
+          "en": "(With diplomatic relations established between the Kingdom of Lantarna and the sacred lands of Nova, we're gathering information about World's End—)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "（いよいよ無数島群域の中、ノーヴァ神聖国より北、\n\u3000学問の島「カロストン」を目指すことになったのだ）",
+        "localizations": {
+          "en": "(Finally, we're heading north of Nova within the Infinite Island Chain, to the scholarly island of Karlston.)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "きっと商売ね。フロッケも興味持ってたもん",
+        "localizations": {
+          "en": "It's probably merchant-related. Flocke was interested too."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "ウィルベル連れてったのはなんでだろ？",
+        "localizations": {
+          "en": "I wonder why she brought Wilbell along?"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "それ、あたしも気になったんだよね～",
+        "localizations": {
+          "en": "Yeah, I was curious about that too..."
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "わぁ。ここがノーヴァ神聖国のカフェなんだね！",
+        "localizations": {
+          "en": "Wow! So this is Nova's cafe!"
+        }
+      },
+      "2072370017": {
+        "text": "ロロナ",
+        "localizations": {
+          "en": "Rorona"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "わぁ、ロロナ先輩方！\u3000\n皆さんお揃いで、どうなさったんですか？",
+        "localizations": {
+          "en": "Oh wow, Miss Rorona! What brings you all here together?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "え、ええと……\nま、まさか「星の繭」で何かあったんですか？",
+        "localizations": {
+          "en": "Um, er... don't tell me something happened at the Star's Cocoon?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "う、ううん。違う違う！\u3000何も起きてないよ！",
+        "localizations": {
+          "en": "N-no, no! Nothing of the sort! Everything's fine!"
+        }
+      },
+      "2072370017": {
+        "text": "ロロナ",
+        "localizations": {
+          "en": "Rorona"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "実はお休みをもらえてね。トトリちゃんたちに\n誘ってもらって飴でこっちに来たんだ",
+        "localizations": {
+          "en": "Actually, I've got some time off. Totori and the others invited me, so I came here using the candy."
+        }
+      },
+      "2072370017": {
+        "text": "ロロナ",
+        "localizations": {
+          "en": "Rorona"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "ロロナさんはずーっと働きっ放しでしょ。\nそれで一緒に観光に来たらって誘ったのよ",
+        "localizations": {
+          "en": "Rorona's been working nonstop, you know. So we thought we'd invite her to come sightseeing with us."
+        }
+      },
+      "2072370017": {
+        "text": "ミミ",
+        "localizations": {
+          "en": "Mimi"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "うん。ロロナ先生も、少しは息抜きしないとね",
+        "localizations": {
+          "en": "Yeah. You need to take a break sometimes too, Miss Rorona."
+        }
+      },
+      "2072370017": {
+        "text": "トトリ",
+        "localizations": {
+          "en": "Totori"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "えへへ。そうなんだ。噂のノーヴァ神聖国、\nわたしも見てみたくなっちゃって！",
+        "localizations": {
+          "en": "Ehehe. That's right! I'd been hearing about Nova, so I really wanted to see it for myself!"
+        }
+      },
+      "2072370017": {
+        "text": "ロロナ",
+        "localizations": {
+          "en": "Rorona"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "私は彼女の付き添いだ。一人で観光させるのは\nどうも心配だからな",
+        "localizations": {
+          "en": "I'm accompanying her. I was concerned about letting her sightsee alone."
+        }
+      },
+      "2072370017": {
+        "text": "ステルク",
+        "localizations": {
+          "en": "Sterk"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "ふふっ。そうだったんですね。\nそれならちょうどよかったかもしれません",
+        "localizations": {
+          "en": "Hehe. I see! That works out perfectly then."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "こちら、ノーヴァ神聖国の錬金術士で、\n案内人のお仕事をしているアルビーナ",
+        "localizations": {
+          "en": "This is Alvina, an alchemist from Nova who works as a guide."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "ご紹介に預かりました、アルビーナ・ジムロックです！\nええと、この方たちは？",
+        "localizations": {
+          "en": "Nice to meet you! I'm Alvina Zimlock! And who might these people be?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "こちらの方が――",
+        "localizations": {
+          "en": "Well, this is—"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "わあ、次の島に向かうんだ！\u3000いいなぁ！\nここへの移動も飴を使って来ちゃったし、船旅したい！",
+        "localizations": {
+          "en": "Wow, you're heading to another island! How exciting! We used candy to get here too, so I'd love to try a boat trip!"
+        }
+      },
+      "2072370017": {
+        "text": "ロロナ",
+        "localizations": {
+          "en": "Rorona"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "君、彼女たちは遊びで行くわけでは……",
+        "localizations": {
+          "en": "They're not going for pleasure..."
+        }
+      },
+      "2072370017": {
+        "text": "ステルク",
+        "localizations": {
+          "en": "Sterk"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "よかったらロロナ先輩もご一緒しませんか？\nステルクさんも",
+        "localizations": {
+          "en": "Would you like to come along, Miss Rorona? You too, Sterk."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "いいの？\u3000カフェのお休みの間だけだし、行きたい！",
+        "localizations": {
+          "en": "Really? I don't have much time, but I'd love to go!"
+        }
+      },
+      "2072370017": {
+        "text": "ロロナ",
+        "localizations": {
+          "en": "Rorona"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "決まり！\u3000調査をするにも楽しいほうがいいもんね！",
+        "localizations": {
+          "en": "It's settled! Research is more fun when everyone's having a good time!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "ふふふ。船の労働力が増えたわね、トトリ",
+        "localizations": {
+          "en": "Hehe. We've got more hands for the ship now, Totori."
+        }
+      },
+      "2072370017": {
+        "text": "ミミ",
+        "localizations": {
+          "en": "Mimi"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "元より力は貸すつもりだ。なんなりと言いつけてくれ",
+        "localizations": {
+          "en": "I was planning to lend a hand anyway. Just say the word."
+        }
+      },
+      "2072370017": {
+        "text": "ステルク",
+        "localizations": {
+          "en": "Sterk"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "えぇ～っ！\u3000ステルクさん、ミミちゃん、\nこれ休暇なんだよ！？",
+        "localizations": {
+          "en": "Huh?! Sterk, Mimi, this is supposed to be a vacation!"
+        }
+      },
+      "2072370017": {
+        "text": "ロロナ",
+        "localizations": {
+          "en": "Rorona"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "そうだなぁ。ロロナ先生なら、船の上での食事の\n支度とか……",
+        "localizations": {
+          "en": "Well, Miss Rorona could help prepare meals on the ship..."
+        }
+      },
+      "2072370017": {
+        "text": "トトリ",
+        "localizations": {
+          "en": "Totori"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "えぇっ、トトリちゃん！？",
+        "localizations": {
+          "en": "Totori!?"
+        }
+      },
+      "2072370017": {
+        "text": "ロロナ",
+        "localizations": {
+          "en": "Rorona"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "通称「ロロナ」。錬金術士の少女で、トトリの師匠。\n普段は王都のカフェ「星の繭」でパイを焼いている",
+        "localizations": {
+          "en": "Goes by the name Rorona. A young alchemist and Totori's mentor. She usually bakes pies at the Star's Cocoon cafe in the royal capital."
+        }
+      },
+      "2072370017": {
+        "text": "ロロライナ・フリクセル",
+        "localizations": {
+          "en": "Rorolina Frixell"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "異邦人の冒険者で、トトリの親友。\nトトリに誘われ、共にレスナたちの旅に同行している",
+        "localizations": {
+          "en": "A wanderer adventurer and Totori's best friend. Invited by Totori to join Resna's journey."
+        }
+      },
+      "2072370017": {
+        "text": "ミミ・ウリエ・フォン・シュヴァルツラング",
+        "localizations": {
+          "en": "Mimi Houllier von Schwarzlang"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "通称「トトリ」。ロロナの弟子であり、ミミの親友。\n航海の心得があり、レスナたちの旅に同行している",
+        "localizations": {
+          "en": "Goes by the name Totori. Rorona's apprentice and Mimi's best friend. She has sailing experience and is accompanying Resna's party."
+        }
+      },
+      "2072370017": {
+        "text": "トトゥーリア・ヘルモルト",
+        "localizations": {
+          "en": "Totooria Helmold"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "通称「ステルク」。騎士としての己に高い誇りを持つ。\nロロナ、トトリ、ミミと同じ世界からやって来た",
+        "localizations": {
+          "en": "Goes by the name Sterk. A man who takes great pride in his knighthood. He comes from the same world as Rorona, Totori, and Mimi."
+        }
+      },
+      "2072370017": {
+        "text": "ステルケンブルク・クラナッハ",
+        "localizations": {
+          "en": "Sterkenburg Cranach"
+        }
+      }
+    }
+  }
+]

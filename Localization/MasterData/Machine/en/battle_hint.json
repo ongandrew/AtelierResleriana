@@ -1394,5 +1394,57 @@
   {
     "id": 60160003,
     "description": "- After being hit by a critical attack, increases own damage received\n- While stunned, increases own critical rate received\n- Converts opponents' panels to weaken panels\n- Creates weaken+ panels\n- At battle start, boosts own damage dealt to opponents without Air affinity"
+  },
+  {
+    "id": 60012019,
+    "description": "- Inflicts Poison\n- Nullifies resistance reduction for all elements except Ice and Air"
+  },
+  {
+    "id": 60023009,
+    "description": "- Inflicts Darkness"
+  },
+  {
+    "id": 60023013,
+    "description": "- Inflicts Darkness\n- Nullifies resistance reduction for all elements except Ice and Air"
+  },
+  {
+    "id": 60053001,
+    "description": "- Counters\n- Delays turn\n- Protection"
+  },
+  {
+    "id": 60070004,
+    "description": "- Receives increased damage while stunned\n- Heals self after acting\n- Heals self"
+  },
+  {
+    "id": 60147001,
+    "description": "- At battle start, reduces all allies' damage received\n- When stunned, removes damage reduction from all allies\n- When recovering from stun, boosts own damage dealt and received, reduces status effect resistance\n- Heals allies and advances their turns\n- Creates HP recovery panels"
+  },
+  {
+    "id": 60213002,
+    "description": "- Inflicts Darkness\n- Grants self Evasion\n- Reduces all opponents' HP recovery\n- Creates Blindness panels\n- Nullifies resistance reduction for all elements except Ice and Air"
+  },
+  {
+    "id": 60213003,
+    "description": "- Inflicts Darkness\n- Grants self Evasion\n- Reduces all opponents' HP recovery\n- Creates Blindness panels\n- Nullifies resistance reduction for all elements except Ice and Air"
+  },
+  {
+    "id": 60214006,
+    "description": "- When KO'd, converts weaken panels to Blindness panels\n- Inflicts Darkness\n- Heals all allies\n- Reduces potency of positive effects received by all opponents\n- Creates weaken panels\n- Nullifies resistance reduction for all elements except Ice and Air"
+  },
+  {
+    "id": 60215002,
+    "description": "- Inflicts Poison\n- Removes multiple positive effects from all opponents\n- Reduces own status effect resistance\n- At battle start, reduces own damage received\n- Nullifies resistance reduction for all elements except Ice and Air"
+  },
+  {
+    "id": 60215003,
+    "description": "- Inflicts Poison\n- Removes multiple positive effects from all opponents\n- Reduces own status effect resistance\n- At battle start, reduces own damage received\n- After a certain number of turns, boosts all allies' SPD\n- Nullifies resistance reduction for all elements except Ice and Air"
+  },
+  {
+    "id": 60243003,
+    "description": "- Summons Ghost when HP reaches a certain level\n- Heals self when defeating an opponent\n- Has a chance to inflict Burn\n- Heals self\n- Summons Fanged Bat"
+  },
+  {
+    "id": 60243004,
+    "description": "- Summons Ghost when HP reaches a certain level\n- Heals self when defeating an opponent\n- Has a chance to inflict Burn\n- Heals self\n- Summons Fanged Bat\n- Nullifies resistance reduction for all elements except Ice and Air"
   }
 ]

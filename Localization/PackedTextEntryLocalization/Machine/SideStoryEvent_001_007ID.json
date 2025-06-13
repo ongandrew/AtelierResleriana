@@ -1,0 +1,716 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "しかし、妖怪を調べるためにこの島まで\nやって来るなんて、もの好きだね",
+        "localizations": {
+          "en": "Still, coming all the way to this island just to investigate spirits... You're quite the enthusiast."
+        }
+      },
+      "2072370017": {
+        "text": "？？？",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "なぜそこまで魔物にこだわるんだ？",
+        "localizations": {
+          "en": "Why are you so obsessed with monsters?"
+        }
+      },
+      "2072370017": {
+        "text": "？？？",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "……他人ごととは思えないのでな。\nそちらこそ、なんのためにこの島まで来た？",
+        "localizations": {
+          "en": "...I can't treat it as someone else's problem. What about you? What brought you to this island?"
+        }
+      },
+      "2072370017": {
+        "text": "リラ",
+        "localizations": {
+          "en": "Lila"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "俺たちはケイウンの者だ。\n堂免領領主の鏑矢から任を受けてこの地にやって来た",
+        "localizations": {
+          "en": "We're from Keiun. We came here on orders from Lady Kaburaya of the Doumen domain."
+        }
+      },
+      "2072370017": {
+        "text": "？？？",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "その内容を具体的に話すことはできないけど、\n島の中を調べるという点においては君たちと同じだ",
+        "localizations": {
+          "en": "I can't give you the specifics, but we're here to investigate the island—same as you."
+        }
+      },
+      "2072370017": {
+        "text": "？？？",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "そんな折に、美しい君たちを見つけたから\n声をかけさせてもらったんだ",
+        "localizations": {
+          "en": "When we spotted you beautiful ladies, we just had to introduce ourselves."
+        }
+      },
+      "2072370017": {
+        "text": "？？？",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "美しい……！？",
+        "localizations": {
+          "en": "Beautiful...?!"
+        }
+      },
+      "2072370017": {
+        "text": "マリー",
+        "localizations": {
+          "en": "Marie"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "そやつの戯言だ。この辺りで見かけぬ\n怪しい者と見て声をかけた",
+        "localizations": {
+          "en": "Don't listen to his nonsense. We approached you because you looked suspicious—strangers we'd never seen before."
+        }
+      },
+      "2072370017": {
+        "text": "？？？",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "お前さんたちがケイウンの者だというのなら\n当然の対応だ。ところで……",
+        "localizations": {
+          "en": "If you really are from Keiun, then that does seem reasonable. However..."
+        }
+      },
+      "2072370017": {
+        "text": "アンペル",
+        "localizations": {
+          "en": "Empel"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "島を調べたいのであれば、\nここは協力するというのはどうだ？",
+        "localizations": {
+          "en": "If we're both here to investigate the island, how about we work together?"
+        }
+      },
+      "2072370017": {
+        "text": "アンペル",
+        "localizations": {
+          "en": "Empel"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "お前さんたちも人手があったほうが何かと\n都合がいいだろう",
+        "localizations": {
+          "en": "I'm sure you could use the extra hands too."
+        }
+      },
+      "2072370017": {
+        "text": "アンペル",
+        "localizations": {
+          "en": "Empel"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "君たちと一緒に居られるなら俺は大歓迎……",
+        "localizations": {
+          "en": "I'd be more than happy to spend time with you ladies..."
+        }
+      },
+      "2072370017": {
+        "text": "？？？",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "いや、得体のしれない術を使う者を\nうかつに信じることはできない",
+        "localizations": {
+          "en": "No, we can't trust strangers who use mysterious techniques so recklessly."
+        }
+      },
+      "2072370017": {
+        "text": "？？？",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "得体のしれない術……？\nもしかして、さっきのフラムのこと？",
+        "localizations": {
+          "en": "Mysterious techniques...? You mean my Flamme from earlier?"
+        }
+      },
+      "2072370017": {
+        "text": "マリー",
+        "localizations": {
+          "en": "Marie"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "あれはね、錬金術で作った爆弾で……\nあ、そもそもあたしたちは異邦人なんだけど……",
+        "localizations": {
+          "en": "That was just a bomb I made with alchemy... Oh, right—we're wanderers, by the way."
+        }
+      },
+      "2072370017": {
+        "text": "マリー",
+        "localizations": {
+          "en": "Marie"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "異邦人……風の噂で聞いたことがあるよ。\nそういう別の世界からやって来た者たちがいると",
+        "localizations": {
+          "en": "Wanderers... I've heard rumors about people like you who come from other worlds."
+        }
+      },
+      "2072370017": {
+        "text": "？？？",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "その錬金術で先程の爆弾を作ったと申すか？",
+        "localizations": {
+          "en": "And you made that bomb with alchemy?"
+        }
+      },
+      "2072370017": {
+        "text": "？？？",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "そう！",
+        "localizations": {
+          "en": "That's right!"
+        }
+      },
+      "2072370017": {
+        "text": "マリー",
+        "localizations": {
+          "en": "Marie"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "……",
+        "localizations": {
+          "en": "..."
+        }
+      },
+      "2072370017": {
+        "text": "？？？",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "ふう……害意を持った侵入者ならば\nここまで手の内を明かすはずもなかろう",
+        "localizations": {
+          "en": "Hmm... If you really were hostile intruders, I doubt you would have revealed so much about yourselves."
+        }
+      },
+      "2072370017": {
+        "text": "？？？",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "つまり？",
+        "localizations": {
+          "en": "Meaning?"
+        }
+      },
+      "2072370017": {
+        "text": "リラ",
+        "localizations": {
+          "en": "Lila"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "あい分かった。ここは手を組むことにいたそう。\n数々のご無礼、どうか許してくだされ",
+        "localizations": {
+          "en": "Very well. Let's join forces. Please forgive our earlier rudeness."
+        }
+      },
+      "2072370017": {
+        "text": "？？？",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "拙者の名は鬼門（きもん）。\n堂免家に仕える忍びでございまする",
+        "localizations": {
+          "en": "My name is Kimon. I serve the Doumen family as a ninja."
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "俺は此岸永遠（しがんとわ）。\nケイウンではそこそこ名の知れた陰陽師さ",
+        "localizations": {
+          "en": "I'm Shigan Towa. I'm a fairly well-known diviner in Keiun."
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "陰陽師……錬金術士みたいなもの？",
+        "localizations": {
+          "en": "Diviner... Is that like an alchemist?"
+        }
+      },
+      "2072370017": {
+        "text": "マリー",
+        "localizations": {
+          "en": "Marie"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "どうだろうね？\u3000俺も錬金術について\nもっと知りたいな。今度ゆっくり食事でもどうだい？",
+        "localizations": {
+          "en": "Who knows? I'd love to learn more about alchemy myself. How about we grab a meal sometime and discuss it?"
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "え、ええ？",
+        "localizations": {
+          "en": "Huh? Um..."
+        }
+      },
+      "2072370017": {
+        "text": "マリー",
+        "localizations": {
+          "en": "Marie"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "こちらもケイウンについて聞かせてほしい。\n堂免家というのは有名な貴族か何かなのか？",
+        "localizations": {
+          "en": "We'd like to hear about Keiun too. Is the Doumen family some kind of famous nobility?"
+        }
+      },
+      "2072370017": {
+        "text": "リラ",
+        "localizations": {
+          "en": "Lila"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "ケイウンの南部に位置する堂免領を統べる\n一族のことでございまする",
+        "localizations": {
+          "en": "They govern the Doumen domain in southern Keiun."
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "今は堂免鏑矢様が若くして当主となり、\n拙者はその鏑矢様にお仕えしております",
+        "localizations": {
+          "en": "Lady Kaburaya became head of the family at a young age, and I serve under her."
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "俺も鬼門も、鏑矢とは幼い頃からの付き合いでね。\n一緒に彼女のことをずっと支えてきたのさ",
+        "localizations": {
+          "en": "Kimon and I have known Lady Kaburaya since we were children. We've been supporting her together all this time."
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "少々厳しいやつでね。今回も急にこの島へ行けって\n言うんだ。本当に人使いの荒いやつだよ",
+        "localizations": {
+          "en": "She can be a of a taskmaster though. On this occasion she suddenly instructed us to investigate this island out of the blue. She really works us to the bone."
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "だが、とても心根は優しく、素晴らしいお方",
+        "localizations": {
+          "en": "But she has a kind heart and is a wonderful person."
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "なるほどな。いつか会ってみたいものだ",
+        "localizations": {
+          "en": "I see. I'd like to meet her someday."
+        }
+      },
+      "2072370017": {
+        "text": "リラ",
+        "localizations": {
+          "en": "Lila"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "此度の任を終え、鏑矢様に話を通せば\nお目通しの許可が下りるかもしれませぬ",
+        "localizations": {
+          "en": "Once we complete this mission, I could ask Lady Kaburaya for permission to arrange a meeting."
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "何はともあれ、やることを終わらせよう。\nさあ、ついてきてくれ",
+        "localizations": {
+          "en": "Either way, let's get our work done first. Come on, follow us."
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "ああ",
+        "localizations": {
+          "en": "Right."
+        }
+      },
+      "2072370017": {
+        "text": "リラ",
+        "localizations": {
+          "en": "Lila"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "（一時はどうなることかと思ったが……\n\u3000マルローネがいなければ刃を抜いていたかもな）",
+        "localizations": {
+          "en": "(For a moment there, I wasn't sure how things would turn out... If Marie hadn't been here, I might have drawn my blade.)"
+        }
+      },
+      "2072370017": {
+        "text": "リラ",
+        "localizations": {
+          "en": "Lila"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "（しかし永遠に鬼門、か。鏑矢について話す鬼門は、\n\u3000幾分表情が緩んでいたようだ）",
+        "localizations": {
+          "en": "(But Towa and Kimon, huh? When Kimon talked about Kaburaya, his expression seemed to soften a bit.)"
+        }
+      },
+      "2072370017": {
+        "text": "リラ",
+        "localizations": {
+          "en": "Lila"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "（あれがあいつの素の顔なのだろう。\n\u3000悪い奴ではないはずだ）",
+        "localizations": {
+          "en": "(That must be his true personality. He's not a bad guy.)"
+        }
+      },
+      "2072370017": {
+        "text": "リラ",
+        "localizations": {
+          "en": "Lila"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "ケイウン国内の領主に仕えている忍者。\n「忍法」と呼ばれる様々な術を使う",
+        "localizations": {
+          "en": "A ninja serving a lord within Keiun. Uses various techniques called ninjutsu."
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "ケイウン国内で名の知れた陰陽師。\n身だしなみに気を配っている",
+        "localizations": {
+          "en": "A well-known diviner within Keiun who takes great care of his appearance."
+        }
+      },
+      "2072370017": {
+        "text": "此岸永遠",
+        "localizations": {
+          "en": "Shigan Towa"
+        }
+      }
+    }
+  }
+]

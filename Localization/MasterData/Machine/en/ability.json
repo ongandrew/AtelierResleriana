@@ -4407,27 +4407,27 @@
   {
     "id": 4990948,
     "description": "While equipped to an Attacker with Ice affinity, after attacking, grants Skill Damage +{0}% to self for 3 turns.<br>While equipped to a Spirited character, after attacking, grants Critical Damage +{1}% to self for 3 turns.",
-    "name": "Imaginative Power \"Soaring Into the World\""
+    "name": "Imagination \"Soaring Into the World\""
   },
   {
     "id": 4990949,
     "description": "While equipped to an Attacker with Ice affinity, after attacking, grants Skill Damage +{0}% to self for 3 turns.<br>While equipped to a Spirited character, after attacking, grants Critical Damage +{1}% to self for 3 turns.",
-    "name": "Imaginative Power \"Soaring Into the World\""
+    "name": "Imagination \"Soaring Into the World\""
   },
   {
     "id": 4990950,
     "description": "While equipped to an Attacker with Ice affinity, after attacking, grants Skill Damage +{0}% to self for 3 turns.<br>While equipped to a Spirited character, after attacking, grants Critical Damage +{1}% to self for 3 turns.",
-    "name": "Imaginative Power \"Soaring Into the World\""
+    "name": "Imagination \"Soaring Into the World\""
   },
   {
     "id": 4990951,
     "description": "While equipped to an Attacker with Ice affinity, after attacking, grants Skill Damage +{0}% to self for 3 turns.<br>While equipped to a Spirited character, after attacking, grants Critical Damage +{1}% to self for 3 turns.",
-    "name": "Imaginative Power \"Soaring Into the World\""
+    "name": "Imagination \"Soaring Into the World\""
   },
   {
     "id": 4990952,
     "description": "While equipped to an Attacker with Ice affinity, after attacking, grants Skill Damage +{0}% to self for 3 turns.<br>While equipped to a Spirited character, after attacking, grants Critical Damage +{1}% to self for 3 turns.",
-    "name": "Imaginative Power \"Soaring Into the World\""
+    "name": "Imagination \"Soaring Into the World\""
   },
   {
     "id": 26038005,
@@ -4443,5 +4443,270 @@
     "id": 26160000,
     "description": "At the start of wave, grants increased damage dealt to enemies without Ice affinity by 1000% to self.",
     "name": ""
+  },
+  {
+    "id": 301203,
+    "description": "While equipped to Lila [Elegant Elite], when taking damage, grants all allies \"magical damage +{0}%\" for 1 turn (up to 2 stacks).",
+    "name": "Evil Spirit Prayer Claws"
+  },
+  {
+    "id": 301204,
+    "description": "While equipped to a Defender with Air affinity, when taking damage, grants all allies \"damage received -{0}%\" until taking 1 attack (up to 2 stacks).",
+    "name": "Floral Yukata"
+  },
+  {
+    "id": 301205,
+    "description": "While equipped to a Defender with Air affinity, when taking damage, grants all allies \"damage received -{0}%\" until taking 1 attack (up to 2 stacks).",
+    "name": "Floral Yukata"
+  },
+  {
+    "id": 301206,
+    "description": "While equipped to a Defender with Air affinity, after using a skill, grants all allies \"HP recovery received +{0}%\" for 1 turn.",
+    "name": "Eternal Shawl"
+  },
+  {
+    "id": 301207,
+    "description": "While equipped to a Defender with Air affinity, after using a skill, grants all allies \"HP recovery received +{0}%\" for 1 turn.",
+    "name": "Eternal Shawl"
+  },
+  {
+    "id": 301208,
+    "description": "While equipped to Mimi [Proud Voyager] and attacking a stunned target, grants the ally with the highest M.ATK \"skill power +{0}%\" (up to 30%).",
+    "name": "Family Heirloom Brooch"
+  },
+  {
+    "id": 301209,
+    "description": "While equipped to a Breaker with Ice affinity, boosts buff potency by {0}%.",
+    "name": "Pagmund Saltatore"
+  },
+  {
+    "id": 301210,
+    "description": "While equipped to a Breaker with Ice affinity, boosts buff potency by {0}%.",
+    "name": "Pagmund Saltatore"
+  },
+  {
+    "id": 301211,
+    "description": "While equipped to a character with Ice affinity, reduces damage received from attacks that hit all enemies by {0}%.",
+    "name": "Evil-Warding Charm"
+  },
+  {
+    "id": 301212,
+    "description": "While equipped to a character with Ice affinity, reduces damage received from attacks that hit all enemies by {0}%.",
+    "name": "Evil-Warding Charm"
+  },
+  {
+    "id": 1980195,
+    "description": "Characters with Air affinity gain \"P.DEF and M.DEF +{0}%\".",
+    "name": "Clad in Spirit Wind"
+  },
+  {
+    "id": 1980197,
+    "description": "For each Arland character, boosts skill damage and stun damage by {0}%.",
+    "name": "A Certain Arland Noble's Daughter"
+  },
+  {
+    "id": 1990358,
+    "description": "Becomes much more likely to be targeted by enemies.<br>Boosts own P.DEF and M.DEF by {0}%.<br>When own HP falls below 50%, restores own HP by {1}% (triggers up to once).",
+    "name": "Enchanting Attire"
+  },
+  {
+    "id": 1990359,
+    "description": "Boosts max HP of all allies with Air affinity by {0}%.<br>At the start of battle, restores all allies' HP by {1}%.<br>When receiving HP recovery, grants all allies with Air affinity P.DEF and M.DEF +{2}% (up to 70%).",
+    "name": "Protection Bell"
+  },
+  {
+    "id": 1990362,
+    "description": "At the start of battle or after a party member uses a battle item, grants self \"stun damage +{0}%\" for 1 turn (triggers up to 4 times).<br>Note: Even when using multiple items at the same time, this effect will only activate once.",
+    "name": "Pierce with this Spear!"
+  },
+  {
+    "id": 1990363,
+    "description": "When attacking a stunned target, grants all allies with Ice affinity \"M.ATK +{0}%\" for 1 turn.",
+    "name": "Veteran Adventurer's Command"
+  },
+  {
+    "id": 4990953,
+    "description": "While equipped to a Defender with Air affinity, after using a skill, reduces damage received by {0}% for all allies for 1 attack. (Cannot be stacked).<br>While equipped to a Mentor, when attacked, boosts skill damage by {1}% for all allies for 1 turn. (Max 3 stacks)",
+    "name": "Imagination \"Unseen Landscape\""
+  },
+  {
+    "id": 4990954,
+    "description": "While equipped to a Defender with Air affinity, after using a skill, reduces damage received by {0}% for all allies for 1 attack. (Cannot be stacked).<br>While equipped to a Mentor, when attacked, boosts skill damage by {1}% for all allies for 1 turn. (Max 3 stacks)",
+    "name": "Imagination \"Unseen Landscape\""
+  },
+  {
+    "id": 4990955,
+    "description": "While equipped to a Defender with Air affinity, after using a skill, reduces damage received by {0}% for all allies for 1 attack. (Cannot be stacked).<br>While equipped to a Mentor, when attacked, boosts skill damage by {1}% for all allies for 1 turn. (Max 3 stacks)",
+    "name": "Imagination \"Unseen Landscape\""
+  },
+  {
+    "id": 4990956,
+    "description": "While equipped to a Defender with Air affinity, after using a skill, reduces damage received by {0}% for all allies for 1 attack. (Cannot be stacked).<br>While equipped to a Mentor, when attacked, boosts skill damage by {1}% for all allies for 1 turn. (Max 3 stacks)",
+    "name": "Imagination \"Unseen Landscape\""
+  },
+  {
+    "id": 4990957,
+    "description": "While equipped to a Defender with Air affinity, after using a skill, reduces damage received by {0}% for all allies for 1 attack. (Cannot be stacked).<br>While equipped to a Mentor, when attacked, boosts skill damage by {1}% for all allies for 1 turn. (Max 3 stacks)",
+    "name": "Imagination \"Unseen Landscape\""
+  },
+  {
+    "id": 4990958,
+    "description": "While equipped to a Breaker with Ice affinity, when stunning a target, boosts skill damage by {0}% for all allies for 1 turn.<br>For characters with the \"Adventurer\" tag, boosts stun damage by {1}%.",
+    "name": "Willpower \"Your Colors\""
+  },
+  {
+    "id": 4990959,
+    "description": "While equipped to a Breaker with Ice affinity, when stunning a target, boosts skill damage by {0}% for all allies for 1 turn.<br>For characters with the \"Adventurer\" tag, boosts stun damage by {1}%.",
+    "name": "Willpower \"Your Colors\""
+  },
+  {
+    "id": 4990960,
+    "description": "While equipped to a Breaker with Ice affinity, when stunning a target, boosts skill damage by {0}% for all allies for 1 turn.<br>For characters with the \"Adventurer\" tag, boosts stun damage by {1}%.",
+    "name": "Willpower \"Your Colors\""
+  },
+  {
+    "id": 4990961,
+    "description": "While equipped to a Breaker with Ice affinity, when stunning a target, boosts skill damage by {0}% for all allies for 1 turn.<br>For characters with the \"Adventurer\" tag, boosts stun damage by {1}%.",
+    "name": "Willpower \"Your Colors\""
+  },
+  {
+    "id": 4990962,
+    "description": "While equipped to a Breaker with Ice affinity, when stunning a target, boosts skill damage by {0}% for all allies for 1 turn.<br>For characters with the \"Adventurer\" tag, boosts stun damage by {1}%.",
+    "name": "Willpower \"Your Colors\""
+  },
+  {
+    "id": 4990963,
+    "description": "For characters with the \"Arland\" tag, reduces damage received by {0}% (fixed).",
+    "name": "Arland Guard Up II"
+  },
+  {
+    "id": 4990964,
+    "description": "For characters with the \"Arland\" tag, reduces damage received by {0}% (fixed).",
+    "name": "Arland Guard Up II"
+  },
+  {
+    "id": 4990965,
+    "description": "For characters with the \"Arland\" tag, reduces damage received by {0}% (fixed).",
+    "name": "Arland Guard Up II"
+  },
+  {
+    "id": 4990966,
+    "description": "For characters with the \"Arland\" tag, reduces damage received by {0}% (fixed).",
+    "name": "Arland Guard Up II"
+  },
+  {
+    "id": 4990967,
+    "description": "For characters with the \"Arland\" tag, reduces damage received by {0}% (fixed).",
+    "name": "Arland Guard Up II"
+  },
+  {
+    "id": 4990968,
+    "description": "For characters with the \"Arland\" tag, boosts potency of buff effects given by {0}% and HP recovery amount by {1}%.",
+    "name": "Willpower \"Rorona's Pie\""
+  },
+  {
+    "id": 4990969,
+    "description": "For characters with the \"Arland\" tag, boosts potency of buff effects given by {0}% and HP recovery amount by {1}%.",
+    "name": "Willpower \"Rorona's Pie\""
+  },
+  {
+    "id": 4990970,
+    "description": "For characters with the \"Arland\" tag, boosts potency of buff effects given by {0}% and HP recovery amount by {1}%.",
+    "name": "Willpower \"Rorona's Pie\""
+  },
+  {
+    "id": 4990971,
+    "description": "For characters with the \"Arland\" tag, boosts potency of buff effects given by {0}% and HP recovery amount by {1}%.",
+    "name": "Willpower \"Rorona's Pie\""
+  },
+  {
+    "id": 4990972,
+    "description": "For characters with the \"Arland\" tag, boosts potency of buff effects given by {0}% and HP recovery amount by {1}%.",
+    "name": "Willpower \"Rorona's Pie\""
+  },
+  {
+    "id": 26147001,
+    "description": "At the start of wave, reduces damage received by 30% for all allies.\nWhen stunned, removes damage reduction from all allies.\nWhen stun wears off, boosts own damage dealt by 50%, increases damage received by 30%, and reduces status effect resistance by 50%.",
+    "name": ""
+  },
+  {
+    "id": 26215003,
+    "description": "Reduces damage received by 50% for self.",
+    "name": ""
+  },
+  {
+    "id": 26215005,
+    "description": "Nullifies resistance reductions from all elements except Ice and Air.",
+    "name": ""
+  },
+  {
+    "id": 26215006,
+    "description": "After 50 turns, increases SPD by 25% (permanent) for all allies.",
+    "name": ""
+  },
+  {
+    "id": 26243001,
+    "description": "When own HP is 50% or lower, summons 2 Ghosts",
+    "name": ""
+  },
+  {
+    "id": 26243002,
+    "description": "When defeating a character, recovers own HP",
+    "name": ""
+  },
+  {
+    "id": 26243003,
+    "description": "When own HP is 50% or lower, summons 2 Ghosts",
+    "name": ""
+  },
+  {
+    "id": 26243004,
+    "description": "Immunity to all elemental resistance down effects except Ice and Air",
+    "name": ""
+  },
+  {
+    "id": 600000669,
+    "description": "Boosts all allies' battle item skill power by 2500%",
+    "name": "All Allies' Battle Item Skill Power Up"
+  },
+  {
+    "id": 600000670,
+    "description": "When self has \"Zahlburg\", restores additional item gauge by 25% after turn",
+    "name": "Additional Item Gauge Recovery After Turn (Zahlburg)"
+  },
+  {
+    "id": 600000671,
+    "description": "When Johanna [Phenom's Reborn] or Mimi [Proud Voyager] is in formation, reduces damage received by 25% (Max: 25%)",
+    "name": "Damage Reduction - Johanna [Phenom's Reborn] or Mimi [Proud Voyager] Formation"
+  },
+  {
+    "id": 600000673,
+    "description": "When Lila [Elegant Luminary] is in formation, reduces all allies' damage received by 25% (Max: 25%)",
+    "name": "Damage Reduction - Lila [Elegant Luminary] Formation"
+  },
+  {
+    "id": 600000674,
+    "description": "Boosts Izana [Knight's Beginning]'s skill power by 200%",
+    "name": "Izana [Knight's Beginning] Skill Power Up"
+  },
+  {
+    "id": 600000675,
+    "description": "Boosts Johanna [Phenom's Reborn]'s skill power by 200%",
+    "name": "Johanna [Phenom's Reborn] Skill Power Up"
+  },
+  {
+    "id": 600000676,
+    "description": "Boosts Mimi [Proud Voyager]'s stun damage by 200%",
+    "name": "Mimi [Proud Voyager] Stun Damage Up"
+  },
+  {
+    "id": 600000677,
+    "description": "When self has \"Arland\" tag, boosts skill power by 100%",
+    "name": "Skill Power Up When Self Has Arland Tag"
+  },
+  {
+    "id": 600000678,
+    "description": "When self has \"Kurken Island\" tag, boosts skill power by 100%",
+    "name": "Skill Power Up When Self Has Kurken Island Tag"
   }
 ]

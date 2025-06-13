@@ -2138,5 +2138,113 @@
     "name": "Seagull Crossing the Ocean: Johanna - LEGEND FES [Paid Lodestar Gems Only]",
     "start_at": "2025-06-06T03:00:00Z",
     "step_up_loop_description": ""
+  },
+  {
+    "id": 2260,
+    "description": "Lila makes her debut!\nFeatured until 2025/06/28 10:59 (UTC+8).",
+    "end_at": "2025-06-28T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "To the Beloved Land - Lila LEGEND FES",
+    "name": "To the Beloved Land - Lila LEGEND FES",
+    "start_at": "2025-06-13T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2261,
+    "description": "After 50 Wishes with Paid Lodestar Gems, an additional Wish appears!\nUntil 2025/06/28 10:59 (UTC+8).",
+    "end_at": "2025-06-28T03:00:00Z",
+    "name": "To the Beloved Land - Lila LEGEND FES [Paid Lodestar Gems Only]",
+    "start_at": "2025-06-13T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 2262,
+    "description": "Mimi makes her debut!\nFeatured until 2025/07/12 10:59 (UTC+8).",
+    "end_at": "2025-07-12T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Arland Festival - Noble Princess Mimi LEGEND FES",
+    "name": "Arland Festival - Noble Princess Mimi LEGEND FES",
+    "start_at": "2025-06-19T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2263,
+    "description": "Additional wish banner appears after 50 wishes with Paid Lodestar Gems!\nFeatured until 2025/07/12 10:59 (UTC+8)",
+    "end_at": "2025-07-12T03:00:00Z",
+    "name": "Arland Festival: Noble Daughter of Pride - Mimi LEGEND FES [Paid Lodestar Gems Only]",
+    "start_at": "2025-06-19T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 226101,
+    "description": "Limited to 5 times! 2x Featured Rate Up!\nGet 16 medals! Featured until 2025/06/28 10:59 (UTC+8)",
+    "end_at": "2025-06-28T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10005,
+            "description": "With Bonus!\n{} Times Left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "To the Beloved Country - Lila LEGEND FES [Paid Lodestar Gems Only]",
+    "name": "To the Beloved Country - Lila LEGEND FES [Paid Lodestar Gems Only]",
+    "start_at": "2025-06-13T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 226301,
+    "description": "Limited to 5 times! 2x Featured Rate Up!\nGet 16 medals! Featured until 2025/07/12 10:59 (UTC+8)",
+    "end_at": "2025-07-12T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10005,
+            "description": "With Bonus!\n{} Times Left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Arland Festival: Noble Daughter of Pride - Mimi LEGEND FES [Paid Lodestar Gems Only]",
+    "name": "Arland Festival: Noble Daughter of Pride - Mimi LEGEND FES [Paid Lodestar Gems Only]",
+    "start_at": "2025-06-19T03:00:00Z",
+    "step_up_loop_description": ""
   }
 ]

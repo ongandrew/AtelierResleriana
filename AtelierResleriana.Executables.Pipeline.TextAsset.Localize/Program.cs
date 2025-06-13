@@ -185,11 +185,11 @@ namespace AtelierResleriana.Executables.Pipeline.TextAsset.Localize
                 new EnglishLocalizer(
                     new AnthropicTextGenerator(new AnthropicClient(configuration["Anthropic:ApiKey"]), new AnthropicTextGenerator.Options() 
                     {
-                        Model = Models.Claude37Sonnet
+                        Model = Models.ClaudeSonnet4
                     }),
                     new AnthropicTextTransformer(new AnthropicClient(configuration["Anthropic:ApiKey"]), new AnthropicTextTransformer.Options() 
                     {
-                        Model = Models.Claude37Sonnet
+                        Model = Models.ClaudeSonnet4
                     })
                 )
             ];
@@ -323,7 +323,8 @@ namespace AtelierResleriana.Executables.Pipeline.TextAsset.Localize
                     TextAssetPrefixes.CharacterEvent,
                     TextAssetPrefixes.Date,
                     TextAssetPrefixes.LegendEvent,
-                    TextAssetPrefixes.SeasonalTalkEvent
+                    TextAssetPrefixes.SeasonalTalkEvent,
+                    TextAssetPrefixes.SideStoryEvent
                 };
 
                 foreach (string dialogueTextType in basicDialogueTextTypes)

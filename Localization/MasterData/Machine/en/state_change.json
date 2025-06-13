@@ -1863,5 +1863,145 @@
     "id": 820396,
     "description": "Boosts damage dealt by {value}%. (MAX 1000%)",
     "name": "Received Damage Up"
+  },
+  {
+    "id": 510147,
+    "description": "Boosts P.DEF by {value}%. (MAX 70%)",
+    "name": "Bell of Protection"
+  },
+  {
+    "id": 510148,
+    "description": "Boosts M.DEF by {value}%. (MAX 70%)",
+    "name": "Bell of Protection"
+  },
+  {
+    "id": 510149,
+    "description": "Dummy buff for upper limit settings",
+    "name": "Dummy Buff for Upper Limit"
+  },
+  {
+    "id": 510155,
+    "description": "When any party member uses an item, grants self stun damage +{value}% for 1 turn. (MAX 3 activations) Note: Only activates once even if multiple items are used simultaneously.",
+    "name": "Pierce Through with This Lance!"
+  },
+  {
+    "id": 610256,
+    "description": "Boosts P.DEF by {value}%. (MAX 30%)",
+    "name": "P.DEF Up"
+  },
+  {
+    "id": 610257,
+    "description": "Boosts M.DEF by {value}%. (MAX 30%)",
+    "name": "M.DEF Up"
+  },
+  {
+    "id": 610258,
+    "description": "When hit by an attack, restores {value}% HP to all allies. (MAX 1)",
+    "name": "HP Recovery When Hit"
+  },
+  {
+    "id": 610259,
+    "description": "Boosts P.DEF by {value}%. (MAX 2)",
+    "name": "P.DEF Up"
+  },
+  {
+    "id": 610260,
+    "description": "Boosts M.DEF by {value}%. (MAX 2)",
+    "name": "M.DEF Up"
+  },
+  {
+    "id": 610263,
+    "description": "Boosts stun damage by {value}%. (MAX 30%)",
+    "name": "Stun Damage Up"
+  },
+  {
+    "id": 800148,
+    "description": "Boosts magical attack damage by {value}%. (MAX 2)",
+    "name": "Magical Attack Damage Up"
+  },
+  {
+    "id": 800150,
+    "description": "Boosts skill power by {value}%. (MAX 30%)",
+    "name": "Skill Power Up"
+  },
+  {
+    "id": 800151,
+    "description": "Reduces damage received by {value}%. (MAX 2)",
+    "name": "Received Damage Down"
+  },
+  {
+    "id": 800152,
+    "description": "Reduces damage received by {value}%. (MAX 2)",
+    "name": "Received Damage Down"
+  },
+  {
+    "id": 800153,
+    "description": "When self is an Attacker, boosts critical rate by {value}%.",
+    "name": "Attacker Critical Rate Up"
+  },
+  {
+    "id": 810398,
+    "description": "Boosts skill power by {value}%. Cannot be removed.",
+    "name": "Skill Power Up (Cond.)"
+  },
+  {
+    "id": 810399,
+    "description": "Boosts stun damage by {value}%. Cannot be removed.",
+    "name": "Stun Damage Up (Cond.)"
+  },
+  {
+    "id": 810402,
+    "description": "Nullifies Fire resistance down. Cannot be removed.",
+    "name": "Nullify Fire Resistance Down"
+  },
+  {
+    "id": 810403,
+    "description": "Nullifies Bolt resistance down. Cannot be removed.",
+    "name": "Nullify Bolt Resistance Down"
+  },
+  {
+    "id": 810404,
+    "description": "Nullifies Slash resistance down. Cannot be removed.",
+    "name": "Nullify Slash Resistance Down"
+  },
+  {
+    "id": 810405,
+    "description": "Nullifies Strike resistance down effects. Cannot be removed.",
+    "name": "Strike Resistance Down Immunity"
+  },
+  {
+    "id": 810406,
+    "description": "Nullifies Stab resistance down effects. Cannot be removed.",
+    "name": "Stab Resistance Down Immunity"
+  },
+  {
+    "id": 810413,
+    "description": "Reduces damage received by {value}%. Cannot be removed.",
+    "name": "Damage Received Down"
+  },
+  {
+    "id": 810414,
+    "description": "Boosts skill power by {value}%. Cannot be removed.",
+    "name": "Skill Power Up (Cond.)"
+  },
+  {
+    "id": 910169,
+    "description": "Reduces damage received by {value}%. (Cannot be stacked). (Unaffected by buff potency changes)",
+    "name": "Damage Received Down"
+  },
+  {
+    "id": 910170,
+    "description": "Boosts skill damage by {value}%. (MAX 3 stacks)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 910172,
+    "description": "Reduces damage received by {value}%. (Unaffected by buff potency changes)",
+    "name": "Damage Received Down"
+  },
+  {
+    "id": 1210397,
+    "description": "Boosts additional item gauge recovery after actions by {value}%. Cannot be removed.",
+    "name": "Item Gauge Recovery Up"
   }
 ]

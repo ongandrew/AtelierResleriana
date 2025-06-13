@@ -7,9 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Universal.Anthropic.Client" Version="2.2.0" />
+    <PackageReference Include="Universal.Anthropic.Client" Version="2.3.0" />
     <PackageReference Include="Universal.Common.Json" Version="1.5.0" />
-    <PackageReference Include="Universal.GenerativeAI.Anthropic" Version="1.0.0" />
+    <PackageReference Include="Universal.GenerativeAI.Anthropic" Version="1.0.1" />
   </ItemGroup>
 
   <ItemGroup>

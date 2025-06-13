@@ -1,0 +1,631 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "うわぁ、海だー！\u3000すごい！\u3000すごいね、ミミちゃん！\nトトリちゃんはいつも、こんな冒険してたんだ～！",
+        "localizations": {
+          "en": "Whoa, the ocean! Amazing! This is incredible, Mimi! So this is the kind of adventure Totori was always having!"
+        }
+      },
+      "2072370017": {
+        "text": "ロロナ",
+        "localizations": {
+          "en": "Rorona"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "ちょっとロロナさん！\u3000そんなに乗り出したら\n危ないわよ！\u3000ステルクさん、どうにかしなさいよ！",
+        "localizations": {
+          "en": "Rorona! Don't lean out so far—it's dangerous! Sterk, do something!"
+        }
+      },
+      "2072370017": {
+        "text": "ミミ",
+        "localizations": {
+          "en": "Mimi"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "うむ。君、危ないだろう――",
+        "localizations": {
+          "en": "Indeed. Miss, that's quite dangerous—"
+        }
+      },
+      "2072370017": {
+        "text": "ステルク",
+        "localizations": {
+          "en": "Sterk"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "ひゃっ！\u3000冷たっ！\u3000\nわわっ！\u3000ステルクさん、ごめんなさいっ！",
+        "localizations": {
+          "en": "Eek! So cold! Whoa! Sorry, Sterk!"
+        }
+      },
+      "2072370017": {
+        "text": "ロロナ",
+        "localizations": {
+          "en": "Rorona"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "いや。君は少し落ち着きたまえ",
+        "localizations": {
+          "en": "It's fine. You need to calm down a bit."
+        }
+      },
+      "2072370017": {
+        "text": "ステルク",
+        "localizations": {
+          "en": "Sterk"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "ステルクさんが落ち着きすぎなんですー。\nそういえばトトリちゃんは……",
+        "localizations": {
+          "en": "You're the one who's too calm! Speaking of which, where's Totori..."
+        }
+      },
+      "2072370017": {
+        "text": "ロロナ",
+        "localizations": {
+          "en": "Rorona"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "魔物はときどき現れたりしますが、\n概ね順調に進めてますね",
+        "localizations": {
+          "en": "We encounter monsters occasionally, but overall we're making good progress."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "どちらかといえば、他国の干渉や海賊なんかのほうを\n懸念していたけれど……今のところは大丈夫そうだ",
+        "localizations": {
+          "en": "If anything, I was more concerned about interference from other nations or pirates... but so far, so good."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "見かける船のほとんどが貿易船ですし、\n本当に平和ですよね～",
+        "localizations": {
+          "en": "Most of the ships we see are trading vessels. It's really peaceful out here."
+        }
+      },
+      "2072370017": {
+        "text": "トトリ",
+        "localizations": {
+          "en": "Totori"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "この辺りは主に諸島同盟の船が行き来する海域みたい\nですし、争いを禁じる掟があるおかげですね",
+        "localizations": {
+          "en": "This area is mainly used by ships from the Archipelago Federation, and they have laws prohibiting conflict."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "まあ、油断は禁物だけどね。\n掟に反する者たちが現れないとも限らない",
+        "localizations": {
+          "en": "Well, we shouldn't let our guard down. There's no guarantee we won't encounter those who break the rules."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "諸島同盟には治安を護る監察官と呼ばれる者たちも\nいるようだけど、海は広大だからねぇ",
+        "localizations": {
+          "en": "The Archipelago Federation has inspectors to maintain order, but the sea is vast."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "万が一この船を襲う奴がいたら、\n私が分からせてやるんだから",
+        "localizations": {
+          "en": "If anyone tries to attack this ship, I'll show them what's what."
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "うん！\u3000悪い人たちが乗り込んできたら、ハンマーで\nイチコロだよ！\u3000ランターナまで吹き飛ばす！",
+        "localizations": {
+          "en": "Yeah! If any bad guys try to board, my hammer will send 'em flying all the way back to Lantarna!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "ふふ、頼もしいね",
+        "localizations": {
+          "en": "Hehe, that's reassuring."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "ふわ～あ。何も起きなくて退屈してきたわ",
+        "localizations": {
+          "en": "Yaaawn. There's nothing happening... this is boring."
+        }
+      },
+      "2072370017": {
+        "text": "イルメリア",
+        "localizations": {
+          "en": "Ilmeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "もし暇なら、倉庫の整理をお願いしてもいいかな。\nさっき見たら、すごく散らかってたから",
+        "localizations": {
+          "en": "If you're bored, could you help organize the storage room? I checked earlier and it was a real mess."
+        }
+      },
+      "2072370017": {
+        "text": "トトリ",
+        "localizations": {
+          "en": "Totori"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "もしかして、ソフィーさん……",
+        "localizations": {
+          "en": "Sophie, don't tell me you..."
+        }
+      },
+      "2072370017": {
+        "text": "イルメリア",
+        "localizations": {
+          "en": "Ilmeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "あたしのせいじゃないよ！？",
+        "localizations": {
+          "en": "It's not my fault!"
+        }
+      },
+      "2072370017": {
+        "text": "ソフィー",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "ま、そういうことなら、天才的整理術で\nぱぱっと終わらせてあげるわ",
+        "localizations": {
+          "en": "Well, if that's the case, my genius organizational skills will get it sorted in no time."
+        }
+      },
+      "2072370017": {
+        "text": "イルメリア",
+        "localizations": {
+          "en": "Ilmeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "な！\u3000それなら私が！\u3000天才は一人で十分よ！",
+        "localizations": {
+          "en": "Hey! I'm the genius around here! One's plenty!"
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "あ、私もお手伝いします！",
+        "localizations": {
+          "en": "Oh, I'll help too!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "じゃあ、アタシたちは甲板の掃除でもする？",
+        "localizations": {
+          "en": "Should we clean the deck then?"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "そうだね。甲板を綺麗に磨き上げれば、\n航海もより楽しくなるというものだ！",
+        "localizations": {
+          "en": "Good idea. A sparkling clean deck will make our voyage even more enjoyable!"
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "ヨハナちゃんはこっちの箱を片付けてもらえる？\nイルメリア先輩は素材の仕分けをお願いします",
+        "localizations": {
+          "en": "Johanna, could you take care of this box? Miss Ilmeria, I'd like you to sort the materials."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "任せなさい！",
+        "localizations": {
+          "en": "Leave it to me!"
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "お安いご用よ！",
+        "localizations": {
+          "en": "Easy as pie!"
+        }
+      },
+      "2072370017": {
+        "text": "イルメリア",
+        "localizations": {
+          "en": "Ilmeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "いい指揮官っぷりだね、我が同志は。頼もしい限りだ",
+        "localizations": {
+          "en": "You're demonstrating quite excellent leadership skills, my kindred spirit. It's most impressive."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "（レスナちゃん、立派になったなぁ……）",
+        "localizations": {
+          "en": "Resna's really grown up..."
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "（そのうち、レスナちゃんを助ける騎士なんて、\n\u3000いらなくなっちゃうのかなぁ……）",
+        "localizations": {
+          "en": "At this rate, maybe she won't need a knight to help her anymore..."
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "（それはそれで、ものすごく成長したってことだし\n\u3000嬉しいことだけど……）",
+        "localizations": {
+          "en": "I mean, that would show how much she's grown, which is great, but..."
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "きゃっ！",
+        "localizations": {
+          "en": "Eek!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "っ！\u3000レスナちゃん！？\u3000大丈夫！？",
+        "localizations": {
+          "en": "Resna! Are you okay?!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "い、イザナちゃん！\nむむむ虫が……荷物の裏に……",
+        "localizations": {
+          "en": "I-Izana! There's a b-bug... behind the cargo..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "あー",
+        "localizations": {
+          "en": "Ah."
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "しょうがないなあ、レスナちゃんは。\nアタシも加勢するよ！",
+        "localizations": {
+          "en": "Oh, Resna. I'll come help you out!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "うう、ありがとうイザナちゃん……",
+        "localizations": {
+          "en": "Thank you, Izana..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  }
+]

@@ -1381,5 +1381,35 @@
     "description": "Exchange for items at the \"Atelier Week\" Exchange.",
     "end_at": "2025-07-01T03:00:00Z",
     "name": "Atelier Week Coin"
+  },
+  {
+    "id": 1048,
+    "description": "A ticket that allows you to make a wish in the Meruru [Damsel in Distress] ☆6 Release Commemorative Wish.",
+    "end_at": "2025-07-12T03:00:00Z",
+    "name": "Meruru [Damsel in Distress] ☆6 Release Commemorative Wish Ticket"
+  },
+  {
+    "id": 1049,
+    "description": "A ticket that allows you to make a wish in the Arland Festival: Seaside Guide Totori LEGEND FES.",
+    "end_at": "2025-07-12T03:00:00Z",
+    "name": "Arland Festival: Seaside Guide Totori Wish Ticket"
+  },
+  {
+    "id": 1052,
+    "description": "Exchange for items at the \"Scholarly Island Karlston\" Exchange.",
+    "end_at": "2025-07-12T03:00:00Z",
+    "name": "Dungeon Coin [Scholarly Island Karlston: Part 2]"
+  },
+  {
+    "id": 1053,
+    "description": "Material needed for synthesis.",
+    "name": "Moon Celicum",
+    "start_at": "2025-06-24T03:00:00Z"
+  },
+  {
+    "id": 1054,
+    "description": "Material needed for synthesis.",
+    "name": "Angelfish",
+    "start_at": "2025-06-24T03:00:00Z"
   }
 ]

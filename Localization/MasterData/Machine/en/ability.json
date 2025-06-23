@@ -4446,32 +4446,32 @@
   },
   {
     "id": 301203,
-    "description": "While equipped to Lila [Elegant Elite], when taking damage, grants all allies \"magical damage +{0}%\" for 1 turn (up to 2 stacks).",
+    "description": "While equipped to Lila [Elegant Elite], when taking damage, grants all allies magical damage +{0}% for 1 turn (up to 2 stacks).",
     "name": "Evil Spirit Prayer Claws"
   },
   {
     "id": 301204,
-    "description": "While equipped to a Defender with Air affinity, when taking damage, grants all allies \"damage received -{0}%\" until taking 1 attack (up to 2 stacks).",
+    "description": "While equipped to a Defender with Air affinity, when taking damage, grants all allies damage received -{0}% until taking 1 attack (up to 2 stacks).",
     "name": "Floral Yukata"
   },
   {
     "id": 301205,
-    "description": "While equipped to a Defender with Air affinity, when taking damage, grants all allies \"damage received -{0}%\" until taking 1 attack (up to 2 stacks).",
+    "description": "While equipped to a Defender with Air affinity, when taking damage, grants all allies damage received -{0}% until taking 1 attack (up to 2 stacks).",
     "name": "Floral Yukata"
   },
   {
     "id": 301206,
-    "description": "While equipped to a Defender with Air affinity, after using a skill, grants all allies \"HP recovery received +{0}%\" for 1 turn.",
+    "description": "While equipped to a Defender with Air affinity, after using a skill, grants all allies HP recovery received +{0}% for 1 turn.",
     "name": "Eternal Shawl"
   },
   {
     "id": 301207,
-    "description": "While equipped to a Defender with Air affinity, after using a skill, grants all allies \"HP recovery received +{0}%\" for 1 turn.",
+    "description": "While equipped to a Defender with Air affinity, after using a skill, grants all allies HP recovery received +{0}% for 1 turn.",
     "name": "Eternal Shawl"
   },
   {
     "id": 301208,
-    "description": "While equipped to Mimi [Proud Voyager] and attacking a stunned target, grants the ally with the highest M.ATK \"skill power +{0}%\" (up to 30%).",
+    "description": "While equipped to Mimi [Proud Voyager] and attacking a stunned target, grants the ally with the highest M.ATK skill power +{0}% (up to 30%).",
     "name": "Family Heirloom Brooch"
   },
   {
@@ -4496,7 +4496,7 @@
   },
   {
     "id": 1980195,
-    "description": "Characters with Air affinity gain \"P.DEF and M.DEF +{0}%\".",
+    "description": "Characters with Air affinity gain P.DEF and M.DEF +{0}%.",
     "name": "Clad in Spirit Wind"
   },
   {
@@ -4576,52 +4576,52 @@
   },
   {
     "id": 4990963,
-    "description": "For characters with the \"Arland\" tag, reduces damage received by {0}% (fixed).",
+    "description": "Reduces damage received by {0}% (fixed) for Arland characters.",
     "name": "Arland Guard Up II"
   },
   {
     "id": 4990964,
-    "description": "For characters with the \"Arland\" tag, reduces damage received by {0}% (fixed).",
+    "description": "Reduces damage received by {0}% (fixed) for Arland characters.",
     "name": "Arland Guard Up II"
   },
   {
     "id": 4990965,
-    "description": "For characters with the \"Arland\" tag, reduces damage received by {0}% (fixed).",
+    "description": "Reduces damage received by {0}% (fixed) for Arland characters.",
     "name": "Arland Guard Up II"
   },
   {
     "id": 4990966,
-    "description": "For characters with the \"Arland\" tag, reduces damage received by {0}% (fixed).",
+    "description": "Reduces damage received by {0}% (fixed) for Arland characters.",
     "name": "Arland Guard Up II"
   },
   {
     "id": 4990967,
-    "description": "For characters with the \"Arland\" tag, reduces damage received by {0}% (fixed).",
+    "description": "Reduces damage received by {0}% (fixed) for Arland characters.",
     "name": "Arland Guard Up II"
   },
   {
     "id": 4990968,
-    "description": "For characters with the \"Arland\" tag, boosts potency of buff effects given by {0}% and HP recovery amount by {1}%.",
+    "description": "Boosts potency of buff effects given by {0}% and HP recovery amount by {1}% for Arland characters.",
     "name": "Willpower \"Rorona's Pie\""
   },
   {
     "id": 4990969,
-    "description": "For characters with the \"Arland\" tag, boosts potency of buff effects given by {0}% and HP recovery amount by {1}%.",
+    "description": "Boosts potency of buff effects given by {0}% and HP recovery amount by {1}% for Arland characters.",
     "name": "Willpower \"Rorona's Pie\""
   },
   {
     "id": 4990970,
-    "description": "For characters with the \"Arland\" tag, boosts potency of buff effects given by {0}% and HP recovery amount by {1}%.",
+    "description": "Boosts potency of buff effects given by {0}% and HP recovery amount by {1}% for Arland characters.",
     "name": "Willpower \"Rorona's Pie\""
   },
   {
     "id": 4990971,
-    "description": "For characters with the \"Arland\" tag, boosts potency of buff effects given by {0}% and HP recovery amount by {1}%.",
+    "description": "Boosts potency of buff effects given by {0}% and HP recovery amount by {1}% for Arland characters.",
     "name": "Willpower \"Rorona's Pie\""
   },
   {
     "id": 4990972,
-    "description": "For characters with the \"Arland\" tag, boosts potency of buff effects given by {0}% and HP recovery amount by {1}%.",
+    "description": "Boosts potency of buff effects given by {0}% and HP recovery amount by {1}% for Arland characters.",
     "name": "Willpower \"Rorona's Pie\""
   },
   {
@@ -4708,5 +4708,145 @@
     "id": 600000678,
     "description": "When self has \"Kurken Island\" tag, boosts skill power by 100%",
     "name": "Skill Power Up When Self Has Kurken Island Tag"
+  },
+  {
+    "id": 301213,
+    "description": "While equipped to a character with Ice affinity, boosts skill damage by {0}% for single target attacks.<br>While equipped to an Attacker, before attacking, reduces target's Ice resistance by {1}% for 1 attack.",
+    "name": "Damsel Crown"
+  },
+  {
+    "id": 301214,
+    "description": "While equipped to Totori [Endless Voyager], after using a skill, increases magical damage received by all enemies by {0}% for 1 attack (Max: 3 stacks).",
+    "name": "Fishing Village Alchemist's Staff"
+  },
+  {
+    "id": 301215,
+    "description": "While equipped to a Supporter with Ice affinity, boosts HP recovery granted by {0}%.",
+    "name": "Crazy Chalk"
+  },
+  {
+    "id": 301216,
+    "description": "While equipped to a Supporter with Ice affinity, boosts HP recovery granted by {0}%.",
+    "name": "Crazy Chalk"
+  },
+  {
+    "id": 301217,
+    "description": "While equipped to a Supporter, after using a skill, boosts Ice damage by {0}% for all allies for 1 turn.",
+    "name": "Schlunk Mate Hen"
+  },
+  {
+    "id": 301218,
+    "description": "While equipped to a Supporter, after using a skill, boosts Ice damage by {0}% for all allies for 1 turn.",
+    "name": "Schlunk Mate Hen"
+  },
+  {
+    "id": 1980198,
+    "description": "Arland characters gain M.ATK and M.DEF +{0}%.",
+    "name": "Arland's Famous Adventurer"
+  },
+  {
+    "id": 1990364,
+    "description": "Grants the following additional effect to all allies with Ice affinity:<br>Additional Effect: After attacking, increases target's damage received by 40% for 1 attack (Max: 4 stacks).",
+    "name": "Veteran Adventurer's Tactics"
+  },
+  {
+    "id": 1990365,
+    "description": "When attacking a target with increased damage received, restores the item gauge by {0}% and grants burst skill damage +{1}% to all allies with Ice affinity (Cannot be stacked).",
+    "name": "Everyone's Power Will Help!"
+  },
+  {
+    "id": 1990366,
+    "description": "When attacking a target with increased damage received, grants self M.ATK +{0}% and skill damage +{1}% (Max: 180%).",
+    "name": "The Party's Just Getting Started!"
+  },
+  {
+    "id": 4990973,
+    "description": "While equipped to a Supporter with Ice affinity, after using a skill, increases magical damage received by all enemies by {0}% for 1 attack (Max: 4 stacks).<br>With Family & Friends tag, boosts skill damage by {1}% for all Attacker allies.",
+    "name": "Thoughts \"It's a Gathering Day!\""
+  },
+  {
+    "id": 4990974,
+    "description": "While equipped to a Supporter with Ice affinity, after using a skill, increases magical damage received by all enemies by {0}% for 1 attack (Max: 4 stacks).<br>With Family & Friends tag, boosts skill damage by {1}% for all Attacker allies.",
+    "name": "Thoughts \"It's a Gathering Day!\""
+  },
+  {
+    "id": 4990975,
+    "description": "While equipped to a Supporter with Ice affinity, after using a skill, increases magical damage received by all enemies by {0}% for 1 attack (Max: 4 stacks).<br>With Family & Friends tag, boosts skill damage by {1}% for all Attacker allies.",
+    "name": "Thoughts \"It's a Gathering Day!\""
+  },
+  {
+    "id": 4990976,
+    "description": "While equipped to a Supporter with Ice affinity, after using a skill, increases magical damage received by all enemies by {0}% for 1 attack (Max: 4 stacks).<br>With Family & Friends tag, boosts skill damage by {1}% for all Attacker allies.",
+    "name": "Thoughts \"It's a Gathering Day!\""
+  },
+  {
+    "id": 4990977,
+    "description": "While equipped to a Supporter with Ice affinity, after using a skill, increases magical damage received by all enemies by {0}% for 1 attack (Max: 4 stacks).<br>With Family & Friends tag, boosts skill damage by {1}% for all Attacker allies.",
+    "name": "Thoughts \"It's a Gathering Day!\""
+  },
+  {
+    "id": 7000738,
+    "description": "Boosts HP recovery granted by {0}% for characters with Ice affinity.",
+    "name": "Ice Affinity Character HP Recovery Up (1)"
+  },
+  {
+    "id": 7000739,
+    "description": "Boosts HP recovery granted by {0}% for characters with Ice affinity.",
+    "name": "Ice Affinity Character HP Recovery Up (2)"
+  },
+  {
+    "id": 7000740,
+    "description": "Boosts HP recovery granted by {0}% for characters with Ice affinity.",
+    "name": "Ice Affinity Character HP Recovery Up (3)"
+  },
+  {
+    "id": 26001002,
+    "description": "When defeating an enemy with a single target attack, grants magical skill damage up (50%) to all enemies.",
+    "name": ""
+  },
+  {
+    "id": 26001003,
+    "description": "When defeating an enemy with a single target attack, grants magical skill damage up (100%) to all enemies.",
+    "name": ""
+  },
+  {
+    "id": 26002002,
+    "description": "When defeated by a single target attack, grants Max HP Up (20%) to all enemies.",
+    "name": ""
+  },
+  {
+    "id": 26002003,
+    "description": "When defeated by a single target attack, grants Max HP Up (40%) to all enemies.",
+    "name": ""
+  },
+  {
+    "id": 26002004,
+    "description": "When defeated by a single target attack, grants Damage Dealt Up (invisible) to all allies.",
+    "name": ""
+  },
+  {
+    "id": 26026001,
+    "description": "When defeated by a single target attack, grants Physical Skill Damage Up (50%) to all enemies.",
+    "name": ""
+  },
+  {
+    "id": 26026002,
+    "description": "When defeated by a single target attack, grants Physical Skill Damage Up (100%) to all enemies.",
+    "name": ""
+  },
+  {
+    "id": 26166000,
+    "description": "At the start of a wave, grants self Damage Dealt Up (1000%) against enemies whose affinity is not Bolt.",
+    "name": ""
+  },
+  {
+    "id": 600000679,
+    "description": "When teamed with Totori [Endless Voyager] or Mimi [Proud Voyager], reduces damage received by 25% (MAX 25%).",
+    "name": "Damage Reduction when teamed with Totori [Endless Voyager] or Mimi [Proud Voyager]"
+  },
+  {
+    "id": 600000680,
+    "description": "Boosts positive effect potency given by Totori [Endless Voyager] by 150%.",
+    "name": "Totori [Endless Voyager] Positive Effect Potency Up"
   }
 ]

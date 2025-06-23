@@ -15094,5 +15094,587 @@
     "description": "After attacking, boosts own damage dealt by 20% for 3 attacks and grants Evasion for 2 attacks.",
     "name": "White Slash",
     "summary": ""
+  },
+  {
+    "id": 11002873,
+    "description": "After attacking, restores the item gauge by {0}%.<br>Boosts M.ATK by {1}% and skill damage by {2}% for all allies with Ice affinity for 1 turn.",
+    "name": "Totori Impact",
+    "summary": "After attacking, restores the item gauge.<br>Boosts M.ATK and skill damage for all allies with Ice affinity."
+  },
+  {
+    "id": 11002874,
+    "description": "After attacking, restores the item gauge by {0}%.<br>Boosts M.ATK by {1}% and skill damage by {2}% for all allies with Ice affinity for 1 turn.",
+    "name": "Totori Impact",
+    "summary": "After attacking, restores the item gauge.<br>Boosts M.ATK and skill damage for all allies with Ice affinity."
+  },
+  {
+    "id": 11002875,
+    "description": "After attacking, restores the item gauge by {0}%.<br>Boosts M.ATK by {1}% and skill damage by {2}% for all allies with Ice affinity for 1 turn.",
+    "name": "Totori Impact",
+    "summary": "After attacking, restores the item gauge.<br>Boosts M.ATK and skill damage for all allies with Ice affinity."
+  },
+  {
+    "id": 11002876,
+    "description": "After attacking, restores the item gauge by {0}%.<br>Boosts M.ATK by {1}% and skill damage by {2}% for all allies with Ice affinity for 1 turn.",
+    "name": "Totori Impact",
+    "summary": "After attacking, restores the item gauge.<br>Boosts M.ATK and skill damage for all allies with Ice affinity."
+  },
+  {
+    "id": 11002877,
+    "description": "After attacking, restores the item gauge by {0}%.<br>Boosts M.ATK by {1}% and skill damage by {2}% for all allies with Ice affinity for 1 turn.",
+    "name": "Totori Impact",
+    "summary": "After attacking, restores the item gauge.<br>Boosts M.ATK and skill damage for all allies with Ice affinity."
+  },
+  {
+    "id": 11002940,
+    "description": "Before attacking, reduces target's Ice resistance by {0}% for 3 attacks.<br>After attacking, boosts Flame Breeze's damage by {1}% (max 90%).<br>Boosts own skill damage by {2}% for 1 turn.",
+    "name": "Ice Touch",
+    "summary": "Before attacking, reduces target's Ice resistance.<br>After attacking, boosts Flame Breeze's damage.<br>Boosts own skill damage."
+  },
+  {
+    "id": 11002941,
+    "description": "Before attacking, reduces target's Ice resistance by {0}% for 3 attacks.<br>After attacking, boosts Flame Breeze's damage by {1}% (max 90%).<br>Boosts own skill damage by {2}% for 1 turn.",
+    "name": "Ice Touch",
+    "summary": "Before attacking, reduces target's Ice resistance.<br>After attacking, boosts Flame Breeze's damage.<br>Boosts own skill damage."
+  },
+  {
+    "id": 11002942,
+    "description": "Before attacking, reduces target's Ice resistance by {0}% for 3 attacks.<br>After attacking, boosts Flame Breeze's damage by {1}% (max 90%).<br>Boosts own skill damage by {2}% for 1 turn.",
+    "name": "Ice Touch",
+    "summary": "Before attacking, reduces target's Ice resistance.<br>After attacking, boosts Flame Breeze's damage.<br>Boosts own skill damage."
+  },
+  {
+    "id": 11002943,
+    "description": "Before attacking, reduces target's Ice resistance by {0}% for 3 attacks.<br>After attacking, boosts Flame Breeze's damage by {1}% (max 90%).<br>Boosts own skill damage by {2}% for 1 turn.",
+    "name": "Ice Touch",
+    "summary": "Before attacking, reduces target's Ice resistance.<br>After attacking, boosts Flame Breeze's damage.<br>Boosts own skill damage."
+  },
+  {
+    "id": 11002944,
+    "description": "Before attacking, reduces target's Ice resistance by {0}% for 3 attacks.<br>After attacking, boosts Flame Breeze's damage by {1}% (max 90%).<br>Boosts own skill damage by {2}% for 1 turn.",
+    "name": "Ice Touch",
+    "summary": "Before attacking, reduces target's Ice resistance.<br>After attacking, boosts Flame Breeze's damage.<br>Boosts own skill damage."
+  },
+  {
+    "id": 12002878,
+    "description": "After attacking, restores all allies' HP by {0}%.<br>Boosts M.ATK by {1}% for all allies with Ice affinity for 2 turns.<br>Boosts burst skill damage by {2}% for all Attacker allies with Ice affinity (max 50%).",
+    "name": "Radial Slicer",
+    "summary": "After attacking, restores all allies' HP.<br>Boosts M.ATK for all allies with Ice affinity.<br>Boosts burst skill damage for all Attacker allies with Ice affinity."
+  },
+  {
+    "id": 12002879,
+    "description": "After attacking, restores all allies' HP by {0}%.<br>Boosts M.ATK by {1}% for all allies with Ice affinity for 2 turns.<br>Boosts burst skill damage by {2}% for all Attacker allies with Ice affinity (max 50%).",
+    "name": "Radial Slicer",
+    "summary": "After attacking, restores all allies' HP.<br>Boosts M.ATK for all allies with Ice affinity.<br>Boosts burst skill damage for all Attacker allies with Ice affinity."
+  },
+  {
+    "id": 12002880,
+    "description": "After attacking, restores all allies' HP by {0}%.<br>Boosts M.ATK by {1}% for all allies with Ice affinity for 2 turns.<br>Boosts burst skill damage by {2}% for all Attacker allies with Ice affinity (max 50%).",
+    "name": "Radial Slicer",
+    "summary": "After attacking, restores all allies' HP.<br>Boosts M.ATK for all allies with Ice affinity.<br>Boosts burst skill damage for all Attacker allies with Ice affinity."
+  },
+  {
+    "id": 12002881,
+    "description": "After attacking, restores all allies' HP by {0}%.<br>Boosts M.ATK by {1}% for all allies with Ice affinity for 2 turns.<br>Boosts burst skill damage by {2}% for all Attacker allies with Ice affinity (max 50%).",
+    "name": "Radial Slicer",
+    "summary": "After attacking, restores all allies' HP.<br>Boosts M.ATK for all allies with Ice affinity.<br>Boosts burst skill damage for all Attacker allies with Ice affinity."
+  },
+  {
+    "id": 12002882,
+    "description": "After attacking, restores all allies' HP by {0}%.<br>Boosts M.ATK by {1}% for all allies with Ice affinity for 2 turns.<br>Boosts burst skill damage by {2}% for all Attacker allies with Ice affinity (max 50%).",
+    "name": "Radial Slicer",
+    "summary": "After attacking, restores all allies' HP.<br>Boosts M.ATK for all allies with Ice affinity.<br>Boosts burst skill damage for all Attacker allies with Ice affinity."
+  },
+  {
+    "id": 12002945,
+    "description": "Before attacking, reduces target's Ice resistance by {0}% for 2 attacks.<br>After attacking, boosts own skill damage by {1}% for 2 turns.<br>When target has a damage received boost status, boosts own burst skill damage by {2}% (max 300%).",
+    "name": "Flame Breeze",
+    "summary": "Before attacking, reduces target's Ice resistance.<br>After attacking, boosts own skill damage.<br>When target has a damage received boost status, boosts own burst skill damage."
+  },
+  {
+    "id": 12002946,
+    "description": "Before attacking, reduces target's Ice resistance by {0}% for 2 attacks.<br>After attacking, boosts own skill damage by {1}% for 2 turns.<br>When target has a damage received boost status, boosts own burst skill damage by {2}% (max 300%).",
+    "name": "Flame Breeze",
+    "summary": "Before attacking, reduces target's Ice resistance.<br>After attacking, boosts own skill damage.<br>When target has a damage received boost status, boosts own burst skill damage."
+  },
+  {
+    "id": 12002947,
+    "description": "Before attacking, reduces target's Ice resistance by {0}% for 2 attacks.<br>After attacking, boosts own skill damage by {1}% for 2 turns.<br>When target has a damage received boost status, boosts own burst skill damage by {2}% (max 300%).",
+    "name": "Flame Breeze",
+    "summary": "Before attacking, reduces target's Ice resistance.<br>After attacking, boosts own skill damage.<br>When target has a damage received boost status, boosts own burst skill damage."
+  },
+  {
+    "id": 12002948,
+    "description": "Before attacking, reduces target's Ice resistance by {0}% for 2 attacks.<br>After attacking, boosts own skill damage by {1}% for 2 turns.<br>When target has a damage received boost status, boosts own burst skill damage by {2}% (max 300%).",
+    "name": "Flame Breeze",
+    "summary": "Before attacking, reduces target's Ice resistance.<br>After attacking, boosts own skill damage.<br>When target has a damage received boost status, boosts own burst skill damage."
+  },
+  {
+    "id": 12002949,
+    "description": "Before attacking, reduces target's Ice resistance by {0}% for 2 attacks.<br>After attacking, boosts own skill damage by {1}% for 2 turns.<br>When target has a damage received boost status, boosts own burst skill damage by {2}% (max 300%).",
+    "name": "Flame Breeze",
+    "summary": "Before attacking, reduces target's Ice resistance.<br>After attacking, boosts own skill damage.<br>When target has a damage received boost status, boosts own burst skill damage."
+  },
+  {
+    "id": 14002883,
+    "description": "Before attacking, removes all negative effects from all allies.<br>After attacking, restores all allies' HP by {0}%.<br>Boosts M.ATK by {1}% and skill damage by {2}% for all allies with Ice affinity for 2 turns.<br>Increases target's damage received by {3}% and stun damage received by {4}% for 2 attacks.",
+    "name": "Chilly Call Buster",
+    "summary": "Before attacking, removes all negative effects from all allies.<br>After attacking, restores all allies' HP.<br>Boosts M.ATK and skill damage for all allies with Ice affinity.<br>Increases target's damage received and stun damage received."
+  },
+  {
+    "id": 14002884,
+    "description": "Before attacking, removes all negative effects from all allies.<br>After attacking, restores all allies' HP by {0}%.<br>Boosts M.ATK by {1}% and skill damage by {2}% for all allies with Ice affinity for 2 turns.<br>Increases target's damage received by {3}% and stun damage received by {4}% for 2 attacks.",
+    "name": "Chilly Call Buster",
+    "summary": "Before attacking, removes all negative effects from all allies.<br>After attacking, restores all allies' HP.<br>Boosts M.ATK and skill damage for all allies with Ice affinity.<br>Increases target's damage received and stun damage received."
+  },
+  {
+    "id": 14002885,
+    "description": "Before attacking, removes all negative effects from all allies.<br>After attacking, restores all allies' HP by {0}%.<br>Boosts M.ATK by {1}% and skill damage by {2}% for all allies with Ice affinity for 2 turns.<br>Increases target's damage received by {3}% and stun damage received by {4}% for 2 attacks.",
+    "name": "Chilly Call Buster",
+    "summary": "Before attacking, removes all negative effects from all allies.<br>After attacking, restores all allies' HP.<br>Boosts M.ATK and skill damage for all allies with Ice affinity.<br>Increases target's damage received and stun damage received."
+  },
+  {
+    "id": 14002886,
+    "description": "Before attacking, removes all negative effects from all allies.<br>After attacking, restores all allies' HP by {0}%.<br>Boosts M.ATK by {1}% and skill damage by {2}% for all allies with Ice affinity for 2 turns.<br>Increases target's damage received by {3}% and stun damage received by {4}% for 2 attacks.",
+    "name": "Chilly Call Buster",
+    "summary": "Before attacking, removes all negative effects from all allies.<br>After attacking, restores all allies' HP.<br>Boosts M.ATK and skill damage for all allies with Ice affinity.<br>Increases target's damage received and stun damage received."
+  },
+  {
+    "id": 14002887,
+    "description": "Before attacking, removes all negative effects from all allies.<br>After attacking, restores all allies' HP by {0}%.<br>Boosts M.ATK by {1}% and skill damage by {2}% for all allies with Ice affinity for 2 turns.<br>Increases target's damage received by {3}% and stun damage received by {4}% for 2 attacks.",
+    "name": "Chilly Call Buster",
+    "summary": "Before attacking, removes all negative effects from all allies.<br>After attacking, restores all allies' HP.<br>Boosts M.ATK and skill damage for all allies with Ice affinity.<br>Increases target's damage received and stun damage received."
+  },
+  {
+    "id": 14002908,
+    "description": "Swaps self's turn with 1 ally within the first 5 positions of the timeline (Can be used up to 2 times).",
+    "name": "Tactical Change",
+    "summary": "Swaps self's turn with an ally within the first 5 positions of the timeline."
+  },
+  {
+    "id": 14002939,
+    "description": "After attacking, boosts own SPD by {0}% for 1 turn.<br>Boosts own skill damage by {1}% for 3 turns.",
+    "name": "Meru's Runway",
+    "summary": "After attacking, greatly boosts own SPD.<br>Boosts own skill damage."
+  },
+  {
+    "id": 14002950,
+    "description": "Before attacking, removes all negative effects from self.<br>After attacking, boosts own SPD by {0}% for 1 turn.<br>Boosts own M.ATK by {1}% and skill damage by {2}% for 3 turns.",
+    "name": "Meru's Runway",
+    "summary": "Before attacking, removes all negative effects from self.<br>After attacking, boosts own SPD.<br>Boosts own M.ATK and skill damage."
+  },
+  {
+    "id": 32002559,
+    "description": "Boosts critical damage by 20%.",
+    "name": "Fatal Bite",
+    "summary": ""
+  },
+  {
+    "id": 32002560,
+    "description": "After attacking, boosts own critical rate by 15% for 1 turn.",
+    "name": "Gnawing",
+    "summary": ""
+  },
+  {
+    "id": 32002561,
+    "description": "After attacking, boosts own critical damage by 15% for 3 turns.",
+    "name": "Growl",
+    "summary": ""
+  },
+  {
+    "id": 32002562,
+    "description": "No additional effects.",
+    "name": "Wind Sphere",
+    "summary": ""
+  },
+  {
+    "id": 32002563,
+    "description": "No additional effects.",
+    "name": "Tornado Rush",
+    "summary": ""
+  },
+  {
+    "id": 32002564,
+    "description": "Boosts all allies' critical rate by 25% and increases damage received by 40% for 1 turn.",
+    "name": "Decisive Howl",
+    "summary": ""
+  },
+  {
+    "id": 32002571,
+    "description": "After attacking, boosts own damage dealt by 40% for 1 turn and SPD by 10% for 2 turns.",
+    "name": "Fatal Bite",
+    "summary": ""
+  },
+  {
+    "id": 32002572,
+    "description": "After attacking, boosts own damage dealt by 30% for 1 turn.",
+    "name": "Gnawing",
+    "summary": ""
+  },
+  {
+    "id": 32002573,
+    "description": "No additional effects.",
+    "name": "Growl",
+    "summary": ""
+  },
+  {
+    "id": 32002574,
+    "description": "After attacking, increases skill target's damage received by 25% for 1 turn.",
+    "name": "Thunder Shout",
+    "summary": ""
+  },
+  {
+    "id": 32002575,
+    "description": "Boosts own SPD by 30% for 2 turns.",
+    "name": "Howl",
+    "summary": ""
+  },
+  {
+    "id": 32002576,
+    "description": "Boosts this attack's critical damage by 15%.",
+    "name": "Fatal Bite",
+    "summary": ""
+  },
+  {
+    "id": 32002577,
+    "description": "After attacking, boosts own critical rate by 25% for 1 turn.",
+    "name": "Bite",
+    "summary": ""
+  },
+  {
+    "id": 32002578,
+    "description": "After attacking, boosts own critical damage by 15% for 3 turns.",
+    "name": "Howl",
+    "summary": ""
+  },
+  {
+    "id": 32002579,
+    "description": "No additional effects.",
+    "name": "Wind Ball",
+    "summary": ""
+  },
+  {
+    "id": 32002580,
+    "description": "No additional effects.",
+    "name": "Tornado",
+    "summary": ""
+  },
+  {
+    "id": 32002581,
+    "description": "No additional effects.",
+    "name": "Breeze",
+    "summary": ""
+  },
+  {
+    "id": 32002582,
+    "description": "After attacking, boosts own damage dealt by 20% for 2 turns.",
+    "name": "Bite",
+    "summary": ""
+  },
+  {
+    "id": 32002583,
+    "description": "After attacking, reduces target's stun damage received by 20% for 2 turns.",
+    "name": "Darkstorm",
+    "summary": ""
+  },
+  {
+    "id": 32002584,
+    "description": "After attacking, reduces target's stun damage received by 30% for 2 turns and HP recovery by 30% for 2 turns.",
+    "name": "Blood Fang",
+    "summary": ""
+  },
+  {
+    "id": 32002585,
+    "description": "After attacking, grants self negative effect immunity for 2 turns and reduces damage received by 30% for 3 turns.",
+    "name": "Great Heavy Storm",
+    "summary": ""
+  },
+  {
+    "id": 32002586,
+    "description": "No additional effects.",
+    "name": "Triple Slash",
+    "summary": ""
+  },
+  {
+    "id": 32002587,
+    "description": "After attacking, increases target's damage received by 30% for 2 turns and reduces P.ATK by 30% for 2 turns.",
+    "name": "Menacing Talon",
+    "summary": ""
+  },
+  {
+    "id": 32002588,
+    "description": "After attacking, delays target's turn by 2 turns and reduces SPD by 10% for 1 turn.",
+    "name": "Breeze Ribbon",
+    "summary": ""
+  },
+  {
+    "id": 32002589,
+    "description": "After attacking, reduces target's Air resistance by 20% for 2 turns.",
+    "name": "Heavy Storm",
+    "summary": ""
+  },
+  {
+    "id": 32002590,
+    "description": "Boosts own damage dealt by 30% for 2 turns and reduces negative effect potency by 50% for 2 turns.",
+    "name": "Spirit Howl",
+    "summary": ""
+  },
+  {
+    "id": 32002591,
+    "description": "After attacking, converts target's panel to a burn panel.",
+    "name": "Full Burn Shot",
+    "summary": ""
+  },
+  {
+    "id": 32002592,
+    "description": "No additional effects.",
+    "name": "Glide",
+    "summary": ""
+  },
+  {
+    "id": 32002593,
+    "description": "After attacking, inflicts 5 stacks of Burn (1%, 100% application chance) on target.",
+    "name": "Burning Shot",
+    "summary": ""
+  },
+  {
+    "id": 32002594,
+    "description": "When target is burned, boosts damage dealt by 30%.",
+    "name": "Fuel Ball",
+    "summary": ""
+  },
+  {
+    "id": 32002595,
+    "description": "No additional effects.",
+    "name": "Wing Cutter",
+    "summary": ""
+  },
+  {
+    "id": 32002596,
+    "description": "Removes target's negative effects and grants self damage dealt up by 20% for 3 turns and damage received down by 20% for 3 turns.",
+    "name": "Spirited Howl",
+    "summary": ""
+  },
+  {
+    "id": 32002597,
+    "description": "After attacking, boosts own damage by 40% for 1 turn and SPD by 10% for 2 turns.",
+    "name": "Fatal Bite",
+    "summary": ""
+  },
+  {
+    "id": 32002598,
+    "description": "After attacking, boosts own damage by 30% for 1 turn.",
+    "name": "Bite",
+    "summary": ""
+  },
+  {
+    "id": 32002599,
+    "description": "Boosts this attack's critical damage by 15%.",
+    "name": "Fatal Bite",
+    "summary": ""
+  },
+  {
+    "id": 32002600,
+    "description": "After attacking, boosts own critical rate by 25% for 1 turn.",
+    "name": "Bite",
+    "summary": ""
+  },
+  {
+    "id": 32002601,
+    "description": "No additional effects.",
+    "name": "Wind Orb",
+    "summary": ""
+  },
+  {
+    "id": 32002602,
+    "description": "After attacking, boosts own damage by 20% for 2 turns.",
+    "name": "Bite",
+    "summary": ""
+  },
+  {
+    "id": 32002603,
+    "description": "After attacking, reduces skill target's stun damage by 30% and HP recovery by 30% for 2 turns.",
+    "name": "Blood Fang",
+    "summary": ""
+  },
+  {
+    "id": 32002604,
+    "description": "No additional effects.",
+    "name": "Triple Slash",
+    "summary": ""
+  },
+  {
+    "id": 32002605,
+    "description": "After attacking, delays skill target's turn by 2 turns and reduces SPD by 10% for 1 turn.",
+    "name": "Breeze Ribbon",
+    "summary": ""
+  },
+  {
+    "id": 32002606,
+    "description": "No additional effects.",
+    "name": "Glide",
+    "summary": ""
+  },
+  {
+    "id": 32002607,
+    "description": "After attacking, inflicts 5 stacks of Burn (1% damage, 100% application chance) on skill target.",
+    "name": "Burning Shot",
+    "summary": ""
+  },
+  {
+    "id": 32002608,
+    "description": "Before attacking, removes all negative effects from self. If 2 or more effects were removed, boosts damage by 20% for 2 turns. If 3 or more effects were removed, boosts damage by 30% for 2 turns.",
+    "name": "Hell Reproduction",
+    "summary": ""
+  },
+  {
+    "id": 32002609,
+    "description": "After attacking, increases all enemies' damage received by 25% for 2 turns.",
+    "name": "Shadow Slash",
+    "summary": ""
+  },
+  {
+    "id": 32002610,
+    "description": "After attacking, increases target's damage received by 25% for 2 turns.",
+    "name": "Shadow Flame",
+    "summary": ""
+  },
+  {
+    "id": 32002611,
+    "description": "Grants Evasion to all allies for 1 turn.",
+    "name": "Illusion",
+    "summary": ""
+  },
+  {
+    "id": 32002612,
+    "description": "Inflicts Darkness for 2 turns and reduces M.DEF by 30% for 2 turns on all enemies.",
+    "name": "Nightmare Nominate",
+    "summary": ""
+  },
+  {
+    "id": 32002613,
+    "description": "After attacking, restores own HP by 15% and stun gauge by 15%.",
+    "name": "Energizing Whirlwind Punch",
+    "summary": ""
+  },
+  {
+    "id": 32002614,
+    "description": "After attacking, reduces target's damage by 15% for 4 turns.",
+    "name": "Whirlwind Punch",
+    "summary": ""
+  },
+  {
+    "id": 32002615,
+    "description": "After attacking, reduces target's stun damage by 15% for 4 turns.",
+    "name": "Dark Storm",
+    "summary": ""
+  },
+  {
+    "id": 32002616,
+    "description": "Restores own HP by 10% and removes all status effects from allies.",
+    "name": "Heal Powder",
+    "summary": ""
+  },
+  {
+    "id": 32002617,
+    "description": "Grants self Cover for 3 turns.",
+    "name": "Stand By",
+    "summary": ""
+  },
+  {
+    "id": 32002618,
+    "description": "Reduces all allies' damage received by 30% for 2 turns.",
+    "name": "Energy Powder",
+    "summary": ""
+  },
+  {
+    "id": 32002650,
+    "description": "After attacking, boosts own damage dealt by 20% for 1 turn and SPD by 10% for 2 turns.",
+    "name": "Fatal Bite",
+    "summary": ""
+  },
+  {
+    "id": 32002651,
+    "description": "After attacking, boosts own damage dealt by 15% for 1 turn.",
+    "name": "Bite",
+    "summary": ""
+  },
+  {
+    "id": 32002652,
+    "description": "No effects.",
+    "name": "Howl",
+    "summary": ""
+  },
+  {
+    "id": 32002653,
+    "description": "After attacking, increases target's damage received by 20% for 1 turn.",
+    "name": "Thunder Shout",
+    "summary": ""
+  },
+  {
+    "id": 32002654,
+    "description": "Boosts own SPD by 15% for 2 turns.",
+    "name": "Howl",
+    "summary": ""
+  },
+  {
+    "id": 32002655,
+    "description": "After attacking, boosts own SPD by 20% for 1 turn.",
+    "name": "Fatal Bite",
+    "summary": ""
+  },
+  {
+    "id": 32002656,
+    "description": "After attacking, reduces target's SPD by 30% for 1 turn.",
+    "name": "Bite",
+    "summary": ""
+  },
+  {
+    "id": 32002657,
+    "description": "No effects.",
+    "name": "Bolt Shot",
+    "summary": ""
+  },
+  {
+    "id": 32002658,
+    "description": "No effects.",
+    "name": "Thunder Shout",
+    "summary": ""
+  },
+  {
+    "id": 32002659,
+    "description": "Boosts own damage dealt by 20% for 1 turn.",
+    "name": "Howl",
+    "summary": ""
+  },
+  {
+    "id": 32002660,
+    "description": "After attacking, delays target's turn by 1 turn.",
+    "name": "Slash Bite",
+    "summary": ""
+  },
+  {
+    "id": 32002661,
+    "description": "No effects.",
+    "name": "Scatter Slash",
+    "summary": ""
+  },
+  {
+    "id": 32002662,
+    "description": "No effects.",
+    "name": "Wind Breath",
+    "summary": ""
+  },
+  {
+    "id": 32002663,
+    "description": "After attacking, reduces target's P.ATK by 15% for 3 turns, M.ATK by 15% for 3 turns, and SPD by 15% for 2 turns.",
+    "name": "Bloody Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32002664,
+    "description": "Reduces all enemies' P.DEF by 20% and M.DEF by 20% for 2 turns.",
+    "name": "Dark Roar",
+    "summary": ""
   }
 ]

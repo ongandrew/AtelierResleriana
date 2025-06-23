@@ -1388,5 +1388,49 @@
     ],
     "start_at": "2025-06-19T03:00:00Z",
     "tracking_id": "af_synthesis_recipe_732"
+  },
+  {
+    "id": 742,
+    "name": "Fishing Village Alchemist's Staff",
+    "requirements": [
+      {
+        "name": "Awaken Totori [Endless Voyager] to ★5"
+      }
+    ],
+    "start_at": "2025-06-24T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_733"
+  },
+  {
+    "id": 743,
+    "name": "Craige Chalk",
+    "requirements": [
+      {
+        "name": "Gather Moon Sericulum × 10"
+      }
+    ],
+    "start_at": "2025-06-24T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_734"
+  },
+  {
+    "id": 744,
+    "name": "Schrank Teammate",
+    "requirements": [
+      {
+        "name": "Gather Moon Sericulum × 10"
+      }
+    ],
+    "start_at": "2025-06-24T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_735"
+  },
+  {
+    "id": 748,
+    "name": "Damsel Crown",
+    "requirements": [
+      {
+        "name": "Awaken Meruru [Damsel in Distress] to ★6"
+      }
+    ],
+    "start_at": "2025-06-23T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_748"
   }
 ]

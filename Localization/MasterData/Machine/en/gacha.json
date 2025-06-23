@@ -2246,5 +2246,86 @@
     "name": "Arland Festival: Noble Daughter of Pride - Mimi LEGEND FES [Paid Lodestar Gems Only]",
     "start_at": "2025-06-19T03:00:00Z",
     "step_up_loop_description": ""
+  },
+  {
+    "id": 2264,
+    "description": "Featured character debuts at ★5!\nIf you're already in the academy and it's your first time drawing from this Wish,\nyou'll get an additional 1030 Pieces on your first draw!\n※Regardless of academy status when first drawing, from the second draw onward,\n\u3000you'll receive 100 Pieces instead.\nFeatured until 2025/07/12 10:59 (UTC+8).",
+    "end_at": "2025-07-12T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Meruru [Damsel in Distress] ★6 Release Commemorative Wish",
+    "name": "Meruru [Damsel in Distress] ★6 Release Commemorative Wish",
+    "start_at": "2025-06-23T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2265,
+    "description": "Spotlight on Totori!\nFeatured until 2025/07/12 10:59 (UTC+8).",
+    "end_at": "2025-07-12T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Arland Festival: Sea Breeze Guide Totori LEGEND FES",
+    "name": "Arland Festival: Sea Breeze Guide Totori LEGEND FES",
+    "start_at": "2025-06-24T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2266,
+    "description": "Wish 50 times with Paid Lodestar Gems to unlock an additional Wish!\nFeatured until 2025/07/12 10:59 (UTC+8).",
+    "end_at": "2025-07-12T03:00:00Z",
+    "name": "Arland Festival: Sea Breeze Guide Totori LEGEND FES [Paid Lodestar Gems Only]",
+    "start_at": "2025-06-24T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 226601,
+    "description": "Limited to 5 wishes! Pick Up rate doubled!\nEarn 16 medals! Until 2025/07/12 11:59 (UTC+8)",
+    "end_at": "2025-07-12T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10005,
+            "description": "Bonus included!\n{} wishes remaining!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Arland Festival - Sea Breeze Guide Totori LEGEND FES [Paid Limited]",
+    "name": "Arland Festival - Sea Breeze Guide Totori LEGEND FES [Paid Limited]",
+    "start_at": "2025-06-24T03:00:00Z",
+    "step_up_loop_description": ""
   }
 ]

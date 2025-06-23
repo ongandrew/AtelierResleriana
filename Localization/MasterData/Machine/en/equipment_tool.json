@@ -893,5 +893,35 @@
     "id": 1127,
     "description": "While equipped to a character with Ice affinity, reduces damage received from area attacks by {0}%.",
     "name": "Ward Against Evil"
+  },
+  {
+    "id": 1128,
+    "description": "While equipped to a character with Ice affinity, boosts skill damage of single target attacks by {0}%.<br>While equipped to an Attacker, before attacking, reduces target's Ice resistance by {1}% for 1 attack.",
+    "name": "Damsel Crown"
+  },
+  {
+    "id": 1129,
+    "description": "While equipped to Totori [Endless Voyager], after using a skill, boosts all enemies' magic attack damage received by {0}% for 1 attack. (MAX 3 stacks)",
+    "name": "Fishing Village Alchemist's Staff"
+  },
+  {
+    "id": 1130,
+    "description": "While equipped to a Supporter with Ice affinity, boosts HP recovery granted by {0}%.",
+    "name": "Cradle Chalk"
+  },
+  {
+    "id": 1131,
+    "description": "While equipped to a Supporter with Ice affinity, boosts HP recovery granted by {0}%.",
+    "name": "Cradle Chalk"
+  },
+  {
+    "id": 1132,
+    "description": "While equipped to a Supporter, after using a skill, boosts all allies' Ice damage by {0}% for 1 turn.",
+    "name": "Slunk Teammate"
+  },
+  {
+    "id": 1133,
+    "description": "While equipped to a Supporter, after using a skill, boosts all allies' Ice damage by {0}% for 1 turn.",
+    "name": "Slunk Teammate"
   }
 ]

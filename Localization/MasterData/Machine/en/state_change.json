@@ -2003,5 +2003,100 @@
     "id": 1210397,
     "description": "Boosts additional item gauge recovery after actions by {value}%. Cannot be removed.",
     "name": "Item Gauge Recovery Up"
+  },
+  {
+    "id": 510156,
+    "description": "After attacking, boosts target's damage received by {value}% for 1 attack. (MAX 4 stacks)",
+    "name": "Veteran Adventurer's Tactics"
+  },
+  {
+    "id": 510157,
+    "description": "Boosts burst skill damage by {value}%. (Cannot be stacked)",
+    "name": "I'll Be Everyone's Strength!"
+  },
+  {
+    "id": 510158,
+    "description": "Boosts M.ATK by {value}%. (MAX 180%)",
+    "name": "The Party's Just Getting Started!"
+  },
+  {
+    "id": 510159,
+    "description": "Boosts skill damage by {value}%. (MAX 180%)",
+    "name": "The Party's Just Getting Started!"
+  },
+  {
+    "id": 610264,
+    "description": "Boosts burst skill damage by {value}%. (MAX 50%)",
+    "name": "Burst Damage Up"
+  },
+  {
+    "id": 610265,
+    "description": "Boosts damage received by {value}%. (MAX 4 stacks)",
+    "name": "Received Damage Up"
+  },
+  {
+    "id": 610266,
+    "description": "Boosts Flame Breeze damage by {value}%. (MAX 90%)",
+    "name": "Flame Breeze Damage Up"
+  },
+  {
+    "id": 610267,
+    "description": "Boosts burst skill damage by {value}%. (MAX 300%)",
+    "name": "Burst Damage Up"
+  },
+  {
+    "id": 800154,
+    "description": "Boosts magic damage received by {value}%. (MAX 3 stacks)",
+    "name": "Received Magic Damage Up"
+  },
+  {
+    "id": 810131,
+    "description": "Boosts damage dealt to enemies with affinities other than Bolt by {value}%. Cannot be removed.",
+    "name": "Dealt Damage Up (Conditional)"
+  },
+  {
+    "id": 810407,
+    "description": "Boosts magic skill damage by {value}%. (MAX 150%) Cannot be removed.",
+    "name": "Magic Skill Damage Up"
+  },
+  {
+    "id": 810408,
+    "description": "Boosts physical skill damage by {value}%. (MAX 150%) Cannot be removed.",
+    "name": "Physical Skill Damage Up"
+  },
+  {
+    "id": 810409,
+    "description": "Boosts max HP by {value}%. (MAX 60%) Cannot be removed.",
+    "name": "Max HP Up"
+  },
+  {
+    "id": 810410,
+    "description": "Boosts magic skill damage by {value}%. (MAX 300%) Cannot be removed.",
+    "name": "Magic Skill Damage Up"
+  },
+  {
+    "id": 810411,
+    "description": "Boosts physical skill damage by {value}%. (MAX 300%) Cannot be removed.",
+    "name": "Physical Skill Damage Up"
+  },
+  {
+    "id": 810412,
+    "description": "Boosts max HP by {value}%. (MAX 120%) Cannot be removed.",
+    "name": "Max HP Up"
+  },
+  {
+    "id": 810417,
+    "description": "Boosts potency of positive effects granted by {value}%. Cannot be removed.",
+    "name": "Positive Effect Potency Up (Conditional)"
+  },
+  {
+    "id": 850415,
+    "description": "Boosts damage dealt by {value}%.",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 910173,
+    "description": "Boosts magic attack damage received by {value}%. (MAX 4 stacks)",
+    "name": "Received Magic Damage Up"
   }
 ]

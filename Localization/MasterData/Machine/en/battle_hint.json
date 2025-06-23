@@ -1446,5 +1446,93 @@
   {
     "id": 60243004,
     "description": "- Summons Ghost when HP reaches a certain level\n- Heals self when defeating an opponent\n- Has a chance to inflict Burn\n- Heals self\n- Summons Fanged Bat\n- Nullifies resistance reduction for all elements except Ice and Air"
+  },
+  {
+    "id": 60001022,
+    "description": "- Heals allies\n- When KO'd by a single target attack, boosts all opponents' magic skill damage (MAX 1 time per wave)"
+  },
+  {
+    "id": 60002031,
+    "description": "- Heals allies\n- When KO'd by a single target attack, boosts all opponents' max HP (MAX 1 time per wave)"
+  },
+  {
+    "id": 60006774,
+    "description": "- Delays turn\n- Has a chance to inflict Paralysis"
+  },
+  {
+    "id": 60017017,
+    "description": "- Has a chance to counter\n- Inflicts Poison\n- Grants Regen to allies\n- Reduces opponents' HP recovery amount"
+  },
+  {
+    "id": 60017018,
+    "description": "- Has a chance to counter\n- Inflicts Poison\n- Grants Regen to allies\n- Reduces opponents' HP recovery amount\n- When KO'd by a single target attack, boosts all opponents' physical skill damage (MAX 1 time per wave)"
+  },
+  {
+    "id": 60026026,
+    "description": "- When KO'd, boosts all allies' damage dealt and damage received\n- Inflicts Burn\n- Reduces allies' damage received\n- Reduces opponents' damage dealt\n- When KO'd by a single target attack, boosts all opponents' physical skill damage (MAX 1 time per wave)"
+  },
+  {
+    "id": 60035015,
+    "description": "- When stunned, grants Regen to all opponents\n- Boosts own damage dealt when HP reaches a certain level\n- Delays turn"
+  },
+  {
+    "id": 60035016,
+    "description": "- When stunned, grants Regen to all opponents\n- Boosts own damage dealt when HP reaches a certain level\n- Delays turn\n- At the start of battle, boosts own damage dealt against opponents whose affinity is not Bolt"
+  },
+  {
+    "id": 60066013,
+    "description": "- Deals increased damage to opponents with negative effects\n- When KO'd by a single target attack, boosts all opponents' physical skill damage (MAX 1 time per wave)"
+  },
+  {
+    "id": 60069007,
+    "description": "- Reduces damage dealt by the target\n- Recovers HP each turn\n- Receives increased damage when stunned\n- When KO'd by a single target attack, boosts all opponents' magic skill damage (MAX 1 time per wave)"
+  },
+  {
+    "id": 60075006,
+    "description": "- Removes positive effects when stunned\n- Grants self Speed Down when stunned\n- When KO'd by a single target attack, boosts all opponents' max HP (MAX 1 time per wave)"
+  },
+  {
+    "id": 60100015,
+    "description": "- Deals increased damage to opponents with negative effects\n- Increases negative effect potency received\n- Restores all allies' HP and grants Regen\n- When KO'd by a single target attack, boosts all opponents' max HP (MAX 1 time per wave)"
+  },
+  {
+    "id": 60118102,
+    "description": "- When inflicted with a status effect, grants self reduced damage dealt and increased damage received\n- Advances all allies' turns\n- Grants self increased damage dealt, increased SPD, and reduced status effect resistance"
+  },
+  {
+    "id": 60122023,
+    "description": "- When stunned, converts boost-type panels to burst panels\n- Provides cover\n- Restores own HP and removes all status effects\n- Restores own HP and stun gauge\n- Nullifies resistance reductions for all affinities except Ice and Air"
+  },
+  {
+    "id": 60130002,
+    "description": "- Removes all own negative effects and boosts damage dealt based on the number removed\n- When KO'd, boosts all allies' damage dealt, reduces damage received, and increases SPD\n- Grants Evasion to all allies\n- Inflicts Darkness\n- Nullifies resistance reductions for all affinities except Ice and Air"
+  },
+  {
+    "id": 60132009,
+    "description": "- When KO'd, inflicts Poison on all opponents\n- Removes opponents' positive effects\n- Inflicts multiple negative effects on opponents\n- When KO'd by a single target attack, boosts all opponents' magic skill damage (MAX 1 time per wave)"
+  },
+  {
+    "id": 60142002,
+    "description": "- When using a weaken panel, inflicts Paralysis and increased damage received on self\n- Inflicts Burn\n- Removes all opponents' positive effects\n- Creates burn panels"
+  },
+  {
+    "id": 60165011,
+    "description": "No tips available."
+  },
+  {
+    "id": 60165012,
+    "description": "- At the start of battle, boosts own damage dealt against opponents whose affinity is not Bolt"
+  },
+  {
+    "id": 60166005,
+    "description": "- When inflicted with a status effect, reduces the potency of positive effects received"
+  },
+  {
+    "id": 60166006,
+    "description": "- When inflicted with a status effect, reduces the potency of positive effects received\n- At the start of battle, boosts own damage dealt against opponents whose affinity is not Bolt"
+  },
+  {
+    "id": 60187006,
+    "description": "- When hit by battle item damage, grants self resistance reductions for all affinities\n- Delays turn"
   }
 ]

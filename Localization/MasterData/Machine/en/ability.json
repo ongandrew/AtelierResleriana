@@ -4848,5 +4848,270 @@
     "id": 600000680,
     "description": "Boosts positive effect potency given by Totori [Endless Voyager] by 150%.",
     "name": "Totori [Endless Voyager] Positive Effect Potency Up"
+  },
+  {
+    "id": 301219,
+    "description": "While equipped to Rorona [Wonderful Princess], when a barrier disappears, grants Max HP +{0}% to self (max 20%).",
+    "name": "Invincible Rod"
+  },
+  {
+    "id": 301220,
+    "description": "While equipped to a Defender with Ice affinity, after using a skill, restores own HP by {0}%.",
+    "name": "Lanch Blanage"
+  },
+  {
+    "id": 301221,
+    "description": "While equipped to a Defender with Ice affinity, after using a skill, restores own HP by {0}%.",
+    "name": "Lanch Blanage"
+  },
+  {
+    "id": 301222,
+    "description": "While equipped to a Defender with Ice affinity, reduces damage received from magical attacks by {0}%.",
+    "name": "Gebate Ank"
+  },
+  {
+    "id": 301223,
+    "description": "While equipped to a Defender with Ice affinity, reduces damage received from magical attacks by {0}%.",
+    "name": "Gebate Ank"
+  },
+  {
+    "id": 1980199,
+    "description": "Characters with Ice affinity gain P.DEF & M.DEF +{0}%.",
+    "name": "Princess Rorona's Prayer"
+  },
+  {
+    "id": 1990367,
+    "description": "Becomes highly likely to be targeted by enemies.<br>All allies with Ice affinity or Arland tag gain Max HP +{0}%.<br>At battle start, restores all allies' HP by 100%.",
+    "name": "Everyone, Attention!"
+  },
+  {
+    "id": 1990368,
+    "description": "When using a panel or receiving HP recovery, grants P.DEF & M.DEF +{0}% to all allies with Ice affinity or Arland tag (max 30%), and restores the item gauge by {1}%.<br>When Barrier durability is consumed, grants Damage Received -10% (non-stackable).",
+    "name": "Sharing Happiness"
+  },
+  {
+    "id": 4990978,
+    "description": "While equipped to a Defender with Ice affinity, after using a skill, grants Skill Damage +{0}% to the ally with highest M.ATK for 1 turn (max 3 stacks).<br>While equipped to a character with Whimsical tag, after using a skill, grants Max HP +{1}% (fixed) to self for 2 turns.",
+    "name": "Fantasy \"Princess and Knight\""
+  },
+  {
+    "id": 4990979,
+    "description": "While equipped to a Defender with Ice affinity, after using a skill, grants Skill Damage +{0}% to the ally with highest M.ATK for 1 turn (max 3 stacks).<br>While equipped to a character with Whimsical tag, after using a skill, grants Max HP +{1}% (fixed) to self for 2 turns.",
+    "name": "Fantasy \"Princess and Knight\""
+  },
+  {
+    "id": 4990980,
+    "description": "While equipped to a Defender with Ice affinity, after using a skill, grants Skill Damage +{0}% to the ally with highest M.ATK for 1 turn (max 3 stacks).<br>While equipped to a character with Whimsical tag, after using a skill, grants Max HP +{1}% (fixed) to self for 2 turns.",
+    "name": "Fantasy \"Princess and Knight\""
+  },
+  {
+    "id": 4990981,
+    "description": "While equipped to a Defender with Ice affinity, after using a skill, grants Skill Damage +{0}% to the ally with highest M.ATK for 1 turn (max 3 stacks).<br>While equipped to a character with Whimsical tag, after using a skill, grants Max HP +{1}% (fixed) to self for 2 turns.",
+    "name": "Fantasy \"Princess and Knight\""
+  },
+  {
+    "id": 4990982,
+    "description": "While equipped to a Defender with Ice affinity, after using a skill, grants Skill Damage +{0}% to the ally with highest M.ATK for 1 turn (max 3 stacks).<br>While equipped to a character with Whimsical tag, after using a skill, grants Max HP +{1}% (fixed) to self for 2 turns.",
+    "name": "Fantasy \"Princess and Knight\""
+  },
+  {
+    "id": 4990983,
+    "description": "After using a skill, randomly grants one of the following effects to self:<br>• Skill Damage +10% for 2 turns<br>• Critical Damage +10% for 2 turns<br>• Skill Power +10% for 2 turns<br>• Damage Received -10% (fixed) for 2 attacks",
+    "name": "Fantasy \"Blooming Talent\""
+  },
+  {
+    "id": 4990984,
+    "description": "After using a skill, randomly grants one of the following effects to self:<br>• Skill Damage +20% for 2 turns<br>• Critical Damage +20% for 2 turns<br>• Skill Power +20% for 2 turns<br>• Damage Received -20% (fixed) for 2 attacks",
+    "name": "Fantasy \"Blooming Talent\""
+  },
+  {
+    "id": 4990985,
+    "description": "After using a skill, randomly grants one of the following effects to self:<br>• Skill Damage +30% for 2 turns<br>• Critical Damage +30% for 2 turns<br>• Skill Power +30% for 2 turns<br>• Damage Received -30% (fixed) for 2 attacks",
+    "name": "Fantasy \"Blooming Talent\""
+  },
+  {
+    "id": 4990986,
+    "description": "After using a skill, randomly grants one of the following effects to self:<br>• Skill Damage +40% for 2 turns<br>• Critical Damage +40% for 2 turns<br>• Skill Power +40% for 2 turns<br>• Damage Received -40% (fixed) for 2 attacks",
+    "name": "Fantasy \"Blooming Talent\""
+  },
+  {
+    "id": 4990987,
+    "description": "After using a skill, randomly grants one of the following effects to self:<br>• Skill Damage +50% for 2 turns<br>• Critical Damage +50% for 2 turns<br>• Skill Power +50% for 2 turns<br>• Damage Received -50% (fixed) for 2 attacks",
+    "name": "Fantasy \"Blooming Talent\""
+  },
+  {
+    "id": 4990988,
+    "description": "After attacking, grants Attack Penetration +{0} to target for 1 attack.",
+    "name": "Fantasy \"Her Mission\""
+  },
+  {
+    "id": 4990989,
+    "description": "After attacking, grants Attack Penetration +{0} to target for 1 attack.",
+    "name": "Fantasy \"Her Mission\""
+  },
+  {
+    "id": 4990990,
+    "description": "After attacking, grants target increases attack penetration by {0} for 1 attack.",
+    "name": "Imagination \"Her Mission\""
+  },
+  {
+    "id": 4990991,
+    "description": "After attacking, grants target increases attack penetration by {0} for 1 attack.",
+    "name": "Imagination \"Her Mission\""
+  },
+  {
+    "id": 4990992,
+    "description": "After attacking, grants target increases attack penetration by {0} for 1 attack.",
+    "name": "Imagination \"Her Mission\""
+  },
+  {
+    "id": 4990993,
+    "description": "While equipped to a character with Seasonal, boosts skill damage by {0}%.",
+    "name": "Seasonal Damage Up III"
+  },
+  {
+    "id": 4990994,
+    "description": "While equipped to a character with Seasonal, boosts skill damage by {0}%.",
+    "name": "Seasonal Damage Up III"
+  },
+  {
+    "id": 4990995,
+    "description": "While equipped to a character with Seasonal, boosts skill damage by {0}%.",
+    "name": "Seasonal Damage Up III"
+  },
+  {
+    "id": 4990996,
+    "description": "While equipped to a character with Seasonal, boosts skill damage by {0}%.",
+    "name": "Seasonal Damage Up III"
+  },
+  {
+    "id": 4990997,
+    "description": "While equipped to a character with Seasonal, boosts skill damage by {0}%.",
+    "name": "Seasonal Damage Up III"
+  },
+  {
+    "id": 4990998,
+    "description": "While equipped to a character with Seasonal, boosts stun damage by {0}%.",
+    "name": "Seasonal Stun Up III"
+  },
+  {
+    "id": 4990999,
+    "description": "While equipped to a character with Seasonal, boosts stun damage by {0}%.",
+    "name": "Seasonal Stun Up III"
+  },
+  {
+    "id": 4991000,
+    "description": "While equipped to a character with Seasonal, boosts stun damage by {0}%.",
+    "name": "Seasonal Stun Up III"
+  },
+  {
+    "id": 4991001,
+    "description": "While equipped to a character with Seasonal, boosts stun damage by {0}%.",
+    "name": "Seasonal Stun Up III"
+  },
+  {
+    "id": 4991002,
+    "description": "While equipped to a character with Seasonal, boosts stun damage by {0}%.",
+    "name": "Seasonal Stun Up III"
+  },
+  {
+    "id": 4991003,
+    "description": "While equipped to a character with Seasonal, boosts critical damage by {0}%.",
+    "name": "Seasonal Critical Damage Up III"
+  },
+  {
+    "id": 4991004,
+    "description": "While equipped to a character with Seasonal, boosts critical damage by {0}%.",
+    "name": "Seasonal Critical Damage Up III"
+  },
+  {
+    "id": 4991005,
+    "description": "While equipped to a character with Seasonal, boosts critical damage by {0}%.",
+    "name": "Seasonal Critical Damage Up III"
+  },
+  {
+    "id": 4991006,
+    "description": "While equipped to a character with Seasonal, boosts critical damage by {0}%.",
+    "name": "Seasonal Critical Damage Up III"
+  },
+  {
+    "id": 4991007,
+    "description": "While equipped to a character with Seasonal, boosts critical damage by {0}%.",
+    "name": "Seasonal Critical Damage Up III"
+  },
+  {
+    "id": 4991008,
+    "description": "While equipped to a character with Seasonal, boosts HP recovery given by {0}%.",
+    "name": "Seasonal Heal Up III"
+  },
+  {
+    "id": 4991009,
+    "description": "While equipped to a character with Seasonal, boosts HP recovery given by {0}%.",
+    "name": "Seasonal Heal Up III"
+  },
+  {
+    "id": 4991010,
+    "description": "While equipped to a character with Seasonal, boosts HP recovery given by {0}%.",
+    "name": "Seasonal Heal Up III"
+  },
+  {
+    "id": 4991011,
+    "description": "While equipped to a character with Seasonal, boosts HP recovery given by {0}%.",
+    "name": "Seasonal Heal Up III"
+  },
+  {
+    "id": 4991012,
+    "description": "While equipped to a character with Seasonal, boosts HP recovery given by {0}%.",
+    "name": "Seasonal Heal Up III"
+  },
+  {
+    "id": 26244001,
+    "description": "When self is unable to battle, activates field effect (reduces damage dealt by 20% for all enemies for 5 turns).",
+    "name": ""
+  },
+  {
+    "id": 26245001,
+    "description": "When recovering from stun, grants damage dealt up (30% for 2 turns) and regeneration (10% for 2 turns) to all allies.",
+    "name": ""
+  },
+  {
+    "id": 26246001,
+    "description": "When stunned, removes all buffs from self.",
+    "name": ""
+  },
+  {
+    "id": 26246002,
+    "description": "When HP falls to 40% or below, grants self damage dealt up (100% for 1 turn) and critical rate up (100% for 1 turn), then delays own turn by 2 turns.\nAfter that, reselects action.",
+    "name": ""
+  },
+  {
+    "id": 600000681,
+    "description": "Boosts battle item HP recovery by 30% for all allies.",
+    "name": "All Allies Battle Item HP Recovery Up"
+  },
+  {
+    "id": 600000682,
+    "description": "After taking action, restores additional item gauge by 10%.",
+    "name": "All Allies Additional Item Gauge Recovery After Action"
+  },
+  {
+    "id": 600000683,
+    "description": "Salburg series characters receive 20% less damage.",
+    "name": "Salburg Series Characters Damage Received Down"
+  },
+  {
+    "id": 600000684,
+    "description": "Salburg series characters restore additional item gauge by 10% after taking action.",
+    "name": "Salburg Series Characters Additional Item Gauge Recovery After Action"
+  },
+  {
+    "id": 600000690,
+    "description": "Rorona [Wonderful Princess] receives 30% less damage.",
+    "name": "Rorona [Wonderful Princess] Damage Received Down"
+  },
+  {
+    "id": 600000691,
+    "description": "When Rorona [Wonderful Princess] or Totori [Endless Voyager] is in the party, reduces damage received by 25%. (MAX 25%)",
+    "name": "Rorona [Wonderful Princess] or Totori [Endless Voyager] Party Damage Reduction"
   }
 ]

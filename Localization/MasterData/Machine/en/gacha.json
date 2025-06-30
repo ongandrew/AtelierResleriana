@@ -2327,5 +2327,59 @@
     "name": "Arland Festival - Sea Breeze Guide Totori LEGEND FES [Paid Limited]",
     "start_at": "2025-06-24T03:00:00Z",
     "step_up_loop_description": ""
+  },
+  {
+    "id": 2267,
+    "description": "Rorona makes her debut & Featured!\nUntil 2025/07/12 10:59 (UTC+8).",
+    "end_at": "2025-07-12T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Arland Festival - Princess of Wonderland Rorona LEGEND FES",
+    "name": "Arland Festival - Princess of Wonderland Rorona LEGEND FES",
+    "start_at": "2025-06-30T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2268,
+    "description": "Make 50 Wishes with Paid Lodestar Gems to unlock additional Wishes!\nUntil 2025/07/12 10:59 (UTC+8).",
+    "end_at": "2025-07-12T03:00:00Z",
+    "name": "Arland Festival - Princess of Wonderland Rorona LEGEND FES [Paid Lodestar Gems Only]",
+    "start_at": "2025-06-30T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 226801,
+    "description": "Max 5 times! 2x Featured rate!\nEarn 16 Medals! Until 2025/07/12 10:59 (UTC+8).",
+    "end_at": "2025-07-12T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10005,
+            "description": "Bonus included!\n{} times left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Arland Festival - Princess of Wonderland Rorona LEGEND FES [Paid Lodestar Gems Only]",
+    "name": "Arland Festival - Princess of Wonderland Rorona LEGEND FES [Paid Lodestar Gems Only]",
+    "start_at": "2025-06-30T03:00:00Z",
+    "step_up_loop_description": ""
   }
 ]

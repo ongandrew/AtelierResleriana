@@ -1411,5 +1411,68 @@
     "description": "Material needed for synthesis.",
     "name": "Angelfish",
     "start_at": "2025-06-24T03:00:00Z"
+  },
+  {
+    "id": 1056,
+    "description": "Points needed to receive Mission Pass rewards.",
+    "end_at": "2025-08-01T03:00:00Z",
+    "name": "Mission Pass Points",
+    "start_at": "2025-07-01T03:00:00Z"
+  },
+  {
+    "id": 1057,
+    "description": "A cookie made delicious by kneading chocolate into it.\nCan be used to restore stamina.\n*Does not keep well, so please consume promptly.",
+    "end_at": "2025-10-01T03:00:00Z",
+    "name": "Chocolate Cookie"
+  },
+  {
+    "id": 1058,
+    "description": "Fragments of mana that once poured down from a shooting star.\nCan be used to restore mana.\n*Its glow is weak and it seems about to lose its power, so use it soon.",
+    "end_at": "2025-10-01T03:00:00Z",
+    "name": "Mana Fragment"
+  },
+  {
+    "id": 1059,
+    "description": "A ticket that allows you to perform 1 wish on the Arland Festival - Princess of Wonderland Rorona LEGEND FES.",
+    "end_at": "2025-07-12T03:00:00Z",
+    "name": "Arland Festival - Princess of Wonderland Rorona Wish Ticket"
+  },
+  {
+    "id": 1060,
+    "description": "Material needed for synthesis.",
+    "name": "Cobalt Berry",
+    "start_at": "2025-06-30T03:00:00Z"
+  },
+  {
+    "id": 1061,
+    "description": "Material needed for synthesis.",
+    "name": "World Tree Branch",
+    "start_at": "2025-06-30T03:00:00Z"
+  },
+  {
+    "id": 1064,
+    "description": "An item that can be used at the \"Karlston, Island of Learning\" event exchange.",
+    "end_at": "2025-07-12T03:00:00Z",
+    "name": "Battle Coin [Karlston, Island of Learning - Part 2]"
+  },
+  {
+    "id": 1065,
+    "description": "An item that can be used at the \"Atelier Summer 2025 Prelude Memorial Collection\" event exchange.",
+    "end_at": "2025-07-23T03:00:00Z",
+    "name": "Battle Coin [Atelier Summer 2025 Prelude Memorial Collection]"
+  },
+  {
+    "id": 1066,
+    "description": "A ticket required to challenge the \"Atelier Summer 2025 Prelude Memorial Collection\" event.",
+    "end_at": "2025-07-22T03:00:00Z",
+    "name": "Challenge Ticket [Atelier Summer 2025 Prelude Memorial Collection]",
+    "start_at": "2025-07-04T03:00:00Z"
+  },
+  {
+    "id": 1070,
+    "description": "An item that can be exchanged for 1 Memoria at the shop.\nCan be used in Shop > Character Memoria > Memoria Exchange.",
+    "end_at": "2025-07-14T03:00:00Z",
+    "name": "Memoria Exchange Ticket",
+    "start_at": "2025-06-30T03:00:00Z"
   }
 ]

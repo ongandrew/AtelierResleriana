@@ -6578,5 +6578,325 @@
     "id": 120000740,
     "description": "Boosts the potency of positive effects granted.",
     "popup_text": ""
+  },
+  {
+    "id": 6001093,
+    "description": "When equipped to Rorona [Wonderful Princess], grants Max HP Up when a barrier is removed (up to 20%).",
+    "popup_text": ""
+  },
+  {
+    "id": 6001094,
+    "description": "When equipped to a Defender with Ice affinity, restores own HP after using a skill.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001095,
+    "description": "When equipped to a Defender with Ice affinity, reduces damage received from magical attacks.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001096,
+    "description": "Reduces all enemies' resistance to all elements for 1 attack.",
+    "popup_text": ""
+  },
+  {
+    "id": 16244001,
+    "description": "Restores 10% HP to all enemies.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001333,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001334,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001335,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001336,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001337,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001338,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001340,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001341,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 76245001,
+    "description": "Reduces skill target's damage dealt for 3 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76245002,
+    "description": "Restores HP to all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 76245003,
+    "description": "Inflicts Daze on skill target for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 76245004,
+    "description": "Reduces skill target's SPD for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76245005,
+    "description": "Boosts own P.ATK for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76245006,
+    "description": "Boosts own M.ATK for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76245007,
+    "description": "Converts own next panel to a boost panel.",
+    "popup_text": ""
+  },
+  {
+    "id": 76245008,
+    "description": "Restores HP to all enemies.",
+    "popup_text": ""
+  },
+  {
+    "id": 76245009,
+    "description": "Grants Damage Dealt Up to all allies (3 times).",
+    "popup_text": ""
+  },
+  {
+    "id": 76246001,
+    "description": "Grants Damage Received Up to skill target.",
+    "popup_text": ""
+  },
+  {
+    "id": 76246002,
+    "description": "Grants Nullify HP Recovery (1 time) to enemies with barriers.",
+    "popup_text": ""
+  },
+  {
+    "id": 76246003,
+    "description": "Grants Damage Received Down to self (3 times).",
+    "popup_text": ""
+  },
+  {
+    "id": 76246004,
+    "description": "Converts skill target's panel to negative panel.",
+    "popup_text": ""
+  },
+  {
+    "id": 76246005,
+    "description": "Converts skill target's panel to empty panel.",
+    "popup_text": ""
+  },
+  {
+    "id": 76246006,
+    "description": "Grants Speed Down (2 times).",
+    "popup_text": ""
+  },
+  {
+    "id": 76246007,
+    "description": "Grants Damage Dealt Down to skill target (3 times).",
+    "popup_text": ""
+  },
+  {
+    "id": 76246008,
+    "description": "Removes all positive effects from skill target.",
+    "popup_text": ""
+  },
+  {
+    "id": 76246009,
+    "description": "Grants Speed Up to self (2 times).",
+    "popup_text": ""
+  },
+  {
+    "id": 76246010,
+    "description": "Grants Damage Dealt Up to self (3 times).",
+    "popup_text": ""
+  },
+  {
+    "id": 76246011,
+    "description": "Converts own next panel to boost panel (except Burst Skills).",
+    "popup_text": ""
+  },
+  {
+    "id": 76246012,
+    "description": "Removes own Damage Dealt Up (for Burst Skill activation).",
+    "popup_text": ""
+  },
+  {
+    "id": 86245001,
+    "description": "When recovering from stun, grants Damage Dealt Up to all allies (2 times).",
+    "popup_text": ""
+  },
+  {
+    "id": 86245002,
+    "description": "When recovering from stun, grants Regeneration to all allies (2 times).",
+    "popup_text": ""
+  },
+  {
+    "id": 86246001,
+    "description": "When stunned, removes all buffs from self.",
+    "popup_text": ""
+  },
+  {
+    "id": 86246002,
+    "description": "Grants Damage Dealt Up to self (1 time).",
+    "popup_text": ""
+  },
+  {
+    "id": 86246003,
+    "description": "Grants Critical Rate Up to self (1 time).",
+    "popup_text": ""
+  },
+  {
+    "id": 86246004,
+    "description": "Delays own turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 86246005,
+    "description": "Reselect turn order.",
+    "popup_text": ""
+  },
+  {
+    "id": 91001528,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001775,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001776,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001777,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001778,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001779,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001780,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001781,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001782,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001788,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000237,
+    "description": "While equipped to a Defender with Ice affinity, after using a skill, grants the ally with the highest M.ATK skill damage up for 1 turn (up to 3 stacks).",
+    "popup_text": ""
+  },
+  {
+    "id": 95000238,
+    "description": "With Whimsical tag, after using a skill, grants self max HP up (fixed) for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000239,
+    "description": "After using a skill, randomly grants one of the following effects to self:<br>• Skill damage up for 2 turns<br>• Critical damage up for 2 turns<br>• Skill power up for 2 turns<br>• Damage received down (fixed) for 2 attacks",
+    "popup_text": ""
+  },
+  {
+    "id": 95000240,
+    "description": "After attacking, increases target's attack penetration for 1 attack.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000241,
+    "description": "With Seasonal tag, boosts skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000242,
+    "description": "With Seasonal tag, boosts stun damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000243,
+    "description": "With Seasonal tag, boosts critical damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000244,
+    "description": "With Seasonal tag, boosts HP recovery given.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000245,
+    "description": "After using a skill, reduces own damage received for 2 attacks.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000744,
+    "description": "Reduces damage received by Rorona [Wonderful Princess].",
+    "popup_text": ""
+  },
+  {
+    "id": 120000745,
+    "description": "When Rorona [Wonderful Princess] is in the party, reduces damage received.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000746,
+    "description": "Reduces damage received for Defenders.",
+    "popup_text": ""
+  },
+  {
+    "id": 814000033,
+    "description": "Allies: Damage Dealt Down 20%",
+    "popup_text": ""
   }
 ]

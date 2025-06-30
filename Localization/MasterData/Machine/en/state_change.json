@@ -2098,5 +2098,90 @@
     "id": 910173,
     "description": "Boosts magic attack damage received by {value}%. (MAX 4 stacks)",
     "name": "Received Magic Damage Up"
+  },
+  {
+    "id": 510160,
+    "description": "Boosts P.DEF by {value}%. (MAX 30%)",
+    "name": "Happiness Sharing"
+  },
+  {
+    "id": 510161,
+    "description": "Boosts M.DEF by {value}%. (MAX 30%)",
+    "name": "Happiness Sharing"
+  },
+  {
+    "id": 510162,
+    "description": "After barrier is removed, grants self \"Reduces damage received by {value}%\".",
+    "name": "Happiness Sharing"
+  },
+  {
+    "id": 510163,
+    "description": "Reduces damage received by {value}%. (Cannot be stacked)",
+    "name": "Happiness Sharing"
+  },
+  {
+    "id": 610268,
+    "description": "Boosts P.DEF by {value}%. (MAX 2 stacks)",
+    "name": "P.DEF Up"
+  },
+  {
+    "id": 610269,
+    "description": "Boosts M.DEF by {value}%. (MAX 2 stacks)",
+    "name": "M.DEF Up"
+  },
+  {
+    "id": 610271,
+    "description": "Boosts P.DEF by {value}%. (MAX 1 stack)",
+    "name": "P.DEF Up"
+  },
+  {
+    "id": 610272,
+    "description": "Boosts M.DEF by {value}%. (MAX 1 stack)",
+    "name": "M.DEF Up"
+  },
+  {
+    "id": 800155,
+    "description": "Boosts max HP by {value}%. (MAX 20%)",
+    "name": "Max HP Up"
+  },
+  {
+    "id": 810000,
+    "description": "Boosts critical rate by {value}%. Can only be removed when stunned.",
+    "name": "Critical Rate Up"
+  },
+  {
+    "id": 810416,
+    "description": "Boosts damage dealt by {value}%. Can only be removed when stunned.",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 810418,
+    "description": "Reduces damage received by {value}%. Cannot be removed.",
+    "name": "Received Damage Down"
+  },
+  {
+    "id": 910171,
+    "description": "Absorbs damage equal to the barrier's durability value on behalf of the character. (Unaffected by positive effect potency changes)",
+    "name": "Barrier"
+  },
+  {
+    "id": 910174,
+    "description": "Boosts skill damage by {value}%. (MAX 3 stacks)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 910175,
+    "description": "Boosts max HP by {value}%. (Unaffected by positive effect potency changes)",
+    "name": "Max HP Up"
+  },
+  {
+    "id": 910176,
+    "description": "Boosts penetration power of received attacks by {value}.",
+    "name": "Received Attack Penetration Up"
+  },
+  {
+    "id": 910177,
+    "description": "Reduces damage received by {value}%. (Unaffected by positive effect potency changes)",
+    "name": "Received Damage Down"
   }
 ]

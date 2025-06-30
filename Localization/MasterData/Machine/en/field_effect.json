@@ -28,5 +28,10 @@
     "id": 31,
     "description": "All: Reduces status effect resistance.",
     "popup_text": "Status Effect Resistance Down"
+  },
+  {
+    "id": 33,
+    "description": "Allies: Reduces damage dealt by 20%.",
+    "popup_text": "Dealt Damage Down"
   }
 ]

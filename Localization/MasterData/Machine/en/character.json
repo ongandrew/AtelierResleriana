@@ -523,5 +523,20 @@
     "overlay_name": "Totooria Helmold",
     "profile_voice_text": "I'm Totori. I'm an alchemist and an adventurer.\nI'd be happy if I could help everyone out.",
     "start_at": "2025-06-24T03:00:00Z"
+  },
+  {
+    "id": 25505,
+    "acquisition_text": "Today's a special day! Won't you join me\nto make it a wonderful one?",
+    "another_name": "Wonderful Princess",
+    "description": "A cheerful and energetic alchemist. She usually bakes pies at the cafe Star's Cocoon on the Lantarna continent. Though she can be a bit clumsy and airheaded at times, she's positive and hardworking. While vacationing and sightseeing in Karlston, she dresses up in a cute dress and becomes like a princess from a storybook.",
+    "fullname": "Rorolina Frixell",
+    "leader_skill": {
+      "description": "Ice affinity characters gain P.DEF and M.DEF +35%.",
+      "name": "Princess Rorona's Prayer"
+    },
+    "name": "Rorona",
+    "overlay_name": "Rororina Fryxell",
+    "profile_voice_text": "I'm not really used to wearing clothes like this,\nso I'm feeling a bit nervous...!",
+    "start_at": "2025-06-30T03:00:00Z"
   }
 ]

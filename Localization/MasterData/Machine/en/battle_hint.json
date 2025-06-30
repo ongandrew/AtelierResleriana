@@ -1534,5 +1534,29 @@
   {
     "id": 60187006,
     "description": "- When hit by battle item damage, grants self resistance reductions for all affinities\n- Delays turn"
+  },
+  {
+    "id": 60054003,
+    "description": "- Protection\n- Counters\n- Restores own stun gauge each turn\n- Triggers multiple positive effects at a certain HP level\n- Nullifies resistance down effects for all elements except Ice and Air"
+  },
+  {
+    "id": 60163010,
+    "description": "- Protection\n- After receiving a non-critical attack, reduces own damage received\n- Receives increased damage while stunned"
+  },
+  {
+    "id": 60244698,
+    "description": "- When KO'd, applies a Field Effect that reduces all opponents' damage dealt\n- Heals all allies\n- Heals all opponents"
+  },
+  {
+    "id": 60244703,
+    "description": "- When KO'd, applies a Field Effect that reduces all opponents' damage dealt\n- Heals all allies\n- Heals all opponents"
+  },
+  {
+    "id": 60245001,
+    "description": "- Heals all allies and all opponents\n- Inflicts Daze on a single opponent\n- When recovering from stun, grants Damage Dealt Up and Regen to all allies\n- Nullifies resistance down effects for all elements except Ice and Air"
+  },
+  {
+    "id": 60246001,
+    "description": "- Before powerful attacks, boosts target's damage received\n- Before powerful attacks, inflicts Nullify HP Recovery on targets without barriers\n- Removes positive effects from a single opponent\n- When stunned, removes own positive effects\n- When HP drops below a certain level, grants multiple positive effects to self and uses a powerful attack (activates up to 1 time)\n- Nullifies resistance down effects for all elements except Ice and Air"
   }
 ]

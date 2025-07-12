@@ -16012,5 +16012,491 @@
     "description": "Before attacking, boosts skill target's damage received by 50% for 1 turn. If skill target has no barrier, inflicts Nullify HP Recovery.\nAfter that, removes own Damage Dealt Up (for burst attack activation) and draws a new turn.",
     "name": "Aequi Vitas Wenator",
     "summary": ""
+  },
+  {
+    "id": 32137,
+    "description": "Increases the ally with the highest max HP's max HP by {0}% (max 30%) and restores their HP by 50%.",
+    "name": "Blue Night Punicactel",
+    "summary": ""
+  },
+  {
+    "id": 32138,
+    "description": "Increases the ally with the highest max HP's max HP by {0}% (max 21%) and restores their HP by 30%.",
+    "name": "Blue Night Punicactel",
+    "summary": ""
+  },
+  {
+    "id": 11002909,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, increases own P.ATK by {0}% (max 50%).",
+    "name": "Envision Shot",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, increases own P.ATK."
+  },
+  {
+    "id": 11002910,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, increases own P.ATK by {0}% (max 50%).",
+    "name": "Envision Shot",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, increases own P.ATK."
+  },
+  {
+    "id": 11002911,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, increases own P.ATK by {0}% (max 50%).",
+    "name": "Envision Shot",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, increases own P.ATK."
+  },
+  {
+    "id": 11002912,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, increases own P.ATK by {0}% (max 50%).",
+    "name": "Envision Shot",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, increases own P.ATK."
+  },
+  {
+    "id": 11002913,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, increases own P.ATK by {0}% (max 50%).",
+    "name": "Envision Shot",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, increases own P.ATK."
+  },
+  {
+    "id": 11002951,
+    "description": "Before attacking, increases own critical rate by {0}% (max 100%).<br>After attacking, increases own critical damage by {1}% (max 100%).",
+    "name": "Zoma Klinge",
+    "summary": "Before attacking, increases own critical rate.<br>After attacking, increases own critical damage."
+  },
+  {
+    "id": 11002952,
+    "description": "Before attacking, increases own critical rate by {0}% (max 100%).<br>After attacking, increases own critical damage by {1}% (max 100%).",
+    "name": "Zoma Klinge",
+    "summary": "Before attacking, increases own critical rate.<br>After attacking, increases own critical damage."
+  },
+  {
+    "id": 11002953,
+    "description": "Before attacking, increases own critical rate by {0}% (max 100%).<br>After attacking, increases own critical damage by {1}% (max 100%).",
+    "name": "Zoma Klinge",
+    "summary": "Before attacking, increases own critical rate.<br>After attacking, increases own critical damage."
+  },
+  {
+    "id": 11002954,
+    "description": "Before attacking, increases own critical rate by {0}% (max 100%).<br>After attacking, increases own critical damage by {1}% (max 100%).",
+    "name": "Zoma Klinge",
+    "summary": "Before attacking, increases own critical rate.<br>After attacking, increases own critical damage."
+  },
+  {
+    "id": 11002955,
+    "description": "Before attacking, increases own critical rate by {0}% (max 100%).<br>After attacking, increases own critical damage by {1}% (max 100%).",
+    "name": "Zoma Klinge",
+    "summary": "Before attacking, increases own critical rate.<br>After attacking, increases own critical damage."
+  },
+  {
+    "id": 12002914,
+    "description": "After attacking, increases own P.ATK by {0}% (max 90%) and skill damage by {1}% (max 100%).<br>When target is stunned, additionally increases own P.ATK by {2}% for 3 turns.",
+    "name": "Charging Lancer",
+    "summary": "After attacking, increases own P.ATK and skill damage.<br>When target is stunned, increases own P.ATK."
+  },
+  {
+    "id": 12002915,
+    "description": "After attacking, increases own P.ATK by {0}% (max 90%) and skill damage by {1}% (max 100%).<br>When target is stunned, additionally increases own P.ATK by {2}% for 3 turns.",
+    "name": "Charging Lancer",
+    "summary": "After attacking, increases own P.ATK and skill damage.<br>When target is stunned, increases own P.ATK."
+  },
+  {
+    "id": 12002916,
+    "description": "After attacking, increases own P.ATK by {0}% (max 90%) and skill damage by {1}% (max 100%).<br>When target is stunned, additionally increases own P.ATK by {2}% for 3 turns.",
+    "name": "Charging Lancer",
+    "summary": "After attacking, increases own P.ATK and skill damage.<br>When target is stunned, increases own P.ATK."
+  },
+  {
+    "id": 12002917,
+    "description": "After attacking, increases own P.ATK by {0}% (max 90%) and skill damage by {1}% (max 100%).<br>When target is stunned, additionally increases own P.ATK by {2}% for 3 turns.",
+    "name": "Charging Lancer",
+    "summary": "After attacking, increases own P.ATK and skill damage.<br>When target is stunned, increases own P.ATK."
+  },
+  {
+    "id": 12002918,
+    "description": "After attacking, increases own P.ATK by {0}% (max 90%) and skill damage by {1}% (max 100%).<br>When target is stunned, additionally increases own P.ATK by {2}% for 3 turns.",
+    "name": "Charging Lancer",
+    "summary": "After attacking, increases own P.ATK and skill damage.<br>When target is stunned, increases own P.ATK."
+  },
+  {
+    "id": 12002956,
+    "description": "When using a boost-type panel, increases this attack's critical rate by {0}%.<br>After critical attack, increases own skill damage by {1}% (max 100%) and M.ATK by {2}% for 2 turns.",
+    "name": "Sheisen Flutter",
+    "summary": "When using a boost-type panel, increases this attack's critical rate.<br>After critical attack, increases own skill damage and M.ATK."
+  },
+  {
+    "id": 12002957,
+    "description": "When using a boost-type panel, increases this attack's critical rate by {0}%.<br>After critical attack, increases own skill damage by {1}% (max 100%) and M.ATK by {2}% for 2 turns.",
+    "name": "Sheisen Flutter",
+    "summary": "When using a boost-type panel, increases this attack's critical rate.<br>After critical attack, increases own skill damage and M.ATK."
+  },
+  {
+    "id": 12002958,
+    "description": "When using a boost-type panel, increases this attack's critical rate by {0}%.<br>After critical attack, increases own skill damage by {1}% (max 100%) and M.ATK by {2}% for 2 turns.",
+    "name": "Sheisen Flutter",
+    "summary": "When using a boost-type panel, increases this attack's critical rate.<br>After critical attack, increases own skill damage and M.ATK."
+  },
+  {
+    "id": 12002959,
+    "description": "When using a boost-type panel, boosts this attack's critical rate by {0}%.<br>After a critical attack, boosts own skill damage by {1}% (MAX 100%) and<br>M.ATK by {2}% for 2 turns.",
+    "name": "Season Flutter",
+    "summary": "When using a boost-type panel, boosts this attack's critical rate.<br>After a critical attack, boosts own skill damage and M.ATK."
+  },
+  {
+    "id": 12002960,
+    "description": "When using a boost-type panel, boosts this attack's critical rate by {0}%.<br>After a critical attack, boosts own skill damage by {1}% (MAX 100%) and<br>M.ATK by {2}% for 2 turns.",
+    "name": "Season Flutter",
+    "summary": "When using a boost-type panel, boosts this attack's critical rate.<br>After a critical attack, boosts own skill damage and M.ATK."
+  },
+  {
+    "id": 14002320,
+    "description": "Boosts this attack's critical rate by 100%.<br>After attacking, grants self Great Excitement for 1 turn.<br>※Great Excitement boosts positive effect potency from battle items by 50%.",
+    "name": "Oozehaaahn Spinner",
+    "summary": "Boosts this attack's critical rate.<br>After attacking, grants self Great Excitement."
+  },
+  {
+    "id": 14002919,
+    "description": "When attacking a weakness, boosts damage by {0}%.<br>If target is stunned, boosts damage by {1}%.<br>After attacking, boosts own P.ATK by {2}% for 3 turns.<br>If Fun Sticker has not been granted, grants self Fun Sticker (Lv. 3).<br>If already granted, increases Fun Sticker level by 3 (MAX Lv. 5).<br>When target is stunned, additionally boosts own P.ATK by {3}% for 3 turns.",
+    "name": "Hydro Laser Splash",
+    "summary": "When attacking a weakness, boosts damage.<br>When target is stunned, boosts damage.<br>After attacking, boosts own P.ATK.<br>Grants Fun Sticker or increases its level.<br>When target is stunned, boosts own P.ATK."
+  },
+  {
+    "id": 14002920,
+    "description": "When attacking a weakness, boosts damage by {0}%.<br>If target is stunned, boosts damage by {1}%.<br>After attacking, boosts own P.ATK by {2}% for 3 turns.<br>If Fun Sticker has not been granted, grants self Fun Sticker (Lv. 3).<br>If already granted, increases Fun Sticker level by 3 (MAX Lv. 5).<br>When target is stunned, additionally boosts own P.ATK by {3}% for 3 turns.",
+    "name": "Hydro Laser Splash",
+    "summary": "When attacking a weakness, boosts damage.<br>When target is stunned, boosts damage.<br>After attacking, boosts own P.ATK.<br>Grants Fun Sticker or increases its level.<br>When target is stunned, boosts own P.ATK."
+  },
+  {
+    "id": 14002921,
+    "description": "When attacking a weakness, boosts damage by {0}%.<br>If target is stunned, boosts damage by {1}%.<br>After attacking, boosts own P.ATK by {2}% for 3 turns.<br>If Fun Sticker has not been granted, grants self Fun Sticker (Lv. 3).<br>If already granted, increases Fun Sticker level by 3 (MAX Lv. 5).<br>When target is stunned, additionally boosts own P.ATK by {3}% for 3 turns.",
+    "name": "Hydro Laser Splash",
+    "summary": "When attacking a weakness, boosts damage.<br>When target is stunned, boosts damage.<br>After attacking, boosts own P.ATK.<br>Grants Fun Sticker or increases its level.<br>When target is stunned, boosts own P.ATK."
+  },
+  {
+    "id": 14002922,
+    "description": "When attacking a weakness, boosts damage by {0}%.<br>If target is stunned, boosts damage by {1}%.<br>After attacking, boosts own P.ATK by {2}% for 3 turns.<br>If Fun Sticker has not been granted, grants self Fun Sticker (Lv. 3).<br>If already granted, increases Fun Sticker level by 3 (MAX Lv. 5).<br>When target is stunned, additionally boosts own P.ATK by {3}% for 3 turns.",
+    "name": "Hydro Laser Splash",
+    "summary": "When attacking a weakness, boosts damage.<br>When target is stunned, boosts damage.<br>After attacking, boosts own P.ATK.<br>Grants Fun Sticker or increases its level.<br>When target is stunned, boosts own P.ATK."
+  },
+  {
+    "id": 14002923,
+    "description": "When attacking a weakness, boosts damage by {0}%.<br>If target is stunned, boosts damage by {1}%.<br>After attacking, boosts own P.ATK by {2}% for 3 turns.<br>If Fun Sticker has not been granted, grants self Fun Sticker (Lv. 3).<br>If already granted, increases Fun Sticker level by 3 (MAX Lv. 5).<br>When target is stunned, additionally boosts own P.ATK by {3}% for 3 turns.",
+    "name": "Hydro Laser Splash",
+    "summary": "When attacking a weakness, boosts damage.<br>When target is stunned, boosts damage.<br>After attacking, boosts own P.ATK.<br>Grants Fun Sticker or increases its level.<br>When target is stunned, boosts own P.ATK."
+  },
+  {
+    "id": 14002961,
+    "description": "Boosts this attack's critical rate by 100%.<br>After attacking, grants self Great Excitement for 1 turn and<br>boosts M.ATK by {0}% for 1 turn.<br>Restores the item gauge by {1}%.<br>※Great Excitement boosts positive effect potency from battle items by 50%.",
+    "name": "Oozehaaahn Spinner",
+    "summary": "Boosts this attack's critical rate.<br>After attacking, grants self Great Excitement.<br>Boosts own M.ATK.<br>Restores the item gauge."
+  },
+  {
+    "id": 14002977,
+    "description": "When Fun Sticker has been granted, boosts this attack's penetration by {0}.<br>After attacking, boosts own skill damage by {1}% (MAX 100%).",
+    "name": "Illicit Shot",
+    "summary": "When Fun Sticker has been granted, boosts this attack's penetration.<br>After attacking, boosts own skill damage."
+  },
+  {
+    "id": 32002665,
+    "description": "After attacking, boosts own damage dealt by 15% and reduces damage received by 30% for 2 turns.",
+    "name": "Hedgehog Muscle",
+    "summary": ""
+  },
+  {
+    "id": 32002666,
+    "description": "No additional effects.",
+    "name": "Power Strike",
+    "summary": ""
+  },
+  {
+    "id": 32002667,
+    "description": "After attacking, reduces all allies' damage received by 25% for 2 turns.",
+    "name": "Beach Dive",
+    "summary": ""
+  },
+  {
+    "id": 32002668,
+    "description": "After attacking, boosts own damage dealt by 15% for 1 turn.",
+    "name": "Summer Tempest",
+    "summary": ""
+  },
+  {
+    "id": 32002669,
+    "description": "No additional effects.",
+    "name": "Smash Serve",
+    "summary": ""
+  },
+  {
+    "id": 32002670,
+    "description": "Grants self Cover state and reduces damage received by 20% for 5 turns.",
+    "name": "Glistening Tan",
+    "summary": ""
+  },
+  {
+    "id": 32002671,
+    "description": "No additional effects.",
+    "name": "Turtle Head",
+    "summary": ""
+  },
+  {
+    "id": 32002672,
+    "description": "Grants all allies damage immunity for 1 turn.",
+    "name": "Shell Field",
+    "summary": ""
+  },
+  {
+    "id": 32002673,
+    "description": "No additional effects.",
+    "name": "Raging Turtle",
+    "summary": ""
+  },
+  {
+    "id": 32002674,
+    "description": "Reduces target ally's damage received by 35% for 1 turn.",
+    "name": "Spin Up",
+    "summary": ""
+  },
+  {
+    "id": 32002675,
+    "description": "Delays target's next action by 3 turns.",
+    "name": "Tackle",
+    "summary": ""
+  },
+  {
+    "id": 32002676,
+    "description": "No effect.",
+    "name": "Rush",
+    "summary": ""
+  },
+  {
+    "id": 32002677,
+    "description": "After attacking, reduces target's damage dealt by 20% for 3 turns.",
+    "name": "Meteor Rush",
+    "summary": ""
+  },
+  {
+    "id": 32002678,
+    "description": "No effect.",
+    "name": "Fire Rush",
+    "summary": ""
+  },
+  {
+    "id": 32002679,
+    "description": "Increases ally skill target's damage dealt by 20% for 1 turn.",
+    "name": "Cheer Up",
+    "summary": ""
+  },
+  {
+    "id": 32002680,
+    "description": "After attacking, increases target's damage received by 15% for 2 turns.",
+    "name": "Binding Earth",
+    "summary": ""
+  },
+  {
+    "id": 32002681,
+    "description": "After attacking, inflicts Poison on target for 2 turns (x5 stacks).",
+    "name": "Plague Touch",
+    "summary": ""
+  },
+  {
+    "id": 32002682,
+    "description": "After attacking, removes all buffs from target.",
+    "name": "Cold Release",
+    "summary": ""
+  },
+  {
+    "id": 32002683,
+    "description": "No effect.",
+    "name": "Blessed Guidance",
+    "summary": ""
+  },
+  {
+    "id": 32002698,
+    "description": "No effect.",
+    "name": "Tumble",
+    "summary": ""
+  },
+  {
+    "id": 32002699,
+    "description": "No effect.",
+    "name": "Squishy Bomber",
+    "summary": ""
+  },
+  {
+    "id": 32002700,
+    "description": "No effect.",
+    "name": "Squishy Breath",
+    "summary": ""
+  },
+  {
+    "id": 32002701,
+    "description": "No effect.",
+    "name": "Heel",
+    "summary": ""
+  },
+  {
+    "id": 32002702,
+    "description": "No effect.",
+    "name": "Turtle Head",
+    "summary": ""
+  },
+  {
+    "id": 32002703,
+    "description": "Grants self damage immunity for 2 turns.",
+    "name": "Shell Field",
+    "summary": ""
+  },
+  {
+    "id": 32002704,
+    "description": "No effect.",
+    "name": "Raging Turtle",
+    "summary": ""
+  },
+  {
+    "id": 32002705,
+    "description": "Increases target's damage dealt by 25% for 2 turns.",
+    "name": "Spin Up",
+    "summary": ""
+  },
+  {
+    "id": 32002706,
+    "description": "Reduces all enemies' critical rate by 20% for 1 turn and stun damage dealt by 15% for 2 turns.",
+    "name": "Dark Breath",
+    "summary": ""
+  },
+  {
+    "id": 32002707,
+    "description": "Reduces damage received by all allies by 15% for 2 turns.",
+    "name": "Shell Field",
+    "summary": ""
+  },
+  {
+    "id": 32002708,
+    "description": "After attacking, increases damage received by all enemies by 25% for 4 turns.",
+    "name": "Drop Crack",
+    "summary": ""
+  },
+  {
+    "id": 32002709,
+    "description": "After attacking, reduces target's damage dealt by 20% for 2 turns.",
+    "name": "Splash",
+    "summary": ""
+  },
+  {
+    "id": 32002710,
+    "description": "No additional effects.",
+    "name": "Fall Crash",
+    "summary": ""
+  },
+  {
+    "id": 32002711,
+    "description": "After attacking, boosts own damage dealt by 20% for 2 turns.",
+    "name": "Jump Crash",
+    "summary": ""
+  },
+  {
+    "id": 32002712,
+    "description": "After recovery, increases own damage received by 25% for 2 turns.",
+    "name": "Annoying Supply",
+    "summary": ""
+  },
+  {
+    "id": 32002713,
+    "description": "After attacking, reduces all enemies' recovery amount by 35% and positive effect potency by 35% for 3 turns.",
+    "name": "Dark Mist",
+    "summary": ""
+  },
+  {
+    "id": 32002714,
+    "description": "After attacking, reduces all enemies' damage dealt by 25% for 2 turns.",
+    "name": "Ice Mist",
+    "summary": ""
+  },
+  {
+    "id": 32002715,
+    "description": "After attacking, reduces own damage received by 35% for 2 turns and increases target's damage received by 35% for 2 turns.",
+    "name": "Seal Blow",
+    "summary": ""
+  },
+  {
+    "id": 32002716,
+    "description": "No additional effects.",
+    "name": "Uppercut Claw",
+    "summary": ""
+  },
+  {
+    "id": 32002717,
+    "description": "After attacking, boosts own damage dealt by 30% for 2 turns and converts the next panel to a boost panel (except burst panels).",
+    "name": "Ice Dance",
+    "summary": ""
+  },
+  {
+    "id": 32002718,
+    "description": "Reduces all enemies' Strike and Ice resistance by 25% for 2 turns.",
+    "name": "Dark Smog",
+    "summary": ""
+  },
+  {
+    "id": 32002771,
+    "description": "After attacking, increases all enemies' damage received by 25% for 4 turns.",
+    "name": "Drop Crack",
+    "summary": ""
+  },
+  {
+    "id": 32002772,
+    "description": "After attacking, reduces target's damage dealt by 20% for 2 turns.",
+    "name": "Splash",
+    "summary": ""
+  },
+  {
+    "id": 32002773,
+    "description": "No additional effects.",
+    "name": "Fall Crash",
+    "summary": ""
+  },
+  {
+    "id": 32002774,
+    "description": "After attacking, boosts own damage dealt by 20% for 2 turns.",
+    "name": "Jump Crash",
+    "summary": ""
+  },
+  {
+    "id": 32002775,
+    "description": "After recovery, increases own damage received by 25% for 2 turns.",
+    "name": "Annoying Supply",
+    "summary": ""
+  },
+  {
+    "id": 32002776,
+    "description": "After attacking, reduces all enemies' recovery amount by 35% and positive effect potency by 35% for 3 turns.",
+    "name": "Dark Mist",
+    "summary": ""
+  },
+  {
+    "id": 32002777,
+    "description": "After attacking, reduces all enemies' damage dealt by 25% for 2 turns.",
+    "name": "Ice Mist",
+    "summary": ""
+  },
+  {
+    "id": 32002778,
+    "description": "After attacking, reduces own damage received by 35% for 2 turns and increases target's damage received by 35% for 2 turns.",
+    "name": "Seal Blow",
+    "summary": ""
+  },
+  {
+    "id": 32002779,
+    "description": "No additional effects.",
+    "name": "Uppercut Claw",
+    "summary": ""
+  },
+  {
+    "id": 32002780,
+    "description": "After attacking, boosts own damage dealt by 30% for 2 turns and converts the next panel to a boost panel (except burst panels).",
+    "name": "Ice Dance",
+    "summary": ""
+  },
+  {
+    "id": 32002781,
+    "description": "Reduces all enemies' Strike resistance by 25% for 2 turns and Ice resistance by 25% for 2 turns.",
+    "name": "Dark Smog",
+    "summary": ""
   }
 ]

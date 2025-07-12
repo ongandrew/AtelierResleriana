@@ -2183,5 +2183,135 @@
     "id": 910177,
     "description": "Reduces damage received by {value}%. (Unaffected by positive effect potency changes)",
     "name": "Received Damage Down"
+  },
+  {
+    "id": 510164,
+    "description": "Boosts critical damage received by {value}%. (MAX 100%)",
+    "name": "Perfect Vibes Coming Through!"
+  },
+  {
+    "id": 510165,
+    "description": "Boosts critical rate by {value}%. (MAX 200%)",
+    "name": "Perfect Vibes Coming Through!"
+  },
+  {
+    "id": 510166,
+    "description": "Boosts Follow-Up Attack damage by {value}% based on Fun Sticker level.",
+    "name": "Fun Sticker Level: Follow-Up Attack Damage Up"
+  },
+  {
+    "id": 510167,
+    "description": "Lv. 1+: Boosts skill damage by {value}%.",
+    "name": "Fun Sticker Lv. 1+: Dealt Damage Up"
+  },
+  {
+    "id": 510168,
+    "description": "Lv. 3+: Boosts skill damage by {value}%.",
+    "name": "Fun Sticker Lv. 3+: Dealt Damage Up"
+  },
+  {
+    "id": 510169,
+    "description": "Lv. 5+: Boosts skill damage by {value}%.",
+    "name": "Fun Sticker Lv. 5+: Dealt Damage Up"
+  },
+  {
+    "id": 510176,
+    "description": "Boosts damage by {value}% when target has Paralysis, Sleep, Daze, or Regal Aura.",
+    "name": "Paralysis/Sleep/Daze/Regal Aura Target: Dealt Damage Up"
+  },
+  {
+    "id": 610270,
+    "description": "Boosts critical damage by {value}%. (MAX 100%)",
+    "name": "Critical Damage Up"
+  },
+  {
+    "id": 610273,
+    "description": "Gains bonuses from Antje's Fun based on Fun Sticker level.",
+    "name": "Fun Sticker"
+  },
+  {
+    "id": 610278,
+    "description": "Boosts skill damage by {value}%. (MAX 100%)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 610279,
+    "description": "Boosts P.ATK by {value}%. (MAX 50%)",
+    "name": "P.ATK Up"
+  },
+  {
+    "id": 610280,
+    "description": "Boosts P.ATK by {value}%. (MAX 90%)",
+    "name": "P.ATK Up"
+  },
+  {
+    "id": 610281,
+    "description": "Boosts skill damage by {value}%. (MAX 100%)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 720026,
+    "description": "Reduces Strike resistance by {value}%.",
+    "name": "Strike Resistance Down"
+  },
+  {
+    "id": 720027,
+    "description": "Reduces Ice resistance by {value}%.",
+    "name": "Ice Resistance Down"
+  },
+  {
+    "id": 800156,
+    "description": "Boosts max HP by {value}%. (MAX 30%)",
+    "name": "Max HP Up"
+  },
+  {
+    "id": 800157,
+    "description": "Boosts max HP by {value}%. (MAX 21%)",
+    "name": "Max HP Up"
+  },
+  {
+    "id": 800158,
+    "description": "Reduces damage received from single target attacks by {value}%. (Unaffected by positive effect potency changes)",
+    "name": "Single Target Damage Received Down"
+  },
+  {
+    "id": 800159,
+    "description": "Reduces damage received from area attacks by {value}%. (Unaffected by positive effect potency changes)",
+    "name": "Area Attack Damage Received Down"
+  },
+  {
+    "id": 800160,
+    "description": "Boosts damage received by {value}%. (MAX 2 stacks)",
+    "name": "Damage Received Up"
+  },
+  {
+    "id": 800161,
+    "description": "Boosts damage received by {value}%. (MAX 2 stacks)",
+    "name": "Received Damage Up"
+  },
+  {
+    "id": 810400,
+    "description": "Nullifies Air resistance down effects. Cannot be removed.",
+    "name": "Air Resistance Down Immunity"
+  },
+  {
+    "id": 820114,
+    "description": "Boosts stun damage received by {value}%. (MAX 50%)",
+    "name": "Received Stun Damage Up"
+  },
+  {
+    "id": 910178,
+    "description": "Reduces SPD by {value}%.",
+    "name": "SPD Down"
+  },
+  {
+    "id": 910179,
+    "description": "Boosts damage received from magical attacks by {value}%.",
+    "name": "Magical Damage Received Up"
+  },
+  {
+    "id": 1250419,
+    "description": "Boosts damage dealt by {value}%. Cannot be removed.",
+    "name": "Dealt Damage Up"
   }
 ]

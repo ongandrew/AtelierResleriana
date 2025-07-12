@@ -183,5 +183,20 @@
     "id": 608,
     "description": "You can check the party compositions other users used to clear quests. Clear party information is not displayed for certain quests like the Roman Grand Battle Tournament and Legend Challenge.",
     "name": "Clear Party"
+  },
+  {
+    "id": 702,
+    "description": "Characters that own multiple skins can switch between them using the button in the top left corner.",
+    "name": "Switching Skins"
+  },
+  {
+    "id": 3904,
+    "description": "Each destination has recommended characters. They change periodically, but including them in your party grants high bonuses, so be sure to bring them along.",
+    "name": "Recommended Characters"
+  },
+  {
+    "id": 6601,
+    "description": "The collection contains all the Memoria and valuables you've obtained so far. You can earn rewards based on the total number of items collected in each category.",
+    "name": "Collection"
   }
 ]

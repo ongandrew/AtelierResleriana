@@ -948,5 +948,95 @@
     "id": 1138,
     "description": "While equipped to a Defender with Ice affinity, reduces damage received from magical attacks by {0}%.",
     "name": "Gebet Anker"
+  },
+  {
+    "id": 1139,
+    "description": "While equipped to an Attacker with Bolt affinity, boosts potency of effects received from boost-type panels by {0}%.<br>After a critical attack, boosts own critical damage by {1}% for 1 turn.",
+    "name": "Radiant Hibiscus"
+  },
+  {
+    "id": 1140,
+    "description": "While equipped to Antje [Marine Papettia], boosts skill damage by {0}% when attack target is stunned.",
+    "name": "Bear's Shooter"
+  },
+  {
+    "id": 1146,
+    "description": "Boosts critical damage by {0}%.",
+    "name": "Passionate Alchemist's Garb"
+  },
+  {
+    "id": 1147,
+    "description": "Boosts critical damage by {0}%.",
+    "name": "Passionate Alchemist's Garb"
+  },
+  {
+    "id": 1148,
+    "description": "Boosts stun damage by {0}%.",
+    "name": "Free-spirited Alchemist's Garb"
+  },
+  {
+    "id": 1149,
+    "description": "Boosts stun damage by {0}%.",
+    "name": "Free-spirited Alchemist's Garb"
+  },
+  {
+    "id": 1150,
+    "description": "Reduces damage received from single target attacks by {0}% (fixed).",
+    "name": "Unmoving Alchemist's Garb"
+  },
+  {
+    "id": 1151,
+    "description": "Reduces damage received from single target attacks by {0}% (fixed).",
+    "name": "Unmoving Alchemist's Garb"
+  },
+  {
+    "id": 1152,
+    "description": "Boosts all allies' critical damage by {0}%.",
+    "name": "Tranquil Alchemist's Garb"
+  },
+  {
+    "id": 1153,
+    "description": "Boosts all allies' critical damage by {0}%.",
+    "name": "Tranquil Alchemist's Garb"
+  },
+  {
+    "id": 1154,
+    "description": "Boosts skill damage by {0}%.",
+    "name": "Gorge Charm"
+  },
+  {
+    "id": 1155,
+    "description": "Boosts skill damage by {0}%.",
+    "name": "Gorge Charm"
+  },
+  {
+    "id": 1156,
+    "description": "After using a skill, increases target's damage received by {0}% for 1 attack (max 2 stacks).",
+    "name": "Desert Charm"
+  },
+  {
+    "id": 1157,
+    "description": "After using a skill, increases target's damage received by {0}% for 1 attack (max 2 stacks).",
+    "name": "Desert Charm"
+  },
+  {
+    "id": 1158,
+    "description": "Reduces all allies' damage received from area attacks by {0}% (fixed).",
+    "name": "Raging Waves Charm"
+  },
+  {
+    "id": 1159,
+    "description": "Reduces all allies' damage received from area attacks by {0}% (fixed).",
+    "name": "Raging Waves Charm"
+  },
+  {
+    "id": 1160,
+    "description": "Boosts all allies' skill damage by {0}%.",
+    "name": "Serene Sky Charm"
+  },
+  {
+    "id": 1161,
+    "description": "Boosts all allies' skill damage by {0}%.",
+    "name": "Serene Sky Charm"
   }
 ]

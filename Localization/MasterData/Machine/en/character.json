@@ -538,5 +538,65 @@
     "overlay_name": "Rororina Fryxell",
     "profile_voice_text": "I'm not really used to wearing clothes like this,\nso I'm feeling a bit nervous...!",
     "start_at": "2025-06-30T03:00:00Z"
+  },
+  {
+    "id": 44802,
+    "acquisition_text": "I'm not particularly interested in the ocean...\nBut if you want to go, I'll come with you.",
+    "another_name": "Marine Puppeteer",
+    "description": "A darkness-cloaked alchemist.\nShe previously belonged to the Polar Night Alchemists and assisted Criselda.\nShe wears a swimsuit prepared together with Resna to participate in Lara's \"Lara Beach Grand Prix.\"\nShe possesses the strength to work devotedly for those important to her, including her friend Criselda.",
+    "fullname": "Antje Moltke",
+    "leader_skill": {
+      "description": "Boosts Lantarna characters' P.ATK by 40%.",
+      "name": "First Time at the Ocean with Everyone"
+    },
+    "name": "Antje",
+    "overlay_name": "Antje Moltke",
+    "profile_voice_text": "This is my first time playing at the ocean...\nBut this might be... fun, I suppose.",
+    "start_at": "2025-07-11T03:00:00Z"
+  },
+  {
+    "id": 143204,
+    "acquisition_text": "Come on, let's go swimming!\nI'll take care of any enemies lurking in the water!",
+    "another_name": "For Dungeon Display",
+    "description": "A beautiful warrior with amnesia.\nShe didn't see the need for a swimsuit, but still captivated everyone with how great it looked on her.\nOnce she tried it on, she found it very light and easy to move in, which was perfect for her as she believes that striking first is the key to victory.",
+    "fullname": "Valeria",
+    "leader_skill": {
+      "description": "Boosts Lantarna characters' burst skill damage by 100%.",
+      "name": "Unmatched in Mobility!"
+    },
+    "name": "Valeria",
+    "overlay_name": "Valeria",
+    "profile_voice_text": "I'm a great swimmer! Leave any battles in the water to me!\nI can adapt to almost any situation!",
+    "start_at": "2049-12-31T15:00:00Z"
+  },
+  {
+    "id": 144802,
+    "acquisition_text": "I'm not particularly interested in the ocean...\nBut if you want to go, I'll come with you.",
+    "another_name": "For Dungeon Display",
+    "description": "A darkness-cloaked alchemist.\nShe previously belonged to the Polar Night Alchemists and assisted Criselda.\nShe wears a swimsuit prepared together with Resna to participate in Lara's \"Lara Beach Grand Prix.\"\nShe possesses the strength to work devotedly for those important to her, including her friend Criselda.",
+    "fullname": "Antje Moltke",
+    "leader_skill": {
+      "description": "Boosts Lantarna characters' P.ATK by 40%.",
+      "name": "First Time at the Ocean with Everyone"
+    },
+    "name": "Antje",
+    "overlay_name": "Antje Moltke",
+    "profile_voice_text": "This is my first time playing at the ocean...\nBut this might be... fun, I suppose.",
+    "start_at": "2049-12-31T15:00:00Z"
+  },
+  {
+    "id": 1043105,
+    "acquisition_text": "I'll shine even brighter than the blazing sun!",
+    "another_name": "[For Dungeon Display]",
+    "description": "A fledgling alchemist passionate about reviving alchemy.\nShe dreams of bringing alchemy back to its former glory and works tirelessly toward that goal every day.\nTo enjoy the summer, she's wearing a precious swimsuit chosen by her best friend Izana.\nEven in this fairy-like adorable outfit, she doesn't forget her straw hat for sun protection.",
+    "fullname": "Resna Sternenlicht",
+    "leader_skill": {
+      "description": "Boosts Seasonal characters' burst skill damage and stun damage by 75%.",
+      "name": "Summer Calls for Bold Choices"
+    },
+    "name": "Resna",
+    "overlay_name": "Resna Sternenlicht",
+    "profile_voice_text": "I'm not great with strong sunlight, but... I'll power through with this swimsuit!",
+    "start_at": "2049-12-31T15:00:00Z"
   }
 ]

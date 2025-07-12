@@ -3,7 +3,7 @@
     "id": 820802291,
     "properties": {
       "999008199": {
-        "text": "\u4ED6\u306E\u30D7\u30EC\u30A4\u30E4\u30FC\u540D\u3092\u975E\u8868\u793A",
+        "text": "他のプレイヤー名を非表示",
         "localizations": {
           "en": "Hide Other Player Names"
         }
@@ -14,9 +14,9 @@
     "id": 296491844,
     "properties": {
       "999008199": {
-        "text": "\u203BON\u306B\u3059\u308B\u3068\u4ED6\u306E\u30D7\u30EC\u30A4\u30E4\u30FC\u306E\u540D\u524D\u3092\u975E\u8868\u793A\u306B\u3057\u307E\u3059",
+        "text": "※ONにすると他のプレイヤーの名前を非表示にします",
         "localizations": {
-          "en": "\u203BWhen enabled, other players\u0027 names will be hidden"
+          "en": "※When enabled, other players' names will be hidden"
         }
       }
     }
@@ -25,9 +25,31 @@
     "id": 1032814016,
     "properties": {
       "999008199": {
-        "text": "\u003Ccolor=#c45a11\u003E\u30D7\u30EC\u30A4\u30E4\u30FC\u003C/color\u003E",
+        "text": "<color=#c45a11>プレイヤー</color>",
         "localizations": {
-          "en": "\u003Ccolor=#c45a11\u003EPlayer\u003C/color\u003E"
+          "en": "<color=#c45a11>Player</color>"
+        }
+      }
+    }
+  },
+  {
+    "id": 633910999,
+    "properties": {
+      "999008199": {
+        "text": "探索受取上限通知",
+        "localizations": {
+          "en": "Exploration Reward Limit Notification"
+        }
+      }
+    }
+  },
+  {
+    "id": 2122628387,
+    "properties": {
+      "999008199": {
+        "text": "探索が完了しました！\u3000採取した素材を受け取りましょう！",
+        "localizations": {
+          "en": "Exploration complete! Let's collect the materials you've gathered!"
         }
       }
     }

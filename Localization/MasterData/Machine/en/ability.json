@@ -5113,5 +5113,215 @@
     "id": 600000691,
     "description": "When Rorona [Wonderful Princess] or Totori [Endless Voyager] is in the party, reduces damage received by 25%. (MAX 25%)",
     "name": "Rorona [Wonderful Princess] or Totori [Endless Voyager] Party Damage Reduction"
+  },
+  {
+    "id": 301224,
+    "description": "While equipped to an Attacker with Bolt affinity, boosts effects received from boost-type panels by {0}%.<br>After landing a critical attack, grants Critical Damage +{1}% to self for 1 turn.",
+    "name": "Radiant Hibiscus"
+  },
+  {
+    "id": 301225,
+    "description": "While equipped to Antje [Marine Puppetteer] and attack target is stunned, boosts skill damage by {0}%.",
+    "name": "Bear's Shooter"
+  },
+  {
+    "id": 301226,
+    "description": "Boosts critical damage by {0}%.",
+    "name": "Passionate Alchemist's Outfit"
+  },
+  {
+    "id": 301227,
+    "description": "Boosts critical damage by {0}%.",
+    "name": "Passionate Alchemist's Outfit"
+  },
+  {
+    "id": 301228,
+    "description": "Boosts stun damage by {0}%.",
+    "name": "Free-spirited Alchemist's Outfit"
+  },
+  {
+    "id": 301229,
+    "description": "Boosts stun damage by {0}%.",
+    "name": "Free-spirited Alchemist's Outfit"
+  },
+  {
+    "id": 301230,
+    "description": "Reduces damage received from single target attacks by {0}% (fixed).",
+    "name": "Immovable Alchemist's Outfit"
+  },
+  {
+    "id": 301231,
+    "description": "Reduces damage received from single target attacks by {0}% (fixed).",
+    "name": "Immovable Alchemist's Outfit"
+  },
+  {
+    "id": 301232,
+    "description": "Boosts all allies' critical damage by {0}%.",
+    "name": "Serene Alchemist's Outfit"
+  },
+  {
+    "id": 301233,
+    "description": "Boosts all allies' critical damage by {0}%.",
+    "name": "Serene Alchemist's Outfit"
+  },
+  {
+    "id": 301234,
+    "description": "Boosts skill damage by {0}%.",
+    "name": "Gorge Guardian"
+  },
+  {
+    "id": 301235,
+    "description": "Boosts skill damage by {0}%.",
+    "name": "Gorge Guardian"
+  },
+  {
+    "id": 301236,
+    "description": "After using a skill, grants target Damage Received +{0}% for 1 attack (Max 2 stacks).",
+    "name": "Desert Guardian"
+  },
+  {
+    "id": 301237,
+    "description": "After using a skill, grants target Damage Received +{0}% for 1 attack (Max 2 stacks).",
+    "name": "Desert Guardian"
+  },
+  {
+    "id": 301238,
+    "description": "Reduces damage received from area attacks by {0}% for all allies (fixed).",
+    "name": "Raging Waves Guardian"
+  },
+  {
+    "id": 301239,
+    "description": "Reduces damage received from area attacks by {0}% for all allies (fixed).",
+    "name": "Raging Waves Guardian"
+  },
+  {
+    "id": 301240,
+    "description": "Boosts all allies' skill damage by {0}%.",
+    "name": "Calm Sky Guardian"
+  },
+  {
+    "id": 301241,
+    "description": "Boosts all allies' skill damage by {0}%.",
+    "name": "Calm Sky Guardian"
+  },
+  {
+    "id": 1980200,
+    "description": "Lantarna tag characters gain P.ATK +{0}%.",
+    "name": "First Ocean Adventure with Everyone"
+  },
+  {
+    "id": 1990312,
+    "description": "When using a swim ring panel, grants all enemies Critical Damage Received +{0}% (Max 100%),<br>and grants self Critical Rate +{1}% (Max 200%).",
+    "name": "Perfect Waves Are Coming!"
+  },
+  {
+    "id": 1990369,
+    "description": "When attacking a weakness or when attacking a stunned enemy, triggers additional attack: {hyperlink_id 149}.",
+    "name": "You Can't Escape..."
+  },
+  {
+    "id": 1990370,
+    "description": "When attacking a stunned target, if Fun Stickers has not been granted, grants Fun Stickers (Lv. 1).<br>If already granted, increases Fun Stickers level by 1 (MAX Lv. 5).<br>Gain the following bonuses based on Fun Stickers level:<br>Boosts additional attack damage by {0}% per level<br>Lv. 1+: Boosts skill damage by {1}%<br>Lv. 3+: Boosts skill damage by {2}%<br>Lv. 5: Boosts skill damage by {3}%",
+    "name": "Antje's Fun Time"
+  },
+  {
+    "id": 4991013,
+    "description": "While equipped to an Attacker with Slash affinity, boosts skill damage by {0}%.<br>While equipped to a character with Bookworm tag, boosts P.ATK by {1}%.",
+    "name": "Imagination \"Watermelon-Splitting Technique\""
+  },
+  {
+    "id": 4991014,
+    "description": "While equipped to an Attacker with Slash affinity, boosts skill damage by {0}%.<br>While equipped to a character with Bookworm tag, boosts P.ATK by {1}%.",
+    "name": "Imagination \"Watermelon-Splitting Technique\""
+  },
+  {
+    "id": 4991015,
+    "description": "While equipped to an Attacker with Slash affinity, boosts skill damage by {0}%.<br>While equipped to a character with Bookworm tag, boosts P.ATK by {1}%.",
+    "name": "Imagination \"Watermelon-Splitting Technique\""
+  },
+  {
+    "id": 4991016,
+    "description": "While equipped to an Attacker with Slash affinity, boosts skill damage by {0}%.<br>While equipped to a character with Bookworm tag, boosts P.ATK by {1}%.",
+    "name": "Imagination \"Watermelon-Splitting Technique\""
+  },
+  {
+    "id": 4991017,
+    "description": "While equipped to an Attacker with Slash affinity, boosts skill damage by {0}%.<br>While equipped to a character with Bookworm tag, boosts P.ATK by {1}%.",
+    "name": "Imagination \"Watermelon-Splitting Technique\""
+  },
+  {
+    "id": 4991018,
+    "description": "While equipped to a character with Alchemist tag, boosts all allies' critical damage by {0}%.",
+    "name": "Alchemist Critical Damage Up (All) III"
+  },
+  {
+    "id": 4991019,
+    "description": "While equipped to a character with Alchemist tag, boosts all allies' critical damage by {0}%.",
+    "name": "Alchemist Critical Damage Up (All) III"
+  },
+  {
+    "id": 4991020,
+    "description": "While equipped to a character with Alchemist tag, boosts all allies' critical damage by {0}%.",
+    "name": "Alchemist Critical Damage Up (All) III"
+  },
+  {
+    "id": 4991021,
+    "description": "While equipped to a character with Alchemist tag, boosts all allies' critical damage by {0}%.",
+    "name": "Alchemist Critical Damage Up (All) III"
+  },
+  {
+    "id": 4991022,
+    "description": "While equipped to a character with Alchemist tag, boosts all allies' critical damage by {0}%.",
+    "name": "Alchemist Critical Damage Up (All) III"
+  },
+  {
+    "id": 7000741,
+    "description": "Boosts critical damage by {0}% for characters with Fire affinity.",
+    "name": "Slash Affinity Critical Damage Up (1)"
+  },
+  {
+    "id": 7000742,
+    "description": "Boosts critical damage by {0}% for characters with Fire affinity.",
+    "name": "Slash Affinity Critical Damage Up (2)"
+  },
+  {
+    "id": 7000743,
+    "description": "Boosts critical damage by {0}% for characters with Fire affinity.",
+    "name": "Slash Affinity Critical Damage Up (3)"
+  },
+  {
+    "id": 26247001,
+    "description": "Every 10 weakness attacks received, grants self damage received up (cumulative) and stun damage received up (cumulative).",
+    "name": ""
+  },
+  {
+    "id": 26247002,
+    "description": "Nullifies resistance down effects for all attributes except Ice, Bolt, and Slash.",
+    "name": ""
+  },
+  {
+    "id": 26248000,
+    "description": "When attack is deflected, increases own damage dealt up level by 1 (MAX Lv. 10, invisible).\nWhen unable to battle, activates field ability based on own damage dealt up level.",
+    "name": ""
+  },
+  {
+    "id": 600000685,
+    "description": "Boosts Antje [Marine Puppeteer]'s skill power by 100%.",
+    "name": "Antje [Marine Puppeteer] Skill Power Up"
+  },
+  {
+    "id": 600000686,
+    "description": "Boosts Valeria [Radiant Summer]'s skill power by 100%.",
+    "name": "Valeria [Radiant Summer] Skill Power Up"
+  },
+  {
+    "id": 600000687,
+    "description": "While equipped to a Seasonal character, boosts skill power by 100%.",
+    "name": "While equipped to a Seasonal character, Skill Power UP"
+  },
+  {
+    "id": 600000688,
+    "description": "While Antje [Marine Puppeteer] or Valeria [Radiant Summer] is in the party, reduces damage received by 25%. (MAX 25%)",
+    "name": "While Antje [Marine Puppeteer] or Valeria [Radiant Summer] is in the party, Damage Received Reduction"
   }
 ]

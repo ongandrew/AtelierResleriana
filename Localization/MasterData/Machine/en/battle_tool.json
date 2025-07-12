@@ -218,5 +218,15 @@
     "id": 289,
     "description": "Reduces all resistances of all enemies by {0}% for 1 attack.",
     "name": "Curse of Princess"
+  },
+  {
+    "id": 290,
+    "description": "Boosts max HP of the ally with the highest max HP by {0}% (max 30%) and restores 50% HP.",
+    "name": "Blue Night Puni Cocktail"
+  },
+  {
+    "id": 291,
+    "description": "Boosts max HP of the ally with the highest max HP by {0}% (max 21%) and restores 30% HP.",
+    "name": "Blue Night Puni Cocktail"
   }
 ]

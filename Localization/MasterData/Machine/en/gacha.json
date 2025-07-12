@@ -2381,5 +2381,117 @@
     "name": "Arland Festival - Princess of Wonderland Rorona LEGEND FES [Paid Lodestar Gems Only]",
     "start_at": "2025-06-30T03:00:00Z",
     "step_up_loop_description": ""
+  },
+  {
+    "id": 2269,
+    "description": "Pick-up character appears as 6★!\nIf you already have them and wish for the first time in this banner,\nyou'll get an additional 1030 Pieces on your first wish!\n※Regardless of ownership status when first obtained, from the 2nd wish onward,\n  you'll receive 100 Pieces instead\nUntil 2025/07/25 11:59 (UTC+8)",
+    "end_at": "2025-07-25T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Valeria [Radiant Summer] 6★ Release Commemorative Wish",
+    "name": "Valeria [Radiant Summer] 6★ Release Commemorative Wish",
+    "start_at": "2025-07-11T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2270,
+    "description": "Antje makes her debut & Pick-up!\nUntil 2025/08/18 11:59 (UTC+8)",
+    "end_at": "2025-08-18T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Atelier Summer 2025: Little Devil Antje - LEGEND FES",
+    "name": "Atelier Summer 2025: Little Devil Antje - LEGEND FES",
+    "start_at": "2025-07-11T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2271,
+    "description": "Wish 50 times with paid Lodestar Gems to unlock an additional wish!\nUntil 2025/08/18 11:59 (UTC+8)",
+    "end_at": "2025-08-18T03:00:00Z",
+    "name": "Atelier Summer 2025: Little Devil Antje - LEGEND FES [Paid Lodestar Gems Only]",
+    "start_at": "2025-07-11T03:00:00Z",
+    "step_up_loop_description": "{} cycles left"
+  },
+  {
+    "id": 22001,
+    "description": "One free Wish per day during the event period! Many unique Atelier characters appear!\nATELIER FES with no pick-up rates!",
+    "end_at": "2025-08-18T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10003,
+            "description": ""
+          },
+          {
+            "id": 105,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 106,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "ATELIER FES",
+    "name": "ATELIER FES",
+    "start_at": "2025-07-11T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 227101,
+    "description": "Max 5 times! 2x pick-up rates!\nGet 16 Medals! Until 2025/08/18 11:59 (UTC+8).",
+    "end_at": "2025-08-18T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10005,
+            "description": "Bonus included!\n{} Times Left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Atelier Summer 2025 Little Devil Antje - LEGEND FES [Paid Lodestar Gems Only]",
+    "name": "Atelier Summer 2025 Little Devil Antje - LEGEND FES [Paid Lodestar Gems Only]",
+    "start_at": "2025-07-11T03:00:00Z",
+    "step_up_loop_description": ""
   }
 ]

@@ -1558,5 +1558,33 @@
   {
     "id": 60246001,
     "description": "- Before powerful attacks, boosts target's damage received\n- Before powerful attacks, inflicts Nullify HP Recovery on targets without barriers\n- Removes positive effects from a single opponent\n- When stunned, removes own positive effects\n- When HP drops below a certain level, grants multiple positive effects to self and uses a powerful attack (activates up to 1 time)\n- Nullifies resistance down effects for all elements except Ice and Air"
+  },
+  {
+    "id": 60055001,
+    "description": "- Grants Damage Immunity to self\n- Restores own stun gauge with each turn"
+  },
+  {
+    "id": 60171001,
+    "description": "- Heals allies"
+  },
+  {
+    "id": 60172001,
+    "description": "- Heals allies"
+  },
+  {
+    "id": 60247001,
+    "description": "- For every certain number of weakness attacks received, boosts own damage received (up to 50%) and stun damage received (up to 50%)"
+  },
+  {
+    "id": 60247002,
+    "description": "- For every certain number of weakness attacks received, boosts own damage received (up to 50%) and stun damage received (up to 50%)\n- Nullifies attribute resistance down for elements other than Ice, Bolt, and Slash"
+  },
+  {
+    "id": 60248001,
+    "description": "- When KO'd, applies a Field Effect that boosts damage dealt for all enemies and allies (effect potency increases based on number of attacks received)\n- Heals self"
+  },
+  {
+    "id": 60248002,
+    "description": "- When KO'd, applies a Field Effect that boosts damage dealt for all enemies and allies (effect potency increases based on number of attacks received)\n- Heals self\n- Nullifies attribute resistance down for elements other than Ice, Bolt, and Slash"
   }
 ]

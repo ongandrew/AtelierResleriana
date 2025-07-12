@@ -15,7 +15,7 @@ namespace AtelierResleriana.Executables.Pipeline.MasterData.Extract
 
             foreach ((Region region, IEnumerable<string> locales) in new Dictionary<Region, IEnumerable<string>>() 
                 { 
-                    [Region.Global] = new string[] { "en", "zh-CN", "zh-TW" },
+                    //[Region.Global] = new string[] { "en", "zh-CN", "zh-TW" },
                     [Region.Japan] = new string[] { "jp" } 
                 })
             {

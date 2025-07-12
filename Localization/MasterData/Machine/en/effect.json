@@ -6898,5 +6898,395 @@
     "id": 814000033,
     "description": "Allies: Damage Dealt Down 20%",
     "popup_text": ""
+  },
+  {
+    "id": 6001097,
+    "description": "Grants Max HP Up to 1 ally with the highest max HP (up to 30%).",
+    "popup_text": ""
+  },
+  {
+    "id": 6001098,
+    "description": "Grants Max HP Up to 1 ally with the highest max HP (up to 21%).",
+    "popup_text": ""
+  },
+  {
+    "id": 6001099,
+    "description": "While equipped to an Attacker with Bolt affinity, boosts effects received from boost-type panels.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001100,
+    "description": "After a critical attack, grants Critical Damage Up to self for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001101,
+    "description": "While equipped to Antje [Marine Puppeteer] and the attack target is stunned, boosts skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001102,
+    "description": "Critical damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001103,
+    "description": "Stun damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001104,
+    "description": "Reduces damage received from single target attacks (fixed effect amount).",
+    "popup_text": ""
+  },
+  {
+    "id": 6001105,
+    "description": "Boosts critical damage for all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001106,
+    "description": "Skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001107,
+    "description": "After using a skill, increases target's damage received for 1 attack (up to 2 stacks).",
+    "popup_text": ""
+  },
+  {
+    "id": 6001108,
+    "description": "Reduces damage received from area attacks for all allies (fixed amount).",
+    "popup_text": ""
+  },
+  {
+    "id": 6001109,
+    "description": "Boosts skill damage for all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001110,
+    "description": "After using a skill, increases target's damage received for 1 attack (up to 2 stacks).",
+    "popup_text": ""
+  },
+  {
+    "id": 13000340,
+    "description": "While equipped to a character with Slash affinity, boosts critical damage by {}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001339,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001342,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001343,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001344,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001345,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001346,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001347,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001348,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001349,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001350,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001351,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001352,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001353,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001364,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 76247001,
+    "description": "Reduces all enemies' HP recovery for 3 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76247002,
+    "description": "Reduces all enemies' positive effect potency for 3 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76247003,
+    "description": "Reduces all enemies' damage dealt for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76247004,
+    "description": "Reduces own damage received for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76247005,
+    "description": "Reduces target's damage received for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76247007,
+    "description": "Converts own next panel to a boost panel (excluding Burst Skill).",
+    "popup_text": ""
+  },
+  {
+    "id": 76247008,
+    "description": "Reduces all enemies' Strike resistance for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76247009,
+    "description": "Reduces all enemies' Ice resistance for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76247010,
+    "description": "Reduces Strike resistance.",
+    "popup_text": ""
+  },
+  {
+    "id": 76247011,
+    "description": "Reduces Ice resistance.",
+    "popup_text": ""
+  },
+  {
+    "id": 76248001,
+    "description": "Increases all enemies' damage received for 4 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76248002,
+    "description": "Reduces target's damage dealt for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76248003,
+    "description": "Increases own damage dealt for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76248004,
+    "description": "Reduces own damage received for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 86247001,
+    "description": "After 10 weakness attacks, increases own damage received (cumulative, max 50%).",
+    "popup_text": ""
+  },
+  {
+    "id": 86247002,
+    "description": "After 10 weakness attacks, increases own stun damage received (cumulative, max 50%).",
+    "popup_text": ""
+  },
+  {
+    "id": 86247003,
+    "description": "When hit by weakness attacks, removes counter if 9 counters are accumulated.",
+    "popup_text": ""
+  },
+  {
+    "id": 86248000,
+    "description": "Increases Damage Dealt Up (MAX Lv. 10, invisible) by 1 level.",
+    "popup_text": ""
+  },
+  {
+    "id": 91001631,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001783,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001785,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001786,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001787,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001790,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001801,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001802,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001803,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001804,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000246,
+    "description": "While equipped to an Attacker with Slash affinity, boosts skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000247,
+    "description": "While equipped to a character with Bookworm tag, boosts P.ATK.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000248,
+    "description": "While equipped to a character with Alchemist tag, boosts all allies' critical damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000721,
+    "description": "Nullifies Air Resistance Down.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000728,
+    "description": "Nullifies Air Resistance Down.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000741,
+    "description": "Boosts Antje [Marine Puppeteer]'s skill power.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000742,
+    "description": "Boosts Valeria [Radiant Summer]'s skill power.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000743,
+    "description": "Boosts skill power when self has Seasonal tag.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000747,
+    "description": "Reduces damage received when Antje [Marine Puppeteer] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000748,
+    "description": "Reduces damage received when Valeria [Radiant Summer] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 814000034,
+    "description": "Overall Count: All allies' damage dealt +5%, all enemies' damage dealt +20%.",
+    "popup_text": ""
+  },
+  {
+    "id": 814000035,
+    "description": "Overall Count: All allies' damage dealt +10%, all enemies' damage dealt +20%.",
+    "popup_text": ""
+  },
+  {
+    "id": 814000036,
+    "description": "Overall Count: All allies' damage dealt +20%, all enemies' damage dealt +20%.",
+    "popup_text": ""
+  },
+  {
+    "id": 814000037,
+    "description": "Overall Count: All allies' damage dealt +30%, all enemies' damage dealt +20%.",
+    "popup_text": ""
+  },
+  {
+    "id": 814000038,
+    "description": "Overall Count: All allies' damage dealt +40%, all enemies' damage dealt +20%.",
+    "popup_text": ""
+  },
+  {
+    "id": 814000039,
+    "description": "Overall Count: All allies' damage dealt +50%, all enemies' damage dealt +20%.",
+    "popup_text": ""
+  },
+  {
+    "id": 814000040,
+    "description": "Overall Count: All allies' damage dealt +60%, all enemies' damage dealt +20%.",
+    "popup_text": ""
+  },
+  {
+    "id": 814000041,
+    "description": "Overall Count: All allies' damage dealt +70%, all enemies' damage dealt +20%.",
+    "popup_text": ""
+  },
+  {
+    "id": 814000042,
+    "description": "Overall Count: All allies' damage dealt +80%, all enemies' damage dealt +20%.",
+    "popup_text": ""
+  },
+  {
+    "id": 814000043,
+    "description": "Overall Count: All allies' damage dealt +90%, all enemies' damage dealt +20%.",
+    "popup_text": ""
+  },
+  {
+    "id": 814000044,
+    "description": "Overall Count: All allies' damage dealt +100%, all enemies' damage dealt +20%.",
+    "popup_text": ""
   }
 ]

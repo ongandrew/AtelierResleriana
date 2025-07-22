@@ -598,5 +598,65 @@
     "overlay_name": "Resna Sternenlicht",
     "profile_voice_text": "I'm not great with strong sunlight, but... I'll power through with this swimsuit!",
     "start_at": "2049-12-31T15:00:00Z"
+  },
+  {
+    "id": 44203,
+    "acquisition_text": "To the endless blue sea beyond—\nLet the Kingdom of Lara's name be known!",
+    "another_name": "Seaside Queen",
+    "description": "An alchemist and queen of the Kingdom of Lara. She was formerly a member of the Polar Night Alchemists and worked for the sake of her own nation. Wearing a stunning swimsuit, she graces the Lara Beach Grand Prix that she herself sponsors. She strives to conduct herself with dignity befitting a queen, caring for others and earning the admiration of her vassals and citizens.",
+    "fullname": "Lara Trockel",
+    "leader_skill": {
+      "description": "Reduces damage received by 25% for characters with Slash affinity.",
+      "name": "Your Queen Supports You"
+    },
+    "name": "Lara",
+    "overlay_name": "Lara Trockel",
+    "profile_voice_text": "Ensuring the safety of the seas is also a queen's duty.\nNow, let's head out on patrol!",
+    "start_at": "2025-07-22T03:00:00Z"
+  },
+  {
+    "id": 144203,
+    "acquisition_text": "To the endless blue sea beyond—\nLet the Kingdom of Lara's name be known!",
+    "another_name": "[For Dungeon Display]",
+    "description": "An alchemist and queen of the Kingdom of Lara. She was formerly a member of the Polar Night Alchemists and worked for the sake of her own nation. Wearing a stunning swimsuit, she graces the Lara Beach Grand Prix that she herself sponsors. She strives to conduct herself with dignity befitting a queen, caring for others and earning the admiration of her vassals and citizens.",
+    "fullname": "Lara Trockel",
+    "leader_skill": {
+      "description": "Reduces damage received by 25% for characters with Slash affinity.",
+      "name": "Your Queen Supports You"
+    },
+    "name": "Lara",
+    "overlay_name": "Lara Trockel",
+    "profile_voice_text": "Ensuring the safety of the seas is also a queen's duty.\nNow, let's head out on patrol!",
+    "start_at": "2049-12-31T15:00:00Z"
+  },
+  {
+    "id": 1039904,
+    "acquisition_text": "Let's go see the unknown world beyond the sea together!",
+    "another_name": "[For Dungeon Display]",
+    "description": "A free-spirited alchemist girl. Her curiosity overflowing, she wraps herself in a gorgeous swimsuit and dives into a new summer. The scarf that calls to mind her usual hat is one of her particular touches. The sandy beach that sparkles with reflected sunlight makes her presence shine even brighter.",
+    "fullname": "Reisalin Stout",
+    "leader_skill": {
+      "description": "Boosts skill damage by 75% when attack target is stunned for Kurken Island characters.",
+      "name": "Grand Adventure by the Shore"
+    },
+    "name": "Ryza",
+    "overlay_name": "Reisalin Stout",
+    "profile_voice_text": "I'm all set for swimming!\nI'm gonna gather tons of materials sleeping on the ocean floor!",
+    "start_at": "2049-12-31T15:00:00Z"
+  },
+  {
+    "id": 1040003,
+    "acquisition_text": "Even the deep ocean floor isn't scary when everyone's together.\nCome on, let's go!",
+    "another_name": "Dungeon Display",
+    "description": "A merchant's daughter.\nShe accompanies a caravan introduced by her best friend Ryza, honing her work skills day by day.\nThis time, she's stretching herself a bit by trying on a more mature swimsuit.\nShe's excited about this new summer she gets to spend with Ryza and the others.",
+    "fullname": "Klaudia Valentz",
+    "leader_skill": {
+      "description": "Boosts Seasonal characters' M.ATK by 50%.",
+      "name": "Beach Charm"
+    },
+    "name": "Klaudia",
+    "overlay_name": "Klaudia Valentz",
+    "profile_voice_text": "This outfit might be a little too adventurous... But if I'm with Ryza, I'll be fine!",
+    "start_at": "2049-12-31T15:00:00Z"
   }
 ]

@@ -7288,5 +7288,380 @@
     "id": 814000044,
     "description": "Overall Count: All allies' damage dealt +100%, all enemies' damage dealt +20%.",
     "popup_text": ""
+  },
+  {
+    "id": 3000342,
+    "description": "When using physical attacks, boosts skill power by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001111,
+    "description": "While equipped to a Fire Supporter, boosts potency of positive effects granted.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001112,
+    "description": "When using a boost-type panel, grants HP recovery received up to all allies (Max 15%).",
+    "popup_text": ""
+  },
+  {
+    "id": 6001113,
+    "description": "While equipped to a character with Strike affinity, when stunning a target, boosts critical rate of ally with highest P.ATK for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001114,
+    "description": "While equipped to a Breaker, boosts stun damage when attacking a weakness.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001115,
+    "description": "While equipped to Lara [Seaside Queen], when HP falls below 50%, boosts skill damage of all allies for 2 turns (Max 4 stacks).",
+    "popup_text": ""
+  },
+  {
+    "id": 26252014,
+    "description": "While equipped to [Swimsuit Lara], reduces damage received.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001354,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001355,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001356,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001357,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001358,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001359,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001365,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001366,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001367,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001368,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001369,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001370,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 76249001,
+    "description": "After attacking, inflicts SPD Down (20% for 3 turns) on all enemies.",
+    "popup_text": ""
+  },
+  {
+    "id": 76249002,
+    "description": "Boosts this attack's critical damage by 40%.",
+    "popup_text": ""
+  },
+  {
+    "id": 76249003,
+    "description": "After attacking, reduces own damage received by 10% for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76249004,
+    "description": "After attacking, reduces own stun damage received by 10% for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76249005,
+    "description": "Boosts this attack's critical damage by 20%.",
+    "popup_text": ""
+  },
+  {
+    "id": 76249006,
+    "description": "After attacking, boosts own damage dealt by 15% for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76249007,
+    "description": "Boosts all allies' SPD by 20% for 3 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76249008,
+    "description": "Boosts critical rate by 20% for 3 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 86028003,
+    "description": "Reduces own defense.",
+    "popup_text": ""
+  },
+  {
+    "id": 86028004,
+    "description": "When recovering from stun, removes own defense reduction.",
+    "popup_text": ""
+  },
+  {
+    "id": 86092001,
+    "description": "Permanently boosts own SPD.",
+    "popup_text": ""
+  },
+  {
+    "id": 86092002,
+    "description": "Permanently increases damage received.",
+    "popup_text": ""
+  },
+  {
+    "id": 86092003,
+    "description": "Permanently boosts damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 86092004,
+    "description": "Restores own HP.",
+    "popup_text": ""
+  },
+  {
+    "id": 86112001,
+    "description": "Permanently boosts own damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 86112002,
+    "description": "Permanently reduces own damage received.",
+    "popup_text": ""
+  },
+  {
+    "id": 86112003,
+    "description": "Permanently reduces own damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 86112004,
+    "description": "Permanently increases own damage received.",
+    "popup_text": ""
+  },
+  {
+    "id": 86162003,
+    "description": "When hit by a Burst Skill, increases own damage received (up to 50%).",
+    "popup_text": ""
+  },
+  {
+    "id": 86162004,
+    "description": "When hit by a Burst Skill, inflicts Darkness on self for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 86162005,
+    "description": "When 4 weakness attack counters are granted, boosts all enemies' damage dealt (up to 200%).",
+    "popup_text": ""
+  },
+  {
+    "id": 86162006,
+    "description": "When granted 4 weakness attack counters, clears the counter.",
+    "popup_text": ""
+  },
+  {
+    "id": 86224010,
+    "description": "Each time an attack is received, increases own damage received by 3%.",
+    "popup_text": ""
+  },
+  {
+    "id": 86249009,
+    "description": "Boosts own critical rate by 100% for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 91001792,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001793,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001794,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001795,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001796,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001797,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001798,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001799,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001800,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001815,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001817,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001818,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001819,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001820,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001821,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001822,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000249,
+    "description": "When role is Breaker, boosts negative effect potency.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000250,
+    "description": "When equipped to a Defender with Slash affinity, grants \"Skill Damage Up when attacking a weakness\" to all allies for 2 turns after using a skill (up to 3 stacks).",
+    "popup_text": ""
+  },
+  {
+    "id": 95000251,
+    "description": "Reduces damage received for characters with \"Prim\" tag (fixed).",
+    "popup_text": ""
+  },
+  {
+    "id": 95000252,
+    "description": "When self is a Supporter, boosts skill power for all allies with physical affinities.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000253,
+    "description": "When self is a Defender, boosts HP recovery received.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000254,
+    "description": "When self is an Attacker, boosts burst skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000255,
+    "description": "When self is a Breaker, boosts stun damage for single target attacks.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000256,
+    "description": "When self is a Supporter, boosts positive effect potency received from boost-type panels for all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000749,
+    "description": "Grants Stun Damage Dealt Up when affinity is Slash.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000750,
+    "description": "Grants Skill 2 Power Up.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000751,
+    "description": "Boosts positive effect potency of battle items.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000752,
+    "description": "Boosts effect potency received from boost panels.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000753,
+    "description": "Reduces damage received when Lara [Seaside Queen] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000754,
+    "description": "When affinity is Slash, grants Stun Damage Dealt Up.",
+    "popup_text": ""
+  },
+  {
+    "id": 762487013,
+    "description": "After attacking, grants self Damage Dealt Up (10%/3 times).",
+    "popup_text": ""
+  },
+  {
+    "id": 762487014,
+    "description": "Grants self Damage Received Down (10%/3 times).",
+    "popup_text": ""
   }
 ]

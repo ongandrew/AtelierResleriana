@@ -16498,5 +16498,893 @@
     "description": "Reduces all enemies' Strike resistance by 25% for 2 turns and Ice resistance by 25% for 2 turns.",
     "name": "Dark Smog",
     "summary": ""
+  },
+  {
+    "id": 11002924,
+    "description": "Boosts target's P.DEF and M.DEF by {0}% (MAX 30%) and restores target's HP by 5–30% depending on own HP (Higher heal for lower HP, range: 25–100% HP).",
+    "name": "Royal Compassion",
+    "summary": "Boosts target's stats.<br>Restores target's HP based on own HP percentage."
+  },
+  {
+    "id": 11002925,
+    "description": "Boosts target's P.DEF and M.DEF by {0}% (MAX 30%) and restores target's HP by 5–30% depending on own HP (Higher heal for lower HP, range: 25–100% HP).",
+    "name": "Royal Compassion",
+    "summary": "Boosts target's stats.<br>Restores target's HP based on own HP percentage."
+  },
+  {
+    "id": 11002926,
+    "description": "Boosts target's P.DEF and M.DEF by {0}% (MAX 30%) and restores target's HP by 5–30% depending on own HP (Higher heal for lower HP, range: 25–100% HP).",
+    "name": "Royal Compassion",
+    "summary": "Boosts target's stats.<br>Restores target's HP based on own HP percentage."
+  },
+  {
+    "id": 11002927,
+    "description": "Boosts target's P.DEF and M.DEF by {0}% (MAX 30%) and restores target's HP by 5–30% depending on own HP (Higher heal for lower HP, range: 25–100% HP).",
+    "name": "Royal Compassion",
+    "summary": "Boosts target's stats.<br>Restores target's HP based on own HP percentage."
+  },
+  {
+    "id": 11002928,
+    "description": "Boosts target's P.DEF and M.DEF by {0}% (MAX 30%) and restores target's HP by 5–30% depending on own HP (Higher heal for lower HP, range: 25–100% HP).",
+    "name": "Royal Compassion",
+    "summary": "Boosts target's stats.<br>Restores target's HP based on own HP percentage."
+  },
+  {
+    "id": 11003023,
+    "description": "After attacking, restores all allies' HP by {0}% and boosts all allies with Fire affinity's M.ATK by {1}% (MAX 40%).",
+    "name": "Prime Shine",
+    "summary": "After attack, restores all allies' HP.<br>Boosts all Fire allies' M.ATK."
+  },
+  {
+    "id": 11003024,
+    "description": "After attacking, restores all allies' HP by {0}% and boosts all allies with Fire affinity's M.ATK by {1}% (MAX 40%).",
+    "name": "Prime Shine",
+    "summary": "After attack, restores all allies' HP.<br>Boosts all Fire allies' M.ATK."
+  },
+  {
+    "id": 11003025,
+    "description": "After attacking, restores all allies' HP by {0}% and boosts all allies with Fire affinity's M.ATK by {1}% (MAX 40%).",
+    "name": "Prime Shine",
+    "summary": "After attack, restores all allies' HP.<br>Boosts all Fire allies' M.ATK."
+  },
+  {
+    "id": 11003026,
+    "description": "After attacking, restores all allies' HP by {0}% and boosts all allies with Fire affinity's M.ATK by {1}% (MAX 40%).",
+    "name": "Prime Shine",
+    "summary": "After attack, restores all allies' HP.<br>Boosts all Fire allies' M.ATK."
+  },
+  {
+    "id": 11003027,
+    "description": "After attacking, restores all allies' HP by {0}% and boosts all allies with Fire affinity's M.ATK by {1}% (MAX 40%).",
+    "name": "Prime Shine",
+    "summary": "After attack, restores all allies' HP.<br>Boosts all Fire allies' M.ATK."
+  },
+  {
+    "id": 11003034,
+    "description": "Before attacking, reduces target's Strike resistance by {0}% (MAX 60%). After attacking, boosts own stun damage by {1}% for 1 turn and increases target's damage received by {2}% for 1 attack.",
+    "name": "Sweeping Strike",
+    "summary": "Before attack, reduces target's Strike resistance.<br>After attack, boosts own stun damage.<br>Increases target's damage received."
+  },
+  {
+    "id": 11003035,
+    "description": "Before attacking, reduces target's Strike resistance by {0}% (MAX 60%). After attacking, boosts own stun damage by {1}% for 1 turn and increases target's damage received by {2}% for 1 attack.",
+    "name": "Sweeping Strike",
+    "summary": "Before attack, reduces target's Strike resistance.<br>After attack, boosts own stun damage.<br>Increases target's damage received."
+  },
+  {
+    "id": 11003036,
+    "description": "Before attacking, reduces target's Strike resistance by {0}% (MAX 60%). After attacking, boosts own stun damage by {1}% for 1 turn and increases target's damage received by {2}% for 1 attack.",
+    "name": "Sweeping Strike",
+    "summary": "Before attack, reduces target's Strike resistance.<br>After attack, boosts own stun damage.<br>Increases target's damage received."
+  },
+  {
+    "id": 11003037,
+    "description": "Before attacking, reduces target's Strike resistance by {0}% (MAX 60%). After attacking, boosts own stun damage by {1}% for 1 turn and increases target's damage received by {2}% for 1 attack.",
+    "name": "Sweeping Strike",
+    "summary": "Before attack, reduces target's Strike resistance.<br>After attack, boosts own stun damage.<br>Increases target's damage received."
+  },
+  {
+    "id": 11003038,
+    "description": "Before attacking, reduces target's Strike resistance by {0}% (MAX 60%). After attacking, boosts own stun damage by {1}% for 1 turn and increases target's damage received by {2}% for 1 attack.",
+    "name": "Sweeping Strike",
+    "summary": "Before attack, reduces target's Strike resistance.<br>After attack, boosts own stun damage.<br>Increases target's damage received."
+  },
+  {
+    "id": 12002929,
+    "description": "Boosts all allies with Slash affinity's P.DEF and M.DEF by {0}% for 3 attacks (MAX 2 stacks). When own HP is below 50%, grants target Evasion (fixed 80% chance) for 1 attack and reduces own damage received by {1}% for 3 attacks.",
+    "name": "Radiant Foam",
+    "summary": "Boosts all Slash allies' stats.<br>When own HP is below 50%, grants target Evasion.<br>Reduces own damage received."
+  },
+  {
+    "id": 12002930,
+    "description": "Boosts all allies with Slash affinity's P.DEF and M.DEF by {0}% for 3 attacks (MAX 2 stacks). When own HP is below 50%, grants target Evasion (fixed 80% chance) for 1 attack and reduces own damage received by {1}% for 3 attacks.",
+    "name": "Radiant Foam",
+    "summary": "Boosts all Slash allies' stats.<br>When own HP is below 50%, grants target Evasion.<br>Reduces own damage received."
+  },
+  {
+    "id": 12002931,
+    "description": "Boosts all allies with Slash affinity's P.DEF and M.DEF by {0}% for 3 attacks (MAX 2 stacks). When own HP is below 50%, grants target Evasion (fixed 80% chance) for 1 attack and reduces own damage received by {1}% for 3 attacks.",
+    "name": "Radiant Foam",
+    "summary": "Boosts all Slash allies' stats.<br>When own HP is below 50%, grants target Evasion.<br>Reduces own damage received."
+  },
+  {
+    "id": 12002932,
+    "description": "Boosts all allies with Slash affinity's P.DEF and M.DEF by {0}% for 3 attacks (MAX 2 stacks). When own HP is below 50%, grants target Evasion (fixed 80% chance) for 1 attack and reduces own damage received by {1}% for 3 attacks.",
+    "name": "Radiant Foam",
+    "summary": "Boosts all Slash allies' stats.<br>When own HP is below 50%, grants target Evasion.<br>Reduces own damage received."
+  },
+  {
+    "id": 12002933,
+    "description": "Boosts all allies with Slash affinity's P.DEF and M.DEF by {0}% for 3 attacks (MAX 2 stacks). When own HP is below 50%, grants target Evasion (fixed 80% chance) for 1 attack and reduces own damage received by {1}% for 3 attacks.",
+    "name": "Radiant Foam",
+    "summary": "Boosts all Slash allies' stats.<br>When own HP is below 50%, grants target Evasion.<br>Reduces own damage received."
+  },
+  {
+    "id": 12003028,
+    "description": "After recovery, reduces damage received by target by {0}% for 2 attacks.<br>Boosts M.ATK by {1}% and skill damage by {2}% for all allies with Fire affinity for 2 turns.<br>Restores the item gauge by {3}%.",
+    "name": "Mix Cheer",
+    "summary": "After recovery, reduces damage received by target.<br>Boosts M.ATK and skill damage for all allies with Fire affinity.<br>Restores the item gauge."
+  },
+  {
+    "id": 12003029,
+    "description": "After recovery, reduces damage received by target by {0}% for 2 attacks.<br>Boosts M.ATK by {1}% and skill damage by {2}% for all allies with Fire affinity for 2 turns.<br>Restores the item gauge by {3}%.",
+    "name": "Mix Cheer",
+    "summary": "After recovery, reduces damage received by target.<br>Boosts M.ATK and skill damage for all allies with Fire affinity.<br>Restores the item gauge."
+  },
+  {
+    "id": 12003030,
+    "description": "After recovery, reduces damage received by target by {0}% for 2 attacks.<br>Boosts M.ATK by {1}% and skill damage by {2}% for all allies with Fire affinity for 2 turns.<br>Restores the item gauge by {3}%.",
+    "name": "Mix Cheer",
+    "summary": "After recovery, reduces damage received by target.<br>Boosts M.ATK and skill damage for all allies with Fire affinity.<br>Restores the item gauge."
+  },
+  {
+    "id": 12003031,
+    "description": "After recovery, reduces damage received by target by {0}% for 2 attacks.<br>Boosts M.ATK by {1}% and skill damage by {2}% for all allies with Fire affinity for 2 turns.<br>Restores the item gauge by {3}%.",
+    "name": "Mix Cheer",
+    "summary": "After recovery, reduces damage received by target.<br>Boosts M.ATK and skill damage for all allies with Fire affinity.<br>Restores the item gauge."
+  },
+  {
+    "id": 12003032,
+    "description": "After recovery, reduces damage received by target by {0}% for 2 attacks.<br>Boosts M.ATK by {1}% and skill damage by {2}% for all allies with Fire affinity for 2 turns.<br>Restores the item gauge by {3}%.",
+    "name": "Mix Cheer",
+    "summary": "After recovery, reduces damage received by target.<br>Boosts M.ATK and skill damage for all allies with Fire affinity.<br>Restores the item gauge."
+  },
+  {
+    "id": 12003039,
+    "description": "When target is stunned, boosts damage by {0}%.<br>Before attacking, reduces target's Strike resistance by {1}% for 2 attacks.<br>After attacking, boosts own stun damage by {2}% for 2 turns.<br>Increases target's critical damage received by {3}% for 2 attacks.",
+    "name": "Mix Uni",
+    "summary": "When target is stunned, boosts damage.<br>Before attacking, reduces target's Strike resistance.<br>After attacking, boosts own stun damage.<br>Increases target's critical damage received."
+  },
+  {
+    "id": 12003040,
+    "description": "When target is stunned, boosts damage by {0}%.<br>Before attacking, reduces target's Strike resistance by {1}% for 2 attacks.<br>After attacking, boosts own stun damage by {2}% for 2 turns.<br>Increases target's critical damage received by {3}% for 2 attacks.",
+    "name": "Mix Uni",
+    "summary": "When target is stunned, boosts damage.<br>Before attacking, reduces target's Strike resistance.<br>After attacking, boosts own stun damage.<br>Increases target's critical damage received."
+  },
+  {
+    "id": 12003041,
+    "description": "When target is stunned, boosts damage by {0}%.<br>Before attacking, reduces target's Strike resistance by {1}% for 2 attacks.<br>After attacking, boosts own stun damage by {2}% for 2 turns.<br>Increases target's critical damage received by {3}% for 2 attacks.",
+    "name": "Mix Uni",
+    "summary": "When target is stunned, boosts damage.<br>Before attacking, reduces target's Strike resistance.<br>After attacking, boosts own stun damage.<br>Increases target's critical damage received."
+  },
+  {
+    "id": 12003042,
+    "description": "When target is stunned, boosts damage by {0}%.<br>Before attacking, reduces target's Strike resistance by {1}% for 2 attacks.<br>After attacking, boosts own stun damage by {2}% for 2 turns.<br>Increases target's critical damage received by {3}% for 2 attacks.",
+    "name": "Mix Uni",
+    "summary": "When target is stunned, boosts damage.<br>Before attacking, reduces target's Strike resistance.<br>After attacking, boosts own stun damage.<br>Increases target's critical damage received."
+  },
+  {
+    "id": 12003043,
+    "description": "When target is stunned, boosts damage by {0}%.<br>Before attacking, reduces target's Strike resistance by {1}% for 2 attacks.<br>After attacking, boosts own stun damage by {2}% for 2 turns.<br>Increases target's critical damage received by {3}% for 2 attacks.",
+    "name": "Mix Uni",
+    "summary": "When target is stunned, boosts damage.<br>Before attacking, reduces target's Strike resistance.<br>After attacking, boosts own stun damage.<br>Increases target's critical damage received."
+  },
+  {
+    "id": 14002934,
+    "description": "Removes all negative effects and status effects from all allies.<br>Nullifies negative effects for all allies for 2 turns.<br>When attacked, restores own HP by {0}% for 2 attacks. (Cannot be stacked)<br>Boosts P.DEF and M.DEF by {1}% for all allies with Slash affinity. (MAX 60%)",
+    "name": "Lara's Night Festival",
+    "summary": "Removes all negative effects and status effects from all allies.<br>Nullifies negative effects for all allies.<br>When attacked, restores own HP.<br>Boosts stats for all allies with Slash affinity."
+  },
+  {
+    "id": 14002935,
+    "description": "Removes all negative effects and status effects from all allies.<br>Nullifies negative effects for all allies for 2 turns.<br>When attacked, restores own HP by {0}% for 2 attacks. (Cannot be stacked)<br>Boosts P.DEF and M.DEF by {1}% for all allies with Slash affinity. (MAX 60%)",
+    "name": "Lara's Night Festival",
+    "summary": "Removes all negative effects and status effects from all allies.<br>Nullifies negative effects for all allies.<br>When attacked, restores own HP.<br>Boosts stats for all allies with Slash affinity."
+  },
+  {
+    "id": 14002936,
+    "description": "Removes all negative effects and status effects from all allies.<br>Nullifies negative effects for all allies for 2 turns.<br>When attacked, restores own HP by {0}% for 2 attacks. (Cannot be stacked)<br>Boosts P.DEF and M.DEF by {1}% for all allies with Slash affinity. (MAX 60%)",
+    "name": "Lara's Night Festival",
+    "summary": "Removes all negative effects and status effects from all allies.<br>Nullifies negative effects for all allies.<br>When attacked, restores own HP.<br>Boosts stats for all allies with Slash affinity."
+  },
+  {
+    "id": 14002937,
+    "description": "Removes all negative effects and status effects from all allies.<br>Nullifies negative effects for all allies for 2 turns.<br>When attacked, restores own HP by {0}% for 2 attacks. (Cannot be stacked)<br>Boosts P.DEF and M.DEF by {1}% for all allies with Slash affinity. (MAX 60%)",
+    "name": "Lara's Night Festival",
+    "summary": "Removes all negative effects and status effects from all allies.<br>Nullifies negative effects for all allies.<br>When attacked, restores own HP.<br>Boosts stats for all allies with Slash affinity."
+  },
+  {
+    "id": 14002938,
+    "description": "Removes all negative effects and status effects from all allies.<br>Nullifies negative effects for all allies for 2 turns.<br>When attacked, restores own HP by {0}% for 2 attacks. (Cannot be stacked)<br>Boosts P.DEF and M.DEF by {1}% for all allies with Slash affinity. (MAX 60%)",
+    "name": "Lara's Night Festival",
+    "summary": "Removes all negative effects and status effects from all allies.<br>Nullifies negative effects for all allies.<br>When attacked, restores own HP.<br>Boosts stats for all allies with Slash affinity."
+  },
+  {
+    "id": 14003033,
+    "description": "After attacking, reduces damage received by all allies by {0}% for 1 attack.<br>Reduces single target attack damage received by all allies by {1}% for 1 attack.<br>Boosts M.ATK by {2}% and skill damage by {3}% for all allies with Fire affinity for 2 turns.<br>Before using this skill, converts one panel (excluding burst panels) to a boost+ panel for the ally with the highest M.ATK. (Creates if empty)",
+    "name": "Prism Scope",
+    "summary": "After attacking, reduces damage received by all allies.<br>Reduces single target attack damage received by all allies.<br>Boosts M.ATK and skill damage for all allies with Fire affinity.<br>Converts one panel (excluding burst panels) to a boost+ panel for the ally with the highest M.ATK."
+  },
+  {
+    "id": 14003044,
+    "description": "Before attacking, reduces target's Strike resistance by {0}% for 2 attacks.<br>After attacking, boosts own stun damage by {1}%. (MAX 100%)<br>Increases target's Strike damage received by {2}%. (MAX 90%)<br>When target is stunned, increases target's damage received by {3}% for 3 attacks.<br>Boosts critical damage by {4}% for all allies for 1 turn.",
+    "name": "Burning Bomb",
+    "summary": "Before attacking, reduces target's Strike resistance.<br>After attacking, boosts own stun damage.<br>Increases target's Strike damage received.<br>When target is stunned, increases target's damage received.<br>Boosts critical damage for all allies."
+  },
+  {
+    "id": 14003045,
+    "description": "After attacking, reduces damage received by all allies by {0}% for 1 attack.<br>Reduces single target attack damage received by all allies by {1}% for 1 attack.",
+    "name": "Prism Scope",
+    "summary": "After attacking, reduces damage received by all allies.<br>Reduces single target attack damage received by all allies."
+  },
+  {
+    "id": 14003046,
+    "description": "When target is stunned, increases target's damage received by {0}% for 1 attack.",
+    "name": "Burning Bomb",
+    "summary": "When target is stunned, increases target's damage received."
+  },
+  {
+    "id": 32002693,
+    "description": "After attacking, increases damage received by all enemies by 10% for 3 times.",
+    "name": "Drop Crack",
+    "summary": ""
+  },
+  {
+    "id": 32002694,
+    "description": "After attacking, reduces target's damage dealt by 15% for 3 turns.",
+    "name": "Splash",
+    "summary": ""
+  },
+  {
+    "id": 32002695,
+    "description": "No additional effects.",
+    "name": "Fall Crash",
+    "summary": ""
+  },
+  {
+    "id": 32002696,
+    "description": "After attacking, increases own damage dealt by 10% for 3 turns.",
+    "name": "Jump Crash",
+    "summary": ""
+  },
+  {
+    "id": 32002697,
+    "description": "Restores 15% of own HP. Reduces own damage received by 10% for 3 turns.",
+    "name": "Moist Resupply",
+    "summary": ""
+  },
+  {
+    "id": 32002719,
+    "description": "No additional effects.",
+    "name": "Turtle Head",
+    "summary": ""
+  },
+  {
+    "id": 32002720,
+    "description": "No additional effects.",
+    "name": "Raging Turtle",
+    "summary": ""
+  },
+  {
+    "id": 32002721,
+    "description": "Increases target ally's SPD by 10% for 3 turns.",
+    "name": "Spin Up",
+    "summary": ""
+  },
+  {
+    "id": 32002722,
+    "description": "After attacking, delays skill target's turn by 2 turns.",
+    "name": "Firecracker",
+    "summary": ""
+  },
+  {
+    "id": 32002723,
+    "description": "After attacking, reduces skill target's damage dealt by 15% for 2 turns.",
+    "name": "Searing Fire Toss",
+    "summary": ""
+  },
+  {
+    "id": 32002724,
+    "description": "After attacking, increases skill target's damage received by 15% for 2 turns.",
+    "name": "Searing Fire Swirl",
+    "summary": ""
+  },
+  {
+    "id": 32002725,
+    "description": "No additional effects.",
+    "name": "Inferno Swirl",
+    "summary": ""
+  },
+  {
+    "id": 32002726,
+    "description": "Increases skill target's damage dealt by 35% for 2 turns.",
+    "name": "Power Grinding",
+    "summary": ""
+  },
+  {
+    "id": 32002727,
+    "description": "Increases skill target's damage dealt by 15% for 2 turns.",
+    "name": "Power Scatter",
+    "summary": ""
+  },
+  {
+    "id": 32002728,
+    "description": "After attacking, reduces skill target's damage dealt by 15% for 2 turns.",
+    "name": "Freezing Ice Toss",
+    "summary": ""
+  },
+  {
+    "id": 32002729,
+    "description": "No additional effects.",
+    "name": "Freezing Prison Ice Swirl",
+    "summary": ""
+  },
+  {
+    "id": 32002730,
+    "description": "Reduces skill target's damage dealt by 20% for 2 turns.",
+    "name": "Power Restraint",
+    "summary": ""
+  },
+  {
+    "id": 32002731,
+    "description": "Increases skill target's damage dealt by 20% for 2 turns and restores 15% HP.",
+    "name": "Power Grinding",
+    "summary": ""
+  },
+  {
+    "id": 32002733,
+    "description": "Increases skill target's damage dealt by 15% for 2 turns and restores 10% HP.",
+    "name": "Power Scatter",
+    "summary": ""
+  },
+  {
+    "id": 32002734,
+    "description": "No additional effects.",
+    "name": "Glide",
+    "summary": ""
+  },
+  {
+    "id": 32002735,
+    "description": "Increases skill target's damage dealt by 15% for 3 turns.",
+    "name": "Aerial Dance",
+    "summary": ""
+  },
+  {
+    "id": 32002736,
+    "description": "Inflicts Paralysis on target for 3 turns.",
+    "name": "Paralyze Gale",
+    "summary": ""
+  },
+  {
+    "id": 32002737,
+    "description": "No effects.",
+    "name": "Mini Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32002738,
+    "description": "After attacking, delays target's turn by 4 turns and reduces SPD by 20% for 1 turn.",
+    "name": "Spin Heavy Tackle",
+    "summary": ""
+  },
+  {
+    "id": 32002739,
+    "description": "After attacking, boosts own damage dealt by 15% and reduces damage received by 30% for 2 turns.",
+    "name": "Power Rolling",
+    "summary": ""
+  },
+  {
+    "id": 32002740,
+    "description": "After attacking, converts own next panel into a boost panel.",
+    "name": "Meteor Calling",
+    "summary": ""
+  },
+  {
+    "id": 32002741,
+    "description": "After attacking, reduces target's critical damage by 50% for 2 turns.",
+    "name": "Thunder Cloud Calling",
+    "summary": ""
+  },
+  {
+    "id": 32002742,
+    "description": "Reduces target's critical damage received by 30% for 3 turns.",
+    "name": "Full Power Roar",
+    "summary": ""
+  },
+  {
+    "id": 32002743,
+    "description": "No effects.",
+    "name": "Devour Life",
+    "summary": ""
+  },
+  {
+    "id": 32002744,
+    "description": "After attacking, grants 5 stacks of Burn to target (50% application chance, permanent, 1%).",
+    "name": "Embrace with Flame",
+    "summary": ""
+  },
+  {
+    "id": 32002745,
+    "description": "After attacking, reduces target's recovery received by 50% for 2 turns.",
+    "name": "Burn to Ashes",
+    "summary": ""
+  },
+  {
+    "id": 32002747,
+    "description": "Inflicts Nullify HP Recovery on target for 1 turn.",
+    "name": "Cursed Pointing",
+    "summary": ""
+  },
+  {
+    "id": 32002748,
+    "description": "After attacking, converts target's empty panels or negative panels into burn panels.",
+    "name": "White Meteor Thunder",
+    "summary": ""
+  },
+  {
+    "id": 32002749,
+    "description": "Inflicts Nullify Positive Effects on target for 1 turn.",
+    "name": "No Escape Allowed",
+    "summary": ""
+  },
+  {
+    "id": 32002750,
+    "description": "Reduces target's stun damage by 20%, damage dealt by 10%, and increases damage received by 15% for 2 turns.",
+    "name": "Shadow Curse",
+    "summary": ""
+  },
+  {
+    "id": 32002751,
+    "description": "After attacking, if target has 1 negative effect, delays target's turn by 1 turn. If target has 2 negative effects, delays by 2 turns.",
+    "name": "Slash Ring",
+    "summary": ""
+  },
+  {
+    "id": 32002752,
+    "description": "After attacking, reduces target's M. ATK by 15%, P. ATK by 15%, and SPD by 10% for 2 turns.",
+    "name": "Black Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 32002753,
+    "description": "After attacking, delays target's turn by 1 turn.",
+    "name": "Thunder Shot",
+    "summary": ""
+  },
+  {
+    "id": 32002754,
+    "description": "Before attacking, removes all debuffs from self. If 2 or more debuffs were removed, boosts own damage dealt by 20% for 1 turn. If 3 or more were removed, additionally boosts damage dealt by 30% for 1 turn.",
+    "name": "Hell Reproduction",
+    "summary": ""
+  },
+  {
+    "id": 32002755,
+    "description": "After attacking, increases target's damage received by 25% for 2 turns.",
+    "name": "Shadow Slash",
+    "summary": ""
+  },
+  {
+    "id": 32002756,
+    "description": "Before attacking, increases target's damage received by 20% for 2 turns.",
+    "name": "Shadow Flame",
+    "summary": ""
+  },
+  {
+    "id": 32002757,
+    "description": "Grants evasion to skill target for 1 turn.",
+    "name": "Illusion",
+    "summary": ""
+  },
+  {
+    "id": 32002758,
+    "description": "Inflicts Darkness on skill target for 2 turns and reduces M.DEF by 30% for 2 turns.",
+    "name": "Nightmare Nominate",
+    "summary": ""
+  },
+  {
+    "id": 32002759,
+    "description": "After attacking, boosts own damage dealt by 20% for 2 turns, reduces own stun damage received by 20% for 2 turns, and reduces own damage received by 20% for 2 turns.",
+    "name": "Needle Blast",
+    "summary": ""
+  },
+  {
+    "id": 32002760,
+    "description": "After attacking, boosts own damage dealt by 20% for 2 turns and reduces own damage received by 20% for 2 turns.",
+    "name": "Headbutt Wave",
+    "summary": ""
+  },
+  {
+    "id": 32002761,
+    "description": "After attacking, reduces own damage received by 20% for 1 turn.",
+    "name": "Spin Needle",
+    "summary": ""
+  },
+  {
+    "id": 32002762,
+    "description": "After attacking, restores own HP by 20%.",
+    "name": "Skate Carapace",
+    "summary": ""
+  },
+  {
+    "id": 32002763,
+    "description": "Reduces skill target's negative effect potency by 40% for 2 turns and boosts critical rate by 40% for 2 turns.",
+    "name": "Shell Field",
+    "summary": ""
+  },
+  {
+    "id": 32002764,
+    "description": "No additional effects.",
+    "name": "Turtle Head",
+    "summary": ""
+  },
+  {
+    "id": 32002765,
+    "description": "No additional effects.",
+    "name": "Raging Turtle",
+    "summary": ""
+  },
+  {
+    "id": 32002766,
+    "description": "Boosts skill target's damage dealt by 40% for 3 turns.",
+    "name": "Spin Up",
+    "summary": ""
+  },
+  {
+    "id": 32002767,
+    "description": "No additional effects.",
+    "name": "Tumble",
+    "summary": ""
+  },
+  {
+    "id": 32002768,
+    "description": "No additional effects.",
+    "name": "Deluxe Sparkle Puni Bomber",
+    "summary": ""
+  },
+  {
+    "id": 32002769,
+    "description": "No additional effects.",
+    "name": "Puni Breath",
+    "summary": ""
+  },
+  {
+    "id": 32002770,
+    "description": "Restores own HP by 30%.",
+    "name": "Heal",
+    "summary": ""
+  },
+  {
+    "id": 32002782,
+    "description": "After attacking, reduces all enemies' SPD by 20% for 3 turns.\nBoosts this attack's critical damage by 40%.",
+    "name": "Freeze Beach",
+    "summary": ""
+  },
+  {
+    "id": 32002783,
+    "description": "After attacking, reduces own damage received by 10% for 2 turns.\nAfter attacking, reduces own stun damage received by 10% for 2 turns.",
+    "name": "Ride Attack",
+    "summary": ""
+  },
+  {
+    "id": 32002784,
+    "description": "No additional effects.",
+    "name": "Accel Rush",
+    "summary": ""
+  },
+  {
+    "id": 32002785,
+    "description": "Boosts this attack's critical damage by 20%.",
+    "name": "Scorching Ice Throw",
+    "summary": ""
+  },
+  {
+    "id": 32002786,
+    "description": "After attacking, boosts own damage dealt by 15% for 2 turns.",
+    "name": "Scorching Ice Mamire",
+    "summary": ""
+  },
+  {
+    "id": 32002787,
+    "description": "Boosts all allies' SPD by 20% for 3 turns.\nBoosts all allies' critical rate by 20% for 3 turns.",
+    "name": "Rider's Roar",
+    "summary": ""
+  },
+  {
+    "id": 32002788,
+    "description": "No additional effects.",
+    "name": "Turtle Head",
+    "summary": ""
+  },
+  {
+    "id": 32002789,
+    "description": "No additional effects.",
+    "name": "Raging Turtle",
+    "summary": ""
+  },
+  {
+    "id": 32002790,
+    "description": "Boosts all allies' damage dealt by 15% for 3 turns.",
+    "name": "Spin Up",
+    "summary": ""
+  },
+  {
+    "id": 32002791,
+    "description": "After attacking, creates an empty panel on the next turn of the enemy skill target.",
+    "name": "Mill Storm",
+    "summary": ""
+  },
+  {
+    "id": 32002792,
+    "description": "No additional effects.",
+    "name": "Tail Lash",
+    "summary": ""
+  },
+  {
+    "id": 32002793,
+    "description": "After attacking, creates a weaken panel on the next turn of the enemy skill target.",
+    "name": "Wind Ball",
+    "summary": ""
+  },
+  {
+    "id": 32002794,
+    "description": "After attacking, reduces SPD of enemy skill target by 15% for 2 turns.",
+    "name": "Blood Storm",
+    "summary": ""
+  },
+  {
+    "id": 32002795,
+    "description": "Boosts panel enhancement effect potency of ally skill target by 25% for 2 turns and restores their HP by 20%.",
+    "name": "Inspiring Roar",
+    "summary": ""
+  },
+  {
+    "id": 32002796,
+    "description": "Creates a boost panel on the next turn of the ally skill target (excluding burst panels) and boosts their damage dealt by 30% for 1 turn.",
+    "name": "Valor's Reward",
+    "summary": ""
+  },
+  {
+    "id": 32002797,
+    "description": "After attacking, grants self damage received reduction by 20% for 1 turn, damage received reduction by 20% for 2 turns, damage received reduction by 20% for 3 turns, damage received reduction by 20% for 4 turns, and damage received reduction by 20% for 5 turns.",
+    "name": "Armor Change",
+    "summary": ""
+  },
+  {
+    "id": 32002798,
+    "description": "After attacking, reduces own damage received by 50% for 1 turn.",
+    "name": "Mineral Metabolism",
+    "summary": ""
+  },
+  {
+    "id": 32002799,
+    "description": "When attacking with own HP at 50% or below, boosts damage dealt by 30%.",
+    "name": "Rousing Tornado",
+    "summary": ""
+  },
+  {
+    "id": 32002800,
+    "description": "After attacking, reduces M.ATK of enemy skill target by 50% for 1 turn.",
+    "name": "Spiritless Tornado",
+    "summary": ""
+  },
+  {
+    "id": 32002802,
+    "description": "Grants self Cover for 3 turns.",
+    "name": "Stand By",
+    "summary": ""
+  },
+  {
+    "id": 32002803,
+    "description": "After attacking, reduces damage dealt by enemy skill target by 15% for 2 turns.",
+    "name": "Fire Throw",
+    "summary": ""
+  },
+  {
+    "id": 32002804,
+    "description": "No additional effects.",
+    "name": "Fire Swirl",
+    "summary": ""
+  },
+  {
+    "id": 32002805,
+    "description": "Boosts damage dealt by ally skill target by 20% for 3 turns.",
+    "name": "Bestowal of Power",
+    "summary": ""
+  },
+  {
+    "id": 32002806,
+    "description": "No additional effects.",
+    "name": "Hellfire Swirl",
+    "summary": ""
+  },
+  {
+    "id": 32002807,
+    "description": "Reduces M.ATK of enemy skill target by 40% for 3 turns.",
+    "name": "Bestowal of Restraint",
+    "summary": ""
+  },
+  {
+    "id": 32002808,
+    "description": "Pushes enemy skill target back by 3 spaces.",
+    "name": "Tackle",
+    "summary": ""
+  },
+  {
+    "id": 32002809,
+    "description": "No effect.",
+    "name": "Slash",
+    "summary": ""
+  },
+  {
+    "id": 32002810,
+    "description": "Reduces enemy skill targets' damage dealt by 20% for 3 turns.",
+    "name": "Meteor Slash",
+    "summary": ""
+  },
+  {
+    "id": 32002811,
+    "description": "No effect.",
+    "name": "Fire Slash",
+    "summary": ""
+  },
+  {
+    "id": 32002812,
+    "description": "Boosts ally skill targets' damage dealt by 50% for 1 turn.",
+    "name": "Cheer Up",
+    "summary": ""
+  },
+  {
+    "id": 32002813,
+    "description": "After attacking, reduces own damage received by 10% for 2 turns.\nAfter attacking, reduces own stun damage by 10% for 2 turns.",
+    "name": "Ride Attack",
+    "summary": ""
+  },
+  {
+    "id": 32002814,
+    "description": "Boosts this attack's critical damage by 20%.",
+    "name": "Scorching Ice Throw",
+    "summary": ""
+  },
+  {
+    "id": 32002815,
+    "description": "No effect.",
+    "name": "Wind Throw",
+    "summary": ""
+  },
+  {
+    "id": 32002816,
+    "description": "No effect.",
+    "name": "Storm Throw",
+    "summary": ""
+  },
+  {
+    "id": 32002817,
+    "description": "No effect.",
+    "name": "Whirlwind",
+    "summary": ""
+  },
+  {
+    "id": 32002818,
+    "description": "Reduces skill targets' damage dealt by 25% for 2 turns.",
+    "name": "Power Overwhelm",
+    "summary": ""
+  },
+  {
+    "id": 32002819,
+    "description": "Boosts skill targets' speed by 15% for 2 turns.",
+    "name": "Swift Unraveling",
+    "summary": ""
+  },
+  {
+    "id": 32002820,
+    "description": "Boosts all allies' speed by 20% for 3 turns.\nBoosts all allies' critical rate by 20% for 3 turns.",
+    "name": "Rider's Unraveling",
+    "summary": ""
+  },
+  {
+    "id": 32002821,
+    "description": "Before attacking, removes own debuffs and status effects.",
+    "name": "Ice Riding",
+    "summary": ""
+  },
+  {
+    "id": 32002822,
+    "description": "No effect.",
+    "name": "Cold Flower",
+    "summary": ""
+  },
+  {
+    "id": 32002823,
+    "description": "After attacking, removes own status effects.",
+    "name": "Fall Crash",
+    "summary": ""
+  },
+  {
+    "id": 32002824,
+    "description": "No effect.",
+    "name": "Leap",
+    "summary": ""
+  },
+  {
+    "id": 32002825,
+    "description": "After attacking, removes own debuffs.",
+    "name": "Splash",
+    "summary": ""
+  },
+  {
+    "id": 32002826,
+    "description": "No effect.",
+    "name": "Ice Scowl",
+    "summary": ""
+  },
+  {
+    "id": 32002827,
+    "description": "After attacking, reduces target's M.ATK by 25% and P.ATK by 25% for 3 turns.",
+    "name": "Ice Chunk Scatter",
+    "summary": ""
+  },
+  {
+    "id": 32002828,
+    "description": "Boosts target's damage received by 15%, reduces target's recovery received by 15%, reduces target's damage dealt by 15%, and reduces target's stun damage by 15% for 2 turns, then removes all positive effects from target.",
+    "name": "Calamity Bringer",
+    "summary": ""
+  },
+  {
+    "id": 32002829,
+    "description": "Increases all enemies' damage received by 20% for 2 turns, reduces their recovery amount by 20% for 2 turns, and reduces their status effect resistance by 20% for 2 turns.",
+    "name": "Misfortune Call",
+    "summary": ""
+  },
+  {
+    "id": 32002830,
+    "description": "Grants all allies increased damage dealt by 20% for 2 turns when attacking targets with negative effects.",
+    "name": "Weakness Curse",
+    "summary": ""
+  },
+  {
+    "id": 32002831,
+    "description": "Nullifies target's positive effects for 1 turn.",
+    "name": "No Escape",
+    "summary": ""
+  },
+  {
+    "id": 32002832,
+    "description": "Reduces target's stun damage by 15% for 2 turns, reduces damage dealt by 15% for 2 turns, and increases damage received by 15% for 2 turns.",
+    "name": "Shadow Curse",
+    "summary": ""
+  },
+  {
+    "id": 32002833,
+    "description": "After attacking, if target has 1 negative effect, delays their turn by 1 turn.\nIf target has 2 or more negative effects, delays their turn by 2 turns.",
+    "name": "Slash Ring",
+    "summary": ""
+  },
+  {
+    "id": 32002834,
+    "description": "After attacking, reduces all enemies' M.ATK by 10% for 2 turns, P.ATK by 10% for 2 turns, and SPD by 10% for 2 turns.",
+    "name": "Call Hellfire",
+    "summary": ""
+  },
+  {
+    "id": 32002835,
+    "description": "After attacking, delays target's turn by 2 turns.",
+    "name": "Shadow Fire",
+    "summary": ""
+  },
+  {
+    "id": 32002836,
+    "description": "After attacking, increases own damage dealt by 20% for 3 turns and reduces damage received by 20% for 3 turns.",
+    "name": "Fire Burst",
+    "summary": ""
   }
 ]

@@ -1038,5 +1038,20 @@
     "id": 1161,
     "description": "Boosts all allies' skill damage by {0}%.",
     "name": "Serene Sky Charm"
+  },
+  {
+    "id": 1141,
+    "description": "While equipped to a Supporter with Fire affinity, boosts potency of buff effects given by {0}%. When using a boost-type panel, boosts all allies' HP recovery received by {1}%. (MAX 15%)",
+    "name": "Maiden's Hope"
+  },
+  {
+    "id": 1142,
+    "description": "While equipped to a character with Strike affinity, when stunning a target, boosts the ally with highest P.ATK's critical rate by {0}% for 1 turn. While equipped to a Breaker, boosts stun damage by {1}% when attacking a weakness.",
+    "name": "Ambitious Tomboy"
+  },
+  {
+    "id": 1143,
+    "description": "While equipped to Lara [Seaside Queen], when HP drops below 50%, boosts all allies' skill damage by {0}% for 2 turns. (MAX 4 stacks)",
+    "name": "Elegant King's Clamor"
   }
 ]

@@ -5323,5 +5323,295 @@
     "id": 600000688,
     "description": "While Antje [Marine Puppeteer] or Valeria [Radiant Summer] is in the party, reduces damage received by 25%. (MAX 25%)",
     "name": "While Antje [Marine Puppeteer] or Valeria [Radiant Summer] is in the party, Damage Received Reduction"
+  },
+  {
+    "id": 301242,
+    "description": "While equipped to a Supporter with Fire affinity, boosts positive effect potency by {0}%.<br>When using a boost-type panel, grants all allies HP recovery received +{1}% (Max: 15%).",
+    "name": "Maiden's Hope"
+  },
+  {
+    "id": 301243,
+    "description": "While equipped to a character with Strike affinity, when stunning a target, grants the ally with highest P.ATK critical rate +{0}% for 1 turn.<br>While equipped to a Breaker, boosts stun damage by {1}% when attacking a weakness.",
+    "name": "Ambitious Tomboy"
+  },
+  {
+    "id": 301244,
+    "description": "While equipped to Lara [Seaside Queen], when HP drops below 50%, grants all allies skill damage +{0}% for 2 turns (Max: 4 stacks).",
+    "name": "Elegant Royal Commotion"
+  },
+  {
+    "id": 1980201,
+    "description": "Characters with Slash affinity receive damage -{0}%.",
+    "name": "The Queen Will Support You"
+  },
+  {
+    "id": 1990371,
+    "description": "Becomes very likely to be targeted by enemies.<br>Boosts max HP by {0}% for all allies with Slash affinity or Lantarna tag.<br>Restores all allies' HP by 100% at the start of battle.<br>When receiving HP recovery, grants all allies with Slash affinity P.DEF and M.DEF +{1}% (Max: 50%).",
+    "name": "Radiance of the Seductive Queen"
+  },
+  {
+    "id": 1990372,
+    "description": "At the start of battle, grants all allies the following additional effect:<br>Additional Effect: When attack target is stunned, grants self evasion (fixed {0}% chance) for 2 attacks (Max: 3 activations).",
+    "name": "Lara-Style Crisis Evasion"
+  },
+  {
+    "id": 1990375,
+    "description": "Boosts positive effect potency received from battle items by {0}% for all allies.<br>When using Prime Shine or Mix Chair, grants self HP recovery given +{1}% (Max: 70%).",
+    "name": "I'll Give My All to Support You!"
+  },
+  {
+    "id": 1990376,
+    "description": "When attack target is stunned, grants target physical damage received +{0}% for 2 attacks, and grants all allies with Strike affinity critical rate +{1}% for 1 turn.",
+    "name": "I'll Punish You!"
+  },
+  {
+    "id": 4991023,
+    "description": "While equipped to a Supporter, boosts skill power by {0}% for all allies with physical affinities.",
+    "name": "Aspiration: Aiming for the Horizon"
+  },
+  {
+    "id": 4991024,
+    "description": "While equipped to a Supporter, boosts skill power by {0}% for all allies with physical affinities.",
+    "name": "Aspiration: Aiming for the Horizon"
+  },
+  {
+    "id": 4991025,
+    "description": "While equipped to a Supporter, boosts skill power by {0}% for all allies with physical affinities.",
+    "name": "Aspiration: Aiming for the Horizon"
+  },
+  {
+    "id": 4991026,
+    "description": "While equipped to a Supporter, boosts skill power by {0}% for all allies with physical affinities.",
+    "name": "Aspiration: Aiming for the Horizon"
+  },
+  {
+    "id": 4991027,
+    "description": "While equipped to a Supporter, boosts skill power by {0}% for all allies with physical affinities.",
+    "name": "Aspiration: Aiming for the Horizon"
+  },
+  {
+    "id": 4991028,
+    "description": "While equipped to a Breaker, boosts negative effect potency by {0}%.",
+    "name": "Breaker Negative Effect Up III"
+  },
+  {
+    "id": 4991029,
+    "description": "While equipped to a Breaker, boosts negative effect potency by {0}%.",
+    "name": "Breaker Negative Effect Up III"
+  },
+  {
+    "id": 4991030,
+    "description": "While equipped to a Breaker, boosts negative effect potency by {0}%.",
+    "name": "Breaker Negative Effect Up III"
+  },
+  {
+    "id": 4991031,
+    "description": "While equipped to a Breaker, boosts negative effect potency by {0}%.",
+    "name": "Breaker Negative Effect Up III"
+  },
+  {
+    "id": 4991032,
+    "description": "While equipped to a Breaker, boosts negative effect potency by {0}%.",
+    "name": "Breaker Negative Effect Up III"
+  },
+  {
+    "id": 4991033,
+    "description": "While equipped to a Defender with Slash affinity, after using a skill, grants all allies skill damage +{0}% when attacking a weakness for 2 turns (Max: 3 stacks).<br>While equipped to a character with the Prim tag, reduces damage received by {0}% (fixed).",
+    "name": "Aspiration: Charming Queen"
+  },
+  {
+    "id": 4991034,
+    "description": "While equipped to a Defender with Slash affinity, after using a skill, grants all allies skill damage +{0}% when attacking a weakness for 2 turns (Max: 3 stacks).<br>While equipped to a character with the Prim tag, reduces damage received by {0}% (fixed).",
+    "name": "Aspiration: Charming Queen"
+  },
+  {
+    "id": 4991035,
+    "description": "While equipped to a Defender with Slash affinity, after using a skill, grants all allies skill damage +{0}% when attacking a weakness for 2 turns (Max: 3 stacks).<br>While equipped to a character with the Prim tag, reduces damage received by {0}% (fixed).",
+    "name": "Aspiration: Charming Queen"
+  },
+  {
+    "id": 4991036,
+    "description": "While equipped to a Defender with Slash affinity, after using a skill, grants all allies skill damage +{0}% when attacking a weakness for 2 turns (Max: 3 stacks).<br>While equipped to a character with the Prim tag, reduces damage received by {0}% (fixed).",
+    "name": "Aspiration: Charming Queen"
+  },
+  {
+    "id": 4991037,
+    "description": "While equipped to a Defender with Slash affinity, after using a skill, grants all allies skill damage +{0}% when attacking a weakness for 2 turns (Max: 3 stacks).<br>While equipped to a character with the Prim tag, reduces damage received by {0}% (fixed).",
+    "name": "Aspiration: Charming Queen"
+  },
+  {
+    "id": 4991038,
+    "description": "While equipped to a Defender, boosts HP recovery received by {0}%.",
+    "name": "Defender Receive Heal Up II"
+  },
+  {
+    "id": 4991039,
+    "description": "While equipped to a Defender, boosts HP recovery received by {0}%.",
+    "name": "Defender Receive Heal Up II"
+  },
+  {
+    "id": 4991040,
+    "description": "While equipped to a Defender, boosts HP recovery received by {0}%.",
+    "name": "Defender Receive Heal Up II"
+  },
+  {
+    "id": 4991041,
+    "description": "While equipped to a Defender, boosts HP recovery received by {0}%.",
+    "name": "Defender Receive Heal Up II"
+  },
+  {
+    "id": 4991042,
+    "description": "While equipped to a Defender, boosts HP recovery received by {0}%.",
+    "name": "Defender Receive Heal Up II"
+  },
+  {
+    "id": 4991043,
+    "description": "While equipped to an Attacker, boosts burst skill damage by {0}%.",
+    "name": "Attacker Burst Up II"
+  },
+  {
+    "id": 4991044,
+    "description": "While equipped to an Attacker, boosts burst skill damage by {0}%.",
+    "name": "Attacker Burst Up II"
+  },
+  {
+    "id": 4991045,
+    "description": "While equipped to an Attacker, boosts burst skill damage by {0}%.",
+    "name": "Attacker Burst Up II"
+  },
+  {
+    "id": 4991046,
+    "description": "While equipped to an Attacker, boosts burst skill damage by {0}%.",
+    "name": "Attacker Burst Up II"
+  },
+  {
+    "id": 4991047,
+    "description": "While equipped to an Attacker, boosts burst skill damage by {0}%.",
+    "name": "Attacker Burst Up II"
+  },
+  {
+    "id": 4991048,
+    "description": "While equipped to a Breaker, boosts single target attack stun damage by {0}%.",
+    "name": "Breaker Single Target Stun Up II"
+  },
+  {
+    "id": 4991049,
+    "description": "While equipped to a Breaker, boosts single target attack stun damage by {0}%.",
+    "name": "Breaker Single Target Stun Up II"
+  },
+  {
+    "id": 4991050,
+    "description": "While equipped to a Breaker, boosts single target attack stun damage by {0}%.",
+    "name": "Breaker Single Target Stun Up II"
+  },
+  {
+    "id": 4991051,
+    "description": "While equipped to a Breaker, boosts single target attack stun damage by {0}%.",
+    "name": "Breaker Single Target Stun Up II"
+  },
+  {
+    "id": 4991052,
+    "description": "While equipped to a Breaker, boosts single target attack stun damage by {0}%.",
+    "name": "Breaker Single Target Stun Up II"
+  },
+  {
+    "id": 4991053,
+    "description": "While equipped to a Supporter, boosts buff effects received from boost-type panels by {0}% for all allies.",
+    "name": "Supporter Boost Panel Up All II"
+  },
+  {
+    "id": 4991054,
+    "description": "While equipped to a Supporter, boosts buff effects received from boost-type panels by {0}% for all allies.",
+    "name": "Supporter Boost Panel Up All II"
+  },
+  {
+    "id": 4991055,
+    "description": "While equipped to a Supporter, boosts the potency of all allies' buff effects received from boost-type panels by {0}%.",
+    "name": "Supporter Boost Pan. Up (All) II"
+  },
+  {
+    "id": 4991056,
+    "description": "While equipped to a Supporter, boosts the potency of all allies' buff effects received from boost-type panels by {0}%.",
+    "name": "Supporter Boost Pan. Up (All) II"
+  },
+  {
+    "id": 4991057,
+    "description": "While equipped to a Supporter, boosts the potency of all allies' buff effects received from boost-type panels by {0}%.",
+    "name": "Supporter Boost Pan. Up (All) II"
+  },
+  {
+    "id": 26028003,
+    "description": "When stunned by a skill, grants P.DEF Down (99%/permanent) to self. When recovering from stun, removes P.DEF Down granted to self.",
+    "name": ""
+  },
+  {
+    "id": 26083007,
+    "description": "After using a skill, restores own HP and stun gauge by 10%.",
+    "name": ""
+  },
+  {
+    "id": 26092002,
+    "description": "When own HP is 60% or below, grants SPD Up (20%/unlimited), Damage Received Up (15%/unlimited), and Damage Dealt Up (30%/unlimited) to self, then restores own HP by 50%.",
+    "name": ""
+  },
+  {
+    "id": 26112001,
+    "description": "Before turn start, grants Damage Dealt Up (30%/max 300%) and Damage Received Down (8%/max 80%) to self. When stunned, grants Damage Dealt Down (30%/max 80%) and Damage Received Up (20%/max 150%) to self.",
+    "name": ""
+  },
+  {
+    "id": 26162001,
+    "description": "When hit by a Burst Skill, grants Damage Received Up (10%/max 50%) and Darkness (1 time) to self.",
+    "name": ""
+  },
+  {
+    "id": 26162003,
+    "description": "Every 5 times hit by a weakness attack, grants Damage Dealt Up (50%/max 200%) to all enemies.",
+    "name": ""
+  },
+  {
+    "id": 26224002,
+    "description": "Each time attacked, grants Damage Received Up (3%/max 60%) to self.",
+    "name": ""
+  },
+  {
+    "id": 26249001,
+    "description": "When own HP drops to 40% or below, grants Critical Rate +100% to self.",
+    "name": ""
+  },
+  {
+    "id": 26249011,
+    "description": "Nullifies Stab and Air resistance down.",
+    "name": ""
+  },
+  {
+    "id": 26252009,
+    "description": "Lara [Seaside Queen] receives 20% less damage.",
+    "name": "Lara [Seaside Queen] Damage Received Down"
+  },
+  {
+    "id": 600000692,
+    "description": "Boosts stun damage by 40% for characters with Slash affinity.",
+    "name": "Slash Stun Damage Up"
+  },
+  {
+    "id": 600000693,
+    "description": "Boosts Skill 2 damage by 50%.",
+    "name": "Skill 2 Damage Up"
+  },
+  {
+    "id": 600000694,
+    "description": "Boosts the potency of buff effects granted by battle items by 50%.",
+    "name": "Battle Item Buff Effect Up"
+  },
+  {
+    "id": 600000695,
+    "description": "Boosts the potency of buff effects received from boost-type panels by 50%.",
+    "name": "Boost-Type Panel Effect Up"
+  },
+  {
+    "id": 600000696,
+    "description": "When Lara [Seaside Queen] or Antje [Marine Puppeteer] is in the party, reduces damage received by 25% (max 25%).",
+    "name": "Lara [Seaside Queen] or Antje [Marine Puppeteer] Party Damage Reduction"
   }
 ]

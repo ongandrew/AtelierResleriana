@@ -2313,5 +2313,165 @@
     "id": 1250419,
     "description": "Boosts damage dealt by {value}%. Cannot be removed.",
     "name": "Dealt Damage Up"
+  },
+  {
+    "id": 510170,
+    "description": "Dummy buff for limit setting",
+    "name": "Dummy Buff for Limit Setting"
+  },
+  {
+    "id": 510171,
+    "description": "When attack target is stunned, grants Evasion ({value}% fixed chance) for 2 attacks (MAX 3 activations).",
+    "name": "Grant 2-Hit Evasion When Attacking Stunned Enemy"
+  },
+  {
+    "id": 510172,
+    "description": "When attack target is stunned, grants Dummy Buff for Limit Setting (MAX 3 stacks_Lara_Swimsuit_ABL2).",
+    "name": "Grant Dummy Buff for Limit Setting When Attacking Stunned Enemy (MAX 3 stacks_Lara_Swimsuit_ABL2)"
+  },
+  {
+    "id": 510177,
+    "description": "Boosts HP recovery given by {value}%. (MAX 70%)",
+    "name": "I'll Give My All to Support You!"
+  },
+  {
+    "id": 510178,
+    "description": "Boosts P.DEF by {value}%. (MAX 50%)",
+    "name": "P.DEF Up"
+  },
+  {
+    "id": 510179,
+    "description": "Boosts M.DEF by {value}%. (MAX 50%)",
+    "name": "M.DEF Up"
+  },
+  {
+    "id": 610274,
+    "description": "Boosts P.DEF by {value}%. (MAX 30%)",
+    "name": "P.DEF Up"
+  },
+  {
+    "id": 610275,
+    "description": "Boosts M.DEF by {value}%. (MAX 30%)",
+    "name": "M.DEF Up"
+  },
+  {
+    "id": 610276,
+    "description": "Boosts P.DEF by {value}%. (MAX 2 stacks)",
+    "name": "P.DEF Up"
+  },
+  {
+    "id": 610277,
+    "description": "Boosts M.DEF by {value}%. (MAX 2 stacks)",
+    "name": "M.DEF Up"
+  },
+  {
+    "id": 610286,
+    "description": "Boosts P.DEF by {value}%. (MAX 60%)",
+    "name": "P.DEF Up"
+  },
+  {
+    "id": 610287,
+    "description": "Boosts M.DEF by {value}%. (MAX 60%)",
+    "name": "M.DEF Up"
+  },
+  {
+    "id": 610288,
+    "description": "Boosts M.ATK by {value}%. (MAX 40%)",
+    "name": "M.ATK Up"
+  },
+  {
+    "id": 610289,
+    "description": "Boosts damage received from Strike attacks by {value}%. (MAX 60%)",
+    "name": "Strike Resistance Down"
+  },
+  {
+    "id": 610290,
+    "description": "Boosts stun damage by {value}%. (MAX 100%)",
+    "name": "Stun Damage Up"
+  },
+  {
+    "id": 610291,
+    "description": "Boosts damage received from Strike attacks by {value}%. (MAX 90%)",
+    "name": "Strike Damage Received Up"
+  },
+  {
+    "id": 610292,
+    "description": "When hit by an attack, restores own HP by {value}%. (Cannot be stacked)",
+    "name": "Self HP Recovery When Hit"
+  },
+  {
+    "id": 800162,
+    "description": "Boosts HP recovery received by {value}%. (MAX 15%)",
+    "name": "Recovery Received Up"
+  },
+  {
+    "id": 800163,
+    "description": "Boosts skill damage by {value}%. (MAX 4 stacks)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 810157,
+    "description": "Boosts damage dealt by {value}%. (MAX 300%)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 810158,
+    "description": "Reduces damage received by {value}%.",
+    "name": "Damage Received Down"
+  },
+  {
+    "id": 810159,
+    "description": "Boosts damage dealt by {value}%. (MAX 200%)",
+    "name": "Damage Dealt Up"
+  },
+  {
+    "id": 820115,
+    "description": "Reduces damage dealt by {value}%. (MAX 80%)",
+    "name": "Damage Dealt Down"
+  },
+  {
+    "id": 820117,
+    "description": "Reduces defense by {value}%.",
+    "name": "Defense Down"
+  },
+  {
+    "id": 820210,
+    "description": "Boosts damage received by {value}%. (MAX 60%) Cannot be removed.",
+    "name": "Damage Received Up"
+  },
+  {
+    "id": 910180,
+    "description": "Boosts skill power by {value}%.",
+    "name": "Skill Power Up"
+  },
+  {
+    "id": 910185,
+    "description": "Boosts skill damage by {value}% when attacking a weakness.",
+    "name": "Weakness Damage Dealt Up"
+  },
+  {
+    "id": 910186,
+    "description": "Reduces damage received by {value}%. (Unaffected by buff effect potency changes)",
+    "name": "Damage Received Down"
+  },
+  {
+    "id": 1210412,
+    "description": "Boosts potency of buff effects received from battle items by {value}%. Cannot be removed.",
+    "name": "Received Buff Effects Up (Battle Items)"
+  },
+  {
+    "id": 1210413,
+    "description": "Boosts potency of buff effects received from boost-type panels by {value}%. Cannot be removed.",
+    "name": "Received Buff Effects Up (Boost-Type Panel)"
+  },
+  {
+    "id": 1210414,
+    "description": "Boosts Skill 2 damage by {value}%. Cannot be removed.",
+    "name": "Skill 2 Damage Up"
+  },
+  {
+    "id": 1210415,
+    "description": "Boosts stun damage by 40% for characters with Slash affinity. Cannot be removed.",
+    "name": "Slash: Stun Damage Up"
   }
 ]

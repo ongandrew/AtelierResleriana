@@ -1586,5 +1586,65 @@
   {
     "id": 60248002,
     "description": "- When KO'd, applies a Field Effect that boosts damage dealt for all enemies and allies (effect potency increases based on number of attacks received)\n- Heals self\n- Nullifies attribute resistance down for elements other than Ice, Bolt, and Slash"
+  },
+  {
+    "id": 60068001,
+    "description": "- Boosts damage dealt against targets with negative effects"
+  },
+  {
+    "id": 60071002,
+    "description": "- Heals allies\n- Reduces damage dealt\n- Restores HP each turn\n- Receives increased damage when stunned"
+  },
+  {
+    "id": 60077002,
+    "description": "- Removes positive effects when stunned\n- Reduces own SPD when stunned"
+  },
+  {
+    "id": 60083003,
+    "description": "- Restores own HP at the start of a turn\n- Restores own stun gauge at the start of a turn\n- Reduces own defense when stunned\n- Removes own Defense Down when recovering from stun"
+  },
+  {
+    "id": 60083043,
+    "description": "- After being hit a certain number of times, boosts own damage received (up to 60%)\n- After using a skill, restores own HP and stun gauge\n- Nullifies Stab and Air resistance down effects"
+  },
+  {
+    "id": 60092002,
+    "description": "- When HP reaches a certain level, grants self multiple effects and restores HP\n- Chance to inflict Burn\n- Reduces all opponents' recovery amount\n- Inflicts Nullify HP Recovery on all opponents"
+  },
+  {
+    "id": 60108004,
+    "description": "- When hit while stun gauge is full, converts weaken panels to boost panels\n- When hit while stun gauge is full, converts boost-type panels to weaken panels\n- Delays turn"
+  },
+  {
+    "id": 60112003,
+    "description": "- Heals self\n- Before taking action, boosts own damage dealt and reduces damage received\n- When stunned, reduces own damage dealt and boosts damage received"
+  },
+  {
+    "id": 60112004,
+    "description": "- Before taking action, boosts own damage dealt and reduces damage received\n- When stunned, reduces own damage dealt and boosts damage received"
+  },
+  {
+    "id": 60162005,
+    "description": "- After being hit by a burst skill, inflicts Darkness on self\n- After being hit by a burst skill, boosts own damage received (up to 50%)\n- After being hit by weakness attacks a certain number of times, boosts opponent's damage dealt (up to 200%)\n- Removes own status effects and negative effects"
+  },
+  {
+    "id": 60192002,
+    "description": "- When using boost-type panels, heals self\n- Creates boost panels\n- Creates weaken panels"
+  },
+  {
+    "id": 60201005,
+    "description": "- When stunned, removes own positive effects and grants SPD Up to all opponents\n- Heals self"
+  },
+  {
+    "id": 60201006,
+    "description": "- When stunned, removes own positive effects and grants SPD Up to all opponents\n- Reduces own defense when stunned\n- Removes own Defense Down when recovering from stun\n- Heals self"
+  },
+  {
+    "id": 60224039,
+    "description": "- After being hit a certain number of times, boosts own damage received (up to 60%)\n- When KO'd, creates a field effect that reduces status effect resistance for all enemies and allies\n- Heals all allies and removes all status effects\n- Chance to inflict Paralysis\n- Nullifies Stab and Air resistance down effects"
+  },
+  {
+    "id": 60249038,
+    "description": "- When HP reaches a certain level, boosts own critical rate\n- Nullifies Stab and Air resistance down effects"
   }
 ]

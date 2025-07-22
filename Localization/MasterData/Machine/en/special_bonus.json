@@ -526,5 +526,27 @@
     ],
     "end_at": "2025-07-11T03:00:00Z",
     "start_at": "2025-06-30T03:00:00Z"
+  },
+  {
+    "id": 67,
+    "bonuses": [
+      {
+        "name": "",
+        "warning_text": ""
+      }
+    ],
+    "end_at": "2025-08-17T03:00:00Z",
+    "start_at": "2025-07-22T03:00:00Z"
+  },
+  {
+    "id": 68,
+    "bonuses": [
+      {
+        "name": "Challenge Ticket Bonus",
+        "warning_text": "The bonus to Challenge Tickets [Atelier Summer 2025] is \nlimited to a maximum of +5 additional tickets per party."
+      }
+    ],
+    "end_at": "2025-08-17T03:00:00Z",
+    "start_at": "2025-07-17T03:00:00Z"
   }
 ]

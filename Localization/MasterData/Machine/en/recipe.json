@@ -1597,5 +1597,38 @@
     ],
     "start_at": "2025-07-11T03:00:00Z",
     "tracking_id": "af_synthesis_recipe_761"
+  },
+  {
+    "id": 760,
+    "name": "Elegant Royal Clamor",
+    "requirements": [
+      {
+        "name": "Awaken Lara [Seaside Queen] to ★5"
+      }
+    ],
+    "start_at": "2025-07-22T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_760"
+  },
+  {
+    "id": 762,
+    "name": "Maiden's Hope",
+    "requirements": [
+      {
+        "name": "Awaken Shallistera [School Maiden] to ★6"
+      }
+    ],
+    "start_at": "2025-07-17T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_762"
+  },
+  {
+    "id": 763,
+    "name": "Ambitious Tomboy",
+    "requirements": [
+      {
+        "name": "Awaken Shallotte [Girl's Ambition] to ★6"
+      }
+    ],
+    "start_at": "2025-07-17T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_763"
   }
 ]

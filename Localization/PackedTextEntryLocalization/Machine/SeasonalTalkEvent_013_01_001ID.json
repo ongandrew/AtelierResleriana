@@ -1,0 +1,529 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "少し前のこと",
+        "localizations": {
+          "en": "A little while ago..."
+        }
+      },
+      "2072370017": {
+        "text": "字幕",
+        "localizations": {
+          "en": "Caption"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "ふう……相変わらず王都は人でいっぱいね。\nララ・キングダムのほうが落ち着くわ",
+        "localizations": {
+          "en": "Phew... The capital is as crowded as ever. The Kingdom of Lara is much more peaceful."
+        }
+      },
+      "2072370017": {
+        "text": "ディオーナ",
+        "localizations": {
+          "en": "Diona"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "そだねー。でも、うちももうちょっと人がいても\nいいと思うけどなー。寂しいし",
+        "localizations": {
+          "en": "True that. But I think our place could use a few more people too. It gets lonely."
+        }
+      },
+      "2072370017": {
+        "text": "ミーケ",
+        "localizations": {
+          "en": "Mieke"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "我が王国は寄る辺なき者のための場所。\nいたずらに人が増えれば良いというものでもありません",
+        "localizations": {
+          "en": "My kingdom is a place for those who have nowhere else to turn. Simply increasing our numbers wouldn't necessarily be beneficial."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "こら、ミーケちゃん！\u3000ララ様の前でなんてことを……",
+        "localizations": {
+          "en": "Now, Mieke! How can you say such a thing in front of Queen Lara..."
+        }
+      },
+      "2072370017": {
+        "text": "ディオーナ",
+        "localizations": {
+          "en": "Diona"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "ふふ、構いませんわ。ミーケの言うことも\nある意味では正しいのですから",
+        "localizations": {
+          "en": "Hehe, it's quite all right. What Mieke says is correct in a way."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "ララ・キングダムという存在の周知が、救わねば\nならない人々に行き届いていないのは事実",
+        "localizations": {
+          "en": "It's true that awareness of the Kingdom of Lara hasn't reached all the people we need to save."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "とはいえ、地道に各地へと足を運ぶのにも\n限界がありますよね。何かいい方法はあるでしょうか",
+        "localizations": {
+          "en": "Even so, there are limits to how much we can accomplish by traveling to each region ourselves. Is there a better way?"
+        }
+      },
+      "2072370017": {
+        "text": "ディオーナ",
+        "localizations": {
+          "en": "Diona"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "その困りごと、しがない旅人ロマンに\n相談してみないかい？",
+        "localizations": {
+          "en": "Why don't you consult with a humble traveler like Roman about that problem?"
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "おお、ロマンだ！\u3000ビーッグ！",
+        "localizations": {
+          "en": "Oh, it's Roman! Majorly awesome!"
+        }
+      },
+      "2072370017": {
+        "text": "ミーケ",
+        "localizations": {
+          "en": "Mieke"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "ビーッグ！",
+        "localizations": {
+          "en": "Majorly awesome!"
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "わざわざ声をかけてきたということは\nすでに何か策がありまして？",
+        "localizations": {
+          "en": "The fact that you've approached us means you already have a plan in mind?"
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "各地に足を運ぶのに限界があるなら、\n皆に集まってもらって、そこで宣伝すればいいのさ",
+        "localizations": {
+          "en": "If there are limits to traveling to each region, then you should have everyone gather in one place and advertise there."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "集まってもらう……？",
+        "localizations": {
+          "en": "Have them gather...?"
+        }
+      },
+      "2072370017": {
+        "text": "ミーケ",
+        "localizations": {
+          "en": "Mieke"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "実は今年も海辺で催しを開きたいと思っていてね。\nけど、昨年と同じ内容だと少し味気ないだろう？",
+        "localizations": {
+          "en": "Actually, I was thinking of holding an event by the seaside again this year. But it would be a bit dull if it's the same as last year, don't you think?"
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "だから君たちにランターナの海辺を無償で貸そう。\nそこで一つ、何か大きな催しをしてくれないか？",
+        "localizations": {
+          "en": "So I'll lend you Lantarna's beach free of charge. Could you hold some kind of major event there?"
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "人が集まれば、君たちはララ・キングダムのことを\n宣伝できる。私達は人が賑わって嬉しい",
+        "localizations": {
+          "en": "If people gather, you can advertise the Kingdom of Lara. We'll be happy to have a lively crowd."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "両者が得をする策ということですわね。\n面白い……いいでしょう、乗りますわ",
+        "localizations": {
+          "en": "A plan that benefits both parties. Interesting... Very well, I accept."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "二か国での共同開催ということですね。\nそんな簡単に許可が下りるでしょうか……",
+        "localizations": {
+          "en": "A joint event between two nations. Will we really get permission so easily...?"
+        }
+      },
+      "2072370017": {
+        "text": "ディオーナ",
+        "localizations": {
+          "en": "Diona"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "許可しよう",
+        "localizations": {
+          "en": "Permission granted."
+        }
+      },
+      "2072370017": {
+        "text": "ブラッド",
+        "localizations": {
+          "en": "Brad"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "下りた……",
+        "localizations": {
+          "en": "We got it..."
+        }
+      },
+      "2072370017": {
+        "text": "ディオーナ",
+        "localizations": {
+          "en": "Diona"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "錬金術で造った船を使用した海上での競走、\n並びにララ・キングダム産の商品を売る店舗の出店……",
+        "localizations": {
+          "en": "A maritime race using ships built with alchemy, plus stalls selling Kingdom of Lara products..."
+        }
+      },
+      "2072370017": {
+        "text": "ブラッド",
+        "localizations": {
+          "en": "Brad"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "催しの計画書も魅力的な内容になっているからな。\nそれに……この男がこれを見たらもう止まらないだろう",
+        "localizations": {
+          "en": "The event proposal is quite appealing. Besides... once this guy sees this, there'll be no stopping him."
+        }
+      },
+      "2072370017": {
+        "text": "ブラッド",
+        "localizations": {
+          "en": "Brad"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "ついさっき話を聞いて急いで仕上げたものとは\n思えないよ。さすがはララ様",
+        "localizations": {
+          "en": "Hard to believe you just put this together after hearing about it moments ago. That's Queen Lara for you."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "あなたの助力あってのものですわ。さて、完璧なものに\nするため、さっそく準備をしませんと",
+        "localizations": {
+          "en": "It's thanks to your assistance. Now then, to make it perfect, we must begin preparations immediately."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "ララ様ー、催しの名前は何にするの？",
+        "localizations": {
+          "en": "Queen Lara, what are we gonna call the event?"
+        }
+      },
+      "2072370017": {
+        "text": "ミーケ",
+        "localizations": {
+          "en": "Mieke"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "ふふ、もう決めてありますのよ。\n催しの名前は……",
+        "localizations": {
+          "en": "Hehe, I've already decided. The event's name will be..."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "ララ・ビーチグランプリですわ！！！",
+        "localizations": {
+          "en": "The Lara Beach Grand Prix!!!"
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "（こうして、わたくしはさらなるララ・キングダムの\n\u3000発展へ向けて、催しを開くことになったのです）",
+        "localizations": {
+          "en": "(And so, I came to organize an event to further the Kingdom of Lara's development.)"
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "（わたくしたちの想いを少しでも多くの人に\n\u3000伝えられるよう、より多くの客人を集めなくては！）",
+        "localizations": {
+          "en": "(To convey our feelings to as many people as possible, we must gather even more visitors!)"
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "もちろん、我々ランターナ側からも人手や資金面の\n援助はさせてもらうよ。どうだろう？",
+        "localizations": {
+          "en": "Of course, we on Lantarna's side will provide assistance with manpower and funding. What do you say?"
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  }
+]

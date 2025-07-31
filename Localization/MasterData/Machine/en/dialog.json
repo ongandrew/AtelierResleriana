@@ -203,5 +203,20 @@
     "id": 4904,
     "description": "Each Item Challenge has designated items that can be used.\nThese items can more effectively boost parameters, so use them wisely to aim for a high score.",
     "name": "Special Effects"
+  },
+  {
+    "id": 6901,
+    "description": "This is a limited-time high-difficulty content.\nYou can challenge it as many times as you want without consuming Stamina or Challenge Tickets.\nStarting from Floor 1, winning battles will unlock the next floor.",
+    "name": "Tower Challenge"
+  },
+  {
+    "id": 6902,
+    "description": "Each floor may have \"Floor Effects\" active that provide various effects during battle.\nFloor Effects differ by floor, and you can check the effects during battle.",
+    "name": "Floor Effects"
+  },
+  {
+    "id": 6903,
+    "description": "You can obtain rewards when clearing each floor for the first time.",
+    "name": "Clear Rewards"
   }
 ]

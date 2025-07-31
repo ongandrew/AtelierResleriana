@@ -5613,5 +5613,600 @@
     "id": 600000696,
     "description": "When Lara [Seaside Queen] or Antje [Marine Puppeteer] is in the party, reduces damage received by 25% (max 25%).",
     "name": "Lara [Seaside Queen] or Antje [Marine Puppeteer] Party Damage Reduction"
+  },
+  {
+    "id": 301245,
+    "description": "While equipped to Criselda [Seaside Butterfly], after using a skill, boosts skill power by {0}% when attacking a weakness for all allies for 1 turn (Max 2 stacks).",
+    "name": "Liberte Papillon"
+  },
+  {
+    "id": 301246,
+    "description": "When own HP is 70% or higher, reduces damage received by {0}% (fixed).",
+    "name": "Albadicities"
+  },
+  {
+    "id": 301247,
+    "description": "When own HP is 70% or higher, reduces damage received by {0}% (fixed).",
+    "name": "Albadicities"
+  },
+  {
+    "id": 301248,
+    "description": "Boosts HP recovery granted by {0}%.",
+    "name": "Crepusco Stella"
+  },
+  {
+    "id": 301249,
+    "description": "Boosts HP recovery granted by {0}%.",
+    "name": "Crepusco Stella"
+  },
+  {
+    "id": 1980202,
+    "description": "For each Lantarna party member, boosts P.ATK and M.ATK by {0}%.",
+    "name": "Let's Forget Our Positions and Have Fun"
+  },
+  {
+    "id": 1990373,
+    "description": "At wave start, grants all enemies increased negative effect potency from negative panels by {0}%.",
+    "name": "Butterfly Tactics"
+  },
+  {
+    "id": 1990374,
+    "description": "When a party member stuns an attack target, grants all allies penetration +{0} for non-burst skills (Max 150).",
+    "name": "I Can Feel Everyone's Excitement"
+  },
+  {
+    "id": 4991058,
+    "description": "While equipped to a Supporter with Slash affinity, boosts all allies' physical attack skill damage by {0}%.<br>For Chef characters, boosts all allies' P.ATK by {1}%.",
+    "name": "Willpower \"When Composure Breaks\""
+  },
+  {
+    "id": 4991059,
+    "description": "While equipped to a Supporter with Slash affinity, boosts all allies' physical attack skill damage by {0}%.<br>For Chef characters, boosts all allies' P.ATK by {1}%.",
+    "name": "Willpower \"When Composure Breaks\""
+  },
+  {
+    "id": 4991060,
+    "description": "While equipped to a Supporter with Slash affinity, boosts all allies' physical attack skill damage by {0}%.<br>For Chef characters, boosts all allies' P.ATK by {1}%.",
+    "name": "Willpower \"When Composure Breaks\""
+  },
+  {
+    "id": 4991061,
+    "description": "While equipped to a Supporter with Slash affinity, boosts all allies' physical attack skill damage by {0}%.<br>For Chef characters, boosts all allies' P.ATK by {1}%.",
+    "name": "Willpower \"When Composure Breaks\""
+  },
+  {
+    "id": 4991062,
+    "description": "While equipped to a Supporter with Slash affinity, boosts all allies' physical attack skill damage by {0}%.<br>For Chef characters, boosts all allies' P.ATK by {1}%.",
+    "name": "Willpower \"When Composure Breaks\""
+  },
+  {
+    "id": 4991063,
+    "description": "For Seasonal characters when attacking a weakness, boosts skill damage by {0}%.",
+    "name": "Seasonal Weakness Damage Up III"
+  },
+  {
+    "id": 4991064,
+    "description": "For Seasonal characters when attacking a weakness, boosts skill damage by {0}%.",
+    "name": "Seasonal Weakness Damage Up III"
+  },
+  {
+    "id": 4991065,
+    "description": "For Seasonal characters when attacking a weakness, boosts skill damage by {0}%.",
+    "name": "Seasonal Weakness Damage Up III"
+  },
+  {
+    "id": 4991066,
+    "description": "For Seasonal characters when attacking a weakness, boosts skill damage by {0}%.",
+    "name": "Seasonal Weakness Damage Up III"
+  },
+  {
+    "id": 4991067,
+    "description": "For Seasonal characters when attacking a weakness, boosts skill damage by {0}%.",
+    "name": "Seasonal Weakness Damage Up III"
+  },
+  {
+    "id": 7000744,
+    "description": "At battle start, grants P.ATK +{0}% for 1 turn.",
+    "name": "Initiative P.ATK Up (1)"
+  },
+  {
+    "id": 7000745,
+    "description": "At battle start, grants P.ATK +{0}% for 1 turn.",
+    "name": "Initiative P.ATK Up (2)"
+  },
+  {
+    "id": 7000746,
+    "description": "At the start of battle, boosts P.ATK by {0}% for 1 turn.",
+    "name": "Initial P.ATK Up (3)"
+  },
+  {
+    "id": 7000747,
+    "description": "At the start of battle, boosts P.ATK by {0}% for 1 turn.",
+    "name": "Initial P.ATK Up (4)"
+  },
+  {
+    "id": 7000748,
+    "description": "At the start of battle, boosts P.ATK by {0}% for 1 turn.",
+    "name": "Initial P.ATK Up (5)"
+  },
+  {
+    "id": 7000749,
+    "description": "At the start of battle, boosts M.ATK by {0}% for 1 turn.",
+    "name": "Initial M.ATK Up (1)"
+  },
+  {
+    "id": 7000750,
+    "description": "At the start of battle, boosts M.ATK by {0}% for 1 turn.",
+    "name": "Initial M.ATK Up (2)"
+  },
+  {
+    "id": 7000751,
+    "description": "At the start of battle, boosts M.ATK by {0}% for 1 turn.",
+    "name": "Initial M.ATK Up (3)"
+  },
+  {
+    "id": 7000752,
+    "description": "At the start of battle, boosts M.ATK by {0}% for 1 turn.",
+    "name": "Initial M.ATK Up (4)"
+  },
+  {
+    "id": 7000753,
+    "description": "At the start of battle, boosts M.ATK by {0}% for 1 turn.",
+    "name": "Initial M.ATK Up (5)"
+  },
+  {
+    "id": 7000754,
+    "description": "When using a skill, grants P.ATK Up by {0}% (150% max for this trait type).",
+    "name": "Equipment Trait Late-Bloomer P.ATK Up (1)"
+  },
+  {
+    "id": 7000755,
+    "description": "When using a skill, grants P.ATK Up by {0}% (150% max for this trait type).",
+    "name": "Equipment Trait Late-Bloomer P.ATK Up (2)"
+  },
+  {
+    "id": 7000756,
+    "description": "When using a skill, grants P.ATK Up by {0}% (150% max for this trait type).",
+    "name": "Equipment Trait Late-Bloomer P.ATK Up (3)"
+  },
+  {
+    "id": 7000757,
+    "description": "When using a skill, grants P.ATK Up by {0}% (150% max for this trait type).",
+    "name": "Equipment Trait Late-Bloomer P.ATK Up (4)"
+  },
+  {
+    "id": 7000758,
+    "description": "When using a skill, grants P.ATK Up by {0}% (150% max for this trait type).",
+    "name": "Equipment Trait Late-Bloomer P.ATK Up (5)"
+  },
+  {
+    "id": 7000759,
+    "description": "When using a skill, grants M.ATK Up by {0}% (150% max for this trait type).",
+    "name": "Equipment Trait Late-Bloomer M.ATK Up (1)"
+  },
+  {
+    "id": 7000760,
+    "description": "When using a skill, grants M.ATK Up by {0}% (150% max for this trait type).",
+    "name": "Equipment Trait Late-Bloomer M.ATK Up (2)"
+  },
+  {
+    "id": 7000761,
+    "description": "When using a skill, grants M.ATK Up by {0}% (150% max for this trait type).",
+    "name": "Equipment Trait Late-Bloomer M.ATK Up (3)"
+  },
+  {
+    "id": 7000762,
+    "description": "When using a skill, grants M.ATK Up by {0}% (150% max for this trait type).",
+    "name": "Equipment Trait Late-Bloomer M.ATK Up (4)"
+  },
+  {
+    "id": 7000763,
+    "description": "When using a skill, grants M.ATK Up by {0}% (150% max for this trait type).",
+    "name": "Equipment Trait Late-Bloomer M.ATK Up (5)"
+  },
+  {
+    "id": 7000764,
+    "description": "Boosts critical rate by {0}% for Bolt attacks.",
+    "name": "Bolt Critical Rate Up (1)"
+  },
+  {
+    "id": 7000765,
+    "description": "Boosts critical rate by {0}% for Bolt attacks.",
+    "name": "Bolt Critical Rate Up (2)"
+  },
+  {
+    "id": 7000766,
+    "description": "Boosts Bolt critical rate by {0}%.",
+    "name": "Bolt Critical Rate Up (3)"
+  },
+  {
+    "id": 7000767,
+    "description": "Boosts Bolt critical rate by {0}%.",
+    "name": "Bolt Critical Rate Up (4)"
+  },
+  {
+    "id": 7000768,
+    "description": "Boosts Bolt critical rate by {0}%.",
+    "name": "Bolt Critical Rate Up (5)"
+  },
+  {
+    "id": 7000769,
+    "description": "Boosts Ice critical rate by {0}%.",
+    "name": "Ice Critical Rate Up (1)"
+  },
+  {
+    "id": 7000770,
+    "description": "Boosts Ice critical rate by {0}%.",
+    "name": "Ice Critical Rate Up (2)"
+  },
+  {
+    "id": 7000771,
+    "description": "Boosts Ice critical rate by {0}%.",
+    "name": "Ice Critical Rate Up (3)"
+  },
+  {
+    "id": 7000772,
+    "description": "Boosts Ice critical rate by {0}%.",
+    "name": "Ice Critical Rate Up (4)"
+  },
+  {
+    "id": 7000773,
+    "description": "Boosts Ice critical rate by {0}%.",
+    "name": "Ice Critical Rate Up (5)"
+  },
+  {
+    "id": 7000774,
+    "description": "Boosts Air critical rate by {0}%.",
+    "name": "Air Critical Rate Up (1)"
+  },
+  {
+    "id": 7000775,
+    "description": "Boosts Air critical rate by {0}%.",
+    "name": "Air Critical Rate Up (2)"
+  },
+  {
+    "id": 7000776,
+    "description": "Boosts Air critical rate by {0}%.",
+    "name": "Air Critical Rate Up (3)"
+  },
+  {
+    "id": 7000777,
+    "description": "Boosts Air critical rate by {0}%.",
+    "name": "Air Critical Rate Up (4)"
+  },
+  {
+    "id": 7000778,
+    "description": "Boosts Air critical rate by {0}%.",
+    "name": "Air Critical Rate Up (5)"
+  },
+  {
+    "id": 7000779,
+    "description": "Boosts Slash critical rate by {0}%.",
+    "name": "Slash Critical Rate Up (1)"
+  },
+  {
+    "id": 7000780,
+    "description": "Boosts Slash critical rate by {0}%.",
+    "name": "Slash Critical Rate Up (2)"
+  },
+  {
+    "id": 7000781,
+    "description": "Boosts Slash critical rate by {0}%.",
+    "name": "Slash Critical Rate Up (3)"
+  },
+  {
+    "id": 7000782,
+    "description": "Boosts Slash critical rate by {0}%.",
+    "name": "Slash Critical Rate Up (4)"
+  },
+  {
+    "id": 7000783,
+    "description": "Boosts Slash critical rate by {0}%.",
+    "name": "Slash Critical Rate Up (5)"
+  },
+  {
+    "id": 7000784,
+    "description": "Boosts Strike critical rate by {0}%.",
+    "name": "Strike Critical Rate Up (1)"
+  },
+  {
+    "id": 7000785,
+    "description": "Boosts Strike critical rate by {0}%.",
+    "name": "Strike Critical Rate Up (2)"
+  },
+  {
+    "id": 7000786,
+    "description": "Boosts critical rate by {0}% for Strike attacks.",
+    "name": "Strike Critical Rate Up (3)"
+  },
+  {
+    "id": 7000787,
+    "description": "Boosts critical rate by {0}% for Strike attacks.",
+    "name": "Strike Critical Rate Up (4)"
+  },
+  {
+    "id": 7000788,
+    "description": "Boosts critical rate by {0}% for Strike attacks.",
+    "name": "Strike Critical Rate Up (5)"
+  },
+  {
+    "id": 7000789,
+    "description": "Boosts critical rate by {0}% for Stab attacks.",
+    "name": "Stab Critical Rate Up (1)"
+  },
+  {
+    "id": 7000790,
+    "description": "Boosts critical rate by {0}% for Stab attacks.",
+    "name": "Stab Critical Rate Up (2)"
+  },
+  {
+    "id": 7000791,
+    "description": "Boosts critical rate by {0}% for Stab attacks.",
+    "name": "Stab Critical Rate Up (3)"
+  },
+  {
+    "id": 7000792,
+    "description": "Boosts critical rate by {0}% for Stab attacks.",
+    "name": "Stab Critical Rate Up (4)"
+  },
+  {
+    "id": 7000793,
+    "description": "Boosts critical rate by {0}% for Stab attacks.",
+    "name": "Stab Critical Rate Up (5)"
+  },
+  {
+    "id": 7000794,
+    "description": "Boosts critical rate by {0}% for Fire attacks.",
+    "name": "Fire Critical Rate Up (1)"
+  },
+  {
+    "id": 7000795,
+    "description": "Boosts critical rate by {0}% for Fire attacks.",
+    "name": "Fire Critical Rate Up (2)"
+  },
+  {
+    "id": 7000796,
+    "description": "Boosts critical rate by {0}% for Fire attacks.",
+    "name": "Fire Critical Rate Up (3)"
+  },
+  {
+    "id": 7000797,
+    "description": "Boosts critical rate by {0}% for Fire attacks.",
+    "name": "Fire Critical Rate Up (4)"
+  },
+  {
+    "id": 7000798,
+    "description": "Boosts critical rate by {0}% for Fire attacks.",
+    "name": "Fire Critical Rate Up (5)"
+  },
+  {
+    "id": 7000799,
+    "description": "Boosts critical damage by {0}% for Bolt attacks.",
+    "name": "Bolt Critical Damage Up (1)"
+  },
+  {
+    "id": 7000800,
+    "description": "Boosts critical damage by {0}% for Bolt attacks.",
+    "name": "Bolt Critical Damage Up (2)"
+  },
+  {
+    "id": 7000801,
+    "description": "Boosts critical damage by {0}% for Bolt attacks.",
+    "name": "Bolt Critical Damage Up (3)"
+  },
+  {
+    "id": 7000802,
+    "description": "Boosts critical damage by {0}% for Bolt attacks.",
+    "name": "Bolt Critical Damage Up (4)"
+  },
+  {
+    "id": 7000803,
+    "description": "Boosts critical damage by {0}% for Bolt attacks.",
+    "name": "Bolt Critical Damage Up (5)"
+  },
+  {
+    "id": 7000804,
+    "description": "Boosts critical damage by {0}% for Ice attacks.",
+    "name": "Ice Critical Damage Up (1)"
+  },
+  {
+    "id": 7000805,
+    "description": "Boosts critical damage by {0}% for Ice attacks.",
+    "name": "Ice Critical Damage Up (2)"
+  },
+  {
+    "id": 7000806,
+    "description": "Boosts critical damage by {0}% when using Ice attacks.",
+    "name": "Ice Critical Damage Up (3)"
+  },
+  {
+    "id": 7000807,
+    "description": "Boosts critical damage by {0}% when using Ice attacks.",
+    "name": "Ice Critical Damage Up (4)"
+  },
+  {
+    "id": 7000808,
+    "description": "Boosts critical damage by {0}% when using Ice attacks.",
+    "name": "Ice Critical Damage Up (5)"
+  },
+  {
+    "id": 7000809,
+    "description": "Boosts critical damage by {0}% when using Air attacks.",
+    "name": "Air Critical Damage Up (1)"
+  },
+  {
+    "id": 7000810,
+    "description": "Boosts critical damage by {0}% when using Air attacks.",
+    "name": "Air Critical Damage Up (2)"
+  },
+  {
+    "id": 7000811,
+    "description": "Boosts critical damage by {0}% when using Air attacks.",
+    "name": "Air Critical Damage Up (3)"
+  },
+  {
+    "id": 7000812,
+    "description": "Boosts critical damage by {0}% when using Air attacks.",
+    "name": "Air Critical Damage Up (4)"
+  },
+  {
+    "id": 7000813,
+    "description": "Boosts critical damage by {0}% when using Air attacks.",
+    "name": "Air Critical Damage Up (5)"
+  },
+  {
+    "id": 7000814,
+    "description": "Boosts critical damage by {0}% when using Slash attacks.",
+    "name": "Slash Critical Damage Up (1)"
+  },
+  {
+    "id": 7000815,
+    "description": "Boosts critical damage by {0}% when using Slash attacks.",
+    "name": "Slash Critical Damage Up (2)"
+  },
+  {
+    "id": 7000816,
+    "description": "Boosts critical damage by {0}% when using Slash attacks.",
+    "name": "Slash Critical Damage Up (3)"
+  },
+  {
+    "id": 7000817,
+    "description": "Boosts critical damage by {0}% when using Slash attacks.",
+    "name": "Slash Critical Damage Up (4)"
+  },
+  {
+    "id": 7000818,
+    "description": "Boosts critical damage by {0}% when using Slash attacks.",
+    "name": "Slash Critical Damage Up (5)"
+  },
+  {
+    "id": 7000819,
+    "description": "Boosts critical damage by {0}% when using Strike attacks.",
+    "name": "Strike Critical Damage Up (1)"
+  },
+  {
+    "id": 7000820,
+    "description": "Boosts critical damage by {0}% when using Strike attacks.",
+    "name": "Strike Critical Damage Up (2)"
+  },
+  {
+    "id": 7000821,
+    "description": "Boosts critical damage by {0}% when using Strike attacks.",
+    "name": "Strike Critical Damage Up (3)"
+  },
+  {
+    "id": 7000822,
+    "description": "Boosts critical damage by {0}% when using Strike attacks.",
+    "name": "Strike Critical Damage Up (4)"
+  },
+  {
+    "id": 7000823,
+    "description": "Boosts critical damage by {0}% when using Strike attacks.",
+    "name": "Strike Critical Damage Up (5)"
+  },
+  {
+    "id": 7000824,
+    "description": "Boosts critical damage by {0}% when using Stab attacks.",
+    "name": "Stab Critical Damage Up (1)"
+  },
+  {
+    "id": 7000825,
+    "description": "Boosts critical damage by {0}% when using Stab attacks.",
+    "name": "Stab Critical Damage Up (2)"
+  },
+  {
+    "id": 7000826,
+    "description": "When using Stab attacks, boosts critical damage by {0}%.",
+    "name": "Stab Critical Damage Up (3)"
+  },
+  {
+    "id": 7000827,
+    "description": "When using Stab attacks, boosts critical damage by {0}%.",
+    "name": "Stab Critical Damage Up (4)"
+  },
+  {
+    "id": 7000828,
+    "description": "When using Stab attacks, boosts critical damage by {0}%.",
+    "name": "Stab Critical Damage Up (5)"
+  },
+  {
+    "id": 7000829,
+    "description": "When using Fire attacks, boosts critical damage by {0}%.",
+    "name": "Fire Critical Damage Up (1)"
+  },
+  {
+    "id": 7000830,
+    "description": "When using Fire attacks, boosts critical damage by {0}%.",
+    "name": "Fire Critical Damage Up (2)"
+  },
+  {
+    "id": 7000831,
+    "description": "When using Fire attacks, boosts critical damage by {0}%.",
+    "name": "Fire Critical Damage Up (3)"
+  },
+  {
+    "id": 7000832,
+    "description": "When using Fire attacks, boosts critical damage by {0}%.",
+    "name": "Fire Critical Damage Up (4)"
+  },
+  {
+    "id": 7000833,
+    "description": "When using Fire attacks, boosts critical damage by {0}%.",
+    "name": "Fire Critical Damage Up (5)"
+  },
+  {
+    "id": 7000834,
+    "description": "Boosts battle item damage boost effect potency by {0}%.",
+    "name": "Battle Item Damage Buff Enhancement (1)"
+  },
+  {
+    "id": 7000835,
+    "description": "Boosts battle item damage boost effect potency by {0}%.",
+    "name": "Battle Item Damage Buff Enhancement (2)"
+  },
+  {
+    "id": 7000836,
+    "description": "Boosts battle item damage boost effect potency by {0}%.",
+    "name": "Battle Item Damage Buff Enhancement (3)"
+  },
+  {
+    "id": 7000837,
+    "description": "Boosts battle item damage boost effect potency by {0}%.",
+    "name": "Battle Item Damage Buff Enhancement (4)"
+  },
+  {
+    "id": 7000838,
+    "description": "Boosts battle item damage boost effect potency by {0}%.",
+    "name": "Battle Item Damage Buff Enhancement (5)"
+  },
+  {
+    "id": 26140001,
+    "description": "Each time acting, boosts own SPD by 2%.",
+    "name": ""
+  },
+  {
+    "id": 26205001,
+    "description": "When stunned, increases damage received by 40%.",
+    "name": ""
+  },
+  {
+    "id": 26205002,
+    "description": "Nullifies resistance down effects for all elements except Fire and Slash.",
+    "name": ""
+  },
+  {
+    "id": 26249201,
+    "description": "Nullifies resistance down effects for all elements except Slash.",
+    "name": ""
+  },
+  {
+    "id": 600000697,
+    "description": "Boosts positive effect potency given by Criselda [Seaside Butterfly] by 150%.",
+    "name": "Criselda [Seaside Butterfly] Positive Effect Potency Up"
+  },
+  {
+    "id": 600000700,
+    "description": "When Criselda [Seaside Butterfly] or Lara [Seaside Queen] is in the party, reduces damage received.",
+    "name": "When Criselda [Seaside Butterfly] or Lara [Seaside Queen] is in Party, Damage Received Down"
   }
 ]

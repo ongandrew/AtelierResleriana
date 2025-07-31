@@ -7663,5 +7663,280 @@
     "id": 762487014,
     "description": "Grants self Damage Received Down (10%/3 times).",
     "popup_text": ""
+  },
+  {
+    "id": 3000347,
+    "description": "After using an item, restores the item gauge by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 3000348,
+    "description": "Grants P.ATK +{0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 3000349,
+    "description": "Grants M.ATK +{0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 3000351,
+    "description": "While equipped to a character with Bolt affinity, boosts critical rate by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 3000352,
+    "description": "While equipped to a character with Ice affinity, boosts critical rate by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 3000353,
+    "description": "While equipped to a character with Air affinity, boosts critical rate by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 3000354,
+    "description": "While equipped to a character with Slash affinity, boosts critical rate by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 3000355,
+    "description": "While equipped to a character with Strike affinity, boosts critical rate by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 3000356,
+    "description": "While equipped to a character with Stab affinity, boosts critical rate by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 3000357,
+    "description": "While equipped to a character with Fire affinity, boosts critical rate by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 3000359,
+    "description": "Reduces target's attack by {0}% for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 3000365,
+    "description": "While equipped to a character with Strike affinity, boosts critical damage by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 3000366,
+    "description": "While equipped to a character with Bolt affinity, boosts critical damage by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 3000367,
+    "description": "While equipped to a character with Ice affinity, boosts critical damage by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 3000368,
+    "description": "While equipped to a character with Air affinity, boosts critical damage by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 3000369,
+    "description": "While equipped to a character with Slash affinity, boosts critical damage by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 3000370,
+    "description": "While equipped to a character with Fire affinity, boosts critical damage by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 3000371,
+    "description": "While equipped to a character with Stab affinity, boosts critical damage by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 3000372,
+    "description": "Boosts item critical damage by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 3000373,
+    "description": "Boosts battle item damage buff by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001116,
+    "description": "Reduces Ice resistance of ally with highest max HP for 2 attacks.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001117,
+    "description": "When self is Criselda [Seaside Butterfly], after using a skill, boosts all allies' skill power when attacking a weakness for 1 turn (up to 2 stacks).",
+    "popup_text": ""
+  },
+  {
+    "id": 6001118,
+    "description": "Reduces damage received when own HP is 70% or higher (fixed effect amount).",
+    "popup_text": ""
+  },
+  {
+    "id": 6001119,
+    "description": "Boosts HP recovery granted.",
+    "popup_text": ""
+  },
+  {
+    "id": 13000343,
+    "description": "Reduces skill damage by {}% for 1 attack.",
+    "popup_text": ""
+  },
+  {
+    "id": 13000344,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 13000345,
+    "description": "Reduces SPD by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 13000346,
+    "description": "Increases magical damage received by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 13000358,
+    "description": "Increases penetration by {0} for non-Burst skills.",
+    "popup_text": ""
+  },
+  {
+    "id": 20000753,
+    "description": "Enhances positive effects when self is Criselda [Seaside Butterfly].",
+    "popup_text": ""
+  },
+  {
+    "id": 72001360,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001361,
+    "description": "For state_change use",
+    "popup_text": ""
+  },
+  {
+    "id": 72001362,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72500169,
+    "description": "[Self/Higher boost for more Lantarna characters/P.ATK Up]",
+    "popup_text": ""
+  },
+  {
+    "id": 72500170,
+    "description": "[Self/Higher boost for more Lantarna characters/M.ATK Up]",
+    "popup_text": ""
+  },
+  {
+    "id": 76183001,
+    "description": "Converts all panels except burst panels to weaken panels.",
+    "popup_text": ""
+  },
+  {
+    "id": 91001805,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001806,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001807,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001808,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001809,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001810,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001812,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001813,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001814,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001816,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001826,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001827,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001828,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000257,
+    "description": "While equipped to a Supporter with Slash affinity, boosts all allies' physical skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000258,
+    "description": "When equipped to a character with Chef tag, boosts all allies' P.ATK.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000259,
+    "description": "When equipped to a character with Seasonal tag and attacking a weakness, boosts skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000720,
+    "description": "Nullifies Ice Resistance Down.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000727,
+    "description": "Nullifies Ice Resistance Down.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000757,
+    "description": "When Criselda [Seaside Butterfly] is in party, reduces damage received.",
+    "popup_text": ""
   }
 ]

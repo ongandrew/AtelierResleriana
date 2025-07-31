@@ -9,5 +9,324 @@
                 }
             }
         }
+    },
+    {
+        "id": 1438965623,
+        "properties": {
+            "999008199": {
+                "text": "パネルミッション",
+                "localizations": {
+                    "en": "Panel Mission"
+                }
+            }
+        }
+    },
+    {
+        "id": 738989274,
+        "properties": {
+            "999008199": {
+                "text": "パネル\nミッション",
+                "localizations": {
+                    "en": "Panel\nMission"
+                }
+            }
+        }
+    },
+    {
+        "id": 1436856297,
+        "properties": {
+            "999008199": {
+                "text": "対象アイテムレシピ",
+                "localizations": {
+                    "en": "Target Item Recipes"
+                }
+            }
+        }
+    },
+    {
+        "id": 340897380,
+        "properties": {
+            "999008199": {
+                "text": "使用可能アイテム",
+                "localizations": {
+                    "en": "Usable Items"
+                }
+            }
+        }
+    },
+    {
+        "id": 45615670,
+        "properties": {
+            "999008199": {
+                "text": "図鑑",
+                "localizations": {
+                    "en": "Collection"
+                }
+            }
+        }
+    },
+    {
+        "id": 911948132,
+        "properties": {
+            "999008199": {
+                "text": "図鑑報酬",
+                "localizations": {
+                    "en": "Collection Rewards"
+                }
+            }
+        }
+    },
+    {
+        "id": 204343179,
+        "properties": {
+            "999008199": {
+                "text": "メモリア({0}/{1})",
+                "localizations": {
+                    "en": "Memoria ({0}/{1})"
+                }
+            }
+        }
+    },
+    {
+        "id": 1628901896,
+        "properties": {
+            "999008199": {
+                "text": "貴重品({0}/{1})",
+                "localizations": {
+                    "en": "Treasures ({0}/{1})"
+                }
+            }
+        }
+    },
+    {
+        "id": 37501551,
+        "properties": {
+            "999008199": {
+                "text": "未収録のメモリアです",
+                "localizations": {
+                    "en": "This Memoria is not yet collected"
+                }
+            }
+        }
+    },
+    {
+        "id": 964811180,
+        "properties": {
+            "999008199": {
+                "text": "発見場所：{0}",
+                "localizations": {
+                    "en": "Found at: {0}"
+                }
+            }
+        }
+    },
+    {
+        "id": 2065331636,
+        "properties": {
+            "999008199": {
+                "text": "合計収録数",
+                "localizations": {
+                    "en": "Total Collected"
+                }
+            }
+        }
+    },
+    {
+        "id": 639654123,
+        "properties": {
+            "999008199": {
+                "text": "UR以下",
+                "localizations": {
+                    "en": "UR or below"
+                }
+            }
+        }
+    },
+    {
+        "id": 1115118235,
+        "properties": {
+            "999008199": {
+                "text": "イベントシーン",
+                "localizations": {
+                    "en": "Event Scene"
+                }
+            }
+        }
+    },
+    {
+        "id": 837310693,
+        "properties": {
+            "999008199": {
+                "text": "シーンがホーム画面に追加されました",
+                "localizations": {
+                    "en": "Scene added to Home Screen"
+                }
+            }
+        }
+    },
+    {
+        "id": 1886498416,
+        "properties": {
+            "999008199": {
+                "text": "シーンがメールに送られました",
+                "localizations": {
+                    "en": "Scene sent to Mail"
+                }
+            }
+        }
+    },
+    {
+        "id": 579810424,
+        "properties": {
+            "999008199": {
+                "text": "既に所持済みのシーンのため獲得できませんでした",
+                "localizations": {
+                    "en": "Could not obtain - scene already owned"
+                }
+            }
+        }
+    },
+    {
+        "id": 878453740,
+        "properties": {
+            "999008199": {
+                "text": "スキンを所持していません",
+                "localizations": {
+                    "en": "No skins owned"
+                }
+            }
+        }
+    },
+    {
+        "id": 897826467,
+        "properties": {
+            "999008199": {
+                "text": "報酬破棄",
+                "localizations": {
+                    "en": "Discard Reward"
+                }
+            }
+        }
+    },
+    {
+        "id": 403834056,
+        "properties": {
+            "999008199": {
+                "text": "更新まであと{0}",
+                "localizations": {
+                    "en": "{0} until update"
+                }
+            }
+        }
+    },
+    {
+        "id": 2087121410,
+        "properties": {
+            "999008199": {
+                "text": "所持済",
+                "localizations": {
+                    "en": "Owned"
+                }
+            }
+        }
+    },
+    {
+        "id": 114592697,
+        "properties": {
+            "999008199": {
+                "text": "シーン",
+                "localizations": {
+                    "en": "Scene"
+                }
+            }
+        }
+    },
+    {
+        "id": 1126738538,
+        "properties": {
+            "999008199": {
+                "text": "貴重品",
+                "localizations": {
+                    "en": "Treasure"
+                }
+            }
+        }
+    },
+    {
+        "id": 1333090107,
+        "properties": {
+            "999008199": {
+                "text": "、",
+                "localizations": {
+                    "en": ", "
+                }
+            }
+        }
+    },
+    {
+        "id": 696904605,
+        "properties": {
+            "999008199": {
+                "text": "誰かにとっての大事な一品。\n獲得後は図鑑に収録される。",
+                "localizations": {
+                    "en": "A precious item to someone.\nAdded to the collection after obtaining."
+                }
+            }
+        }
+    },
+    {
+        "id": 1474350410,
+        "properties": {
+            "999008199": {
+                "text": "貴重品",
+                "localizations": {
+                    "en": "Treasure"
+                }
+            }
+        }
+    },
+    {
+        "id": 757631287,
+        "properties": {
+            "999008199": {
+                "text": "貴重品発見",
+                "localizations": {
+                    "en": "Treasure Found"
+                }
+            }
+        }
+    },
+    {
+        "id": 1509058904,
+        "properties": {
+            "999008199": {
+                "text": "※2つ目以降を入手した場合は\n星導石{0}個に自動変換されます",
+                "localizations": {
+                    "en": "※If you obtain a 2nd copy or more,\nit will be automatically converted to {0} Lodestar Gems"
+                }
+            }
+        }
+    },
+    {
+        "id": 996945720,
+        "properties": {
+            "999008199": {
+                "text": "おすすめ更新！",
+                "localizations": {
+                    "en": "Recommendations Updated!"
+                }
+            }
+        }
+    },
+    {
+        "id": 1317300635,
+        "properties": {
+            "999008199": {
+                "text": "※重複した貴重品は星導石{1}個に変換されました",
+                "localizations": {
+                    "en": "※Duplicate treasure was converted to {1} Lodestar Gems"
+                }
+            }
+        }
     }
 ]

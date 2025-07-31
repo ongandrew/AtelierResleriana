@@ -228,5 +228,15 @@
     "id": 291,
     "description": "Boosts max HP of the ally with the highest max HP by {0}% (max 21%) and restores 30% HP.",
     "name": "Blue Night Puni Cocktail"
+  },
+  {
+    "id": 292,
+    "description": "Reduces the enemy with the highest max HP's Ice resistance by {0}% for 2 attacks and deals Ice damage.",
+    "name": "Nostalgic Water Bomb"
+  },
+  {
+    "id": 293,
+    "description": "Reduces the enemy with the highest max HP's Ice resistance by {0}% for 2 attacks and deals Ice damage.",
+    "name": "Nostalgic Water Bomb"
   }
 ]

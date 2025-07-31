@@ -17386,5 +17386,497 @@
     "description": "After attacking, increases own damage dealt by 20% for 3 turns and reduces damage received by 20% for 3 turns.",
     "name": "Fire Burst",
     "summary": ""
+  },
+  {
+    "id": 32139,
+    "description": "Reduces the Ice resistance of the single enemy with the highest max HP by {0}% for 2 attacks and deals Ice damage.",
+    "name": "Nostalgic Water Bomb",
+    "summary": ""
+  },
+  {
+    "id": 32140,
+    "description": "Reduces the Ice resistance of the single enemy with the highest max HP by {0}% for 2 attacks and deals Ice damage.",
+    "name": "Nostalgic Water Bomb",
+    "summary": ""
+  },
+  {
+    "id": 11002962,
+    "description": "After attacking, boosts P.ATK by {0}%, skill damage by {1}%, and stun damage by {2}% for all allies with Slash affinity (all MAX 30%).",
+    "name": "Beheading",
+    "summary": "After attacking, boosts P.ATK, skill damage, and stun damage for all allies with Slash affinity."
+  },
+  {
+    "id": 11002963,
+    "description": "After attacking, boosts P.ATK by {0}%, skill damage by {1}%, and stun damage by {2}% for all allies with Slash affinity (all MAX 30%).",
+    "name": "Beheading",
+    "summary": "After attacking, boosts P.ATK, skill damage, and stun damage for all allies with Slash affinity."
+  },
+  {
+    "id": 11002964,
+    "description": "After attacking, boosts P.ATK by {0}%, skill damage by {1}%, and stun damage by {2}% for all allies with Slash affinity (all MAX 30%).",
+    "name": "Beheading",
+    "summary": "After attacking, boosts P.ATK, skill damage, and stun damage for all allies with Slash affinity."
+  },
+  {
+    "id": 11002965,
+    "description": "After attacking, boosts P.ATK by {0}%, skill damage by {1}%, and stun damage by {2}% for all allies with Slash affinity (all MAX 30%).",
+    "name": "Beheading",
+    "summary": "After attacking, boosts P.ATK, skill damage, and stun damage for all allies with Slash affinity."
+  },
+  {
+    "id": 11002966,
+    "description": "After attacking, boosts P.ATK by {0}%, skill damage by {1}%, and stun damage by {2}% for all allies with Slash affinity (all MAX 30%).",
+    "name": "Beheading",
+    "summary": "After attacking, boosts P.ATK, skill damage, and stun damage for all allies with Slash affinity."
+  },
+  {
+    "id": 12002967,
+    "description": "Boosts P.ATK by {0}%, skill damage by {1}%, and stun damage by {2}% for all allies with Slash affinity for 2 turns, and boosts P.DEF by {3}% for 2 attacks (MAX 3 stacks).<br><br>Grants the target the following additional effect for 1 turn:<br>Additional Effect: Before attacking, reduces target's Slash resistance by {4}% (MAX 3 stacks) for 1 attack.<br>When target is stunned, boosts target's physical attack damage received by {5}% for 2 attacks.",
+    "name": "Wisdom Powder",
+    "summary": "Boosts stats for all allies with Slash affinity.<br>Boosts skill damage and stun damage for all allies with Slash affinity.<br>Grants additional effects to target."
+  },
+  {
+    "id": 12002968,
+    "description": "Boosts P.ATK by {0}%, skill damage by {1}%, and stun damage by {2}% for all allies with Slash affinity for 2 turns, and boosts P.DEF by {3}% for 2 attacks (MAX 3 stacks).<br><br>Grants the target the following additional effect for 1 turn:<br>Additional Effect: Before attacking, reduces target's Slash resistance by {4}% (MAX 3 stacks) for 1 attack.<br>When target is stunned, boosts target's physical attack damage received by {5}% for 2 attacks.",
+    "name": "Wisdom Powder",
+    "summary": "Boosts stats for all allies with Slash affinity.<br>Boosts skill damage and stun damage for all allies with Slash affinity.<br>Grants additional effects to target."
+  },
+  {
+    "id": 12002969,
+    "description": "Boosts P.ATK by {0}%, skill damage by {1}%, and stun damage by {2}% for all allies with Slash affinity for 2 turns, and boosts P.DEF by {3}% for 2 attacks (MAX 3 stacks).<br><br>Grants the target the following additional effect for 1 turn:<br>Additional Effect: Before attacking, reduces target's Slash resistance by {4}% (MAX 3 stacks) for 1 attack.<br>When target is stunned, boosts target's physical attack damage received by {5}% for 2 attacks.",
+    "name": "Wisdom Powder",
+    "summary": "Boosts stats for all allies with Slash affinity.<br>Boosts skill damage and stun damage for all allies with Slash affinity.<br>Grants additional effects to target."
+  },
+  {
+    "id": 12002970,
+    "description": "Boosts P.ATK by {0}%, skill damage by {1}%, and stun damage by {2}% for all allies with Slash affinity for 2 turns, and boosts P.DEF by {3}% for 2 attacks (MAX 3 stacks).<br><br>Grants the target the following additional effect for 1 turn:<br>Additional Effect: Before attacking, reduces target's Slash resistance by {4}% (MAX 3 stacks) for 1 attack.<br>When target is stunned, boosts target's physical attack damage received by {5}% for 2 attacks.",
+    "name": "Wisdom Powder",
+    "summary": "Boosts stats for all allies with Slash affinity.<br>Boosts skill damage and stun damage for all allies with Slash affinity.<br>Grants additional effects to target."
+  },
+  {
+    "id": 12002971,
+    "description": "Boosts P.ATK by {0}%, skill damage by {1}%, and stun damage by {2}% for all allies with Slash affinity for 2 turns, and boosts P.DEF by {3}% for 2 attacks (MAX 3 stacks).<br><br>Grants the target the following additional effect for 1 turn:<br>Additional Effect: Before attacking, reduces target's Slash resistance by {4}% (MAX 3 stacks) for 1 attack.<br>When target is stunned, boosts target's physical attack damage received by {5}% for 2 attacks.",
+    "name": "Wisdom Powder",
+    "summary": "Boosts stats for all allies with Slash affinity.<br>Boosts skill damage and stun damage for all allies with Slash affinity.<br>Grants additional effects to target."
+  },
+  {
+    "id": 14002972,
+    "description": "Boosts target's P.ATK by {0}%, skill damage by {1}%, and stun damage by {2}% for 3 turns.<br><br>Grants the target the following additional effect for 1 turn:<br>Additional Effect: After attacking, converts all of target's panels into weaken+ panels. (Creates weaken+ panels if panels are empty)",
+    "name": "Dominate Frenzy",
+    "summary": "Boosts target's P.ATK, skill damage, and stun damage.<br>Grants additional effects to target."
+  },
+  {
+    "id": 14002973,
+    "description": "Boosts target's P.ATK by {0}%, skill damage by {1}%, and stun damage by {2}% for 3 turns.<br><br>Grants the target the following additional effect for 1 turn:<br>Additional Effect: After attacking, converts all of target's panels into weaken+ panels. (Creates weaken+ panels if panels are empty)",
+    "name": "Dominate Frenzy",
+    "summary": "Boosts target's P.ATK, skill damage, and stun damage.<br>Grants additional effects to target."
+  },
+  {
+    "id": 14002974,
+    "description": "Boosts target's P.ATK by {0}%, skill damage by {1}%, and stun damage by {2}% for 3 turns.<br><br>Grants the target the following additional effect for 1 turn:<br>Additional Effect: After attacking, converts all of target's panels into weaken+ panels. (Creates weaken+ panels if panels are empty)",
+    "name": "Dominate Frenzy",
+    "summary": "Boosts target's P.ATK, skill damage, and stun damage.<br>Grants additional effects to target."
+  },
+  {
+    "id": 14002975,
+    "description": "Boosts target's P.ATK by {0}%, skill damage by {1}%, and stun damage by {2}% for 3 turns.<br><br>Grants the target the following additional effect for 1 turn:<br>Additional Effect: After attacking, converts all of target's panels into weaken+ panels. (Creates weaken+ panels if panels are empty)",
+    "name": "Dominate Frenzy",
+    "summary": "Boosts target's P.ATK, skill damage, and stun damage.<br>Grants additional effects to target."
+  },
+  {
+    "id": 14002976,
+    "description": "Boosts target's P.ATK by {0}%, skill damage by {1}%, and stun damage by {2}% for 3 turns.<br><br>Grants the target the following additional effect for 1 turn:<br>Additional Effect: After attacking, converts all of target's panels into weaken+ panels. (Creates weaken+ panels if panels are empty)",
+    "name": "Dominate Frenzy",
+    "summary": "Boosts target's P.ATK, skill damage, and stun damage.<br>Grants additional effects to target."
+  },
+  {
+    "id": 32002837,
+    "description": "After attacking, creates a boost panel at own next turn and boosts damage dealt by 25% for 3 turns.",
+    "name": "Sand Devourer",
+    "summary": ""
+  },
+  {
+    "id": 32002838,
+    "description": "No effect.",
+    "name": "Heavy Bite",
+    "summary": ""
+  },
+  {
+    "id": 32002839,
+    "description": "After attacking, reduces target's critical rate by 20% for 3 turns.",
+    "name": "Heat Lock",
+    "summary": ""
+  },
+  {
+    "id": 32002840,
+    "description": "After attacking, increases damage received by all enemies by 15% for 3 turns.",
+    "name": "Fire Breath",
+    "summary": ""
+  },
+  {
+    "id": 32002841,
+    "description": "Removes status ailments from all allies and grants status ailment immunity for 1 turn.",
+    "name": "Protective Roar",
+    "summary": ""
+  },
+  {
+    "id": 32002842,
+    "description": "After attacking, converts all enemy panels to empty panels.",
+    "name": "Millstorm",
+    "summary": ""
+  },
+  {
+    "id": 32002843,
+    "description": "No effect",
+    "name": "Tail Lash",
+    "summary": ""
+  },
+  {
+    "id": 32002844,
+    "description": "After attacking, converts target's panels to weaken panels.",
+    "name": "Wind Ball",
+    "summary": ""
+  },
+  {
+    "id": 32002845,
+    "description": "After attacking, reduces all enemies' SPD by 15% for 1 turn.",
+    "name": "Bloodstorm",
+    "summary": ""
+  },
+  {
+    "id": 32002846,
+    "description": "Increases panel enhancement effect potency by 20% for all allies for 2 turns.",
+    "name": "Encouraging Cry",
+    "summary": ""
+  },
+  {
+    "id": 32002847,
+    "description": "Grants target damage immunity for 1 turn.",
+    "name": "Solid Reflection",
+    "summary": ""
+  },
+  {
+    "id": 32002848,
+    "description": "After attacking, converts target's panels except burst panels to weaken panels.",
+    "name": "Grab Comet",
+    "summary": ""
+  },
+  {
+    "id": 32002849,
+    "description": "No effect",
+    "name": "Debris Fall",
+    "summary": ""
+  },
+  {
+    "id": 32002850,
+    "description": "After attacking, delays target's turn by 2 turns.",
+    "name": "Dizzy Glint",
+    "summary": ""
+  },
+  {
+    "id": 32002851,
+    "description": "After attacking, reduces all enemies' damage dealt by 15% for 2 turns.",
+    "name": "Chaos Explosion",
+    "summary": ""
+  },
+  {
+    "id": 32002852,
+    "description": "No effect",
+    "name": "Energy Storm",
+    "summary": ""
+  },
+  {
+    "id": 32002853,
+    "description": "Inflicts Provoke on all enemies for 3 turns.",
+    "name": "Rage Powder",
+    "summary": ""
+  },
+  {
+    "id": 32002854,
+    "description": "After attacking, reduces own damage received by 15% for 5 turns.",
+    "name": "Roaring Furious Punch",
+    "summary": ""
+  },
+  {
+    "id": 32002855,
+    "description": "No effect",
+    "name": "Wild Strike",
+    "summary": ""
+  },
+  {
+    "id": 32002856,
+    "description": "After attacking, converts all enemy panels except burst panels to protection weaken panels.",
+    "name": "Dark Storm",
+    "summary": ""
+  },
+  {
+    "id": 32003001,
+    "description": "After attacking, inflicts Daze on target for 1 turn.\nAfter attacking, delays target's turn by 3 turns.",
+    "name": "Big Blue Wave",
+    "summary": ""
+  },
+  {
+    "id": 32003002,
+    "description": "After attacking, reduces own damage received by 15% for 3 turns.\nAfter attacking, delays target's turn by 2 turns.",
+    "name": "Big Splash",
+    "summary": ""
+  },
+  {
+    "id": 32003003,
+    "description": "After attacking, reduces all enemies' damage dealt by 20% for 3 turns.",
+    "name": "Shock Awakening",
+    "summary": ""
+  },
+  {
+    "id": 32003004,
+    "description": "When own HP is 80% or above, boosts damage dealt by 40%.\nAfter attacking, restores own HP by 10%.",
+    "name": "Drop Crash",
+    "summary": ""
+  },
+  {
+    "id": 32003005,
+    "description": "Grants self SPD Up (5%) for 3 turns.\nGrants self Damage Received Down (15%) for 3 turns.",
+    "name": "Glossy Charge",
+    "summary": ""
+  },
+  {
+    "id": 32003006,
+    "description": "After attacking, inflicts Provoke on all enemies for 3 turns.\nAfter attacking, grants self Damage Received Down (30%) for 3 turns.",
+    "name": "Attention",
+    "summary": ""
+  },
+  {
+    "id": 32003007,
+    "description": "Grants self Damage Received Down (20%) for 2 turns.\nRestores own HP by 15%.",
+    "name": "Heal Roar",
+    "summary": ""
+  },
+  {
+    "id": 32003008,
+    "description": "After attacking, grants self Damage Received Down (30%) for 1 turn.\nAfter attacking, grants self Damage Dealt Up (20%) for 2 turns.",
+    "name": "Pork Bite",
+    "summary": ""
+  },
+  {
+    "id": 32003009,
+    "description": "No additional effects.",
+    "name": "Spin Needle",
+    "summary": ""
+  },
+  {
+    "id": 32003010,
+    "description": "No additional effects.",
+    "name": "Ice Bite",
+    "summary": ""
+  },
+  {
+    "id": 32003011,
+    "description": "After attacking, grants self Damage Dealt Up (20%) for 3 turns.\nAfter attacking, grants self Stun Damage Down (50%) for 1 turn.\nAfter attacking, grants self Damage Received Down (50%) for 1 turn.",
+    "name": "Iceberg Shell",
+    "summary": ""
+  },
+  {
+    "id": 32003012,
+    "description": "After attacking, restores own HP by 20%.\nAfter attacking, restores own stun gauge by 20%.",
+    "name": "Early Gurgling Punch",
+    "summary": ""
+  },
+  {
+    "id": 32003013,
+    "description": "After attacking, reduces target enemy's damage dealt by 15% for 4 turns.",
+    "name": "Gurgling Punch",
+    "summary": ""
+  },
+  {
+    "id": 32003014,
+    "description": "After attacking, reduces target enemy's stun damage dealt by 15% for 4 turns.",
+    "name": "Dark Storm",
+    "summary": ""
+  },
+  {
+    "id": 32003015,
+    "description": "Restores own HP by 15%.\nRemoves status effects from target ally.",
+    "name": "Heal Powder",
+    "summary": ""
+  },
+  {
+    "id": 32003016,
+    "description": "Grants self Cover status for 3 turns.",
+    "name": "Stand By",
+    "summary": ""
+  },
+  {
+    "id": 32003023,
+    "description": "After attacking, inflicts Daze on target for 1 turn.\nAfter attacking, delays target's turn by 3.",
+    "name": "Big Blue Wave",
+    "summary": ""
+  },
+  {
+    "id": 32003024,
+    "description": "After attacking, grants self Damage Received Down (15%) for 3 turns.\nAfter attacking, delays target's turn by 2.",
+    "name": "Big Splash",
+    "summary": ""
+  },
+  {
+    "id": 32003025,
+    "description": "After attacking, reduces all enemies' damage dealt by 20% for 3 turns.",
+    "name": "Impact Wake",
+    "summary": ""
+  },
+  {
+    "id": 32003026,
+    "description": "When own HP is 80% or above, boosts damage dealt by 40%.\nAfter attacking, restores own HP by 10%.",
+    "name": "Drop Crash",
+    "summary": ""
+  },
+  {
+    "id": 32003027,
+    "description": "Grants self SPD Up (5%) for 3 turns.\nGrants self Damage Received Down (15%) for 3 turns.",
+    "name": "Glossy Charge",
+    "summary": ""
+  },
+  {
+    "id": 32003028,
+    "description": "After attacking, inflicts Provoke on all enemies for 3 turns.\nAfter attacking, grants self Damage Received Down (30%) for 3 turns.",
+    "name": "Attention",
+    "summary": ""
+  },
+  {
+    "id": 32003029,
+    "description": "Grants self Damage Received Down (20%) for 2 turns.\nRestores own HP by 15%.",
+    "name": "Heal Roar",
+    "summary": ""
+  },
+  {
+    "id": 32003030,
+    "description": "After attacking, reduces own damage received by 30% for 1 turn.\nAfter attacking, boosts own damage dealt by 20% for 2 turns.",
+    "name": "Pork Bite",
+    "summary": ""
+  },
+  {
+    "id": 32003031,
+    "description": "No effects.",
+    "name": "Spin Needle",
+    "summary": ""
+  },
+  {
+    "id": 32003032,
+    "description": "No effects.",
+    "name": "Ice Bite",
+    "summary": ""
+  },
+  {
+    "id": 32003033,
+    "description": "After attacking, boosts own damage dealt by 20% for 3 turns.\nAfter attacking, reduces own stun damage dealt by 50% for 1 turn.\nAfter attacking, reduces own damage received by 50% for 1 turn.",
+    "name": "Iceberg Shell",
+    "summary": ""
+  },
+  {
+    "id": 32003045,
+    "description": "After attacking, reduces all enemies' SPD by 20% for 3 turns.\nBoosts this attack's critical damage by 40%.",
+    "name": "Freeze Beach",
+    "summary": ""
+  },
+  {
+    "id": 32003046,
+    "description": "After attacking, reduces own damage received by 10% for 2 turns.\nAfter attacking, reduces own stun damage received by 10% for 2 turns.",
+    "name": "Ride Attack",
+    "summary": ""
+  },
+  {
+    "id": 32003047,
+    "description": "No effects.",
+    "name": "Accel Rush",
+    "summary": ""
+  },
+  {
+    "id": 32003048,
+    "description": "Boosts this attack's critical damage by 20%.",
+    "name": "Blazing Ice Throw",
+    "summary": ""
+  },
+  {
+    "id": 32003049,
+    "description": "After attacking, boosts own damage dealt by 15% for 2 turns.",
+    "name": "Blazing Freeze All",
+    "summary": ""
+  },
+  {
+    "id": 32003050,
+    "description": "Boosts all allies' SPD by 20% for 3 turns.\nBoosts all allies' critical rate by 20% for 3 turns.",
+    "name": "Rider's Howl",
+    "summary": ""
+  },
+  {
+    "id": 32003051,
+    "description": "No effects.",
+    "name": "Turtle Head",
+    "summary": ""
+  },
+  {
+    "id": 32003052,
+    "description": "No effects.",
+    "name": "Raging Turtle",
+    "summary": ""
+  },
+  {
+    "id": 32003053,
+    "description": "Boosts all allies' damage dealt by 15% for 3 turns.",
+    "name": "Spin Up",
+    "summary": ""
+  },
+  {
+    "id": 32003054,
+    "description": "After attacking, reduces all enemies' SPD by 20% for 3 turns.\nBoosts this attack's critical damage by 40%.",
+    "name": "Freeze Beach",
+    "summary": ""
+  },
+  {
+    "id": 32003057,
+    "description": "No effects.",
+    "name": "Raging Turtle",
+    "summary": ""
+  },
+  {
+    "id": 32003058,
+    "description": "No effects.",
+    "name": "Raging Turtle",
+    "summary": ""
+  },
+  {
+    "id": 32003059,
+    "description": "After attacking, reduces own damage received by 10% for 2 turns.\nAfter attacking, reduces own stun damage received by 10% for 2 turns.",
+    "name": "Ride Attack",
+    "summary": ""
+  },
+  {
+    "id": 32003060,
+    "description": "No effects.",
+    "name": "Accel Rush",
+    "summary": ""
+  },
+  {
+    "id": 32003061,
+    "description": "Boosts this attack's critical damage by 20%.",
+    "name": "Blazing Ice Throw",
+    "summary": ""
+  },
+  {
+    "id": 32003062,
+    "description": "After attacking, boosts own damage dealt by 15% for 2 turns.",
+    "name": "Blazing Freeze All",
+    "summary": ""
+  },
+  {
+    "id": 32003063,
+    "description": "Grants SPD Up (20%/3 turns) to all allies.\nGrants Critical Rate Up (20%/3 turns) to all allies.",
+    "name": "Rider's Cry",
+    "summary": ""
+  },
+  {
+    "id": 32003069,
+    "description": "After attacking, grants self Damage Received Down (10%/2 turns).\nAfter attacking, grants self Stun Damage Received Down (10%/2 turns).",
+    "name": "Ride Attack",
+    "summary": ""
   }
 ]

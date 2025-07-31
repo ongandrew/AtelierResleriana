@@ -1630,5 +1630,49 @@
     ],
     "start_at": "2025-07-17T03:00:00Z",
     "tracking_id": "af_synthesis_recipe_763"
+  },
+  {
+    "id": 764,
+    "name": "Liberte Papillon",
+    "requirements": [
+      {
+        "name": "Awaken Criselda [Seaside Butterfly] to ☆5"
+      }
+    ],
+    "start_at": "2025-07-31T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_764"
+  },
+  {
+    "id": 765,
+    "name": "Nostalgic Water Bomb",
+    "requirements": [
+      {
+        "name": "Gather Jellyfish Root × 10"
+      }
+    ],
+    "start_at": "2025-07-31T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_765"
+  },
+  {
+    "id": 766,
+    "name": "Albadi Citia",
+    "requirements": [
+      {
+        "name": "Clear Main Story 2-74"
+      }
+    ],
+    "start_at": "2025-07-31T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_766"
+  },
+  {
+    "id": 767,
+    "name": "Crepusco Stella",
+    "requirements": [
+      {
+        "name": "Clear Main Story 2-74"
+      }
+    ],
+    "start_at": "2025-07-31T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_767"
   }
 ]

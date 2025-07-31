@@ -1646,5 +1646,49 @@
   {
     "id": 60249038,
     "description": "- When HP reaches a certain level, boosts own critical rate\n- Nullifies Stab and Air resistance down effects"
+  },
+  {
+    "id": 60083074,
+    "description": "- After receiving attacks a certain number of times, boosts own damage received (up to 60%)\n- After using skills, restores own HP and stun gauge\n- Nullifies resistance reduction for all elements except Slash"
+  },
+  {
+    "id": 60109084,
+    "description": "- Heals self\n- Inflicts Taunt\n- Reduces own damage received and stun damage received\n- When stunned, boosts own damage received\n- Nullifies resistance reduction for all elements except Fire and Slash"
+  },
+  {
+    "id": 60122078,
+    "description": "- When stunned, converts boost-type panels into burst panels\n- Covers\n- Restores own HP and stun gauge\n- Heals self and removes all status effects"
+  },
+  {
+    "id": 60140001,
+    "description": "- When allies are KO'd, converts boost-type panels into burst panels\n- When using boost-type panels, inflicts Darkness on all enemies and allies\n- When using weaken panels, inflicts multiple negative effects on self\n- Boosts own SPD (up to 50%) with each turn"
+  },
+  {
+    "id": 60143008,
+    "description": "- Creates weaken panels\n- Creates empty panels"
+  },
+  {
+    "id": 60175007,
+    "description": "- Creates weaken panels\n- When KO'd, advances all allies' turns\n- Grants Damage Immunity to allies\n- Delays turn"
+  },
+  {
+    "id": 60183007,
+    "description": "- Creates weaken panels\n- Inflicts Taunt"
+  },
+  {
+    "id": 60205083,
+    "description": "- Inflicts Daze\n- Delays turn\n- Boosts damage dealt when HP is above a certain level\n- Heals self\n- When stunned, boosts own damage received\n- At battle start, grants Regen to self\n- Nullifies resistance reduction for all elements except Fire and Slash"
+  },
+  {
+    "id": 60224045,
+    "description": "- After receiving attacks a certain number of times, boosts own damage received (up to 60%)\n- When KO'd, applies a Field Effect that reduces status effect resistance for all enemies and allies\n- Heals all allies and removes all status effects\n- Has a chance to inflict Paralysis"
+  },
+  {
+    "id": 60249043,
+    "description": "- Boosts own critical rate when HP reaches a certain level"
+  },
+  {
+    "id": 60249071,
+    "description": "- Boosts own critical rate when HP reaches a certain level\n- Nullifies resistance reduction for all elements except Slash"
   }
 ]

@@ -2473,5 +2473,105 @@
     "id": 1210415,
     "description": "Boosts stun damage by 40% for characters with Slash affinity. Cannot be removed.",
     "name": "Slash: Stun Damage Up"
+  },
+  {
+    "id": 510173,
+    "description": "Boosts penetration for skills other than Burst Skills by {value}. (MAX 150)",
+    "name": "Non-Burst Skill Penetration Up"
+  },
+  {
+    "id": 510175,
+    "description": "Boosts potency of negative effects received from negative panels by {value}%.",
+    "name": "Received Negative Effects Up (Negative Panel)"
+  },
+  {
+    "id": 610282,
+    "description": "When attack target is stunned, grants Physical Damage Received +{value}%.",
+    "name": "Grant Physical Damage Received Up When Stunned"
+  },
+  {
+    "id": 610283,
+    "description": "After attacking, converts all target panels to weaken+ panels (creates them if no panels exist).",
+    "name": "Weaken+ Panel Conversion Attack"
+  },
+  {
+    "id": 610284,
+    "description": "Before attacking, grants target Slash RES -{value}% for 1 attack received. (MAX 3 stacks)",
+    "name": "Grant Slash RES Down"
+  },
+  {
+    "id": 610285,
+    "description": "Boosts damage received from Slash attacks by {value}%. (MAX 3 stacks)",
+    "name": "Slash RES Down"
+  },
+  {
+    "id": 610294,
+    "description": "Boosts P.ATK by {value}%. (MAX 30%)",
+    "name": "P.ATK Up"
+  },
+  {
+    "id": 610295,
+    "description": "Boosts skill damage by {value}%. (MAX 30%)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 610296,
+    "description": "Boosts stun damage by {value}%. (MAX 30%)",
+    "name": "Stun Damage Up"
+  },
+  {
+    "id": 610297,
+    "description": "Boosts P.DEF by {value}%. (MAX 3 stacks)",
+    "name": "P.DEF Up"
+  },
+  {
+    "id": 800164,
+    "description": "When own HP is 70% or higher, reduces damage received by {value}%. (Unaffected by buff potency changes)",
+    "name": "Received Damage Down When HP 70%+"
+  },
+  {
+    "id": 800165,
+    "description": "When attacking a weakness, boosts skill power by {value}%. (MAX 2 stacks)",
+    "name": "Skill Power Up When Attacking Weakness"
+  },
+  {
+    "id": 810401,
+    "description": "Nullifies Ice RES Down. Cannot be removed.",
+    "name": "Nullify Ice RES Down"
+  },
+  {
+    "id": 910181,
+    "description": "Boosts damage received by {value}%.",
+    "name": "Received Damage Up"
+  },
+  {
+    "id": 910182,
+    "description": "Reduces skill damage by {value}%.",
+    "name": "Dealt Damage Down"
+  },
+  {
+    "id": 910183,
+    "description": "Reduces SPD by {value}%.",
+    "name": "SPD Down"
+  },
+  {
+    "id": 910184,
+    "description": "Boosts magical damage received by {value}%.",
+    "name": "Magical Damage Received Up"
+  },
+  {
+    "id": 910187,
+    "description": "Boosts P.ATK by {value}%. (MAX 150%)",
+    "name": "P.ATK Up"
+  },
+  {
+    "id": 910188,
+    "description": "Boosts M.ATK by {value}%. (MAX 150%)",
+    "name": "M.ATK Up"
+  },
+  {
+    "id": 910189,
+    "description": "Reduces attack by {value}%.",
+    "name": "Attack Down"
   }
 ]

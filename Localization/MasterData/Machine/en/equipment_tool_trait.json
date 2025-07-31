@@ -38,5 +38,81 @@
   {
     "id": 80,
     "name": "Enhanced Resistance Down [Air]"
+  },
+  {
+    "id": 81,
+    "name": "Preemptive P.ATK Up"
+  },
+  {
+    "id": 82,
+    "name": "Preemptive M.ATK Up"
+  },
+  {
+    "id": 83,
+    "name": "Late Bloomer P.ATK Up"
+  },
+  {
+    "id": 84,
+    "name": "Late Bloomer M.ATK Up"
+  },
+  {
+    "id": 91,
+    "name": "Bolt Critical Rate Up"
+  },
+  {
+    "id": 92,
+    "name": "Ice Critical Rate Up"
+  },
+  {
+    "id": 93,
+    "name": "Air Critical Rate Up"
+  },
+  {
+    "id": 94,
+    "name": "Slash Critical Rate Up"
+  },
+  {
+    "id": 95,
+    "name": "Strike Critical Rate Up"
+  },
+  {
+    "id": 96,
+    "name": "Stab Critical Rate Up"
+  },
+  {
+    "id": 97,
+    "name": "Fire Critical Rate Up"
+  },
+  {
+    "id": 98,
+    "name": "Bolt Critical Damage Up"
+  },
+  {
+    "id": 99,
+    "name": "Ice Critical Damage Up"
+  },
+  {
+    "id": 100,
+    "name": "Air Critical Damage Up"
+  },
+  {
+    "id": 101,
+    "name": "Slash Critical Damage Up"
+  },
+  {
+    "id": 102,
+    "name": "Strike Critical Damage Up"
+  },
+  {
+    "id": 103,
+    "name": "Stab Critical Damage Up"
+  },
+  {
+    "id": 104,
+    "name": "Fire Critical Damage Up"
+  },
+  {
+    "id": 105,
+    "name": "Enhanced Battle Item Damage Buff"
   }
 ]

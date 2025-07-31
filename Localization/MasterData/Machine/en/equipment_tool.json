@@ -1053,5 +1053,30 @@
     "id": 1143,
     "description": "While equipped to Lara [Seaside Queen], when HP drops below 50%, boosts all allies' skill damage by {0}% for 2 turns. (MAX 4 stacks)",
     "name": "Elegant King's Clamor"
+  },
+  {
+    "id": 1162,
+    "description": "While equipped to Criselda [Seaside Butterfly], after using a skill, boosts all allies' skill power by {0}% when attacking a weakness for 1 turn. (MAX 2 stacks)",
+    "name": "Liberté Papillon"
+  },
+  {
+    "id": 1163,
+    "description": "When own HP is 70% or higher, reduces damage received by {0}%. (Fixed)",
+    "name": "Albadi Kythera"
+  },
+  {
+    "id": 1164,
+    "description": "When own HP is 70% or higher, reduces damage received by {0}%. (Fixed)",
+    "name": "Albadi Kythera"
+  },
+  {
+    "id": 1165,
+    "description": "Boosts HP recovery given by {0}%.",
+    "name": "Krepusco Stra"
+  },
+  {
+    "id": 1166,
+    "description": "Boosts HP recovery given by {0}%.",
+    "name": "Krepusco Stra"
   }
 ]

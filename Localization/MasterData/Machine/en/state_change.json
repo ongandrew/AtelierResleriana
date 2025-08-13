@@ -2573,5 +2573,40 @@
     "id": 910189,
     "description": "Reduces attack by {value}%.",
     "name": "Attack Down"
+  },
+  {
+    "id": 510180,
+    "description": "Dummy buff for active skill activation determination.",
+    "name": "Determination Dummy Buff"
+  },
+  {
+    "id": 610293,
+    "description": "Boosts stun damage by {value}%. (MAX 40%)",
+    "name": "Stun Damage Up"
+  },
+  {
+    "id": 610298,
+    "description": "Boosts damage received from Slash attacks by {value}%.",
+    "name": "Slash Resistance Down"
+  },
+  {
+    "id": 800166,
+    "description": "Boosts physical damage received by {value}%. (MAX 4 stacks)",
+    "name": "Physical Received Damage Up"
+  },
+  {
+    "id": 810212,
+    "description": "Boosts damage dealt by {value}%. Can only be removed when stunned.",
+    "name": "Enhanced State"
+  },
+  {
+    "id": 820119,
+    "description": "Boosts received negative effect potency by {value}%. Cannot be removed.",
+    "name": "Received Negative Effect Potency Up"
+  },
+  {
+    "id": 820211,
+    "description": "Reduces positive effect potency granted by {value}%.",
+    "name": "Granted Positive Effect Potency Down"
   }
 ]

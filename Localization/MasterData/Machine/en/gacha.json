@@ -2709,5 +2709,59 @@
     "name": "Atelier Summer 2025: Graceful Black Butterfly Criselda - LEGEND FES [Paid Lodestar Gems Only]",
     "start_at": "2025-07-31T03:00:00Z",
     "step_up_loop_description": ""
+  },
+  {
+    "id": 2279,
+    "description": "Johanna is newly available & PickUP!\nUntil 2025/08/18 11:59 (UTC+8)",
+    "end_at": "2025-08-18T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Atelier Summer 2025 Spirited Johanna LEGEND FES",
+    "name": "Atelier Summer 2025 Spirited Johanna LEGEND FES",
+    "start_at": "2025-08-08T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2280,
+    "description": "After 50 Wishes with Paid Lodestar Gems, an additional Wish appears!\nUntil 2025/08/18 11:59 (UTC+8)",
+    "end_at": "2025-08-18T03:00:00Z",
+    "name": "Atelier Summer 2025 Spirited Johanna LEGEND FES [Paid Lodestar Gems Only]",
+    "start_at": "2025-08-08T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 227901,
+    "description": "Max 5 times! PickUP rate is doubled!\nGet 16 Medals! Until 2025/08/18 11:59 (UTC+8)",
+    "end_at": "2025-08-18T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10005,
+            "description": "Bonus included!\n{} times left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Atelier Summer 2025 Spirited Johanna LEGEND FES [Paid Lodestar Gems Only]",
+    "name": "Atelier Summer 2025 Spirited Johanna LEGEND FES [Paid Lodestar Gems Only]",
+    "start_at": "2025-08-08T03:00:00Z",
+    "step_up_loop_description": ""
   }
 ]

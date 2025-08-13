@@ -7938,5 +7938,170 @@
     "id": 120000757,
     "description": "When Criselda [Seaside Butterfly] is in party, reduces damage received.",
     "popup_text": ""
+  },
+  {
+    "id": 3000374,
+    "description": "Boosts Slash power by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 3000375,
+    "description": "Boosts Strike power by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 3000376,
+    "description": "Boosts Stab power by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 3000377,
+    "description": "Boosts Fire power by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 3000378,
+    "description": "Boosts Bolt power by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 3000379,
+    "description": "Boosts Ice power by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 3000380,
+    "description": "Boosts Air power by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001120,
+    "description": "When equipped to Johanna [Brilliant Diver] and the attack target is stunned, increases all enemies' physical damage received for 2 attacks (max 4 stacks).",
+    "popup_text": ""
+  },
+  {
+    "id": 72001371,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 76250001,
+    "description": "Reduces positive effect potency granted to skill targets for 3 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76250002,
+    "description": "Removes Damage Dealt Up (Hydro Shark High-Speed Submarine) from self.",
+    "popup_text": ""
+  },
+  {
+    "id": 76250003,
+    "description": "Reduces own damage received for 3 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76250004,
+    "description": "Boosts own damage dealt for 3 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76250005,
+    "description": "Inflicts Speed Down on skill targets for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76250006,
+    "description": "Increases skill targets' damage received for 3 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76250007,
+    "description": "Reduces skill targets' damage dealt for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76250008,
+    "description": "Grants self Damage Dealt Up (Neutral Status Effect Immunity).",
+    "popup_text": ""
+  },
+  {
+    "id": 86163003,
+    "description": "When hit by a non-weakness attack, reduces own damage received.",
+    "popup_text": ""
+  },
+  {
+    "id": 86250001,
+    "description": "Boosts own damage dealt for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 86250002,
+    "description": "Inflicts Delay Turn on self.",
+    "popup_text": ""
+  },
+  {
+    "id": 86250003,
+    "description": "Reselects own action.",
+    "popup_text": ""
+  },
+  {
+    "id": 86250004,
+    "description": "Grants self increased negative effect potency received (with upper limit).",
+    "popup_text": ""
+  },
+  {
+    "id": 86250005,
+    "description": "Reduces positive effect potency granted.",
+    "popup_text": ""
+  },
+  {
+    "id": 86250007,
+    "description": "When stunned, if Dealt Damage Up (Hide Shark_High-Speed Submarine) is granted, removes all positive effects granted to self.",
+    "popup_text": ""
+  },
+  {
+    "id": 91001823,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001824,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001825,
+    "description": "",
+    "popup_text": "Expires at turn end"
+  },
+  {
+    "id": 91001829,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001830,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000260,
+    "description": "While equipped to a Breaker with Slash affinity, boosts stun damage for single target attacks.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000261,
+    "description": "When equipped to a character with Spirited tag, after using a skill, reduces target's Slash resistance for 1 attack.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000755,
+    "description": "Boosts stun damage for Johanna [Brilliant Diver].",
+    "popup_text": ""
+  },
+  {
+    "id": 120000756,
+    "description": "When Johanna [Brilliant Diver] is in party, reduces damage received.",
+    "popup_text": ""
   }
 ]

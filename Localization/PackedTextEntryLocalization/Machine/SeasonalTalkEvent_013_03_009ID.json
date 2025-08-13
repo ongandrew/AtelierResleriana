@@ -1,0 +1,597 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "アンチュ、今度は負けないわよ！",
+        "localizations": {
+          "en": "I won't lose to you this time, Antje!"
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "これ、別にレースじゃないんだけど……",
+        "localizations": {
+          "en": "This isn't actually a race, though..."
+        }
+      },
+      "2072370017": {
+        "text": "アンチュ",
+        "localizations": {
+          "en": "Antje"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "前！\u3000魔物がいるよ！",
+        "localizations": {
+          "en": "Look out! There's a monster ahead!"
+        }
+      },
+      "2072370017": {
+        "text": "アオナ",
+        "localizations": {
+          "en": "Azure"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "分かってる！",
+        "localizations": {
+          "en": "I see it!"
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "これでまた一匹！",
+        "localizations": {
+          "en": "That's another one down!"
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "え、えいっ！！",
+        "localizations": {
+          "en": "Take this!"
+        }
+      },
+      "2072370017": {
+        "text": "アンチュ",
+        "localizations": {
+          "en": "Antje"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "さすが！\u3000あんたも錬金術士だったわね！",
+        "localizations": {
+          "en": "Nice work! I almost forgot you're an alchemist too!"
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "アンチュの道具は刺激的だろ？",
+        "localizations": {
+          "en": "Antje's tools pack a punch, don't they?"
+        }
+      },
+      "2072370017": {
+        "text": "ルアッカ",
+        "localizations": {
+          "en": "Scarlet"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "でも、ちょっと魔物が多いよ……\nやっぱりみんな、その石を目指してるんだ",
+        "localizations": {
+          "en": "But there are so many monsters... They're all heading straight for that stone."
+        }
+      },
+      "2072370017": {
+        "text": "ムラサキ",
+        "localizations": {
+          "en": "Violet"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "もっと沖のほうに引き寄せないと浜辺に被害が出るわ。\nさあ、全速力で行くわよ！",
+        "localizations": {
+          "en": "We need to lure them further out to sea or the beach will get caught up in this. Come on, full speed ahead!"
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "くっ、邪魔ね！\u3000上がダメなら、下から……！",
+        "localizations": {
+          "en": "Ugh, they're in the way! If we can't go over, we'll go under...!"
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "えっ……ちょっと、アオナたちを置いてかないで！",
+        "localizations": {
+          "en": "Wait! Don't leave us behind!"
+        }
+      },
+      "2072370017": {
+        "text": "アオナ",
+        "localizations": {
+          "en": "Azure"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "だ、ダメ！\u3000水中も魔物がうようよしてるわ！",
+        "localizations": {
+          "en": "No good! The water's crawling with monsters too!"
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "ドウスル？\u3000道具モ\u3000限リガアルワ……",
+        "localizations": {
+          "en": "What Do We Do? Our Supplies Are Limited..."
+        }
+      },
+      "2072370017": {
+        "text": "イェーロ",
+        "localizations": {
+          "en": "Hielo"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "二人とも、大丈夫！？",
+        "localizations": {
+          "en": "Are you two okay?!"
+        }
+      },
+      "2072370017": {
+        "text": "？？？",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "その声は……！",
+        "localizations": {
+          "en": "That voice...!"
+        }
+      },
+      "2072370017": {
+        "text": "アンチュ",
+        "localizations": {
+          "en": "Antje"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "鶏肉も大事だけど、\n今は力を合わせて観客を守らないとね！",
+        "localizations": {
+          "en": "The chicken's important, but right now we need to work together to protect the audience!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "ここはあたしたちが道を切り開く！\u3000二人は行って！",
+        "localizations": {
+          "en": "We'll clear a path for you! You two, go!"
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "さあ、先へ！",
+        "localizations": {
+          "en": "Hurry, this way!"
+        }
+      },
+      "2072370017": {
+        "text": "クラウディア",
+        "localizations": {
+          "en": "Klaudia"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "みんな……ありがとう！\nアンチュ、行くわよ！",
+        "localizations": {
+          "en": "Everyone... thank you! Antje, let's go!"
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "うん、みんなの力を借りて……！",
+        "localizations": {
+          "en": "Right, with everyone's help...!"
+        }
+      },
+      "2072370017": {
+        "text": "アンチュ",
+        "localizations": {
+          "en": "Antje"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "ふう、これでもっと先に……",
+        "localizations": {
+          "en": "Phew, now we can get further out..."
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "ちっ、やっぱりこっちに引き寄せられてる！",
+        "localizations": {
+          "en": "Dammit, they're still being drawn this way!"
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "ま、魔物は私が相手するから、先に行って……！",
+        "localizations": {
+          "en": "I'll handle the monsters, so go on ahead...!"
+        }
+      },
+      "2072370017": {
+        "text": "アンチュ",
+        "localizations": {
+          "en": "Antje"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "うん！\u3000背中、預けるわよ！",
+        "localizations": {
+          "en": "Got it! I'm counting on you to watch my back!"
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "えいっ！",
+        "localizations": {
+          "en": "Here goes!"
+        }
+      },
+      "2072370017": {
+        "text": "アンチュ",
+        "localizations": {
+          "en": "Antje"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "ここまで来れば十分よね！\nそれじゃあ、最後の仕上げよ！",
+        "localizations": {
+          "en": "This should be far enough! Time for the grand finale!"
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "これで、さよならよ……！",
+        "localizations": {
+          "en": "And that's goodbye to you...!"
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "ヨハナちゃん！？\u3000アンチュちゃん！？\n二人とも、無事だよね……？",
+        "localizations": {
+          "en": "Johanna! Antje! You're both okay, right...?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "これくらいでやられる二人じゃないでしょ",
+        "localizations": {
+          "en": "Those two aren't going down that easily."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "……ほら、見て",
+        "localizations": {
+          "en": "...Look, see?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "どう？\u3000見た？\u3000私の華麗な計画！\nこれが天才の実力ってわけ！",
+        "localizations": {
+          "en": "How's that? Did you see my brilliant plan in action? That's the power of a genius for you!"
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "華麗は、言いすぎ。\nでも……これでグランプリを邪魔する者はいなくなった",
+        "localizations": {
+          "en": "'Brilliant' might be pushing it. But... at least nothing will interfere with the Grand Prix now."
+        }
+      },
+      "2072370017": {
+        "text": "アンチュ",
+        "localizations": {
+          "en": "Antje"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "そうね。それじゃあ、改めて……",
+        "localizations": {
+          "en": "Exactly. So now, let's finally..."
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "本当の決着を付けるわよ！",
+        "localizations": {
+          "en": "Settle this for real!"
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  }
+]

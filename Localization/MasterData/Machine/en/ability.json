@@ -6208,5 +6208,80 @@
     "id": 600000700,
     "description": "When Criselda [Seaside Butterfly] or Lara [Seaside Queen] is in the party, reduces damage received.",
     "name": "When Criselda [Seaside Butterfly] or Lara [Seaside Queen] is in Party, Damage Received Down"
+  },
+  {
+    "id": 301250,
+    "description": "While equipped to Johanna [Brilliant Diver] and the attack target is stunned, grants all enemies Physical Damage Received +{0}% for 2 attacks (Max 4 stacks).",
+    "name": "Genius Shot"
+  },
+  {
+    "id": 1980203,
+    "description": "Characters with Slash affinity gain Skill Damage & Stun Damage +{0}%.",
+    "name": "I'll Cut Through This Heat!"
+  },
+  {
+    "id": 1990377,
+    "description": "When attack target is stunned, grants target Physical Damage Received +{0}% for 2 attacks.",
+    "name": "Midsummer Wounds"
+  },
+  {
+    "id": 1990378,
+    "description": "When target's current stun gauge is at 50% or higher, boosts stun damage by {0}%.<br>When attacking a weakness, boosts skill damage by {1}%.",
+    "name": "Genius Pursuit!"
+  },
+  {
+    "id": 4991068,
+    "description": "While equipped to a Breaker with Slash affinity, boosts single target attack stun damage by {0}%.<br>When equipped to a Spirited character, after attacking, grants target Slash Resistance -{1}% for 1 attack.",
+    "name": "Spirited \"Whirlpool Arm Wrestling\""
+  },
+  {
+    "id": 4991069,
+    "description": "While equipped to a Breaker with Slash affinity, boosts single target attack stun damage by {0}%.<br>When equipped to a Spirited character, after attacking, grants target Slash Resistance -{1}% for 1 attack.",
+    "name": "Spirited \"Whirlpool Arm Wrestling\""
+  },
+  {
+    "id": 4991070,
+    "description": "While equipped to a Breaker with Slash affinity, boosts single target attack stun damage by {0}%.<br>When equipped to a Spirited character, after attacking, grants target Slash Resistance -{1}% for 1 attack.",
+    "name": "Spirited \"Whirlpool Arm Wrestling\""
+  },
+  {
+    "id": 4991071,
+    "description": "While equipped to a Breaker with Slash affinity, boosts single target attack stun damage by {0}%.<br>When equipped to a Spirited character, after attacking, grants target Slash Resistance -{1}% for 1 attack.",
+    "name": "Spirited \"Whirlpool Arm Wrestling\""
+  },
+  {
+    "id": 4991072,
+    "description": "While equipped to a Breaker with Slash affinity, boosts single target attack stun damage by {0}%.<br>When equipped to a Spirited character, after attacking, grants target Slash Resistance -{1}% for 1 attack.",
+    "name": "Spirited \"Whirlpool Arm Wrestling\""
+  },
+  {
+    "id": 26163003,
+    "description": "・When hit by a non-weakness attack, grants self Damage Received Down (5%/Max 80%)\n・While stunned, increases damage received (30%)",
+    "name": ""
+  },
+  {
+    "id": 26250001,
+    "description": "After using specific skills, grants self Damage Dealt Up (80%/1 time) and delays own turn by 2 turns, then redraws turn order.\nWhen stunned, if self has Damage Dealt Up (Hydro Shark_High Speed Submarine) buff, removes all own buffs and redraws turn order.",
+    "name": ""
+  },
+  {
+    "id": 26250002,
+    "description": "Each time taking an attack, grants self Negative Effect Potency Up (10%/Max 1000%).",
+    "name": ""
+  },
+  {
+    "id": 26250003,
+    "description": "Nullifies resistance down for all elements except Fire, Slash, and Strike.",
+    "name": ""
+  },
+  {
+    "id": 600000698,
+    "description": "Boosts Johanna [Brilliant Diver]'s stun damage by 200%.",
+    "name": "Johanna [Brilliant Diver] Stun Damage Up"
+  },
+  {
+    "id": 600000699,
+    "description": "When Johanna [Brilliant Diver] or Criselda [Seaside Butterfly] is in the party, reduces damage received by 25% (Max 25%).",
+    "name": "Johanna [Brilliant Diver] or Criselda [Seaside Butterfly] Damage Reduction"
   }
 ]

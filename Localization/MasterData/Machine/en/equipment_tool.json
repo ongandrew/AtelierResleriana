@@ -1078,5 +1078,10 @@
     "id": 1166,
     "description": "Boosts HP recovery given by {0}%.",
     "name": "Krepusco Stra"
+  },
+  {
+    "id": 1145,
+    "description": "While equipped to Johanna [Brilliant Diver] and when attack target is stunned, boosts all enemies' physical attack damage received by {0}% for 2 attacks. (MAX 4 stacks)",
+    "name": "Genius Shot"
   }
 ]

@@ -218,5 +218,15 @@
     "id": 6903,
     "description": "You can obtain rewards when clearing each floor for the first time.",
     "name": "Clear Rewards"
+  },
+  {
+    "id": 7001,
+    "description": "A battle content where the goal is to clear missions.\nYou can challenge battles as many times as you want without consuming Stamina or Challenge Tickets.\nChange your party composition to match the missions and take on the battles.",
+    "name": "Mission Battles"
+  },
+  {
+    "id": 7002,
+    "description": "Rewards can be obtained when you clear a mission for the first time, or when your total cleared missions reach a specified number.\nRewards can be checked in the Battle Results screen.",
+    "name": "About Rewards"
   }
 ]

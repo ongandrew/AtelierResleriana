@@ -17878,5 +17878,275 @@
     "description": "After attacking, grants self Damage Received Down (10%/2 turns).\nAfter attacking, grants self Stun Damage Received Down (10%/2 turns).",
     "name": "Ride Attack",
     "summary": ""
+  },
+  {
+    "id": 11002978,
+    "description": "After attacking, boosts own stun damage by {0}% (max 40%) and stun damage by {1}% for 1 turn.<br>When own next panel is not a burst panel, converts it to a stun boost panel (creates one if empty).",
+    "name": "Sea Moon Shadow",
+    "summary": "After attacking, boosts own stun damage.<br>Converts own next non-burst panel to a stun boost panel."
+  },
+  {
+    "id": 11002979,
+    "description": "After attacking, boosts own stun damage by {0}% (max 40%) and stun damage by {1}% for 1 turn.<br>When own next panel is not a burst panel, converts it to a stun boost panel (creates one if empty).",
+    "name": "Sea Moon Shadow",
+    "summary": "After attacking, boosts own stun damage.<br>Converts own next non-burst panel to a stun boost panel."
+  },
+  {
+    "id": 11002980,
+    "description": "After attacking, boosts own stun damage by {0}% (max 40%) and stun damage by {1}% for 1 turn.<br>When own next panel is not a burst panel, converts it to a stun boost panel (creates one if empty).",
+    "name": "Sea Moon Shadow",
+    "summary": "After attacking, boosts own stun damage.<br>Converts own next non-burst panel to a stun boost panel."
+  },
+  {
+    "id": 11002981,
+    "description": "After attacking, boosts own stun damage by {0}% (max 40%) and stun damage by {1}% for 1 turn.<br>When own next panel is not a burst panel, converts it to a stun boost panel (creates one if empty).",
+    "name": "Sea Moon Shadow",
+    "summary": "After attacking, boosts own stun damage.<br>Converts own next non-burst panel to a stun boost panel."
+  },
+  {
+    "id": 11002982,
+    "description": "After attacking, boosts own stun damage by {0}% (max 40%) and stun damage by {1}% for 1 turn.<br>When own next panel is not a burst panel, converts it to a stun boost panel (creates one if empty).",
+    "name": "Sea Moon Shadow",
+    "summary": "After attacking, boosts own stun damage.<br>Converts own next non-burst panel to a stun boost panel."
+  },
+  {
+    "id": 12002983,
+    "description": "Before attacking, reduces target's Slash resistance by {0}% for 3 attacks.<br>After attacking, boosts own stun damage by {1}% for 3 turns.<br>When target is stunned, additionally boosts own stun damage by {2}% for 3 turns and converts own next panel to a burst panel (creates one if empty).",
+    "name": "Dance of the Rippling Blade",
+    "summary": "Before attacking, reduces target's Slash resistance.<br>After attacking, boosts own stun damage.<br>When target is stunned, boosts own stun damage.<br>Converts own next panel to a burst panel."
+  },
+  {
+    "id": 12002984,
+    "description": "Before attacking, reduces target's Slash resistance by {0}% for 3 attacks.<br>After attacking, boosts own stun damage by {1}% for 3 turns.<br>When target is stunned, additionally boosts own stun damage by {2}% for 3 turns and converts own next panel to a burst panel (creates one if empty).",
+    "name": "Dance of the Rippling Blade",
+    "summary": "Before attacking, reduces target's Slash resistance.<br>After attacking, boosts own stun damage.<br>When target is stunned, boosts own stun damage.<br>Converts own next panel to a burst panel."
+  },
+  {
+    "id": 12002985,
+    "description": "Before attacking, reduces target's Slash resistance by {0}% for 3 attacks.<br>After attacking, boosts own stun damage by {1}% for 3 turns.<br>When target is stunned, additionally boosts own stun damage by {2}% for 3 turns and converts own next panel to a burst panel (creates one if empty).",
+    "name": "Dance of the Rippling Blade",
+    "summary": "Before attacking, reduces target's Slash resistance.<br>After attacking, boosts own stun damage.<br>When target is stunned, boosts own stun damage.<br>Converts own next panel to a burst panel."
+  },
+  {
+    "id": 12002986,
+    "description": "Before attacking, reduces target's Slash resistance by {0}% for 3 attacks.<br>After attacking, boosts own stun damage by {1}% for 3 turns.<br>When target is stunned, additionally boosts own stun damage by {2}% for 3 turns and converts own next panel to a burst panel (creates one if empty).",
+    "name": "Dance of the Rippling Blade",
+    "summary": "Before attacking, reduces target's Slash resistance.<br>After attacking, boosts own stun damage.<br>When target is stunned, boosts own stun damage.<br>Converts own next panel to a burst panel."
+  },
+  {
+    "id": 12002987,
+    "description": "Before attacking, reduces target's Slash resistance by {0}% for 3 attacks.<br>After attacking, boosts own stun damage by {1}% for 3 turns.<br>When target is stunned, additionally boosts own stun damage by {2}% for 3 turns and converts own next panel to a burst panel (creates one if empty).",
+    "name": "Dance of the Rippling Blade",
+    "summary": "Before attacking, reduces target's Slash resistance.<br>After attacking, boosts own stun damage.<br>When target is stunned, boosts own stun damage.<br>Converts own next panel to a burst panel."
+  },
+  {
+    "id": 14002988,
+    "description": "When attacking a weakness, boosts stun damage by {0}%.<br>Before attacking, reduces target's Slash resistance by {1}% for 2 attacks.<br>After attacking, increases target's damage received by {2}% for 2 attacks and inflicts Daze for 1 turn with a very high chance.<br>When target is stunned, additionally increases damage received by {3}% for 3 attacks.",
+    "name": "Absolute Genius - Torpedo",
+    "summary": "When attacking a weakness, boosts stun damage.<br>Before attacking, reduces target's Slash resistance.<br>After attacking, increases target's damage received.<br>Inflicts Daze on target with a very high chance.<br>When target is stunned, increases damage received."
+  },
+  {
+    "id": 14002989,
+    "description": "When attacking a weakness, boosts stun damage by {0}%.<br>Before attacking, reduces target's Slash resistance by {1}% for 2 attacks.<br>After attacking, increases target's damage received by {2}% for 2 attacks and inflicts Daze for 1 turn with a very high chance.<br>When target is stunned, additionally increases damage received by {3}% for 3 attacks.",
+    "name": "Absolute Genius - Torpedo",
+    "summary": "When attacking a weakness, boosts stun damage.<br>Before attacking, reduces target's Slash resistance.<br>After attacking, increases target's damage received.<br>Inflicts Daze on target with a very high chance.<br>When target is stunned, increases damage received."
+  },
+  {
+    "id": 14002990,
+    "description": "When attacking a weakness, boosts stun damage by {0}%.<br>Before attacking, reduces target's Slash resistance by {1}% for 2 attacks.<br>After attacking, increases target's damage received by {2}% for 2 attacks and inflicts Daze for 1 turn with a very high chance.<br>When target is stunned, additionally increases damage received by {3}% for 3 attacks.",
+    "name": "Absolute Genius - Torpedo",
+    "summary": "When attacking a weakness, boosts stun damage.<br>Before attacking, reduces target's Slash resistance.<br>After attacking, increases target's damage received.<br>Inflicts Daze on target with a very high chance.<br>When target is stunned, increases damage received."
+  },
+  {
+    "id": 14002991,
+    "description": "When attacking a weakness, boosts stun damage by {0}%.<br>Before attacking, reduces target's Slash resistance by {1}% for 2 attacks.<br>After attacking, increases target's damage received by {2}% for 2 attacks and inflicts Daze for 1 turn with a very high chance.<br>When target is stunned, additionally increases damage received by {3}% for 3 attacks.",
+    "name": "Absolute Genius - Torpedo",
+    "summary": "When attacking a weakness, boosts stun damage.<br>Before attacking, reduces target's Slash resistance.<br>After attacking, increases target's damage received.<br>Inflicts Daze on target with a very high chance.<br>When target is stunned, increases damage received."
+  },
+  {
+    "id": 14002992,
+    "description": "When attacking a weakness, boosts stun damage by {0}%.<br>Before attacking, reduces target's Slash resistance by {1}% for 2 attacks.<br>After attacking, increases target's damage received by {2}% for 2 attacks and inflicts Daze for 1 turn with a very high chance.<br>When target is stunned, additionally increases damage received by {3}% for 3 attacks.",
+    "name": "Absolute Genius - Torpedo",
+    "summary": "When attacking a weakness, boosts stun damage.<br>Before attacking, reduces target's Slash resistance.<br>After attacking, increases target's damage received.<br>Inflicts Daze on target with a very high chance.<br>When target is stunned, increases damage received."
+  },
+  {
+    "id": 14003047,
+    "description": "Removes the selected target's next turn from within the first 5 positions on the timeline (max 2 uses).<br>※This Active Skill can be used once per stun inflicted on the target.",
+    "name": "Remove Signal",
+    "summary": "Removes the selected target's next turn from within the first 5 positions on the timeline."
+  },
+  {
+    "id": 32002857,
+    "description": "Before attacking, removes all debuffs from self.\nAfter attacking, inflicts Positive Effect Potency Down (20%/3 turns) on skill targets and removes own Damage Dealt Up (Hide Shark_High-Speed Submarine).\nThen, redraw own turn.",
+    "name": "Jet Dive",
+    "summary": ""
+  },
+  {
+    "id": 32002858,
+    "description": "After attacking, reduces own damage received by 20% for 3 turns.",
+    "name": "Jet Cool",
+    "summary": ""
+  },
+  {
+    "id": 32002859,
+    "description": "No additional effects",
+    "name": "Heavy Bite",
+    "summary": ""
+  },
+  {
+    "id": 32002860,
+    "description": "After attacking, boosts own damage dealt by 25% for 3 turns.",
+    "name": "Ice Ball",
+    "summary": ""
+  },
+  {
+    "id": 32002861,
+    "description": "After attacking, reduces target's SPD by 15% for 2 turns.",
+    "name": "Jet Rush",
+    "summary": ""
+  },
+  {
+    "id": 32002862,
+    "description": "Grants skill target damage received up (30% for 3 turns) and damage dealt down (40% for 2 turns), and grants self damage dealt up (neutral status effect invisible) (0% for 1 turn).\nAfter that, reselects action.",
+    "name": "Sadistic Roar",
+    "summary": ""
+  },
+  {
+    "id": 32002863,
+    "description": "Before attacking, removes all debuffs from self.\nAfter attacking, grants skill target buff effect potency down (40% for 3 turns) and removes damage dealt up (Hide Shark_High-Speed Submarine) granted to self.\nAfter that, reselects own action.",
+    "name": "Jet Dive",
+    "summary": ""
+  },
+  {
+    "id": 32002864,
+    "description": "After attacking, reduces own damage received by 30% for 3 turns.",
+    "name": "Jet Cooling",
+    "summary": ""
+  },
+  {
+    "id": 32002865,
+    "description": "No effects.",
+    "name": "Heavy Bite",
+    "summary": ""
+  },
+  {
+    "id": 32002866,
+    "description": "After attacking, boosts own damage dealt by 50% for 3 turns.",
+    "name": "Ice Ball",
+    "summary": ""
+  },
+  {
+    "id": 32002867,
+    "description": "After attacking, reduces target's SPD by 15% for 2 turns.",
+    "name": "Jet Rush",
+    "summary": ""
+  },
+  {
+    "id": 32002868,
+    "description": "Grants skill target damage received up (50% for 3 turns) and damage dealt down (50% for 2 turns), and grants self damage dealt up (neutral status effect invisible) (0% for 1 turn).\nAfter that, reselects action.",
+    "name": "Sadistic Roar",
+    "summary": ""
+  },
+  {
+    "id": 32003017,
+    "description": "After attacking, grants self damage dealt up (40% for 2 turns) and damage received down (40% for 2 turns).",
+    "name": "Flexing Muscle",
+    "summary": ""
+  },
+  {
+    "id": 32003018,
+    "description": "No effects.",
+    "name": "Power Strike",
+    "summary": ""
+  },
+  {
+    "id": 32003019,
+    "description": "After attacking, reduces all allies' damage received by 30% for 2 turns.",
+    "name": "Beach Dive",
+    "summary": ""
+  },
+  {
+    "id": 32003020,
+    "description": "After attacking, boosts own damage dealt by 40% for 1 turn.",
+    "name": "Summer Tempest",
+    "summary": ""
+  },
+  {
+    "id": 32003021,
+    "description": "No effects.",
+    "name": "Smash Serve",
+    "summary": ""
+  },
+  {
+    "id": 32003022,
+    "description": "Grants self cover (5 times) and damage received down (40% for 5 turns).",
+    "name": "Glittering Tan",
+    "summary": ""
+  },
+  {
+    "id": 32003034,
+    "description": "After attacking, grants self damage dealt up (20% for 2 turns), damage received down (30% for 2 turns), and SPD up (10% for 2 turns).",
+    "name": "High Kick Combo",
+    "summary": ""
+  },
+  {
+    "id": 32003035,
+    "description": "After attacking, boosts own damage dealt by 25% for 1 turn.",
+    "name": "Fist Thrust",
+    "summary": ""
+  },
+  {
+    "id": 32003036,
+    "description": "No effects.",
+    "name": "Power Swing",
+    "summary": ""
+  },
+  {
+    "id": 32003037,
+    "description": "Reduces all enemies' critical rate by 30% for 1 turn.",
+    "name": "Bring Misfortune",
+    "summary": ""
+  },
+  {
+    "id": 32003038,
+    "description": "After attacking, boosts own damage dealt by 10% for 1 turn.",
+    "name": "Retaliation",
+    "summary": ""
+  },
+  {
+    "id": 32003039,
+    "description": "After attacking, grants self damage dealt up (30% for 3 turns) and damage received down (30% for 3 turns).",
+    "name": "Great Swing",
+    "summary": ""
+  },
+  {
+    "id": 32003040,
+    "description": "No additional effects.",
+    "name": "Heavy Strike",
+    "summary": ""
+  },
+  {
+    "id": 32003041,
+    "description": "After attacking, reduces all enemies' critical rate by 25% for 3 turns.",
+    "name": "Violent Shake",
+    "summary": ""
+  },
+  {
+    "id": 32003042,
+    "description": "After attacking, boosts own damage dealt by 25% for 3 turns.",
+    "name": "Purple Lightning Rain",
+    "summary": ""
+  },
+  {
+    "id": 32003043,
+    "description": "Grants all allies Regeneration (10%) for 2 turns and reduces damage received by 30% for 4 turns.",
+    "name": "Instill Courage",
+    "summary": ""
+  },
+  {
+    "id": 32003044,
+    "description": "Inflicts Provoke on all enemies for 3 turns, reduces their damage dealt by 30% for 3 turns, and reduces their critical rate by 30% for 3 turns.",
+    "name": "Invite Misfortune",
+    "summary": ""
   }
 ]

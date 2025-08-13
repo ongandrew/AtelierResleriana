@@ -1690,5 +1690,29 @@
   {
     "id": 60249071,
     "description": "- Boosts own critical rate when HP reaches a certain level\n- Nullifies resistance reduction for all elements except Slash"
+  },
+  {
+    "id": 60162004,
+    "description": "- Inflicts Darkness on self after receiving a burst skill\n- Boosts own damage received after receiving a burst skill (MAX 150%)\n- Removes own status effects and negative effects"
+  },
+  {
+    "id": 60163006,
+    "description": "- Protection\n- Reduces own damage received after being hit by a non-weakness attack\n- Receives increased damage while stunned\n- Nullifies attribute resistance down for all attributes except Fire, Slash, and Strike"
+  },
+  {
+    "id": 60247004,
+    "description": "- Each time weakness attacks are received a certain number of times, boosts own damage received (MAX 50%) and stun damage received (MAX 50%)"
+  },
+  {
+    "id": 60249001,
+    "description": "- Boosts own critical rate when HP reaches a certain level"
+  },
+  {
+    "id": 60250003,
+    "description": "- After applying negative effects to opponents, enters enhanced state and uses powerful attacks\n- When stunned, removes enhanced state\n- Boosts own negative effect potency received each time hit by an attack"
+  },
+  {
+    "id": 60250006,
+    "description": "- After applying negative effects to opponents, enters enhanced state and uses powerful attacks\n- When stunned, removes enhanced state\n- Boosts own negative effect potency received each time hit by an attack\n- Reduces opponents' damage dealt\n- Boosts opponents' damage received\n- Boosts own damage dealt\n- Nullifies attribute resistance down for all attributes except Fire, Slash, and Strike"
   }
 ]

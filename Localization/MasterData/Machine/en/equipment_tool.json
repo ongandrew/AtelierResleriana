@@ -1083,5 +1083,10 @@
     "id": 1145,
     "description": "While equipped to Johanna [Brilliant Diver] and when attack target is stunned, boosts all enemies' physical attack damage received by {0}% for 2 attacks. (MAX 4 stacks)",
     "name": "Genius Shot"
+  },
+  {
+    "id": 1168,
+    "description": "While equipped to Oni Gate [Enduring Loyalty], after any party member uses a battle item, boosts own skill damage by {0}% for 1 turn.<br>※Effect only activates once per turn, even if multiple items are used simultaneously.",
+    "name": "Shadow Cutter"
   }
 ]

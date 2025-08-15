@@ -18148,5 +18148,251 @@
     "description": "Inflicts Provoke on all enemies for 3 turns, reduces their damage dealt by 30% for 3 turns, and reduces their critical rate by 30% for 3 turns.",
     "name": "Invite Misfortune",
     "summary": ""
+  },
+  {
+    "id": 32141,
+    "description": "Reduces Bolt resistance of the enemy with lowest current HP by {0}% for 2 attacks.",
+    "name": "Waning Moon Fog",
+    "summary": ""
+  },
+  {
+    "id": 32142,
+    "description": "Reduces Bolt resistance of the enemy with lowest current HP by {0}% for 2 attacks.",
+    "name": "Waning Moon Fog",
+    "summary": ""
+  },
+  {
+    "id": 32143,
+    "description": "Restores 100 HP to all allies.",
+    "name": "Supreme Offering Wine",
+    "summary": ""
+  },
+  {
+    "id": 11002993,
+    "description": "After attacking, boosts own M.ATK by {0}% for 1 turn.<br>Boosts SPD by {1}% (MAX 20%).",
+    "name": "Lightning Vanquish",
+    "summary": "After attacking, boosts own stats."
+  },
+  {
+    "id": 11002994,
+    "description": "After attacking, boosts own M.ATK by {0}% for 1 turn.<br>Boosts SPD by {1}% (MAX 20%).",
+    "name": "Lightning Vanquish",
+    "summary": "After attacking, boosts own stats."
+  },
+  {
+    "id": 11002995,
+    "description": "After attacking, boosts own M.ATK by {0}% for 1 turn.<br>Boosts SPD by {1}% (MAX 20%).",
+    "name": "Lightning Vanquish",
+    "summary": "After attacking, boosts own stats."
+  },
+  {
+    "id": 11002996,
+    "description": "After attacking, boosts own M.ATK by {0}% for 1 turn.<br>Boosts SPD by {1}% (MAX 20%).",
+    "name": "Lightning Vanquish",
+    "summary": "After attacking, boosts own stats."
+  },
+  {
+    "id": 11002997,
+    "description": "After attacking, boosts own M.ATK by {0}% for 1 turn.<br>Boosts SPD by {1}% (MAX 20%).",
+    "name": "Lightning Vanquish",
+    "summary": "After attacking, boosts own stats."
+  },
+  {
+    "id": 12002998,
+    "description": "Boosts damage by 80-170% depending on enemy count (Higher boost for fewer enemies, range: 1-4 enemies).<br>Before attacking, reduces target's Bolt resistance by {0}% for 2 attacks.<br>After attacking, boosts own M.ATK by 30-{1}% for 2 turns depending on characters with Nova tag (Higher boost for more characters, range: 1-5 characters).",
+    "name": "Mystic Thunder Scroll",
+    "summary": "Higher damage boost for fewer enemies.<br>Before attacking, reduces target's Bolt resistance.<br>After attacking, boosts own M.ATK depending on characters with Nova tag."
+  },
+  {
+    "id": 12002999,
+    "description": "Boosts damage by 80-170% depending on enemy count (Higher boost for fewer enemies, range: 1-4 enemies).<br>Before attacking, reduces target's Bolt resistance by {0}% for 2 attacks.<br>After attacking, boosts own M.ATK by 30-{1}% for 2 turns depending on characters with Nova tag (Higher boost for more characters, range: 1-5 characters).",
+    "name": "Mystic Thunder Scroll",
+    "summary": "Higher damage boost for fewer enemies.<br>Before attacking, reduces target's Bolt resistance.<br>After attacking, boosts own M.ATK depending on characters with Nova tag."
+  },
+  {
+    "id": 12003000,
+    "description": "Boosts damage by 80-170% depending on enemy count (Higher boost for fewer enemies, range: 1-4 enemies).<br>Before attacking, reduces target's Bolt resistance by {0}% for 2 attacks.<br>After attacking, boosts own M.ATK by 30-{1}% for 2 turns depending on characters with Nova tag (Higher boost for more characters, range: 1-5 characters).",
+    "name": "Mystic Thunder Scroll",
+    "summary": "Higher damage boost for fewer enemies.<br>Before attacking, reduces target's Bolt resistance.<br>After attacking, boosts own M.ATK depending on characters with Nova tag."
+  },
+  {
+    "id": 12003001,
+    "description": "Boosts damage by 80-170% depending on enemy count (Higher boost for fewer enemies, range: 1-4 enemies).<br>Before attacking, reduces target's Bolt resistance by {0}% for 2 attacks.<br>After attacking, boosts own M.ATK by 30-{1}% for 2 turns depending on characters with Nova tag (Higher boost for more characters, range: 1-5 characters).",
+    "name": "Mystic Thunder Scroll",
+    "summary": "Higher damage boost for fewer enemies.<br>Before attacking, reduces target's Bolt resistance.<br>After attacking, boosts own M.ATK depending on characters with Nova tag."
+  },
+  {
+    "id": 12003002,
+    "description": "Boosts damage by 80-170% depending on enemy count (Higher boost for fewer enemies, range: 1-4 enemies).<br>Before attacking, reduces target's Bolt resistance by {0}% for 2 attacks.<br>After attacking, boosts own M.ATK by 30-{1}% for 2 turns depending on characters with Nova tag (Higher boost for more characters, range: 1-5 characters).",
+    "name": "Mystic Thunder Scroll",
+    "summary": "Higher damage boost for fewer enemies.<br>Before attacking, reduces target's Bolt resistance.<br>After attacking, boosts own M.ATK depending on characters with Nova tag."
+  },
+  {
+    "id": 14003003,
+    "description": "Boosts this attack's penetration by {0}.<br>Before attacking, reduces target's Bolt resistance by {1}% for 3 attacks.<br>After attacking, boosts own M.ATK by {2}% for 2 turns.",
+    "name": "Secret Arts: White Tiger Swift Thunder",
+    "summary": "Boosts this attack's penetration.<br>Before attacking, reduces target's Bolt resistance.<br>After attacking, boosts own M.ATK."
+  },
+  {
+    "id": 14003004,
+    "description": "Boosts this attack's penetration by {0}.<br>Before attacking, reduces target's Bolt resistance by {1}% for 3 attacks.<br>After attacking, boosts own M.ATK by {2}% for 2 turns.",
+    "name": "Secret Arts: White Tiger Swift Thunder",
+    "summary": "Boosts this attack's penetration.<br>Before attacking, reduces target's Bolt resistance.<br>After attacking, boosts own M.ATK."
+  },
+  {
+    "id": 14003005,
+    "description": "Boosts this attack's penetration by {0}.<br>Before attacking, reduces target's Bolt resistance by {1}% for 3 attacks.<br>After attacking, boosts own M.ATK by {2}% for 2 turns.",
+    "name": "Secret Arts: White Tiger Swift Thunder",
+    "summary": "Boosts this attack's penetration.<br>Before attacking, reduces target's Bolt resistance.<br>After attacking, boosts own M.ATK."
+  },
+  {
+    "id": 14003006,
+    "description": "Boosts this attack's penetration by {0}.<br>Before attacking, reduces target's Bolt resistance by {1}% for 3 attacks.<br>After attacking, boosts own M.ATK by {2}% for 2 turns.",
+    "name": "Secret Arts: White Tiger Swift Thunder",
+    "summary": "Boosts this attack's penetration.<br>Before attacking, reduces target's Bolt resistance.<br>After attacking, boosts own M.ATK."
+  },
+  {
+    "id": 14003007,
+    "description": "Boosts this attack's penetration by {0}.<br>Before attacking, reduces target's Bolt resistance by {1}% for 3 attacks.<br>After attacking, boosts own M.ATK by {2}% for 2 turns.",
+    "name": "Secret Arts: White Tiger Swift Thunder",
+    "summary": "Boosts this attack's penetration.<br>Before attacking, reduces target's Bolt resistance.<br>After attacking, boosts own M.ATK."
+  },
+  {
+    "id": 32003064,
+    "description": "After attacking, reduces SPD of all enemies by 5% for 1 turn.\nAfter attacking, converts 10 panels of all enemies into weaken panels.",
+    "name": "Assault Glacier",
+    "summary": ""
+  },
+  {
+    "id": 32003065,
+    "description": "No effects.",
+    "name": "Cross Slash",
+    "summary": ""
+  },
+  {
+    "id": 32003066,
+    "description": "After attacking, increases damage received by all enemies by 20% for 2 times.",
+    "name": "Tail Saber",
+    "summary": ""
+  },
+  {
+    "id": 32003067,
+    "description": "Reduces own damage received by 20% for 2 times.\nAfter attacking, increases own physical resistance by 20% for 2 times.",
+    "name": "Ice Burn",
+    "summary": ""
+  },
+  {
+    "id": 32003068,
+    "description": "After attacking, reduces all enemies' damage dealt by 20% for 2 times.\nAfter attacking, converts all enemies' boost panels to empty panels for 10 panels.\nAfter attacking, converts all enemies' empty panels to weaken panels for 10 panels.",
+    "name": "Ice Crash",
+    "summary": ""
+  },
+  {
+    "id": 32003070,
+    "description": "After attacking, reduces skill target's recovery amount by 50% for 2 times.",
+    "name": "Rock Squall",
+    "summary": ""
+  },
+  {
+    "id": 32003071,
+    "description": "After attacking, recovers own HP by 15%.",
+    "name": "Peck",
+    "summary": ""
+  },
+  {
+    "id": 32003072,
+    "description": "No effect.",
+    "name": "Stone Rain",
+    "summary": ""
+  },
+  {
+    "id": 32003073,
+    "description": "After attacking, increases skill target's damage received by 20% for 2 times.",
+    "name": "Thunder Kick",
+    "summary": ""
+  },
+  {
+    "id": 32003074,
+    "description": "After attacking, recovers all allies' HP by 10%.",
+    "name": "Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 32003075,
+    "description": "No effect.",
+    "name": "Glide",
+    "summary": ""
+  },
+  {
+    "id": 32003076,
+    "description": "No effect.",
+    "name": "Wing Cutter",
+    "summary": ""
+  },
+  {
+    "id": 32003077,
+    "description": "Increases own damage dealt by 30% for 3 times.",
+    "name": "Aerial Dance",
+    "summary": ""
+  },
+  {
+    "id": 32003078,
+    "description": "After attacking, inflicts Paralysis on skill target (100% chance) for 3 times.",
+    "name": "Wind Breath",
+    "summary": ""
+  },
+  {
+    "id": 32003079,
+    "description": "After attacking, recovers own HP by 15%.",
+    "name": "Peck",
+    "summary": ""
+  },
+  {
+    "id": 32003080,
+    "description": "After attacking, increases skill target's damage received by 20% for 2 times.",
+    "name": "Thunder Kick",
+    "summary": ""
+  },
+  {
+    "id": 32003081,
+    "description": "After attacking, recovers all allies' HP by 10%.",
+    "name": "Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 32003082,
+    "description": "After attacking, converts all skill target's panels except burst panels to weaken panels.",
+    "name": "Surprise Burn",
+    "summary": ""
+  },
+  {
+    "id": 32003083,
+    "description": "No effect.",
+    "name": "Burning Tongue",
+    "summary": ""
+  },
+  {
+    "id": 32003084,
+    "description": "After attacking, inflicts Darkness on skill target for 2 times.",
+    "name": "Magical Slash",
+    "summary": ""
+  },
+  {
+    "id": 32003085,
+    "description": "After attacking, reduces skill target's positive effect potency by 35% for 2 times.",
+    "name": "Curse Burn",
+    "summary": ""
+  },
+  {
+    "id": 32003086,
+    "description": "After attacking, increases skill target's magical damage received by 20% for 2 times.",
+    "name": "Magical Dark Slide",
+    "summary": ""
+  },
+  {
+    "id": 32003087,
+    "description": "After recovery, reduces damage received by 20% for skill target for 2 turns.",
+    "name": "Heal All",
+    "summary": ""
   }
 ]

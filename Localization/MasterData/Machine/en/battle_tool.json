@@ -238,5 +238,20 @@
     "id": 293,
     "description": "Reduces the enemy with the highest max HP's Ice resistance by {0}% for 2 attacks and deals Ice damage.",
     "name": "Nostalgic Water Bomb"
+  },
+  {
+    "id": 294,
+    "description": "Reduces Bolt resistance of the enemy with the lowest current HP by {0}% for 2 attacks.",
+    "name": "Waning Moon Mist"
+  },
+  {
+    "id": 295,
+    "description": "Reduces Bolt resistance of the enemy with the lowest current HP by {0}% for 2 attacks.",
+    "name": "Waning Moon Mist"
+  },
+  {
+    "id": 296,
+    "description": "Restores 100 HP to all allies.",
+    "name": "Supreme Offering Wine"
   }
 ]

@@ -1714,5 +1714,41 @@
   {
     "id": 60250006,
     "description": "- After applying negative effects to opponents, enters enhanced state and uses powerful attacks\n- When stunned, removes enhanced state\n- Boosts own negative effect potency received each time hit by an attack\n- Reduces opponents' damage dealt\n- Boosts opponents' damage received\n- Boosts own damage dealt\n- Nullifies attribute resistance down for all attributes except Fire, Slash, and Strike"
+  },
+  {
+    "id": 60009027,
+    "description": "- Chance to inflict Paralysis\n- When stunned, boosts own damage dealt\n- When stunned, boosts own damage received\n- At battle start, boosts damage dealt to opponents without Slash affinity"
+  },
+  {
+    "id": 60047002,
+    "description": "- Inflicts Paralysis\n- Boosts own damage dealt each turn\n- When stunned, inflicts Paralysis on self\n- Receives increased damage from single-target Burst Skills\n- Receives reduced damage from non-Burst Skills"
+  },
+  {
+    "id": 60146028,
+    "description": "- When KO'd, creates boost+ panels\n- Reduces positive effect potency for all opponents\n- Removes all positive effects from opponents\n- Creates protection weaken panels\n- At battle start, boosts damage dealt to opponents without Slash affinity"
+  },
+  {
+    "id": 60166007,
+    "description": "- Reduces potency of positive effects received when afflicted with status effects"
+  },
+  {
+    "id": 60178002,
+    "description": "- Boosts own damage dealt each time healed\n- When stunned, removes own positive effects\n- Heals self\n- Heals all allies\n- Receives increased damage from single-target Burst Skills\n- Receives reduced damage from non-Burst Skills"
+  },
+  {
+    "id": 60178003,
+    "description": "- Boosts own damage dealt each time healed\n- When stunned, removes own positive effects\n- Heals self\n- Heals all allies\n- Receives increased damage from single-target Burst Skills\n- Receives reduced damage from non-Burst Skills\n- Nullifies resistance reduction for all elements except Bolt and Slash"
+  },
+  {
+    "id": 60191026,
+    "description": "- Converts all opponent panels to weaken panels\n- Converts all opponent boost-type panels to empty panels, then converts empty panels to weaken panels\n- At battle start, boosts damage dealt to opponents without Slash affinity"
+  },
+  {
+    "id": 60193007,
+    "description": "- Advances allies' turns"
+  },
+  {
+    "id": 60214005,
+    "description": "- When KO'd, converts weaken panels to Darkness panels\n- Inflicts Darkness\n- Heals all allies\n- Reduces positive effect potency for all opponents\n- Creates weaken panels\n- Receives increased damage from single-target Burst Skills\n- Receives reduced damage from non-Burst Skills\n- Nullifies resistance reduction for all elements except Bolt and Slash"
   }
 ]

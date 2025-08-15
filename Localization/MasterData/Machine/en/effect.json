@@ -8103,5 +8103,135 @@
     "id": 120000756,
     "description": "When Johanna [Brilliant Diver] is in party, reduces damage received.",
     "popup_text": ""
+  },
+  {
+    "id": 6001121,
+    "description": "While equipped to Kimon [Enduring Unwavering Loyalty], after a party member uses a battle item, boosts own skill damage for 1 turn.<br>※Only triggers once even if multiple items are used simultaneously.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001122,
+    "description": "Reduces Bolt resistance of the enemy with the lowest current HP for 2 attacks.",
+    "popup_text": ""
+  },
+  {
+    "id": 13000381,
+    "description": "Boosts single target skill damage by +{}% for Bolt characters.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001372,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001373,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001374,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001375,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001376,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001377,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001378,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001379,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001380,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001381,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001382,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 86178005,
+    "description": "Increases damage received from Burst Skills.",
+    "popup_text": ""
+  },
+  {
+    "id": 86178006,
+    "description": "Reduces damage received from non-Burst Skills.",
+    "popup_text": ""
+  },
+  {
+    "id": 86178007,
+    "description": "Each time recovery is received, boosts own damage dealt (max 100%).",
+    "popup_text": ""
+  },
+  {
+    "id": 86178008,
+    "description": "When stunned, removes own damage dealt boost (max 100%).",
+    "popup_text": ""
+  },
+  {
+    "id": 86191001,
+    "description": "Boosts own damage dealt against enemies whose affinity is not Slash.",
+    "popup_text": ""
+  },
+  {
+    "id": 91001831,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001832,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000262,
+    "description": "While equipped to an Attacker with Bolt affinity, boosts skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000263,
+    "description": "When equipped to a Diligent character, before skill activation, reduces target's Bolt resistance for 1 attack.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000774,
+    "description": "Boosts skill power for Demon Gate [Enduring Loyalty's Patience].",
+    "popup_text": ""
+  },
+  {
+    "id": 120000775,
+    "description": "When self has Diligent, boosts skill power.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000776,
+    "description": "When Demon Gate [Enduring Loyalty's Patience] is in the party, reduces damage received.",
+    "popup_text": ""
   }
 ]

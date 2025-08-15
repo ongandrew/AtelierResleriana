@@ -6283,5 +6283,105 @@
     "id": 600000699,
     "description": "When Johanna [Brilliant Diver] or Criselda [Seaside Butterfly] is in the party, reduces damage received by 25% (Max 25%).",
     "name": "Johanna [Brilliant Diver] or Criselda [Seaside Butterfly] Damage Reduction"
+  },
+  {
+    "id": 301251,
+    "description": "While equipped to Kimon [Enduring Loyal Patience], after a party member uses a battle item, grants self Skill Damage +{0}% for 1 turn.<br>※Effect triggers only once even if multiple items are used simultaneously",
+    "name": "Shadow Blade"
+  },
+  {
+    "id": 1980204,
+    "description": "Keiun gains M.ATK +{0}% and Burst Skill Damage +{1}%",
+    "name": "Patience for a New Era"
+  },
+  {
+    "id": 1990379,
+    "description": "After using a skill or when acquiring a panel, if Ninjutsu Scroll isn't granted to self, grants Ninjutsu Scroll (Lv. 2).<br>If already granted, increases Ninjutsu Scroll's level by 2 (max Lv. 10).<br>Grants the following bonuses based on Ninjutsu Scroll level:<br>Skill Damage +{0}% per level<br>Lv. 3+: Burst Skill Damage +{1}%<br>Lv. 5+: Burst Skill Damage +{2}%<br>Lv. 10: Burst Skill Damage +{3}%",
+    "name": "Mastery of Ninjutsu"
+  },
+  {
+    "id": 1990380,
+    "description": "When a party member uses a battle item, converts own next panel to a burst panel (creates one if empty) (max 3 times).<br>※Effect triggers only once even if multiple items are used simultaneously",
+    "name": "Borrowing the Power of Alchemy!"
+  },
+  {
+    "id": 4991073,
+    "description": "While equipped to an Attacker with Bolt affinity, boosts skill damage by {0}%.<br>When Diligent, before attacking, grants target Bolt Resistance -{1}% for 1 attack",
+    "name": "Thought: Secret Mission in Progress!"
+  },
+  {
+    "id": 4991074,
+    "description": "While equipped to an Attacker with Bolt affinity, boosts skill damage by {0}%.<br>When Diligent, before attacking, grants target Bolt Resistance -{1}% for 1 attack",
+    "name": "Thought: Secret Mission in Progress!"
+  },
+  {
+    "id": 4991075,
+    "description": "While equipped to an Attacker with Bolt affinity, boosts skill damage by {0}%.<br>When Diligent, before attacking, grants target Bolt Resistance -{1}% for 1 attack",
+    "name": "Thought: Secret Mission in Progress!"
+  },
+  {
+    "id": 4991076,
+    "description": "While equipped to an Attacker with Bolt affinity, boosts skill damage by {0}%.<br>When Diligent, before attacking, grants target Bolt Resistance -{1}% for 1 attack",
+    "name": "Thought: Secret Mission in Progress!"
+  },
+  {
+    "id": 4991077,
+    "description": "While equipped to an Attacker with Bolt affinity, boosts skill damage by {0}%.<br>When Diligent, before attacking, grants target Bolt Resistance -{1}% for 1 attack",
+    "name": "Thought: Secret Mission in Progress!"
+  },
+  {
+    "id": 7000839,
+    "description": "Boosts skill damage for single target attacks by {0}% for characters with Bolt affinity.",
+    "name": "Bolt Affinity Single Target Attack Damage Up (1)"
+  },
+  {
+    "id": 7000840,
+    "description": "Boosts skill damage for single target attacks by {0}% for characters with Bolt affinity.",
+    "name": "Bolt Affinity Single Target Attack Damage Up (2)"
+  },
+  {
+    "id": 7000841,
+    "description": "Boosts skill damage for single target attacks by {0}% for characters with Bolt affinity.",
+    "name": "Bolt Affinity Single Target Attack Damage Up (3)"
+  },
+  {
+    "id": 26178001,
+    "description": "Increases damage received from single target burst skills by 50%.\nReduces damage received from non-burst skills by 25%.",
+    "name": ""
+  },
+  {
+    "id": 26178002,
+    "description": "Increases damage received from single target burst skills by 50%.\nReduces damage received from non-burst skills by 50%.",
+    "name": ""
+  },
+  {
+    "id": 26178003,
+    "description": "Each time HP is recovered, grants self Damage Dealt Up 10% (max 100%).\nWhen stunned, removes own Damage Dealt Up 10% (max 100%).",
+    "name": ""
+  },
+  {
+    "id": 26178005,
+    "description": "Nullifies resistance down for elements other than Bolt and Slash.",
+    "name": ""
+  },
+  {
+    "id": 26191001,
+    "description": "At wave start, grants self Damage Dealt Up 1000% against enemies with affinity other than Slash.",
+    "name": ""
+  },
+  {
+    "id": 600000703,
+    "description": "Boosts skill power for Kimon [Enduring Loyal Patience] by 100%.",
+    "name": "Kimon [Enduring Loyal Patience] Skill Power Up"
+  },
+  {
+    "id": 600000704,
+    "description": "When self is Diligent, boosts skill power by 100%.",
+    "name": "When Self is Diligent, Skill Power Up"
+  },
+  {
+    "id": 600000705,
+    "description": "When Kimon [Enduring Loyal Patience] or Johanna [Brilliant Diver] is in the party, reduces damage received by 25% (max 25%).",
+    "name": "Damage Reduction when Kimon [Enduring Loyal Patience] or Johanna [Brilliant Diver] is in Party"
   }
 ]

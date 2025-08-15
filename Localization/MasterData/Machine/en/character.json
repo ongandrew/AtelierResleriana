@@ -688,5 +688,20 @@
     "overlay_name": "Johanna",
     "profile_voice_text": "Hmph. As expected of the genius Johanna!\nAny outfit looks good on me!",
     "start_at": "2025-08-08T03:00:00Z"
+  },
+  {
+    "id": 45601,
+    "acquisition_text": "Leave it to me! I'll use my ninja techniques to\nscatter these evildoers and show you what I can do!",
+    "another_name": "Devoted Loyal Ninja",
+    "description": "A ninja from southern Keiun.\nShe serves the Domen family as a ninja and has been childhood friends with her master Kanariya since they were young.\nRaised from childhood with traditional ninja education, she has been influenced by Kanariya to develop an appreciation for new things, often attempting new ninja techniques that perplex those around her.",
+    "fullname": "Kimon",
+    "leader_skill": {
+      "description": "Boosts Keiun characters' M.ATK by 50% and burst skill damage by 50%.",
+      "name": "Ninja of a New Era"
+    },
+    "name": "Kimon",
+    "overlay_name": "Kimon",
+    "profile_voice_text": "My name is Kimon. I am a ninja serving the Domen family. Please treat me well.",
+    "start_at": "2025-08-15T03:00:00Z"
   }
 ]

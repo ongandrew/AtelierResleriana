@@ -96,6 +96,10 @@ namespace AtelierResleriana.Localization.Utilities
         - フラミィ → Flammi (Flammi) - A self-proclaimed “super-high-spec independent survey-assistance device” that Yumia carries around.
         - ヤドヴィガ → Jadwiga (Jadwiga) - A homunculus created by the Palme.
         - キューン → Quinn (Quinn) - A homunculus created by the Palme.
+        - 此岸永遠 → Towa Shigan (Towa) - A well-known diviner within Keiun who takes great care of his appearance.
+        - 鬼門 → Kimon (Kimon) - A female ninja serving a lord within Keiun. Uses various techniques called ninjutsu.
+        - 波照間千歳 → Chitose Hateruma (Chitose) - A shrine maiden serving the Domen family. Though she appears quiet and fragile, she possesses an inner strength.
+        - 堂免鏑矢 → Kaburaya Domen (Kaburaya) - The young lady of the Domen family, who governs southern Keiun. A master swordsman with countless tales of valor from his youth.
         """;
 
         private static Dictionary<string, string> SpeakerNotes = new Dictionary<string, string>
@@ -167,7 +171,10 @@ namespace AtelierResleriana.Localization.Utilities
             { "バーバラ", "Barbara - The name of Lanze's wife who was killed during an Apexi attack three years prior to current events. Also the name given to one of the ships in the current expedition in honor of her memory." },
             { "ヤドヴィガ", "Jadwiga - One of Jelka's siblings and Valeria's younger sister. She is a homunculus part of the group of nine created by the Palme. Speaks rather robotically." },
             { "キューン", "Quinn - One of Valeria's female siblings and a member of the group of nine homuculus created by the Palme. She speaks quite hesitantly." },
-
+            { "鬼門", "Kimon - A female ninja serving a lord within Keiun. Uses various techniques called ninjutsu." },
+            { "永遠", "Towa - A well-known diviner within Keiun who takes great care of his appearance." },
+            { "千歳", "Chitose - A shrine maiden serving the Domen family. Though she appears quiet and fragile, she possesses an inner strength." },
+            { "鏑矢", "Kaburaya - The young lady of the Domen family, who governs southern Keiun. A master swordsman with countless tales of valor from his youth." },
             // System and narrative elements
             { "？？？", "Unknown speaker - maintain mysterious tone appropriate to context." },
             { "ナレーション", "Narrator speaks in a clear, neutral tone providing context or background information." },

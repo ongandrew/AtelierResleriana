@@ -1685,5 +1685,27 @@
     ],
     "start_at": "2025-08-08T03:00:00Z",
     "tracking_id": "af_synthesis_recipe_768"
+  },
+  {
+    "id": 769,
+    "name": "Shadow Blade",
+    "requirements": [
+      {
+        "name": "Awaken Kimon [Unwavering Loyal Endurance] to ★5"
+      }
+    ],
+    "start_at": "2025-08-15T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_769"
+  },
+  {
+    "id": 770,
+    "name": "Waning Moon Mist",
+    "requirements": [
+      {
+        "name": "Clear Kurogane Island Monster Extermination Operation - Part 1"
+      }
+    ],
+    "start_at": "2025-08-15T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_770"
   }
 ]

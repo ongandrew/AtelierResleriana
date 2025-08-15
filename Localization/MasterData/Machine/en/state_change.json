@@ -2608,5 +2608,50 @@
     "id": 820211,
     "description": "Reduces positive effect potency granted by {value}%.",
     "name": "Granted Positive Effect Potency Down"
+  },
+  {
+    "id": 510181,
+    "description": "After any party member uses an item, converts own next panel to a burst panel (creates one if empty). (MAX 3 activations)<br>※Only activates once even when multiple items are used simultaneously",
+    "name": "I'll Borrow the Power of Alchemy!"
+  },
+  {
+    "id": 510182,
+    "description": "Gains bonuses with Secret Arts: Extreme Technique based on the level of Secret Ninja Technique Manual",
+    "name": "Secret Ninja Technique Manual"
+  },
+  {
+    "id": 510183,
+    "description": "Boosts skill damage by {value}% based on the level of Secret Ninja Technique Manual",
+    "name": "Dealt Damage Up Based on Secret Ninja Technique Manual Level"
+  },
+  {
+    "id": 510184,
+    "description": "Lv. 3+: Boosts burst skill damage by {value}%",
+    "name": "Secret Ninja Technique Manual Lv. 3+ Burst Damage Up"
+  },
+  {
+    "id": 510185,
+    "description": "Lv. 5+: Boosts burst skill damage by {value}%",
+    "name": "Secret Ninja Technique Manual Lv. 5+ Burst Damage Up"
+  },
+  {
+    "id": 510186,
+    "description": "Lv. 10+: Boosts burst skill damage by {value}%",
+    "name": "Secret Ninja Technique Manual Lv. 10+ Burst Damage Up"
+  },
+  {
+    "id": 610299,
+    "description": "Boosts SPD by {value}%. (MAX 20%)",
+    "name": "SPD Up"
+  },
+  {
+    "id": 810132,
+    "description": "Boosts damage dealt to targets with non-Slash affinity by {value}%. Cannot be removed.",
+    "name": "Dealt Damage Up (Cond.)"
+  },
+  {
+    "id": 810161,
+    "description": "Boosts damage dealt by {value}%. (MAX 100%) Can only be removed when stunned.",
+    "name": "Dealt Damage Up"
   }
 ]

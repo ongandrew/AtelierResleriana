@@ -2763,5 +2763,59 @@
     "name": "Atelier Summer 2025 Spirited Johanna LEGEND FES [Paid Lodestar Gems Only]",
     "start_at": "2025-08-08T03:00:00Z",
     "step_up_loop_description": ""
+  },
+  {
+    "id": 2281,
+    "description": "Kimon makes their debut & featured!\nUntil 2025/09/08 11:59 (UTC+8)",
+    "end_at": "2025-09-08T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Scattered Yet Still Blooming, Bonds of Friendship - Kimon LEGEND FES",
+    "name": "Scattered Yet Still Blooming, Bonds of Friendship - Kimon LEGEND FES",
+    "start_at": "2025-08-15T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2282,
+    "description": "Make 50 Wishes with Paid Lodestar Gems to unlock additional Wish options!\nUntil 2025/09/08 11:59 (UTC+8)",
+    "end_at": "2025-09-08T03:00:00Z",
+    "name": "Scattered Yet Still Blooming, Bonds of Friendship - Kimon LEGEND FES [Paid Lodestar Gems Only]",
+    "start_at": "2025-08-15T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 228201,
+    "description": "Max 5 times! Featured rate doubled!\nEarn 16 Medals! Until 2025/09/08 11:59 (UTC+8)",
+    "end_at": "2025-09-08T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10005,
+            "description": "Bonus included!\n{} times left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Scattered Yet Still Blooming, Bonds of Friendship - Kimon LEGEND FES [Paid Lodestar Gems Only]",
+    "name": "Scattered Yet Still Blooming, Bonds of Friendship - Kimon LEGEND FES [Paid Lodestar Gems Only]",
+    "start_at": "2025-08-15T03:00:00Z",
+    "step_up_loop_description": ""
   }
 ]

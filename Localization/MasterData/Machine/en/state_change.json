@@ -2653,5 +2653,40 @@
     "id": 810161,
     "description": "Boosts damage dealt by {value}%. (MAX 100%) Can only be removed when stunned.",
     "name": "Dealt Damage Up"
+  },
+  {
+    "id": 510187,
+    "description": "After any party member uses a battle item, reduces own damage received by {value}% (fixed) for 1 attack. (Activates up to 2 times)<br>※Using multiple items simultaneously will only trigger this effect once.",
+    "name": "Let's Borrow the Power of Alchemy!"
+  },
+  {
+    "id": 510190,
+    "description": "Boosts P. DEF by {value}%. (MAX 60%)",
+    "name": "P. DEF Up"
+  },
+  {
+    "id": 510191,
+    "description": "Boosts M. DEF by {value}%. (MAX 60%)",
+    "name": "M. DEF Up"
+  },
+  {
+    "id": 610300,
+    "description": "Boosts P. DEF by {value}%. (MAX 2 stacks)",
+    "name": "P. DEF Up"
+  },
+  {
+    "id": 610301,
+    "description": "Boosts M. DEF by {value}%. (MAX 2 stacks)",
+    "name": "M. DEF Up"
+  },
+  {
+    "id": 610302,
+    "description": "Reduces damage received by {value}%. (MAX 2 stacks)",
+    "name": "Received Damage Down"
+  },
+  {
+    "id": 800167,
+    "description": "Reduces damage received by {value}%. (Unaffected by positive effect potency changes)",
+    "name": "Received Damage Down"
   }
 ]

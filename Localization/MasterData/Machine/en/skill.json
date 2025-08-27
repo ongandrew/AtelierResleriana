@@ -18394,5 +18394,275 @@
     "description": "After recovery, reduces damage received by 20% for skill target for 2 turns.",
     "name": "Heal All",
     "summary": ""
+  },
+  {
+    "id": 11003008,
+    "description": "Before attacking, removes all negative effects from self.<br>After attacking, boosts own P.DEF and M.DEF by {0}% for 1 attack and grants Cover for 3 activations.<br>Restores HP of all allies by {4}%.",
+    "name": "Ritual God - Bolt",
+    "summary": "Before attacking, removes all negative effects from self.<br>After attacking, boosts own stats.<br>Grants self Cover.<br>Restores HP of all allies."
+  },
+  {
+    "id": 11003009,
+    "description": "Before attacking, removes all negative effects from self.<br>After attacking, boosts own P.DEF and M.DEF by {0}% for 1 attack and grants Cover for 3 activations.<br>Restores HP of all allies by {4}%.",
+    "name": "Ritual God - Bolt",
+    "summary": "Before attacking, removes all negative effects from self.<br>After attacking, boosts own stats.<br>Grants self Cover.<br>Restores HP of all allies."
+  },
+  {
+    "id": 11003010,
+    "description": "Before attacking, removes all negative effects from self.<br>After attacking, boosts own P.DEF and M.DEF by {0}% for 1 attack and grants Cover for 3 activations.<br>Restores HP of all allies by {4}%.",
+    "name": "Ritual God - Bolt",
+    "summary": "Before attacking, removes all negative effects from self.<br>After attacking, boosts own stats.<br>Grants self Cover.<br>Restores HP of all allies."
+  },
+  {
+    "id": 11003011,
+    "description": "Before attacking, removes all negative effects from self.<br>After attacking, boosts own P.DEF and M.DEF by {0}% for 1 attack and grants Cover for 3 activations.<br>Restores HP of all allies by {4}%.",
+    "name": "Ritual God - Bolt",
+    "summary": "Before attacking, removes all negative effects from self.<br>After attacking, boosts own stats.<br>Grants self Cover.<br>Restores HP of all allies."
+  },
+  {
+    "id": 11003012,
+    "description": "Before attacking, removes all negative effects from self.<br>After attacking, boosts own P.DEF and M.DEF by {0}% for 1 attack and grants Cover for 3 activations.<br>Restores HP of all allies by {4}%.",
+    "name": "Ritual God - Bolt",
+    "summary": "Before attacking, removes all negative effects from self.<br>After attacking, boosts own stats.<br>Grants self Cover.<br>Restores HP of all allies."
+  },
+  {
+    "id": 12003013,
+    "description": "Restores own HP by {0}%.<br>Boosts P.DEF and M.DEF of all allies with Bolt affinity by {1}% for 3 attacks (MAX 2 stacks) and reduces damage received by {2}% for 2 attacks (MAX 2 stacks).",
+    "name": "Sunflower Purification",
+    "summary": "Restores own HP.<br>Boosts stats of all allies with Bolt affinity.<br>Reduces damage received by all allies with Bolt affinity."
+  },
+  {
+    "id": 12003014,
+    "description": "Restores own HP by {0}%.<br>Boosts P.DEF and M.DEF of all allies with Bolt affinity by {1}% for 3 attacks (MAX 2 stacks) and reduces damage received by {2}% for 2 attacks (MAX 2 stacks).",
+    "name": "Sunflower Purification",
+    "summary": "Restores own HP.<br>Boosts stats of all allies with Bolt affinity.<br>Reduces damage received by all allies with Bolt affinity."
+  },
+  {
+    "id": 12003015,
+    "description": "Restores own HP by {0}%.<br>Boosts P.DEF and M.DEF of all allies with Bolt affinity by {1}% for 3 attacks (MAX 2 stacks) and reduces damage received by {2}% for 2 attacks (MAX 2 stacks).",
+    "name": "Sunflower Purification",
+    "summary": "Restores own HP.<br>Boosts stats of all allies with Bolt affinity.<br>Reduces damage received by all allies with Bolt affinity."
+  },
+  {
+    "id": 12003016,
+    "description": "Restores own HP by {0}%.<br>Boosts P.DEF and M.DEF of all allies with Bolt affinity by {1}% for 3 attacks (MAX 2 stacks) and reduces damage received by {2}% for 2 attacks (MAX 2 stacks).",
+    "name": "Sunflower Purification",
+    "summary": "Restores own HP.<br>Boosts stats of all allies with Bolt affinity.<br>Reduces damage received by all allies with Bolt affinity."
+  },
+  {
+    "id": 12003017,
+    "description": "Restores own HP by {0}%.<br>Boosts P.DEF and M.DEF of all allies with Bolt affinity by {1}% for 3 attacks (MAX 2 stacks) and reduces damage received by {2}% for 2 attacks (MAX 2 stacks).",
+    "name": "Sunflower Purification",
+    "summary": "Restores own HP.<br>Boosts stats of all allies with Bolt affinity.<br>Reduces damage received by all allies with Bolt affinity."
+  },
+  {
+    "id": 14003018,
+    "description": "Restores the item gauge by {0}%.<br>Restores target's HP by {1}%.<br>Reduces damage received by all allies with Bolt affinity by {2}% for 1 attack.",
+    "name": "Four Elements Symbiosis - Jewel",
+    "summary": "Restores the item gauge.<br>Restores target's HP.<br>Reduces damage received by all allies with Bolt affinity."
+  },
+  {
+    "id": 14003019,
+    "description": "Restores the item gauge by {0}%.<br>Restores target's HP by {1}%.<br>Reduces damage received by all allies with Bolt affinity by {2}% for 1 attack.",
+    "name": "Four Elements Symbiosis - Jewel",
+    "summary": "Restores the item gauge.<br>Restores target's HP.<br>Reduces damage received by all allies with Bolt affinity."
+  },
+  {
+    "id": 14003020,
+    "description": "Restores the item gauge by {0}%.<br>Restores target's HP by {1}%.<br>Reduces damage received by all allies with Bolt affinity by {2}% for 1 attack.",
+    "name": "Four Elements Symbiosis - Jewel",
+    "summary": "Restores the item gauge.<br>Restores target's HP.<br>Reduces damage received by all allies with Bolt affinity."
+  },
+  {
+    "id": 14003021,
+    "description": "Restores the item gauge by {0}%.<br>Restores target's HP by {1}%.<br>Reduces damage received by all allies with Bolt affinity by {2}% for 1 attack.",
+    "name": "Four Elements Symbiosis - Jewel",
+    "summary": "Restores the item gauge.<br>Restores target's HP.<br>Reduces damage received by all allies with Bolt affinity."
+  },
+  {
+    "id": 14003022,
+    "description": "Restores the item gauge by {0}%.<br>Restores target's HP by {1}%.<br>Reduces damage received by all allies with Bolt affinity by {2}% for 1 attack.",
+    "name": "Four Elements Symbiosis - Jewel",
+    "summary": "Restores the item gauge.<br>Restores target's HP.<br>Reduces damage received by all allies with Bolt affinity."
+  },
+  {
+    "id": 32003088,
+    "description": "After attacking, converts empty panels to weaken+ panels.",
+    "name": "Thunder Ground Excavation",
+    "summary": ""
+  },
+  {
+    "id": 32003089,
+    "description": "After attacking, converts skill target's next turn to a weaken panel.",
+    "name": "Thunder Tail",
+    "summary": ""
+  },
+  {
+    "id": 32003090,
+    "description": "No effect.",
+    "name": "Thunder Wheel",
+    "summary": ""
+  },
+  {
+    "id": 32003091,
+    "description": "No effect.",
+    "name": "Stomp",
+    "summary": ""
+  },
+  {
+    "id": 32003092,
+    "description": "After attacking, boosts skill target's damage received by 25% for 2 turns.",
+    "name": "Earth Flip",
+    "summary": ""
+  },
+  {
+    "id": 32003093,
+    "description": "Reduces single enemy's damage by 25% for 5 turns.",
+    "name": "Flash Tail",
+    "summary": ""
+  },
+  {
+    "id": 32003094,
+    "description": "No effects.",
+    "name": "Spell Cast",
+    "summary": ""
+  },
+  {
+    "id": 32003095,
+    "description": "After attacking, inflicts Sleep on skill targets with 100% chance for 2 turns.",
+    "name": "Flare Suffocation",
+    "summary": ""
+  },
+  {
+    "id": 32003096,
+    "description": "No effects.",
+    "name": "Shadow Fire",
+    "summary": ""
+  },
+  {
+    "id": 32003098,
+    "description": "After attacking, converts empty panels to weaken+ panels.",
+    "name": "Minefield Excavation",
+    "summary": ""
+  },
+  {
+    "id": 32003099,
+    "description": "After attacking, converts skill target's next turn to a weaken panel.",
+    "name": "Thunder Tail",
+    "summary": ""
+  },
+  {
+    "id": 32003100,
+    "description": "No effects.",
+    "name": "Thunder Wheel",
+    "summary": ""
+  },
+  {
+    "id": 32003101,
+    "description": "No effects.",
+    "name": "Trample",
+    "summary": ""
+  },
+  {
+    "id": 32003102,
+    "description": "After attacking, increases skill target's damage received by 25% for 2 turns.",
+    "name": "Heaven and Earth Reversal",
+    "summary": ""
+  },
+  {
+    "id": 32003103,
+    "description": "Reduces single enemy's damage by 25% for 5 turns.",
+    "name": "Flash Tail",
+    "summary": ""
+  },
+  {
+    "id": 32003104,
+    "description": "No effects.",
+    "name": "Rock Squall",
+    "summary": ""
+  },
+  {
+    "id": 32003105,
+    "description": "After attacking, restores own stun damage by 20%.",
+    "name": "Headbutt",
+    "summary": ""
+  },
+  {
+    "id": 32003106,
+    "description": "No effects.",
+    "name": "Stone Rain",
+    "summary": ""
+  },
+  {
+    "id": 32003107,
+    "description": "After attacking, restores own HP by 15%.",
+    "name": "Ice Peck",
+    "summary": ""
+  },
+  {
+    "id": 32003108,
+    "description": "No effects.",
+    "name": "Ice Rain",
+    "summary": ""
+  },
+  {
+    "id": 32003109,
+    "description": "Grants self damage up by 30%, damage received down by 30%, stun damage received down by 50% for 2 turns each, and status effect resistance down by 50%.",
+    "name": "Meditation",
+    "summary": ""
+  },
+  {
+    "id": 32003110,
+    "description": "After attacking, converts target's empty panels to burn panels.",
+    "name": "Full Burn Shot",
+    "summary": ""
+  },
+  {
+    "id": 32003111,
+    "description": "After attacking, inflicts Poison x3 on skill targets with 100% chance for 3 turns. If target has 3 or more poison stacks, inflicts an additional Poison x3 with 100% chance for 3 turns.",
+    "name": "Miasma Bite",
+    "summary": ""
+  },
+  {
+    "id": 32003113,
+    "description": "After attacking, increases skill target's damage received by 25% (MAX 50%).",
+    "name": "Blizzard",
+    "summary": ""
+  },
+  {
+    "id": 32003114,
+    "description": "After attacking, inflicts Poison x3 on skill targets with 100% chance for 3 turns.",
+    "name": "Poison Rock Drop",
+    "summary": ""
+  },
+  {
+    "id": 32003115,
+    "description": "Reduces skill target's stun damage dealt by 30% for 2 turns, and additionally reduces stun damage dealt by 20% for area attacks for 2 turns.",
+    "name": "Weakening Howl",
+    "summary": ""
+  },
+  {
+    "id": 32003116,
+    "description": "",
+    "name": "Wind Crossing",
+    "summary": ""
+  },
+  {
+    "id": 32003117,
+    "description": "After attacking, boosts own damage dealt by 20% for 2 turns.",
+    "name": "Bite Down",
+    "summary": ""
+  },
+  {
+    "id": 32003118,
+    "description": "After attacking, reduces skill target's stun damage dealt by 20% for 2 turns.",
+    "name": "Dark Rock Anger",
+    "summary": ""
+  },
+  {
+    "id": 32003119,
+    "description": "After attacking, reduces skill target's stun damage dealt by 30% for 2 turns and HP recovery received by 30% for 2 turns.",
+    "name": "Blood Fang",
+    "summary": ""
   }
 ]

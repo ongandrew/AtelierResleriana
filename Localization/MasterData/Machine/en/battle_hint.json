@@ -1750,5 +1750,21 @@
   {
     "id": 60214005,
     "description": "- When KO'd, converts weaken panels to Darkness panels\n- Inflicts Darkness\n- Heals all allies\n- Reduces positive effect potency for all opponents\n- Creates weaken panels\n- Receives increased damage from single-target Burst Skills\n- Receives reduced damage from non-Burst Skills\n- Nullifies resistance reduction for all elements except Bolt and Slash"
+  },
+  {
+    "id": 60007031,
+    "description": "- Poisonous attack\n- When taking a turn, if own stun gauge is below a certain level, restores own stun gauge"
+  },
+  {
+    "id": 60025010,
+    "description": "- Inflicts Sleep\n- When hit by a burst skill, boosts own damage received (MAX 150%)\n- Nullifies resistance reduction for all affinities except Bolt and Slash"
+  },
+  {
+    "id": 60102014,
+    "description": "- Heals self\n- Restores own stun gauge\n- When hit by a burst skill, boosts own damage received (MAX 150%)\n- Nullifies resistance reduction for all affinities except Bolt and Slash"
+  },
+  {
+    "id": 60160009,
+    "description": "- Converts opponent panels into weaken panels\n- Creates weaken+ panels\n- When hit by a burst skill, boosts own damage received (MAX 150%)\n- Nullifies resistance reduction for all affinities except Bolt and Slash"
   }
 ]

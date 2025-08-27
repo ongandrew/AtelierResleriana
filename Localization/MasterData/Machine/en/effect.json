@@ -8233,5 +8233,220 @@
     "id": 120000776,
     "description": "When Demon Gate [Enduring Loyalty's Patience] is in the party, reduces damage received.",
     "popup_text": ""
+  },
+  {
+    "id": 6001124,
+    "description": "While equipped to Towa [Smooth Talker], after a party member uses a battle item, reduces all allies' damage received for 1 attack (fixed effect amount).",
+    "popup_text": ""
+  },
+  {
+    "id": 72001383,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001384,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001385,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001386,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001387,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001390,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001391,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001392,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72500171,
+    "description": "[Self/Battle item damage increases with more Keiun characters]",
+    "popup_text": ""
+  },
+  {
+    "id": 72500172,
+    "description": "[Self/M.DEF increases with more Keiun characters]",
+    "popup_text": ""
+  },
+  {
+    "id": 72500173,
+    "description": "[Self/M.DEF increases with more Keiun characters]",
+    "popup_text": ""
+  },
+  {
+    "id": 76160001,
+    "description": "When hit during Burst Skill, damage received UP (max 150%)",
+    "popup_text": ""
+  },
+  {
+    "id": 76160003,
+    "description": "Death effect",
+    "popup_text": ""
+  },
+  {
+    "id": 80000756,
+    "description": "Boosts skill power when Resna [Innocent Dreamer] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 80000757,
+    "description": "Boosts skill power when Ryza [One Summer Story] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 80000758,
+    "description": "Boosts skill power when Marie [Lovely Bomber] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 80000759,
+    "description": "Boosts skill power when Ryza [Blooming Energy] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 80000760,
+    "description": "Boosts skill power when Sophie [Mighty Boss] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 80000761,
+    "description": "Boosts skill power when [Damsel in Distress] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 80000762,
+    "description": "Boosts skill power when Valeria [Radiant Summer] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 80000763,
+    "description": "Boosts skill power when Shallistera [School Maiden] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 80000764,
+    "description": "Boosts skill power when Shallotte [Girl's Ambition] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 80000765,
+    "description": "Reduces damage received when Resna [Innocent Dreamer] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 80000766,
+    "description": "Reduces damage received when Ryza [One Summer Story] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 80000767,
+    "description": "Reduces damage received when Marie [Lovely Bomber] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 80000768,
+    "description": "Reduces damage received when Ryza [Blooming Energy] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 80000769,
+    "description": "Reduces damage received when Sophie [Mighty Boss] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 80000770,
+    "description": "Reduces damage received when [Damsel in Distress] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 80000771,
+    "description": "Reduces damage received when Valeria [Radiant Summer] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 80000772,
+    "description": "Reduces damage received when Shallistera [School Maiden] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 80000773,
+    "description": "Reduces damage received when Shallotte [Girl's Ambition] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 86007002,
+    "description": "Death effect.",
+    "popup_text": ""
+  },
+  {
+    "id": 91001833,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001834,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001835,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001836,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000264,
+    "description": "While equipped to a Defender with Bolt affinity, boosts the potency of positive effects received from battle items for all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000265,
+    "description": "While equipped to a character with the Energetic tag, boosts the potency of positive effects granted to others.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000266,
+    "description": "While equipped to a Supporter, boosts skill power for all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000267,
+    "description": "While equipped to a character with magical affinity, boosts all allies' critical damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000784,
+    "description": "While Towa has Smooth Talker active, reduces damage received.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000785,
+    "description": "While in Keiun, boosts skill power.",
+    "popup_text": ""
   }
 ]

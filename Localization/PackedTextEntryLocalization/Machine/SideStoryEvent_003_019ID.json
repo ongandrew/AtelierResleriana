@@ -1,0 +1,427 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "港に怪しい船はないか！\n怪しい船があったら取り押さえるのだ",
+        "localizations": {
+          "en": "Search the harbor for any suspicious ships! If you find any, seize them immediately!"
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "お尋ね者となった鬼門と永遠は、\n国外へ逃げようとするであろうからな",
+        "localizations": {
+          "en": "The fugitives Kimon and Towa will surely try to flee the country."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "鏑矢様。兵を使って浜辺を隅から隅まで探しましたが、\n怪しい船はございませんでした",
+        "localizations": {
+          "en": "Lady Kaburaya. I've had soldiers search every inch of the shoreline, but we found no suspicious vessels."
+        }
+      },
+      "2072370017": {
+        "text": "コウセン",
+        "localizations": {
+          "en": "Kosen"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "港に泊まっている船は、ケイウンが\n取引を許可している国の貿易船のみでございます",
+        "localizations": {
+          "en": "The only ships docked at the harbor are trading vessels from nations Keiun has authorized for commerce."
+        }
+      },
+      "2072370017": {
+        "text": "コウセン",
+        "localizations": {
+          "en": "Kosen"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "兵に港を見張らせており、\n昨夜以降、港から出航した船はまだございません",
+        "localizations": {
+          "en": "I have soldiers watching the harbor, and no ships have departed since last night."
+        }
+      },
+      "2072370017": {
+        "text": "コウセン",
+        "localizations": {
+          "en": "Kosen"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "そのため、奴らはまだケイウン国内にいるかと……",
+        "localizations": {
+          "en": "Therefore, those two must still be somewhere within Keiun..."
+        }
+      },
+      "2072370017": {
+        "text": "コウセン",
+        "localizations": {
+          "en": "Kosen"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "それらの船に乗って密航を企てている可能性もある。\nすべての船に出国停止を命じ、船内を調べよ！",
+        "localizations": {
+          "en": "They could be planning to stow away on one of those ships. Order all vessels to halt departure and search them thoroughly!"
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "承知いたしました",
+        "localizations": {
+          "en": "Understood."
+        }
+      },
+      "2072370017": {
+        "text": "コウセン",
+        "localizations": {
+          "en": "Kosen"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "鬼門、永遠……なぜ逃げる……\nどこにいるのだ……",
+        "localizations": {
+          "en": "Kimon, Towa... Why are you running... Where are you..."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "鏑矢様！\u3000コウセン様！\n大変でございます！",
+        "localizations": {
+          "en": "Lady Kaburaya! Lord Kosen! This is terrible!"
+        }
+      },
+      "2072370017": {
+        "text": "ケイウン兵",
+        "localizations": {
+          "en": "Keiun Soldier"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "いったいどうした！",
+        "localizations": {
+          "en": "What's happened?!"
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "船が、船が幻のように消えました！",
+        "localizations": {
+          "en": "A ship—a ship just vanished like a phantom!"
+        }
+      },
+      "2072370017": {
+        "text": "ケイウン兵",
+        "localizations": {
+          "en": "Keiun Soldier"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "どうやら、我々が停泊していると思っていた船のうち\n１隻は、なんらかの術による幻影の船だったようです",
+        "localizations": {
+          "en": "It appears that one of the ships we believed to be docked was actually an illusion created by some sort of technique."
+        }
+      },
+      "2072370017": {
+        "text": "コウセン",
+        "localizations": {
+          "en": "Kosen"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "本物の船は数刻前、姿を隠し誰にも認識されずに\n目的地に向けてすでに出航したようです",
+        "localizations": {
+          "en": "The real ship departed several hours ago, hidden from sight and undetected by anyone as it sailed toward its destination."
+        }
+      },
+      "2072370017": {
+        "text": "コウセン",
+        "localizations": {
+          "en": "Kosen"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "……余はこの術を知っている……永遠の陰陽術だ",
+        "localizations": {
+          "en": "...I know this technique... It's Towa's onmyoji magic."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "やられた。\nあいつ、いつの間にこんな大がかりな術を……",
+        "localizations": {
+          "en": "They got us. When did he learn such an elaborate spell..."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "鏑矢様、いかがなさいますか？",
+        "localizations": {
+          "en": "Lady Kaburaya, what are your orders?"
+        }
+      },
+      "2072370017": {
+        "text": "コウセン",
+        "localizations": {
+          "en": "Kosen"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "今から船を出して追いかけたところで間に合わぬ",
+        "localizations": {
+          "en": "Even if we set sail now, we'll never catch up to them."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "奴らがケイウンに戻ってきたときに捕らえられるよう、\nしっかり人相書きを回しておけ",
+        "localizations": {
+          "en": "Make sure their wanted posters are distributed widely so we can capture them when they return to Keiun."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "承知いたしました",
+        "localizations": {
+          "en": "Understood."
+        }
+      },
+      "2072370017": {
+        "text": "コウセン",
+        "localizations": {
+          "en": "Kosen"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "鬼門……永遠……余と共に、\nより良いケイウンを目指そうと誓ったではないか",
+        "localizations": {
+          "en": "Kimon... Towa... You swore to work alongside me toward a better Keiun."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "なぜ、余を裏切ったのだ……なぜ……",
+        "localizations": {
+          "en": "Why did you betray me... Why..."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "鏑矢様",
+        "localizations": {
+          "en": "Lady Kaburaya."
+        }
+      },
+      "2072370017": {
+        "text": "千歳",
+        "localizations": {
+          "en": "Chitose"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "千歳……ああ……\nお前だけだ……私を裏切らないのは……",
+        "localizations": {
+          "en": "Chitose... Yes... You're the only one... the only one who won't betray me..."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "はい。私は、いつまでも、何があっても。\n鏑矢様と共におります",
+        "localizations": {
+          "en": "Yes. I will always, no matter what happens, remain by your side."
+        }
+      },
+      "2072370017": {
+        "text": "千歳",
+        "localizations": {
+          "en": "Chitose"
+        }
+      }
+    }
+  }
+]

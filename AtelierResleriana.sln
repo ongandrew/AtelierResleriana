@@ -76,6 +76,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtelierResleriana.Executabl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtelierResleriana.Executables.Pipeline.All.Finalize", "AtelierResleriana.Executables.Pipeline.All.Finalize\AtelierResleriana.Executables.Pipeline.All.Finalize.csproj", "{B58A9EF7-C4C8-41A5-8DFC-5FB752696CEB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtelierResleriana.Executables.ImageExtractor", "AtelierResleriana.Executables.ImageExtractor\AtelierResleriana.Executables.ImageExtractor.csproj", "{417AA74B-E84A-421C-883E-322E1EC90C6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -218,6 +220,10 @@ Global
 		{B58A9EF7-C4C8-41A5-8DFC-5FB752696CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B58A9EF7-C4C8-41A5-8DFC-5FB752696CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B58A9EF7-C4C8-41A5-8DFC-5FB752696CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{417AA74B-E84A-421C-883E-322E1EC90C6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{417AA74B-E84A-421C-883E-322E1EC90C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{417AA74B-E84A-421C-883E-322E1EC90C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{417AA74B-E84A-421C-883E-322E1EC90C6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

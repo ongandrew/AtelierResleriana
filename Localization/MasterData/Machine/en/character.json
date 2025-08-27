@@ -703,5 +703,20 @@
     "overlay_name": "Kimon",
     "profile_voice_text": "My name is Kimon. I am a ninja serving the Domen family. Please treat me well.",
     "start_at": "2025-08-15T03:00:00Z"
+  },
+  {
+    "id": 45701,
+    "acquisition_text": "A diviner is one who exorcises evil...\nI'll exorcise your melancholy feelings as well.",
+    "another_name": "Eloquent Shikigami User",
+    "description": "A well-known diviner within Keiun.\nHe is childhood friends with Kaburaya, the head of the Domen family that governs southern Keiun, and Kimon, a ninja who serves her.\nHe takes great care of his appearance, sparing no effort in skincare and clothing selection. Though his flashy and arrogant behavior stands out, he claims to be a man who gets things done when it matters.",
+    "fullname": "Towa Shigan",
+    "leader_skill": {
+      "description": "Boosts all allies' battle item damage by 10% and P.DEF & M.DEF by 10% for each Keiun character in the party.",
+      "name": "Beautiful Diviner of the Far East"
+    },
+    "name": "Towa",
+    "overlay_name": "Towa Shigan",
+    "profile_voice_text": "Childhood friend of Lady Kaburaya, head of the Domen family, and beautiful diviner, Towa Shigan. Pleased to make your acquaintance.",
+    "start_at": "2025-08-22T03:00:00Z"
   }
 ]

@@ -2,6 +2,7 @@
 {
     public abstract class UnityObject
     {
+        [SerializedFileObjectPropertyName("m_Name")]
         public string Name { get; set; }
 
         protected abstract void Deserialize(SerializedObject serializedObject);

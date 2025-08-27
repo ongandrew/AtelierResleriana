@@ -6383,5 +6383,110 @@
     "id": 600000705,
     "description": "When Kimon [Enduring Loyal Patience] or Johanna [Brilliant Diver] is in the party, reduces damage received by 25% (max 25%).",
     "name": "Damage Reduction when Kimon [Enduring Loyal Patience] or Johanna [Brilliant Diver] is in Party"
+  },
+  {
+    "id": 301252,
+    "description": "While equipped to Towa [Eloquent Shikigami User], after any party member uses a battle item, grants all allies Damage Received -{0}% (Fixed) for 1 attack.<br>※Even if multiple items are used simultaneously, this effect only triggers once",
+    "name": "Origami Protective Charm"
+  },
+  {
+    "id": 1980205,
+    "description": "For each Keiun character, boosts battle item damage by {0}% and P.DEF and M.DEF by {1}%.",
+    "name": "The Beautiful Far Eastern Onmyoji"
+  },
+  {
+    "id": 1990381,
+    "description": "Makes self much more likely to be targeted by enemies.<br>When hit by an attack, restores the item gauge by {0}%.<br>Boosts max HP by {1}% and P.DEF and M.DEF by {2}% for all allies with Bolt affinity.<br>At the start of battle, restores all allies' HP by {3}% and grants Dodge (100% chance, Fixed) to all allies with Bolt affinity for 1 attack.",
+    "name": "Onmyoji's Barrier Arts"
+  },
+  {
+    "id": 1990382,
+    "description": "After any party member uses a battle item, grants self Damage Received -{0}% (Fixed) for 1 attack (max 2 activations) and grants P.DEF and M.DEF +{1}% to all allies with Bolt affinity (max 60%).<br>※Even if multiple items are used simultaneously, this effect only triggers once",
+    "name": "Let's Borrow the Power of Alchemy!"
+  },
+  {
+    "id": 4991078,
+    "description": "While equipped to a Defender with Bolt affinity, boosts potency of buff effects received from battle items by {0}% for all allies.<br>While equipped to an Energetic character, boosts potency of buff effects given by {1}%.",
+    "name": "Idea \"Shall We Join the Youkai Extermination?\""
+  },
+  {
+    "id": 4991079,
+    "description": "While equipped to a Defender with Bolt affinity, boosts potency of buff effects received from battle items by {0}% for all allies.<br>While equipped to an Energetic character, boosts potency of buff effects given by {1}%.",
+    "name": "Idea \"Shall We Join the Youkai Extermination?\""
+  },
+  {
+    "id": 4991080,
+    "description": "While equipped to a Defender with Bolt affinity, boosts potency of buff effects received from battle items by {0}% for all allies.<br>While equipped to an Energetic character, boosts potency of buff effects given by {1}%.",
+    "name": "Idea \"Shall We Join the Youkai Extermination?\""
+  },
+  {
+    "id": 4991081,
+    "description": "While equipped to a Defender with Bolt affinity, boosts potency of buff effects received from battle items by {0}% for all allies.<br>While equipped to an Energetic character, boosts potency of buff effects given by {1}%.",
+    "name": "Idea \"Shall We Join the Youkai Extermination?\""
+  },
+  {
+    "id": 4991082,
+    "description": "While equipped to a Defender with Bolt affinity, boosts potency of buff effects received from battle items by {0}% for all allies.<br>While equipped to an Energetic character, boosts potency of buff effects given by {1}%.",
+    "name": "Idea \"Shall We Join the Youkai Extermination?\""
+  },
+  {
+    "id": 4991083,
+    "description": "While equipped to a Supporter, boosts all allies' skill power by {0}%.<br>While equipped to a character with magical affinity, boosts all allies' critical damage by {1}%.",
+    "name": "Idea \"What the Witch's Eyes Perceive Is\""
+  },
+  {
+    "id": 4991084,
+    "description": "While equipped to a Supporter, boosts all allies' skill power by {0}%.<br>While equipped to a character with magical affinity, boosts all allies' critical damage by {1}%.",
+    "name": "Idea \"What the Witch's Eyes Perceive Is\""
+  },
+  {
+    "id": 4991085,
+    "description": "While equipped to a Supporter, boosts all allies' skill power by {0}%.<br>While equipped to a character with magical affinity, boosts all allies' critical damage by {1}%.",
+    "name": "Idea \"What the Witch's Eyes Perceive Is\""
+  },
+  {
+    "id": 4991086,
+    "description": "While equipped to a Supporter, boosts all allies' skill power by {0}%.<br>While equipped to a character with magical affinity, boosts all allies' critical damage by {1}%.",
+    "name": "Idea \"What the Witch's Eyes Perceive Is\""
+  },
+  {
+    "id": 4991087,
+    "description": "While equipped to a Supporter, boosts all allies' skill power by {0}%.<br>While equipped to a character with magical affinity, boosts all allies' critical damage by {1}%.",
+    "name": "Idea \"What the Witch's Eyes Perceive Is\""
+  },
+  {
+    "id": 26007003,
+    "description": "Death scene",
+    "name": ""
+  },
+  {
+    "id": 26160001,
+    "description": "When hit by a burst skill, grants self Damage Received Up (30%/max 150%)",
+    "name": ""
+  },
+  {
+    "id": 26160002,
+    "description": "Death scene",
+    "name": ""
+  },
+  {
+    "id": 600000701,
+    "description": "★6 For each Awakening-capable character, boosts skill power by 50%.",
+    "name": "★6 Awakening-Capable Character Formation Skill Power UP Per Character"
+  },
+  {
+    "id": 600000702,
+    "description": "★6 For each Awakening-capable character, reduces damage received by 10%.",
+    "name": "★6 Awakening-Capable Character Formation Damage Received DOWN Per Character"
+  },
+  {
+    "id": 600000715,
+    "description": "Reduces damage received by 20% for Towa [Eloquent Shikigami User].",
+    "name": "Towa [Eloquent Shikigami User] Damage Received DOWN"
+  },
+  {
+    "id": 600000716,
+    "description": "Boosts skill power by 100% for Keiun characters.",
+    "name": "Keiun Skill Power Up"
   }
 ]

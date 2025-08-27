@@ -1088,5 +1088,10 @@
     "id": 1168,
     "description": "While equipped to Oni Gate [Enduring Loyalty], after any party member uses a battle item, boosts own skill damage by {0}% for 1 turn.<br>※Effect only activates once per turn, even if multiple items are used simultaneously.",
     "name": "Shadow Cutter"
+  },
+  {
+    "id": 1169,
+    "description": "While equipped to Towa [Eloquent Shikigami User], after any party member uses a battle item, grants all allies damage received -{0}% (fixed) for 1 attack.<br>※Only triggers once even if multiple items are used simultaneously.",
+    "name": "Origami Amulet"
   }
 ]

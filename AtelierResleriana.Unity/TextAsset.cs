@@ -4,7 +4,9 @@ namespace AtelierResleriana.Unity
 {
     public class TextAsset : UnityObject
     {
+        [SerializedFileObjectPropertyName("m_Text")]
         public string Text { get; private set; }
+        [SerializedFileObjectPropertyName("m_Script")]
         public byte[] Script { get; private set; }
 
         protected override void Deserialize(SerializedObject serializedObject)

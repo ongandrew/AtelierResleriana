@@ -228,5 +228,20 @@
     "id": 7002,
     "description": "Rewards can be obtained when you clear a mission for the first time, or when your total cleared missions reach a specified number.\nRewards can be checked in the Battle Results screen.",
     "name": "About Rewards"
+  },
+  {
+    "id": 1006,
+    "description": "NeoBoards are unlocked when Character Development research reaches level 40 or higher,\nallowing you to further strengthen characters that meet the following conditions.",
+    "name": "About NeoBoards"
+  },
+  {
+    "id": 1007,
+    "description": "• Level 90 or higher\n• Growboard fully unlocked\n• EX Board fully unlocked",
+    "name": "Characters Eligible for NeoBoard"
+  },
+  {
+    "id": 1008,
+    "description": "Unlocking a NeoBoard requires \"Grand Orbs\".\nAfter unlocking, the Growboard and EX Board are integrated into the NeoBoard,\nand character development reset becomes unavailable.",
+    "name": "Unlocking NeoBoards"
   }
 ]

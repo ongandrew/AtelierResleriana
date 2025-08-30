@@ -1766,5 +1766,85 @@
   {
     "id": 60160009,
     "description": "- Converts opponent panels into weaken panels\n- Creates weaken+ panels\n- When hit by a burst skill, boosts own damage received (MAX 150%)\n- Nullifies resistance reduction for all affinities except Bolt and Slash"
+  },
+  {
+    "id": 10251012,
+    "description": "- Reduces positive effect potency received and HP recovery received by all opponents\n- Boosts own SPD after recovering from stun\n- Creates random boost panels or burst panels after taking a certain number of attacks"
+  },
+  {
+    "id": 10252005,
+    "description": "- Counters\n- Inflicts Paralysis"
+  },
+  {
+    "id": 10253004,
+    "description": "- Heals all allies"
+  },
+  {
+    "id": 10254018,
+    "description": "- Boosts own critical rate received by up to 50% after taking a certain number of attacks\n- Converts all opponents' boost panels to weaken panels and weaken panels to boost panels\n- Converts own panels to critical panels\n- Creates burst panels on own turn when HP reaches a certain level"
+  },
+  {
+    "id": 30031024,
+    "description": "- Reduces own damage received each turn\n- When stunned, removes own positive effects and boosts damage received"
+  },
+  {
+    "id": 30031025,
+    "description": "No tips available."
+  },
+  {
+    "id": 30062004,
+    "description": "- Inflicts Burn\n- Recovers own HP and stun gauge each turn\n- Inflicts Paralysis on self when stunned\n- Boosts damage received and stun damage received when hit by attacks\n- Delays turn\n- Heals allies"
+  },
+  {
+    "id": 30062006,
+    "description": "- Recovers own HP and stun gauge each turn\n- Inflicts Paralysis on self when stunned\n- Boosts damage received and stun damage received when hit by attacks\n- Delays turn\n- Heals allies"
+  },
+  {
+    "id": 30068008,
+    "description": "- Boosts damage dealt to opponents with negative effects"
+  },
+  {
+    "id": 30071012,
+    "description": "- Receives increased damage while stunned\n- Recovers HP each turn\n- Heals allies\n- Heals all allies"
+  },
+  {
+    "id": 30074001,
+    "description": "- Restores allies' stun gauge\n- Removes own positive effects when stunned\n- Receives increased damage while stunned"
+  },
+  {
+    "id": 30077001,
+    "description": "- Removes positive effects when stunned\n- Reduces own SPD when stunned"
+  },
+  {
+    "id": 30080018,
+    "description": "- Boosts damage dealt to enemies with status effects\n- Boosts damage dealt to opponents with negative effects\n- Inflicts Poison"
+  },
+  {
+    "id": 30112004,
+    "description": "- Heals allies"
+  },
+  {
+    "id": 60025022,
+    "description": "- Inflicts Sleep\n- Boosts own damage received by up to 150% when hit by a burst skill\n- Nullifies resistance down effects for all elements except Bolt"
+  },
+  {
+    "id": 60053002,
+    "description": "- Counters\n- Delays turn\n- Protection\n- Restores stun gauge each turn"
+  },
+  {
+    "id": 60102008,
+    "description": "- Heals self\n- Restores own stun gauge\n- Reduces own status effect resistance\n- Boosts own damage received by up to 150% when hit by a burst skill\n- After turn 50 or later, boosts own damage dealt by up to 300% and SPD by up to 100%\n- Nullifies resistance down effects for all elements except Bolt"
+  },
+  {
+    "id": 60160007,
+    "description": "- Converts opponents' panels to weaken panels\n- Creates weaken+ panels\n- Boosts own damage received by up to 150% when hit by a burst skill\n- After turn 50 or later, boosts own damage dealt by up to 300% and SPD by up to 100%\n- Nullifies resistance down effects for all elements except Bolt"
+  },
+  {
+    "id": 60160055,
+    "description": "- Converts opponents' panels to weaken panels\n- Creates weaken+ panels\n- Boosts own damage received by up to 150% when hit by a burst skill\n- Nullifies resistance down effects for all elements except Bolt"
+  },
+  {
+    "id": 60258004,
+    "description": "- Calls allies\n- Follow-up attacks on opponents with Bolt resistance down after attacking\n- When HP reaches a certain level, removes own negative effects and boosts damage dealt and reduces damage received\n- Delays turn\n- Nullifies effects that delay own turn"
   }
 ]

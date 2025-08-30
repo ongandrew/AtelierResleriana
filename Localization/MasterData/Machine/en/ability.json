@@ -6488,5 +6488,615 @@
     "id": 600000716,
     "description": "Boosts skill power by 100% for Keiun characters.",
     "name": "Keiun Skill Power Up"
+  },
+  {
+    "id": 301253,
+    "description": "While equipped to Kaburaya [Brightest Star in the Sky], after a party member uses a battle item, increases magical attack damage received by all enemies by {0}% for 2 attacks (up to 2 stacks).<br>※This effect only triggers once even if multiple items are used simultaneously",
+    "name": "Stellar Radiance Blade"
+  },
+  {
+    "id": 301254,
+    "description": "While equipped to a character with Bolt affinity, boosts skill damage by {0}%.<br>While equipped to an Attacker, before attacking, reduces target's Bolt resistance by {1}% for 1 attack",
+    "name": "Naivety Night"
+  },
+  {
+    "id": 301255,
+    "description": "While equipped to a character with Fire affinity, reduces area attack damage received by all allies by {0}% (fixed).<br>While equipped to a Defender, when receiving an attack, boosts own max HP by {1}% (up to 10%)",
+    "name": "Trouble Tempest"
+  },
+  {
+    "id": 301256,
+    "description": "While equipped to a character with Air affinity, after a party member uses a battle item, boosts the potency of buff effects given by {0}% for 1 turn.<br>※This effect only triggers once even if multiple items are used simultaneously<br>While equipped to a Supporter, boosts all allies' M.ATK by {1}%",
+    "name": "Sweet & Fresh"
+  },
+  {
+    "id": 301257,
+    "description": "Boosts own critical damage by {0}%.",
+    "name": "Raging Demon God's Armor"
+  },
+  {
+    "id": 301258,
+    "description": "Boosts own critical damage by {0}%.",
+    "name": "Raging Demon God's Armor"
+  },
+  {
+    "id": 301259,
+    "description": "After attacking, increases target's damage received by {0}% for 1 attack (up to 2 stacks).",
+    "name": "Spirit's Buckler"
+  },
+  {
+    "id": 301260,
+    "description": "After attacking, increases target's damage received by {0}% for 1 attack (up to 2 stacks).",
+    "name": "Spirit's Buckler"
+  },
+  {
+    "id": 1980207,
+    "description": "All allies gain P.ATK & M.ATK +{0}% and skill damage & stun damage +{2}% for each Keiun party member present.",
+    "name": "Master of Arms"
+  },
+  {
+    "id": 1990385,
+    "description": "After a critical attack, converts all panels except boost-type panels and burst panels to boost panels (creates if empty).",
+    "name": "Let's Go with a Big Hammer Hit!"
+  },
+  {
+    "id": 1990386,
+    "description": "At the start of battle, grants P.DEF & M.DEF +10-40% and damage received -5-20% based on the number of enemies (higher boost for more enemies, range: 1-4 enemies).<br>When receiving an attack, grants all allies with Fire affinity P.DEF & M.DEF +{0}% (up to 40%) and damage received -{1}% (up to 10%)",
+    "name": "Adversity Is Nothing!"
+  },
+  {
+    "id": 1990387,
+    "description": "After a party member uses a battle item, grants all allies with Air affinity skill damage +{0}% (up to 100%) and critical damage +{1}% (up to 100%).",
+    "name": "A Nice Tailwind Is Coming!"
+  },
+  {
+    "id": 1990388,
+    "description": "At the start of the first turn, converts own panel to a burst panel (creates if empty).<br>After using a skill, launches an additional attack against the enemy with the highest remaining stun gauge: {hyperlink_id 150}",
+    "name": "Moonlit Romance"
+  },
+  {
+    "id": 1990389,
+    "description": "At the start of each wave, boosts own critical rate by {0}% for 1 turn.<br>After a party member uses a battle item, boosts own critical rate by {1}% for 2 turns (triggers up to 3 times).<br>※This effect only triggers once even if multiple items are used simultaneously",
+    "name": "I'll Show You the Power of Alchemy!"
+  },
+  {
+    "id": 1990392,
+    "description": "Boosts all allies' skill damage by {0}%.",
+    "name": "Damage Up (All) III"
+  },
+  {
+    "id": 1990393,
+    "description": "Boosts all allies' critical damage by {0}%.",
+    "name": "Critical Damage Up (All) III"
+  },
+  {
+    "id": 1990394,
+    "description": "Boosts all allies' P.ATK by {0}%.",
+    "name": "P.ATK Up (All) III"
+  },
+  {
+    "id": 1990395,
+    "description": "Boosts all allies' M.ATK by {0}%.",
+    "name": "M.ATK Up (All) III"
+  },
+  {
+    "id": 1990396,
+    "description": "Boosts healing power by {0}%.",
+    "name": "Heal Up III"
+  },
+  {
+    "id": 1990397,
+    "description": "Boosts all allies' potency of buff effects received from boost-type panels by {0}%.",
+    "name": "Boost Panel Up (All) III"
+  },
+  {
+    "id": 1990398,
+    "description": "Reduces damage received by {0}%.",
+    "name": "Guard Up III"
+  },
+  {
+    "id": 1990399,
+    "description": "After attacking, reduces target's damage dealt by {0}% (fixed) for 1 turn.",
+    "name": "Attack Damage Down III"
+  },
+  {
+    "id": 1990400,
+    "description": "After taking action, restores own HP by {0}%.",
+    "name": "Action Heal III"
+  },
+  {
+    "id": 1990401,
+    "description": "After taking action, grants self Max HP +{0}% (fixed) for 2 turns.",
+    "name": "Action HP Up III"
+  },
+  {
+    "id": 1990402,
+    "description": "Boosts stun damage by {0}%.",
+    "name": "Break Up III"
+  },
+  {
+    "id": 1990403,
+    "description": "Boosts potency of Fire Resistance Down effects by {0}%.",
+    "name": "Resist Fire Minus Up III"
+  },
+  {
+    "id": 1990404,
+    "description": "Boosts potency of Ice Resistance Down effects by {0}%.",
+    "name": "Resist Ice Minus Up III"
+  },
+  {
+    "id": 1990405,
+    "description": "Boosts potency of Bolt Resistance Down effects by {0}%.",
+    "name": "Resist Bolt Minus Up III"
+  },
+  {
+    "id": 1990406,
+    "description": "Boosts potency of Air Resistance Down effects by {0}%.",
+    "name": "Resist Air Minus Up III"
+  },
+  {
+    "id": 1990407,
+    "description": "Boosts potency of Slash Resistance Down effects by {0}%.",
+    "name": "Resist Slash Minus Up III"
+  },
+  {
+    "id": 1990408,
+    "description": "Boosts potency of Strike Resistance Down effects by {0}%.",
+    "name": "Resist Strike Minus Up III"
+  },
+  {
+    "id": 1990409,
+    "description": "Boosts potency of Stab Resistance Down effects by {0}%.",
+    "name": "Resist Stab Minus Up III"
+  },
+  {
+    "id": 1990410,
+    "description": "After attacking, increases target's damage received by {0}% (fixed) for 1 attack.",
+    "name": "Attack Damage Received Up III"
+  },
+  {
+    "id": 1990411,
+    "description": "After attacking, increases target's critical damage received by {0}% (fixed) for 1 attack.",
+    "name": "Attack Critical Damage Received Up III"
+  },
+  {
+    "id": 1990412,
+    "description": "Boosts skill power by {0}%.",
+    "name": "Skill Power Up III"
+  },
+  {
+    "id": 1990413,
+    "description": "Boosts skill damage by {0}%.",
+    "name": "Damage Up III"
+  },
+  {
+    "id": 1990414,
+    "description": "Boosts critical damage by {0}%.",
+    "name": "Critical Damage Up III"
+  },
+  {
+    "id": 1990415,
+    "description": "Boosts P.ATK by {0}%.",
+    "name": "P.ATK Up III"
+  },
+  {
+    "id": 1990416,
+    "description": "Boosts M.ATK by {0}%.",
+    "name": "M.ATK Up III"
+  },
+  {
+    "id": 1990417,
+    "description": "Boosts skill damage by {0}% for all allies.",
+    "name": "Damage Up All II"
+  },
+  {
+    "id": 1990418,
+    "description": "Boosts critical damage for all allies by {0}%.",
+    "name": "Critical Damage Up All II"
+  },
+  {
+    "id": 1990419,
+    "description": "Boosts P.ATK for all allies by {0}%.",
+    "name": "P.ATK Up All II"
+  },
+  {
+    "id": 1990420,
+    "description": "Boosts M.ATK for all allies by {0}%.",
+    "name": "M.ATK Up All II"
+  },
+  {
+    "id": 1990421,
+    "description": "Boosts recovery power by {0}%.",
+    "name": "Heal Up II"
+  },
+  {
+    "id": 1990422,
+    "description": "Boosts potency of buff effects received from boost-type panels by {0}% for all allies.",
+    "name": "Boost Panel Up All II"
+  },
+  {
+    "id": 1990423,
+    "description": "Reduces damage received by {0}%.",
+    "name": "Guard Up II"
+  },
+  {
+    "id": 1990424,
+    "description": "After attacking, reduces target's damage dealt by {0}% (fixed) for 1 turn.",
+    "name": "Attack Damage Down II"
+  },
+  {
+    "id": 1990425,
+    "description": "After turn, recovers {0}% HP for self.",
+    "name": "Action Heal II"
+  },
+  {
+    "id": 1990426,
+    "description": "After turn, boosts own Max HP by {0}% (fixed) for 2 turns.",
+    "name": "Action HP Up II"
+  },
+  {
+    "id": 1990427,
+    "description": "Boosts stun damage by {0}%.",
+    "name": "Break Up II"
+  },
+  {
+    "id": 1990428,
+    "description": "Boosts potency of Fire resistance down effects given by {0}%.",
+    "name": "Resist Fire Minus Up II"
+  },
+  {
+    "id": 1990429,
+    "description": "Boosts potency of Ice resistance down effects given by {0}%.",
+    "name": "Resist Ice Minus Up II"
+  },
+  {
+    "id": 1990430,
+    "description": "Boosts potency of Bolt resistance down effects given by {0}%.",
+    "name": "Resist Bolt Minus Up II"
+  },
+  {
+    "id": 1990431,
+    "description": "Boosts potency of Air resistance down effects given by {0}%.",
+    "name": "Resist Air Minus Up II"
+  },
+  {
+    "id": 1990432,
+    "description": "Boosts potency of Slash resistance down effects given by {0}%.",
+    "name": "Resist Slash Minus Up II"
+  },
+  {
+    "id": 1990433,
+    "description": "Boosts potency of Strike resistance down effects given by {0}%.",
+    "name": "Resist Strike Minus Up II"
+  },
+  {
+    "id": 1990434,
+    "description": "Boosts potency of Stab resistance down effects given by {0}%.",
+    "name": "Resist Stab Minus Up II"
+  },
+  {
+    "id": 1990435,
+    "description": "After attacking, boosts target's damage received by {0}% (fixed) for 1 attack.",
+    "name": "Attack Damage Received Up II"
+  },
+  {
+    "id": 1990436,
+    "description": "After attacking, boosts target's critical damage received by {0}% (fixed) for 1 attack.",
+    "name": "Attack Critical Damage Received Up II"
+  },
+  {
+    "id": 1990437,
+    "description": "Boosts skill power by {0}%.",
+    "name": "Skill Power Up II"
+  },
+  {
+    "id": 1990438,
+    "description": "Boosts skill damage by {0}%.",
+    "name": "Damage Up II"
+  },
+  {
+    "id": 1990439,
+    "description": "Boosts critical damage by {0}%.",
+    "name": "Critical Damage Up II"
+  },
+  {
+    "id": 1990440,
+    "description": "Boosts P.ATK by {0}%.",
+    "name": "P.ATK Up II"
+  },
+  {
+    "id": 1990441,
+    "description": "Boosts M.ATK by {0}%.",
+    "name": "M.ATK Up II"
+  },
+  {
+    "id": 1990442,
+    "description": "Boosts all allies' skill damage by {0}%.",
+    "name": "Damage Up All I"
+  },
+  {
+    "id": 1990443,
+    "description": "Boosts all allies' critical damage by {0}%.",
+    "name": "Critical Damage Up All I"
+  },
+  {
+    "id": 1990444,
+    "description": "Boosts all allies' P.ATK by {0}%.",
+    "name": "P.ATK Up All I"
+  },
+  {
+    "id": 1990445,
+    "description": "Boosts all allies' M.ATK by {0}%.",
+    "name": "M.ATK Up All I"
+  },
+  {
+    "id": 1990446,
+    "description": "Boosts healing power by {0}%.",
+    "name": "Heal Up I"
+  },
+  {
+    "id": 1990447,
+    "description": "Boosts all allies' boost effect potency received from boost-type panels by {0}%.",
+    "name": "Boost Panel Up All I"
+  },
+  {
+    "id": 1990448,
+    "description": "Reduces damage received by {0}%.",
+    "name": "Guard Up I"
+  },
+  {
+    "id": 1990449,
+    "description": "After attacking, reduces target's damage dealt by {0}% (fixed) for 1 turn.",
+    "name": "Attack Damage Down I"
+  },
+  {
+    "id": 1990450,
+    "description": "After taking an action, restores own HP by {0}%.",
+    "name": "Action Heal I"
+  },
+  {
+    "id": 1990451,
+    "description": "After taking an action, boosts own max HP by {0}% (fixed) for 2 turns.",
+    "name": "Action HP Up I"
+  },
+  {
+    "id": 1990452,
+    "description": "Boosts stun damage by {0}%.",
+    "name": "Break Up I"
+  },
+  {
+    "id": 1990453,
+    "description": "Boosts Fire resistance reduction effect potency by {0}%.",
+    "name": "Resist Fire Minus Up I"
+  },
+  {
+    "id": 1990454,
+    "description": "Boosts Ice resistance reduction effect potency by {0}%.",
+    "name": "Resist Ice Minus Up I"
+  },
+  {
+    "id": 1990455,
+    "description": "Boosts Bolt resistance reduction effect potency by {0}%.",
+    "name": "Resist Bolt Minus Up I"
+  },
+  {
+    "id": 1990456,
+    "description": "Boosts Air resistance reduction effect potency by {0}%.",
+    "name": "Resist Air Minus Up I"
+  },
+  {
+    "id": 1990457,
+    "description": "Boosts Slash resistance reduction effect potency by {0}%.",
+    "name": "Resist Slash Minus Up I"
+  },
+  {
+    "id": 1990458,
+    "description": "Boosts potency of Strike Resistance Down granted by {0}%.",
+    "name": "Resist Strike Negative Up I"
+  },
+  {
+    "id": 1990459,
+    "description": "Boosts potency of Stab Resistance Down granted by {0}%.",
+    "name": "Resist Stab Negative Up I"
+  },
+  {
+    "id": 1990460,
+    "description": "After attacking, grants target Damage Received +{0}% (Fixed) for 1 attack.",
+    "name": "Attack Damage Received Up I"
+  },
+  {
+    "id": 1990461,
+    "description": "After attacking, grants target Critical Damage Received +{0}% (Fixed) for 1 attack.",
+    "name": "Attack Critical Damage Received Up I"
+  },
+  {
+    "id": 1990462,
+    "description": "Boosts skill power by {0}%.",
+    "name": "Skill Power Up I"
+  },
+  {
+    "id": 1990463,
+    "description": "Boosts skill damage by {0}%.",
+    "name": "Damage Up I"
+  },
+  {
+    "id": 1990464,
+    "description": "Boosts critical damage by {0}%.",
+    "name": "Critical Damage Up I"
+  },
+  {
+    "id": 1990465,
+    "description": "Boosts P.ATK by {0}%.",
+    "name": "P.ATK Up I"
+  },
+  {
+    "id": 1990466,
+    "description": "Boosts M.ATK by {0}%.",
+    "name": "M.ATK Up I"
+  },
+  {
+    "id": 4991088,
+    "description": "While equipped to a Breaker with Bolt affinity, boosts magical attack skill damage against stunned enemies for all allies by {0}%.<br>When Laid-back, boosts stun damage by {1}%.",
+    "name": "Imagination \"Radiance of the Earth\""
+  },
+  {
+    "id": 4991089,
+    "description": "While equipped to a Breaker with Bolt affinity, boosts magical attack skill damage against stunned enemies for all allies by {0}%.<br>When Laid-back, boosts stun damage by {1}%.",
+    "name": "Imagination \"Radiance of the Earth\""
+  },
+  {
+    "id": 4991090,
+    "description": "While equipped to a Breaker with Bolt affinity, boosts magical attack skill damage against stunned enemies for all allies by {0}%.<br>When Laid-back, boosts stun damage by {1}%.",
+    "name": "Imagination \"Radiance of the Earth\""
+  },
+  {
+    "id": 4991091,
+    "description": "While equipped to a Breaker with Bolt affinity, boosts magical attack skill damage against stunned enemies for all allies by {0}%.<br>When Laid-back, boosts stun damage by {1}%.",
+    "name": "Imagination \"Radiance of the Earth\""
+  },
+  {
+    "id": 4991092,
+    "description": "While equipped to a Breaker with Bolt affinity, boosts magical attack skill damage against stunned enemies for all allies by {0}%.<br>When Laid-back, boosts stun damage by {1}%.",
+    "name": "Imagination \"Radiance of the Earth\""
+  },
+  {
+    "id": 4991093,
+    "description": "While equipped to a character with Stab affinity, boosts positive effect potency granted by {0}%.",
+    "name": "Stab Enhance Up II"
+  },
+  {
+    "id": 4991094,
+    "description": "While equipped to a character with Stab affinity, boosts positive effect potency granted by {0}%.",
+    "name": "Stab Enhance Up II"
+  },
+  {
+    "id": 4991095,
+    "description": "While equipped to a character with Stab affinity, boosts positive effect potency granted by {0}%.",
+    "name": "Stab Enhance Up II"
+  },
+  {
+    "id": 4991096,
+    "description": "While equipped to a character with Stab affinity, boosts positive effect potency granted by {0}%.",
+    "name": "Stab Enhance Up II"
+  },
+  {
+    "id": 4991097,
+    "description": "While equipped to a character with Stab affinity, boosts positive effect potency granted by {0}%.",
+    "name": "Stab Enhance Up II"
+  },
+  {
+    "id": 4991098,
+    "description": "While equipped to a Supporter, boosts critical damage for all allies by {0}%.",
+    "name": "Supporter Critical Damage Up All II"
+  },
+  {
+    "id": 4991099,
+    "description": "When equipped to a Supporter, boosts all allies' critical damage by {0}%.",
+    "name": "Supporter All Critical Damage Up II"
+  },
+  {
+    "id": 4991100,
+    "description": "When equipped to a Supporter, boosts all allies' critical damage by {0}%.",
+    "name": "Supporter All Critical Damage Up II"
+  },
+  {
+    "id": 4991101,
+    "description": "When equipped to a Supporter, boosts all allies' critical damage by {0}%.",
+    "name": "Supporter All Critical Damage Up II"
+  },
+  {
+    "id": 4991102,
+    "description": "When equipped to a Supporter, boosts all allies' critical damage by {0}%.",
+    "name": "Supporter All Critical Damage Up II"
+  },
+  {
+    "id": 21251001,
+    "description": "After recovering from stun, grants self SPD Up (15%) for 3 turns.",
+    "name": ""
+  },
+  {
+    "id": 21251002,
+    "description": "After receiving 5 attacks, creates 3 random boost-type panels or burst panels.",
+    "name": ""
+  },
+  {
+    "id": 21254003,
+    "description": "When own HP is at 60% or below 40%, creates a burst panel on own next turn.",
+    "name": ""
+  },
+  {
+    "id": 21254004,
+    "description": "After receiving 3 attacks, grants self Critical Rate Received Up (10%) (max 50%).",
+    "name": ""
+  },
+  {
+    "id": 26160003,
+    "description": "Nullifies attribute resistance down for all attributes except Bolt.",
+    "name": ""
+  },
+  {
+    "id": 26160004,
+    "description": "After an action following 50 turns, grants self cumulative damage dealt and SPD buffs.",
+    "name": ""
+  },
+  {
+    "id": 26160005,
+    "description": "After an action following 50 turns, grants self cumulative damage dealt and SPD buffs.",
+    "name": ""
+  },
+  {
+    "id": 26258001,
+    "description": "When HP falls to 50% or below, removes own debuffs and grants Damage Received Down (40%) and Damage Dealt Up (40%) for 3 turns.",
+    "name": ""
+  },
+  {
+    "id": 26258002,
+    "description": "After a weakness attack, performs an additional attack on the skill target.",
+    "name": ""
+  },
+  {
+    "id": 600000706,
+    "description": "Boosts battle item critical rate by 100%.",
+    "name": "Item Critical Rate Up"
+  },
+  {
+    "id": 600000707,
+    "description": "Boosts recovery received from battle items by 100%.",
+    "name": "Battle Item Recovery Up"
+  },
+  {
+    "id": 600000708,
+    "description": "Boosts item gauge recovery after actions by 25%.",
+    "name": "Post-Action Item Gauge Recovery Up"
+  },
+  {
+    "id": 600000709,
+    "description": "For allied characters with the \"Keiun\" tag, boosts battle item damage by 100%.",
+    "name": "Keiun Item Damage Up"
+  },
+  {
+    "id": 600000710,
+    "description": "Reduces damage dealt by non-battle items by 99%.",
+    "name": "Non-Battle Item Damage Down"
+  },
+  {
+    "id": 600000711,
+    "description": "When using Bolt battle items, grants all allies Battle Item Damage +20% (max 300%).",
+    "name": "Bolt Item Use Item Damage Up"
+  },
+  {
+    "id": 600000712,
+    "description": "When self has \"Keiun\" tag, boosts post-action item gauge recovery by 10%.",
+    "name": "When Self Has \"Keiun\", Post-Action Item Gauge Recovery"
+  },
+  {
+    "id": 600000713,
+    "description": "When defeating an enemy with a battle item, boosts additional item gauge recovery by 80%.",
+    "name": "Additional Item Gauge Recovery on Battle Item Defeat"
+  },
+  {
+    "id": 600000714,
+    "description": "Boosts all allies' battle item critical damage by 100%.",
+    "name": "All Allies' Battle Item Critical Damage Up"
   }
 ]

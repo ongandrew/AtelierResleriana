@@ -18664,5 +18664,1169 @@
     "description": "After attacking, reduces skill target's stun damage dealt by 30% for 2 turns and HP recovery received by 30% for 2 turns.",
     "name": "Blood Fang",
     "summary": ""
+  },
+  {
+    "id": 32144,
+    "description": "Recovers all allies' HP by 10%.<br>After recovery, boosts all allies' critical rate by {0}% for 2 turns.",
+    "name": "Incense of Life and Death",
+    "summary": ""
+  },
+  {
+    "id": 32145,
+    "description": "Recovers all allies' HP by 10%.<br>After recovery, boosts all allies' critical rate by {0}% for 2 turns.",
+    "name": "Incense of Life and Death",
+    "summary": ""
+  },
+  {
+    "id": 32146,
+    "description": "Deals Bolt damage to all enemies, then medium chance to inflict Paralysis for 2 turns.",
+    "name": "Tonitrus Milleune",
+    "summary": ""
+  },
+  {
+    "id": 32147,
+    "description": "Deals Bolt damage to all enemies, then low chance to inflict Paralysis for 2 turns.",
+    "name": "Tonitrus Milleune",
+    "summary": ""
+  },
+  {
+    "id": 11003048,
+    "description": "When landing a critical attack, boosts this attack's stun damage by {0}%.<br>Before attacking, reduces target's Bolt resistance by {1}% for 3 attacks.<br>After attacking, restores the item gauge by {2}% and boosts own stun damage by {3}%. (MAX 60%)",
+    "name": "Crimson Blade",
+    "summary": "When landing a critical attack, boosts stun damage.<br>Before attacking, reduces target's Bolt resistance.<br>After attacking, restores the item gauge.<br>Boosts own stun damage."
+  },
+  {
+    "id": 11003049,
+    "description": "When landing a critical attack, boosts this attack's stun damage by {0}%.<br>Before attacking, reduces target's Bolt resistance by {1}% for 3 attacks.<br>After attacking, restores the item gauge by {2}% and boosts own stun damage by {3}%. (MAX 60%)",
+    "name": "Crimson Blade",
+    "summary": "When landing a critical attack, boosts stun damage.<br>Before attacking, reduces target's Bolt resistance.<br>After attacking, restores the item gauge.<br>Boosts own stun damage."
+  },
+  {
+    "id": 11003050,
+    "description": "When landing a critical attack, boosts this attack's stun damage by {0}%.<br>Before attacking, reduces target's Bolt resistance by {1}% for 3 attacks.<br>After attacking, restores the item gauge by {2}% and boosts own stun damage by {3}%. (MAX 60%)",
+    "name": "Crimson Blade",
+    "summary": "When landing a critical attack, boosts stun damage.<br>Before attacking, reduces target's Bolt resistance.<br>After attacking, restores the item gauge.<br>Boosts own stun damage."
+  },
+  {
+    "id": 11003051,
+    "description": "When landing a critical attack, boosts this attack's stun damage by {0}%.<br>Before attacking, reduces target's Bolt resistance by {1}% for 3 attacks.<br>After attacking, restores the item gauge by {2}% and boosts own stun damage by {3}%. (MAX 60%)",
+    "name": "Crimson Blade",
+    "summary": "When landing a critical attack, boosts stun damage.<br>Before attacking, reduces target's Bolt resistance.<br>After attacking, restores the item gauge.<br>Boosts own stun damage."
+  },
+  {
+    "id": 11003052,
+    "description": "When landing a critical attack, boosts this attack's stun damage by {0}%.<br>Before attacking, reduces target's Bolt resistance by {1}% for 3 attacks.<br>After attacking, restores the item gauge by {2}% and boosts own stun damage by {3}%. (MAX 60%)",
+    "name": "Crimson Blade",
+    "summary": "When landing a critical attack, boosts stun damage.<br>Before attacking, reduces target's Bolt resistance.<br>After attacking, restores the item gauge.<br>Boosts own stun damage."
+  },
+  {
+    "id": 11003108,
+    "description": "After attacking, boosts own critical rate by {0}% (MAX 100%) and skill damage by {1}% (MAX 50%).",
+    "name": "Stamp",
+    "summary": "After attacking, boosts own critical rate and skill damage."
+  },
+  {
+    "id": 11003109,
+    "description": "After attacking, boosts own critical rate by {0}% (MAX 100%) and skill damage by {1}% (MAX 50%).",
+    "name": "Stamp",
+    "summary": "After attacking, boosts own critical rate and skill damage."
+  },
+  {
+    "id": 11003110,
+    "description": "After attacking, boosts own critical rate by {0}% (MAX 100%) and skill damage by {1}% (MAX 50%).",
+    "name": "Stamp",
+    "summary": "After attacking, boosts own critical rate and skill damage."
+  },
+  {
+    "id": 11003111,
+    "description": "After attacking, boosts own critical rate by {0}% (MAX 100%) and skill damage by {1}% (MAX 50%).",
+    "name": "Stamp",
+    "summary": "After attacking, boosts own critical rate and skill damage."
+  },
+  {
+    "id": 11003112,
+    "description": "After attacking, boosts own critical rate by {0}% (MAX 100%) and skill damage by {1}% (MAX 50%).",
+    "name": "Stamp",
+    "summary": "After attacking, boosts own critical rate and skill damage."
+  },
+  {
+    "id": 11003120,
+    "description": "After attacking, grants self Evade (fixed {0}% chance) for 1 attack, recovers all allies' HP by {1}%, and boosts all allies' P. DEF and M. DEF by {2}% (MAX 30%). Reduces target's damage by {4}% for 2 turns.",
+    "name": "Spotfire",
+    "summary": "After attacking, grants self Evade.<br>Recovers all allies' HP and boosts stats.<br>Reduces target's damage."
+  },
+  {
+    "id": 11003121,
+    "description": "After attacking, grants self Evade (fixed {0}% chance) for 1 attack, recovers all allies' HP by {1}%, and boosts all allies' P. DEF and M. DEF by {2}% (MAX 30%). Reduces target's damage by {4}% for 2 turns.",
+    "name": "Spotfire",
+    "summary": "After attacking, grants self Evade.<br>Recovers all allies' HP and boosts stats.<br>Reduces target's damage."
+  },
+  {
+    "id": 11003122,
+    "description": "After attacking, grants self Evade (fixed {0}% chance) for 1 attack, recovers all allies' HP by {1}%, and boosts all allies' P. DEF and M. DEF by {2}% (MAX 30%). Reduces target's damage by {4}% for 2 turns.",
+    "name": "Spotfire",
+    "summary": "After attacking, grants self Evade.<br>Recovers all allies' HP and boosts stats.<br>Reduces target's damage."
+  },
+  {
+    "id": 11003123,
+    "description": "After attacking, grants self Evade (fixed {0}% chance) for 1 attack, recovers all allies' HP by {1}%, and boosts all allies' P. DEF and M. DEF by {2}% (MAX 30%). Reduces target's damage by {4}% for 2 turns.",
+    "name": "Spotfire",
+    "summary": "After attacking, grants self Evade.<br>Recovers all allies' HP and boosts stats.<br>Reduces target's damage."
+  },
+  {
+    "id": 11003124,
+    "description": "After attacking, grants self Evade (fixed {0}% chance) for 1 attack, recovers all allies' HP by {1}%, and boosts all allies' P. DEF and M. DEF by {2}% (MAX 30%). Reduces target's damage by {4}% for 2 turns.",
+    "name": "Spotfire",
+    "summary": "After attacking, grants self Evade.<br>Recovers all allies' HP and boosts stats.<br>Reduces target's damage."
+  },
+  {
+    "id": 11003132,
+    "description": "After attacking, depending on the number of enemies, boosts all allies' stun damage by 10-40% (higher boost for more enemies, range: 1-4 enemies) and skill damage by 10-40% (higher boost for more enemies, range: 1-4 enemies) for 1 turn.",
+    "name": "Wind Melodia",
+    "summary": "After attacking, boosts all allies' stun damage and skill damage based on number of enemies."
+  },
+  {
+    "id": 11003133,
+    "description": "After attacking, grants all allies Stun Damage +10-40% (higher boost for more enemies, range: 1-4) and Skill Damage +10-40% (higher boost for more enemies, range: 1-4) for 1 turn.",
+    "name": "Wind Melodia",
+    "summary": "After attacking, boosts all allies' stun damage and skill damage based on number of enemies."
+  },
+  {
+    "id": 11003134,
+    "description": "After attacking, grants all allies Stun Damage +10-40% (higher boost for more enemies, range: 1-4) and Skill Damage +10-40% (higher boost for more enemies, range: 1-4) for 1 turn.",
+    "name": "Wind Melodia",
+    "summary": "After attacking, boosts all allies' stun damage and skill damage based on number of enemies."
+  },
+  {
+    "id": 11003135,
+    "description": "After attacking, grants all allies Stun Damage +10-40% (higher boost for more enemies, range: 1-4) and Skill Damage +10-40% (higher boost for more enemies, range: 1-4) for 1 turn.",
+    "name": "Wind Melodia",
+    "summary": "After attacking, boosts all allies' stun damage and skill damage based on number of enemies."
+  },
+  {
+    "id": 11003136,
+    "description": "After attacking, grants all allies Stun Damage +10-40% (higher boost for more enemies, range: 1-4) and Skill Damage +10-40% (higher boost for more enemies, range: 1-4) for 1 turn.",
+    "name": "Wind Melodia",
+    "summary": "After attacking, boosts all allies' stun damage and skill damage based on number of enemies."
+  },
+  {
+    "id": 12003053,
+    "description": "During critical attacks, boosts this attack's stun damage by {0}%.<br>Before attacking, reduces target's Bolt resistance by {1}% (Max: 50%).<br>After attacking, increases target's magical damage received by {2}% for 2 attacks.",
+    "name": "Heaven Severing Slash",
+    "summary": "During critical attacks, boosts stun damage.<br>Before attacking, reduces target's Bolt resistance.<br>After attacking, increases target's magical damage received."
+  },
+  {
+    "id": 12003054,
+    "description": "During critical attacks, boosts this attack's stun damage by {0}%.<br>Before attacking, reduces target's Bolt resistance by {1}% (Max: 50%).<br>After attacking, increases target's magical damage received by {2}% for 2 attacks.",
+    "name": "Heaven Severing Slash",
+    "summary": "During critical attacks, boosts stun damage.<br>Before attacking, reduces target's Bolt resistance.<br>After attacking, increases target's magical damage received."
+  },
+  {
+    "id": 12003055,
+    "description": "During critical attacks, boosts this attack's stun damage by {0}%.<br>Before attacking, reduces target's Bolt resistance by {1}% (Max: 50%).<br>After attacking, increases target's magical damage received by {2}% for 2 attacks.",
+    "name": "Heaven Severing Slash",
+    "summary": "During critical attacks, boosts stun damage.<br>Before attacking, reduces target's Bolt resistance.<br>After attacking, increases target's magical damage received."
+  },
+  {
+    "id": 12003056,
+    "description": "During critical attacks, boosts this attack's stun damage by {0}%.<br>Before attacking, reduces target's Bolt resistance by {1}% (Max: 50%).<br>After attacking, increases target's magical damage received by {2}% for 2 attacks.",
+    "name": "Heaven Severing Slash",
+    "summary": "During critical attacks, boosts stun damage.<br>Before attacking, reduces target's Bolt resistance.<br>After attacking, increases target's magical damage received."
+  },
+  {
+    "id": 12003057,
+    "description": "During critical attacks, boosts this attack's stun damage by {0}%.<br>Before attacking, reduces target's Bolt resistance by {1}% (Max: 50%).<br>After attacking, increases target's magical damage received by {2}% for 2 attacks.",
+    "name": "Heaven Severing Slash",
+    "summary": "During critical attacks, boosts stun damage.<br>Before attacking, reduces target's Bolt resistance.<br>After attacking, increases target's magical damage received."
+  },
+  {
+    "id": 12003113,
+    "description": "After attacking, boosts own critical rate by {0}% (Max: 50%) and critical damage by {1}% (Max: 150%).<br>After critical attacks, boosts own M.ATK by {2}% for 2 turns.",
+    "name": "Lightning Knock",
+    "summary": "After attacking, boosts own critical rate and critical damage.<br>After critical attacks, boosts own M.ATK."
+  },
+  {
+    "id": 12003114,
+    "description": "After attacking, boosts own critical rate by {0}% (Max: 50%) and critical damage by {1}% (Max: 150%).<br>After critical attacks, boosts own M.ATK by {2}% for 2 turns.",
+    "name": "Lightning Knock",
+    "summary": "After attacking, boosts own critical rate and critical damage.<br>After critical attacks, boosts own M.ATK."
+  },
+  {
+    "id": 12003115,
+    "description": "After attacking, boosts own critical rate by {0}% (Max: 50%) and critical damage by {1}% (Max: 150%).<br>After critical attacks, boosts own M.ATK by {2}% for 2 turns.",
+    "name": "Lightning Knock",
+    "summary": "After attacking, boosts own critical rate and critical damage.<br>After critical attacks, boosts own M.ATK."
+  },
+  {
+    "id": 12003116,
+    "description": "After attacking, boosts own critical rate by {0}% (Max: 50%) and critical damage by {1}% (Max: 150%).<br>After critical attacks, boosts own M.ATK by {2}% for 2 turns.",
+    "name": "Lightning Knock",
+    "summary": "After attacking, boosts own critical rate and critical damage.<br>After critical attacks, boosts own M.ATK."
+  },
+  {
+    "id": 12003117,
+    "description": "After attacking, boosts own critical rate by {0}% (Max: 50%) and critical damage by {1}% (Max: 150%).<br>After critical attacks, boosts own M.ATK by {2}% for 2 turns.",
+    "name": "Lightning Knock",
+    "summary": "After attacking, boosts own critical rate and critical damage.<br>After critical attacks, boosts own M.ATK."
+  },
+  {
+    "id": 12003125,
+    "description": "After attacking, grants self Evasion ({0}% chance) for 1 attack and grants all allies P.DEF/M.DEF +{1}% for 2 attacks (Max: 3 stacks).<br>Reduces target's damage by {2}% for 1 turn.",
+    "name": "Flame Veil",
+    "summary": "After attacking, grants self evasion.<br>Boosts all allies' defenses.<br>Reduces target's damage."
+  },
+  {
+    "id": 12003126,
+    "description": "After attacking, grants self Evasion ({0}% chance) for 1 attack and grants all allies P.DEF/M.DEF +{1}% for 2 attacks (Max: 3 stacks).<br>Reduces target's damage by {2}% for 1 turn.",
+    "name": "Flame Veil",
+    "summary": "After attacking, grants self evasion.<br>Boosts all allies' defenses.<br>Reduces target's damage."
+  },
+  {
+    "id": 12003127,
+    "description": "After attacking, grants self Evasion ({0}% chance) for 1 attack and grants all allies P.DEF/M.DEF +{1}% for 2 attacks (Max: 3 stacks).<br>Reduces target's damage by {2}% for 1 turn.",
+    "name": "Flame Veil",
+    "summary": "After attacking, grants self evasion.<br>Boosts all allies' defenses.<br>Reduces target's damage."
+  },
+  {
+    "id": 12003128,
+    "description": "After attacking, grants self Evasion ({0}% chance) for 1 attack and grants all allies P.DEF/M.DEF +{1}% for 2 attacks (Max: 3 stacks).<br>Reduces target's damage by {2}% for 1 turn.",
+    "name": "Flame Veil",
+    "summary": "After attacking, grants self evasion.<br>Boosts all allies' defenses.<br>Reduces target's damage."
+  },
+  {
+    "id": 12003129,
+    "description": "After attacking, grants self Evasion ({0}% chance) for 1 attack and grants all allies P.DEF/M.DEF +{1}% for 2 attacks (Max: 3 stacks).<br>Reduces target's damage by {2}% for 1 turn.",
+    "name": "Flame Veil",
+    "summary": "After attacking, grants self evasion.<br>Boosts all allies' defenses.<br>Reduces target's damage."
+  },
+  {
+    "id": 12003137,
+    "description": "Grants all allies M.ATK +{0}% and magical damage +{1}% for 2 turns.<br>Grants target M.DEF +{2}% and reduces damage received by {3}% for 2 attacks.<br>Restores target's HP by {4}%.<br>Restores item gauge by {5}%.",
+    "name": "Southern Land Instrument",
+    "summary": "Boosts all allies' magical damage and stats.<br>Reduces all allies' damage received.<br>Restores target's HP.<br>Restores item gauge."
+  },
+  {
+    "id": 12003138,
+    "description": "Grants all allies M.ATK +{0}% and magical attack damage +{1}% for 2 turns.<br>Grants target M.DEF +{2}% and damage received -{3}% for 2 attacks.<br>Restores target's HP by {4}%.<br>Restores item gauge by {5}%.",
+    "name": "Southern Instrument",
+    "summary": "Boosts all allies' magical attack damage and stats.<br>Reduces all allies' damage received.<br>Restores target's HP.<br>Restores item gauge."
+  },
+  {
+    "id": 12003139,
+    "description": "Grants all allies M.ATK +{0}% and magical attack damage +{1}% for 2 turns.<br>Grants target M.DEF +{2}% and damage received -{3}% for 2 attacks.<br>Restores target's HP by {4}%.<br>Restores item gauge by {5}%.",
+    "name": "Southern Instrument",
+    "summary": "Boosts all allies' magical attack damage and stats.<br>Reduces all allies' damage received.<br>Restores target's HP.<br>Restores item gauge."
+  },
+  {
+    "id": 12003140,
+    "description": "Grants all allies M.ATK +{0}% and magical attack damage +{1}% for 2 turns.<br>Grants target M.DEF +{2}% and damage received -{3}% for 2 attacks.<br>Restores target's HP by {4}%.<br>Restores item gauge by {5}%.",
+    "name": "Southern Instrument",
+    "summary": "Boosts all allies' magical attack damage and stats.<br>Reduces all allies' damage received.<br>Restores target's HP.<br>Restores item gauge."
+  },
+  {
+    "id": 12003141,
+    "description": "Grants all allies M.ATK +{0}% and magical attack damage +{1}% for 2 turns.<br>Grants target M.DEF +{2}% and damage received -{3}% for 2 attacks.<br>Restores target's HP by {4}%.<br>Restores item gauge by {5}%.",
+    "name": "Southern Instrument",
+    "summary": "Boosts all allies' magical attack damage and stats.<br>Reduces all allies' damage received.<br>Restores target's HP.<br>Restores item gauge."
+  },
+  {
+    "id": 14003058,
+    "description": "On critical attack, boosts this attack's stun damage by {0}%.<br>Before attacking, reduces target's Bolt resistance by {1}% for 3 attacks.<br>After attacking, increases target's damage received by {2}% (max 200%) and converts all target's panels to weaken+ panels (creates them if empty).<br><br>When target is stunned, grants target Daze with very high chance for 1 turn and increases all enemies' magical attack damage received by {4}% for 2 attacks.",
+    "name": "Twin Flash Strike",
+    "summary": "On critical attack, boosts stun damage.<br>Before attacking, reduces target's Bolt resistance.<br>After attacking, boosts target's damage received.<br>Converts target's panels to weaken+ panels.<br>When target is stunned, grants Daze.<br>Boosts all enemies' magical attack damage received."
+  },
+  {
+    "id": 14003059,
+    "description": "On critical attack, boosts this attack's stun damage by {0}%.<br>Before attacking, reduces target's Bolt resistance by {1}% for 3 attacks.<br>After attacking, increases target's damage received by {2}% (max 200%) and converts all target's panels to weaken+ panels (creates them if empty).<br><br>When target is stunned, grants target Daze with very high chance for 1 turn and increases all enemies' magical attack damage received by {4}% for 2 attacks.",
+    "name": "Twin Flash Strike",
+    "summary": "On critical attack, boosts stun damage.<br>Before attacking, reduces target's Bolt resistance.<br>After attacking, boosts target's damage received.<br>Converts target's panels to weaken+ panels.<br>When target is stunned, grants Daze.<br>Boosts all enemies' magical attack damage received."
+  },
+  {
+    "id": 14003060,
+    "description": "On critical attack, boosts this attack's stun damage by {0}%.<br>Before attacking, reduces target's Bolt resistance by {1}% for 3 attacks.<br>After attacking, increases target's damage received by {2}% (max 200%) and converts all target's panels to weaken+ panels (creates them if empty).<br><br>When target is stunned, grants target Daze with very high chance for 1 turn and increases all enemies' magical attack damage received by {4}% for 2 attacks.",
+    "name": "Twin Flash Strike",
+    "summary": "On critical attack, boosts stun damage.<br>Before attacking, reduces target's Bolt resistance.<br>After attacking, boosts target's damage received.<br>Converts target's panels to weaken+ panels.<br>When target is stunned, grants Daze.<br>Boosts all enemies' magical attack damage received."
+  },
+  {
+    "id": 14003061,
+    "description": "On critical attack, boosts this attack's stun damage by {0}%.<br>Before attacking, reduces target's Bolt resistance by {1}% for 3 attacks.<br>After attacking, increases target's damage received by {2}% (max 200%) and converts all target's panels to weaken+ panels (creates them if empty).<br><br>When target is stunned, grants target Daze with very high chance for 1 turn and increases all enemies' magical attack damage received by {4}% for 2 attacks.",
+    "name": "Twin Flash Strike",
+    "summary": "On critical attack, boosts stun damage.<br>Before attacking, reduces target's Bolt resistance.<br>After attacking, boosts target's damage received.<br>Converts target's panels to weaken+ panels.<br>When target is stunned, grants Daze.<br>Boosts all enemies' magical attack damage received."
+  },
+  {
+    "id": 14003062,
+    "description": "On critical attack, boosts this attack's stun damage by {0}%.<br>Before attacking, reduces target's Bolt resistance by {1}% for 3 attacks.<br>After attacking, increases target's damage received by {2}% (max 200%) and converts all target's panels to weaken+ panels (creates them if empty).<br><br>When target is stunned, grants target Daze with very high chance for 1 turn and increases all enemies' magical attack damage received by {4}% for 2 attacks.",
+    "name": "Twin Flash Strike",
+    "summary": "On critical attack, boosts stun damage.<br>Before attacking, reduces target's Bolt resistance.<br>After attacking, boosts target's damage received.<br>Converts target's panels to weaken+ panels.<br>When target is stunned, grants Daze.<br>Boosts all enemies' magical attack damage received."
+  },
+  {
+    "id": 14003118,
+    "description": "Boosts this attack's critical rate by 100%.<br>Before attacking, removes own negative effects.<br>After attacking, grants self M.ATK +{0}% and critical damage +{1}% for 2 turns.<br>Grants target Daze with very high chance for 1 turn.",
+    "name": "Convallaria Impact",
+    "summary": "Boosts this attack's critical rate.<br>Before attacking, removes own negative effects.<br>After attacking, boosts own M.ATK and critical damage.<br>Grants target Daze with very high chance."
+  },
+  {
+    "id": 14003119,
+    "description": "Boosts this attack's critical rate by 100%.<br>After attacking, grants target Daze with very high chance for 1 turn.",
+    "name": "Convallaria Impact",
+    "summary": "Boosts this attack's critical rate.<br>After attacking, grants target Daze with very high chance."
+  },
+  {
+    "id": 14003130,
+    "description": "After attacking, grants all allies with Fire affinity Evasion (fixed {0}% chance) for 1 attack and grants all allies P.DEF/M.DEF +{1}% for 3 attacks (max 2 stacks).<br>Reduces target's damage by {2}% for 1 turn.",
+    "name": "Dragon Hourglass",
+    "summary": "After attacking, grants all allies with Fire affinity Evasion.<br>Boosts all allies' stats.<br>Reduces target's damage."
+  },
+  {
+    "id": 14003131,
+    "description": "After attacking, reduces target's damage by {0}% for 1 turn.",
+    "name": "Dragon Hourglass",
+    "summary": "After attacking, reduces target's damage."
+  },
+  {
+    "id": 14003142,
+    "description": "After attacking, grants all allies M.ATK +{0}% and magical attack damage +{1}% for 2 turns, and M.DEF +{2}% and damage received -{3}% for 2 attacks.<br>Restores all allies' HP by {4}%.<br>Restores item gauge by {5}%.",
+    "name": "Rondo of Sun and Wind",
+    "summary": "After attacking, boosts all allies' magical attack damage and stats.<br>Reduces all allies' damage received.<br>Restores all allies' HP.<br>Restores item gauge."
+  },
+  {
+    "id": 14003143,
+    "description": "After attacking, restores item gauge by {0}%.",
+    "name": "Rondo of Sun and Wind",
+    "summary": "After attacking, restores item gauge."
+  },
+  {
+    "id": 14003144,
+    "description": "On critical attack, boosts this attack's stun damage by {0}%.<br>After attacking, increases target's Bolt damage received by {1}% for 2 attacks.<br>When target is stunned, additionally increases target's Bolt damage received by {2}% for 2 attacks.",
+    "name": "Cherry Blossom Katana",
+    "summary": "On critical attack, boosts stun damage.<br>After attacking, increases target's Bolt damage received.<br>When target is stunned, increases target's Bolt damage received."
+  },
+  {
+    "id": 22001787,
+    "description": "Restores all allies by 25% and grants damage received down (20% for 3 turns) and damage dealt up (20% for 3 turns).",
+    "name": "Healing Prayer",
+    "summary": ""
+  },
+  {
+    "id": 22001788,
+    "description": "After attacking, reduces all enemies' Bolt resistance by 20% for 2 turns.",
+    "name": "Heaven's Wrath",
+    "summary": ""
+  },
+  {
+    "id": 22001789,
+    "description": "No effect.",
+    "name": "Shrine Maiden's Servant",
+    "summary": ""
+  },
+  {
+    "id": 22001790,
+    "description": "After attacking, inflicts Paralysis (for 1 turn) and SPD Down (10% for 2 turns) on skill target with 100% chance, and grants self damage dealt up (10%, max 100%) and SPD Up (10% for 3 turns).",
+    "name": "Heaven and Earth Slice",
+    "summary": ""
+  },
+  {
+    "id": 22001791,
+    "description": "効果なし",
+    "name": "Crimson Blade",
+    "summary": ""
+  },
+  {
+    "id": 22001792,
+    "description": "Grants Counter to self for 3 counterattacks.",
+    "name": "Single Character Cut",
+    "summary": ""
+  },
+  {
+    "id": 22001793,
+    "description": "効果なし",
+    "name": "Reciprocal Strike",
+    "summary": ""
+  },
+  {
+    "id": 22001794,
+    "description": "After attacking, reduces all enemies' damage dealt by 25% for 2 turns, reduces their positive effect potency by 25% for 3 turns, and reduces their HP recovery by 15% for 3 turns.",
+    "name": "Ink Wash World",
+    "summary": ""
+  },
+  {
+    "id": 22001795,
+    "description": "効果なし",
+    "name": "Iron Club Strike",
+    "summary": ""
+  },
+  {
+    "id": 22001796,
+    "description": "Boosts all allies' damage dealt by 20% for 3 turns and SPD by 15% for 2 turns.",
+    "name": "Demon's Roar",
+    "summary": ""
+  },
+  {
+    "id": 22001797,
+    "description": "After attacking, reduces all enemies' damage dealt by 10% for 2 turns.",
+    "name": "Rock Smash",
+    "summary": ""
+  },
+  {
+    "id": 22001798,
+    "description": "After attacking, inflicts Burn on all enemies with 100% chance.",
+    "name": "Hellfire Vortex",
+    "summary": ""
+  },
+  {
+    "id": 22001799,
+    "description": "After attacking, converts boost panels to weaken panels and weaken panels to boost panels for 10 spaces, and reduces all enemies' SPD by 10% for 2 turns.",
+    "name": "Schema Resonare",
+    "summary": ""
+  },
+  {
+    "id": 22001800,
+    "description": "効果なし",
+    "name": "Sagitta",
+    "summary": ""
+  },
+  {
+    "id": 22001801,
+    "description": "Reduces all enemies' item gauge recovery by 50%.",
+    "name": "Passio Sagitta",
+    "summary": ""
+  },
+  {
+    "id": 22001802,
+    "description": "Boosts own SPD by 20% for 3 turns and critical damage by 25% for 3 turns, and creates a critical panel on own next turn.",
+    "name": "Glimmer of Wisdom",
+    "summary": ""
+  },
+  {
+    "id": 22001803,
+    "description": "Converts target's panels to weaken panels (except burst panels) and boosts own damage dealt by 15% for 3 turns.",
+    "name": "Viridis Arcus",
+    "summary": ""
+  },
+  {
+    "id": 22001804,
+    "description": "Reduces own damage received by 30% for 3 turns.",
+    "name": "Quinque Sagitta",
+    "summary": ""
+  },
+  {
+    "id": 22001805,
+    "description": "After attacking, nullifies target enemy's positive effects for 3 turns.",
+    "name": "Seal Blow",
+    "summary": ""
+  },
+  {
+    "id": 22001806,
+    "description": "効果なし",
+    "name": "Thunder Shot",
+    "summary": ""
+  },
+  {
+    "id": 22001807,
+    "description": "After attacking, inflicts 6 stacks of Poison on the target for 3 turns with 100% chance.",
+    "name": "Death Spin",
+    "summary": ""
+  },
+  {
+    "id": 22001808,
+    "description": "When target has a status effect, boosts damage dealt by 15%.",
+    "name": "Death Touch",
+    "summary": ""
+  },
+  {
+    "id": 22001809,
+    "description": "効果なし",
+    "name": "Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 22001810,
+    "description": "Boosts single ally's damage dealt by 20% for 2 turns and reduces their damage received by 20% for 2 turns.",
+    "name": "Energy Gain",
+    "summary": ""
+  },
+  {
+    "id": 22001811,
+    "description": "After attacking, reduces target's Speed by 15% for 3 turns.",
+    "name": "Glide",
+    "summary": ""
+  },
+  {
+    "id": 22001812,
+    "description": "No additional effects.",
+    "name": "White Breath",
+    "summary": ""
+  },
+  {
+    "id": 22001813,
+    "description": "No additional effects.",
+    "name": "Giga White Breath",
+    "summary": ""
+  },
+  {
+    "id": 22001814,
+    "description": "No additional effects.",
+    "name": "Storm",
+    "summary": ""
+  },
+  {
+    "id": 22001815,
+    "description": "Boosts damage dealt by 10% for all allies for 3 turns.",
+    "name": "Aerial Roar",
+    "summary": ""
+  },
+  {
+    "id": 22001816,
+    "description": "After attacking, inflicts Nullify Positive Effects on enemy target for 3 turns.",
+    "name": "Seal Blow",
+    "summary": ""
+  },
+  {
+    "id": 22001817,
+    "description": "No additional effects.",
+    "name": "Thunder Shot",
+    "summary": ""
+  },
+  {
+    "id": 22001818,
+    "description": "After attacking, inflicts Poison on target with 100% chance (6 stacks, 3 turns).",
+    "name": "Death Spin",
+    "summary": ""
+  },
+  {
+    "id": 22001819,
+    "description": "If target has status effects, boosts damage dealt by 15%.",
+    "name": "Death Touch",
+    "summary": ""
+  },
+  {
+    "id": 22001820,
+    "description": "No additional effects.",
+    "name": "Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 22001821,
+    "description": "Boosts single ally's damage dealt by 20% and reduces damage received by 20% for 2 turns.",
+    "name": "Energy Gain",
+    "summary": ""
+  },
+  {
+    "id": 22001822,
+    "description": "After attacking, reduces target's Speed by 15% for 3 turns.",
+    "name": "Glide",
+    "summary": ""
+  },
+  {
+    "id": 22001823,
+    "description": "No additional effects.",
+    "name": "White Breath",
+    "summary": ""
+  },
+  {
+    "id": 22001824,
+    "description": "No additional effects.",
+    "name": "Giga White Breath",
+    "summary": ""
+  },
+  {
+    "id": 22001825,
+    "description": "No additional effects.",
+    "name": "Storm",
+    "summary": ""
+  },
+  {
+    "id": 22001826,
+    "description": "Boosts damage dealt by 10% for all allies for 3 turns.",
+    "name": "Aerial Roar",
+    "summary": ""
+  },
+  {
+    "id": 26000001,
+    "description": "No additional effects.",
+    "name": "Puni Bomber",
+    "summary": ""
+  },
+  {
+    "id": 26000002,
+    "description": "After attacking, delays skill target's turn by 2 turns.",
+    "name": "Puni Ball",
+    "summary": ""
+  },
+  {
+    "id": 26000003,
+    "description": "After attacking, inflicts 5 stacks of Burn on skill target.",
+    "name": "Puni Flame",
+    "summary": ""
+  },
+  {
+    "id": 26000004,
+    "description": "Reduces skill target's damage received by 30% for 1 turn.",
+    "name": "Puni Boost",
+    "summary": ""
+  },
+  {
+    "id": 26000005,
+    "description": "Reduces skill target's damage dealt by 30% for 1 turn.",
+    "name": "Squishy Dark",
+    "summary": ""
+  },
+  {
+    "id": 26000006,
+    "description": "After attacking, reduces skill target's damage dealt by 15% for 2 turns.",
+    "name": "Scorching Fire Throw",
+    "summary": ""
+  },
+  {
+    "id": 26000007,
+    "description": "No effect.",
+    "name": "Fire Scatter",
+    "summary": ""
+  },
+  {
+    "id": 26000008,
+    "description": "Boosts skill target's damage dealt by 20% for 2 turns.",
+    "name": "Power Share",
+    "summary": ""
+  },
+  {
+    "id": 26000009,
+    "description": "Reduces skill target's M.ATK by 10% and P.ATK by 10% for 2 turns.",
+    "name": "Power Dampener",
+    "summary": ""
+  },
+  {
+    "id": 26000010,
+    "description": "No effect.",
+    "name": "Thunder Throw",
+    "summary": ""
+  },
+  {
+    "id": 26000011,
+    "description": "No effect.",
+    "name": "Thunder Scatter",
+    "summary": ""
+  },
+  {
+    "id": 26000012,
+    "description": "No effect.",
+    "name": "Roaring Thunder Scatter",
+    "summary": ""
+  },
+  {
+    "id": 26000013,
+    "description": "Reduces skill target's M.ATK by 10% and P.ATK by 10% for 2 turns.",
+    "name": "Power Dampener",
+    "summary": ""
+  },
+  {
+    "id": 26000014,
+    "description": "Boosts skill target's damage dealt by 20% for 2 turns.",
+    "name": "Power Release",
+    "summary": ""
+  },
+  {
+    "id": 26000015,
+    "description": "Restores skill target's stun gauge by 15%.",
+    "name": "Protective Share",
+    "summary": ""
+  },
+  {
+    "id": 26000016,
+    "description": "No effect.",
+    "name": "Thunder Throw",
+    "summary": ""
+  },
+  {
+    "id": 26000017,
+    "description": "After attacking, boosts skill target's damage received by 15% for 2 turns.",
+    "name": "Thunder Scatter",
+    "summary": ""
+  },
+  {
+    "id": 26000018,
+    "description": "No effect.",
+    "name": "Roaring Thunder Scatter",
+    "summary": ""
+  },
+  {
+    "id": 26000019,
+    "description": "After attacking, delays skill target's turn by 2 turns.",
+    "name": "Self Throw",
+    "summary": ""
+  },
+  {
+    "id": 26000020,
+    "description": "Reduces skill target's damage dealt by 30% for 2 turns.",
+    "name": "Power Dampener",
+    "summary": ""
+  },
+  {
+    "id": 26000021,
+    "description": "No effect.",
+    "name": "Wind Throw",
+    "summary": ""
+  },
+  {
+    "id": 26000022,
+    "description": "No effect.",
+    "name": "Storm Throw",
+    "summary": ""
+  },
+  {
+    "id": 26000023,
+    "description": "No effect.",
+    "name": "Whip Up",
+    "summary": ""
+  },
+  {
+    "id": 26000024,
+    "description": "Reduces skill target's damage dealt by 15% for 2 turns.",
+    "name": "Power Dampener",
+    "summary": ""
+  },
+  {
+    "id": 26000025,
+    "description": "Boosts own SPD by 20% for 5 turns.",
+    "name": "Speed Blessing",
+    "summary": ""
+  },
+  {
+    "id": 26000026,
+    "description": "No effect.",
+    "name": "Fire Throw",
+    "summary": ""
+  },
+  {
+    "id": 26000027,
+    "description": "No effect.",
+    "name": "Ice Throw",
+    "summary": ""
+  },
+  {
+    "id": 26000028,
+    "description": "No effect.",
+    "name": "Bolt Throw",
+    "summary": ""
+  },
+  {
+    "id": 26000029,
+    "description": "No effect.",
+    "name": "Wind Throw",
+    "summary": ""
+  },
+  {
+    "id": 26000030,
+    "description": "After attacking, increases skill target's damage received by 15% for 2 turns.",
+    "name": "Armor-Piercing Rock Throw",
+    "summary": ""
+  },
+  {
+    "id": 26000031,
+    "description": "No effect.",
+    "name": "Wild Boulder Throw",
+    "summary": ""
+  },
+  {
+    "id": 26000032,
+    "description": "Grants skill target 8 stacks of Poison (2% for 5 turns).",
+    "name": "Poison Sharing",
+    "summary": ""
+  },
+  {
+    "id": 26000033,
+    "description": "Restores skill target's HP by 30%.",
+    "name": "Life Sharing",
+    "summary": ""
+  },
+  {
+    "id": 26000034,
+    "description": "Boosts skill target's damage dealt by 50% for 2 turns.",
+    "name": "Power Sharing",
+    "summary": ""
+  },
+  {
+    "id": 26000035,
+    "description": "After attacking, delays skill target's turn by 2 turns.",
+    "name": "Firework",
+    "summary": ""
+  },
+  {
+    "id": 26000036,
+    "description": "After attacking, reduces skill target's damage dealt by 15% for 2 turns.",
+    "name": "Scorching Fire Throw",
+    "summary": ""
+  },
+  {
+    "id": 26000037,
+    "description": "After attacking, increases skill target's damage received by 15% for 2 turns.",
+    "name": "Scorching Fireball",
+    "summary": ""
+  },
+  {
+    "id": 26000039,
+    "description": "Boosts skill target's damage dealt by 20% for 2 turns.",
+    "name": "Power Blessing",
+    "summary": ""
+  },
+  {
+    "id": 26000040,
+    "description": "After attacking, reduces skill target's damage dealt by 15% for 2 turns.",
+    "name": "Frigid Ice Throw",
+    "summary": ""
+  },
+  {
+    "id": 26000042,
+    "description": "Reduces skill target's M.ATK by 10% and P.ATK by 10% for 2 turns each.",
+    "name": "Power Restraint",
+    "summary": ""
+  },
+  {
+    "id": 26000043,
+    "description": "Restores skill target's HP by 20% and boosts damage dealt by 20% for 2 turns.",
+    "name": "Power Blessing",
+    "summary": ""
+  },
+  {
+    "id": 26000044,
+    "description": "Restores skill target's HP by 15% and boosts damage dealt by 10% for 2 turns.",
+    "name": "Power Scattering",
+    "summary": ""
+  },
+  {
+    "id": 26000045,
+    "description": "No effect.",
+    "name": "Wind Throw",
+    "summary": ""
+  },
+  {
+    "id": 26000047,
+    "description": "No effect.",
+    "name": "Whirlwind",
+    "summary": ""
+  },
+  {
+    "id": 26000048,
+    "description": "Reduces target's damage dealt by 25% for 2 hits.",
+    "name": "Power Hold Back",
+    "summary": ""
+  },
+  {
+    "id": 26000049,
+    "description": "Boosts all allies' SPD by 10% for 5 turns.",
+    "name": "Speed Blessing",
+    "summary": ""
+  },
+  {
+    "id": 26000050,
+    "description": "After attacking, delays target's turn by 2 turns.",
+    "name": "Puni Bomber",
+    "summary": ""
+  },
+  {
+    "id": 26000051,
+    "description": "After attacking, reduces target's damage dealt by 15% for 3 hits.",
+    "name": "Tumble",
+    "summary": ""
+  },
+  {
+    "id": 26000052,
+    "description": "No effect.",
+    "name": "Puni Ball",
+    "summary": ""
+  },
+  {
+    "id": 26000053,
+    "description": "No effect.",
+    "name": "Heel",
+    "summary": ""
+  },
+  {
+    "id": 26000054,
+    "description": "Reduces target's damage dealt by 30% for 1 hit.",
+    "name": "Puni Dark",
+    "summary": ""
+  },
+  {
+    "id": 26000055,
+    "description": "No effect.",
+    "name": "Golden Fist",
+    "summary": ""
+  },
+  {
+    "id": 26000056,
+    "description": "After attacking, reduces target's damage dealt by 25% for 3 hits.",
+    "name": "Diamond Strike",
+    "summary": ""
+  },
+  {
+    "id": 26000057,
+    "description": "No effect.",
+    "name": "Swing Strike",
+    "summary": ""
+  },
+  {
+    "id": 26000058,
+    "description": "Boosts own damage dealt by 25% for 2 hits.",
+    "name": "Surge",
+    "summary": ""
+  },
+  {
+    "id": 26000059,
+    "description": "Reduces target's SPD by 10% and damage dealt by 30% for 3 turns.",
+    "name": "Intimidate",
+    "summary": ""
+  },
+  {
+    "id": 26000060,
+    "description": "No effect.",
+    "name": "Rock Cutter",
+    "summary": ""
+  },
+  {
+    "id": 26000061,
+    "description": "No effect.",
+    "name": "Wild Strike",
+    "summary": ""
+  },
+  {
+    "id": 26000062,
+    "description": "Restores all allies' HP by 20%.",
+    "name": "Heal Powder",
+    "summary": ""
+  },
+  {
+    "id": 26000063,
+    "description": "No effect.",
+    "name": "Lightning Slash",
+    "summary": ""
+  },
+  {
+    "id": 26000064,
+    "description": "No effect.",
+    "name": "Spinning Slash",
+    "summary": ""
+  },
+  {
+    "id": 26000065,
+    "description": "Increases target's damage dealt by 20% for 2 hits.",
+    "name": "Energy Powder",
+    "summary": ""
+  },
+  {
+    "id": 26000066,
+    "description": "Increases target's damage received by 20% for 3 hits.",
+    "name": "Curse Powder",
+    "summary": ""
+  },
+  {
+    "id": 32003127,
+    "description": "Before attacking, reduces target's Bolt resistance by 25% for 3 turns.\nAfter attacking, boosts own damage dealt by 40% for 3 turns.",
+    "name": "Ninjutsu: White Tiger Lightning",
+    "summary": ""
+  },
+  {
+    "id": 32003128,
+    "description": "After attacking, reduces own damage received by 25% for 3 turns and boosts SPD by 5% (max 30%).",
+    "name": "Lightning Strike Bitter Radish",
+    "summary": ""
+  },
+  {
+    "id": 32003129,
+    "description": "After attacking, reduces skill target's Bolt resistance by 25% for 3 turns and reduces SPD by 15% for 2 turns.",
+    "name": "Numbness Bitter Radish",
+    "summary": ""
+  },
+  {
+    "id": 32003130,
+    "description": "Summons an ally (1 powerful ally).",
+    "name": "Summoning Technique",
+    "summary": ""
+  },
+  {
+    "id": 32003131,
+    "description": "After attacking, delays skill target's turn by 2 turns.",
+    "name": "Ground Shrink Technique - Improved",
+    "summary": ""
+  },
+  {
+    "id": 32003132,
+    "description": "No effect.",
+    "name": "Rolling",
+    "summary": ""
+  },
+  {
+    "id": 32003133,
+    "description": "After attacking, delays skill target's turn by 2 turns.",
+    "name": "Spin Tackle",
+    "summary": ""
+  },
+  {
+    "id": 32003134,
+    "description": "Grants self Cover for 3 turns and Counter for 2 turns.",
+    "name": "Rush Preparation",
+    "summary": ""
+  },
+  {
+    "id": 32003135,
+    "description": "No effect.",
+    "name": "Ice Rain",
+    "summary": ""
+  },
+  {
+    "id": 32003136,
+    "description": "Reduces own damage received by 15% for 3 turns.",
+    "name": "Full Power Roar",
+    "summary": ""
+  },
+  {
+    "id": 32003137,
+    "description": "No effect.",
+    "name": "Horn Strike",
+    "summary": ""
+  },
+  {
+    "id": 32003138,
+    "description": "After attacking, converts empty panels into weaken+ panels.",
+    "name": "Lightning Field Excavation",
+    "summary": ""
+  },
+  {
+    "id": 32003139,
+    "description": "After attacking, converts skill target's next turn into a weaken panel.",
+    "name": "Thunder Tail",
+    "summary": ""
+  },
+  {
+    "id": 32003140,
+    "description": "No effect.",
+    "name": "Thunder Wheel",
+    "summary": ""
+  },
+  {
+    "id": 32003141,
+    "description": "No effect.",
+    "name": "Trample",
+    "summary": ""
+  },
+  {
+    "id": 32003142,
+    "description": "After attacking, increases skill target's damage received by 25% for 2 turns.",
+    "name": "Heaven and Earth Flip",
+    "summary": ""
+  },
+  {
+    "id": 32003143,
+    "description": "Reduces single enemy's damage dealt by 25% for 5 turns.",
+    "name": "Flash Tail",
+    "summary": ""
+  },
+  {
+    "id": 32003144,
+    "description": "No effect.",
+    "name": "Rock Scowl",
+    "summary": ""
+  },
+  {
+    "id": 32003145,
+    "description": "After attacking, restores own stun gauge by 20%.",
+    "name": "Head Butt",
+    "summary": ""
+  },
+  {
+    "id": 32003146,
+    "description": "No effect.",
+    "name": "Stone Rain",
+    "summary": ""
+  },
+  {
+    "id": 32003147,
+    "description": "After attacking, restores own HP by 15%.",
+    "name": "Icy Peck",
+    "summary": ""
+  },
+  {
+    "id": 32003148,
+    "description": "No additional effects.",
+    "name": "Ice Rain",
+    "summary": ""
+  },
+  {
+    "id": 32003149,
+    "description": "Grants self damage dealt up 30% for 2 turns, damage received down 30% for 2 turns, stun damage down 30% for 2 turns, and status effect resistance down 50% for 3 turns.",
+    "name": "Meditation",
+    "summary": ""
+  },
+  {
+    "id": 32003150,
+    "description": "After attacking, converts empty panels into weaken+ panels.",
+    "name": "Lightning Mine Excavation",
+    "summary": ""
+  },
+  {
+    "id": 32003151,
+    "description": "After attacking, converts skill target's next turn into a weaken panel.",
+    "name": "Thunder Tail",
+    "summary": ""
+  },
+  {
+    "id": 32003152,
+    "description": "No additional effects.",
+    "name": "Thunder Wheel",
+    "summary": ""
+  },
+  {
+    "id": 32003153,
+    "description": "No additional effects.",
+    "name": "Stomp",
+    "summary": ""
+  },
+  {
+    "id": 32003154,
+    "description": "After attacking, boosts skill target's damage received by 25% for 2 turns.",
+    "name": "Heaven and Earth Reversal",
+    "summary": ""
+  },
+  {
+    "id": 32003155,
+    "description": "Reduces a single enemy's damage dealt by 25% for 5 turns.",
+    "name": "Flash Tail",
+    "summary": ""
+  },
+  {
+    "id": 32003156,
+    "description": "No additional effects.",
+    "name": "Rock Scowl",
+    "summary": ""
+  },
+  {
+    "id": 32003157,
+    "description": "After attacking, restores own stun gauge by 20%.",
+    "name": "Headbutt",
+    "summary": ""
+  },
+  {
+    "id": 32003158,
+    "description": "No additional effects.",
+    "name": "Stone Rain",
+    "summary": ""
+  },
+  {
+    "id": 32003159,
+    "description": "After attacking, restores own HP by 15%.",
+    "name": "Icy Beak",
+    "summary": ""
+  },
+  {
+    "id": 32003160,
+    "description": "No additional effects.",
+    "name": "Ice Rain",
+    "summary": ""
+  },
+  {
+    "id": 32003161,
+    "description": "Grants self damage dealt up 30% for 2 turns, damage received down 30% for 2 turns, stun damage down 30% for 2 turns, and status effect resistance down 50% for 3 turns.",
+    "name": "Meditation",
+    "summary": ""
   }
 ]

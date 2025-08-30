@@ -1,0 +1,546 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "こんばんは、あの、調子、どうですか？",
+        "localizations": {
+          "en": "Good evening. Um, how are you feeling?"
+        }
+      },
+      "2072370017": {
+        "text": "キューン",
+        "localizations": {
+          "en": "Quinn"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "こんばんは、解読は順調ですよ",
+        "localizations": {
+          "en": "Good evening. The deciphering is coming along well."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "って、どなたですか！？",
+        "localizations": {
+          "en": "Wait, who are you?!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "彼女はキューン。私たちの妹です",
+        "localizations": {
+          "en": "This is Quinn. She's our sister."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "あなたは……！\nじゃあ、この方も九偉人の一人……",
+        "localizations": {
+          "en": "You're...! So she's one of the Nine too..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "ヴァレリアの姉妹たち、ということか",
+        "localizations": {
+          "en": "Valeria's sisters, then."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "はじめまして、キューンって言います。\nこれからよろしくお願いします",
+        "localizations": {
+          "en": "Nice to meet you. I'm Quinn. Please let me assist you."
+        }
+      },
+      "2072370017": {
+        "text": "キューン",
+        "localizations": {
+          "en": "Quinn"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "あ、これはどうもご丁寧に……",
+        "localizations": {
+          "en": "Well, aren't you polite..."
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "言ってる場合！？\u3000というか、本当にあいつらの\n仲間なの？\u3000ぜんぜん威厳ないんだけど……",
+        "localizations": {
+          "en": "Is this really the time for pleasantries?! And are you actually one of them? You don't seem to have that sort of aura at all..."
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "えっと……それで、ご用件は？",
+        "localizations": {
+          "en": "Um... so what brings you here?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "……このアトリエの主が向かっている、\nケイウンについての話です",
+        "localizations": {
+          "en": "...It's about Keiun, where this atelier's master is currently headed."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "えっ……！\nな、なんでそれを……",
+        "localizations": {
+          "en": "What...! H-how do you know about that..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "我々の力をもってすれば造作もないこと。\n早速ですが新たな指示を伝えます",
+        "localizations": {
+          "en": "Such things are trivial for us. Let me get straight to the point - we have new instructions for you."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "あなたたちはケイウンから手を引きなさい。\n引き続き、果ての大陸へ向かうことに専念するように",
+        "localizations": {
+          "en": "You are to withdraw from Keiun. Continue focusing on your journey to World's End instead."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "はぁ？\u3000なんでそんな命令するの！？\nケイウンに果ての大陸の情報があるかもなのに！",
+        "localizations": {
+          "en": "Who are you to order us around like that?! Besides, there might be information about World's End in Keiun!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "危ないからだよ。あの国はこれから戦で\nこの無数島群域を統一しようとしているの",
+        "localizations": {
+          "en": "Simply put, it's dangerous. That nation is about to wage a war to unify the entire Infinite Island Chain."
+        }
+      },
+      "2072370017": {
+        "text": "キューン",
+        "localizations": {
+          "en": "Quinn"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "それくらいこっちも知ってるわよ。\nだからこそ止めるためにアルビーナたちが……",
+        "localizations": {
+          "en": "We know that much already. That's exactly why Alvina and the others went to put an end to it..."
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "あー。えーと、そうじゃなくて\n危険なのは私たちが働くからであって",
+        "localizations": {
+          "en": "Ah. That's not what I meant. It will be dangerous because we're going to be intervening."
+        }
+      },
+      "2072370017": {
+        "text": "キューン",
+        "localizations": {
+          "en": "Quinn"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "パルメ族はケイウンを危険因子と判断し、\n「管理」を決定しました",
+        "localizations": {
+          "en": "The Palme have judged Keiun to be a dangerous element and have decided to 'manage' it."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "ケイウンの動乱は我々に任せて、\nあなたには本来の目的に戻ってもらいたいのです",
+        "localizations": {
+          "en": "Leave Keiun's turmoil to us. We want you to focus on your original purpose."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "ケイウンをパルメ族が「管理」するって……\nいったい何をするつもりですか？",
+        "localizations": {
+          "en": "The Palme are going to manage Keiun... What exactly are you planning to do?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "もしや……かつてのアメルハウザー家への仕打ちと\n同じことをするつもりなのか？",
+        "localizations": {
+          "en": "Don't tell me... you intend to do the same thing you did to the Amelhauser family long ago?"
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "結果的にアメルハウザー家は力を失い、残った勢力が\n手を取り合い、ランターナ王国を建国した",
+        "localizations": {
+          "en": "The Amelhauser family ultimately lost their power, and the remaining factions joined hands to found the Kingdom of Lantarna."
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "堂免家の当主たちも同じように滅ぼすつもり、\nということですか！？",
+        "localizations": {
+          "en": "So you're planning to eradicate the Domen family's leadership the same way?!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "いいえ。アメルハウザー家は当主を「管理」しても一族\nを多く残していたため、それが後の禍根になったと判断",
+        "localizations": {
+          "en": "No. Even after we dealt with the Amelhausers, many family members survived. It was them which we determined ultimately became the source of future complications."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "だからね、今回はもっと徹底的な「管理」を\nマスターは望んでるんだ",
+        "localizations": {
+          "en": "So this time, Master wants a more thorough 'management plan.'"
+        }
+      },
+      "2072370017": {
+        "text": "キューン",
+        "localizations": {
+          "en": "Quinn"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "今回「管理」の対象は当主たちに限らず、\n堂免家全体となります",
+        "localizations": {
+          "en": "This time, our attention won't be limited to the family heads—the entire Domen family needs to be addressed."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "植物に栄養を渡らせるために、芽を間引くのと同じ。\nなるべく多くの人類を幸福にするため、必要な行為です",
+        "localizations": {
+          "en": "It's like thinning sprouts so nutrients can reach the plants. A necessary action to bring peace to as many humans as possible."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "そんなこと、本気で言ってるの！？",
+        "localizations": {
+          "en": "Did you really just say all that with a straight face? I can't believe what I'm hearing."
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "私は冗談を言いません。\nレスナ、あなたが果ての大陸を見つけた後もそうです",
+        "localizations": {
+          "en": "We're dead serious here. A similar fate awaits the rest of the world after you find World's End, Resna."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "錬金術を中心とした叡智の時代が訪れたとき……\nそれを認めず、恐れ、もしくは利用する……",
+        "localizations": {
+          "en": "When the age of wisdom centered on alchemy arrives... those who refuse to accept it, fear it, or seek to exploit it..."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "そのような、悪しき考えを抱く危険のある連中は、\nあらかじめパルメ族が「管理」することになるでしょう",
+        "localizations": {
+          "en": "Anyone with the potential to harbor such dangerous thoughts will be managed in advance by the Palme."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,716 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "くんくん……む、これは！",
+        "localizations": {
+          "en": "That smell... Ah, this is...!"
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "え、どうしたの？",
+        "localizations": {
+          "en": "Found something?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "それは……！",
+        "localizations": {
+          "en": "That's...!"
+        }
+      },
+      "2072370017": {
+        "text": "ソフィー",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "仙人の実、しかと見つけたり！",
+        "localizations": {
+          "en": "Sage Fruit! I have indeed found some!"
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "やったー！\u3000ここまで歩いて来た甲斐あったっすわ～",
+        "localizations": {
+          "en": "Yes! Coming all the way here was worth it!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "よーし、待っててくれよ、鏑矢",
+        "localizations": {
+          "en": "All right, let's get to work on helping Kaburaya."
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "……これでよし。個数は十分でしょうか？",
+        "localizations": {
+          "en": "...Here. Will this be sufficient?"
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "うん、バッチリ！\nあとは帰って調合するだけ……",
+        "localizations": {
+          "en": "Yep, that's perfect! Now we just need to go back and synthesize the antidote..."
+        }
+      },
+      "2072370017": {
+        "text": "ソフィー",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "……っ！\n待ってください！\u3000誰かがこっちに来ます！",
+        "localizations": {
+          "en": "...! Wait! Someone is approaching!"
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "なんだって？\nこっちは古い社だし、参詣に来る者なんて……",
+        "localizations": {
+          "en": "What? This is an old shrine—no one comes here to pray..."
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "武装した人の足音が複数……\n永遠さん、他に道は？",
+        "localizations": {
+          "en": "Multiple footsteps, it seems like they're armed too... Towa, is there another way out?"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "いや、来た道だけだが……",
+        "localizations": {
+          "en": "No, the way we came is the only way in and out of here..."
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "逃げ道、塞がれたかも",
+        "localizations": {
+          "en": "Then it seems we have no escape route."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "逃げたネズミが２匹……\nコウセンの言った通りだな",
+        "localizations": {
+          "en": "The two fugitive rats who fled... Just as Kosen predicted."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "鏑矢……！！\nなぜここが……！！",
+        "localizations": {
+          "en": "Kaburaya...!! How did you find us...?!"
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "外から来た者に監視をつけるのは当然のこと。\nそうしたところ、お尋ね者どもも引っかかった",
+        "localizations": {
+          "en": "It's only natural to place surveillance on outsiders. And in doing so, it seems we have caught our fugitives as well."
+        }
+      },
+      "2072370017": {
+        "text": "コウセン",
+        "localizations": {
+          "en": "Kosen"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "式神か……！\u3000皆様、申し訳ござらぬ！\n命の無い物の気配を察知することができず……",
+        "localizations": {
+          "en": "Shikigami...! Everyone, my deepest apologies! I failed to detect the presence of those soulless beings..."
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "いや……これは陰陽師である俺の失策だ。\n鬼門の警戒に甘え、式神への対策が不十分だった",
+        "localizations": {
+          "en": "No... this is my failure as a diviner. I relied too heavily on your vigilance and didn't take sufficient precautions against shikigami."
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "謝り合ってる場合じゃないよ！\nなんとかしないと……！",
+        "localizations": {
+          "en": "This isn't the time for blame! We need to act...!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "鏑矢様、この者たちは反逆者と結託し\n我々の計画を邪魔しようとしています",
+        "localizations": {
+          "en": "Lady Kaburaya, these individuals have conspired with rebels and seek to interfere with our plans."
+        }
+      },
+      "2072370017": {
+        "text": "コウセン",
+        "localizations": {
+          "en": "Kosen"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "……残念だ。\n面白い奴らだと見込んでいたのだが……",
+        "localizations": {
+          "en": "...How disappointing. I had such high hopes for all of you."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "詳しい話は牢の中で聞かせてもらおう",
+        "localizations": {
+          "en": "You can spill the beans once you are put in cells."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "牢まで待たなくていい。聞きたいなら教えてやる。\n鏑矢、お前は騙されているんだ",
+        "localizations": {
+          "en": "There's no need for that. If it's the truth you want, Kaburaya, right now will do. In short, you're being deceived."
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "お前は思考を操られ、\n本意ではない行動をさせられている",
+        "localizations": {
+          "en": "Your thoughts are being manipulated, and you're being made to act against your true nature."
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "悪の陰陽師コウセン、こいつが用いた玉涎香によって！",
+        "localizations": {
+          "en": "By that vile diviner Kosen, using that Jade Nectar!"
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "何を言い出すかと思えば……\n鏑矢様、反逆者どもの言葉を真に受けてはなりませぬ",
+        "localizations": {
+          "en": "What nonsense are you spouting... Lady Kaburaya, you mustn't take the rebels' words seriously."
+        }
+      },
+      "2072370017": {
+        "text": "コウセン",
+        "localizations": {
+          "en": "Kosen"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "余は誰にも操られてなどいない。\nこうしてお前たちを裁くのも、余の意思だ",
+        "localizations": {
+          "en": "I am not being manipulated by anyone. I am acting of my own volition."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "違うの！\u3000そういうあなたの攻撃的な気持ちを\nお香で増幅させられているの！",
+        "localizations": {
+          "en": "That's not true! The incense amplies any aggressive tendencies you might have!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "信じてください鏑矢様！\u3000あなたは気付かぬうちに\n少しずつ破滅の道へ向かっているのです！",
+        "localizations": {
+          "en": "Please believe us, Lady Kaburaya! You are unknowingly walking down a path to destruction!"
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "昔のお前ならば、武力によって反乱を起こそうなどと\n考えるはずはない！",
+        "localizations": {
+          "en": "The old you would never have considered starting a rebellion through force!"
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "ふむ……なるほどな。\n永遠や鬼門が余にたてついた理由はそれか",
+        "localizations": {
+          "en": "Hmm... I see. So that's why Towa and Kimon have turned against me."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "そ、そうなの！\u3000だから本当の敵はコウセンで……",
+        "localizations": {
+          "en": "Y-yes! So the real enemy is Kosen..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "いや、違う",
+        "localizations": {
+          "en": "No, you're wrong."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "えっ……？",
+        "localizations": {
+          "en": "Huh...?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "脆弱になったケイウンに絶望し、余自らが兵を起こして\n強靭な武士の国を取り戻し、世界に覇を唱える",
+        "localizations": {
+          "en": "Despairing at the state of Keiun's weakness, I myself chose to raise an army to restore a nation of strong warriors and claim dominion over the world."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "この想いは誰にも歪められたものではない！\n幼い頃より余の中で燻っていた野望そのものだ！！",
+        "localizations": {
+          "en": "These feelings haven't been twisted by anyone! They are my own ambitions that I have always harbored within me. Since childhood!!"
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "そ、そんな……",
+        "localizations": {
+          "en": "T-that can't be..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "お前たち、反逆者どもを捕らえよ",
+        "localizations": {
+          "en": "Seize these rebels."
+        }
+      },
+      "2072370017": {
+        "text": "コウセン",
+        "localizations": {
+          "en": "Kosen"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "くっ……かくなる上は……",
+        "localizations": {
+          "en": "Tch... In that case..."
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "おっと、捨て鉢は誰も喜ばないぞ。\n多勢に無勢、ここは降伏するのが一番だ",
+        "localizations": {
+          "en": "Don't, acts of desperation won't get us anywhere. We're outnumbered—surrendering here is our best option."
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "く……",
+        "localizations": {
+          "en": "Grr..."
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "（ごめん、しくじっちゃった……\n\u3000ヴァレリア、頼んだよ……）",
+        "localizations": {
+          "en": "(Sorry, I messed up... Valeria, I'm counting on you...)"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  }
+]

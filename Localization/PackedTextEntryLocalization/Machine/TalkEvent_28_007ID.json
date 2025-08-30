@@ -1,0 +1,614 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "不思議ね、なんで動いていなくてもお腹は減るのかしら",
+        "localizations": {
+          "en": "Strange... Why do I get hungry even when I'm not doing anything?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "退屈しているみたいですね",
+        "localizations": {
+          "en": "You seem pretty bored."
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "景色変わんないし、魔物出ないし！\n楽なのはいいけど、身体がなまっちゃうわ",
+        "localizations": {
+          "en": "The scenery never changes, and there are no monsters! It's nice that things are peaceful, but my body's getting rusty."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "先行したバーバラ号が\n露払いをしてくれているのでしょうね",
+        "localizations": {
+          "en": "The Barbara that went ahead must be clearing the way for us."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "こういう移動の暇な時間を省略してくれるから\nこの飴ってすごいわよね",
+        "localizations": {
+          "en": "Those candies are amazing for skipping over boring travel time like this."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "まあ、初めて行く土地じゃ\nいつも使えないわけだけど",
+        "localizations": {
+          "en": "Though I guess we can't use them when we're going somewhere new."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "ケイウンでの騒動が終わればきっと\n飴で移動できるようになりますわ",
+        "localizations": {
+          "en": "Once the trouble in Keiun is resolved, we'll surely be able to travel there by candy."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "片道で済むんなら\nそれだけでもありがたいものね",
+        "localizations": {
+          "en": "Even if it's just one-way, that would still be incredibly helpful."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "私たちの世界に持って帰れたら\n調査も楽になりそうなんですけどね",
+        "localizations": {
+          "en": "If we could take them back to our world, it would make investigations so much easier."
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "ふぅ……はぁ……\n潮の香りが染みるわ",
+        "localizations": {
+          "en": "Sigh... Huff... The sea air is really getting to me."
+        }
+      },
+      "2072370017": {
+        "text": "ディオーナ",
+        "localizations": {
+          "en": "Diona"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "あら、船酔いですの？\n顔色がよろしくなくてよ",
+        "localizations": {
+          "en": "Oh my, are you seasick? You don't look well at all."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "な、なんとありがたく、もったいないお言葉……！\n普通にしている分には問題なかったのですが……",
+        "localizations": {
+          "en": "Th-thank you for your gracious concern...! I was fine when I was just sitting normally, but..."
+        }
+      },
+      "2072370017": {
+        "text": "ディオーナ",
+        "localizations": {
+          "en": "Diona"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "嘘！？\u3000これもミーケの作品！？\nめっちゃいいじゃん！\u3000特にここの模様！！",
+        "localizations": {
+          "en": "No way! This is one of Mieke's creations too?! It's so good! Especially this pattern here!!"
+        }
+      },
+      "2072370017": {
+        "text": "アイラ",
+        "localizations": {
+          "en": "Isla"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "分かる？\u3000分かっちゃう？\n嬉しいな、気合を入れた部分、分かってもらえるの！",
+        "localizations": {
+          "en": "You can tell? You really can tell? I'm so happy you noticed the parts I put extra effort into!"
+        }
+      },
+      "2072370017": {
+        "text": "ミーケ",
+        "localizations": {
+          "en": "Mieke"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "服飾談議に花が咲いて、実際に型紙などを\n見ていたら、少々気分が悪く……",
+        "localizations": {
+          "en": "We got carried away talking about fashion, and when I started looking at actual patterns and such, I began feeling a bit queasy..."
+        }
+      },
+      "2072370017": {
+        "text": "ディオーナ",
+        "localizations": {
+          "en": "Diona"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "そうでしたのね、もしひどくなりそうでしたら\nランツェに操舵を穏やかにするよう申し付けますわ",
+        "localizations": {
+          "en": "I see. If it gets worse, I'll have Lanze steer more gently."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "いえ、そこまでは……！\nお心遣い、痛み入ります！",
+        "localizations": {
+          "en": "Oh no, that won't be necessary...! I'm deeply grateful for your consideration!"
+        }
+      },
+      "2072370017": {
+        "text": "ディオーナ",
+        "localizations": {
+          "en": "Diona"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "あっ……！？\u3000ララ様と会話していただけで、\n具合が良くなりました！\u3000すごいです！",
+        "localizations": {
+          "en": "Oh...! Just talking with you has made me feel better already! That's incredible!"
+        }
+      },
+      "2072370017": {
+        "text": "ディオーナ",
+        "localizations": {
+          "en": "Diona"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "それはよかったですわ。無理はしないように",
+        "localizations": {
+          "en": "I'm glad to hear it. Just don't push yourself too hard."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "ディオーナさんたちは元々装飾屋さんなんですよね？\nアイラは服作りが趣味だから……はしゃいですみません",
+        "localizations": {
+          "en": "You and Diona used to run an accessory shop, right? Isla's hobby is making clothes, so... sorry she's getting so excited."
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "ねえねえ、アイラはどんな服作ってるの？\n見せて見せて！",
+        "localizations": {
+          "en": "Hey hey, what kind of clothes does Isla make? Show me, show me!"
+        }
+      },
+      "2072370017": {
+        "text": "ミーケ",
+        "localizations": {
+          "en": "Mieke"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "本物の職人に見せるのは恥ずかしいけど……\n描き溜めてる衣装案はあるよ、こんな感じで",
+        "localizations": {
+          "en": "It's embarrassing showing a real professional, but... I do have some outfit designs I've been sketching. Like this one here."
+        }
+      },
+      "2072370017": {
+        "text": "アイラ",
+        "localizations": {
+          "en": "Isla"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "わぁ……！\u3000すごい、ここのお花いいね！\nミーケにはこの発想なかったよ！\u3000ねね、これは！？",
+        "localizations": {
+          "en": "Wow...! Amazing! I love the flowers here! I never would have thought of that! And this part!?"
+        }
+      },
+      "2072370017": {
+        "text": "ミーケ",
+        "localizations": {
+          "en": "Mieke"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "どちらかというと、ミーケちゃんのほうが\nはしゃいでるかも。あの子、甘えるの上手だから",
+        "localizations": {
+          "en": "If anything, Mieke's the one getting excited. She's very good at charming people."
+        }
+      },
+      "2072370017": {
+        "text": "ディオーナ",
+        "localizations": {
+          "en": "Diona"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "あ、あはは……",
+        "localizations": {
+          "en": "A-ahaha..."
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "ねえ、アイラも一緒にお店やろうよ？\n才能あるし、元の世界に帰るまでの間だけでもさ！",
+        "localizations": {
+          "en": "Hey, why don't you run a shop with us? You've got talent, and it could be just until you go back to your world!"
+        }
+      },
+      "2072370017": {
+        "text": "ミーケ",
+        "localizations": {
+          "en": "Mieke"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "本職からのお誘い！？\u3000うわ、どうしよっかな……\nちょっと、いやかなり興味あるかも……",
+        "localizations": {
+          "en": "An invitation from a professional?! Wow, what should I do... I'm definitely interested. Maybe very interested..."
+        }
+      },
+      "2072370017": {
+        "text": "アイラ",
+        "localizations": {
+          "en": "Isla"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "それなら、早速ここの書類に名前をどうぞだねぇ！",
+        "localizations": {
+          "en": "In that case, just sign your name on this paperwork right here!"
+        }
+      },
+      "2072370017": {
+        "text": "ミーケ",
+        "localizations": {
+          "en": "Mieke"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "あれは……何かの契約書ですか？",
+        "localizations": {
+          "en": "Is that... some kind of contract?"
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "ララ・キングダムの国籍取得届ですわ",
+        "localizations": {
+          "en": "It's a citizenship application for the Kingdom of Lara."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "今入国するとララ様とのお食事特典もございます。\nあなたも王国民になってララ様と握手！",
+        "localizations": {
+          "en": "If you become a citizen now, you'll get the special bonus of dining with Queen Lara. Join the kingdom and shake hands with Her Majesty!"
+        }
+      },
+      "2072370017": {
+        "text": "ディオーナ",
+        "localizations": {
+          "en": "Diona"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "き、気軽に国籍を取っちゃダメです！\u3000アイラは\n渡しませんから！\u3000あー！\u3000書類書いちゃダメ～！",
+        "localizations": {
+          "en": "Y-you can't just casually acquire citizenship like that! I'm not letting you have Isla! Ah! Don't fill out those forms!"
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "アラディス調査団に所属する唯一の錬金術士。\n調査団の任務として、ヴァレリアたちに同行している",
+        "localizations": {
+          "en": "The only alchemist belonging to the Aladiss Research Team. She's accompanying Valeria's group as part of the team's mission."
+        }
+      },
+      "2072370017": {
+        "text": "ユミア・リースフェルト",
+        "localizations": {
+          "en": "Yumia Liessfeldt"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "ランターナ王国では名の知れた歌姫で、ララの重臣。\nこのたびララに呼び出され、ミーケと共に合流した",
+        "localizations": {
+          "en": "A renowned singer in the Kingdom of Lantarna and one of Lara's trusted vassals. She was summoned by Lara and joined the group along with Mieke."
+        }
+      },
+      "2072370017": {
+        "text": "ディオーナ・グルンドベリ",
+        "localizations": {
+          "en": "Diona Grundberg"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "アラディス調査団の一員。調査団の任務とちょっぴりの\n個人的趣味のため、ヴァレリアたちに同行している",
+        "localizations": {
+          "en": "A member of the Aladiss Research Team. She's accompanying Valeria's group for both the team's mission and her own personal interests."
+        }
+      },
+      "2072370017": {
+        "text": "アイラ・フォン・デューラー",
+        "localizations": {
+          "en": "Isla von Duerer"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "若者に人気の服飾家で、ララの重臣。\nこのたびララに呼び出され、ディオーナと共に合流した",
+        "localizations": {
+          "en": "A fashion designer popular with young people and one of Lara's trusted vassals. She was summoned by Lara and joined the group along with Diona."
+        }
+      },
+      "2072370017": {
+        "text": "ミーケ・クロンメリン",
+        "localizations": {
+          "en": "Mieke Cronmelin"
+        }
+      }
+    }
+  }
+]

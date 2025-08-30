@@ -1086,12 +1086,52 @@
   },
   {
     "id": 1168,
-    "description": "While equipped to Oni Gate [Enduring Loyalty], after any party member uses a battle item, boosts own skill damage by {0}% for 1 turn.<br>※Effect only activates once per turn, even if multiple items are used simultaneously.",
+    "description": "While equipped to Kimon [Enduring Loyalty], after any party member uses a battle item, boosts own skill damage by {0}% for 1 turn.<br>※Effect only activates once per turn, even if multiple items are used simultaneously.",
     "name": "Shadow Cutter"
   },
   {
     "id": 1169,
     "description": "While equipped to Towa [Eloquent Shikigami User], after any party member uses a battle item, grants all allies damage received -{0}% (fixed) for 1 attack.<br>※Only triggers once even if multiple items are used simultaneously.",
     "name": "Origami Amulet"
+  },
+  {
+    "id": 1170,
+    "description": "While equipped to Kaburaya [Brightest Star in the Sky], after any party member uses a battle item, increases magic attack damage received by all enemies by {0}% for 2 attacks (up to 2 stacks).<br>※Effect triggers only once even when multiple items are used simultaneously",
+    "name": "Stellar Radiant Blade"
+  },
+  {
+    "id": 1171,
+    "description": "While equipped to a character with Bolt affinity, boosts skill damage by {0}%.<br>While equipped to an Attacker, before attacking, reduces target's Bolt resistance by {1}% for 1 attack.",
+    "name": "Naïve & Night"
+  },
+  {
+    "id": 1172,
+    "description": "While equipped to a character with Fire affinity, reduces damage received from area attacks by {0}% for all allies (fixed).<br>While equipped to a Defender, when receiving an attack, boosts own max HP by {1}% (up to 10%).",
+    "name": "Trouble Tempest"
+  },
+  {
+    "id": 1173,
+    "description": "While equipped to a character with Air affinity, after any party member uses a battle item, boosts own buff effect potency by {0}% for 1 turn.<br>※Effect triggers only once even when multiple items are used simultaneously.<br>While equipped to a Supporter, boosts all allies' M.ATK by {1}%.",
+    "name": "Sweet & Fresh"
+  },
+  {
+    "id": 1174,
+    "description": "Boosts own critical damage by {0}%.",
+    "name": "Raging Demon God's Armor"
+  },
+  {
+    "id": 1175,
+    "description": "Boosts own critical damage by {0}%.",
+    "name": "Raging Demon God's Armor"
+  },
+  {
+    "id": 1176,
+    "description": "After attacking, increases target's damage received by {0}% for 1 attack (up to 2 stacks).",
+    "name": "Spirit's Buckler"
+  },
+  {
+    "id": 1177,
+    "description": "After attacking, increases target's damage received by {0}% for 1 attack (up to 2 stacks).",
+    "name": "Spirit's Buckler"
   }
 ]

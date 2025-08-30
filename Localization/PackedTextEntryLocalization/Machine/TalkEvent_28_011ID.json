@@ -1,0 +1,767 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "どうだ？\u3000ケイウン料理は口に合ったか？",
+        "localizations": {
+          "en": "So, how was it? Did the Keiun cuisine suit your tastes?"
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "はい、最初は驚いたりしましたけど\nどれもとっても美味しいです！",
+        "localizations": {
+          "en": "Yes, I was surprised at first, but everything was absolutely delicious!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "そうかそうか。それは何より！",
+        "localizations": {
+          "en": "Excellent, excellent! That's wonderful to hear!"
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "……で、だ。そろそろ見せてもらいたい。\nはは、うずうずしていてな",
+        "localizations": {
+          "en": "...Now then. I'd like to see what you've brought. Haha, I'm practically bursting with curiosity."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "はい、錬金術の品物ですね！\n少し音が出ますし、広くて人気のない所は……",
+        "localizations": {
+          "en": "Of course, the alchemical goods! It might get noisy, so somewhere spacious and away from people would be..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "おお、では城内の修練場へと案内しよう。\nこちらだ",
+        "localizations": {
+          "en": "Ah, then I'll guide you to the training grounds within the castle. This way."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "さすが姉様……美味しいご飯を食べても仕事、\n忘れていない",
+        "localizations": {
+          "en": "Even after a delicious meal, she never forgets about work. That's just like you!"
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "アルビちゃんは、そういうしっかり者で\n売り込んでるから",
+        "localizations": {
+          "en": "I've got my reputation to uphold."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "……コウセンという人はこの中にいないみたいね",
+        "localizations": {
+          "en": "...That Kosen person doesn't seem to be among them."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "永遠さんから聞いた人相の人はいませんよね……\nとはいえ、下手に聞いたら怪しまれますし……",
+        "localizations": {
+          "en": "No one matching the description Towa gave us... Though asking around carelessly would just make us look suspicious..."
+        }
+      },
+      "2072370017": {
+        "text": "ソフィー",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "どうした、早くしないと置いていくぞー",
+        "localizations": {
+          "en": "What's keeping you? Hurry up or I'll leave you behind!"
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "は、はい！\u3000ただいま！",
+        "localizations": {
+          "en": "Y-yes! Coming!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "ここならどうだ？\u3000兵士たちが稽古する場だが",
+        "localizations": {
+          "en": "How about here? It's where the soldiers practice their drills."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "はい、問題ありません。\nでは早速、取り出したるは……クラフトです！",
+        "localizations": {
+          "en": "Perfect! Now then, what I'm about to show you is... a Craft!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "ふむ……？\u3000これはどう使うのだ？",
+        "localizations": {
+          "en": "Hmm...? How exactly do you use this?"
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "これをこうして投げると……ちょあっ！",
+        "localizations": {
+          "en": "You throw it like this and... whoa!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "おお、修練用の木人が粉々ではないか！\nこれは素晴らしい！",
+        "localizations": {
+          "en": "Amazing! The training dummy is completely obliterated! This is magnificent!"
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "（永遠さんとの打ち合わせ通り、\n\u3000派手な爆発をする道具に食いついたわね……）",
+        "localizations": {
+          "en": "(Just as we planned with Towa—she's completely enamored with the explosive device...)"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "この武器が量産できれば、戦や発掘にも\n大いに活用できそうだ！\u3000なあ、千歳！",
+        "localizations": {
+          "en": "If this weapon could be mass-produced, it would be incredibly useful for both warfare and excavation! Don't you think so, Chitose?"
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "はい……でも、少し、怖いです……",
+        "localizations": {
+          "en": "Yes... but it's a little... frightening..."
+        }
+      },
+      "2072370017": {
+        "text": "千歳",
+        "localizations": {
+          "en": "Chitose"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "錬金術は怖いものだけじゃないですよ。\nたとえばこれ……ゴルトアイゼン",
+        "localizations": {
+          "en": "Alchemy isn't all scary things, you know. For example, this... Goldoterion."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "それは金塊か？\u3000その程度ならこの城にも……\nいや、待て、なんだこの純度は……！",
+        "localizations": {
+          "en": "Is that a gold ingot? We have plenty of those in this castle... No, wait. What is this purity...!"
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "ケイウンの冶金ではこのように鮮やかな金塊は造れん。\nこれだけで錬金術が優れているのが分かる……！",
+        "localizations": {
+          "en": "Keiun's metallurgy could never produce such a brilliant gold ingot. This alone shows how superior alchemy is...!"
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "（光りモノも好き……情報通り……\n\u3000最後にとどめのひと押し……）",
+        "localizations": {
+          "en": "(She likes shiny things too... just like the intel said... Time for the final push...)"
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "これは生きてる荷車です。一定の場所を往復します。\n荷物運びに便利なんですよ",
+        "localizations": {
+          "en": "This is a living cart. It travels back and forth between set locations. It's very handy for carrying cargo."
+        }
+      },
+      "2072370017": {
+        "text": "ソフィー",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "なんと、勝手に動く荷車など初めて見た！\nなぁ、千歳！",
+        "localizations": {
+          "en": "Incredible! I've never seen a cart that moves on its own! Look at this, Chitose!"
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "はい、かわいいです",
+        "localizations": {
+          "en": "Yes, it's cute."
+        }
+      },
+      "2072370017": {
+        "text": "千歳",
+        "localizations": {
+          "en": "Chitose"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "（ケイウンの人もなじみがある荷車なら\n\u3000生きてる道具の中でも受け入れやすいよね……！）",
+        "localizations": {
+          "en": "(Since carts are familiar to people in Keiun, they should be more accepting of this living tool than others...!)"
+        }
+      },
+      "2072370017": {
+        "text": "ソフィー",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "いいものを見せてもらったぞ\n錬金術の素晴らしさ、面白さ……よく伝わった！",
+        "localizations": {
+          "en": "You've shown me wonderful things. The brilliance and fascination of alchemy... it comes through perfectly!"
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "喜んでいただけて恐縮です！",
+        "localizations": {
+          "en": "We're honored that you're pleased!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "お前たちの持ってきた商品、すべて言い値で買おう！\n場合によっては追加で注文したい！",
+        "localizations": {
+          "en": "I'll buy all the goods you've brought at your asking price! And depending on the situation, I'd like to place additional orders!"
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "はい！",
+        "localizations": {
+          "en": "Absolutely!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "それとお前たちの武を見せてもらいたい！",
+        "localizations": {
+          "en": "And I'd like to see your martial prowess!"
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "はい！\n",
+        "localizations": {
+          "en": "Of course!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "……はい？",
+        "localizations": {
+          "en": "...Wait... what?!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "海の彼方より魔物を切り伏せやって来たその力を、\n腹ごなしに見せてもらいたくなった",
+        "localizations": {
+          "en": "That strength that carried you across the seas, cutting down monsters along the way—I'd like to see it as a bit of after-dinner entertainment."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "え、でもそんな、危ないですよ！",
+        "localizations": {
+          "en": "Oh, but that would be dangerous!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "安心しろ。余興だ、余興！\n……それとも何か？",
+        "localizations": {
+          "en": "Don't worry. It's just for fun! Maybe..."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "余に、かなうとでも？",
+        "localizations": {
+          "en": "Do you think you can best me?"
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "（想定外の展開だけど……でも、鏑矢さんの場合\n\u3000きっと強い人のほうが認めてくれるよね）",
+        "localizations": {
+          "en": "(This isn't part of the plan, but... knowing Kaburaya, she'd probably respect strength.)"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "わ、分かりました！\nその胸、どーんとお借りします！",
+        "localizations": {
+          "en": "A-all right! We'll take you up on that challenge!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "よし。では千歳、お前も共に行くぞ",
+        "localizations": {
+          "en": "Excellent. Chitose, you'll join me as well."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "はい。鏑矢様が仰るのなら。\n皆様、よろしくお願いいたします",
+        "localizations": {
+          "en": "Yes. If you wish it, Lady Kaburaya. Everyone, please go easy on us."
+        }
+      },
+      "2072370017": {
+        "text": "千歳",
+        "localizations": {
+          "en": "Chitose"
+        }
+      }
+    }
+  },
+  {
+    "id": 43,
+    "properties": {
+      "999008199": {
+        "text": "ただの巫女と思って甘く見ないほうがいい。\n余の臣下として、武芸の心得もあるからな",
+        "localizations": {
+          "en": "Don't underestimate her just because she's a shrine maiden. As one of my retainers, she's well-versed in martial arts too."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 44,
+    "properties": {
+      "999008199": {
+        "text": "……では、戦おう！",
+        "localizations": {
+          "en": "...Now then, let us battle!"
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  }
+]

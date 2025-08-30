@@ -718,5 +718,21 @@
     "overlay_name": "Towa Shigan",
     "profile_voice_text": "Childhood friend of Lady Kaburaya, head of the Domen family, and beautiful diviner, Towa Shigan. Pleased to make your acquaintance.",
     "start_at": "2025-08-22T03:00:00Z"
+  },
+  {
+    "id": 45801,
+    "acquisition_text": "If there's the light of Venus in the heavens, then there's the brilliance of Kaburaya on earth!\nCome now, follow me!",
+    "another_name": "Brightest Star in the Sky",
+    "description": "The young lady of the Domen family, who governs southern Keiun.\nShe has been childhood friends with the ninja Kimon and the diviner Towa since they were young.\nShe has been skilled with the sword since childhood and has won the Keiun martial arts tournament with her unique swordsmanship.\nShe prefers new and beneficial things over useless old traditions.",
+    "fullname": "Kaburaya Domen",
+    "leader_skill": {
+      "description": "Boosts all allies' P.ATK and M.ATK by 10% and skill damage and stun damage by 20% for each Keiun character in the party.",
+      "name": "Lord Who Mastered the Martial Way"
+    },
+    "name": "Kaburaya",
+    "overlay_name": "Kaburaya Doumen",
+    "profile_voice_text": "I am Kaburaya Domen, lord of Keiun!\nLet my strength serve you well.",
+    "sort_name": "KABURAYA",
+    "start_at": "2025-08-29T03:00:00Z"
   }
 ]

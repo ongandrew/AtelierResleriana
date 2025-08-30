@@ -1,0 +1,614 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "海の向こうに見えるあの灯り……\nあそこがケイウンなのよね",
+        "localizations": {
+          "en": "Those lights across the water... That's Keiun, isn't it?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "そうですわね。ですがわたくしたちはここで待機。\n近くて遠い標の灯ですわ",
+        "localizations": {
+          "en": "Indeed it is. But we're staying put here. Those beacon lights are close, yet so far away."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "ララ様！\u3000灯りの反対側から\n何やら近づいてくる小船が！",
+        "localizations": {
+          "en": "Queen Lara! There's a small boat approaching from the opposite side of the lights!"
+        }
+      },
+      "2072370017": {
+        "text": "ディオーナ",
+        "localizations": {
+          "en": "Diona"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "ケイウンの役人に見つかっちゃった！？",
+        "localizations": {
+          "en": "Did Keiun officials spot us?!"
+        }
+      },
+      "2072370017": {
+        "text": "ミーケ",
+        "localizations": {
+          "en": "Mieke"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "ああ、それなら大丈夫。\nあちら陣営からの定時報告ですわ",
+        "localizations": {
+          "en": "Oh, that's fine. It's just the scheduled report from our allies."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "やあ、刻限に遅れてすまないね。\n思ったより港の警備が厳重だった",
+        "localizations": {
+          "en": "Hey there, sorry I'm late. The harbor security was tighter than I expected."
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "どうも魔物の動きが活発な時期らしく\n昼もこちらの船が襲われておりました",
+        "localizations": {
+          "en": "It appears to be a time when monsters are particularly active. Our ships were attacked even during daylight hours."
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "二人ともお疲れ。\nわざわざここまで来るのも大変でしょ",
+        "localizations": {
+          "en": "You two must be exhausted. Coming all the way out here can't be easy."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "なぁに、この程度……美しいお嬢様がたに\n会えるのだから、苦労のうちに入らないさ",
+        "localizations": {
+          "en": "Oh, this is nothing... Getting to meet such beautiful ladies makes all the trouble worthwhile."
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "なかなか愉快な方ですね……？",
+        "localizations": {
+          "en": "Quite the charmer, aren't you...?"
+        }
+      },
+      "2072370017": {
+        "text": "ディオーナ",
+        "localizations": {
+          "en": "Diona"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "そちらの方々ははじめましてだね。\n俺の名前は永遠……渡り鳥の陰陽師さ",
+        "localizations": {
+          "en": "Nice to meet you all. I'm Towa... a wandering diviner."
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "トワ……？\u3000なんだか珍しい名前だね",
+        "localizations": {
+          "en": "Towa...? That's an unusual name."
+        }
+      },
+      "2072370017": {
+        "text": "ミーケ",
+        "localizations": {
+          "en": "Mieke"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "この名はケイウンでは\n「いつまでも続くこと」を意味している",
+        "localizations": {
+          "en": "In Keiun, this name means 'something that continues forever.'"
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "この名と共に、後世までずっと語り継がれるような\n存在を目指しているのさ。よろしくね、お嬢様がた",
+        "localizations": {
+          "en": "I aim to become someone whose legacy will be passed down through the ages alongside this name. Pleasure to meet you, ladies."
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "よ、よろしくお願いします。\n私は禁域調査団のユミア。こちらは同じくアイラです",
+        "localizations": {
+          "en": "N-nice to meet you too. I'm Yumia from the Aladiss Research Team, and this is Isla."
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "これがケイウン独自の服ね！\nどうやって着てんの？\u3000脱いでみてよ",
+        "localizations": {
+          "en": "So this is traditional Keiun clothing! How do you put it on? Take it off and show us!"
+        }
+      },
+      "2072370017": {
+        "text": "アイラ",
+        "localizations": {
+          "en": "Isla"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "確かに気になる！\nぬーげ！\u3000ぬーげ！",
+        "localizations": {
+          "en": "I'm curious too! Take it off! Take it off!"
+        }
+      },
+      "2072370017": {
+        "text": "ミーケ",
+        "localizations": {
+          "en": "Mieke"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "初対面で脱げとはなかなか刺激的な……\nこの永遠を脱がしたいのならば……",
+        "localizations": {
+          "en": "Asking me to strip upon first meeting... how stimulating... If you ladies want to undress me..."
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "彼女たちの興味はその衣服であって\n田草川小太郎殿ではございませぬ",
+        "localizations": {
+          "en": "Their interest lies in your garments, not in you, Kotaro Tagusagawa."
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "おい、その本名で呼ぶのは反則だろう",
+        "localizations": {
+          "en": "Hey, calling me by my real name is cheating."
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "あら、そちらも悪くない響きだと思いますわよ",
+        "localizations": {
+          "en": "Oh my, I think that has a rather nice ring to it as well."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "ケイウンでは普通すぎる名でね……\nどうせならかっこいい名前にしたくて……",
+        "localizations": {
+          "en": "It's too common a name in Keiun... I needed something cooler..."
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "偽名を名乗っている、と",
+        "localizations": {
+          "en": "So you're using an alias."
+        }
+      },
+      "2072370017": {
+        "text": "ディオーナ",
+        "localizations": {
+          "en": "Diona"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "通り名と言ってくれ！",
+        "localizations": {
+          "en": "It's akin to a stage name!"
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "まあまあ、別にいいんじゃない？\n私だって本名じゃないけど、この名前気に入ってるし",
+        "localizations": {
+          "en": "What's the big deal? It's not my real name, but I've grown fond of Valeria."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "名は体を表すとも言いますし\n新たな名で出発する心意気は素晴らしいと思います",
+        "localizations": {
+          "en": "They say a name reflects the person. I think having the spirit to start fresh with a new name is wonderful."
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "ユミア殿のお気遣い、感謝いたしまする",
+        "localizations": {
+          "en": "I am grateful for your understanding, Lady Yumia."
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "永遠の本名はともかく……\n今日のところは洋上待機ってことでいいのかしら？",
+        "localizations": {
+          "en": "Name asides... we're staying offshore tonight, right?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "ああ。あなたがたはケイウンと距離を取って\n動向を見守り、有事の際に備えてほしい",
+        "localizations": {
+          "en": "Right. I'd like you all to keep your distance from Keiun and monitor the situation, standing by in case something happens."
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "我らの毎夜の定時報告が途絶えたら\nそのときは何かがあったと考えていただきたく",
+        "localizations": {
+          "en": "If our nightly reports cease to arrive, please assume something has gone wrong."
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "承知しました。\nそのときはこちらでどうするか判断いたしますわ",
+        "localizations": {
+          "en": "Understood. When that time comes, we'll decide our course of action."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "じゃあまた明日……",
+        "localizations": {
+          "en": "Well then, see you tomorrow..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "っと、その前に一仕事ね",
+        "localizations": {
+          "en": "Oh wait, we've got some work to do first."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "ほんと、この辺りは魔物が多いね",
+        "localizations": {
+          "en": "There really are a lot of monsters around here."
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "せっかくだからミーケたちの実力、\n小太郎に見せてあげる！",
+        "localizations": {
+          "en": "Perfect chance to show Kotaro what we can do!"
+        }
+      },
+      "2072370017": {
+        "text": "ミーケ",
+        "localizations": {
+          "en": "Mieke"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "だからその名はやめてくれって！",
+        "localizations": {
+          "en": "Please don't use that name!"
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  }
+]

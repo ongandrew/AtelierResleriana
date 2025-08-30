@@ -253,5 +253,25 @@
     "id": 296,
     "description": "Restores 100 HP to all allies.",
     "name": "Supreme Offering Wine"
+  },
+  {
+    "id": 297,
+    "description": "Restores 10% HP to all allies.<br>After recovery, boosts all allies' critical rates by {0}% for 2 turns.",
+    "name": "Life Cultivation Incense"
+  },
+  {
+    "id": 298,
+    "description": "Restores 10% HP to all allies.<br>After recovery, boosts all allies' critical rates by {0}% for 2 turns.",
+    "name": "Life Cultivation Incense"
+  },
+  {
+    "id": 299,
+    "description": "After dealing Bolt damage to all enemies, applies Paralysis for 2 turns with medium chance.",
+    "name": "Thunder Smile Rain"
+  },
+  {
+    "id": 300,
+    "description": "After dealing Bolt damage to all enemies, applies Paralysis for 2 turns with low chance.",
+    "name": "Thunder Smile Rain"
   }
 ]

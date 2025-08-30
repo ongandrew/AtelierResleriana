@@ -8448,5 +8448,710 @@
     "id": 120000785,
     "description": "While in Keiun, boosts skill power.",
     "popup_text": ""
+  },
+  {
+    "id": 6001123,
+    "description": "After recovery, grants all allies Critical Rate Up for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001125,
+    "description": "Medium chance to inflict Paralysis on all enemies for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001126,
+    "description": "Low chance to inflict Paralysis on all enemies for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001127,
+    "description": "While equipped to Kaburaya [Brightest Star in the Sky], increases magical damage received by all enemies by 25% for 2 attacks (up to 2 stacks).",
+    "popup_text": ""
+  },
+  {
+    "id": 6001128,
+    "description": "While equipped to a character with Bolt affinity, boosts skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001129,
+    "description": "While equipped to an Attacker, reduces target's Bolt resistance for 1 attack.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001130,
+    "description": "While equipped to a character with Fire affinity, reduces damage received from area attacks for all allies (fixed).",
+    "popup_text": ""
+  },
+  {
+    "id": 6001131,
+    "description": "While equipped to a Defender, grants self Max HP Up (up to 10%).",
+    "popup_text": ""
+  },
+  {
+    "id": 6001132,
+    "description": "While equipped to a character with Air affinity, grants self Buff Potency Up for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001133,
+    "description": "While equipped to a Supporter, boosts M.ATK for all allies by 7%.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001134,
+    "description": "Boosts own critical damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001135,
+    "description": "Increases target's damage received for 1 attack (up to 2 stacks).",
+    "popup_text": ""
+  },
+  {
+    "id": 6001136,
+    "description": "Increases target's damage received for 1 attack (up to 2 stacks).",
+    "popup_text": ""
+  },
+  {
+    "id": 71011021,
+    "description": "Speed Down",
+    "popup_text": ""
+  },
+  {
+    "id": 71011022,
+    "description": "Boosts damage dealt for all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 71066004,
+    "description": "Grants Damage Dealt Up (2 turns) to ally skill target.",
+    "popup_text": ""
+  },
+  {
+    "id": 71066005,
+    "description": "Grants P.ATK Down (2 turns) to enemy skill target.",
+    "popup_text": ""
+  },
+  {
+    "id": 71066006,
+    "description": "Grants Damage Dealt Down (2 turns) to enemy skill target.",
+    "popup_text": ""
+  },
+  {
+    "id": 71066007,
+    "description": "Grants M.ATK Down (2 turns) to enemy skill target.",
+    "popup_text": ""
+  },
+  {
+    "id": 71066008,
+    "description": "Delays enemy skill target's turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 71066009,
+    "description": "Grants increased damage taken to target enemy for 2 times.",
+    "popup_text": ""
+  },
+  {
+    "id": 71070001,
+    "description": "Restores HP of target ally.",
+    "popup_text": ""
+  },
+  {
+    "id": 71073001,
+    "description": "Restores stun gauge of target ally.",
+    "popup_text": ""
+  },
+  {
+    "id": 71075002,
+    "description": "Grants SPD Up to self for 5 times.",
+    "popup_text": ""
+  },
+  {
+    "id": 71077001,
+    "description": "Grants SPD Up to target ally for 5 times.",
+    "popup_text": ""
+  },
+  {
+    "id": 71251023,
+    "description": "Reduces positive effect potency for all enemies.",
+    "popup_text": ""
+  },
+  {
+    "id": 71252020,
+    "description": "Grants Counter to self for 3 times.",
+    "popup_text": ""
+  },
+  {
+    "id": 71254002,
+    "description": "Converts all enemy weaken panels to boost panels.",
+    "popup_text": ""
+  },
+  {
+    "id": 71254004,
+    "description": "Converts target's panels to weaken panels (except burst panels).",
+    "popup_text": ""
+  },
+  {
+    "id": 71254015,
+    "description": "Panel conversion (boost+ → boost).",
+    "popup_text": ""
+  },
+  {
+    "id": 71254016,
+    "description": "Panel conversion (boost → weaken).",
+    "popup_text": ""
+  },
+  {
+    "id": 72001393,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001394,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001395,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001396,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001397,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001398,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001399,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001400,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001401,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001402,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001403,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001404,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001434,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001435,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72500174,
+    "description": "[Self/More Keiun allies/P.ATK Up]",
+    "popup_text": ""
+  },
+  {
+    "id": 72500175,
+    "description": "[Self/More Keiun allies/M.ATK Up]",
+    "popup_text": ""
+  },
+  {
+    "id": 72500176,
+    "description": "[Self/More Keiun allies/Skill Damage Up]",
+    "popup_text": ""
+  },
+  {
+    "id": 72500177,
+    "description": "[Self/More Keiun allies/Stun Damage Up]",
+    "popup_text": ""
+  },
+  {
+    "id": 76258001,
+    "description": "Reduces skill target's Bolt resistance for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76258002,
+    "description": "Boosts own damage dealt for 3 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76258003,
+    "description": "Reduces own damage received for 3 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76258004,
+    "description": "Grants self stackable SPD Up.",
+    "popup_text": ""
+  },
+  {
+    "id": 76258005,
+    "description": "Reduces skill target's SPD for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76258009,
+    "description": "Delays skill target's turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 76258011,
+    "description": "Summon Ally (Kyodaihitsuji) (EX)",
+    "popup_text": ""
+  },
+  {
+    "id": 80000786,
+    "description": "When Izana [Return of the Knight] is in the party, boosts skill power.",
+    "popup_text": ""
+  },
+  {
+    "id": 80000787,
+    "description": "When Judie [Hero of Tempest] is in the party, boosts skill power.",
+    "popup_text": ""
+  },
+  {
+    "id": 80000788,
+    "description": "When Elie [Cheesecake Devotee] is in the party, boosts skill power.",
+    "popup_text": ""
+  },
+  {
+    "id": 80000789,
+    "description": "When Izana [Return of the Knight] is in the party, reduces damage received.",
+    "popup_text": ""
+  },
+  {
+    "id": 80000790,
+    "description": "Reduces damage received when Judie [Hero of Tempest] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 80000791,
+    "description": "Reduces damage received when Elie [Cheesecake Enthusiast] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 81251006,
+    "description": "When recovering from stun, grants SPD Up to self.",
+    "popup_text": ""
+  },
+  {
+    "id": 81251007,
+    "description": "Increases Damage Dealt Up (Max Lv. 4, Invisible) by 1 level.",
+    "popup_text": ""
+  },
+  {
+    "id": 81251008,
+    "description": "Creates 3 random boost-type panels (boost-type or burst).",
+    "popup_text": ""
+  },
+  {
+    "id": 81251009,
+    "description": "Creates a boost panel.",
+    "popup_text": ""
+  },
+  {
+    "id": 81251010,
+    "description": "Creates a critical panel.",
+    "popup_text": ""
+  },
+  {
+    "id": 81251011,
+    "description": "Creates a burst panel.",
+    "popup_text": ""
+  },
+  {
+    "id": 81251012,
+    "description": "Creates a stun boost panel.",
+    "popup_text": ""
+  },
+  {
+    "id": 81251013,
+    "description": "Creates a protection boost panel.",
+    "popup_text": ""
+  },
+  {
+    "id": 81251014,
+    "description": "Removes Damage Dealt Up (Max Lv. 4, Invisible) Lv. 4.",
+    "popup_text": ""
+  },
+  {
+    "id": 81252005,
+    "description": "Grants self Damage Dealt Up (Cumulative).",
+    "popup_text": ""
+  },
+  {
+    "id": 81254001,
+    "description": "Creates a burst panel.",
+    "popup_text": ""
+  },
+  {
+    "id": 81254017,
+    "description": "Increases critical rate received.",
+    "popup_text": ""
+  },
+  {
+    "id": 81254018,
+    "description": "Removes Damage Dealt Up (Max Lv. 4, Invisible) Lv. 2.",
+    "popup_text": ""
+  },
+  {
+    "id": 81254019,
+    "description": "Creates a critical panel on own next turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 86160005,
+    "description": "After acting, grants self a state change that boosts damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 86160006,
+    "description": "After acting, grants self a state change that boosts SPD.",
+    "popup_text": ""
+  },
+  {
+    "id": 86160007,
+    "description": "Grants self Damage Dealt Up (Max 300%).",
+    "popup_text": ""
+  },
+  {
+    "id": 86160008,
+    "description": "Grants self SPD Up (Max 100%).",
+    "popup_text": ""
+  },
+  {
+    "id": 86258001,
+    "description": "Removes own debuffs.",
+    "popup_text": ""
+  },
+  {
+    "id": 86258002,
+    "description": "Reduces own damage received for 3 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 86258003,
+    "description": "Boosts own damage dealt for 3 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 86258004,
+    "description": "After attacking a weakness, performs an additional attack.",
+    "popup_text": ""
+  },
+  {
+    "id": 91001852,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001855,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001856,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001857,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001858,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001859,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001860,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001861,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001862,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001863,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001864,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001865,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001866,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001867,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001868,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001869,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001870,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001877,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001878,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000268,
+    "description": "When attack target is stunned, boosts magical attack skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000269,
+    "description": "When equipped to a Breaker with Bolt affinity and target is stunned, boosts magical attack skill damage for all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000270,
+    "description": "When \"Laid-back\", boosts stun damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000271,
+    "description": "When affinity is Stab, boosts positive effect potency granted.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000272,
+    "description": "When self is Supporter, boosts critical damage for all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000777,
+    "description": "Boosts battle item damage for ally characters with the \"Keiun\" tag.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000778,
+    "description": "When using Bolt battle items, grants Item Damage Up.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000779,
+    "description": "When using Bolt battle items, grants Item Damage Up status effect.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000780,
+    "description": "When self has \"Keiun\" tag, provides additional item gauge recovery after actions.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000781,
+    "description": "When defeating an enemy with a battle item, provides additional item gauge recovery.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000782,
+    "description": "Boosts battle item critical damage for all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000783,
+    "description": "Boosts battle item critical damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000788,
+    "description": "When taking action, increases item gauge recovery amount.",
+    "popup_text": ""
+  },
+  {
+    "id": 713001409,
+    "description": "Boosts skill damage by {0}% for all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 713001410,
+    "description": "Boosts critical damage by {0}% for all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 713001411,
+    "description": "Boosts P.ATK by {0}% for all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 713001412,
+    "description": "Boosts M.ATK by {0}% for all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 713001413,
+    "description": "Recovery Power +{0}%",
+    "popup_text": ""
+  },
+  {
+    "id": 713001414,
+    "description": "Boosts positive effect potency from boost-type panels by {0}% for all allies",
+    "popup_text": ""
+  },
+  {
+    "id": 713001415,
+    "description": "Damage Received -{0}%",
+    "popup_text": ""
+  },
+  {
+    "id": 713001416,
+    "description": "After attacking, reduces target's damage dealt by {0}% (fixed) for 1 turn",
+    "popup_text": ""
+  },
+  {
+    "id": 713001417,
+    "description": "After taking action, restores {0}% of own HP",
+    "popup_text": ""
+  },
+  {
+    "id": 713001418,
+    "description": "After taking action, boosts own max HP by {0}% (fixed) for 2 turns",
+    "popup_text": ""
+  },
+  {
+    "id": 713001419,
+    "description": "Stun Damage +{0}%",
+    "popup_text": ""
+  },
+  {
+    "id": 713001420,
+    "description": "Boosts Fire resistance down effect potency by {0}%",
+    "popup_text": ""
+  },
+  {
+    "id": 713001421,
+    "description": "Boosts Ice resistance down effect potency by {0}%",
+    "popup_text": ""
+  },
+  {
+    "id": 713001422,
+    "description": "Boosts Bolt resistance down effect potency by {0}%",
+    "popup_text": ""
+  },
+  {
+    "id": 713001423,
+    "description": "Boosts Air resistance down effect potency by {0}%",
+    "popup_text": ""
+  },
+  {
+    "id": 713001424,
+    "description": "Boosts Slash resistance down effect potency by {0}%",
+    "popup_text": ""
+  },
+  {
+    "id": 713001425,
+    "description": "Boosts Strike resistance down effect potency by {0}%",
+    "popup_text": ""
+  },
+  {
+    "id": 713001426,
+    "description": "Boosts Stab resistance down effect potency by {0}%",
+    "popup_text": ""
+  },
+  {
+    "id": 713001427,
+    "description": "[Target/Damage Received Up/1 turn][Board Ability B3]",
+    "popup_text": ""
+  },
+  {
+    "id": 713001428,
+    "description": "[Target/Critical Damage Received Up/1 turn][Board Ability B4]",
+    "popup_text": ""
+  },
+  {
+    "id": 713001429,
+    "description": "[Self/Skill Power Up][Board Ability A1]",
+    "popup_text": ""
+  },
+  {
+    "id": 713001430,
+    "description": "[Self/Skill Damage Up][Board Ability A2]",
+    "popup_text": ""
+  },
+  {
+    "id": 713001431,
+    "description": "[Self/Critical Damage Up][Board Ability A3]",
+    "popup_text": ""
+  },
+  {
+    "id": 713001432,
+    "description": "[Self/P.ATK Up][Board Ability A4]",
+    "popup_text": ""
+  },
+  {
+    "id": 713001433,
+    "description": "[Self/M.ATK Up][Board Ability A4]",
+    "popup_text": ""
   }
 ]

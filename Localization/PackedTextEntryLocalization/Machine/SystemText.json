@@ -2110,5 +2110,324 @@
         }
       }
     }
+  },
+  {
+    "id": 1495485141,
+    "properties": {
+      "999008199": {
+        "text": "ネオボード",
+        "localizations": {
+          "en": "Neo Board"
+        }
+      }
+    }
+  },
+  {
+    "id": 293545151,
+    "properties": {
+      "999008199": {
+        "text": "残り{0}!",
+        "localizations": {
+          "en": "Remaining {0}!"
+        }
+      }
+    }
+  },
+  {
+    "id": 1900244570,
+    "properties": {
+      "999008199": {
+        "text": "※ネオボード{0}を解放後、育成状況のリセットができなくなります",
+        "localizations": {
+          "en": "※After unlocking Neo Board {0}, you will no longer be able to reset your development progress"
+        }
+      }
+    }
+  },
+  {
+    "id": 1598827032,
+    "properties": {
+      "999008199": {
+        "text": "ネオボード{0}解放",
+        "localizations": {
+          "en": "Unlock Neo Board {0}"
+        }
+      }
+    }
+  },
+  {
+    "id": 405294623,
+    "properties": {
+      "999008199": {
+        "text": "必要レアリティ",
+        "localizations": {
+          "en": "Required Rarity"
+        }
+      }
+    }
+  },
+  {
+    "id": 1157864687,
+    "properties": {
+      "999008199": {
+        "text": "以下の条件を達成することにより、ネオボードを解放できます",
+        "localizations": {
+          "en": "You can unlock the Neo Board by achieving the following conditions"
+        }
+      }
+    }
+  },
+  {
+    "id": 789444856,
+    "properties": {
+      "999008199": {
+        "text": "育成研究レベル{0}に達した",
+        "localizations": {
+          "en": "Reached Development Research Level {0}"
+        }
+      }
+    }
+  },
+  {
+    "id": 1241208510,
+    "properties": {
+      "999008199": {
+        "text": "対象キャラのレベルが{0}に達した（育成研究による補正を除く）",
+        "localizations": {
+          "en": "Target character reached Level {0} (excluding bonuses from Development Research)"
+        }
+      }
+    }
+  },
+  {
+    "id": 1056728620,
+    "properties": {
+      "999008199": {
+        "text": "対象キャラのグロウボード、EXボードのパネルを全て解放した",
+        "localizations": {
+          "en": "Unlocked all panels on the target character's Grow Board and EX Board"
+        }
+      }
+    }
+  },
+  {
+    "id": 938456190,
+    "properties": {
+      "999008199": {
+        "text": "必要レアリティに達していません",
+        "localizations": {
+          "en": "Required rarity has not been reached"
+        }
+      }
+    }
+  },
+  {
+    "id": 811150723,
+    "properties": {
+      "999008199": {
+        "text": "ネオボード\n解放",
+        "localizations": {
+          "en": "Neo Board\nUnlock"
+        }
+      }
+    }
+  },
+  {
+    "id": 1977678750,
+    "properties": {
+      "999008199": {
+        "text": "ボードアビリティ1ランクアップ",
+        "localizations": {
+          "en": "Board Ability 1 Rank Up"
+        }
+      }
+    }
+  },
+  {
+    "id": 1141432579,
+    "properties": {
+      "999008199": {
+        "text": "ボードアビリティ2ランクアップ",
+        "localizations": {
+          "en": "Board Ability 2 Rank Up"
+        }
+      }
+    }
+  },
+  {
+    "id": 494933321,
+    "properties": {
+      "999008199": {
+        "text": "ボードアビリティ3ランクアップ",
+        "localizations": {
+          "en": "Board Ability 3 Rank Up"
+        }
+      }
+    }
+  },
+  {
+    "id": 1825325352,
+    "properties": {
+      "999008199": {
+        "text": "ボードアビリティのランクが<em>{1}</em>アップし、「{0}」になります",
+        "localizations": {
+          "en": "Board Ability rank increased by <em>{1}</em> and became \"{0}\""
+        }
+      }
+    }
+  },
+  {
+    "id": 100917861,
+    "properties": {
+      "999008199": {
+        "text": "スキル解放確認",
+        "localizations": {
+          "en": "Skill Unlock Confirmation"
+        }
+      }
+    }
+  },
+  {
+    "id": 1525701321,
+    "properties": {
+      "999008199": {
+        "text": "スキル解放",
+        "localizations": {
+          "en": "Skill Unlock"
+        }
+      }
+    }
+  },
+  {
+    "id": 148822409,
+    "properties": {
+      "999008199": {
+        "text": "解放済のスキルです",
+        "localizations": {
+          "en": "This skill has already been unlocked"
+        }
+      }
+    }
+  },
+  {
+    "id": 1283636646,
+    "properties": {
+      "999008199": {
+        "text": "スキル解放完了",
+        "localizations": {
+          "en": "Skill Unlock Complete"
+        }
+      }
+    }
+  },
+  {
+    "id": 165408322,
+    "properties": {
+      "999008199": {
+        "text": "全てのスキルを解放しました",
+        "localizations": {
+          "en": "All skills have been unlocked"
+        }
+      }
+    }
+  },
+  {
+    "id": 770911859,
+    "properties": {
+      "999008199": {
+        "text": "ネオボードを進行することで解放されます",
+        "localizations": {
+          "en": "Unlocked by progressing through the Neo Board"
+        }
+      }
+    }
+  },
+  {
+    "id": 983635286,
+    "properties": {
+      "999008199": {
+        "text": "全能",
+        "localizations": {
+          "en": "Omnipotent"
+        }
+      }
+    }
+  },
+  {
+    "id": 1133467486,
+    "properties": {
+      "999008199": {
+        "text": "振り返り",
+        "localizations": {
+          "en": "Reflection"
+        }
+      }
+    }
+  },
+  {
+    "id": 241574328,
+    "properties": {
+      "999008199": {
+        "text": "本機能を使用すると、チュートリアルやストーリー内のバトルも全てスキップされ、\n再びクリアしていない状態に戻すことはできません。\n<b><color=#FF0000>本当によろしいですか？</color></b>\n※「ストーリー回想」より、スキップした章のストーリーを見返すことができます",
+        "localizations": {
+          "en": "Using this feature will skip all tutorials and battles within the story,\nand you cannot return them to an uncleared state.\n<b><color=#FF0000>Are you sure you want to proceed?</color></b>\n※You can review skipped chapters' stories using \"Story Recollection\""
+        }
+      }
+    }
+  },
+  {
+    "id": 846988450,
+    "properties": {
+      "999008199": {
+        "text": "ストーリーのスキップが完了しました",
+        "localizations": {
+          "en": "Story skip complete"
+        }
+      }
+    }
+  },
+  {
+    "id": 229515136,
+    "properties": {
+      "999008199": {
+        "text": "<b><color=#FF0000>本ダイアログは初回のみ表示され、次回以降は各章ごとにスキップするか決定できます。</color></b>\n本機能を使用することで、メインストーリーを{0}章までスキップできます。\n\n※ストーリー進行によって獲得できる報酬はメールに送付されます\n※追加DLが発生する場合があります",
+        "localizations": {
+          "en": "<b><color=#FF0000>This dialog will only be shown the first time. From next time onward, you can decide whether to skip each chapter individually.</color></b>\nUsing this feature allows you to skip the main story up to Chapter {0}.\n\n※Rewards obtainable through story progression will be sent to your mail\n※Additional downloads may occur"
+        }
+      }
+    }
+  },
+  {
+    "id": 1946285407,
+    "properties": {
+      "999008199": {
+        "text": "「{0}章 {1}」までスキップ",
+        "localizations": {
+          "en": "Skip to \"Chapter {0} {1}\""
+        }
+      }
+    }
+  },
+  {
+    "id": 197994918,
+    "properties": {
+      "999008199": {
+        "text": "ボードアビリティ",
+        "localizations": {
+          "en": "Board Ability"
+        }
+      }
+    }
+  },
+  {
+    "id": 1913174652,
+    "properties": {
+      "999008199": {
+        "text": "以下の条件を達成することにより、ミッションバトルを解放できます",
+        "localizations": {
+          "en": "You can unlock Mission Battles by achieving the following conditions"
+        }
+      }
+    }
   }
 ]

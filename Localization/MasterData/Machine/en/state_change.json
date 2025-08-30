@@ -2688,5 +2688,235 @@
     "id": 800167,
     "description": "Reduces damage received by {value}%. (Unaffected by positive effect potency changes)",
     "name": "Received Damage Down"
+  },
+  {
+    "id": 510192,
+    "description": "Boosts P.DEF by {value}%. (MAX 40%)",
+    "name": "P.DEF Up"
+  },
+  {
+    "id": 510193,
+    "description": "Boosts M.DEF by {value}%. (MAX 40%)",
+    "name": "M.DEF Up"
+  },
+  {
+    "id": 510194,
+    "description": "Reduces damage received by {value}%. (MAX 10%)",
+    "name": "Received Damage Down"
+  },
+  {
+    "id": 510195,
+    "description": "Boosts skill damage by {value}%. (MAX 100%)",
+    "name": "Damage Dealt Up"
+  },
+  {
+    "id": 510196,
+    "description": "Boosts critical damage by {value}%. (MAX 100%)",
+    "name": "Critical Damage Up"
+  },
+  {
+    "id": 510197,
+    "description": "After any party member uses an item, boosts own critical rate by {value}% for 2 turns. (MAX 3 activations)<br>※Only activates once even if multiple items are used simultaneously",
+    "name": "Let Me Show You Alchemy's Power!"
+  },
+  {
+    "id": 510199,
+    "description": "Boosts skill damage by {value}%. (Fixed)",
+    "name": "Skill Damage Up"
+  },
+  {
+    "id": 510200,
+    "description": "Boosts critical damage by {value}%. (Fixed)",
+    "name": "Critical Damage Up"
+  },
+  {
+    "id": 510201,
+    "description": "Boosts P.ATK by {value}%. (Fixed)",
+    "name": "P.ATK Up"
+  },
+  {
+    "id": 510202,
+    "description": "Boosts M.ATK by {value}%. (Fixed)",
+    "name": "M.ATK Up"
+  },
+  {
+    "id": 510203,
+    "description": "Boosts recovery power by {value}%. (Fixed)",
+    "name": "Recovery Power Up"
+  },
+  {
+    "id": 510204,
+    "description": "Boosts effect potency received from boost-type panels by {value}%. (Fixed)",
+    "name": "Boost-Type Panel Effect Potency Up"
+  },
+  {
+    "id": 510205,
+    "description": "Reduces damage received by {value}%. (Fixed)",
+    "name": "Received Damage Down"
+  },
+  {
+    "id": 510206,
+    "description": "Reduces damage dealt by {value}%. (Fixed)",
+    "name": "Damage Dealt Down"
+  },
+  {
+    "id": 510207,
+    "description": "Boosts max HP by {value}%. (Fixed)",
+    "name": "Max HP Up"
+  },
+  {
+    "id": 510208,
+    "description": "Boosts stun damage by {value}%. (Fixed)",
+    "name": "Stun Damage Up"
+  },
+  {
+    "id": 510209,
+    "description": "Boosts damage received by {value}%. (Fixed)",
+    "name": "Received Damage Up"
+  },
+  {
+    "id": 510210,
+    "description": "Boosts critical damage received by {value}%. (Fixed)",
+    "name": "Received Critical Damage Up"
+  },
+  {
+    "id": 510211,
+    "description": "Boosts skill power by {value}%. (Fixed)",
+    "name": "Skill Power Up"
+  },
+  {
+    "id": 510212,
+    "description": "Dummy buff for judgment purposes",
+    "name": "Judgment Dummy Buff"
+  },
+  {
+    "id": 610314,
+    "description": "Boosts critical rate by {value}%. (MAX 50%)",
+    "name": "Critical Rate Up"
+  },
+  {
+    "id": 610315,
+    "description": "Boosts damage received by {value}%. (MAX 200%)",
+    "name": "Received Damage Up"
+  },
+  {
+    "id": 610316,
+    "description": "Boosts damage received from Bolt attacks by {value}%.",
+    "name": "Received Damage: Bolt Up"
+  },
+  {
+    "id": 610320,
+    "description": "Boosts damage received from Bolt attacks by {value}%. (MAX 50%)",
+    "name": "Bolt Resistance Down"
+  },
+  {
+    "id": 610321,
+    "description": "Boosts P.DEF by {value}%. (MAX 2 stacks)",
+    "name": "P.DEF Up"
+  },
+  {
+    "id": 610322,
+    "description": "Boosts M.DEF by {value}%. (MAX 2 stacks)",
+    "name": "M.DEF Up"
+  },
+  {
+    "id": 610323,
+    "description": "Boosts P.DEF by {value}%. (MAX 3 stacks)",
+    "name": "P.DEF Up"
+  },
+  {
+    "id": 610324,
+    "description": "Boosts M.DEF by {value}%. (MAX 3 stacks)",
+    "name": "M.DEF Up"
+  },
+  {
+    "id": 610325,
+    "description": "Boosts critical damage by {value}%. (MAX 150%)",
+    "name": "Critical Damage Up"
+  },
+  {
+    "id": 610326,
+    "description": "Boosts P.DEF by {value}%. (MAX 30%)",
+    "name": "P.DEF Up"
+  },
+  {
+    "id": 610327,
+    "description": "Boosts M.DEF by {value}%. (MAX 30%)",
+    "name": "M.DEF Up"
+  },
+  {
+    "id": 800168,
+    "description": "Boosts max HP by {value}%. (MAX 10%)",
+    "name": "HP Limit Up"
+  },
+  {
+    "id": 800169,
+    "description": "Boosts magical damage received by {value}%. (MAX 2 stacks)",
+    "name": "Magical Damage Received Up"
+  },
+  {
+    "id": 800170,
+    "description": "Boosts damage received by {value}%. (MAX 2 stacks)",
+    "name": "Received Damage Up"
+  },
+  {
+    "id": 800171,
+    "description": "Boosts damage received by {value}%. (MAX 2 stacks)",
+    "name": "Received Damage Up"
+  },
+  {
+    "id": 810162,
+    "description": "Boosts SPD by {value}%. (MAX 30%)",
+    "name": "SPD Up"
+  },
+  {
+    "id": 810163,
+    "description": "After taking action, grants Dealt Damage Up {value}% (MAX 300%).",
+    "name": "Post-Action Dealt Damage Up"
+  },
+  {
+    "id": 810164,
+    "description": "After taking action, grants SPD Up {value}% (MAX 100%).",
+    "name": "Post-Action SPD Up"
+  },
+  {
+    "id": 810165,
+    "description": "Boosts SPD by {value}%. (MAX 100%)",
+    "name": "SPD Up"
+  },
+  {
+    "id": 820120,
+    "description": "Boosts received critical rate by {value}%. (MAX 50%)",
+    "name": "Received Critical Rate Up"
+  },
+  {
+    "id": 850006,
+    "description": "Boosts damage dealt by {value}%.",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 910190,
+    "description": "Boosts magical damage by {value}% when attack target is stunned.",
+    "name": "Magical Damage Up While Stunned"
+  },
+  {
+    "id": 1210391,
+    "description": "Boosts battle item critical damage by {value}%. (MAX 100%) Cannot be removed.",
+    "name": "Item Critical Damage Up"
+  },
+  {
+    "id": 1210429,
+    "description": "When using a Bolt battle item, grants all allies +{value}% damage dealt with battle items. Cannot be removed.",
+    "name": "Bolt: Damage Up (Cond.)"
+  },
+  {
+    "id": 1210430,
+    "description": "Boosts battle item damage dealt by {value}%. (MAX 500%) Cannot be removed.",
+    "name": "Item Damage Up"
+  },
+  {
+    "id": 1210432,
+    "description": "Boosts item gauge recovery after turn by {value}%. Cannot be removed.",
+    "name": "Item Gauge Recovery After Turn"
   }
 ]

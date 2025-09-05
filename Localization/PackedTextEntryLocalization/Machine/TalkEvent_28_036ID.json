@@ -1,0 +1,648 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "はぁ～～～\nひーまーだーなー",
+        "localizations": {
+          "en": "Siiiiigh... I'm sooooo bored..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "姉様、またしりとりする……？",
+        "localizations": {
+          "en": "Would you like to play a word game again...?"
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "やだ、ベップ強いもん！\n動物鳴き声クイズもネタが尽きたし",
+        "localizations": {
+          "en": "No way, you're too good at it! And we've run out of animal sound questions too."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "……誰か来ます。\nこの足音は……コウセン！",
+        "localizations": {
+          "en": "...Someone's coming. Those footsteps... It's Kosen!"
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "やあ皆様がた、ご機嫌いかがかな？",
+        "localizations": {
+          "en": "Well hello there, everyone. How are you all faring?"
+        }
+      },
+      "2072370017": {
+        "text": "コウセン",
+        "localizations": {
+          "en": "Kosen"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "見ての通り、最悪さ。\n無粋な誰かさんが牢に放り込んでくれたからね",
+        "localizations": {
+          "en": "Terrible, as you can see. A certain tactless individual threw us in a dungeon."
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "別の世界からやって来た異邦人の錬金術士……\nソフィーというのはあなたで間違いありませんかな？",
+        "localizations": {
+          "en": "An alchemist from another world... Sophie, are you not?"
+        }
+      },
+      "2072370017": {
+        "text": "コウセン",
+        "localizations": {
+          "en": "Kosen"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "そうですけど……なんのご用ですか",
+        "localizations": {
+          "en": "That's right... what do you want?"
+        }
+      },
+      "2072370017": {
+        "text": "ソフィー",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "世界によって理は異なるというのに、別の世界でも\nあれだけの力を出せる……素晴らしい才能です",
+        "localizations": {
+          "en": "Even though the laws of nature differ between worlds, you can still wield such power in this one... Truly magnificent talent."
+        }
+      },
+      "2072370017": {
+        "text": "コウセン",
+        "localizations": {
+          "en": "Kosen"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "まるで別の世界のことを知っているような口ぶりね？\nケイウンでは常識、なのかしら？",
+        "localizations": {
+          "en": "You speak as if you know about other worlds. Is this common knowledge in Keiun?"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "いえ、皆様と会うまで\n異なる世界など考えたことも……",
+        "localizations": {
+          "en": "No, until we met all of you, I never even considered the existence of other worlds..."
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "ぜひ、そのお力を我々のために貸していただきたい。\n強きケイウンを蘇らせるために……",
+        "localizations": {
+          "en": "Please, I would very much like you to lend us your power. To resurrect a mighty Keiun..."
+        }
+      },
+      "2072370017": {
+        "text": "コウセン",
+        "localizations": {
+          "en": "Kosen"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "これ、玉涎香……！\nまずい、アタシたちもやられちゃう！",
+        "localizations": {
+          "en": "That's Jade Nectar...! This is bad—we're going to be affected too!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "みんな、身を低くして、口元に布を当てて\n呼吸は浅く、少なくするの！",
+        "localizations": {
+          "en": "Everyone, get down low and cover your mouths with fabric! Keep your breathing shallow and minimal!"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "息を殺すのは狩人の基本技能よ。これくらい余裕",
+        "localizations": {
+          "en": "Holding your breath is a basic hunting skill. This is nothing."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "コウセン様……何をしておられるのですか？",
+        "localizations": {
+          "en": "Master Kosen... what are you doing?"
+        }
+      },
+      "2072370017": {
+        "text": "千歳",
+        "localizations": {
+          "en": "Chitose"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "おやおや、誰かと思えば千歳殿。\nお一人とは珍しいですな？",
+        "localizations": {
+          "en": "Well, well, if it isn't Chitose. How unusual to see you alone."
+        }
+      },
+      "2072370017": {
+        "text": "コウセン",
+        "localizations": {
+          "en": "Kosen"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "一人ではありません。鏑矢様もじきに\nいらっしゃいます。彼女たちから話を聞くために",
+        "localizations": {
+          "en": "I'm not alone. Lady Kaburaya will be here shortly to hear what they have to say."
+        }
+      },
+      "2072370017": {
+        "text": "千歳",
+        "localizations": {
+          "en": "Chitose"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "ですので……ここはお引き取りください",
+        "localizations": {
+          "en": "So please... depart at once."
+        }
+      },
+      "2072370017": {
+        "text": "千歳",
+        "localizations": {
+          "en": "Chitose"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "ほう……鏑矢様のお気に入りの巫女様は\n私に命令できる立場におりましたかな？",
+        "localizations": {
+          "en": "Oh my... is Lady Kaburaya's favorite shrine maiden now giving me orders?"
+        }
+      },
+      "2072370017": {
+        "text": "コウセン",
+        "localizations": {
+          "en": "Kosen"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "……っ！",
+        "localizations": {
+          "en": "...!"
+        }
+      },
+      "2072370017": {
+        "text": "千歳",
+        "localizations": {
+          "en": "Chitose"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "……ですが、ここは千歳殿の顔を立てておきましょう。\n失礼いたします",
+        "localizations": {
+          "en": "...But I shall honor your request, Chitose. This time. If you'll excuse me."
+        }
+      },
+      "2072370017": {
+        "text": "コウセン",
+        "localizations": {
+          "en": "Kosen"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "た、助かった……千歳さん、ありがとうございます",
+        "localizations": {
+          "en": "Th-that was close... Thank you so much, Chitose."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "いえ、どうも他に何か急用ができたのかと……\nコウセン、やはりあの者が鏑矢様を……",
+        "localizations": {
+          "en": "It seemed like he suddenly had urgent business elsewhere... Kosen really is manipulating Lady Kaburaya..."
+        }
+      },
+      "2072370017": {
+        "text": "千歳",
+        "localizations": {
+          "en": "Chitose"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "（……おかしい）",
+        "localizations": {
+          "en": "(...Something's wrong.)"
+        }
+      },
+      "2072370017": {
+        "text": "コウセン",
+        "localizations": {
+          "en": "Kosen"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "（沿岸部に展開した式神の反応が一斉に消えた。\n\u3000奴らの仲間たちの仕業か？）",
+        "localizations": {
+          "en": "(The shikigami I deployed along the coast have all stopped responding at once. Could it be the work of their companions?)"
+        }
+      },
+      "2072370017": {
+        "text": "コウセン",
+        "localizations": {
+          "en": "Kosen"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "（いや、奴らにこれほどの力はなかったはず……\n\u3000ともかく、状況を確かめねば）",
+        "localizations": {
+          "en": "(No, they shouldn't have had that kind of power... In any case, I must investigate the situation.)"
+        }
+      },
+      "2072370017": {
+        "text": "コウセン",
+        "localizations": {
+          "en": "Kosen"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "到着早々、なかなか派手なお迎えだったね",
+        "localizations": {
+          "en": "That was quite the flashy welcome party right after we arrived."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "しかし相手がこんな紙っぺらじゃあ、\n倒した甲斐がないってもんだ",
+        "localizations": {
+          "en": "But when the enemy's just flimsy paper cutouts like that, there's no satisfaction in beating them."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "そう？\u3000変な魔物だから僕は戦うの、楽しかったけどな",
+        "localizations": {
+          "en": "Really? They not the usually fare, so I thought fighting them was pretty fun."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "いずれにせよ、この島で良からぬことが\n起こっているのは確かなようです",
+        "localizations": {
+          "en": "In any case, it's clear that something troubling is happening on this island."
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "まずは島内を見て回り、状況を把握しなくては！",
+        "localizations": {
+          "en": "First, we must survey the island and assess the situation!"
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "だね、「管理」を正しく行うためにも",
+        "localizations": {
+          "en": "Right, we need to properly manage things after all."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "そういえば、さっきリーベから報告が来てたよ。\nレスナたちがこっちに向かおうとしてるってさ",
+        "localizations": {
+          "en": "Oh, that reminds me—we got a report from Liebe earlier. Resna and the others are heading this way."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "あらら。止めに行ったんじゃなかったっけ？",
+        "localizations": {
+          "en": "Huh? Wasn't she supposed to stop them?"
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "存外手を焼いたようでね。\nあちらも引き下がるつもりはないみたいだ",
+        "localizations": {
+          "en": "Seems like they gave her more trouble than expected. And it looks like they have no intention of backing down."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "いざとなれば私たちが迎え撃てば良いだけのこと",
+        "localizations": {
+          "en": "If it comes to that, we'll simply deal with them ourselves."
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "そうだね。各戦力が入り乱れてきた。\nなかなかに愉快な状況だよ",
+        "localizations": {
+          "en": "True. All the different forces at work are converging. This is turning into quite an entertaining situation."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  }
+]

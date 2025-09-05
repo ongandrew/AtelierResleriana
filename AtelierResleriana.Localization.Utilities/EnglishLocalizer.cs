@@ -71,7 +71,7 @@ namespace AtelierResleriana.Localization.Utilities
         - ザスキア (ザスキア) → Saskia (Saskia) - Resna's alchemy mentor with a carefree but strict teaching style
         - ヨハナ (ヨハナ) → Johanna (Johanna) - Young enforcer from the Moonlight Society with strong fighting skills
         - ジェロン・ディーゼル (ジェロン) → Geron Diezel (Geron) - Partially beast-transformed alchemist who is caring toward his brother
-        - ララ・トロッケル (ララ) → Lara Trockel (Lara) - Noble-appearing alchemist aspiring to establish her own kingdom
+        - ララ・トロッケル (ララ) → Lara Trockel (Lara) - Noble-appearing alchemist aspiring to establish her own king    
         - エレン (エレン) → Eren K. St. Burg (Eren) - Taciturn alchemy student who rarely attends class
         - ミーケ・クロンメリン (ミーケ) → Mieke Cronmelin (Mieke) - Former accessory shop owner who serves Lara
         - ディオーナ・グルンドベリ (ディオーナ) → Diona Grundberg (Diona) - Young diva with musical talent serving Lara
@@ -98,8 +98,8 @@ namespace AtelierResleriana.Localization.Utilities
         - キューン → Quinn (Quinn) - A homunculus created by the Palme.
         - 此岸永遠 → Towa Shigan (Towa) - A well-known diviner within Keiun who takes great care of his appearance.
         - 鬼門 → Kimon (Kimon) - A female ninja serving a lord within Keiun. Uses various techniques called ninjutsu.
-        - 波照間千歳 → Chitose Hateruma (Chitose) - A shrine maiden serving the Domen family. Though she appears quiet and fragile, she possesses an inner strength.
-        - 堂免鏑矢 → Kaburaya Domen (Kaburaya) - The young lady of the Domen family, who governs southern Keiun. A master swordsman with countless tales of valor from his youth.
+        - 波照間千歳 → Chitose Hateruma (Chitose) - A shrine maiden serving the Doumen family. Though she appears quiet and fragile, she possesses an inner strength.
+        - 堂免鏑矢 → Kaburaya Doumen (Kaburaya) - The young lady of the Doumen family, who governs southern Keiun. A master swordsman with countless tales of valor from his youth.
         """;
 
         private static Dictionary<string, string> SpeakerNotes = new Dictionary<string, string>
@@ -173,8 +173,8 @@ namespace AtelierResleriana.Localization.Utilities
             { "キューン", "Quinn - One of Valeria's female siblings and a member of the group of nine homuculus created by the Palme. She speaks quite hesitantly." },
             { "鬼門", "Kimon - A female ninja serving a lord within Keiun. Uses various techniques called ninjutsu." },
             { "永遠", "Towa - A well-known diviner within Keiun who takes great care of his appearance." },
-            { "千歳", "Chitose - A shrine maiden serving the Domen family. Though she appears quiet and fragile, she possesses an inner strength." },
-            { "鏑矢", "Kaburaya - The young lady of the Domen family, who governs southern Keiun. A master swordsman with countless tales of valor from his youth." },
+            { "千歳", "Chitose - A shrine maiden serving the Doumen family. Though she appears quiet and fragile, she possesses an inner strength." },
+            { "鏑矢", "Kaburaya - The young lady of the Doumen family, who governs southern Keiun. A master swordsman with countless tales of valor from his youth." },
             // System and narrative elements
             { "？？？", "Unknown speaker - maintain mysterious tone appropriate to context." },
             { "ナレーション", "Narrator speaks in a clear, neutral tone providing context or background information." },

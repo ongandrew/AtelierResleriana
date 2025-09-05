@@ -693,7 +693,7 @@
     "id": 45601,
     "acquisition_text": "Leave it to me! I'll use my ninja techniques to\nscatter these evildoers and show you what I can do!",
     "another_name": "Devoted Loyal Ninja",
-    "description": "A ninja from southern Keiun.\nShe serves the Domen family as a ninja and has been childhood friends with her master Kanariya since they were young.\nRaised from childhood with traditional ninja education, she has been influenced by Kanariya to develop an appreciation for new things, often attempting new ninja techniques that perplex those around her.",
+    "description": "A ninja from southern Keiun.\nShe serves the Doumen family as a ninja and has been childhood friends with her master Kanariya since they were young.\nRaised from childhood with traditional ninja education, she has been influenced by Kanariya to develop an appreciation for new things, often attempting new ninja techniques that perplex those around her.",
     "fullname": "Kimon",
     "leader_skill": {
       "description": "Boosts Keiun characters' M.ATK by 50% and burst skill damage by 50%.",
@@ -701,14 +701,14 @@
     },
     "name": "Kimon",
     "overlay_name": "Kimon",
-    "profile_voice_text": "My name is Kimon. I am a ninja serving the Domen family. Please treat me well.",
+    "profile_voice_text": "My name is Kimon. I am a ninja serving the Doumen family. Please treat me well.",
     "start_at": "2025-08-15T03:00:00Z"
   },
   {
     "id": 45701,
     "acquisition_text": "A diviner is one who exorcises evil...\nI'll exorcise your melancholy feelings as well.",
     "another_name": "Eloquent Shikigami User",
-    "description": "A well-known diviner within Keiun.\nHe is childhood friends with Kaburaya, the head of the Domen family that governs southern Keiun, and Kimon, a ninja who serves her.\nHe takes great care of his appearance, sparing no effort in skincare and clothing selection. Though his flashy and arrogant behavior stands out, he claims to be a man who gets things done when it matters.",
+    "description": "A well-known diviner within Keiun.\nHe is childhood friends with Kaburaya, the head of the Doumen family that governs southern Keiun, and Kimon, a ninja who serves her.\nHe takes great care of his appearance, sparing no effort in skincare and clothing selection. Though his flashy and arrogant behavior stands out, he claims to be a man who gets things done when it matters.",
     "fullname": "Towa Shigan",
     "leader_skill": {
       "description": "Boosts all allies' battle item damage by 10% and P.DEF & M.DEF by 10% for each Keiun character in the party.",
@@ -716,23 +716,39 @@
     },
     "name": "Towa",
     "overlay_name": "Towa Shigan",
-    "profile_voice_text": "Childhood friend of Lady Kaburaya, head of the Domen family, and beautiful diviner, Towa Shigan. Pleased to make your acquaintance.",
+    "profile_voice_text": "Childhood friend of Lady Kaburaya, head of the Doumen family, and beautiful diviner, Towa Shigan. Pleased to make your acquaintance.",
     "start_at": "2025-08-22T03:00:00Z"
   },
   {
     "id": 45801,
     "acquisition_text": "If there's the light of Venus in the heavens, then there's the brilliance of Kaburaya on earth!\nCome now, follow me!",
     "another_name": "Brightest Star in the Sky",
-    "description": "The young lady of the Domen family, who governs southern Keiun.\nShe has been childhood friends with the ninja Kimon and the diviner Towa since they were young.\nShe has been skilled with the sword since childhood and has won the Keiun martial arts tournament with her unique swordsmanship.\nShe prefers new and beneficial things over useless old traditions.",
-    "fullname": "Kaburaya Domen",
+    "description": "The young lady of the Doumen family, who governs southern Keiun.\nShe has been childhood friends with the ninja Kimon and the diviner Towa since they were young.\nShe has been skilled with the sword since childhood and has won the Keiun martial arts tournament with her unique swordsmanship.\nShe prefers new and beneficial things over useless old traditions.",
+    "fullname": "Kaburaya Doumen",
     "leader_skill": {
       "description": "Boosts all allies' P.ATK and M.ATK by 10% and skill damage and stun damage by 20% for each Keiun character in the party.",
       "name": "Lord Who Mastered the Martial Way"
     },
     "name": "Kaburaya",
     "overlay_name": "Kaburaya Doumen",
-    "profile_voice_text": "I am Kaburaya Domen, lord of Keiun!\nLet my strength serve you well.",
+    "profile_voice_text": "I am Kaburaya Doumen, lord of Keiun!\nLet my strength serve you well.",
     "sort_name": "KABURAYA",
     "start_at": "2025-08-29T03:00:00Z"
+  },
+  {
+    "id": 45901,
+    "acquisition_text": "I offer a prayer for the safety of this journey...\nPlease allow me to give you my blessing...",
+    "another_name": "Shrine Maiden of the Reeds",
+    "description": "A shrine maiden serving the Doumen family.\nOriginally serving at a shrine, she was immediately won over by Kaburaya's direct persuasion and became attached to the Doumen family.\nThough she appears quiet and fragile due to her earnest nature, she possesses an inner strength.",
+    "fullname": "Chitose Hateruma",
+    "leader_skill": {
+      "description": "Boosts Keiun characters' M.ATK and M.DEF by 40%.",
+      "name": "Reverent Shrine Maiden"
+    },
+    "name": "Chitose",
+    "overlay_name": "Chitose Hateruma",
+    "profile_voice_text": "I am Chitose Hateruma... As a shrine maiden,\nI would be honored to be of service to you all...",
+    "sort_name": "Chitose",
+    "start_at": "2025-09-05T03:00:00Z"
   }
 ]

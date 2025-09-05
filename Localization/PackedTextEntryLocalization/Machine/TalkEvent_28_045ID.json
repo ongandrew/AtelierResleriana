@@ -1,0 +1,716 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "隠し階段を、下がって、上がって……\nはぁ、はぁっ……もうわけ分かんないんだけど！",
+        "localizations": {
+          "en": "Down the hidden stairs, then up, then down again... Hah, hah... I don't even know where we are anymore!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "いつの間にか夜になってるし……\nここはどこなんだろう？",
+        "localizations": {
+          "en": "It's already nighttime somehow... Where are we?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "あっ！\u3000あそこにいるの、ヴァレリアじゃない！？\nおーい！",
+        "localizations": {
+          "en": "Oh! Isn't that Valeria over there?! Hey!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "レスナ！\u3000アルビーナも！\n無事にみんな助け出せたのね！",
+        "localizations": {
+          "en": "Resna! Alvina too! You managed to rescue everyone safely!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "コウセンらしき人影が、上の階へと逃げていった！\nこのまま追い詰めるぞ！",
+        "localizations": {
+          "en": "A figure resembling Kosen fled to the upper floor! We'll corner him now!"
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "うん……って、九偉人！？",
+        "localizations": {
+          "en": "Yeah... wait, one of the Nine?!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "さっきからレスナと一緒にアタシらもいたんだけど\n気付いてなかったのかい？",
+        "localizations": {
+          "en": "I've been with Resna and the others this whole time, but you didn't notice?"
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "ほんとだ！\nイェルカに……げっ、シトリンも",
+        "localizations": {
+          "en": "You're right! Jelka and... ugh, it's Citrine too."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "なんだよ、せっかく助けに来てあげたのに",
+        "localizations": {
+          "en": "What's with that reaction? I came to help rescue you."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "よく分からないが……\nコウセンを倒すという目的は同じと考えていいのかな？",
+        "localizations": {
+          "en": "I'm not sure what's going on, but... we all share the same goal of defeating Kosen, right?"
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "ララ殿は？",
+        "localizations": {
+          "en": "Where is Lady Lara?"
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "鏑矢の様子を看てる。千歳も一緒よ",
+        "localizations": {
+          "en": "She's looking after Kaburaya. Chitose is with her too."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "え！？\u3000鏑矢さん、どうなったの？",
+        "localizations": {
+          "en": "Huh?! What happened to Kaburaya?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "きっと今頃、正気に戻ってくれてるはずよ。\nアルビーナたちが託してくれたレシピのおかげでね",
+        "localizations": {
+          "en": "She should have regained her senses by now. Thanks to the recipe you entrusted to us."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "そっか、よかったあ……\nそれじゃあ、後はコウセンだけか",
+        "localizations": {
+          "en": "I see, that's a relief... So now it's just Kosen left."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "行きましょう、上へ！",
+        "localizations": {
+          "en": "Let's go upstairs!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "や、やっとたどり着いたか……",
+        "localizations": {
+          "en": "Y-you finally made it here..."
+        }
+      },
+      "2072370017": {
+        "text": "コウセン",
+        "localizations": {
+          "en": "Kosen"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "追い詰めたよ、コウセン！！",
+        "localizations": {
+          "en": "We've cornered you, Kosen!!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "浜辺の時みたいにはいかないわよ！",
+        "localizations": {
+          "en": "This won't go like it did at the beach!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "追い詰めた？\u3000違うな。\nおびき寄せたのだ",
+        "localizations": {
+          "en": "Cornered? No. I lured you here."
+        }
+      },
+      "2072370017": {
+        "text": "コウセン",
+        "localizations": {
+          "en": "Kosen"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "なっ！\u3000式神だと！？",
+        "localizations": {
+          "en": "What! A familiar?!"
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "偽者だったの！？",
+        "localizations": {
+          "en": "It was a decoy?!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "ならば、本体はいずこに……",
+        "localizations": {
+          "en": "Then where is the real Kosen..."
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "ここだ",
+        "localizations": {
+          "en": "Right here."
+        }
+      },
+      "2072370017": {
+        "text": "コウセン",
+        "localizations": {
+          "en": "Kosen"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "陰陽の力を施したこの場でなら\n我は本来の何倍もの力が出せる",
+        "localizations": {
+          "en": "In this place infused with onmyoji power, I can exert many times my normal strength."
+        }
+      },
+      "2072370017": {
+        "text": "コウセン",
+        "localizations": {
+          "en": "Kosen"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "むぅ……確かにとてつもない陰陽の力だ。\nそして微かに混ざるのは、物の怪の臭い……！",
+        "localizations": {
+          "en": "Mmm... that's certainly tremendous onmyoji power. And there's something else mixed in—the scent of demons...!"
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "コウセンは魔物だったってこと！？",
+        "localizations": {
+          "en": "So Kosen was a monster all along?!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "この姿を見せるのは鏑矢に復讐を果たす時と\n決めていたのだがな……",
+        "localizations": {
+          "en": "I had decided to show this form only when I would have my revenge on Kaburaya..."
+        }
+      },
+      "2072370017": {
+        "text": "コウセン",
+        "localizations": {
+          "en": "Kosen"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "これは……まさか、大蛇！？",
+        "localizations": {
+          "en": "This is... could it be, the great serpent?!"
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "それって、鏑矢が昔退治したっていう……",
+        "localizations": {
+          "en": "You mean the one Kaburaya defeated long ago..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "左様、我は鏑矢に討ち果たされた大蛇の父……！",
+        "localizations": {
+          "en": "Indeed, I am the father of the great serpent slain by Kaburaya...!"
+        }
+      },
+      "2072370017": {
+        "text": "コウセン",
+        "localizations": {
+          "en": "Kosen"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "我が子を殺された恨み、このケイウン全土を\n滅ぼして回っても晴れはせんわ！",
+        "localizations": {
+          "en": "The hatred for my child's murder will not be satisfied even if I destroy all of Keiun!"
+        }
+      },
+      "2072370017": {
+        "text": "コウセン",
+        "localizations": {
+          "en": "Kosen"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "長年生きた妖怪は人語を解して\n人をたぶらかす……まさにその通りね！",
+        "localizations": {
+          "en": "Ancient demons that live long lives can speak human words and deceive people... You're exactly that!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "境遇には同情しますけど……\nだからって許せません！",
+        "localizations": {
+          "en": "I sympathize with your circumstances, but... that doesn't make this forgivable!"
+        }
+      },
+      "2072370017": {
+        "text": "ソフィー",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "誰が許してくれと言ったか！\n許さぬのはこちらのほうよ！！",
+        "localizations": {
+          "en": "Who asked for forgiveness?! I'm the one who won't forgive!!"
+        }
+      },
+      "2072370017": {
+        "text": "コウセン",
+        "localizations": {
+          "en": "Kosen"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "コウセン……\nこれ以上の狼藉は許しませぬ",
+        "localizations": {
+          "en": "Kosen... we cannot allow any more of your violence."
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "鏑矢を騙し、この国を混乱に陥れた、\nその報いを受けてもらう！",
+        "localizations": {
+          "en": "You deceived Kaburaya and threw this country into chaos. You must face the consequences!"
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "フン……この我を倒せるとでも？",
+        "localizations": {
+          "en": "Hah... you think you can defeat me?"
+        }
+      },
+      "2072370017": {
+        "text": "コウセン",
+        "localizations": {
+          "en": "Kosen"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "なかなか、しぶといわね……\nこれがケイウン大妖怪の力！",
+        "localizations": {
+          "en": "Pretty stubborn... This is the power of Keiun's great demon!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "でも、こいつを倒さないと何も解決しない！\n怖いけどやらなきゃ……！",
+        "localizations": {
+          "en": "But if we don't defeat this thing, nothing will be resolved! I'm scared, but we have to do this...!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "もう、やめませんか。\nこれ以上戦う必要なんて……",
+        "localizations": {
+          "en": "Can't you stop this? There's no need to fight anymore..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "すでに勝ったつもりか？\n人間風情が……自惚れるな",
+        "localizations": {
+          "en": "Already think you've won? Don't get cocky, you mere humans..."
+        }
+      },
+      "2072370017": {
+        "text": "コウセン",
+        "localizations": {
+          "en": "Kosen"
+        }
+      }
+    }
+  }
+]

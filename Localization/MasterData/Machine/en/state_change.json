@@ -2918,5 +2918,100 @@
     "id": 1210432,
     "description": "Boosts item gauge recovery after turn by {value}%. Cannot be removed.",
     "name": "Item Gauge Recovery After Turn"
+  },
+  {
+    "id": 510188,
+    "description": "Boosts skill damage by {value}%. (MAX 120%)",
+    "name": "Damage Dealt Up"
+  },
+  {
+    "id": 510189,
+    "description": "Boosts stun damage by {value}%. (MAX 120%)",
+    "name": "Stun Damage Up"
+  },
+  {
+    "id": 610303,
+    "description": "Boosts M.ATK by {value}%. (MAX 100%)",
+    "name": "M.ATK Up"
+  },
+  {
+    "id": 610304,
+    "description": "Reduces damage received by {value}%. (MAX 2 stacks)",
+    "name": "Received Damage Down"
+  },
+  {
+    "id": 610305,
+    "description": "Before attacking, reduces target's Bolt resistance by {value}% (MAX 50%) for 1 attack.",
+    "name": "Grant Bolt Resistance Down"
+  },
+  {
+    "id": 610306,
+    "description": "Increases damage received from Bolt attacks by {value}%. (MAX 50%)",
+    "name": "Bolt Resistance Down"
+  },
+  {
+    "id": 610307,
+    "description": "Boosts M.ATK by {value}%. (MAX 84%)",
+    "name": "M.ATK Up"
+  },
+  {
+    "id": 610308,
+    "description": "Boosts M.ATK by {value}%. (MAX 88%)",
+    "name": "M.ATK Up"
+  },
+  {
+    "id": 610309,
+    "description": "Boosts M.ATK by {value}%. (MAX 92%)",
+    "name": "M.ATK Up"
+  },
+  {
+    "id": 610310,
+    "description": "Boosts M.ATK by {value}%. (MAX 96%)",
+    "name": "M.ATK Up"
+  },
+  {
+    "id": 610311,
+    "description": "Boosts skill damage by {value}%. (MAX 150%)",
+    "name": "Damage Dealt Up"
+  },
+  {
+    "id": 610312,
+    "description": "Boosts stun damage by {value}%. (MAX 100%)",
+    "name": "Stun Damage Up"
+  },
+  {
+    "id": 610313,
+    "description": "After attacking, increases target's damage received by {value}% for 3 attacks.",
+    "name": "Grant Received Damage Up"
+  },
+  {
+    "id": 610330,
+    "description": "Boosts M.ATK by {value}%. (MAX 22%)",
+    "name": "M.ATK Up"
+  },
+  {
+    "id": 610331,
+    "description": "Boosts M.ATK by {value}%. (MAX 24%)",
+    "name": "M.ATK Up"
+  },
+  {
+    "id": 610332,
+    "description": "Boosts M.ATK by {value}%. (MAX 26%)",
+    "name": "M.ATK Up"
+  },
+  {
+    "id": 610333,
+    "description": "Boosts M.ATK by {value}%. (MAX 28%)",
+    "name": "M.ATK Up"
+  },
+  {
+    "id": 610334,
+    "description": "Boosts M.ATK by {value}%. (MAX 30%)",
+    "name": "M.ATK Up"
+  },
+  {
+    "id": 610335,
+    "description": "Boosts Bolt skill damage by {value}%. (MAX 20%)",
+    "name": "Bolt Damage Up"
   }
 ]

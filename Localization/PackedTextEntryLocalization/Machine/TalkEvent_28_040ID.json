@@ -1,0 +1,546 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "ララ様、お待たせいたしました。\n罠の解除、完了いたしました",
+        "localizations": {
+          "en": "Your Majesty, sorry to keep you waiting. I've finished disarming the traps."
+        }
+      },
+      "2072370017": {
+        "text": "ディオーナ",
+        "localizations": {
+          "en": "Diona"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "ご苦労さまですわ、ディオーナ。\n道のりはあとどれくらいかしら？",
+        "localizations": {
+          "en": "Well done, Diona. How much farther do we have to go?"
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "今のが捕らえていた魔物を放つ罠でしたので……\n見取り図のここです。牢獄に近づいてきましたね",
+        "localizations": {
+          "en": "That last one was a trap that releases captured monsters... We're here on the map. We're getting close to the prison."
+        }
+      },
+      "2072370017": {
+        "text": "ディオーナ",
+        "localizations": {
+          "en": "Diona"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "捕らえた魔物を置いておくなら牢ですもんね。\nこのまま私たちが牢屋に行っちゃうっていうのも……",
+        "localizations": {
+          "en": "Makes sense they'd keep captured monsters in a prison. Though the idea of us ending up in those cells ourselves..."
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "残念ながらこの道はここで折り返し、\n一度階段を上って降りてくる形になります",
+        "localizations": {
+          "en": "Unfortunately, this path doubles back here—we'll have to go up some stairs and then come back down."
+        }
+      },
+      "2072370017": {
+        "text": "ディオーナ",
+        "localizations": {
+          "en": "Diona"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "道がグネグネしてるね。\n住んでて不便じゃないのかな",
+        "localizations": {
+          "en": "The layout's all twisty. Wouldn't it be majorly inconvenient to live here?"
+        }
+      },
+      "2072370017": {
+        "text": "ミーケ",
+        "localizations": {
+          "en": "Mieke"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "でも、式神っていう生きてない魔物に加えて、\n普通の生きてる魔物まで……人材豊富だね、ケイウンは",
+        "localizations": {
+          "en": "Between the shikigami that aren't alive and regular living monsters... Keiun sure has a diverse workforce."
+        }
+      },
+      "2072370017": {
+        "text": "アイラ",
+        "localizations": {
+          "en": "Isla"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "ケイウンの魔物は独特で妖怪と呼ばれることもある。\nなんでも年を経た妖怪は人語を解すそうだ",
+        "localizations": {
+          "en": "Keiun's monsters are unique—sometimes called demons. I hear that older demons can even understand human speech."
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "ええ、千歳からうかがったのだけど、\n人に化けてたぶらかしたりするそうよ",
+        "localizations": {
+          "en": "Yes, Chitose told me about that. They can supposedly disguise themselves as humans and deceive people."
+        }
+      },
+      "2072370017": {
+        "text": "ディオーナ",
+        "localizations": {
+          "en": "Diona"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "たぶらかす？\nおいろけでうっふーんみたいな？",
+        "localizations": {
+          "en": "Deceive people? As in... seduction?"
+        }
+      },
+      "2072370017": {
+        "text": "ミーケ",
+        "localizations": {
+          "en": "Mieke"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "…………",
+        "localizations": {
+          "en": "..."
+        }
+      },
+      "2072370017": {
+        "text": "みんな",
+        "localizations": {
+          "en": "Everyone"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "なんか言ってよ！\n気まずいじゃん！！\u3000スベったみたいじゃん！！",
+        "localizations": {
+          "en": "Hey! Say something! This is awkward!! It's like I totally bombed!!"
+        }
+      },
+      "2072370017": {
+        "text": "ミーケ",
+        "localizations": {
+          "en": "Mieke"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "ミーケが色を知るにはまだ早いですわね",
+        "localizations": {
+          "en": "You are still too young for such matters."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "うぇ～ん！！\nララ様、お手本見せてくださ～い！",
+        "localizations": {
+          "en": "Waaah!! Queen Lara, show me how it's done!"
+        }
+      },
+      "2072370017": {
+        "text": "ミーケ",
+        "localizations": {
+          "en": "Mieke"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "よく見ていなさいな。王たる者の色香というものを",
+        "localizations": {
+          "en": "Watch closely. Behold the allure of one who is queen."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "おおー……！",
+        "localizations": {
+          "en": "Whoa...!"
+        }
+      },
+      "2072370017": {
+        "text": "ミーケ",
+        "localizations": {
+          "en": "Mieke"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "ああ、ララ様！\u3000素敵です！\u3000愛も――",
+        "localizations": {
+          "en": "Oh, Your Majesty! How wonderful! Such grace—"
+        }
+      },
+      "2072370017": {
+        "text": "ディオーナ",
+        "localizations": {
+          "en": "Diona"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "妖怪ってどんなのがいるの？",
+        "localizations": {
+          "en": "What kind of demons are we talking about?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "例えば、「大蛇」と呼ばれる蛇の妖怪だな。\nケイウンでは度々人里に現れ被害を出しているようだ",
+        "localizations": {
+          "en": "For instance, there's the Great Serpent, a snake demon. It frequently appears near human settlements in Keiun, causing damage."
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "特に、成熟した個体は\n頂獣に匹敵する力を持っているとされている",
+        "localizations": {
+          "en": "Mature specimens are said to possess power rivaling that of an Apexi."
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "その話なら千歳からも聞いたわ。\n強力な毒を持つ魔物だって",
+        "localizations": {
+          "en": "I heard about that from Chitose too. They're monsters with incredibly potent venom."
+        }
+      },
+      "2072370017": {
+        "text": "ディオーナ",
+        "localizations": {
+          "en": "Diona"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "昔、領主の鏑矢さんがその幼体を退治したらしくて、\n今でも語り草になっているみたい",
+        "localizations": {
+          "en": "Long ago, Lady Kaburaya supposedly defeated a juvenile one. It's still talked about to this day."
+        }
+      },
+      "2072370017": {
+        "text": "ディオーナ",
+        "localizations": {
+          "en": "Diona"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "幼体とはいえ、\n頂獣並みの魔物を倒すくらい強いってことね",
+        "localizations": {
+          "en": "Even a juvenile with Apexi-level power... that shows how strong she is."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "すご……そんな人を今、ミーケたちが\nおびき寄せてるんだよね",
+        "localizations": {
+          "en": "Wow... And now we're trying to lure someone like that into a fight."
+        }
+      },
+      "2072370017": {
+        "text": "ミーケ",
+        "localizations": {
+          "en": "Mieke"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "ええ、戦うのが楽しみになってきたわね",
+        "localizations": {
+          "en": "Yeah, I'm getting excited about the battle ahead."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "えー、そっち……？",
+        "localizations": {
+          "en": "Uh, really...?"
+        }
+      },
+      "2072370017": {
+        "text": "アイラ",
+        "localizations": {
+          "en": "Isla"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "敵は人間だけではない。この先には、\n邪悪な魔物の気配もある。気を引き締めろよナナ",
+        "localizations": {
+          "en": "It's not just humans we face. I sense malevolent monsters ahead as well. Stay sharp, Nana."
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "わ、分かってるわよ。それにヴァレリアだって",
+        "localizations": {
+          "en": "I-I know that already. And it's Valeria."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "体力は十分か？\u3000拾い食いはしてないだろうな。\n口の中をあーんしてみろ",
+        "localizations": {
+          "en": "Have you been keeping your strength up? You haven't been eating junk, have you? Open your mouth and say 'ah.'"
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "あーもう、大丈夫だってば",
+        "localizations": {
+          "en": "Ugh, I'm fine!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "向こうの班は上手くやれてるかな……",
+        "localizations": {
+          "en": "I wonder how the other team is doing..."
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "大丈夫よ、レスナだもの。\nレスナ……アルビーナを頼んだわよ！",
+        "localizations": {
+          "en": "They'll be fine—it's Resna after all. Resna... I'm counting on you to look after Alvina!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  }
+]

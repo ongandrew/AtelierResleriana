@@ -210,7 +210,7 @@ namespace AtelierResleriana.Executables.Pipeline.News.Localize
 
                         var messageResponse = await anthropicClient.CreateMessageAsync(new MessageRequest
                         {
-                            Model = Models.Claude35Sonnet,
+                            Model = Models.ClaudeSonnet4,
                             MaxTokens = 8192,
                             Messages = messages
                         });

@@ -7098,5 +7098,140 @@
     "id": 600000714,
     "description": "Boosts all allies' battle item critical damage by 100%.",
     "name": "All Allies' Battle Item Critical Damage Up"
+  },
+  {
+    "id": 301261,
+    "description": "While equipped to Chitose Hateruma [Maiden of Revelation], after any party member uses a battle item, grants Nullify Negative Effects to all allies for 1 turn.<br>※Even if multiple items are used simultaneously, this effect only triggers once.",
+    "name": "Sacred Charm of Pure Faith"
+  },
+  {
+    "id": 1980206,
+    "description": "Characters with the Keiun tag gain M.ATK & M.DEF +{0}%.",
+    "name": "Reverent Shrine Maiden"
+  },
+  {
+    "id": 1990383,
+    "description": "Boosts potency of positive effects received from battle items by {0}% for all allies.<br>After using a skill, restores item gauge by {1}% and<br>restores all allies' HP by {2}%.",
+    "name": "Shrine Maiden's Prayer"
+  },
+  {
+    "id": 1990384,
+    "description": "After any party member uses a battle item, grants all allies Skill Damage +{0}% and Stun Damage +{1}% (MAX 120%).<br>※Even if multiple items are used simultaneously, this effect only triggers once.",
+    "name": "May I Borrow Alchemy's Power"
+  },
+  {
+    "id": 4991103,
+    "description": "While equipped to a Supporter with Bolt affinity, boosts all allies' magical attack skill damage by {0}%.<br>While equipped to a character with the Quiet tag, boosts potency of effects received from boost-type panels by {1}% for all allies.",
+    "name": "Aspiration: Cherry Blossoms in Full Bloom"
+  },
+  {
+    "id": 4991104,
+    "description": "While equipped to a Supporter with Bolt affinity, boosts all allies' magical attack skill damage by {0}%.<br>While equipped to a character with the Quiet tag, boosts potency of effects received from boost-type panels by {1}% for all allies.",
+    "name": "Aspiration: Cherry Blossoms in Full Bloom"
+  },
+  {
+    "id": 4991105,
+    "description": "While equipped to a Supporter with Bolt affinity, boosts all allies' magical attack skill damage by {0}%.<br>While equipped to a character with the Quiet tag, boosts potency of effects received from boost-type panels by {1}% for all allies.",
+    "name": "Aspiration: Cherry Blossoms in Full Bloom"
+  },
+  {
+    "id": 4991106,
+    "description": "While equipped to a Supporter with Bolt affinity, boosts all allies' magical attack skill damage by {0}%.<br>While equipped to a character with the Quiet tag, boosts potency of effects received from boost-type panels by {1}% for all allies.",
+    "name": "Aspiration: Cherry Blossoms in Full Bloom"
+  },
+  {
+    "id": 4991107,
+    "description": "While equipped to a Supporter with Bolt affinity, boosts all allies' magical attack skill damage by {0}%.<br>While equipped to a character with the Quiet tag, boosts potency of effects received from boost-type panels by {1}% for all allies.",
+    "name": "Aspiration: Cherry Blossoms in Full Bloom"
+  },
+  {
+    "id": 21009001,
+    "description": "Death performance",
+    "name": ""
+  },
+  {
+    "id": 21120003,
+    "description": "Death performance",
+    "name": ""
+  },
+  {
+    "id": 21153002,
+    "description": "Death performance",
+    "name": ""
+  },
+  {
+    "id": 21255001,
+    "description": "Upon recovering from stun, grants all allies Damage Dealt Up (50%/2 times) and Damage Received Down (30%/2 times).",
+    "name": ""
+  },
+  {
+    "id": 21256001,
+    "description": "When own HP drops to 40% or below, grants all allies Damage Received Down (50%/5 times) and grants self Positive Effect Potency Up (60%/5 times) and SPD Up (25%/5 times).",
+    "name": ""
+  },
+  {
+    "id": 21257001,
+    "description": "Boosts own damage dealt based on the number of enemies (10% per enemy).\nBoosts skill power against targets with Burn (5% per 3 stacks).",
+    "name": ""
+  },
+  {
+    "id": 21257002,
+    "description": "When own HP drops to 25% or below, grants self Damage Dealt Up (80%/3 times) and SPD Up (40%/3 times).",
+    "name": ""
+  },
+  {
+    "id": 21257003,
+    "description": "When critically stunned, summons up to 2 Frozen Komori.\nIf there is 1 enemy, summons 2; if there are 2 enemies, summons 1. Does not summon otherwise.\nWhen stunned, gets another turn.",
+    "name": ""
+  },
+  {
+    "id": 21257004,
+    "description": "When critically stunned, summons up to 2 Frozen Komori.\nIf there is 1 enemy, summons 2; if there are 2 enemies, summons 1. Does not summon otherwise.\nWhen stunned, gets another turn.",
+    "name": ""
+  },
+  {
+    "id": 26255001,
+    "description": "Upon recovering from stun, grants all allies Damage Dealt Up (30%/2 times) and Damage Received Down (20%/2 times).",
+    "name": ""
+  },
+  {
+    "id": 26256001,
+    "description": "When own HP drops to 40% or below, grants all allies Damage Received Down (40%/5 times) and grants self Positive Effect Potency Up (50%/5 times) and SPD Up (20%/5 times).",
+    "name": ""
+  },
+  {
+    "id": 26257005,
+    "description": "Boosts own damage dealt based on the number of enemies (30% per enemy).\nBoosts skill power against enemies with Burn by 15% per 3 stacks.",
+    "name": ""
+  },
+  {
+    "id": 26257006,
+    "description": "When own HP drops to 25% or below, grants self Damage Dealt Up (80% for 3 attacks) and SPD Up (40% for 3 attacks).",
+    "name": ""
+  },
+  {
+    "id": 26257007,
+    "description": "When breaking an enemy with a large stun gauge, summons up to 2 Ice Bats.\nSummons 2 bats if there is 1 enemy, 1 bat if there are 2 enemies. Does not summon if there are more.\nWhen breaking an enemy, reselects action.",
+    "name": ""
+  },
+  {
+    "id": 600000717,
+    "description": "Boosts positive effect potency granted by Chitose [Kannagi Maiden] by 150%.",
+    "name": "Chitose [Kannagi Maiden] Positive Effect Potency Up"
+  },
+  {
+    "id": 600000718,
+    "description": "Boosts stun damage for Kaburaya [Brightest Star on Earth] by 200%.",
+    "name": "Kaburaya [Brightest Star on Earth] Stun Damage Up"
+  },
+  {
+    "id": 600000719,
+    "description": "Boosts skill power for Izana [Return of the Knight] by 100%.",
+    "name": "Izana [Return of the Knight] Skill Power Up"
+  },
+  {
+    "id": 600000722,
+    "description": "When Kaburaya [Brightest Star on Earth] or Chitose [Kannagi Maiden] is in the party, reduces damage received by 25% (max 25%).",
+    "name": "Damage Reduction when Kaburaya [Brightest Star on Earth] or Chitose [Kannagi Maiden] is in Party"
   }
 ]

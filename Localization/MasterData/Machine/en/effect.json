@@ -9153,5 +9153,395 @@
     "id": 713001433,
     "description": "[Self/M.ATK Up][Board Ability A4]",
     "popup_text": ""
+  },
+  {
+    "id": 6001137,
+    "description": "While equipped to Chitose [Shrine Maiden of Kannagi], grants Nullify Negative Effects to all allies for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 20000001,
+    "description": "While equipped to Chitose [Shrine Maiden of Kannagi], boosts positive effect potency.",
+    "popup_text": ""
+  },
+  {
+    "id": 20000002,
+    "description": "While equipped to Kaburaya [Brightest Star on Earth], boosts stun damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 20000003,
+    "description": "While equipped to Izana [Return of the Knight], boosts skill power.",
+    "popup_text": ""
+  },
+  {
+    "id": 71255001,
+    "description": "Inflicts Paralysis on skill target for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 71255002,
+    "description": "Inflicts SPD Down on skill target for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 71255003,
+    "description": "Grants self Dealt Damage Up (Cumulative).",
+    "popup_text": ""
+  },
+  {
+    "id": 71255004,
+    "description": "Grants self SPD Up for 3 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 71255005,
+    "description": "Grants self Counter for 3 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 71255006,
+    "description": "Inflicts Paralysis on skill target for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 71255007,
+    "description": "Removes all negative effects from self.",
+    "popup_text": "Remove Negative Effects"
+  },
+  {
+    "id": 71255008,
+    "description": "Accelerates own turn.",
+    "popup_text": "Shorten Turn"
+  },
+  {
+    "id": 71256001,
+    "description": "Restores HP to all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 71256002,
+    "description": "Grants Damage Received Down to all allies for 3 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 71256003,
+    "description": "Grants Dealt Damage Up to skill target for 3 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 71256004,
+    "description": "Grants SPD Up to skill target for 3 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 71256005,
+    "description": "Restores stun gauge to all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 71256006,
+    "description": "Inflicts Bolt Resistance Down on skill target for 3 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 71256007,
+    "description": "Grants Dealt Damage Up to single ally for 3 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 71256008,
+    "description": "Grants Dealt Damage Up to all allies for 3 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 71257001,
+    "description": "Inflicts Burn on skill target.",
+    "popup_text": ""
+  },
+  {
+    "id": 71257002,
+    "description": "Grants Damage Received Down (5 turns) to all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 71257003,
+    "description": "Grants Negative Effect Potency Down (5 turns) to all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 71257004,
+    "description": "Grants Damage Dealt Down (3 turns) to skill target.",
+    "popup_text": ""
+  },
+  {
+    "id": 71257005,
+    "description": "Grants HP Recovery Down (3 turns) to all enemies.",
+    "popup_text": ""
+  },
+  {
+    "id": 71257006,
+    "description": "Summons 1 Yakto Wolf.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001388,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001389,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 81009001,
+    "description": "Death animation.",
+    "popup_text": ""
+  },
+  {
+    "id": 81120001,
+    "description": "Death animation.",
+    "popup_text": ""
+  },
+  {
+    "id": 81153003,
+    "description": "Death animation.",
+    "popup_text": ""
+  },
+  {
+    "id": 81255001,
+    "description": "When recovering from stun, grants Damage Dealt Up (2 turns) to all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 81255002,
+    "description": "When recovering from stun, grants Damage Received Down (2 turns) to all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 81256001,
+    "description": "Grants Damage Received Down (5 turns) to all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 81256002,
+    "description": "Grants Positive Effect Potency Up (5 turns) to self.",
+    "popup_text": ""
+  },
+  {
+    "id": 81256003,
+    "description": "Grants SPD Up (5 turns) to self.",
+    "popup_text": ""
+  },
+  {
+    "id": 81257001,
+    "description": "During major stun, if there is 1 or fewer allies, summons 1 Frozen Bat.",
+    "popup_text": ""
+  },
+  {
+    "id": 81257002,
+    "description": "During major stun, if there are 2 or fewer allies, summons 1 Frozen Bat.",
+    "popup_text": ""
+  },
+  {
+    "id": 81257003,
+    "description": "Summons 1 Yakto Wolf (EX).",
+    "popup_text": ""
+  },
+  {
+    "id": 81257004,
+    "description": "During major stun, if there is 1 or fewer allies, summons 1 Frozen Bat (EX).",
+    "popup_text": ""
+  },
+  {
+    "id": 81257005,
+    "description": "When performing a force stun, if there are 2 or fewer allies, summons 1 Frozen Komori (EX).",
+    "popup_text": ""
+  },
+  {
+    "id": 81257006,
+    "description": "Boosts own damage dealt based on number of enemy formations.",
+    "popup_text": ""
+  },
+  {
+    "id": 81257007,
+    "description": "Grants self damage dealt up for 3 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 81257008,
+    "description": "Grants self speed up for 3 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 81257009,
+    "description": "When skill target has 3 or more Burn stacks, boosts skill power.",
+    "popup_text": ""
+  },
+  {
+    "id": 81257010,
+    "description": "When skill target has 6 or more Burn stacks, boosts skill power.",
+    "popup_text": ""
+  },
+  {
+    "id": 81257011,
+    "description": "When skill target has 9 or more Burn stacks, boosts skill power.",
+    "popup_text": ""
+  },
+  {
+    "id": 81257012,
+    "description": "When skill target has 12 or more Burn stacks, boosts skill power.",
+    "popup_text": ""
+  },
+  {
+    "id": 81257013,
+    "description": "When skill target has 15 or more Burn stacks, boosts skill power.",
+    "popup_text": ""
+  },
+  {
+    "id": 81257014,
+    "description": "When skill target has 18 or more Burn stacks, boosts skill power.",
+    "popup_text": ""
+  },
+  {
+    "id": 81257015,
+    "description": "When skill target has 21 or more Burn stacks, boosts skill power.",
+    "popup_text": ""
+  },
+  {
+    "id": 81257016,
+    "description": "Summons 1 Yakutouwolf (CHARISMA).",
+    "popup_text": ""
+  },
+  {
+    "id": 81257017,
+    "description": "When performing a force stun, if there is 1 or fewer allies, summons 1 Frozen Komori (CHARISMA).",
+    "popup_text": ""
+  },
+  {
+    "id": 81257018,
+    "description": "When performing a force stun, if there are 2 or fewer allies, summons 1 Frozen Komori (CHARISMA).",
+    "popup_text": ""
+  },
+  {
+    "id": 91001260,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001837,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001838,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001839,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001840,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001841,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001842,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001843,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001844,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001845,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001846,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001847,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001848,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001849,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001850,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001851,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001883,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001884,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001885,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001886,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000273,
+    "description": "Boosts magical skill damage for all allies when equipped to a Supporter with Bolt affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000274,
+    "description": "Boosts effect potency from boost-type panels for all allies when equipped to characters with Quiet.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000786,
+    "description": "Reduces damage received when Kaburaya [Brightest Star on Earth] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000787,
+    "description": "Reduces damage received when Chitose [Maiden of the River Reed] is in the party.",
+    "popup_text": ""
   }
 ]

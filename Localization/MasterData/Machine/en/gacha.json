@@ -3030,5 +3030,160 @@
     "name": "Cherry Blossoms in Bloom: Kaburaya LEGEND FES [Paid Limited]",
     "start_at": "2025-08-29T03:00:00Z",
     "step_up_loop_description": ""
+  },
+  {
+    "id": 2293,
+    "description": "Chitose makes her debut & Pick Up!\nFeatured until 2025/09/22 11:59 (UTC+8).",
+    "end_at": "2025-09-22T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Cherry Blossoms in Bloom Chitose LEGEND FES",
+    "name": "Cherry Blossoms in Bloom Chitose LEGEND FES",
+    "start_at": "2025-09-05T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2294,
+    "description": "Wish 50 times with paid Star Gems to unlock additional wishes!\nFeatured until 2025/09/22 11:59 (UTC+8).",
+    "end_at": "2025-09-22T03:00:00Z",
+    "name": "Cherry Blossoms in Bloom Chitose LEGEND FES [Paid Limited]",
+    "start_at": "2025-09-05T03:00:00Z",
+    "step_up_loop_description": "{} rounds remaining"
+  },
+  {
+    "id": 2306,
+    "description": "STEP 2 and STEP 5 are free once!\nGet your selected 3★ characters guaranteed!",
+    "name": "72-Hour Limited! Select 3★ Character Guaranteed Wish Part 1",
+    "start_at": "2025-09-09T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2307,
+    "description": "Steps 2 and 5 are free once!\nGet your selected ★3 characters guaranteed!",
+    "name": "72 Hours Only! Select ★3 Character Guaranteed Wish Part 2",
+    "start_at": "2025-09-09T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2308,
+    "description": "Steps 2 and 5 are free once!\nGet your selected SSR Memoria guaranteed!",
+    "name": "Chapter 3 Clear Commemoration Select SSR Memoria Guaranteed Wish",
+    "start_at": "2025-09-09T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2309,
+    "description": "Many unique Atelier characters appear!\nATELIER FES with no featured characters is now live!",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 105,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 106,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "ATELIER FES",
+    "name": "ATELIER FES",
+    "start_at": "2025-09-09T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 21007,
+    "description": "Star Prayer Stone Crown",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 210071,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Star Prayer Stone Crown",
+    "name": "Star Prayer Stone Crown",
+    "start_at": "2025-09-09T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 21008,
+    "description": "Star Prayer Stone Nectar",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 210081,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Star Prayer Stone Nectar",
+    "name": "Star Prayer Stone Nectar",
+    "start_at": "2025-09-09T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 21009,
+    "description": "Star Prayer Stone Crown (Memoria)",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 210091,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Star Prayer Stone Crown (Memoria)",
+    "name": "Star Prayer Stone Crown (Memoria)",
+    "start_at": "2025-09-09T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 229401,
+    "description": "5 times only! Pick-up rate is doubled!\nGet 16 medals. Available until 2025/09/22 10:59 (UTC+8).",
+    "end_at": "2025-09-22T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10005,
+            "description": "Bonus included!\n{} attempts remaining!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "When the Cherry Blossoms Bloom - Chitose LEGEND FES [Paid Limited]",
+    "name": "When the Cherry Blossoms Bloom - Chitose LEGEND FES [Paid Limited]",
+    "start_at": "2025-09-05T03:00:00Z",
+    "step_up_loop_description": ""
   }
 ]

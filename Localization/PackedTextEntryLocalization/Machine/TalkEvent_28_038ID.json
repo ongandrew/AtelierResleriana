@@ -1,0 +1,631 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "ほう、腕を上げたな……！\u3000見事！！",
+        "localizations": {
+          "en": "Impressive, you've improved considerably...! Well done!!"
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "こりゃあ、あんまり戦いを楽しんでると\n危ないかもしれないね",
+        "localizations": {
+          "en": "Hmm, if I enjoy myself too much, things might get dangerous."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "待ってください！\nどうか話を聞いてください！",
+        "localizations": {
+          "en": "Wait, please! Just hear us out!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "さっきからずっと話したそうだね。\n結局、平行線だとは思うけど？",
+        "localizations": {
+          "en": "You've been wanting to talk this whole time. I think we'll just end up going in circles."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "ケイウンについて、私たちが知っていることを\nすべて話します！\u3000管理するなら情報が必要ですよね？",
+        "localizations": {
+          "en": "We'll share everything we know about Keiun! If you're going to manage this situation, you need information, right?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "あは、なんだか面白いことを言ってきてるよ",
+        "localizations": {
+          "en": "Haha, now that's an interesting proposition."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "姉上、どうします",
+        "localizations": {
+          "en": "Sister, what should we do?"
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "……ま、そこまで言ってくる奴を問答無用ってのも\n粋じゃないね。話してみなよ",
+        "localizations": {
+          "en": "...Well, it wouldn't be very chic to ignore someone who's trying that hard. Alright, let's talk."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "なるほど、そちらがもたらした情報と、\n我々が集めた情報は、概ね一致する",
+        "localizations": {
+          "en": "I see. The information you've provided largely matches what we've gathered ourselves."
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "んーでも、知ってることばっかだったのが残念",
+        "localizations": {
+          "en": "Mm, it's disappointing that it was all stuff we already knew."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "情報の裏付けが取れたんだ。\nそれだけでも良しとしようじゃないか",
+        "localizations": {
+          "en": "At least we got confirmation of our intel. That's good enough for now."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "ちょっと、家族会議はまた別の所で\nやってくれないかしら……",
+        "localizations": {
+          "en": "Hey, could you save the family meeting for somewhere else...?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "ム……何を言う。お前も輪に入ってこい、ナナ",
+        "localizations": {
+          "en": "What are you saying? You're part of this family too, Nana."
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "すねてるんじゃないわよ！",
+        "localizations": {
+          "en": "I'm so not!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "結局、こっちのやることは変わらないって\n結論なんだけども",
+        "localizations": {
+          "en": "In the end, our course of action hasn't changed."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "ケイウンのことはアタシたちに任せろ……\nって言っても、どうせお前さんたちは聞かないだろ？",
+        "localizations": {
+          "en": "Leave Keiun to us... though you probably won't sit still even if told you to, right?"
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "正解せいかーい。そっちも私たちのこと\n分かってきたみたいね？",
+        "localizations": {
+          "en": "Bingo! Looks like you're starting to understand us too."
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "私たちは引きません。\nただ、ここで戦っても不毛なだけですよね？",
+        "localizations": {
+          "en": "We won't back down. But fighting here would just be pointless, wouldn't it?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "その通り。そちらもコウセンとやり合うのでしたら、\n消耗を避けるためにも引き下がるのが得策ではなくて？",
+        "localizations": {
+          "en": "Precisely. If you intend to confront Kosen as well, would it not be wiser to withdraw and avoid unnecessary losses?"
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "ふむふむ",
+        "localizations": {
+          "en": "Hmm, hmm."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "そうだ、いいことを思いついた",
+        "localizations": {
+          "en": "That's it—I just had a great idea."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "…………？",
+        "localizations": {
+          "en": "...?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "こちらも、お前さんたちに同行しようじゃないか",
+        "localizations": {
+          "en": "We'll come along with you."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "ええっ！？",
+        "localizations": {
+          "en": "What?!"
+        }
+      },
+      "2072370017": {
+        "text": "ふたり",
+        "localizations": {
+          "en": "Both"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "手を貸してくれるってこと……？\n何が狙いなのよ",
+        "localizations": {
+          "en": "You're going to join up with us? What's your angle here?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "お手並み拝見ってことだよ",
+        "localizations": {
+          "en": "Think of us as observers."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "お前さんたちが今回の騒動をどう収めるつもりか、\n見せてもらおうじゃないか",
+        "localizations": {
+          "en": "We want to see how you plan to resolve this whole mess."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "ふむ。確かに、この島の悪を取り除くという\n目的は共通しているか……",
+        "localizations": {
+          "en": "Hmm. Indeed, we do share the common goal of eliminating the evil on this island..."
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "それじゃヴァレリアと一緒にいられるの？\nえへへぇ、よろしくねっ！",
+        "localizations": {
+          "en": "So I get to stay with Valeria? Ehehe, nice to meet you!"
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "うわっ、とと……\n",
+        "localizations": {
+          "en": "Whoa, hey..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "……こちらとしては願ってもない提案です。\nどうぞ、よろしくお願いします",
+        "localizations": {
+          "en": "...That's more than we could have hoped for. Thank you so much."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "ああ。よろしく頼むよ",
+        "localizations": {
+          "en": "Yeah. Looking forward to working with you."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "まぁ、嘘は言ってないかな……\nうん、それはなんとなく分かるわ",
+        "localizations": {
+          "en": "Well, they seem to be sincere... I can sense that much."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "どうなることかと思ったけど、\n丸く収まったみたい……？",
+        "localizations": {
+          "en": "I was worried about how this would turn out, but it seems like things worked out...?"
+        }
+      },
+      "2072370017": {
+        "text": "アイラ",
+        "localizations": {
+          "en": "Isla"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "それじゃ、鬼雲城に向かうってことで……\nいいんですよね",
+        "localizations": {
+          "en": "So we're heading to Kiun Castle then... right?"
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "はい。ヨハナちゃんが言っていた通り、\n二手に分かれる作戦で",
+        "localizations": {
+          "en": "Yes. We'll split into two teams like Johanna suggested."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "ミーケとディオーナを呼び戻して参りますわ。\n各々準備をして、再度集合といたしましょう",
+        "localizations": {
+          "en": "I shall recall Mieke and Diona. Let us each prepare and reconvene shortly."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  }
+]

@@ -19828,5 +19828,593 @@
     "description": "Grants self damage dealt up 30% for 2 turns, damage received down 30% for 2 turns, stun damage down 30% for 2 turns, and status effect resistance down 50% for 3 turns.",
     "name": "Meditation",
     "summary": ""
+  },
+  {
+    "id": 11003063,
+    "description": "Removes negative effects from 1 ally and<br>grants target M.ATK +{0}% (max 22%) and Bolt damage +{1}% (max 20%).",
+    "name": "Wild Taming",
+    "summary": "Removes negative effects from 1 ally<br>Boosts target's M.ATK and Bolt damage."
+  },
+  {
+    "id": 11003064,
+    "description": "Removes negative effects from 1 ally and<br>grants target M.ATK +{0}% (max 24%) and Bolt damage +{1}% (max 20%).",
+    "name": "Wild Taming",
+    "summary": "Removes negative effects from 1 ally<br>Boosts target's M.ATK and Bolt damage."
+  },
+  {
+    "id": 11003065,
+    "description": "Removes negative effects from 1 ally and<br>grants target M.ATK +{0}% (max 26%) and Bolt damage +{1}% (max 20%).",
+    "name": "Wild Taming",
+    "summary": "Removes negative effects from 1 ally<br>Boosts target's M.ATK and Bolt damage."
+  },
+  {
+    "id": 11003066,
+    "description": "Removes negative effects from 1 ally and<br>grants target M.ATK +{0}% (max 28%) and Bolt damage +{1}% (max 20%).",
+    "name": "Wild Taming",
+    "summary": "Removes negative effects from 1 ally<br>Boosts target's M.ATK and Bolt damage."
+  },
+  {
+    "id": 11003067,
+    "description": "Removes negative effects from 1 ally and<br>grants target M.ATK +{0}% (max 30%) and Bolt damage +{1}% (max 20%).",
+    "name": "Wild Taming",
+    "summary": "Removes negative effects from 1 ally<br>Boosts target's M.ATK and Bolt damage."
+  },
+  {
+    "id": 12003068,
+    "description": "Grants all allies M.ATK +{0}% (max 84%) and<br>stun damage +{1}% for 2 turns.<br>Grants all allies with Bolt affinity damage received -{2}% for 2 attacks (max 2 stacks).<br>Based on number of characters with Nova tag, grants all allies M.ATK +10–50% and skill damage +10–50% for 2 turns (higher boost for more characters, 1–5 characters).<br><br>Grants target the following additional effect for 1 turn:<br>Additional effect: Before attacking, reduces target's Bolt resistance by {3}% (max 50%) for 1 attack.",
+    "name": "Rainstorm Awakening",
+    "summary": "Boosts all allies' M.ATK and stun damage<br>Reduces damage received for all allies with Bolt affinity<br>Based on number of characters with Nova tag, boosts all allies' M.ATK and skill damage<br>Grants target additional effect."
+  },
+  {
+    "id": 12003069,
+    "description": "Grants all allies M.ATK +{0}% (max 88%) and<br>stun damage +{1}% for 2 turns.<br>Grants all allies with Bolt affinity damage received -{2}% for 2 attacks (max 2 stacks).<br>Based on number of characters with Nova tag, grants all allies M.ATK +10–50% and skill damage +10–50% for 2 turns (higher boost for more characters, 1–5 characters).<br><br>Grants target the following additional effect for 1 turn:<br>Additional effect: Before attacking, reduces target's Bolt resistance by {3}% (max 50%) for 1 attack.",
+    "name": "Rainstorm Awakening",
+    "summary": "Boosts all allies' M.ATK and stun damage<br>Reduces damage received for all allies with Bolt affinity<br>Based on number of characters with Nova tag, boosts all allies' M.ATK and skill damage<br>Grants target additional effect."
+  },
+  {
+    "id": 12003070,
+    "description": "Grants all allies M.ATK +{0}% (max 92%) and<br>stun damage +{1}% for 2 turns.<br>Grants all allies with Bolt affinity damage received -{2}% for 2 attacks (max 2 stacks).<br>Based on number of characters with Nova tag, grants all allies M.ATK +10–50% and skill damage +10–50% for 2 turns (higher boost for more characters, 1–5 characters).<br><br>Grants target the following additional effect for 1 turn:<br>Additional effect: Before attacking, reduces target's Bolt resistance by {3}% (max 50%) for 1 attack.",
+    "name": "Rainstorm Awakening",
+    "summary": "Boosts all allies' M.ATK and stun damage<br>Reduces damage received for all allies with Bolt affinity<br>Based on number of characters with Nova tag, boosts all allies' M.ATK and skill damage<br>Grants target additional effect."
+  },
+  {
+    "id": 12003071,
+    "description": "Grants all allies M.ATK +{0}% (max 96%) and<br>stun damage +{1}% for 2 turns.<br>Grants all allies with Bolt affinity damage received -{2}% for 2 attacks (max 2 stacks).<br>Based on number of characters with Nova tag, grants all allies M.ATK +10–50% and skill damage +10–50% for 2 turns (higher boost for more characters, 1–5 characters).<br><br>Grants target the following additional effect for 1 turn:<br>Additional effect: Before attacking, reduces target's Bolt resistance by {3}% (max 50%) for 1 attack.",
+    "name": "Rainstorm Awakening",
+    "summary": "Boosts all allies' M.ATK and stun damage<br>Reduces damage received for all allies with Bolt affinity<br>Based on number of characters with Nova tag, boosts all allies' M.ATK and skill damage<br>Grants target additional effect."
+  },
+  {
+    "id": 12003072,
+    "description": "Grants all allies M.ATK +{0}% (max 100%) and<br>stun damage +{1}% for 2 turns.<br>Grants all allies with Bolt affinity damage received -{2}% for 2 attacks (max 2 stacks).<br>Based on number of characters with Nova tag, grants all allies M.ATK +10–50% and skill damage +10–50% for 2 turns (higher boost for more characters, 1–5 characters).<br><br>Grants target the following additional effect for 1 turn:<br>Additional effect: Before attacking, reduces target's Bolt resistance by {3}% (max 50%) for 1 attack.",
+    "name": "Rainstorm Awakening",
+    "summary": "Boosts all allies' M.ATK and stun damage<br>Reduces damage received for all allies with Bolt affinity<br>Based on number of characters with Nova tag, boosts all allies' M.ATK and skill damage<br>Grants target additional effect."
+  },
+  {
+    "id": 14003073,
+    "description": "Restores all allies' HP by {0}% and<br>grants all allies M.ATK +{1}% for 2 turns.<br>Grants all Attacker allies with Bolt affinity skill damage +{2}% (max 150%).<br>Grants all Breaker allies with Bolt affinity stun damage +{3}% (max 100%).<br><br>Grants target the following additional effect for 1 turn:<br>Additional effect: After attacking, increases target's damage received by {4}% for 3 attacks.",
+    "name": "Blessed Cloud Divine Music",
+    "summary": "Restores all allies' HP<br>Boosts all allies' M.ATK<br>Boosts skill damage for all Attacker allies with Bolt affinity<br>Boosts stun damage for all Breaker allies with Bolt affinity<br>Grants target additional effect."
+  },
+  {
+    "id": 14003074,
+    "description": "Restores all allies' HP by {0}% and<br>grants all allies M.ATK +{1}% for 2 turns.<br>Grants all Attacker allies with Bolt affinity skill damage +{2}% (max 150%).<br>Grants all Breaker allies with Bolt affinity stun damage +{3}% (max 100%).<br><br>Grants target the following additional effect for 1 turn:<br>Additional effect: After attacking, increases target's damage received by {4}% for 3 attacks.",
+    "name": "Blessed Cloud Divine Music",
+    "summary": "Restores all allies' HP<br>Boosts all allies' M.ATK<br>Boosts skill damage for all Attacker allies with Bolt affinity<br>Boosts stun damage for all Breaker allies with Bolt affinity<br>Grants target additional effect."
+  },
+  {
+    "id": 14003075,
+    "description": "Restores all allies' HP by {0}% and<br>grants all allies M.ATK +{1}% for 2 turns.<br>Grants all Attacker allies with Bolt affinity skill damage +{2}% (max 150%).<br>Grants all Breaker allies with Bolt affinity stun damage +{3}% (max 100%).<br><br>Grants target the following additional effect for 1 turn:<br>Additional effect: After attacking, increases target's damage received by {4}% for 3 attacks.",
+    "name": "Blessed Cloud Divine Music",
+    "summary": "Restores all allies' HP<br>Boosts all allies' M.ATK<br>Boosts skill damage for all Attacker allies with Bolt affinity<br>Boosts stun damage for all Breaker allies with Bolt affinity<br>Grants target additional effect."
+  },
+  {
+    "id": 14003076,
+    "description": "Restores all allies' HP by {0}% and<br>grants all allies M.ATK +{1}% for 2 turns.<br>Grants all Attacker allies with Bolt affinity skill damage +{2}% (max 150%).<br>Grants all Breaker allies with Bolt affinity stun damage +{3}% (max 100%).<br><br>Grants target the following additional effect for 1 turn:<br>Additional effect: After attacking, increases target's damage received by {4}% for 3 attacks.",
+    "name": "Blessed Cloud Divine Music",
+    "summary": "Restores all allies' HP<br>Boosts all allies' M.ATK<br>Boosts skill damage for all Attacker allies with Bolt affinity<br>Boosts stun damage for all Breaker allies with Bolt affinity<br>Grants target additional effect."
+  },
+  {
+    "id": 14003077,
+    "description": "Restores all allies' HP by {0}% and<br>grants all allies M.ATK +{1}% for 2 turns.<br>Grants all Attacker allies with Bolt affinity skill damage +{2}% (max 150%).<br>Grants all Breaker allies with Bolt affinity stun damage +{3}% (max 100%).<br><br>Grants target the following additional effect for 1 turn:<br>Additional effect: After attacking, increases target's damage received by {4}% for 3 attacks.",
+    "name": "Blessed Cloud Divine Music",
+    "summary": "Restores all allies' HP<br>Boosts all allies' M.ATK<br>Boosts skill damage for all Attacker allies with Bolt affinity<br>Boosts stun damage for all Breaker allies with Bolt affinity<br>Grants target additional effect."
+  },
+  {
+    "id": 22001758,
+    "description": "After attacking, inflicts daze (50% application chance/2 turns) on skill target.",
+    "name": "Daze Breath",
+    "summary": ""
+  },
+  {
+    "id": 22001759,
+    "description": "After attacking, inflicts 3 stacks of poison (80% application chance/3 turns) on skill target.",
+    "name": "Poison Needle",
+    "summary": ""
+  },
+  {
+    "id": 22001760,
+    "description": "No effect.",
+    "name": "Sting Bite",
+    "summary": ""
+  },
+  {
+    "id": 22001761,
+    "description": "Inflicts damage dealt down (30%/2 turns), damage received up (30%/2 turns), and recovery amount down (30%/2 turns) on skill target.",
+    "name": "Dark Roar",
+    "summary": ""
+  },
+  {
+    "id": 22001762,
+    "description": "Advances skill target's turn by 2 turns and grants evasion (1 time).",
+    "name": "Spin Roar",
+    "summary": ""
+  },
+  {
+    "id": 22001763,
+    "description": "After attacking, inflicts Paralysis (100% application chance/20% chance to disable action/2 turns) and reduces SPD by 30% for 2 turns on skill target.\nThen boosts own damage dealt by 15% (max 100%) and SPD by 10% for 3 turns.",
+    "name": "Moonlight Flash",
+    "summary": ""
+  },
+  {
+    "id": 22001764,
+    "description": "No additional effects.",
+    "name": "Crimson Katana",
+    "summary": ""
+  },
+  {
+    "id": 22001765,
+    "description": "After attacking, grants Counter to self for 3 turns.",
+    "name": "Cross Slash",
+    "summary": ""
+  },
+  {
+    "id": 22001766,
+    "description": "After attacking, boosts own damage dealt by 15% (max 100%).",
+    "name": "Rend Cross",
+    "summary": ""
+  },
+  {
+    "id": 22001767,
+    "description": "After attacking, inflicts Paralysis (100% application chance/20% chance to disable action/1 turn) on skill target.",
+    "name": "Paralyzing Slash",
+    "summary": ""
+  },
+  {
+    "id": 22001768,
+    "description": "Removes all negative effects from self and advances own turn by 2 turns.",
+    "name": "Retaliating Strategy",
+    "summary": ""
+  },
+  {
+    "id": 22001769,
+    "description": "No additional effects. (For counters)",
+    "name": "Responsive Katana",
+    "summary": ""
+  },
+  {
+    "id": 22001770,
+    "description": "Recovers all allies' HP by 30% and grants skill target damage received reduction by 40% and damage dealt boost by 15% for 3 turns.",
+    "name": "Divine Music of Healing",
+    "summary": ""
+  },
+  {
+    "id": 22001771,
+    "description": "Boosts own damage dealt by 20% and SPD by 15% for 3 turns.",
+    "name": "Divine Prayer",
+    "summary": ""
+  },
+  {
+    "id": 22001772,
+    "description": "Recovers all allies' HP by 20%, then restores skill target's stun gauge by 30%.",
+    "name": "Sacred Purification",
+    "summary": ""
+  },
+  {
+    "id": 22001773,
+    "description": "After attacking, reduces skill target's Bolt resistance by 25% for 3 turns.",
+    "name": "Heaven's Wrath",
+    "summary": ""
+  },
+  {
+    "id": 22001774,
+    "description": "After attacking, boosts single ally's damage dealt by 15% for 3 turns.",
+    "name": "Heaven's Punishment",
+    "summary": ""
+  },
+  {
+    "id": 22001775,
+    "description": "No additional effects.",
+    "name": "Shrine Maiden's Service",
+    "summary": ""
+  },
+  {
+    "id": 22001776,
+    "description": "After attacking, inflicts 5 stacks of Burn on skill target and grants all allies damage received reduction by 40% and negative effect potency reduction by 70% for 5 turns.",
+    "name": "Resentful Sludge",
+    "summary": ""
+  },
+  {
+    "id": 22001777,
+    "description": "After attacking, reduces skill target's damage dealt by 40% for 3 turns.",
+    "name": "Snake Sleep",
+    "summary": ""
+  },
+  {
+    "id": 22001778,
+    "description": "After attacking, reduces all enemies' HP recovery by 30% for 3 turns.",
+    "name": "Resentful Tail",
+    "summary": ""
+  },
+  {
+    "id": 22001779,
+    "description": "After attacking, inflicts 3 stacks of Burn on skill target.",
+    "name": "Sighing Hellfire",
+    "summary": ""
+  },
+  {
+    "id": 22001780,
+    "description": "Recovers HP by 20%, then reduces all enemies' HP recovery by 30% for 3 turns.",
+    "name": "Serpent Path Formation",
+    "summary": ""
+  },
+  {
+    "id": 22001781,
+    "description": "Summons 1 Yaktowolf (only when enemy formation has 2 or fewer units).",
+    "name": "Ritual Summoning",
+    "summary": ""
+  },
+  {
+    "id": 22001782,
+    "description": "Summons 1 Yaktowolf (only when enemy formation has 2 or fewer units).",
+    "name": "Ritual Summoning",
+    "summary": ""
+  },
+  {
+    "id": 22001783,
+    "description": "No effects.",
+    "name": "Glide",
+    "summary": ""
+  },
+  {
+    "id": 22001784,
+    "description": "Grants Damage Dealt Up (15%/3 times) to skill target.",
+    "name": "Aerial Dance",
+    "summary": ""
+  },
+  {
+    "id": 22001785,
+    "description": "After attacking, applies Paralysis (100% chance/3 times) to skill target.",
+    "name": "Paralyze Gale",
+    "summary": ""
+  },
+  {
+    "id": 22001786,
+    "description": "No effects.",
+    "name": "Mini Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 22001827,
+    "description": "After attacking, converts own next panel to critical panel (except BS) and grants Nullify Positive Effects (2 times) to target.",
+    "name": "Volare Bestia",
+    "summary": ""
+  },
+  {
+    "id": 22001828,
+    "description": "After attacking, delays target's turn by 3 and grants SPD Down (20%/2 times) to target.",
+    "name": "Fortis Pugnus",
+    "summary": ""
+  },
+  {
+    "id": 22001829,
+    "description": "No effects.",
+    "name": "Fortis Claws",
+    "summary": ""
+  },
+  {
+    "id": 22001830,
+    "description": "After attacking, grants Damage Dealt Down (40%/1 time) to target.",
+    "name": "Cauda Excitium",
+    "summary": ""
+  },
+  {
+    "id": 22001831,
+    "description": "After attacking, grants Damage Received Down (60%/2 times) to self.",
+    "name": "Vis Excitium",
+    "summary": ""
+  },
+  {
+    "id": 22001832,
+    "description": "Grants SPD Up (15%/2 times) to self and converts next panel to critical panel (except BS).",
+    "name": "Falling Star Stance",
+    "summary": ""
+  },
+  {
+    "id": 22001833,
+    "description": "Before attacking, grants Damage Received Up (50%/1 time) to skill target. After that, grants Nullify HP Recovery (1 time) to skill target.",
+    "name": "Aequi Vitas Venator",
+    "summary": ""
+  },
+  {
+    "id": 22001834,
+    "description": "After attacking, grants Damage Received Down (40%/3 times) to self and converts skill target's panel to weaken panel.",
+    "name": "Terra Fortitudo",
+    "summary": ""
+  },
+  {
+    "id": 22001835,
+    "description": "After attacking, converts skill target's panel to empty panel and grants SPD Down (20%/2 times).",
+    "name": "Bellator Gradius",
+    "summary": ""
+  },
+  {
+    "id": 22001836,
+    "description": "After attacking, grants Damage Dealt Down (40%/3 times) to skill target and removes all positive effects.",
+    "name": "Terra Magnus",
+    "summary": ""
+  },
+  {
+    "id": 22001837,
+    "description": "No effects.",
+    "name": "Gradius",
+    "summary": ""
+  },
+  {
+    "id": 22001838,
+    "description": "Grants SPD Up (10%/2 times) and Damage Dealt Up (40%/3 times) to self, and converts own next panel to boost panel (except BS panel).",
+    "name": "True Star Liberation",
+    "summary": ""
+  },
+  {
+    "id": 22001839,
+    "description": "Before attacking, applies Damage Received Up (50%/1 time) to skill target. After that, grants Nullify HP Recovery (1 time) to skill target, removes own Damage Dealt Up (for BS attack activation), and redraws turn.",
+    "name": "Aequi Vitas Venator",
+    "summary": ""
+  },
+  {
+    "id": 32003162,
+    "description": "After attacking, applies 5 stacks of Burn to skill target and grants Damage Received Down (40%/5 times) and Negative Effect Potency Down (70%/5 times) to all allies.",
+    "name": "Grudge Mud",
+    "summary": ""
+  },
+  {
+    "id": 32003163,
+    "description": "After attacking, grants Damage Dealt Down (40%/3 times) to skill target.",
+    "name": "Snake Eyes",
+    "summary": ""
+  },
+  {
+    "id": 32003164,
+    "description": "After attacking, grants HP Recovery Down (50%/3 times) to all enemies.",
+    "name": "Grudge Tail",
+    "summary": ""
+  },
+  {
+    "id": 32003165,
+    "description": "After attacking, inflicts 3 stacks of Burn on target for 3 turns.",
+    "name": "Sighing Hellfire",
+    "summary": ""
+  },
+  {
+    "id": 32003166,
+    "description": "After recovery, reduces HP recovery amount for all enemies by 50% for 3 turns.",
+    "name": "Serpentine Formation",
+    "summary": ""
+  },
+  {
+    "id": 32003167,
+    "description": "Summons 1 Yakutowolf (only when enemy formation has 2 or fewer units).",
+    "name": "Shikigami Summon",
+    "summary": ""
+  },
+  {
+    "id": 32003168,
+    "description": "After attacking, inflicts Freeze on target (50% chance for 2 turns).",
+    "name": "Freeze Breath",
+    "summary": ""
+  },
+  {
+    "id": 32003169,
+    "description": "After attacking, inflicts 3 stacks of Poison on target (80% chance for 3 turns).",
+    "name": "Poison Needle",
+    "summary": ""
+  },
+  {
+    "id": 32003170,
+    "description": "Reduces target's damage dealt by 30%, increases damage received by 30%, and reduces recovery amount by 30% for 2 turns.",
+    "name": "Dark Roar",
+    "summary": ""
+  },
+  {
+    "id": 32003171,
+    "description": "Advances target's turn by 2 turns and grants Evasion for 1 turn.",
+    "name": "Spin Roar",
+    "summary": ""
+  },
+  {
+    "id": 32003172,
+    "description": "Boosts this attack's critical damage by 80%.",
+    "name": "Fatal Bite",
+    "summary": ""
+  },
+  {
+    "id": 32003173,
+    "description": "After attacking, boosts own critical rate by 100% for 1 turn.",
+    "name": "Bite Down",
+    "summary": ""
+  },
+  {
+    "id": 32003174,
+    "description": "After attacking, boosts own critical damage by 50% for 3 turns.",
+    "name": "Howling Roar",
+    "summary": ""
+  },
+  {
+    "id": 32003175,
+    "description": "After attacking, inflicts Paralysis (100% chance, 20% chance to be unable to act for 2 turns) and reduces SPD by 15% for 2 turns on target.\nThen grants self damage dealt increase by 15% (Max: 100%) and SPD increase by 10% for 3 turns.",
+    "name": "Moonlight Fierce Flash",
+    "summary": ""
+  },
+  {
+    "id": 32003176,
+    "description": "No additional effects.",
+    "name": "Crimson Katana",
+    "summary": ""
+  },
+  {
+    "id": 32003177,
+    "description": "After attacking, grants self Counter for 3 turns.",
+    "name": "Single Character Slash",
+    "summary": ""
+  },
+  {
+    "id": 32003178,
+    "description": "After attacking, boosts own damage dealt by 15% (Max: 100%).",
+    "name": "Rend - Single Character",
+    "summary": ""
+  },
+  {
+    "id": 32003179,
+    "description": "After attacking, inflicts Paralysis on target (100% chance, 20% chance to be unable to act for 1 turn).",
+    "name": "Paralyzing Thunder Slash",
+    "summary": ""
+  },
+  {
+    "id": 32003180,
+    "description": "Removes all negative effects from self and advances own turn by 1 turn.",
+    "name": "Bloom Again Strategy",
+    "summary": ""
+  },
+  {
+    "id": 32003181,
+    "description": "No additional effects (for Counter).",
+    "name": "Responsive Single Katana",
+    "summary": ""
+  },
+  {
+    "id": 32003182,
+    "description": "Recovers all allies by 20%, reduces target's damage received by 25% and increases damage dealt by 15% for 3 turns.",
+    "name": "Divine Music of Healing",
+    "summary": ""
+  },
+  {
+    "id": 32003183,
+    "description": "Grants self damage dealt increase by 20% and SPD increase by 15% for 3 turns.",
+    "name": "Prayer Ritual",
+    "summary": ""
+  },
+  {
+    "id": 32003184,
+    "description": "After recovering all allies by 10%, restores target's stun gauge by 20%.",
+    "name": "Soothing Rise",
+    "summary": ""
+  },
+  {
+    "id": 32003185,
+    "description": "After attacking, reduces skill target's Bolt resistance by 25% for 3 turns.",
+    "name": "Heaven's Wrath",
+    "summary": ""
+  },
+  {
+    "id": 32003186,
+    "description": "After attacking, boosts an ally's damage dealt by 15% for 3 turns.",
+    "name": "Heaven's Blessing",
+    "summary": ""
+  },
+  {
+    "id": 32003187,
+    "description": "No effects.",
+    "name": "Shrine Maiden's Messenger",
+    "summary": ""
+  },
+  {
+    "id": 32003263,
+    "description": "After attacking, restores own HP by 30%.\nAfter attacking, restores own stun gauge by 100%.",
+    "name": "Swirling Swirling Punch",
+    "summary": ""
+  },
+  {
+    "id": 32003264,
+    "description": "After attacking, reduces target's damage dealt by 20% for 4 turns.",
+    "name": "Swirling Punch",
+    "summary": ""
+  },
+  {
+    "id": 32003265,
+    "description": "After attacking, reduces all enemies' stun damage dealt by 20% for 4 turns.",
+    "name": "Dark Storm",
+    "summary": ""
+  },
+  {
+    "id": 32003266,
+    "description": "Restores own HP by 20%.\nRemoves all status effects from self.",
+    "name": "Heal Powder",
+    "summary": ""
+  },
+  {
+    "id": 32003267,
+    "description": "Grants self Cover for 3 turns.",
+    "name": "Stand By",
+    "summary": ""
+  },
+  {
+    "id": 32003268,
+    "description": "Reduces all allies' damage received by 30% for 2 turns.",
+    "name": "Energy Powder",
+    "summary": ""
+  },
+  {
+    "id": 32003269,
+    "description": "After attacking, boosts all allies' damage dealt by 100% for 3 turns.\nAfter attacking, reduces all allies' damage received by 50% for 3 turns.",
+    "name": "Stage On Ice",
+    "summary": ""
+  },
+  {
+    "id": 32003270,
+    "description": "Reduces all allies' damage received by 25% for 3 turns.",
+    "name": "Guardian Dance",
+    "summary": ""
+  },
+  {
+    "id": 32003271,
+    "description": "Reduces all enemies' damage dealt by 50% for 3 turns.\nReduces all enemies' stun damage dealt by 50% for 3 turns.",
+    "name": "Dangerous Snow Powder",
+    "summary": ""
+  },
+  {
+    "id": 32003272,
+    "description": "Restores target ally's HP by 15%.\nRestores target ally's stun gauge by 30%.",
+    "name": "Support",
+    "summary": ""
+  },
+  {
+    "id": 32003273,
+    "description": "After attacking, restores all allies' HP by 30%.",
+    "name": "Valkoinen Yorul",
+    "summary": ""
+  },
+  {
+    "id": 32003274,
+    "description": "No effects.",
+    "name": "Branchy Counterattack",
+    "summary": ""
+  },
+  {
+    "id": 32003275,
+    "description": "After attacking, delays target's turn by 2 turns.",
+    "name": "Present Tackle",
+    "summary": ""
+  },
+  {
+    "id": 32003276,
+    "description": "After attacking, boosts own damage dealt by 5% permanently (MAX 30%).",
+    "name": "Spiky Spiky Gift Shower",
+    "summary": ""
+  },
+  {
+    "id": 32003277,
+    "description": "Grants self Nullify Damage for 2 turns.\nBoosts own SPD by 30% for 1 turn.\nReduces own SPD by 15% for 2 turns.",
+    "name": "Full Power Carol",
+    "summary": ""
   }
 ]

@@ -1,0 +1,682 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "（ケイウン南部の領主である鏑矢さんが乱心し、\n\u3000国に反旗を翻そうとしている）",
+        "localizations": {
+          "en": "(Lady Kaburaya, lord of the southern Keiun domain, has lost her mind and is planning to rebel against the nation.)"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "（配下である忍者の鬼門、そして陰陽師の永遠、\n\u3000二人に頼まれてアタシたちはケイウンへやって来た）",
+        "localizations": {
+          "en": "(At the request of her retainers—the ninja Kimon and the diviner Towa—we came to Keiun.)"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "（調査の結果、陰陽師のコウセンが作ったお香\n\u3000「玉涎香」が鏑矢さんを惑わせていると分かった）",
+        "localizations": {
+          "en": "(Our investigation revealed that an incense called Jade Nectar created by the diviner Kosen was clouding Kaburaya's judgment.)"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "（そしてそのお香の効果を打ち消す道具を作るべく、\n\u3000素材を集めに向かったんだけど……）",
+        "localizations": {
+          "en": "(So we went to gather materials to create a tool that could neutralize the incense's effects, but...)"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "参ったね、どうも。まさかあの場所で\n捕らえられるとは……コウセンめ",
+        "localizations": {
+          "en": "This is quite the predicament. I never expected to be captured at that shrine of all places... Curse that Kosen."
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "ここはどこなのかしら？\nあの社からかなり距離があったみたいだけれど",
+        "localizations": {
+          "en": "Where are we? It seems like we've been transported quite a distance."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "……「鬼雲城」。今より昔、戦の時代に築かれた\n古城にござりまする",
+        "localizations": {
+          "en": "...This is Kiun Castle. An ancient fortress built during the wars of old."
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "なんか……変な感じ。身体がピリピリする",
+        "localizations": {
+          "en": "Something feels... strange. My body's all tingly."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "鬼雲城はコウセンが手ずから改修を加えており……\n陰陽術によって細工が施されているのです",
+        "localizations": {
+          "en": "Kosen has personally overseen renovations to Kiun Castle... It has been modified with onmyoji techniques."
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "牢には忍術や陰陽術を封じる結界が施されております。\n錬金術も封じられているのでしょうか？",
+        "localizations": {
+          "en": "The cells are warded with barriers that seal ninjutsu and onmyoji arts. I assume alchemy can't be used as well?"
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "どうかなあ……使おうにも、飴も道具も素材も\nあらかた取り上げられちゃったし",
+        "localizations": {
+          "en": "I'm not sure... Even if I wanted to try, they took away our candy, tools, and materials."
+        }
+      },
+      "2072370017": {
+        "text": "ソフィー",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "実質封じられたようなもんだね。今のアルビちゃんは、\nかわいいだけの普通の女の子っす……",
+        "localizations": {
+          "en": "So our hands are effectively tied as well then. Right now I'm just a cute, ordinary girl with no special powers..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "ふむ……となると物理的に脱獄する方法は……\n壁を掘り進めるか、錠に味噌汁をかけるか……",
+        "localizations": {
+          "en": "Hmm... So our physical escape options include digging through the walls or pouring miso soup on the locks..."
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "気が遠くなるような脱獄計画だなぁ。渋みのある中年に\nなっちまう。助けが来てくれるのが一番ありがたいね",
+        "localizations": {
+          "en": "While those technically would work, I'd be a distinguished middle-aged man by the time we got out. Looks like we'll have to count on outside assistance"
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "定時報告の時間はとっくに過ぎているし、あちらの船の\nお嬢さん方も気付いてくださっているだろう",
+        "localizations": {
+          "en": "Our scheduled check-in time has long passed, so the ladies on the other ship should have noticed by now."
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "確かに、こういうときのためにヴァレリアたちが\n待機してくれてるんだけど……",
+        "localizations": {
+          "en": "True, Valeria and the others are in position for exactly these scenarios..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "大人しく待ってるだけってのも性に合わない！\nそんなアルビちゃん",
+        "localizations": {
+          "en": "But just sitting here waiting doesn't suit me! That's not my style!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "そうね。救出を待ちつつも、自分たちで脱出できるよう\n備えはしておきましょう",
+        "localizations": {
+          "en": "You're right. While we wait for rescue, we should still make preparations of our own."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "とりあえず、今できることは……なんだろう？",
+        "localizations": {
+          "en": "In that case, what can we actually achieve...?"
+        }
+      },
+      "2072370017": {
+        "text": "ソフィー",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "運動だね。長い獄中生活は足腰を弱らせる。\n結果、足が不自由になった武将もいたという",
+        "localizations": {
+          "en": "Exercise and keep fit. Long imprisonment weakens the leg and hip muscles. I've heard of warlords who became lame as a result."
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "確かに、いざという時に動けないと大変だもの。\n狭い牢の中でもできる運動をみんなに教えるわ",
+        "localizations": {
+          "en": "True, it would be terrible if we couldn't move when the time came. I'll teach everyone some exercises suitable for our cramped cells."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "できれば初心者向けのやつでお願いしたいっす",
+        "localizations": {
+          "en": "Could you make them beginner-friendly, please?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "それなら、おすすめの踊りがあるわ。\n姉様にも教えてあげる、脱獄する囚人の舞い",
+        "localizations": {
+          "en": "In that case, I know a good dance. I'll teach it to you too—it's called the Escaping Prisoner's Dance."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "そんなぴったりなやつあるの！？",
+        "localizations": {
+          "en": "There's actually a dance called that?!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "ちなみに、ソフィーさんは何を？",
+        "localizations": {
+          "en": "By the way, what are you up to, Sophie?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "牢屋の端に植物が生えてたから、ちょっと調べてたんだ",
+        "localizations": {
+          "en": "I found some plants growing in the corner of the cell, so I was examining them."
+        }
+      },
+      "2072370017": {
+        "text": "ソフィー",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "もしかしたら、\n役立つものを調合できたりしないかなって",
+        "localizations": {
+          "en": "I was thinking that maybe I could synthesize something useful with them."
+        }
+      },
+      "2072370017": {
+        "text": "ソフィー",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "おお！\u3000と言っても、道具も何もないですけど……",
+        "localizations": {
+          "en": "Good idea, but it's not like we have any tools or anything..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "あはは、だよねえ。でも、少しでも知識を得られれば\n何かできるかもしれないよ",
+        "localizations": {
+          "en": "Ahaha, true. But if I examine it, there's a chance I could do something useful with it."
+        }
+      },
+      "2072370017": {
+        "text": "ソフィー",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "……というか",
+        "localizations": {
+          "en": "...Speaking of which..."
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "なんで俺だけ別の牢に入れられてるんだろうねぇ",
+        "localizations": {
+          "en": "Why am I the only one stuck in a separate cell?"
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "男女別でしょ？\nというか、そっちは広くて羨ましいんだけど！",
+        "localizations": {
+          "en": "Gender segregation, right? I'm pretty jealous of how spacious it is over there!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "ああ、どう考えても人口密度が不均衡じゃないか？\n三人ずつにすればいいと思うんだけど",
+        "localizations": {
+          "en": "The population density is clearly unbalanced here. I think having three people per cell would have made more sense. Anyone up for it?"
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "永遠の軟派ぶりはケイウン全土に\n轟き渡っているゆえ……",
+        "localizations": {
+          "en": "Towa's reputation as a flirt is known throughout all of Keiun..."
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "なんだなんだ！\nお前ら、静かにしやがれ！",
+        "localizations": {
+          "en": "What's all that racket?! You lot better keep it down!"
+        }
+      },
+      "2072370017": {
+        "text": "牢番",
+        "localizations": {
+          "en": "Guard"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "あー、すみませんねえ。\n牢屋なんて初めてで、どうも落ち着かなくて……",
+        "localizations": {
+          "en": "Oh, sorry about that. This is my first time in a cell, so I'm having trouble adjusting..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "ところで、そろそろお腹空いてきたなーなんて\n思ってるんですが、お食事のほうはいただけたり……？",
+        "localizations": {
+          "en": "By the way, I'm getting pretty hungry around now. I don't suppose we could get some food...?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "……今準備をしている。もう少し待っていろ",
+        "localizations": {
+          "en": "...It's on the way. Just wait."
+        }
+      },
+      "2072370017": {
+        "text": "牢番",
+        "localizations": {
+          "en": "Guard"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "本当ですか！\u3000楽しみだなあ～。\nそれまで大人しく待ってますね！",
+        "localizations": {
+          "en": "Really?! I'm looking forward to it! We'll wait here quietly until then!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "あ、ああ、分かればいいんだよ……\n捕まったってのに、逞しい奴らだな",
+        "localizations": {
+          "en": "Y-yeah, as long as you understand the position you're in... You're all in high spirits for people who just got captured."
+        }
+      },
+      "2072370017": {
+        "text": "牢番",
+        "localizations": {
+          "en": "Guard"
+        }
+      }
+    }
+  }
+]

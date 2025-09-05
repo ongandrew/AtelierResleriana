@@ -1846,5 +1846,53 @@
   {
     "id": 60258004,
     "description": "- Calls allies\n- Follow-up attacks on opponents with Bolt resistance down after attacking\n- When HP reaches a certain level, removes own negative effects and boosts damage dealt and reduces damage received\n- Delays turn\n- Nullifies effects that delay own turn"
+  },
+  {
+    "id": 10120012,
+    "description": "- Inflicts Poison\n- Inflicts Brittle\n- Advances allies' turns and grants Evasion"
+  },
+  {
+    "id": 10153019,
+    "description": "No tips available."
+  },
+  {
+    "id": 10246003,
+    "description": "- Before using powerful attacks, boosts single enemy's damage received, then inflicts Nullify Recovery after the attack\n- Removes single enemy's positive effects\n- Converts enemy panels to empty panels\n- Converts enemy panels to weaken panels\n- Converts own panels to boost panels\n- When stunned, removes own positive effects\n- When HP falls below a certain level, grants self multiple positive effects and uses a powerful attack (MAX 1 time)"
+  },
+  {
+    "id": 10255002,
+    "description": "- When recovering from stun, boosts all allies' damage dealt and reduces damage received\n- Inflicts Paralysis\n- Counters\n- Removes own negative effects and advances turn\n- If not stunned once by the 5th turn, targets and defeats the enemy with the highest P.ATK or M.ATK"
+  },
+  {
+    "id": 10256001,
+    "description": "- When own HP falls below a certain level, reduces all allies' damage received and boosts own positive effect potency and SPD\n- Heals all allies\n- Restores all allies' stun gauges"
+  },
+  {
+    "id": 10257001,
+    "description": "- Damage dealt increases with more allies present\n- Boosts skill power against burning enemies\n- When HP falls below a certain level, boosts own damage dealt and SPD\n- When receiving major stun damage, summons up to 2 allies\n- Inflicts Burn\n- Reduces HP recovery amount\n- Reduces all allies' negative effect potency received\n- Heals self\n- Summons allies"
+  },
+  {
+    "id": 10257002,
+    "description": "- Inflicts Burn\n- Reduces HP recovery amount\n- Reduces all allies' negative effect potency received\n- Heals self"
+  },
+  {
+    "id": 60119053,
+    "description": "- While stunned, converts non-burst panels to boost panels each time hit by a critical attack\n- Restores allies' HP and stun gauges"
+  },
+  {
+    "id": 60122051,
+    "description": "- When stunned, converts boost-type panels to burst panels\n- Covers\n- Heals self and removes all status effects\n- Restores own HP and stun gauge"
+  },
+  {
+    "id": 60153000,
+    "description": "- Boosts own critical rate\n- Boosts own critical damage"
+  },
+  {
+    "id": 60207052,
+    "description": "- At the start of battle, boosts all enemies' max HP and M.ATK, then heals them\n- Grants self Damage Immunity\n- Delays turn\n- Heals all allies"
+  },
+  {
+    "id": 60257000,
+    "description": "- Damage dealt increases with more allies present\n- Boosts skill power against burning enemies\n- When HP falls below a certain level, boosts own damage dealt and SPD\n- When receiving major stun damage, summons up to 2 allies\n- Inflicts Burn\n- Reduces HP recovery amount\n- Heals self\n- Summons allies\n- Reduces all allies' negative effect potency received"
   }
 ]

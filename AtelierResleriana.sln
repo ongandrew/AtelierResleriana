@@ -80,6 +80,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtelierResleriana.Executabl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtelierResleriana.Executables.Pipeline.All.Run", "AtelierResleriana.Executables.Pipeline.All.Run\AtelierResleriana.Executables.Pipeline.All.Run.csproj", "{82E72664-E9B9-4B55-82E5-D84C5AF25299}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtelierResleriana.Executables.AudioExtractor", "AtelierResleriana.Executables.AudioExtractor\AtelierResleriana.Executables.AudioExtractor.csproj", "{C70DF2A4-DD71-4D6D-AA69-3F33E3FAFBD3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -230,6 +232,10 @@ Global
 		{82E72664-E9B9-4B55-82E5-D84C5AF25299}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82E72664-E9B9-4B55-82E5-D84C5AF25299}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82E72664-E9B9-4B55-82E5-D84C5AF25299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C70DF2A4-DD71-4D6D-AA69-3F33E3FAFBD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C70DF2A4-DD71-4D6D-AA69-3F33E3FAFBD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C70DF2A4-DD71-4D6D-AA69-3F33E3FAFBD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C70DF2A4-DD71-4D6D-AA69-3F33E3FAFBD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

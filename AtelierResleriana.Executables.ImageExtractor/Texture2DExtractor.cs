@@ -1,11 +1,9 @@
 ﻿using AtelierResleriana.Unity;
 using BCnEncoder.Decoder;
-using BCnEncoder.Encoder;
 using BCnEncoder.Shared;
 using CommunityToolkit.HighPerformance;
 using System.Drawing;
 using System.Drawing.Imaging;
-using System.Runtime.InteropServices;
 using System.Text;
 using Region = AtelierResleriana.Game.Region;
 

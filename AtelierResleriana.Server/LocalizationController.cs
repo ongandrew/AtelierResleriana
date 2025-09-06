@@ -12,8 +12,8 @@ namespace AtelierResleriana.Server
             {                
                 new LocalizationDataVersion()
                 {
-                    Version = 638926622231289169,
-                    Uri = new Uri("https://atelierresleriana.blob.core.windows.net/localization/638926622231289169.zip")
+                    Version = 638927428968852013,
+                    Uri = new Uri("https://atelierresleriana.blob.core.windows.net/localization/638927428968852013.zip")
                 }
             });
         }

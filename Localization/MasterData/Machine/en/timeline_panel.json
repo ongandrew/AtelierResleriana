@@ -8,5 +8,10 @@
     "id": 63,
     "description": "Considered a boost-type panel.<br>When used by an enemy, very high chance of inflicting Paralysis for 1 turn.<br>When used by an ally, boosts own M.ATK by 15% and skill damage by 15% for 1 turn.",
     "name": "Maltherate Panel"
+  },
+  {
+    "id": 65,
+    "description": "Considered a boost-type panel.<br>When used by an enemy, boosts critical damage received by 50% for 1 attack.<br>When used by an ally, boosts critical damage by 75% for 1 turn.",
+    "name": "Raging Flame Panel"
   }
 ]

@@ -9543,5 +9543,180 @@
     "id": 120000787,
     "description": "Reduces damage received when Chitose [Maiden of the River Reed] is in the party.",
     "popup_text": ""
+  },
+  {
+    "id": 6001138,
+    "description": "When self is Jelka [Nifty Rover], grants Penetration Up to self for 1 turn when using an original panel.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001139,
+    "description": "When self is Jelka [Third of the Miraculous Nine], grants Critical Rate Up to self for 1 turn when using a boost-type panel.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001140,
+    "description": "Grants all allies Critical Damage Up when target is stunned for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001141,
+    "description": "state_change用",
+    "popup_text": ""
+  },
+  {
+    "id": 6001142,
+    "description": "Penetration Up",
+    "popup_text": ""
+  },
+  {
+    "id": 13000382,
+    "description": "Critical damage received +{0}%",
+    "popup_text": ""
+  },
+  {
+    "id": 13000383,
+    "description": "When self has Strike affinity, critical damage +{}%",
+    "popup_text": ""
+  },
+  {
+    "id": 20000004,
+    "description": "Boosts skill power when self is Jelka [Nifty Rover].",
+    "popup_text": ""
+  },
+  {
+    "id": 20000005,
+    "description": "Boosts skill power when self has Lantarna tag.",
+    "popup_text": ""
+  },
+  {
+    "id": 20000792,
+    "description": "Boosts skill power when self has Miraculous Nine tag.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001405,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001407,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001408,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001436,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001437,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001438,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001439,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001448,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 86147001,
+    "description": "When self has 1 or more break turns, grants Damage Dealt Up (Cannot be removed) to self.",
+    "popup_text": ""
+  },
+  {
+    "id": 86147002,
+    "description": "When self has 1 or more break turns, grants Damage Received Up (Cannot be removed) to self.",
+    "popup_text": ""
+  },
+  {
+    "id": 86147003,
+    "description": "When own stun count is 1 or higher, grants self Status Effect Resistance Down (Cannot be removed).",
+    "popup_text": ""
+  },
+  {
+    "id": 91001542,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001871,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001872,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001873,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001874,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001875,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001876,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001879,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001880,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001881,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001892,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000275,
+    "description": "When equipped to an Attacker with Strike affinity, boosts critical damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000276,
+    "description": "When Nurturer is active, boosts skill damage for area attacks.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000790,
+    "description": "When Jelka [Nifty Rover] is in the party, reduces damage received.",
+    "popup_text": ""
   }
 ]

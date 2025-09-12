@@ -1817,7 +1817,7 @@
   {
     "id": 1124,
     "description": "Material needed for synthesis.",
-    "name": "Hermit's Fruit",
+    "name": "Sage Fruit",
     "start_at": "2025-08-29T03:00:00Z"
   },
   {
@@ -1862,5 +1862,54 @@
     "id": 1133,
     "description": "Feathered garb infused with the resentment of the Great Serpent of Grudges.",
     "name": "Great Serpent's Feathered Robe"
+  },
+  {
+    "id": 1134,
+    "description": "A ticket that can be used to wish once on the Legend of Nine Heroes: Jelka the Survivor LEGEND FES.",
+    "end_at": "2025-10-06T03:00:00Z",
+    "name": "Legend of Nine Heroes: Jelka the Survivor Wish Ticket"
+  },
+  {
+    "id": 1135,
+    "description": "Points required to obtain event mission pass rewards.",
+    "end_at": "2025-10-05T03:00:00Z",
+    "name": "Event Mission PT",
+    "start_at": "2025-09-12T03:00:00Z"
+  },
+  {
+    "id": 1138,
+    "description": "Points required to read the story for the event \"Strange and Mysterious Kikai Island.\"",
+    "end_at": "2025-10-05T03:00:00Z",
+    "name": "Event PT [Strange and Mysterious Kikai Island]"
+  },
+  {
+    "id": 1139,
+    "description": "Item required for skill unlocking.",
+    "name": "Early Spring Fruit",
+    "start_at": "2025-09-12T03:00:00Z"
+  },
+  {
+    "id": 1140,
+    "description": "Item required for skill unlocking.",
+    "name": "Elegant Soleyu",
+    "start_at": "2025-09-12T03:00:00Z"
+  },
+  {
+    "id": 1141,
+    "description": "Material needed for synthesis.",
+    "name": "Strawberry Bug",
+    "start_at": "2025-09-12T03:00:00Z"
+  },
+  {
+    "id": 1142,
+    "description": "Material needed for synthesis.",
+    "name": "Elder Carrot",
+    "start_at": "2025-09-12T03:00:00Z"
+  },
+  {
+    "id": 1143,
+    "description": "Exchange for items at the \"Strange and Mysterious Kikai Island\" Exchange.",
+    "end_at": "2025-10-06T03:00:00Z",
+    "name": "Battle Coin [Strange and Mysterious Kikai Island - Part 1]"
   }
 ]

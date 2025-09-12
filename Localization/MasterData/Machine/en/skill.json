@@ -20416,5 +20416,491 @@
     "description": "Grants self Nullify Damage for 2 turns.\nBoosts own SPD by 30% for 1 turn.\nReduces own SPD by 15% for 2 turns.",
     "name": "Full Power Carol",
     "summary": ""
+  },
+  {
+    "id": 32148,
+    "description": "Grants all allies critical damage +{0}% when target is stunned for 1 turn.",
+    "name": "Hero Subduing Pill",
+    "summary": ""
+  },
+  {
+    "id": 32149,
+    "description": "Grants all allies critical damage +{0}% when target is stunned for 1 turn.",
+    "name": "Hero Subduing Pill",
+    "summary": ""
+  },
+  {
+    "id": 11003078,
+    "description": "Boosts damage by 20-80% depending on own HP (Higher boost for higher HP, range: 25-100% HP).<br>After attacking, grants self P.ATK +{2}% and critical damage +{3}% (All max 40%).",
+    "name": "Visbat Tuelle",
+    "summary": "Higher HP boosts damage dealt.<br>After attacking, boosts own P.ATK and critical damage."
+  },
+  {
+    "id": 11003079,
+    "description": "Boosts damage by 20-80% depending on own HP (Higher boost for higher HP, range: 25-100% HP).<br>After attacking, grants self P.ATK +{2}% and critical damage +{3}% (All max 40%).",
+    "name": "Visbat Tuelle",
+    "summary": "Higher HP boosts damage dealt.<br>After attacking, boosts own P.ATK and critical damage."
+  },
+  {
+    "id": 11003080,
+    "description": "Boosts damage by 20-80% depending on own HP (Higher boost for higher HP, range: 25-100% HP).<br>After attacking, grants self P.ATK +{2}% and critical damage +{3}% (All max 40%).",
+    "name": "Visbat Tuelle",
+    "summary": "Higher HP boosts damage dealt.<br>After attacking, boosts own P.ATK and critical damage."
+  },
+  {
+    "id": 11003081,
+    "description": "Boosts damage by 20-80% depending on own HP (Higher boost for higher HP, range: 25-100% HP).<br>After attacking, grants self P.ATK +{2}% and critical damage +{3}% (All max 40%).",
+    "name": "Visbat Tuelle",
+    "summary": "Higher HP boosts damage dealt.<br>After attacking, boosts own P.ATK and critical damage."
+  },
+  {
+    "id": 11003082,
+    "description": "Boosts damage by 20-80% depending on own HP (Higher boost for higher HP, range: 25-100% HP).<br>After attacking, grants self P.ATK +{2}% and critical damage +{3}% (All max 40%).",
+    "name": "Visbat Tuelle",
+    "summary": "Higher HP boosts damage dealt.<br>After attacking, boosts own P.ATK and critical damage."
+  },
+  {
+    "id": 11003205,
+    "description": "After attacking, grants self skill damage +{0}% (max 40%) and<br>reduces target's Fire resistance by {1}% for 2 attacks.<br>If own next panel is neither a boost-type panel nor a burst panel, converts it to a boost panel (creates panel if empty).",
+    "name": "Fortis Pagnas",
+    "summary": "After attacking, boosts own skill damage.<br>Reduces target's Fire resistance.<br>Converts own next panel to a boost panel if it's neither a boost-type nor burst panel."
+  },
+  {
+    "id": 11003206,
+    "description": "After attacking, grants self skill damage +{0}% (max 40%) and<br>reduces target's Fire resistance by {1}% for 2 attacks.<br>If own next panel is neither a boost-type panel nor a burst panel, converts it to a boost panel (creates panel if empty).",
+    "name": "Fortis Pagnas",
+    "summary": "After attacking, boosts own skill damage.<br>Reduces target's Fire resistance.<br>Converts own next panel to a boost panel if it's neither a boost-type nor burst panel."
+  },
+  {
+    "id": 11003207,
+    "description": "After attacking, grants self skill damage +{0}% (max 40%) and<br>reduces target's Fire resistance by {1}% for 2 attacks.<br>If own next panel is neither a boost-type panel nor a burst panel, converts it to a boost panel (creates panel if empty).",
+    "name": "Fortis Pagnas",
+    "summary": "After attacking, boosts own skill damage.<br>Reduces target's Fire resistance.<br>Converts own next panel to a boost panel if it's neither a boost-type nor burst panel."
+  },
+  {
+    "id": 11003208,
+    "description": "After attacking, grants self skill damage +{0}% (max 40%) and<br>reduces target's Fire resistance by {1}% for 2 attacks.<br>If own next panel is neither a boost-type panel nor a burst panel, converts it to a boost panel (creates panel if empty).",
+    "name": "Fortis Pagnas",
+    "summary": "After attacking, boosts own skill damage.<br>Reduces target's Fire resistance.<br>Converts own next panel to a boost panel if it's neither a boost-type nor burst panel."
+  },
+  {
+    "id": 11003209,
+    "description": "After attacking, grants self skill damage +{0}% (max 40%) and<br>reduces target's Fire resistance by {1}% for 2 attacks.<br>If own next panel is neither a boost-type panel nor a burst panel, converts it to a boost panel (creates panel if empty).",
+    "name": "Fortis Pagnas",
+    "summary": "After attacking, boosts own skill damage.<br>Reduces target's Fire resistance.<br>Converts own next panel to a boost panel if it's neither a boost-type nor burst panel."
+  },
+  {
+    "id": 12003083,
+    "description": "Boosts damage by 50-200% depending on own HP (Higher boost for higher HP, range: 25-100% HP).<br>Before attacking, reduces target's Strike resistance by {2}% for 1 attack.<br>After attacking, grants self critical damage +{3}% for 2 turns and<br>converts 1 panel (excluding burst panels) for all allies and all enemies to raging flame panel (creates panel if empty).<br>After critical attack, grants self P.ATK +{4}% for 2 turns and<br>reduces damage received by {5}% for 1 attack (Max: 2 stacks).",
+    "name": "Cadere Caelum",
+    "summary": "Higher HP boosts damage dealt.<br>Before attacking, reduces target's Strike resistance.<br>After attacking, boosts own critical damage.<br>Converts 1 panel (excluding burst panels) for all allies and all enemies to raging flame panel.<br>After critical attack, boosts own P.ATK.<br>Reduces own damage received."
+  },
+  {
+    "id": 12003084,
+    "description": "Boosts damage by 50-200% depending on own HP (Higher boost for higher HP, range: 25-100% HP).<br>Before attacking, reduces target's Strike resistance by {2}% for 1 attack.<br>After attacking, grants self critical damage +{3}% for 2 turns and<br>converts 1 panel (excluding burst panels) for all allies and all enemies to raging flame panel (creates panel if empty).<br>After critical attack, grants self P.ATK +{4}% for 2 turns and<br>reduces damage received by {5}% for 1 attack (Max: 2 stacks).",
+    "name": "Cadere Caelum",
+    "summary": "Higher HP boosts damage dealt.<br>Before attacking, reduces target's Strike resistance.<br>After attacking, boosts own critical damage.<br>Converts 1 panel (excluding burst panels) for all allies and all enemies to raging flame panel.<br>After critical attack, boosts own P.ATK.<br>Reduces own damage received."
+  },
+  {
+    "id": 12003085,
+    "description": "Boosts damage by 50-200% depending on own HP (Higher boost for higher HP, range: 25-100% HP).<br>Before attacking, reduces target's Strike resistance by {2}% for 1 attack.<br>After attacking, grants self critical damage +{3}% for 2 turns and<br>converts 1 panel (excluding burst panels) for all allies and all enemies to raging flame panel (creates panel if empty).<br>After critical attack, grants self P.ATK +{4}% for 2 turns and<br>reduces damage received by {5}% for 1 attack (Max: 2 stacks).",
+    "name": "Cadere Caelum",
+    "summary": "Higher HP boosts damage dealt.<br>Before attacking, reduces target's Strike resistance.<br>After attacking, boosts own critical damage.<br>Converts 1 panel (excluding burst panels) for all allies and all enemies to raging flame panel.<br>After critical attack, boosts own P.ATK.<br>Reduces own damage received."
+  },
+  {
+    "id": 12003086,
+    "description": "Boosts damage by 50-200% depending on own HP (Higher boost for higher HP, range: 25-100% HP).<br>Before attacking, reduces target's Strike resistance by {2}% for 1 attack.<br>After attacking, grants self critical damage +{3}% for 2 turns and<br>converts 1 panel (excluding burst panels) for all allies and all enemies to raging flame panel (creates panel if empty).<br>After critical attack, grants self P.ATK +{4}% for 2 turns and<br>reduces damage received by {5}% for 1 attack (Max: 2 stacks).",
+    "name": "Cadere Caelum",
+    "summary": "Higher HP boosts damage dealt.<br>Before attacking, reduces target's Strike resistance.<br>After attacking, boosts own critical damage.<br>Converts 1 panel (excluding burst panels) for all allies and all enemies to raging flame panel.<br>After critical attack, boosts own P.ATK.<br>Reduces own damage received."
+  },
+  {
+    "id": 12003087,
+    "description": "Boosts damage by 50-200% depending on own HP (Higher boost for higher HP, range: 25-100% HP).<br>Before attacking, reduces target's Strike resistance by {2}% for 1 attack.<br>After attacking, grants self critical damage +{3}% for 2 turns and<br>converts 1 panel (excluding burst panels) for all allies and all enemies to raging flame panel (creates panel if empty).<br>After critical attack, grants self P.ATK +{4}% for 2 turns and<br>reduces damage received by {5}% for 1 attack (Max: 2 stacks).",
+    "name": "Cadere Caelum",
+    "summary": "Higher HP boosts damage dealt.<br>Before attacking, reduces target's Strike resistance.<br>After attacking, boosts own critical damage.<br>Converts 1 panel (excluding burst panels) for all allies and all enemies to raging flame panel.<br>After critical attack, boosts own P.ATK.<br>Reduces own damage received."
+  },
+  {
+    "id": 12003210,
+    "description": "Boosts damage by 0-120% depending on own HP (Higher boost for higher HP, range: 50-100% HP).<br>Before attacking, reduces target's Fire resistance by {1}% for 2 attacks.<br>After attacking, grants self M.ATK +{2}% and weakness damage +{3}% for 2 turns and<br>burst skill damage +{4}% (max 100%).",
+    "name": "Cauda Excitium",
+    "summary": "Higher HP boosts damage dealt.<br>Before attacking, reduces target's Fire resistance.<br>After attacking, boosts own M.ATK, weakness damage, and burst skill damage."
+  },
+  {
+    "id": 12003211,
+    "description": "Boosts damage by 0-120% depending on own HP (Higher boost for higher HP, range: 50-100% HP).<br>Before attacking, reduces target's Fire resistance by {1}% for 2 attacks.<br>After attacking, grants self M.ATK +{2}% and weakness damage +{3}% for 2 turns and<br>burst skill damage +{4}% (max 100%).",
+    "name": "Cauda Excitium",
+    "summary": "Higher HP boosts damage dealt.<br>Before attacking, reduces target's Fire resistance.<br>After attacking, boosts own M.ATK, weakness damage, and burst skill damage."
+  },
+  {
+    "id": 12003212,
+    "description": "Boosts damage by 0-120% depending on own HP (Higher boost for higher HP, range: 50-100% HP).<br>Before attacking, reduces target's Fire resistance by {1}% for 2 attacks.<br>After attacking, grants self M.ATK +{2}% and weakness damage +{3}% for 2 turns and<br>burst skill damage +{4}% (max 100%).",
+    "name": "Cauda Excitium",
+    "summary": "Higher HP boosts damage dealt.<br>Before attacking, reduces target's Fire resistance.<br>After attacking, boosts own M.ATK, weakness damage, and burst skill damage."
+  },
+  {
+    "id": 12003213,
+    "description": "Boosts damage by 0-120% depending on own HP (Higher boost for higher HP, range: 50-100% HP).<br>Before attacking, reduces target's Fire resistance by {1}% for 2 attacks.<br>After attacking, boosts own M.ATK by {2}% and weakness attack damage by {3}% for 2 turns, and boosts burst skill damage by {4}% (MAX 100%).",
+    "name": "Cauda Excitium",
+    "summary": "Higher HP boosts damage.<br>Before attack, reduces target's Fire resistance.<br>After attack, boosts own M.ATK, weakness attack damage, and burst skill damage."
+  },
+  {
+    "id": 12003214,
+    "description": "Boosts damage by 0-120% depending on own HP (Higher boost for higher HP, range: 50-100% HP).<br>Before attacking, reduces target's Fire resistance by {1}% for 2 attacks.<br>After attacking, boosts own M.ATK by {2}% and weakness attack damage by {3}% for 2 turns, and boosts burst skill damage by {4}% (MAX 100%).",
+    "name": "Cauda Excitium",
+    "summary": "Higher HP boosts damage.<br>Before attack, reduces target's Fire resistance.<br>After attack, boosts own M.ATK, weakness attack damage, and burst skill damage."
+  },
+  {
+    "id": 14003088,
+    "description": "Boosts damage by 50-200% depending on own HP (Higher boost for higher HP, range: 25-100% HP).<br>Before attacking, removes own negative effects.<br>After attacking, boosts own critical damage by {3}% for 2 turns.<br>After critical attack, restores own HP by {4}% and boosts own P.ATK by {5}% for 1 turn.",
+    "name": "Ardeskit Lux",
+    "summary": "Higher HP boosts damage.<br>Before attack, removes own negative effects.<br>After attack, boosts own critical damage.<br>After critical attack, restores own HP.<br>Boosts own P.ATK."
+  },
+  {
+    "id": 14003089,
+    "description": "Boosts damage by 50-200% depending on own HP (Higher boost for higher HP, range: 25-100% HP).<br>Before attacking, removes own negative effects.<br>After attacking, boosts own critical damage by {3}% for 2 turns.<br>After critical attack, restores own HP by {4}% and boosts own P.ATK by {5}% for 1 turn.",
+    "name": "Ardeskit Lux",
+    "summary": "Higher HP boosts damage.<br>Before attack, removes own negative effects.<br>After attack, boosts own critical damage.<br>After critical attack, restores own HP.<br>Boosts own P.ATK."
+  },
+  {
+    "id": 14003090,
+    "description": "Boosts damage by 50-200% depending on own HP (Higher boost for higher HP, range: 25-100% HP).<br>Before attacking, removes own negative effects.<br>After attacking, boosts own critical damage by {3}% for 2 turns.<br>After critical attack, restores own HP by {4}% and boosts own P.ATK by {5}% for 1 turn.",
+    "name": "Ardeskit Lux",
+    "summary": "Higher HP boosts damage.<br>Before attack, removes own negative effects.<br>After attack, boosts own critical damage.<br>After critical attack, restores own HP.<br>Boosts own P.ATK."
+  },
+  {
+    "id": 14003091,
+    "description": "Boosts damage by 50-200% depending on own HP (Higher boost for higher HP, range: 25-100% HP).<br>Before attacking, removes own negative effects.<br>After attacking, boosts own critical damage by {3}% for 2 turns.<br>After critical attack, restores own HP by {4}% and boosts own P.ATK by {5}% for 1 turn.",
+    "name": "Ardeskit Lux",
+    "summary": "Higher HP boosts damage.<br>Before attack, removes own negative effects.<br>After attack, boosts own critical damage.<br>After critical attack, restores own HP.<br>Boosts own P.ATK."
+  },
+  {
+    "id": 14003092,
+    "description": "Boosts damage by 50-200% depending on own HP (Higher boost for higher HP, range: 25-100% HP).<br>Before attacking, removes own negative effects.<br>After attacking, boosts own critical damage by {3}% for 2 turns.<br>After critical attack, restores own HP by {4}% and boosts own P.ATK by {5}% for 1 turn.",
+    "name": "Ardeskit Lux",
+    "summary": "Higher HP boosts damage.<br>Before attack, removes own negative effects.<br>After attack, boosts own critical damage.<br>After critical attack, restores own HP.<br>Boosts own P.ATK."
+  },
+  {
+    "id": 14003215,
+    "description": "Boosts damage by 0-150% depending on own HP (Higher boost for higher HP, range: 50-100% HP).<br>Before attacking, reduces target's Fire resistance by {1}% for 2 attacks.<br>After attacking, boosts own M.ATK by {2}% and weakness attack damage by {3}% for 2 turns.",
+    "name": "Cadere Draco",
+    "summary": "Higher HP boosts damage.<br>Before attack, reduces target's Fire resistance.<br>After attack, boosts own M.ATK and weakness attack damage."
+  },
+  {
+    "id": 14003216,
+    "description": "Boosts damage by 0-150% depending on own HP (Higher boost for higher HP, range: 50-100% HP).<br>Before attacking, reduces target's Fire resistance by {1}% for 2 attacks.<br>After attacking, boosts own M.ATK by {2}% and weakness attack damage by {3}% for 2 turns.",
+    "name": "Cadere Draco",
+    "summary": "Higher HP boosts damage.<br>Before attack, reduces target's Fire resistance.<br>After attack, boosts own M.ATK and weakness attack damage."
+  },
+  {
+    "id": 14003217,
+    "description": "Boosts damage by 0-150% depending on own HP (Higher boost for higher HP, range: 50-100% HP).<br>Before attacking, reduces target's Fire resistance by {1}% for 2 attacks.<br>After attacking, boosts own M.ATK by {2}% and weakness attack damage by {3}% for 2 turns.",
+    "name": "Cadere Draco",
+    "summary": "Higher HP boosts damage.<br>Before attack, reduces target's Fire resistance.<br>After attack, boosts own M.ATK and weakness attack damage."
+  },
+  {
+    "id": 14003218,
+    "description": "Boosts damage by 0-150% depending on own HP (Higher boost for higher HP, range: 50-100% HP).<br>Before attacking, reduces target's Fire resistance by {1}% for 2 attacks.<br>After attacking, boosts own M.ATK by {2}% and weakness attack damage by {3}% for 2 turns.",
+    "name": "Cadere Draco",
+    "summary": "Higher HP boosts damage.<br>Before attack, reduces target's Fire resistance.<br>After attack, boosts own M.ATK and weakness attack damage."
+  },
+  {
+    "id": 14003219,
+    "description": "Boosts damage by 0-150% depending on own HP (Higher boost for higher HP, range: 50-100% HP).<br>Before attacking, reduces target's Fire resistance by {1}% for 2 attacks.<br>After attacking, boosts own M.ATK by {2}% and weakness attack damage by {3}% for 2 turns.",
+    "name": "Cadere Draco",
+    "summary": "Higher HP boosts damage.<br>Before attack, reduces target's Fire resistance.<br>After attack, boosts own M.ATK and weakness attack damage."
+  },
+  {
+    "id": 32003188,
+    "description": "No effect.",
+    "name": "Dangerous Bite",
+    "summary": ""
+  },
+  {
+    "id": 32003189,
+    "description": "No effect.",
+    "name": "Sonic Voice",
+    "summary": ""
+  },
+  {
+    "id": 32003190,
+    "description": "No effect.",
+    "name": "Dark Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32003191,
+    "description": "No effect.",
+    "name": "Thunder Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32003192,
+    "description": "Grants skill target damage dealt up (25%/3 turns).",
+    "name": "Spin Roar",
+    "summary": ""
+  },
+  {
+    "id": 32003193,
+    "description": "After attacking, converts all panels to HP recovery panels by 1 space.",
+    "name": "Raid",
+    "summary": ""
+  },
+  {
+    "id": 32003194,
+    "description": "No effect.",
+    "name": "Tornado Summon",
+    "summary": ""
+  },
+  {
+    "id": 32003195,
+    "description": "No effect.",
+    "name": "Wind Sphere",
+    "summary": ""
+  },
+  {
+    "id": 32003196,
+    "description": "After attacking, grants target Damage Dealt Down (10%/3 turns).",
+    "name": "Bite",
+    "summary": ""
+  },
+  {
+    "id": 32003197,
+    "description": "Grants all allies Damage Dealt Up (25%/3 turns).",
+    "name": "Howl",
+    "summary": ""
+  },
+  {
+    "id": 32003200,
+    "description": "Restores target's HP by 15% and advances their turn by 4.",
+    "name": "Reward",
+    "summary": ""
+  },
+  {
+    "id": 32003201,
+    "description": "After attacking, converts enemy skill target's panels to protection weaken panels.",
+    "name": "Cursed Thunder Breath",
+    "summary": ""
+  },
+  {
+    "id": 32003202,
+    "description": "No effect.",
+    "name": "Thunder Breath",
+    "summary": ""
+  },
+  {
+    "id": 32003203,
+    "description": "After attacking, removes all positive effects from skill target.",
+    "name": "Slash Bite",
+    "summary": ""
+  },
+  {
+    "id": 32003204,
+    "description": "After attacking, grants all enemies Damage Dealt Down (15%/2 turns).",
+    "name": "Thunder Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32003205,
+    "description": "No effect.",
+    "name": "Scatter Slash",
+    "summary": ""
+  },
+  {
+    "id": 32003206,
+    "description": "Grants skill target Positive Effect Potency Down (50%/3 turns).",
+    "name": "Dark Roar",
+    "summary": ""
+  },
+  {
+    "id": 32003207,
+    "description": "No effect.",
+    "name": "Dangerous Bite",
+    "summary": ""
+  },
+  {
+    "id": 32003208,
+    "description": "No effect.",
+    "name": "Sonic Voice",
+    "summary": ""
+  },
+  {
+    "id": 32003209,
+    "description": "No effect.",
+    "name": "Dark Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32003210,
+    "description": "No effect.",
+    "name": "Thunder Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32003211,
+    "description": "Grants skill target Damage Dealt Up (25%/3 turns).",
+    "name": "Spin Roar",
+    "summary": ""
+  },
+  {
+    "id": 32003212,
+    "description": "After attacking, applies Paralysis (50% chance/2 turns) to skill target.",
+    "name": "Paralysis Breath",
+    "summary": ""
+  },
+  {
+    "id": 32003213,
+    "description": "After attacking, applies 3 stacks of Poison (80% chance/3 turns) to skill target.",
+    "name": "Poison Needle",
+    "summary": ""
+  },
+  {
+    "id": 32003214,
+    "description": "No effect.",
+    "name": "Sting Bite",
+    "summary": ""
+  },
+  {
+    "id": 32003215,
+    "description": "Grants skill target Damage Dealt Down (30%/2 turns), Damage Received Up (30%/2 turns), and Recovery Received Down (30%/2 turns).",
+    "name": "Dark Roar",
+    "summary": ""
+  },
+  {
+    "id": 32003216,
+    "description": "Advances skill target's turn by 2 and grants Evasion (1 turn).",
+    "name": "Spin Roar",
+    "summary": ""
+  },
+  {
+    "id": 32003217,
+    "description": "After attacking, converts all panels to HP recovery panels by 1 space.",
+    "name": "Raid",
+    "summary": ""
+  },
+  {
+    "id": 32003218,
+    "description": "No effects.",
+    "name": "Tornado",
+    "summary": ""
+  },
+  {
+    "id": 32003219,
+    "description": "No effects.",
+    "name": "Wind Orb",
+    "summary": ""
+  },
+  {
+    "id": 32003220,
+    "description": "After attacking, reduces target's damage dealt by 10% for 3 turns.",
+    "name": "Bite",
+    "summary": ""
+  },
+  {
+    "id": 32003221,
+    "description": "Boosts all allies' damage dealt by 25% for 3 turns.",
+    "name": "Howl",
+    "summary": ""
+  },
+  {
+    "id": 32003222,
+    "description": "Recovers target's HP by 15% and advances their turn by 4.",
+    "name": "Blessing",
+    "summary": ""
+  },
+  {
+    "id": 32003225,
+    "description": "After attacking, delays target's turn by 1.",
+    "name": "Slash Bite",
+    "summary": ""
+  },
+  {
+    "id": 32003226,
+    "description": "No effects.",
+    "name": "Scatter Slash",
+    "summary": ""
+  },
+  {
+    "id": 32003227,
+    "description": "No effects.",
+    "name": "Wind Breath",
+    "summary": ""
+  },
+  {
+    "id": 32003228,
+    "description": "After attacking, reduces all enemies' M.ATK by 15% for 3 turns, P.ATK by 15% for 3 turns, and SPD by 15% for 2 turns.",
+    "name": "Bloody Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32003229,
+    "description": "Advances a single ally's turn by 2.",
+    "name": "Spin Roar",
+    "summary": ""
+  },
+  {
+    "id": 32003230,
+    "description": "Reduces all enemies' P.DEF by 20% for 2 turns and M.DEF by 20% for 2 turns.",
+    "name": "Dark Roar",
+    "summary": ""
+  },
+  {
+    "id": 32003231,
+    "description": "After attacking, boosts own critical damage by 15%.",
+    "name": "Fatal Bite",
+    "summary": ""
+  },
+  {
+    "id": 32003232,
+    "description": "After attacking, boosts own critical rate by 10% for 1 turn.",
+    "name": "Bite",
+    "summary": ""
+  },
+  {
+    "id": 32003233,
+    "description": "After attacking, boosts own critical damage by 10% for 3 turns.",
+    "name": "Club Roar",
+    "summary": ""
+  },
+  {
+    "id": 32003234,
+    "description": "No effects.",
+    "name": "Wind Orb",
+    "summary": ""
+  },
+  {
+    "id": 32003235,
+    "description": "No effects.",
+    "name": "Tornado",
+    "summary": ""
+  },
+  {
+    "id": 32003236,
+    "description": "No effects.",
+    "name": "Dangerous Bite",
+    "summary": ""
+  },
+  {
+    "id": 32003237,
+    "description": "After attacking, reduces target's damage dealt by 15% for 3 turns.",
+    "name": "Sonic Voice",
+    "summary": ""
+  },
+  {
+    "id": 32003238,
+    "description": "After attacking, inflicts 5 stacks of Poison (2%/5 turns) on target.",
+    "name": "Poison Bite",
+    "summary": ""
+  },
+  {
+    "id": 32003239,
+    "description": "After attacking, reduces target's SPD by 5% for 5 turns.",
+    "name": "Thunder Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32003240,
+    "description": "Boosts skill target's damage dealt by 15% for 3 turns.",
+    "name": "Spin Roar",
+    "summary": ""
   }
 ]

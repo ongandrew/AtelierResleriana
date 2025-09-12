@@ -243,5 +243,10 @@
     "id": 1008,
     "description": "Unlocking a NeoBoard requires \"Grand Orbs\".\nAfter unlocking, the Growboard and EX Board are integrated into the NeoBoard,\nand character development reset becomes unavailable.",
     "name": "Unlocking NeoBoards"
+  },
+  {
+    "id": 7101,
+    "description": "Some characters that can be obtained during events have their skills locked in their initial state. Locked skills cannot be used in battle, so use items obtainable within the event to unlock them!",
+    "name": "Skill Lock and Skill Release"
   }
 ]

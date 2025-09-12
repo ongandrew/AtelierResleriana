@@ -7233,5 +7233,115 @@
     "id": 600000722,
     "description": "When Kaburaya [Brightest Star on Earth] or Chitose [Kannagi Maiden] is in the party, reduces damage received by 25% (max 25%).",
     "name": "Damage Reduction when Kaburaya [Brightest Star on Earth] or Chitose [Kannagi Maiden] is in Party"
+  },
+  {
+    "id": 301262,
+    "description": "When equipped to Jelka [Nifty Rover], when using a raging flame panel, grants self Penetration +{0} for 1 turn.",
+    "name": "Sacred Heel That Pierces Ears"
+  },
+  {
+    "id": 301263,
+    "description": "When equipped to Jelka [Third of the Miraculous Nine], when using boost-type panels, grants self Critical Rate +{0}% for 1 turn.",
+    "name": "Sacred Heel"
+  },
+  {
+    "id": 1980208,
+    "description": "Characters with Strike affinity gain P.ATK +{0}%.",
+    "name": "Rustic Country Workshop"
+  },
+  {
+    "id": 1980209,
+    "description": "Nurturer characters gain Skill Damage and Burst Skill Damage +{0}%.",
+    "name": "Kindness Received Must Be Repaid"
+  },
+  {
+    "id": 1990390,
+    "description": "When using a raging flame panel, restores own HP by {0}%, grants self Critical Rate +{1}% for 2 turns, and enables burst skill usage.",
+    "name": "Dragon's Raging Flame"
+  },
+  {
+    "id": 1990391,
+    "description": "After a critical attack, grants self Critical Damage +{0}%. (MAX 150%)<br>When defeating an enemy with a skill, extends all Damage Received Down effects on self by 1 turn.",
+    "name": "I'll Show You What I'm Made Of"
+  },
+  {
+    "id": 1990467,
+    "description": "After attacking a weakness, grants self Skill Damage +{0}%. (MAX 100%)",
+    "name": "Power of the Miraculous Nine -III-"
+  },
+  {
+    "id": 1990468,
+    "description": "After attacking a weakness, grants self HP Recovery {0}% at the start of turn for 2 turns.<br>When receiving HP recovery, grants self M.ATK +{1}% (MAX 70%) and SPD +{2}% (MAX 30%).",
+    "name": "My Earnestness"
+  },
+  {
+    "id": 4991108,
+    "description": "While equipped to an Attacker with Strike affinity, boosts critical damage by {0}%.<br>While equipped to a Nurturer, boosts area attack skill damage by {1}%.",
+    "name": "Imagination \"Chewing the Cud\""
+  },
+  {
+    "id": 4991109,
+    "description": "While equipped to an Attacker with Strike affinity, boosts critical damage by {0}%.<br>While equipped to a Nurturer, boosts area attack skill damage by {1}%.",
+    "name": "Imagination \"Chewing the Cud\""
+  },
+  {
+    "id": 4991110,
+    "description": "While equipped to an Attacker with Strike affinity, boosts critical damage by {0}%.<br>While equipped to a Nurturer, boosts area attack skill damage by {1}%.",
+    "name": "Imagination \"Chewing the Cud\""
+  },
+  {
+    "id": 4991111,
+    "description": "While equipped to an Attacker with Strike affinity, boosts critical damage by {0}%.<br>While equipped to a Nurturer, boosts area attack skill damage by {1}%.",
+    "name": "Imagination \"Chewing the Cud\""
+  },
+  {
+    "id": 4991112,
+    "description": "While equipped to an Attacker with Strike affinity, boosts critical damage by {0}%.<br>While equipped to a Nurturer, boosts area attack skill damage by {1}%.",
+    "name": "Imagination \"Chewing the Cud\""
+  },
+  {
+    "id": 7000842,
+    "description": "Boosts critical damage by {0}% for characters with Strike affinity.",
+    "name": "Strike Affinity Critical Damage Up (1)"
+  },
+  {
+    "id": 7000843,
+    "description": "Boosts critical damage by {0}% for characters with Strike affinity.",
+    "name": "Strike Affinity Critical Damage Up (2)"
+  },
+  {
+    "id": 7000844,
+    "description": "Boosts critical damage by {0}% for characters with Strike affinity.",
+    "name": "Strike Affinity Critical Damage Up (3)"
+  },
+  {
+    "id": 26035020,
+    "description": "When stunned, grants all enemies Regeneration 5% (2 times).",
+    "name": ""
+  },
+  {
+    "id": 26147002,
+    "description": "Immune to all attribute resistance down effects except Bolt and Strike.",
+    "name": ""
+  },
+  {
+    "id": 26147003,
+    "description": "At wave start, grants all allies Damage Received Down (30%). When stunned, removes Damage Received Down from all allies. When recovering from stun, grants self Damage Dealt +50%, Damage Received +30%, and Status Effect Resistance -50%.",
+    "name": ""
+  },
+  {
+    "id": 600000720,
+    "description": "Boosts Jelka [Nifty Rover]'s skill power by 100%.",
+    "name": "Jelka [Nifty Rover] Skill Power Up"
+  },
+  {
+    "id": 600000726,
+    "description": "While in a party with Chitose [Sublime Maiden] or Jelka [Nifty Rover], reduces damage received by 25% (Max 25%).",
+    "name": "Chitose [Sublime Maiden] or Jelka [Nifty Rover] Party Damage Reduction"
+  },
+  {
+    "id": 600000731,
+    "description": "Boosts skill power by 100% when self is a member of the Miraculous Nine.",
+    "name": "Miraculous Nine Skill Power Up"
   }
 ]

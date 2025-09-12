@@ -750,5 +750,36 @@
     "profile_voice_text": "I am Chitose Hateruma... As a shrine maiden,\nI would be honored to be of service to you all...",
     "sort_name": "Chitose",
     "start_at": "2025-09-05T03:00:00Z"
+  },
+  {
+    "id": 45401,
+    "acquisition_text": "Half-hearted help is completely meaningless. If you're going to do something, then fight with everything you've got!",
+    "another_name": "Nifty Rover",
+    "description": "A homunculus created by the Palme and the third member of the Miraculous Nine. She travels around various lands as an adventurer while carrying out management duties under orders from the Palme. She values chic styles and takes pride in having a complete, coordinated outfit. However, she doesn't mind getting completely disheveled when the situation calls for it, as long as it means staying true to her own way of life that she discovered during her travels.",
+    "fullname": "Jelka",
+    "leader_skill": {
+      "description": "Boosts P.ATK by 40% for characters with Strike affinity.",
+      "name": "Carefree Wanderer"
+    },
+    "name": "Jelka",
+    "overlay_name": "Jelka",
+    "profile_voice_text": "I'm Jelka. We help each other out when we're in trouble. That's what style is all about, don't you think?",
+    "sort_name": "Jelka",
+    "start_at": "2025-09-12T03:00:00Z"
+  },
+  {
+    "id": 45402,
+    "another_name": "Third of the Miraculous Nine",
+    "description": "A homunculus created by the Palme and the third member of the Miraculous Nine. She travels around various lands as an adventurer while carrying out management duties under orders from the Palme. Due to her cheerful and caring personality, she plays a role that binds the Nine together. She values chic styles and has a compassionate side.",
+    "fullname": "Jelka",
+    "leader_skill": {
+      "description": "Boosts skill damage and burst skill damage by 50% for Nurturer characters.",
+      "name": "Repay Kindness with Kindness"
+    },
+    "name": "Jelka",
+    "overlay_name": "Jelka",
+    "profile_voice_text": "I'm Jelka, the third of the Miraculous Nine. Humans always make fascinating discoveries, you know.",
+    "sort_name": "Jelka",
+    "start_at": "2025-09-12T03:00:00Z"
   }
 ]

@@ -1,0 +1,597 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "はぁ、はぁっ……油断した……\nまさか親個体があれほどの強さとは……",
+        "localizations": {
+          "en": "Hah... hah... I let my guard down... I never imagined the parent monster would be that powerful..."
+        }
+      },
+      "2072370017": {
+        "text": "サン",
+        "localizations": {
+          "en": "San"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "ん？\u3000おや……ちょっとお前さん、どうしたんだい！？\n足と腕、折れてるじゃないか",
+        "localizations": {
+          "en": "Hm? Oh my... hey there, what happened to you?! Your arm and leg are broken!"
+        }
+      },
+      "2072370017": {
+        "text": "村長",
+        "localizations": {
+          "en": "Village Chief"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "えっ……隠しているのに、見ただけで……？",
+        "localizations": {
+          "en": "What...? I was hiding it, but you could tell just by looking...?"
+        }
+      },
+      "2072370017": {
+        "text": "サン",
+        "localizations": {
+          "en": "San"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "ほら、こっちにおいでなさんな。\nちょうどいい薬草が残ってたはずだよ",
+        "localizations": {
+          "en": "Here, come over this way. I should have some good medicinal herbs that might do the trick."
+        }
+      },
+      "2072370017": {
+        "text": "村長",
+        "localizations": {
+          "en": "Village Chief"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "ほい、これで大丈夫。\n二、三日もすればとりあえず動けるよ",
+        "localizations": {
+          "en": "There, that should do it. Give it two or three days and you'll at least be able to move around."
+        }
+      },
+      "2072370017": {
+        "text": "村長",
+        "localizations": {
+          "en": "Village Chief"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "あ、ありがとうございます……",
+        "localizations": {
+          "en": "Th-thank you so much..."
+        }
+      },
+      "2072370017": {
+        "text": "サン",
+        "localizations": {
+          "en": "San"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "礼を言われるようなこたぁしちゃいないよ。\n人として当然のことをしたまでさ",
+        "localizations": {
+          "en": "Don't thank me for something like this. I just did what any decent person would do."
+        }
+      },
+      "2072370017": {
+        "text": "村長",
+        "localizations": {
+          "en": "Village Chief"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "しかしお前さんも無茶するね。\n魔物退治でこんなとこまでくるなんて",
+        "localizations": {
+          "en": "Though you really are reckless, coming all the way out here to hunt monsters."
+        }
+      },
+      "2072370017": {
+        "text": "村長",
+        "localizations": {
+          "en": "Village Chief"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "「管理」は、役目なので……",
+        "localizations": {
+          "en": "Management is... my duty..."
+        }
+      },
+      "2072370017": {
+        "text": "サン",
+        "localizations": {
+          "en": "San"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "役目ねぇ……ま、よく分からんけど！\nいいかい、三日は安静にしとくんだよ",
+        "localizations": {
+          "en": "Duty, huh... Well, I don't really get it, but listen! You're staying put for three days."
+        }
+      },
+      "2072370017": {
+        "text": "村長",
+        "localizations": {
+          "en": "Village Chief"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "その間に、アタシが片を付けといてやるよ",
+        "localizations": {
+          "en": "I'll take care of this mess while you recover."
+        }
+      },
+      "2072370017": {
+        "text": "村長",
+        "localizations": {
+          "en": "Village Chief"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "ギャオオォッ……！",
+        "localizations": {
+          "en": "GYAOOOH...!"
+        }
+      },
+      "2072370017": {
+        "text": "魔物",
+        "localizations": {
+          "en": "Monster"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "ふう、これでよし。魔物の母親も倒したし、\n村が襲われる心配もなくなったさね",
+        "localizations": {
+          "en": "Phew, that's that. Took down the monster's mother too, so the village won't have to worry about attacks anymore."
+        }
+      },
+      "2072370017": {
+        "text": "村長",
+        "localizations": {
+          "en": "Village Chief"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "に、人間が……「管理」対象の魔物を……？",
+        "localizations": {
+          "en": "A-a human... defeated a monster slated for management...?"
+        }
+      },
+      "2072370017": {
+        "text": "サン",
+        "localizations": {
+          "en": "San"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "家族を守ろうとしたこいつは必死だよ。\nでもね、それはアタシも同じだからね",
+        "localizations": {
+          "en": "This thing was just desperate to protect its family. But guess what? So am I."
+        }
+      },
+      "2072370017": {
+        "text": "村長",
+        "localizations": {
+          "en": "Village Chief"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "村っていう家族を守るため……\nま、お前さんは居候ってところだけど",
+        "localizations": {
+          "en": "Protecting my family—the village, that is... Well, you're more like a houseguest at this point."
+        }
+      },
+      "2072370017": {
+        "text": "村長",
+        "localizations": {
+          "en": "Village Chief"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "私も……家族？\nそんなこと、言われるなんて……",
+        "localizations": {
+          "en": "Me... family too? I never thought anyone would say something like that to me..."
+        }
+      },
+      "2072370017": {
+        "text": "サン",
+        "localizations": {
+          "en": "San"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "そう、居候。足が治りゃ、お客様期間も終わりだよ。\n薬草を摘んでくる！\u3000働かざる者食うべからず！",
+        "localizations": {
+          "en": "Yep, a houseguest. Once that leg heals up, your guest privileges are over. You'll be gathering medicinal herbs! No work, no food!"
+        }
+      },
+      "2072370017": {
+        "text": "村長",
+        "localizations": {
+          "en": "Village Chief"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "は、はいっ！！",
+        "localizations": {
+          "en": "Y-yes, of course!!"
+        }
+      },
+      "2072370017": {
+        "text": "サン",
+        "localizations": {
+          "en": "San"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "……村長さん、ありがとうございました。\nおかげで、すっかり元気になりました",
+        "localizations": {
+          "en": "...Chief, thank you so much. Thanks to you, I'm completely recovered."
+        }
+      },
+      "2072370017": {
+        "text": "サン",
+        "localizations": {
+          "en": "San"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "もう行っちまうのかい。寂しくなるねぇ……",
+        "localizations": {
+          "en": "You're leaving already? It's gonna be lonely around here..."
+        }
+      },
+      "2072370017": {
+        "text": "村長",
+        "localizations": {
+          "en": "Village Chief"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "ほんの、短い期間でしたけど……\n村長さんには、大切なことを教えていただきました",
+        "localizations": {
+          "en": "It was only a short time, but during my stay, you taught me something very important."
+        }
+      },
+      "2072370017": {
+        "text": "サン",
+        "localizations": {
+          "en": "San"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "損得抜きで弱き者を助け、己を貫く生きざま……\nこのような人間もいるのだ、と……",
+        "localizations": {
+          "en": "That one should help the weak without expecting anything in return, and live true to yourself... plus I learned that there are humans like you in this world..."
+        }
+      },
+      "2072370017": {
+        "text": "サン",
+        "localizations": {
+          "en": "San"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "なーにおべっか使ってんだい、ケツが痒くなるよ",
+        "localizations": {
+          "en": "What're you buttering me up for? Don't make it sound so cringey."
+        }
+      },
+      "2072370017": {
+        "text": "村長",
+        "localizations": {
+          "en": "Village Chief"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "その、たまに言葉遣いが乱暴ですけど……",
+        "localizations": {
+          "en": "You have a... way with words sometimes..."
+        }
+      },
+      "2072370017": {
+        "text": "サン",
+        "localizations": {
+          "en": "San"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "はっはっは、これぐらいじゃなきゃ\n大家族を養っていけないもんでね！",
+        "localizations": {
+          "en": "Hahaha! You gotta be tough when you're feeding a big family!"
+        }
+      },
+      "2072370017": {
+        "text": "村長",
+        "localizations": {
+          "en": "Village Chief"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "……私、今まで自分の仕事に疑問を持ったことは\n一度もありませんでした",
+        "localizations": {
+          "en": "...I've never once questioned my work before now."
+        }
+      },
+      "2072370017": {
+        "text": "サン",
+        "localizations": {
+          "en": "San"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "でも、自分に正直に……まっすぐ生きている\nあなたを見て、ちょっと、悩みました",
+        "localizations": {
+          "en": "But seeing you live so honestly and true to yourself made me question it... even if just a little."
+        }
+      },
+      "2072370017": {
+        "text": "サン",
+        "localizations": {
+          "en": "San"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "これって、私が本当にしたいことなのかな、って……\n私は、できるなら村長さんみたいに……",
+        "localizations": {
+          "en": "Is this really what I want to be doing? If I could choose, I'd want to be like you..."
+        }
+      },
+      "2072370017": {
+        "text": "サン",
+        "localizations": {
+          "en": "San"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "……お前さんは不思議な子だね。\nなんで魔物を退治して回ってんのか知らないけど",
+        "localizations": {
+          "en": "...You're a strange kid. I don't know why you go around hunting monsters."
+        }
+      },
+      "2072370017": {
+        "text": "村長",
+        "localizations": {
+          "en": "Village Chief"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "人生って道は長いんだ。疲れたときは立ち止まって、\nまたこの村においでよ。お前さんも家族の一人だ",
+        "localizations": {
+          "en": "But life's a long road. When you get tired, take a break and come back to visit. You're family here too."
+        }
+      },
+      "2072370017": {
+        "text": "村長",
+        "localizations": {
+          "en": "Village Chief"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "はい……！\n村長さん、ありがとうございます！",
+        "localizations": {
+          "en": "Yes...! Thank you so much!"
+        }
+      },
+      "2072370017": {
+        "text": "サン",
+        "localizations": {
+          "en": "San"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "あ、あの……！\n最後にお名前だけ、教えていただいても……",
+        "localizations": {
+          "en": "Oh, um...! Could you tell me your name, at least...?"
+        }
+      },
+      "2072370017": {
+        "text": "サン",
+        "localizations": {
+          "en": "San"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "ん？\u3000そういえばみんな村長とかおっかあとか\n適当に呼ぶから知らなかったかい",
+        "localizations": {
+          "en": "Hm? Come to think of it, everyone just calls me Chief or Ma, so you probably never heard it."
+        }
+      },
+      "2072370017": {
+        "text": "村長",
+        "localizations": {
+          "en": "Village Chief"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "アタシはね、イェルカってんだ",
+        "localizations": {
+          "en": "My name's Jelka."
+        }
+      },
+      "2072370017": {
+        "text": "村長",
+        "localizations": {
+          "en": "Village Chief"
+        }
+      }
+    }
+  }
+]

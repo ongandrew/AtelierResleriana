@@ -1894,5 +1894,29 @@
   {
     "id": 60257000,
     "description": "- Damage dealt increases with more allies present\n- Boosts skill power against burning enemies\n- When HP falls below a certain level, boosts own damage dealt and SPD\n- When receiving major stun damage, summons up to 2 allies\n- Inflicts Burn\n- Reduces HP recovery amount\n- Heals self\n- Summons allies\n- Reduces all allies' negative effect potency received"
+  },
+  {
+    "id": 60035035,
+    "description": "- When stunned, grants Regen to all opponents\n- Delays opponents' turns\n- Advances allies' turns\n- Nullifies resistance reduction for all elements except Bolt and Strike"
+  },
+  {
+    "id": 60049009,
+    "description": "- Nullifies resistance reduction for all elements except Bolt and Strike"
+  },
+  {
+    "id": 60120032,
+    "description": "- When KO'd, converts weaken panels to paralysis panels\n- Inflicts Poison\n- Inflicts Frozen\n- Advances allies' turns\n- Nullifies resistance reduction for all elements except Bolt and Strike"
+  },
+  {
+    "id": 60146054,
+    "description": "- When KO'd, creates boost+ panels\n- Removes all opponents' positive effects\n- Reduces potency of positive effects granted\n- After attacking, converts enemy skill targets' panels to protection weaken panels\n- Nullifies resistance reduction for all elements except Bolt and Strike"
+  },
+  {
+    "id": 60147007,
+    "description": "- At the start of battle, reduces all allies' damage received\n- When stunned, removes all allies' Damage Received Down\n- When recovering from stun, boosts own damage dealt, damage received, and reduces status effect resistance\n- Heals allies and advances their turns\n- After attacking, converts all panels to HP recovery panels for 1 space\n- Nullifies resistance reduction for all elements except Bolt and Strike"
+  },
+  {
+    "id": 60153036,
+    "description": "- When allies are KO'd, grants self Guaranteed Critical\n- When stunned, removes own positive effects\n- Nullifies resistance reduction for all elements except Bolt and Strike"
   }
 ]

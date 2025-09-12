@@ -3185,5 +3185,59 @@
     "name": "When the Cherry Blossoms Bloom - Chitose LEGEND FES [Paid Limited]",
     "start_at": "2025-09-05T03:00:00Z",
     "step_up_loop_description": ""
+  },
+  {
+    "id": 2295,
+    "description": "Jelka makes her debut & is featured!\nUntil 2025/10/06 11:59 (UTC+8)",
+    "end_at": "2025-10-06T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Legend of the Nine - Jelka the Survivor LEGEND FES",
+    "name": "Legend of the Nine - Jelka the Survivor LEGEND FES",
+    "start_at": "2025-09-12T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2296,
+    "description": "After 50 Wishes with Paid Lodestar Gems, an additional Wish will appear!\nUntil 2025/10/06 11:59 (UTC+8)",
+    "end_at": "2025-10-06T03:00:00Z",
+    "name": "Legend of the Nine - Jelka the Survivor LEGEND FES [Paid Lodestar Gems Only]",
+    "start_at": "2025-09-12T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 229601,
+    "description": "Max 5 times! Double the pick-up rate!\nGet 16 Medals! Until 2025/10/06 11:59 (UTC+8)",
+    "end_at": "2025-10-06T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10005,
+            "description": "With bonus!\n{} times left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Legend of the Nine - Jelka the Survivor LEGEND FES [Paid Lodestar Gems Only]",
+    "name": "Legend of the Nine - Jelka the Survivor LEGEND FES [Paid Lodestar Gems Only]",
+    "start_at": "2025-09-12T03:00:00Z",
+    "step_up_loop_description": ""
   }
 ]

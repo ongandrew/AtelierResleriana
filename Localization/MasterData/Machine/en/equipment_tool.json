@@ -1138,5 +1138,15 @@
     "id": 1178,
     "description": "While equipped to Chitose [Maiden of Divine Service], after any party member uses a battle item, grants all allies immunity to negative effects for 1 turn.<br>※Only triggers once even if multiple items are used simultaneously.",
     "name": "Amulet of Pure Faith"
+  },
+  {
+    "id": 1179,
+    "description": "While equipped to Jelka [Nifty Rover], when using a raging flame panel, boosts own penetration by {0} for 1 turn.",
+    "name": "Sacred Clogs That Pierce Through Grain"
+  },
+  {
+    "id": 1180,
+    "description": "While equipped to Jelka [Third of the Miraculous Nine], when using a boost-type panel, boosts own critical rate by {0}% for 1 turn.",
+    "name": "Sacred Clogs"
   }
 ]

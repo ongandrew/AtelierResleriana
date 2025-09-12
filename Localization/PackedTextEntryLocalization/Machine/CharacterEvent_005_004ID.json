@@ -1,0 +1,478 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "改めて、先ほどは申し訳ございませんでした。\nお詫びと言ってはなんですが、何とぞこちらを",
+        "localizations": {
+          "en": "Once again, I'm terribly sorry about earlier. As an apology, please accept this..."
+        }
+      },
+      "2072370017": {
+        "text": "村人",
+        "localizations": {
+          "en": "Villager"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "おぉ……これはまた豪勢だな！",
+        "localizations": {
+          "en": "Whoa... now this is a feast!"
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "こんなのが出てくるなんてね。\n寂れた村なのに、やるじゃん",
+        "localizations": {
+          "en": "Can't believe they're serving stuff like this. Pretty impressive for such a run-down village."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "貴重な栄養源です。\nありがたく頂くことにしましょう",
+        "localizations": {
+          "en": "This is a precious source of nutrition. We should gratefully accept their offer."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "……本当にいいのかい？\nこんな物をもらっちまって",
+        "localizations": {
+          "en": "...Are you sure about this? Taking something so valuable from you folks?"
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "もちろんです！\u3000さあさあ、遠慮せずに",
+        "localizations": {
+          "en": "Of course! Come now, don't be shy."
+        }
+      },
+      "2072370017": {
+        "text": "村人",
+        "localizations": {
+          "en": "Villager"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "もしかしてイェルカ、毒でも入ってるんじゃないかって\n疑ってる？\u3000さっすがー",
+        "localizations": {
+          "en": "What's wrong, Jelka? Think they might've poisoned it or something? That's just like you."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "こら、失礼だろう！\nそんなことは思っていない！",
+        "localizations": {
+          "en": "Hey, that's rude! I'm not thinking anything of the sort!"
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "けど、遠慮しすぎるのも失礼さね。\n感謝するよ、旦那",
+        "localizations": {
+          "en": "But being too reserved would be rude too, right? Thanks you."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "あむ……おぉ、これはうまい",
+        "localizations": {
+          "en": "*munch*... Oh wow, this is delicious."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "お口に合ったようで何よりです。\nまだまだありますので、足りなければお声がけください",
+        "localizations": {
+          "en": "I'm glad it's to your liking. There's plenty more, so just let me know if you need anything else."
+        }
+      },
+      "2072370017": {
+        "text": "村人",
+        "localizations": {
+          "en": "Villager"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "うむ！\u3000こんな美味しいものを残すほうが失礼だ！\n全部食べきるぞ！",
+        "localizations": {
+          "en": "Absolutely! It'd be more insulting to leave food this good uneaten! I'm cleaning my plate!"
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "うわ……暑苦しいなあ。\nやめてよ、食欲なくなるから",
+        "localizations": {
+          "en": "Ugh... tone it down, will you? You're killing my appetite."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "この量をすべて食べきるのですか……？",
+        "localizations": {
+          "en": "You intend to consume all of this...?"
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "ふう、満腹だな！\u3000はっはっは！\u3000……ん？\n元気が無いようですが、どうしました？",
+        "localizations": {
+          "en": "Phew, I'm stuffed! Hahaha! ...Hmm? You all look a bit green around the gills. What's wrong?"
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "黙れ。大きな声を出すな。口から溢れるだろ……",
+        "localizations": {
+          "en": "Shut up. Keep your voice down. I'm gonna lose it..."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "シトリンに同意です",
+        "localizations": {
+          "en": "I'm in agreement with Citrine.'"
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "それで、明日はどうするんだい？\nやらなきゃいけないことが２つある",
+        "localizations": {
+          "en": "So, what's the plan for tomorrow? We've got two things we need to take care of."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "魔物の「管理」と、仙人の実の捜索ですね。\n私はどちらでも構いません！",
+        "localizations": {
+          "en": "Managing the monster and searching for Sage Fruit. I'm fine with either!"
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "当初の目的の遂行が第一です。\n私は魔物の「管理」に向かおうと思います",
+        "localizations": {
+          "en": "Our original objective takes priority. I'll head out to take care of the monster."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "じゃあ、アタシは仙人の実を探しに行くよ。\n村人たちを助けないとね",
+        "localizations": {
+          "en": "Then I'll go look for the Sage Fruit. We need to help these villagers."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "では、兄様は私と共に来てくださいますか？",
+        "localizations": {
+          "en": "Will you accompany me, Brother?"
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "良いとも！\u3000存分に剣を振るってやろう",
+        "localizations": {
+          "en": "Gladly! I'll give my sword a proper workout."
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "ボクはイェルカに付いていくよ。\n魔物を倒すよりは楽しめそうだしね",
+        "localizations": {
+          "en": "I'll tag along with Jelka. Sounds more fun than fighting monsters."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "組分けも決まりましたし、\n明日に備え休むとしましょう！",
+        "localizations": {
+          "en": "Now that we've sorted out the teams, let's get some rest for tomorrow!"
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "無茶言わないでよ。\nもう少しお腹が落ち着かないと寝られないって",
+        "localizations": {
+          "en": "Don't be ridiculous. I need to let my stomach settle before I can even think about sleeping."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "ぐおー……",
+        "localizations": {
+          "en": "*snore*..."
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "どうなってるんだよ",
+        "localizations": {
+          "en": "How is that even possible?"
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  }
+]

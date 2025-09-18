@@ -142,7 +142,9 @@ namespace AtelierResleriana.Executables.Pipeline.TextAsset.Prepare
                     string packedTextEntryLocalizationsFilePath = Path.Combine(generatedPackedTextEntryLocalizationsDirectory, $"{japanTextAsset}.json");
                     File.WriteAllText(packedTextEntryLocalizationsFilePath, JsonSerializer.Serialize(packedTextEntryLocalizations, new JsonSerializerOptions()
                     {
-                        PropertyNamingPolicy = JsonNamingPolicy.CamelCase
+                        Encoder = System.Text.Encodings.Web.JavaScriptEncoder.UnsafeRelaxedJsonEscaping,
+                        PropertyNamingPolicy = JsonNamingPolicy.CamelCase,
+                        WriteIndented = true
                     }));
                 }
             }

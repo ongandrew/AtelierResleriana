@@ -328,5 +328,159 @@
                 }
             }
         }
-    }
+    },
+    {
+        "id": 321927605,
+        "properties": {
+            "999008199": {
+                "text": "解放されていないスキルです",
+                "localizations": {
+                    "en": "Skill has not been unlocked."
+                }
+            }
+        }
+    },
+    {
+        "id": 785244136,
+        "properties": {
+            "999008199": {
+                "text": "アクティブスキル",
+                "localizations": {
+                    "en": "Active Skill"
+                }
+            }
+        }
+    },
+    {
+        "id": 197994918,
+        "properties": {
+            "999008199": {
+                "text": "ボードアビリティ",
+                "localizations": {
+                    "en": "Board Ability"
+                }
+            }
+        }
+    },
+    {
+        "id": 1248321545,
+        "properties": {
+            "999008199": {
+                "text": "レンタルパーティでの挑戦",
+                "localizations": {
+                    "en": "Challenge with Rental Party"
+                }
+            }
+        }
+    },
+    {
+        "id": 2070204714,
+        "properties": {
+            "999008199": {
+                "text": "ボスチャレンジのクリアに適したキャラとメモリアをレンタルして\n挑戦することができます",
+                "localizations": {
+                    "en": "You can rent characters and Memoria suitable for clearing boss challenges."
+                }
+            }
+        }
+    },
+    {
+        "id": 686165300,
+        "properties": {
+            "999008199": {
+                "text": "呼び出しに失敗した…",
+                "localizations": {
+                    "en": "Failed to summon..."
+                }
+            }
+        }
+    },
+    {
+        "id": 1781131225,
+        "properties": {
+            "999008199": {
+                "text": "攻撃が届かない！",
+                "localizations": {
+                    "en": "Attack is out of range!"
+                }
+            }
+        }
+    },
+    {
+        "id": 1214676932,
+        "properties": {
+            "999008199": {
+                "text": "残り{0}体",
+                "localizations": {
+                    "en": "{0} Remaining"
+                }
+            }
+        }
+    },
+    {
+        "id": 1283993899,
+        "properties": {
+            "999008199": {
+                "text": "レンタルパーティ",
+                "localizations": {
+                    "en": "Rental Party"
+                }
+            }
+        }
+    },
+    {
+        "id": 1926122407,
+        "properties": {
+            "999008199": {
+                "text": "ミッションバトル",
+                "localizations": {
+                    "en": "Mission Battle"
+                }
+            }
+        }
+    },
+    {
+        "id": 886979861,
+        "properties": {
+            "999008199": {
+                "text": "ミッション\nバトル",
+                "localizations": {
+                    "en": "Mission\nBattle"
+                }
+            }
+        }
+    },
+    {
+        "id": 1566455648,
+        "properties": {
+            "999008199": {
+                "text": "登頂チャレンジ",
+                "localizations": {
+                    "en": "Summit Challenge "
+                }
+            }
+        }
+    },
+    {
+        "id": 1587232009,
+        "properties": {
+            "999008199": {
+                "text": "連続挑戦確認",
+                "localizations": {
+                    "en": "Continuous Challenge Confirmation"
+                }
+            }
+        }
+    },
+    {
+        "id": 1340819638,
+        "properties": {
+            "999008199": {
+                "text": "続けて次のバトルに挑戦可能です。同じパーティのまま挑戦しますか？\n※HPや状態変化、アイテムゲージなどの状況は引き継がれません",
+                "localizations": {
+                    "en": "You can continue to the next battle in the challenge. Continue with the same party?\n※Conditions such as HP, status changes, item gauge, etc. will not be carried over."
+                }
+            }
+        }
+    },
 ]

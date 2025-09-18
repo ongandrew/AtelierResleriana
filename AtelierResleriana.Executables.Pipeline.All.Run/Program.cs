@@ -36,13 +36,30 @@ namespace AtelierResleriana.Executables.Pipeline.All.Run
             };
             processStartInfo.ArgumentList.Add("run");
             processStartInfo.ArgumentList.Add("--project");
-            processStartInfo.ArgumentList.Add($"../{name}/{name}.csproj");
+            processStartInfo.ArgumentList.Add($"../../../../{name}/{name}.csproj");
             Process? process = Process.Start(processStartInfo);
 
             if (process == null)
             {
                 return;
             }
+
+            process.OutputDataReceived += (sender, eventArgs) =>
+            {
+                if (eventArgs.Data != null)
+                {
+                    Console.WriteLine(eventArgs.Data);
+                }
+            };
+            process.ErrorDataReceived += (sender, eventArgs) =>
+            {
+                if (eventArgs.Data != null)
+                {
+                    Console.Error.WriteLine(eventArgs.Data);
+                }
+            };
+            process.BeginOutputReadLine();
+            process.BeginErrorReadLine();
 
             await process.WaitForExitAsync(cancellationToken);
 

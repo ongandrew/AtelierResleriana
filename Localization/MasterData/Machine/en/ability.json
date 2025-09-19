@@ -7343,5 +7343,215 @@
     "id": 600000731,
     "description": "Boosts skill power by 100% when self is a member of the Miraculous Nine.",
     "name": "Miraculous Nine Skill Power Up"
+  },
+  {
+    "id": 301264,
+    "description": "While equipped to Gou [Faithful Fighter], when receiving an attack, boosts physical attack skill damage by {0}% for the ally with the highest P.ATK for 1 turn (Max 2 stacks).",
+    "name": "Heaven-Cleaving Blade"
+  },
+  {
+    "id": 1980210,
+    "description": "Characters with Strike affinity gain P.DEF & M.DEF +{0}%.",
+    "name": "Hot-Blooded Man Full of Chivalry"
+  },
+  {
+    "id": 1990469,
+    "description": "Becomes much more likely to be targeted by enemies.<br>Boosts own P.DEF & M.DEF by {0}%.<br><br>Boosts Max HP by {1}% for all allies with Strike affinity.<br>At the start of battle, restores {2}% HP for all allies.",
+    "name": "Responsibility as a Big Brother"
+  },
+  {
+    "id": 1990470,
+    "description": "When own HP falls below certain thresholds, triggers the following effects respectively (Each effect can only trigger once per battle and cannot be removed except when incapacitated):<br>80% or below: Grants P.DEF & M.DEF +{0}% to all allies with Strike affinity<br>50% or below: Grants P.DEF & M.DEF +{1}% to all allies with Strike affinity<br>30% or below: Grants P.DEF & M.DEF +{2}% to all allies with Strike affinity and restores own HP by {3}%.",
+    "name": "I'll Show You My Protection!"
+  },
+  {
+    "id": 4991113,
+    "description": "While equipped to a Defender with Strike affinity, when receiving an attack, reduces Strike resistance by {0}% for all enemies for 1 attack (Max 2 stacks).<br>When Diligent, reduces damage received by {1}% (Fixed).",
+    "name": "Imagination \"Big Brother's Joy\""
+  },
+  {
+    "id": 4991114,
+    "description": "While equipped to a Defender with Strike affinity, when receiving an attack, reduces Strike resistance by {0}% for all enemies for 1 attack (Max 2 stacks).<br>When Diligent, reduces damage received by {1}% (Fixed).",
+    "name": "Imagination \"Big Brother's Joy\""
+  },
+  {
+    "id": 4991115,
+    "description": "While equipped to a Defender with Strike affinity, when receiving an attack, reduces Strike resistance by {0}% for all enemies for 1 attack (Max 2 stacks).<br>When Diligent, reduces damage received by {1}% (Fixed).",
+    "name": "Imagination \"Big Brother's Joy\""
+  },
+  {
+    "id": 4991116,
+    "description": "While equipped to a Defender with Strike affinity, when receiving an attack, reduces Strike resistance by {0}% for all enemies for 1 attack (Max 2 stacks).<br>When Diligent, reduces damage received by {1}% (Fixed).",
+    "name": "Imagination \"Big Brother's Joy\""
+  },
+  {
+    "id": 4991117,
+    "description": "While equipped to a Defender with Strike affinity, when receiving an attack, reduces Strike resistance by {0}% for all enemies for 1 attack (Max 2 stacks).<br>When Diligent, reduces damage received by {1}% (Fixed).",
+    "name": "Imagination \"Big Brother's Joy\""
+  },
+  {
+    "id": 4991118,
+    "description": "While equipped to an Attacker with physical affinity, boosts skill damage by {0}%.",
+    "name": "Attacker Physical Damage Up IV"
+  },
+  {
+    "id": 4991119,
+    "description": "While equipped to an Attacker with physical affinity, boosts skill damage by {0}%.",
+    "name": "Attacker Physical Damage Up IV"
+  },
+  {
+    "id": 4991120,
+    "description": "While equipped to an Attacker with physical affinity, boosts skill damage by {0}%.",
+    "name": "Attacker Physical Damage Up IV"
+  },
+  {
+    "id": 4991121,
+    "description": "While equipped to an Attacker with physical affinity, boosts skill damage by {0}%.",
+    "name": "Attacker Physical Damage Up IV"
+  },
+  {
+    "id": 4991122,
+    "description": "While equipped to an Attacker with physical affinity, boosts skill damage by {0}%.",
+    "name": "Attacker Physical Damage Up IV"
+  },
+  {
+    "id": 4991123,
+    "description": "While equipped to an Attacker with magical affinity, boosts skill damage by {0}%.",
+    "name": "Attacker Magical Damage Up IV"
+  },
+  {
+    "id": 4991124,
+    "description": "While equipped to an Attacker with magical affinity, boosts skill damage by {0}%.",
+    "name": "Attacker Magical Damage Up IV"
+  },
+  {
+    "id": 4991125,
+    "description": "While equipped to an Attacker with magical affinity, boosts skill damage by {0}%.",
+    "name": "Attacker Magical Damage Up IV"
+  },
+  {
+    "id": 4991126,
+    "description": "While equipped to an Attacker with magical affinity, boosts skill damage by {0}%.",
+    "name": "Attacker Magical Damage Up IV"
+  },
+  {
+    "id": 4991127,
+    "description": "While equipped to an Attacker with magical affinity, boosts skill damage by {0}%.",
+    "name": "Attacker Magical Damage Up IV"
+  },
+  {
+    "id": 4991128,
+    "description": "When own HP is 50% or below, restores own HP by {0}% at the start of turn.",
+    "name": "Adversity Heal Rhythm II"
+  },
+  {
+    "id": 4991129,
+    "description": "When own HP is 50% or lower, restores own HP by {0}% at the start of turn.",
+    "name": "Dire Heal Rhythm II"
+  },
+  {
+    "id": 4991130,
+    "description": "When own HP is 50% or lower, restores own HP by {0}% at the start of turn.",
+    "name": "Dire Heal Rhythm II"
+  },
+  {
+    "id": 4991131,
+    "description": "When own HP is 50% or lower, restores own HP by {0}% at the start of turn.",
+    "name": "Dire Heal Rhythm II"
+  },
+  {
+    "id": 4991132,
+    "description": "When own HP is 50% or lower, restores own HP by {0}% at the start of turn.",
+    "name": "Dire Heal Rhythm II"
+  },
+  {
+    "id": 4991133,
+    "description": "While equipped to a Breaker, boosts stun damage by {0}%.",
+    "name": "Breaker Stun Up III"
+  },
+  {
+    "id": 4991134,
+    "description": "While equipped to a Breaker, boosts stun damage by {0}%.",
+    "name": "Breaker Stun Up III"
+  },
+  {
+    "id": 4991135,
+    "description": "While equipped to a Breaker, boosts stun damage by {0}%.",
+    "name": "Breaker Stun Up III"
+  },
+  {
+    "id": 4991136,
+    "description": "While equipped to a Breaker, boosts stun damage by {0}%.",
+    "name": "Breaker Stun Up III"
+  },
+  {
+    "id": 4991137,
+    "description": "While equipped to a Breaker, boosts stun damage by {0}%.",
+    "name": "Breaker Stun Up III"
+  },
+  {
+    "id": 26216002,
+    "description": "Nullifies resistance down for all elements except Stab and Strike.",
+    "name": ""
+  },
+  {
+    "id": 26216003,
+    "description": "Nullifies resistance down for all elements except Fire and Strike.",
+    "name": ""
+  },
+  {
+    "id": 26216004,
+    "description": "Nullifies resistance down for all elements except Air and Strike.",
+    "name": ""
+  },
+  {
+    "id": 26216005,
+    "description": "Nullifies resistance down for all elements except Ice and Strike.",
+    "name": ""
+  },
+  {
+    "id": 26216006,
+    "description": "Nullifies resistance down for all elements except Bolt and Strike.",
+    "name": ""
+  },
+  {
+    "id": 26216007,
+    "description": "Nullifies resistance down for all elements except Slash and Strike.",
+    "name": ""
+  },
+  {
+    "id": 26216008,
+    "description": "Nullifies resistance down for all elements except Strike.",
+    "name": ""
+  },
+  {
+    "id": 26226002,
+    "description": "When HP drops to 30% or below, advances own turn by 3 turns and redetermines turn order.",
+    "name": ""
+  },
+  {
+    "id": 26226003,
+    "description": "When stunned, removes 3 stacks of own SPD Up.",
+    "name": ""
+  },
+  {
+    "id": 26254001,
+    "description": "After receiving 3 attacks, grants self critical rate received up (10%) (max 50%).",
+    "name": ""
+  },
+  {
+    "id": 600000723,
+    "description": "Reduces damage received by Gou [Faithful Fighter] by 20%.",
+    "name": "Self Gou [Faithful Fighter] Damage Received Down"
+  },
+  {
+    "id": 600000724,
+    "description": "When Gou [Faithful Fighter] or Jelka [Nifty Rover] is in the party, reduces damage received by 25% (Max: 25%).",
+    "name": "Damage Reduction when Gou [Faithful Fighter] or Jelka [Nifty Rover] in Party"
+  },
+  {
+    "id": 600000725,
+    "description": "While equipped to a character with Miraculous Nine, boosts skill power by 100%.",
+    "name": "Miraculous Nine Skill Power Up"
   }
 ]

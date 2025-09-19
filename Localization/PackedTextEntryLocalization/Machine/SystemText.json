@@ -1468,7 +1468,7 @@
       "999008199": {
         "text": "報酬破棄",
         "localizations": {
-          "en": null
+          "en": "Discard Reward"
         }
       }
     }
@@ -1479,7 +1479,7 @@
       "999008199": {
         "text": "更新まであと{0}",
         "localizations": {
-          "en": null
+          "en": "{0} until refresh"
         }
       }
     }
@@ -1490,7 +1490,7 @@
       "999008199": {
         "text": "所持済",
         "localizations": {
-          "en": null
+          "en": "Already Owned"
         }
       }
     }
@@ -1501,7 +1501,7 @@
       "999008199": {
         "text": "シーン",
         "localizations": {
-          "en": null
+          "en": "Scene"
         }
       }
     }
@@ -1512,7 +1512,7 @@
       "999008199": {
         "text": "貴重品",
         "localizations": {
-          "en": null
+          "en": "Valuables"
         }
       }
     }
@@ -1523,7 +1523,7 @@
       "999008199": {
         "text": "、",
         "localizations": {
-          "en": null
+          "en": ", "
         }
       }
     }
@@ -1534,7 +1534,7 @@
       "999008199": {
         "text": "誰かにとっての大事な一品。\n獲得後は図鑑に収録される。",
         "localizations": {
-          "en": null
+          "en": "A precious item for someone.\nAdded to the collection after obtaining."
         }
       }
     }
@@ -1545,7 +1545,7 @@
       "999008199": {
         "text": "スキンを所持していません",
         "localizations": {
-          "en": null
+          "en": "No skins owned"
         }
       }
     }
@@ -1556,7 +1556,7 @@
       "999008199": {
         "text": "イベントシーン",
         "localizations": {
-          "en": null
+          "en": "Event Scene"
         }
       }
     }
@@ -1567,7 +1567,7 @@
       "999008199": {
         "text": "シーンがホーム画面に追加されました",
         "localizations": {
-          "en": null
+          "en": "Scene has been added to the home screen"
         }
       }
     }
@@ -1578,7 +1578,7 @@
       "999008199": {
         "text": "シーンがメールに送られました",
         "localizations": {
-          "en": null
+          "en": "Scene has been sent to mail"
         }
       }
     }
@@ -1589,7 +1589,7 @@
       "999008199": {
         "text": "既に所持済みのシーンのため獲得できませんでした",
         "localizations": {
-          "en": null
+          "en": "Could not obtain scene as it is already owned"
         }
       }
     }
@@ -1600,7 +1600,7 @@
       "999008199": {
         "text": "図鑑",
         "localizations": {
-          "en": null
+          "en": "Collection"
         }
       }
     }
@@ -1611,7 +1611,7 @@
       "999008199": {
         "text": "図鑑報酬",
         "localizations": {
-          "en": null
+          "en": "Collection Reward"
         }
       }
     }
@@ -1622,7 +1622,7 @@
       "999008199": {
         "text": "メモリア({0}/{1})",
         "localizations": {
-          "en": null
+          "en": "Memoria ({0}/{1})"
         }
       }
     }
@@ -1633,7 +1633,7 @@
       "999008199": {
         "text": "貴重品({0}/{1})",
         "localizations": {
-          "en": null
+          "en": "Valuables ({0}/{1})"
         }
       }
     }
@@ -1644,7 +1644,7 @@
       "999008199": {
         "text": "未収録のメモリアです",
         "localizations": {
-          "en": null
+          "en": "This memoria is not yet recorded"
         }
       }
     }
@@ -1655,7 +1655,7 @@
       "999008199": {
         "text": "発見場所：{0}",
         "localizations": {
-          "en": null
+          "en": "Discovery Location: {0}"
         }
       }
     }
@@ -1666,7 +1666,7 @@
       "999008199": {
         "text": "合計収録数",
         "localizations": {
-          "en": null
+          "en": "Total Recorded"
         }
       }
     }
@@ -1677,7 +1677,7 @@
       "999008199": {
         "text": "パネルミッション",
         "localizations": {
-          "en": null
+          "en": "Panel Mission"
         }
       }
     }
@@ -1688,7 +1688,7 @@
       "999008199": {
         "text": "パネル\nミッション",
         "localizations": {
-          "en": null
+          "en": "Panel\nMission"
         }
       }
     }
@@ -1699,7 +1699,7 @@
       "999008199": {
         "text": "対象アイテムレシピ",
         "localizations": {
-          "en": null
+          "en": "Target Item Recipe"
         }
       }
     }
@@ -1710,7 +1710,7 @@
       "999008199": {
         "text": "使用可能アイテム",
         "localizations": {
-          "en": null
+          "en": "Usable Items"
         }
       }
     }
@@ -1721,7 +1721,7 @@
       "999008199": {
         "text": "貴重品",
         "localizations": {
-          "en": null
+          "en": "Valuables"
         }
       }
     }
@@ -1732,7 +1732,7 @@
       "999008199": {
         "text": "貴重品発見",
         "localizations": {
-          "en": null
+          "en": "Valuables Discovered"
         }
       }
     }
@@ -1743,7 +1743,7 @@
       "999008199": {
         "text": "※2つ目以降を入手した場合は\n星導石{0}個に自動変換されます",
         "localizations": {
-          "en": null
+          "en": "*If you obtain a 2nd or later copy,\nit will be automatically converted to {0} Astral Gems"
         }
       }
     }
@@ -1754,7 +1754,7 @@
       "999008199": {
         "text": "おすすめ更新！",
         "localizations": {
-          "en": null
+          "en": "Recommendations Updated!"
         }
       }
     }
@@ -1765,7 +1765,7 @@
       "999008199": {
         "text": "※重複した貴重品は星導石{1}個に変換されました",
         "localizations": {
-          "en": null
+          "en": "*Duplicate valuables were converted to {1} Lodestar Gems."
         }
       }
     }
@@ -1776,7 +1776,7 @@
       "999008199": {
         "text": "イベント用の街",
         "localizations": {
-          "en": null
+          "en": "Event Town"
         }
       }
     }
@@ -1787,7 +1787,7 @@
       "999008199": {
         "text": "イベントタスク１",
         "localizations": {
-          "en": null
+          "en": "Event Task 1"
         }
       }
     }
@@ -1798,7 +1798,7 @@
       "999008199": {
         "text": "イベントタスク２",
         "localizations": {
-          "en": null
+          "en": "Event Task 2"
         }
       }
     }
@@ -1809,7 +1809,7 @@
       "999008199": {
         "text": "イベントタスク３",
         "localizations": {
-          "en": null
+          "en": "Event Task 3"
         }
       }
     }
@@ -1820,7 +1820,7 @@
       "999008199": {
         "text": "クリア後のテキスト",
         "localizations": {
-          "en": null
+          "en": "Post-Clear Text"
         }
       }
     }
@@ -1831,7 +1831,7 @@
       "999008199": {
         "text": "水着イベント用のテスト街１",
         "localizations": {
-          "en": null
+          "en": "Test Town 1 for Swimsuit Event"
         }
       }
     }
@@ -1842,7 +1842,7 @@
       "999008199": {
         "text": "水着イベント用のテスト街２",
         "localizations": {
-          "en": null
+          "en": "Test Town 2 for Swimsuit Event"
         }
       }
     }
@@ -1853,7 +1853,7 @@
       "999008199": {
         "text": "海辺-グランプリ会場",
         "localizations": {
-          "en": null
+          "en": "Seaside - Grand Prix Venue"
         }
       }
     }
@@ -1864,7 +1864,7 @@
       "999008199": {
         "text": "ワルターと話をしよう",
         "localizations": {
-          "en": null
+          "en": "Talk to Walter"
         }
       }
     }
@@ -1875,7 +1875,7 @@
       "999008199": {
         "text": "ミーケ・ディオーナと話をしよう",
         "localizations": {
-          "en": null
+          "en": "Talk to Mieke Diona"
         }
       }
     }
@@ -1886,7 +1886,7 @@
       "999008199": {
         "text": "屋台で買い物をしよう",
         "localizations": {
-          "en": null
+          "en": "Shop at the food stalls"
         }
       }
     }
@@ -1897,7 +1897,7 @@
       "999008199": {
         "text": "カフェに行こう",
         "localizations": {
-          "en": null
+          "en": "Go to the cafe"
         }
       }
     }
@@ -1908,7 +1908,7 @@
       "999008199": {
         "text": "街を出よう",
         "localizations": {
-          "en": null
+          "en": "Leave town"
         }
       }
     }
@@ -1919,7 +1919,7 @@
       "999008199": {
         "text": "会場を見回ろう",
         "localizations": {
-          "en": null
+          "en": "Look around the venue"
         }
       }
     }
@@ -1930,7 +1930,7 @@
       "999008199": {
         "text": "観客が集まっている場所へ行こう",
         "localizations": {
-          "en": null
+          "en": "Go where the spectators are gathering"
         }
       }
     }
@@ -1941,7 +1941,7 @@
       "999008199": {
         "text": "レースの観戦場所を探そう",
         "localizations": {
-          "en": null
+          "en": "Find a place to watch the race"
         }
       }
     }
@@ -1952,7 +1952,7 @@
       "999008199": {
         "text": "会場を回ってみよう",
         "localizations": {
-          "en": null
+          "en": "Walk around the venue"
         }
       }
     }
@@ -1963,7 +1963,7 @@
       "999008199": {
         "text": "自由に過ごそう",
         "localizations": {
-          "en": null
+          "en": "Spend your time freely"
         }
       }
     }
@@ -1974,7 +1974,7 @@
       "999008199": {
         "text": "クリセルダ、真夏の陰謀",
         "localizations": {
-          "en": null
+          "en": "Griselda's Midsummer Conspiracy"
         }
       }
     }
@@ -1985,7 +1985,7 @@
       "999008199": {
         "text": "UR以下",
         "localizations": {
-          "en": null
+          "en": "UR and below"
         }
       }
     }
@@ -1996,7 +1996,7 @@
       "999008199": {
         "text": "グランド",
         "localizations": {
-          "en": null
+          "en": "Grand"
         }
       }
     }
@@ -2007,7 +2007,7 @@
       "999008199": {
         "text": "グランドのレシピブックは未解放です",
         "localizations": {
-          "en": null
+          "en": "Grand's recipe book has not been unlocked"
         }
       }
     }
@@ -2018,7 +2018,7 @@
       "999008199": {
         "text": "ストーリー１話を再生しますか？",
         "localizations": {
-          "en": null
+          "en": "Play Story Chapter 1?"
         }
       }
     }
@@ -2029,7 +2029,7 @@
       "999008199": {
         "text": "連続挑戦確認",
         "localizations": {
-          "en": null
+          "en": "Consecutive Challenge Confirmation"
         }
       }
     }
@@ -2040,7 +2040,7 @@
       "999008199": {
         "text": "続けて次のバトルに挑戦可能です。同じパーティのまま挑戦しますか？\n※HPや状態変化、アイテムゲージなどの状況は引き継がれません",
         "localizations": {
-          "en": null
+          "en": "You can continue to the next battle. Challenge with the same party?\n*HP, status effects, item gauge, etc. will not be carried over"
         }
       }
     }
@@ -2051,7 +2051,7 @@
       "999008199": {
         "text": "ミッションバトル",
         "localizations": {
-          "en": null
+          "en": "Mission Battle"
         }
       }
     }
@@ -2062,7 +2062,7 @@
       "999008199": {
         "text": "ミッション\nバトル",
         "localizations": {
-          "en": null
+          "en": "Mission\nBattle"
         }
       }
     }
@@ -2073,7 +2073,7 @@
       "999008199": {
         "text": "登頂チャレンジ",
         "localizations": {
-          "en": null
+          "en": "Summit Challenge"
         }
       }
     }
@@ -2084,7 +2084,7 @@
       "999008199": {
         "text": "以下の条件を達成することにより、登頂チャレンジを解放できます",
         "localizations": {
-          "en": null
+          "en": "Summit Challenge can be unlocked by achieving the following conditions"
         }
       }
     }
@@ -2095,7 +2095,7 @@
       "999008199": {
         "text": "イベントの進行によって解放されます",
         "localizations": {
-          "en": null
+          "en": "Unlocked through event progression"
         }
       }
     }
@@ -2106,7 +2106,7 @@
       "999008199": {
         "text": "イベント画面に戻りますか？",
         "localizations": {
-          "en": null
+          "en": "Return to the event screen?"
         }
       }
     }
@@ -2436,7 +2436,7 @@
       "999008199": {
         "text": "スキル解放に必要な素材が不足しています",
         "localizations": {
-          "en": null
+          "en": "Insufficient materials required for skill unlock"
         }
       }
     }
@@ -2447,7 +2447,128 @@
       "999008199": {
         "text": "解放されていないスキルです",
         "localizations": {
-          "en": null
+          "en": "This skill is not unlocked"
+        }
+      }
+    }
+  },
+  {
+    "id": 448426346,
+    "properties": {
+      "999008199": {
+        "text": "SKILLⅠ",
+        "localizations": {
+          "en": "SKILL I"
+        }
+      }
+    }
+  },
+  {
+    "id": 1831117722,
+    "properties": {
+      "999008199": {
+        "text": "SKILLⅡ",
+        "localizations": {
+          "en": "SKILL II"
+        }
+      }
+    }
+  },
+  {
+    "id": 2036429718,
+    "properties": {
+      "999008199": {
+        "text": "Damage",
+        "localizations": {
+          "en": "Damage"
+        }
+      }
+    }
+  },
+  {
+    "id": 596468837,
+    "properties": {
+      "999008199": {
+        "text": "Heal",
+        "localizations": {
+          "en": "Heal"
+        }
+      }
+    }
+  },
+  {
+    "id": 2146717801,
+    "properties": {
+      "999008199": {
+        "text": "Critical",
+        "localizations": {
+          "en": "Critical"
+        }
+      }
+    }
+  },
+  {
+    "id": 1507619382,
+    "properties": {
+      "999008199": {
+        "text": "Break",
+        "localizations": {
+          "en": "Break"
+        }
+      }
+    }
+  },
+  {
+    "id": 789587472,
+    "properties": {
+      "999008199": {
+        "text": "Wait",
+        "localizations": {
+          "en": "Wait"
+        }
+      }
+    }
+  },
+  {
+    "id": 90178409,
+    "properties": {
+      "999008199": {
+        "text": "{0} | ×{1:F2}",
+        "localizations": {
+          "en": "{0} | ×{1:F2}"
+        }
+      }
+    }
+  },
+  {
+    "id": 1448656114,
+    "properties": {
+      "999008199": {
+        "text": "ブレイクウェイト",
+        "localizations": {
+          "en": "Break Wait"
+        }
+      }
+    }
+  },
+  {
+    "id": 805058327,
+    "properties": {
+      "999008199": {
+        "text": "個別状態変化",
+        "localizations": {
+          "en": "Individual Status Effects"
+        }
+      }
+    }
+  },
+  {
+    "id": 1564278706,
+    "properties": {
+      "999008199": {
+        "text": "総合値",
+        "localizations": {
+          "en": "Total Value"
         }
       }
     }

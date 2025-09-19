@@ -20902,5 +20902,1007 @@
     "description": "Boosts skill target's damage dealt by 15% for 3 turns.",
     "name": "Spin Roar",
     "summary": ""
+  },
+  {
+    "id": 11003093,
+    "description": "After attacking, grants self Cover for 2 activations<br>Grants all allies Max HP +{1}% (Max: 20%) and<br>recovers all allies' HP by {2}%.",
+    "name": "Vis Gradius",
+    "summary": "After attacking, grants self Cover<br>Boosts all allies' Max HP and recovers HP"
+  },
+  {
+    "id": 11003094,
+    "description": "After attacking, grants self Cover for 2 activations<br>Grants all allies Max HP +{1}% (Max: 20%) and<br>recovers all allies' HP by {2}%.",
+    "name": "Vis Gradius",
+    "summary": "After attacking, grants self Cover<br>Boosts all allies' Max HP and recovers HP"
+  },
+  {
+    "id": 11003095,
+    "description": "After attacking, grants self Cover for 2 activations<br>Grants all allies Max HP +{1}% (Max: 20%) and<br>recovers all allies' HP by {2}%.",
+    "name": "Vis Gradius",
+    "summary": "After attacking, grants self Cover<br>Boosts all allies' Max HP and recovers HP"
+  },
+  {
+    "id": 11003096,
+    "description": "After attacking, grants self Cover for 2 activations<br>Grants all allies Max HP +{1}% (Max: 20%) and<br>recovers all allies' HP by {2}%.",
+    "name": "Vis Gradius",
+    "summary": "After attacking, grants self Cover<br>Boosts all allies' Max HP and recovers HP"
+  },
+  {
+    "id": 11003097,
+    "description": "After attacking, grants self Cover for 2 activations<br>Grants all allies Max HP +{1}% (Max: 20%) and<br>recovers all allies' HP by {2}%.",
+    "name": "Vis Gradius",
+    "summary": "After attacking, grants self Cover<br>Boosts all allies' Max HP and recovers HP"
+  },
+  {
+    "id": 12003098,
+    "description": "Consumes {0}% of own HP.<br>Removes negative effects from single ally,<br>recovers target's HP by {1}%, and<br>grants Damage Received -{2}% for 1 hit.<br>Grants all allies with Strike affinity Damage Received -{3}% for 2 hits (Max: 2 stacks).",
+    "name": "Velm Custedia",
+    "summary": "Consumes own HP<br>Removes one ally's negative effects, recovers HP, and reduces damage received<br>Reduces damage received for all allies with Strike affinity"
+  },
+  {
+    "id": 12003099,
+    "description": "Consumes {0}% of own HP.<br>Removes negative effects from single ally,<br>recovers target's HP by {1}%, and<br>grants Damage Received -{2}% for 1 hit.<br>Grants all allies with Strike affinity Damage Received -{3}% for 2 hits (Max: 2 stacks).",
+    "name": "Velm Custedia",
+    "summary": "Consumes own HP<br>Removes one ally's negative effects, recovers HP, and reduces damage received<br>Reduces damage received for all allies with Strike affinity"
+  },
+  {
+    "id": 12003100,
+    "description": "Consumes {0}% of own HP.<br>Removes negative effects from single ally,<br>recovers target's HP by {1}%, and<br>grants Damage Received -{2}% for 1 hit.<br>Grants all allies with Strike affinity Damage Received -{3}% for 2 hits (Max: 2 stacks).",
+    "name": "Velm Custedia",
+    "summary": "Consumes own HP<br>Removes one ally's negative effects, recovers HP, and reduces damage received<br>Reduces damage received for all allies with Strike affinity"
+  },
+  {
+    "id": 12003101,
+    "description": "Consumes {0}% of own HP.<br>Removes negative effects from single ally,<br>recovers target's HP by {1}%, and<br>grants Damage Received -{2}% for 1 hit.<br>Grants all allies with Strike affinity Damage Received -{3}% for 2 hits (Max: 2 stacks).",
+    "name": "Velm Custedia",
+    "summary": "Consumes own HP<br>Removes one ally's negative effects, recovers HP, and reduces damage received<br>Reduces damage received for all allies with Strike affinity"
+  },
+  {
+    "id": 12003102,
+    "description": "Consumes {0}% of own HP.<br>Removes negative effects from single ally,<br>recovers target's HP by {1}%, and<br>grants Damage Received -{2}% for 1 hit.<br>Grants all allies with Strike affinity Damage Received -{3}% for 2 hits (Max: 2 stacks).",
+    "name": "Velm Custedia",
+    "summary": "Consumes own HP<br>Removes one ally's negative effects, recovers HP, and reduces damage received<br>Reduces damage received for all allies with Strike affinity"
+  },
+  {
+    "id": 14003103,
+    "description": "Before attacking, removes negative effects from all allies.<br>After attacking, grants all allies with Strike affinity Damage Received -{1}% for 2 hits (Max: 2 stacks) and<br>grants Max HP +{2}% (Max: 40%).<br>Recovers all allies' HP by {3}%.",
+    "name": "Judicare Malm",
+    "summary": "Before attacking, removes all allies' negative effects<br>After attacking, reduces damage received for all allies with Strike affinity<br>Boosts Max HP for all allies with Strike affinity<br>Recovers all allies' HP"
+  },
+  {
+    "id": 14003104,
+    "description": "Before attacking, removes negative effects from all allies.<br>After attacking, grants all allies with Strike affinity Damage Received -{1}% for 2 hits (Max: 2 stacks) and<br>grants Max HP +{2}% (Max: 40%).<br>Recovers all allies' HP by {3}%.",
+    "name": "Judicare Malm",
+    "summary": "Before attacking, removes all allies' negative effects<br>After attacking, reduces damage received for all allies with Strike affinity<br>Boosts Max HP for all allies with Strike affinity<br>Recovers all allies' HP"
+  },
+  {
+    "id": 14003105,
+    "description": "Before attacking, removes negative effects from all allies.<br>After attacking, grants all allies with Strike affinity Damage Received -{1}% for 2 hits (Max: 2 stacks) and<br>grants Max HP +{2}% (Max: 40%).<br>Recovers all allies' HP by {3}%.",
+    "name": "Judicare Malm",
+    "summary": "Before attacking, removes all allies' negative effects<br>After attacking, reduces damage received for all allies with Strike affinity<br>Boosts Max HP for all allies with Strike affinity<br>Recovers all allies' HP"
+  },
+  {
+    "id": 14003106,
+    "description": "Before attacking, removes negative effects from all allies.<br>After attacking, grants all allies with Strike affinity Damage Received -{1}% for 2 hits (Max: 2 stacks) and<br>grants Max HP +{2}% (Max: 40%).<br>Recovers all allies' HP by {3}%.",
+    "name": "Judicare Malm",
+    "summary": "Before attacking, removes all allies' negative effects<br>After attacking, reduces damage received for all allies with Strike affinity<br>Boosts Max HP for all allies with Strike affinity<br>Recovers all allies' HP"
+  },
+  {
+    "id": 14003107,
+    "description": "Before attacking, removes negative effects from all allies.<br>After attacking, grants all allies with Strike affinity Damage Received -{1}% for 2 hits (Max: 2 stacks) and<br>grants Max HP +{2}% (Max: 40%).<br>Recovers all allies' HP by {3}%.",
+    "name": "Judicare Malm",
+    "summary": "Before attacking, removes all allies' negative effects<br>After attacking, reduces damage received for all allies with Strike affinity<br>Boosts Max HP for all allies with Strike affinity<br>Recovers all allies' HP"
+  },
+  {
+    "id": 32003241,
+    "description": "After attacking, grants self SPD Up (20%/Permanent)",
+    "name": "Lucidus Sidera",
+    "summary": ""
+  },
+  {
+    "id": 32003242,
+    "description": "After attacking, grants self Damage Received Down (30%/2 turns)\nAfter attacking, grants self Stun Damage Received Down (30%/2 turns)",
+    "name": "Harmonia",
+    "summary": ""
+  },
+  {
+    "id": 32003243,
+    "description": "No effect.",
+    "name": "Zodiacus",
+    "summary": ""
+  },
+  {
+    "id": 32003244,
+    "description": "After attacking, inflicts SPD Down (10%/2 turns) on target enemy",
+    "name": "Nexas Celeste",
+    "summary": ""
+  },
+  {
+    "id": 32003245,
+    "description": "After attacking, grants self Negative Effect Potency Down (50%/2 turns)",
+    "name": "Nexas Flarum",
+    "summary": ""
+  },
+  {
+    "id": 32003246,
+    "description": "Grants self 2 stacks of SPD Up (5%/permanent).\nGrants self Evasion (5%/permanent/max 30%).",
+    "name": "Jade Star Blessing",
+    "summary": ""
+  },
+  {
+    "id": 32003247,
+    "description": "After attacking, converts boost panels to weaken panels and weaken panels to boost panels for 10 spaces, and inflicts SPD Down (10%/2 turns) on all enemies.",
+    "name": "Semen Resonare",
+    "summary": ""
+  },
+  {
+    "id": 32003248,
+    "description": "No additional effects.",
+    "name": "Sagitta",
+    "summary": ""
+  },
+  {
+    "id": 32003249,
+    "description": "Reduces all enemies' item gauge recovery by 50%.",
+    "name": "Passio Sagitta",
+    "summary": ""
+  },
+  {
+    "id": 32003250,
+    "description": "Grants self SPD Up (20%/3 turns) and Critical Damage Up (25%/3 turns), then creates a critical panel on own next turn.",
+    "name": "Knowledge Star Flash",
+    "summary": ""
+  },
+  {
+    "id": 32003251,
+    "description": "Converts target's panels to weaken panels (except burst panels) and grants self Damage Dealt Up (15%/3 turns).",
+    "name": "Viridis Arcus",
+    "summary": ""
+  },
+  {
+    "id": 32003252,
+    "description": "Grants self Damage Received Down (30%/3 turns).",
+    "name": "Quinque Sagitta",
+    "summary": ""
+  },
+  {
+    "id": 32003253,
+    "description": "Converts target's panels to weaken panels (except burst panels) and grants self Damage Dealt Up (15%/3 turns).",
+    "name": "Viridis Arcus",
+    "summary": ""
+  },
+  {
+    "id": 32003281,
+    "description": "Before attacking, inflicts Damage Received Up (50%/1 turn) on skill target.\nThen inflicts Nullify HP Recovery (1 turn) on skill target.",
+    "name": "Aequi Vitas Venator",
+    "summary": ""
+  },
+  {
+    "id": 32003282,
+    "description": "After attacking, grants self Damage Received Down (40%/3 turns) and converts skill target's panels to negative panels.",
+    "name": "Terra Fortitudo",
+    "summary": ""
+  },
+  {
+    "id": 32003283,
+    "description": "After attacking, converts skill target's panels to empty panels and inflicts SPD Down (20%/2 turns).",
+    "name": "Veratur Gladius",
+    "summary": ""
+  },
+  {
+    "id": 32003284,
+    "description": "After attacking, inflicts Damage Dealt Down (40%/3 turns) on skill target and removes all positive effects.",
+    "name": "Terra Magnus",
+    "summary": ""
+  },
+  {
+    "id": 32003285,
+    "description": "No additional effects.",
+    "name": "Gladius",
+    "summary": ""
+  },
+  {
+    "id": 32003286,
+    "description": "Grants self SPD Up (10%/2 turns) and Damage Dealt Up (40%/3 turns), then converts own next panel to a boost panel (except burst panels).",
+    "name": "True Star Liberation",
+    "summary": ""
+  },
+  {
+    "id": 32003287,
+    "description": "Before attacking, inflicts Damage Received Up (50%/1 turn) on skill target.\nThen inflicts Nullify HP Recovery (1 turn) on skill target, removes own Damage Dealt Up (for burst attack activation), and reselects action.",
+    "name": "Aequi Vitas Venator",
+    "summary": ""
+  },
+  {
+    "id": 32003288,
+    "description": "After attacking, grants all allies Damage Received Down (25%/3 turns).",
+    "name": "Birthday Surprise",
+    "summary": ""
+  },
+  {
+    "id": 32003289,
+    "description": "After attacking, inflicts Damage Received Up (20%/3 turns) and SPD Down (10%/3 turns) on target.",
+    "name": "Bitter Chocolock",
+    "summary": ""
+  },
+  {
+    "id": 32003290,
+    "description": "No additional effects.",
+    "name": "Chocolate Bomb",
+    "summary": ""
+  },
+  {
+    "id": 32003291,
+    "description": "After attacking, grants self Damage Dealt Up (15%/3 turns).",
+    "name": "Hot Hot Choco Magma",
+    "summary": ""
+  },
+  {
+    "id": 32003292,
+    "description": "Grants all allies Regeneration (10%/3 turns) and Damage Received Down (20%/3 turns).",
+    "name": "Sweet Shower",
+    "summary": ""
+  },
+  {
+    "id": 32003293,
+    "description": "After attacking, boosts own damage dealt by 50% for 1 turn.",
+    "name": "Extreme Cold Wave",
+    "summary": ""
+  },
+  {
+    "id": 32003294,
+    "description": "Grants target Sleep (20% chance for 1 turn).",
+    "name": "Sleepy Breath",
+    "summary": ""
+  },
+  {
+    "id": 32003295,
+    "description": "Randomly grants target either P.ATK Down (50% chance/20%/2 turns) or M.ATK Down (50% chance/20%/2 turns) 3 times.",
+    "name": "Stomp",
+    "summary": ""
+  },
+  {
+    "id": 32003296,
+    "description": "No effects.",
+    "name": "Ice Rain",
+    "summary": ""
+  },
+  {
+    "id": 32003297,
+    "description": "No effects.",
+    "name": "Earth-Shaking Tremor",
+    "summary": ""
+  },
+  {
+    "id": 32003298,
+    "description": "Advances own turn by 1, randomly grants either Stun Damage Received Down (15%/2 turns) or Damage Received Down (15%/2 turns) 5 times.",
+    "name": "Pseudo Wings",
+    "summary": ""
+  },
+  {
+    "id": 32003299,
+    "description": "Randomly grants target either P.ATK Down (50% chance/15%/2 turns) or M.ATK Down (50% chance/15%/2 turns) 5 times.",
+    "name": "Red Explosion",
+    "summary": ""
+  },
+  {
+    "id": 32003300,
+    "description": "No effects.",
+    "name": "Fire Throw",
+    "summary": ""
+  },
+  {
+    "id": 32003301,
+    "description": "No effects.",
+    "name": "Ice Throw",
+    "summary": ""
+  },
+  {
+    "id": 32003302,
+    "description": "No effects.",
+    "name": "Bolt Throw",
+    "summary": ""
+  },
+  {
+    "id": 32003303,
+    "description": "No effects.",
+    "name": "Air Throw",
+    "summary": ""
+  },
+  {
+    "id": 32003304,
+    "description": "No effects.",
+    "name": "Fire Swirl",
+    "summary": ""
+  },
+  {
+    "id": 32003305,
+    "description": "No effects.",
+    "name": "Ice Swirl",
+    "summary": ""
+  },
+  {
+    "id": 32003306,
+    "description": "No effects.",
+    "name": "Bolt Swirl",
+    "summary": ""
+  },
+  {
+    "id": 32003307,
+    "description": "No effects.",
+    "name": "Whirlwind",
+    "summary": ""
+  },
+  {
+    "id": 32003308,
+    "description": "After attacking, grants skill target Damage Received Up (15%/2 turns).",
+    "name": "Wild Rock Throw",
+    "summary": ""
+  },
+  {
+    "id": 32003309,
+    "description": "No effects.",
+    "name": "Wild Boulder Throw",
+    "summary": ""
+  },
+  {
+    "id": 32003310,
+    "description": "Grants skill target 8 stacks of Poison (2%/5 turns).",
+    "name": "Poison Share",
+    "summary": ""
+  },
+  {
+    "id": 32003311,
+    "description": "Restores skill target's HP by 20%.",
+    "name": "Life Share",
+    "summary": ""
+  },
+  {
+    "id": 32003312,
+    "description": "Grants skill target Damage Dealt Up (20%/2 turns).",
+    "name": "Power Share",
+    "summary": ""
+  },
+  {
+    "id": 32003313,
+    "description": "After attacking, reduces skill target's damage dealt by 15% for 2 hits.",
+    "name": "Frigid Ice Throw",
+    "summary": ""
+  },
+  {
+    "id": 32003314,
+    "description": "No additional effects.",
+    "name": "Frosty Freeze It All",
+    "summary": ""
+  },
+  {
+    "id": 32003315,
+    "description": "No additional effects.",
+    "name": "Hell Frost Freeze",
+    "summary": ""
+  },
+  {
+    "id": 32003316,
+    "description": "Reduces skill target's M.ATK by 10% and P.ATK by 10% for 2 hits.",
+    "name": "Strength Restraint",
+    "summary": ""
+  },
+  {
+    "id": 32003317,
+    "description": "Restores skill target's HP by 15% and grants Damage Dealt Up (15%/2 times).",
+    "name": "Life Bestowal",
+    "summary": ""
+  },
+  {
+    "id": 32003319,
+    "description": "No additional effects.",
+    "name": "Wind Throw",
+    "summary": ""
+  },
+  {
+    "id": 32003320,
+    "description": "No additional effects.",
+    "name": "Storm Throw",
+    "summary": ""
+  },
+  {
+    "id": 32003321,
+    "description": "No additional effects.",
+    "name": "Whirlwind",
+    "summary": ""
+  },
+  {
+    "id": 32003322,
+    "description": "Reduces skill target's damage dealt by 20% for 2 hits.",
+    "name": "Strength Restraint",
+    "summary": ""
+  },
+  {
+    "id": 32003323,
+    "description": "Grants self Speed Up (20%/5 times).",
+    "name": "Speed Bestowal",
+    "summary": ""
+  },
+  {
+    "id": 32003324,
+    "description": "Grants skill target Damage Dealt Up (20%/2 times).",
+    "name": "Strength Bestowal",
+    "summary": ""
+  },
+  {
+    "id": 32003325,
+    "description": "After attacking, reduces target's M.ATK by 30% for 2 hits (35% chance) and P.ATK by 30% for 2 hits (35% chance).",
+    "name": "Violent Shake",
+    "summary": ""
+  },
+  {
+    "id": 32003326,
+    "description": "No additional effects.",
+    "name": "Heavy Strike",
+    "summary": ""
+  },
+  {
+    "id": 32003327,
+    "description": "No additional effects.",
+    "name": "Explosive Fist",
+    "summary": ""
+  },
+  {
+    "id": 32003328,
+    "description": "No additional effects.",
+    "name": "Infernal Surge",
+    "summary": ""
+  },
+  {
+    "id": 32003329,
+    "description": "No additional effects.",
+    "name": "Strike Swing",
+    "summary": ""
+  },
+  {
+    "id": 32003330,
+    "description": "Grants self Damage Received Down (30%/3 times).",
+    "name": "Defensive Stance",
+    "summary": ""
+  },
+  {
+    "id": 32003331,
+    "description": "Reduces target's P.ATK by 15% for 3 hits.",
+    "name": "Intimidation",
+    "summary": ""
+  },
+  {
+    "id": 32003333,
+    "description": "After attacking, inflicts Provoke on skill target (30% success rate/2 times).",
+    "name": "Flame Vortex",
+    "summary": ""
+  },
+  {
+    "id": 32003334,
+    "description": "After attacking, reduces skill target's stun damage by 20% for 2 hits.",
+    "name": "Phyla's Fear Needle",
+    "summary": ""
+  },
+  {
+    "id": 32003335,
+    "description": "After attacking, inflicts Paralysis on skill target (20% chance/3 turns).",
+    "name": "Burning Fume",
+    "summary": ""
+  },
+  {
+    "id": 32003336,
+    "description": "No effect.",
+    "name": "Fire Tornado",
+    "summary": ""
+  },
+  {
+    "id": 32003337,
+    "description": "Restores target ally's HP by 15% and grants Magic Reflection (10%/3 turns).",
+    "name": "Magic Reflection",
+    "summary": ""
+  },
+  {
+    "id": 32003338,
+    "description": "Increases skill target's damage received by 30% for 2 turns.",
+    "name": "Curse Smog",
+    "summary": ""
+  },
+  {
+    "id": 32003339,
+    "description": "Restores skill target's HP by 15%.",
+    "name": "Heal Powder",
+    "summary": ""
+  },
+  {
+    "id": 32003340,
+    "description": "Boosts all allies' damage dealt by 20% for 2 turns.",
+    "name": "Energy Powder",
+    "summary": ""
+  },
+  {
+    "id": 32003341,
+    "description": "No effect.",
+    "name": "Tentacle Beat",
+    "summary": ""
+  },
+  {
+    "id": 32003342,
+    "description": "After attacking, reduces skill target's damage dealt by 20% for 2 turns.",
+    "name": "Wild Strike",
+    "summary": ""
+  },
+  {
+    "id": 32003343,
+    "description": "No effect.",
+    "name": "Wind Slice",
+    "summary": ""
+  },
+  {
+    "id": 32003344,
+    "description": "After attacking, enters Cover state for 3 turns.",
+    "name": "Pack Drop",
+    "summary": ""
+  },
+  {
+    "id": 32003345,
+    "description": "When own HP is 50% or below, grants damage dealt up (30%/3 turns) after attacking.\nAfter attacking, reduces own damage received by 30% for 2 turns.",
+    "name": "Iron Throw",
+    "summary": ""
+  },
+  {
+    "id": 32003346,
+    "description": "When own HP is 50% or below, grants damage dealt up (30%/3 turns) after attacking.",
+    "name": "Uni Throw",
+    "summary": ""
+  },
+  {
+    "id": 32003347,
+    "description": "After attacking, reduces all enemies' physical damage dealt by 30% for 2 turns.",
+    "name": "Wind Erosion",
+    "summary": ""
+  },
+  {
+    "id": 32003348,
+    "description": "Grants self Cover for 3 turns.",
+    "name": "Standby",
+    "summary": ""
+  },
+  {
+    "id": 32003349,
+    "description": "After attacking, restores all allies' HP by 15%.",
+    "name": "Hot Bath Heal",
+    "summary": ""
+  },
+  {
+    "id": 32003350,
+    "description": "After attacking, reduces target's damage dealt by 30% for 2 turns.",
+    "name": "Scalding Hot Orb",
+    "summary": ""
+  },
+  {
+    "id": 32003351,
+    "description": "After attacking, reduces all enemies' damage dealt by 20% for 1 turn.",
+    "name": "Scattered Scalding Hot Orb",
+    "summary": ""
+  },
+  {
+    "id": 32003352,
+    "description": "When target's HP is 50% or above, boosts this attack's damage dealt by 40%.",
+    "name": "Spiral Cutter",
+    "summary": ""
+  },
+  {
+    "id": 32003353,
+    "description": "When target's HP is 50% or above, boosts this attack's damage dealt by 40%.",
+    "name": "Steam Slash",
+    "summary": ""
+  },
+  {
+    "id": 32003354,
+    "description": "Restores all allies' HP by 10%, restores stun gauge by 100, and reduces damage received by 50% for 3 turns.",
+    "name": "Support",
+    "summary": ""
+  },
+  {
+    "id": 32003355,
+    "description": "Restores target's HP by 50%. If target's HP is at 100%, inflicts Sleep for 1 turn, increases damage received by 20% for 1 turn, increases damage dealt by 20% for 2 turns, and nullifies HP recovery for 2 turns.",
+    "name": "Drowsy Hot Spring Steam",
+    "summary": ""
+  },
+  {
+    "id": 32003356,
+    "description": "After attacking, increases own damage dealt by 15% for 2 turns.",
+    "name": "Stretchy Wind Ball",
+    "summary": ""
+  },
+  {
+    "id": 32003357,
+    "description": "After attacking, delays enemy skill targets' turns by 1 turn (once).",
+    "name": "Rolling Slash",
+    "summary": ""
+  },
+  {
+    "id": 32003358,
+    "description": "No effect",
+    "name": "Leaf Cutter",
+    "summary": ""
+  },
+  {
+    "id": 32003359,
+    "description": "Restores single ally's HP by 15% and advances their turn by 1.",
+    "name": "Tailwind Heal",
+    "summary": ""
+  },
+  {
+    "id": 32003361,
+    "description": "No effect",
+    "name": "Spike Whirl",
+    "summary": ""
+  },
+  {
+    "id": 32003362,
+    "description": "No effect",
+    "name": "Spike Spit",
+    "summary": ""
+  },
+  {
+    "id": 32003363,
+    "description": "No effect",
+    "name": "Puni Fire",
+    "summary": ""
+  },
+  {
+    "id": 32003364,
+    "description": "After attacking, inflicts 5 stacks of Burn on skill target.",
+    "name": "Puni Flame",
+    "summary": ""
+  },
+  {
+    "id": 32003365,
+    "description": "No effect",
+    "name": "Spike Whirl",
+    "summary": ""
+  },
+  {
+    "id": 32003366,
+    "description": "Reduces target's damage received by 30% for 1 turn.",
+    "name": "Puni Boost",
+    "summary": ""
+  },
+  {
+    "id": 32003367,
+    "description": "Reduces target's damage dealt by 20% for 1 turn.",
+    "name": "Puni Dark",
+    "summary": ""
+  },
+  {
+    "id": 32003368,
+    "description": "No effect",
+    "name": "Roll Around",
+    "summary": ""
+  },
+  {
+    "id": 32003369,
+    "description": "No effect",
+    "name": "Puni Bomber",
+    "summary": ""
+  },
+  {
+    "id": 32003370,
+    "description": "No effect",
+    "name": "Puni Breath",
+    "summary": ""
+  },
+  {
+    "id": 32003371,
+    "description": "Restores own HP by 10%.",
+    "name": "Heal",
+    "summary": ""
+  },
+  {
+    "id": 32003372,
+    "description": "Reduces single enemy's damage dealt by 20% for 1 turn.",
+    "name": "Puni Dark",
+    "summary": ""
+  },
+  {
+    "id": 32003373,
+    "description": "After attacking, reduces all allies' damage received by 25% for 3 turns.",
+    "name": "Fatal Surprise",
+    "summary": ""
+  },
+  {
+    "id": 32003374,
+    "description": "After attacking, increases target's damage received by 20% for 3 turns and reduces SPD by 10% for 3 turns.",
+    "name": "Bitter Choco Rock",
+    "summary": ""
+  },
+  {
+    "id": 32003375,
+    "description": "No effect",
+    "name": "Chocolate Bomb",
+    "summary": ""
+  },
+  {
+    "id": 32003376,
+    "description": "After attacking, boosts own damage dealt by 15% for 3 turns.",
+    "name": "Molten Hot Choco-Magma",
+    "summary": ""
+  },
+  {
+    "id": 32003377,
+    "description": "Grants all allies Regeneration (10%/3 times) and reduces damage received by 20% for 3 turns.",
+    "name": "Sweet Shower",
+    "summary": ""
+  },
+  {
+    "id": 32003378,
+    "description": "After attacking, boosts own damage dealt by 20% and speed by 10% for 1 turn.",
+    "name": "Frenzied Ray",
+    "summary": ""
+  },
+  {
+    "id": 32003379,
+    "description": "After attacking, boosts own damage dealt by 15% for 1 turn.",
+    "name": "Laser Eyes",
+    "summary": ""
+  },
+  {
+    "id": 32003380,
+    "description": "No additional effects.",
+    "name": "Glide",
+    "summary": ""
+  },
+  {
+    "id": 32003381,
+    "description": "After attacking, reduces own damage received by 20% for 1 turn.",
+    "name": "Scatter Ray",
+    "summary": ""
+  },
+  {
+    "id": 32003382,
+    "description": "After attacking, reduces all enemies' damage dealt by 25% for 2 turns, positive effect potency by 25% for 3 turns, and HP recovery by 15% for 3 turns.",
+    "name": "World of Ink and Water",
+    "summary": ""
+  },
+  {
+    "id": 32003383,
+    "description": "No additional effects.",
+    "name": "Club Strike",
+    "summary": ""
+  },
+  {
+    "id": 32003384,
+    "description": "Boosts all allies' damage dealt by 50% for 3 turns and speed by 40% for 2 turns.",
+    "name": "Demon's Roar",
+    "summary": ""
+  },
+  {
+    "id": 32003385,
+    "description": "After attacking, reduces all enemies' damage dealt by 10% for 2 turns.",
+    "name": "Rock Crusher",
+    "summary": ""
+  },
+  {
+    "id": 32003386,
+    "description": "After attacking, inflicts Burn on all enemies with 100% application chance.",
+    "name": "Hellfire Vortex",
+    "summary": ""
+  },
+  {
+    "id": 32003387,
+    "description": "After attacking, boosts own damage dealt by 50% for 1 turn.",
+    "name": "Frigid Wave",
+    "summary": ""
+  },
+  {
+    "id": 32003388,
+    "description": "Inflicts Sleep on target (20% application chance/1 time).",
+    "name": "Sleepy Breath",
+    "summary": ""
+  },
+  {
+    "id": 32003389,
+    "description": "Randomly grants target either P.ATK Down (50% application chance/20%/2 times) or M.ATK Down (50% application chance/20%/2 times) 3 times.",
+    "name": "Stomp",
+    "summary": ""
+  },
+  {
+    "id": 32003390,
+    "description": "No additional effects.",
+    "name": "Hail",
+    "summary": ""
+  },
+  {
+    "id": 32003391,
+    "description": "No additional effects.",
+    "name": "Earth-Shaking Tremor",
+    "summary": ""
+  },
+  {
+    "id": 32003392,
+    "description": "Advances own turn by 1, then randomly grants either Stun Damage Received Down (15%/2 times) or Damage Received Down (15%/2 times) 5 times.",
+    "name": "Pseudo Wing Spread",
+    "summary": ""
+  },
+  {
+    "id": 32003393,
+    "description": "Randomly grants target either P.ATK Down (50% application chance/15%/2 times) or M.ATK Down (50% application chance/15%/2 times) 5 times.",
+    "name": "Red Explosion Sow",
+    "summary": ""
+  },
+  {
+    "id": 32003394,
+    "description": "",
+    "name": "Fatal Bite",
+    "summary": ""
+  },
+  {
+    "id": 32003395,
+    "description": "",
+    "name": "Bite",
+    "summary": ""
+  },
+  {
+    "id": 32003396,
+    "description": "No additional effects.",
+    "name": "Club Howl",
+    "summary": ""
+  },
+  {
+    "id": 32003397,
+    "description": "No additional effects.",
+    "name": "Bolt Shot",
+    "summary": ""
+  },
+  {
+    "id": 32003398,
+    "description": "No additional effects.",
+    "name": "Thunder Shout",
+    "summary": ""
+  },
+  {
+    "id": 32003399,
+    "description": "",
+    "name": "Distant Howl",
+    "summary": ""
+  },
+  {
+    "id": 32003400,
+    "description": "After attacking, delays skill target's turn by 3 turns.",
+    "name": "Tackle",
+    "summary": ""
+  },
+  {
+    "id": 32003401,
+    "description": "No additional effects.",
+    "name": "Rush",
+    "summary": ""
+  },
+  {
+    "id": 32003402,
+    "description": "After attacking, reduces skill target's damage dealt by 20% for 3 attacks.",
+    "name": "Slash Meteor",
+    "summary": ""
+  },
+  {
+    "id": 32003403,
+    "description": "No additional effects.",
+    "name": "Thunder Slash",
+    "summary": ""
+  },
+  {
+    "id": 32003404,
+    "description": "Reduces skill target's damage received by 30% for 2 attacks.",
+    "name": "Cheer Up",
+    "summary": ""
+  },
+  {
+    "id": 32003405,
+    "description": "After attacking, inflicts Provoke on skill target (30% chance/2 attacks).",
+    "name": "Explosive Vortex",
+    "summary": ""
+  },
+  {
+    "id": 32003406,
+    "description": "After attacking, reduces skill target's stun damage by 20% for 2 attacks.",
+    "name": "Phylas Fear Needle",
+    "summary": ""
+  },
+  {
+    "id": 32003407,
+    "description": "After attacking, inflicts Paralysis on skill target (20% chance/3 attacks).",
+    "name": "Burning Fume",
+    "summary": ""
+  },
+  {
+    "id": 32003408,
+    "description": "No additional effects.",
+    "name": "Fire Tornado",
+    "summary": ""
+  },
+  {
+    "id": 32003409,
+    "description": "Restores ally target's HP by 15% and grants Magic Reflection (10%/3 attacks).",
+    "name": "Magic Reflection",
+    "summary": ""
+  },
+  {
+    "id": 32003410,
+    "description": "Increases skill target's damage received by 15% for 2 attacks.",
+    "name": "Curse Smog",
+    "summary": ""
+  },
+  {
+    "id": 32003411,
+    "description": "After attacking, restores all allies' HP by 15%.",
+    "name": "Hot Spring Heal",
+    "summary": ""
+  },
+  {
+    "id": 32003412,
+    "description": "After attacking, reduces target's damage dealt by 30% for 2 attacks.",
+    "name": "Scalding Hot Water Orb",
+    "summary": ""
+  },
+  {
+    "id": 32003413,
+    "description": "After attacking, reduces all enemies' damage dealt by 20% for 1 attack.",
+    "name": "Scattered Scalding Hot Water Orbs",
+    "summary": ""
+  },
+  {
+    "id": 32003414,
+    "description": "Boosts this attack's damage by 100% when target's HP is 50% or higher.",
+    "name": "Spinning Cutter",
+    "summary": ""
+  },
+  {
+    "id": 32003415,
+    "description": "Boosts this attack's damage by 100% when target's HP is 50% or higher.",
+    "name": "Hot Water Slash",
+    "summary": ""
+  },
+  {
+    "id": 32003416,
+    "description": "Restores all allies' HP by 10%, restores stun gauge by 100, and reduces damage received by 50% for 3 turns.",
+    "name": "Support",
+    "summary": ""
+  },
+  {
+    "id": 32003417,
+    "description": "Restores target's HP by 50%. If target's HP is at 100%, applies Sleep for 1 turn, increases damage received by 20% for 1 turn, increases damage dealt by 20% for 2 turns, and nullifies HP recovery for 2 turns.",
+    "name": "Drowsy Hot Spring",
+    "summary": ""
+  },
+  {
+    "id": 32003418,
+    "description": "After attacking, enters Cover state for 3 turns.",
+    "name": "Drop Heavy Load",
+    "summary": ""
+  },
+  {
+    "id": 32003419,
+    "description": "When own HP is 50% or below, boosts damage dealt by 20% for 3 turns after attacking.\nAfter attacking, reduces own damage received by 30% for 2 turns.",
+    "name": "Iron Chunk Throw",
+    "summary": ""
+  },
+  {
+    "id": 32003420,
+    "description": "When own HP is 50% or below, boosts damage dealt by 20% for 3 turns after attacking.",
+    "name": "Uni Throw",
+    "summary": ""
+  },
+  {
+    "id": 32003421,
+    "description": "After attacking, reduces all enemies' physical attack damage dealt by 30% for 2 turns.",
+    "name": "Boulder Drop",
+    "summary": ""
+  },
+  {
+    "id": 32003422,
+    "description": "Grants Cover for 3 turns to self.",
+    "name": "Stand By",
+    "summary": ""
   }
 ]

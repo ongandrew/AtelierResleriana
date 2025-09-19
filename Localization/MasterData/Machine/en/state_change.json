@@ -3088,5 +3088,85 @@
     "id": 910192,
     "description": "Boosts critical damage by {value}% when attack target is stunned.",
     "name": "Critical Damage Up vs. Stunned"
+  },
+  {
+    "id": 510217,
+    "description": "Boosts P.DEF by {value}%.",
+    "name": "P.DEF Up"
+  },
+  {
+    "id": 510218,
+    "description": "Boosts M.DEF by {value}%.",
+    "name": "M.DEF Up"
+  },
+  {
+    "id": 510219,
+    "description": "Boosts P.DEF by {value}%.",
+    "name": "P.DEF Up"
+  },
+  {
+    "id": 510220,
+    "description": "Boosts M.DEF by {value}%.",
+    "name": "M.DEF Up"
+  },
+  {
+    "id": 510221,
+    "description": "Boosts P.DEF by {value}%.",
+    "name": "P.DEF Up"
+  },
+  {
+    "id": 510222,
+    "description": "Boosts M.DEF by {value}%.",
+    "name": "M.DEF Up"
+  },
+  {
+    "id": 510223,
+    "description": "Dummy buff for evaluation purposes.",
+    "name": "Evaluation Dummy Buff"
+  },
+  {
+    "id": 510224,
+    "description": "Dummy buff for evaluation purposes.",
+    "name": "Evaluation Dummy Buff"
+  },
+  {
+    "id": 510225,
+    "description": "Dummy buff for evaluation purposes.",
+    "name": "Evaluation Dummy Buff"
+  },
+  {
+    "id": 610336,
+    "description": "Boosts max HP by {value}%. (MAX 20%)",
+    "name": "Max HP Up"
+  },
+  {
+    "id": 610337,
+    "description": "Reduces damage received by {value}%. (MAX 2 stacks)",
+    "name": "Received Damage Down"
+  },
+  {
+    "id": 610338,
+    "description": "Reduces damage received by {value}%. (MAX 2 stacks)",
+    "name": "Received Damage Down"
+  },
+  {
+    "id": 610339,
+    "description": "Boosts max HP by {value}%. (MAX 40%)",
+    "name": "Max HP Up"
+  },
+  {
+    "id": 800173,
+    "description": "Boosts physical attack damage by {value}%. (MAX 2 stacks)",
+    "name": "Physical Attack Damage Up"
+  },
+  {
+    "id": 910193,
+    "description": "Reduces damage received by {value}%. (Unaffected by positive effect potency changes)",
+    "name": "Received Damage Down"
+  },
+  {
+    "id": 910194,
+    "description": "Boosts damage received from Strike attacks by {value}%. (MAX 2 stacks)",
+    "name": "Strike Resistance Down"
   }
 ]

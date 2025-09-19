@@ -53,5 +53,170 @@
         }
       }
     }
+  },
+  {
+    "id": 1944716790,
+    "properties": {
+      "999008199": {
+        "text": "軽量",
+        "localizations": {
+          "en": "Light"
+        }
+      }
+    }
+  },
+  {
+    "id": 16686388,
+    "properties": {
+      "999008199": {
+        "text": "バトル設定",
+        "localizations": {
+          "en": "Battle Settings"
+        }
+      }
+    }
+  },
+  {
+    "id": 778723408,
+    "properties": {
+      "999008199": {
+        "text": "演出設定",
+        "localizations": {
+          "en": "Effect Settings"
+        }
+      }
+    }
+  },
+  {
+    "id": 569581728,
+    "properties": {
+      "999008199": {
+        "text": "ログインボーナス演出スキップ",
+        "localizations": {
+          "en": "Skip Login Bonus Effects"
+        }
+      }
+    }
+  },
+  {
+    "id": 830321149,
+    "properties": {
+      "999008199": {
+        "text": "メインストーリー遷移演出スキップ",
+        "localizations": {
+          "en": "Skip Main Story Transition Effects"
+        }
+      }
+    }
+  },
+  {
+    "id": 648307939,
+    "properties": {
+      "999008199": {
+        "text": "レシピ発想演出スキップ",
+        "localizations": {
+          "en": "Skip Recipe Inspiration Effects"
+        }
+      }
+    }
+  },
+  {
+    "id": 544795963,
+    "properties": {
+      "999008199": {
+        "text": "アトリエ内演出スキップ",
+        "localizations": {
+          "en": "Skip Atelier Effects"
+        }
+      }
+    }
+  },
+  {
+    "id": 1657648175,
+    "properties": {
+      "999008199": {
+        "text": "※ONにするとアトリエ内のカメラ遷移などの演出が簡易化します。",
+        "localizations": {
+          "en": "*When enabled, effects such as camera transitions in the atelier will be simplified."
+        }
+      }
+    }
+  },
+  {
+    "id": 1467440777,
+    "properties": {
+      "999008199": {
+        "text": "カフェ内演出スキップ",
+        "localizations": {
+          "en": "Skip Cafe Effects"
+        }
+      }
+    }
+  },
+  {
+    "id": 1815062051,
+    "properties": {
+      "999008199": {
+        "text": "※ONにするとカフェ内のカメラ遷移などの演出が簡易化します。",
+        "localizations": {
+          "en": "*When enabled, effects such as camera transitions in the cafe will be simplified."
+        }
+      }
+    }
+  },
+  {
+    "id": 1975162658,
+    "properties": {
+      "999008199": {
+        "text": "※ONにすると調合時の演出が簡易化します。",
+        "localizations": {
+          "en": "*When enabled, synthesis effects will be simplified."
+        }
+      }
+    }
+  },
+  {
+    "id": 152322593,
+    "properties": {
+      "999008199": {
+        "text": "ウェイト可視化",
+        "localizations": {
+          "en": "Display WT"
+        }
+      }
+    }
+  },
+  {
+    "id": 656921740,
+    "properties": {
+      "999008199": {
+        "text": "※ONにするとバトル中にキャラ・エネミーの行動値(ウェイト)が表示されます。",
+        "localizations": {
+          "en": "*When enabled, character and enemy action values (WT) will be displayed during battle."
+        }
+      }
+    }
+  },
+  {
+    "id": 722675225,
+    "properties": {
+      "999008199": {
+        "text": "※ONにするとメインストーリー遷移時の一部演出をスキップします。",
+        "localizations": {
+          "en": "*When enabled, some effects during main story transitions will be skipped."
+        }
+      }
+    }
+  },
+  {
+    "id": 1653787768,
+    "properties": {
+      "999008199": {
+        "text": "※ONにするとレシピ発想時の演出を簡易化します。",
+        "localizations": {
+          "en": "*When enabled, recipe inspiration effects will be simplified."
+        }
+      }
+    }
   }
 ]

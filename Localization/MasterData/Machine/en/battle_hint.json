@@ -1918,5 +1918,113 @@
   {
     "id": 60153036,
     "description": "- When allies are KO'd, grants self Guaranteed Critical\n- When stunned, removes own positive effects\n- Nullifies resistance reduction for all elements except Bolt and Strike"
+  },
+  {
+    "id": 60001138,
+    "description": "- Heals allies\n- Nullifies resistance reduction for all elements except Fire and Strike"
+  },
+  {
+    "id": 60004149,
+    "description": "- Delays turn\n- Nullifies resistance reduction for all elements except Strike"
+  },
+  {
+    "id": 60019132,
+    "description": "- Heals allies\n- Nullifies resistance reduction for all elements except Air and Strike"
+  },
+  {
+    "id": 60026137,
+    "description": "- When KO'd, boosts all allies' damage dealt and damage received\n- Inflicts Burn\n- Reduces allies' damage received\n- Reduces opponents' damage dealt\n- Nullifies resistance reduction for all elements except Fire and Strike"
+  },
+  {
+    "id": 60030106,
+    "description": "No tips available."
+  },
+  {
+    "id": 60030131,
+    "description": "- Nullifies resistance reduction for all elements except Air and Strike"
+  },
+  {
+    "id": 60052004,
+    "description": "- Inflicts Poison\n- Grants Regen\n- Inflicts Nullify HP Recovery on all opponents\n- Boosts own panel effect potency received"
+  },
+  {
+    "id": 60070101,
+    "description": "- When stunned, boosts damage received\n- Heals self after acting\n- Heals allies"
+  },
+  {
+    "id": 60070126,
+    "description": "- When stunned, boosts damage received\n- Heals self after acting\n- Heals allies\n- Nullifies resistance reduction for all elements except Ice and Strike"
+  },
+  {
+    "id": 60076102,
+    "description": "- When stunned, removes positive effects\n- When stunned, reduces own SPD"
+  },
+  {
+    "id": 60076127,
+    "description": "- When stunned, removes positive effects\n- When stunned, reduces own SPD\n- Nullifies resistance reduction for all elements except Ice and Strike"
+  },
+  {
+    "id": 60079125,
+    "description": "- Boosts damage dealt against opponents with status effects\n- Boosts damage dealt against opponents with negative effects\n- Heals allies\n- Inflicts Poison\n- Nullifies resistance reduction for all elements except Ice and Strike"
+  },
+  {
+    "id": 60093103,
+    "description": "- Has a chance to inflict Taunt\n- Has a chance to inflict Paralysis\n- Heals self"
+  },
+  {
+    "id": 60093128,
+    "description": "- Has a chance to inflict Taunt\n- Has a chance to inflict Paralysis\n- Heals self\n- Nullifies resistance reduction for all elements except Slash and Strike"
+  },
+  {
+    "id": 60096122,
+    "description": "- Receives increased damage from Burst Skills\n- Reduces stun damage received each time stunned\n- When hit by an attack while stun gauge is at max, creates burst panels\n- Has a chance to inflict Sleep\n- Advances own turn"
+  },
+  {
+    "id": 60096147,
+    "description": "- Receives increased damage from Burst Skills\n- Reduces stun damage received each time stunned\n- When hit by an attack while stun gauge is at max, creates burst panels\n- Has a chance to inflict Sleep\n- Advances own turn\n- Nullifies resistance reduction for all elements except Strike"
+  },
+  {
+    "id": 60097136,
+    "description": "- When KO'd, reduces all opponents' damage dealt\n- When KO'd, boosts all opponents' damage received\n- Delays turn\n- Heals allies\n- Nullifies resistance reduction for all elements except Fire and Strike"
+  },
+  {
+    "id": 60101108,
+    "description": "- Protection\n- When hit by a physical attack, reduces attacker's damage dealt\n- When HP reaches a certain level, boosts own damage dealt and reduces own damage received"
+  },
+  {
+    "id": 60101133,
+    "description": "- Protection\n- When hit by a physical attack, reduces attacker's damage dealt\n- When HP reaches a certain level, boosts own damage dealt and reduces own damage received\n- Nullifies resistance reduction for all elements except Air and Strike"
+  },
+  {
+    "id": 60139109,
+    "description": "- After being stunned, grants multiple positive effects to self\n- Restores own HP\n- Restores all enemies' HP\n- When enemy HP is at 100%, inflicts multiple negative effects\n- When enemy HP is 50% or higher, performs attacks with increased damage dealt"
+  },
+  {
+    "id": 60139134,
+    "description": "- After being stunned, grants multiple positive effects to self\n- Restores own HP\n- Restores all enemies' HP\n- When enemy HP is at 100%, inflicts multiple negative effects\n- Nullifies resistance reduction for all elements except Stab and Strike"
+  },
+  {
+    "id": 60165148,
+    "description": "- Nullifies resistance reduction for all elements except Strike"
+  },
+  {
+    "id": 60216139,
+    "description": "- When hit by a Burst skill, reduces own damage dealt (up to 100%)\n- Grants Regen to all allies\n- Nullifies resistance reduction for all elements except Bolt and Strike"
+  },
+  {
+    "id": 60226003,
+    "description": "- When HP reaches a certain level, advances own turn and changes moveset\n- Boosts damage dealt based on the number of SPD Up effects on self\n- Grants self SPD Up and Evasion (up to 30%)\n- Reduces negative effect potency received\n- When stunned, removes 3 SPD Up effects from self\n- Nullifies resistance reduction for all elements except Bolt and Strike"
+  },
+  {
+    "id": 60226004,
+    "description": "- When HP reaches a certain level, advances own turn and changes moveset\n- Boosts damage dealt based on the number of SPD Up effects on self\n- Grants self SPD Up and Evasion (up to 30%)\n- Reduces negative effect potency received\n- When stunned, removes 3 SPD Up effects from self"
+  },
+  {
+    "id": 60254001,
+    "description": "- After receiving attacks a certain number of times, boosts own critical rate received (up to 50%)\n- Converts all opponents' boost panels to weaken panels and weaken panels to boost panels\n- Converts own panels to critical panels\n- When HP reaches a certain level, creates burst panels on own turn\n- Performs attacks that ignore targeting priority\n- Nullifies resistance reduction for all elements except Bolt and Strike"
+  },
+  {
+    "id": 60254002,
+    "description": "- After receiving attacks a certain number of times, boosts own critical rate received (up to 50%)\n- Converts all opponents' boost panels to weaken panels and weaken panels to boost panels\n- Converts own panels to critical panels\n- When HP reaches a certain level, creates burst panels on own turn\n- Performs attacks that ignore targeting priority"
   }
 ]

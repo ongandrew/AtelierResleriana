@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "name": "Skill Damage Up",
+    "value_display_style": "{value}%"
+  },
+  {
+    "id": 2,
+    "name": "Skill Damage Down",
+    "value_display_style": "{value}%"
+  },
+  {
+    "id": 3,
+    "name": "Stun Damage Boost",
+    "value_display_style": "{value}%"
+  },
+  {
+    "id": 4,
+    "name": "Skill Power Up",
+    "value_display_style": "{value}%"
+  },
+  {
+    "id": 5,
+    "name": "Skill Power Down",
+    "value_display_style": "{value}%"
+  },
+  {
+    "id": 6,
+    "name": "Critical Rate Boost",
+    "value_display_style": "{value}%"
+  },
+  {
+    "id": 7,
+    "name": "Critical Damage Boost",
+    "value_display_style": "{value}%"
+  },
+  {
+    "id": 8,
+    "name": "P.ATK Boost",
+    "value_display_style": "{value}%"
+  },
+  {
+    "id": 9,
+    "name": "M.ATK Boost",
+    "value_display_style": "{value}%"
+  },
+  {
+    "id": 10,
+    "name": "Penetration",
+    "value_display_style": "{value}"
+  },
+  {
+    "id": 11,
+    "name": "Skill Damage Received Up",
+    "value_display_style": "{value}%"
+  },
+  {
+    "id": 12,
+    "name": "Skill Damage Received Down",
+    "value_display_style": "{value}%"
+  },
+  {
+    "id": 13,
+    "name": "Stun Damage Received Boost",
+    "value_display_style": "{value}%"
+  },
+  {
+    "id": 14,
+    "name": "Incoming Skill Power Up",
+    "value_display_style": "{value}%"
+  },
+  {
+    "id": 15,
+    "name": "Incoming Skill Power Down",
+    "value_display_style": "{value}%"
+  },
+  {
+    "id": 16,
+    "name": "Incoming Critical Rate Boost",
+    "value_display_style": "{value}%"
+  },
+  {
+    "id": 17,
+    "name": "Critical Damage Received Boost",
+    "value_display_style": "{value}%"
+  },
+  {
+    "id": 18,
+    "name": "Defense Boost",
+    "value_display_style": "{value}%"
+  },
+  {
+    "id": 19,
+    "name": "Incoming Penetration",
+    "value_display_style": "{value}"
+  },
+  {
+    "id": 20,
+    "name": "Fire Resistance Boost",
+    "value_display_style": "{value}%"
+  },
+  {
+    "id": 21,
+    "name": "Ice Resistance Adjustment",
+    "value_display_style": "{value}%"
+  },
+  {
+    "id": 22,
+    "name": "Bolt Resistance Adjustment",
+    "value_display_style": "{value}%"
+  },
+  {
+    "id": 23,
+    "name": "Air Resistance Adjustment",
+    "value_display_style": "{value}%"
+  },
+  {
+    "id": 24,
+    "name": "Slash Resistance Adjustment",
+    "value_display_style": "{value}%"
+  },
+  {
+    "id": 25,
+    "name": "Strike Resistance Adjustment",
+    "value_display_style": "{value}%"
+  },
+  {
+    "id": 26,
+    "name": "Stab Resistance Adjustment",
+    "value_display_style": "{value}%"
+  }
+]

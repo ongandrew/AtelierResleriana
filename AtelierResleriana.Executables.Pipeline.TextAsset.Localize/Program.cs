@@ -153,7 +153,7 @@ namespace AtelierResleriana.Executables.Pipeline.TextAsset.Localize
                         {
                             foreach (string locale in locales)
                             {
-                                if (!propertyPair.Value.Localizations.ContainsKey(locale))
+                                if (!propertyPair.Value.Localizations.ContainsKey(locale) || propertyPair.Value.Localizations[locale] == null)
                                 {
                                     entryNeedsLocalization = true;
                                     break;
@@ -185,7 +185,7 @@ namespace AtelierResleriana.Executables.Pipeline.TextAsset.Localize
                 new EnglishLocalizer(
                     new AnthropicTextGenerator(new AnthropicClient(configuration["Anthropic:ApiKey"]), new AnthropicTextGenerator.Options() 
                     {
-                        Model = Models.Claude37Sonnet
+                        Model = Models.ClaudeSonnet4
                     }),
                     new AnthropicTextTransformer(new AnthropicClient(configuration["Anthropic:ApiKey"]), new AnthropicTextTransformer.Options() 
                     {
@@ -216,12 +216,12 @@ namespace AtelierResleriana.Executables.Pipeline.TextAsset.Localize
                             {
                                 PropertyNamingPolicy = JsonNamingPolicy.CamelCase
                             });
+
                         GeneralText[] generalTexts = packedTextEntryLocalizations
                             .Select(x => new GeneralText()
                             {
                                 Text = x.Properties[PropertyIds.Text].Text
                             }).ToArray();
-
 
                         GeneralText[] localizedGeneralTexts = (await localizer.LocalizeAsync(generalTexts)).ToArray();
 

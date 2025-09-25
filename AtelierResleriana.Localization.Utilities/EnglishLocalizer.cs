@@ -86,7 +86,7 @@ namespace AtelierResleriana.Localization.Utilities
         - シトリン (シトリン) → Citrine (Citrine) - Self-proclaimed handyperson who investigates Nova's water shortage while seeking profit - Citrine's gender is ambiguous
         - ヤンネ・リンデマン (ヤンネ) → Janne Lindemann (Janne) - Veteran Sacred Knight of Nova who acts as a mentor figure to Bepp
         - レア → Leah Lindemann (Leah) - Daughter of Janne
-        - イェルカ → Jelka (Jelka) - An adventurer based in the sacred lands of Nova and an old acquaintance of August
+        - イェルカ → Jelka (Jelka) - An adventurer based in the sacred lands of Nova and an old acquaintance of August. Third of the Miraculous Nine (originally named San).
         - ユミア → Yumia Liessfeldt (Yumia) - Due to an accident in her childhood, she lost her mother and learned that she was an alchemist.
         - ルトガー → Rutger Arendt (Rutger) - A member of the Aladiss Research Team and a seasoned adventurer who loves valuable items.
         - ヴィクトル → Viktor von Duerer (Viktor) - A member of the Aladiss Research Team, he joined the investigation as Yumia’s supervisor. He comes from the influential Duerer family and is also a member of the Order of Eustella.
@@ -94,12 +94,21 @@ namespace AtelierResleriana.Localization.Utilities
         - レイニャ → Lenja (Lenja) - The only Welleks demihuman in the investigation team. She possesses high physical abilities and mana aptitude.
         - ニーナ → Nina Friede (Nina) - A member of the Aladiss Research Team with a mysterious aura.
         - フラミィ → Flammi (Flammi) - A self-proclaimed “super-high-spec independent survey-assistance device” that Yumia carries around.
-        - ヤドヴィガ → Jadwiga (Jadwiga) - A homunculus created by the Palme.
-        - キューン → Quinn (Quinn) - A homunculus created by the Palme.
+        - ヤドヴィガ → Jadwiga (Jadwiga) - A homunculus created by the Palme. Part of the Miraculous Nine.
+        - キューン → Quinn (Quinn) - A homunculus created by the Palme. Part of the Miraculous Nine.
         - 此岸永遠 → Towa Shigan (Towa) - A well-known diviner within Keiun who takes great care of his appearance.
         - 鬼門 → Kimon (Kimon) - A female ninja serving a lord within Keiun. Uses various techniques called ninjutsu.
         - 波照間千歳 → Chitose Hateruma (Chitose) - A shrine maiden serving the Doumen family. Though she appears quiet and fragile, she possesses an inner strength.
         - 堂免鏑矢 → Kaburaya Doumen (Kaburaya) - The young lady of the Doumen family, who governs southern Keiun. A master swordsman with countless tales of valor from his youth.
+        - リアス・アイトライゼ (リアス) → Rias Eidreise (Rias) - Friendly and energetic adventurer who discovers her talent for alchemy, the first beastkin protagonist in the Atelier series
+        - スレイ・クロスリッター (スレイ) → Slade Clauslyter (Slade) - Young man with a mysterious device that opens entrances to otherworldly spaces called Dimensional Paths
+        - カミラ・アイトライゼ (カミラ) → Camilla Eidreise (Camilla) - Rias's adoptive older sister and the field supervisor of the Hallfein reconstruction project
+        - ランドルフ・レングナー (ランドルフ) → Randolph Lengner (Randolph) - Traveling merchant who has known Rias since childhood, called "Uncle" by her due to their long relationship
+        - ハイター・ケルステン (ハイター) → Heiter Kersten (Heiter) - [Additional character from the console game]
+        - エル・ベル (エル) → El Bell (El) - Young archaeologist who is self-aware of being a genius
+        - ルクル → Ruku - One of the fairy trio encountered in Dimensional Paths, each with their own personality
+        - ポック → Poku - One of the fairy trio encountered in Dimensional Paths, each with their own personality  
+        - ボネボネ → Bonbon - One of the fairy trio encountered in Dimensional Paths, each with their own personality
         """;
 
         private static Dictionary<string, string> SpeakerNotes = new Dictionary<string, string>
@@ -164,7 +173,7 @@ namespace AtelierResleriana.Localization.Utilities
             { "オルペウス", "Orpheus is the crown prince of Lantarna and Roman/Richard's older brother. Commands respect and authority, with citizens immediately responding to his orders. Shows diplomatic skills by mediating conflicts and demonstrates fairness by acknowledging different perspectives. He speaks with a calm, measured tone that diffuses tensions. Orpheus values justice and fairness, serving as a balanced mediator in conflicts, particularly regarding the role of alchemy in the kingdom." },
             { "アルビーナ", "Alvina is a Star Guide who secretly studies alchemy under August (師匠 - she uses Master, Master August, or just August depending on context). She speaks professionally and cheerfully to tourists while maintaining her official Guide duties, but shows more enthusiasm discussing alchemy. As a Guide, she uses formal religious terminology naturally when discussing sacred sites, but has a more casual, energetic personality in private. She is deeply protective of her adopted sister Bepp and takes great pride in Bepp's accomplishments as a Sacred Knight, often expressing warm affection mixed with slight worry about Bepp's serious nature. Despite being the elder sister, she sometimes acts more carefree than Bepp, creating an interesting dynamic where they balance each other out. People close to her refer to her as Alvie on occasion (アルビちゃん)." },
             { "ヤンネ", "Janne is one of the most skilled Sacred Knights of Nova. She grew up as a sisterly figure to Alvina and mentors Bepp as a Sacred Knight." },
-            { "イェルカ", "Jelka is an adventurer based in the sacred lands. A stylish free spirit who lives by their own sense of chic. She used to be called San as part of the homunculus group created by the Palme." },
+            { "イェルカ", "Jelka is an adventurer based in the sacred lands. A stylish free spirit who lives by their own sense of chic. She used to be called San as part of the homunculus group (now known as the Miraculous Nine) created by the Palme." },
             { "シトリン", "Citrine is a self-proclaimed handyperson (なんでも屋) who operates in Nova, speaking with a casual but businesslike tone. Citrine's gender has not been clearly revealed, although the character model is feminine and the voice actress is female - so avoid pronouns but use the female set if absolutely unavoidable. She has sharp perceptive abilities and a somewhat antagonistic relationship with Alvina, often engaging in verbal sparring matches. Despite his mercenary outlook, hints of deeper motivations show through his pursuit of Nova's water shortage investigation. She openly admits to taking any job that might turn a profit, justifying it through his divine calling as a 'handyperson'. Her speech pattern features confident declarations and a tendency to tease others, particularly Alvina, while maintaining a shrewd business sense. Has a casual but self-assured personality." },
             { "ベップ", "Bepp is a young female Sacred Knight from the sacred lands of Nova. Her speech is direct and matter-of-fact, often featuring formal military/religious terminology. She's dutiful but shows kindness, particularly to those she respects. While maintaining her serious role as a protector, she occasionally displays straightforward generosity that reveals her more personable side. She deeply respects and cares for her adopted sister Alvina, often showing concern for Alvina's safety and well-being. Though younger, Bepp tends to be the more serious and protective of the pair, sometimes gently scolding Alvina's more carefree behavior while still maintaining deep affection and respect for her sister. She frequently addresses Alvina formally (姉様), which should be skipped in the English localization where possible or replaced with 'Alvina' - the sense of admiration and respect should come through word choices and dialogue. Takes on a protective yet respectful role despite being younger. Often gently scolds or supports Alvina while maintaining deep familial respect." },
             { "アウグスト", "August speaks with the authority and detachment of someone observing history unfold and is a member of the Palme together with Saskia. He is also Alvina's alchemy mentor. His tone is philosophical and judgmental, particularly regarding faith and worship. He advocates for star worship exclusively and views other faiths with disdain. His speech has a formal, almost archaic quality, delivering pronouncements rather than engaging in conversation - but is more casual when serving in the role of Alvina's mentor." },
@@ -175,6 +184,17 @@ namespace AtelierResleriana.Localization.Utilities
             { "永遠", "Towa - A well-known diviner within Keiun who takes great care of his appearance." },
             { "千歳", "Chitose - A shrine maiden serving the Doumen family. Though she appears quiet and fragile, she possesses an inner strength." },
             { "鏑矢", "Kaburaya - The young lady of the Doumen family, who governs southern Keiun. A master swordsman with countless tales of valor from his youth." },
+            { "リアス", "Rias is a friendly and energetic adventurer who discovers her talent for alchemy. She's the first beastkin protagonist in the Atelier series, with a cheerful and outgoing personality. She returns to her hometown to reopen her grandfather's shop and investigate a mysterious disaster." },
+            { "スレイ", "Slade is a young man who possesses a mysterious device called a Geist Core that allows him to open entrances to otherworldly spaces. He teams up with Rias to uncover the truth behind the disaster that befell their shared hometown. He speaks with determination and purpose." },
+            { "カミラ", "Camilla is Rias's adoptive older sister and serves as the field supervisor of the Halfen reconstruction project. She has a caring, sisterly personality but can be overprotective of Rias. Originally worked in the royal capital before volunteering for the investigation of Rias's hometown." },
+            { "ランドルフ", "Randolph is a traveling merchant who has known Rias since childhood. He's called 'Uncle' by Rias due to their long relationship. He has a strong sense of duty and loyalty, feeling indebted to Rias's grandfather. He speaks with the wisdom and experience of someone who has traveled extensively." },
+            { "ハイター", "Hayter is a character from the console game who appears to be connected to the story's progression." },
+            { "エル", "El is a young archaeologist who is self-aware of being a genius. She likely speaks with confidence and intellectual authority befitting someone who recognizes their own exceptional abilities." },
+            { "ルクル", "Ruku is one of the fairy trio encountered in Dimensional Paths. Each fairy has their own distinct personality. They help Rias and Slade as thanks for being taken out of the dimensional paths. The fairies have a somewhat defiant attitude, as shown by their quote about not being confused with 'snotty-nosed brats.'" },
+            { "ポック", "Poku is one of the fairy trio encountered in Dimensional Paths. Each fairy has their own distinct personality. They help Rias and Slade as thanks for being taken out of the dimensional paths. The fairies have a somewhat defiant attitude, as shown by their quote about not being confused with 'snotty-nosed brats.'" },
+            { "ボネボネ", "Bonbon is one of the fairy trio encountered in Dimensional Paths. Each fairy has their own distinct personality. They help Rias and Slade as thanks for being taken out of the dimensional paths. The fairies have a somewhat defiant attitude, as shown by their quote about not being confused with 'snotty-nosed brats.'" },
+            { "リーベ", "Liebe seems to be working with the Palme, alongside Gou. One of the Miraculous Nine. Speaks rather formally." },
+            { "ゴゥ", "Gou seems to be working with the Palme, and addresses Saskia as Mother. One of the Miraculous Nine. Protective of Valeria." },
             // System and narrative elements
             { "？？？", "Unknown speaker - maintain mysterious tone appropriate to context." },
             { "ナレーション", "Narrator speaks in a clear, neutral tone providing context or background information." },
@@ -186,11 +206,7 @@ namespace AtelierResleriana.Localization.Utilities
             { "冒険者", "Adventurer speaks with confidence and experience, using terms familiar to those who travel and explore." },
             { "騎士", "Knight speaks formally and with honor, using respectful language and sometimes archaic terms." },
             { "商人", "Merchant speaks in a persuasive, business-minded way, often focusing on value and quality." },
-            { "住民", "Resident speaks casually about local matters, showing familiarity with their surroundings." },
-
-            // Unofficial localizations as they appear after the official localization has ended - to be reviewed.
-            { "リーベ", "Liebe seems to be working with the Palma, alongside Gou." },
-            { "ゴゥ", "Gou seems to be working with the Palme, and addresses Saskia as Mother." }
+            { "住民", "Resident speaks casually about local matters, showing familiarity with their surroundings." }
         };
 
         private static Dictionary<string, string> WorldContext = new Dictionary<string, string>()
@@ -217,6 +233,11 @@ namespace AtelierResleriana.Localization.Utilities
             { "星の繭", "Star's Cocoon - a cafe where Ryza, Rorona, and Iksel work. It also handles the posting of requests." },            
             { "九偉人", "Miraculous Nine - Also known simply as the Nine. A group of nine homunculi created by the Palme, known in common legends for the effort in saving the world from the Red Comet, then slumbering at World's End." },
             { "白きほうき星", "White Comet - A yet unknown object which turned Red ages ago and brought forth calamity." },
+            { "ハルフェン", "Hallfein - A town that once existed at the border of three provinces and prospered through mining and trade. It was struck by a mysterious disaster that caused most residents to disappear, turning it into a restricted area. This is the shared hometown of Rias and Slade." },
+            { "亜空の道", "Dimensional Paths - Multi-level dungeons where the map and monsters change with each visit, and rarer ingredients can be obtained as the difficulty level increases." },
+            { "妖精", "Fairies - Fairy beings that can be encountered in Dimensional Paths. They provide useful items and can be recruited to work at the shop. Up to three fairies can cooperate during synthesis to create items with more powerful effects. The main fairy trio are Ruku, Poku, and Bonbon." },
+            { "妖精さん", "Fairies - Collective term for the fairy beings. There are many fairies besides the main trio (Ruku, Poku, Bonbon) inhabiting the long-sealed dimensional paths. They help Rias and Slade as thanks for taking them out of the dimensional paths." },
+            { "ガイストコア", "Geist Core - A mysterious tool possessed by Slade that can open entrances to dimensional paths leading to alternate dimensions. Slade himself lacks the ability to use alchemy, but possesses this unique device instead." },
 
             // Unofficial localizations - to be reviewed.
             { "大聖堂", "Grand Cathedral - The central religious institution of Nova, where the High Priest resides" },

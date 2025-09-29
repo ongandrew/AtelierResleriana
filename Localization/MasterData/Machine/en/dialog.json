@@ -248,5 +248,40 @@
     "id": 7101,
     "description": "Some characters that can be obtained during events have their skills locked in their initial state. Locked skills cannot be used in battle, so use items obtainable within the event to unlock them!",
     "name": "Skill Lock and Skill Release"
+  },
+  {
+    "id": 7201,
+    "description": "On this screen, you can select activities.\nAs you progress through activities, you can raise the corresponding parameters, so let's actively engage with them!",
+    "name": "Activities"
+  },
+  {
+    "id": 7301,
+    "description": "By giving synthesis items, parameters will increase.\nWhen parameters increase, you may be able to view conversation scenes and obtain rewards.",
+    "name": "Activities"
+  },
+  {
+    "id": 7302,
+    "description": "Items that can be given to raise parameters can be checked from \"Synthesize Items\" in the bottom left.",
+    "name": "Target Items"
+  },
+  {
+    "id": 7303,
+    "description": "The EXP value required for parameter increases is determined by the type and quality of the synthesis items you give.",
+    "name": "Gaining EXP"
+  },
+  {
+    "id": 7401,
+    "description": "Characters you've welcomed can now be displayed on the home screen.\nCombine your favorite backgrounds, motions, camera angles, and BGM to create your own unique home scene.",
+    "name": "Character Home"
+  },
+  {
+    "id": 7402,
+    "description": "Characters that can be set can be viewed on the \"Change Character\" screen.\nAlso, by registering favorites, you can find characters more easily, so use this feature as needed.",
+    "name": "Creation and Editing"
+  },
+  {
+    "id": 7403,
+    "description": "Select a created scene and press \"Confirm\" to switch your home.\nEven after creation, you can readjust scenes using the \"Edit Home\" and \"Change Character\" buttons.",
+    "name": "Home Settings"
   }
 ]

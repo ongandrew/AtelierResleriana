@@ -96,5 +96,12 @@
     "id": 122,
     "condition_name": "Event Mission Points",
     "name": "Event Mission Pass"
+  },
+  {
+    "id": 123,
+    "condition_name": "Mission Points",
+    "end_at": "2025-11-01T03:00:00Z",
+    "name": "Mission Pass",
+    "start_at": "2025-10-01T03:00:00Z"
   }
 ]

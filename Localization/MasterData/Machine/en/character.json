@@ -797,5 +797,69 @@
     "profile_voice_text": "I'm Gou, the fifth of the Miraculous Nine.\nI take pride in this name.",
     "sort_name": "Gou",
     "start_at": "2025-09-19T03:00:00Z"
+  },
+  {
+    "id": 43109,
+    "acquisition_text": "Reviving alchemy is my wish as well.\n——Come, let us go together.",
+    "another_name": "DOA Collaboration Event",
+    "description": "Resna's alchemy mentor.\nShe stopped by Resna's village during her travels and taught her the basics of alchemy.\nShe has a bright and cheerful personality, but can show a strict side when it comes to alchemy.\nHer private life is quite carefree, and Resna often takes care of her.",
+    "fullname": "Resna",
+    "leader_skill": {
+      "description": "All allies gain Critical Damage +5% for each Lantarna character.",
+      "name": "The Shooting Star Is With Us"
+    },
+    "name": "Resna",
+    "overlay_name": "Resna Sternenlicht",
+    "profile_voice_text": "I'm Saskia. Like Resna, I'm a dreaming\nalchemist. Aim for World's End!",
+    "sort_name": "Resna",
+    "start_at": "2049-12-31T15:00:00Z"
+  },
+  {
+    "id": 45202,
+    "acquisition_text": "Reviving alchemy is my wish as well.\n——Come, let us go together.",
+    "another_name": "DOA Collaboration Event",
+    "description": "Resna's alchemy mentor.\nShe stopped by Resna's village during her travels and taught her the basics of alchemy.\nShe has a bright and cheerful personality, but can show a strict side when it comes to alchemy.\nHer private life is quite carefree, and Resna often takes care of her.",
+    "fullname": "Alvina",
+    "leader_skill": {
+      "description": "All allies gain Critical Damage +5% for each Lantarna character.",
+      "name": "The Shooting Star Is With Us"
+    },
+    "name": "Alvina",
+    "overlay_name": "Alvina Zimlock",
+    "profile_voice_text": "I'm Saskia. Like Resna, I'm a dreaming\nalchemist. Aim for World's End!",
+    "sort_name": "Alvina",
+    "start_at": "2049-12-31T15:00:00Z"
+  },
+  {
+    "id": 70101,
+    "acquisition_text": "Ah! Found you! I was getting bored.\nWould you like to play with Marie?",
+    "another_name": "Twinkle Rose", 
+    "description": "A wicked little servant working for the leader of the conglomerate DOATEC. She accompanied her master on vacation to the Venus Islands, but after being treated like a child, she's determined to win the Venus Festival and prove she's a grown-up. Though she has a somewhat aloof personality, her emotions show on her face when she's happy, revealing her age-appropriate side.",
+    "fullname": "Marie Rose",
+    "leader_skill": {
+      "description": "Seasonal characters gain Initiative and Skill Damage +50%.",
+      "name": "Wicked Lil' Servant"
+    },
+    "name": "Marie Rose",
+    "overlay_name": "Marie Rose",
+    "profile_voice_text": "My name is Marie Rose.\nCall me Marie!",
+    "sort_name": "Marie Rose",
+    "start_at": "2025-09-26T03:00:00Z"
+  },
+  {
+    "id": 70201,
+    "acquisition_text": "Reviving alchemy is my wish as well.\n—Come, let us journey together.",
+    "another_name": "DOA Collaboration Event",
+    "description": "Resna's alchemy mentor.\nShe stopped by Resna's village during her travels and taught her the basics of alchemy.\nShe has a cheerful and straightforward personality, but shows a strict side when it comes to alchemy.\nHer private life is rather carefree, and Resna often takes care of her.",
+    "fullname": "Honoka",
+    "leader_skill": {
+      "description": "All allies gain 5% critical damage for each Lantarna member.",
+      "name": "The Shooting Stars Are with Us"
+    },
+    "name": "Honoka",
+    "overlay_name": "Honoka",
+    "profile_voice_text": "I'm Saskia. Like Resna, I'm a dreaming\nalchemist. Let's aim for World's End together.",
+    "sort_name": "HONOKA",
+    "start_at": "2049-12-31T15:00:00Z"
   }
 ]

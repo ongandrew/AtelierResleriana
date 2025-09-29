@@ -2026,5 +2026,49 @@
   {
     "id": 60254002,
     "description": "- After receiving attacks a certain number of times, boosts own critical rate received (up to 50%)\n- Converts all opponents' boost panels to weaken panels and weaken panels to boost panels\n- Converts own panels to critical panels\n- When HP reaches a certain level, creates burst panels on own turn\n- Performs attacks that ignore targeting priority"
+  },
+  {
+    "id": 60038028,
+    "description": "- When recovering from stun, boosts negative effect potency dealt by self (activates MAX 1 time)\n- Receives increased damage from burst skills\n- Inflicts Paralysis\n- Delays turn"
+  },
+  {
+    "id": 60041001,
+    "description": "- Inflicts Darkness\n- Chance to grant self Evasion\n- Creates paralysis panels\n- Inflicts Darkness on all opponents and allies"
+  },
+  {
+    "id": 60162008,
+    "description": "- After being hit by a burst skill, inflicts Darkness on self\n- After being hit by a burst skill, boosts own damage received (MAX 60%)\n- Removes own status effects and negative effects\n- Heals allies and grants Regen\n- Nullifies resistance reduction for all elements except Fire and Strike"
+  },
+  {
+    "id": 60162009,
+    "description": "- After being hit by a burst skill, chance to inflict Darkness on self\n- After being hit by a burst skill, boosts own damage received (MAX 60%)\n- Removes own status effects and negative effects\n- Heals allies and grants Regen\n- Nullifies resistance reduction for all elements except Fire and Strike"
+  },
+  {
+    "id": 60183023,
+    "description": "- Inflicts Taunt"
+  },
+  {
+    "id": 60183024,
+    "description": "- Inflicts Taunt\n- Converts target's panels to weaken panels"
+  },
+  {
+    "id": 60183029,
+    "description": "- Inflicts Taunt\n- When KO'd, boosts all opponents' skill power"
+  },
+  {
+    "id": 60183030,
+    "description": "- Inflicts Taunt\n- Converts target's panels to weaken panels\n- When KO'd, boosts all opponents' skill power"
+  },
+  {
+    "id": 60248004,
+    "description": "- When KO'd, grants a field effect that boosts damage dealt for all allies and opponents (effect potency increases based on number of attacks received)\n- Heals self\n- Nullifies resistance reduction for all elements except Fire and Strike"
+  },
+  {
+    "id": 60259001,
+    "description": "- When hit by a burst skill, inflicts Nullify Recovery on self\n- Increases own max HP and restores HP\n- Chance to inflict Paralysis\n- Restores allies' stun gauge and grants Regen"
+  },
+  {
+    "id": 60259002,
+    "description": "- When hit by a burst skill, inflicts Nullify Recovery on self\n- Increases own max HP and restores HP\n- Chance to inflict Paralysis\n- Restores allies' stun gauge and grants Regen\n- Nullifies resistance reduction for all elements except Fire and Strike"
   }
 ]

@@ -3168,5 +3168,20 @@
     "id": 910194,
     "description": "Boosts damage received from Strike attacks by {value}%. (MAX 2 stacks)",
     "name": "Strike Resistance Down"
+  },
+  {
+    "id": 610340,
+    "description": "Boosts P.ATK by {value}%. (MAX 40%)",
+    "name": "P.ATK Up"
+  },
+  {
+    "id": 610341,
+    "description": "Boosts skill damage by {value}%. (MAX 40%)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 820300,
+    "description": "Boosts damage received from Burst Skills by {value}%. Cannot be removed.",
+    "name": "Received Damage Up (Cond.)"
   }
 ]

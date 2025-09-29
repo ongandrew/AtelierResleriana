@@ -7553,5 +7553,115 @@
     "id": 600000725,
     "description": "While equipped to a character with Miraculous Nine, boosts skill power by 100%.",
     "name": "Miraculous Nine Skill Power Up"
+  },
+  {
+    "id": 301265,
+    "description": "While equipped to Marie Rose [Twinkle Rose] and without negative effects, boosts critical rate by {0}%.",
+    "name": "Bloom Roses"
+  },
+  {
+    "id": 301266,
+    "description": "Reduces damage received from single target attacks by {0}%. (Fixed)",
+    "name": "Guardian's Stone Armor"
+  },
+  {
+    "id": 301267,
+    "description": "Reduces damage received from single target attacks by {0}%. (Fixed)",
+    "name": "Guardian's Stone Armor"
+  },
+  {
+    "id": 301268,
+    "description": "Boosts all allies' skill damage by {0}%.",
+    "name": "Amosnarga"
+  },
+  {
+    "id": 301269,
+    "description": "Boosts all allies' skill damage by {0}%.",
+    "name": "Amosnarga"
+  },
+  {
+    "id": 1980211,
+    "description": "Characters with Seasonal gain Initiative and skill damage +{0}%.",
+    "name": "\"Little\" Devil Servant"
+  },
+  {
+    "id": 1990471,
+    "description": "Converts own Burst Skill to gauge-based.<br>※Burst gauge can store up to 2 cycles<br><br>When defeating an enemy with a skill, increases own burst gauge by {0}%.<br>When not taking 1 or more damage from attacks against self, increases own burst gauge by {1}%.",
+    "name": "Let the Blood Rose Bloom ♪"
+  },
+  {
+    "id": 1990472,
+    "description": "After using a Burst Skill, grants self skill power +{0}% and skill damage +{1}% for 2 turns.",
+    "name": "I'm Going to Get Even More Pumped Up!"
+  },
+  {
+    "id": 4991138,
+    "description": "While equipped to an Attacker with Strike affinity, boosts skill damage by {0}%.\nWhile equipped to a character with Sweets, before using a skill, increases target's critical damage received by {1}% for 1 attack.",
+    "name": "Idea \"Marie Rose's Secret\""
+  },
+  {
+    "id": 4991139,
+    "description": "While equipped to an Attacker with Strike affinity, boosts skill damage by {0}%.\nWhile equipped to a character with Sweets, before using a skill, increases target's critical damage received by {1}% for 1 attack.",
+    "name": "Idea \"Marie Rose's Secret\""
+  },
+  {
+    "id": 4991140,
+    "description": "While equipped to an Attacker with Strike affinity, boosts skill damage by {0}%.\nWhile equipped to a character with Sweets, before using a skill, increases target's critical damage received by {1}% for 1 attack.",
+    "name": "Idea \"Marie Rose's Secret\""
+  },
+  {
+    "id": 4991141,
+    "description": "While equipped to an Attacker with Strike affinity, boosts skill damage by {0}%.\nWhile equipped to a character with Sweets, before using a skill, increases target's critical damage received by {1}% for 1 attack.",
+    "name": "Idea \"Marie Rose's Secret\""
+  },
+  {
+    "id": 4991142,
+    "description": "While equipped to an Attacker with Strike affinity, boosts skill damage by {0}%.\nWhile equipped to a character with Sweets, before using a skill, increases target's critical damage received by {1}% for 1 attack.",
+    "name": "Idea \"Marie Rose's Secret\""
+  },
+  {
+    "id": 26038011,
+    "description": "When recovering from stun, grants increased negative effect potency (15%/2 times) once only.\n",
+    "name": ""
+  },
+  {
+    "id": 26038012,
+    "description": "Increases own Burst Skill damage received by 100%.",
+    "name": ""
+  },
+  {
+    "id": 26162004,
+    "description": "When hit by a Burst Skill, grants self damage received +20% (MAX 60%) and Darkness for 1 turn.",
+    "name": ""
+  },
+  {
+    "id": 26183001,
+    "description": "When self is unable to act, grants all enemies skill power +50% (MAX 100%).",
+    "name": ""
+  },
+  {
+    "id": 26259001,
+    "description": "When hit by a Burst Skill, grants self Nullify HP Recovery for 1 turn.",
+    "name": ""
+  },
+  {
+    "id": 600000727,
+    "description": "When forming a party with Atelier Summer characters or DOAXVV collaboration characters, boosts skill power by 50% for each character.",
+    "name": "Skill Power Up Per Atelier Summer/DOAXVV Collab Character"
+  },
+  {
+    "id": 600000728,
+    "description": "When forming a party with Atelier Summer characters or DOAXVV collaboration characters, reduces damage received by 10% for each character.",
+    "name": "Damage Received Down Per Atelier Summer/DOAXVV Collab Character"
+  },
+  {
+    "id": 600000729,
+    "description": "Boosts Marie Rose [Twinkle Rose]'s skill power by 100%.",
+    "name": "Marie Rose [Twinkle Rose] Skill Power Up"
+  },
+  {
+    "id": 600000730,
+    "description": "When Marie Rose [Twinkle Rose] or Gou [Faithful Fighter] is in formation, reduces damage received by 25% (Max: 25%).",
+    "name": "Damage Reduction - Marie Rose [Twinkle Rose] or Gou [Faithful Fighter] Formation"
   }
 ]

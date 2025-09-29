@@ -283,5 +283,25 @@
     "id": 302,
     "description": "Boosts all allies' critical damage by {0}% when target is stunned for 1 turn.",
     "name": "Hero-Slaying Pill"
+  },
+  {
+    "id": 303,
+    "description": "After dealing Strike damage to all enemies, boosts their stun damage received by {0}% for 2 attacks.",
+    "name": "Flax Competition Watermelon"
+  },
+  {
+    "id": 304,
+    "description": "After dealing Strike damage to all enemies, boosts their stun damage received by {0}% for 2 attacks.",
+    "name": "Flax Competition Watermelon"
+  },
+  {
+    "id": 305,
+    "description": "Boosts P.DEF and M.DEF of the ally with the highest max HP by {0}% for 2 attacks.",
+    "name": "Guts Infusion Drink"
+  },
+  {
+    "id": 306,
+    "description": "Boosts P.DEF and M.DEF of the ally with the highest max HP by {0}% for 2 attacks.",
+    "name": "Guts Infusion Drink"
   }
 ]

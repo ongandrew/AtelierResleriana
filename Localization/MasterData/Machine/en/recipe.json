@@ -1861,5 +1861,60 @@
     ],
     "start_at": "2025-09-19T03:00:00Z",
     "tracking_id": "af_synthesis_recipe_784"
+  },
+  {
+    "id": 785,
+    "name": "Bloom Roses",
+    "requirements": [
+      {
+        "name": "Awaken Marie Rose [Twinkle Rose] to ☆5"
+      }
+    ],
+    "start_at": "2025-09-29T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_785"
+  },
+  {
+    "id": 786,
+    "name": "Guardian's Stone Armor",
+    "requirements": [
+      {
+        "name": "Clear Main Story 4-58"
+      }
+    ],
+    "start_at": "2025-09-29T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_786"
+  },
+  {
+    "id": 787,
+    "name": "Amosnarga",
+    "requirements": [
+      {
+        "name": "Clear Main Story 4-58"
+      }
+    ],
+    "start_at": "2025-09-29T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_787"
+  },
+  {
+    "id": 788,
+    "name": "Ama Competition Watermelon",
+    "requirements": [
+      {
+        "name": "Gather Cut Watermelon × 10"
+      }
+    ],
+    "start_at": "2025-09-29T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_788"
+  },
+  {
+    "id": 789,
+    "name": "Guts Infusion Drink",
+    "requirements": [
+      {
+        "name": "Gather Cut Watermelon × 10"
+      }
+    ],
+    "start_at": "2025-09-29T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_789"
   }
 ]

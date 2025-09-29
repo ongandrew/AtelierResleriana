@@ -9035,5 +9035,472 @@
     "background_name": "",
     "description": "",
     "name": "All-Out War β Advanced - Upper"
+  },
+  {
+    "id": 2001,
+    "background_name": "",
+    "description": "",
+    "name": "Venus Festival - Part 1",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 2002,
+    "background_name": "",
+    "description": "",
+    "name": "Venus Festival - Part 1",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 2003,
+    "background_name": "",
+    "description": "",
+    "name": "Venus Festival - Part 1",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 2101,
+    "background_name": "",
+    "description": "",
+    "name": "Venus Festival - Part 2",
+    "start_at": "2025-10-13T03:00:00Z"
+  },
+  {
+    "id": 2102,
+    "background_name": "",
+    "description": "",
+    "name": "Venus Festival - Part 2",
+    "start_at": "2025-10-13T03:00:00Z"
+  },
+  {
+    "id": 2103,
+    "background_name": "",
+    "description": "",
+    "name": "Venus Festival - Part 2",
+    "start_at": "2025-10-13T03:00:00Z"
+  },
+  {
+    "id": 12200025,
+    "background_name": "",
+    "description": "",
+    "end_at": "2025-11-09T03:00:00Z",
+    "key_tasks": [
+      {
+        "name": "Set Marie Rose's POW to 2"
+      }
+    ],
+    "name": "Marie Rose Watermelon Breaking 1",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 12200026,
+    "background_name": "",
+    "description": "",
+    "end_at": "2025-11-09T03:00:00Z",
+    "key_tasks": [
+      {
+        "name": "Set Marie Rose's POW to 6"
+      }
+    ],
+    "name": "Marie Rose Watermelon Breaking 2",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 12200027,
+    "background_name": "",
+    "description": "",
+    "end_at": "2025-11-09T03:00:00Z",
+    "key_tasks": [
+      {
+        "name": "Set Marie Rose's POW to 14"
+      }
+    ],
+    "name": "Marie Rose Watermelon Breaking 3",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 12200028,
+    "background_name": "",
+    "description": "",
+    "end_at": "2025-11-09T03:00:00Z",
+    "key_tasks": [
+      {
+        "name": "Set Marie Rose's STM to 2"
+      }
+    ],
+    "name": "Marie Rose Rock Climbing 1",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 12200029,
+    "background_name": "",
+    "description": "",
+    "end_at": "2025-11-09T03:00:00Z",
+    "key_tasks": [
+      {
+        "name": "Raise Marie Rose's STM to 6"
+      }
+    ],
+    "name": "Marie Rose Rock Climbing 2",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 12200030,
+    "background_name": "",
+    "description": "",
+    "end_at": "2025-11-09T03:00:00Z",
+    "key_tasks": [
+      {
+        "name": "Raise Marie Rose's STM to 14"
+      }
+    ],
+    "name": "Marie Rose Rock Climbing 3",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 12200031,
+    "background_name": "",
+    "description": "",
+    "end_at": "2025-11-09T03:00:00Z",
+    "key_tasks": [
+      {
+        "name": "Raise Honoka's POW to 2"
+      }
+    ],
+    "name": "Honoka Watermelon Splitting 1",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 12200032,
+    "background_name": "",
+    "description": "",
+    "end_at": "2025-11-09T03:00:00Z",
+    "key_tasks": [
+      {
+        "name": "Raise Honoka's POW to 6"
+      }
+    ],
+    "name": "Honoka Watermelon Splitting 2",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 12200033,
+    "background_name": "",
+    "description": "",
+    "end_at": "2025-11-09T03:00:00Z",
+    "key_tasks": [
+      {
+        "name": "Raise Honoka's POW to 14"
+      }
+    ],
+    "name": "Honoka Watermelon Splitting 3",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 12200034,
+    "background_name": "",
+    "description": "",
+    "end_at": "2025-11-09T03:00:00Z",
+    "key_tasks": [
+      {
+        "name": "Raise Honoka's STM to 2"
+      }
+    ],
+    "name": "Honoka Rock Climbing 1",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 12200035,
+    "background_name": "",
+    "description": "",
+    "end_at": "2025-11-09T03:00:00Z",
+    "key_tasks": [
+      {
+        "name": "Raise Honoka's STM to 6"
+      }
+    ],
+    "name": "Honoka Rock Climbing 2",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 12200036,
+    "background_name": "",
+    "description": "",
+    "end_at": "2025-11-09T03:00:00Z",
+    "key_tasks": [
+      {
+        "name": "Raise Honoka's STM to 14"
+      }
+    ],
+    "name": "Honoka Rock Climbing 3",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 12200037,
+    "background_name": "",
+    "description": "",
+    "end_at": "2025-11-09T03:00:00Z",
+    "key_tasks": [
+      {
+        "name": "Raise Resna's POW to 2"
+      }
+    ],
+    "name": "Resna Watermelon Splitting 1",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 12200038,
+    "background_name": "",
+    "description": "",
+    "end_at": "2025-11-09T03:00:00Z",
+    "key_tasks": [
+      {
+        "name": "Raise Resna's POW to 6"
+      }
+    ],
+    "name": "Resna Watermelon Splitting 2",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 12200039,
+    "background_name": "",
+    "description": "",
+    "end_at": "2025-11-09T03:00:00Z",
+    "key_tasks": [
+      {
+        "name": "Raise Resna's POW to 14"
+      }
+    ],
+    "name": "Resna Watermelon Smash 3",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 12200040,
+    "background_name": "",
+    "description": "",
+    "end_at": "2025-11-09T03:00:00Z",
+    "key_tasks": [
+      {
+        "name": "Raise Resna's STM to 2"
+      }
+    ],
+    "name": "Resna Rock Climbing 1",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 12200041,
+    "background_name": "",
+    "description": "",
+    "end_at": "2025-11-09T03:00:00Z",
+    "key_tasks": [
+      {
+        "name": "Raise Resna's STM to 6"
+      }
+    ],
+    "name": "Resna Rock Climbing 2",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 12200042,
+    "background_name": "",
+    "description": "",
+    "end_at": "2025-11-09T03:00:00Z",
+    "key_tasks": [
+      {
+        "name": "Raise Resna's STM to 14"
+      }
+    ],
+    "name": "Resna Rock Climbing 3",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 12200043,
+    "background_name": "",
+    "description": "",
+    "end_at": "2025-11-09T03:00:00Z",
+    "key_tasks": [
+      {
+        "name": "Raise Alvina's POW to 2"
+      }
+    ],
+    "name": "Alvina Watermelon Smash 1",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 12200044,
+    "background_name": "",
+    "description": "",
+    "end_at": "2025-11-09T03:00:00Z",
+    "key_tasks": [
+      {
+        "name": "Raise Alvina's POW to 6"
+      }
+    ],
+    "name": "Alvina Watermelon Smash 2",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 12200045,
+    "background_name": "",
+    "description": "",
+    "end_at": "2025-11-09T03:00:00Z",
+    "key_tasks": [
+      {
+        "name": "Raise Alvina's POW to 14"
+      }
+    ],
+    "name": "Alvina Watermelon Smash 3",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 12200046,
+    "background_name": "",
+    "description": "",
+    "end_at": "2025-11-09T03:00:00Z",
+    "key_tasks": [
+      {
+        "name": "Raise Alvina's STM to 2"
+      }
+    ],
+    "name": "Alvina Rock Climbing 1",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 12200047,
+    "background_name": "",
+    "description": "",
+    "end_at": "2025-11-09T03:00:00Z",
+    "key_tasks": [
+      {
+        "name": "Raise Alvina's STM to 6"
+      }
+    ],
+    "name": "Alvina Rock Climbing 2",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 12200048,
+    "background_name": "",
+    "description": "",
+    "end_at": "2025-11-09T03:00:00Z",
+    "key_tasks": [
+      {
+        "name": "Raise Alvina's STM to 14"
+      }
+    ],
+    "name": "Alvina Rock Climbing 3",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 12201001,
+    "background_name": "",
+    "description": "",
+    "end_at": "2025-11-09T03:00:00Z",
+    "name": "Breaking Free from Boredom",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 12201002,
+    "background_name": "",
+    "description": "",
+    "end_at": "2025-11-09T03:00:00Z",
+    "name": "Perpetual Summer Paradise",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 12201003,
+    "background_name": "",
+    "description": "",
+    "end_at": "2025-11-09T03:00:00Z",
+    "name": "The Guide's Information-Gathering Skills",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 12201004,
+    "background_name": "",
+    "description": "",
+    "end_at": "2025-11-09T03:00:00Z",
+    "name": "Two Venuses",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 12201005,
+    "background_name": "",
+    "description": "",
+    "end_at": "2025-11-09T03:00:00Z",
+    "name": "Where Exactly Is This?",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 12201006,
+    "background_name": "",
+    "description": "",
+    "end_at": "2025-11-09T03:00:00Z",
+    "name": "The Magical Beings of Venus Islands?!",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 12201007,
+    "background_name": "",
+    "description": "",
+    "end_at": "2025-11-09T03:00:00Z",
+    "name": "Venus's Strength",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 12201008,
+    "background_name": "",
+    "description": "",
+    "end_at": "2025-11-09T03:00:00Z",
+    "name": "Invitation to the Festival",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 12201009,
+    "background_name": "",
+    "description": "",
+    "end_at": "2025-11-09T03:00:00Z",
+    "name": "New Venuses",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 12203001,
+    "background_name": "",
+    "description": "",
+    "name": "Now, to the Perpetual Summer Venus Islands! 1",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 12203002,
+    "background_name": "",
+    "description": "",
+    "name": "To the Eternal Summer Venus Islands! 2",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 12203003,
+    "background_name": "",
+    "description": "",
+    "name": "To the Eternal Summer Venus Islands! 3",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 12204004,
+    "background_name": "",
+    "description": "",
+    "name": "DOAXVV Collab Early Boss Challenge",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 12206005,
+    "background_name": "",
+    "description": "Marie Rose [Twinkle Rose] or Gou [Faithful Fighter]\nOr form a party with swimsuit characters to gain buffs that make battles more advantageous!",
+    "name": "DOAXVV Collab Early SP Challenge",
+    "start_at": "2025-09-29T03:00:00Z"
+  },
+  {
+    "id": 100004736,
+    "background_name": "",
+    "description": "",
+    "name": "DOAXVV Collab Early"
   }
 ]

@@ -9863,5 +9863,320 @@
     "id": 120000791,
     "description": "When Gou [Faithful Fighter] is in the party, reduces damage received.",
     "popup_text": ""
+  },
+  {
+    "id": 6001144,
+    "description": "When self is Marie Rose [Twinkle Rose] and has no negative effects, boosts critical rate.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001145,
+    "description": "Reduces damage received from single target attacks (fixed potency).",
+    "popup_text": ""
+  },
+  {
+    "id": 6001146,
+    "description": "Boosts skill damage for all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001149,
+    "description": "Grants Stun Damage Received Up to all enemies for 2 attacks.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001150,
+    "description": "Grants P.DEF Up to 1 ally with highest max HP for 2 attacks.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001151,
+    "description": "Grants M.DEF Up to 1 ally with highest max HP for 2 attacks.",
+    "popup_text": ""
+  },
+  {
+    "id": 20000111,
+    "description": "Increases damage received when hit by Burst Skills.",
+    "popup_text": ""
+  },
+  {
+    "id": 26038002,
+    "description": "Increases damage received from BS skills.",
+    "popup_text": ""
+  },
+  {
+    "id": 26183001,
+    "description": "When self cannot act, grants Skill Power Up to all enemies.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001452,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001453,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001454,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001455,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001456,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001459,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001474,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 76041001,
+    "description": "Grants Darkness (1 time) to skill target.",
+    "popup_text": ""
+  },
+  {
+    "id": 76041002,
+    "description": "Grants Evasion (70% application chance/1 time) to self.",
+    "popup_text": ""
+  },
+  {
+    "id": 76041003,
+    "description": "Grants SPD Down (2 times) to skill target.",
+    "popup_text": ""
+  },
+  {
+    "id": 76041004,
+    "description": "Grants Stun Damage Dealt Down (3 times) to skill target.",
+    "popup_text": ""
+  },
+  {
+    "id": 76041005,
+    "description": "Creates paralysis panels up to the 5th position from the front of the timeline.",
+    "popup_text": ""
+  },
+  {
+    "id": 76041006,
+    "description": "Inflicts Darkness on all allies for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 76259001,
+    "description": "Increases own max HP.",
+    "popup_text": ""
+  },
+  {
+    "id": 76259002,
+    "description": "Recovers own HP.",
+    "popup_text": ""
+  },
+  {
+    "id": 76259003,
+    "description": "Inflicts Paralysis on skill targets (40% chance, 1 turn).",
+    "popup_text": ""
+  },
+  {
+    "id": 76259004,
+    "description": "Reduces own damage received for 3 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76259005,
+    "description": "Restores stun gauge for all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 76259006,
+    "description": "Grants Regeneration to all allies for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 86162007,
+    "description": "When hit by Burst Skill, increases own damage received (up to 60%).",
+    "popup_text": ""
+  },
+  {
+    "id": 86259001,
+    "description": "When receiving a Burst Skill, grants self Nullify HP Recovery for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 91001893,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001894,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000283,
+    "description": "While equipped to an Attacker with Strike affinity, boosts skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000284,
+    "description": "While equipped to a character with Sweets tag, increases target's critical damage received for 1 attack.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000793,
+    "description": "Boosts skill power when Ryza [Sunlit Beach] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000794,
+    "description": "Boosts skill power when Klaudia [Moonlit Beach] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000795,
+    "description": "Boosts skill power when Resna [Pretty Summer] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000796,
+    "description": "Boosts skill power when Valeria [Radiant Summer] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000797,
+    "description": "Boosts skill power when Johanna [Brilliant Diver] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000798,
+    "description": "Boosts skill power when Lara [Seaside Queen] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000799,
+    "description": "Boosts skill power when Antje [Marine Puppeteer] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000800,
+    "description": "Boosts skill power when Criselda [Seaside Butterfly] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000801,
+    "description": "Reduces damage received when Ryza [Sunlit Beach] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000802,
+    "description": "Reduces damage received when Klaudia [Moonlit Beach] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000803,
+    "description": "Reduces damage received when Resna [Pretty Summer] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000804,
+    "description": "Reduces damage received when Valeria [Radiant Summer] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000805,
+    "description": "Reduces damage received when Johanna [Brilliant Diver] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000806,
+    "description": "Reduces damage received when Lara [Seaside Queen] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000807,
+    "description": "Reduces damage received when Antje [Marine Puppeteer] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000808,
+    "description": "Reduces damage received when Criselda [Seaside Butterfly] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000809,
+    "description": "Boosts skill power when Resna (DOA) is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000810,
+    "description": "Boosts skill power when Alvina (DOA) is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000811,
+    "description": "Boosts skill power when Honoka (DOA) is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000812,
+    "description": "Boosts skill power when Marie Rose (DOA) is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000813,
+    "description": "Reduces damage received when Resna [Venus Nova] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000814,
+    "description": "Reduces damage received when Alvina [Tropical Shine] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000815,
+    "description": "Reduces damage received when Honoka [Cross the Line] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000816,
+    "description": "Reduces damage received when Marie Rose [Twinkle Rose] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000817,
+    "description": "Boosts skill power when self is Marie Rose [Twinkle Rose].",
+    "popup_text": ""
+  },
+  {
+    "id": 120000823,
+    "description": "Reduces damage received when Marie Rose [Twinkle Rose] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000824,
+    "description": "When Marie Rose [Twinkle Rose] is in the party, reduces damage received.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000825,
+    "description": "When Marie Rose [Twinkle Rose] is in the party, reduces damage received.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000826,
+    "description": "When Marie Rose [Twinkle Rose] is in the party, reduces damage received.",
+    "popup_text": ""
   }
 ]

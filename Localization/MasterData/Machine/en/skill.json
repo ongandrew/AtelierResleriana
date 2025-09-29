@@ -21904,5 +21904,371 @@
     "description": "Grants Cover for 3 turns to self.",
     "name": "Stand By",
     "summary": ""
+  },
+  {
+    "id": 32150,
+    "description": "After dealing Strike damage to all enemies, increases target's stun damage received by {0}% for 2 attacks.",
+    "name": "Flax Athletic Watermelon",
+    "summary": ""
+  },
+  {
+    "id": 32151,
+    "description": "After dealing Strike damage to all enemies, increases target's stun damage received by {0}% for 2 attacks.",
+    "name": "Flax Athletic Watermelon",
+    "summary": ""
+  },
+  {
+    "id": 32152,
+    "description": "Boosts the P.DEF and M.DEF of the ally with the highest max HP by {0}% for 2 attacks.",
+    "name": "Guts Injection Drink",
+    "summary": ""
+  },
+  {
+    "id": 32153,
+    "description": "Boosts the P.DEF and M.DEF of the ally with the highest max HP by {0}% for 2 attacks.",
+    "name": "Guts Injection Drink",
+    "summary": ""
+  },
+  {
+    "id": 11003145,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, boosts own P.ATK by {1}% and skill damage by {2}%. (All effects cap at 40%)",
+    "name": "Round Blast",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, boosts own P.ATK and skill damage."
+  },
+  {
+    "id": 11003146,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, boosts own P.ATK by {1}% and skill damage by {2}%. (All effects cap at 40%)",
+    "name": "Round Blast",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, boosts own P.ATK and skill damage."
+  },
+  {
+    "id": 11003147,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, boosts own P.ATK by {1}% and skill damage by {2}%. (All effects cap at 40%)",
+    "name": "Round Blast",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, boosts own P.ATK and skill damage."
+  },
+  {
+    "id": 11003148,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, boosts own P.ATK by {1}% and skill damage by {2}%. (All effects cap at 40%)",
+    "name": "Round Blast",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, boosts own P.ATK and skill damage."
+  },
+  {
+    "id": 11003149,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, boosts own P.ATK by {1}% and skill damage by {2}%. (All effects cap at 40%)",
+    "name": "Round Blast",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, boosts own P.ATK and skill damage."
+  },
+  {
+    "id": 12003150,
+    "description": "After attacking, boosts own P.ATK by {0}% and skill damage by {1}% for 3 turns.<br>Grants Evasion (100% fixed rate) for 1 attack.",
+    "name": "Sweet Drop",
+    "summary": "After attacking, boosts own P.ATK and skill damage.<br>Grants self Evasion."
+  },
+  {
+    "id": 12003151,
+    "description": "After attacking, boosts own P.ATK by {0}% and skill damage by {1}% for 3 turns.<br>Grants Evasion (100% fixed rate) for 1 attack.",
+    "name": "Sweet Drop",
+    "summary": "After attacking, boosts own P.ATK and skill damage.<br>Grants self Evasion."
+  },
+  {
+    "id": 12003152,
+    "description": "After attacking, boosts own P.ATK by {0}% and skill damage by {1}% for 3 turns.<br>Grants Evasion (100% fixed rate) for 1 attack.",
+    "name": "Sweet Drop",
+    "summary": "After attacking, boosts own P.ATK and skill damage.<br>Grants self Evasion."
+  },
+  {
+    "id": 12003153,
+    "description": "After attacking, boosts own P.ATK by {0}% and skill damage by {1}% for 3 turns.<br>Grants Evasion (100% fixed rate) for 1 attack.",
+    "name": "Sweet Drop",
+    "summary": "After attacking, boosts own P.ATK and skill damage.<br>Grants self Evasion."
+  },
+  {
+    "id": 12003154,
+    "description": "After attacking, boosts own P.ATK by {0}% and skill damage by {1}% for 3 turns.<br>Grants Evasion (100% fixed rate) for 1 attack.",
+    "name": "Sweet Drop",
+    "summary": "After attacking, boosts own P.ATK and skill damage.<br>Grants self Evasion."
+  },
+  {
+    "id": 14003155,
+    "description": "Boosts this attack's critical rate by 100%.<br>After attacking, boosts own P.ATK by {0}% for 1 turn.<br>Boosts skill damage by {1}% and critical damage by {2}% for 2 turns.",
+    "name": "Splash Rose Garden",
+    "summary": "Boosts this attack's critical rate.<br>After attacking, boosts own P.ATK, skill damage, and critical damage."
+  },
+  {
+    "id": 14003156,
+    "description": "Boosts this attack's critical rate by 100%.<br>After attacking, boosts own P.ATK by {0}% for 1 turn.<br>Boosts skill damage by {1}% and critical damage by {2}% for 2 turns.",
+    "name": "Splash Rose Garden",
+    "summary": "Boosts this attack's critical rate.<br>After attacking, boosts own P.ATK, skill damage, and critical damage."
+  },
+  {
+    "id": 14003157,
+    "description": "Boosts this attack's critical rate by 100%.<br>After attacking, boosts own P.ATK by {0}% for 1 turn.<br>Boosts skill damage by {1}% and critical damage by {2}% for 2 turns.",
+    "name": "Splash Rose Garden",
+    "summary": "Boosts this attack's critical rate.<br>After attacking, boosts own P.ATK, skill damage, and critical damage."
+  },
+  {
+    "id": 14003158,
+    "description": "Boosts this attack's critical rate by 100%.<br>After attacking, boosts own P.ATK by {0}% for 1 turn.<br>Boosts skill damage by {1}% and critical damage by {2}% for 2 turns.",
+    "name": "Splash Rose Garden",
+    "summary": "Boosts this attack's critical rate.<br>After attacking, boosts own P.ATK, skill damage, and critical damage."
+  },
+  {
+    "id": 14003159,
+    "description": "Boosts this attack's critical rate by 100%.<br>After attacking, boosts own P.ATK by {0}% for 1 turn.<br>Boosts skill damage by {1}% and critical damage by {2}% for 2 turns.",
+    "name": "Splash Rose Garden",
+    "summary": "Boosts this attack's critical rate.<br>After attacking, boosts own P.ATK, skill damage, and critical damage."
+  },
+  {
+    "id": 32003423,
+    "description": "After attacking, increases own max HP by 15% and restores HP by 20%.",
+    "name": "High Jump Crash",
+    "summary": ""
+  },
+  {
+    "id": 32003424,
+    "description": "After attacking, inflicts Paralysis on skill target (40% chance to apply for 1 turn).",
+    "name": "Splash",
+    "summary": ""
+  },
+  {
+    "id": 32003425,
+    "description": "No additional effects.",
+    "name": "Hop On",
+    "summary": ""
+  },
+  {
+    "id": 32003426,
+    "description": "After attacking, reduces own damage received by 20% for 3 turns.",
+    "name": "Ice Riding",
+    "summary": ""
+  },
+  {
+    "id": 32003427,
+    "description": "Recovers all allies' HP and stun gauge by 20% and grants Regeneration (10% for 2 turns).",
+    "name": "Moist Supply",
+    "summary": ""
+  },
+  {
+    "id": 32003428,
+    "description": "After attacking, inflicts Darkness on skill target for 1 turn.",
+    "name": "Mortal Fin",
+    "summary": ""
+  },
+  {
+    "id": 32003429,
+    "description": "After attacking, grants self Evasion (70% chance to apply for 1 turn).",
+    "name": "Heavy Bite",
+    "summary": ""
+  },
+  {
+    "id": 32003430,
+    "description": "After attacking, reduces skill target's SPD by 15% for 2 turns and stun damage by 30% for 3 turns.",
+    "name": "Thunder Ball",
+    "summary": ""
+  },
+  {
+    "id": 32003431,
+    "description": "After attacking, creates paralysis panels on the 1st through 5th positions on the timeline.",
+    "name": "Thunder Breath",
+    "summary": ""
+  },
+  {
+    "id": 32003432,
+    "description": "Inflicts Darkness on all enemies and allies for 1 turn.",
+    "name": "Blinding",
+    "summary": ""
+  },
+  {
+    "id": 32003433,
+    "description": "After attacking, increases own Max HP by 15% and recovers HP by 20%.",
+    "name": "High Jump Crash",
+    "summary": ""
+  },
+  {
+    "id": 32003434,
+    "description": "After attacking, inflicts Paralysis on skill target (40% chance to apply for 1 turn).",
+    "name": "Splash",
+    "summary": ""
+  },
+  {
+    "id": 32003435,
+    "description": "No additional effects.",
+    "name": "Hop On",
+    "summary": ""
+  },
+  {
+    "id": 32003436,
+    "description": "After attacking, reduces own damage received by 20% for 3 turns.",
+    "name": "Ice Riding",
+    "summary": ""
+  },
+  {
+    "id": 32003437,
+    "description": "Recovers all allies' HP and stun gauge by 10% and grants Regeneration (5% for 2 turns).",
+    "name": "Moist Supply",
+    "summary": ""
+  },
+  {
+    "id": 32003438,
+    "description": "After attacking, increases all enemies' damage received by 25% for 4 turns.",
+    "name": "Drop Crack",
+    "summary": ""
+  },
+  {
+    "id": 32003439,
+    "description": "After attacking, reduces target's damage dealt by 20% for 2 turns.",
+    "name": "Splash",
+    "summary": ""
+  },
+  {
+    "id": 32003440,
+    "description": "No additional effects.",
+    "name": "Fall Crash",
+    "summary": ""
+  },
+  {
+    "id": 32003441,
+    "description": "After attacking, boosts own damage dealt by 20% for 2 turns.",
+    "name": "Jump Crash",
+    "summary": ""
+  },
+  {
+    "id": 32003442,
+    "description": "After recovery (15%), reduces own damage received by 25% for 2 turns.",
+    "name": "Moist Resupply",
+    "summary": ""
+  },
+  {
+    "id": 32003443,
+    "description": "Before attacking, removes own debuffs and status effects.",
+    "name": "Ice Riding",
+    "summary": ""
+  },
+  {
+    "id": 32003444,
+    "description": "No effect.",
+    "name": "Cold Flower",
+    "summary": ""
+  },
+  {
+    "id": 32003445,
+    "description": "After attacking, removes own status effects.",
+    "name": "Fall Crash",
+    "summary": ""
+  },
+  {
+    "id": 32003446,
+    "description": "No effect.",
+    "name": "Flying",
+    "summary": ""
+  },
+  {
+    "id": 32003447,
+    "description": "After attacking, removes own negative effects.",
+    "name": "Splash",
+    "summary": ""
+  },
+  {
+    "id": 32003448,
+    "description": "Restores ally HP by 10% and grants Regeneration 5% for 2 turns.",
+    "name": "Moistening Supply",
+    "summary": ""
+  },
+  {
+    "id": 32003449,
+    "description": "Before attacking, removes own negative effects and status effects.\nAfter attacking, grants skill target Recovery Received Down (50%/3 turns).",
+    "name": "Ice Riding",
+    "summary": ""
+  },
+  {
+    "id": 32003450,
+    "description": "No effect.",
+    "name": "Cold Flower",
+    "summary": ""
+  },
+  {
+    "id": 32003451,
+    "description": "After attacking, removes own status effects and grants Damage Dealt Up (20%/2 turns).",
+    "name": "Fall Crash",
+    "summary": ""
+  },
+  {
+    "id": 32003452,
+    "description": "No effect.",
+    "name": "Flying",
+    "summary": ""
+  },
+  {
+    "id": 32003453,
+    "description": "After attacking, removes own negative effects and grants Damage Received Down (20%/3 turns).",
+    "name": "Splash",
+    "summary": ""
+  },
+  {
+    "id": 32003454,
+    "description": "Restores ally HP by 10% and grants Regeneration 5% for 2 turns.",
+    "name": "Moistening Supply",
+    "summary": ""
+  },
+  {
+    "id": 32003455,
+    "description": "No effect.",
+    "name": "Energy Storm",
+    "summary": ""
+  },
+  {
+    "id": 32003456,
+    "description": "Grants all enemies Provoke (3 turns).",
+    "name": "Rage Powder",
+    "summary": ""
+  },
+  {
+    "id": 32003457,
+    "description": "After attacking, grants self Damage Received Down (20%/5 turns).",
+    "name": "Super Wind-Up Punch",
+    "summary": ""
+  },
+  {
+    "id": 32003458,
+    "description": "No effect.",
+    "name": "Wild Strike",
+    "summary": ""
+  },
+  {
+    "id": 32003459,
+    "description": "After attacking, converts all enemy panels except burst panels to weaken panels.",
+    "name": "Dark Storm",
+    "summary": ""
+  },
+  {
+    "id": 32003460,
+    "description": "After attacking, grants skill target SPD Down (20%/2 turns) and Bolt Resistance Down (30%/2 turns).",
+    "name": "Shutdown",
+    "summary": ""
+  },
+  {
+    "id": 32003461,
+    "description": "After attacking, grants skill target Paralysis (50% chance to apply/2 turns).",
+    "name": "Lightning Axe",
+    "summary": ""
+  },
+  {
+    "id": 32003462,
+    "description": "After attacking, delays skill target's turn by 3 turns.",
+    "name": "Gigantic Soul",
+    "summary": ""
+  },
+  {
+    "id": 32003463,
+    "description": "After attacking, grants self Damage Dealt Up (15%/2 turns) and Damage Received Down (30%/5 turns).",
+    "name": "Megaton Shock",
+    "summary": ""
+  },
+  {
+    "id": 32003464,
+    "description": "After attacking, reduces skill target's damage dealt by 25% for 3 turns.",
+    "name": "Primal Stroke",
+    "summary": ""
   }
 ]

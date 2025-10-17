@@ -7663,5 +7663,125 @@
     "id": 600000730,
     "description": "When Marie Rose [Twinkle Rose] or Gou [Faithful Fighter] is in formation, reduces damage received by 25% (Max: 25%).",
     "name": "Damage Reduction - Marie Rose [Twinkle Rose] or Gou [Faithful Fighter] Formation"
+  },
+  {
+    "id": 301270,
+    "description": "While equipped to an Attacker, before attacking, reduces target's Strike resistance by {0}% for 1 attack.",
+    "name": "Pyon-Pyon Roulette"
+  },
+  {
+    "id": 301271,
+    "description": "While equipped to an Attacker, before attacking, reduces target's Strike resistance by {0}% for 1 attack.",
+    "name": "Pyon-Pyon Roulette"
+  },
+  {
+    "id": 301272,
+    "description": "While equipped to a Supporter, boosts all allies' P.ATK by {0}%.",
+    "name": "Tonkatsu Challenge Ticket"
+  },
+  {
+    "id": 301273,
+    "description": "While equipped to a Supporter, boosts all allies' P.ATK by {0}%.",
+    "name": "Tonkatsu Challenge Ticket"
+  },
+  {
+    "id": 301274,
+    "description": "While equipped to Resna (Venus Nova), after using a skill, grants the ally with the highest P.ATK skill damage +{0}% for 2 turns (up to 3 stacks).",
+    "name": "Luminas Lagoon"
+  },
+  {
+    "id": 1980212,
+    "description": "Boosts all allies' skill damage and stun damage by {0}% for each Seasonal character in the party.",
+    "name": "New Horizons Found on an Everlasting Summer Island"
+  },
+  {
+    "id": 1990473,
+    "description": "Converts own burst skill to a gauge.<br>※Burst gauge can store up to 3 uses<br><br>At the start of the wave, grants self after using a skill targeting an ally, converts target's next panel to a burst panel (creates panel if empty) for 1 turn.",
+    "name": "Let's Get Hyped!!"
+  },
+  {
+    "id": 1990474,
+    "description": "After using a skill, restores all allies' HP by {0}%,<br>increases own burst gauge by {1}%,<br>and grants self HP recovery dealt +{2}% (up to 50%).",
+    "name": "Vacation Charge"
+  },
+  {
+    "id": 4991143,
+    "description": "While equipped to a Supporter with Strike affinity, boosts all allies' weakness attack damage by {0}%.\nFor Diligent characters, boosts positive effect potency granted by {1}%.",
+    "name": "Imaginings \"The Being Beyond the Lens\""
+  },
+  {
+    "id": 4991144,
+    "description": "While equipped to a Supporter with Strike affinity, boosts all allies' weakness attack damage by {0}%.\nFor Diligent characters, boosts positive effect potency granted by {1}%.",
+    "name": "Imaginings \"The Being Beyond the Lens\""
+  },
+  {
+    "id": 4991145,
+    "description": "While equipped to a Supporter with Strike affinity, boosts all allies' weakness attack damage by {0}%.\nFor Diligent characters, boosts positive effect potency granted by {1}%.",
+    "name": "Imaginings \"The Being Beyond the Lens\""
+  },
+  {
+    "id": 4991146,
+    "description": "While equipped to a Supporter with Strike affinity, boosts all allies' weakness attack damage by {0}%.\nFor Diligent characters, boosts positive effect potency granted by {1}%.",
+    "name": "Imaginings \"The Being Beyond the Lens\""
+  },
+  {
+    "id": 4991147,
+    "description": "While equipped to a Supporter with Strike affinity, boosts all allies' weakness attack damage by {0}%.\nFor Diligent characters, boosts positive effect potency granted by {1}%.",
+    "name": "Imaginings \"The Being Beyond the Lens\""
+  },
+  {
+    "id": 26022001,
+    "description": "When hit by a burst skill, boosts own damage received by 50% (up to 150%).",
+    "name": ""
+  },
+  {
+    "id": 600000732,
+    "description": "Boosts Resna (Venus Nova)'s positive effect potency granted by 150%.",
+    "name": "Resna (Venus Nova) Positive Effect Potency Up"
+  },
+  {
+    "id": 600000733,
+    "description": "When Marie Rose (Twinkle Rose) or Resna (Venus Nova) is in the party, reduces damage received by 25% (up to 25%).",
+    "name": "Marie Rose (Twinkle Rose) or Resna (Venus Nova) Party Damage Reduction"
+  },
+  {
+    "id": 301277,
+    "description": "While equipped to an Attacker with Strike affinity, boosts burst gauge gain by {0}%.\nAdditionally, before using a burst skill, boosts target's critical damage received by {1}% for 1 attack.",
+    "name": "Makeup Noblesse"
+  },
+  {
+    "id": 301278,
+    "description": "While equipped to an Attacker with Strike affinity, boosts skill damage by {0}% when HP is 70% or higher.",
+    "name": "Clock Feather"
+  },
+  {
+    "id": 301279,
+    "description": "While equipped to a Supporter with Strike affinity, after using a burst skill, boosts skill damage by {0}% for the ally with the highest P.ATK for 1 turn.",
+    "name": "Niagara"
+  },
+  {
+    "id": 301280,
+    "description": "While equipped to a Supporter with Strike affinity, after using a skill, boosts skill damage by {0}% for the ally with the highest P.ATK for 1 turn. (Cannot be stacked)",
+    "name": "Blue Orca Hairpin"
+  },
+  {
+    "id": 301281,
+    "description": "While equipped to a Breaker with Strike affinity, before using a burst skill, boosts target's stun damage received by {0}% for 1 attack.",
+    "name": "Makeup Costa"
+  },
+  {
+    "id": 301282,
+    "description": "While equipped to a Breaker with Strike affinity, when attacking a stunned target, boosts skill damage by {0}% for the ally with the highest P.ATK for 1 turn.",
+    "name": "White Heart Earrings"
+  },
+  {
+    "id": 301283,
+    "description": "While equipped to a Supporter with Strike affinity, after attacking with a burst skill, boosts target's damage received by {0}% for 1 attack.",
+    "name": "Angel Bouquet"
+  },
+  {
+    "id": 301284,
+    "description": "While equipped to a Supporter with Strike affinity, after using a skill, boosts weakness attack damage by {0}% for the ally with the highest P.ATK for 1 turn. (Cannot be stacked)",
+    "name": "Fluffy Chouchou"
   }
 ]

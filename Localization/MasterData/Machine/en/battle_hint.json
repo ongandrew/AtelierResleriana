@@ -2070,5 +2070,25 @@
   {
     "id": 60259002,
     "description": "- When hit by a burst skill, inflicts Nullify Recovery on self\n- Increases own max HP and restores HP\n- Chance to inflict Paralysis\n- Restores allies' stun gauge and grants Regen\n- Nullifies resistance reduction for all elements except Fire and Strike"
+  },
+  {
+    "id": 60010058,
+    "description": "- Inflicts Poison\n- Boosts SPD\n- Receives increased damage from burst skills"
+  },
+  {
+    "id": 60021010,
+    "description": "No tips available."
+  },
+  {
+    "id": 60022006,
+    "description": "- Receives increased damage while stunned\n- When stunned, removes all own positive effects\n- Delays turn\n- When hit by a burst skill, boosts own damage received"
+  },
+  {
+    "id": 60122060,
+    "description": "- When stunned, converts boost-type panels to burst panels\n- Protection\n- Heals self\n- Recovers own HP and stun gauge\n- Receives increased damage from burst skills"
+  },
+  {
+    "id": 60201057,
+    "description": "- When stunned, removes own positive effects and grants SPD Up to all opponents\n- Heals self\n- Receives increased damage from burst skills"
   }
 ]

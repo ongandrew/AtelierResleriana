@@ -283,5 +283,20 @@
     "id": 7403,
     "description": "Select a created scene and press \"Confirm\" to switch your home.\nEven after creation, you can readjust scenes using the \"Edit Home\" and \"Change Character\" buttons.",
     "name": "Home Settings"
+  },
+  {
+    "id": 7501,
+    "description": "Beach Flag is a turn attack dungeon where your rank is determined by the total number of turns it takes to clear.\nThere are no gathering points, and rewards are determined by your rank.",
+    "name": "Beach Flag"
+  },
+  {
+    "id": 7502,
+    "description": "You can challenge Beach Flag battles with any party composition, but the runner in the dungeon will be a character related to the event.\nIf you have certain other characters in your party, the runner may change...?",
+    "name": "Beach Flag Runner"
+  },
+  {
+    "id": 7503,
+    "description": "Additionally, equipment drops as a reward in Beach Flag.\nEquipment traits are randomly selected from a pool of candidates, and trait levels are also randomized.",
+    "name": "Equipment Drops"
   }
 ]

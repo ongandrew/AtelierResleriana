@@ -1178,5 +1178,70 @@
     "id": 1186,
     "description": "Boosts all allies' skill damage by {0}%.",
     "name": "Amosnarga"
+  },
+  {
+    "id": 1187,
+    "description": "While equipped to an Attacker, before attacking, reduces target's Strike resistance by {0}% for 1 attack.",
+    "name": "Hop Hop Roulette"
+  },
+  {
+    "id": 1188,
+    "description": "While equipped to an Attacker, before attacking, reduces target's Strike resistance by {0}% for 1 attack.",
+    "name": "Hop Hop Roulette"
+  },
+  {
+    "id": 1189,
+    "description": "While equipped to a Supporter, boosts all allies' P.ATK by {0}%.",
+    "name": "Pig Iron Challenge Ticket"
+  },
+  {
+    "id": 1190,
+    "description": "While equipped to a Supporter, boosts all allies' P.ATK by {0}%.",
+    "name": "Pig Iron Challenge Ticket"
+  },
+  {
+    "id": 1191,
+    "description": "While equipped to Lesna [Venus Nova], after using a skill, boosts skill damage by {0}% for the ally with highest P.ATK for 2 turns. (Maximum of 3 stacks)",
+    "name": "Luminas Lagoon"
+  },
+  {
+    "id": 1194,
+    "description": "While equipped to an Attacker with Strike affinity, boosts burst gauge gain by {0}%. Additionally, before using a burst skill, increases target's critical damage received by {1}% for 1 attack.",
+    "name": "Makeup Noblesse"
+  },
+  {
+    "id": 1195,
+    "description": "While equipped to an Attacker with Strike affinity, when HP is at 70% or higher, boosts skill damage by {0}%.",
+    "name": "Clock Feather"
+  },
+  {
+    "id": 1196,
+    "description": "While equipped to a Supporter with Strike affinity, after using a burst skill, boosts skill damage by {0}% for the ally with the highest P.ATK for 1 turn.",
+    "name": "Niagara"
+  },
+  {
+    "id": 1197,
+    "description": "While equipped to a Supporter with Strike affinity, after using a skill, boosts skill damage by {0}% for the ally with the highest P.ATK for 1 turn. (Cannot be stacked)",
+    "name": "Blue Ilca Hairpin"
+  },
+  {
+    "id": 1198,
+    "description": "While equipped to a Breaker with Strike affinity, before using a burst skill, increases target's stun damage received by {0}% for 1 attack.",
+    "name": "Makeup Costa"
+  },
+  {
+    "id": 1199,
+    "description": "While equipped to a Breaker with Strike affinity, when attacking a stunned target, boosts skill damage by {0}% for the ally with the highest P.ATK for 1 turn.",
+    "name": "White Heart Earrings"
+  },
+  {
+    "id": 1200,
+    "description": "While equipped to a Supporter with Strike affinity, after attacking with a burst skill, increases target's damage received by {0}% for 1 attack.",
+    "name": "Angel Bouquet"
+  },
+  {
+    "id": 1201,
+    "description": "While equipped to a Supporter with Strike affinity, after using a skill, boosts damage when attacking a weakness by {0}% for the ally with the highest P.ATK for 1 turn. (Cannot be stacked)",
+    "name": "Fluffy Choux"
   }
 ]

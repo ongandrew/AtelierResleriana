@@ -1916,5 +1916,38 @@
     ],
     "start_at": "2025-09-29T03:00:00Z",
     "tracking_id": "af_synthesis_recipe_789"
+  },
+  {
+    "id": 790,
+    "name": "Luminas Lagoon",
+    "requirements": [
+      {
+        "name": "Awaken Resna [Venus of Nova] to ★5"
+      }
+    ],
+    "start_at": "2025-10-09T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_790"
+  },
+  {
+    "id": 791,
+    "name": "Bouncy Roulette",
+    "requirements": [
+      {
+        "name": "Gather Large Pineapple × 10"
+      }
+    ],
+    "start_at": "2025-10-09T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_791"
+  },
+  {
+    "id": 792,
+    "name": "Donketsu Challenge Ticket",
+    "requirements": [
+      {
+        "name": "Gather Large Pineapple × 10"
+      }
+    ],
+    "start_at": "2025-10-09T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_792"
   }
 ]

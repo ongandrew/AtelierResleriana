@@ -3471,5 +3471,59 @@
     "name": "Resna [Awakened Future] & Resna [Rise Above Fate] Revival Wish [Paid Lodestar Gems Only]",
     "start_at": "2025-09-29T03:00:00Z",
     "step_up_loop_description": ""
+  },
+  {
+    "id": 2303,
+    "description": "Resna makes her debut & Pick-Up!\nUntil 2025/11/10 11:59 (UTC+8)",
+    "end_at": "2025-11-10T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Eternal Summer Venuses: Resna - LEGEND FES",
+    "name": "Eternal Summer Venuses: Resna - LEGEND FES",
+    "start_at": "2025-10-09T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2304,
+    "description": "Wish 50 times with Paid Lodestar Gems and an additional wish appears!\nUntil 2025/11/10 11:59 (UTC+8)",
+    "end_at": "2025-11-10T03:00:00Z",
+    "name": "Eternal Summer Venuses: Resna - LEGEND FES [Paid Limited]",
+    "start_at": "2025-10-09T03:00:00Z",
+    "step_up_loop_description": "{} weeks remaining"
+  },
+  {
+    "id": 230401,
+    "description": "Max 5 times! 2x Pick-up rate!\nEarn 16 Medals! Until 2025/11/10 11:59 (UTC+8)",
+    "end_at": "2025-11-10T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10005,
+            "description": "Bonus included!\n{} Times Left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Eternal Summer Venuses: Resna - LEGEND FES [Paid Lodestar Gems Only]",
+    "name": "Eternal Summer Venuses: Resna - LEGEND FES [Paid Lodestar Gems Only]",
+    "start_at": "2025-10-09T03:00:00Z",
+    "step_up_loop_description": ""
   }
 ]

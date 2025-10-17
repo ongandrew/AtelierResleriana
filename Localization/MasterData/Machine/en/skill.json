@@ -22270,5 +22270,269 @@
     "description": "After attacking, reduces skill target's damage dealt by 25% for 3 turns.",
     "name": "Primal Stroke",
     "summary": ""
+  },
+  {
+    "id": 11003160,
+    "description": "After attacking, grants all allies P.ATK +{0}% and skill damage +{1}% (Max: 30% each).",
+    "name": "Beauty Swing",
+    "summary": "After attacking, boosts all allies' P.ATK and skill damage."
+  },
+  {
+    "id": 11003161,
+    "description": "After attacking, grants all allies P.ATK +{0}% and skill damage +{1}% (Max: 30% each).",
+    "name": "Beauty Swing",
+    "summary": "After attacking, boosts all allies' P.ATK and skill damage."
+  },
+  {
+    "id": 11003162,
+    "description": "After attacking, grants all allies P.ATK +{0}% and skill damage +{1}% (Max: 30% each).",
+    "name": "Beauty Swing",
+    "summary": "After attacking, boosts all allies' P.ATK and skill damage."
+  },
+  {
+    "id": 11003163,
+    "description": "After attacking, grants all allies P.ATK +{0}% and skill damage +{1}% (Max: 30% each).",
+    "name": "Beauty Swing",
+    "summary": "After attacking, boosts all allies' P.ATK and skill damage."
+  },
+  {
+    "id": 11003164,
+    "description": "After attacking, grants all allies P.ATK +{0}% and skill damage +{1}% (Max: 30% each).",
+    "name": "Beauty Swing",
+    "summary": "After attacking, boosts all allies' P.ATK and skill damage."
+  },
+  {
+    "id": 12003165,
+    "description": "Removes negative effects from an ally and grants target burst skill damage +{0}% (Max: 100%).<br>Grants all allies with Strike affinity P.ATK +{1}%, skill damage +{2}%, and stun damage +{3}% for 2 turns.",
+    "name": "Unleash☆Explosive Power",
+    "summary": "Removes negative effects from an ally.<br>Boosts target's burst skill damage.<br>Boosts P.ATK, skill damage, and stun damage for all allies with Strike affinity."
+  },
+  {
+    "id": 12003166,
+    "description": "Removes negative effects from an ally and grants target burst skill damage +{0}% (Max: 100%).<br>Grants all allies with Strike affinity P.ATK +{1}%, skill damage +{2}%, and stun damage +{3}% for 2 turns.",
+    "name": "Unleash☆Explosive Power",
+    "summary": "Removes negative effects from an ally.<br>Boosts target's burst skill damage.<br>Boosts P.ATK, skill damage, and stun damage for all allies with Strike affinity."
+  },
+  {
+    "id": 12003167,
+    "description": "Removes negative effects from an ally and grants target burst skill damage +{0}% (Max: 100%).<br>Grants all allies with Strike affinity P.ATK +{1}%, skill damage +{2}%, and stun damage +{3}% for 2 turns.",
+    "name": "Unleash☆Explosive Power",
+    "summary": "Removes negative effects from an ally.<br>Boosts target's burst skill damage.<br>Boosts P.ATK, skill damage, and stun damage for all allies with Strike affinity."
+  },
+  {
+    "id": 12003168,
+    "description": "Removes negative effects from an ally and grants target burst skill damage +{0}% (Max: 100%).<br>Grants all allies with Strike affinity P.ATK +{1}%, skill damage +{2}%, and stun damage +{3}% for 2 turns.",
+    "name": "Unleash☆Explosive Power",
+    "summary": "Removes negative effects from an ally.<br>Boosts target's burst skill damage.<br>Boosts P.ATK, skill damage, and stun damage for all allies with Strike affinity."
+  },
+  {
+    "id": 12003169,
+    "description": "Removes negative effects from an ally and grants target burst skill damage +{0}% (Max: 100%).<br>Grants all allies with Strike affinity P.ATK +{1}%, skill damage +{2}%, and stun damage +{3}% for 2 turns.",
+    "name": "Unleash☆Explosive Power",
+    "summary": "Removes negative effects from an ally.<br>Boosts target's burst skill damage.<br>Boosts P.ATK, skill damage, and stun damage for all allies with Strike affinity."
+  },
+  {
+    "id": 14003170,
+    "description": "After attacking, restores all allies' HP by {0}% and grants the ally with highest P.ATK burst skill damage +{1}% before using this skill (Max: 150%).<br>Grants all allies with Strike affinity P.ATK +{2}% and skill damage +{3}% for 2 turns.<br>Grants all Attacker allies with Strike affinity skill damage +{4}% and critical damage +{5}% (Max: 120% each).<br>Grants all Breaker allies with Strike affinity stun damage +{6}% (Max: 120%).<br>Boosts target's damage received by {7}% for 2 attacks.",
+    "name": "Resna☆Serious Match",
+    "summary": "After attacking, restores all allies' HP.<br>Boosts burst skill damage for ally with highest P.ATK.<br>Boosts P.ATK and skill damage for all allies with Strike affinity.<br>Boosts skill damage and critical damage for all Attacker allies with Strike affinity.<br>Boosts stun damage for all Breaker allies with Strike affinity.<br>Boosts target's damage received."
+  },
+  {
+    "id": 14003171,
+    "description": "After attacking, restores all allies' HP by {0}% and grants the ally with highest P.ATK burst skill damage +{1}% before using this skill (Max: 150%).<br>Grants all allies with Strike affinity P.ATK +{2}% and skill damage +{3}% for 2 turns.<br>Grants all Attacker allies with Strike affinity skill damage +{4}% and critical damage +{5}% (Max: 120% each).<br>Grants all Breaker allies with Strike affinity stun damage +{6}% (Max: 120%).<br>Boosts target's damage received by {7}% for 2 attacks.",
+    "name": "Resna☆Serious Match",
+    "summary": "After attacking, restores all allies' HP.<br>Boosts burst skill damage for ally with highest P.ATK.<br>Boosts P.ATK and skill damage for all allies with Strike affinity.<br>Boosts skill damage and critical damage for all Attacker allies with Strike affinity.<br>Boosts stun damage for all Breaker allies with Strike affinity.<br>Boosts target's damage received."
+  },
+  {
+    "id": 14003172,
+    "description": "After attacking, restores all allies' HP by {0}% and grants the ally with highest P.ATK burst skill damage +{1}% before using this skill (Max: 150%).<br>Grants all allies with Strike affinity P.ATK +{2}% and skill damage +{3}% for 2 turns.<br>Grants all Attacker allies with Strike affinity skill damage +{4}% and critical damage +{5}% (Max: 120% each).<br>Grants all Breaker allies with Strike affinity stun damage +{6}% (Max: 120%).<br>Boosts target's damage received by {7}% for 2 attacks.",
+    "name": "Resna☆Serious Match",
+    "summary": "After attacking, restores all allies' HP.<br>Boosts burst skill damage for ally with highest P.ATK.<br>Boosts P.ATK and skill damage for all allies with Strike affinity.<br>Boosts skill damage and critical damage for all Attacker allies with Strike affinity.<br>Boosts stun damage for all Breaker allies with Strike affinity.<br>Boosts target's damage received."
+  },
+  {
+    "id": 14003173,
+    "description": "After attacking, restores all allies' HP by {0}% and grants the ally with highest P.ATK burst skill damage +{1}% before using this skill (Max: 150%).<br>Grants all allies with Strike affinity P.ATK +{2}% and skill damage +{3}% for 2 turns.<br>Grants all Attacker allies with Strike affinity skill damage +{4}% and critical damage +{5}% (Max: 120% each).<br>Grants all Breaker allies with Strike affinity stun damage +{6}% (Max: 120%).<br>Boosts target's damage received by {7}% for 2 attacks.",
+    "name": "Resna☆Serious Match",
+    "summary": "After attacking, restores all allies' HP.<br>Boosts burst skill damage for ally with highest P.ATK.<br>Boosts P.ATK and skill damage for all allies with Strike affinity.<br>Boosts skill damage and critical damage for all Attacker allies with Strike affinity.<br>Boosts stun damage for all Breaker allies with Strike affinity.<br>Boosts target's damage received."
+  },
+  {
+    "id": 14003174,
+    "description": "After attacking, restores all allies' HP by {0}% and grants the ally with highest P.ATK burst skill damage +{1}% before using this skill (Max: 150%).<br>Grants all allies with Strike affinity P.ATK +{2}% and skill damage +{3}% for 2 turns.<br>Grants all Attacker allies with Strike affinity skill damage +{4}% and critical damage +{5}% (Max: 120% each).<br>Grants all Breaker allies with Strike affinity stun damage +{6}% (Max: 120%).<br>Boosts target's damage received by {7}% for 2 attacks.",
+    "name": "Resna☆Serious Match",
+    "summary": "After attacking, restores all allies' HP.<br>Boosts burst skill damage for ally with highest P.ATK.<br>Boosts P.ATK and skill damage for all allies with Strike affinity.<br>Boosts skill damage and critical damage for all Attacker allies with Strike affinity.<br>Boosts stun damage for all Breaker allies with Strike affinity.<br>Boosts target's damage received."
+  },
+  {
+    "id": 32003465,
+    "description": "",
+    "name": "Rampage",
+    "summary": ""
+  },
+  {
+    "id": 32003466,
+    "description": "After attacking, delays skill target's turn by 2 turns.",
+    "name": "Down Thrust",
+    "summary": ""
+  },
+  {
+    "id": 32003467,
+    "description": "",
+    "name": "Raging Fire",
+    "summary": ""
+  },
+  {
+    "id": 32003468,
+    "description": "Grants self damage dealt +15% (permanent).",
+    "name": "Reinforce",
+    "summary": ""
+  },
+  {
+    "id": 32003469,
+    "description": "No additional effects.",
+    "name": "Shield Charge",
+    "summary": ""
+  },
+  {
+    "id": 32003470,
+    "description": "No effects.",
+    "name": "Down Thrust",
+    "summary": ""
+  },
+  {
+    "id": 32003471,
+    "description": "No effects.",
+    "name": "Rage Slash",
+    "summary": ""
+  },
+  {
+    "id": 32003472,
+    "description": "No effects.",
+    "name": "Raging Fire",
+    "summary": ""
+  },
+  {
+    "id": 32003473,
+    "description": "Grants self damage received reduction by 15% for 3 turns.",
+    "name": "Covering",
+    "summary": ""
+  },
+  {
+    "id": 32003474,
+    "description": "After attacking, grants self damage dealt boost by 40%, stun damage received reduction by 40%, and damage received reduction by 40% for 2 turns.",
+    "name": "Needle Blast",
+    "summary": ""
+  },
+  {
+    "id": 32003475,
+    "description": "After attacking, grants self damage dealt boost by 30% and damage received reduction by 30% for 2 turns.",
+    "name": "Head Wave",
+    "summary": ""
+  },
+  {
+    "id": 32003476,
+    "description": "After attacking, grants self damage received reduction by 40% for 1 turn.",
+    "name": "Spin Needle",
+    "summary": ""
+  },
+  {
+    "id": 32003477,
+    "description": "After attacking, recovers own HP by 20%.",
+    "name": "Skate Carapace",
+    "summary": ""
+  },
+  {
+    "id": 32003478,
+    "description": "Grants skill target negative effect potency reduction by 40% and critical rate boost by 40% for 2 turns.",
+    "name": "Shell Field",
+    "summary": ""
+  },
+  {
+    "id": 32003479,
+    "description": "Grants skill target SPD boost by 15% for 3 turns.",
+    "name": "Sky Ale",
+    "summary": ""
+  },
+  {
+    "id": 32003480,
+    "description": "No effects.",
+    "name": "Glide",
+    "summary": ""
+  },
+  {
+    "id": 32003481,
+    "description": "After attacking, applies 5 stacks of Poison to skill target (2% for 5 turns).",
+    "name": "Charge Rush",
+    "summary": ""
+  },
+  {
+    "id": 32003482,
+    "description": "After attacking, grants self damage received increase by 25% for 3 turns and skill target damage received increase by 25% for 1 turn.",
+    "name": "White Breath",
+    "summary": ""
+  },
+  {
+    "id": 32003483,
+    "description": "No effects.",
+    "name": "Mini Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32003484,
+    "description": "Recovers own HP by 20%.\nRecovers own stun gauge by 20%.",
+    "name": "Hatsuratsuguruguru Punch",
+    "summary": ""
+  },
+  {
+    "id": 32003485,
+    "description": "Applies damage dealt reduction by 30% to target enemy for 4 turns.",
+    "name": "Guruguru Punch",
+    "summary": ""
+  },
+  {
+    "id": 32003486,
+    "description": "Applies stun damage reduction by 30% to target enemy for 4 turns.",
+    "name": "Dark Storm",
+    "summary": ""
+  },
+  {
+    "id": 32003487,
+    "description": "Recovers own HP by 20% and removes 100 status effects.",
+    "name": "Heal Powder",
+    "summary": ""
+  },
+  {
+    "id": 32003488,
+    "description": "Grants self Cover for 3 turns.",
+    "name": "Standby",
+    "summary": ""
+  },
+  {
+    "id": 32003489,
+    "description": "After attacking, grants self damage dealt boost by 40%, stun damage received reduction by 40%, and damage received reduction by 40% for 2 turns.",
+    "name": "Needle Blast",
+    "summary": ""
+  },
+  {
+    "id": 32003490,
+    "description": "After attacking, applies \"Damage Dealt +30%\" and \"Damage Received -30%\" to self for 2 turns.",
+    "name": "Headlong Rush",
+    "summary": ""
+  },
+  {
+    "id": 32003491,
+    "description": "After attacking, applies \"Damage Received -40%\" to self for 1 turn.",
+    "name": "Spin Needle",
+    "summary": ""
+  },
+  {
+    "id": 32003492,
+    "description": "After attacking, restores 20% of own HP.",
+    "name": "Skate Carapace",
+    "summary": ""
+  },
+  {
+    "id": 32003493,
+    "description": "Applies \"Negative Effect Potency -40%\" and \"Critical Rate +40%\" to skill target for 2 turns.",
+    "name": "Shell Field",
+    "summary": ""
   }
 ]

@@ -799,22 +799,6 @@
     "start_at": "2025-09-19T03:00:00Z"
   },
   {
-    "id": 43109,
-    "acquisition_text": "Reviving alchemy is my wish as well.\n——Come, let us go together.",
-    "another_name": "DOA Collaboration Event",
-    "description": "Resna's alchemy mentor.\nShe stopped by Resna's village during her travels and taught her the basics of alchemy.\nShe has a bright and cheerful personality, but can show a strict side when it comes to alchemy.\nHer private life is quite carefree, and Resna often takes care of her.",
-    "fullname": "Resna",
-    "leader_skill": {
-      "description": "All allies gain Critical Damage +5% for each Lantarna character.",
-      "name": "The Shooting Star Is With Us"
-    },
-    "name": "Resna",
-    "overlay_name": "Resna Sternenlicht",
-    "profile_voice_text": "I'm Saskia. Like Resna, I'm a dreaming\nalchemist. Aim for World's End!",
-    "sort_name": "Resna",
-    "start_at": "2049-12-31T15:00:00Z"
-  },
-  {
     "id": 45202,
     "acquisition_text": "Reviving alchemy is my wish as well.\n——Come, let us go together.",
     "another_name": "DOA Collaboration Event",
@@ -833,7 +817,7 @@
   {
     "id": 70101,
     "acquisition_text": "Ah! Found you! I was getting bored.\nWould you like to play with Marie?",
-    "another_name": "Twinkle Rose", 
+    "another_name": "Twinkle Rose",
     "description": "A wicked little servant working for the leader of the conglomerate DOATEC. She accompanied her master on vacation to the Venus Islands, but after being treated like a child, she's determined to win the Venus Festival and prove she's a grown-up. Though she has a somewhat aloof personality, her emotions show on her face when she's happy, revealing her age-appropriate side.",
     "fullname": "Marie Rose",
     "leader_skill": {
@@ -861,5 +845,21 @@
     "profile_voice_text": "I'm Saskia. Like Resna, I'm a dreaming\nalchemist. Let's aim for World's End together.",
     "sort_name": "HONOKA",
     "start_at": "2049-12-31T15:00:00Z"
+  },
+  {
+    "id": 43109,
+    "acquisition_text": "Just like all the people of Venus, I will strive to become a beautiful and strong alchemist!",
+    "another_name": "Venus Nova",
+    "description": "An alchemist aiming to reach World's End.\nDue to a series of unexpected circumstances, she ended up stranded in the Venus Isles and entered the Venus Fest—a festival where participants compete in strength and beauty.\nShe deeply loves alchemy and possesses vast knowledge on the subject. With her earnest personality, she is determined to give her all now that she has committed to participating in the Venus Festival.",
+    "fullname": "Resna Sternenlicht",
+    "leader_skill": {
+      "description": "For each Seasonal character in the party, boosts all allies' skill damage and stun damage by 20%.",
+      "name": "New Horizons on the Eternal Summer Isles"
+    },
+    "name": "Resna",
+    "overlay_name": "Resna Sternenlicht",
+    "profile_voice_text": "I'm a bit intimidated by the Venus Festival, but... if I've been given this opportunity, I want to give it my all.",
+    "sort_name": "Resna",
+    "start_at": "2025-10-09T03:00:00Z"
   }
 ]

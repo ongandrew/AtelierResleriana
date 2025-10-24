@@ -1,0 +1,597 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "さあ、今日の企画は……\n「なんでもあり！？\u3000ビーチバレー対決！」",
+        "localizations": {
+          "en": "All right, today's event is... \"Anything Goes!? Beach Volleyball Showdown!\""
+        }
+      },
+      "2072370017": {
+        "text": "ほのか",
+        "localizations": {
+          "en": "Honoka"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "なんでもありってどういうこと？",
+        "localizations": {
+          "en": "What do you mean by anything goes?"
+        }
+      },
+      "2072370017": {
+        "text": "マリー・ローズ",
+        "localizations": {
+          "en": "Marie Rose"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "それは見てのお楽しみっす！",
+        "localizations": {
+          "en": "You'll just have to watch and see!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "みんな、ケガだけには気を付けてねー",
+        "localizations": {
+          "en": "Everyone, just be careful not to get hurt!"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "レスナー！\u3000絶対勝ちなさいよ！",
+        "localizations": {
+          "en": "Resna! You better win this!"
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "――！",
+        "localizations": {
+          "en": "—!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "どうしたの？",
+        "localizations": {
+          "en": "What's wrong?"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "今の気配……ごめん、私ちょっと見回りしてくる",
+        "localizations": {
+          "en": "I felt something... I'm going to take a look around."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "え？\u3000う、うん……",
+        "localizations": {
+          "en": "Huh? O-okay..."
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "いくよ～！\u3000そーれっ！",
+        "localizations": {
+          "en": "Here it comes! Hyah!"
+        }
+      },
+      "2072370017": {
+        "text": "ほのか",
+        "localizations": {
+          "en": "Honoka"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "アルビーナ！",
+        "localizations": {
+          "en": "Alvina!"
+        }
+      },
+      "2072370017": {
+        "text": "マリー・ローズ",
+        "localizations": {
+          "en": "Marie Rose"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "ほいきた！",
+        "localizations": {
+          "en": "Got it!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "わーっ！",
+        "localizations": {
+          "en": "Wah!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "あいたた……ごめん、ほのかちゃん",
+        "localizations": {
+          "en": "Ow ow... Sorry, Honoka."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "ドンマイドンマイ！\u3000取り返してこ～",
+        "localizations": {
+          "en": "Don't worry about it! Let's get it back!"
+        }
+      },
+      "2072370017": {
+        "text": "ほのか",
+        "localizations": {
+          "en": "Honoka"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "レスナちゃんかわいい～！",
+        "localizations": {
+          "en": "Resna's so cute!"
+        }
+      },
+      "2072370017": {
+        "text": "配信コメント",
+        "localizations": {
+          "en": "Stream Comment"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "アルビーナちゃんナイス！",
+        "localizations": {
+          "en": "Nice one, Alvina!"
+        }
+      },
+      "2072370017": {
+        "text": "配信コメント",
+        "localizations": {
+          "en": "Stream Comment"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "次はこれで！",
+        "localizations": {
+          "en": "Next, I'll use this!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "じゃあアタシも！",
+        "localizations": {
+          "en": "Then I'll use this too!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "なんか出してきたぞ",
+        "localizations": {
+          "en": "They're pulling something out."
+        }
+      },
+      "2072370017": {
+        "text": "配信コメント",
+        "localizations": {
+          "en": "Stream Comment"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "おいおい、何が始まるんだ？",
+        "localizations": {
+          "en": "Wait, what's about to happen?"
+        }
+      },
+      "2072370017": {
+        "text": "配信コメント",
+        "localizations": {
+          "en": "Stream Comment"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "そーれっ！",
+        "localizations": {
+          "en": "Here goes!"
+        }
+      },
+      "2072370017": {
+        "text": "マリー・ローズ",
+        "localizations": {
+          "en": "Marie Rose"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "あーらよっと！",
+        "localizations": {
+          "en": "Up and over!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "うわわっ！？\u3000ボールがぐねぐねしてる！？",
+        "localizations": {
+          "en": "Whoa!? The ball's moving all weird!?"
+        }
+      },
+      "2072370017": {
+        "text": "ほのか",
+        "localizations": {
+          "en": "Honoka"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "魔球キターーー！！",
+        "localizations": {
+          "en": "Where did that ball come from?!"
+        }
+      },
+      "2072370017": {
+        "text": "配信コメント",
+        "localizations": {
+          "en": "Stream Comment"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "よいしょっ！",
+        "localizations": {
+          "en": "Heave-ho!"
+        }
+      },
+      "2072370017": {
+        "text": "ほのか",
+        "localizations": {
+          "en": "Honoka"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "刮目せよ！\u3000錬金術の力ー！",
+        "localizations": {
+          "en": "Behold! The power of alchemy!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "ええっ、そんなのもありなんですかー！？",
+        "localizations": {
+          "en": "Wait, that's allowed!?"
+        }
+      },
+      "2072370017": {
+        "text": "マリー・ローズ",
+        "localizations": {
+          "en": "Marie Rose"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "すげええええええ！",
+        "localizations": {
+          "en": "Awesooooome!"
+        }
+      },
+      "2072370017": {
+        "text": "配信コメント",
+        "localizations": {
+          "en": "Stream Comment"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "何が起こってるんだ！？",
+        "localizations": {
+          "en": "What's even happening!?"
+        }
+      },
+      "2072370017": {
+        "text": "配信コメント",
+        "localizations": {
+          "en": "Stream Comment"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "ほのかちゃん！",
+        "localizations": {
+          "en": "Honoka!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "任せて～！",
+        "localizations": {
+          "en": "Leave it to me!"
+        }
+      },
+      "2072370017": {
+        "text": "ほのか",
+        "localizations": {
+          "en": "Honoka"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "やーーーっ！！",
+        "localizations": {
+          "en": "Hyaaah!!"
+        }
+      },
+      "2072370017": {
+        "text": "ほのか",
+        "localizations": {
+          "en": "Honoka"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "わわわわわわ！！",
+        "localizations": {
+          "en": "Whoa whoa whoa whoa!!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "きゃーーっ！！",
+        "localizations": {
+          "en": "Kyaaah!!"
+        }
+      },
+      "2072370017": {
+        "text": "マリー・ローズ",
+        "localizations": {
+          "en": "Marie Rose"
+        }
+      }
+    }
+  }
+]

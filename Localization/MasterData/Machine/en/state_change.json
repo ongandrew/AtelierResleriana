@@ -3243,5 +3243,25 @@
     "id": 800177,
     "description": "Boosts skill damage by {value}% when attacking a weakness. (Cannot be stacked)",
     "name": "Dealt Damage Up on Weakness"
+  },
+  {
+    "id": 610347,
+    "description": "Boosts stun damage by {value}%. (MAX 40%)",
+    "name": "Stun Damage Up"
+  },
+  {
+    "id": 610348,
+    "description": "Boosts stun damage by {value}%. (MAX 60%)",
+    "name": "Stun Damage Up"
+  },
+  {
+    "id": 800175,
+    "description": "Boosts damage received from Strike attacks by {value}%. (MAX 3 stacks)",
+    "name": "Strike Resistance Down"
+  },
+  {
+    "id": 1210433,
+    "description": "Boosts burst gauge gained by {value}%.",
+    "name": "Burst Gauge Gained Up"
   }
 ]

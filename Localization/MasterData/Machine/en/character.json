@@ -831,22 +831,6 @@
     "start_at": "2025-09-26T03:00:00Z"
   },
   {
-    "id": 70201,
-    "acquisition_text": "Reviving alchemy is my wish as well.\n—Come, let us journey together.",
-    "another_name": "DOA Collaboration Event",
-    "description": "Resna's alchemy mentor.\nShe stopped by Resna's village during her travels and taught her the basics of alchemy.\nShe has a cheerful and straightforward personality, but shows a strict side when it comes to alchemy.\nHer private life is rather carefree, and Resna often takes care of her.",
-    "fullname": "Honoka",
-    "leader_skill": {
-      "description": "All allies gain 5% critical damage for each Lantarna member.",
-      "name": "The Shooting Stars Are with Us"
-    },
-    "name": "Honoka",
-    "overlay_name": "Honoka",
-    "profile_voice_text": "I'm Saskia. Like Resna, I'm a dreaming\nalchemist. Let's aim for World's End together.",
-    "sort_name": "HONOKA",
-    "start_at": "2049-12-31T15:00:00Z"
-  },
-  {
     "id": 43109,
     "acquisition_text": "Just like all the people of Venus, I will strive to become a beautiful and strong alchemist!",
     "another_name": "Venus Nova",
@@ -861,5 +845,21 @@
     "profile_voice_text": "I'm a bit intimidated by the Venus Festival, but... if I've been given this opportunity, I want to give it my all.",
     "sort_name": "Resna",
     "start_at": "2025-10-09T03:00:00Z"
+  },
+  {
+    "id": 70201,
+    "acquisition_text": "Wow, this looks like so much fun!\nI'll show you all sorts of things!",
+    "another_name": "Cross the Line",
+    "description": "A gentle and laid-back schoolgirl raised by her kind grandmother, with a top-secret side. She won a vacation ticket to the Venus Islands in a lucky draw at a shopping district and decided to visit. She happily accepted the invitation to the Venus Fest, treating it like a neighborhood festival. Despite her calm demeanor, she enjoys watching wrestling and studying martial arts techniques, and sometimes even imitates them.",
+    "fullname": "Honoka",
+    "leader_skill": {
+      "description": "Boosts skill damage by 100% for Strike affinity characters when attacking a stunned target.",
+      "name": "Top-Secret Schoolgirl"
+    },
+    "name": "Honoka",
+    "overlay_name": "Honoka",
+    "profile_voice_text": "Hello there! I'm Honoka.\nLet's have a fun vacation together!",
+    "sort_name": "Honoka",
+    "start_at": "2025-10-24T03:00:00Z"
   }
 ]

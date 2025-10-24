@@ -1,0 +1,597 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "すごいよレスナちゃーん！",
+        "localizations": {
+          "en": "You were amazing, Resna!"
+        }
+      },
+      "2072370017": {
+        "text": "ほのか",
+        "localizations": {
+          "en": "Honoka"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "わわっ、ほのかちゃん！",
+        "localizations": {
+          "en": "Whoa, Honoka!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "さっきの、ボールがドーンって大きくなったのも\n錬金術なんだよね！？\u3000すごいすごーい！",
+        "localizations": {
+          "en": "That thing with the ball getting all big—that was alchemy too, right?! That was so cool!"
+        }
+      },
+      "2072370017": {
+        "text": "ほのか",
+        "localizations": {
+          "en": "Honoka"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "ありがとう、ほのかちゃん！\u3000錬金術は夢の力でね、\nあれの他にもできることがいっぱいあって――",
+        "localizations": {
+          "en": "Thanks, Honoka! Alchemy is the power of dreams, and there's so much more it can do besides that—"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "錬金術……まさかあんなことができるなんて！\n本当にすごい……！\u3000おもしろい！",
+        "localizations": {
+          "en": "Alchemy... I had no idea it could do something like that! It's incredible...! Amazing!"
+        }
+      },
+      "2072370017": {
+        "text": "マリー・ローズ",
+        "localizations": {
+          "en": "Marie Rose"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "でしょでしょ～？\n錬金術がほめられると、気分がいいですな～",
+        "localizations": {
+          "en": "Right? Right? When people praise alchemy, it feels great!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "レスナちゃん、すっごく嬉しそう。\n錬金術、大好きだもんね",
+        "localizations": {
+          "en": "Resna looks so happy. She really loves alchemy."
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "姉様もはしゃいでるわ。\n得意気な姉様も素敵",
+        "localizations": {
+          "en": "Alvina's excited too. She looks wonderful when she's proud of herself."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "ヴァレリア、あんたどこ行ってたのよ",
+        "localizations": {
+          "en": "Valeria, where'd you run off to?"
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "ちょっと見回り。なんだかさっきから\n視線を感じる気がするのよね……魔物とは別の……",
+        "localizations": {
+          "en": "I just had a look around. I felt eyes on us... And it was not monsters..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "例の、悪の組織かしら？",
+        "localizations": {
+          "en": "Could it be that evil organization?"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "悪の組織～？\n何それ、僕たちに失礼じゃない？",
+        "localizations": {
+          "en": "Evil organization? What's that supposed to mean? That's not a nice thing to call your saviors, don't you think?"
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "迎えに来たよ。\nみんな、無事なようで何よりだ",
+        "localizations": {
+          "en": "We came to get you. Good to see everyone's safe."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "イェルカ、シトリン！\n視線の正体は、あんたらだったのね！",
+        "localizations": {
+          "en": "Jelka, Citrine! So it was the two of you I sensed!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "えぇっ！？\nどうしてここにイェルカとシトリンがいるのさ！",
+        "localizations": {
+          "en": "What?! Why are Jelka and Citrine here?!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "世界を渡っちゃったお前さんたちを迎えに来たのさ。\n錬金術ができないここじゃ、自力で帰れないだろ？",
+        "localizations": {
+          "en": "We're here to bring you back to your world. It's pretty hard to get back without the power of alchemy, isn't it?"
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "……！\u3000それなら、私たちがヴィーナス諸島に\n来たのは、あなたたちパルメ族の仕業なんですか？",
+        "localizations": {
+          "en": "...! Does that mean you Palme are the ones who brought us to Venus Island in the first place?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "ん～、まあその辺りの事情は、\nおいおい説明するよ。めんどくさいからね",
+        "localizations": {
+          "en": "Well, we'll explain all that later. It's a pain to get into right now."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "さ、早く帰ろ。別に急がなきゃ帰れない訳じゃないけど\n僕たちも暇じゃないからね",
+        "localizations": {
+          "en": "Come on, let's head back. It's not like we're short on time, but we're not exactly keen to stay."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "レスナ、お迎えが来たの？\nあの人たちは、レスナたちの仲間？",
+        "localizations": {
+          "en": "You have guests, Resna? Are they your companions?"
+        }
+      },
+      "2072370017": {
+        "text": "マリー・ローズ",
+        "localizations": {
+          "en": "Marie Rose"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "仲間、ではないかな……\nでも、助けに来てくれたみたい",
+        "localizations": {
+          "en": "I wouldn't call them companions... But they are here to help."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "帰っちゃうの……？\u3000レスナちゃんとアルビちゃんと\n一緒に、フェス出たかったなぁ……",
+        "localizations": {
+          "en": "You're leaving...? I wanted to be in the festival with you and Alvie..."
+        }
+      },
+      "2072370017": {
+        "text": "ほのか",
+        "localizations": {
+          "en": "Honoka"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "わ、私も！\u3000みんなと一緒にフェスに出たい――",
+        "localizations": {
+          "en": "Me too! I want to be in the festival with everyone—"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "迎えに来てくれてありがとうございます。\nでも、時間の猶予があるのなら、まだ帰れません！",
+        "localizations": {
+          "en": "Thank you for coming to get us. But if it's not urgent, I would like to take care of something first!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "……どうして？\u3000\nみんな、元の世界に帰りたいんじゃないの？",
+        "localizations": {
+          "en": "You've got other priorities? For real?"
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "何か、帰れない理由でもあるのかい？",
+        "localizations": {
+          "en": "What's holding you up?"
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "ちょっと、変な誤解は粋じゃないよ？\n二人とも、この世界のことを色々教えてくれて――",
+        "localizations": {
+          "en": "Hey, don't get the wrong idea. These two taught us all about this world—"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "とりあえずさぁ、僕たちの任務は、\n一刻も早くみんなを元の世界に帰すことなんだよね",
+        "localizations": {
+          "en": "Look, we were tasked to get you home as soon as possible."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "帰らないって言うなら……\nその理由になっている人たちをちょっと眠らせないと",
+        "localizations": {
+          "en": "If you won't cooperate... then we'll have to put those keeping you here to sleep for a bit."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "……っ！\u3000つ、強そうな人たち……\nきっと只者じゃない……！",
+        "localizations": {
+          "en": "...! Th-they look strong... They're definitely not ordinary people...!"
+        }
+      },
+      "2072370017": {
+        "text": "マリー・ローズ",
+        "localizations": {
+          "en": "Marie Rose"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "怖いけど、でも……！\nレスナちゃんたちを傷つけるなら、許さないです！",
+        "localizations": {
+          "en": "I'm scared, but even so...! If you're going to hurt Resna and the others, I won't let you!"
+        }
+      },
+      "2072370017": {
+        "text": "ほのか",
+        "localizations": {
+          "en": "Honoka"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "ふーん、僕たちと戦おうって？\u3000いーよ。君たちは\n未知の存在だ。「管理」の前にまず「調査」といこうか",
+        "localizations": {
+          "en": "Oh? We're doing this again? Fine by me. It's not like we even know you. So before we \"manage\" you, we'll carry out a little \"investigation\" first."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "粋じゃないかもしれないが、\nちょっと大人しくなってもらおうか",
+        "localizations": {
+          "en": "It may not be chic, but I might have to get you to quiet down for a bit."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "そ、そんなことさせません！\n一度落ち着いて話すためにも……",
+        "localizations": {
+          "en": "If we could just calm down and talk this through..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "この世界で鍛えたアタシたちの女神力を\n見せてやる！",
+        "localizations": {
+          "en": "We'll show you the goddess power we've acquired in this world!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  }
+]

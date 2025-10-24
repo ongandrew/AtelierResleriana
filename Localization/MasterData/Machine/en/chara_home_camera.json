@@ -4192,5 +4192,40 @@
   {
     "id": 670,
     "name": "General Camera 3"
+  },
+  {
+    "id": 175,
+    "name": "Standing 2"
+  },
+  {
+    "id": 337,
+    "name": "Pleading"
+  },
+  {
+    "id": 342,
+    "key_tasks": [
+      {
+        "name": "Unlocked by obtaining specific motions"
+      }
+    ],
+    "name": "Venus Pose"
+  },
+  {
+    "id": 664,
+    "key_tasks": [
+      {
+        "name": "Unlocked by obtaining specific motions"
+      }
+    ],
+    "name": "Joy"
+  },
+  {
+    "id": 665,
+    "key_tasks": [
+      {
+        "name": "Unlocked by obtaining specific motions"
+      }
+    ],
+    "name": "Thinking"
   }
 ]

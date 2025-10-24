@@ -7783,5 +7783,75 @@
     "id": 301284,
     "description": "While equipped to a Supporter with Strike affinity, after using a skill, boosts weakness attack damage by {0}% for the ally with the highest P.ATK for 1 turn. (Cannot be stacked)",
     "name": "Fluffy Chouchou"
+  },
+  {
+    "id": 301275,
+    "description": "While equipped to Honoka [Cross the Line], before using a burst skill, reduces all enemies' Strike resistance by {0}% for 2 attacks (up to 3 stacks).",
+    "name": "Secret Ripple"
+  },
+  {
+    "id": 1980213,
+    "description": "Characters with Strike affinity gain skill damage +{0}% when attack target is stunned.",
+    "name": "Top Secret Schoolgirl"
+  },
+  {
+    "id": 1990475,
+    "description": "Converts own burst skill into a burst gauge.\n*The burst gauge can stock up to 2 uses.\n\nAfter another party member uses a burst skill, increases own burst gauge by {0}%.\nWhen attack target is stunned, increases own burst gauge by {1}%.\nWhen attacking a stunned enemy, increases own burst gauge by {2}%.",
+    "name": "It's a Secret Between Us♪"
+  },
+  {
+    "id": 1990476,
+    "description": "After using a burst skill, grants all allies with Strike affinity P.ATK +{0}% and critical damage +{1}% for 2 turns.",
+    "name": "I'll Help Out!"
+  },
+  {
+    "id": 4991148,
+    "description": "While equipped to a Breaker with Strike affinity, when breaking a target, grants all allies skill damage +{0}% for 1 turn.\nWhile equipped to a Student, boosts stun damage by {1}%.",
+    "name": "Memoria \"Honoka's Secret\""
+  },
+  {
+    "id": 4991149,
+    "description": "While equipped to a Breaker with Strike affinity, when breaking a target, grants all allies skill damage +{0}% for 1 turn.\nWhile equipped to a Student, boosts stun damage by {1}%.",
+    "name": "Memoria \"Honoka's Secret\""
+  },
+  {
+    "id": 4991150,
+    "description": "While equipped to a Breaker with Strike affinity, when breaking a target, grants all allies skill damage +{0}% for 1 turn.\nWhile equipped to a Student, boosts stun damage by {1}%.",
+    "name": "Memoria \"Honoka's Secret\""
+  },
+  {
+    "id": 4991151,
+    "description": "While equipped to a Breaker with Strike affinity, when breaking a target, grants all allies skill damage +{0}% for 1 turn.\nWhile equipped to a Student, boosts stun damage by {1}%.",
+    "name": "Memoria \"Honoka's Secret\""
+  },
+  {
+    "id": 4991152,
+    "description": "While equipped to a Breaker with Strike affinity, when breaking a target, grants all allies skill damage +{0}% for 1 turn.\nWhile equipped to a Student, boosts stun damage by {1}%.",
+    "name": "Memoria \"Honoka's Secret\""
+  },
+  {
+    "id": 26162005,
+    "description": "Nullifies resistance reductions for all elements except Strike.",
+    "name": ""
+  },
+  {
+    "id": 600000734,
+    "description": "Grants all allies burst gauge gain received +100%.",
+    "name": "Grant All Allies Burst Gauge Gain Up"
+  },
+  {
+    "id": 600000735,
+    "description": "Grants all allies burst gauge gain received +50%.",
+    "name": "Grant All Allies Burst Gauge Gain Up"
+  },
+  {
+    "id": 600000736,
+    "description": "Boosts Honoka [Cross the Line]'s stun damage by 200%.",
+    "name": "Honoka [Cross the Line] Stun Damage Up"
+  },
+  {
+    "id": 600000737,
+    "description": "When Honoka [Cross the Line] or Resna [Venus Nova] is in the party, reduces damage received by 25%. (MAX 25%)",
+    "name": "Honoka [Cross the Line] or Resna [Venus Nova] Party Damage Reduction"
   }
 ]

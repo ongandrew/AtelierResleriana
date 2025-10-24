@@ -22534,5 +22534,395 @@
     "description": "Applies \"Negative Effect Potency -40%\" and \"Critical Rate +40%\" to skill target for 2 turns.",
     "name": "Shell Field",
     "summary": ""
+  },
+  {
+    "id": 11003175,
+    "description": "Before attacking, reduces target's Strike resistance by {0}% for 3 attacks.<br>After attacking, boosts own stun damage by {1}% (MAX 40%).",
+    "name": "Summer Assault Kick",
+    "summary": "Before attacking, reduces target's Strike resistance.<br>After attacking, boosts own stun damage."
+  },
+  {
+    "id": 11003176,
+    "description": "Before attacking, reduces target's Strike resistance by {0}% for 3 attacks.<br>After attacking, boosts own stun damage by {1}% (MAX 40%).",
+    "name": "Summer Assault Kick",
+    "summary": "Before attacking, reduces target's Strike resistance.<br>After attacking, boosts own stun damage."
+  },
+  {
+    "id": 11003177,
+    "description": "Before attacking, reduces target's Strike resistance by {0}% for 3 attacks.<br>After attacking, boosts own stun damage by {1}% (MAX 40%).",
+    "name": "Summer Assault Kick",
+    "summary": "Before attacking, reduces target's Strike resistance.<br>After attacking, boosts own stun damage."
+  },
+  {
+    "id": 11003178,
+    "description": "Before attacking, reduces target's Strike resistance by {0}% for 3 attacks.<br>After attacking, boosts own stun damage by {1}% (MAX 40%).",
+    "name": "Summer Assault Kick",
+    "summary": "Before attacking, reduces target's Strike resistance.<br>After attacking, boosts own stun damage."
+  },
+  {
+    "id": 11003179,
+    "description": "Before attacking, reduces target's Strike resistance by {0}% for 3 attacks.<br>After attacking, boosts own stun damage by {1}% (MAX 40%).",
+    "name": "Summer Assault Kick",
+    "summary": "Before attacking, reduces target's Strike resistance.<br>After attacking, boosts own stun damage."
+  },
+  {
+    "id": 12003180,
+    "description": "Boosts stun damage by {0}% when attacking a weakness.<br>Before attacking, reduces target's Strike resistance by {1}% for 3 attacks.<br>After attacking, boosts own stun damage by {2}% for 2 turns. Boosts target's damage received by {3}% for 1 attack.<br>When target is stunned, before using this skill, boosts the ally with the highest P. ATK's P. ATK by {4}% and skill damage by {5}% for 1 turn.",
+    "name": "Blazing Honoka Dance",
+    "summary": "Boosts stun damage when attacking a weakness.<br>Before attacking, reduces target's Strike resistance.<br>After attacking, boosts own stun damage.<br>Boosts target's damage received.<br>When target is stunned, boosts the ally with the highest P. ATK's P. ATK and skill damage."
+  },
+  {
+    "id": 12003181,
+    "description": "Boosts stun damage by {0}% when attacking a weakness.<br>Before attacking, reduces target's Strike resistance by {1}% for 3 attacks.<br>After attacking, boosts own stun damage by {2}% for 2 turns. Boosts target's damage received by {3}% for 1 attack.<br>When target is stunned, before using this skill, boosts the ally with the highest P. ATK's P. ATK by {4}% and skill damage by {5}% for 1 turn.",
+    "name": "Blazing Honoka Dance",
+    "summary": "Boosts stun damage when attacking a weakness.<br>Before attacking, reduces target's Strike resistance.<br>After attacking, boosts own stun damage.<br>Boosts target's damage received.<br>When target is stunned, boosts the ally with the highest P. ATK's P. ATK and skill damage."
+  },
+  {
+    "id": 12003182,
+    "description": "Boosts stun damage by {0}% when attacking a weakness.<br>Before attacking, reduces target's Strike resistance by {1}% for 3 attacks.<br>After attacking, boosts own stun damage by {2}% for 2 turns. Boosts target's damage received by {3}% for 1 attack.<br>When target is stunned, before using this skill, boosts the ally with the highest P. ATK's P. ATK by {4}% and skill damage by {5}% for 1 turn.",
+    "name": "Blazing Honoka Dance",
+    "summary": "Boosts stun damage when attacking a weakness.<br>Before attacking, reduces target's Strike resistance.<br>After attacking, boosts own stun damage.<br>Boosts target's damage received.<br>When target is stunned, boosts the ally with the highest P. ATK's P. ATK and skill damage."
+  },
+  {
+    "id": 12003183,
+    "description": "Boosts stun damage by {0}% when attacking a weakness.<br>Before attacking, reduces target's Strike resistance by {1}% for 3 attacks.<br>After attacking, boosts own stun damage by {2}% for 2 turns. Boosts target's damage received by {3}% for 1 attack.<br>When target is stunned, before using this skill, boosts the ally with the highest P. ATK's P. ATK by {4}% and skill damage by {5}% for 1 turn.",
+    "name": "Blazing Honoka Dance",
+    "summary": "Boosts stun damage when attacking a weakness.<br>Before attacking, reduces target's Strike resistance.<br>After attacking, boosts own stun damage.<br>Boosts target's damage received.<br>When target is stunned, boosts the ally with the highest P. ATK's P. ATK and skill damage."
+  },
+  {
+    "id": 12003184,
+    "description": "Boosts stun damage by {0}% when attacking a weakness.<br>Before attacking, reduces target's Strike resistance by {1}% for 3 attacks.<br>After attacking, boosts own stun damage by {2}% for 2 turns. Boosts target's damage received by {3}% for 1 attack.<br>When target is stunned, before using this skill, boosts the ally with the highest P. ATK's P. ATK by {4}% and skill damage by {5}% for 1 turn.",
+    "name": "Blazing Honoka Dance",
+    "summary": "Boosts stun damage when attacking a weakness.<br>Before attacking, reduces target's Strike resistance.<br>After attacking, boosts own stun damage.<br>Boosts target's damage received.<br>When target is stunned, boosts the ally with the highest P. ATK's P. ATK and skill damage."
+  },
+  {
+    "id": 14003185,
+    "description": "Boosts stun damage by {0}% when attacking a weakness.<br>Before attacking, reduces target's Strike resistance by {1}% for 3 attacks.<br>After attacking, boosts own stun damage by {2}% (MAX 60%). Boosts target's damage received by {3}% for 2 attacks.<br>When target is stunned, before using this skill, boosts the ally with the highest P. ATK's P. ATK by {4}% for 1 turn. Converts the next panel into a burst panel (creates panel if empty).",
+    "name": "Honoka Stream Bouncing Cannon",
+    "summary": "Boosts stun damage when attacking a weakness.<br>Before attacking, reduces target's Strike resistance.<br>After attacking, boosts own stun damage.<br>Boosts target's damage received.<br>When target is stunned, boosts the ally with the highest P. ATK's P. ATK and converts the next panel into a burst panel."
+  },
+  {
+    "id": 14003186,
+    "description": "Boosts stun damage by {0}% when attacking a weakness.<br>Before attacking, reduces target's Strike resistance by {1}% for 3 attacks.<br>After attacking, boosts own stun damage by {2}% (MAX 60%). Boosts target's damage received by {3}% for 2 attacks.<br>When target is stunned, before using this skill, boosts the ally with the highest P. ATK's P. ATK by {4}% for 1 turn. Converts the next panel into a burst panel (creates panel if empty).",
+    "name": "Honoka Stream Bouncing Cannon",
+    "summary": "Boosts stun damage when attacking a weakness.<br>Before attacking, reduces target's Strike resistance.<br>After attacking, boosts own stun damage.<br>Boosts target's damage received.<br>When target is stunned, boosts the ally with the highest P. ATK's P. ATK and converts the next panel into a burst panel."
+  },
+  {
+    "id": 14003187,
+    "description": "Boosts stun damage by {0}% when attacking a weakness.<br>Before attacking, reduces target's Strike resistance by {1}% for 3 attacks.<br>After attacking, boosts own stun damage by {2}% (MAX 60%). Boosts target's damage received by {3}% for 2 attacks.<br>When target is stunned, before using this skill, boosts the ally with the highest P. ATK's P. ATK by {4}% for 1 turn. Converts the next panel into a burst panel (creates panel if empty).",
+    "name": "Honoka Stream Bouncing Cannon",
+    "summary": "Boosts stun damage when attacking a weakness.<br>Before attacking, reduces target's Strike resistance.<br>After attacking, boosts own stun damage.<br>Boosts target's damage received.<br>When target is stunned, boosts the ally with the highest P. ATK's P. ATK and converts the next panel into a burst panel."
+  },
+  {
+    "id": 14003188,
+    "description": "Boosts stun damage by {0}% when attacking a weakness.<br>Before attacking, reduces target's Strike resistance by {1}% for 3 attacks.<br>After attacking, boosts own stun damage by {2}% (MAX 60%). Boosts target's damage received by {3}% for 2 attacks.<br>When target is stunned, before using this skill, boosts the ally with the highest P. ATK's P. ATK by {4}% for 1 turn. Converts the next panel into a burst panel (creates panel if empty).",
+    "name": "Honoka Stream Bouncing Cannon",
+    "summary": "Boosts stun damage when attacking a weakness.<br>Before attacking, reduces target's Strike resistance.<br>After attacking, boosts own stun damage.<br>Boosts target's damage received.<br>When target is stunned, boosts the ally with the highest P. ATK's P. ATK and converts the next panel into a burst panel."
+  },
+  {
+    "id": 14003189,
+    "description": "Boosts stun damage by {0}% when attacking a weakness.<br>Before attacking, reduces target's Strike resistance by {1}% for 3 attacks.<br>After attacking, boosts own stun damage by {2}% (MAX 60%). Boosts target's damage received by {3}% for 2 attacks.<br>When target is stunned, before using this skill, boosts the ally with the highest P. ATK's P. ATK by {4}% for 1 turn. Converts the next panel into a burst panel (creates panel if empty).",
+    "name": "Honoka Stream Bouncing Cannon",
+    "summary": "Boosts stun damage when attacking a weakness.<br>Before attacking, reduces target's Strike resistance.<br>After attacking, boosts own stun damage.<br>Boosts target's damage received.<br>When target is stunned, boosts the ally with the highest P. ATK's P. ATK and converts the next panel into a burst panel."
+  },
+  {
+    "id": 32003494,
+    "description": "Before attacking, clears own debuffs and status effects.",
+    "name": "Ice Riding",
+    "summary": ""
+  },
+  {
+    "id": 32003495,
+    "description": "No effect.",
+    "name": "Cold Flower",
+    "summary": ""
+  },
+  {
+    "id": 32003496,
+    "description": "After attacking, clears own status effects.",
+    "name": "Fall Crash",
+    "summary": ""
+  },
+  {
+    "id": 32003497,
+    "description": "No effect.",
+    "name": "Hopping On",
+    "summary": ""
+  },
+  {
+    "id": 32003498,
+    "description": "After attacking, clears own debuffs.",
+    "name": "Splash",
+    "summary": ""
+  },
+  {
+    "id": 32003499,
+    "description": "Recovers target ally's HP by 10% and grants Regeneration (5% for 2 turns).",
+    "name": "Moist Supply",
+    "summary": ""
+  },
+  {
+    "id": 32003500,
+    "description": "After attacking, increases own max HP by 15% and recovers HP by 20%.",
+    "name": "High Jump Crash",
+    "summary": ""
+  },
+  {
+    "id": 32003501,
+    "description": "After attacking, applies Paralysis to skill target (40% chance for 1 time).",
+    "name": "Splash",
+    "summary": ""
+  },
+  {
+    "id": 32003502,
+    "description": "No additional effects.",
+    "name": "Mounting",
+    "summary": ""
+  },
+  {
+    "id": 32003503,
+    "description": "After attacking, reduces own damage received by 20% for 3 turns.",
+    "name": "Ice Riding",
+    "summary": ""
+  },
+  {
+    "id": 32003504,
+    "description": "Recovers all allies' HP by 10% and stun gauge by 20%, and grants Regeneration (10% for 2 turns).",
+    "name": "Moist Supply",
+    "summary": ""
+  },
+  {
+    "id": 32003505,
+    "description": "Before attacking, removes own negative effects and status effects.",
+    "name": "Ice Riding",
+    "summary": ""
+  },
+  {
+    "id": 32003506,
+    "description": "No additional effects.",
+    "name": "Cold Flower",
+    "summary": ""
+  },
+  {
+    "id": 32003507,
+    "description": "After attacking, removes own status effects.",
+    "name": "Fall Crash",
+    "summary": ""
+  },
+  {
+    "id": 32003508,
+    "description": "No additional effects.",
+    "name": "Mounting",
+    "summary": ""
+  },
+  {
+    "id": 32003509,
+    "description": "After attacking, removes own negative effects.",
+    "name": "Splash",
+    "summary": ""
+  },
+  {
+    "id": 32003510,
+    "description": "Recovers target ally's HP by 10% and grants Regeneration (5% for 2 turns).",
+    "name": "Moist Supply",
+    "summary": ""
+  },
+  {
+    "id": 32003511,
+    "description": "After attacking, increases own max HP by 15% and recovers HP by 20%.",
+    "name": "High Jump Crash",
+    "summary": ""
+  },
+  {
+    "id": 32003512,
+    "description": "After attacking, applies Paralysis to skill target (40% chance for 1 time).",
+    "name": "Splash",
+    "summary": ""
+  },
+  {
+    "id": 32003513,
+    "description": "No additional effects.",
+    "name": "Mounting",
+    "summary": ""
+  },
+  {
+    "id": 32003514,
+    "description": "After attacking, reduces own damage received by 20% for 3 turns.",
+    "name": "Ice Riding",
+    "summary": ""
+  },
+  {
+    "id": 32003515,
+    "description": "Recovers all allies' HP by 10% and stun gauge by 20%, and grants Regeneration (10% for 2 turns).",
+    "name": "Moist Supply",
+    "summary": ""
+  },
+  {
+    "id": 32003516,
+    "description": "After attacking, converts all enemy panels to Burn panels (excluding burst panels).",
+    "name": "Purgatory Flames",
+    "summary": ""
+  },
+  {
+    "id": 32003517,
+    "description": "After attacking, applies 2 stacks of Poison to skill target for 3 turns and reduces recovery granted by 20% for 3 turns.",
+    "name": "Great Tentacle",
+    "summary": ""
+  },
+  {
+    "id": 32003518,
+    "description": "After attacking, applies 1 stack of Poison to skill target for 3 turns.\nIf skill target has a status effect, boosts own skill damage by 15%.",
+    "name": "Silent Thorn",
+    "summary": ""
+  },
+  {
+    "id": 32003519,
+    "description": "After attacking, creates burn panels 3 turns ahead.\nAfter attacking, reduces target's SPD by 5% for 3 turns.",
+    "name": "Hellfire Emission",
+    "summary": ""
+  },
+  {
+    "id": 32003520,
+    "description": "Grants target Darkness for 1 turn, reduces damage dealt by 20% for 3 turns, and reduces critical rate by 20% for 2 turns.",
+    "name": "Light Orb Explosion",
+    "summary": ""
+  },
+  {
+    "id": 32003521,
+    "description": "After attacking, delays target's turn by 3 turns.",
+    "name": "Tackle",
+    "summary": ""
+  },
+  {
+    "id": 32003522,
+    "description": "No additional effects.",
+    "name": "Rush",
+    "summary": ""
+  },
+  {
+    "id": 32003523,
+    "description": "After attacking, reduces target's damage dealt by 10% (permanent).",
+    "name": "Meteor Slash",
+    "summary": ""
+  },
+  {
+    "id": 32003524,
+    "description": "After attacking, grants target Paralysis (80% chance for 3 turns) and delays turn by 3 turns.",
+    "name": "Fall Impact",
+    "summary": ""
+  },
+  {
+    "id": 32003525,
+    "description": "No additional effects.",
+    "name": "Fall Slash",
+    "summary": ""
+  },
+  {
+    "id": 32003526,
+    "description": "No additional effects.",
+    "name": "Thunder Slash",
+    "summary": ""
+  },
+  {
+    "id": 32003527,
+    "description": "Reduces target's damage received by 20% for 2 turns.",
+    "name": "Cheer Up",
+    "summary": ""
+  },
+  {
+    "id": 32003528,
+    "description": "After attacking, converts all enemy panels to burn panels (excluding burst panels).",
+    "name": "Netherworld Flames",
+    "summary": ""
+  },
+  {
+    "id": 32003529,
+    "description": "After attacking, grants target 2 stacks of Poison for 3 turns and reduces HP recovery granted by 20% for 3 turns.",
+    "name": "Large Tentacle",
+    "summary": ""
+  },
+  {
+    "id": 32003530,
+    "description": "After attacking, grants target 1 stack of Poison for 3 turns.\nIf target has a status effect, boosts own skill damage by 15%.",
+    "name": "Silent Stinger",
+    "summary": ""
+  },
+  {
+    "id": 32003531,
+    "description": "After attacking, creates burn panels 3 turns ahead.\nAfter attacking, reduces target's SPD by 5% for 3 turns.",
+    "name": "Hellfire Emission",
+    "summary": ""
+  },
+  {
+    "id": 32003532,
+    "description": "Grants target Darkness for 1 turn, reduces damage dealt by 20% for 3 turns, and reduces critical rate by 20% for 2 turns.",
+    "name": "Light Orb Explosion",
+    "summary": ""
+  },
+  {
+    "id": 32003533,
+    "description": "After attacking, grants target Nullify Positive Effects for 1 turn.",
+    "name": "Disheveled",
+    "summary": ""
+  },
+  {
+    "id": 32003534,
+    "description": "No additional effects.",
+    "name": "Leap",
+    "summary": ""
+  },
+  {
+    "id": 32003535,
+    "description": "No additional effects.",
+    "name": "Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 32003536,
+    "description": "After attacking, reduces target's damage dealt by 20% for 3 turns.",
+    "name": "Black Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 32003537,
+    "description": "Boosts target ally's damage dealt by 25% for 3 turns.",
+    "name": "Relax",
+    "summary": ""
+  },
+  {
+    "id": 32003538,
+    "description": "After attacking, boosts own SPD by 5% (permanent).",
+    "name": "Lucidus Sidera",
+    "summary": ""
+  },
+  {
+    "id": 32003539,
+    "description": "After attacking, reduces own damage received by 30% for 2 turns.\nAfter attacking, reduces own stun damage received by 30% for 2 turns.",
+    "name": "Harmonia",
+    "summary": ""
+  },
+  {
+    "id": 32003540,
+    "description": "No effects.",
+    "name": "Zodiacus",
+    "summary": ""
+  },
+  {
+    "id": 32003541,
+    "description": "After attacking, reduces target enemy's SPD by 10% for 2 turns.",
+    "name": "Nexus Celeste",
+    "summary": ""
+  },
+  {
+    "id": 32003542,
+    "description": "After attacking, reduces own negative effect potency received by 50% for 2 turns.",
+    "name": "Nexus Flaum",
+    "summary": ""
+  },
+  {
+    "id": 32003543,
+    "description": "Grants self 2 stacks of SPD Up by 5% (permanent).\nGrants self Evasion by 5% (permanent, MAX 30%).",
+    "name": "Emerald Star's Blessing",
+    "summary": ""
   }
 ]

@@ -1243,5 +1243,10 @@
     "id": 1201,
     "description": "While equipped to a Supporter with Strike affinity, after using a skill, boosts damage when attacking a weakness by {0}% for the ally with the highest P.ATK for 1 turn. (Cannot be stacked)",
     "name": "Fluffy Choux"
+  },
+  {
+    "id": 1192,
+    "description": "While equipped to Honoka [Cross the Line], before using burst skill, reduces all enemies' Strike resistance by {0}% for 2 attacks. (MAX 3 stacks)",
+    "name": "Secret Ripple"
   }
 ]

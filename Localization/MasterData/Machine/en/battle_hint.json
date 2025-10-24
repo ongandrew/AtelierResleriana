@@ -2090,5 +2090,33 @@
   {
     "id": 60201057,
     "description": "- When stunned, removes own positive effects and grants SPD Up to all opponents\n- Heals self\n- Receives increased damage from burst skills"
+  },
+  {
+    "id": 60006031,
+    "description": "- Delays turn\n- Has a chance to inflict Paralysis\n- Receives increased damage from burst skills"
+  },
+  {
+    "id": 60040033,
+    "description": "- Inflicts Nullify Positive Effects\n- Receives increased damage from burst skills"
+  },
+  {
+    "id": 60162010,
+    "description": "- After being hit by a burst skill, has a chance to inflict Blindness on self\n- After being hit by a burst skill, increases own damage received\n- Removes own status effects and negative effects\n- Heals allies and grants Regen\n- Nullifies resistance reduction for all elements except Strike"
+  },
+  {
+    "id": 60162011,
+    "description": "- After being hit by a burst skill, increases own damage received\n- Removes own status effects and negative effects\n- Heals allies and grants Regen\n- Nullifies resistance reduction for all elements except Strike\n- After turn 50 or later, grants self Damage Dealt Up (MAX 300%) and SPD Up (MAX 100%)"
+  },
+  {
+    "id": 60203030,
+    "description": "- Creates Burn panels\n- Boosts damage dealt against targets with status effects\n- Inflicts Poison\n- Inflicts Blindness\n- Receives increased damage from burst skills"
+  },
+  {
+    "id": 60248006,
+    "description": "- When KO'd, applies a Field Effect that boosts damage dealt for all allies and all opponents (Effect potency increases based on number of attacks received)\n- Heals self\n- Nullifies resistance reduction for all elements except Strike"
+  },
+  {
+    "id": 60259004,
+    "description": "- When hit by a burst skill, inflicts Nullify Recovery on self\n- Increases own max HP and restores HP\n- Has a chance to inflict Paralysis\n- Restores allies' stun gauge and grants Regen\n- Nullifies resistance reduction for all elements except Strike\n- After turn 50 or later, grants self Damage Dealt Up (MAX 300%) and SPD Up (MAX 100%)"
   }
 ]

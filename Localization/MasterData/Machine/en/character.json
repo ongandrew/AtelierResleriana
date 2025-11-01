@@ -799,22 +799,6 @@
     "start_at": "2025-09-19T03:00:00Z"
   },
   {
-    "id": 45202,
-    "acquisition_text": "Reviving alchemy is my wish as well.\n——Come, let us go together.",
-    "another_name": "DOA Collaboration Event",
-    "description": "Resna's alchemy mentor.\nShe stopped by Resna's village during her travels and taught her the basics of alchemy.\nShe has a bright and cheerful personality, but can show a strict side when it comes to alchemy.\nHer private life is quite carefree, and Resna often takes care of her.",
-    "fullname": "Alvina",
-    "leader_skill": {
-      "description": "All allies gain Critical Damage +5% for each Lantarna character.",
-      "name": "The Shooting Star Is With Us"
-    },
-    "name": "Alvina",
-    "overlay_name": "Alvina Zimlock",
-    "profile_voice_text": "I'm Saskia. Like Resna, I'm a dreaming\nalchemist. Aim for World's End!",
-    "sort_name": "Alvina",
-    "start_at": "2049-12-31T15:00:00Z"
-  },
-  {
     "id": 70101,
     "acquisition_text": "Ah! Found you! I was getting bored.\nWould you like to play with Marie?",
     "another_name": "Twinkle Rose",
@@ -861,5 +845,21 @@
     "profile_voice_text": "Hello there! I'm Honoka.\nLet's have a fun vacation together!",
     "sort_name": "Honoka",
     "start_at": "2025-10-24T03:00:00Z"
+  },
+  {
+    "id": 45202,
+    "acquisition_text": "Someday I'll become a strong, beautiful, and cool swimsuit hero too...or something like that!",
+    "another_name": "Tropical Shine",
+    "description": "A Star Guide of the sacred lands of Nova, and an alchemist. Through a series of events, she ended up wandering into the Venus Isles and participating in the Venus Fest, a festival where goddesses compete in strength and beauty. Quick-witted and meticulous by nature, she's well aware of her own charm and actively appeals with her cuteness during the Venus Fest.",
+    "fullname": "Alvina Zimlock",
+    "leader_skill": {
+      "description": "Boosts burst skill damage for Seasonal characters by 100%.",
+      "name": "Talent Blooming on a Tropical Isle"
+    },
+    "name": "Alvina",
+    "overlay_name": "Alvina Zimlock",
+    "profile_voice_text": "Come to think of it, I may have never worn a swimsuit before. Well? Take a look! Does it suit me?",
+    "sort_name": "Alvina",
+    "start_at": "2025-10-31T03:00:00Z"
   }
 ]

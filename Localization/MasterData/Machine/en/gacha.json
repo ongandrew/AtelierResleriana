@@ -3660,5 +3660,59 @@
     "name": "Alvina [Dream of Hero] Revival Wish [Paid-Only]",
     "start_at": "2025-10-24T03:00:00Z",
     "step_up_loop_description": ""
+  },
+  {
+    "id": 2310,
+    "description": "Alvina debuts & featured!\nFeatured until 2025/11/10 10:59 (UTC+8)",
+    "end_at": "2025-11-10T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Everlasting Venus - Alvina LEGEND FES",
+    "name": "Everlasting Venus - Alvina LEGEND FES",
+    "start_at": "2025-10-31T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2311,
+    "description": "Additional wish banner appears after 50 wishes with Paid Lodestar Gems!\nFeatured until 2025/11/10 10:59 (UTC+8)",
+    "end_at": "2025-11-10T03:00:00Z",
+    "name": "Everlasting Venus - Alvina LEGEND FES [Paid Lodestar Gems Only]",
+    "start_at": "2025-10-31T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 231101,
+    "description": "Max 5 times! Featured rate is doubled!\nGet 16 Medals! Featured until 2025/11/10 10:59 (UTC+8)",
+    "end_at": "2025-11-10T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10005,
+            "description": "Bonus included!\n{} Wishes left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Everlasting Venus - Alvina LEGEND FES [Paid Lodestar Gems Only]",
+    "name": "Everlasting Venus - Alvina LEGEND FES [Paid Lodestar Gems Only]",
+    "start_at": "2025-10-31T03:00:00Z",
+    "step_up_loop_description": ""
   }
 ]

@@ -323,6 +323,7 @@ namespace AtelierResleriana.Executables.Pipeline.TextAsset.Localize
                     TextAssetPrefixes.CharacterEvent,
                     TextAssetPrefixes.Date,
                     TextAssetPrefixes.LegendEvent,
+                    TextAssetPrefixes.SeasonalEvent,
                     TextAssetPrefixes.SeasonalTalkEvent,
                     TextAssetPrefixes.SideStoryEvent
                 };

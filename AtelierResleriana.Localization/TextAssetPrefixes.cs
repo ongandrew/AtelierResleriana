@@ -38,6 +38,11 @@
         public const string SeasonalTalkEvent = "SeasonalTalkEvent";
 
         /// <summary>
+        /// SeasonalEvent
+        /// </summary>
+        public const string SeasonalEvent = "SeasonalEvent";
+
+        /// <summary>
         /// SideStoryEvent
         /// </summary>
         public const string SideStoryEvent = "SideStoryEvent";

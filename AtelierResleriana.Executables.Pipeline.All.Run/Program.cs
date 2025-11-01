@@ -1,4 +1,5 @@
 ﻿using System.Diagnostics;
+using System.Text;
 
 namespace AtelierResleriana.Executables.Pipeline.All.Run
 {
@@ -6,6 +7,8 @@ namespace AtelierResleriana.Executables.Pipeline.All.Run
     {
         static async Task Main(string[] args)
         {
+            Console.OutputEncoding = Encoding.UTF8;
+
             CancellationToken cancellationToken = default;
 
             Task extractMasterDataTask = RunBranchAsync("MasterData");

@@ -3199,5 +3199,93 @@
         }
       }
     }
+  },
+  {
+    "id": 1409194610,
+    "properties": {
+      "999008199": {
+        "text": "完結編",
+        "localizations": {
+          "en": "Final Chapter"
+        }
+      }
+    }
+  },
+  {
+    "id": 554729145,
+    "properties": {
+      "999008199": {
+        "text": "{0}({1}まで)",
+        "localizations": {
+          "en": "{0} (Until {1})"
+        }
+      }
+    }
+  },
+  {
+    "id": 1107134924,
+    "properties": {
+      "999008199": {
+        "text": "今後はこのメッセージを表示しない",
+        "localizations": {
+          "en": "Don't show this message again"
+        }
+      }
+    }
+  },
+  {
+    "id": 493638969,
+    "properties": {
+      "999008199": {
+        "text": "有効期限",
+        "localizations": {
+          "en": "Expiration Date"
+        }
+      }
+    }
+  },
+  {
+    "id": 141493725,
+    "properties": {
+      "999008199": {
+        "text": "下記アイテムの使用期限が迫っています。",
+        "localizations": {
+          "en": "The following items are about to expire."
+        }
+      }
+    }
+  },
+  {
+    "id": 449701627,
+    "properties": {
+      "999008199": {
+        "text": "ショップへ",
+        "localizations": {
+          "en": "Go to Shop"
+        }
+      }
+    }
+  },
+  {
+    "id": 1297880271,
+    "properties": {
+      "999008199": {
+        "text": "使用期限が短くなります。元に戻せませんが、よろしいですか？",
+        "localizations": {
+          "en": "The expiration date will be shortened. This cannot be undone. Are you sure?"
+        }
+      }
+    }
+  },
+  {
+    "id": 1409800671,
+    "properties": {
+      "999008199": {
+        "text": "購入した商品をメールに送付しました。",
+        "localizations": {
+          "en": "Your purchased items have been sent via in-game mail."
+        }
+      }
+    }
   }
 ]

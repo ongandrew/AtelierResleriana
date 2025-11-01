@@ -1960,5 +1960,38 @@
     ],
     "start_at": "2025-10-24T03:00:00Z",
     "tracking_id": "af_synthesis_recipe_793"
+  },
+  {
+    "id": 794,
+    "name": "Foam Garter",
+    "requirements": [
+      {
+        "name": "Awaken Alvina [Tropical Shine] to ☆5"
+      }
+    ],
+    "start_at": "2025-10-31T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_794"
+  },
+  {
+    "id": 795,
+    "name": "Veteran's Robe",
+    "requirements": [
+      {
+        "name": "Clear Main Story 5-61"
+      }
+    ],
+    "start_at": "2025-10-31T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_795"
+  },
+  {
+    "id": 796,
+    "name": "Atlas Bangle",
+    "requirements": [
+      {
+        "name": "Clear Main Story 5-61"
+      }
+    ],
+    "start_at": "2025-10-31T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_796"
   }
 ]

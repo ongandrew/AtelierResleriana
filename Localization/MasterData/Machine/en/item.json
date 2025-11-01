@@ -2080,5 +2080,60 @@
     "description": "An item that can be used at the \"DOAXVV Collaboration\" event exchange.",
     "end_at": "2025-11-10T03:00:00Z",
     "name": "Battle Coin [DOAXVV Collaboration - Part 2]"
+  },
+  {
+    "id": 1164,
+    "description": "A ticket that can be used to perform one Wish on the Everlasting Summer Venus Alvina LEGEND FES.",
+    "end_at": "2025-11-10T03:00:00Z",
+    "name": "Everlasting Summer Venus Alvina Wish Ticket"
+  },
+  {
+    "id": 1167,
+    "description": "A delicious cookie embedded with chocolate bits. Can be used to recover stamina. Make sure to eat it before it goes stale!",
+    "end_at": "2026-02-01T03:00:00Z",
+    "name": "Chocolate Cookie"
+  },
+  {
+    "id": 1168,
+    "description": "A fragment of mana that once poured down from a shooting star. Can be used to recover mana. Its glow is fading and it seems ready to lose its power, so use it quickly.",
+    "end_at": "2026-02-01T03:00:00Z",
+    "name": "Mana Fragment"
+  },
+  {
+    "id": 1170,
+    "description": "Points needed to obtain Mission Pass rewards.",
+    "end_at": "2025-12-01T03:00:00Z",
+    "name": "Mission PT",
+    "start_at": "2025-11-01T03:00:00Z"
+  },
+  {
+    "id": 1175,
+    "description": "A special medal engraved with a shooting star. Can be used in Medal Exchange.",
+    "end_at": "2026-01-01T03:00:00Z",
+    "name": "Resleriana Store Medal [202511]"
+  },
+  {
+    "id": 1176,
+    "description": "A mini chocolate cookie carefully wrapped one by one. Can be used to recover stamina. Make sure to eat it before it goes stale!",
+    "end_at": "2026-02-01T03:00:00Z",
+    "name": "Handwrapped Mini Chocolate Cookie"
+  },
+  {
+    "id": 1182,
+    "description": "An item that can be used in the event \"DOAXVV Collab\" Exchange.",
+    "end_at": "2025-11-10T03:00:00Z",
+    "name": "Battle Coin [DOAXVV Collab Final Chapter]"
+  },
+  {
+    "id": 1183,
+    "description": "Material needed for synthesis.",
+    "name": "Bright Red Apple",
+    "start_at": "2025-10-31T03:00:00Z"
+  },
+  {
+    "id": 1184,
+    "description": "Material needed for synthesis.",
+    "name": "Premium Melon",
+    "start_at": "2025-10-31T03:00:00Z"
   }
 ]

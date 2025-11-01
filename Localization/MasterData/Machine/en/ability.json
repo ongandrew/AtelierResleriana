@@ -4916,27 +4916,27 @@
   },
   {
     "id": 4990983,
-    "description": "After using a skill, randomly grants one of the following effects to self:<br>• Skill Damage +10% for 2 turns<br>• Critical Damage +10% for 2 turns<br>• Skill Power +10% for 2 turns<br>• Damage Received -10% (fixed) for 2 attacks",
+    "description": "After using a skill, randomly grants one of the following effects to self:<br>• Skill Damage +{0}% for 2 turns<br>• Critical Damage +{0}% for 2 turns<br>• Skill Power +{0}% for 2 turns<br>• Damage Received -{0}% (fixed) for 2 attacks",
     "name": "Fantasy \"Blooming Talent\""
   },
   {
     "id": 4990984,
-    "description": "After using a skill, randomly grants one of the following effects to self:<br>• Skill Damage +20% for 2 turns<br>• Critical Damage +20% for 2 turns<br>• Skill Power +20% for 2 turns<br>• Damage Received -20% (fixed) for 2 attacks",
+    "description": "After using a skill, randomly grants one of the following effects to self:<br>• Skill Damage +{0}% for 2 turns<br>• Critical Damage +{0}% for 2 turns<br>• Skill Power +{0}% for 2 turns<br>• Damage Received -{0}% (fixed) for 2 attacks",
     "name": "Fantasy \"Blooming Talent\""
   },
   {
     "id": 4990985,
-    "description": "After using a skill, randomly grants one of the following effects to self:<br>• Skill Damage +30% for 2 turns<br>• Critical Damage +30% for 2 turns<br>• Skill Power +30% for 2 turns<br>• Damage Received -30% (fixed) for 2 attacks",
+    "description": "After using a skill, randomly grants one of the following effects to self:<br>• Skill Damage +{0}% for 2 turns<br>• Critical Damage +{0}% for 2 turns<br>• Skill Power +{0}% for 2 turns<br>• Damage Received -{0}% (fixed) for 2 attacks",
     "name": "Fantasy \"Blooming Talent\""
   },
   {
     "id": 4990986,
-    "description": "After using a skill, randomly grants one of the following effects to self:<br>• Skill Damage +40% for 2 turns<br>• Critical Damage +40% for 2 turns<br>• Skill Power +40% for 2 turns<br>• Damage Received -40% (fixed) for 2 attacks",
+    "description": "After using a skill, randomly grants one of the following effects to self:<br>• Skill Damage +{0}% for 2 turns<br>• Critical Damage +{0}% for 2 turns<br>• Skill Power +{0}% for 2 turns<br>• Damage Received -{0}% (fixed) for 2 attacks",
     "name": "Fantasy \"Blooming Talent\""
   },
   {
     "id": 4990987,
-    "description": "After using a skill, randomly grants one of the following effects to self:<br>• Skill Damage +50% for 2 turns<br>• Critical Damage +50% for 2 turns<br>• Skill Power +50% for 2 turns<br>• Damage Received -50% (fixed) for 2 attacks",
+    "description": "After using a skill, randomly grants one of the following effects to self:<br>• Skill Damage +{0}% for 2 turns<br>• Critical Damage +{0}% for 2 turns<br>• Skill Power +{0}% for 2 turns<br>• Damage Received -{0}% (fixed) for 2 attacks",
     "name": "Fantasy \"Blooming Talent\""
   },
   {
@@ -7853,5 +7853,70 @@
     "id": 600000737,
     "description": "When Honoka [Cross the Line] or Resna [Venus Nova] is in the party, reduces damage received by 25%. (MAX 25%)",
     "name": "Honoka [Cross the Line] or Resna [Venus Nova] Party Damage Reduction"
+  },
+  {
+    "id": 301276,
+    "description": "While equipped to Alvina [Tropical Shine], boosts negative effect potency by {0}%.",
+    "name": "Foam Garter"
+  },
+  {
+    "id": 301285,
+    "description": "Boosts all allies' critical damage by {0}%.",
+    "name": "Veteran's Robe"
+  },
+  {
+    "id": 301286,
+    "description": "Boosts all allies' critical damage by {0}%.",
+    "name": "Veteran's Robe"
+  },
+  {
+    "id": 301287,
+    "description": "Boosts skill damage by {0}%.",
+    "name": "Atlas Bangle"
+  },
+  {
+    "id": 301288,
+    "description": "Boosts skill damage by {0}%.",
+    "name": "Atlas Bangle"
+  },
+  {
+    "id": 1980214,
+    "description": "For Seasonal characters, boosts burst skill damage by {0}%.",
+    "name": "Talent Blooming on the Eternal Summer Island"
+  },
+  {
+    "id": 1990477,
+    "description": "Converts own burst skill into a gauge.<br>※Burst gauge can store up to 3 charges.<br><br>After using Beauty Shine on a target with Hardcore Alvie Fan (Lv. 5), removes Hardcore Alvie Fan (Lv. 5) from the target and increases own burst gauge by {0}%.<br>When using Mellow☆Trap or Charming Alvina Special☆, if the target has Hardcore Alvie Fan granted, increases own burst gauge by {1}%.",
+    "name": "Nailed by Alvie!"
+  },
+  {
+    "id": 1990478,
+    "description": "After using a burst skill, grants all enemies Physical Damage Received +{0}% (max 200%) and Attack Penetration Received +{1} (max 150).",
+    "name": "Vacation Trick"
+  },
+  {
+    "id": 4991153,
+    "description": "While equipped to a Supporter with Strike affinity, boosts negative effect potency by {0}%.\nFor Spirited characters, boosts all allies' P.ATK by {1}%.",
+    "name": "Imaginings \"Victory's a Certainty!\""
+  },
+  {
+    "id": 4991154,
+    "description": "While equipped to a Supporter with Strike affinity, boosts negative effect potency by {0}%.\nFor Spirited characters, boosts all allies' P.ATK by {1}%.",
+    "name": "Imaginings \"Victory's a Certainty!\""
+  },
+  {
+    "id": 4991155,
+    "description": "While equipped to a Supporter with Strike affinity, boosts negative effect potency by {0}%.\nFor Spirited characters, boosts all allies' P.ATK by {1}%.",
+    "name": "Imaginings \"Victory's a Certainty!\""
+  },
+  {
+    "id": 4991156,
+    "description": "While equipped to a Supporter with Strike affinity, boosts negative effect potency by {0}%.\nFor Spirited characters, boosts all allies' P.ATK by {1}%.",
+    "name": "Imaginings \"Victory's a Certainty!\""
+  },
+  {
+    "id": 4991157,
+    "description": "While equipped to a Supporter with Strike affinity, boosts negative effect potency by {0}%.\nFor Spirited characters, boosts all allies' P.ATK by {1}%.",
+    "name": "Imaginings \"Victory's a Certainty!\""
   }
 ]

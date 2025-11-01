@@ -20,6 +20,7 @@ namespace AtelierResleriana.Executables.Pipeline.TextAsset.Prepare
                 TextAssetPrefixes.Date,
                 TextAssetPrefixes.ErrorText,
                 TextAssetPrefixes.LegendEvent,
+                TextAssetPrefixes.SeasonalEvent,
                 TextAssetPrefixes.SeasonalTalkEvent,
                 TextAssetPrefixes.SideStoryEvent,
                 TextAssetPrefixes.SystemText,

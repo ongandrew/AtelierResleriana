@@ -2118,5 +2118,9 @@
   {
     "id": 60259004,
     "description": "- When hit by a burst skill, inflicts Nullify Recovery on self\n- Increases own max HP and restores HP\n- Has a chance to inflict Paralysis\n- Restores allies' stun gauge and grants Regen\n- Nullifies resistance reduction for all elements except Strike\n- After turn 50 or later, grants self Damage Dealt Up (MAX 300%) and SPD Up (MAX 100%)"
+  },
+  {
+    "id": 60246007,
+    "description": "- Every certain number of times hit by a weakness attack, grants self Damage Received Up (up to 50%) and Stun Damage Received Up (up to 50%)"
   }
 ]

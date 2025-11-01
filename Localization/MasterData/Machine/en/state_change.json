@@ -3263,5 +3263,65 @@
     "id": 1210433,
     "description": "Boosts burst gauge gained by {value}%.",
     "name": "Burst Gauge Gained Up"
+  },
+  {
+    "id": 510232,
+    "description": "For each level of Alvina Super Fan Mode, reduces Strike resistance by 10% and boosts Strike damage received by 30%. (MAX Lv. 5) (All effect values are fixed)<br>*For targets with Strike Resistance Down immunity, only the Strike Damage Received Up effect is applied.",
+    "name": "Alvina Super Fan Mode"
+  },
+  {
+    "id": 510235,
+    "description": "Boosts physical attack damage received by {value}%. (MAX 200%)",
+    "name": "Received Physical Damage Up"
+  },
+  {
+    "id": 510236,
+    "description": "Boosts penetration of attacks received by {value}. (MAX 150)",
+    "name": "Received Attack Penetration Up"
+  },
+  {
+    "id": 610349,
+    "description": "After attacking, if target does not have Alvina Super Fan Mode, grants Alvina Super Fan Mode (Lv. 1).<br>If already granted, increases Alvina Super Fan Mode Lv. by 1. (MAX Lv. 5)",
+    "name": "Grant Alvina Super Fan Mode"
+  },
+  {
+    "id": 610350,
+    "description": "Boosts damage received from Strike attacks by {value}%. (MAX 4 stacks)",
+    "name": "Received Damage: Strike Up"
+  },
+  {
+    "id": 610351,
+    "description": "Boosts stun damage received by {value}%. (MAX 4 stacks)",
+    "name": "Received Stun Damage Up"
+  },
+  {
+    "id": 610354,
+    "description": "Boosts damage received from Strike attacks by {value}%. (MAX 4 stacks)",
+    "name": "Received Damage: Strike Up"
+  },
+  {
+    "id": 610355,
+    "description": "Boosts stun damage received by {value}%. (MAX 4 stacks)",
+    "name": "Received Stun Damage Up"
+  },
+  {
+    "id": 610372,
+    "description": "Reduces Strike resistance by {value}% based on Alvina Super Fan Mode Lv.",
+    "name": "Strike Res. Down Based on Alvina Fan Mode Lv."
+  },
+  {
+    "id": 610373,
+    "description": "Boosts Strike damage received by {value}% based on Alvina Super Fan Mode Lv.",
+    "name": "Strike Dmg. Received Up Based on Alvina Fan Mode Lv."
+  },
+  {
+    "id": 610374,
+    "description": "After attacking, grants Strike Resistance Down Based on Alvina Super Fan Mode Lv.",
+    "name": "Grant Strike Res. Down Based on Alvina Fan Mode Lv."
+  },
+  {
+    "id": 610375,
+    "description": "After attacking, grants Strike Damage Received Up Based on Alvina Super Fan Mode Lv.",
+    "name": "Grant Strike Dmg. Received Up Based on Alvina Fan Mode Lv."
   }
 ]

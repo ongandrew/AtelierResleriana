@@ -22924,5 +22924,95 @@
     "description": "Grants self 2 stacks of SPD Up by 5% (permanent).\nGrants self Evasion by 5% (permanent, MAX 30%).",
     "name": "Emerald Star's Blessing",
     "summary": ""
+  },
+  {
+    "id": 11003190,
+    "description": "After attacking, reduces target's Strike resistance by {0}% for 2 attacks and<br>increases target's physical damage received by {1}% for 1 attack.",
+    "name": "Beauty Shine",
+    "summary": "After attacking, reduces target's Strike resistance<br>Increases target's physical damage received"
+  },
+  {
+    "id": 11003191,
+    "description": "After attacking, reduces target's Strike resistance by {0}% for 2 attacks and<br>increases target's physical damage received by {1}% for 1 attack.",
+    "name": "Beauty Shine",
+    "summary": "After attacking, reduces target's Strike resistance<br>Increases target's physical damage received"
+  },
+  {
+    "id": 11003192,
+    "description": "After attacking, reduces target's Strike resistance by {0}% for 2 attacks and<br>increases target's physical damage received by {1}% for 1 attack.",
+    "name": "Beauty Shine",
+    "summary": "After attacking, reduces target's Strike resistance<br>Increases target's physical damage received"
+  },
+  {
+    "id": 11003193,
+    "description": "After attacking, reduces target's Strike resistance by {0}% for 2 attacks and<br>increases target's physical damage received by {1}% for 1 attack.",
+    "name": "Beauty Shine",
+    "summary": "After attacking, reduces target's Strike resistance<br>Increases target's physical damage received"
+  },
+  {
+    "id": 11003194,
+    "description": "After attacking, reduces target's Strike resistance by {0}% for 2 attacks and<br>increases target's physical damage received by {1}% for 1 attack.",
+    "name": "Beauty Shine",
+    "summary": "After attacking, reduces target's Strike resistance<br>Increases target's physical damage received"
+  },
+  {
+    "id": 12003195,
+    "description": "Reduces target's status effect resistance by {0}% for 2 turns and<br>increases target's Strike damage received by {1}% and stun damage received by {2}% for 2 attacks (Max 4 stacks each).<br>If Hardcore Alvie Fan has not been granted, grants Hardcore Alvie Fan (Lv. 2).<br>If already granted, increases Hardcore Alvie Fan Lv. by 2 (Max Lv. 5).<br><br>Grants all allies the following additional effect for 1 turn:<br>Additional Effect: After attacking, if target does not have Hardcore Alvie Fan, grants Hardcore Alvie Fan (Lv. 1).<br>If already granted, increases Hardcore Alvie Fan Lv. by 1 (Max Lv. 5).<br>※Hardcore Alvie Fan reduces Strike resistance by 10% and increases Strike damage received by 30% per Lv. (Max Lv. 5) (All effects are fixed values).<br>※For targets with Strike Resistance Down immunity, only the Strike damage received increase effect is applied.",
+    "name": "Mellow☆Trap",
+    "summary": "Reduces target's status effect resistance<br>Increases target's Strike damage received and stun damage received<br>Grants or increases Hardcore Alvie Fan on target<br>Grants additional effect to all allies"
+  },
+  {
+    "id": 12003196,
+    "description": "Reduces target's status effect resistance by {0}% for 2 turns and<br>increases target's Strike damage received by {1}% and stun damage received by {2}% for 2 attacks (Max 4 stacks each).<br>If Hardcore Alvie Fan has not been granted, grants Hardcore Alvie Fan (Lv. 2).<br>If already granted, increases Hardcore Alvie Fan Lv. by 2 (Max Lv. 5).<br><br>Grants all allies the following additional effect for 1 turn:<br>Additional Effect: After attacking, if target does not have Hardcore Alvie Fan, grants Hardcore Alvie Fan (Lv. 1).<br>If already granted, increases Hardcore Alvie Fan Lv. by 1 (Max Lv. 5).<br>※Hardcore Alvie Fan reduces Strike resistance by 10% and increases Strike damage received by 30% per Lv. (Max Lv. 5) (All effects are fixed values).<br>※For targets with Strike Resistance Down immunity, only the Strike damage received increase effect is applied.",
+    "name": "Mellow☆Trap",
+    "summary": "Reduces target's status effect resistance<br>Increases target's Strike damage received and stun damage received<br>Grants or increases Hardcore Alvie Fan on target<br>Grants additional effect to all allies"
+  },
+  {
+    "id": 12003197,
+    "description": "Reduces target's status effect resistance by {0}% for 2 turns and<br>increases target's Strike damage received by {1}% and stun damage received by {2}% for 2 attacks (Max 4 stacks each).<br>If Hardcore Alvie Fan has not been granted, grants Hardcore Alvie Fan (Lv. 2).<br>If already granted, increases Hardcore Alvie Fan Lv. by 2 (Max Lv. 5).<br><br>Grants all allies the following additional effect for 1 turn:<br>Additional Effect: After attacking, if target does not have Hardcore Alvie Fan, grants Hardcore Alvie Fan (Lv. 1).<br>If already granted, increases Hardcore Alvie Fan Lv. by 1 (Max Lv. 5).<br>※Hardcore Alvie Fan reduces Strike resistance by 10% and increases Strike damage received by 30% per Lv. (Max Lv. 5) (All effects are fixed values).<br>※For targets with Strike Resistance Down immunity, only the Strike damage received increase effect is applied.",
+    "name": "Mellow☆Trap",
+    "summary": "Reduces target's status effect resistance<br>Increases target's Strike damage received and stun damage received<br>Grants or increases Hardcore Alvie Fan on target<br>Grants additional effect to all allies"
+  },
+  {
+    "id": 12003198,
+    "description": "Reduces target's status effect resistance by {0}% for 2 turns and<br>increases target's Strike damage received by {1}% and stun damage received by {2}% for 2 attacks (Max 4 stacks each).<br>If Hardcore Alvie Fan has not been granted, grants Hardcore Alvie Fan (Lv. 2).<br>If already granted, increases Hardcore Alvie Fan Lv. by 2 (Max Lv. 5).<br><br>Grants all allies the following additional effect for 1 turn:<br>Additional Effect: After attacking, if target does not have Hardcore Alvie Fan, grants Hardcore Alvie Fan (Lv. 1).<br>If already granted, increases Hardcore Alvie Fan Lv. by 1 (Max Lv. 5).<br>※Hardcore Alvie Fan reduces Strike resistance by 10% and increases Strike damage received by 30% per Lv. (Max Lv. 5) (All effects are fixed values).<br>※For targets with Strike Resistance Down immunity, only the Strike damage received increase effect is applied.",
+    "name": "Mellow☆Trap",
+    "summary": "Reduces target's status effect resistance<br>Increases target's Strike damage received and stun damage received<br>Grants or increases Hardcore Alvie Fan on target<br>Grants additional effect to all allies"
+  },
+  {
+    "id": 12003199,
+    "description": "Reduces target's status effect resistance by {0}% for 2 turns and<br>increases target's Strike damage received by {1}% and stun damage received by {2}% for 2 attacks (Max 4 stacks each).<br>If Hardcore Alvie Fan has not been granted, grants Hardcore Alvie Fan (Lv. 2).<br>If already granted, increases Hardcore Alvie Fan Lv. by 2 (Max Lv. 5).<br><br>Grants all allies the following additional effect for 1 turn:<br>Additional Effect: After attacking, if target does not have Hardcore Alvie Fan, grants Hardcore Alvie Fan (Lv. 1).<br>If already granted, increases Hardcore Alvie Fan Lv. by 1 (Max Lv. 5).<br>※Hardcore Alvie Fan reduces Strike resistance by 10% and increases Strike damage received by 30% per Lv. (Max Lv. 5) (All effects are fixed values).<br>※For targets with Strike Resistance Down immunity, only the Strike damage received increase effect is applied.",
+    "name": "Mellow☆Trap",
+    "summary": "Reduces target's status effect resistance<br>Increases target's Strike damage received and stun damage received<br>Grants or increases Hardcore Alvie Fan on target<br>Grants additional effect to all allies"
+  },
+  {
+    "id": 14003200,
+    "description": "Grants target Daze for 1 turn with a very high chance and<br>increases target's Strike damage received by {0}% and stun damage received by {1}% for 2 attacks (Max 4 stacks each).<br>If Hardcore Alvie Fan has not been granted, grants Hardcore Alvie Fan (Lv. 3).<br>If already granted, increases Hardcore Alvie Fan Lv. by 3 (Max Lv. 5).<br>※Hardcore Alvie Fan reduces Strike resistance by 10% and increases Strike damage received by 30% per Lv. (Max Lv. 5) (All effects are fixed values).<br>※For targets with Strike Resistance Down immunity, only the Strike damage received increase effect is applied.",
+    "name": "Charming Alvina Special☆",
+    "summary": "Grants target Daze<br>Increases target's Strike damage received and stun damage received<br>Grants or increases Hardcore Alvie Fan on target"
+  },
+  {
+    "id": 14003201,
+    "description": "Grants target Daze for 1 turn with a very high chance and<br>increases target's Strike damage received by {0}% and stun damage received by {1}% for 2 attacks (Max 4 stacks each).<br>If Hardcore Alvie Fan has not been granted, grants Hardcore Alvie Fan (Lv. 3).<br>If already granted, increases Hardcore Alvie Fan Lv. by 3 (Max Lv. 5).<br>※Hardcore Alvie Fan reduces Strike resistance by 10% and increases Strike damage received by 30% per Lv. (Max Lv. 5) (All effects are fixed values).<br>※For targets with Strike Resistance Down immunity, only the Strike damage received increase effect is applied.",
+    "name": "Charming Alvina Special☆",
+    "summary": "Grants target Daze<br>Increases target's Strike damage received and stun damage received<br>Grants or increases Hardcore Alvie Fan on target"
+  },
+  {
+    "id": 14003202,
+    "description": "Grants target Daze for 1 turn with a very high chance and<br>increases target's Strike damage received by {0}% and stun damage received by {1}% for 2 attacks (Max 4 stacks each).<br>If Hardcore Alvie Fan has not been granted, grants Hardcore Alvie Fan (Lv. 3).<br>If already granted, increases Hardcore Alvie Fan Lv. by 3 (Max Lv. 5).<br>※Hardcore Alvie Fan reduces Strike resistance by 10% and increases Strike damage received by 30% per Lv. (Max Lv. 5) (All effects are fixed values).<br>※For targets with Strike Resistance Down immunity, only the Strike damage received increase effect is applied.",
+    "name": "Charming Alvina Special☆",
+    "summary": "Grants target Daze<br>Increases target's Strike damage received and stun damage received<br>Grants or increases Hardcore Alvie Fan on target"
+  },
+  {
+    "id": 14003203,
+    "description": "Grants target Daze for 1 turn with a very high chance and<br>increases target's Strike damage received by {0}% and stun damage received by {1}% for 2 attacks (Max 4 stacks each).<br>If Hardcore Alvie Fan has not been granted, grants Hardcore Alvie Fan (Lv. 3).<br>If already granted, increases Hardcore Alvie Fan Lv. by 3 (Max Lv. 5).<br>※Hardcore Alvie Fan reduces Strike resistance by 10% and increases Strike damage received by 30% per Lv. (Max Lv. 5) (All effects are fixed values).<br>※For targets with Strike Resistance Down immunity, only the Strike damage received increase effect is applied.",
+    "name": "Charming Alvina Special☆",
+    "summary": "Grants target Daze<br>Increases target's Strike damage received and stun damage received<br>Grants or increases Hardcore Alvie Fan on target"
+  },
+  {
+    "id": 14003204,
+    "description": "Grants target Daze for 1 turn with a very high chance and<br>increases target's Strike damage received by {0}% and stun damage received by {1}% for 2 attacks (Max 4 stacks each).<br>If Hardcore Alvie Fan has not been granted, grants Hardcore Alvie Fan (Lv. 3).<br>If already granted, increases Hardcore Alvie Fan Lv. by 3 (Max Lv. 5).<br>※Hardcore Alvie Fan reduces Strike resistance by 10% and increases Strike damage received by 30% per Lv. (Max Lv. 5) (All effects are fixed values).<br>※For targets with Strike Resistance Down immunity, only the Strike damage received increase effect is applied.",
+    "name": "Charming Alvina Special☆",
+    "summary": "Grants target Daze<br>Increases target's Strike damage received and stun damage received<br>Grants or increases Hardcore Alvie Fan on target"
   }
 ]

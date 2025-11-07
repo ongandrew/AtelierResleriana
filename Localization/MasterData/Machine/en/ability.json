@@ -7918,5 +7918,70 @@
     "id": 4991157,
     "description": "While equipped to a Supporter with Strike affinity, boosts negative effect potency by {0}%.\nFor Spirited characters, boosts all allies' P.ATK by {1}%.",
     "name": "Imaginings \"Victory's a Certainty!\""
+  },
+  {
+    "id": 301289,
+    "description": "While equipped to Kimon [Executor of the Moon Shadow], after an ally performs a critical attack, grants all allies Critical Damage +{0}%. (MAX 50%)",
+    "name": "Moonlight"
+  },
+  {
+    "id": 1980216,
+    "description": "Boosts all allies' skill damage and critical damage by 20% for each Dark Memories character in the party.",
+    "name": "Guardian of the Shadow Order"
+  },
+  {
+    "id": 1990481,
+    "description": "After using a skill, restores the item gauge by {0}%.<br>Depending on the number of characters with the Dark Memories tag, grants P.ATK, M.ATK, and critical damage +6-30% to all allies with Dark Memories (scaling from 1-5 characters).",
+    "name": "Encroaching Darkness"
+  },
+  {
+    "id": 1990482,
+    "description": "After attacking a stunned enemy or after an ally uses a battle item, grants all allies critical rate +{0}%. (MAX 50%)<br>Grants the ally with highest P.ATK critical rate +{1}% and critical damage +{2}% for 2 turns.<br>*Only triggers once even if multiple items are used simultaneously",
+    "name": "Piercing Gaze"
+  },
+  {
+    "id": 4991158,
+    "description": "While equipped to Reisalin Stout, boosts skill damage by {0}%, stun damage by {1}%, positive effect potency received by {2}%, and negative effect potency given by {3}%.",
+    "name": "Imagination \"The Light She Spun\""
+  },
+  {
+    "id": 4991159,
+    "description": "While equipped to Reisalin Stout, boosts skill damage by {0}%, stun damage by {1}%, positive effect potency received by {2}%, and negative effect potency given by {3}%.",
+    "name": "Imagination \"The Light She Spun\""
+  },
+  {
+    "id": 4991160,
+    "description": "While equipped to Reisalin Stout, boosts skill damage by {0}%, stun damage by {1}%, positive effect potency received by {2}%, and negative effect potency given by {3}%.",
+    "name": "Imagination \"The Light She Spun\""
+  },
+  {
+    "id": 4991161,
+    "description": "While equipped to Reisalin Stout, boosts skill damage by {0}%, stun damage by {1}%, positive effect potency received by {2}%, and negative effect potency given by {3}%.",
+    "name": "Imagination \"The Light She Spun\""
+  },
+  {
+    "id": 4991162,
+    "description": "While equipped to Reisalin Stout, boosts skill damage by {0}%, stun damage by {1}%, positive effect potency received by {2}%, and negative effect potency given by {3}%.",
+    "name": "Imagination \"The Light She Spun\""
+  },
+  {
+    "id": 26133002,
+    "description": "When own HP falls below 70%, grants self Stun Damage Received Down (25%/3 times) and Damage Received Down (25%/3 times) once only. Upon recovering from stun, grants self Magical Damage Up (40%/1 time) and SPD Up (10%/3 times) once only. At the start of battle, grants self Damage Received Down (25%/5 times) and Stun Damage Received Down (25%/3 times).",
+    "name": ""
+  },
+  {
+    "id": 600000740,
+    "description": "Boosts Alvina [Tropical Shine]'s negative effect potency given by 150%.",
+    "name": "Alvina [Tropical Shine] Negative Effect Potency UP"
+  },
+  {
+    "id": 600000741,
+    "description": "Boosts Kimon [Executor of the Moon Shadow]'s positive effect potency given by 150%.",
+    "name": "Kimon [Executor of the Moon Shadow] Positive Effect Potency UP"
+  },
+  {
+    "id": 600000742,
+    "description": "When Kimon [Executor of the Moon Shadow] or Alvina [Tropical Shine] is in the party, reduces damage received by 25%. (MAX 25%)",
+    "name": "Reduces Damage Received When Kimon [Executor of the Moon Shadow] or Alvina [Tropical Shine] is in Party"
   }
 ]

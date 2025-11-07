@@ -3323,5 +3323,45 @@
     "id": 610375,
     "description": "After attacking, grants Strike Damage Received Up Based on Alvina Super Fan Mode Lv.",
     "name": "Grant Strike Dmg. Received Up Based on Alvina Fan Mode Lv."
+  },
+  {
+    "id": 510244,
+    "description": "Boosts critical rate by {value}%. (MAX 50%)",
+    "name": "Critical Rate Up"
+  },
+  {
+    "id": 510255,
+    "description": "A dark fighting spirit emanates from their body.",
+    "name": "Dark Reminiscence"
+  },
+  {
+    "id": 610359,
+    "description": "Boosts skill damage by {value}%. (MAX 30%)",
+    "name": "Damage Dealt Up"
+  },
+  {
+    "id": 610360,
+    "description": "Boosts critical damage by {value}%. (MAX 30%)",
+    "name": "Critical Damage Up"
+  },
+  {
+    "id": 610361,
+    "description": "Boosts critical damage by {value}%. (MAX 60%)",
+    "name": "Critical Damage Up"
+  },
+  {
+    "id": 610369,
+    "description": "If own critical rate exceeds 100%, converts the excess critical rate beyond 100% into critical damage up when attacking. (MAX 200% conversion)",
+    "name": "Excess Critical Rate Conversion"
+  },
+  {
+    "id": 800178,
+    "description": "Boosts critical damage by {value}%. (MAX 50%)",
+    "name": "Critical Damage Up"
+  },
+  {
+    "id": 810175,
+    "description": "Boosts negative effect potency by {value}%. Cannot be removed.",
+    "name": "Negative Effect Potency Up"
   }
 ]

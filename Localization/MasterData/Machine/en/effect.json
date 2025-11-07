@@ -10538,5 +10538,195 @@
     "id": 95000290,
     "description": "When equipped to a character with the Spirited tag, boosts all allies' P.ATK.",
     "popup_text": ""
+  },
+  {
+    "id": 6001166,
+    "description": "While equipped to Kimon [Moonlight Enforcer], after any party member lands a critical hit, boosts all allies' critical damage (up to 50%).",
+    "popup_text": ""
+  },
+  {
+    "id": 72001486,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001487,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001488,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001489,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001490,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001491,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001511,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001517,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001518,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001519,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72500182,
+    "description": "[Self/higher boost the more Dim Memories/boosts skill damage]",
+    "popup_text": ""
+  },
+  {
+    "id": 72500183,
+    "description": "[Self/higher boost the more Dim Memories/boosts critical damage]",
+    "popup_text": ""
+  },
+  {
+    "id": 86133001,
+    "description": "Grants self reduced stun damage received (100% chance/for 3 attacks).",
+    "popup_text": ""
+  },
+  {
+    "id": 86133002,
+    "description": "Grants self reduced damage received (100% chance/for 3 attacks).",
+    "popup_text": ""
+  },
+  {
+    "id": 91001927,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001928,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001929,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001930,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001931,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001932,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001945,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001946,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001947,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001948,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001953,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001954,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001955,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001956,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001957,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000291,
+    "description": "When own character is Reisalin Stout, boosts skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000292,
+    "description": "When own character is Reisalin Stout, boosts stun damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000293,
+    "description": "When own character is Reisalin Stout, boosts positive effect potency received.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000294,
+    "description": "When own character is Reisalin Stout, boosts negative effect potency inflicted.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000833,
+    "description": "When own character is Alvina [Tropical Shine], grants self a boost to negative effect potency inflicted.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000834,
+    "description": "Boosts Kimon [Moonlit Executor]'s positive effect potency inflicted by {0}%, and grants self a boost to positive effect potency inflicted.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000835,
+    "description": "Boosts negative effect potency inflicted.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000836,
+    "description": "When Kimon [Moonlit Executor] is in the party, reduces damage received.",
+    "popup_text": ""
   }
 ]

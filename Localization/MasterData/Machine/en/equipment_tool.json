@@ -1273,5 +1273,10 @@
     "id": 1205,
     "description": "Boosts skill damage by {0}%.",
     "name": "Atlas Bangle"
+  },
+  {
+    "id": 1206,
+    "description": "While equipped to Kimon [Moonlit Enforcer], after a party member lands a critical attack, boosts all allies' critical damage by {0}%. (MAX 50%)",
+    "name": "Moonlight"
   }
 ]

@@ -2122,5 +2122,29 @@
   {
     "id": 60246007,
     "description": "- Every certain number of times hit by a weakness attack, grants self Damage Received Up (up to 50%) and Stun Damage Received Up (up to 50%)"
+  },
+  {
+    "id": 60011044,
+    "description": "- Restores HP with each turn and reduces own damage received\n- When stunned, removes all own positive effects\n- Nullifies resistance reduction for all elements except Stab and Strike"
+  },
+  {
+    "id": 60030040,
+    "description": "No tips available."
+  },
+  {
+    "id": 60030042,
+    "description": "- Nullifies resistance reduction for all elements except Stab and Strike"
+  },
+  {
+    "id": 60133039,
+    "description": "- At battle start, reduces own damage received and stun damage received\n- When recovering from stun, boosts own magical damage and SPD (once only)\n- When HP reaches a certain level, reduces own damage received and stun damage received\n- Reduces allies' damage received from magic attacks"
+  },
+  {
+    "id": 60133041,
+    "description": "- At battle start, reduces own damage received and stun damage received\n- When recovering from stun, boosts own magical damage and SPD (once only)\n- When HP reaches a certain level, reduces own damage received and stun damage received\n- Reduces allies' damage received from magic attacks\n- Nullifies resistance reduction for all elements except Stab and Strike"
+  },
+  {
+    "id": 60133043,
+    "description": "- At battle start, reduces own damage received and stun damage received\n- When recovering from stun, boosts own magical damage and SPD (once only)\n- When HP reaches a certain level, reduces own damage received and stun damage received\n- Nullifies resistance reduction for all elements except Stab and Strike"
   }
 ]

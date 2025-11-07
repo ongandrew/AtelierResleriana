@@ -23014,5 +23014,209 @@
     "description": "Grants target Daze for 1 turn with a very high chance and<br>increases target's Strike damage received by {0}% and stun damage received by {1}% for 2 attacks (Max 4 stacks each).<br>If Hardcore Alvie Fan has not been granted, grants Hardcore Alvie Fan (Lv. 3).<br>If already granted, increases Hardcore Alvie Fan Lv. by 3 (Max Lv. 5).<br>※Hardcore Alvie Fan reduces Strike resistance by 10% and increases Strike damage received by 30% per Lv. (Max Lv. 5) (All effects are fixed values).<br>※For targets with Strike Resistance Down immunity, only the Strike damage received increase effect is applied.",
     "name": "Charming Alvina Special☆",
     "summary": "Grants target Daze<br>Increases target's Strike damage received and stun damage received<br>Grants or increases Hardcore Alvie Fan on target"
+  },
+  {
+    "id": 11003220,
+    "description": "After attacking, inflicts Darkness on target for 1 turn.<br>Boosts all allies' skill damage by {1}% and critical damage by {2}%. (MAX 30% each)",
+    "name": "Moonlight Shadow",
+    "summary": "After attack, inflicts Darkness on target.<br>Boosts all allies' skill damage and critical damage."
+  },
+  {
+    "id": 11003221,
+    "description": "After attacking, inflicts Darkness on target for 1 turn.<br>Boosts all allies' skill damage by {1}% and critical damage by {2}%. (MAX 30% each)",
+    "name": "Moonlight Shadow",
+    "summary": "After attack, inflicts Darkness on target.<br>Boosts all allies' skill damage and critical damage."
+  },
+  {
+    "id": 11003222,
+    "description": "After attacking, inflicts Darkness on target for 1 turn.<br>Boosts all allies' skill damage by {1}% and critical damage by {2}%. (MAX 30% each)",
+    "name": "Moonlight Shadow",
+    "summary": "After attack, inflicts Darkness on target.<br>Boosts all allies' skill damage and critical damage."
+  },
+  {
+    "id": 11003223,
+    "description": "After attacking, inflicts Darkness on target for 1 turn.<br>Boosts all allies' skill damage by {1}% and critical damage by {2}%. (MAX 30% each)",
+    "name": "Moonlight Shadow",
+    "summary": "After attack, inflicts Darkness on target.<br>Boosts all allies' skill damage and critical damage."
+  },
+  {
+    "id": 11003224,
+    "description": "After attacking, inflicts Darkness on target for 1 turn.<br>Boosts all allies' skill damage by {1}% and critical damage by {2}%. (MAX 30% each)",
+    "name": "Moonlight Shadow",
+    "summary": "After attack, inflicts Darkness on target.<br>Boosts all allies' skill damage and critical damage."
+  },
+  {
+    "id": 12003225,
+    "description": "After attacking, reduces target's Stab resistance by {0}% for 2 attacks.<br>Boosts critical damage of the ally with the highest P.ATK before this skill was used by {1}%. (MAX 60%)<br>Boosts P.ATK by {2}%, critical damage by {3}% for all allies with Stab affinity or with the Dark Memories tag for 2 turns, and boosts critical rate by {4}% for 1 turn.",
+    "name": "Brilliant Slash",
+    "summary": "After attack, reduces target's Stab resistance.<br>Boosts critical damage of the ally with the highest P.ATK.<br>Boosts P.ATK, critical damage, and critical rate of all allies with Stab affinity or with the Dark Memories tag."
+  },
+  {
+    "id": 12003226,
+    "description": "After attacking, reduces target's Stab resistance by {0}% for 2 attacks.<br>Boosts critical damage of the ally with the highest P.ATK before this skill was used by {1}%. (MAX 60%)<br>Boosts P.ATK by {2}%, critical damage by {3}% for all allies with Stab affinity or with the Dark Memories tag for 2 turns, and boosts critical rate by {4}% for 1 turn.",
+    "name": "Brilliant Slash",
+    "summary": "After attack, reduces target's Stab resistance.<br>Boosts critical damage of the ally with the highest P.ATK.<br>Boosts P.ATK, critical damage, and critical rate of all allies with Stab affinity or with the Dark Memories tag."
+  },
+  {
+    "id": 12003227,
+    "description": "After attacking, reduces target's Stab resistance by {0}% for 2 attacks.<br>Boosts critical damage of the ally with the highest P.ATK before this skill was used by {1}%. (MAX 60%)<br>Boosts P.ATK by {2}%, critical damage by {3}% for all allies with Stab affinity or with the Dark Memories tag for 2 turns, and boosts critical rate by {4}% for 1 turn.",
+    "name": "Brilliant Slash",
+    "summary": "After attack, reduces target's Stab resistance.<br>Boosts critical damage of the ally with the highest P.ATK.<br>Boosts P.ATK, critical damage, and critical rate of all allies with Stab affinity or with the Dark Memories tag."
+  },
+  {
+    "id": 12003228,
+    "description": "After attacking, reduces target's Stab resistance by {0}% for 2 attacks.<br>Boosts critical damage of the ally with the highest P.ATK before this skill was used by {1}%. (MAX 60%)<br>Boosts P.ATK by {2}%, critical damage by {3}% for all allies with Stab affinity or with the Dark Memories tag for 2 turns, and boosts critical rate by {4}% for 1 turn.",
+    "name": "Brilliant Slash",
+    "summary": "After attack, reduces target's Stab resistance.<br>Boosts critical damage of the ally with the highest P.ATK.<br>Boosts P.ATK, critical damage, and critical rate of all allies with Stab affinity or with the Dark Memories tag."
+  },
+  {
+    "id": 12003229,
+    "description": "After attacking, reduces target's Stab resistance by {0}% for 2 attacks.<br>Boosts critical damage of the ally with the highest P.ATK before this skill was used by {1}%. (MAX 60%)<br>Boosts P.ATK by {2}%, critical damage by {3}% for all allies with Stab affinity or with the Dark Memories tag for 2 turns, and boosts critical rate by {4}% for 1 turn.",
+    "name": "Brilliant Slash",
+    "summary": "After attack, reduces target's Stab resistance.<br>Boosts critical damage of the ally with the highest P.ATK.<br>Boosts P.ATK, critical damage, and critical rate of all allies with Stab affinity or with the Dark Memories tag."
+  },
+  {
+    "id": 14003230,
+    "description": "After attacking, reduces target's Stab resistance by {0}% for 2 attacks.<br>Boosts P.ATK by {1}% and critical damage by {2}% for all allies with Stab affinity or with the Dark Memories tag for 1 turn.<br>Boosts critical rate of the ally with the highest P.ATK before this skill was used by {3}% and grants them the following additional effect for 2 turns:<br>Additional Effect: When own critical rate exceeds 100%, converts the excess critical rate into critical damage when attacking. (MAX conversion 200%)",
+    "name": "Shadow's Verdict",
+    "summary": "After attack, reduces target's Stab resistance.<br>Boosts P.ATK and critical damage of all allies with Stab affinity or with the Dark Memories tag.<br>Boosts critical rate of the ally with the highest P.ATK and grants additional effect."
+  },
+  {
+    "id": 14003231,
+    "description": "After attacking, reduces target's Stab resistance by {0}% for 2 attacks.<br>Boosts P.ATK by {1}% and critical damage by {2}% for all allies with Stab affinity or with the Dark Memories tag for 1 turn.<br>Boosts critical rate of the ally with the highest P.ATK before this skill was used by {3}% and grants them the following additional effect for 2 turns:<br>Additional Effect: When own critical rate exceeds 100%, converts the excess critical rate into critical damage when attacking. (MAX conversion 200%)",
+    "name": "Shadow's Verdict",
+    "summary": "After attack, reduces target's Stab resistance.<br>Boosts P.ATK and critical damage of all allies with Stab affinity or with the Dark Memories tag.<br>Boosts critical rate of the ally with the highest P.ATK and grants additional effect."
+  },
+  {
+    "id": 14003232,
+    "description": "After attacking, reduces target's Stab resistance by {0}% for 2 attacks.<br>Boosts P.ATK by {1}% and critical damage by {2}% for all allies with Stab affinity or with the Dark Memories tag for 1 turn.<br>Boosts critical rate of the ally with the highest P.ATK before this skill was used by {3}% and grants them the following additional effect for 2 turns:<br>Additional Effect: When own critical rate exceeds 100%, converts the excess critical rate into critical damage when attacking. (MAX conversion 200%)",
+    "name": "Shadow's Verdict",
+    "summary": "After attack, reduces target's Stab resistance.<br>Boosts P.ATK and critical damage of all allies with Stab affinity or with the Dark Memories tag.<br>Boosts critical rate of the ally with the highest P.ATK and grants additional effect."
+  },
+  {
+    "id": 14003233,
+    "description": "After attacking, reduces target's Stab resistance by {0}% for 2 attacks.<br>Boosts P.ATK by {1}% and critical damage by {2}% for all allies with Stab affinity or with the Dark Memories tag for 1 turn.<br>Boosts critical rate of the ally with the highest P.ATK before this skill was used by {3}% and grants them the following additional effect for 2 turns:<br>Additional Effect: When own critical rate exceeds 100%, converts the excess critical rate into critical damage when attacking. (MAX conversion 200%)",
+    "name": "Shadow's Verdict",
+    "summary": "After attack, reduces target's Stab resistance.<br>Boosts P.ATK and critical damage of all allies with Stab affinity or with the Dark Memories tag.<br>Boosts critical rate of the ally with the highest P.ATK and grants additional effect."
+  },
+  {
+    "id": 14003234,
+    "description": "After attacking, reduces target's Stab resistance by {0}% for 2 attacks.<br>Boosts P.ATK by {1}% and critical damage by {2}% for all allies with Stab affinity or with the Dark Memories tag for 1 turn.<br>Boosts critical rate of the ally with the highest P.ATK before this skill was used by {3}% and grants them the following additional effect for 2 turns:<br>Additional Effect: When own critical rate exceeds 100%, converts the excess critical rate into critical damage when attacking. (MAX conversion 200%)",
+    "name": "Shadow's Verdict",
+    "summary": "After attack, reduces target's Stab resistance.<br>Boosts P.ATK and critical damage of all allies with Stab affinity or with the Dark Memories tag.<br>Boosts critical rate of the ally with the highest P.ATK and grants additional effect."
+  },
+  {
+    "id": 32003544,
+    "description": "No additional effects.",
+    "name": "Strike Axe",
+    "summary": ""
+  },
+  {
+    "id": 32003545,
+    "description": "After attacking, reduces target's P.DEF by 25% for 2 turns.",
+    "name": "Protore",
+    "summary": ""
+  },
+  {
+    "id": 32003546,
+    "description": "No additional effects.",
+    "name": "Primal Stroke",
+    "summary": ""
+  },
+  {
+    "id": 32003547,
+    "description": "No additional effects.",
+    "name": "Ancient Blast",
+    "summary": ""
+  },
+  {
+    "id": 32003548,
+    "description": "Boosts target's P.DEF by 25% for 2 turns, reduces magic attack damage received by 50% for 2 turns, and boosts SPD by 10% for 2 turns.",
+    "name": "Ancient Power",
+    "summary": ""
+  },
+  {
+    "id": 32003551,
+    "description": "After attacking, grants target M.ATK Down (30%/2 turns/35% chance) and P.ATK Down (30%/2 turns/35% chance).",
+    "name": "Shock Wave",
+    "summary": ""
+  },
+  {
+    "id": 32003552,
+    "description": "No additional effects.",
+    "name": "Power Strike",
+    "summary": ""
+  },
+  {
+    "id": 32003553,
+    "description": "No additional effects.",
+    "name": "Explosive Fist",
+    "summary": ""
+  },
+  {
+    "id": 32003554,
+    "description": "No additional effects.",
+    "name": "Hellfire Rise",
+    "summary": ""
+  },
+  {
+    "id": 32003555,
+    "description": "No additional effects.",
+    "name": "Swing Strike",
+    "summary": ""
+  },
+  {
+    "id": 32003556,
+    "description": "Grants self Damage Received Down (40%/3 turns).",
+    "name": "Defensive Stance",
+    "summary": ""
+  },
+  {
+    "id": 32003557,
+    "description": "No additional effects.",
+    "name": "Strike Axe",
+    "summary": ""
+  },
+  {
+    "id": 32003558,
+    "description": "After attacking, grants target P.DEF Down (25%/2 turns).",
+    "name": "Proto Ray",
+    "summary": ""
+  },
+  {
+    "id": 32003559,
+    "description": "No additional effects.",
+    "name": "Primal Stroke",
+    "summary": ""
+  },
+  {
+    "id": 32003560,
+    "description": "No additional effects.",
+    "name": "Ancient Blast",
+    "summary": ""
+  },
+  {
+    "id": 32003562,
+    "description": "After attacking, grants skill target SPD Down (15%/permanent).",
+    "name": "Glide",
+    "summary": ""
+  },
+  {
+    "id": 32003563,
+    "description": "No additional effects.",
+    "name": "White Breath",
+    "summary": ""
+  },
+  {
+    "id": 32003564,
+    "description": "No additional effects.",
+    "name": "Giga White Breath",
+    "summary": ""
+  },
+  {
+    "id": 32003565,
+    "description": "No additional effects.",
+    "name": "Storm",
+    "summary": ""
   }
 ]

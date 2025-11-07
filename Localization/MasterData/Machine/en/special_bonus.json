@@ -647,5 +647,27 @@
     ],
     "end_at": "2025-11-09T03:00:00Z",
     "start_at": "2025-10-31T03:00:00Z"
+  },
+  {
+    "id": 78,
+    "bonuses": [
+      {
+        "name": "",
+        "warning_text": ""
+      }
+    ],
+    "end_at": "2025-11-24T03:00:00Z",
+    "start_at": "2025-11-07T03:00:00Z"
+  },
+  {
+    "id": 79,
+    "bonuses": [
+      {
+        "name": "Coin Bonus",
+        "warning_text": "The bonus to Ryza's Atelier DX Coins is \nlimited to a maximum of 5 additional coins per party."
+      }
+    ],
+    "end_at": "2025-11-27T03:00:00Z",
+    "start_at": "2025-11-13T03:00:00Z"
   }
 ]

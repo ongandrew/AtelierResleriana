@@ -861,5 +861,21 @@
     "profile_voice_text": "Come to think of it, I may have never worn a swimsuit before. Well? Take a look! Does it suit me?",
     "sort_name": "Alvina",
     "start_at": "2025-10-31T03:00:00Z"
+  },
+  {
+    "id": 44004,
+    "acquisition_text": "Those who disrupt the order of the Society will be eliminated by me.",
+    "another_name": "Moonlight Society Enforcer",
+    "description": "A girl who hides her face behind a mask.\nShe serves as an enforcer for the Moonlight Society, an unrecognized organization in the kingdom, and lives according to the words of her grandfather Oliver, the Society's leader.\nPeople call her Crow and fear her mysterious nature, as she appears from the shadows and vanishes back into them without a trace.",
+    "fullname": "Crow",
+    "leader_skill": {
+      "description": "Boosts all allies' skill damage and critical damage by 20% for each Dark Memories character in the party.",
+      "name": "Guardian of the Shadow Order"
+    },
+    "name": "Crow",
+    "overlay_name": "Crow",
+    "profile_voice_text": "I am Crow, enforcer of the Moonlight Society. You won't escape me.",
+    "sort_name": "Crow",
+    "start_at": "2025-11-07T03:00:00Z"
   }
 ]

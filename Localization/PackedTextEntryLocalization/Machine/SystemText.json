@@ -3287,5 +3287,148 @@
         }
       }
     }
+  },
+  {
+    "id": 1886797232,
+    "properties": {
+      "999008199": {
+        "text": "(+{0}%)",
+        "localizations": {
+          "en": "(+{0}%)"
+        }
+      }
+    }
+  },
+  {
+    "id": 1012184790,
+    "properties": {
+      "999008199": {
+        "text": " ",
+        "localizations": {
+          "en": " "
+        }
+      }
+    }
+  },
+  {
+    "id": 639021447,
+    "properties": {
+      "999008199": {
+        "text": "初回はスキル演出をスキップできません",
+        "localizations": {
+          "en": "Skill animations cannot be skipped the first time"
+        }
+      }
+    }
+  },
+  {
+    "id": 1663882108,
+    "properties": {
+      "999008199": {
+        "text": "調合アイテムの排出枠 + {0}",
+        "localizations": {
+          "en": "Synthesized Item Yield Slots + {0}"
+        }
+      }
+    }
+  },
+  {
+    "id": 336686618,
+    "properties": {
+      "999008199": {
+        "text": "探索の編成ボーナス + {0}%",
+        "localizations": {
+          "en": "Exploration Formation Bonus + {0}%"
+        }
+      }
+    }
+  },
+  {
+    "id": 1249875644,
+    "properties": {
+      "999008199": {
+        "text": "素材クエストの基礎素材ドロップ量 + {0}%",
+        "localizations": {
+          "en": "Material Quest Basic Material Drop Amount + {0}%"
+        }
+      }
+    }
+  },
+  {
+    "id": 2117585104,
+    "properties": {
+      "999008199": {
+        "text": "ピースクエストの挑戦回数 + {0}",
+        "localizations": {
+          "en": "Piece Quest Attempts + {0}"
+        }
+      }
+    }
+  },
+  {
+    "id": 380115724,
+    "properties": {
+      "999008199": {
+        "text": "メールで瓶詰マナを{0}個プレゼント",
+        "localizations": {
+          "en": "Receive {0} Bottled Mana via Mail"
+        }
+      }
+    }
+  },
+  {
+    "id": 68682557,
+    "properties": {
+      "999008199": {
+        "text": "追加購入できません",
+        "localizations": {
+          "en": "Cannot purchase additional"
+        }
+      }
+    }
+  },
+  {
+    "id": 771321750,
+    "properties": {
+      "999008199": {
+        "text": "シリアルコード特典",
+        "localizations": {
+          "en": "Serial Code Bonus"
+        }
+      }
+    }
+  },
+  {
+    "id": 827122599,
+    "properties": {
+      "999008199": {
+        "text": "「コーエーテクモ WebStore」で獲得されたシリアルコードの特典をお送りします。",
+        "localizations": {
+          "en": "This is a serial code bonus obtained from the \"KOEI TECMO Web Store.\""
+        }
+      }
+    }
+  },
+  {
+    "id": 1028166724,
+    "properties": {
+      "999008199": {
+        "text": "{0}(残り{1})",
+        "localizations": {
+          "en": "{0} (Remaining: {1})"
+        }
+      }
+    }
+  },
+  {
+    "id": 2120316525,
+    "properties": {
+      "999008199": {
+        "text": "入手イベント：{0}",
+        "localizations": {
+          "en": "Acquisition Event: {0}"
+        }
+      }
+    }
   }
 ]

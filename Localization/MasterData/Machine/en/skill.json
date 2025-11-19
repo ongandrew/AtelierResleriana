@@ -23218,5 +23218,341 @@
     "description": "No additional effects.",
     "name": "Storm",
     "summary": ""
+  },
+  {
+    "id": 32154,
+    "description": "Increases burst skill damage taken by all enemies by {0}% for 2 attacks (Cannot be stacked).",
+    "name": "Moga Tokeru",
+    "summary": ""
+  },
+  {
+    "id": 32155,
+    "description": "Increases burst skill damage taken by all enemies by {0}% for 2 attacks (Cannot be stacked).",
+    "name": "Moga Tokeru",
+    "summary": ""
+  },
+  {
+    "id": 11003235,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, recovers all allies' HP by {1}% and<br>Increases P.ATK by {2}% (Max 40%).",
+    "name": "Ordou Sagitta",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, recovers all allies' HP and increases P.ATK."
+  },
+  {
+    "id": 11003236,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, recovers all allies' HP by {1}% and<br>Increases P.ATK by {2}% (Max 40%).",
+    "name": "Ordou Sagitta",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, recovers all allies' HP and increases P.ATK."
+  },
+  {
+    "id": 11003237,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, recovers all allies' HP by {1}% and<br>Increases P.ATK by {2}% (Max 40%).",
+    "name": "Ordou Sagitta",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, recovers all allies' HP and increases P.ATK."
+  },
+  {
+    "id": 11003238,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, recovers all allies' HP by {1}% and<br>Increases P.ATK by {2}% (Max 40%).",
+    "name": "Ordou Sagitta",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, recovers all allies' HP and increases P.ATK."
+  },
+  {
+    "id": 11003239,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, recovers all allies' HP by {1}% and<br>Increases P.ATK by {2}% (Max 40%).",
+    "name": "Ordou Sagitta",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, recovers all allies' HP and increases P.ATK."
+  },
+  {
+    "id": 12003240,
+    "description": "After recovering, boosts target's skill damage by {0}% and stun damage by {1}% for 3 turns.<br>Increases P.ATK of all allies with Stab affinity by {2}% (Max 50%) and<br>Reduces damage taken by {3}% for 1 attack.<br>Creatio Floreus has charge indicators, and when 3 charge indicators are charged, the effects change.<br>Up to 3 charge indicators can be charged.<br><br>When less than 3 charge indicators are charged:<br>After recovering, charges 1 charge indicator.<br><br>When 3 charge indicators are charged:<br>After recovering, reduces damage taken by all allies with Stab affinity by {4}% (Fixed) for 1 attack,<br>Increases P.ATK of 1 ally with the highest P.ATK before using this skill by {5}% for 3 turns, and<br>Removes all charge indicators.",
+    "name": "Creatio Floreus",
+    "summary": "After recovering, boosts target's skill damage and stun damage.<br>Increases P.ATK and reduces damage taken for all allies with Stab affinity.<br>When less than 3 charge indicators are charged, after recovering, charges 1 charge indicator.<br>When 3 charge indicators are charged, after recovering, reduces damage taken for all allies with Stab affinity, increases P.ATK for 1 ally with the highest P.ATK, and removes all charge indicators."
+  },
+  {
+    "id": 12003241,
+    "description": "After recovering, boosts target's skill damage by {0}% and stun damage by {1}% for 3 turns.<br>Increases P.ATK of all allies with Stab affinity by {2}% (Max 50%) and<br>Reduces damage taken by {3}% for 1 attack.<br>Creatio Floreus has charge indicators, and when 3 charge indicators are charged, the effects change.<br>Up to 3 charge indicators can be charged.<br><br>When less than 3 charge indicators are charged:<br>After recovering, charges 1 charge indicator.<br><br>When 3 charge indicators are charged:<br>After recovering, reduces damage taken by all allies with Stab affinity by {4}% (Fixed) for 1 attack,<br>Increases P.ATK of 1 ally with the highest P.ATK before using this skill by {5}% for 3 turns, and<br>Removes all charge indicators.",
+    "name": "Creatio Floreus",
+    "summary": "After recovering, boosts target's skill damage and stun damage.<br>Increases P.ATK and reduces damage taken for all allies with Stab affinity.<br>When less than 3 charge indicators are charged, after recovering, charges 1 charge indicator.<br>When 3 charge indicators are charged, after recovering, reduces damage taken for all allies with Stab affinity, increases P.ATK for 1 ally with the highest P.ATK, and removes all charge indicators."
+  },
+  {
+    "id": 12003242,
+    "description": "After recovering, boosts target's skill damage by {0}% and stun damage by {1}% for 3 turns.<br>Increases P.ATK of all allies with Stab affinity by {2}% (Max 50%) and<br>Reduces damage taken by {3}% for 1 attack.<br>Creatio Floreus has charge indicators, and when 3 charge indicators are charged, the effects change.<br>Up to 3 charge indicators can be charged.<br><br>When less than 3 charge indicators are charged:<br>After recovering, charges 1 charge indicator.<br><br>When 3 charge indicators are charged:<br>After recovering, reduces damage taken by all allies with Stab affinity by {4}% (Fixed) for 1 attack,<br>Increases P.ATK of 1 ally with the highest P.ATK before using this skill by {5}% for 3 turns, and<br>Removes all charge indicators.",
+    "name": "Creatio Floreus",
+    "summary": "After recovering, boosts target's skill damage and stun damage.<br>Increases P.ATK and reduces damage taken for all allies with Stab affinity.<br>When less than 3 charge indicators are charged, after recovering, charges 1 charge indicator.<br>When 3 charge indicators are charged, after recovering, reduces damage taken for all allies with Stab affinity, increases P.ATK for 1 ally with the highest P.ATK, and removes all charge indicators."
+  },
+  {
+    "id": 12003243,
+    "description": "After recovering, boosts target's skill damage by {0}% and stun damage by {1}% for 3 turns.<br>Increases P.ATK of all allies with Stab affinity by {2}% (Max 50%) and<br>Reduces damage taken by {3}% for 1 attack.<br>Creatio Floreus has charge indicators, and when 3 charge indicators are charged, the effects change.<br>Up to 3 charge indicators can be charged.<br><br>When less than 3 charge indicators are charged:<br>After recovering, charges 1 charge indicator.<br><br>When 3 charge indicators are charged:<br>After recovering, reduces damage taken by all allies with Stab affinity by {4}% (Fixed) for 1 attack,<br>Increases P.ATK of 1 ally with the highest P.ATK before using this skill by {5}% for 3 turns, and<br>Removes all charge indicators.",
+    "name": "Creatio Floreus",
+    "summary": "After recovering, boosts target's skill damage and stun damage.<br>Increases P.ATK and reduces damage taken for all allies with Stab affinity.<br>When less than 3 charge indicators are charged, after recovering, charges 1 charge indicator.<br>When 3 charge indicators are charged, after recovering, reduces damage taken for all allies with Stab affinity, increases P.ATK for 1 ally with the highest P.ATK, and removes all charge indicators."
+  },
+  {
+    "id": 12003244,
+    "description": "After recovering, boosts target's skill damage by {0}% and stun damage by {1}% for 3 turns.<br>Increases P.ATK of all allies with Stab affinity by {2}% (Max 50%) and<br>Reduces damage taken by {3}% for 1 attack.<br>Creatio Floreus has charge indicators, and when 3 charge indicators are charged, the effects change.<br>Up to 3 charge indicators can be charged.<br><br>When less than 3 charge indicators are charged:<br>After recovering, charges 1 charge indicator.<br><br>When 3 charge indicators are charged:<br>After recovering, reduces damage taken by all allies with Stab affinity by {4}% (Fixed) for 1 attack,<br>Increases P.ATK of 1 ally with the highest P.ATK before using this skill by {5}% for 3 turns, and<br>Removes all charge indicators.",
+    "name": "Creatio Floreus",
+    "summary": "After recovering, boosts target's skill damage and stun damage.<br>Increases P.ATK and reduces damage taken for all allies with Stab affinity.<br>When less than 3 charge indicators are charged, after recovering, charges 1 charge indicator.<br>When 3 charge indicators are charged, after recovering, reduces damage taken for all allies with Stab affinity, increases P.ATK for 1 ally with the highest P.ATK, and removes all charge indicators."
+  },
+  {
+    "id": 14003245,
+    "description": "Before attacking, removes all allies' negative effects.<br>After attacking, recovers all allies' HP by {1}%.<br>Increases P.ATK by {2}% and skill damage by {3}% for all allies with Stab affinity for 3 turns,<br>Increases burst skill damage by {4}% (Max 150%), and<br>Grants Evasion (100% chance, Fixed) for 1 attack.<br>Very high chance to inflict Daze on target for 1 turn.",
+    "name": "Excitus Fatalitas",
+    "summary": "Before attacking, removes all allies' negative effects.<br>After attacking, recovers all allies' HP.<br>Increases P.ATK, skill damage, and burst skill damage for all allies with Stab affinity, and grants Evasion.<br>Very high chance to inflict Daze on target."
+  },
+  {
+    "id": 14003246,
+    "description": "Before attacking, removes all allies' negative effects.<br>After attacking, recovers all allies' HP by {1}%.<br>Increases P.ATK by {2}% and skill damage by {3}% for all allies with Stab affinity for 3 turns,<br>Increases burst skill damage by {4}% (Max 150%), and<br>Grants Evasion (100% chance, Fixed) for 1 attack.<br>Very high chance to inflict Daze on target for 1 turn.",
+    "name": "Excitus Fatalitas",
+    "summary": "Before attacking, removes all allies' negative effects.<br>After attacking, recovers all allies' HP.<br>Increases P.ATK, skill damage, and burst skill damage for all allies with Stab affinity, and grants Evasion.<br>Very high chance to inflict Daze on target."
+  },
+  {
+    "id": 14003247,
+    "description": "Before attacking, removes all allies' negative effects.<br>After attacking, recovers all allies' HP by {1}%.<br>Increases P.ATK by {2}% and skill damage by {3}% for all allies with Stab affinity for 3 turns,<br>Increases burst skill damage by {4}% (Max 150%), and<br>Grants Evasion (100% chance, Fixed) for 1 attack.<br>Very high chance to inflict Daze on target for 1 turn.",
+    "name": "Excitus Fatalitas",
+    "summary": "Before attacking, removes all allies' negative effects.<br>After attacking, recovers all allies' HP.<br>Increases P.ATK, skill damage, and burst skill damage for all allies with Stab affinity, and grants Evasion.<br>Very high chance to inflict Daze on target."
+  },
+  {
+    "id": 14003248,
+    "description": "Before attacking, removes all allies' negative effects.<br>After attacking, recovers all allies' HP by {1}%.<br>Increases P.ATK by {2}% and skill damage by {3}% for all allies with Stab affinity for 3 turns,<br>Increases burst skill damage by {4}% (Max 150%), and<br>Grants Evasion (100% chance, Fixed) for 1 attack.<br>Very high chance to inflict Daze on target for 1 turn.",
+    "name": "Excitus Fatalitas",
+    "summary": "Before attacking, removes all allies' negative effects.<br>After attacking, recovers all allies' HP.<br>Increases P.ATK, skill damage, and burst skill damage for all allies with Stab affinity, and grants Evasion.<br>Very high chance to inflict Daze on target."
+  },
+  {
+    "id": 14003249,
+    "description": "Before attacking, removes all allies' negative effects.<br>After attacking, recovers all allies' HP by {1}%.<br>Increases P.ATK by {2}% and skill damage by {3}% for all allies with Stab affinity for 3 turns,<br>Increases burst skill damage by {4}% (Max 150%), and<br>Grants Evasion (100% chance, Fixed) for 1 attack.<br>Very high chance to inflict Daze on target for 1 turn.",
+    "name": "Excitus Fatalitas",
+    "summary": "Before attacking, removes all allies' negative effects.<br>After attacking, recovers all allies' HP.<br>Increases P.ATK, skill damage, and burst skill damage for all allies with Stab affinity, and grants Evasion.<br>Very high chance to inflict Daze on target."
+  },
+  {
+    "id": 14003280,
+    "description": "Swaps own turn with 1 enemy among the first 5 turns on the timeline (Activation limit: 4 times).<br>Increases own positive effect potency by 80% for 1 turn.",
+    "name": "Tactical Change: Amor",
+    "summary": "Swaps own turn with an enemy among the first 5 turns on the timeline.<br>Increases own positive effect potency."
+  },
+  {
+    "id": 14003281,
+    "description": "After attacking, reduces all allies' physical attack damage received by {2}% for 1 attack and increases their skill damage by {0}% and their P.ATK by {1}% (MAX 30%).",
+    "name": "Knock Slash",
+    "summary": "After attacking, reduces all allies' physical attack damage received and increases their skill damage and P.ATK."
+  },
+  {
+    "id": 14003282,
+    "description": "After attacking, reduces all allies' physical attack damage received by {2}% for 1 attack and increases their skill damage by {0}% and their P.ATK by {1}% (MAX 30%).",
+    "name": "Knock Slash",
+    "summary": "After attacking, reduces all allies' physical attack damage received and increases their skill damage and P.ATK."
+  },
+  {
+    "id": 14003283,
+    "description": "After attacking, reduces all allies' physical attack damage received by {2}% for 1 attack and increases their skill damage by {0}% and their P.ATK by {1}% (MAX 30%).",
+    "name": "Knock Slash",
+    "summary": "After attacking, reduces all allies' physical attack damage received and increases their skill damage and P.ATK."
+  },
+  {
+    "id": 14003284,
+    "description": "After attacking, reduces all allies' physical attack damage received by {2}% for 1 attack and increases their skill damage by {0}% and their P.ATK by {1}% (MAX 30%).",
+    "name": "Knock Slash",
+    "summary": "After attacking, reduces all allies' physical attack damage received and increases their skill damage and P.ATK."
+  },
+  {
+    "id": 14003285,
+    "description": "After attacking, reduces all allies' physical attack damage received by {2}% for 1 attack and increases their skill damage by {0}% and their P.ATK by {1}% (MAX 30%).",
+    "name": "Knock Slash",
+    "summary": "After attacking, reduces all allies' physical attack damage received and increases their skill damage and P.ATK."
+  },
+  {
+    "id": 14003286,
+    "description": "Boosts P.ATK by {0}% for all allies for 2 turns.<br>Randomly grants one of the following effects to each ally 4 times:<br>- Boosts skill damage by {1}% for 2 turns.<br>- Boosts stun damage by {1}% for 2 turns.<br>- Reduces damage received by {1}% for 1 attack.",
+    "name": "Ghost Party",
+    "summary": "Boosts P.ATK for all allies. Grants a random effect to each ally 4 times."
+  },
+  {
+    "id": 14003287,
+    "description": "Boosts P.ATK by {0}% for all allies for 2 turns.<br>Randomly grants one of the following effects to each ally 4 times:<br>- Boosts skill damage by {1}% for 2 turns.<br>- Boosts stun damage by {1}% for 2 turns.<br>- Reduces damage received by {1}% for 1 attack.",
+    "name": "Ghost Party",
+    "summary": "Boosts P.ATK for all allies. Grants a random effect to each ally 4 times."
+  },
+  {
+    "id": 14003288,
+    "description": "Boosts P.ATK by {0}% for all allies for 2 turns.<br>Randomly grants one of the following effects to each ally 4 times:<br>- Boosts skill damage by {1}% for 2 turns.<br>- Boosts stun damage by {1}% for 2 turns.<br>- Reduces damage received by {1}% for 1 attack.",
+    "name": "Ghost Party",
+    "summary": "Boosts P.ATK for all allies. Grants a random effect to each ally 4 times."
+  },
+  {
+    "id": 14003289,
+    "description": "Boosts P.ATK by {0}% for all allies for 2 turns.<br>Randomly grants one of the following effects to each ally 4 times:<br>- Boosts skill damage by {1}% for 2 turns.<br>- Boosts stun damage by {1}% for 2 turns.<br>- Reduces damage received by {1}% for 1 attack.",
+    "name": "Ghost Party",
+    "summary": "Boosts P.ATK for all allies. Grants a random effect to each ally 4 times."
+  },
+  {
+    "id": 14003290,
+    "description": "Boosts P.ATK by {0}% for all allies for 2 turns.<br>Randomly grants one of the following effects to each ally 4 times:<br>- Boosts skill damage by {1}% for 2 turns.<br>- Boosts stun damage by {1}% for 2 turns.<br>- Reduces damage received by {1}% for 1 attack.",
+    "name": "Ghost Party",
+    "summary": "Boosts P.ATK for all allies. Grants a random effect to each ally 4 times."
+  },
+  {
+    "id": 14003291,
+    "description": "After attacking, boosts P.ATK by {0}% for all allies for 2 turns.<br>Randomly grants one of the following effects to each ally 4 times:<br>- Boosts skill damage by {1}% for 2 turns.<br>- Boosts stun damage by {1}% for 2 turns.<br>- Reduces damage received by {1}% for 1 attack.",
+    "name": "Trick or Treat",
+    "summary": "After attacking, boosts P.ATK and grants a random effect to each ally 4 times."
+  },
+  {
+    "id": 14003295,
+    "description": "After attacking, randomly grants one of the following effects to each ally 4 times: <br>- Boosts skill damage by {0}% for 1 turn.<br>- Boosts stun damage by {0}% for 1 turn.<br>- Reduces damage received by {0}% for one attack.",
+    "name": "Trick or Treat",
+    "summary": "After attacking, grants a random effect to each ally 4 times."
+  },
+  {
+    "id": 22001868,
+    "description": "After attacking, converts boost panels to weaken panels and weaken panels to boost panels for 10 turns, and inflicts SPD Down (10%/2 turns) on all enemies.",
+    "name": "Semen Resonare",
+    "summary": ""
+  },
+  {
+    "id": 22001869,
+    "description": "No effects.",
+    "name": "Sagitta",
+    "summary": ""
+  },
+  {
+    "id": 22001870,
+    "description": "After attacking, inflicts Item Gauge Recovery Down (50%/2 turns) on all enemies.",
+    "name": "Passio Sagitta",
+    "summary": ""
+  },
+  {
+    "id": 22001871,
+    "description": "Grants self SPD Up (20%/3 turns), Critical Damage Up (25%/3 turns), and creates a critical panel on own next turn.",
+    "name": "Flash of Wisdom",
+    "summary": ""
+  },
+  {
+    "id": 22001872,
+    "description": "After attacking, converts the target's panel to a weaken panel (except burst panel) and grants self Damage Dealt Up (15%/3 turns).",
+    "name": "Viridis Arcus",
+    "summary": ""
+  },
+  {
+    "id": 22001873,
+    "description": "After attacking, reduces own damage received by 30% for 3 turns.",
+    "name": "Quinque Sagitta",
+    "summary": ""
+  },
+  {
+    "id": 22001874,
+    "description": "After attacking, inflicts Daze (1 turn) on target and reduces own damage received by 100% for 1 turn.",
+    "name": "Lightning Ball Burst",
+    "summary": ""
+  },
+  {
+    "id": 22001875,
+    "description": "No effects.",
+    "name": "Great Fang",
+    "summary": ""
+  },
+  {
+    "id": 22001876,
+    "description": "Boosts damage dealt by 15% against targets with status effects.",
+    "name": "Silent Thorn Rain",
+    "summary": ""
+  },
+  {
+    "id": 22001877,
+    "description": "After attacking, inflicts Paralysis on target (50% chance/2 turns).",
+    "name": "Numbing Stab",
+    "summary": ""
+  },
+  {
+    "id": 22001878,
+    "description": "After attacking, converts the first 5 panels on the timeline into burn panels (excluding burst panels).",
+    "name": "Hellfire Dispersion",
+    "summary": ""
+  },
+  {
+    "id": 22001879,
+    "description": "Inflicts 3 stacks of Poison on target for 3 turns. If target has a status effect, inflicts an additional 3 stacks of Poison for 2 turns.",
+    "name": "Accumulated Poison",
+    "summary": ""
+  },
+  {
+    "id": 22001880,
+    "description": "After attacking, boosts own max HP by 15% (Max: 30%) and restores own HP by 20%.",
+    "name": "High Jump Crash",
+    "summary": ""
+  },
+  {
+    "id": 22001881,
+    "description": "After attacking, there is a 40% chance to inflict Paralysis on skill target for 1 turn.",
+    "name": "Splash",
+    "summary": ""
+  },
+  {
+    "id": 22001882,
+    "description": "No effects.",
+    "name": "Ride On",
+    "summary": ""
+  },
+  {
+    "id": 22001883,
+    "description": "After attacking, reduces own damage received by 20% for 3 turns.",
+    "name": "Ice Riding",
+    "summary": ""
+  },
+  {
+    "id": 22001884,
+    "description": "Restores all allies' HP and stun gauge by 20%, and grants Regeneration (10% for 2 turns).",
+    "name": "Moisture Supply",
+    "summary": ""
+  },
+  {
+    "id": 22001885,
+    "description": "No effects.",
+    "name": "Turtle Head",
+    "summary": ""
+  },
+  {
+    "id": 22001886,
+    "description": "Grants skill target Damage Immunity for 1 attack.",
+    "name": "Shell Field",
+    "summary": ""
+  },
+  {
+    "id": 22001887,
+    "description": "No effects.",
+    "name": "Raging Turtle",
+    "summary": ""
+  },
+  {
+    "id": 22001889,
+    "description": "Reduces own damage received by 40% for 2 turns.",
+    "name": "Spin Up",
+    "summary": ""
+  },
+  {
+    "id": 22001890,
+    "description": "After attacking, grants Nullify Positive Effects to target enemy for 1 turn.",
+    "name": "Disheveled",
+    "summary": ""
+  },
+  {
+    "id": 22001891,
+    "description": "No effects.",
+    "name": "Leap",
+    "summary": ""
+  },
+  {
+    "id": 22001892,
+    "description": "No effects.",
+    "name": "Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 22001893,
+    "description": "After attacking, reduces skill target's damage dealt by 20% for 3 turns.",
+    "name": "Black Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 22001894,
+    "description": "Boosts target ally's damage dealt by 25% for 3 turns.",
+    "name": "Relax",
+    "summary": ""
   }
 ]

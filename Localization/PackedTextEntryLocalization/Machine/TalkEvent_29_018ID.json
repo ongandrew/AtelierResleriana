@@ -1,0 +1,665 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "どっちに味方するかって……そんな質問は――",
+        "localizations": {
+          "en": "Which side will I take...? That's not a question I—"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "片や、親の命令に従って、不穏分子を排除するために\n暗躍してきた管理者",
+        "localizations": {
+          "en": "On one side, you have managers who followed orders from their parents and worked in the shadows to eliminate troublesome elements."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "片や、それが管理されていたものとは知らず、\n自国の過去の姿に憧れるお殿様",
+        "localizations": {
+          "en": "On the other, you have a lord who never knew she was being managed, who yearns for the past glory of her nation."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "その二人が手を取り合うなんて、ありえないよねぇ？",
+        "localizations": {
+          "en": "There's no way those two could ever join hands, right?"
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "…………",
+        "localizations": {
+          "en": "..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "ちょっと待ったー！\u3000急に出てきたと思ったら……\nなんでアンタが仕切ってるのよ偉そうに！",
+        "localizations": {
+          "en": "Hold on a second! You just show up out of nowhere, and now you're acting all high and mighty!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "そうでもしないとこの場は収まらないじゃないか、\nオカリーナ",
+        "localizations": {
+          "en": "Well, someone has to settle things, don't they, little ocarina?"
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "アルビーナな。誰が笛じゃ。アンタ引っ込みなさいよ",
+        "localizations": {
+          "en": "It's Alvina! Who're you calling a flute? Just butt out already!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "君だって、アウグストのやり方に\n思うところがないわけじゃないだろう？",
+        "localizations": {
+          "en": "You're not entirely happy with August's methods either, are you?"
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "それは……",
+        "localizations": {
+          "en": "That's..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "で、どうレスナ。答えを聞かせてよ。\nどっちの味方をするのかさ",
+        "localizations": {
+          "en": "So, how about it, Resna? Let me hear your answer. Which side are you on?"
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "私は……どちらにも肩入れしますし、\nどちらにも肩入れしません",
+        "localizations": {
+          "en": "I... will support both sides. And neither side."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "イェルカさんが、これからまた誰かを管理しようと\n言うのなら、私は止めます",
+        "localizations": {
+          "en": "If Jelka tries to manage anyone again, I'll stop her."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "その上で、鏑矢さんがイェルカさんを許せず\n戦おうとするのなら、それも止めます",
+        "localizations": {
+          "en": "But if Kaburaya can't forgive Jelka and tries to fight her, I'll stop that too."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "そして、お互いにとっていい答えが見つかるまで……\nとことん話し合います",
+        "localizations": {
+          "en": "And until we find an answer that works for everyone... we'll keep talking it through."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "……それはどっちにもいい顔しすぎじゃないの？\n僕はどっちの味方をするか聞いてるんだけど？",
+        "localizations": {
+          "en": "...Isn't that trying to please everyone? I asked which side you're taking."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "甘い考えなのは分かっています……でも！\nそれでも、私はみんなを幸せにしたい",
+        "localizations": {
+          "en": "I know it sounds naive... but still! I want to make everyone happy."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "みんなの味方でいたいって？\nそんなのは自惚れだよ",
+        "localizations": {
+          "en": "You want to be everyone's ally? That's just arrogance."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "いいえ……\n私はただ、自分が信じる道を曲げたくないだけ",
+        "localizations": {
+          "en": "No... I just don't want to compromise what I believe in."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "私は、私の味方でいきます！",
+        "localizations": {
+          "en": "I'm going to be true to myself!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "……それがレスナ、お前の信念なのだな",
+        "localizations": {
+          "en": "...So that is your conviction, Resna."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "はい",
+        "localizations": {
+          "en": "Yes."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "まったく、世の中には余に並ぶうつけがいたか。\nここは引こう。レスナにはケイウンでの恩もあるしな",
+        "localizations": {
+          "en": "My word. To think there existed another fool to match me. Very well. I shall back down. I am indebted to Resna for what happened in Keiun, after all."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "あ……ありがとうございます！\nほめてくれたんですよね……？",
+        "localizations": {
+          "en": "Th-Thank you so much! That was a compliment, right...?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "だとさ、シトリン",
+        "localizations": {
+          "en": "There you have it, Citrine."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "えー、何それ！\u3000思ってたのと違うっていうか……\nぜんぜんつまんないんだけど？",
+        "localizations": {
+          "en": "Huh? What's with that? That's not what I expected at all... How boring."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "おあいにく様、世界はアンタが楽しいように\nできてるわけじゃないってこと！\u3000",
+        "localizations": {
+          "en": "Too bad! The world doesn't revolve around what you find entertaining!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "これ以上引っかき回すつもりなら……\n捕まえてがっつり懲らしめてあげるんだから！",
+        "localizations": {
+          "en": "If you're gonna keep stirring up trouble... I'll catch you and give you a good scolding!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "おっと、ここで捕まるわけにはいかないよ。\nじゃあ、僕はこれで",
+        "localizations": {
+          "en": "Oops, can't let myself get caught here. Well then, I'll be going."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "ゴゥ、イェルカ、一緒に帰るかい？",
+        "localizations": {
+          "en": "Gou, Jelka, care to head back with me?"
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "私は――",
+        "localizations": {
+          "en": "I—"
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "アタシは帰らないよ。\n鏑矢流に言えば、これがアタシの信念だから",
+        "localizations": {
+          "en": "I'm not going back. To put it in Kaburaya's terms, this is my conviction."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "む……ならば私も姉上についていきます。\n今の姉上を放ってはおけません",
+        "localizations": {
+          "en": "Mm... Then I'll stay with Sister. I can't leave her alone right now."
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "それに……私としても、気になることがあるので",
+        "localizations": {
+          "en": "Besides... there are things I'm curious about too."
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "そ。じゃあ、またね",
+        "localizations": {
+          "en": "I see. Well then, see you around."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "……そうやって甘いことを言っていられるのも、\n今のうちだけかもね",
+        "localizations": {
+          "en": "...You know, you might only be able to say such naive things for so long."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "っ……！",
+        "localizations": {
+          "en": "...!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "待てぃこの野郎",
+        "localizations": {
+          "en": "Get back here, you jerk!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "おーーっとっと",
+        "localizations": {
+          "en": "Oops, gotta run!"
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  }
+]

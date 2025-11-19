@@ -6371,8 +6371,8 @@
   },
   {
     "id": 600000703,
-    "description": "Boosts skill power for Kimon [Enduring Loyal Patience] by 100%.",
-    "name": "Kimon [Enduring Loyal Patience] Skill Power Up"
+    "description": "Boosts skill power for Kimon [Devoted Loyal Ninja] by 100%.",
+    "name": "Kimon [Devoted Loyal Ninja] Skill Power Up"
   },
   {
     "id": 600000704,
@@ -6381,8 +6381,8 @@
   },
   {
     "id": 600000705,
-    "description": "When Kimon [Enduring Loyal Patience] or Johanna [Brilliant Diver] is in the party, reduces damage received by 25% (max 25%).",
-    "name": "Damage Reduction when Kimon [Enduring Loyal Patience] or Johanna [Brilliant Diver] is in Party"
+    "description": "When Kimon [Devoted Loyal Ninja] or Johanna [Brilliant Diver] is in the party, reduces damage received by 25% (max 25%).",
+    "name": "Damage Reduction when Kimon [Devoted Loyal Ninja] or Johanna [Brilliant Diver] is in Party"
   },
   {
     "id": 301252,
@@ -7976,12 +7976,122 @@
   },
   {
     "id": 600000741,
-    "description": "Boosts Kimon [Executor of the Moon Shadow]'s positive effect potency given by 150%.",
-    "name": "Kimon [Executor of the Moon Shadow] Positive Effect Potency UP"
+    "description": "Boosts Crow [Moonlight Society Enforcer]'s positive effect potency given by 150%.",
+    "name": "Crow [Moonlight Society Enforcer] Positive Effect Potency UP"
   },
   {
     "id": 600000742,
-    "description": "When Kimon [Executor of the Moon Shadow] or Alvina [Tropical Shine] is in the party, reduces damage received by 25%. (MAX 25%)",
-    "name": "Reduces Damage Received When Kimon [Executor of the Moon Shadow] or Alvina [Tropical Shine] is in Party"
+    "description": "When Crow [Moonlight Society Enforcer] or Alvina [Tropical Shine] is in the party, reduces damage received by 25%. (MAX 25%)",
+    "name": "Reduces Damage Received When Crow [Moonlight Society Enforcer] or Alvina [Tropical Shine] is in Party"
+  },
+  {
+    "id": 301290,
+    "description": "While equipped to Liebe [Innate Strategist], after using a skill, grants Burst Skill Damage +{0}% and Stun Damage +{1}% to all allies with Stab affinity for 1 turn, and reduces damage received by {2}% for 1 attack.",
+    "name": "Steel-Hearted Bow that Pierces All"
+  },
+  {
+    "id": 301292,
+    "description": "While equipped to a character with Slash affinity, after using a skill, reduces Slash resistance of all enemies by {0}% for 1 attack (max 3 stacks).<br>While equipped to a Supporter, boosts critical rate of all allies by {1}%.",
+    "name": "Sweet Bite"
+  },
+  {
+    "id": 1980215,
+    "description": "Boosts P.ATK of characters with Stab affinity by {0}%.",
+    "name": "Talented Staff Officer"
+  },
+  {
+    "id": 1990479,
+    "description": "At battle start, charges 3 charge indicators for Creatio Flows.<br>After any party member uses a battle item, charges 1 charge indicator for Creatio Flows.<br>※Only 1 indicator is charged even when multiple items are used simultaneously.",
+    "name": "All According to Plan"
+  },
+  {
+    "id": 1990480,
+    "description": "All allies with Stab affinity gain the following bonuses based on the number of positive effects granted before using a skill:<br>3 or more: Skill Damage +{0}%<br>5 or more: Skill Damage +{1}%<br>10 or more: After using a skill, converts own next panel into a burst panel (creates if empty) (up to 2 times)<br>※Does not include unlimited duration positive effects granted at battle start.",
+    "name": "Breakthrough Formula"
+  },
+  {
+    "id": 1990487,
+    "description": "Boosts potency of positive effects granted by 0-30% based on the number of positive effects granted to self (Higher boost for more effects, range: 0-10 effects).<br>When 10 or more positive effects are granted to self before using a skill, after using a skill, converts all panels except boost-type panels and burst panels of the ally with the highest P.ATK into boost panels (creates if empty).<br>※Does not include unlimited duration positive effects granted at battle start.",
+    "name": "That's My Playful Side!"
+  },
+  {
+    "id": 4991163,
+    "description": "While equipped to a Supporter with Stab affinity, boosts burst skill damage of all allies by {0}%.<br>While equipped to a character with Glasses, boosts HP recovery granted by {1}%.",
+    "name": "Idea \"Connected Arrow, to the Limit\""
+  },
+  {
+    "id": 4991164,
+    "description": "While equipped to a Supporter with Stab affinity, boosts burst skill damage of all allies by {0}%.<br>While equipped to a character with Glasses, boosts HP recovery granted by {1}%.",
+    "name": "Idea \"Connected Arrow, to the Limit\""
+  },
+  {
+    "id": 4991165,
+    "description": "While equipped to a Supporter with Stab affinity, boosts burst skill damage of all allies by {0}%.<br>While equipped to a character with Glasses, boosts HP recovery granted by {1}%.",
+    "name": "Idea \"Connected Arrow, to the Limit\""
+  },
+  {
+    "id": 4991166,
+    "description": "While equipped to a Supporter with Stab affinity, boosts burst skill damage of all allies by {0}%.<br>While equipped to a character with Glasses, boosts HP recovery granted by {1}%.",
+    "name": "Idea \"Connected Arrow, to the Limit\""
+  },
+  {
+    "id": 4991167,
+    "description": "While equipped to a Supporter with Stab affinity, boosts burst skill damage of all allies by {0}%.<br>While equipped to a character with Glasses, boosts HP recovery granted by {1}%.",
+    "name": "Idea \"Connected Arrow, to the Limit\""
+  },
+  {
+    "id": 21261001,
+    "description": "When stunned by a physical attack, grants Nullify Negative Status Effects (5 times) to self.",
+    "name": ""
+  },
+  {
+    "id": 21261002,
+    "description": "When HP is reduced to 50% or lower, removes debuffs from self and grants SPD Up (5% permanent) and Damage Dealt Up (30%/3 turns).",
+    "name": ""
+  },
+  {
+    "id": 26117011,
+    "description": "When stunned by a physical attack, grants Physical Damage Received Up (70%/3 turns) to self.",
+    "name": ""
+  },
+  {
+    "id": 26117012,
+    "description": "When stunned, grants effects to self based on the attack element received. Physical: grants Physical Damage Received Up (70%/3 turns). Magical: grants Magical Damage Received Up (70%/3 turns).",
+    "name": ""
+  },
+  {
+    "id": 600000738,
+    "description": "After using a battle item, boosts battle item skill power of all allies by 100% (max 3000%).",
+    "name": "After Using Item, All Allies Battle Item Skill Power Up"
+  },
+  {
+    "id": 600000739,
+    "description": "After a character with Slash or Stab affinity uses a skill, boosts battle item damage of all allies by 100% (max 3000%).",
+    "name": "After Slash or Stab Affinity Uses Skill, All Allies Battle Item Damage Up"
+  },
+  {
+    "id": 600000743,
+    "description": "Reduces damage dealt by non-battle items by 99.9%.",
+    "name": "Non-Battle Item Damage Dealt Down"
+  },
+  {
+    "id": 600000744,
+    "description": "Boosts potency of positive effects granted by Plachta [Alluring Vampire] by 75%.",
+    "name": "Plachta [Alluring Vampire] Positive Effect Potency Up"
+  },
+  {
+    "id": 600000745,
+    "description": "Boosts potency of positive effects granted by Crow [Moonlight Society Enforcer] by 75%.",
+    "name": "Crow [Moonlight Society Enforcer] Positive Effect Potency Up"
+  },
+  {
+    "id": 600000746,
+    "description": "Boosts potency of positive effects given by 75% when self has Diligent status.",
+    "name": "Positive Effect Potency Up (Diligent)"
+  },
+  {
+    "id": 600000754,
+    "description": "After using a skill, boosts all allies' battle item damage by 100% (up to 3000%).",
+    "name": "Battle Item Damage Up (After Turn) (All)"
   }
 ]

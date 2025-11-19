@@ -1,0 +1,563 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "できた！\u3000この薬を藻にかければ……",
+        "localizations": {
+          "en": "Done! If we apply this remedy to the seaweed..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "やった、成功！\u3000これで船の墓場もへっちゃらっすわ！",
+        "localizations": {
+          "en": "Yes! It worked! Now the ship graveyard will be a piece of cake!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "ううむ、素晴らしいな……\n錬金術の神秘は何度見ても心が躍る。なぁ千歳",
+        "localizations": {
+          "en": "Impressive... The mysteries of alchemy never fail to stir the heart. Wouldn't you agree, Chitose?"
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "はい、す、素晴らしいです",
+        "localizations": {
+          "en": "Y-yes, it's truly wonderful."
+        }
+      },
+      "2072370017": {
+        "text": "千歳",
+        "localizations": {
+          "en": "Chitose"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "まったくだね、アタシも錬金術ができたら便利なんだが",
+        "localizations": {
+          "en": "You can say that again. I wish I could use alchemy too—it'd be so convenient."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "え？\u3000イェルカできないの？",
+        "localizations": {
+          "en": "Huh? You can't use alchemy, Jelka?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "私たち九偉人のうち、錬金術が使えるように\n創られたのはナナからだ",
+        "localizations": {
+          "en": "Among us Nine, only Nana and those created after her were made capable of using alchemy."
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "アタシやゴゥはそれより前に創られたからね。\n錬金術は使えないんだよ。手伝いくらいはできるけどね",
+        "localizations": {
+          "en": "Gou and I were created before that, so we can't use alchemy. We can lend a hand with synthesis work, though."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "創られた……というのはどういう意味だ？",
+        "localizations": {
+          "en": "What do you mean by 'created'?"
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "アタシらはホムンクルス……錬金術によって\n生み出された人造人間なのさ。ヴァレリアもそうだよ",
+        "localizations": {
+          "en": "We're homunculi—artificial humans created through alchemy. Same with Valeria."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "なんと！？\u3000見た目は普通の人間と変わらんぞ……",
+        "localizations": {
+          "en": "What?! But you look no different from ordinary humans..."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "中身もそんなに変わらないわよ。\n丈夫にできてるくらいで",
+        "localizations": {
+          "en": "We're not that different on the inside either. We're just built to be more durable."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "ふうむ。よもや錬金術がそれほどの技術だったとは……",
+        "localizations": {
+          "en": "Fascinating. To think alchemy had reached such heights..."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "ヴァレリアより後に生まれた二人……ヤドヴィガと\nキュー蔵も、錬金術を使えるよ",
+        "localizations": {
+          "en": "The two created after Valeria—Jadwiga and Quinn—can use alchemy too."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "逆に、一番上の兄と姉は戦闘に特化しすぎていてな。\nあまりに危険だからと、今は眠らされている",
+        "localizations": {
+          "en": "Our eldest brother and sister, on the other hand, were too specialized for combat. They were deemed too dangerous, so they've been put to sleep."
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "うーん……一番上の兄と姉……どんなんだったかな……\n思い出せそうで思い出せない……",
+        "localizations": {
+          "en": "Hmm... The eldest siblings... What were they like again...? I feel like I'm on the verge of remembering, but I can't quite..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "でもなんか確かに、おっかなかったような",
+        "localizations": {
+          "en": "Though I do have this vague feeling they were... scary."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "自分で生み出しておいて、勝手な話だな",
+        "localizations": {
+          "en": "How selfish—to create them and then cast them aside."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "……父様や母様にはお考えがあるのだ。\n子どもとして尽くすのみ",
+        "localizations": {
+          "en": "...Father and Mother have their reasons. As their children, we can only serve them faithfully."
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "孝行か。そういう考えはケイウンにも根深いが……\nお前たちの親とは、どういった存在なのだ？",
+        "localizations": {
+          "en": "Filial piety. Such thinking runs deep in Keiun as well... But what manner of beings are these parents of yours?"
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "パルメ族。歴史を裏で操ってきた存在よ",
+        "localizations": {
+          "en": "The Palme. Beings who've manipulated history from the shadows."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "世界の管理者を自称して、ランターナ大陸の\n色んな勢力を影で動かしてきた",
+        "localizations": {
+          "en": "They call themselves guardians of the world and have been pulling the strings of various factions across the Lantarna continent from behind the scenes."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "アタシの生まれたノーヴァ神聖国でも\nパルメ族が介入して、管理していたの",
+        "localizations": {
+          "en": "Even in Nova, where I was born, the Palme interfered and controlled things."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "……そのような勢力がおったのか。\nあまり虫が好かんな",
+        "localizations": {
+          "en": "...So such a force exists. I don't like the sound of that."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "父様と母様にもちゃんとお考えがある。\nいつかその正しさに気付くことになるだろう",
+        "localizations": {
+          "en": "Father and Mother have their reasons. One day, you'll come to understand they were right."
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "ま、正しい部分もあるのは否定しないっすけどー",
+        "localizations": {
+          "en": "Well, I won't deny they got some things right, but..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "……私も、正直どっちか正しいかよく分かってない",
+        "localizations": {
+          "en": "...Honestly, I'm not really sure which side is right myself."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "ああ、いや。余が気に食わんのは影からという部分だ。\nどうせなら表立って、堂々と支配せんか",
+        "localizations": {
+          "en": "Ah, no. What irks me is the 'from the shadows' part. If they're going to rule, why not do it openly and proudly?"
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "ええ、ひっかかるのそこなんだ……",
+        "localizations": {
+          "en": "Wait, that's what bothers you...?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "か、鏑矢様は、そういうお方ですから……",
+        "localizations": {
+          "en": "L-Lady Kaburaya has always been... like this..."
+        }
+      },
+      "2072370017": {
+        "text": "千歳",
+        "localizations": {
+          "en": "Chitose"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "まあそれは冗談半分として……\n自分たちが常に正しいと考えることは危ういな",
+        "localizations": {
+          "en": "Well, that was half in jest... But believing oneself to always be right is dangerous."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "誰しも間違うときはある。\nそれを余に教えてくれたのはお前たちだった",
+        "localizations": {
+          "en": "Everyone makes mistakes. You were the ones who taught me that."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "なればこそ、パルメ族とやらに今度は余が\n教えてやりたいものだな……人間を舐めるな、と",
+        "localizations": {
+          "en": "And so, I'd like to teach these Palme a lesson in return—don't underestimate humanity."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  }
+]

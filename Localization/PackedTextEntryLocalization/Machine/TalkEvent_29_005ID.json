@@ -1,0 +1,631 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "海の果てを目指す……か。\n次は結構な長旅になりそうね",
+        "localizations": {
+          "en": "Setting out for the edge of the sea? Sounds like your next voyage will be quite arduous."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "ヤンネさん、大丈夫？\nまた長い間島を離れることになるけど……",
+        "localizations": {
+          "en": "Janne, are you sure you're okay with this? We'll be away from the island for a while, again..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "今さら心配なんていらないわ。あなたのほうこそ、\n厳しい旅になるだろうから、気を引き締めてね",
+        "localizations": {
+          "en": "There's no need to concern yourself about what I think at this point. You're the one who should stay on your toes. I's going to be a tough journey."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "もちろん！\u3000覚悟はできてますわ！",
+        "localizations": {
+          "en": "Of course! I'm totally prepared!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "防寒対策もしっかりしておかないと……",
+        "localizations": {
+          "en": "I'll need to make sure we have proper cold-weather gear too..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "寒いときは抱き合って温まるといいって。\n姉様、どうぞ",
+        "localizations": {
+          "en": "When it's cold, huddling together for warmth is effective. Here, Alvina."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "ベップはぬくいからねぇ、\nそれじゃ、お言葉に甘えて……",
+        "localizations": {
+          "en": "You're so warm, Bepp. Well, if you insist..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "あら、お邪魔しちゃった？",
+        "localizations": {
+          "en": "Oh my, am I interrupting?"
+        }
+      },
+      "2072370017": {
+        "text": "ニーナ",
+        "localizations": {
+          "en": "Nina"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "わ、わわわっ……！",
+        "localizations": {
+          "en": "Wh-whoa...!"
+        }
+      },
+      "2072370017": {
+        "text": "レイニャ",
+        "localizations": {
+          "en": "Lenja"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "あれ、ニーナさん、レイニャちゃん！\nううん、ぜんぜん邪魔じゃないよ！",
+        "localizations": {
+          "en": "Oh, Nina! Lenja! No, you're not interrupting at all!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "見られるのも、それはそれでいい。\n愛を布教する",
+        "localizations": {
+          "en": "Being watched makes it even better. Love is in the air..."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "んもう、ベップちゃんも乗っからないの。\nそれで、二人ともどうしたの？",
+        "localizations": {
+          "en": "Now, now, Bepp, don't give them the wrong idea. So, what brings the two of you here?"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "ユミアとアイラからケイウンでのことを聞いたわ",
+        "localizations": {
+          "en": "We heard from Yumia and Isla about what happened in Keiun."
+        }
+      },
+      "2072370017": {
+        "text": "ニーナ",
+        "localizations": {
+          "en": "Nina"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "それで、調査団としても他の遠くの島まで\n調査範囲を広げてみようって話になって……",
+        "localizations": {
+          "en": "So the research team decided we should expand our investigation to other islands as well..."
+        }
+      },
+      "2072370017": {
+        "text": "レイニャ",
+        "localizations": {
+          "en": "Lenja"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "それじゃあ……！",
+        "localizations": {
+          "en": "Does that mean...!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "ええ。次の北への船旅、私たちも同行させてほしいの。\nいいかしら？",
+        "localizations": {
+          "en": "Yes. We'd like to join you on this voyage north. Would that be all right?"
+        }
+      },
+      "2072370017": {
+        "text": "ニーナ",
+        "localizations": {
+          "en": "Nina"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "もちろん！\u3000大歓迎だよ！\nねっ、ベップ",
+        "localizations": {
+          "en": "Absolutely! You're more than welcome! Right, Bepp?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "二人が来てくれたら、心強い",
+        "localizations": {
+          "en": "Having you both along would be reassuring."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "ニ、ニーナさんはともかく\nレイニャはダメダメだけど……",
+        "localizations": {
+          "en": "W-well, Nina's very capable, but me...? I'm pretty useless..."
+        }
+      },
+      "2072370017": {
+        "text": "レイニャ",
+        "localizations": {
+          "en": "Lenja"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "そんなこと、ないよ",
+        "localizations": {
+          "en": "That's not true."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "そうそう、頼りにしてるよ～",
+        "localizations": {
+          "en": "Exactly! We're counting on you!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "あ、ありがとうございます……\n期待を裏切らないよう、頑張らなきゃ……！",
+        "localizations": {
+          "en": "Th-thank you... I'll do my best not to let you down...!"
+        }
+      },
+      "2072370017": {
+        "text": "レイニャ",
+        "localizations": {
+          "en": "Lenja"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "ただ、人手が増えるのはいいんだけど\n船の定員とか、大丈夫なんだっけ？",
+        "localizations": {
+          "en": "With this many people joining, I wonder if the ships have enough room for everyone?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "フロッケ号もバーバラ号も\n大きいし、問題ないんじゃないかしら",
+        "localizations": {
+          "en": "The Flocke and Barbara are both large vessels. There's enough space for everyone."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "だ、大丈夫です。\nレイニャ、甲板でだって眠れます！",
+        "localizations": {
+          "en": "I-it's okay! I can sleep on deck if needed!"
+        }
+      },
+      "2072370017": {
+        "text": "レイニャ",
+        "localizations": {
+          "en": "Lenja"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "うふ、それについて、嬉しいお知らせがあるわ",
+        "localizations": {
+          "en": "Actually, I have some good news on that front."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "実はアルビーナの働きを評価して、\n神聖国からも一隻、船を出してくれることになったの",
+        "localizations": {
+          "en": "Nova has decided to provide an additional ship for this journey in recognition of your achievements, Alvina."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "ホントに！？\u3000こういうとこにお金は回されてるのね！",
+        "localizations": {
+          "en": "Really!? So they do spend money on things that matter!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "……まあ、他の２隻みたいに特別な装備は積んでいない\nから、どこまでついていけるかはわからないけれど",
+        "localizations": {
+          "en": "...Well, it doesn't have the special equipment that the other two ships have, so I can't say how far it'll be able to follow."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "この辺りの海域なら航行可能ってことだよね？\nそれでも十分ありがたいな！",
+        "localizations": {
+          "en": "But it can still sail, right? That's more than enough for a start!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "それにしても、神聖国がここまでしてくれるなんて\nアタシもそこまでの立場になったんだなぁ……",
+        "localizations": {
+          "en": "I can't believe they're actually helping me out with this... I guess I've really worked my way up in the world..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "姉様は、まだまだ上を狙える逸材……",
+        "localizations": {
+          "en": "You have the potential to rise even higher..."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "そうと決まったら、新しい船の名前を考えなくちゃ！\nここはもう直球にアルビーナ号でどうすか！？",
+        "localizations": {
+          "en": "In that case, we need to come up with a name for the new ship! How about we go with something straightforward—the Alvina!?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "ふふっ、面白い子ね",
+        "localizations": {
+          "en": "Hehe, I like the way you think."
+        }
+      },
+      "2072370017": {
+        "text": "ニーナ",
+        "localizations": {
+          "en": "Nina"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "お調子者なのよね。でも、遠い場所まで行くのだから\nこれぐらい前向きで、ちょうどいいのかもね",
+        "localizations": {
+          "en": "Alvina will always be Alvina. Still, you're heading to a distant place—maybe that kind of positive energy is exactly what you need."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "アラディス調査団の一員で、元傭兵。\nミステリアスな雰囲気だが、愉快でお茶目な一面も",
+        "localizations": {
+          "en": "A member of the Aladiss Research Team and former mercenary. Has a mysterious air but also a playful, mischievous side."
+        }
+      },
+      "2072370017": {
+        "text": "ニーナ・フリーデ",
+        "localizations": {
+          "en": "Nina Friede"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "アラディス調査団所属、亜人種「ウェルクス」の少女。\n小心者だが、高い身体能力を活かした戦闘が得意",
+        "localizations": {
+          "en": "A member of the Aladiss Research Team and a Welleks demihuman girl. Timid by nature but skilled in combat using her high physical abilities."
+        }
+      },
+      "2072370017": {
+        "text": "レイニャ",
+        "localizations": {
+          "en": "Lenja"
+        }
+      }
+    }
+  }
+]

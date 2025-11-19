@@ -3363,5 +3363,105 @@
     "id": 810175,
     "description": "Boosts negative effect potency by {value}%. Cannot be removed.",
     "name": "Negative Effect Potency Up"
+  },
+  {
+    "id": 510238,
+    "description": "Converts own next panel to a burst panel (creates one if the panel is empty).",
+    "name": "Convert Own Next Panel to Burst Panel"
+  },
+  {
+    "id": 510239,
+    "description": "Boosts skill damage by {value}%. (MAX 1 stack)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 510240,
+    "description": "Boosts skill damage by {value}%. (MAX 1 stack)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 510242,
+    "description": "Boosts skill damage by {value}%.",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 510243,
+    "description": "Boosts skill damage by {value}%. (MAX 2 stacks)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 510256,
+    "description": "Boosts potency of positive effects given by {value}%.",
+    "name": "Positive Effect Potency Given Up"
+  },
+  {
+    "id": 610356,
+    "description": "Boosts P.ATK by {value}%. (MAX 40%)",
+    "name": "P.ATK Up"
+  },
+  {
+    "id": 610357,
+    "description": "Boosts P.ATK by {value}%. (MAX 50%)",
+    "name": "P.ATK Up"
+  },
+  {
+    "id": 610358,
+    "description": "Boosts burst skill damage by {value}%. (MAX 150%)",
+    "name": "Burst Damage Up"
+  },
+  {
+    "id": 610370,
+    "description": "Boosts skill damage by {value}%. (MAX 30%)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 610371,
+    "description": "Boosts P.ATK by {value}%. (MAX 30%)",
+    "name": "P.ATK Up"
+  },
+  {
+    "id": 800180,
+    "description": "Increases burst damage received by {value}%. (Cannot be stacked)",
+    "name": "Received Burst Damage Up"
+  },
+  {
+    "id": 800182,
+    "description": "Increases damage received from Slash attacks by {value}%. (MAX 3 stacks)",
+    "name": "Slash Resistance Down"
+  },
+  {
+    "id": 800183,
+    "description": "Increases burst damage received by {value}%. (Cannot be stacked)",
+    "name": "Received Burst Damage Up"
+  },
+  {
+    "id": 820125,
+    "description": "Cannot apply negative status effects.",
+    "name": "Cannot Apply Negative Status Effects"
+  },
+  {
+    "id": 1210438,
+    "description": "While equipped to a character with Stab affinity, after using a skill, boosts item damage dealt by {value}% for all allies (MAX 3000%). Cannot be removed.",
+    "name": "After Skill, Grant Item Damage Up"
+  },
+  {
+    "id": 1210439,
+    "description": "After using an item, boosts item skill power by {value}% for all allies (MAX 3000%). Cannot be removed.",
+    "name": "After Item, Grant Item Skill Power Up"
+  },
+  {
+    "id": 1210440,
+    "description": "Boosts item skill power by {value}% (MAX 3000%). Cannot be removed.",
+    "name": "Item Skill Power Up"
+  },
+  {
+    "id": 1210441,
+    "description": "After using a skill, boosts item damage dealt by {value}% for all allies (MAX 3000%). Cannot be removed.",
+    "name": "After Skill, Grant Item Damage Up"
+  },
+  {
+    "id": 1210442,
+    "description": "While equipped to a character with Slash affinity, after using a skill, boosts item damage dealt by {value}% for all allies (MAX 3000%). Cannot be removed.",
+    "name": "After Skill, Grant Item Damage Up"
   }
 ]

@@ -1,0 +1,546 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "イェルカがアメルハウザーの一族を管理して\n東メンソス独立にも関わってたなんて……",
+        "localizations": {
+          "en": "To think Jelka managed the Amelhauser family and was involved in East Mensos's independence..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "でも……パルメ族の命令に逆らえないんですよね",
+        "localizations": {
+          "en": "But... you can't disobey the Palme's orders, right?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "そういう装置が胸に埋め込まれてるんですもんね？\nだから、本当はやりたくなくても……",
+        "localizations": {
+          "en": "There's a device implanted in your chest, isn't there? So even if you don't want to..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "かつてヴァレリアの胸に\n埋まっていたってやつのことかい",
+        "localizations": {
+          "en": "You mean the thing that used to be embedded in Valeria's chest?"
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "……その機構は私や姉上には搭載されていない。\nもちろん親の命令に逆らえないのは事実だが……",
+        "localizations": {
+          "en": "...That mechanism isn't installed in Sister or me. Of course, it's true we can't disobey our parents' orders, but..."
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "やろうと思えば命令をわざと曲解して、回避することも\nできたかもしれない。アルビーのようにね",
+        "localizations": {
+          "en": "If I'd wanted to, I might've been able to deliberately misinterpret orders and avoid them. Like Alvie does."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "たとえばある人物を消せって命令が来たとする。その際\n命を奪うのではなく、社会的な抹消で済ますって具合に",
+        "localizations": {
+          "en": "For instance, say an order came to eliminate someone. Instead of taking their life, I could've just erased them socially."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "でも、アタシはそうしなかった。\nただ命令に従って「管理」してきたのが昔のアタシさ",
+        "localizations": {
+          "en": "But I didn't do that. I just followed orders and 'managed' things. That was the old me."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "粋だなんだと普段から言ってるけどさ\nよっぽど粋とはほど遠い生き方してたよ",
+        "localizations": {
+          "en": "I talk about being chic all the time, but my way of living was about as far from chic as you can get."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "姉上はいつも飄々としていて、\n管理のことなど気にも留めていないように見えたが……",
+        "localizations": {
+          "en": "Sister, you always seemed so carefree, like you didn't even think about the management..."
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "まさか、そのように悩んでいたとは",
+        "localizations": {
+          "en": "I never imagined you were struggling with this."
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "家族の会話に口を挟む無粋はしたくないが……\nイェルカよ。一点、改めたいことがある",
+        "localizations": {
+          "en": "I hate to intrude on a family conversation, but... Jelka, there's something I must clarify."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "お前の目的が争いを鎮めることならば、\n余が愛するケイウンの過去……",
+        "localizations": {
+          "en": "If your purpose was to quell conflict, then the past of Keiun, which I hold dear..."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "多くの国がしのぎを削ったケイウン戦国時代を\n終わらせたのも、お前たちの仕業か？",
+        "localizations": {
+          "en": "Was it also your doing that ended the Warring States period, when countless nations vied for supremacy?"
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "……そうだとしたら？",
+        "localizations": {
+          "en": "...What if it was?"
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "余の趣味嗜好は置いておくとしても、つわものどもが\n夢を見、散っていった誉あるケイウンの歴史",
+        "localizations": {
+          "en": "Setting aside my personal preferences, the glorious history of Keiun saw warriors dream and fall with honor."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "それを陰で糸を引き、操っていたのならば……\nコウセン同様、許してはおけぬ",
+        "localizations": {
+          "en": "If you were pulling strings from the shadows, manipulating it all... then like Kosen, I cannot forgive you."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "だ、ダメですよ！\n仲間同士で争うなんて！",
+        "localizations": {
+          "en": "N-No! You can't fight among yourselves!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "仲間……レスナの仲間にいると聞いたぞ。\nそいつが手にかけたというアメルハウザーの一族が",
+        "localizations": {
+          "en": "Comrades... I heard there's one among Resna's companions whose family was killed by the Amelhausers."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "そ、それは……",
+        "localizations": {
+          "en": "Th-That's..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "その者と、このイェルカは手を組めると思うか？\n心を許すことができるのか？",
+        "localizations": {
+          "en": "Do you truly believe that person could work with Jelka? Could they trust her?"
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "……私が答えられることでは、ありません",
+        "localizations": {
+          "en": "...That's not for me to answer."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "本当、イェルカは正直者だねぇ",
+        "localizations": {
+          "en": "Really, Jelka's such an honest soul."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "レスナたちに心から協力したいからこそ、\n筋は通すってところなんだろうけどさ",
+        "localizations": {
+          "en": "It's because you genuinely want to cooperate with Resna and the others that you're being upfront about this, right?"
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "シトリン……！？\nついてきていたのですか！？",
+        "localizations": {
+          "en": "Citrine...!? You followed us!?"
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "でも正直が美徳とは限らないでしょ。\n管理された側からすれば、そんなの聞いたら戦争だよ",
+        "localizations": {
+          "en": "But honesty isn't always a virtue. From the perspective of those who were managed, hearing this means war."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "シトリン……何しに来た？",
+        "localizations": {
+          "en": "Citrine... what are you here for?"
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "今、イェルカには用はないよ。\n僕が用があるのは……レスナ、君だ",
+        "localizations": {
+          "en": "Right now, I'm not interested in you, Jelka. The one I have business with is... Resna."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "私……？",
+        "localizations": {
+          "en": "Me...?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "管理する側のイェルカやゴゥと、\n管理された側の鏑矢たち",
+        "localizations": {
+          "en": "On one side, there's Jelka and Gou who do the managing. On the other, there's Kaburaya and the others who were managed."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "今の状態を見れば分かるように、\nこの２つが相容れることなんて、絶対にないよ",
+        "localizations": {
+          "en": "As you can see from the current situation, these two sides can never reconcile. It's impossible."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "君はどっちの味方をするのかな？\nはっきりと選択してほしいんだよね",
+        "localizations": {
+          "en": "So which side will you take? I'd like you to make a clear choice."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  }
+]

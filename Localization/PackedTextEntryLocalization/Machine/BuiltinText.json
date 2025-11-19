@@ -218,5 +218,27 @@
         }
       }
     }
+  },
+  {
+    "id": 254578776,
+    "properties": {
+      "999008199": {
+        "text": "スキル演出スキップ",
+        "localizations": {
+          "en": "Skip Skill Animations"
+        }
+      }
+    }
+  },
+  {
+    "id": 628675057,
+    "properties": {
+      "999008199": {
+        "text": "※ONにすると、タップ時にキャラの一部スキル演出がスキップされます。\n\u3000ただし、各スキルについて最初の1回だけはスキップせず再生されます。",
+        "localizations": {
+          "en": "*When ON, tapping the screen will skip certain character skill animations.\nHowever, the first time each skill is used, the animation will always play."
+        }
+      }
+    }
   }
 ]

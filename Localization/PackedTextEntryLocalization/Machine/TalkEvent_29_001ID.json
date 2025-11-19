@@ -1,0 +1,461 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "大陸から遥々やって来たということは、\n何か目的があるのではないか？\u3000話してみろ",
+        "localizations": {
+          "en": "You must have had a reason to travel all the way here from the continent. Feel like sharing?"
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "はい。実は――",
+        "localizations": {
+          "en": "Well... actually..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "（ある日、ケイウンという島国から来た方たちが、\n\u3000領主の鏑矢さんを救ってほしいと依頼してきた）",
+        "localizations": {
+          "en": "(A while ago, a couple of residents of an island nation called Keiun came to us asking for help saving their lord, Kaburaya.)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "（アルビーナたちが現地に向かったものの、事件の\n\u3000黒幕である陰陽師コウセンに捕まってしまって……）",
+        "localizations": {
+          "en": "(Alvina's group went to investigate, but they were captured by Kosen, who turned out to be the mastermind behind it all...)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "（さらに九偉人もケイウンを「管理」すると言い出し、\n\u3000私も遅れてケイウンへ合流することに）",
+        "localizations": {
+          "en": "(When the Miraculous Nine then declared that they'd manage Keiun, I rushed over to join everyone.)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "（実は、コウセンは大妖怪が人間に化けた存在で、\n\u3000なんとか倒すことはできたんだけど……）",
+        "localizations": {
+          "en": "(It turned out Kosen was actually a great demon disguised as a human, but we ultimately managed to defeat him...)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "……ほう、果ての大陸か。初めて聞く名ではある",
+        "localizations": {
+          "en": "...Hmm, World's End? I've never heard of it."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "私はマナが眠っている果ての大陸を見つけ、\n錬金術を復興したいんです",
+        "localizations": {
+          "en": "My goal is to find World's End, which is said to hold a large amount of dormant mana, and revive alchemy."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "ふむ……なるほどな。\n錬金術がそうした事情を抱えていたとは",
+        "localizations": {
+          "en": "I see... So that's the situation alchemy finds itself in."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "まだ具体的な場所や行き方は分かっていないので、\n島々を巡って手掛かりを探しているところなんです",
+        "localizations": {
+          "en": "We still don't have an exact location, nor do we know how to get there, so we've been traveling from island to island looking for clues."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "鏑矢さんは何か知りませんか？\nケイウンにも似たような話が残ってたりとか！",
+        "localizations": {
+          "en": "Have you never heard anything of it? Aren't there are similar fables here in Keiun?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "遥か北の海に宝が眠る島がある、という伝説は\n聞いたことがあるが……千歳、何か知っているか？",
+        "localizations": {
+          "en": "Hm... I've heard legends of an island where treasure sleeps in the far northern seas, but other than that... Chitose, does anything come to mind?"
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "私も、詳しくはないのですが……異国からいらっしゃる\nお客人が、そういった話をされることは、ときどき……",
+        "localizations": {
+          "en": "I'm not too sure myself... although occasionally, visitors from foreign lands speak of similar stories..."
+        }
+      },
+      "2072370017": {
+        "text": "千歳",
+        "localizations": {
+          "en": "Chitose"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "おお、確かにそうだ。\n交易の記録や贈答品は蔵にしまってあるはず……",
+        "localizations": {
+          "en": "Ah yes, that's right. We do have records of trade goods and gifts from those lands stored in the warehouse..."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "何か手掛かりになるものが眠っているやもしれん。\n探させてみるとしよう",
+        "localizations": {
+          "en": "On the off chance that there's something useful in there, I'll have someone search for it."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "ありがとうございます！",
+        "localizations": {
+          "en": "Thank you so much!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "なに、コウセンの件を解決してくれた礼だ",
+        "localizations": {
+          "en": "Think nothing of it. It's the least I can do after you resolved the situation with Kosen."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "…………",
+        "localizations": {
+          "en": "..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "鏑矢様、そろそろ出発のお時間が……",
+        "localizations": {
+          "en": "Lady Kaburaya, it's almost time to depart..."
+        }
+      },
+      "2072370017": {
+        "text": "千歳",
+        "localizations": {
+          "en": "Chitose"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "おっと、つい話し込んでしまったな。\n皆、すまない。今日はここまでとさせてくれ",
+        "localizations": {
+          "en": "Ah, I got carried away. My apologies. This is where we'll have to end things for today."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "何かご用事でもあるっすか？",
+        "localizations": {
+          "en": "Has something come up?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "この後、いにしえの社にて\nコウセンの魂鎮めの儀を執り行うのだ",
+        "localizations": {
+          "en": "After this, we'll be holding a memorial rite for Kosen at the ancient shrine."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "たましずめ？",
+        "localizations": {
+          "en": "Memorial?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "ケイウンでは社に塚を立てて供養とするのだ。\n物の怪にまた化けて出られては困るのでな",
+        "localizations": {
+          "en": "In Keiun, we erect mounds at shrines for memorial services. We can't have him turning into a vengeful spirit now, can we?"
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "コウセンが死後、安らかに眠れるように……\n祝詞を、捧げるのです……",
+        "localizations": {
+          "en": "So that Kosen might rest peacefully... we offer prayers..."
+        }
+      },
+      "2072370017": {
+        "text": "千歳",
+        "localizations": {
+          "en": "Chitose"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "安らかに、眠れるように……",
+        "localizations": {
+          "en": "So that he can rest peacefully...?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "あ、あの！\nその儀式、私も参加していいですか！？",
+        "localizations": {
+          "en": "U-um! Could I participate too?!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  }
+]

@@ -2146,5 +2146,21 @@
   {
     "id": 60133043,
     "description": "- At battle start, reduces own damage received and stun damage received\n- When recovering from stun, boosts own magical damage and SPD (once only)\n- When HP reaches a certain level, reduces own damage received and stun damage received\n- Nullifies resistance reduction for all elements except Stab and Strike"
+  },
+  {
+    "id": 10259006,
+    "description": "- When hit by a burst skill, inflicts Nullify HP Recovery on self\n- Boosts own max HP and restores HP\n- Has a chance to inflict Paralysis"
+  },
+  {
+    "id": 10261003,
+    "description": "- Boosts damage dealt against targets with status effects\n- Has a chance to inflict Paralysis\n- Inflicts Poison\n- Converts all enemies' panels to Burn panels\n- Reduces damage received by 100% after using burst skill\n- When HP reaches a certain level, removes own negative effects and grants SPD Up and Damage Dealt Up\n- When stunned by physical attacks, grants self Immunity to Negative Status Effects"
+  },
+  {
+    "id": 60117008,
+    "description": "- When stunned by physical attacks, boosts own damage received from physical attacks"
+  },
+  {
+    "id": 60117009,
+    "description": "- When stunned by physical attacks, boosts own damage received from physical attacks\n- When stunned by magical attacks, boosts own damage received from magical attacks"
   }
 ]

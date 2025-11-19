@@ -1,0 +1,852 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "帰ってきて早々、神官長から広場に来いって\n呼びだされたんだけど……",
+        "localizations": {
+          "en": "The moment I returned, the High Priest immediately called me to the plaza..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "ねえベップ、アタシなんかしちゃったかな？\n知らない間に罪を犯したとか……",
+        "localizations": {
+          "en": "Hey Bepp, did I do something wrong? Like, did I manage to commit a crime in my absence or something...?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "姉様は存在することが罪。\nかわいすぎてけしからん",
+        "localizations": {
+          "en": "Your very existence is a crime. You're so cute it's criminal."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "……ぷっ！\u3000あははっ！\nベップは真顔で冗談言うからすごいよね～",
+        "localizations": {
+          "en": "...Pfft! Ahaha! How can you say that with a straight face? Ah... it gets me every time!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "私は本気だけど……",
+        "localizations": {
+          "en": "I'm being serious though..."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "二人とも静かに。神官長がいらっしゃったわよ",
+        "localizations": {
+          "en": "Quiet, you two. The High Priest has arrived."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "アルビーナ、あなたを呼んだのは他でもありません。\n使節団直々のご指名なのです",
+        "localizations": {
+          "en": "Alvina, you've been summoned because the delegation has personally requested your presence."
+        }
+      },
+      "2072370017": {
+        "text": "神官長",
+        "localizations": {
+          "en": "High Priest"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "鏑矢さん！\u3000それに鬼門たちも……！",
+        "localizations": {
+          "en": "Kaburaya! And Kimon! And the others too...!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "ふふふ、早い再会を嬉しく思うぞ",
+        "localizations": {
+          "en": "Hoho, I'm delighted to see you again so soon."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "今回はケイウンの使節団として\n正式に神聖国の土を踏みに来たよ",
+        "localizations": {
+          "en": "This time we've come to the sacred lands in an official capacity, as representatives of Keiun."
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "アルビーナ、あなたはケイウンで活躍し\n多くの人々を救ったとうかがっています",
+        "localizations": {
+          "en": "Alvina, I've been told you distinguished yourself in Keiun and saved many lives."
+        }
+      },
+      "2072370017": {
+        "text": "神官長",
+        "localizations": {
+          "en": "High Priest"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "うむ、その通りだ。\nその礼に、心ばかりの品を持ってきたのだ",
+        "localizations": {
+          "en": "Indeed. And as thanks, I've prepared a modest gift."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "おふっ、すんごい金銀財宝……！",
+        "localizations": {
+          "en": "Oh wow, you call this modest...?!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "数年遊んで暮らせそう",
+        "localizations": {
+          "en": "You could live off this for years."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "かつての聖人たちのように人々を助け\n島を豊かにするその姿勢、鼻が高いです",
+        "localizations": {
+          "en": "Like the saints of old, you've helped the people and brought prosperity to the islands. I'm very proud."
+        }
+      },
+      "2072370017": {
+        "text": "神官長",
+        "localizations": {
+          "en": "High Priest"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "あ、ありがとうございます！",
+        "localizations": {
+          "en": "Th-thank you so much!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "あなたのご両親にもその活躍を報告しましたが、\nとても喜んでいましたよ",
+        "localizations": {
+          "en": "I also informed your parents of your accomplishments, they were thoroughly overjoyed."
+        }
+      },
+      "2072370017": {
+        "text": "神官長",
+        "localizations": {
+          "en": "High Priest"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "そ、そうなんですね。\n夜に家に戻るんですけど、ちょっと照れますね……",
+        "localizations": {
+          "en": "O-oh, I see. I'm heading home tonight, but now I'm feeling a bit nervous..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "もらったお金もあるし、今夜はごちそうだね",
+        "localizations": {
+          "en": "With all this, we can hold a feast tonight."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "……断っておきますが、こちらの寄付金はすべて\n国の恵まれない子どもたちへの支援などに回します",
+        "localizations": {
+          "en": "...I think I should clarify that this donation will go entirely toward supporting the nation's underprivileged children."
+        }
+      },
+      "2072370017": {
+        "text": "神官長",
+        "localizations": {
+          "en": "High Priest"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "ええっ！？\u3000そんなあ……！",
+        "localizations": {
+          "en": "What?! For real?...!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "あなたには別途報酬を支払っているはずです。\n多くを望んではなりません",
+        "localizations": {
+          "en": "You'll receive your compensation separately. That will be a truly modest sum."
+        }
+      },
+      "2072370017": {
+        "text": "神官長",
+        "localizations": {
+          "en": "High Priest"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "うう……はい。国へお納めください……",
+        "localizations": {
+          "en": "Ugh... I understand, what's best for the sake of the nation..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "これで、案内は終わりっす！\u3000ケイウンと比べたら\nちょっと地味だったかもしれないけど……",
+        "localizations": {
+          "en": "And that's the end of the tour! It's a bit plain compared to Keiun, but..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "いや、どれも面白く、見応えのある土地であった。\n道案内、大儀！",
+        "localizations": {
+          "en": "Not at all. Everything was fascinating and well worth seeing. You're an excellent guide!"
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "アルビーナ様、とても案内がお上手で……\nつい、聞き入ってしまいました……",
+        "localizations": {
+          "en": "Miss Alvina, I couldn't help but be captivated by your form as a guide..."
+        }
+      },
+      "2072370017": {
+        "text": "千歳",
+        "localizations": {
+          "en": "Chitose"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "ま、元はこれが本職なもんで！",
+        "localizations": {
+          "en": "Well, this was my day job once upon a time!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "ケイウンに戻る前に、良い思い出ができましたな",
+        "localizations": {
+          "en": "We've made fine memories before returning to Keiun."
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "そういえば……\nアルビーナ殿はまた他の島へと赴くのですか？",
+        "localizations": {
+          "en": "Speaking of which... Will you be traveling to another island again soon?"
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "うん。次の目的地は北の海の果て！",
+        "localizations": {
+          "en": "Kinda. Next stop is the edge of the northern sea!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "ほう……それは大きく出たな。\n果ての大陸を目指す旅に出るということか？",
+        "localizations": {
+          "en": "Oh? That's quite ambitious. So you mean to seek out World's End?"
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "調べてもよく分からないから\n直接確かめに行こうってことになって",
+        "localizations": {
+          "en": "We didn't find much info researching it, so we figured we'd just go see for ourselves."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "はっはっは、そいつはまた冒険野郎だね\n帰って来られるかも分からないじゃないか",
+        "localizations": {
+          "en": "Hahaha, you're quite the bold adventurers! There's no telling if you'll even make it back!"
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "面白そうだな、余も同行しよう！！",
+        "localizations": {
+          "en": "How fascinating! I shall accompany you!!"
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "俺の話聞いてた！？",
+        "localizations": {
+          "en": "Were you even listening to me!?"
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "聞いていたとも。そして余は本気だ。\nこたびの騒動で余は思い知った",
+        "localizations": {
+          "en": "I heard you perfectly. And I'm being completely sincere. This recent incident made me realize something."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "余は物事を知らなすぎる。\nもっと世界を回って知見を得よう、と",
+        "localizations": {
+          "en": "I know far too little about the world. I must travel and broaden my perspective."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "ま、まあ……それは修行のため、\nケイウン全土を回った身としても共感はできるが……",
+        "localizations": {
+          "en": "W-well... I can relate to that, having traveled all across Keiun for my own training, but..."
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "それに、未知の大陸を目指す船旅などという\n面白そうな出来事を、見過ごせるかというものよ",
+        "localizations": {
+          "en": "Besides, how could I possibly pass up such an entertaining opportunity—a voyage seeking an unknown continent!"
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "こちらが本音でござりまするな",
+        "localizations": {
+          "en": "That's the real reason, isn't it?"
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "そういうわけでケイウンのほうは、弟たちと\n永遠、鬼門、お前たちに任せた！\u3000いくぞ千歳",
+        "localizations": {
+          "en": "So it's settled—I'll leave matters in Keiun to my younger siblings, Towa, and Kimon! Come, Chitose."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "……はい。私はどこまでも、鏑矢様について参ります",
+        "localizations": {
+          "en": "...Yes. I will follow you anywhere, Lady Kaburaya."
+        }
+      },
+      "2072370017": {
+        "text": "千歳",
+        "localizations": {
+          "en": "Chitose"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "え、え？\u3000一緒に来てくれるのはありがたいけど、\nホントに本気！？",
+        "localizations": {
+          "en": "Huh? Wait, I appreciate the thought of you wanting to accompany us, but are you for real!?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 43,
+    "properties": {
+      "999008199": {
+        "text": "鏑矢様はそういう人ですから",
+        "localizations": {
+          "en": "That's just how Lady Kaburaya is."
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 44,
+    "properties": {
+      "999008199": {
+        "text": "はあ、どうせなら俺も行きたかった……\nまだ見ぬ国の美女たちとの逢瀬が……",
+        "localizations": {
+          "en": "Man, I wish I could go too... All those beautiful women in lands unknown..."
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 45,
+    "properties": {
+      "999008199": {
+        "text": "あいたっ！",
+        "localizations": {
+          "en": "Ow!"
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 46,
+    "properties": {
+      "999008199": {
+        "text": "同行したい気持ちは拙者も同じですが\n主の命令は絶対なのが忍の掟……",
+        "localizations": {
+          "en": "I share the desire to accompany you, but I must respect my lord's wishes, as a ninja..."
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 47,
+    "properties": {
+      "999008199": {
+        "text": "鏑矢様と千歳殿、それに皆さんの\n無事の帰還を願っておりまする",
+        "localizations": {
+          "en": "I pray for the safe return of Lady Kaburaya, Lady Chitose, and all of you."
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 48,
+    "properties": {
+      "999008199": {
+        "text": "うむ！\u3000アルビーナ、これからよろしく頼むぞ！",
+        "localizations": {
+          "en": "Indeed! Alvina, I look forward to working with you!"
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 49,
+    "properties": {
+      "999008199": {
+        "text": "はい！\u3000頼りにしてます！",
+        "localizations": {
+          "en": "Yes! I'm counting on you!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  }
+]

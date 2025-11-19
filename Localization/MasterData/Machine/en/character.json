@@ -877,5 +877,21 @@
     "profile_voice_text": "I am Crow, enforcer of the Moonlight Society. You won't escape me.",
     "sort_name": "Crow",
     "start_at": "2025-11-07T03:00:00Z"
+  },
+  {
+    "id": 46101,
+    "acquisition_text": "This outcome was part of my plan from the beginning—\nPlease make use of my strategic insight.",
+    "another_name": "Innate Strategist",
+    "description": "A homunculus created by the Palme, the sixth of the Miraculous Nine. Together with the other members, she carries out management duties under the Palme's orders. She excels at devising strategies and prefers things to proceed according to plan. She has a fondness for cleanliness and is often polishing her favorite glasses.",
+    "fullname": "Liebe",
+    "leader_skill": {
+      "description": "Characters with Stab affinity gain P.ATK +50%.",
+      "name": "Talented Strategist"
+    },
+    "name": "Liebe",
+    "overlay_name": "Liebe",
+    "profile_voice_text": "I am Liebe. Leave strategic planning to me.\nI shall devise the perfect plan.",
+    "sort_name": "Liebe",
+    "start_at": "2025-11-21T03:00:00Z"
   }
 ]

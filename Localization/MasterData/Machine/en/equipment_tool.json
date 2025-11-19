@@ -1278,5 +1278,15 @@
     "id": 1206,
     "description": "While equipped to Kimon [Moonlit Enforcer], after a party member lands a critical attack, boosts all allies' critical damage by {0}%. (MAX 50%)",
     "name": "Moonlight"
+  },
+  {
+    "id": 1207,
+    "description": "While equipped to Leah [Innate Strategist], after using a skill, boosts all allies with Stab affinity's burst skill damage by {0}% and stun damage by {1}% for 1 turn, and reduces their damage received by {2}% for 1 attack.",
+    "name": "Steel-Hearted Bow That Pierces All"
+  },
+  {
+    "id": 1209,
+    "description": "While equipped to a character with Slash affinity, after using a skill, reduces all enemies' Slash resistance by {0}% for 1 attack. (MAX 3 stacks)<br>While equipped to a Supporter, boosts all allies' critical rate by {1}%.",
+    "name": "Sweet Bite"
   }
 ]

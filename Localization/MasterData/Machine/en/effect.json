@@ -10728,5 +10728,260 @@
     "id": 120000836,
     "description": "When Kimon [Moonlit Executor] is in the party, reduces damage received.",
     "popup_text": ""
+  },
+  {
+    "id": 6001167,
+    "description": "When equipped to Liebe [Innate Strategist], after using a skill, grants Burst Skill Damage Up to all allies with Stab affinity for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001168,
+    "description": "When equipped to Liebe [Innate Strategist], after using a skill, grants Stun Damage Up to all allies with Stab affinity for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001169,
+    "description": "When equipped to Liebe [Innate Strategist], after using a skill, grants Damage Received Down to all allies with Stab affinity until taking damage once.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001172,
+    "description": "Inflicts all enemies with Burst Skill Damage Received Up until taking damage twice.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001174,
+    "description": "Boosts burst damage received.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001175,
+    "description": "When equipped to a character with Slash affinity, after using a skill, inflicts all enemies with Slash Resistance Down until taking damage once. (Max 3 stacks)",
+    "popup_text": ""
+  },
+  {
+    "id": 6001176,
+    "description": "When equipped to a Supporter, boosts critical rate of all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001177,
+    "description": "Inflicts all enemies with Burst Skill Damage Received Up until taking damage twice.",
+    "popup_text": ""
+  },
+  {
+    "id": 20000847,
+    "description": "After using a skill, grants all allies a state that boosts damage dealt by battle items.",
+    "popup_text": ""
+  },
+  {
+    "id": 20000847,
+    "description": "After using a skill, grants all allies a state that boosts damage dealt by battle items.",
+    "popup_text": ""
+  },
+  {
+    "id": 21261004,
+    "description": "Grants self immunity to malicious status effects.",
+    "popup_text": ""
+  },
+  {
+    "id": 21261007,
+    "description": "Grants self Damage Dealt Up.",
+    "popup_text": ""
+  },
+  {
+    "id": 21261008,
+    "description": "Grants self immunity to malicious status effects.",
+    "popup_text": ""
+  },
+  {
+    "id": 71261001,
+    "description": "Converts the first 5 panels on the timeline to Burn panels. (Excluding burst panels)",
+    "popup_text": ""
+  },
+  {
+    "id": 71261002,
+    "description": "Inflicts enemies with status effects with Poison.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001478,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001479,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001480,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001481,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001482,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001483,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001484,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001485,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001515,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001516,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001522,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001920,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001921,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001922,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001923,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001924,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001925,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001926,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001935,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001936,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001937,
+    "description": "",
+    "popup_text": "Turn Swap"
+  },
+  {
+    "id": 91001958,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001959,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001960,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001967,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000295,
+    "description": "While equipped to a Supporter with Stab affinity, boosts burst skill damage for all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000296,
+    "description": "When \"Glasses\", boosts HP recovery granted.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000828,
+    "description": "When using a battle item, grants Item Skill Power Up to all allies (MAX 3000%).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000830,
+    "description": "After using a skill, grants all allies \"Boosts battle item damage dealt to all allies when equipped to a character with Stab affinity\".",
+    "popup_text": ""
+  },
+  {
+    "id": 120000831,
+    "description": "After using a battle item, grants Item Skill Power Up status.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000832,
+    "description": "Grants self \"Battle item damage dealt to all allies boosted when equipped to a character with Stab affinity status\".",
+    "popup_text": ""
+  },
+  {
+    "id": 120000837,
+    "description": "Boosts Plachta [Alluring Vampire]'s positive effect potency by {0}% and grants self Positive Effect Potency Granted Up.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000842,
+    "description": "When \"Diligent\", boosts positive effect potency.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000848,
+    "description": "After using a skill, grants all allies \"Boosts battle item damage dealt to all allies when equipped to a character with Slash affinity\".",
+    "popup_text": ""
+  },
+  {
+    "id": 120000849,
+    "description": "Grants self \"Battle item damage dealt to all allies boosted when equipped to a character with Slash affinity status\".",
+    "popup_text": ""
+  },
+  {
+    "id": 20000846,
+    "description": "After using a skill, boosts battle item damage dealt for all allies.",
+    "popup_text": ""
   }
 ]

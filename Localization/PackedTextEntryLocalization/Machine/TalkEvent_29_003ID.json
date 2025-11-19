@@ -1,0 +1,903 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "ただいま～",
+        "localizations": {
+          "en": "We're back!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "久しぶりのアトリエはやっぱり落ち着くわね～",
+        "localizations": {
+          "en": "It's been so long... how I've missed the atelier!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "同感。牢屋で寝るのはもうこりごり！",
+        "localizations": {
+          "en": "Tell me about it. I never wanna sleep in a cell again!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "おう、帰ったか。無事で何よりだぜ。\n悪ぃな、直接助けに行けなくてよ",
+        "localizations": {
+          "en": "Welcome back! Glad to see you all made it out in one piece. Sorry I couldn't go bust you out myself."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "ランツェは船の番をしてくれてたんだもの。\n仕方ないわよ",
+        "localizations": {
+          "en": "That can't be helped, someone had to watch the ship."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "みんな、おかえり～！\n大変だったみたいだね！",
+        "localizations": {
+          "en": "Welcome back, everyone! It sounds like you've had quite the adventure!"
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "ライザ先輩！\u3000労いのお言葉\n恐悦至極です！\u3000先輩もお疲れさまでした！",
+        "localizations": {
+          "en": "Miss Ryza! Thank you for concern, you worked hard work to make this work too!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "いや、そんなにかしこまらなくても。\nこっちは留守番してただけだよ？",
+        "localizations": {
+          "en": "Hey, no need for the formality! I just held down the fort while you were away."
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "ご謙遜を！\u3000カロストンで\n借りた本の調査を引き継いでいただいて……",
+        "localizations": {
+          "en": "You're too modest! You took over the research on the books we borrowed from Karlston..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "でも、調査のほうは正直あんまり進んでなくて……\nごめんね！",
+        "localizations": {
+          "en": "On that subject, I didn't make much progress with the research... Sorry!"
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "いえいえ。ケイウンの事件も解決しましたし\nこれから本腰を入れて調べてみましょう！",
+        "localizations": {
+          "en": "Don't worry about it. The incident in Keiun is resolved now, so we can dig into it together!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "果ての大陸について今のところ\nどれくらい分かってるんだっけ？",
+        "localizations": {
+          "en": "So what do we know about World's End currently?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "大陸を出発した時と変わらないかな。\n無数島群域を越えた海の果てにある、ということくらい",
+        "localizations": {
+          "en": "About the same as when we left Lantarna. All we know is that it lies at the edge of the sea, beyond the Infinite Island Chain."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "海の果てかあ……学校では、海の向こうにはくらーい\n闇の世界が広がっている、って習ったけどなあ",
+        "localizations": {
+          "en": "The edge of the sea, huh... At school, they told us that there's nothing but a dark void beyond the ocean."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "無数島群域ではその説が有力みたいだね。\nワルターさん……知り合いの錬金術士もそう言ってたし",
+        "localizations": {
+          "en": "That theory seems popular in the Infinite Island Chain. Walther—an alchemist I know—said the same thing."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "果ての大陸について触れてる書物もほとんどないしね",
+        "localizations": {
+          "en": "Not to mention there are hardly any books that even mention World's End."
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "宝島伝説、みたいな話は現地の船乗りからは結構\n聞くがな。果ての大陸とは関係ねえ与太話だろうよ",
+        "localizations": {
+          "en": "I've heard plenty of treasure island rumours from the local sailors, but those don't seem connected to World's End."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "ま、世界を管理するっていうえらーいパルメ族様が\n行けって言うんだから、無いと困るわけだけど",
+        "localizations": {
+          "en": "Well, the oh-so-important Palme ordered us to head there, so it better exist."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "私思うんだけどさ。海の向こうに果ての大陸が\nあるっていう話なら……",
+        "localizations": {
+          "en": "You know what I think? If World's End is supposed to be beyond the sea..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "もう直接行ってみましょうよ、海の果てへ！\n調査の基本は足よ！",
+        "localizations": {
+          "en": "Why not just set sail? To the edge of the sea! Exploration couldn't get any simpler!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "ええっ！？\u3000具体的な手掛かりなしで！？",
+        "localizations": {
+          "en": "What?! Without any concrete leads?!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "何を言いだすかと思えば……さすがに無謀だ。\nいきなり海の果てに行こうなんてよ",
+        "localizations": {
+          "en": "Of all things to suggest... That's reckless, mindlessly sailing the seas is a new low even for you!"
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "別に一気に向かうってわけじゃないわよ？\nいくつかの島に立ち寄って、補給しながら向かうのよ",
+        "localizations": {
+          "en": "It's not like we'd set a course and make a beeline for the horizon. We'd stop at several islands to resupply along the way."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "大陸があるかどうかはともかくとして\n果てに近づいてみたい……ってのは分かるかも！",
+        "localizations": {
+          "en": "Continent or no continent, the idea of going on an adventure to the edge is pretty exciting!"
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "どっちみち、いつかは北を目指すでしょ？\nなら、今からやっておく。情報を集めながら",
+        "localizations": {
+          "en": "We'll have to head north eventually anyway, right? So why not set off now. While gathering information along the way, of course."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "……でも、確かにそうだよね。\n手掛かりが見つからないのも事実だし",
+        "localizations": {
+          "en": "...Can't really argue with that. It's true we haven't found any leads."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "やってみる価値はあると思う。もしたどり着け\nなくても、得るものは多いと思うし",
+        "localizations": {
+          "en": "It's worth a try. Even if we don't make it all the way, I think we'd learn a lot."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "実際にそこまで行った人はいないのが、\nどーしても気にはなるけど",
+        "localizations": {
+          "en": "I still find it suspicious that no one's tried to go there before."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "行った後戻って来られなかった可能性もあるからな",
+        "localizations": {
+          "en": "Could be that they went and didn't make it back."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "困難な旅になることは間違いないと思います。\nですが、無数島群域への航海を成功させた私たちなら！",
+        "localizations": {
+          "en": "There's no doubt it'll be a difficult journey. But if we succeeded crossing the ocean, I'm sure we've got a good chance at this!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "うん。そう簡単にやられたりしない！",
+        "localizations": {
+          "en": "Yeah! That's the spirit!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "待て待て若者、大事なところだぞ。\nもっと慎重になれ",
+        "localizations": {
+          "en": "Hold on there, youngsters. The sea ain't one to be trifled with."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "無数島群域は、頂獣が邪魔してたって事情が\nあったとはいえ、昔は船が行き来してた場所だ",
+        "localizations": {
+          "en": "At least the Infinite Island Chain used to have ships traversing it regularly before the Apexi showed up."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "だが、海の果ては何もかも分からない、未知の領域だ。\nこれまでとはわけが違う",
+        "localizations": {
+          "en": "The edge of the sea, however, is completely unknown territory. This is a whole different ball game."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "俺は何度でも警告する。\n無事に帰って来られる保証なんてねえが、いいのか？",
+        "localizations": {
+          "en": "I'll warn you as many times as it takes. There's no guarantee you'll make it back alive. You sure about this?"
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "危険な旅になることは分かっています。\nでも……いずれは進まなければならない道でもあります",
+        "localizations": {
+          "en": "I know it'll be dangerous. But... it's not like we can put off the inevitable."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "ここで二の足を踏んでいたら、\n果ての大陸になんてたどり着けません",
+        "localizations": {
+          "en": "If we don't move forward, we'll never reach World's End."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "……ま、お前ならそう言うと思ってたよ",
+        "localizations": {
+          "en": "...T'ch, I figured you'd say that."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "王国からの補給体制も整ってきた。\n今なら長期の航海にも耐えられるだろう",
+        "localizations": {
+          "en": "The supply line from the Lantarna is established now. We should be able to handle a long voyage from here on out."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "出航の準備はいつでもできてる。\n海の果てまで連れてってやるよ",
+        "localizations": {
+          "en": "I'm ready to set sail whenever. Just say the word and I'll get ya where you need to go."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "ランツェさん！",
+        "localizations": {
+          "en": "Lanze!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "頼りにしてるわよ、船長！",
+        "localizations": {
+          "en": "We're counting on you, captain!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "とはいえ、無理だと思ったら引き返す勇気も大事だよ。\n身体が無事なら、また何度でも挑戦し直せるんだから",
+        "localizations": {
+          "en": "That said, having the courage to turn back when you need to is important too. As long as everyone's in one piece, you can always try again."
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 43,
+    "properties": {
+      "999008199": {
+        "text": "はい！\u3000それは重々承知の上です",
+        "localizations": {
+          "en": "Of course! I'm well aware!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 44,
+    "properties": {
+      "999008199": {
+        "text": "それじゃ、次の目的地は無数島群域のさらに北……\n世界の果てへ！",
+        "localizations": {
+          "en": "All right then, our next destination is north of the Infinite Island Chain... the edge of the world!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 45,
+    "properties": {
+      "999008199": {
+        "text": "アルビーナはどう？",
+        "localizations": {
+          "en": "What will you do, Alvina?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 46,
+    "properties": {
+      "999008199": {
+        "text": "もちろん、行きますとも！\u3000みんなの盛り上がりを\n見てたら、アルビちゃんもアがってきた！",
+        "localizations": {
+          "en": "Of course I'm coming along! Seeing everyone so pumped up has got me fired up too!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 47,
+    "properties": {
+      "999008199": {
+        "text": "そんなの成功させたら一躍人気者間違いなし！\nこいつは腕が鳴るっすよ",
+        "localizations": {
+          "en": "If we pull this off, we'll be famous for sure! I can't wait to get started."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 48,
+    "properties": {
+      "999008199": {
+        "text": "……ホントに大丈夫かあ？",
+        "localizations": {
+          "en": "...Are you reeeeally sure about this?"
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 49,
+    "properties": {
+      "999008199": {
+        "text": "カロストンでも、ケイウンでも、知恵と勇気で\n切り抜けられたんだから、きっと大丈夫っすよ！",
+        "localizations": {
+          "en": "We made it through all that stuff in Karlston and Keiun with our wits and courage. We'll manage!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 50,
+    "properties": {
+      "999008199": {
+        "text": "ただ、ちょっと待っててくれる？\n先にベップとヤンネさんにも話しておかないと",
+        "localizations": {
+          "en": "Just gimme a sec though. I have some things to discuss with Bepp and Janne first."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 51,
+    "properties": {
+      "999008199": {
+        "text": "うん。いくらでも待つよ。こっちもしっかりと\n準備しなくちゃだから",
+        "localizations": {
+          "en": "Sure. Take all the time you need. We've got plenty to do in terms of preparation ourselves."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 52,
+    "properties": {
+      "999008199": {
+        "text": "じゃ、一度神聖国に戻るとしましょーか！",
+        "localizations": {
+          "en": "All right then, let's head back to the sacred lands for a bit!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  }
+]

@@ -249,7 +249,10 @@ namespace AtelierResleriana.Localization.Utilities
             { "天命", "Divine Calling - A sacred mandate given by the stars that determines one's role in society." },
             { "カロストン", "Karlston - A location on the Infinite Island Chain." },
             { "諸島同盟", "Archipelago Federation - An alliance on the Infinite Island Chain that shares a common currency, religious beliefs, and cultural practices" },
-            { "ケイウン", "Keiun - A location on the Infinite Island Chain." }
+            { "ケイウン", "Keiun - A location on the Infinite Island Chain." },
+            { "東メンソス", "East Mensos - One of two islands that originally formed the nation of Mensos. After one island declared independence, this eastern island became known as East Mensos. It serves as a waypoint and resupply point for ships traveling north toward World's End. Despite not being part of the Archipelago Federation, it maintains trade relations with member nations and is considered safe for travelers." },
+            { "西メンソス", "West Mensos - One of two islands that originally formed the nation of Mensos. After one island declared independence, this western island became known as West Mensos. Like East Mensos, it is not part of the Archipelago Federation due to the complex history of the islands' separation." },
+            { "メンソス", "Mensos - Originally a single nation comprised of two islands that later split, with one island declaring independence. The two islands are now referred to as East Mensos and West Mensos by outsiders, though both have longer official names. Neither island joined the Archipelago Federation due to their complicated shared history." },
         };
 
         public string Locale { get => "en"; }

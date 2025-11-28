@@ -1288,5 +1288,35 @@
     "id": 1209,
     "description": "While equipped to a character with Slash affinity, after using a skill, reduces all enemies' Slash resistance by {0}% for 1 attack. (MAX 3 stacks)<br>While equipped to a Supporter, boosts all allies' critical rate by {1}%.",
     "name": "Sweet Bite"
+  },
+  {
+    "id": 1208,
+    "description": "While equipped to Citrine [Charming Jewel], when HP is at 80% or higher, boosts critical damage by {0}%.",
+    "name": "Enchanting Eyes of Beauty"
+  },
+  {
+    "id": 1210,
+    "description": "While equipped to Gou [Miraculous Nine No. 5], when attack target is stunned, increases target's physical attack damage received by {0}% and critical damage received by {1}% for 1 attack.",
+    "name": "Heaven-Severing Blade: Righteous Fury"
+  },
+  {
+    "id": 1211,
+    "description": "When own HP is at 70% or higher, reduces damage received by {0}% (fixed).",
+    "name": "Knight Plate"
+  },
+  {
+    "id": 1212,
+    "description": "When own HP is at 70% or higher, reduces damage received by {0}% (fixed).",
+    "name": "Knight Plate"
+  },
+  {
+    "id": 1213,
+    "description": "Boosts HP recovery granted by {0}%.",
+    "name": "Ring of Compassion"
+  },
+  {
+    "id": 1214,
+    "description": "Boosts HP recovery granted by {0}%.",
+    "name": "Ring of Compassion"
   }
 ]

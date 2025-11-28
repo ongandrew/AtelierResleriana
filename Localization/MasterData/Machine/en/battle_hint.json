@@ -2162,5 +2162,53 @@
   {
     "id": 60117009,
     "description": "- When stunned by physical attacks, boosts own damage received from physical attacks\n- When stunned by magical attacks, boosts own damage received from magical attacks"
+  },
+  {
+    "id": 10140008,
+    "description": "- When using a boost-type panel, inflicts Darkness on all opponents and all allies\n- When using a weaken panel, inflicts multiple negative effects on self\n- Heals all allies"
+  },
+  {
+    "id": 10262003,
+    "description": "- Inflicts Poison\n- Grants self Regeneration\n- Converts target's boost panels to empty panels\n- When KO'd while having Regeneration, grants Regeneration to all allies"
+  },
+  {
+    "id": 10263001,
+    "description": "- Preemptive\n- At the start of the first turn, grants self 2 stacks of All Elemental Resistance Up, Damage Received Down, and Negative Effects Immunity\n- At the start of the first turn, after 3 turns have passed, transitions all allies to Avalanche Flow state\n- While in Avalanche Flow state, does not receive effects from opponents and has a chance to evade all attacks\n- While in Avalanche Flow state, after receiving a certain number of attacks, removes Avalanche Flow state from all allies, stuns all allies, and increases damage received on both legs\n- When using a powerful attack while in Avalanche Flow state, removes Avalanche Flow state from all allies\n- When all allies except self are KO'd, delays own turn\n- Delays opponents' turns\n- Restores own HP\n- Restores all allies' HP, removes negative effects, and grants Negative Effects Immunity\n- Removes opponents' positive effects\n- Inflicts Darkness"
+  },
+  {
+    "id": 10264001,
+    "description": "- When KO'd, removes 1 stack of All Elemental Resistance Up and Damage Received Down from Repulgarm (Main Body), and delays all allies' turns\n- While in Avalanche Flow state, does not receive effects from opponents and has a chance to evade all attacks\n- While in Avalanche Flow state, after receiving a certain number of attacks, removes Avalanche Flow state from all allies, stuns all allies, and increases damage received on both legs\n- When using a powerful attack while in Avalanche Flow state, removes Avalanche Flow state from all allies\n- Delays opponents' turns\n- Restores own HP\n- Restores all allies' HP, removes negative effects, and grants Negative Effects Immunity\n- Inflicts Darkness"
+  },
+  {
+    "id": 10265001,
+    "description": "- When KO'd, removes 1 stack of All Elemental Resistance Up and Negative Effects Immunity from Repulgarm (Main Body), and delays all allies' turns\n- While in Avalanche Flow state, does not receive effects from opponents and has a chance to evade all attacks\n- While in Avalanche Flow state, after receiving a certain number of attacks, removes Avalanche Flow state from all allies, stuns all allies, and increases damage received on both legs\n- When using a powerful attack while in Avalanche Flow state, removes Avalanche Flow state from all allies\n- Removes opponents' positive effects\n- Inflicts Darkness"
+  },
+  {
+    "id": 60011004,
+    "description": "- Restores HP and grants self Damage Received Down each turn\n- When stunned, removes all positive effects from self\n- Nullifies resistance reduction for all elements except Stab\n- After acting on turn 50 or later, boosts own damage dealt (MAX 300%) and SPD (MAX 100%)"
+  },
+  {
+    "id": 60030015,
+    "description": "- Nullifies resistance reduction for all elements except Stab\n- After acting on turn 50 or later, boosts own damage dealt (MAX 300%) and SPD (MAX 100%)"
+  },
+  {
+    "id": 60101025,
+    "description": "- Protection\n- When HP reaches a certain level, boosts own damage dealt and reduces own damage received\n- Grants self Physical Damage Immunity"
+  },
+  {
+    "id": 60133006,
+    "description": "- At battle start, reduces own damage received and stun damage received\n- When recovering from stun, boosts own magical damage and SPD (1 time only)\n- When HP reaches a certain level, reduces own damage received and stun damage received\n- Reduces magical damage received for allies\n- Nullifies resistance reduction for all elements except Stab\n- After acting on turn 50 or later, boosts own damage dealt (MAX 300%) and SPD (MAX 100%)"
+  },
+  {
+    "id": 60187028,
+    "description": "- When taking damage from a battle item, reduces own All Elemental Resistance\n- Reduces negative effect potency received by self\n- Delays turn"
+  },
+  {
+    "id": 60187029,
+    "description": "- When taking damage from a battle item, reduces own All Elemental Resistance\n- Reduces negative effect potency received by self\n- Delays turn\n- Nullifies resistance reduction for all elements except Slash and Stab"
+  },
+  {
+    "id": 60193026,
+    "description": "- Advances allies' turns"
   }
 ]

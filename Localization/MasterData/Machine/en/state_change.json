@@ -3463,5 +3463,195 @@
     "id": 1210442,
     "description": "While equipped to a character with Slash affinity, after using a skill, boosts item damage dealt by {value}% for all allies (MAX 3000%). Cannot be removed.",
     "name": "After Skill, Grant Item Damage Up"
+  },
+  {
+    "id": 510246,
+    "description": "Boosts skill power by 30% and critical rate by 30% (all effects are fixed potency). (MAX 5 stacks)",
+    "name": "Citrine's Protection"
+  },
+  {
+    "id": 510247,
+    "description": "Boosts skill power by {value}%.",
+    "name": "Skill Power Up"
+  },
+  {
+    "id": 510248,
+    "description": "Boosts critical rate by {value}%.",
+    "name": "Critical Rate Up"
+  },
+  {
+    "id": 510249,
+    "description": "Boosts skill damage by {value}%. (MAX 60%)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 510250,
+    "description": "Boosts P. ATK by {value}%. (MAX 50%)",
+    "name": "P. ATK Up"
+  },
+  {
+    "id": 510251,
+    "description": "Boosts SPD by {value}%. (MAX 15%)",
+    "name": "SPD Up"
+  },
+  {
+    "id": 510252,
+    "description": "Boosts stun damage by {value}%. (MAX 1 stack)",
+    "name": "Stun Damage Up"
+  },
+  {
+    "id": 510253,
+    "description": "Boosts stun damage by {value}%. (MAX 1 stack)",
+    "name": "Stun Damage Up"
+  },
+  {
+    "id": 510254,
+    "description": "Boosts stun damage by {value}%. (MAX 1 stack)",
+    "name": "Stun Damage Up"
+  },
+  {
+    "id": 510257,
+    "description": "Dummy buff for judgment.",
+    "name": "Dummy Buff for Judgment"
+  },
+  {
+    "id": 610362,
+    "description": "Boosts P. ATK by {value}%. (MAX 40%)",
+    "name": "P. ATK Up"
+  },
+  {
+    "id": 610363,
+    "description": "Boosts SPD by {value}%. (MAX 20%)",
+    "name": "SPD Up"
+  },
+  {
+    "id": 610364,
+    "description": "Boosts burst skill damage by {value}%. (MAX 60%)",
+    "name": "Burst Damage Up"
+  },
+  {
+    "id": 610365,
+    "description": "Boosts stun damage by {value}%. (MAX 30%)",
+    "name": "Stun Damage Up"
+  },
+  {
+    "id": 610366,
+    "description": "Boosts damage received by {value}%. (MAX 120%)",
+    "name": "Damage Received Up"
+  },
+  {
+    "id": 610367,
+    "description": "Boosts stun damage received by {value}%. (MAX 60%)",
+    "name": "Stun Damage Received Up"
+  },
+  {
+    "id": 610368,
+    "description": "Boosts burst skill damage by {value}%. (MAX 150%)",
+    "name": "Burst Damage Up"
+  },
+  {
+    "id": 610381,
+    "description": "Boosts damage received from Stab attacks by {value}%. (MAX 50%)",
+    "name": "Stab Resistance Down"
+  },
+  {
+    "id": 800179,
+    "description": "Boosts critical damage by {value}% when own HP is 80% or higher.",
+    "name": "Conditional Critical Damage Up"
+  },
+  {
+    "id": 800181,
+    "description": "Boosts critical damage by {value}% when own HP is 80% or higher.",
+    "name": "Conditional Critical Damage Up"
+  },
+  {
+    "id": 800184,
+    "description": "Boosts physical skill damage received by {value}%.",
+    "name": "Physical Damage Received Up"
+  },
+  {
+    "id": 800185,
+    "description": "Boosts critical damage received by {value}%.",
+    "name": "Critical Damage Received Up"
+  },
+  {
+    "id": 810179,
+    "description": "{value}% chance to evade all attacks.",
+    "name": "Snowstorm Rush"
+  },
+  {
+    "id": 810213,
+    "description": "{value}% chance to evade all attacks.",
+    "name": "Snowstorm Rush"
+  },
+  {
+    "id": 810214,
+    "description": "Reduces damage received by {value}%.",
+    "name": "Received Damage Down"
+  },
+  {
+    "id": 810215,
+    "description": "Becomes immune to negative effects.",
+    "name": "Negative Effect Immunity"
+  },
+  {
+    "id": 810216,
+    "description": "Boosts all elemental resistances by {value}%.",
+    "name": "All Elemental Resistance Up"
+  },
+  {
+    "id": 810217,
+    "description": "Boosts all elemental resistances by {value}%.",
+    "name": "All Elemental Resistance Up"
+  },
+  {
+    "id": 810224,
+    "description": "Becomes immune to enemy effects.",
+    "name": "Enemy Effect Immunity"
+  },
+  {
+    "id": 810225,
+    "description": "Repulgalm submotion buff.",
+    "name": "submotion"
+  },
+  {
+    "id": 810227,
+    "description": "{value}% chance to evade all attacks.",
+    "name": "Special Evade Status"
+  },
+  {
+    "id": 820126,
+    "description": "All attacks received will hit.",
+    "name": "Attacks Received Will Hit"
+  },
+  {
+    "id": 820222,
+    "description": "Boosts damage received by {value}%.",
+    "name": "Received Damage Up"
+  },
+  {
+    "id": 850218,
+    "description": "Turn count buff 1.",
+    "name": "Turn Count Buff 1"
+  },
+  {
+    "id": 850219,
+    "description": "Turn count buff 2.",
+    "name": "Turn Count Buff 2"
+  },
+  {
+    "id": 850220,
+    "description": "Special BS mode determination buff.",
+    "name": "Special BS Mode Determination"
+  },
+  {
+    "id": 850221,
+    "description": "Attack count buff.",
+    "name": "Attack Count Buff"
+  },
+  {
+    "id": 850223,
+    "description": "Nullifies granting of Turn Count Buff 1.",
+    "name": "Turn Count Buff 1 Nullification"
   }
 ]

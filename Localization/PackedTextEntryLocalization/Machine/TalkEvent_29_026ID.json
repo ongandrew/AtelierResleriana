@@ -1,0 +1,767 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "ふう、オーベンランドではダメでしたけど、\nホルハーツからならアトリエに帰ってこられましたね",
+        "localizations": {
+          "en": "Phew. Couldn't get back to the atelier from Obenland, but we managed it from Holhartz."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "まだあそこまでの航路が確立したとは言えないし、\nしばらくの辛抱さ",
+        "localizations": {
+          "en": "We can't say the route there is fully established yet, so we'll have to bear with it for now."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "ヴァレリアやランツェさんたちが残って\n魔物退治と航路の調査をしてくれてるけど、大丈夫かな",
+        "localizations": {
+          "en": "Valeria, Lanze, and the others stayed behind to deal with monsters and survey the route. Think they'll be okay?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "みんなならきっと大丈夫だよ。\n私たちは素材集めに集中しよう",
+        "localizations": {
+          "en": "I'm sure they'll be fine. Let's focus on gathering materials."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "失礼します",
+        "localizations": {
+          "en": "Pardon the intrusion."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "はーい……って！\nリーベさん！？",
+        "localizations": {
+          "en": "Coming... Wait! Liebe?!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "警戒するのは分かりますが、まずは落ち着いてください\n今回は戦いに来たのではありません",
+        "localizations": {
+          "en": "I understand your wariness, but please remain calm. I have not come to fight today."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "あなたたちの旅に同行したく思います",
+        "localizations": {
+          "en": "I wish to accompany you on your journey."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "本当ですか！？\n……でも、どうして急に？",
+        "localizations": {
+          "en": "Really?! ...But why so suddenly?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "元々、暗黒の氷海に挑む段になったら\n手を貸さねばと思っていました",
+        "localizations": {
+          "en": "From the beginning, I intended to lend my assistance once you faced the Dark Frozen Sea."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "……争っている場合ではないほど\n暗黒の氷海は危険ってことね？",
+        "localizations": {
+          "en": "...The Dark Frozen Sea is dangerous enough that this isn't the time for conflict?"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "肯定します。マスターの指示もありますが、何よりも\nあの海域に挑む兄弟姉妹の力になりたいのです",
+        "localizations": {
+          "en": "Correct. While I have received orders from Master, above all else, I wish to aid my brothers and sisters who challenge those waters."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "そうね……\n一応聞くけど、レスナ、どうする？",
+        "localizations": {
+          "en": "I see... I'll ask just in case—Resna, what do you think?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "もちろん、歓迎します！",
+        "localizations": {
+          "en": "Of course we welcome you!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "レスナはそう言うと思った。アタシからは……\nパルメ族として干渉してこなければ、同行を許可するよ",
+        "localizations": {
+          "en": "Figured you'd say that. From me... I'll allow you to join, as long as you don't interfere as one of the Palme."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "許可してくださりありがとうございます。\n私の力を、感謝する時が来ると思います",
+        "localizations": {
+          "en": "Thank you for granting permission. I believe the time will come when you will be grateful for my strength."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "結構言うなぁ……",
+        "localizations": {
+          "en": "Pretty confident, aren't you..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "（ヴァレリア、イェルカ、シトリン、ゴゥ、リーベ……\n\u3000これで九偉人のうち過半数がこっちについたわけか）",
+        "localizations": {
+          "en": "(Valeria, Jelka, Citrine, Gou, Liebe... That's a majority of the Nine on our side now.)"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "（……といっても、５人ともが本当に\n\u3000仲間になったかどうかは怪しいとこだけどね）",
+        "localizations": {
+          "en": "(...Though whether all five have truly become our allies is still pretty questionable.)"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "（ヴァレリアとイェルカはともかくとして、\n\u3000ゴゥは悩み中、リーベも期間限定っぽい……）",
+        "localizations": {
+          "en": "(Valeria and Jelka aside, Gou's still wavering, and Liebe seems like this is temporary...)"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "（シトリンに至っては何かあれば裏切っても\n\u3000おかしくない。アタシは簡単には信じないんだから）",
+        "localizations": {
+          "en": "(And Citrine wouldn't think twice about betraying us if it suited them. I'm not trusting any of this so easily.)"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "わあ……！\u3000すごっ！\u3000でかっ！\u3000やっほーーー！！！",
+        "localizations": {
+          "en": "Wow...! That's incredible! So huge! Helloooo!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "みっともないからやめなさいよ。子ども？",
+        "localizations": {
+          "en": "Quit being so undignified. What are you, a child?"
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "はしゃぐ時は、しっかりはしゃぐべき。\n島国だとこんな景色はなかなか見られないんだから！",
+        "localizations": {
+          "en": "When it's time to get excited, you should get excited! You don't get views like this on island nations!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "この辺りの鉱山地帯は観光名所でもあるからね",
+        "localizations": {
+          "en": "The mining district around here is quite the tourist attraction."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "……盛り上がっているところ申し訳ありませんが、\nもう予定の時間が迫っていますので、出発しましょう",
+        "localizations": {
+          "en": "...I apologize for interrupting the festivities, but our scheduled time is approaching. We should depart."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "え？\u3000予定ってなんじゃらほい？",
+        "localizations": {
+          "en": "Huh? What schedule?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "こちらをご覧ください",
+        "localizations": {
+          "en": "Please review this."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "探索予定表……？",
+        "localizations": {
+          "en": "An exploration schedule...?"
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "峡谷の地理、鉱石の産出場所、量を勘案して\n最適な行動予定表を作成しました",
+        "localizations": {
+          "en": "I have created an optimal action schedule taking into account the canyon's geography, ore deposit locations, and quantities."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "これはまた、随分と本格的な……\n今までの気ままな採取とは大違いね",
+        "localizations": {
+          "en": "Well now, this is quite thorough... A far cry from our usual casual gathering."
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "ご飯や寝る時間まで決まってるの！？\nハンマーを磨く時間は！？",
+        "localizations": {
+          "en": "Even meal and sleep times are planned?! What about hammer maintenance time?!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "自由時間も設けていますので、そこでやってください。\n毎日進捗を確認しますので",
+        "localizations": {
+          "en": "There is allocated free time for such activities. I will be checking our progress daily."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "現場監督に適任の人材だね、ははは……",
+        "localizations": {
+          "en": "You're perfectly suited to be a site supervisor, ahaha..."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "あなたがたを補佐すると決めた以上は\n徹底的にやらせていただきます。予定を乱したら……",
+        "localizations": {
+          "en": "Since I have decided to support you all, I will be thorough about it. If you disrupt the schedule..."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "リーベさん、危ない！！！",
+        "localizations": {
+          "en": "Liebe, look out!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "消えなさい！\u3000予定が乱れます！！",
+        "localizations": {
+          "en": "Begone! You're disrupting the schedule!"
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "……こうなります。\n私は予定が乱れるのが何よりも嫌いですので",
+        "localizations": {
+          "en": "...This is what happens. I despise nothing more than disruptions to the schedule."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "リーベって冷静そうに見えて\n結構な激情家だからね。怒らせないよう気を付けてね",
+        "localizations": {
+          "en": "Liebe seems calm and collected, but she's quite the hothead. Best not to anger her."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "私は怒ってなどいませんが、\n特に気を付けるべきはシトリンだと思います",
+        "localizations": {
+          "en": "I am not angry, though I believe Citrine is the one who should exercise the most caution."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "……とまあ、こんな風に。\n怒ってるのを絶対認めないから",
+        "localizations": {
+          "en": "...See? She absolutely refuses to admit when she's angry."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "怒りは目的の遂行に不必要な感情です。\nだから私は常に怒らず、冷静を心掛けています",
+        "localizations": {
+          "en": "Anger is an unnecessary emotion for achieving one's objectives. That is why I never anger and strive to maintain composure at all times."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "……ところで、この予定表によると睡眠時間は\nかなりしっかりと取ってくれているんだね",
+        "localizations": {
+          "en": "...By the way, according to this schedule, you've allotted quite a generous amount of sleep time."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 43,
+    "properties": {
+      "999008199": {
+        "text": "良い思考は良い睡眠からです。\n私は睡眠の重要性を説く九偉人でもあります",
+        "localizations": {
+          "en": "Good thinking comes from good sleep. I am also among the Nine who advocate for the importance of proper rest."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 44,
+    "properties": {
+      "999008199": {
+        "text": "生活に根ざしてますなぁ",
+        "localizations": {
+          "en": "How very down-to-earth of you."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  }
+]

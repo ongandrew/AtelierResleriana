@@ -893,5 +893,37 @@
     "profile_voice_text": "I am Liebe. Leave strategic planning to me.\nI shall devise the perfect plan.",
     "sort_name": "Liebe",
     "start_at": "2025-11-21T03:00:00Z"
+  },
+  {
+    "id": 46002,
+    "acquisition_text": "Father and Mother, my wonderful brothers.\nWhy don't they understand their mission...?",
+    "another_name": "Miraculous Nine No. 5",
+    "description": "A homunculus created by the Palme, and the fifth of the Miraculous Nine.\nAlong with the other Miraculous Nine, he carries out \"management\" under the Palme's orders.\nHe has a passionate and earnest personality. He cares deeply for his siblings, and respects Saskia and August as \"Mother\" and \"Father.\"",
+    "fullname": "Gou",
+    "leader_skill": {
+      "description": "Boosts all allies' P.ATK and M.ATK by 10% and skill damage and stun damage by 20% for each Dark Reminiscence character in the party.",
+      "name": "Mission Given by Father and Mother"
+    },
+    "name": "Gou",
+    "overlay_name": "Gou",
+    "profile_voice_text": "I'm the fifth, Gou.\nMy older and younger sisters often say I'm too intense, but...?",
+    "sort_name": "Gou",
+    "start_at": "2025-12-05T03:00:00Z"
+  },
+  {
+    "id": 46201,
+    "acquisition_text": "I'll do my very best, so\nmake sure to give me lots of praise, okay?",
+    "another_name": "Charming Jewel",
+    "description": "A homunculus created by the Palme, and the fourth of the Miraculous Nine.\nAlong with the other Miraculous Nine, he carries out management under the Palme's direction.\nHe act capricious, but is skilled at handling things efficiently and reading situations well.\nAn avid collector of beautiful items, especially gemstones.",
+    "fullname": "Citrine",
+    "leader_skill": {
+      "description": "Miraculous Nine characters gain Initiative and Critical Damage +50%.",
+      "name": "Bewitching Gaze"
+    },
+    "name": "Citrine",
+    "overlay_name": "Citrine",
+    "profile_voice_text": "I'm Citrine. Since we're together now,\nmake sure to entertain me lots, okay?",
+    "sort_name": "Citrine",
+    "start_at": "2025-11-28T03:00:00Z"
   }
 ]

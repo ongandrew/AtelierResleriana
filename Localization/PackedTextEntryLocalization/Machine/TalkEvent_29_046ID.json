@@ -1,0 +1,750 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "ふーむ、見渡す限り砂ばっかり。\n人っ子一人いないわね。食べ物も……",
+        "localizations": {
+          "en": "Hmm, nothing but sand as far as the eye can see. Not a soul in sight. No food either..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "そりゃ、人間たちには厳しい環境だからね。\nだからこそ、僕たちがこうして駆り出されるわけだ",
+        "localizations": {
+          "en": "Well, it's harsh terrain for humans. That's exactly why they call on us to handle things like this."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "ふっ！",
+        "localizations": {
+          "en": "Hah!"
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "わお、一撃。お見事リベ姉",
+        "localizations": {
+          "en": "Wow, one hit. Nice work, Liebe!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "変なあだ名を付ける必要はありません",
+        "localizations": {
+          "en": "There's no need to give me strange nicknames."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "こうして生態系の秩序を守るのも、\nパルメ族から与えられた我々の役割なのです",
+        "localizations": {
+          "en": "Maintaining the balance of the ecosystem is part of our role as assigned by the Palme."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "人間の手の届く範囲のことはそっちに任せてるけどね",
+        "localizations": {
+          "en": "Though we do leave things within human reach to them."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "できれば、もうちょい\n人間たちも成長してくれるのが望ましい",
+        "localizations": {
+          "en": "Ideally, it'd be nice if humans could grow a bit more capable."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "そのためには、果ての大陸を見つけて、\nマナを確保して、錬金術を再興しないとね",
+        "localizations": {
+          "en": "For that to happen, we need to find World's End, secure the mana, and revive alchemy."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "……もしかして、私もあまり出しゃばらないほうが\nいいのかしら？\u3000一応、九偉人の一人だし",
+        "localizations": {
+          "en": "...Maybe I shouldn't interfere too much either? I am technically one of the Nine."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "お前さんは、九偉人じゃなくてレスナの補助として\n動く予定の立場だった。だからまぁ気にしなさんな",
+        "localizations": {
+          "en": "You weren't supposed to act as one of the Nine—you were meant to support Resna. So don't worry about it."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "自分が思う通りにやったらいいさ",
+        "localizations": {
+          "en": "Just do what feels right to you."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "……そうね。ありがと",
+        "localizations": {
+          "en": "...Right. Thanks."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "さて、そろそろ食事の時間ですね。\nそこの荷物を開けてください",
+        "localizations": {
+          "en": "Now then, it's time for a meal. Please open that pack over there."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "この荷物、食べ物だったんだ",
+        "localizations": {
+          "en": "Oh, this pack has food in it?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "どうせヴァレリアがたくさん食べるでしょうから、\n多めに用意しておいたのです",
+        "localizations": {
+          "en": "Since you'll likely eat a great deal anyway, I prepared extra portions."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "お姉ちゃん……",
+        "localizations": {
+          "en": "Big sis..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "どれどれ、今日のご飯はなんだろな～？",
+        "localizations": {
+          "en": "Let's see, what's on the menu today?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "……なにこれ？",
+        "localizations": {
+          "en": "...What is this?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "必要な栄養素を詰め込んだ特製品です",
+        "localizations": {
+          "en": "A special formulation packed with all necessary nutrients."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "なんか、モソモソしてるし\n味が薄いような",
+        "localizations": {
+          "en": "It's kind of dry and crumbly, and the flavor's so bland..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "濃い味付けは身体に毒です。\n減塩の薄味です",
+        "localizations": {
+          "en": "Heavy seasoning is harmful to the body. This is low-sodium with mild flavoring."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "リーベの飯はいつもこうなんだ。\nまったく、味気ないってのはこのことだよ",
+        "localizations": {
+          "en": "Liebe's cooking is always like this. Talk about flavorless."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "私は贅沢は言わない。腹が膨れれば大丈夫だ！",
+        "localizations": {
+          "en": "I'm not picky. As long as it fills my belly, I'm fine!"
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "僕はヴァレリアと同意見。\n食事って栄養だけじゃないでしょ",
+        "localizations": {
+          "en": "I'm with Valeria on this one. Food isn't just about nutrition, you know."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "そうそう、たとえば家族での団らんとかも、\nご飯を美味しくする調味料よね",
+        "localizations": {
+          "en": "Exactly! Like spending time with family—that's a seasoning that makes meals taste better too."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "食事に対して主張が強いのは、変わっていないな",
+        "localizations": {
+          "en": "Your strong opinions about food haven't changed."
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "ではヴァレリア、何か食事時の小粋な話題を",
+        "localizations": {
+          "en": "Then Valeria, please provide some witty conversation to accompany our meal."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "うーん……そうね。九偉人の仕事もこういうの\nだけなら、レスナたちとケンカしなくてよかったのに",
+        "localizations": {
+          "en": "Hmm... Well, if the Nine's work was only stuff like this, I wouldn't have had to argue with Resna and the others."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "まったくだね。人がまだ到達できない部分のみ\nさりげなく手助けする。これぐらいでいい",
+        "localizations": {
+          "en": "You can say that again. Subtly helping out only in areas humans can't reach yet—that's all we need to do."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "そこらへん、九偉人内で意見を統一したほうが\n良いかと思います",
+        "localizations": {
+          "en": "I believe we should unify our position on this within the Nine."
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "私たちの……パルメの庇護なくして、果たして今の\n人間たちがどこまでできるのか。それはまだ未知数です",
+        "localizations": {
+          "en": "Without our—the Palme's—protection, how far the current humans could manage is still unknown."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "気概があるのは、この前の航海で伝わりました。\nあとは結果が伴えば、私も考えます",
+        "localizations": {
+          "en": "Their spirit was evident during the recent voyage. If results follow, I will reconsider my stance."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "それまでは、マスターの命令を優先します",
+        "localizations": {
+          "en": "Until then, I will prioritize Master's orders."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "レスナたちは考え方が危険すぎると思うんだよね。\nみんなと仲良くやろうってのも限度があるよ",
+        "localizations": {
+          "en": "I think Resna and the others' way of thinking is too dangerous. There are limits to trying to get along with everyone."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "僕はそこらへんを改めてもらわないと\n危なっかしくてねぇ",
+        "localizations": {
+          "en": "Unless they change their approach, it's just too risky."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "その考え方が余計なお世話ってことじゃないの？",
+        "localizations": {
+          "en": "Isn't that way of thinking exactly the kind of meddling they don't need?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "あはは、こうして食卓を囲んで九偉人の方向性を\n議論するなんて初めてだね。実に愉快だ",
+        "localizations": {
+          "en": "Ahaha, this is the first time we've gathered around the dinner table to debate the Nine's direction. How delightful!"
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "今までは、アウグストたちの言うことを\n聞いていただけだったから",
+        "localizations": {
+          "en": "Until now, we've just been following August and the others' orders."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "母様や父様の命令を考えればリーベの言が正しい。\nだが、多様性を認めるのも兄の器量……私はそう考える",
+        "localizations": {
+          "en": "Considering Mother and Father's commands, Liebe's argument is correct. But Brother's capacity to accept diverse views... I believe that matters too."
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "おっと、まだこんなのが残ってたのか",
+        "localizations": {
+          "en": "Whoops, looks like we've got company."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "出ましたね。この辺りの生態系を\n乱している、魔物の親玉です",
+        "localizations": {
+          "en": "There it is. The monster boss that's been disrupting the ecosystem around here."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "まったく、食事時に襲って来るなんて無粋だよ",
+        "localizations": {
+          "en": "Honestly, attacking during mealtime? How rude."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 43,
+    "properties": {
+      "999008199": {
+        "text": "みんな！\u3000討伐するぞ！！",
+        "localizations": {
+          "en": "Everyone! Let's take it down!!"
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  }
+]

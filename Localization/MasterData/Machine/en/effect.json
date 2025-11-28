@@ -10983,5 +10983,650 @@
     "id": 20000846,
     "description": "After using a skill, boosts battle item damage dealt for all allies.",
     "popup_text": ""
+  },
+  {
+    "id": 6001170,
+    "description": "When equipped to Citrine [Charming Jewel], boosts critical damage while HP is at 80% or more.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001171,
+    "description": "Boosts critical damage while HP is at 80% or more (for temporary effect).",
+    "popup_text": ""
+  },
+  {
+    "id": 6001173,
+    "description": "Grants Critical Damage Up while HP is at 80% or more to the ally with highest P.ATK for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001178,
+    "description": "When equipped to Goh [Miraculous Nine No. 5], when attack target is stunned, grants Physical Damage Received Up to target until taking damage once.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001179,
+    "description": "When equipped to Goh [Miraculous Nine No. 5], when attack target is stunned, grants Critical Damage Received Up to target until taking damage once.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001180,
+    "description": "Reduces damage received while own HP is at 70% or more (fixed potency).",
+    "popup_text": ""
+  },
+  {
+    "id": 6001181,
+    "description": "Boosts HP recovery granted.",
+    "popup_text": ""
+  },
+  {
+    "id": 71262001,
+    "description": "Converts target boost panels to empty panels.",
+    "popup_text": ""
+  },
+  {
+    "id": 71263001,
+    "description": "Randomly grants target one of the following effects: Darkness, SPD Down, or M.ATK Down.",
+    "popup_text": ""
+  },
+  {
+    "id": 71263023,
+    "description": "Removes special evasion-related status changes from all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 71263028,
+    "description": "Removes special stun gauge calculation status changes from all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 71263029,
+    "description": "Redraws actions for all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001492,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001493,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001494,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001495,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001496,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001497,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001498,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001499,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001500,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001501,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001502,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001503,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001504,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001505,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001506,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001507,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001508,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001512,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001513,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001514,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001520,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001521,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001536,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72500180,
+    "description": "[Self/More Diligent allies/P.ATK Up]",
+    "popup_text": ""
+  },
+  {
+    "id": 72500181,
+    "description": "[Self/More Diligent allies/M.ATK Up]",
+    "popup_text": ""
+  },
+  {
+    "id": 72500184,
+    "description": "[Self/More Underworld Reminiscence/Stun Damage Up]",
+    "popup_text": ""
+  },
+  {
+    "id": 81262002,
+    "description": "When self has Regeneration, grants Regeneration to all allies for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 81263002,
+    "description": "Grants special evasion state to Repulgarum (Main Body).",
+    "popup_text": ""
+  },
+  {
+    "id": 81263003,
+    "description": "Redraws all allies' turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 81263004,
+    "description": "Grants self reduced damage received for gimmick.",
+    "popup_text": ""
+  },
+  {
+    "id": 81263005,
+    "description": "Grants self nullify negative effects for gimmick.",
+    "popup_text": ""
+  },
+  {
+    "id": 81263006,
+    "description": "Grants self all element resistance up (right leg) for gimmick.",
+    "popup_text": ""
+  },
+  {
+    "id": 81263007,
+    "description": "Grants self all element resistance up (left leg) for gimmick.",
+    "popup_text": ""
+  },
+  {
+    "id": 81263008,
+    "description": "If not in special evasion state and 3 or more allies are present, grants self Turn Count Buff 1 Lv. 1.",
+    "popup_text": ""
+  },
+  {
+    "id": 81263009,
+    "description": "If not in special evasion state and Turn Count Buff 1 is Lv. 2, grants Repulgarum (Main Body) special evasion state.",
+    "popup_text": ""
+  },
+  {
+    "id": 81263010,
+    "description": "If not in special evasion state and Turn Count Buff 1 is Lv. 2, redraws all allies' turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 81263011,
+    "description": "If not in special evasion state and Turn Count Buff 1 is Lv. 2, removes Turn Count Buff 1 from all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 81263012,
+    "description": "If in special evasion state, grants self Turn Count Buff 2 Lv. 1.",
+    "popup_text": ""
+  },
+  {
+    "id": 81263013,
+    "description": "If in special evasion state and Turn Count Buff 2 is Lv. 2, grants self special burst skill state change.",
+    "popup_text": ""
+  },
+  {
+    "id": 81263014,
+    "description": "If in special evasion state and Turn Count Buff 2 is Lv. 2, redraws own turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 81263015,
+    "description": "When self is in special state and skill hits, grants all allies Attack Count Buff Lv. 1.",
+    "popup_text": ""
+  },
+  {
+    "id": 81263016,
+    "description": "When self is in special state with Attack Count Buff Lv. 5 and skill hits, removes special evasion-related state changes from all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 81263017,
+    "description": "When self is in special state with Attack Count Buff Lv. 5 and skill hits, increases right leg's damage received by 1000%.",
+    "popup_text": ""
+  },
+  {
+    "id": 81263018,
+    "description": "When self is in special state with Attack Count Buff Lv. 5 and skill hits, increases left leg 2's damage received by 1000%.",
+    "popup_text": ""
+  },
+  {
+    "id": 81263019,
+    "description": "When self is in special state with Attack Count Buff Lv. 5 and skill hits, depletes all allies' stun gauges by 9900%.",
+    "popup_text": ""
+  },
+  {
+    "id": 81263020,
+    "description": "When self is in special state with Attack Count Buff Lv. 5 and skill hits, grants self nullify Turn Count Buff 1.",
+    "popup_text": ""
+  },
+  {
+    "id": 81263021,
+    "description": "When self is in special state with Attack Count Buff Lv. 5 and skill hits, redraws all allies' turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 81263022,
+    "description": "Nullify Turn Count Buff 1",
+    "popup_text": ""
+  },
+  {
+    "id": 81263024,
+    "description": "Grants panel immunity to all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 81263025,
+    "description": "If not in special evasion state and Turn Count Buff 1 is Lv. 2, grants panel immunity to all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 81263027,
+    "description": "If skill targets a single enemy, grants submotion state change.",
+    "popup_text": ""
+  },
+  {
+    "id": 81263030,
+    "description": "Chance to evade all enemy attacks.",
+    "popup_text": ""
+  },
+  {
+    "id": 81263031,
+    "description": "Grants special evasion check to all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 81263032,
+    "description": "If not in special evasion state and Turn Count Buff 1 is Lv. 2, grants special evasion check to all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 81263033,
+    "description": "If self has special state and Attack Count Buff Lv. 5 when skill lands, removes Turn Count Buff 1 from all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 81263034,
+    "description": "If self has special state and Attack Count Buff Lv. 5 when skill lands, removes Turn Count Buff 2 from all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 81263035,
+    "description": "If self has special state and Attack Count Buff Lv. 5 when skill lands, removes Attack Count Buff 2 from all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 81263036,
+    "description": "Removes Turn Count Buff 2 from all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 81263037,
+    "description": "Removes Attack Count Buff 2 from all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 81263038,
+    "description": "Removes Turn Count Buff 1 from all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 81263039,
+    "description": "Incoming attacks will always hit.",
+    "popup_text": ""
+  },
+  {
+    "id": 81263040,
+    "description": "Grants incoming attacks will always hit state to all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 81263041,
+    "description": "If skill targets a single enemy, delays own turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 81263042,
+    "description": "Grants special evasion state to Repulgarum (Right Leg).",
+    "popup_text": ""
+  },
+  {
+    "id": 81263043,
+    "description": "Grants special evasion state to Repulgarum (Left Leg).",
+    "popup_text": ""
+  },
+  {
+    "id": 81263044,
+    "description": "If not in special evasion state and Turn Count Buff 1 is Lv. 2, grants special evasion state to Repulgarum (Right Leg).",
+    "popup_text": ""
+  },
+  {
+    "id": 81263045,
+    "description": "If not in special evasion state and Turn Count Buff 1 is Lv. 2, grants special evasion state to Repulgarum (Left Leg).",
+    "popup_text": ""
+  },
+  {
+    "id": 81264001,
+    "description": "(For Right Leg) Removes main body's gimmick damage reduction.",
+    "popup_text": ""
+  },
+  {
+    "id": 81264002,
+    "description": "(Right Leg) Removes All Elemental Resistance Up (Right Leg) for gimmick from main body.",
+    "popup_text": ""
+  },
+  {
+    "id": 81264003,
+    "description": "(Right Leg) If in special evasion state, removes special evasion-related state changes from all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 81264004,
+    "description": "(Right Leg) Redetermines turn order for all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 81264005,
+    "description": "(Right Leg) Removes Turn Count Buff ① from all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 81264006,
+    "description": "(Right Leg) Removes Damage Received Down for gimmick from main body.",
+    "popup_text": ""
+  },
+  {
+    "id": 81264007,
+    "description": "(Right Leg) Removes All Elemental Resistance Up (Right Leg) for gimmick from main body.",
+    "popup_text": ""
+  },
+  {
+    "id": 81264008,
+    "description": "(Right Leg) Removes Turn Count Buff ① from all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 81264009,
+    "description": "When self is in special state and has Attack Count Buff Lv. 5 and a single target skill hits, removes special evasion-related state changes from all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 81264010,
+    "description": "When self is in special state and has Attack Count Buff Lv. 5 and a single target skill hits, removes Turn Count Buff ② from all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 81264011,
+    "description": "When self is in special state and has Attack Count Buff Lv. 5 and a single target skill hits, removes Attack Count Buff ② from all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 81264012,
+    "description": "When self is in special state and has Attack Count Buff Lv. 5 and a single target skill hits, removes Turn Count Buff ① from all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 81264013,
+    "description": "When self is in special state and has Attack Count Buff Lv. 5 and a single target skill hits, grants Damage Received +1000% to the right leg.",
+    "popup_text": ""
+  },
+  {
+    "id": 81264014,
+    "description": "When self is in special state and has Attack Count Buff Lv. 5 and a single target skill hits, grants Damage Received +1000% to the left leg.",
+    "popup_text": ""
+  },
+  {
+    "id": 81264015,
+    "description": "When self is in special state and has Attack Count Buff Lv. 5 and a single target skill hits, reduces stun gauge of all allies by 9900%.",
+    "popup_text": ""
+  },
+  {
+    "id": 81264016,
+    "description": "When self is in special state and has Attack Count Buff Lv. 5 and a single target skill hits, grants Nullify Turn Count Buff ① to self.",
+    "popup_text": ""
+  },
+  {
+    "id": 81264017,
+    "description": "When self is in special state and has Attack Count Buff Lv. 5 and a single target skill hits, redetermines turn order for all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 81264018,
+    "description": "If self is not in special evasion state, delays turn of all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 81264019,
+    "description": "If self is in special evasion state, delays turn of all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 81265001,
+    "description": "(Left Leg) Removes Nullify Negative Effects for gimmick from main body's enemy_index0.",
+    "popup_text": ""
+  },
+  {
+    "id": 81265002,
+    "description": "(Left Leg) Removes All Elemental Resistance Up (Left Leg) for gimmick from main body's enemy_index0.",
+    "popup_text": ""
+  },
+  {
+    "id": 81265003,
+    "description": "(For Left Leg) If in special evasion state, removes special evasion-related state changes from all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 81265004,
+    "description": "(For Left Leg) Redraws all allies' turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 81265005,
+    "description": "(For Left Leg) Removes Turn Count Buff ① from all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 81265006,
+    "description": "(For Left Leg) Removes Nullify Negative Effects for Gimmick from main body.",
+    "popup_text": ""
+  },
+  {
+    "id": 81265007,
+    "description": "(For Left Leg) Removes All Element Resistance Up (Left Leg) for Gimmick from main body.",
+    "popup_text": ""
+  },
+  {
+    "id": 81265008,
+    "description": "(For Left Leg) Removes Turn Count Buff ① from all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 81265009,
+    "description": "If self is not in special evasion state, delays all allies' turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 81265010,
+    "description": "If self is in special evasion state, delays all allies' turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 91001933,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001934,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001938,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001939,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001940,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001941,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001942,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001943,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001944,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001949,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001950,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001951,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001952,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001985,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001986,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000297,
+    "description": "While equipped to an Attacker with Stab affinity, boosts critical damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000298,
+    "description": "While equipped to a character with the Laid-back tag, boosts P.ATK.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000838,
+    "description": "While equipped to Gou [Miraculous Nine No. 5], boosts stun damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000839,
+    "description": "While Gou [Miraculous Nine No. 5] is in the party, reduces damage received.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000840,
+    "description": "While equipped to Citrine [Charming Jewel], boosts skill power.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000841,
+    "description": "While Citrine [Charming Jewel] is in the party, reduces damage received.",
+    "popup_text": ""
   }
 ]

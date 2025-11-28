@@ -1,0 +1,801 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "皆の者、錨を上げろ！\u3000よーそろー！",
+        "localizations": {
+          "en": "All hands, raise anchor! Full speed ahead!"
+        }
+      },
+      "2072370017": {
+        "text": "トトリ",
+        "localizations": {
+          "en": "Totori"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "トトリ船長、とっくにアルビ号は出航してるっすー",
+        "localizations": {
+          "en": "Captain Totori, we already left port."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "目的地は遥か北の地、オーベンランド！",
+        "localizations": {
+          "en": "Our destination is the far northern land of Obenland!"
+        }
+      },
+      "2072370017": {
+        "text": "トトリ",
+        "localizations": {
+          "en": "Totori"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "ふふっ、すっかり船長が板に付いてるわね",
+        "localizations": {
+          "en": "Hehe, you're really settling into the captain role."
+        }
+      },
+      "2072370017": {
+        "text": "ニーナ",
+        "localizations": {
+          "en": "Nina"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "（いくつかの島を経由しつつ……\n\u3000いよいよ目的地のオーベンランドが近づいてきた）",
+        "localizations": {
+          "en": "(After stopping at several islands along the way... we're finally approaching our destination, Obenland.)"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "（さらに、道中訪れた島で\n\u3000新たな仲間たちも加わった！）",
+        "localizations": {
+          "en": "(We even picked up some companions along the way!)"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "久しぶり。レスナ、みんな。\nへへ、ちょうどいい時機に戻ってこられた、かな？",
+        "localizations": {
+          "en": "Resna, everyone, it's been a while! Looks like I made it back at just the right time, huh?"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "ハイディさん……お久しぶりです！",
+        "localizations": {
+          "en": "Heidi...?! It's been ages!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "しばらくお会いしていない間にいったい何が……",
+        "localizations": {
+          "en": "What happened while we were apart?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "それはまた別の機会にちゃんと話すよ。\nとりあえず連れの紹介だけしとくね。この子は……",
+        "localizations": {
+          "en": "I'll tell you all about it some other time. For now, let me introduce my traveling companion. This is..."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "私はカロリン・ヤスベルと申します。見ての通り、\n普段はルイネ州の教会でシスターをしています",
+        "localizations": {
+          "en": "My name is Caroline Jasper. As you can probably tell, I serve as a sister at a church in the Ruine Province."
+        }
+      },
+      "2072370017": {
+        "text": "カロリン",
+        "localizations": {
+          "en": "Caroline"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "ランターナのシスターさんが、なぜハイディさんと\n一緒にこんな所まで？",
+        "localizations": {
+          "en": "Nice to meet you! But why would you come all the way from Lantarna with Heidi?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "私はシスター兼、冒険者なのです。ハイディとは\n昔からの知り合いですから",
+        "localizations": {
+          "en": "I am also an adventurer. Also, Heidi and I go way back."
+        }
+      },
+      "2072370017": {
+        "text": "カロリン",
+        "localizations": {
+          "en": "Caroline"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "ハイディが大陸の外へ冒険に出ると聞き、\n己の研鑽も兼ねて同行を申し出た次第です",
+        "localizations": {
+          "en": "When I heard Heidi was venturing beyond the continent, I asked to join her—both to help out and to hone my own skills."
+        }
+      },
+      "2072370017": {
+        "text": "カロリン",
+        "localizations": {
+          "en": "Caroline"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "そういや、ルイネ州ってことはハイディと同郷か",
+        "localizations": {
+          "en": "So you and Heidi are from the same neck of the woods, huh?"
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "しかし、なんでまた冒険者なんかやってんだ？\nシスターとはかけ離れた仕事に見えるが……",
+        "localizations": {
+          "en": "But why become an adventurer? That's far removed from being a sister..."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "きっかけは、教会の近くに現れた魔物に襲われた時、\nやむなく武器を手に取ったことでした",
+        "localizations": {
+          "en": "It all started when I was attacked by a monster near the church. At the time, I had no choice but to take up arms."
+        }
+      },
+      "2072370017": {
+        "text": "カロリン",
+        "localizations": {
+          "en": "Caroline"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "すると、思ったよりこの銃が身体に馴染みまして。\n己の隠された才能に気付き、活かすことにしたのです",
+        "localizations": {
+          "en": "To my surprise, this gun felt remarkably natural in my hands. I discovered a hidden talent and decided to put it to use."
+        }
+      },
+      "2072370017": {
+        "text": "カロリン",
+        "localizations": {
+          "en": "Caroline"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "ふうむ、シスターと銃の組み合わせか……",
+        "localizations": {
+          "en": "Hmm, a gun-wielding sister..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "正直、「アリ」っすね",
+        "localizations": {
+          "en": "Honestly? I'm into it."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "うふふ、ありがとうございます",
+        "localizations": {
+          "en": "Hehe, I appreciate your support."
+        }
+      },
+      "2072370017": {
+        "text": "カロリン",
+        "localizations": {
+          "en": "Caroline"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "皆様のことは、ハイディからお聞きしております。\nその旅の目的についても",
+        "localizations": {
+          "en": "Heidi has told me all about your journey and your destination."
+        }
+      },
+      "2072370017": {
+        "text": "カロリン",
+        "localizations": {
+          "en": "Caroline"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "もっと強くなって迷える人々を救えるようになるため、\nぜひ私も皆様と共に冒険させていただきたいのです",
+        "localizations": {
+          "en": "I would be honored to join you on this adventure, so that I may grow stronger while helping out those in need."
+        }
+      },
+      "2072370017": {
+        "text": "カロリン",
+        "localizations": {
+          "en": "Caroline"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "（ヴァレリアの「相棒」のハイディ、\n\u3000そしてシスターのカロリンさん）",
+        "localizations": {
+          "en": "(So we've got Heidi, Valeria's partner, and Caroline the sister.)"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "（それと……ついでにシトリンの奴も）",
+        "localizations": {
+          "en": "(And... Citrine tagged along too.)"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "（ま、信用ならないけど戦力になるのは確かだし……\n\u3000上手いこと利用してやるわい）",
+        "localizations": {
+          "en": "(Citrine I still don't trust one bit, but there's no denying the strength of one of the Nine... Might as well make use of that.)"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "わあ……！",
+        "localizations": {
+          "en": "Whoa...!"
+        }
+      },
+      "2072370017": {
+        "text": "トトリ",
+        "localizations": {
+          "en": "Totori"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "キャプテン？\u3000どうしたの？",
+        "localizations": {
+          "en": "What is it, Totori?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "ほら、空を見て！",
+        "localizations": {
+          "en": "Look, up in the sky!"
+        }
+      },
+      "2072370017": {
+        "text": "トトリ",
+        "localizations": {
+          "en": "Totori"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "おおおおお……！\nこれって、もしかして「オーロラ」ってやつ！？",
+        "localizations": {
+          "en": "Whoooa...! Is that what I think it is? Are those the northern lights?!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "私も初めて見たわ。\n神聖国の近くでは見られないもの",
+        "localizations": {
+          "en": "This is my first time seeing them. They're not visible from Nova."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "とても綺麗ね。\nこの世のものとは思えない景色……",
+        "localizations": {
+          "en": "They're beautiful. Complete out of this world..."
+        }
+      },
+      "2072370017": {
+        "text": "ニーナ",
+        "localizations": {
+          "en": "Nina"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "だね。\nでも……アタシたちはこの景色の向こうに行くんだ",
+        "localizations": {
+          "en": "Yeah. But... our destination is beyond even this."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "アルビ号～。\nオーベンランドまでは持っておくれよ～",
+        "localizations": {
+          "en": "My dear Alvie... Please hold together until we reach Obenland..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "大丈夫だよ。\nランツェさんもまだ行けるって言ってくれてたし",
+        "localizations": {
+          "en": "She'll be fine. Lanze believes she'll make the trip."
+        }
+      },
+      "2072370017": {
+        "text": "トトリ",
+        "localizations": {
+          "en": "Totori"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "いきなりの長旅でごめんよ～。でも頑張ってくれて\nアタシは嬉しいよ～。後で船体磨くね～",
+        "localizations": {
+          "en": "Sorry for dragging you on such a long journey. But I'm really grateful you're hanging in there. I'll polish your hull later, I promise."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "姉様、お母さんみたい",
+        "localizations": {
+          "en": "You treat the Alvie like your own flesh and blood."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "ふふ。旅を共にして、愛着が湧いたのね",
+        "localizations": {
+          "en": "Indeed. You've grown quite attached to her."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "おおっ！\u3000こいつぁすごい",
+        "localizations": {
+          "en": "Whoa! Now that's a catch!"
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "なんか釣れたの？",
+        "localizations": {
+          "en": "Did you catch something?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "ああ、なかなかの大物だよカルビちゃん",
+        "localizations": {
+          "en": "Yep, quite the big one, Galbi."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "かわいいアルビちゃんな。誰が肉だ",
+        "localizations": {
+          "en": "It's Alvie! Who're you calling short ribs?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "脂が乗ってうまそうだ……\nよし、今夜はこいつで鍋としゃれ込もう！",
+        "localizations": {
+          "en": "Look at all that fat... Let's make a hot pot with this tonight!"
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 43,
+    "properties": {
+      "999008199": {
+        "text": "あはぁ、そうだね。仲間としてのお近づきの印に\nみんなで分けて食べようか。信用してもらうためにもね",
+        "localizations": {
+          "en": "Sounds good. Let's share it with everyone as a gesture of goodwill. Help with trust building, you know?"
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 44,
+    "properties": {
+      "999008199": {
+        "text": "アンタ、わざわざそういうこと言っちゃうから\n余計警戒されるのよ……食べるけど",
+        "localizations": {
+          "en": "You know, saying stuff like that is exactly why people don't trust you... not that I don't want some."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 45,
+    "properties": {
+      "999008199": {
+        "text": "ヴァレリアの相棒であり、家族。\n別行動していたが、道中の島でレスナたちに合流した",
+        "localizations": {
+          "en": "Valeria's partner and family. After traveling separately, she reunited with Resna's group at one of the islands."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 46,
+    "properties": {
+      "999008199": {
+        "text": "ハイディの旧友で、シスター兼冒険者。\n研鑽を積むため、ハイディと共に行動している",
+        "localizations": {
+          "en": "Heidi's old friend, both sister and adventurer. Traveling with Heidi to hone her skills."
+        }
+      },
+      "2072370017": {
+        "text": "カロリン・ヤスベル",
+        "localizations": {
+          "en": "Caroline Jasper"
+        }
+      }
+    }
+  }
+]

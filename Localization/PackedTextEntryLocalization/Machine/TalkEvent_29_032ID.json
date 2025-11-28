@@ -1,0 +1,665 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "あんたたち、あの海から生きて帰ってこられたんだね！\nよかったねぇ……！！",
+        "localizations": {
+          "en": "You all made it back alive from that sea! Thank the stars...!"
+        }
+      },
+      "2072370017": {
+        "text": "村人",
+        "localizations": {
+          "en": "Villager"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "あァ、本当によかッた……",
+        "localizations": {
+          "en": "Aye, truly a blessing..."
+        }
+      },
+      "2072370017": {
+        "text": "老漁師",
+        "localizations": {
+          "en": "Old Fisherman"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "心配してくださってありがとうございます。\nでも、入口でやられちゃって……",
+        "localizations": {
+          "en": "Thank you for worrying about us. But we only made it to the entrance before getting turned back..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "そうね、今のままじゃ厳しそう。\n対策を練って、また挑戦しましょ？",
+        "localizations": {
+          "en": "Yeah, we're not ready yet. Let's regroup and try again, shall we?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "さすがに無理だよ。\nあんなの、人間が入っていい場所じゃない……",
+        "localizations": {
+          "en": "We can't. That place... it's not somewhere humans are meant to go..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "あそこに行くのは、もう諦めようよ！\u3000ね？",
+        "localizations": {
+          "en": "Let's just give up on going there! Please?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "でも、あの向こうに果ての大陸があるなら、\n挑戦しないわけにはいかないよ",
+        "localizations": {
+          "en": "But if World's End is really on the other side, we can't just quit now."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "っ……",
+        "localizations": {
+          "en": "..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "ただ、あそこを自由に探索するにはまだまだ準備が\n足りない……一度出直したほうが良さそうだね",
+        "localizations": {
+          "en": "Still, we're nowhere near prepared enough to explore that area freely... We should come back once we're better equipped."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "そうね。あてもなくあの海域を\n探し回ってたら船が何隻あっても足りないもの",
+        "localizations": {
+          "en": "Right. If we just wander around those waters aimlessly, a hundred ships wouldn't be enough."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "果ての大陸が、広大な暗黒の氷海のどこかにあるのか？\n突っ切った先にあるのか？\u3000情報がないとね",
+        "localizations": {
+          "en": "Is World's End somewhere deep within the Dark Frozen Sea? Or beyond it entirely? We need more information."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "まずは、あの難破船からもらってきた\n積み荷を調べてみようか",
+        "localizations": {
+          "en": "Let's start by examining what we salvaged from that shipwreck."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "何か食べ物でも入ってないかしら",
+        "localizations": {
+          "en": "Think there's any food in there?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "入ってても腐っちゃってるんじゃない？\nあ、でもあれだけ冷たい氷の中なら意外と……",
+        "localizations": {
+          "en": "Even if there was, wouldn't it be spoiled by now? Though with all that ice, maybe it actually preserved..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "なんで……",
+        "localizations": {
+          "en": "Why..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "どれも、交易品に思えるけど……",
+        "localizations": {
+          "en": "These all look like trade goods..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "この絵……まさか『九偉人図』！？",
+        "localizations": {
+          "en": "This painting... Could this be the 'Portrait of the Nine'?!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "『九偉人図』？\u3000なにそれ",
+        "localizations": {
+          "en": "The 'Portrait of the Nine'? What's that?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "カロストンで借りた本に書いてあったんだ。\nこういう説明があったんだよ\n",
+        "localizations": {
+          "en": "I read about it in a book I borrowed in Karlston. It said something like this:"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "「九人の偉人が描かれた絵図には暗号が隠されており、\n\u3000解読すると、宝の在り処を示す地図になるという」",
+        "localizations": {
+          "en": "\"A painting depicting nine great figures contains a hidden cipher. When decoded, it becomes a map showing the location of a great treasure.\""
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "確かに人みたいなのが書かれてるわね。\n……私が知ってる顔ではなさそうだけど",
+        "localizations": {
+          "en": "There are definitely people drawn here. Though I don't recognize any of these faces."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "ここに描かれてるの、マナの結晶によく似てる。\nあと……この文字",
+        "localizations": {
+          "en": "What's depicted here looks a lot like mana crystals. And then there's... this text."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "なんて書いてあるの？",
+        "localizations": {
+          "en": "What does it say?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "……分からない。ぜんぜん意味が通らない文章に\nなってる。きっとこれが、本に書いてあった暗号なんだ",
+        "localizations": {
+          "en": "...I don't know. It's completely nonsensical as written. This must be the cipher the book mentioned."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "レスナ、分からないって言うわりに楽しそうね？",
+        "localizations": {
+          "en": "Resna, you say you don't know, but you look pretty excited about it?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "うん！\u3000果ての大陸への新しい手掛かりが\n見つかったんだもん！\u3000……あれ、ここは意味が分かる",
+        "localizations": {
+          "en": "Of course! We've found a new lead to World's End! ...Wait, I can actually read this part."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "「九幅の絵図揃えし時\n\u3000この地への道を示さん」",
+        "localizations": {
+          "en": "\"When nine paintings are gathered as one, the path to this land shall be revealed.\""
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "この地って、このマナの結晶が描かれてるとこ？\nつまりこれって――",
+        "localizations": {
+          "en": "'This land'—you mean where these mana crystals are drawn? So this is..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "果ての大陸の場所が分かる地図かもしれない！",
+        "localizations": {
+          "en": "A map that might show us exactly where World's End is!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "おぉー！\u3000……え～っと、上の文章は、\n九枚ある絵を全部集めたらいいってこと？",
+        "localizations": {
+          "en": "Ooh! ...Um, so the text above means we need to collect all nine paintings?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "そうみたいだね。航海日誌に書いてあったけど、\n絵が１枚だけじゃぜんぜん場所が絞れなかったって",
+        "localizations": {
+          "en": "Looks like it. The logbook mentioned that with just one painting, they couldn't narrow down the location at all."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "それでもここまで来たからには、暗黒の氷海を\n抜けてみようって。日誌はそこで終わってる",
+        "localizations": {
+          "en": "But since they'd come this far, they decided to try crossing the Dark Frozen Sea anyway. The log ends there."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "やっぱり果ての大陸を夢見て、やられたんだ……",
+        "localizations": {
+          "en": "So they really did get killed chasing their dream of World's End..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "でも希望が見えたよ！\n探してみよう、九枚の『九偉人図』！",
+        "localizations": {
+          "en": "But now we have hope! Let's search for all nine 'Portraits of the Nine'!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "私たちはこれを九枚集めて、果ての大陸の座標を\n把握してから、もう一度ここに挑んでみようよ",
+        "localizations": {
+          "en": "We'll collect all nine, pinpoint World's End's exact coordinates, and then challenge that sea again."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "ええ、そうね！\u3000",
+        "localizations": {
+          "en": "Absolutely!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "果ての大陸の明確な場所が分かれば、そこを目指して\n暗黒の氷海を突っ切ることだってできるはずよ！",
+        "localizations": {
+          "en": "If we know exactly where World's End is, we can push straight through the Dark Frozen Sea to reach it!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "うん！\u3000",
+        "localizations": {
+          "en": "Yeah!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "…………",
+        "localizations": {
+          "en": "..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  }
+]

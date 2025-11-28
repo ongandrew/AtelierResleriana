@@ -4019,5 +4019,161 @@
     "name": "Reprint Season 2 Begins! Pride's Double-Edged Blade Bepp LEGEND FES [Paid Lodestar Gems Only]",
     "start_at": "2025-11-26T03:00:00Z",
     "step_up_loop_description": ""
+  },
+  {
+    "id": 2321,
+    "description": "Citrine makes their debut!\nFeatured until 2025/12/08 11:59 (UTC+8).",
+    "end_at": "2025-12-08T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Tales of the Miraculous Nine - Eyes of Mana Citrine LEGEND FES",
+    "name": "Tales of the Miraculous Nine - Eyes of Mana Citrine LEGEND FES",
+    "start_at": "2025-11-28T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2322,
+    "description": "Make 50 Wishes with Paid Lodestar Gems to unlock an additional Wish!\nUntil 2025/12/08 11:59 (UTC+8).",
+    "end_at": "2025-12-08T03:00:00Z",
+    "name": "Tales of the Miraculous Nine - Eyes of Mana Citrine LEGEND FES [Paid Lodestar Gems Only]",
+    "start_at": "2025-11-28T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 2323,
+    "description": "Gou makes his debut! Featured rate increased to 2%!\nUntil 2025/12/22 11:59 (UTC+8).\n*Characters debuting in this Wish are limited-time only.\n Please check the in-game notices for details.",
+    "end_at": "2025-12-22T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": "Featured Rate 2%!",
+            "ticket_description": "Featured Rate 2%!"
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": "Featured Rate 2%!",
+            "ticket_description": "Featured Rate 2%!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Dim Recollection - Warrior of Burning Loyalty Gou LEGEND FES",
+    "name": "Dim Recollection - Warrior of Burning Loyalty Gou LEGEND FES",
+    "start_at": "2025-12-05T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2324,
+    "description": "Make 50 Wishes with Paid Stellastones to unlock additional Wishes!\nPickup rate increased to 2%!\nSTEP 5's ★3 character lineup features only Gu [Miraculous Nine No.5]!\nFeatured until 2025/12/22 11:59 (UTC+8).\n*Characters debuting in this Wish are limited-time.\n Please check the announcement for details.",
+    "end_at": "2025-12-22T03:00:00Z",
+    "name": "Fleeting Memories: Warrior of Burning Loyalty - Gu LEGEND FES [Paid Only]",
+    "start_at": "2025-12-05T03:00:00Z",
+    "step_up_loop_description": "{} cycles remaining"
+  },
+  {
+    "id": 3026,
+    "description": "Make 50 Wishes with Paid Stellastones to unlock additional Wishes!\nFeatured until 2025/12/12 11:59 (UTC+8).",
+    "end_at": "2025-12-12T03:00:00Z",
+    "name": "Reprint Season 2 Begins! Memory Tracer Valeria LEGEND FES [Paid Only]",
+    "start_at": "2025-11-28T03:00:00Z",
+    "step_up_loop_description": "{} cycles remaining"
+  },
+  {
+    "id": 3028,
+    "description": "Guarantees a ★3 character that debuted between 2025/03/06 and 2025/09/05!\nMax 3 times! Featured until 2025/12/01 11:59 (UTC+8).",
+    "end_at": "2025-12-01T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 30281,
+            "description": "{} times remaining!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Black Friday Commemorative ★3 Character Guaranteed Wish",
+    "name": "Black Friday Commemorative ★3 Character Guaranteed Wish",
+    "start_at": "2025-11-28T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 232201,
+    "description": "Limited to 5 times! Featured rate doubled!\nReceive 16 Medals. Featured until 2025/12/08 10:59 (UTC+8).",
+    "end_at": "2025-12-08T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10005,
+            "description": "Bonus included!\n{} wishes remaining!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Miraculous Nine: Magical Pupil Citrine LEGEND FES [Paid Limited]",
+    "name": "Miraculous Nine: Magical Pupil Citrine LEGEND FES [Paid Limited]",
+    "start_at": "2025-11-28T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 232401,
+    "description": "Limited to 5 times! Featured rate increased to 4%!\nReceive 16 Medals. Featured until 2025/12/22 10:59 (UTC+8).\n*Characters debuting in this wish are limited-time only.\n Please check the announcement for details.",
+    "end_at": "2025-12-22T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10005,
+            "description": "Bonus included!\n{} wishes remaining!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Dark Memories: Fiery Loyal Warrior Gou LEGEND FES [Paid Limited]",
+    "name": "Dark Memories: Fiery Loyal Warrior Gou LEGEND FES [Paid Limited]",
+    "start_at": "2025-12-05T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 302601,
+    "description": "Limited to 5 times! Featured rate doubled!\nReceive 16 Medals. Featured until 2025/12/12 10:59 (UTC+8).",
+    "end_at": "2025-12-12T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10005,
+            "description": "Bonus included!\n{} wishes remaining!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Reprint: Season 2 Begins! Memory Seeker Valeria LEGEND FES [Paid Limited]",
+    "name": "Reprint: Season 2 Begins! Memory Seeker Valeria LEGEND FES [Paid Limited]",
+    "start_at": "2025-11-28T03:00:00Z",
+    "step_up_loop_description": ""
   }
 ]

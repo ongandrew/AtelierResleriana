@@ -23554,5 +23554,701 @@
     "description": "Boosts target ally's damage dealt by 25% for 3 turns.",
     "name": "Relax",
     "summary": ""
+  },
+  {
+    "id": 32156,
+    "description": "Grants 1 ally with the highest P.ATK boosts critical damage by {0}% when HP is above 80% for 1 turn.",
+    "name": "Material Collector",
+    "summary": ""
+  },
+  {
+    "id": 32157,
+    "description": "Grants 1 ally with the highest P.ATK boosts critical damage by {0}% when HP is above 80% for 1 turn.",
+    "name": "Material Collector",
+    "summary": ""
+  },
+  {
+    "id": 11003250,
+    "description": "After attacking, boosts own P.ATK by {0}% (MAX 40%) and SPD by {1}% (MAX 20%).",
+    "name": "Radiale",
+    "summary": "After attacking, boosts own P.ATK and SPD."
+  },
+  {
+    "id": 11003251,
+    "description": "After attacking, boosts own P.ATK by {0}% (MAX 40%) and SPD by {1}% (MAX 20%).",
+    "name": "Radiale",
+    "summary": "After attacking, boosts own P.ATK and SPD."
+  },
+  {
+    "id": 11003252,
+    "description": "After attacking, boosts own P.ATK by {0}% (MAX 40%) and SPD by {1}% (MAX 20%).",
+    "name": "Radiale",
+    "summary": "After attacking, boosts own P.ATK and SPD."
+  },
+  {
+    "id": 11003253,
+    "description": "After attacking, boosts own P.ATK by {0}% (MAX 40%) and SPD by {1}% (MAX 20%).",
+    "name": "Radiale",
+    "summary": "After attacking, boosts own P.ATK and SPD."
+  },
+  {
+    "id": 11003254,
+    "description": "After attacking, boosts own P.ATK by {0}% (MAX 40%) and SPD by {1}% (MAX 20%).",
+    "name": "Radiale",
+    "summary": "After attacking, boosts own P.ATK and SPD."
+  },
+  {
+    "id": 12003255,
+    "description": "Boosts this attack's critical damage by {0}%.<br>Before attacking, reduces target's Stab resistance by {1}% for 1 attack.<br>After attacking, boosts own skill damage by {2}% and critical damage by {3}% for 2 turns, boosts own burst skill damage by {4}% (MAX 60%), and grants self Evasion ({5}% fixed chance) for 2 attacks.",
+    "name": "Nectere Pulvia",
+    "summary": "Boosts this attack's critical damage.<br>Before attacking, reduces target's Stab resistance.<br>After attacking, boosts own skill damage, critical damage, and burst skill damage. Grants self Evasion."
+  },
+  {
+    "id": 12003256,
+    "description": "Boosts this attack's critical damage by {0}%.<br>Before attacking, reduces target's Stab resistance by {1}% for 1 attack.<br>After attacking, boosts own skill damage by {2}% and critical damage by {3}% for 2 turns, boosts own burst skill damage by {4}% (MAX 60%), and grants self Evasion ({5}% fixed chance) for 2 attacks.",
+    "name": "Nectere Pulvia",
+    "summary": "Boosts this attack's critical damage.<br>Before attacking, reduces target's Stab resistance.<br>After attacking, boosts own skill damage, critical damage, and burst skill damage. Grants self Evasion."
+  },
+  {
+    "id": 12003257,
+    "description": "Boosts this attack's critical damage by {0}%.<br>Before attacking, reduces target's Stab resistance by {1}% for 1 attack.<br>After attacking, boosts own skill damage by {2}% and critical damage by {3}% for 2 turns, boosts own burst skill damage by {4}% (MAX 60%), and grants self Evasion ({5}% fixed chance) for 2 attacks.",
+    "name": "Nectere Pulvia",
+    "summary": "Boosts this attack's critical damage.<br>Before attacking, reduces target's Stab resistance.<br>After attacking, boosts own skill damage, critical damage, and burst skill damage. Grants self Evasion."
+  },
+  {
+    "id": 12003258,
+    "description": "Boosts this attack's critical damage by {0}%.<br>Before attacking, reduces target's Stab resistance by {1}% for 1 attack.<br>After attacking, boosts own skill damage by {2}% and critical damage by {3}% for 2 turns, boosts own burst skill damage by {4}% (MAX 60%), and grants self Evasion ({5}% fixed chance) for 2 attacks.",
+    "name": "Nectere Pulvia",
+    "summary": "Boosts this attack's critical damage.<br>Before attacking, reduces target's Stab resistance.<br>After attacking, boosts own skill damage, critical damage, and burst skill damage. Grants self Evasion."
+  },
+  {
+    "id": 12003259,
+    "description": "Boosts this attack's critical damage by {0}%.<br>Before attacking, reduces target's Stab resistance by {1}% for 1 attack.<br>After attacking, boosts own skill damage by {2}% and critical damage by {3}% for 2 turns, boosts own burst skill damage by {4}% (MAX 60%), and grants self Evasion ({5}% fixed chance) for 2 attacks.",
+    "name": "Nectere Pulvia",
+    "summary": "Boosts this attack's critical damage.<br>Before attacking, reduces target's Stab resistance.<br>After attacking, boosts own skill damage, critical damage, and burst skill damage. Grants self Evasion."
+  },
+  {
+    "id": 14003260,
+    "description": "Boosts this attack's critical damage by {0}%.<br>After attacking, boosts own P.ATK by {1}% and skill damage by {2}% for 2 turns, grants self 2 stacks of Citrine's Blessing (MAX 5 stacks), and grants self Evasion ({3}% fixed chance) for 1 attack.",
+    "name": "Lucidus Gemma",
+    "summary": "Boosts this attack's critical damage.<br>After attacking, boosts own P.ATK and skill damage.<br>Grants self Citrine's Blessing and Evasion."
+  },
+  {
+    "id": 14003261,
+    "description": "Boosts this attack's critical damage by {0}%.<br>After attacking, boosts own P.ATK by {1}% and skill damage by {2}% for 2 turns, grants self 2 stacks of Citrine's Blessing (MAX 5 stacks), and grants self Evasion ({3}% fixed chance) for 1 attack.",
+    "name": "Lucidus Gemma",
+    "summary": "Boosts this attack's critical damage.<br>After attacking, boosts own P.ATK and skill damage.<br>Grants self Citrine's Blessing and Evasion."
+  },
+  {
+    "id": 14003262,
+    "description": "Boosts this attack's critical damage by {0}%.<br>After attacking, boosts own P.ATK by {1}% and skill damage by {2}% for 2 turns, grants self 2 stacks of Citrine's Blessing (MAX 5 stacks), and grants self Evasion ({3}% fixed chance) for 1 attack.",
+    "name": "Lucidus Gemma",
+    "summary": "Boosts this attack's critical damage.<br>After attacking, boosts own P.ATK and skill damage.<br>Grants self Citrine's Blessing and Evasion."
+  },
+  {
+    "id": 14003263,
+    "description": "Boosts this attack's critical damage by {0}%.<br>After attacking, boosts own P.ATK by {1}% and skill damage by {2}% for 2 turns, grants self 2 stacks of Citrine's Blessing (MAX 5 stacks), and grants self Evasion ({3}% fixed chance) for 1 attack.",
+    "name": "Lucidus Gemma",
+    "summary": "Boosts this attack's critical damage.<br>After attacking, boosts own P.ATK and skill damage.<br>Grants self Citrine's Blessing and Evasion."
+  },
+  {
+    "id": 14003264,
+    "description": "Boosts this attack's critical damage by {0}%.<br>After attacking, boosts own P.ATK by {1}% and skill damage by {2}% for 2 turns, grants self 2 stacks of Citrine's Blessing (MAX 5 stacks), and grants self Evasion ({3}% fixed chance) for 1 attack.",
+    "name": "Lucidus Gemma",
+    "summary": "Boosts this attack's critical damage.<br>After attacking, boosts own P.ATK and skill damage.<br>Grants self Citrine's Blessing and Evasion."
+  },
+  {
+    "id": 14003265,
+    "description": "Before attacking, reduces target's Stab resistance by {0}% for 2 attacks.<br>After attacking, boosts own stun damage by {1}% (MAX 30%) and increases target's physical damage received by {2}% for 2 attacks.",
+    "name": "Gladius",
+    "summary": "Before attacking, reduces target's Stab resistance.<br>After attacking, boosts own stun damage.<br>Increases target's physical damage received."
+  },
+  {
+    "id": 14003266,
+    "description": "Before attacking, reduces target's Stab resistance by {0}% for 2 attacks.<br>After attacking, boosts own stun damage by {1}% (MAX 30%) and increases target's physical damage received by {2}% for 2 attacks.",
+    "name": "Gladius",
+    "summary": "Before attacking, reduces target's Stab resistance.<br>After attacking, boosts own stun damage.<br>Increases target's physical damage received."
+  },
+  {
+    "id": 14003267,
+    "description": "Before attacking, reduces target's Stab resistance by {0}% for 2 attacks.<br>After attacking, boosts own stun damage by {1}% (MAX 30%) and increases target's physical damage received by {2}% for 2 attacks.",
+    "name": "Gladius",
+    "summary": "Before attacking, reduces target's Stab resistance.<br>After attacking, boosts own stun damage.<br>Increases target's physical damage received."
+  },
+  {
+    "id": 14003268,
+    "description": "Before attacking, reduces target's Stab resistance by {0}% for 2 attacks.<br>After attacking, boosts own stun damage by {1}%. (MAX 30%)<br>Increases target's physical damage received by {2}% for 2 attacks.",
+    "name": "Gladius",
+    "summary": "Before attacking, reduces target's Stab resistance.<br>After attacking, boosts own stun damage.<br>Increases target's physical damage received."
+  },
+  {
+    "id": 14003269,
+    "description": "Before attacking, reduces target's Stab resistance by {0}% for 2 attacks.<br>After attacking, boosts own stun damage by {1}%. (MAX 30%)<br>Increases target's physical damage received by {2}% for 2 attacks.",
+    "name": "Gladius",
+    "summary": "Before attacking, reduces target's Stab resistance.<br>After attacking, boosts own stun damage.<br>Increases target's physical damage received."
+  },
+  {
+    "id": 14003270,
+    "description": "Before attacking, reduces target's Stab resistance by {0}%. (MAX 50%)<br>After attacking, boosts own stun damage by {1}% for 2 turns.<br>Increases target's damage received by {2}% and stun damage received by {3}% for 2 attacks.<br>When target is stunned, boosts skill damage by {4}% for 2 turns for all allies with Stab affinity or Nether Memories.",
+    "name": "Terra Fortitude",
+    "summary": "Before attacking, reduces target's Stab resistance.<br>After attacking, boosts own stun damage.<br>Increases target's damage received and stun damage received.<br>When target is stunned, boosts skill damage for all allies with Stab affinity or Nether Memories."
+  },
+  {
+    "id": 14003271,
+    "description": "Before attacking, reduces target's Stab resistance by {0}%. (MAX 50%)<br>After attacking, boosts own stun damage by {1}% for 2 turns.<br>Increases target's damage received by {2}% and stun damage received by {3}% for 2 attacks.<br>When target is stunned, boosts skill damage by {4}% for 2 turns for all allies with Stab affinity or Nether Memories.",
+    "name": "Terra Fortitude",
+    "summary": "Before attacking, reduces target's Stab resistance.<br>After attacking, boosts own stun damage.<br>Increases target's damage received and stun damage received.<br>When target is stunned, boosts skill damage for all allies with Stab affinity or Nether Memories."
+  },
+  {
+    "id": 14003272,
+    "description": "Before attacking, reduces target's Stab resistance by {0}%. (MAX 50%)<br>After attacking, boosts own stun damage by {1}% for 2 turns.<br>Increases target's damage received by {2}% and stun damage received by {3}% for 2 attacks.<br>When target is stunned, boosts skill damage by {4}% for 2 turns for all allies with Stab affinity or Nether Memories.",
+    "name": "Terra Fortitude",
+    "summary": "Before attacking, reduces target's Stab resistance.<br>After attacking, boosts own stun damage.<br>Increases target's damage received and stun damage received.<br>When target is stunned, boosts skill damage for all allies with Stab affinity or Nether Memories."
+  },
+  {
+    "id": 14003273,
+    "description": "Before attacking, reduces target's Stab resistance by {0}%. (MAX 50%)<br>After attacking, boosts own stun damage by {1}% for 2 turns.<br>Increases target's damage received by {2}% and stun damage received by {3}% for 2 attacks.<br>When target is stunned, boosts skill damage by {4}% for 2 turns for all allies with Stab affinity or Nether Memories.",
+    "name": "Terra Fortitude",
+    "summary": "Before attacking, reduces target's Stab resistance.<br>After attacking, boosts own stun damage.<br>Increases target's damage received and stun damage received.<br>When target is stunned, boosts skill damage for all allies with Stab affinity or Nether Memories."
+  },
+  {
+    "id": 14003274,
+    "description": "Before attacking, reduces target's Stab resistance by {0}%. (MAX 50%)<br>After attacking, boosts own stun damage by {1}% for 2 turns.<br>Increases target's damage received by {2}% and stun damage received by {3}% for 2 attacks.<br>When target is stunned, boosts skill damage by {4}% for 2 turns for all allies with Stab affinity or Nether Memories.",
+    "name": "Terra Fortitude",
+    "summary": "Before attacking, reduces target's Stab resistance.<br>After attacking, boosts own stun damage.<br>Increases target's damage received and stun damage received.<br>When target is stunned, boosts skill damage for all allies with Stab affinity or Nether Memories."
+  },
+  {
+    "id": 14003275,
+    "description": "Before attacking, reduces target's Stab resistance by {0}% for 3 attacks.<br>After attacking, boosts own stun damage by {1}% for 2 turns.<br>Increases target's damage received by {2}% (MAX 120%) and stun damage received by {3}%. (MAX 60%)<br>When target is stunned, boosts burst skill damage by {4}% for all allies with Stab affinity or Nether Memories. (MAX 150%)",
+    "name": "Aequivitas Venator",
+    "summary": "Before attacking, reduces target's Stab resistance.<br>After attacking, boosts own stun damage.<br>Increases target's damage received and stun damage received.<br>When target is stunned, boosts burst skill damage for all allies with Stab affinity or Nether Memories."
+  },
+  {
+    "id": 14003276,
+    "description": "Before attacking, reduces target's Stab resistance by {0}% for 3 attacks.<br>After attacking, boosts own stun damage by {1}% for 2 turns.<br>Increases target's damage received by {2}% (MAX 120%) and stun damage received by {3}%. (MAX 60%)<br>When target is stunned, boosts burst skill damage by {4}% for all allies with Stab affinity or Nether Memories. (MAX 150%)",
+    "name": "Aequivitas Venator",
+    "summary": "Before attacking, reduces target's Stab resistance.<br>After attacking, boosts own stun damage.<br>Increases target's damage received and stun damage received.<br>When target is stunned, boosts burst skill damage for all allies with Stab affinity or Nether Memories."
+  },
+  {
+    "id": 14003277,
+    "description": "Before attacking, reduces target's Stab resistance by {0}% for 3 attacks.<br>After attacking, boosts own stun damage by {1}% for 2 turns.<br>Increases target's damage received by {2}% (MAX 120%) and stun damage received by {3}%. (MAX 60%)<br>When target is stunned, boosts burst skill damage by {4}% for all allies with Stab affinity or Nether Memories. (MAX 150%)",
+    "name": "Aequivitas Venator",
+    "summary": "Before attacking, reduces target's Stab resistance.<br>After attacking, boosts own stun damage.<br>Increases target's damage received and stun damage received.<br>When target is stunned, boosts burst skill damage for all allies with Stab affinity or Nether Memories."
+  },
+  {
+    "id": 14003278,
+    "description": "Before attacking, reduces target's Stab resistance by {0}% for 3 attacks.<br>After attacking, boosts own stun damage by {1}% for 2 turns.<br>Increases target's damage received by {2}% (MAX 120%) and stun damage received by {3}%. (MAX 60%)<br>When target is stunned, boosts burst skill damage by {4}% for all allies with Stab affinity or Nether Memories. (MAX 150%)",
+    "name": "Aequivitas Venator",
+    "summary": "Before attacking, reduces target's Stab resistance.<br>After attacking, boosts own stun damage.<br>Increases target's damage received and stun damage received.<br>When target is stunned, boosts burst skill damage for all allies with Stab affinity or Nether Memories."
+  },
+  {
+    "id": 14003279,
+    "description": "Before attacking, reduces target's Stab resistance by {0}% for 3 attacks.<br>After attacking, boosts own stun damage by {1}% for 2 turns.<br>Increases target's damage received by {2}% (MAX 120%) and stun damage received by {3}%. (MAX 60%)<br>When target is stunned, boosts burst skill damage by {4}% for all allies with Stab affinity or Nether Memories. (MAX 150%)",
+    "name": "Aequivitas Venator",
+    "summary": "Before attacking, reduces target's Stab resistance.<br>After attacking, boosts own stun damage.<br>Increases target's damage received and stun damage received.<br>When target is stunned, boosts burst skill damage for all allies with Stab affinity or Nether Memories."
+  },
+  {
+    "id": 22001840,
+    "description": "After attacking, reduces target's SPD by 20% for 2 turns and inflicts Darkness for 2 turns.",
+    "name": "Woede Nibelheim",
+    "summary": ""
+  },
+  {
+    "id": 22001841,
+    "description": "After attacking, delays target's turn by 2 and restores own HP by 10%.",
+    "name": "Nat Tide",
+    "summary": ""
+  },
+  {
+    "id": 22001842,
+    "description": "After attacking, reduces target's HP recovery by 30% for 1 turn.",
+    "name": "Dead Doll",
+    "summary": ""
+  },
+  {
+    "id": 22001843,
+    "description": "No effects.",
+    "name": "Vargwooga",
+    "summary": ""
+  },
+  {
+    "id": 22001844,
+    "description": "After attacking, removes 5 positive effects from target and reduces target's damage dealt by 30% for 1 turn.",
+    "name": "Lässeritude",
+    "summary": ""
+  },
+  {
+    "id": 22001845,
+    "description": "After restoring all allies' HP by 20%, removes negative effects and grants Nullify Negative Effects for 1 turn.",
+    "name": "Leevritude",
+    "summary": ""
+  },
+  {
+    "id": 22001846,
+    "description": "After attacking, reduces target's damage dealt by 40% for 2 turns, increases target's damage received by 15% for 1 turn, and randomly inflicts 1 of the following effects (25%/1 turn): [Darkness, SPD Down, M. ATK Down]. Removes special state.",
+    "name": "Woede Helheim",
+    "summary": ""
+  },
+  {
+    "id": 22001847,
+    "description": "After attacking, delays target's turn by 2.",
+    "name": "Storm Tide",
+    "summary": ""
+  },
+  {
+    "id": 22001848,
+    "description": "No additional effects.",
+    "name": "Sturm Wooga",
+    "summary": ""
+  },
+  {
+    "id": 22001849,
+    "description": "After attacking, removes 3 positive effects from target.",
+    "name": "Sturm Rude",
+    "summary": ""
+  },
+  {
+    "id": 22001850,
+    "description": "After attacking, reduces target's speed by 20% for 2 turns and inflicts Darkness for 2 turns.",
+    "name": "Woode Nibelheim",
+    "summary": ""
+  },
+  {
+    "id": 22001851,
+    "description": "After attacking, delays target's turn by 2 turns and restores own HP by 10%.",
+    "name": "Nut Tide",
+    "summary": ""
+  },
+  {
+    "id": 22001852,
+    "description": "After attacking, reduces target's HP recovery by 30% for 1 turn.",
+    "name": "Dead Doll",
+    "summary": ""
+  },
+  {
+    "id": 22001853,
+    "description": "Restores all allies' HP by 20%, then removes negative effects and grants Nullify Negative Effects for 1 turn.",
+    "name": "Leaf Rude",
+    "summary": ""
+  },
+  {
+    "id": 22001854,
+    "description": "After attacking, reduces target's damage dealt by 40% for 2 turns, increases damage received by 15% for 1 turn, and randomly inflicts one of the following effects (25%/1 turn): [Darkness, Speed Down, M.ATK Down]. Removes special status.",
+    "name": "Woode Hellheim",
+    "summary": ""
+  },
+  {
+    "id": 22001855,
+    "description": "After attacking, delays target's turn by 2 turns.",
+    "name": "Sturm Tide",
+    "summary": ""
+  },
+  {
+    "id": 22001856,
+    "description": "No additional effects.",
+    "name": "Sturm Wooga",
+    "summary": ""
+  },
+  {
+    "id": 22001857,
+    "description": "After attacking, reduces target's speed by 20% for 2 turns and inflicts Darkness for 2 turns.",
+    "name": "Woode Nibelheim",
+    "summary": ""
+  },
+  {
+    "id": 22001858,
+    "description": "No additional effects.",
+    "name": "Varg Wooga",
+    "summary": ""
+  },
+  {
+    "id": 22001859,
+    "description": "After attacking, removes 5 positive effects from target and reduces damage dealt by 30% for 1 turn.",
+    "name": "Racelily Rude",
+    "summary": ""
+  },
+  {
+    "id": 22001860,
+    "description": "After attacking, reduces target's damage dealt by 40% for 2 turns, increases damage received by 15% for 1 turn, and randomly inflicts one of the following effects (25%/1 turn): [Darkness, Speed Down, M.ATK Down]. Removes special status.",
+    "name": "Woode Hellheim",
+    "summary": ""
+  },
+  {
+    "id": 22001861,
+    "description": "No additional effects.",
+    "name": "Sturm Wooga",
+    "summary": ""
+  },
+  {
+    "id": 22001862,
+    "description": "After attacking, removes 3 positive effects from target.",
+    "name": "Sturm Rude",
+    "summary": ""
+  },
+  {
+    "id": 22001863,
+    "description": "After attacking, reduces target's speed by 15% for 2 turns.",
+    "name": "Woode Nibelheim",
+    "summary": ""
+  },
+  {
+    "id": 22001864,
+    "description": "After attacking, delays target's turn by 2 turns.",
+    "name": "Mokel Tide",
+    "summary": ""
+  },
+  {
+    "id": 22001865,
+    "description": "After attacking, reduces target's HP recovery by 20% for 1 turn.",
+    "name": "Cielas Vade",
+    "summary": ""
+  },
+  {
+    "id": 22001866,
+    "description": "No additional effects.",
+    "name": "Shore Vade",
+    "summary": ""
+  },
+  {
+    "id": 22001867,
+    "description": "After attacking, reduces damage dealt by 30% for 1 turn.",
+    "name": "Unde Rude",
+    "summary": ""
+  },
+  {
+    "id": 22001895,
+    "description": "After attacking, inflicts Daze on target for 1 turn.",
+    "name": "Blue Wave",
+    "summary": ""
+  },
+  {
+    "id": 22001896,
+    "description": "After attacking, delays target's turn by 2.",
+    "name": "Splash",
+    "summary": ""
+  },
+  {
+    "id": 22001897,
+    "description": "No effect",
+    "name": "Leap On",
+    "summary": ""
+  },
+  {
+    "id": 22001898,
+    "description": "When own HP is 70% or higher, boosts skill damage by 20%.",
+    "name": "Fall Crash",
+    "summary": ""
+  },
+  {
+    "id": 22001899,
+    "description": "After attacking, boosts own SPD by 5% for 3 turns and reduces damage received by 20% for 3 turns.",
+    "name": "Wet Charge",
+    "summary": ""
+  },
+  {
+    "id": 22001900,
+    "description": "After attacking, inflicts Poison on target 8 times for 2 turns and grants self Regeneration (5%/2 turns).",
+    "name": "Death Spin",
+    "summary": ""
+  },
+  {
+    "id": 22001901,
+    "description": "No effect",
+    "name": "Ice Step",
+    "summary": ""
+  },
+  {
+    "id": 22001902,
+    "description": "After attacking, inflicts Poison on target 3 times for 2 turns and grants self Regeneration (5%/2 turns).",
+    "name": "Ice Mist",
+    "summary": ""
+  },
+  {
+    "id": 22001903,
+    "description": "After attacking, converts target's boost panels to empty panels.",
+    "name": "Pounding Downpour",
+    "summary": ""
+  },
+  {
+    "id": 22001904,
+    "description": "No effect",
+    "name": "Assault Glacier",
+    "summary": ""
+  },
+  {
+    "id": 22001905,
+    "description": "After attacking, increases target's damage received by 20% for 2 turns.",
+    "name": "Ice Burn",
+    "summary": ""
+  },
+  {
+    "id": 22001906,
+    "description": "No effect",
+    "name": "Ice Crash",
+    "summary": ""
+  },
+  {
+    "id": 22001907,
+    "description": "No effect",
+    "name": "Buster Arm",
+    "summary": ""
+  },
+  {
+    "id": 22001908,
+    "description": "After attacking, reduces target's stun damage dealt by 20% for 1 turn.",
+    "name": "Heavy Flail",
+    "summary": ""
+  },
+  {
+    "id": 22001909,
+    "description": "Grants all allies Damage Received Down (30%/1 turn) and Stun Damage Received Down (30%/1 turn).",
+    "name": "Defensive Call",
+    "summary": ""
+  },
+  {
+    "id": 22001910,
+    "description": "After attacking, creates a boost panel on own next turn and boosts damage dealt by 30% for 3 turns.",
+    "name": "Sand Devourer",
+    "summary": ""
+  },
+  {
+    "id": 22001911,
+    "description": "No effect",
+    "name": "Heavy Bite",
+    "summary": ""
+  },
+  {
+    "id": 22001912,
+    "description": "After attacking, reduces target's critical rate by 30% for 3 turns.",
+    "name": "Heat Lock",
+    "summary": ""
+  },
+  {
+    "id": 22001913,
+    "description": "After attacking, increases all enemies' damage received by 30% for 3 turns.",
+    "name": "Fire Breath",
+    "summary": ""
+  },
+  {
+    "id": 22001914,
+    "description": "Removes all status effects from all allies, restores 15% HP, and grants Status Effect Immunity for 1 turn.",
+    "name": "Protective Howl",
+    "summary": ""
+  },
+  {
+    "id": 22001915,
+    "description": "No additional effects.",
+    "name": "Breeze",
+    "summary": ""
+  },
+  {
+    "id": 22001916,
+    "description": "After attacking, boosts own damage dealt by 20% for 2 turns.",
+    "name": "Bite",
+    "summary": ""
+  },
+  {
+    "id": 22001917,
+    "description": "After attacking, reduces stun damage dealt of all enemies by 20% for 2 turns.",
+    "name": "Dark Rock Fall",
+    "summary": ""
+  },
+  {
+    "id": 22001918,
+    "description": "After attacking, reduces target's stun damage dealt by 30% for 2 turns and reduces target's HP recovery received by 30% for 2 turns.",
+    "name": "Blood Fang",
+    "summary": ""
+  },
+  {
+    "id": 32003566,
+    "description": "After attacking, grants self Nullify Negative Effects for 2 turns and reduces own damage received by 30% for 3 turns.",
+    "name": "Great Heavy Storm",
+    "summary": ""
+  },
+  {
+    "id": 32003567,
+    "description": "No additional effects.",
+    "name": "Try Slash",
+    "summary": ""
+  },
+  {
+    "id": 32003568,
+    "description": "After attacking, increases target's damage received by 10% for 2 turns and reduces target's M.ATK by 20% for 3 turns.",
+    "name": "Threatening Claws",
+    "summary": ""
+  },
+  {
+    "id": 32003569,
+    "description": "After attacking, delays target's turn by 2 and reduces target's SPD by 10% for 1 turn.",
+    "name": "Breeze Ribbon",
+    "summary": ""
+  },
+  {
+    "id": 32003571,
+    "description": "After attacking, reduces target's Air resistance by 20 for 2 turns.",
+    "name": "Heavy Storm",
+    "summary": ""
+  },
+  {
+    "id": 32003572,
+    "description": "Boosts own damage dealt by 15% for 2 turns and reduces negative effect potency by 50% for 2 turns.",
+    "name": "Rallying Roar",
+    "summary": ""
+  },
+  {
+    "id": 32003573,
+    "description": "After attacking, grants self Nullify Negative Effects for 2 turns and reduces own damage received by 30% for 3 turns.",
+    "name": "Great Heavy Storm",
+    "summary": ""
+  },
+  {
+    "id": 32003574,
+    "description": "No additional effects.",
+    "name": "Try Slash",
+    "summary": ""
+  },
+  {
+    "id": 32003575,
+    "description": "After attacking, increases target's damage received by 10% for 2 turns and reduces target's M.ATK by 20% for 3 turns.",
+    "name": "Threatening Claws",
+    "summary": ""
+  },
+  {
+    "id": 32003577,
+    "description": "After attacking, delays target's turn by 2 and reduces target's SPD by 10% for 1 turn.",
+    "name": "Breeze Ribbon",
+    "summary": ""
+  },
+  {
+    "id": 32003579,
+    "description": "After attacking, reduces target's Air resistance by 20 for 2 turns.",
+    "name": "Heavy Storm",
+    "summary": ""
+  },
+  {
+    "id": 32003581,
+    "description": "Boosts own damage dealt by 15% for 2 turns and reduces negative effect potency by 50% for 2 turns.",
+    "name": "Rallying Roar",
+    "summary": ""
+  },
+  {
+    "id": 32003622,
+    "description": "No additional effects.",
+    "name": "Strike Axe",
+    "summary": ""
+  },
+  {
+    "id": 32003633,
+    "description": "After attacking, reduces target's P.DEF by 25% for 2 turns.",
+    "name": "Protray",
+    "summary": ""
+  },
+  {
+    "id": 32003644,
+    "description": "No additional effects.",
+    "name": "Primal Stroke",
+    "summary": ""
+  },
+  {
+    "id": 32003655,
+    "description": "No additional effects.",
+    "name": "Ancient Blast",
+    "summary": ""
+  },
+  {
+    "id": 32003666,
+    "description": "Boosts target's P.DEF by 25%, reduces magical damage received by 50%, and boosts SPD by 10% for 2 turns.",
+    "name": "Ancient Power",
+    "summary": ""
+  },
+  {
+    "id": 32003677,
+    "description": "After attacking, reduces target's M.ATK by 30% for 2 turns with 35% chance and reduces P.ATK by 30% for 2 turns with 35% chance.",
+    "name": "Intense Vibration",
+    "summary": ""
+  },
+  {
+    "id": 32003688,
+    "description": "No additional effects.",
+    "name": "Heavy Strike",
+    "summary": ""
+  },
+  {
+    "id": 32003699,
+    "description": "No additional effects.",
+    "name": "Explosive Fist",
+    "summary": ""
+  },
+  {
+    "id": 32003710,
+    "description": "No additional effects.",
+    "name": "Hellfire Surge",
+    "summary": ""
+  },
+  {
+    "id": 32003721,
+    "description": "No additional effects.",
+    "name": "Swing",
+    "summary": ""
+  },
+  {
+    "id": 32003732,
+    "description": "Reduces own damage received by 40% for 3 turns.",
+    "name": "Defensive Stance",
+    "summary": ""
+  },
+  {
+    "id": 32003743,
+    "description": "No additional effects.",
+    "name": "Strike Axe",
+    "summary": ""
+  },
+  {
+    "id": 32003754,
+    "description": "After attacking, reduces target's P.DEF by 25% for 2 turns.",
+    "name": "Proto Ray",
+    "summary": ""
+  },
+  {
+    "id": 32003765,
+    "description": "No additional effects.",
+    "name": "Primal Stroke",
+    "summary": ""
+  },
+  {
+    "id": 32003776,
+    "description": "No additional effects.",
+    "name": "Ancient Blast",
+    "summary": ""
+  },
+  {
+    "id": 32003787,
+    "description": "Boosts target's P.DEF by 25%, reduces magical damage received by 50%, and boosts SPD by 10% for 2 turns.",
+    "name": "Ancient Power",
+    "summary": ""
+  },
+  {
+    "id": 32003798,
+    "description": "After attacking, reduces skill target's SPD by 15% permanently.",
+    "name": "Glide",
+    "summary": ""
+  },
+  {
+    "id": 32003809,
+    "description": "No additional effects.",
+    "name": "White Breath",
+    "summary": ""
+  },
+  {
+    "id": 32003820,
+    "description": "No additional effects.",
+    "name": "Giga White Breath",
+    "summary": ""
+  },
+  {
+    "id": 32003831,
+    "description": "No additional effects.",
+    "name": "Storm",
+    "summary": ""
   }
 ]

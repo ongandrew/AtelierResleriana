@@ -1,0 +1,580 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "着いた……ちゃんと地面だ！",
+        "localizations": {
+          "en": "We made it... Solid ground!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "ここが北の果て、オーベンランド……",
+        "localizations": {
+          "en": "So this is Obenland, the edge of the north..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "わぁー。人が住んでるんすねえ",
+        "localizations": {
+          "en": "Wow. People actually live here, huh?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "見た感じ、港に近い玄関口でも家屋はまばら……\nつつましい漁村だね",
+        "localizations": {
+          "en": "From what I can see, even near the harbor entrance, the houses are few and far between... It looks like a humble fishing village."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "わたしの故郷も小さな漁村でしたけど、\n比べものにならないくらい寂れてますね……",
+        "localizations": {
+          "en": "My hometown was a small fishing village too, but this place makes it look bustling by comparison..."
+        }
+      },
+      "2072370017": {
+        "text": "トトリ",
+        "localizations": {
+          "en": "Totori"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "あっ、第一島民発見！\u3000すみませーん",
+        "localizations": {
+          "en": "Oh, first local spotted! Excuse me!"
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "こりゃ驚いた。\nでっかい船……あんたら、外から来た人たちかい",
+        "localizations": {
+          "en": "Well, I'll be. That's a big ship... You folks come from outside?"
+        }
+      },
+      "2072370017": {
+        "text": "村人",
+        "localizations": {
+          "en": "Villager"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "はい！\u3000ノーヴァ神聖国って所から\n遥々やって来ました",
+        "localizations": {
+          "en": "Yes! We traveled all the way from a place called Nova."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "……？\u3000初めて聞く国だねえ。\nま、たまに来るんだよ。あんたらみたいな物好きが",
+        "localizations": {
+          "en": "...? Never heard of it. Well, we get visitors like you every now and then. Curious types."
+        }
+      },
+      "2072370017": {
+        "text": "村人",
+        "localizations": {
+          "en": "Villager"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "あはは、物好きですみません",
+        "localizations": {
+          "en": "Ahaha, sorry for being curious."
+        }
+      },
+      "2072370017": {
+        "text": "ライザ",
+        "localizations": {
+          "en": "Ryza"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "見ての通り、この島はなんもないよ。\n獲れるのも魚ばかりだが、食べてくかい？",
+        "localizations": {
+          "en": "As you can see, there's nothing much on this island. All we've got is fish, but you're welcome to stay for a meal if you like."
+        }
+      },
+      "2072370017": {
+        "text": "村人",
+        "localizations": {
+          "en": "Villager"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "食べる！\nその土地の名物料理は旅の楽しみよね！",
+        "localizations": {
+          "en": "We'll take it! Sampling the local cuisine is one of the best parts of traveling!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "それは後にしよう、ヴァレリアが本気を出すと\n村の備蓄が底をついてしまうかもしれないし",
+        "localizations": {
+          "en": "Perhaps we should save that for later. If Valeria gets serious, the village's entire food supply might disappear."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "ところで、何もないと仰いますが、\nこのようなものはありませんか？",
+        "localizations": {
+          "en": "By the way, you mentioned there's nothing here, but have you seen anything like this?"
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "ああ、その石ころかい？\nあっちの荒れ地にたくさん転がってるよ",
+        "localizations": {
+          "en": "Oh, that rock? There's plenty of those scattered around the wastelands over there."
+        }
+      },
+      "2072370017": {
+        "text": "村人",
+        "localizations": {
+          "en": "Villager"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "やはり……海の果てにほど近いこの地にも\n手付かずのマナが眠っている……！",
+        "localizations": {
+          "en": "Just as I thought... Even here, at the edge of the sea, untouched mana lies dormant...!"
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "星から降り注いだマナが、\n今なお大量に眠っているといわれている地……",
+        "localizations": {
+          "en": "A land where mana that fell from the stars is said to still slumber in vast quantities..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "師匠の言ってた通りだ……！",
+        "localizations": {
+          "en": "Just like Miss Saskia said...!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "何がそんなに嬉しいのかね？\n煮ても焼いても食えない石ころなんかが",
+        "localizations": {
+          "en": "What's got you so excited? They're just rocks you can't eat, no matter how you cook 'em."
+        }
+      },
+      "2072370017": {
+        "text": "村人",
+        "localizations": {
+          "en": "Villager"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "まあ、錬金術が使えないと意味ないっすもんねえ",
+        "localizations": {
+          "en": "Well, they're pretty useless unless you can use alchemy."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "長い船旅をしてでも採掘する価値はある。\nここは本国に連絡を……喜ぶぞ、兄上は",
+        "localizations": {
+          "en": "They're worth the long sea voyage to mine. I should contact the capital... My brother will be thrilled."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "ロマンさん！\u3000それも大切ですけど！\n果ての大陸の伝承についても聞かなくちゃ！",
+        "localizations": {
+          "en": "Roman! That's important, but we need to ask about the legends of World's End too!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "果ての大陸ってのは知らないが……\nそれだったら裏の婆さんに聞いてみたらどうだい？",
+        "localizations": {
+          "en": "Don't know anything about World's End... But if you're looking for stories like that, try talking to the old woman out back."
+        }
+      },
+      "2072370017": {
+        "text": "村人",
+        "localizations": {
+          "en": "Villager"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "この村でも一番の古株だからな。\n言い伝えなんかには詳しいはずだ",
+        "localizations": {
+          "en": "She's been here longer than anyone. If anyone knows the old tales, it's her."
+        }
+      },
+      "2072370017": {
+        "text": "村人",
+        "localizations": {
+          "en": "Villager"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "ほう、果ての大陸……これはまた懐かしい名前を聞いた",
+        "localizations": {
+          "en": "Oh my, World's End... Now that's a name I haven't heard in ages."
+        }
+      },
+      "2072370017": {
+        "text": "お婆さん",
+        "localizations": {
+          "en": "Old Woman"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "ご存じなんですか！？",
+        "localizations": {
+          "en": "You know about it?!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "多くの宝物が眠る理想郷……\n今では、その名を語る者はほとんどおらんがの",
+        "localizations": {
+          "en": "A promised land filled with treasure... These days, hardly anyone speaks of it anymore."
+        }
+      },
+      "2072370017": {
+        "text": "お婆さん",
+        "localizations": {
+          "en": "Old Woman"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "わしらの先祖たちは、\nそれを目指してこの場所まで流れ着いたのじゃ",
+        "localizations": {
+          "en": "Our ancestors washed ashore here while seeking that very place."
+        }
+      },
+      "2072370017": {
+        "text": "お婆さん",
+        "localizations": {
+          "en": "Old Woman"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "そうか。ここオーベンランドには、かつて果ての大陸を\n目指した冒険者たちが住みついていたんだ！",
+        "localizations": {
+          "en": "I see. So Obenland was settled by adventurers who once sought World's End!"
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "となると、やはりこの先に果ての大陸が……！？",
+        "localizations": {
+          "en": "Then World's End really does lie beyond here...?!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "決まりっすね！\u3000補給したら早速北へ――",
+        "localizations": {
+          "en": "That settles it! Once we resupply, we head north—"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "やはりアンタらもか……！\u3000やめなされ……！",
+        "localizations": {
+          "en": "So you're another one...! Don't do it...!"
+        }
+      },
+      "2072370017": {
+        "text": "お婆さん",
+        "localizations": {
+          "en": "Old Woman"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "え？",
+        "localizations": {
+          "en": "Huh?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "これより北は大魔境……「暗黒の氷海」！\n命が惜しくば、諦めて引き返すことじゃ",
+        "localizations": {
+          "en": "Beyond here lies a cursed expanse—the Dark Frozen Sea! If you value your lives, turn back now while you still can."
+        }
+      },
+      "2072370017": {
+        "text": "お婆さん",
+        "localizations": {
+          "en": "Old Woman"
+        }
+      }
+    }
+  }
+]

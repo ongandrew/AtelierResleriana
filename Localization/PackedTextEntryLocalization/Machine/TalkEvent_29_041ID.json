@@ -1,0 +1,784 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "はぁ……アタシ、なにしてるんだろ。\nもう無理だって分かってるのに……",
+        "localizations": {
+          "en": "Sigh... What am I even doing? I already know it's impossible, but..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "苦しそうですね。私が楽にしてあげましょうか？",
+        "localizations": {
+          "en": "You seem to be suffering. Shall I put you at ease?"
+        }
+      },
+      "2072370017": {
+        "text": "カロリン",
+        "localizations": {
+          "en": "Karoline"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "……命を奪う的な意味じゃないよね？",
+        "localizations": {
+          "en": "...You don't mean in a 'take my life' kind of way, right?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "違います。悩み相談ですよ。\n私、こう見えてもシスターですので",
+        "localizations": {
+          "en": "Of course not. I'm offering to listen to your troubles. I am a sister, after all."
+        }
+      },
+      "2072370017": {
+        "text": "カロリン",
+        "localizations": {
+          "en": "Karoline"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "そりゃあ、どう見てもシスターだけど……",
+        "localizations": {
+          "en": "Well, you certainly look like one..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "もし嫌でなければ、悩みを告白してみませんか？\n吐き出すだけでも、多少は楽になるものですよ",
+        "localizations": {
+          "en": "If you don't mind, why not confess what's troubling you? Simply letting it out can bring some relief."
+        }
+      },
+      "2072370017": {
+        "text": "カロリン",
+        "localizations": {
+          "en": "Karoline"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "……アタシはさ。英雄に憧れてたんだよ。\nおとぎ話に出てくるような、世界を救う英雄に",
+        "localizations": {
+          "en": "...I always wanted to be a hero. Like the ones in fairy tales who save the world."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "でも、この間のことで……\nやっぱり無理だなって思っちゃったんだ",
+        "localizations": {
+          "en": "But after what happened... I realized it's just not possible."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "アタシは、レスナやヴァレリアみたいにはなれない。\nここがアタシの……凡人の限界なんだって",
+        "localizations": {
+          "en": "I can't be like Resna or Valeria. This is my limit... an ordinary person's limit."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "……そうですね。人には誰しも得手不得手、\n向き不向きというものがありますから",
+        "localizations": {
+          "en": "...I see. Everyone has their strengths and weaknesses, things they're suited for and things they're not."
+        }
+      },
+      "2072370017": {
+        "text": "カロリン",
+        "localizations": {
+          "en": "Karoline"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "「やりたいこと」と「できること」の間には、\nどうしても壁が存在します",
+        "localizations": {
+          "en": "Between 'what you want to do' and 'what you can do,' there will always be a wall."
+        }
+      },
+      "2072370017": {
+        "text": "カロリン",
+        "localizations": {
+          "en": "Karoline"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "そうだよね……",
+        "localizations": {
+          "en": "Yeah..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "ですが……先ほども、アルビーナさんは\nレスナさんたちの様子を気にしていらっしゃいました",
+        "localizations": {
+          "en": "However... just now, you were asking about how Resna and the others are doing."
+        }
+      },
+      "2072370017": {
+        "text": "カロリン",
+        "localizations": {
+          "en": "Karoline"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "もしかして、彼女たちと共に行きたい……と、\nまだ思っているのではないですか？",
+        "localizations": {
+          "en": "Could it be that you still want to go with them?"
+        }
+      },
+      "2072370017": {
+        "text": "カロリン",
+        "localizations": {
+          "en": "Karoline"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "…………",
+        "localizations": {
+          "en": "......"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "……そりゃ、行きたいよ。\nでも、アタシには無理なんだって……",
+        "localizations": {
+          "en": "...Of course I want to go. But I can't..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "アタシには二人の横に立つ資格がない。\n二人みたいな、英雄にはなれない……！",
+        "localizations": {
+          "en": "I don't have what it takes to stand beside them. I can't be a hero like they are...!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "横には立てないけどさ、まったく無力でもないわけで。\n後ろから、背中を支えるくらいはしたいかなって",
+        "localizations": {
+          "en": "I can't stand next to them, but I'm not completely useless either. I thought maybe I could at least support them from behind."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "それならアタシにもできる、と思ったんだけど。\n……やっぱり、辛いな",
+        "localizations": {
+          "en": "I thought that was something I could do, but... it still hurts."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "アルビーナさんの「やりたいこと」は、\n今も変わっていないのですね",
+        "localizations": {
+          "en": "So 'what you want to do' hasn't changed at all."
+        }
+      },
+      "2072370017": {
+        "text": "カロリン",
+        "localizations": {
+          "en": "Karoline"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "……うん。そんな、簡単には変えられないよ。\n子どもの頃から、ずっと憧れてきたことなんだもん",
+        "localizations": {
+          "en": "...Yeah. It's not something I can just change that easily. I've wanted this since I was a kid."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "ならば、話は単純ですとも",
+        "localizations": {
+          "en": "Then the answer is quite simple."
+        }
+      },
+      "2072370017": {
+        "text": "カロリン",
+        "localizations": {
+          "en": "Karoline"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "いっ！？\u3000カロリンさん、何を！？",
+        "localizations": {
+          "en": "Eek!? Karoline, what are you—!?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "あなたの目の前を阻んでいる壁を、\n壊してしまえば良いのです。ばん、ばん、どかーんと",
+        "localizations": {
+          "en": "You simply need to destroy the wall standing in your way. Bam, bam, kaboom!"
+        }
+      },
+      "2072370017": {
+        "text": "カロリン",
+        "localizations": {
+          "en": "Karoline"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "こ、壊すったって……",
+        "localizations": {
+          "en": "D-Destroy it? But..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "昔、教会に駆け込んできたある女性がいました。\n彼女は何度もくじけ、辛いことから逃げてきたそうです",
+        "localizations": {
+          "en": "Long ago, a woman came to the church. She had given up many times and run from hardship."
+        }
+      },
+      "2072370017": {
+        "text": "カロリン",
+        "localizations": {
+          "en": "Karoline"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "ですが、彼女はまた立ち上がり、自らを阻む壁を\n壊してみせた。私は彼女から勇気をもらいました",
+        "localizations": {
+          "en": "But she stood back up and destroyed the walls blocking her path. She gave me courage."
+        }
+      },
+      "2072370017": {
+        "text": "カロリン",
+        "localizations": {
+          "en": "Karoline"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "そして、思ったのです。英雄とは、くじけず立ち向かう\n者ではなく……何度くじけても立ち上がれる者だと",
+        "localizations": {
+          "en": "And I realized something. A hero isn't someone who never falls—it's someone who can stand back up no matter how many times they fall."
+        }
+      },
+      "2072370017": {
+        "text": "カロリン",
+        "localizations": {
+          "en": "Karoline"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "立ち上がれる……者",
+        "localizations": {
+          "en": "Someone who can... stand back up."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "……アタシに、できるかな？",
+        "localizations": {
+          "en": "...Can I do that?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "できるわ！\u3000姉様なら！",
+        "localizations": {
+          "en": "You can! I know you can, Sister!"
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "うぇ！？\u3000みんな、いつの間に！？",
+        "localizations": {
+          "en": "Whoa!? Everyone, when did you get here!?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "ごめん。邪魔しちゃ悪いかと思って……",
+        "localizations": {
+          "en": "Sorry. We didn't want to interrupt..."
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "アルビーナ。あなたに足りないのは覚悟とか資格とか、\nそんな曖昧なものじゃないわ",
+        "localizations": {
+          "en": "Alvina. What you're lacking isn't resolve or qualifications or anything vague like that."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "え？",
+        "localizations": {
+          "en": "Huh?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "場数と鍛錬。\n要するに、あなたには経験がまだまだ足りない",
+        "localizations": {
+          "en": "It's experience and training. Simply put, you haven't been through enough yet."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "私やベップちゃん……レスナちゃんたちもきっと、\nあなたよりも多くの修羅場をくぐってきてるはず",
+        "localizations": {
+          "en": "Bepp and I... and Resna and the others, I'm sure—we've all faced more battles than you have."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "私だって、あの海の恐ろしさは身をもって感じたわ。\nでも、心が折れなかったのは、その経験があったから",
+        "localizations": {
+          "en": "I felt the terror of that sea too. But I didn't break because of all the experience I had."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "アタシに足りないのは、経験……",
+        "localizations": {
+          "en": "What I'm lacking is... experience."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "怖いというのは自分と相手の力量差を測れた証拠……\n調査隊の誰かが昔そう言ってた",
+        "localizations": {
+          "en": "Being afraid means you can measure the gap between your strength and theirs... Someone on the research team once told me that."
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "アルビーナが怖いと思うのは、むしろ状況をちゃんと\n分析できてるってことだと思う",
+        "localizations": {
+          "en": "The fact that you're scared means you're properly analyzing the situation."
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "力量差が縮まれば、その怖さも軽くなるはず。\n自信をつける手伝いなら、喜んでするよ",
+        "localizations": {
+          "en": "If you close that gap, the fear will fade. I'd be happy to help you build your confidence."
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "筋肉は裏切らない……",
+        "localizations": {
+          "en": "Muscles never lie..."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 43,
+    "properties": {
+      "999008199": {
+        "text": "みんな……もう、お節介なんだから。\nでも……ありがとう",
+        "localizations": {
+          "en": "Everyone... You're all such meddlers. But... thank you."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 44,
+    "properties": {
+      "999008199": {
+        "text": "英雄になれるかなんて分かんないし、\n普通はなれないんだろうけど……",
+        "localizations": {
+          "en": "I don't know if I'll ever become a hero. Most people never do..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 45,
+    "properties": {
+      "999008199": {
+        "text": "英雄になりたいって気持ちは、\n絶対に、嘘じゃなかったから！",
+        "localizations": {
+          "en": "But wanting to be a hero—that feeling was never a lie!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  }
+]

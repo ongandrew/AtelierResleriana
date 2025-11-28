@@ -1,0 +1,665 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "ただいま～……って、随分埃っぽいわね",
+        "localizations": {
+          "en": "We're home... Wow, it's really dusty in here."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "ここしばらく一家全員、家を空けてたからな……\nなんで家ってのは人がいないとボロくなるんだ？",
+        "localizations": {
+          "en": "Well, the whole family's been away for a while now... Why do houses always fall apart when nobody's around?"
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "はいはい、愚痴らないで\nまずは掃除からしましょ～",
+        "localizations": {
+          "en": "All right, all right, quit your griping. Let's start with some cleaning."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "桶にお水、汲んできますね！",
+        "localizations": {
+          "en": "I'll go fetch some water in a bucket!"
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "天使ちゃんに力仕事はさせらんねぇ。\n俺が汲んでくらぁ！",
+        "localizations": {
+          "en": "Can't let an angel do all the heavy lifting. I'll get it!"
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "いやあ、勝手知ったる我が家は\nやっぱり落ち着きますなぁ",
+        "localizations": {
+          "en": "Ahh, there's nothing quite like being back in your own home."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "私には、実家の屋敷よりも\nこっちのほうが性に合ってるよ",
+        "localizations": {
+          "en": "This place suits me better than my family's estate ever did."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "第二の故郷ってことですね",
+        "localizations": {
+          "en": "So it's like a second home for you?"
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "そそ。教会もあるから第三の故郷かもだけど",
+        "localizations": {
+          "en": "Exactly. Though with the church, maybe it's my third home."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "まったく、野良猫どもが住みついちまって\nありがた迷惑だ。な、天使ちゃん？",
+        "localizations": {
+          "en": "Honestly, all these stray cats moving in... What a pain. Right, angel?"
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "ふふふ、それじゃあフロッケも野良猫ですね？",
+        "localizations": {
+          "en": "Hehe, does that make me a stray cat too?"
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "フロッケは家族だろうが。たとえ猫でも、\n猫天使ちゃんだって！",
+        "localizations": {
+          "en": "You're family! Even if you were a cat, you'd be an angel cat!"
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "あはは、なにそれ、猫天使って",
+        "localizations": {
+          "en": "Ahaha, what's that supposed to mean? An angel cat?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "じゃあ私は猫悪魔だにゃん！",
+        "localizations": {
+          "en": "Then I guess I'm a devil cat, meow!"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "……アルビーナ、今どうしてるかな",
+        "localizations": {
+          "en": "...I wonder what Alvina's doing right now."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "今頃はあの子も家に戻ってる頃じゃない？",
+        "localizations": {
+          "en": "She's probably back home by now too, don't you think?"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "少しは元気出たかしら……",
+        "localizations": {
+          "en": "I hope she's feeling a bit better..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "どうかな。結構根深い問題な気はするからなあ……",
+        "localizations": {
+          "en": "Hard to say. It seems like a pretty deep-rooted issue..."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "でもあの子だって、できることならあんたや、\nレスナたちと一緒にいたいと思ってるはずだよ",
+        "localizations": {
+          "en": "But if she had her way, I'm sure she'd want to be with you and Resna and everyone."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "だから、アルビーナを信じて\n気長に待つしかないんじゃない？",
+        "localizations": {
+          "en": "So we just have to trust in Alvina and wait patiently, don't we?"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "そうね……",
+        "localizations": {
+          "en": "Yeah..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "ベップさんやヤンネさんもついてますから、\nきっと大丈夫ですよ",
+        "localizations": {
+          "en": "She has Bepp and Janne with her, so I'm sure she'll be okay."
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "カロリンもあっちに残ってくれてるしね。\n悩める子羊を導くのはお手のものだ",
+        "localizations": {
+          "en": "And Karoline stayed behind too. She's great at guiding lost lambs."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "シスターさんですもんね",
+        "localizations": {
+          "en": "Well, she is a sister."
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "きっと、ちゃんと折り合いをつけて\n立ち直ってくれるさ",
+        "localizations": {
+          "en": "I'm sure she'll come to terms with things and bounce back."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "ただ、これからも一緒に冒険できるかは……\nあの子次第だろうけどね",
+        "localizations": {
+          "en": "Though whether she'll keep adventuring with us... that's up to her."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "戻ってきてほしいわね……\nせっかくここまで一緒にやってきたから",
+        "localizations": {
+          "en": "I hope she comes back... We've come so far together."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "それは私も同じ気持ち。\nま、私はまだ会って間もないけどさ",
+        "localizations": {
+          "en": "I feel the same way. Though I haven't known her that long."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "いざという時、\nああいう風に考えられる子が一緒だと心強いよ",
+        "localizations": {
+          "en": "When things get rough, it's reassuring to have someone who can think like that around."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "ああいう風って、どういう風？",
+        "localizations": {
+          "en": "Think like what?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "何かヤバいことに直面したら、\n冷静に逃げる判断ができるってこと",
+        "localizations": {
+          "en": "Someone who can stay calm and make the call to retreat when something dangerous comes up."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "前々から思ってたけど、無茶しすぎなんだよ。\nあんたも、レスナも",
+        "localizations": {
+          "en": "I've been thinking this for a while, but you two push yourselves way too hard. Both you and Resna."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "レスナは目的のためなら一直線だし、\nあんたは自分が犠牲になっても構わないってタチだし",
+        "localizations": {
+          "en": "Resna charges straight ahead for her goals, and you're the type who doesn't mind sacrificing yourself."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "……それって、私が記憶を失くした時のことよね？",
+        "localizations": {
+          "en": "...You're talking about when I lost my memory, right?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "その前にも何度も！\u3000ホント、今生きてるのが奇跡だよ",
+        "localizations": {
+          "en": "And plenty of times before that! Honestly, it's a miracle you're still alive."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "聞く限り、ほとんど不死身よね、私。\n気を付けるわ",
+        "localizations": {
+          "en": "From what I've heard, I'm basically indestructible. I'll be more careful."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "そりゃ、絶対できるって気持ちでやるのは大事だけど、\n無理なもんは無理だって受け入れることも必要だよ",
+        "localizations": {
+          "en": "Sure, it's important to go in with confidence, but you also need to accept when something's just not possible."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "１回足を止めて、他に道がないか探してみる。\nアルビーナはそういう判断ができる子だと思う",
+        "localizations": {
+          "en": "Take a step back and look for another way forward. I think Alvina's the kind of person who can make that call."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "きっと、これからの旅に必要な存在だ",
+        "localizations": {
+          "en": "She'll be essential for the journey ahead, I'm sure of it."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  }
+]

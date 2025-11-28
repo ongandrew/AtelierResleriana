@@ -313,5 +313,15 @@
     "id": 308,
     "description": "Boosts burst skill damage received by all enemies by {0}% for 2 attacks. (Cannot be stacked)",
     "name": "Moga Tokale"
+  },
+  {
+    "id": 309,
+    "description": "Boosts critical damage of the ally with the highest P. ATK by {0}% while HP is 80% or higher for 1 turn.",
+    "name": "Material Collector"
+  },
+  {
+    "id": 310,
+    "description": "Boosts critical damage of the ally with the highest P. ATK by {0}% while HP is 80% or higher for 1 turn.",
+    "name": "Material Collector"
   }
 ]

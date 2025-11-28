@@ -1,0 +1,444 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "できた！\u3000鉱物探知機ー！",
+        "localizations": {
+          "en": "I did it! A mineral detector!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "それが探索に役立つ道具なの？",
+        "localizations": {
+          "en": "That's the exploration tool?"
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "うん。錬金術でよく使う鉱物の成分に\n反応するようにできてるんだよ",
+        "localizations": {
+          "en": "Yep. It's designed to react to mineral components commonly used in alchemy."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "実際に掘り返す手間もなく地下の様子を\n調べられるんだから、役に立つでしょ？",
+        "localizations": {
+          "en": "It lets you survey what's underground without actually having to dig it up, so it'll definitely come in handy, right?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "確かに……穴を掘るのって\n単純労働でキツいし面白くないんだよね",
+        "localizations": {
+          "en": "True... Digging holes is hard labor, boring, and exhausting."
+        }
+      },
+      "2072370017": {
+        "text": "アイラ",
+        "localizations": {
+          "en": "Isla"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "うん、すごく便利そう。\nというわけで、私のお題も合格！",
+        "localizations": {
+          "en": "Yeah, it looks really useful. So you pass my challenge!"
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "えへへ、やった！\n課題を達成していくの、気持ちいいね！",
+        "localizations": {
+          "en": "Hehe, yes! Completing challenges feels great!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "あらあら、やる気ね。逞しくて好きよ。\nそれじゃあ次はどの難所踏破のお題を出そうかしら？",
+        "localizations": {
+          "en": "My, my, look at you, all fired up. I love that tenacity. Now then, which hazardous trial should I have you tackle next?"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "……え？\u3000まだあるの？",
+        "localizations": {
+          "en": "...Huh? There's more?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "近くの島にある難所、見繕ってあるわよ。\n酸の湖と命綱無しの奇岩渡り、どちらがいい？",
+        "localizations": {
+          "en": "I've picked out some hazardous areas on nearby islands. An acid lake or crossing jagged rocks without safety lines—which would you prefer?"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "……まだ、酸のほうかな",
+        "localizations": {
+          "en": "...I guess the acid one."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "ヤンネさん、容赦がありませんね。素敵です",
+        "localizations": {
+          "en": "Janne, you show no mercy. How lovely."
+        }
+      },
+      "2072370017": {
+        "text": "カロリン",
+        "localizations": {
+          "en": "Karoline"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "カロリンさんも十分容赦ないとは思うけど……\nヤンネさんのシゴキも聖戦士仕込みだもんね",
+        "localizations": {
+          "en": "I'd say Karoline's pretty merciless herself... But yeah, Janne's drills are straight out of the Sacred Knights' playbook."
+        }
+      },
+      "2072370017": {
+        "text": "アイラ",
+        "localizations": {
+          "en": "Isla"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "でも、この厳しい特訓を最後までやり遂げたら、\nアルビーナも絶対に自信がついちゃうよね",
+        "localizations": {
+          "en": "Still, if Alvina makes it through all this tough training, she'll definitely gain confidence, right?"
+        }
+      },
+      "2072370017": {
+        "text": "ユミア",
+        "localizations": {
+          "en": "Yumia"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "それは確かにね……",
+        "localizations": {
+          "en": "That's true..."
+        }
+      },
+      "2072370017": {
+        "text": "アイラ",
+        "localizations": {
+          "en": "Isla"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "そして近くの難所をすべて踏破できたら\n今度は人数を少なくして再挑戦よ",
+        "localizations": {
+          "en": "And once you've cleared all the nearby hazards, we'll reduce the party size and try them again."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "高難易度も用意されてる……！",
+        "localizations": {
+          "en": "There's a hard mode too...!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "新しい場所にばかり冒険に行っていたら\n毎回、緊張してしまうでしょう？",
+        "localizations": {
+          "en": "If you only venture to new places, you'll be tense every single time, won't you?"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "そうですね。勝手知ったる土地で修行をするのも\nいいと思います。緊張感が皆無になっても困りますが",
+        "localizations": {
+          "en": "Indeed. Training on familiar ground is a good idea as well. Though we don't want you getting too comfortable either."
+        }
+      },
+      "2072370017": {
+        "text": "カロリン",
+        "localizations": {
+          "en": "Karoline"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "大丈夫。冒険って聞いて心臓バクバクしてるから。\nワクワクより、ドキドキのほうが今はまだ正直強い……",
+        "localizations": {
+          "en": "Don't worry. Just hearing the word 'adventure' makes my heart race. Honestly, right now it's more nerve-wracking than exciting..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "でも、いくら危険な難所でも暗黒の氷海よりは\n怖くないはずだから……",
+        "localizations": {
+          "en": "But no matter how dangerous these trials are, they can't be scarier than the Dark Frozen Sea..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "いきなり熱いお風呂には入れないので\n徐々に身体を慣らすような感じですね？",
+        "localizations": {
+          "en": "You can't jump straight into a scalding bath, so it's like gradually getting your body used to the heat?"
+        }
+      },
+      "2072370017": {
+        "text": "カロリン",
+        "localizations": {
+          "en": "Karoline"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "独特なたとえだけど……\nまあそんな感じだと、思う",
+        "localizations": {
+          "en": "That's a unique comparison, but... yeah, I guess something like that."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "シゴキはキツいけど\nヤンネさんのこと、信じてるから。これからもお願いね",
+        "localizations": {
+          "en": "The drills are tough, but I trust you. Please keep looking after me."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "ふふっ、任せて。\n神聖国の鬼教官と呼ばれた実力、見せてあげる",
+        "localizations": {
+          "en": "Hehe, leave it to me. I'll show you the skills that earned me the title of Nova's demon instructor."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "……できれば、やっぱり少しは\nお手柔らかにお願いしたいかも",
+        "localizations": {
+          "en": "...If possible, I'd still appreciate it if you could maybe go a little easier on me."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  }
+]

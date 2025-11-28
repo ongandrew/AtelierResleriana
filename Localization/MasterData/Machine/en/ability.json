@@ -401,7 +401,7 @@
   },
   {
     "id": 1980167,
-    "description": "Boosts \"Knight\" characters' P. DEF and M. DEF by {0}%.",
+    "description": "Boosts Knight characters' P. DEF and M. DEF by {0}%.",
     "name": "Noble Knight Under Starry Night"
   },
   {
@@ -1236,27 +1236,27 @@
   },
   {
     "id": 4990793,
-    "description": "While in 'Merchant' state, reduces damage received from area attacks by {0}% (fixed)",
+    "description": "While equipped to a Merchant, reduces damage received from area attacks by {0}% (fixed).",
     "name": "Merchant Area Guard Up III"
   },
   {
     "id": 4990794,
-    "description": "While in 'Merchant' state, reduces damage received from area attacks by {0}% (fixed)",
+    "description": "While equipped to a Merchant, reduces damage received from area attacks by {0}% (fixed).",
     "name": "Merchant Area Guard Up III"
   },
   {
     "id": 4990795,
-    "description": "While in 'Merchant' state, reduces damage received from area attacks by {0}% (fixed)",
+    "description": "While equipped to a Merchant, reduces damage received from area attacks by {0}% (fixed).",
     "name": "Merchant Area Guard Up III"
   },
   {
     "id": 4990796,
-    "description": "While in 'Merchant' state, reduces damage received from area attacks by {0}% (fixed)",
+    "description": "While equipped to a Merchant, reduces damage received from area attacks by {0}% (fixed).",
     "name": "Merchant Area Guard Up III"
   },
   {
     "id": 4990797,
-    "description": "While in 'Merchant' state, reduces damage received from area attacks by {0}% (fixed)",
+    "description": "While equipped to a Merchant, reduces damage received from area attacks by {0}% (fixed).",
     "name": "Merchant Area Guard Up III"
   },
   {
@@ -8093,5 +8093,165 @@
     "id": 600000754,
     "description": "After using a skill, boosts all allies' battle item damage by 100% (up to 3000%).",
     "name": "Battle Item Damage Up (After Turn) (All)"
+  },
+  {
+    "id": 301291,
+    "description": "While equipped to Citrine [Charming Jewel], boosts critical damage by {0}% when HP is 80% or higher.",
+    "name": "Enchanting Eyes of Beauty"
+  },
+  {
+    "id": 301293,
+    "description": "While equipped to Goe [Miraculous Nine No. 5], when the attack target is stunned, grants the target increased physical damage received by {0}% and increased critical damage received by {1}% for 1 attack.",
+    "name": "Blade of Righteous Fury That Severs the Heavens"
+  },
+  {
+    "id": 301294,
+    "description": "When own HP is 70% or higher, reduces damage received by {0}% (fixed).",
+    "name": "Knight Plate"
+  },
+  {
+    "id": 301295,
+    "description": "When own HP is 70% or higher, reduces damage received by {0}% (fixed).",
+    "name": "Knight Plate"
+  },
+  {
+    "id": 301296,
+    "description": "Boosts HP recovery granted by {0}%.",
+    "name": "Ring of Compassion"
+  },
+  {
+    "id": 301297,
+    "description": "Boosts HP recovery granted by {0}%.",
+    "name": "Ring of Compassion"
+  },
+  {
+    "id": 1980217,
+    "description": "Miraculous Nine characters gain Initiative and critical damage +{0}%.",
+    "name": "Enchanting Eyes That Bewilder Hearts"
+  },
+  {
+    "id": 1980218,
+    "description": "For each Dark Memory character in the party, all allies gain P.ATK/M.ATK +10%, skill damage/stun damage +20%.",
+    "name": "Mission Given by Father and Mother"
+  },
+  {
+    "id": 1990483,
+    "description": "At the start of turn 1, grants self 3 stacks of Citrine's Blessing (max 5 stacks).<br>When breaking an enemy with a skill or evading an enemy attack, grants self 1 stack of Citrine's Blessing (max 5 stacks).<br>When receiving 1 or more damage from an attack, removes 1 stack of Citrine's Blessing from self.<br><br>Note: Citrine's Blessing boosts skill power by 30% and critical rate by 30% (fixed).",
+    "name": "Isn't It So Beautiful?"
+  },
+  {
+    "id": 1990484,
+    "description": "At the start of each wave, grants self Evasion ({0}% chance, fixed) for 1 attack.<br>When own critical rate exceeds 100%, during attacks, converts the amount of critical rate increase above 100% into critical damage increase (conversion cap {1}%).",
+    "name": "Flawless and Ruthless Combat Prowess"
+  },
+  {
+    "id": 1990485,
+    "description": "Before activating a skill, gains the following bonuses based on the number of positive effects on self:<br>3 or more: stun damage +{0}%<br>5 or more: stun damage +{1}%<br>10 or more: stun damage +{2}%<br>Note: Does not count unlimited-duration positive effects that activate at battle start.",
+    "name": "Power of the Miraculous Nine -V-"
+  },
+  {
+    "id": 1990486,
+    "description": "At the start of each wave, grants self stun damage +{0}% for 1 turn.<br>When the attack target is stunned, grants all allies with Stab affinity or Dark Memory skill damage +{1}% (max 60%), P.ATK +{2}% (max 50%), and SPD +{3}% (max 15%).<br>Based on the number of Dark Memory characters, all Dark Memory allies gain P.ATK/M.ATK +6-30% and stun damage +10-50% (increases with 1-5 characters).",
+    "name": "Pulsating Darkness"
+  },
+  {
+    "id": 4991168,
+    "description": "While equipped to an Attacker with Stab affinity, boosts critical damage by {0}%.<br>While equipped to a Laid-back character, boosts P.ATK by {1}%.",
+    "name": "Imagination: \"I'll Play With You\""
+  },
+  {
+    "id": 4991169,
+    "description": "While equipped to an Attacker with Stab affinity, boosts critical damage by {0}%.<br>While equipped to a Laid-back character, boosts P.ATK by {1}%.",
+    "name": "Imagination: \"I'll Play With You\""
+  },
+  {
+    "id": 4991170,
+    "description": "While equipped to an Attacker with Stab affinity, boosts critical damage by {0}%.<br>While equipped to a Laid-back character, boosts P.ATK by {1}%.",
+    "name": "Imagination: \"I'll Play With You\""
+  },
+  {
+    "id": 4991171,
+    "description": "While equipped to an Attacker with Stab affinity, boosts critical damage by {0}%.<br>While equipped to a Laid-back character, boosts P.ATK by {1}%.",
+    "name": "Imagination: \"I'll Play With You\""
+  },
+  {
+    "id": 4991172,
+    "description": "While equipped to an Attacker with Stab affinity, boosts critical damage by {0}%.<br>While equipped to a Laid-back character, boosts P.ATK by {1}%.",
+    "name": "Imagination: \"I'll Play With You\""
+  },
+  {
+    "id": 21262001,
+    "description": "When knocked out while having Regeneration, grants Regeneration (5%/2 times) to all allies.",
+    "name": ""
+  },
+  {
+    "id": 21263001,
+    "description": "At the start of each wave, grants all allies special evasion-related status changes and redraws turn order.\nGrants self reduced damage received for gimmicks, nullify negative effects, and all element resistance up x2.",
+    "name": ""
+  },
+  {
+    "id": 21263002,
+    "description": "After taking an action without special evasion status, grants self Turn Count Buff 1 Lv. 1. (Only when all 3 allies are present)\nAdditionally, when Turn Count Buff 1 is Lv. 2, grants all allies special evasion-related status changes and redraws turn order, then removes Turn Count Buff 1.",
+    "name": ""
+  },
+  {
+    "id": 21263003,
+    "description": "After acting in Special State, grants self Turn Count Buff ② Lv. 1.\nAdditionally, if Turn Count Buff ② is Lv. 2, grants self Special BS Determination State Change and redraws turn order.",
+    "name": ""
+  },
+  {
+    "id": 21263004,
+    "description": "If self has Special Evasion State and skill hits, grants all allies Attack Count Buff Lv. 1.\nAdditionally, when Attack Count Buff is Lv. 5, removes all allies' Special Evasion-related State Changes, boosts both legs' damage received by 1000%, removes all allies' Attack Count Buff, Turn Count Buff ②, and Turn Count Buff ①, and reduces stun gauge by 9900%.",
+    "name": ""
+  },
+  {
+    "id": 21263005,
+    "description": "If self has Special Evasion State and Attack Count Buff Lv. 5 and skill hits, grants all allies Turn Count Buff ① Application Nullified and redraws turn order.\nWhen all enemies except self are KO'd, grants self Submotion State Change and delays turn.\nAt battle start, if any ally has Attack Count Buff at Lv. 5 or higher, grants Guaranteed Hit Reception State.\nWhen ally is KO'd, redraws all allies' turn order.",
+    "name": ""
+  },
+  {
+    "id": 21264006,
+    "description": "When KO'd, removes main body's Gimmick Damage Received Down, All Elemental Resistance Up (Right Leg), and Turn Count Buff ①, and delays all allies' turns.\nAdditionally, if in Special Evasion State, removes all allies' Special Evasion-related State Changes.\nIf self has Special Evasion State and skill hits, grants all allies Attack Count Buff Lv. 1.\nWhen KO'd, redraws all allies' turn order.",
+    "name": ""
+  },
+  {
+    "id": 21264008,
+    "description": "If self has Special Evasion State and Attack Count Buff Lv. 5 and is hit by a single target attack, removes all allies' Special Evasion-related State Changes, boosts both legs' damage received by 1000%, removes all allies' Attack Count Buff, Turn Count Buff ②, and Turn Count Buff ①, reduces stun gauge by 9900%, grants all allies Turn Count Buff ① Application Nullified, and redraws turn order.",
+    "name": ""
+  },
+  {
+    "id": 21265007,
+    "description": "When KO'd, removes main body's Gimmick Negative Effect Nullified, All Elemental Resistance Up (Left Leg), and Turn Count Buff ①, and delays all allies' turns.\nAdditionally, if in Special Evasion State, removes all allies' Special Evasion-related State Changes.\nIf self has Special Evasion State and skill hits, grants all allies Attack Count Buff Lv. 1.\nWhen KO'd, redraws all allies' turn order.",
+    "name": ""
+  },
+  {
+    "id": 21265009,
+    "description": "If self has Special Evasion State and Attack Count Buff Lv. 5 and is hit by a single target attack, removes all allies' Special Evasion-related State Changes, boosts both legs' damage received by 1000%, removes all allies' Attack Count Buff, Turn Count Buff ②, and Turn Count Buff ①, reduces stun gauge by 9900%, grants all allies Turn Count Buff ① Application Nullified, and redraws turn order.",
+    "name": ""
+  },
+  {
+    "id": 26133015,
+    "description": "Nullifies resistance down for all elements except Stab.",
+    "name": ""
+  },
+  {
+    "id": 26187001,
+    "description": "Nullifies resistance down for all elements except Slash and Stab.",
+    "name": ""
+  },
+  {
+    "id": 600000748,
+    "description": "Boosts Gou [Miraculous Nine No. 5]'s stun damage by 200%.",
+    "name": "Gou [Miraculous Nine No. 5] Stun Damage Up"
+  },
+  {
+    "id": 600000749,
+    "description": "Boosts Citrine [Charming Jewel]'s skill power by 100%.",
+    "name": "Citrine [Charming Jewel] Skill Power Up"
+  },
+  {
+    "id": 600000750,
+    "description": "While Gou [Miraculous Nine No. 5] or Citrine [Charming Jewel] is in the party, reduces damage received by 25% (max 25%).",
+    "name": "While Gou [Miraculous Nine No. 5] or Citrine [Charming Jewel] in Party, Damage Received Reduction"
   }
 ]

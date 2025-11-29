@@ -96,8 +96,11 @@ namespace AtelierResleriana.Plugin.Localization
                     prefix: new HarmonyMethod(typeof(Plugin), nameof(CharaRarityUpWindowNICCOKABDGMPrefix)));
 
                 // Gacha character pickup acquisition text.
+                // Reportedly results in a crash/white screen.
+                /*
                 Harmony.Patch(AccessTools.Method(typeof(GachaResultCharacter), nameof(GachaResultCharacter.SetDefault), new Type[] { typeof(AGAJFINGPKJ), typeof(bool), typeof(FAJCHCEDBPM) }),
                     prefix: new HarmonyMethod(typeof(Plugin), nameof(GachaResultCharacterSetDefaultPrefix)));
+                */
 
                 // Synthesis item material window description.
                 Harmony.Patch(AccessTools.Method(typeof(SynthesisMaterialInfoDisp), nameof(SynthesisMaterialInfoDisp.KDNMGKADBEF), new Type[] { typeof(AECFEKECHCK), typeof(bool) }),
@@ -380,6 +383,8 @@ namespace AtelierResleriana.Plugin.Localization
             }
         }
 
+        // Causes a white screen.
+        /*
         private static void GachaResultCharacterSetDefaultPrefix(GachaResultCharacter __instance)
         {
             if (__instance != null)
@@ -391,6 +396,7 @@ namespace AtelierResleriana.Plugin.Localization
                 }
             }
         }
+        */
 
         private static void DialogueDisplayDispTextPrefix(DialogueDisplay __instance/*, 
             string LLMMBHHFAMB, // Speaker

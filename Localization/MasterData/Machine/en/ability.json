@@ -8101,7 +8101,7 @@
   },
   {
     "id": 301293,
-    "description": "While equipped to Goe [Miraculous Nine No. 5], when the attack target is stunned, grants the target increased physical damage received by {0}% and increased critical damage received by {1}% for 1 attack.",
+    "description": "While equipped to Gou [Fifth of the Miraculous Nine], when the attack target is stunned, grants the target increased physical damage received by {0}% and increased critical damage received by {1}% for 1 attack.",
     "name": "Blade of Righteous Fury That Severs the Heavens"
   },
   {
@@ -8132,7 +8132,7 @@
   {
     "id": 1980218,
     "description": "For each Dark Memory character in the party, all allies gain P.ATK/M.ATK +10%, skill damage/stun damage +20%.",
-    "name": "Mission Given by Father and Mother"
+    "name": "Mission Bestowed by Father and Mother"
   },
   {
     "id": 1990483,
@@ -8151,7 +8151,7 @@
   },
   {
     "id": 1990486,
-    "description": "At the start of each wave, grants self stun damage +{0}% for 1 turn.<br>When the attack target is stunned, grants all allies with Stab affinity or Dark Memory skill damage +{1}% (max 60%), P.ATK +{2}% (max 50%), and SPD +{3}% (max 15%).<br>Based on the number of Dark Memory characters, all Dark Memory allies gain P.ATK/M.ATK +6-30% and stun damage +10-50% (increases with 1-5 characters).",
+    "description": "At the start of each wave, grants self stun damage +{0}% for 1 turn.<br>When the attack target is stunned, grants all allies with Stab affinity or with the Dark Memories tag skill damage +{1}% (max 60%), P.ATK +{2}% (max 50%), and SPD +{3}% (max 15%).<br>Based on the number of characters with the Dark Memories tag, all those allies gain P.ATK/M.ATK +6-30% and stun damage +10-50% (increases with 1-5 characters).",
     "name": "Pulsating Darkness"
   },
   {
@@ -8241,8 +8241,8 @@
   },
   {
     "id": 600000748,
-    "description": "Boosts Gou [Miraculous Nine No. 5]'s stun damage by 200%.",
-    "name": "Gou [Miraculous Nine No. 5] Stun Damage Up"
+    "description": "Boosts Gou [Fifth of the Miraculous Nine]'s stun damage by 200%.",
+    "name": "Gou [Fifth of the Miraculous Nine] Stun Damage Up"
   },
   {
     "id": 600000749,
@@ -8251,7 +8251,7 @@
   },
   {
     "id": 600000750,
-    "description": "While Gou [Miraculous Nine No. 5] or Citrine [Charming Jewel] is in the party, reduces damage received by 25% (max 25%).",
-    "name": "While Gou [Miraculous Nine No. 5] or Citrine [Charming Jewel] in Party, Damage Received Reduction"
+    "description": "While Gou [Fifth of the Miraculous Nine] or Citrine [Charming Jewel] is in the party, reduces damage received by 25% (max 25%).",
+    "name": "While Gou [Fifth of the Miraculous Nine] or Citrine [Charming Jewel] in Party, Damage Received Reduction"
   }
 ]

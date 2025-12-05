@@ -437,64 +437,71 @@ namespace AtelierResleriana.Plugin.Localization
         // Patch!
         private static void ILNFJFLDFMJIPFEBHBEJCLPrefix(ref Il2CppStructArray<byte> PIOKAGCFDFK)
         {
-            int size = PIOKAGCFDFK.Length;
-
-            byte[] managedBytes = new byte[size];
-
-            unsafe
+            try
             {
-                fixed (byte* managedPtr = managedBytes)
+                int size = PIOKAGCFDFK.Length;
+
+                byte[] managedBytes = new byte[size];
+
+                unsafe
                 {
-                    byte* il2cppPtr = (byte*)IntPtr.Add(PIOKAGCFDFK.Pointer, 4 * IntPtr.Size).ToPointer();
-                    Buffer.MemoryCopy(il2cppPtr, managedPtr, size, size);
+                    fixed (byte* managedPtr = managedBytes)
+                    {
+                        byte* il2cppPtr = (byte*)IntPtr.Add(PIOKAGCFDFK.Pointer, 4 * IntPtr.Size).ToPointer();
+                        Buffer.MemoryCopy(il2cppPtr, managedPtr, size, size);
+                    }
                 }
-            }
 
-            using MemoryStream memoryStream = new MemoryStream(managedBytes);
+                using MemoryStream memoryStream = new MemoryStream(managedBytes);
 
-            MasterDataReader masterDataReader = new MasterDataReader();
+                MasterDataReader masterDataReader = new MasterDataReader();
 
-            IEnumerable<MasterDataFile> masterDataFiles =
-                masterDataReader.ReadAsync(memoryStream)
-                    .GetAwaiter()
-                    .GetResult();
+                IEnumerable<MasterDataFile> masterDataFiles =
+                    masterDataReader.ReadAsync(memoryStream)
+                        .GetAwaiter()
+                        .GetResult();
 
-            bool anyChange = false;
+                bool anyChange = false;
 
-            foreach (MasterDataFile masterDataFile in masterDataFiles)
-            {
-                if (LocalizationService.TryLocalize(masterDataFile, Locale))
+                foreach (MasterDataFile masterDataFile in masterDataFiles)
                 {
-                    anyChange = true;
+                    if (LocalizationService.TryLocalize(masterDataFile, Locale))
+                    {
+                        anyChange = true;
+                    }
                 }
-            }
 
-            if (anyChange)
-            {
-                using MemoryStream outputStream = new MemoryStream();
-                MasterDataWriter masterDataWriter = new MasterDataWriter();
-                masterDataWriter.WriteAsync(outputStream, masterDataFiles)
-                    .GetAwaiter()
-                    .GetResult();
-
-                outputStream.Seek(0, SeekOrigin.Begin);
-                managedBytes = outputStream.ToArray();
-            }
-
-            Il2CppStructArray<byte> newArray = new Il2CppStructArray<byte>(managedBytes.Length);
-
-            unsafe
-            {
-                byte* destPtr = (byte*)IntPtr.Add(newArray.Pointer, 4 * IntPtr.Size).ToPointer();
-                fixed (byte* srcPtr = managedBytes)
+                if (anyChange)
                 {
-                    Buffer.MemoryCopy(srcPtr, destPtr, managedBytes.Length, managedBytes.Length);
+                    using MemoryStream outputStream = new MemoryStream();
+                    MasterDataWriter masterDataWriter = new MasterDataWriter();
+                    masterDataWriter.WriteAsync(outputStream, masterDataFiles)
+                        .GetAwaiter()
+                        .GetResult();
+
+                    outputStream.Seek(0, SeekOrigin.Begin);
+                    managedBytes = outputStream.ToArray();
                 }
+
+                Il2CppStructArray<byte> newArray = new Il2CppStructArray<byte>(managedBytes.Length);
+
+                unsafe
+                {
+                    byte* destPtr = (byte*)IntPtr.Add(newArray.Pointer, 4 * IntPtr.Size).ToPointer();
+                    fixed (byte* srcPtr = managedBytes)
+                    {
+                        Buffer.MemoryCopy(srcPtr, destPtr, managedBytes.Length, managedBytes.Length);
+                    }
+                }
+
+                PIOKAGCFDFK = newArray;
+
+                Log.LogInfo("Localized MasterData.");
             }
-
-            PIOKAGCFDFK = newArray;
-
-            Log.LogInfo("Localized MasterData.");
+            catch (Exception exception)
+            {
+                Log.LogError($"Could not localize MasterData: {exception.Message}");
+            }
         }
 
         private static void ProvideHandleCompletePrefix(ProvideHandle __instance, ref UnityEngine.Object result, bool status, Il2CppSystem.Exception exception)

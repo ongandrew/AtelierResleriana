@@ -3430,5 +3430,82 @@
         }
       }
     }
+  },
+  {
+    "id": 876106372,
+    "properties": {
+      "999008199": {
+        "text": "出撃済",
+        "localizations": {
+          "en": "Already Deployed"
+        }
+      }
+    }
+  },
+  {
+    "id": 1699297977,
+    "properties": {
+      "999008199": {
+        "text": "呼び出し",
+        "localizations": {
+          "en": "Load Party"
+        }
+      }
+    }
+  },
+  {
+    "id": 825830728,
+    "properties": {
+      "999008199": {
+        "text": "パーティを呼び出します。よろしいですか?",
+        "localizations": {
+          "en": "Load this party?"
+        }
+      }
+    }
+  },
+  {
+    "id": 1411791617,
+    "properties": {
+      "999008199": {
+        "text": "現在編成中のパーティを上書きします。",
+        "localizations": {
+          "en": "This will overwrite your current party."
+        }
+      }
+    }
+  },
+  {
+    "id": 5871177,
+    "properties": {
+      "999008199": {
+        "text": "パーティ呼び出し",
+        "localizations": {
+          "en": "Load Party"
+        }
+      }
+    }
+  },
+  {
+    "id": 1473015168,
+    "properties": {
+      "999008199": {
+        "text": "このクエストは{0}キャラのみ出撃できます",
+        "localizations": {
+          "en": "Only {0} characters can be deployed in this quest"
+        }
+      }
+    }
+  },
+  {
+    "id": 799159682,
+    "properties": {
+      "999008199": {
+        "text": "レイドミッション",
+        "localizations": {
+          "en": "Raid Mission"
+        }
+      }
+    }
   }
 ]

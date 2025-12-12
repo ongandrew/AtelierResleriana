@@ -2274,5 +2274,53 @@
     "description": "Item that can be used in the \"Harmful Monster Control Order\" event exchange.",
     "end_at": "2025-12-22T03:00:00Z",
     "name": "Battle Coin [Harmful Monster Control Order]"
+  },
+  {
+    "id": 1207,
+    "description": "A ticket that allows you to make one wish in the Resna [Starry Heavens Gift] ☆5 Unlock Celebration Wish.",
+    "end_at": "2025-12-26T03:00:00Z",
+    "name": "Resna [Starry Heavens Gift] ☆5 Unlock Celebration Wish Ticket"
+  },
+  {
+    "id": 1208,
+    "description": "A ticket that allows you to make one wish in the Atelier Christmas 2025 Bunny Criselda LEGEND FES.",
+    "end_at": "2026-01-05T03:00:00Z",
+    "name": "Atelier Christmas 2025 Bunny Criselda Wish Ticket"
+  },
+  {
+    "id": 1209,
+    "description": "An item that can be used in the Event Box Wish for \"BUNNY's Panic☆Star Festival.\"",
+    "end_at": "2026-01-05T03:00:00Z",
+    "name": "Event Box Wish Ticket [BUNNY's Panic☆Star Festival]"
+  },
+  {
+    "id": 1210,
+    "description": "A ticket that can be exchanged for an alternate skin of Criselda [Tricky Bunny]. Can be used at the Exchange in the Shop.\n*Each skin is acquired individually. If you obtain either version of Criselda [Tricky Bunny], you can add them to your party and take them into battle.",
+    "end_at": "2026-01-06T03:00:00Z",
+    "name": "Criselda [Tricky Bunny] Alternate Skin Exchange Ticket"
+  },
+  {
+    "id": 1211,
+    "description": "Material needed for synthesis.",
+    "name": "Everfrost Ice",
+    "start_at": "2025-12-12T03:00:00Z"
+  },
+  {
+    "id": 1212,
+    "description": "Material needed for synthesis.",
+    "name": "Silver Pelt",
+    "start_at": "2025-12-12T03:00:00Z"
+  },
+  {
+    "id": 1213,
+    "description": "Exchange for items at the event \"BUNNY's Panic☆Star Festival\" Exchange.",
+    "end_at": "2026-01-05T03:00:00Z",
+    "name": "Battle Coin [Welcome to Maison de Bunny]"
+  },
+  {
+    "id": 1216,
+    "description": "Exchange for items at the event \"BUNNY's Panic☆Star Festival Blackjack Battle\" Exchange.",
+    "end_at": "2026-01-05T03:00:00Z",
+    "name": "Casino Coin"
   }
 ]

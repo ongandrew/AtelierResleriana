@@ -298,5 +298,35 @@
     "id": 7503,
     "description": "Additionally, equipment drops as a reward in Beach Flag.\nEquipment traits are randomly selected from a pool of candidates, and trait levels are also randomized.",
     "name": "Equipment Drops"
+  },
+  {
+    "id": 7601,
+    "description": "This is a special battle where you compete with boss Antje over chip levels.\nAt the start of battle, both the player and Antje are dealt two chips each.\nYou can also obtain chips by defeating cards that appear in battle.",
+    "name": "Blackjack Battle"
+  },
+  {
+    "id": 7602,
+    "description": "Chips are dealt at random levels from 1 to 11.\nDepending on the character, advantageous chips may be dealt more easily...?",
+    "name": "About Chips"
+  },
+  {
+    "id": 7603,
+    "description": "When your chip level reaches 21, you can deal damage to Antje.\nIf your chip level goes over 21, you will burst and become unable to battle.\nNote: If Antje's level goes over 21, she will also burst and become unable to battle.",
+    "name": "About Victory"
+  },
+  {
+    "id": 7604,
+    "description": "If Antje's chip level is higher than your allied character's,\nAntje's attacks will deal massive damage.\nBe careful not to let your chip level fall below Antje's.",
+    "name": "About Victory"
+  },
+  {
+    "id": 7605,
+    "description": "You can pass your turn to Antje by using battle items.\nConsider whether you should pass your turn while comparing your character's and Antje's chip levels.",
+    "name": "Stand"
+  },
+  {
+    "id": 7606,
+    "description": "You win by either reaching a chip level of 21 to defeat Antje,\nor by making Antje's chip level go to 22 or above to make her burst.\nTry to get close to 21 while being careful not to let your chip level exceed 22.",
+    "name": "Summary"
   }
 ]

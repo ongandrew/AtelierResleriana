@@ -128,5 +128,45 @@
     "id": 26,
     "name": "Stab Resistance Adjustment",
     "value_display_style": "{value}%"
+  },
+  {
+    "id": 27,
+    "name": "Item Damage Up",
+    "value_display_style": "{value}%"
+  },
+  {
+    "id": 28,
+    "name": "Item Damage Down",
+    "value_display_style": "{value}%"
+  },
+  {
+    "id": 29,
+    "name": "Item Stun Damage Boost",
+    "value_display_style": "{value}%"
+  },
+  {
+    "id": 30,
+    "name": "Item Skill Power Up",
+    "value_display_style": "{value}%"
+  },
+  {
+    "id": 31,
+    "name": "Item Skill Power Down",
+    "value_display_style": "{value}%"
+  },
+  {
+    "id": 32,
+    "name": "Item Critical Rate Boost",
+    "value_display_style": "{value}%"
+  },
+  {
+    "id": 33,
+    "name": "Item Critical Damage Boost",
+    "value_display_style": "{value}%"
+  },
+  {
+    "id": 34,
+    "name": "Item Penetration",
+    "value_display_style": "{value}"
   }
 ]

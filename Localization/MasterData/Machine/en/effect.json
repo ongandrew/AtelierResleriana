@@ -11628,5 +11628,540 @@
     "id": 120000841,
     "description": "While Citrine [Charming Jewel] is in the party, reduces damage received.",
     "popup_text": ""
+  },
+  {
+    "id": 6001182,
+    "description": "While equipped to Criselda [Tricky Bunny], before attacking, grants target Fire resistance down for 2 attacks.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001183,
+    "description": "While equipped to an Attacker with Ice affinity, boosts critical damage for all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001184,
+    "description": "While equipped to a Bookworm, before attacking, grants target status effect resistance -50% (max 50%) for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001185,
+    "description": "After recovery, grants burst skill damage up to all allies for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001186,
+    "description": "After recovery, grants burst skill damage up to all allies for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001187,
+    "description": "Grants all enemies magical damage received from area attacks up for 2 attacks.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001188,
+    "description": "Grants all enemies magical damage received from area attacks up for 2 attacks.",
+    "popup_text": ""
+  },
+  {
+    "id": 13000384,
+    "description": "Magical Damage Received from Area Attacks +{0}%",
+    "popup_text": ""
+  },
+  {
+    "id": 20000843,
+    "description": "While equipped to Criselda [Tricky Bunny], boosts stun damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 20000844,
+    "description": "When Criselda [Tricky Bunny] is in the party, reduces damage received.",
+    "popup_text": ""
+  },
+  {
+    "id": 20000845,
+    "description": "While equipped to one of the Miraculous Nine, boosts skill power.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001523,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001524,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001525,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001526,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001527,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001528,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001529,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001530,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 76116029,
+    "description": "Grants damage received down to all allies for 3 attacks.",
+    "popup_text": ""
+  },
+  {
+    "id": 76116030,
+    "description": "Grants Stun Damage Received Down (3 times) to all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266001,
+    "description": "When self is Lv. 2 and target is not Lv. 1 or below, reduces damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266002,
+    "description": "When self is Lv. 3 and target is not Lv. 2 or below, reduces damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266003,
+    "description": "When self is Lv. 4 and target is not Lv. 3 or below, reduces damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266004,
+    "description": "When self is Lv. 5 and target is not Lv. 4 or below, reduces damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266005,
+    "description": "When self is Lv. 6 and target is not Lv. 5 or below, reduces damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266006,
+    "description": "When self is Lv. 7 and target is not Lv. 6 or below, reduces damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266007,
+    "description": "When self is Lv. 8 and target is not Lv. 7 or below, reduces damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266008,
+    "description": "When self is Lv. 9 and target is not Lv. 8 or below, reduces damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266009,
+    "description": "When self is Lv. 10 and target is not Lv. 9 or below, reduces damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266010,
+    "description": "When self is Lv. 11 and target is not Lv. 10 or below, reduces damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266011,
+    "description": "When self is Lv. 12 and target is not Lv. 11 or below, reduces damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266012,
+    "description": "When self is Lv. 13 and target is not Lv. 12 or below, reduces damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266013,
+    "description": "When self is Lv. 14 and target is not Lv. 13 or below, reduces damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266014,
+    "description": "When self is Lv. 15 and target is not Lv. 14 or below, reduces damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266015,
+    "description": "When self is Lv. 16 and target is not Lv. 15 or below, reduces damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266016,
+    "description": "When self is Lv. 17 and target is not Lv. 16 or below, reduces damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266017,
+    "description": "When self is Lv. 18 and target is not Lv. 17 or below, reduces damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266018,
+    "description": "When self is Lv. 19 and target is not Lv. 18 or below, reduces damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266019,
+    "description": "When self is Lv. 20 and target is not Lv. 19 or below, reduces damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266020,
+    "description": "While self is Lv. 21 and the opponent is not Lv. 20 or below, reduces damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266021,
+    "description": "Grants a random chip status change of Lv. 1-10 to all enemies.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266022,
+    "description": "Grants self a random chip status change of Lv. 1-10.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266023,
+    "description": "Grants self a chip status change of Lv. 1.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266024,
+    "description": "Grants self a chip status change of Lv. 2.",
+    "popup_text": "2"
+  },
+  {
+    "id": 76266025,
+    "description": "Grants self a chip status change of Lv. 3.",
+    "popup_text": "3"
+  },
+  {
+    "id": 76266026,
+    "description": "Grants self a chip status change of Lv. 4.",
+    "popup_text": "4"
+  },
+  {
+    "id": 76266027,
+    "description": "Grants self a chip status change of Lv. 5.",
+    "popup_text": "5"
+  },
+  {
+    "id": 76266028,
+    "description": "Grants self a chip status change of Lv. 6.",
+    "popup_text": "6"
+  },
+  {
+    "id": 76266029,
+    "description": "Grants self a chip status change of Lv. 7.",
+    "popup_text": "7"
+  },
+  {
+    "id": 76266030,
+    "description": "Grants self a chip status change of Lv. 8.",
+    "popup_text": "8"
+  },
+  {
+    "id": 76266031,
+    "description": "Grants self a chip status change of Lv. 9.",
+    "popup_text": "9"
+  },
+  {
+    "id": 76266032,
+    "description": "Grants self a chip status change of Lv. 10.",
+    "popup_text": "10"
+  },
+  {
+    "id": 76266033,
+    "description": "Grants self a chip status change of Lv. 11.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266034,
+    "description": "Grants self a status change for A determination.",
+    "popup_text": "A"
+  },
+  {
+    "id": 76266035,
+    "description": "While self does not have a chip status change of Lv. 21 and is attacking a BOSS, reduces damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266036,
+    "description": "Reduces damage dealt by battle items.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266037,
+    "description": "When dealer action start status change is acquired, delays the turn of all enemies.",
+    "popup_text": "Turn Delay"
+  },
+  {
+    "id": 76266038,
+    "description": "When using a battle item, grants all enemies a status change for dealer action start determination.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266039,
+    "description": "If self has been granted a chip status change of Lv. 22 or higher, grants self Virulence.",
+    "popup_text": "Burst!"
+  },
+  {
+    "id": 76266040,
+    "description": "When own level is 22 or higher, reduces damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266041,
+    "description": "When own chip status is level 21, boosts damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266042,
+    "description": "When gaining Dealer Turn Start status, removes own debuffs.",
+    "popup_text": "Remove Negative Effects"
+  },
+  {
+    "id": 76266043,
+    "description": "When gaining Dealer Turn Start status, advances own turn.",
+    "popup_text": "Shorten Turn"
+  },
+  {
+    "id": 76266044,
+    "description": "Grants self SPD Down.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266045,
+    "description": "If single target attack, grants all enemies a random chip status between levels 1-10.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266046,
+    "description": "Summons Card [Single Only][Event/Casino Battle][Card_ver2] as ally.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266047,
+    "description": "Summons Card [][Event/Casino Battle][Card_ver2] as ally.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266048,
+    "description": "Grants status that grants enemies gimmick status after using an item.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266049,
+    "description": "Grants status that grants self severe poison before turn start when chip level is 22 or higher.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266050,
+    "description": "Grants status that increases chip level by 1 when obtaining conditional A upon gaining A judgment status.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266051,
+    "description": "Grants status that increases chip level by 11 when obtaining conditional A upon gaining A judgment status.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266052,
+    "description": "Grants self chip status at level 10.",
+    "popup_text": "J"
+  },
+  {
+    "id": 76266053,
+    "description": "Grants self chip status at level 10.",
+    "popup_text": "Q"
+  },
+  {
+    "id": 76266054,
+    "description": "Grants self chip status at level 10.",
+    "popup_text": "K"
+  },
+  {
+    "id": 76266055,
+    "description": "Grants self chip status at level 1.",
+    "popup_text": "A"
+  },
+  {
+    "id": 76266056,
+    "description": "For effect_motion playback during Blackjack.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266057,
+    "description": "For effect_motion playback during character-side Blackjack, grants status to enemies.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266058,
+    "description": "For effect_motion playback when gaining Dealer Blackjack status.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266059,
+    "description": "Grants self status that grants enemies Player Blackjack judgment status before turn start when chip level is 21.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266060,
+    "description": "Grants self a random chip for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266061,
+    "description": "Grants self a random chip for 1 turn (A is fixed at 1).",
+    "popup_text": ""
+  },
+  {
+    "id": 76266062,
+    "description": "Grants self a random chip for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266063,
+    "description": "Grants self a random chip for 1 turn (A is fixed at 1).",
+    "popup_text": ""
+  },
+  {
+    "id": 76266064,
+    "description": "Grants self a random chip for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266065,
+    "description": "Grants self a random chip for 1 turn (A is fixed at 1).",
+    "popup_text": ""
+  },
+  {
+    "id": 76266066,
+    "description": "Grants self a random chip for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266067,
+    "description": "Grants self a random chip for 1 turn (A is fixed at 1).",
+    "popup_text": ""
+  },
+  {
+    "id": 76266068,
+    "description": "Grants all enemies a random chip status change from Lv. 1-10.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266069,
+    "description": "Grants all enemies a random chip status change from Lv. 1-10.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266070,
+    "description": "If a single target attack, grants self a random chip status change from Lv. 1-10.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266071,
+    "description": "If a single target attack, grants self a random chip status change from Lv. 1-10.",
+    "popup_text": ""
+  },
+  {
+    "id": 76266082,
+    "description": "Grants self status change for character switch skill seal.",
+    "popup_text": ""
+  },
+  {
+    "id": 86042001,
+    "description": "When stunned, increases damage received (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 91001968,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001969,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001970,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001971,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001972,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001973,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001974,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001975,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001976,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001977,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000299,
+    "description": "While equipped to a Breaker with Fire affinity, when breaking target, grants Skill Damage Up to all allies for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000300,
+    "description": "While Nurturer, boosts all allies' positive effect potency from boost-type panels.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000852,
+    "description": "When affinity is Fire, grants Critical Rate Up.",
+    "popup_text": ""
   }
 ]

@@ -4175,5 +4175,86 @@
     "name": "Reprint: Season 2 Begins! Memory Seeker Valeria LEGEND FES [Paid Limited]",
     "start_at": "2025-11-28T03:00:00Z",
     "step_up_loop_description": ""
+  },
+  {
+    "id": 2325,
+    "description": "Criselda debuts & is featured!\nUntil 2026/01/05 11:59 (UTC+8)",
+    "end_at": "2026-01-05T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Atelier Christmas 2025 Bunny Criselda LEGEND FES",
+    "name": "Atelier Christmas 2025 Bunny Criselda LEGEND FES",
+    "start_at": "2025-12-12T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2326,
+    "description": "Wish 50 times with paid Stardust to unlock an additional Wish!\nUntil 2026/01/05 11:59 (UTC+8)",
+    "end_at": "2026-01-05T03:00:00Z",
+    "name": "Atelier Christmas 2025 Bunny Criselda LEGEND FES [Paid Only]",
+    "start_at": "2025-12-12T03:00:00Z",
+    "step_up_loop_description": "{} cycles remaining"
+  },
+  {
+    "id": 3027,
+    "description": "Featured character debuts at 5★!\nIf you receive them for the first time in this Wish while they are already in your party,\nyou will receive an additional 1030 Pieces the first time!\n※Regardless of party status at the time of first acquisition, from the 2nd time onward,\n you will receive 100 Pieces.\nUntil 2025/12/26 11:59 (UTC+8)",
+    "end_at": "2025-12-26T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Resna [Starry Heavens Gift] ★6 Unlock Celebration Wish",
+    "name": "Resna [Starry Heavens Gift] ★6 Unlock Celebration Wish",
+    "start_at": "2025-12-12T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 232601,
+    "description": "Limited to 5 times! Featured rate doubled!\nGet 16 Medals, Until 2026/01/05 11:59 (UTC+8)",
+    "end_at": "2026-01-05T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10005,
+            "description": "With Bonus!\n{} Times Left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Atelier Christmas 2025 Bunny Criselda LEGEND FES [Paid Only]",
+    "name": "Atelier Christmas 2025 Bunny Criselda LEGEND FES [Paid Only]",
+    "start_at": "2025-12-12T03:00:00Z",
+    "step_up_loop_description": ""
   }
 ]

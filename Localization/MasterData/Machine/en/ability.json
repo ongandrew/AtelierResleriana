@@ -8253,5 +8253,140 @@
     "id": 600000750,
     "description": "While Gou [Fifth of the Miraculous Nine] or Citrine [Charming Jewel] is in the party, reduces damage received by 25% (max 25%).",
     "name": "While Gou [Fifth of the Miraculous Nine] or Citrine [Charming Jewel] in Party, Damage Received Reduction"
+  },
+  {
+    "id": 301298,
+    "description": "While equipped to Criselda [Tricky Bunny], before attacking, reduces target's Fire resistance by {0}% for 2 attacks.",
+    "name": "Noël Lapin"
+  },
+  {
+    "id": 301299,
+    "description": "While equipped to an Attacker with Ice affinity, boosts all allies' critical damage by {0}%.<br>When Bookworm, before attacking, grants target Status Effect Resistance -{1}% (Max 50%) for 1 turn.",
+    "name": "Starry Chain"
+  },
+  {
+    "id": 1980219,
+    "description": "Characters with Fire affinity gain P.ATK, M.ATK, P.DEF, and M.DEF +25%.",
+    "name": "I'll Light a Fire in Your Heart"
+  },
+  {
+    "id": 1990488,
+    "description": "After using Amazing Hat or Wisdom's Deception, restores item gauge by 20%.",
+    "name": "Bunny's Magic Trick"
+  },
+  {
+    "id": 1990489,
+    "description": "When using a boost-type panel or when anyone in the party uses a battle item, grants self Stun Damage +{0}% for 1 turn.<br>※Activates only once even when multiple items are used simultaneously.<br><br>When attack target is stunned, grants Critical Rate +100% to all allies with Fire affinity for 2 turns.",
+    "name": "Both Seeds and Tricks Are Alchemy"
+  },
+  {
+    "id": 1990492,
+    "description": "When anyone in the party (including self) uses a critical attack, grants Skill Power +20% (Max 60%) to all allies with Ice affinity.<br>All allies with Ice affinity boost critical damage by 100% against attack targets with Frozen status before using a skill.",
+    "name": "Blessings from the Yuletide Emissary!"
+  },
+  {
+    "id": 4991173,
+    "description": "While equipped to a Breaker with Fire affinity, when stunning a target, grants Skill Damage +{0}% to all allies for 1 turn.<br>When equipped to a Nurturer, boosts positive effect potency received from boost-type panels by {1}% for all allies.",
+    "name": "Imagination \"Sugar Snow's Heart\""
+  },
+  {
+    "id": 4991174,
+    "description": "While equipped to a Breaker with Fire affinity, when stunning a target, grants Skill Damage +{0}% to all allies for 1 turn.<br>When equipped to a Nurturer, boosts positive effect potency received from boost-type panels by {1}% for all allies.",
+    "name": "Imagination \"Sugar Snow's Heart\""
+  },
+  {
+    "id": 4991175,
+    "description": "While equipped to a Breaker with Fire affinity, when stunning a target, grants Skill Damage +{0}% to all allies for 1 turn.<br>When equipped to a Nurturer, boosts positive effect potency received from boost-type panels by {1}% for all allies.",
+    "name": "Imagination \"Sugar Snow's Heart\""
+  },
+  {
+    "id": 4991176,
+    "description": "While equipped to a Breaker with Fire affinity, when stunning a target, grants Skill Damage +{0}% to all allies for 1 turn.<br>When equipped to a Nurturer, boosts positive effect potency received from boost-type panels by {1}% for all allies.",
+    "name": "Imagination \"Sugar Snow's Heart\""
+  },
+  {
+    "id": 4991177,
+    "description": "While equipped to a Breaker with Fire affinity, when stunning a target, grants Skill Damage +{0}% to all allies for 1 turn.<br>When equipped to a Nurturer, boosts positive effect potency received from boost-type panels by {1}% for all allies.",
+    "name": "Imagination \"Sugar Snow's Heart\""
+  },
+  {
+    "id": 26042001,
+    "description": "When self is stunned, increases damage received by 20% (permanent) (Max 3 times).",
+    "name": ""
+  },
+  {
+    "id": 26042002,
+    "description": "Nullifies resistance reduction for affinities other than Fire, Ice, and Stab.",
+    "name": ""
+  },
+  {
+    "id": 26266001,
+    "description": "At the start of the wave, grants SPD Down (99%) to self.\nAt the start of battle, gains 2 random chips.\nWhen gaining a state change for dealer action determination, removes debuffs, shortens own turn, and delays enemy turn.\nBefore start of turn when chip level is 22 or higher, grants Deadly Poison to self.\nWhen gaining a state change for A determination, gains a chip of level 1 or 11.\nReduces damage received from battle items by 990%.",
+    "name": ""
+  },
+  {
+    "id": 26266002,
+    "description": "When using a skill, if own chip level does not exceed the target's, or if holding a chip of level 22 or higher, reduces damage dealt by 100%.",
+    "name": ""
+  },
+  {
+    "id": 26266003,
+    "description": "When using a skill, if own chip level does not exceed the target's, or if holding a chip of level 22 or higher, reduces damage dealt by 100%.",
+    "name": ""
+  },
+  {
+    "id": 26266004,
+    "description": "When chip level is 21, can deal damage to Antje.",
+    "name": ""
+  },
+  {
+    "id": 26266005,
+    "description": "When using an item, ends own action and passes the turn to Antje.",
+    "name": ""
+  },
+  {
+    "id": 26266006,
+    "description": "At the start of turn when chip level is 22 or higher, Deadly Poison is granted to self and becomes unable to battle.",
+    "name": ""
+  },
+  {
+    "id": 26266007,
+    "description": "Reduces damage dealt from battle items by 100%.",
+    "name": ""
+  },
+  {
+    "id": 26266008,
+    "description": "Cannot use character swap skills.",
+    "name": ""
+  },
+  {
+    "id": 26267001,
+    "description": "When defeated, calls an identical enemy as a reinforcement.\nReduces damage received from battle items by 100%.\nWhen defeated by a single target attack, grants random chips to all enemies.",
+    "name": ""
+  },
+  {
+    "id": 26267002,
+    "description": "When defeated, calls an identical enemy as a reinforcement.\nReduces damage received from battle items by 100%.\nWhen defeated, grants random chips to all enemies.",
+    "name": ""
+  },
+  {
+    "id": 600000751,
+    "description": "Boosts Criselda [Tricky Bunny]'s stun damage by 200%.",
+    "name": "Criselda [Tricky Bunny] Stun Damage Up"
+  },
+  {
+    "id": 600000752,
+    "description": "When Gou [Miraculous Nine No. 5] or Criselda [Tricky Bunny] is in the party, reduces damage received by 25% (Max: 25%).",
+    "name": "Damage Received Down with Gou [Miraculous Nine No. 5] or Criselda [Tricky Bunny] in Party"
+  },
+  {
+    "id": 600000753,
+    "description": "When equipped to an Alchemist, boosts skill power by 100%.",
+    "name": "Skill Power Up When Equipped to Alchemist"
+  },
+  {
+    "id": 600000761,
+    "description": "While equipped to a character with Fire affinity, boosts critical rate by 25%.",
+    "name": "Critical Rate Up with Fire Affinity"
   }
 ]

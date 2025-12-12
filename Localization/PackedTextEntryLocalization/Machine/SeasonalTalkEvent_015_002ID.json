@@ -1,0 +1,580 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "私の記憶に間違いがなければ、\nお二人は喫茶店の店員ではないはずですが",
+        "localizations": {
+          "en": "If my memory serves correctly, you two aren't actually waitresses at this cafe."
+        }
+      },
+      "2072370017": {
+        "text": "ワルター",
+        "localizations": {
+          "en": "Walther"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "本日お相手を務めさせていただく\nリゼと申しますわ。はじめまして",
+        "localizations": {
+          "en": "My name is Lise, and I'll be attending to you today. It's a pleasure to meet you."
+        }
+      },
+      "2072370017": {
+        "text": "リゼ",
+        "localizations": {
+          "en": "Lise"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "私はアン……です。\nよろしくね……お兄ちゃん",
+        "localizations": {
+          "en": "I'm Ann... Nice to meet you... big brother."
+        }
+      },
+      "2072370017": {
+        "text": "アン",
+        "localizations": {
+          "en": "Ann"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "……ほほう。今回はその名前を\n選択しているのですか。リゼはときどき選んでいますね",
+        "localizations": {
+          "en": "...I see. So that's the name you've chosen this time. Though Lise does appear in your rotation fairly often."
+        }
+      },
+      "2072370017": {
+        "text": "ワルター",
+        "localizations": {
+          "en": "Walther"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "「設定」であることを、口に出して言うのは\n良くないマナーではないか",
+        "localizations": {
+          "en": "Isn't it poor manners to point out when something is just a 'character'?"
+        }
+      },
+      "2072370017": {
+        "text": "ブラッド",
+        "localizations": {
+          "en": "Brad"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "お隣、お邪魔しますね。ブラッドさん",
+        "localizations": {
+          "en": "Excuse me while I sit next to you, Brad."
+        }
+      },
+      "2072370017": {
+        "text": "リゼ",
+        "localizations": {
+          "en": "Lise"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "まだ名乗っていないはずだが……",
+        "localizations": {
+          "en": "I haven't introduced myself yet..."
+        }
+      },
+      "2072370017": {
+        "text": "ブラッド",
+        "localizations": {
+          "en": "Brad"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "んしょ、っと……\n狭くない、ですか？\u3000……お兄ちゃん",
+        "localizations": {
+          "en": "Here I go... Is this too cramped for you... big brother?"
+        }
+      },
+      "2072370017": {
+        "text": "アン",
+        "localizations": {
+          "en": "Ann"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "いや、大丈夫ですが……その呼び名といい\nその態度といい、少々混乱しますね",
+        "localizations": {
+          "en": "No, it's fine, but... Between that form of address and this behavior, I must admit I'm rather confused."
+        }
+      },
+      "2072370017": {
+        "text": "ワルター",
+        "localizations": {
+          "en": "Walther"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "そういう決まりですので。\nメニューはこちらです",
+        "localizations": {
+          "en": "It's part of the establishment's rules. Here's your menu."
+        }
+      },
+      "2072370017": {
+        "text": "リゼ",
+        "localizations": {
+          "en": "Lise"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "飲み物を最低１つ頼んでね！\nそういう決まりだから！",
+        "localizations": {
+          "en": "You have to order at least one drink! That's the rule!"
+        }
+      },
+      "2072370017": {
+        "text": "アオナ",
+        "localizations": {
+          "en": "Azure"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "……適当におすすめを見繕ってくれ",
+        "localizations": {
+          "en": "...Just recommend something appropriate."
+        }
+      },
+      "2072370017": {
+        "text": "ブラッド",
+        "localizations": {
+          "en": "Brad"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "ではチキンのコブサラダに\nジンジャークッキーがおすすめですわ",
+        "localizations": {
+          "en": "Then I would suggest the chicken cobb salad with ginger cookies."
+        }
+      },
+      "2072370017": {
+        "text": "リゼ",
+        "localizations": {
+          "en": "Lise"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "私はリコッタチーズのパンケーキと\nアップルソーダティーが、いいな……",
+        "localizations": {
+          "en": "I think the ricotta cheese pancakes and apple soda tea would be good..."
+        }
+      },
+      "2072370017": {
+        "text": "アン",
+        "localizations": {
+          "en": "Ann"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "ただのあなたの好みでしょう。\nまあ、いいですが……それよりも",
+        "localizations": {
+          "en": "Those are clearly just your personal preferences. Well, I suppose it doesn't matter... More importantly."
+        }
+      },
+      "2072370017": {
+        "text": "ワルター",
+        "localizations": {
+          "en": "Walther"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "どうしますか？\u3000正直、彼女たちは何か\n企んでいるとしか思えないのですが",
+        "localizations": {
+          "en": "What should we do? Honestly, I can only assume they're scheming something."
+        }
+      },
+      "2072370017": {
+        "text": "ワルター",
+        "localizations": {
+          "en": "Walther"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "ああ。だが単刀直入に聞いても答えるとは思えん。\nそれとなく探りを入れてみるとしよう",
+        "localizations": {
+          "en": "Indeed. But asking them directly won't get us anywhere. Let's try probing subtly."
+        }
+      },
+      "2072370017": {
+        "text": "ブラッド",
+        "localizations": {
+          "en": "Brad"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "二人とも、この店に入って長いのか？",
+        "localizations": {
+          "en": "Have you two been working at this shop long?"
+        }
+      },
+      "2072370017": {
+        "text": "ブラッド",
+        "localizations": {
+          "en": "Brad"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "ううん。最近入った、ばっかり",
+        "localizations": {
+          "en": "No. We just started recently."
+        }
+      },
+      "2072370017": {
+        "text": "アン",
+        "localizations": {
+          "en": "Ann"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "このお店自体が最近できたばかりですの。\nお二人はこの辺りによく来られるのかしら？",
+        "localizations": {
+          "en": "The shop itself only opened recently. Do you two come to this area often?"
+        }
+      },
+      "2072370017": {
+        "text": "リゼ",
+        "localizations": {
+          "en": "Lise"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "いえ。私が研究一筋なのはよくご存じでしょう",
+        "localizations": {
+          "en": "No. As you well know, I'm devoted entirely to my research."
+        }
+      },
+      "2072370017": {
+        "text": "ワルター",
+        "localizations": {
+          "en": "Walther"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "……仕事柄、訪れることもあるだけだ",
+        "localizations": {
+          "en": "...I only visit when work demands it."
+        }
+      },
+      "2072370017": {
+        "text": "ブラッド",
+        "localizations": {
+          "en": "Brad"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "あら、この辺りに仕事で来る人といえば\nお堅い職業の方か、その真逆か、ですけれど？",
+        "localizations": {
+          "en": "Oh my. People who come here for work are usually either in very respectable professions, or quite the opposite, wouldn't you say?"
+        }
+      },
+      "2072370017": {
+        "text": "リゼ",
+        "localizations": {
+          "en": "Lise"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "……想像に任せる。\n二人はなぜこの店で働こうと？",
+        "localizations": {
+          "en": "...I'll leave that to your imagination. Why did you two decide to work at this shop?"
+        }
+      },
+      "2072370017": {
+        "text": "ブラッド",
+        "localizations": {
+          "en": "Brad"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "え、えっと……",
+        "localizations": {
+          "en": "Um, well..."
+        }
+      },
+      "2072370017": {
+        "text": "アン",
+        "localizations": {
+          "en": "Ann"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "フフッ、ではこちらもご想像に任せるわ。\nいい女には秘密が多いものですから、ね？",
+        "localizations": {
+          "en": "Hehe, then we'll leave that to your imagination as well. Beautiful women are full of secrets, after all."
+        }
+      },
+      "2072370017": {
+        "text": "リゼ",
+        "localizations": {
+          "en": "Lise"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "リゼちゃん、アンちゃん。\n３番テーブルのお客様からご指名よ",
+        "localizations": {
+          "en": "Lise, Ann. The customers at table three are asking for you."
+        }
+      },
+      "2072370017": {
+        "text": "テス",
+        "localizations": {
+          "en": "Tess"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "あら、ごめんなさい。もう時間みたい",
+        "localizations": {
+          "en": "Oh my, I apologize. It seems our time is up."
+        }
+      },
+      "2072370017": {
+        "text": "リゼ",
+        "localizations": {
+          "en": "Lise"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "ゆっくりしていってね……お兄ちゃん",
+        "localizations": {
+          "en": "Take your time... big brother."
+        }
+      },
+      "2072370017": {
+        "text": "アン",
+        "localizations": {
+          "en": "Ann"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "……何か、感づいてるのかな？\n私、しておいたほうがいいこと、ある？",
+        "localizations": {
+          "en": "...Do you think they noticed something? Is there anything I should be doing?"
+        }
+      },
+      "2072370017": {
+        "text": "アン",
+        "localizations": {
+          "en": "Ann"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "いいえ。探りを入れてきたってことは、\n逆に何も知らない証拠よ。どうやらただの偶然みたい",
+        "localizations": {
+          "en": "No. The fact that they were probing means they don't actually know anything. It seems to be just a coincidence."
+        }
+      },
+      "2072370017": {
+        "text": "リゼ",
+        "localizations": {
+          "en": "Lise"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "アンチュはそのまま、語尾にお兄ちゃんって\n付けてるだけでいいわ。最高にかわいいから",
+        "localizations": {
+          "en": "Just keep doing what you're doing, Antje. Adding 'big brother' at the end of your sentences is absolutely adorable."
+        }
+      },
+      "2072370017": {
+        "text": "リゼ",
+        "localizations": {
+          "en": "Lise"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "優れた才を持つ、元「極夜の錬金党」党首の錬金術士。\nなぜかリゼと名乗り、喫茶店の店員として働いている",
+        "localizations": {
+          "en": "A talented alchemist and former leader of the Polar Night Alchemists. For some reason, she's calling herself Lise and working as a waitress at a cafe."
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ・アメルハウザー",
+        "localizations": {
+          "en": "Criselda Amelhauser"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "暗い雰囲気を纏った、元「極夜の錬金党」の錬金術士。\nなぜかアンと名乗り、喫茶店の店員として働いている",
+        "localizations": {
+          "en": "A darkness-cloaked former Polar Night Alchemist. For some reason, she's calling herself Ann and working as a waitress at a cafe."
+        }
+      },
+      "2072370017": {
+        "text": "アンチュ・モルトケ",
+        "localizations": {
+          "en": "Antje Moltke"
+        }
+      }
+    }
+  }
+]

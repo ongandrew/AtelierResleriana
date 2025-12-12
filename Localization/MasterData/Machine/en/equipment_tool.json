@@ -1318,5 +1318,15 @@
     "id": 1214,
     "description": "Boosts HP recovery granted by {0}%.",
     "name": "Ring of Compassion"
+  },
+  {
+    "id": 1215,
+    "description": "While equipped to Criselda (Tricky Bunny), before attacking, reduces target's Fire resistance by {0}% for 2 attacks.",
+    "name": "Noel Lapin"
+  },
+  {
+    "id": 1216,
+    "description": "While equipped to an Attacker with Ice affinity, boosts all allies' critical damage by {0}%.<br>While equipped to a character with the Bookworm tag, before attacking, reduces target's status effect resistance by {1}% for 1 turn. (MAX 50%)",
+    "name": "Starry Chain"
   }
 ]

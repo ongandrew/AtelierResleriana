@@ -2092,5 +2092,49 @@
     ],
     "start_at": "2025-11-28T03:00:00Z",
     "tracking_id": "af_synthesis_recipe_805"
+  },
+  {
+    "id": 806,
+    "name": "Holy Gift",
+    "requirements": [
+      {
+        "name": "Clear Welcome to Maison de Bunny - 1"
+      }
+    ],
+    "start_at": "2025-12-12T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_806"
+  },
+  {
+    "id": 807,
+    "name": "Bursting Gift",
+    "requirements": [
+      {
+        "name": "Clear Welcome to Maison de Bunny - 1"
+      }
+    ],
+    "start_at": "2025-12-12T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_807"
+  },
+  {
+    "id": 808,
+    "name": "Noël Lapin",
+    "requirements": [
+      {
+        "name": "Awaken Criselda [Tricky Bunny] to ☆5"
+      }
+    ],
+    "start_at": "2025-12-12T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_808"
+  },
+  {
+    "id": 809,
+    "name": "Starry Chain",
+    "requirements": [
+      {
+        "name": "Awaken Resna [Starry Heaven's Gift] to ☆6"
+      }
+    ],
+    "start_at": "2025-12-12T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_809"
   }
 ]

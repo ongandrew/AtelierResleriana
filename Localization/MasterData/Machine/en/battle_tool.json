@@ -323,5 +323,25 @@
     "id": 310,
     "description": "Boosts critical damage of the ally with the highest P. ATK by {0}% while HP is 80% or higher for 1 turn.",
     "name": "Material Collector"
+  },
+  {
+    "id": 311,
+    "description": "Restores 10% HP to all allies. After recovery, boosts all allies' burst skill damage by {0}% for 1 turn.",
+    "name": "Holy Gift"
+  },
+  {
+    "id": 312,
+    "description": "Restores 7% HP to all allies. After recovery, boosts all allies' burst skill damage by {0}% for 1 turn.",
+    "name": "Holy Gift"
+  },
+  {
+    "id": 313,
+    "description": "Boosts all enemies' M. ATK damage received from attacks that target all enemies by {0}% for 2 attacks.",
+    "name": "Repelling Gift"
+  },
+  {
+    "id": 314,
+    "description": "Boosts all enemies' M. ATK damage received from attacks that target all enemies by {0}% for 2 attacks.",
+    "name": "Repelling Gift"
   }
 ]

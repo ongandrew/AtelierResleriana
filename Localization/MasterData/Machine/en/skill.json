@@ -24250,5 +24250,1337 @@
     "description": "No additional effects.",
     "name": "Storm",
     "summary": ""
+  },
+  {
+    "id": 32158,
+    "description": "Restores all allies' HP by 10%. After recovery, boosts all allies' Burst Skill Damage by {0}% for 1 turn.",
+    "name": "Holy Gift",
+    "summary": ""
+  },
+  {
+    "id": 32159,
+    "description": "Restores all allies' HP by 7%. After recovery, boosts all allies' Burst Skill Damage by {0}% for 1 turn.",
+    "name": "Holy Gift",
+    "summary": ""
+  },
+  {
+    "id": 32160,
+    "description": "Boosts all enemies' Magical Damage received from area attacks by {0}% for 2 attacks.",
+    "name": "Shameful Gift",
+    "summary": ""
+  },
+  {
+    "id": 32161,
+    "description": "Boosts all enemies' Magical Damage received from area attacks by {0}% for 2 attacks.",
+    "name": "Shameful Gift",
+    "summary": ""
+  },
+  {
+    "id": 11003296,
+    "description": "After attacking, boosts own Stun Damage by {0}% (MAX 30%) and<br>boosts target's damage received by {1}% for 1 attack.",
+    "name": "Bunny Trick",
+    "summary": "After attacking, boosts own Stun Damage.<br>Boosts target's damage received."
+  },
+  {
+    "id": 11003297,
+    "description": "After attacking, boosts own Stun Damage by {0}% (MAX 30%) and<br>boosts target's damage received by {1}% for 1 attack.",
+    "name": "Bunny Trick",
+    "summary": "After attacking, boosts own Stun Damage.<br>Boosts target's damage received."
+  },
+  {
+    "id": 11003298,
+    "description": "After attacking, boosts own Stun Damage by {0}% (MAX 30%) and<br>boosts target's damage received by {1}% for 1 attack.",
+    "name": "Bunny Trick",
+    "summary": "After attacking, boosts own Stun Damage.<br>Boosts target's damage received."
+  },
+  {
+    "id": 11003299,
+    "description": "After attacking, boosts own Stun Damage by {0}% (MAX 30%) and<br>boosts target's damage received by {1}% for 1 attack.",
+    "name": "Bunny Trick",
+    "summary": "After attacking, boosts own Stun Damage.<br>Boosts target's damage received."
+  },
+  {
+    "id": 11003300,
+    "description": "After attacking, boosts own Stun Damage by {0}% (MAX 30%) and<br>boosts target's damage received by {1}% for 1 attack.",
+    "name": "Bunny Trick",
+    "summary": "After attacking, boosts own Stun Damage.<br>Boosts target's damage received."
+  },
+  {
+    "id": 12003301,
+    "description": "Before attacking, reduces target's Fire resistance by {0}% for 3 attacks.<br>After attacking, boosts own Stun Damage by {1}% for 2 turns and<br>boosts target's damage received by {2}% and critical damage received by {3}% for 2 attacks.<br>Before using this skill, upgrades all boost panels for 1 ally with highest M.ATK by 1 level and<br>converts all panels except boost-type panels and burst panels to boost panels (creates if empty).<br>If target is stunned, further boosts target's critical damage received by {6}% for 2 attacks.",
+    "name": "Amazing Hat",
+    "summary": "Before attacking, reduces target's Fire resistance.<br>After attacking, boosts own Stun Damage.<br>Boosts target's damage received and critical damage received.<br>Upgrades all boost panels for 1 ally with highest M.ATK by 1 level and converts all panels except boost-type panels and burst panels to boost panels.<br>If target is stunned, boosts target's critical damage received."
+  },
+  {
+    "id": 12003302,
+    "description": "Before attacking, reduces target's Fire resistance by {0}% for 3 attacks.<br>After attacking, boosts own Stun Damage by {1}% for 2 turns and<br>boosts target's damage received by {2}% and critical damage received by {3}% for 2 attacks.<br>Before using this skill, upgrades all boost panels for 1 ally with highest M.ATK by 1 level and<br>converts all panels except boost-type panels and burst panels to boost panels (creates if empty).<br>If target is stunned, further boosts target's critical damage received by {6}% for 2 attacks.",
+    "name": "Amazing Hat",
+    "summary": "Before attacking, reduces target's Fire resistance.<br>After attacking, boosts own Stun Damage.<br>Boosts target's damage received and critical damage received.<br>Upgrades all boost panels for 1 ally with highest M.ATK by 1 level and converts all panels except boost-type panels and burst panels to boost panels.<br>If target is stunned, boosts target's critical damage received."
+  },
+  {
+    "id": 12003303,
+    "description": "Before attacking, reduces target's Fire resistance by {0}% for 3 attacks.<br>After attacking, boosts own Stun Damage by {1}% for 2 turns and<br>boosts target's damage received by {2}% and critical damage received by {3}% for 2 attacks.<br>Before using this skill, upgrades all boost panels for 1 ally with highest M.ATK by 1 level and<br>converts all panels except boost-type panels and burst panels to boost panels (creates if empty).<br>If target is stunned, further boosts target's critical damage received by {6}% for 2 attacks.",
+    "name": "Amazing Hat",
+    "summary": "Before attacking, reduces target's Fire resistance.<br>After attacking, boosts own Stun Damage.<br>Boosts target's damage received and critical damage received.<br>Upgrades all boost panels for 1 ally with highest M.ATK by 1 level and converts all panels except boost-type panels and burst panels to boost panels.<br>If target is stunned, boosts target's critical damage received."
+  },
+  {
+    "id": 12003304,
+    "description": "Before attacking, reduces target's Fire resistance by {0}% for 3 attacks.<br>After attacking, boosts own Stun Damage by {1}% for 2 turns and<br>boosts target's damage received by {2}% and critical damage received by {3}% for 2 attacks.<br>Before using this skill, upgrades all boost panels for 1 ally with highest M.ATK by 1 level and<br>converts all panels except boost-type panels and burst panels to boost panels (creates if empty).<br>If target is stunned, further boosts target's critical damage received by {6}% for 2 attacks.",
+    "name": "Amazing Hat",
+    "summary": "Before attacking, reduces target's Fire resistance.<br>After attacking, boosts own Stun Damage.<br>Boosts target's damage received and critical damage received.<br>Upgrades all boost panels for 1 ally with highest M.ATK by 1 level and converts all panels except boost-type panels and burst panels to boost panels.<br>If target is stunned, boosts target's critical damage received."
+  },
+  {
+    "id": 12003305,
+    "description": "Before attacking, reduces target's Fire resistance by {0}% for 3 attacks.<br>After attacking, boosts own Stun Damage by {1}% for 2 turns and<br>boosts target's damage received by {2}% and critical damage received by {3}% for 2 attacks.<br>Before using this skill, upgrades all boost panels for 1 ally with highest M.ATK by 1 level and<br>converts all panels except boost-type panels and burst panels to boost panels (creates if empty).<br>If target is stunned, further boosts target's critical damage received by {6}% for 2 attacks.",
+    "name": "Amazing Hat",
+    "summary": "Before attacking, reduces target's Fire resistance.<br>After attacking, boosts own Stun Damage.<br>Boosts target's damage received and critical damage received.<br>Upgrades all boost panels for 1 ally with highest M.ATK by 1 level and converts all panels except boost-type panels and burst panels to boost panels.<br>If target is stunned, boosts target's critical damage received."
+  },
+  {
+    "id": 14003306,
+    "description": "Before attacking, reduces target's Fire resistance by {0}% for 2 attacks.<br>After attacking, boosts own Stun Damage by {1}% for 3 turns and<br>boosts target's damage received by {2}% and critical damage received by {3}% for 2 attacks.<br>If target is stunned, further boosts target's critical damage received by {4}% (MAX 150%).",
+    "name": "Wisdom's Deception",
+    "summary": "Before attacking, reduces target's Fire resistance.<br>After attacking, boosts own Stun Damage.<br>Boosts target's damage received and critical damage received.<br>If target is stunned, boosts target's critical damage received."
+  },
+  {
+    "id": 14003307,
+    "description": "Before attacking, reduces target's Fire resistance by {0}% for 2 attacks.<br>After attacking, boosts own Stun Damage by {1}% for 3 turns and<br>boosts target's damage received by {2}% and critical damage received by {3}% for 2 attacks.<br>If target is stunned, further boosts target's critical damage received by {4}% (MAX 150%).",
+    "name": "Wisdom's Deception",
+    "summary": "Before attacking, reduces target's Fire resistance.<br>After attacking, boosts own Stun Damage.<br>Boosts target's damage received and critical damage received.<br>If target is stunned, boosts target's critical damage received."
+  },
+  {
+    "id": 14003308,
+    "description": "Before attacking, reduces target's Fire resistance by {0}% for 2 attacks.<br>After attacking, boosts own Stun Damage by {1}% for 3 turns and<br>boosts target's damage received by {2}% and critical damage received by {3}% for 2 attacks.<br>If target is stunned, further boosts target's critical damage received by {4}% (MAX 150%).",
+    "name": "Wisdom's Deception",
+    "summary": "Before attacking, reduces target's Fire resistance.<br>After attacking, boosts own Stun Damage.<br>Boosts target's damage received and critical damage received.<br>If target is stunned, boosts target's critical damage received."
+  },
+  {
+    "id": 14003309,
+    "description": "Before attacking, reduces target's Fire resistance by {0}% for 2 attacks.<br>After attacking, boosts own Stun Damage by {1}% for 3 turns and<br>boosts target's damage received by {2}% and critical damage received by {3}% for 2 attacks.<br>If target is stunned, further boosts target's critical damage received by {4}% (MAX 150%).",
+    "name": "Wisdom's Deception",
+    "summary": "Before attacking, reduces target's Fire resistance.<br>After attacking, boosts own Stun Damage.<br>Boosts target's damage received and critical damage received.<br>If target is stunned, boosts target's critical damage received."
+  },
+  {
+    "id": 14003310,
+    "description": "Before attacking, reduces target's Fire resistance by {0}% for 2 attacks.<br>After attacking, boosts own Stun Damage by {1}% for 3 turns and<br>boosts target's damage received by {2}% and critical damage received by {3}% for 2 attacks.<br>If target is stunned, further boosts target's critical damage received by {4}% (MAX 150%).",
+    "name": "Wisdom's Deception",
+    "summary": "Before attacking, reduces target's Fire resistance.<br>After attacking, boosts own Stun Damage.<br>Boosts target's damage received and critical damage received.<br>If target is stunned, boosts target's critical damage received."
+  },
+  {
+    "id": 14003326,
+    "description": "After attacking, boosts all allies' critical damage by {0}% (MAX 50%) and<br>Skill Damage by {1}% (MAX 50%).",
+    "name": "Rainbow Star",
+    "summary": "After attacking, boosts all allies' critical damage and Skill Damage."
+  },
+  {
+    "id": 14003327,
+    "description": "After attacking, grants all allies critical damage +{0}% (Max: 50%) and<br>skill damage +{1}% (Max: 50%).",
+    "name": "Rainbow Star",
+    "summary": "After attacking, boosts all allies' critical damage and skill damage."
+  },
+  {
+    "id": 14003328,
+    "description": "After attacking, grants all allies critical damage +{0}% (Max: 50%) and<br>skill damage +{1}% (Max: 50%).",
+    "name": "Rainbow Star",
+    "summary": "After attacking, boosts all allies' critical damage and skill damage."
+  },
+  {
+    "id": 14003329,
+    "description": "After attacking, grants all allies critical damage +{0}% (Max: 50%) and<br>skill damage +{1}% (Max: 50%).",
+    "name": "Rainbow Star",
+    "summary": "After attacking, boosts all allies' critical damage and skill damage."
+  },
+  {
+    "id": 14003330,
+    "description": "After attacking, grants all allies critical damage +{0}% (Max: 50%) and<br>skill damage +{1}% (Max: 50%).",
+    "name": "Rainbow Star",
+    "summary": "After attacking, boosts all allies' critical damage and skill damage."
+  },
+  {
+    "id": 14003331,
+    "description": "Boosts this attack's critical rate by 100%.<br>Before attacking, reduces target's status effect resistance by {0}% for 2 turns.<br>After attacking, boosts own M.ATK by {1}% and skill damage by {2}% for 2 turns, and<br>grants target Frozen with a very high chance for 3 attacks.",
+    "name": "Asteroid Breeze",
+    "summary": "Boosts this attack's critical rate.<br>Before attacking, reduces target's status effect resistance.<br>After attacking, boosts own M.ATK and skill damage.<br>Grants target Frozen with a very high chance."
+  },
+  {
+    "id": 14003332,
+    "description": "Boosts this attack's critical rate by 100%.<br>Before attacking, reduces target's status effect resistance by {0}% for 2 turns.<br>After attacking, boosts own M.ATK by {1}% and skill damage by {2}% for 2 turns, and<br>grants target Frozen with a very high chance for 3 attacks.",
+    "name": "Asteroid Breeze",
+    "summary": "Boosts this attack's critical rate.<br>Before attacking, reduces target's status effect resistance.<br>After attacking, boosts own M.ATK and skill damage.<br>Grants target Frozen with a very high chance."
+  },
+  {
+    "id": 14003333,
+    "description": "Boosts this attack's critical rate by 100%.<br>Before attacking, reduces target's status effect resistance by {0}% for 2 turns.<br>After attacking, boosts own M.ATK by {1}% and skill damage by {2}% for 2 turns, and<br>grants target Frozen with a very high chance for 3 attacks.",
+    "name": "Asteroid Breeze",
+    "summary": "Boosts this attack's critical rate.<br>Before attacking, reduces target's status effect resistance.<br>After attacking, boosts own M.ATK and skill damage.<br>Grants target Frozen with a very high chance."
+  },
+  {
+    "id": 14003334,
+    "description": "Boosts this attack's critical rate by 100%.<br>Before attacking, reduces target's status effect resistance by {0}% for 2 turns.<br>After attacking, boosts own M.ATK by {1}% and skill damage by {2}% for 2 turns, and<br>grants target Frozen with a very high chance for 3 attacks.",
+    "name": "Asteroid Breeze",
+    "summary": "Boosts this attack's critical rate.<br>Before attacking, reduces target's status effect resistance.<br>After attacking, boosts own M.ATK and skill damage.<br>Grants target Frozen with a very high chance."
+  },
+  {
+    "id": 14003335,
+    "description": "Boosts this attack's critical rate by 100%.<br>Before attacking, reduces target's status effect resistance by {0}% for 2 turns.<br>After attacking, boosts own M.ATK by {1}% and skill damage by {2}% for 2 turns, and<br>grants target Frozen with a very high chance for 3 attacks.",
+    "name": "Asteroid Breeze",
+    "summary": "Boosts this attack's critical rate.<br>Before attacking, reduces target's status effect resistance.<br>After attacking, boosts own M.ATK and skill damage.<br>Grants target Frozen with a very high chance."
+  },
+  {
+    "id": 14003336,
+    "description": "Boosts this attack's critical rate by 100% and critical damage by {0}%.<br>Before attacking, reduces target's status effect resistance by {1}% for 2 turns.<br>After attacking, boosts own M.ATK by {2}% and critical damage by {3}% for 2 turns, and<br>grants target Frozen with a very high chance for 3 attacks.",
+    "name": "Icicle Gift",
+    "summary": "Boosts this attack's critical rate and critical damage.<br>Before attacking, reduces target's status effect resistance.<br>After attacking, boosts own M.ATK and critical damage.<br>Grants target Frozen with a very high chance."
+  },
+  {
+    "id": 14003337,
+    "description": "Boosts this attack's critical rate by 100%.<br>After attacking, grants target Frozen with a very high chance for 2 attacks.",
+    "name": "Icicle Gift",
+    "summary": "Boosts this attack's critical rate.<br>After attacking, grants target Frozen with a very high chance."
+  },
+  {
+    "id": 14003368,
+    "description": "Removes the next turn of a single enemy within the first 3 positions on the timeline (Max: 3 activations).<br>※This active skill can be activated once per enemy stun.",
+    "name": "Remove Magic",
+    "summary": "Removes the next turn of a single selected enemy within the first 3 positions on the timeline."
+  },
+  {
+    "id": 32003582,
+    "description": "No additional effects.",
+    "name": "Tail Strike",
+    "summary": ""
+  },
+  {
+    "id": 32003583,
+    "description": "After attacking, grants target Nullify HP Recovery for 3 turns.",
+    "name": "Thunderfall",
+    "summary": ""
+  },
+  {
+    "id": 32003584,
+    "description": "After attacking, grants target 8 stacks of Poison (2%/3 turns).",
+    "name": "Spore Spray",
+    "summary": ""
+  },
+  {
+    "id": 32003585,
+    "description": "Grants target Regeneration (15%/3 turns).",
+    "name": "Fortune Call",
+    "summary": ""
+  },
+  {
+    "id": 32003586,
+    "description": "After attacking, grants target 8 stacks of Poison (2%/3 turns).",
+    "name": "Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 32003587,
+    "description": "Reduces target's damage dealt by 15% for 2 turns.",
+    "name": "Attack Down",
+    "summary": ""
+  },
+  {
+    "id": 32003588,
+    "description": "No additional effects.",
+    "name": "Lightning Strike",
+    "summary": ""
+  },
+  {
+    "id": 32003589,
+    "description": "After attacking, reduces single enemy's P.ATK by 15% for 2 turns and M.DEF by 15% for 2 turns.",
+    "name": "Vigorous Roar",
+    "summary": ""
+  },
+  {
+    "id": 32003590,
+    "description": "After attacking, delays the turn of all enemies with negative effects by 2 turns.",
+    "name": "Noisy Voice",
+    "summary": ""
+  },
+  {
+    "id": 32003591,
+    "description": "After attacking, grants target enemy Nullify Positive Effects for 2 turns.",
+    "name": "Thunder Shot",
+    "summary": ""
+  },
+  {
+    "id": 32003592,
+    "description": "Removes all positive effects from target enemy, then reduces their P. ATK by 15% and M. DEF by 15% for 2 turns.",
+    "name": "Unpleasant Cry",
+    "summary": ""
+  },
+  {
+    "id": 32003593,
+    "description": "Reduces skill target's damage received by 20% for 10 turns.",
+    "name": "Radiance of Life",
+    "summary": ""
+  },
+  {
+    "id": 32003594,
+    "description": "No additional effects.",
+    "name": "Trample",
+    "summary": ""
+  },
+  {
+    "id": 32003595,
+    "description": "No additional effects.",
+    "name": "Poison Scatter",
+    "summary": ""
+  },
+  {
+    "id": 32003596,
+    "description": "After attacking, increases skill target's damage received by 20% for 2 turns.",
+    "name": "Ominous Breath",
+    "summary": ""
+  },
+  {
+    "id": 32003597,
+    "description": "Increases skill target's damage dealt by 30% (permanent) and reduces their damage received by 30% (permanent), then restores own HP by 30%.",
+    "name": "Self-Mutation",
+    "summary": ""
+  },
+  {
+    "id": 32003598,
+    "description": "No additional effects.",
+    "name": "Heaven and Earth Reversal",
+    "summary": ""
+  },
+  {
+    "id": 32003599,
+    "description": "No additional effects.",
+    "name": "Spinning Saw",
+    "summary": ""
+  },
+  {
+    "id": 32003600,
+    "description": "No additional effects.",
+    "name": "Rolling Cut",
+    "summary": ""
+  },
+  {
+    "id": 32003601,
+    "description": "No additional effects.",
+    "name": "Spread Slash",
+    "summary": ""
+  },
+  {
+    "id": 32003602,
+    "description": "No additional effects.",
+    "name": "Ice Call",
+    "summary": ""
+  },
+  {
+    "id": 32003603,
+    "description": "Grants self Counter for 2 counterattacks.",
+    "name": "Counter Preparation",
+    "summary": ""
+  },
+  {
+    "id": 32003604,
+    "description": "Boosts target ally with positive effects' damage dealt by 10% and reduces their damage received by 10% for 2 turns, and boosts their SPD by 5% for 1 turn.",
+    "name": "Cheer Addition",
+    "summary": ""
+  },
+  {
+    "id": 32003605,
+    "description": "After attacking, reduces target enemy's SPD by 5% for 1 turn and reduces own damage received by 15% for 2 turns.",
+    "name": "Counter Tail",
+    "summary": ""
+  },
+  {
+    "id": 32003606,
+    "description": "Reduces skill target's damage received by 20% for 10 turns.",
+    "name": "Radiance of Life",
+    "summary": ""
+  },
+  {
+    "id": 32003607,
+    "description": "No additional effects.",
+    "name": "Trample",
+    "summary": ""
+  },
+  {
+    "id": 32003608,
+    "description": "No additional effects.",
+    "name": "Poison Scatter",
+    "summary": ""
+  },
+  {
+    "id": 32003609,
+    "description": "After attacking, increases skill target's damage received by 20% for 2 turns.",
+    "name": "Ominous Breath",
+    "summary": ""
+  },
+  {
+    "id": 32003610,
+    "description": "Grants Damage Dealt Up (30%/permanent) and Damage Received Down (30%/permanent) to the skill target and restores own HP by 30%.",
+    "name": "Self-Transformation",
+    "summary": ""
+  },
+  {
+    "id": 32003611,
+    "description": "No effect.",
+    "name": "Heaven and Earth Reversal",
+    "summary": ""
+  },
+  {
+    "id": 32003612,
+    "description": "Restores single ally's HP by 15%.",
+    "name": "Blessed Guidance",
+    "summary": ""
+  },
+  {
+    "id": 32003613,
+    "description": "After attacking, inflicts Poison (2%/5 turns) 8 times on the skill target.",
+    "name": "Explosive Bloom",
+    "summary": ""
+  },
+  {
+    "id": 32003614,
+    "description": "No effect.",
+    "name": "Magic Shoot",
+    "summary": ""
+  },
+  {
+    "id": 32003616,
+    "description": "No effect.",
+    "name": "Dangerous Bite",
+    "summary": ""
+  },
+  {
+    "id": 32003617,
+    "description": "After attacking, inflicts Damage Dealt Down (15%/3 turns) on the skill target.",
+    "name": "Sonic Voice",
+    "summary": ""
+  },
+  {
+    "id": 32003618,
+    "description": "After attacking, inflicts Poison (2%/5 turns) 5 times on the skill target.",
+    "name": "Poison Bite",
+    "summary": ""
+  },
+  {
+    "id": 32003619,
+    "description": "After attacking, inflicts SPD Down (4%/5 turns) on the skill target.",
+    "name": "Thunder Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32003620,
+    "description": "Before attacking, removes target's positive effects.\nObtains a random number.",
+    "name": "Rays Magic",
+    "summary": ""
+  },
+  {
+    "id": 32003621,
+    "description": "No effect.",
+    "name": "Stay",
+    "summary": ""
+  },
+  {
+    "id": 32003899,
+    "description": "After attacking, delays the skill target's turn by 3 turns.",
+    "name": "Tackle",
+    "summary": ""
+  },
+  {
+    "id": 32003900,
+    "description": "No effect.",
+    "name": "Rush",
+    "summary": ""
+  },
+  {
+    "id": 32003901,
+    "description": "After attacking, inflicts Damage Dealt Down (15%/permanent) on the skill target.",
+    "name": "Meteor Slash",
+    "summary": ""
+  },
+  {
+    "id": 32003902,
+    "description": "After attacking, inflicts Paralysis (80% chance/3 turns) on the skill target and delays their turn by 2 turns.",
+    "name": "Fall Impact",
+    "summary": ""
+  },
+  {
+    "id": 32003903,
+    "description": "No effect.",
+    "name": "Fall Slash",
+    "summary": ""
+  },
+  {
+    "id": 32003904,
+    "description": "No effect.",
+    "name": "Thunder Slash",
+    "summary": ""
+  },
+  {
+    "id": 32003905,
+    "description": "Grants Damage Received Down (15%/permanent) to the skill target.",
+    "name": "Cheer Up",
+    "summary": ""
+  },
+  {
+    "id": 32003906,
+    "description": "No effect.",
+    "name": "Lightning Strike",
+    "summary": ""
+  },
+  {
+    "id": 32003907,
+    "description": "After attacking, inflicts P.ATK Down (15%/2 turns) and M.DEF Down (15%/2 turns) on a single enemy.",
+    "name": "Horn Strike",
+    "summary": ""
+  },
+  {
+    "id": 32003908,
+    "description": "After attacking, delays the turns of all enemies with negative effects by 3 turns.",
+    "name": "Noisy Voice",
+    "summary": ""
+  },
+  {
+    "id": 32003909,
+    "description": "After attacking, grants nullify positive effects to single enemy for 2 turns.",
+    "name": "Thunder Shot",
+    "summary": ""
+  },
+  {
+    "id": 32003910,
+    "description": "Removes all positive effects from single enemy and reduces P.ATK by 15% for 2 turns and M.DEF by 15% for 2 turns.",
+    "name": "Nasty Screech",
+    "summary": ""
+  },
+  {
+    "id": 32003911,
+    "description": "After attacking, grants Poison x3 (100% chance/3 turns) to target. If target has 3 or more stacks of Poison, grants Poison x3 (100% chance/3 turns).",
+    "name": "Toxic Burst",
+    "summary": ""
+  },
+  {
+    "id": 32003912,
+    "description": "After attacking, increases target's damage received by 25% (Max 50%).",
+    "name": "Blizzard Gale",
+    "summary": ""
+  },
+  {
+    "id": 32003913,
+    "description": "After attacking, grants Poison x3 (100% chance/3 turns) to target.",
+    "name": "Poison Rock Drop",
+    "summary": ""
+  },
+  {
+    "id": 32003914,
+    "description": "Reduces target's stun damage dealt by 30% for 2 turns and reduces stun damage dealt by 50% for area attacks for 2 turns.",
+    "name": "Debilitating Cry",
+    "summary": ""
+  },
+  {
+    "id": 32003915,
+    "description": "No effects.",
+    "name": "Glide",
+    "summary": ""
+  },
+  {
+    "id": 32003916,
+    "description": "Boosts own damage dealt by 15% for 3 turns.",
+    "name": "Aerial Dance",
+    "summary": ""
+  },
+  {
+    "id": 32003917,
+    "description": "After attacking, grants Paralysis (100% chance/3 turns) to target.",
+    "name": "Paralyze Gale",
+    "summary": ""
+  },
+  {
+    "id": 32003918,
+    "description": "No effects.",
+    "name": "Mini Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32003919,
+    "description": "After attacking, reduces all enemies' damage dealt by 25% for 2 turns and stun damage dealt by 25% for 2 turns.",
+    "name": "Needle Blast",
+    "summary": ""
+  },
+  {
+    "id": 32003920,
+    "description": "No effects.",
+    "name": "Turtle Head",
+    "summary": ""
+  },
+  {
+    "id": 32003921,
+    "description": "After attacking, reduces target's stun damage dealt by 20% for 2 turns.",
+    "name": "Thunder Bite",
+    "summary": ""
+  },
+  {
+    "id": 32003922,
+    "description": "After attacking, reduces all enemies' damage dealt by 20% for 2 turns.",
+    "name": "Thunder Breath",
+    "summary": ""
+  },
+  {
+    "id": 32003923,
+    "description": "No effects.",
+    "name": "Spin Needle",
+    "summary": ""
+  },
+  {
+    "id": 32003924,
+    "description": "Reduces all enemies' critical damage by 25% for 2 turns.",
+    "name": "Dark Breath",
+    "summary": ""
+  },
+  {
+    "id": 32003925,
+    "description": "Reduces all allies' stun damage received by 25% for 2 turns.",
+    "name": "Shell Field",
+    "summary": ""
+  },
+  {
+    "id": 32003926,
+    "description": "After attacking, converts all panels to HP Recovery panels for 1 turn.",
+    "name": "Assault",
+    "summary": ""
+  },
+  {
+    "id": 32003927,
+    "description": "No effects.",
+    "name": "Tornado Summoning",
+    "summary": ""
+  },
+  {
+    "id": 32003928,
+    "description": "No additional effects.",
+    "name": "Wind Orb",
+    "summary": ""
+  },
+  {
+    "id": 32003929,
+    "description": "After attacking, reduces target's damage dealt by 10% for 3 turns.",
+    "name": "Bite",
+    "summary": ""
+  },
+  {
+    "id": 32003930,
+    "description": "Boosts damage dealt by 25% for 3 turns for all allies.",
+    "name": "Distant Howl",
+    "summary": ""
+  },
+  {
+    "id": 32003931,
+    "description": "Recovers target's HP by 15% and advances their turn by 3 turns.",
+    "name": "Reward",
+    "summary": ""
+  },
+  {
+    "id": 32003932,
+    "description": "After attacking, converts 1 non-BS panel on the skill target into a weaken panel.",
+    "name": "Surprise Burn",
+    "summary": ""
+  },
+  {
+    "id": 32003933,
+    "description": "No additional effects.",
+    "name": "Burning Tongue",
+    "summary": ""
+  },
+  {
+    "id": 32003934,
+    "description": "After attacking, inflicts Darkness on the skill target for 2 turns.",
+    "name": "Magical Slash",
+    "summary": ""
+  },
+  {
+    "id": 32003935,
+    "description": "After attacking, reduces skill target's positive effect potency by 35% for 2 turns.",
+    "name": "Curse Burn",
+    "summary": ""
+  },
+  {
+    "id": 32003936,
+    "description": "After attacking, increases skill target's magical damage received by 20% for 2 turns.",
+    "name": "Magical Dark Slide",
+    "summary": ""
+  },
+  {
+    "id": 32003937,
+    "description": "Recovers all allies' HP by 10%, then reduces damage received by 20% for 2 turns.",
+    "name": "Heal All",
+    "summary": ""
+  },
+  {
+    "id": 32003938,
+    "description": "No additional effects.",
+    "name": "Assault Glacier",
+    "summary": ""
+  },
+  {
+    "id": 32003939,
+    "description": "After attacking, increases target's damage received by 20% for 2 turns.",
+    "name": "Ice Burn",
+    "summary": ""
+  },
+  {
+    "id": 32003940,
+    "description": "No additional effects.",
+    "name": "Ice Crash",
+    "summary": ""
+  },
+  {
+    "id": 32003941,
+    "description": "No additional effects.",
+    "name": "Buster Arm",
+    "summary": ""
+  },
+  {
+    "id": 32003942,
+    "description": "After attacking, reduces stun damage dealt by 20% for 1 turn for all enemies.",
+    "name": "Heavy Flail",
+    "summary": ""
+  },
+  {
+    "id": 32003943,
+    "description": "Reduces damage received by 30% and stun damage received by 30% for 1 turn for all allies.",
+    "name": "Defensive Call",
+    "summary": ""
+  },
+  {
+    "id": 32003944,
+    "description": "After attacking, converts all enemy panels into burn panels (excluding BS panels).",
+    "name": "Hellfire of the Abyss",
+    "summary": ""
+  },
+  {
+    "id": 32003945,
+    "description": "After attacking, inflicts 2 stacks of Poison on the skill target for 3 turns and reduces HP recovery dealt by 20% for 3 turns.",
+    "name": "Tentacle",
+    "summary": ""
+  },
+  {
+    "id": 32003946,
+    "description": "After attacking, inflicts 1 stack of Poison on all enemies for 3 turns.\nIf skill target has a status effect, boosts own skill damage by 15%.",
+    "name": "Silent Sting",
+    "summary": ""
+  },
+  {
+    "id": 32003947,
+    "description": "After attacking, creates burn panels on 3 timeline positions and reduces SPD by 5% for 3 turns for all enemies.",
+    "name": "Hellfire Emission",
+    "summary": ""
+  },
+  {
+    "id": 32003948,
+    "description": "Inflicts Blindness (1 stack) on all enemies for 1 turn, reduces damage dealt by 20% for 3 turns, and reduces critical rate by 20% for 2 turns.",
+    "name": "Light Ball Explosion",
+    "summary": ""
+  },
+  {
+    "id": 32003949,
+    "description": "No effect.",
+    "name": "Gravel Storm",
+    "summary": ""
+  },
+  {
+    "id": 32003950,
+    "description": "No effect.",
+    "name": "Pain Strike",
+    "summary": ""
+  },
+  {
+    "id": 32003951,
+    "description": "After attacking, reduces single enemy's SPD by 10% for 2 turns.",
+    "name": "Wind Ball",
+    "summary": ""
+  },
+  {
+    "id": 32003952,
+    "description": "No effect.",
+    "name": "Bough Scatter",
+    "summary": ""
+  },
+  {
+    "id": 32003953,
+    "description": "After attacking, increases all enemies' damage received by 25% for 3 turns.",
+    "name": "Ancient Dragon Whirlwind",
+    "summary": ""
+  },
+  {
+    "id": 32003954,
+    "description": "Reduces all enemies' damage dealt by 25% for 3 turns.",
+    "name": "Intimidating Roar",
+    "summary": ""
+  },
+  {
+    "id": 32003955,
+    "description": "Grants self Evasion for 3 turns and Nullify Negative Effects for 2 turns.",
+    "name": "Abandonment",
+    "summary": ""
+  },
+  {
+    "id": 32003956,
+    "description": "After attacking, grants self Counter Attack Damage Dealt +5% permanently.",
+    "name": "Wild Swing",
+    "summary": ""
+  },
+  {
+    "id": 32003957,
+    "description": "No effect.",
+    "name": "Crushing Blow",
+    "summary": ""
+  },
+  {
+    "id": 32003958,
+    "description": "After attacking, grants self Damage Received -20% for 2 turns.",
+    "name": "Falling Strike",
+    "summary": ""
+  },
+  {
+    "id": 32003959,
+    "description": "After attacking, converts 5 panels except burst panels on target enemy's timeline to weaken panels.",
+    "name": "Mad Swing",
+    "summary": ""
+  },
+  {
+    "id": 32003960,
+    "description": "Grants self All Element Resistance +25% for 2 turns.\nGrants self Regeneration 5% for 3 turns.",
+    "name": "Rolling",
+    "summary": ""
+  },
+  {
+    "id": 32003961,
+    "description": "No effect.",
+    "name": "Counterattack",
+    "summary": ""
+  },
+  {
+    "id": 32003962,
+    "description": "No effect.",
+    "name": "Shield Charge",
+    "summary": ""
+  },
+  {
+    "id": 32003963,
+    "description": "No effect.",
+    "name": "Rampage",
+    "summary": ""
+  },
+  {
+    "id": 32003964,
+    "description": "No effect.",
+    "name": "Down Thrust",
+    "summary": ""
+  },
+  {
+    "id": 32003965,
+    "description": "No effect.",
+    "name": "Raging Slash",
+    "summary": ""
+  },
+  {
+    "id": 32003966,
+    "description": "No effect.",
+    "name": "Raging Fire",
+    "summary": ""
+  },
+  {
+    "id": 32003968,
+    "description": "After attacking, delays skill target's turn by 3 turns.",
+    "name": "Tackle",
+    "summary": ""
+  },
+  {
+    "id": 32003969,
+    "description": "No additional effects.",
+    "name": "Rush",
+    "summary": ""
+  },
+  {
+    "id": 32003970,
+    "description": "After attacking, reduces target's damage dealt by 15% permanently.",
+    "name": "Meteor Slash",
+    "summary": ""
+  },
+  {
+    "id": 32003971,
+    "description": "After attacking, inflicts Paralysis on target (80% chance for 3 turns) and delays their turn by 3 turns.",
+    "name": "Fall Impact",
+    "summary": ""
+  },
+  {
+    "id": 32003972,
+    "description": "No additional effects.",
+    "name": "Fall Slash",
+    "summary": ""
+  },
+  {
+    "id": 32003973,
+    "description": "No additional effects.",
+    "name": "Thunder Slash",
+    "summary": ""
+  },
+  {
+    "id": 32003974,
+    "description": "Reduces target's damage received by 15% permanently.",
+    "name": "Cheer Up",
+    "summary": ""
+  },
+  {
+    "id": 32003975,
+    "description": "No additional effects.",
+    "name": "Lightning Strike",
+    "summary": ""
+  },
+  {
+    "id": 32003976,
+    "description": "After attacking, reduces single enemy's P.ATK by 15% for 2 turns and M.DEF by 15% for 2 turns.",
+    "name": "Piercing Roar",
+    "summary": ""
+  },
+  {
+    "id": 32003977,
+    "description": "After attacking, delays the turn of all enemies with negative effects by 2 turns.",
+    "name": "Noisy Voice",
+    "summary": ""
+  },
+  {
+    "id": 32003978,
+    "description": "After attacking, grants Nullify Positive Effects to single enemy for 2 turns.",
+    "name": "Thunder Shot",
+    "summary": ""
+  },
+  {
+    "id": 32003979,
+    "description": "Removes all positive effects from single enemy and reduces P.ATK by 15% for 2 turns and M.DEF by 15% for 2 turns.",
+    "name": "Unpleasant Cry",
+    "summary": ""
+  },
+  {
+    "id": 32003980,
+    "description": "After attacking, inflicts Poison x3 on target (100% chance for 3 turns). If target has 3 or more Poisons, inflicts Poison x3 (100% chance for 3 turns).",
+    "name": "Toxic Explosion",
+    "summary": ""
+  },
+  {
+    "id": 32003981,
+    "description": "After attacking, increases target's damage received by 25% (MAX 50%).",
+    "name": "Raging Blizzard",
+    "summary": ""
+  },
+  {
+    "id": 32003982,
+    "description": "After attacking, inflicts Poison x3 on target (100% chance for 3 turns).",
+    "name": "Poison Boulder Drop",
+    "summary": ""
+  },
+  {
+    "id": 32003983,
+    "description": "Reduces target's stun damage dealt by 40% for 2 turns and stun damage dealt with area attacks by 60% for 2 turns.",
+    "name": "Weakening Cry",
+    "summary": ""
+  },
+  {
+    "id": 32003984,
+    "description": "No additional effects.",
+    "name": "Glide",
+    "summary": ""
+  },
+  {
+    "id": 32003985,
+    "description": "Boosts own damage dealt by 15% for 3 turns.",
+    "name": "Aerial Dance",
+    "summary": ""
+  },
+  {
+    "id": 32003986,
+    "description": "After attacking, inflicts Paralysis on target (100% chance for 3 turns).",
+    "name": "Paralyze Gale",
+    "summary": ""
+  },
+  {
+    "id": 32003987,
+    "description": "No additional effects.",
+    "name": "Mini Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32003988,
+    "description": "After attacking, reduces all enemies' damage dealt by 40% for 2 turns and stun damage dealt by 40% for 2 turns.",
+    "name": "Needle Blast",
+    "summary": ""
+  },
+  {
+    "id": 32003989,
+    "description": "No additional effects.",
+    "name": "Turtle Head",
+    "summary": ""
+  },
+  {
+    "id": 32003990,
+    "description": "After attacking, reduces skill target's Stun Damage Dealt by 30% for 2 turns.",
+    "name": "Thunder Bite",
+    "summary": ""
+  },
+  {
+    "id": 32003991,
+    "description": "After attacking, reduces all enemies' damage dealt by 30% for 2 turns.",
+    "name": "Thunder Breath",
+    "summary": ""
+  },
+  {
+    "id": 32003992,
+    "description": "No additional effects.",
+    "name": "Spin Needle",
+    "summary": ""
+  },
+  {
+    "id": 32003993,
+    "description": "Reduces all enemies' critical damage by 30% for 2 turns.",
+    "name": "Dark Breath",
+    "summary": ""
+  },
+  {
+    "id": 32003994,
+    "description": "Reduces all allies' Stun Damage Received by 40% for 2 turns.",
+    "name": "Shell Field",
+    "summary": ""
+  },
+  {
+    "id": 32003995,
+    "description": "After attacking, converts all panels into HP recovery panels for 1 space.",
+    "name": "Assault",
+    "summary": ""
+  },
+  {
+    "id": 32003996,
+    "description": "No additional effects.",
+    "name": "Whirlwind",
+    "summary": ""
+  },
+  {
+    "id": 32003997,
+    "description": "No additional effects.",
+    "name": "Wind Orb",
+    "summary": ""
+  },
+  {
+    "id": 32003998,
+    "description": "After attacking, reduces target's damage dealt by 30% for 3 turns.",
+    "name": "Bite Down",
+    "summary": ""
+  },
+  {
+    "id": 32003999,
+    "description": "Boosts all allies' damage dealt by 25% for 3 turns.",
+    "name": "Howl",
+    "summary": ""
+  },
+  {
+    "id": 32004000,
+    "description": "Restores target's HP by 20%, and shifts their turn 3 turn(s) earlier.",
+    "name": "Reward",
+    "summary": ""
+  },
+  {
+    "id": 32004001,
+    "description": "After attacking, converts skill target's panel (except burst panels) into a weaken panel for 1 panel.",
+    "name": "Surprise Burn",
+    "summary": ""
+  },
+  {
+    "id": 32004002,
+    "description": "No additional effects.",
+    "name": "Burning Tongue",
+    "summary": ""
+  },
+  {
+    "id": 32004003,
+    "description": "After attacking, inflicts Darkness on skill target for 2 turns.",
+    "name": "Magical Slash",
+    "summary": ""
+  },
+  {
+    "id": 32004004,
+    "description": "After attacking, reduces skill target's positive effect potency received by 35% for 2 turns.",
+    "name": "Curse Burn",
+    "summary": ""
+  },
+  {
+    "id": 32004005,
+    "description": "After attacking, increases skill target's magical damage received by 20% for 2 turns.",
+    "name": "Magical Dark Slide",
+    "summary": ""
+  },
+  {
+    "id": 32004006,
+    "description": "Restores all allies' HP by 10%, then reduces their damage received by 20% for 2 turns.",
+    "name": "Heal All",
+    "summary": ""
+  },
+  {
+    "id": 32004007,
+    "description": "No additional effects.",
+    "name": "Assault Glacier",
+    "summary": ""
+  },
+  {
+    "id": 32004008,
+    "description": "After attacking, increases target's damage received by 20% for 2 turns.",
+    "name": "Ice Burn",
+    "summary": ""
+  },
+  {
+    "id": 32004009,
+    "description": "効果なし",
+    "name": "Ice Crash",
+    "summary": ""
+  },
+  {
+    "id": 32004010,
+    "description": "効果なし",
+    "name": "Buster Arm",
+    "summary": ""
+  },
+  {
+    "id": 32004011,
+    "description": "After attacking, reduces target's stun damage dealt by 20% for 1 turn.",
+    "name": "Heavy Flail",
+    "summary": ""
+  },
+  {
+    "id": 32004012,
+    "description": "Reduces damage received by 30% for all allies for 3 turns and reduces stun damage received by 30% for 3 turns.",
+    "name": "Defensive Call",
+    "summary": ""
+  },
+  {
+    "id": 32004013,
+    "description": "After attacking, converts all enemies' panels to burn panels (excluding burst panels).",
+    "name": "Infernal Hellfire",
+    "summary": ""
+  },
+  {
+    "id": 32004014,
+    "description": "After attacking, inflicts 6 stacks of Poison on skill target for 3 turns and reduces HP recovery granted by 20% for 3 turns.",
+    "name": "Tentacle",
+    "summary": ""
+  },
+  {
+    "id": 32004015,
+    "description": "After attacking, inflicts 4 stacks of Poison on all enemies for 3 turns.\nIf skill target has a status effect, boosts own skill damage by 15%.",
+    "name": "Silent Sting",
+    "summary": ""
+  },
+  {
+    "id": 32004016,
+    "description": "After attacking, creates burn panels on the timeline for 3 turns and reduces all enemies' SPD by 5% for 3 turns.",
+    "name": "Hellfire Blast",
+    "summary": ""
+  },
+  {
+    "id": 32004017,
+    "description": "Inflicts 1 stack of Darkness on all enemies for 1 turn, reduces damage dealt by 40% for 3 turns, and reduces critical rate by 50% for 2 turns.",
+    "name": "Light Orb Blast",
+    "summary": ""
+  },
+  {
+    "id": 32004018,
+    "description": "効果なし",
+    "name": "Shattered Earth Storm",
+    "summary": ""
+  },
+  {
+    "id": 32004019,
+    "description": "効果なし",
+    "name": "Painful Strike",
+    "summary": ""
+  },
+  {
+    "id": 32004020,
+    "description": "After attacking, reduces single enemy's SPD by 10% for 2 turns.",
+    "name": "Wind Orb",
+    "summary": ""
+  },
+  {
+    "id": 32004021,
+    "description": "効果なし",
+    "name": "Plank Scatter",
+    "summary": ""
+  },
+  {
+    "id": 32004022,
+    "description": "After attacking, increases all enemies' damage received by 25% for 3 turns.",
+    "name": "Ancient Dragon Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32004023,
+    "description": "Reduces all enemies' damage dealt by 60% for 3 turns.",
+    "name": "Intimidating Roar",
+    "summary": ""
+  },
+  {
+    "id": 32004024,
+    "description": "Grants self Evasion for 2 turns and Negative Effects Immunity for 2 turns.",
+    "name": "Foresight",
+    "summary": ""
+  },
+  {
+    "id": 32004025,
+    "description": "After attacking, grants self damage dealt +5% during counterattacks (permanent).",
+    "name": "Wild Swing",
+    "summary": ""
+  },
+  {
+    "id": 32004026,
+    "description": "効果なし",
+    "name": "Fierce Crush",
+    "summary": ""
+  },
+  {
+    "id": 32004027,
+    "description": "After attacking, reduces own damage received by 40% for 2 turns.",
+    "name": "Falling Strike",
+    "summary": ""
+  },
+  {
+    "id": 32004028,
+    "description": "After attacking, converts 5 of target enemy's panels other than burst panels to weaken panels.",
+    "name": "Wild Swing",
+    "summary": ""
+  },
+  {
+    "id": 32004029,
+    "description": "Grants self All resistance up (25% for 3 turns).\nGrants self Regeneration (5% for 3 turns).",
+    "name": "Drift",
+    "summary": ""
+  },
+  {
+    "id": 32004030,
+    "description": "No effect",
+    "name": "Counterattack",
+    "summary": ""
+  },
+  {
+    "id": 32004031,
+    "description": "No effect",
+    "name": "Shield Charge",
+    "summary": ""
+  },
+  {
+    "id": 32004032,
+    "description": "No effect",
+    "name": "Rampage",
+    "summary": ""
+  },
+  {
+    "id": 32004033,
+    "description": "No effect",
+    "name": "Down Thrust",
+    "summary": ""
+  },
+  {
+    "id": 32004034,
+    "description": "No effect",
+    "name": "Raging Slash",
+    "summary": ""
+  },
+  {
+    "id": 32004035,
+    "description": "No effect",
+    "name": "Rage Fire",
+    "summary": ""
+  },
+  {
+    "id": 32004036,
+    "description": "Grants self damage received down (50% for 3 turns) and enters cover state (3 turns).",
+    "name": "Covering",
+    "summary": ""
+  },
+  {
+    "id": 32004037,
+    "description": "After attacking, delays skill target's turn by 3 turns.",
+    "name": "Tackle",
+    "summary": ""
+  },
+  {
+    "id": 32004038,
+    "description": "No effect",
+    "name": "Rush",
+    "summary": ""
+  },
+  {
+    "id": 32004039,
+    "description": "After attacking, grants skill target damage dealt down (20% for 3 turns).",
+    "name": "Meteor Slash",
+    "summary": ""
+  },
+  {
+    "id": 32004040,
+    "description": "No effect",
+    "name": "Fire Slash",
+    "summary": ""
+  },
+  {
+    "id": 32004041,
+    "description": "Grants skill target damage dealt up (20% for 1 turn).",
+    "name": "Cheer Up",
+    "summary": ""
+  },
+  {
+    "id": 32004042,
+    "description": "After attacking, grants skill target damage dealt down (30% for 3 turns).",
+    "name": "Call Hellfire",
+    "summary": ""
+  },
+  {
+    "id": 32004043,
+    "description": "No effect",
+    "name": "Shadow Punch",
+    "summary": ""
+  },
+  {
+    "id": 32004044,
+    "description": "After attacking, grants skill target damage dealt down (15% for 2 turns).",
+    "name": "Shadow Fire",
+    "summary": ""
+  },
+  {
+    "id": 32004045,
+    "description": "Inflicts Darkness on skill target (3 turns).",
+    "name": "Shadow Curse",
+    "summary": ""
+  },
+  {
+    "id": 32004046,
+    "description": "After attacking, creates empty panels for all enemies.",
+    "name": "Mill Storm",
+    "summary": ""
+  },
+  {
+    "id": 32004047,
+    "description": "No effect",
+    "name": "Tail Rush",
+    "summary": ""
+  },
+  {
+    "id": 32004048,
+    "description": "After attacking, converts enemy target's panel to a weaken panel.",
+    "name": "Wind Ball",
+    "summary": ""
+  },
+  {
+    "id": 32004049,
+    "description": "After attacking, reduces all enemies' SPD by 15% for 1 turn.",
+    "name": "Bloodstorm",
+    "summary": ""
+  },
+  {
+    "id": 32004050,
+    "description": "Increases positive effect potency gained from boost-type panels by 25% for 2 turns for all allies, and restores all allies' HP by 15%.",
+    "name": "Rousing Call",
+    "summary": ""
   }
 ]

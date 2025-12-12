@@ -1,0 +1,699 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "とりあえず鏑矢さんと千歳さんは\n丁重に王宮へお送りしてきました！",
+        "localizations": {
+          "en": "Kaburaya and Chitose have been escorted back to the palace safely!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "ありがとう。来賓にも被害が出てしまったら、\nランターナの名誉に関わるからね",
+        "localizations": {
+          "en": "Thank you. If our guests were affected, it would reflect poorly on Lantarna's reputation."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "こっちは騎士のみんなに倉庫を調べてもらったけど、\nやっぱり誰かが盗みに入ったみたい！",
+        "localizations": {
+          "en": "I had the knights search the warehouse, and it looks like someone definitely broke in!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "そんな……せっかく作った星誕祭のプレゼントが\n盗まれちゃうなんて……",
+        "localizations": {
+          "en": "Oh no... Someone stole all the presents we made for the Star Festival..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "昨今、王都周辺で盗難騒ぎが相次いでいるという\n話は聞いていたのだが、まさか王城の倉庫を狙うとは",
+        "localizations": {
+          "en": "I'd heard there's been a string of thefts around the capital lately, but I never imagined they'd target the castle's warehouse."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "本当だよね！\u3000しかもみんなが楽しみにしてる\nレスナちゃんのお菓子を盗むなんて！\u3000許せないよ！",
+        "localizations": {
+          "en": "Right?! And to steal the sweets everyone was looking forward to! I won't forgive them!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "イザナちゃん落ち着いて。ハンマーを振り回して\n倉庫を壊したりしちゃわないように……",
+        "localizations": {
+          "en": "Calm down, Izana. Please don't swing your hammer around and smash up the warehouse..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "だ、大丈夫。ハンマーは気持ちを落ち着ける効果も\nあるから。……ほら、落ち着いてきた",
+        "localizations": {
+          "en": "I-I'm fine. My hammer helps me calm down too. ...See? I'm calmer already."
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "犯人は、盗んだお菓子をどこにやったんだろう？\nあのお菓子、結構な量作ってたよね？",
+        "localizations": {
+          "en": "Where did they take all those sweets? We made a ton of them, right?"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "恐らく人目を避けて夜中に運び出したのだろうが\nそれでもあまり遠くに持ち出せるとは思えない",
+        "localizations": {
+          "en": "They probably moved them at night to avoid being seen, but I doubt they could've taken them very far."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "となると、とりあえずこの湾岸地区を調べてみます？",
+        "localizations": {
+          "en": "So should we start by searching the harbor district?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "他の倉庫とか、船の中だね！\nよし、行こう！",
+        "localizations": {
+          "en": "Other warehouses and ships! Let's go!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "頼んだよ。事務的な処理のほうは\n私が手続きをしておくから",
+        "localizations": {
+          "en": "I'm counting on you. I'll handle the administrative side of things."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "最近たくさんの荷物を運んでた倉庫とか、\n船とか、商会はないかな？",
+        "localizations": {
+          "en": "Are there any warehouses, ships, or trading companies that have been moving lots of cargo lately?"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "どうだろ？\u3000港は荷物の出入りが多いし\n案外目立たないのかも……",
+        "localizations": {
+          "en": "Hard to say. The harbor has so much cargo coming and going that it might not even stand out..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "おっ、イザナにレスナじゃないか。\nどうしたんだ。こんなとこで",
+        "localizations": {
+          "en": "Hey, if it isn't Izana and Resna. What brings you here?"
+        }
+      },
+      "2072370017": {
+        "text": "マクダ",
+        "localizations": {
+          "en": "Magda"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "マクダさん！\u3000こんにちは。\n今ちょっと探し物をしてて",
+        "localizations": {
+          "en": "Magda! Hello. We're looking for something right now."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "なんだ、お前もか？",
+        "localizations": {
+          "en": "Huh, you too?"
+        }
+      },
+      "2072370017": {
+        "text": "マクダ",
+        "localizations": {
+          "en": "Magda"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "も？",
+        "localizations": {
+          "en": "Too?"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "ブラッドも調査だとかなんとか言って\nうちの店にやって来たんだよ",
+        "localizations": {
+          "en": "Brad showed up at my shop too, saying something about an investigation."
+        }
+      },
+      "2072370017": {
+        "text": "マクダ",
+        "localizations": {
+          "en": "Magda"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "マクダさん、お店開いたんですか？",
+        "localizations": {
+          "en": "You opened a shop, Magda?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "ちっとばかし用心棒として雇われてるだけだ。\n何やら繁盛してる喫茶店みたいでよ",
+        "localizations": {
+          "en": "Just doing some guard work for hire. Some bustling cafe, apparently."
+        }
+      },
+      "2072370017": {
+        "text": "マクダ",
+        "localizations": {
+          "en": "Magda"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "繁盛してる喫茶店……！\n情報があるかも！\u3000行ってみようよ！",
+        "localizations": {
+          "en": "A bustling cafe...! There might be information there! Let's check it out!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "イザナちゃん、何か食べたいだけだったりしない？",
+        "localizations": {
+          "en": "Izana, are you just hungry?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "ギクッ",
+        "localizations": {
+          "en": "Eep!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "ははは、ま、いいんじゃねえか。ちっとくらい。\nほんじゃ２名様ごあんな～い！",
+        "localizations": {
+          "en": "Hahaha! Well, why not? Party of two, right this way!"
+        }
+      },
+      "2072370017": {
+        "text": "マクダ",
+        "localizations": {
+          "en": "Magda"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "いらっしゃいませ、お客様",
+        "localizations": {
+          "en": "Welcome, dear guests."
+        }
+      },
+      "2072370017": {
+        "text": "リゼ",
+        "localizations": {
+          "en": "Lise"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "く、クリセルダ！\nそれにアンチュ！？",
+        "localizations": {
+          "en": "C-Criselda! And Antje?!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "はて、どちらさまかしら？\n私の名前はリゼと申しますわ。はじめまして",
+        "localizations": {
+          "en": "I beg your pardon? My name is Lise. Pleased to make your acquaintance."
+        }
+      },
+      "2072370017": {
+        "text": "リゼ",
+        "localizations": {
+          "en": "Lise"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "私はアン……です。\nよろしくね……お姉ちゃん",
+        "localizations": {
+          "en": "I'm Ann... Nice to meet you... big sister."
+        }
+      },
+      "2072370017": {
+        "text": "アン",
+        "localizations": {
+          "en": "Ann"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "いやいや、いくらなんでも\n他人のフリなんて無理あるから！",
+        "localizations": {
+          "en": "Come on, even you can't pull off pretending to be someone else!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "クリセルダさんは黒ウサギで、\nアンチュちゃんは白ウサギなんだ、かわいい……！",
+        "localizations": {
+          "en": "Criselda's a black rabbit and Antje's a white rabbit! So cute...!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "そ……そう、かな",
+        "localizations": {
+          "en": "Y-you think so?"
+        }
+      },
+      "2072370017": {
+        "text": "アン",
+        "localizations": {
+          "en": "Ann"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "おいアンチュよぉ、他人のフリできてねーぞ",
+        "localizations": {
+          "en": "Hey Antje, you're not foolin' anyone here."
+        }
+      },
+      "2072370017": {
+        "text": "ルアッカ",
+        "localizations": {
+          "en": "Scarlet"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "ル、ルアッカだって私の名前……！",
+        "localizations": {
+          "en": "S-Scarlet, you said my name too...!"
+        }
+      },
+      "2072370017": {
+        "text": "アン",
+        "localizations": {
+          "en": "Ann"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "……なんで喫茶店で、しかもそんな格好で\n働いてるのか分かんないけど……",
+        "localizations": {
+          "en": "...I don't know why you're working at a cafe dressed like that, but..."
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "こっちもちょっと事件が起きてて、\n情報収集したいんだよね",
+        "localizations": {
+          "en": "We've got a bit of a situation ourselves. We need to gather some information."
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "……他のお客様のご迷惑になりますし、\n猫耳のお客様はお店の裏までご同行、よろしいですか？",
+        "localizations": {
+          "en": "...You're disturbing the other guests. Miss Cat Ears, would you mind accompanying me to the back?"
+        }
+      },
+      "2072370017": {
+        "text": "リゼ",
+        "localizations": {
+          "en": "Lise"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "え？\u3000えっ！？\nちょっと、離して～！",
+        "localizations": {
+          "en": "Huh? Wait! Let go of me!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "え、えっと……ごめん。また後で、ね？",
+        "localizations": {
+          "en": "Um... sorry. Maybe... later?"
+        }
+      },
+      "2072370017": {
+        "text": "アン",
+        "localizations": {
+          "en": "Ann"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "あのー……私は……？",
+        "localizations": {
+          "en": "Um... what about me...?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  }
+]

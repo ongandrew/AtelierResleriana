@@ -925,5 +925,37 @@
     "profile_voice_text": "I'm Citrine. Since we're together now,\nmake sure to entertain me lots, okay?",
     "sort_name": "Citrine",
     "start_at": "2025-11-28T03:00:00Z"
+  },
+  {
+    "id": 44803,
+    "acquisition_text": "Reviving alchemy is my wish as well. Now, let us go together.",
+    "another_name": "[For effect_condition]",
+    "description": "Resna's alchemy mentor.\nWhile traveling, she stopped by Resna's village and taught her the basics of alchemy.\nShe has a cheerful and easygoing personality, but shows a strict side when it comes to alchemy.\nHer private life is quite carefree, and Resna often looks after her.",
+    "fullname": "Saskia",
+    "leader_skill": {
+      "description": "Boosts all allies' critical damage by 5% for each Lantarna character in the party.",
+      "name": "The Comet Travels with Us"
+    },
+    "name": "Saskia",
+    "overlay_name": "Saskia",
+    "profile_voice_text": "I'm Saskia. Just like Resna, I'm an alchemist with dreams. Aim for World's End, won't you?",
+    "sort_name": "Saskia",
+    "start_at": "2049-12-31T15:00:00Z"
+  },
+  {
+    "id": 45003,
+    "acquisition_text": "Sometimes going all out is part of my duty as the head of the Amelhauser family.",
+    "another_name": "Tricky Bunny",
+    "description": "A talented alchemist.\nShe once acted as she pleased as the leader of the Polar Night Alchemists.\nCurrently on parole, she works as a staff member at a newly opened cafe, though her true motives remain unclear.\nWith her teasing mannerisms and clever speech, she seems to enjoy toying with others.",
+    "fullname": "Criselda Amelhauser",
+    "leader_skill": {
+      "description": "Boosts P. ATK, M. ATK, P. DEF, and M. DEF by 25% for characters with Fire affinity.",
+      "name": "I'll Light a Fire in Your Heart"
+    },
+    "name": "Criselda",
+    "overlay_name": "Criselda Amelhauser",
+    "profile_voice_text": "As the head of the Amelhauser family, I can see ahead no matter the situation.",
+    "sort_name": "Criselda",
+    "start_at": "2025-12-12T03:00:00Z"
   }
 ]

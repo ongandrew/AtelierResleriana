@@ -1,0 +1,529 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "なるほど、確かに美味でした。\nですがこれは、もしかすると……",
+        "localizations": {
+          "en": "Indeed, it was quite delicious. But this might actually be..."
+        }
+      },
+      "2072370017": {
+        "text": "ワルター",
+        "localizations": {
+          "en": "Walther"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "だろうな。私の推測が正しければ――",
+        "localizations": {
+          "en": "Most likely. If my suspicions are correct—"
+        }
+      },
+      "2072370017": {
+        "text": "ブラッド",
+        "localizations": {
+          "en": "Brad"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "頼む！\u3000なんとか許してくれないか！",
+        "localizations": {
+          "en": "Please! Can't you just let this slide?!"
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "なんだ？\u3000また３番テーブルが騒がしいな",
+        "localizations": {
+          "en": "What now? Table three is making a ruckus again."
+        }
+      },
+      "2072370017": {
+        "text": "ブラッド",
+        "localizations": {
+          "en": "Brad"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "お客様困ります。\nちゃんとお代は払ってもらわないと……",
+        "localizations": {
+          "en": "Sir, this is a problem. You need to pay for your order..."
+        }
+      },
+      "2072370017": {
+        "text": "テス",
+        "localizations": {
+          "en": "Tess"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "……もしやこの店、ぼったくりか？",
+        "localizations": {
+          "en": "...Don't tell me this place is a scam?"
+        }
+      },
+      "2072370017": {
+        "text": "ブラッド",
+        "localizations": {
+          "en": "Brad"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "……確認しましたが、追加注文した分も含めて\n常識的な価格帯の範疇かと",
+        "localizations": {
+          "en": "...I checked, and including the additional orders, the prices fall within a reasonable range."
+        }
+      },
+      "2072370017": {
+        "text": "ワルター",
+        "localizations": {
+          "en": "Walther"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "……確かに。多少の席料はあるが……\n何をそれほど騒ぐことがあるんだ？",
+        "localizations": {
+          "en": "...True. There's a modest seating charge, but... What could they possibly be making such a fuss about?"
+        }
+      },
+      "2072370017": {
+        "text": "ブラッド",
+        "localizations": {
+          "en": "Brad"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "コールへの両替が足りなかったのは不徳の致すところ。\n何とぞ、このケイウンの貨幣をお納めいただけないか！",
+        "localizations": {
+          "en": "Our failure to exchange enough currency for Coals is our own fault. Could you please accept payment in Keiun currency instead?!"
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "申し訳ございません。当店のお支払いは\nランターナの通貨、コールのみとなっておりますの",
+        "localizations": {
+          "en": "I apologize, but this establishment only accepts payment in Lantarna's currency—Coals."
+        }
+      },
+      "2072370017": {
+        "text": "リゼ",
+        "localizations": {
+          "en": "Lise"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "すまない、俺がおごると言ったのに両替を忘れて……\n今からちょっと両替してくるというのは……",
+        "localizations": {
+          "en": "I'm sorry, I said I'd treat you but forgot to exchange the money... What if I go exchange it now..."
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "ソノママ\u3000逃ゲル可能性モ\u3000アルワ",
+        "localizations": {
+          "en": "You Might Just Run Away."
+        }
+      },
+      "2072370017": {
+        "text": "イェーロ",
+        "localizations": {
+          "en": "Hielo"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "ケイウンの信用を落とすような行為はしない！\nなんなら人質として鬼門を置いていこう！",
+        "localizations": {
+          "en": "I would never do anything to dishonor Keiun's reputation! If you want, I'll leave Kimon here as collateral!"
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "ええっ！\u3000そ、それはさすがにちょっと\n拙者、心許なく……",
+        "localizations": {
+          "en": "What?! T-that's a bit much, even for me. I'd be so anxious..."
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "身内からすらも信じられていない……！",
+        "localizations": {
+          "en": "Even my own people don't trust me...!"
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "あ、あの……用心棒さん……！",
+        "localizations": {
+          "en": "U-um... Miss Bouncer...!"
+        }
+      },
+      "2072370017": {
+        "text": "アン",
+        "localizations": {
+          "en": "Ann"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "またうちのバニーどもにイタズラを\nしようって馬鹿が現れたか？",
+        "localizations": {
+          "en": "Another idiot trying to mess with my bunnies?"
+        }
+      },
+      "2072370017": {
+        "text": "マクダ",
+        "localizations": {
+          "en": "Magda"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "え……いや、違うんだお嬢さん。\nただ代金が払えず、両替に出たいだけで……",
+        "localizations": {
+          "en": "Huh...? No, you've got it wrong, miss. We just can't pay and want to go exchange our money..."
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "払えないなら身体で払ってもらおうか。\n男は厨房、女は接客でな！",
+        "localizations": {
+          "en": "Can't pay? Then you'll work it off with your bodies. Men in the kitchen, women on the floor!"
+        }
+      },
+      "2072370017": {
+        "text": "マクダ",
+        "localizations": {
+          "en": "Magda"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "いや、俺は肉体労働は苦手で……\nた、助けてくれえ！！",
+        "localizations": {
+          "en": "But I'm terrible at manual labor... S-someone save meee!!"
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "拙者、ウサギに扮するなど\n出自の沽券に関わり……あ～れ～！",
+        "localizations": {
+          "en": "Dressing up as a rabbit would disgrace my heritage... Nooo!"
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "……明朗会計、ぼったくりではない、と。\nしかし、知ってる顔がどんどん出てくる店だな",
+        "localizations": {
+          "en": "...Fair pricing, not a scam. But familiar faces just keep popping up at this place."
+        }
+      },
+      "2072370017": {
+        "text": "ブラッド",
+        "localizations": {
+          "en": "Brad"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "おいおい、驚いたぜまったく",
+        "localizations": {
+          "en": "Well, color me surprised."
+        }
+      },
+      "2072370017": {
+        "text": "マクダ",
+        "localizations": {
+          "en": "Magda"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "堅物だと思ってたが、こういうのがお好みで？\nだったら俺も着込んでやろうか？",
+        "localizations": {
+          "en": "Didn't take you for the type, but is this your scene? Want me to put on one of those outfits too?"
+        }
+      },
+      "2072370017": {
+        "text": "マクダ",
+        "localizations": {
+          "en": "Magda"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "……フン、からかうのはよせ。調査の一環だ。\n大方お前も雇われ警備員というところだろう",
+        "localizations": {
+          "en": "...Hmph, spare me the teasing. This is part of an investigation. I assume you're just hired security."
+        }
+      },
+      "2072370017": {
+        "text": "ブラッド",
+        "localizations": {
+          "en": "Brad"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "このお店は用心棒を雇う必要があるほど\n治安が悪いのですか？",
+        "localizations": {
+          "en": "Does this establishment require a bouncer because the area has poor public safety?"
+        }
+      },
+      "2072370017": {
+        "text": "ワルター",
+        "localizations": {
+          "en": "Walther"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "いんや、普通の店だと思うぜ？\n主な仕事は厄介な客の相手くらいだし",
+        "localizations": {
+          "en": "Nah, seems like a normal place to me. Mostly just dealing with troublesome customers."
+        }
+      },
+      "2072370017": {
+        "text": "マクダ",
+        "localizations": {
+          "en": "Magda"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "……しかし、お前のウサギ姿か。少し想像してみたが、\nお前が着るならば美を感じるかもしれん",
+        "localizations": {
+          "en": "...Still, you in a bunny outfit. I tried picturing it, and with your physique, it might actually be aesthetically pleasing."
+        }
+      },
+      "2072370017": {
+        "text": "ブラッド",
+        "localizations": {
+          "en": "Brad"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "なっ……なんだよ。何考えて\nマクダ様のほうを見てるんだよ……！",
+        "localizations": {
+          "en": "Wh-what?! Why are you looking at me like that...?!"
+        }
+      },
+      "2072370017": {
+        "text": "マクダ",
+        "localizations": {
+          "en": "Magda"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "研究ばかりの日々を送る私としては\n色々ありすぎて疲れましたよ",
+        "localizations": {
+          "en": "As someone who spends their days immersed in research, this has all been rather exhausting."
+        }
+      },
+      "2072370017": {
+        "text": "ワルター",
+        "localizations": {
+          "en": "Walther"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "どうも面倒の気配が漂ってくる店だ。\nもう少し調べる必要はある、付き合ってもらうぞ",
+        "localizations": {
+          "en": "This place reeks of trouble. We need to investigate further. You're staying with me."
+        }
+      },
+      "2072370017": {
+        "text": "ブラッド",
+        "localizations": {
+          "en": "Brad"
+        }
+      }
+    }
+  }
+]

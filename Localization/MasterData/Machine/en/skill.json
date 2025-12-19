@@ -25582,5 +25582,497 @@
     "description": "Increases positive effect potency gained from boost-type panels by 25% for 2 turns for all allies, and restores all allies' HP by 15%.",
     "name": "Rousing Call",
     "summary": ""
+  },
+  {
+    "id": 11003311,
+    "description": "Before attacking, removes all negative effects from self.<br>After attacking, grants Nullify Negative Effects to self for 1 turn and<br>grants M.ATK +{2}% and skill damage +{3}% to all allies for 2 turns.",
+    "name": "Bunny Shot",
+    "summary": "Before attacking, removes negative effects from self<br>After attacking, grants Nullify Negative Effects to self<br>Boosts all allies' M.ATK and skill damage"
+  },
+  {
+    "id": 11003312,
+    "description": "Before attacking, removes all negative effects from self.<br>After attacking, grants Nullify Negative Effects to self for 1 turn and<br>grants M.ATK +{2}% and skill damage +{3}% to all allies for 2 turns.",
+    "name": "Bunny Shot",
+    "summary": "Before attacking, removes negative effects from self<br>After attacking, grants Nullify Negative Effects to self<br>Boosts all allies' M.ATK and skill damage"
+  },
+  {
+    "id": 11003313,
+    "description": "Before attacking, removes all negative effects from self.<br>After attacking, grants Nullify Negative Effects to self for 1 turn and<br>grants M.ATK +{2}% and skill damage +{3}% to all allies for 2 turns.",
+    "name": "Bunny Shot",
+    "summary": "Before attacking, removes negative effects from self<br>After attacking, grants Nullify Negative Effects to self<br>Boosts all allies' M.ATK and skill damage"
+  },
+  {
+    "id": 11003314,
+    "description": "Before attacking, removes all negative effects from self.<br>After attacking, grants Nullify Negative Effects to self for 1 turn and<br>grants M.ATK +{2}% and skill damage +{3}% to all allies for 2 turns.",
+    "name": "Bunny Shot",
+    "summary": "Before attacking, removes negative effects from self<br>After attacking, grants Nullify Negative Effects to self<br>Boosts all allies' M.ATK and skill damage"
+  },
+  {
+    "id": 11003315,
+    "description": "Before attacking, removes all negative effects from self.<br>After attacking, grants Nullify Negative Effects to self for 1 turn and<br>grants M.ATK +{2}% and skill damage +{3}% to all allies for 2 turns.",
+    "name": "Bunny Shot",
+    "summary": "Before attacking, removes negative effects from self<br>After attacking, grants Nullify Negative Effects to self<br>Boosts all allies' M.ATK and skill damage"
+  },
+  {
+    "id": 12003316,
+    "description": "Target recovers {0}% HP at the start of turn for 2 turns and<br>gains M.ATK +{1}% and critical damage +{2}% for 2 turns.<br>Grants M.ATK +{3}% to all allies (Max 60%).<br>Converts 2 panels other than boost-type panels and burst panels to boost panels for all allies with Fire affinity (Creates panels if empty).",
+    "name": "Bubbly Shower",
+    "summary": "Grants HP recovery to target<br>Boosts target's M.ATK and critical damage<br>Boosts all allies' M.ATK<br>Converts panels other than boost-type panels and burst panels to boost panels for all allies with Fire affinity"
+  },
+  {
+    "id": 12003317,
+    "description": "Target recovers {0}% HP at the start of turn for 2 turns and<br>gains M.ATK +{1}% and critical damage +{2}% for 2 turns.<br>Grants M.ATK +{3}% to all allies (Max 60%).<br>Converts 2 panels other than boost-type panels and burst panels to boost panels for all allies with Fire affinity (Creates panels if empty).",
+    "name": "Bubbly Shower",
+    "summary": "Grants HP recovery to target<br>Boosts target's M.ATK and critical damage<br>Boosts all allies' M.ATK<br>Converts panels other than boost-type panels and burst panels to boost panels for all allies with Fire affinity"
+  },
+  {
+    "id": 12003318,
+    "description": "Target recovers {0}% HP at the start of turn for 2 turns and<br>gains M.ATK +{1}% and critical damage +{2}% for 2 turns.<br>Grants M.ATK +{3}% to all allies (Max 60%).<br>Converts 2 panels other than boost-type panels and burst panels to boost panels for all allies with Fire affinity (Creates panels if empty).",
+    "name": "Bubbly Shower",
+    "summary": "Grants HP recovery to target<br>Boosts target's M.ATK and critical damage<br>Boosts all allies' M.ATK<br>Converts panels other than boost-type panels and burst panels to boost panels for all allies with Fire affinity"
+  },
+  {
+    "id": 12003319,
+    "description": "Target recovers {0}% HP at the start of turn for 2 turns and<br>gains M.ATK +{1}% and critical damage +{2}% for 2 turns.<br>Grants M.ATK +{3}% to all allies (Max 60%).<br>Converts 2 panels other than boost-type panels and burst panels to boost panels for all allies with Fire affinity (Creates panels if empty).",
+    "name": "Bubbly Shower",
+    "summary": "Grants HP recovery to target<br>Boosts target's M.ATK and critical damage<br>Boosts all allies' M.ATK<br>Converts panels other than boost-type panels and burst panels to boost panels for all allies with Fire affinity"
+  },
+  {
+    "id": 12003320,
+    "description": "Target recovers {0}% HP at the start of turn for 2 turns and<br>gains M.ATK +{1}% and critical damage +{2}% for 2 turns.<br>Grants M.ATK +{3}% to all allies (Max 60%).<br>Converts 2 panels other than boost-type panels and burst panels to boost panels for all allies with Fire affinity (Creates panels if empty).",
+    "name": "Bubbly Shower",
+    "summary": "Grants HP recovery to target<br>Boosts target's M.ATK and critical damage<br>Boosts all allies' M.ATK<br>Converts panels other than boost-type panels and burst panels to boost panels for all allies with Fire affinity"
+  },
+  {
+    "id": 14003321,
+    "description": "Boosts the target's attack penetration by +{0} (Max 150).<br>Removes all negative effects and status effects from all allies.<br>Grants M.ATK +{3}% and critical damage +{4}% to all allies with Fire affinity for 2 turns and enhances all boost panels by 1 level.",
+    "name": "Upping the Antje",
+    "summary": "Boosts target's attack penetration received<br>Removes negative effects and status effects from all allies<br>Boosts M.ATK and critical damage of all allies with Fire affinity and enhances all boost panels by 1 level"
+  },
+  {
+    "id": 14003322,
+    "description": "Boosts the target's attack penetration by +{0} (Max 150).<br>Removes all negative effects and status effects from all allies.<br>Grants M.ATK +{3}% and critical damage +{4}% to all allies with Fire affinity for 2 turns and enhances all boost panels by 1 level.",
+    "name": "Upping the Antje",
+    "summary": "Boosts target's attack penetration received<br>Removes negative effects and status effects from all allies<br>Boosts M.ATK and critical damage of all allies with Fire affinity and enhances all boost panels by 1 level"
+  },
+  {
+    "id": 14003323,
+    "description": "Boosts the target's attack penetration by +{0} (Max 150).<br>Removes all negative effects and status effects from all allies.<br>Grants M.ATK +{3}% and critical damage +{4}% to all allies with Fire affinity for 2 turns and enhances all boost panels by 1 level.",
+    "name": "Upping the Antje",
+    "summary": "Boosts target's attack penetration received<br>Removes negative effects and status effects from all allies<br>Boosts M.ATK and critical damage of all allies with Fire affinity and enhances all boost panels by 1 level"
+  },
+  {
+    "id": 14003324,
+    "description": "Boosts the target's attack penetration by +{0} (Max 150).<br>Removes all negative effects and status effects from all allies.<br>Grants M.ATK +{3}% and critical damage +{4}% to all allies with Fire affinity for 2 turns and enhances all boost panels by 1 level.",
+    "name": "Upping the Antje",
+    "summary": "Boosts target's attack penetration received<br>Removes negative effects and status effects from all allies<br>Boosts M.ATK and critical damage of all allies with Fire affinity and enhances all boost panels by 1 level"
+  },
+  {
+    "id": 14003325,
+    "description": "Boosts the target's attack penetration by +{0} (Max 150).<br>Removes all negative effects and status effects from all allies.<br>Grants M.ATK +{3}% and critical damage +{4}% to all allies with Fire affinity for 2 turns and enhances all boost panels by 1 level.",
+    "name": "Upping the Antje",
+    "summary": "Boosts target's attack penetration received<br>Removes negative effects and status effects from all allies<br>Boosts M.ATK and critical damage of all allies with Fire affinity and enhances all boost panels by 1 level"
+  },
+  {
+    "id": 32003832,
+    "description": "No additional effects.",
+    "name": "Thunder Throw",
+    "summary": ""
+  },
+  {
+    "id": 32003833,
+    "description": "No additional effects.",
+    "name": "Thunder Scatter",
+    "summary": ""
+  },
+  {
+    "id": 32003834,
+    "description": "No additional effects.",
+    "name": "Roaring Thunder Scatter",
+    "summary": ""
+  },
+  {
+    "id": 32003835,
+    "description": "Reduces skill target's P.ATK by 10% for 2 turns.",
+    "name": "Strength Withhold",
+    "summary": ""
+  },
+  {
+    "id": 32003836,
+    "description": "Boosts all allies' damage dealt by 20% for 2 turns.",
+    "name": "Strength Release",
+    "summary": ""
+  },
+  {
+    "id": 32003837,
+    "description": "Restores ally skill target's stun gauge by 15%.",
+    "name": "Protective Share",
+    "summary": ""
+  },
+  {
+    "id": 32003838,
+    "description": "Boosts critical damage against skill target by 15%.",
+    "name": "Fatal Bite",
+    "summary": ""
+  },
+  {
+    "id": 32003839,
+    "description": "After attacking, boosts own critical rate by 10% for 1 attack.",
+    "name": "Bite Down",
+    "summary": ""
+  },
+  {
+    "id": 32003840,
+    "description": "After attacking, boosts own critical damage by 10% for 3 attacks.",
+    "name": "Menacing Roar",
+    "summary": ""
+  },
+  {
+    "id": 32003841,
+    "description": "No effect.",
+    "name": "Wind Sphere",
+    "summary": ""
+  },
+  {
+    "id": 32003842,
+    "description": "No effect.",
+    "name": "Whirlwind Surge",
+    "summary": ""
+  },
+  {
+    "id": 32003843,
+    "description": "No effect.",
+    "name": "Turtle Head",
+    "summary": ""
+  },
+  {
+    "id": 32003844,
+    "description": "No effect.",
+    "name": "Raging Turtle",
+    "summary": ""
+  },
+  {
+    "id": 32003845,
+    "description": "Boosts skill target's SPD by 5% for 3 turns.",
+    "name": "Spin Up",
+    "summary": ""
+  },
+  {
+    "id": 32003846,
+    "description": "After attacking, converts 10 empty panels and weaken panels to burn panels.",
+    "name": "Full Burn Shot",
+    "summary": ""
+  },
+  {
+    "id": 32003847,
+    "description": "No effect.",
+    "name": "Glide",
+    "summary": ""
+  },
+  {
+    "id": 32003848,
+    "description": "After attacking, inflicts Burn (5 stacks) on target enemy.",
+    "name": "Burning Shot",
+    "summary": ""
+  },
+  {
+    "id": 32003849,
+    "description": "When target enemy is in the Burn state, boosts damage dealt by 30%.",
+    "name": "Fuel Ball",
+    "summary": ""
+  },
+  {
+    "id": 32003850,
+    "description": "No effect.",
+    "name": "Wing Cutter",
+    "summary": ""
+  },
+  {
+    "id": 32003851,
+    "description": "Removes all positive effects from target enemy. Boosts own damage dealt by 20% for 3 attacks. Reduces own damage received by 20% for 3 attacks.",
+    "name": "Spirit-Draining Roar",
+    "summary": ""
+  },
+  {
+    "id": 32003852,
+    "description": "No effect.",
+    "name": "Yaisenrahian",
+    "summary": ""
+  },
+  {
+    "id": 32003853,
+    "description": "Increases skill target's damage received by 20% for 2 attacks. Reduces skill target's SPD by 10% for 2 turns.",
+    "name": "Hard Ice Strike",
+    "summary": ""
+  },
+  {
+    "id": 32003854,
+    "description": "No effect.",
+    "name": "Gift of Punishment",
+    "summary": ""
+  },
+  {
+    "id": 32003855,
+    "description": "After attacking, increases single enemy's damage received by 20% for 2 attacks and reduces damage dealt by 20% for 2 attacks.",
+    "name": "Freezing Rock",
+    "summary": ""
+  },
+  {
+    "id": 32003856,
+    "description": "No effect.",
+    "name": "Iceberg Drop",
+    "summary": ""
+  },
+  {
+    "id": 32003857,
+    "description": "When self has no status effects, grants all allies damage dealt up by 30% for 3 turns, SPD up by 5% for 3 turns, and damage received down by 20% for 3 turns, and recovers HP by 10%.\nWhen self has status effects, grants all allies damage received up by 30% for 3 turns, damage dealt down by 20% for 3 turns, and nullify HP recovery for 3 turns.",
+    "name": "Present for Us",
+    "summary": ""
+  },
+  {
+    "id": 32003858,
+    "description": "When self has no status effects, grants all enemies damage received up by 30% for 3 turns, damage dealt down by 20% for 3 turns, and nullify HP recovery for 3 turns.\nWhen self has status effects, grants all enemies damage dealt up by 30% for 3 turns, SPD up by 10% for 3 turns, and damage received down by 20% for 3 turns, and recovers HP by 10%.",
+    "name": "Present for You",
+    "summary": ""
+  },
+  {
+    "id": 32003859,
+    "description": "No additional effects.",
+    "name": "Roll Over",
+    "summary": ""
+  },
+  {
+    "id": 32003860,
+    "description": "No additional effects.",
+    "name": "Puni Bomber",
+    "summary": ""
+  },
+  {
+    "id": 32003861,
+    "description": "No additional effects.",
+    "name": "Puni Breath",
+    "summary": ""
+  },
+  {
+    "id": 32003862,
+    "description": "Recovers target ally's HP by 10%.",
+    "name": "Heal",
+    "summary": ""
+  },
+  {
+    "id": 32003863,
+    "description": "Reduces skill target's damage dealt by 50% for 1 turn.",
+    "name": "Puni Dark",
+    "summary": ""
+  },
+  {
+    "id": 32003864,
+    "description": "No additional effects.",
+    "name": "Spike Throw",
+    "summary": ""
+  },
+  {
+    "id": 32003865,
+    "description": "No additional effects.",
+    "name": "Spike Spit",
+    "summary": ""
+  },
+  {
+    "id": 32003866,
+    "description": "No additional effects.",
+    "name": "Puni Fire",
+    "summary": ""
+  },
+  {
+    "id": 32003867,
+    "description": "After attacking, grants skill target 5 stacks of Burn.",
+    "name": "Puni Flame",
+    "summary": ""
+  },
+  {
+    "id": 32003868,
+    "description": "No additional effects.",
+    "name": "Spike Throw",
+    "summary": ""
+  },
+  {
+    "id": 32003869,
+    "description": "Reduces all allies' damage received by 50% for 1 turn.",
+    "name": "Puni Boost",
+    "summary": ""
+  },
+  {
+    "id": 32003870,
+    "description": "Reduces all enemies' damage dealt by 30% for 1 turn.",
+    "name": "Puni Dark",
+    "summary": ""
+  },
+  {
+    "id": 32003871,
+    "description": "No additional effects.",
+    "name": "Roll Over",
+    "summary": ""
+  },
+  {
+    "id": 32003872,
+    "description": "No additional effects.",
+    "name": "Puni Bomber",
+    "summary": ""
+  },
+  {
+    "id": 32003873,
+    "description": "No additional effects.",
+    "name": "Puni Breath",
+    "summary": ""
+  },
+  {
+    "id": 32003874,
+    "description": "Recovers target ally's HP by 10%.",
+    "name": "Heal",
+    "summary": ""
+  },
+  {
+    "id": 32003875,
+    "description": "Reduces skill target's damage dealt by 50% for 1 turn.",
+    "name": "Puni Dark",
+    "summary": ""
+  },
+  {
+    "id": 32003876,
+    "description": "No additional effects.",
+    "name": "Yaischenrachian",
+    "summary": ""
+  },
+  {
+    "id": 32003877,
+    "description": "Boosts target's damage received by 20% for 2 turns.\nReduces target's SPD by 10% for 2 turns.",
+    "name": "Solid Ice Strike",
+    "summary": ""
+  },
+  {
+    "id": 32003878,
+    "description": "No effects.",
+    "name": "Oshioki Gift",
+    "summary": ""
+  },
+  {
+    "id": 32003879,
+    "description": "After attacking, boosts target's damage received by 20% and reduces target's damage dealt by 20% for 2 turns.",
+    "name": "Chilly Rock",
+    "summary": ""
+  },
+  {
+    "id": 32003880,
+    "description": "No effects.",
+    "name": "Icicle Drop",
+    "summary": ""
+  },
+  {
+    "id": 32003881,
+    "description": "If self has no status effects, boosts all allies damage dealt by 30%, SPD by 5%, and reduces damage received by 20% for 3 turns, and recovers 10% HP.\nIf self has status effects, boosts all allies damage received by 30%, reduces damage dealt by 20%, and inflicts Nullify HP Recovery for 3 turns.",
+    "name": "Present For Us",
+    "summary": ""
+  },
+  {
+    "id": 32003882,
+    "description": "If self has no status effects, boosts all enemies damage received by 30%, reduces damage dealt by 20%, and inflicts Nullify HP Recovery for 3 turns.\nIf self has status effects, boosts all enemies damage dealt by 30%, SPD by 10%, and reduces damage received by 20% for 3 turns, and recovers 10% HP.",
+    "name": "Present For You",
+    "summary": ""
+  },
+  {
+    "id": 32003883,
+    "description": "Boosts damage dealt by 20% against enemies with negative effects.",
+    "name": "Ice Totem",
+    "summary": ""
+  },
+  {
+    "id": 32003884,
+    "description": "Boosts damage dealt by 20% against enemies with negative effects.",
+    "name": "Ice Shot",
+    "summary": ""
+  },
+  {
+    "id": 32003885,
+    "description": "Boosts damage dealt by 20% against enemies with negative effects.",
+    "name": "Ice Rain",
+    "summary": ""
+  },
+  {
+    "id": 32003886,
+    "description": "Recovers 5% HP for all allies and grants Regeneration, restoring 5% HP for 3 turns.",
+    "name": "Restoration",
+    "summary": ""
+  },
+  {
+    "id": 32003887,
+    "description": "Boosts target's negative effect potency received by 50% for 1 turn.",
+    "name": "Mental Break",
+    "summary": ""
+  },
+  {
+    "id": 32003888,
+    "description": "No effects.",
+    "name": "Tail Slap",
+    "summary": ""
+  },
+  {
+    "id": 32003889,
+    "description": "After attacking, inflicts Nullify HP Recovery on target for 1 turn.",
+    "name": "Lightning Drop",
+    "summary": ""
+  },
+  {
+    "id": 32003890,
+    "description": "After attacking, inflicts 8 stacks of Poison on target, dealing 2% damage for 3 turns.",
+    "name": "Spore Spray",
+    "summary": ""
+  },
+  {
+    "id": 32003891,
+    "description": "Grants target Regeneration, restoring 15% HP for 3 turns.",
+    "name": "Lucky Call",
+    "summary": ""
+  },
+  {
+    "id": 32003892,
+    "description": "After attacking, inflicts 8 stacks of Poison on target, dealing 2% damage for 3 turns.",
+    "name": "Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 32003893,
+    "description": "Reduces target's damage dealt by 25% for 2 turns.",
+    "name": "Attack Down",
+    "summary": ""
+  },
+  {
+    "id": 32003894,
+    "description": "No effects.",
+    "name": "Ice Scold",
+    "summary": ""
+  },
+  {
+    "id": 32003895,
+    "description": "After attacking, reduces target's P.ATK by 25% for 3 turns.",
+    "name": "Ice Block Toss",
+    "summary": ""
+  },
+  {
+    "id": 32003896,
+    "description": "Boosts single enemy's damage received by 25%, reduces HP recovery received by 50%, damage dealt by 25%, and stun damage dealt by 30% for 2 turns.\nRemoves all positive effects from the single enemy.",
+    "name": "Calamity Call",
+    "summary": ""
+  },
+  {
+    "id": 32003897,
+    "description": "Boosts damage all enemies receive by 20% for 2 turns, reduces their HP recovery by 15% for 2 turns, and reduces their status effect resistance by 20% for 2 turns.",
+    "name": "Misfortune Bringer",
+    "summary": ""
+  },
+  {
+    "id": 32003898,
+    "description": "Boosts damage dealt by all allies by 20% for 2 turns when attack target has debuffs.",
+    "name": "Exploit Weakness",
+    "summary": ""
   }
 ]

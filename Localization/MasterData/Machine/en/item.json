@@ -2322,5 +2322,42 @@
     "description": "Exchange for items at the event \"BUNNY's Panic☆Star Festival Blackjack Battle\" Exchange.",
     "end_at": "2026-01-05T03:00:00Z",
     "name": "Casino Coin"
+  },
+  {
+    "id": 1214,
+    "description": "A ticket that allows you to perform 1 wish on the Atelier Christmas 2025 Bunny Antje LEGEND FES.",
+    "end_at": "2026-01-05T03:00:00Z",
+    "name": "Atelier Christmas 2025 Bunny Antje Wish Ticket"
+  },
+  {
+    "id": 1215,
+    "description": "A ticket that allows you to perform 1 wish on the Atelier Christmas Rerun Wish.",
+    "end_at": "2026-01-05T03:00:00Z",
+    "name": "Atelier Christmas Rerun Wish Ticket"
+  },
+  {
+    "id": 1217,
+    "description": "Points needed to obtain event mission pass rewards.",
+    "end_at": "2026-01-04T03:00:00Z",
+    "name": "Event Mission PT",
+    "start_at": "2025-12-19T03:00:00Z"
+  },
+  {
+    "id": 1218,
+    "description": "Material needed for synthesis.",
+    "name": "White Moon Frost Pillar",
+    "start_at": "2025-12-19T03:00:00Z"
+  },
+  {
+    "id": 1219,
+    "description": "Material needed for synthesis.",
+    "name": "North Wind Fruit",
+    "start_at": "2025-12-19T03:00:00Z"
+  },
+  {
+    "id": 1220,
+    "description": "Exchange for items at the \"BUNNY's Panic☆Star Festival\" Exchange.",
+    "end_at": "2026-01-05T03:00:00Z",
+    "name": "Battle Coin [Where Are the Star Festival Gifts?]"
   }
 ]

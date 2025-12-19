@@ -1138,6 +1138,9 @@ namespace AtelierResleriana.Localization.Utilities
                 CHARACTERS
                 {{DetailedCharacterInformation}}
 
+                MEMORIA (AND ABILITIES)
+                想力「」 - Imagination ""
+
                 WORLD
                 {{string.Join("\n", WorldContext.Select(kv => $"{kv.Key}: {kv.Value}"))}}
                 """;

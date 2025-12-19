@@ -3758,5 +3758,30 @@
     "id": 850023,
     "description": "When this state is applied, swap skills cannot be used.",
     "name": "Swap Skill Prohibited"
+  },
+  {
+    "id": 610380,
+    "description": "Boosts M.ATK by {value}%. (MAX 60%)",
+    "name": "M.ATK Up"
+  },
+  {
+    "id": 610394,
+    "description": "Boosts critical damage by {value}%. (MAX 3 stacks)",
+    "name": "Critical Damage Up"
+  },
+  {
+    "id": 610397,
+    "description": "Boosts penetration of attacks received by {value}. (MAX 150)",
+    "name": "Received Attack Penetration Up"
+  },
+  {
+    "id": 800189,
+    "description": "Boosts skill power by {value}%. (Cannot be stacked)",
+    "name": "Skill Power Up"
+  },
+  {
+    "id": 1210444,
+    "description": "Boosts critical rate by {value}% for characters with Fire affinity. Cannot be removed.",
+    "name": "Critical Rate Up (Fire)"
   }
 ]

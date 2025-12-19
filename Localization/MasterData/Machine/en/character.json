@@ -927,22 +927,6 @@
     "start_at": "2025-11-28T03:00:00Z"
   },
   {
-    "id": 44803,
-    "acquisition_text": "Reviving alchemy is my wish as well. Now, let us go together.",
-    "another_name": "[For effect_condition]",
-    "description": "Resna's alchemy mentor.\nWhile traveling, she stopped by Resna's village and taught her the basics of alchemy.\nShe has a cheerful and easygoing personality, but shows a strict side when it comes to alchemy.\nHer private life is quite carefree, and Resna often looks after her.",
-    "fullname": "Saskia",
-    "leader_skill": {
-      "description": "Boosts all allies' critical damage by 5% for each Lantarna character in the party.",
-      "name": "The Comet Travels with Us"
-    },
-    "name": "Saskia",
-    "overlay_name": "Saskia",
-    "profile_voice_text": "I'm Saskia. Just like Resna, I'm an alchemist with dreams. Aim for World's End, won't you?",
-    "sort_name": "Saskia",
-    "start_at": "2049-12-31T15:00:00Z"
-  },
-  {
     "id": 45003,
     "acquisition_text": "Sometimes going all out is part of my duty as the head of the Amelhauser family.",
     "another_name": "Tricky Bunny",
@@ -957,5 +941,21 @@
     "profile_voice_text": "As the head of the Amelhauser family, I can see ahead no matter the situation.",
     "sort_name": "Criselda",
     "start_at": "2025-12-12T03:00:00Z"
+  },
+  {
+    "id": 44803,
+    "acquisition_text": "This bunny outfit... Do you think\nit looks cute on me?",
+    "another_name": "Milky Bunny",
+    "description": "An alchemist cloaked in a dark aura.\nShe was a member of the Polar Night Alchemists under Criselda's former leadership.\nShe now works alongside Criselda, who is on parole, as staff at a newly opened café, though her true purpose remains unclear.\nThough she has an introverted and contemplative personality, she shows courage when playing card games with her stuffed animals cheering her on.",
+    "fullname": "Antje Moltke",
+    "leader_skill": {
+      "description": "Bookworm characters become faster and gain critical damage +50%.",
+      "name": "Passion Beyond Books"
+    },
+    "name": "Antje",
+    "overlay_name": "Antje Moltke",
+    "profile_voice_text": "I have no idea why I ended up wearing this outfit.\nBut since Criselda is with me, I should try to enjoy it.",
+    "sort_name": "Antje",
+    "start_at": "2025-12-19T03:00:00Z"
   }
 ]

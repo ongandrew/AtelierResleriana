@@ -2250,5 +2250,37 @@
   {
     "id": 60267002,
     "description": "- When KO'd, summons a card ally\n- When KO'd, inflicts opponent with a random chip level from 1 to 11 (only once even if 2 are KO'd simultaneously)"
+  },
+  {
+    "id": 60001042,
+    "description": "- Heals allies\n- Reduces damage dealt\n- Nullifies resistance down effects for all elements except Fire and Ice"
+  },
+  {
+    "id": 60002066,
+    "description": "- Heals allies\n- Nullifies resistance down effects for all elements except Fire and Ice"
+  },
+  {
+    "id": 60017045,
+    "description": "- Inflicts Poison\n- Grants Regen to allies\n- Inflicts Nullify HP Recovery\n- Nullifies resistance down effects for all elements except Fire and Ice"
+  },
+  {
+    "id": 60026041,
+    "description": "- When KO'd, boosts all allies' damage dealt and damage received\n- Reduces allies' damage received\n- Inflicts Burn\n- Nullifies resistance down effects for all elements except Fire and Ice"
+  },
+  {
+    "id": 60073033,
+    "description": "- Receives increased damage while stunned\n- When stunned, removes own positive effects\n- Restores allies' stun gauges"
+  },
+  {
+    "id": 60100044,
+    "description": "- Boosts damage dealt to opponents with negative effects\n- Inflicts Negative Effect Potency Up\n- Restores all allies' HP and grants Regen\n- Nullifies resistance down effects for all elements except Fire and Ice"
+  },
+  {
+    "id": 60103039,
+    "description": "- When hit while frozen, chance to inflict Darkness on self\n- Darkness Resistance Down while frozen\n- After turn, boosts all allies' SPD and damage dealt\n- When not affected by status effects, inflicts multiple negative effects and Nullify HP Recovery on all enemies\n- When affected by status effects, grants multiple positive effects to all enemies and heals them\n- When not affected by status effects, grants multiple positive effects to all allies and heals them\n- When affected by status effects, inflicts multiple negative effects and Nullify HP Recovery on all allies\n- Nullifies resistance down effects for all elements except Fire and Ice"
+  },
+  {
+    "id": 60132046,
+    "description": "- Inflicts multiple negative effects on opponent\n- Nullifies resistance down effects for all elements except Fire and Ice"
   }
 ]

@@ -4256,5 +4256,113 @@
     "name": "Atelier Christmas 2025 Bunny Criselda LEGEND FES [Paid Only]",
     "start_at": "2025-12-12T03:00:00Z",
     "step_up_loop_description": ""
+  },
+  {
+    "id": 2327,
+    "description": "Antje makes her debut!\nFeatured until 2026/01/05 11:59 (UTC+8).",
+    "end_at": "2026-01-05T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Atelier Christmas 2025 Bunny Antje LEGEND FES",
+    "name": "Atelier Christmas 2025 Bunny Antje LEGEND FES",
+    "start_at": "2025-12-19T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2328,
+    "description": "After making 50 Wishes with paid Guiding Stones, an additional Wish appears!\nUntil 2026/01/05 11:59 (UTC+8).",
+    "end_at": "2026-01-05T03:00:00Z",
+    "name": "Atelier Christmas 2025 Bunny Antje LEGEND FES [Paid Only]",
+    "start_at": "2025-12-19T03:00:00Z",
+    "step_up_loop_description": "{} loop(s) remaining"
+  },
+  {
+    "id": 3029,
+    "description": "Christmas outfit characters featured!\nUntil 2026/01/05 11:59 (UTC+8).",
+    "end_at": "2026-01-05T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Atelier Christmas Revival Wish",
+    "name": "Atelier Christmas Revival Wish",
+    "start_at": "2025-12-19T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 3030,
+    "description": "For every 50 Wishes with Paid Lodestar Gems, an additional Wish will appear!\nUntil 2026/01/05 10:59 (UTC+8).",
+    "end_at": "2026-01-05T03:00:00Z",
+    "name": "Atelier Christmas Revival Wish [Paid Lodestar Gems Only]",
+    "start_at": "2025-12-19T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 30301,
+    "description": "Max 5 times! Featured rate is doubled!\nGet 16 medals! Until 2026/01/05 10:59 (UTC+8).",
+    "end_at": "2026-01-05T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10005,
+            "description": "Bonus included!\n{} times left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Atelier Christmas Revival Wish [Paid Lodestar Gems Only]",
+    "name": "Atelier Christmas Revival Wish [Paid Lodestar Gems Only]",
+    "start_at": "2025-12-19T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 232801,
+    "description": "Max 5 times! Featured rate is doubled!\nGet 16 medals! Until 2026/01/05 10:59 (UTC+8).",
+    "end_at": "2026-01-05T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10005,
+            "description": "Bonus included!\n{} times left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Atelier Christmas 2025 - Bunny Antje - LEGEND FES [Paid Lodestar Gems Only]",
+    "name": "Atelier Christmas 2025 - Bunny Antje - LEGEND FES [Paid Lodestar Gems Only]",
+    "start_at": "2025-12-19T03:00:00Z",
+    "step_up_loop_description": ""
   }
 ]

@@ -1328,5 +1328,10 @@
     "id": 1216,
     "description": "While equipped to an Attacker with Ice affinity, boosts all allies' critical damage by {0}%.<br>While equipped to a character with the Bookworm tag, before attacking, reduces target's status effect resistance by {1}% for 1 turn. (MAX 50%)",
     "name": "Starry Chain"
+  },
+  {
+    "id": 1217,
+    "description": "While equipped to Antje [Milky Bunny], when using a boost-type panel, boosts skill power of the ally with the highest M.ATK by {0}% for 1 turn. (Cannot be stacked)",
+    "name": "Sirona Stick"
   }
 ]

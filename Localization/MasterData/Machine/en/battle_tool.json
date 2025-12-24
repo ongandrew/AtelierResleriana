@@ -343,5 +343,15 @@
     "id": 314,
     "description": "Boosts all enemies' M. ATK damage received from attacks that target all enemies by {0}% for 2 attacks.",
     "name": "Repelling Gift"
+  },
+  {
+    "id": 315,
+    "description": "Boosts all allies' max HP by {0}% for 2 turns (up to 15%) and restores 15% HP.",
+    "name": "New Year's Mystery Box"
+  },
+  {
+    "id": 316,
+    "description": "Boosts all allies' max HP by {0}% for 2 turns (up to 10%) and restores 10% HP.",
+    "name": "New Year's Mystery Box"
   }
 ]

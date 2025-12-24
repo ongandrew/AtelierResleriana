@@ -8448,5 +8448,280 @@
     "id": 600000758,
     "description": "When Antje [Milky Bunny] or Criselda [Tricky Bunny] are in the party, reduces damage received by 25%. (MAX 25%)",
     "name": "Antje [Milky Bunny] or Criselda [Tricky Bunny] Damage Reduction"
+  },
+  {
+    "id": 301301,
+    "description": "While equipped to Izana [Starry Heavens Tone], when attack target is stunned, grants all allies Weakness Attack Damage +{0}% for 1 turn.",
+    "name": "Lux Trumpet"
+  },
+  {
+    "id": 301302,
+    "description": "While equipped to Resna [Brilliant Fortune Bloom], after attacking a weakness, boosts potency of buff effects received by {0}% for 1 turn.",
+    "name": "New Year's Fortune Battledore"
+  },
+  {
+    "id": 1980221,
+    "description": "Seasonal characters gain Skill Damage +{0}% when attacking a weakness.",
+    "name": "Starlit Night Investigation"
+  },
+  {
+    "id": 1980222,
+    "description": "Air affinity characters gain P.ATK, M.ATK, P.DEF, and M.DEF +25%.",
+    "name": "Let's Set Sail with the Tailwind!"
+  },
+  {
+    "id": 1990493,
+    "description": "Converts own burst skill to a gauge system.<br>※Burst gauge can stock up to 2 uses.<br><br>When using a Heartfelt Starbirth panel, grants self Critical Rate +{0}% for 1 turn and enables burst skill activation.<br><br>At the start of a wave, grants self Critical Rate +{1}% for 1 turn.",
+    "name": "Present Box"
+  },
+  {
+    "id": 1990494,
+    "description": "When attack target is stunned, grants self stun damage +{0}% (MAX 100%) and grants all allies with Air affinity M.ATK +{1}% (MAX 50%).",
+    "name": "Blessings from Me!"
+  },
+  {
+    "id": 1990495,
+    "description": "Converts own burst skill to a gauge system.<br>※Burst gauge can stock up to 2 uses.<br><br>When attacking a weakness, increases own burst gauge by {0}%.<br>After another party member uses a burst skill, increases own burst gauge by {1}%.<br><br>Boosts effects received from boost-type panels by {2}%.",
+    "name": "Invitation to the Festival"
+  },
+  {
+    "id": 1990496,
+    "description": "When attacking a weakness, if Ten Thousand Blessings! has not been granted to self, grants Ten Thousand Blessings! (Lv. 1).<br>If already granted, increases Ten Thousand Blessings! Lv. +1 (max Lv. 5).<br>※If Ten Thousand Blessings! is Lv. 5 before skill activation, the above effect will not trigger.<br>When using a boost-type panel or burst panel, if Ten Thousand Blessings! has not been granted to self, grants Ten Thousand Blessings! (Lv. 2).<br>If already granted, increases Ten Thousand Blessings! Lv. +2 (max Lv. 5).<br>Grants the following bonuses based on Ten Thousand Blessings! Lv.:<br>Per Lv.: Weakness Attack Damage +{0}%.<br>Lv. 3 or higher: Skill Damage +{1}%.<br>Lv. 5: Skill Damage +{2}%.",
+    "name": "Come, Fortune!"
+  },
+  {
+    "id": 4991183,
+    "description": "When defeating an enemy, grants self Critical Damage +{0}% (max 5 stacks).",
+    "name": "Imagination \"End of Summer\""
+  },
+  {
+    "id": 4991184,
+    "description": "When defeating an enemy, grants self Critical Damage +{0}% (max 5 stacks).",
+    "name": "Imagination \"End of Summer\""
+  },
+  {
+    "id": 4991185,
+    "description": "When defeating an enemy, grants self Critical Damage +{0}% (max 5 stacks).",
+    "name": "Imagination \"End of Summer\""
+  },
+  {
+    "id": 4991186,
+    "description": "When defeating an enemy, grants self Critical Damage +{0}% (max 5 stacks).",
+    "name": "Imagination \"End of Summer\""
+  },
+  {
+    "id": 4991187,
+    "description": "When defeating an enemy, grants self Critical Damage +{0}% (max 5 stacks).",
+    "name": "Imagination \"End of Summer\""
+  },
+  {
+    "id": 4991188,
+    "description": "While equipped to an Attacker, boosts skill power by {0}%.",
+    "name": "Imagination \"Dancing in Slashes\""
+  },
+  {
+    "id": 4991189,
+    "description": "While equipped to an Attacker, boosts skill power by {0}%.",
+    "name": "Imagination \"Dancing in Slashes\""
+  },
+  {
+    "id": 4991190,
+    "description": "While equipped to an Attacker, boosts skill power by {0}%.",
+    "name": "Imagination \"Dancing in Slashes\""
+  },
+  {
+    "id": 4991191,
+    "description": "While equipped to an Attacker, boosts skill power by {0}%.",
+    "name": "Imagination \"Dancing in Slashes\""
+  },
+  {
+    "id": 4991192,
+    "description": "While equipped to an Attacker, boosts skill power by {0}%.",
+    "name": "Imagination \"Dancing in Slashes\""
+  },
+  {
+    "id": 4991193,
+    "description": "While equipped to a Defender, after attacking or when receiving an attack, reduces all enemies' resistance to the element matching own affinity by {0}% for 1 attack (max 4 stacks).",
+    "name": "Imagination \"The One I Want to Catch Up To\""
+  },
+  {
+    "id": 4991194,
+    "description": "While equipped to a Defender, after attacking or when receiving an attack, reduces all enemies' resistance to the element matching own affinity by {0}% for 1 attack (max 4 stacks).",
+    "name": "Imagination \"The One I Want to Catch Up To\""
+  },
+  {
+    "id": 4991195,
+    "description": "While equipped to a Defender, after attacking or when receiving an attack, reduces all enemies' resistance to the element matching own affinity by {0}% for 1 attack (Max: 4 stacks).",
+    "name": "Imagination \"An Existence to Catch Up To\""
+  },
+  {
+    "id": 4991196,
+    "description": "While equipped to a Defender, after attacking or when receiving an attack, reduces all enemies' resistance to the element matching own affinity by {0}% for 1 attack (Max: 4 stacks).",
+    "name": "Imagination \"An Existence to Catch Up To\""
+  },
+  {
+    "id": 4991197,
+    "description": "While equipped to a Defender, after attacking or when receiving an attack, reduces all enemies' resistance to the element matching own affinity by {0}% for 1 attack (Max: 4 stacks).",
+    "name": "Imagination \"An Existence to Catch Up To\""
+  },
+  {
+    "id": 4991198,
+    "description": "While equipped to a Breaker with Air affinity, boosts stun damage by {0}% when attacking a weakness.<br>While equipped to a character with Knight tag, when stunning a target, grants all allies Boost-Type Panel Effect Potency +{1}% for 1 turn (Cannot be stacked).",
+    "name": "Imagination \"Together on Starsong Night\""
+  },
+  {
+    "id": 4991199,
+    "description": "While equipped to a Breaker with Air affinity, boosts stun damage by {0}% when attacking a weakness.<br>While equipped to a character with Knight tag, when stunning a target, grants all allies Boost-Type Panel Effect Potency +{1}% for 1 turn (Cannot be stacked).",
+    "name": "Imagination \"Together on Starsong Night\""
+  },
+  {
+    "id": 4991200,
+    "description": "While equipped to a Breaker with Air affinity, boosts stun damage by {0}% when attacking a weakness.<br>While equipped to a character with Knight tag, when stunning a target, grants all allies Boost-Type Panel Effect Potency +{1}% for 1 turn (Cannot be stacked).",
+    "name": "Imagination \"Together on Starsong Night\""
+  },
+  {
+    "id": 4991201,
+    "description": "While equipped to a Breaker with Air affinity, boosts stun damage by {0}% when attacking a weakness.<br>While equipped to a character with Knight tag, when stunning a target, grants all allies Boost-Type Panel Effect Potency +{1}% for 1 turn (Cannot be stacked).",
+    "name": "Imagination \"Together on Starsong Night\""
+  },
+  {
+    "id": 4991202,
+    "description": "While equipped to a Breaker with Air affinity, boosts stun damage by {0}% when attacking a weakness.<br>While equipped to a character with Knight tag, when stunning a target, grants all allies Boost-Type Panel Effect Potency +{1}% for 1 turn (Cannot be stacked).",
+    "name": "Imagination \"Together on Starsong Night\""
+  },
+  {
+    "id": 4991203,
+    "description": "While equipped to an Attacker with Air affinity, boosts own attack's penetration by {0} when attacking a weakness.<br>While equipped to a character with Diligent tag, boosts M.ATK by {1}%.",
+    "name": "Imagination \"So Nothing Unfortunate Happens\""
+  },
+  {
+    "id": 4991204,
+    "description": "While equipped to an Attacker with Air affinity, boosts own attack's penetration by {0} when attacking a weakness.<br>While equipped to a character with Diligent tag, boosts M.ATK by {1}%.",
+    "name": "Imagination \"So Nothing Unfortunate Happens\""
+  },
+  {
+    "id": 4991205,
+    "description": "While equipped to an Attacker with Air affinity, boosts own attack's penetration by {0} when attacking a weakness.<br>While equipped to a character with Diligent tag, boosts M.ATK by {1}%.",
+    "name": "Imagination \"So Nothing Unfortunate Happens\""
+  },
+  {
+    "id": 4991206,
+    "description": "While equipped to an Attacker with Air affinity, boosts own attack's penetration by {0} when attacking a weakness.<br>While equipped to a character with Diligent tag, boosts M.ATK by {1}%.",
+    "name": "Imagination \"So Nothing Unfortunate Happens\""
+  },
+  {
+    "id": 4991207,
+    "description": "While equipped to an Attacker with Air affinity, boosts own attack's penetration by {0} when attacking a weakness.<br>While equipped to a character with Diligent tag, boosts M.ATK by {1}%.",
+    "name": "Imagination \"So Nothing Unfortunate Happens\""
+  },
+  {
+    "id": 4991208,
+    "description": "While equipped to a character with Aladiss Research Team tag, boosts skill damage by {0}%, stun damage by {1}%, positive effect potency given by {2}%, and negative effect potency given by {3}%.<br>At battle start, swaps initial range.",
+    "name": "Imagination \"Thrilling and Terrifying\""
+  },
+  {
+    "id": 4991209,
+    "description": "While equipped to a character with Aladiss Research Team tag, boosts skill damage by {0}%, stun damage by {1}%, positive effect potency given by {2}%, and negative effect potency given by {3}%.<br>At battle start, swaps initial range.",
+    "name": "Imagination \"Thrilling and Terrifying\""
+  },
+  {
+    "id": 4991210,
+    "description": "While equipped to a character with Aladiss Research Team tag, boosts skill damage by {0}%, stun damage by {1}%, positive effect potency given by {2}%, and negative effect potency given by {3}%.<br>At battle start, swaps initial range.",
+    "name": "Imagination \"Thrilling and Terrifying\""
+  },
+  {
+    "id": 4991211,
+    "description": "While equipped to a character with Aladiss Research Team tag, boosts skill damage by {0}%, stun damage by {1}%, positive effect potency given by {2}%, and negative effect potency given by {3}%.<br>At battle start, swaps initial range.",
+    "name": "Imagination \"Thrilling and Terrifying\""
+  },
+  {
+    "id": 4991212,
+    "description": "While equipped to a character with Aladiss Research Team tag, boosts skill damage by {0}%, stun damage by {1}%, positive effect potency given by {2}%, and negative effect potency given by {3}%.<br>At battle start, swaps initial range.",
+    "name": "Imagination \"Thrilling and Terrifying\""
+  },
+  {
+    "id": 4991213,
+    "description": "While equipped to a character with Aladiss Research Team tag, boosts skill damage by {0}%, stun damage by {1}%, positive effect potency given by {2}%, and negative effect potency given by {3}%.",
+    "name": "Imagination \"A Moment of Peace\""
+  },
+  {
+    "id": 4991214,
+    "description": "While equipped to a character with Aladiss Research Team tag, boosts skill damage by {0}%, stun damage by {1}%, positive effect potency given by {2}%, and negative effect potency given by {3}%.",
+    "name": "Imagination \"A Moment of Peace\""
+  },
+  {
+    "id": 4991215,
+    "description": "For Aladiss Research Team characters, boosts skill damage by {0}%, stun damage by {1}%, positive effect potency given by {2}%, and negative effect potency given by {3}%.",
+    "name": "Imagination \"A Moment of Respite\""
+  },
+  {
+    "id": 4991216,
+    "description": "For Aladiss Research Team characters, boosts skill damage by {0}%, stun damage by {1}%, positive effect potency given by {2}%, and negative effect potency given by {3}%.",
+    "name": "Imagination \"A Moment of Respite\""
+  },
+  {
+    "id": 4991217,
+    "description": "For Aladiss Research Team characters, boosts skill damage by {0}%, stun damage by {1}%, positive effect potency given by {2}%, and negative effect potency given by {3}%.",
+    "name": "Imagination \"A Moment of Respite\""
+  },
+  {
+    "id": 26042003,
+    "description": "Nullifies resistance down for all elements except Fire.",
+    "name": ""
+  },
+  {
+    "id": 26060010,
+    "description": "At the start of turn, recovers 5% of max stun gauge.\nAt the start of turn, recovers HP equal to 5% of max HP.\nWhen hit, grants self damage received increased by 20% (max 100%).\nWhen hit, grants self stun damage received increased by 20% (max 100%).",
+    "name": ""
+  },
+  {
+    "id": 26261001,
+    "description": "When stunned, grants self immunity to negative status effects (5 times).",
+    "name": ""
+  },
+  {
+    "id": 26268008,
+    "description": "When force stunned, summons up to 2 Kibako Memories as allies and reselects their actions.",
+    "name": ""
+  },
+  {
+    "id": 26268009,
+    "description": "When force stunned, summons up to 2 Kibako Memories as allies and reselects their actions.",
+    "name": ""
+  },
+  {
+    "id": 26269006,
+    "description": "At the start of wave, summons 2 Golden Punis and 2 Silver Punis as allies and grants them 3 stacks of damage received reduced by 40%.\nWhen an ally is unable to battle, removes 1 stack of damage received reduced from self and randomly summons either a Golden Puni or Silver Puni as an ally.",
+    "name": ""
+  },
+  {
+    "id": 26269007,
+    "description": "At the start of wave, summons 2 Golden Punis and 2 Silver Punis as allies and grants them 3 stacks of damage received reduced by 40%.\nWhen an ally is unable to battle, removes 1 stack of damage received reduced from self and randomly summons either a Golden Puni or Silver Puni as an ally.",
+    "name": ""
+  },
+  {
+    "id": 26270001,
+    "description": "Before wave starts, grants self skill power increased by 70% when receiving attacks that hit all enemies and stun damage increased by 200% when receiving attacks that hit all enemies.\nWhen hit by a weakness attack, grants self damage received increased by 10% (max 50%).",
+    "name": ""
+  },
+  {
+    "id": 600000759,
+    "description": "Boosts Izana [Starry Heavens Tone]'s stun damage by 200%.",
+    "name": "Izana [Starry Heavens Tone] Stun Damage Up"
+  },
+  {
+    "id": 600000760,
+    "description": "When Izana [Starry Heavens Tone] or Antje [Milky Bunny] is in the party, reduces damage received by 25% (max 25%).",
+    "name": "Damage Received Reduction when Izana [Starry Heavens Tone] or Antje [Milky Bunny] is in Party"
+  },
+  {
+    "id": 600000762,
+    "description": "Boosts Resna [Auspicious Fireworks: Flower of Fortune]'s skill power by 100%.",
+    "name": "Resna [Auspicious Fireworks: Flower of Fortune] Skill Power Up"
+  },
+  {
+    "id": 600000763,
+    "description": "When Resna [Auspicious Fireworks: Flower of Fortune] or Izana [Starry Heavens Tone] is in the party, reduces damage received by 25% (max 25%).",
+    "name": "Damage Received Reduction when Resna [Auspicious Fireworks: Flower of Fortune] or Izana [Starry Heavens Tone] is in Party"
   }
 ]

@@ -12268,5 +12268,575 @@
     "id": 120000856,
     "description": "When equipped to a character with Fire affinity, increases critical rate",
     "popup_text": ""
+  },
+  {
+    "id": 6001190,
+    "description": "While self is Izana [Starry Heavens Tone], when attack target is stunned, grants all allies WEAK Attack Damage Up for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001191,
+    "description": "While self is Resna [Euphoric Blossoms], after attacking a weakness, grants self Positive Effect Potency Up for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001192,
+    "description": "Grants all allies Max HP Up for 2 turns (max 15%).",
+    "popup_text": ""
+  },
+  {
+    "id": 6001193,
+    "description": "Grants all allies Max HP Up for 2 turns (max 10%).",
+    "popup_text": ""
+  },
+  {
+    "id": 13000385,
+    "description": "Boosts skill damage by {0}% for 2 attacks.",
+    "popup_text": ""
+  },
+  {
+    "id": 13000386,
+    "description": "Increases damage received from Air attacks by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 20000856,
+    "description": "Boosts stun damage when self is Izana [Starry Heavens Tone].",
+    "popup_text": ""
+  },
+  {
+    "id": 20000857,
+    "description": "Reduces damage received when Izana [Starry Heavens Tone] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001537,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001538,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001539,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001540,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001541,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001542,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001543,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001544,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001545,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001546,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001547,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001548,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001558,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001566,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001567,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 76268025,
+    "description": "Reduces all enemies' recovery amount.",
+    "popup_text": ""
+  },
+  {
+    "id": 76268026,
+    "description": "Summons 1 Elder Fan (when ally count is 1).",
+    "popup_text": ""
+  },
+  {
+    "id": 76268027,
+    "description": "Summons 1 Elder Fan (when ally count is 2 or less).",
+    "popup_text": ""
+  },
+  {
+    "id": 76268038,
+    "description": "Summons 1 Elder Fan (when ally count is 1).",
+    "popup_text": ""
+  },
+  {
+    "id": 76268039,
+    "description": "Summons 1 Elder Fan (when ally count is 2 or less).",
+    "popup_text": ""
+  },
+  {
+    "id": 76269001,
+    "description": "50% chance to inflict Daze on all enemies.",
+    "popup_text": ""
+  },
+  {
+    "id": 76269002,
+    "description": "Reduces target's Air resistance for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 76269003,
+    "description": "Restores self's HP by 15%.",
+    "popup_text": ""
+  },
+  {
+    "id": 76269004,
+    "description": "If self has 1 or more Damage Received Down, boosts skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 76269005,
+    "description": "If self has 2 or more Damage Received Down, boosts skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 76269006,
+    "description": "If self has 3 or more Damage Received Down, boosts skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 76269007,
+    "description": "If self has 4 or more Damage Received Down, boosts skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 76269008,
+    "description": "If self has 5 or more Damage Received Down, boosts skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 76269009,
+    "description": "Chance to remove positive effects from target enemy.",
+    "popup_text": ""
+  },
+  {
+    "id": 76269010,
+    "description": "Removes 1 Damage Received Down from self.",
+    "popup_text": ""
+  },
+  {
+    "id": 76269014,
+    "description": "Reduces single target skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 76269015,
+    "description": "Grants Single Target Skill Damage Down for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 86261001,
+    "description": "When stunned, grants immunity to negative status effects to self for 5 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 86268028,
+    "description": "Summon 1 Kibakoomori (when total allies is 1).",
+    "popup_text": ""
+  },
+  {
+    "id": 86268029,
+    "description": "Summon 1 Kibakoomori (when total allies is 2 or less).",
+    "popup_text": ""
+  },
+  {
+    "id": 86268040,
+    "description": "Summon 1 Kibakoomori (when total allies is 1).",
+    "popup_text": ""
+  },
+  {
+    "id": 86268041,
+    "description": "Summon 1 Kibakoomori (when total allies is 2 or less).",
+    "popup_text": ""
+  },
+  {
+    "id": 86269016,
+    "description": "Activates 1 of 6 random summons.",
+    "popup_text": ""
+  },
+  {
+    "id": 86269017,
+    "description": "Reduces own damage received.",
+    "popup_text": ""
+  },
+  {
+    "id": 86269018,
+    "description": "Pre-summon wave.",
+    "popup_text": ""
+  },
+  {
+    "id": 86269019,
+    "description": "Summon 1.",
+    "popup_text": ""
+  },
+  {
+    "id": 86269020,
+    "description": "Summon 2.",
+    "popup_text": ""
+  },
+  {
+    "id": 86269021,
+    "description": "Summon 3.",
+    "popup_text": ""
+  },
+  {
+    "id": 86269022,
+    "description": "Summon 4.",
+    "popup_text": ""
+  },
+  {
+    "id": 86269023,
+    "description": "Summon 5.",
+    "popup_text": ""
+  },
+  {
+    "id": 86269024,
+    "description": "Summon 6.",
+    "popup_text": ""
+  },
+  {
+    "id": 86269030,
+    "description": "Pre-summon wave.",
+    "popup_text": ""
+  },
+  {
+    "id": 86269031,
+    "description": "Summon 1.",
+    "popup_text": ""
+  },
+  {
+    "id": 86269032,
+    "description": "Summon 2.",
+    "popup_text": ""
+  },
+  {
+    "id": 86269033,
+    "description": "Summon 3.",
+    "popup_text": ""
+  },
+  {
+    "id": 86269034,
+    "description": "Summon 4.",
+    "popup_text": ""
+  },
+  {
+    "id": 86269035,
+    "description": "Summon 5.",
+    "popup_text": ""
+  },
+  {
+    "id": 86269036,
+    "description": "Call Companions 6",
+    "popup_text": ""
+  },
+  {
+    "id": 86269042,
+    "description": "Randomly activates 1 of 6 Call Companions",
+    "popup_text": ""
+  },
+  {
+    "id": 86270001,
+    "description": "Skill Power Up from area attacks received",
+    "popup_text": ""
+  },
+  {
+    "id": 86270002,
+    "description": "Stun Damage Up from area attacks received",
+    "popup_text": ""
+  },
+  {
+    "id": 86270003,
+    "description": "Grants self Skill Power Up from area attacks received",
+    "popup_text": ""
+  },
+  {
+    "id": 86270004,
+    "description": "Grants self Stun Damage Up from area attacks received",
+    "popup_text": ""
+  },
+  {
+    "id": 86270005,
+    "description": "When attacking a weakness, grants self Damage Received Up (max 50%)",
+    "popup_text": ""
+  },
+  {
+    "id": 91001987,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001988,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001989,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001990,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001991,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001992,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001993,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001994,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001995,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001996,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001997,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002042,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000303,
+    "description": "When defeating an enemy, grants self Critical Damage Up (max 5 stacks)",
+    "popup_text": ""
+  },
+  {
+    "id": 95000304,
+    "description": "Boosts skill power for Attackers.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000305,
+    "description": "While equipped to a Defender with Fire affinity, after attacking, reduces all enemies' Fire resistance for 1 attack (max 4 stacks).",
+    "popup_text": ""
+  },
+  {
+    "id": 95000306,
+    "description": "While equipped to a Defender with Ice affinity, after attacking, reduces all enemies' Fire resistance for 1 attack (max 4 stacks).",
+    "popup_text": ""
+  },
+  {
+    "id": 95000307,
+    "description": "While equipped to a Defender with Bolt affinity, after attacking, reduces all enemies' Fire resistance for 1 attack (max 4 stacks).",
+    "popup_text": ""
+  },
+  {
+    "id": 95000308,
+    "description": "While equipped to a Defender with Air affinity, after attacking, reduces all enemies' Fire resistance for 1 attack (max 4 stacks).",
+    "popup_text": ""
+  },
+  {
+    "id": 95000309,
+    "description": "While equipped to a Defender with Slash affinity, after attacking, reduces all enemies' Fire resistance for 1 attack (max 4 stacks).",
+    "popup_text": ""
+  },
+  {
+    "id": 95000310,
+    "description": "While equipped to a Defender with Strike affinity, after attacking, reduces all enemies' Fire resistance for 1 attack (max 4 stacks).",
+    "popup_text": ""
+  },
+  {
+    "id": 95000311,
+    "description": "While equipped to a Defender with Stab affinity, after attacking, reduces all enemies' Fire resistance for 1 attack (max 4 stacks).",
+    "popup_text": ""
+  },
+  {
+    "id": 95000312,
+    "description": "While equipped to a Defender with Fire affinity, when receiving an attack, reduces all enemies' Fire resistance for 1 attack (max 4 stacks).",
+    "popup_text": ""
+  },
+  {
+    "id": 95000313,
+    "description": "While equipped to a Defender with Ice affinity, when receiving an attack, reduces all enemies' Fire resistance for 1 attack (max 4 stacks).",
+    "popup_text": ""
+  },
+  {
+    "id": 95000314,
+    "description": "While equipped to a Defender with Bolt affinity, when receiving an attack, reduces all enemies' Fire resistance for 1 attack (max 4 stacks).",
+    "popup_text": ""
+  },
+  {
+    "id": 95000315,
+    "description": "While equipped to a Defender with Air affinity, when receiving an attack, reduces all enemies' Fire resistance for 1 attack (max 4 stacks).",
+    "popup_text": ""
+  },
+  {
+    "id": 95000316,
+    "description": "While equipped to a Defender with Slash affinity, when receiving an attack, reduces all enemies' Fire resistance for 1 attack (max 4 stacks).",
+    "popup_text": ""
+  },
+  {
+    "id": 95000317,
+    "description": "While equipped to a Defender with Strike affinity, when receiving an attack, reduces all enemies' Fire resistance for 1 attack (max 4 stacks).",
+    "popup_text": ""
+  },
+  {
+    "id": 95000318,
+    "description": "While equipped to a Defender with Stab affinity, when receiving an attack, reduces all enemies' Fire resistance for 1 attack (max 4 stacks).",
+    "popup_text": ""
+  },
+  {
+    "id": 95000319,
+    "description": "While equipped to a Breaker with Air affinity, boosts stun damage when attacking a weakness.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000320,
+    "description": "While equipped to a character with the Knight tag, when stunning a target, grants all allies Effect Potency from Boost-type Panels +5% for 1 turn (non-stackable).",
+    "popup_text": ""
+  },
+  {
+    "id": 95000321,
+    "description": "While equipped to an Attacker with Air affinity, when attacking a weakness, boosts own attack penetration by 10.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000322,
+    "description": "While equipped to a character with the Diligent tag, boosts M.ATK by 5%.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000323,
+    "description": "At the start of Wave 1, while equipped to a character with the Aladiss Research Team tag, removes own inner range.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000324,
+    "description": "At the start of Wave 1, when self has the tag \"Aladiss Research Team,\" removes outer range from self.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000325,
+    "description": "At the start of Wave 1, when self is Yumia [Seeker of Memories], shifts self to the outer range.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000326,
+    "description": "At the start of Wave 1, when self is Nina [Mysterious Powerhouse], shifts self to the inner range.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000327,
+    "description": "At the start of Wave 1, when self is Viktor [Righteous Noble], shifts self to the outer range.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000328,
+    "description": "At the start of Wave 1, when self is Isla [Friendly Fashionista], shifts self to the outer range.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000329,
+    "description": "At the start of Wave 1, when self is Lenja [Sincere Devotion], shifts self to the outer range.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000330,
+    "description": "At the start of Wave 1, when self is Rutger [Pathfinder], shifts self to the inner range.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000331,
+    "description": "Skill swap.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000332,
+    "description": "When self has the tag \"Aladiss Research Team,\" boosts skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000333,
+    "description": "When self has the tag \"Aladiss Research Team,\" boosts stun damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000334,
+    "description": "When self has the tag \"Aladiss Research Team,\" boosts potency of positive effects granted.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000335,
+    "description": "When self has the tag \"Aladiss Research Team,\" boosts potency of negative effects inflicted.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000853,
+    "description": "When Resna [Fortune's Bloom] is in the party, reduces damage received.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000854,
+    "description": "When self is Resna [Fortune's Bloom], boosts skill power.",
+    "popup_text": ""
   }
 ]

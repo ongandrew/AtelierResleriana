@@ -957,5 +957,37 @@
     "profile_voice_text": "I have no idea why I ended up wearing this outfit.\nBut since Criselda is with me, I should try to enjoy it.",
     "sort_name": "Antje",
     "start_at": "2025-12-19T03:00:00Z"
+  },
+  {
+    "id": 43110,
+    "acquisition_text": "I'm so happy to celebrate the new year with everyone!\nI want to carry this happiness into tomorrow.",
+    "another_name": "Blissful Blooms of Fortune",
+    "description": "An alchemist heading toward World's End.\nShe's wearing New Year's attire gifted by her mother.\nInvited by Kaburaya, she travels to Keiun alongside Alvina to celebrate their New Year festivities.\nWith her boundless curiosity for knowledge, she's excited to spend the year-end and New Year holidays in Keiun, a land with culture quite different from Lantarna.",
+    "fullname": "Resna Sternenlicht",
+    "leader_skill": {
+      "description": "Boosts Air affinity characters' P.ATK, M.ATK, P.DEF, and M.DEF by 25%.",
+      "name": "Set Sail with the Wind!"
+    },
+    "name": "Resna",
+    "overlay_name": "Resna Sternenlicht",
+    "profile_voice_text": "Wearing festive attire makes me feel like this will be a wonderful year.",
+    "sort_name": "Resna",
+    "start_at": "2025-12-31T15:00:00Z"
+  },
+  {
+    "id": 43805,
+    "acquisition_text": "My cute outfit is ready and I've got my horn...\n...So now, let this year's Starbirth Festival begin!",
+    "another_name": "Starry Heavens Tone",
+    "description": "A beastkin girl who belongs to the Royal Knights.\nShe's Resna's childhood friend and accompanies her on her journey as a guardian.\nDressed as a Starbirth Festival messenger alongside Resna, she's working hard to liven up the celebration. Though her outfit is different, she hasn't forgotten her duty as a Royal Knight and as a knight protecting Resna.",
+    "fullname": "Izana Kokoschka",
+    "leader_skill": {
+      "description": "Boosts Seasonal characters' skill damage by 100% when attacking a weakness.",
+      "name": "Starry Night Melody"
+    },
+    "name": "Izana",
+    "overlay_name": "Izana Kokoschka",
+    "profile_voice_text": "With this cute outfit and horn, let's celebrate the Starbirth Festival. I'll bring smiles to everyone!",
+    "sort_name": "Izana",
+    "start_at": "2025-12-24T03:00:00Z"
   }
 ]

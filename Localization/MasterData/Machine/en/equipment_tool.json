@@ -1333,5 +1333,15 @@
     "id": 1217,
     "description": "While equipped to Antje [Milky Bunny], when using a boost-type panel, boosts skill power of the ally with the highest M.ATK by {0}% for 1 turn. (Cannot be stacked)",
     "name": "Sirona Stick"
+  },
+  {
+    "id": 1218,
+    "description": "While equipped to Izana [Starry Heavens Tone], when attack target is stunned, boosts all allies' weakness attack damage by {0}% for 1 turn.",
+    "name": "Lux Trumpet"
+  },
+  {
+    "id": 1219,
+    "description": "While equipped to Resna [Jubilant Fortune], after attacking a weakness, boosts own positive effect potency received by {0}% for 1 turn.",
+    "name": "New Year's Battledore"
   }
 ]

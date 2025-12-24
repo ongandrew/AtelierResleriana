@@ -4364,5 +4364,387 @@
     "name": "Atelier Christmas 2025 - Bunny Antje - LEGEND FES [Paid Lodestar Gems Only]",
     "start_at": "2025-12-19T03:00:00Z",
     "step_up_loop_description": ""
+  },
+  {
+    "id": 2329,
+    "description": "Izana makes her debut!\nFeatured until 2026/01/05 11:59 (UTC+8).",
+    "end_at": "2026-01-05T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Atelier Christmas 2025 Santa Izana LEGEND FES",
+    "name": "Atelier Christmas 2025 Santa Izana LEGEND FES",
+    "start_at": "2025-12-24T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2330,
+    "description": "Wish 50 times with Paid Lodestar Gems to unlock additional Wishes!\nUntil 2026/01/05 11:59 (UTC+8).",
+    "end_at": "2026-01-05T03:00:00Z",
+    "name": "Atelier Christmas 2025 Santa Izana LEGEND FES [Paid Lodestar Gems Only]",
+    "small_banner_label": "Paid Only!",
+    "start_at": "2025-12-24T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 2331,
+    "description": "Resna makes her debut!\nFeatured until 2026/01/19 11:59 (UTC+8).",
+    "end_at": "2026-01-19T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "HAPPY NEW YEAR 2026 LEGEND FES",
+    "name": "HAPPY NEW YEAR 2026 LEGEND FES",
+    "start_at": "2025-12-31T15:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2332,
+    "description": "Wish 50 times with paid Lodestar Gems to unlock an additional Wish!\nUntil 2026/01/19 11:59 (UTC+8)",
+    "end_at": "2026-01-19T03:00:00Z",
+    "name": "HAPPY NEW YEAR 2026 LEGEND FES [Paid Lodestar Gems Only]",
+    "small_banner_label": "Paid Only!",
+    "start_at": "2025-12-31T15:00:00Z",
+    "step_up_loop_description": "{} cycles remaining"
+  },
+  {
+    "id": 3032,
+    "description": "Wish 50 times with paid Lodestar Gems to unlock an additional Wish!\nUntil 2026/01/05 11:59 (UTC+8)",
+    "end_at": "2026-01-05T03:00:00Z",
+    "name": "Reprint - Advent of the Great Mallet Knight: Izana LEGEND FES [Paid Lodestar Gems Only]",
+    "small_banner_label": "Paid Only!",
+    "start_at": "2025-12-24T03:00:00Z",
+    "step_up_loop_description": "{} cycles remaining"
+  },
+  {
+    "id": 3033,
+    "description": "Pick-Up Character debuts at ★5!\nIf you already have this character\nand are welcoming them for the first time in this Wish,\nyou will receive an additional 1030 Pieces on your first time!\n*Regardless of enrollment status at the time of first welcome,\nsubsequent welcomes will grant 100 Pieces.\nUntil 2026/01/13 11:59 (UTC+8)",
+    "end_at": "2026-01-13T03:00:00Z",
+    "name": "Choose Your Guaranteed ★6 Unlocked Character Wish",
+    "small_banner_label": "Choose & Guaranteed!",
+    "start_at": "2025-12-26T03:00:00Z",
+    "step_up_loop_description": "{} cycles remaining"
+  },
+  {
+    "id": 3034,
+    "description": "Max 1 time! STEP 4 guarantees your choice of ☆3 Characters!\nUntil 2026/01/02 10:59 (UTC+8)\n*STEP 1-3 have no featured characters",
+    "end_at": "2026-01-02T03:00:00Z",
+    "name": "Choose Your ☆3 Character Guaranteed Wish [Fire Festival]",
+    "small_banner_label": "Choose & Guarantee!",
+    "start_at": "2026-01-01T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 3035,
+    "description": "Max 1 time! STEP 4 guarantees your choice of ☆3 Characters!\nUntil 2026/01/03 10:59 (UTC+8)\n*STEP 1-3 have no featured characters",
+    "end_at": "2026-01-03T03:00:00Z",
+    "name": "Choose Your ☆3 Character Guaranteed Wish [Ice Festival]",
+    "small_banner_label": "Choose & Guarantee!",
+    "start_at": "2026-01-02T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 3036,
+    "description": "Max 1 time! STEP 4 guarantees your choice of ☆3 Characters!\nUntil 2026/01/04 10:59 (UTC+8)\n*STEP 1-3 have no featured characters",
+    "end_at": "2026-01-04T03:00:00Z",
+    "name": "Choose Your ☆3 Character Guaranteed Wish [Bolt Festival]",
+    "small_banner_label": "Choose & Guarantee!",
+    "start_at": "2026-01-03T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 3037,
+    "description": "Max 1 cycle! STEP 4 guarantees your chosen ☆3 Characters!\nFeatured until 2026/01/05 11:59 (UTC+8).\n*STEPs 1-3 do not have rate-ups.",
+    "end_at": "2026-01-05T03:00:00Z",
+    "name": "Choose & Guarantee ☆3 Characters Wish [Tempest Festival]",
+    "small_banner_label": "Choose & Guarantee!",
+    "start_at": "2026-01-04T03:00:00Z",
+    "step_up_loop_description": "{} cycles remaining"
+  },
+  {
+    "id": 3038,
+    "description": "Max 1 cycle! STEP 4 guarantees your chosen ☆3 Characters!\nFeatured until 2026/01/06 11:59 (UTC+8).\n*STEPs 1-3 do not have rate-ups.",
+    "end_at": "2026-01-06T03:00:00Z",
+    "name": "Choose & Guarantee ☆3 Characters Wish [Slash Festival]",
+    "small_banner_label": "Choose & Guarantee!",
+    "start_at": "2026-01-05T03:00:00Z",
+    "step_up_loop_description": "{} cycles remaining"
+  },
+  {
+    "id": 3039,
+    "description": "Max 1 cycle! STEP 4 guarantees your chosen ☆3 Characters!\nFeatured until 2026/01/07 11:59 (UTC+8).\n*STEPs 1-3 do not have rate-ups.",
+    "end_at": "2026-01-07T03:00:00Z",
+    "name": "Choose & Guarantee ☆3 Characters Wish [Strike Festival]",
+    "small_banner_label": "Choose & Guarantee!",
+    "start_at": "2026-01-06T03:00:00Z",
+    "step_up_loop_description": "{} cycles remaining"
+  },
+  {
+    "id": 3040,
+    "description": "1 time only! Get your choice of a guaranteed ☆3 Character at STEP 4!\nUntil 2026/01/08 10:59 (UTC+8)\n*STEP 1-3 do not have rate-ups.",
+    "end_at": "2026-01-08T03:00:00Z",
+    "name": "Choose Your Guaranteed ☆3 Character Wish [Stab Festival]",
+    "small_banner_label": "Choose & Guaranteed!",
+    "start_at": "2026-01-07T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 3041,
+    "description": "☆3 Characters are only those that debuted in Yumia Festival!\nUntil 2026/01/21 10:59 (UTC+8)",
+    "end_at": "2026-01-21T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Yumia Festival Revival Wish",
+    "name": "Yumia Festival Revival Wish",
+    "start_at": "2026-01-07T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 3042,
+    "description": "\"Heart-Pounding Dread\" and \"Respite for the Weary\" make their debut & are featured!\nUntil 2026/01/21 10:59 (UTC+8)",
+    "end_at": "2026-01-21T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Yumia Festival Revival Celebration The Research Team's Day Off LEGEND FES",
+    "name": "Yumia Festival Revival Celebration The Research Team's Day Off LEGEND FES",
+    "start_at": "2026-01-07T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 3043,
+    "description": "For every 30 Wishes with Paid Lodestar Gems, get 1 Wish for free! Max 5 times!\nSTEP 4 guarantees 1 Pick-Up Memoria!\nUntil 2026/01/21 11:59 (UTC+8).",
+    "end_at": "2026-01-21T03:00:00Z",
+    "name": "Yumia Festival Rerun Commemoration - Day Off for the Research Team LEGEND FES [Paid Lodestar Gems Only]",
+    "small_banner_label": "PU Guaranteed!",
+    "start_at": "2026-01-07T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 5000,
+    "description": "Many unique Atelier characters appear!\nATELIER FES I now open with no pick-ups!",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 5000107,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 5000108,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "ATELIER FES I",
+    "name": "ATELIER FES I",
+    "start_at": "2025-12-24T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 5001,
+    "description": "Many unique Atelier characters appear!\nATELIER FES II now open with no pick-ups!",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 5001109,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 5001110,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "ATELIER FES II",
+    "name": "ATELIER FES II",
+    "start_at": "2025-12-24T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 21010,
+    "description": "Crown of Star Wishes",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 210101,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Crown of Star Wishes",
+    "name": "Crown of Star Wishes",
+    "start_at": "2025-12-24T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 21011,
+    "description": "Bud of Star Wishes",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 210111,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Bud of Star Wishes",
+    "name": "Bud of Star Wishes",
+    "start_at": "2025-12-24T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 21012,
+    "description": "Crown of Star Wishes (Memoria)",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 210121,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Crown of Star Wishes (Memoria)",
+    "name": "Crown of Star Wishes (Memoria)",
+    "start_at": "2025-12-24T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 30321,
+    "description": "Pickup rate doubled! Max 5 times!\nGet 16 Medals!\nUntil 2026/01/05 11:59 (UTC+8)",
+    "end_at": "2026-01-05T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10005,
+            "description": "Bonus included!\n{} times left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Rerun Knight of the Great Mallet Izana - LEGEND FES [Paid Lodestar Gems Only]",
+    "name": "Rerun Knight of the Great Mallet Izana - LEGEND FES [Paid Lodestar Gems Only]",
+    "small_banner_label": "Paid Lodestar Gems Only!",
+    "start_at": "2025-12-24T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 233001,
+    "description": "Pickup rate doubled! Max 5 times!\nGet 16 Medals!\nUntil 2026/01/05 11:59 (UTC+8)",
+    "end_at": "2026-01-05T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10005,
+            "description": "Bonus included!\n{} times left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Atelier Christmas 2025 Santa Izana - LEGEND FES [Paid Lodestar Gems Only]",
+    "name": "Atelier Christmas 2025 Santa Izana - LEGEND FES [Paid Lodestar Gems Only]",
+    "small_banner_label": "Paid Lodestar Gems Only!",
+    "start_at": "2025-12-24T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 233201,
+    "description": "Pickup rate doubled! Max 5 times!\nGet 16 Medals!\nUntil 2026/01/19 11:59 (UTC+8)",
+    "end_at": "2026-01-19T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10005,
+            "description": "Bonus included!\n{} times left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "HAPPY NEW YEAR 2026 - LEGEND FES [Paid Lodestar Gems Only]",
+    "name": "HAPPY NEW YEAR 2026 - LEGEND FES [Paid Lodestar Gems Only]",
+    "small_banner_label": "Paid Lodestar Gems Only!",
+    "start_at": "2025-12-31T15:00:00Z",
+    "step_up_loop_description": ""
   }
 ]

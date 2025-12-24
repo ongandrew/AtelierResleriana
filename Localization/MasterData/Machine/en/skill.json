@@ -26074,5 +26074,1265 @@
     "description": "Boosts damage dealt by all allies by 20% for 2 turns when attack target has debuffs.",
     "name": "Exploit Weakness",
     "summary": ""
+  },
+  {
+    "id": 32162,
+    "description": "Boosts all allies' Max HP by {0}% for 2 turns (MAX 15%) and restores 15% HP.",
+    "name": "New Year's Black Box",
+    "summary": ""
+  },
+  {
+    "id": 32163,
+    "description": "Boosts all allies' Max HP by {0}% for 2 turns (MAX 10%) and restores 10% HP.",
+    "name": "New Year's Black Box",
+    "summary": ""
+  },
+  {
+    "id": 11003338,
+    "description": "Before attacking, reduces target's Air resistance by {0}% for 3 attacks.<br>After attacking, increases target's damage received by {1}%. (MAX 40%)",
+    "name": "Fanfare",
+    "summary": "Before attacking, reduces target's Air resistance.<br>After attacking, increases target's damage received."
+  },
+  {
+    "id": 11003339,
+    "description": "Before attacking, reduces target's Air resistance by {0}% for 3 attacks.<br>After attacking, increases target's damage received by {1}%. (MAX 40%)",
+    "name": "Fanfare",
+    "summary": "Before attacking, reduces target's Air resistance.<br>After attacking, increases target's damage received."
+  },
+  {
+    "id": 11003340,
+    "description": "Before attacking, reduces target's Air resistance by {0}% for 3 attacks.<br>After attacking, increases target's damage received by {1}%. (MAX 40%)",
+    "name": "Fanfare",
+    "summary": "Before attacking, reduces target's Air resistance.<br>After attacking, increases target's damage received."
+  },
+  {
+    "id": 11003341,
+    "description": "Before attacking, reduces target's Air resistance by {0}% for 3 attacks.<br>After attacking, increases target's damage received by {1}%. (MAX 40%)",
+    "name": "Fanfare",
+    "summary": "Before attacking, reduces target's Air resistance.<br>After attacking, increases target's damage received."
+  },
+  {
+    "id": 11003342,
+    "description": "Before attacking, reduces target's Air resistance by {0}% for 3 attacks.<br>After attacking, increases target's damage received by {1}%. (MAX 40%)",
+    "name": "Fanfare",
+    "summary": "Before attacking, reduces target's Air resistance.<br>After attacking, increases target's damage received."
+  },
+  {
+    "id": 11003353,
+    "description": "Before attacking, reduces target's Air resistance by {0}% for 2 attacks.<br>After attacking, boosts own M.ATK by {1}%. (MAX 30%)",
+    "name": "Fierce Punch",
+    "summary": "Before attacking, reduces target's Air resistance.<br>After attacking, boosts own M.ATK."
+  },
+  {
+    "id": 11003354,
+    "description": "Before attacking, reduces target's Air resistance by {0}% for 2 attacks.<br>After attacking, boosts own M.ATK by {1}%. (MAX 30%)",
+    "name": "Fierce Punch",
+    "summary": "Before attacking, reduces target's Air resistance.<br>After attacking, boosts own M.ATK."
+  },
+  {
+    "id": 11003355,
+    "description": "Before attacking, reduces target's Air resistance by {0}% for 2 attacks.<br>After attacking, boosts own M.ATK by {1}%. (MAX 30%)",
+    "name": "Fierce Punch",
+    "summary": "Before attacking, reduces target's Air resistance.<br>After attacking, boosts own M.ATK."
+  },
+  {
+    "id": 11003356,
+    "description": "Before attacking, reduces target's Air resistance by {0}% for 2 attacks.<br>After attacking, boosts own M.ATK by {1}%. (MAX 30%)",
+    "name": "Fierce Punch",
+    "summary": "Before attacking, reduces target's Air resistance.<br>After attacking, boosts own M.ATK."
+  },
+  {
+    "id": 11003357,
+    "description": "Before attacking, reduces target's Air resistance by {0}% for 2 attacks.<br>After attacking, boosts own M.ATK by {1}%. (MAX 30%)",
+    "name": "Fierce Punch",
+    "summary": "Before attacking, reduces target's Air resistance.<br>After attacking, boosts own M.ATK."
+  },
+  {
+    "id": 12003343,
+    "description": "On critical attack, boosts this attack's stun damage by {0}%.<br>Before attacking, reduces target's Air resistance by {1}% for 3 attacks.<br>After attacking, increases target's damage received by {2}% for 2 attacks.<br>Boosts all allies' weakness attack damage by {3}% for 2 turns.<br>Converts one panel for all allies with Air affinity other than burst panels into a Heartfelt Starbirth panel. (Creates a Heartfelt Starbirth panel if the panel is empty)",
+    "name": "Melodic Cracker",
+    "summary": "On critical attack, boosts stun damage.<br>Before attacking, reduces target's Air resistance.<br>After attacking, increases target's damage received.<br>Boosts all allies' weakness attack damage.<br>Converts one panel for all allies with Air affinity other than burst panels into a Heartfelt Starbirth panel."
+  },
+  {
+    "id": 12003344,
+    "description": "On critical attack, boosts this attack's stun damage by {0}%.<br>Before attacking, reduces target's Air resistance by {1}% for 3 attacks.<br>After attacking, increases target's damage received by {2}% for 2 attacks.<br>Boosts all allies' weakness attack damage by {3}% for 2 turns.<br>Converts one panel for all allies with Air affinity other than burst panels into a Heartfelt Starbirth panel. (Creates a Heartfelt Starbirth panel if the panel is empty)",
+    "name": "Melodic Cracker",
+    "summary": "On critical attack, boosts stun damage.<br>Before attacking, reduces target's Air resistance.<br>After attacking, increases target's damage received.<br>Boosts all allies' weakness attack damage.<br>Converts one panel for all allies with Air affinity other than burst panels into a Heartfelt Starbirth panel."
+  },
+  {
+    "id": 12003345,
+    "description": "On critical attack, boosts this attack's stun damage by {0}%.<br>Before attacking, reduces target's Air resistance by {1}% for 3 attacks.<br>After attacking, increases target's damage received by {2}% for 2 attacks.<br>Boosts all allies' weakness attack damage by {3}% for 2 turns.<br>Converts one panel for all allies with Air affinity other than burst panels into a Heartfelt Starbirth panel. (Creates a Heartfelt Starbirth panel if the panel is empty)",
+    "name": "Melodic Cracker",
+    "summary": "On critical attack, boosts stun damage.<br>Before attacking, reduces target's Air resistance.<br>After attacking, increases target's damage received.<br>Boosts all allies' weakness attack damage.<br>Converts one panel for all allies with Air affinity other than burst panels into a Heartfelt Starbirth panel."
+  },
+  {
+    "id": 12003346,
+    "description": "On critical attack, boosts this attack's stun damage by {0}%.<br>Before attacking, reduces target's Air resistance by {1}% for 3 attacks.<br>After attacking, increases target's damage received by {2}% for 2 attacks.<br>Boosts all allies' weakness attack damage by {3}% for 2 turns.<br>Converts one panel for all allies with Air affinity other than burst panels into a Heartfelt Starbirth panel. (Creates a Heartfelt Starbirth panel if the panel is empty)",
+    "name": "Melodic Cracker",
+    "summary": "On critical attack, boosts stun damage.<br>Before attacking, reduces target's Air resistance.<br>After attacking, increases target's damage received.<br>Boosts all allies' weakness attack damage.<br>Converts one panel for all allies with Air affinity other than burst panels into a Heartfelt Starbirth panel."
+  },
+  {
+    "id": 12003347,
+    "description": "On critical attack, boosts this attack's stun damage by {0}%.<br>Before attacking, reduces target's Air resistance by {1}% for 3 attacks.<br>After attacking, increases target's damage received by {2}% for 2 attacks.<br>Boosts all allies' weakness attack damage by {3}% for 2 turns.<br>Converts one panel for all allies with Air affinity other than burst panels into a Heartfelt Starbirth panel. (Creates a Heartfelt Starbirth panel if the panel is empty)",
+    "name": "Melodic Cracker",
+    "summary": "On critical attack, boosts stun damage.<br>Before attacking, reduces target's Air resistance.<br>After attacking, increases target's damage received.<br>Boosts all allies' weakness attack damage.<br>Converts one panel for all allies with Air affinity other than burst panels into a Heartfelt Starbirth panel."
+  },
+  {
+    "id": 12003358,
+    "description": "Boosts this attack's penetration by {0}.<br>Before attacking, reduces target's Air resistance by {1}% for 3 attacks.<br>After attacking, boosts own M.ATK by {2}% and skill damage by {3}% for 2 turns.",
+    "name": "Giant Sesame Whirlwind",
+    "summary": "Boosts this attack's penetration.<br>Before attacking, reduces target's Air resistance.<br>After attacking, boosts own M.ATK and skill damage."
+  },
+  {
+    "id": 12003359,
+    "description": "Boosts this attack's penetration by {0}.<br>Before attacking, reduces target's Air resistance by {1}% for 3 attacks.<br>After attacking, boosts own M.ATK by {2}% and skill damage by {3}% for 2 turns.",
+    "name": "Giant Sesame Whirlwind",
+    "summary": "Boosts this attack's penetration.<br>Before attacking, reduces target's Air resistance.<br>After attacking, boosts own M.ATK and skill damage."
+  },
+  {
+    "id": 12003360,
+    "description": "Boosts this attack's penetration by {0}.<br>Before attacking, reduces target's Air resistance by {1}% for 3 attacks.<br>After attacking, boosts own M.ATK by {2}% and skill damage by {3}% for 2 turns.",
+    "name": "Giant Sesame Whirlwind",
+    "summary": "Boosts this attack's penetration.<br>Before attacking, reduces target's Air resistance.<br>After attacking, boosts own M.ATK and skill damage."
+  },
+  {
+    "id": 12003361,
+    "description": "Boosts this attack's penetration by {0}.<br>Before attacking, reduces target's Air resistance by {1}% for 3 attacks.<br>After attacking, boosts own M.ATK by {2}% and skill damage by {3}% for 2 turns.",
+    "name": "Giant Sesame Whirlwind",
+    "summary": "Boosts this attack's penetration.<br>Before attacking, reduces target's Air resistance.<br>After attacking, boosts own M.ATK and skill damage."
+  },
+  {
+    "id": 12003362,
+    "description": "Boosts this attack's penetration by {0}.<br>Before attacking, reduces target's Air resistance by {1}% for 3 attacks.<br>After attacking, boosts own M.ATK by {2}% and skill damage by {3}% for 2 turns.",
+    "name": "Giant Sesame Whirlwind",
+    "summary": "Boosts this attack's penetration.<br>Before attacking, reduces target's Air resistance.<br>After attacking, boosts own M.ATK and skill damage."
+  },
+  {
+    "id": 14003348,
+    "description": "On critical attack, boosts this attack's stun damage by {0}%.<br>Before attacking, reduces target's Air resistance by {1}% for 2 attacks.<br>After attacking, boosts target's damage received by {2}% for 2 attacks. Boosts all allies' weakness damage by {3}% for 2 turns. Converts all panels of all allies with Air affinity into Heartfelt Starbirth panels, except burst panels. (Creates panels if empty)",
+    "name": "Present For You!",
+    "summary": "On critical attack, boosts stun damage.<br>Before attacking, reduces target's Air resistance.<br>After attacking, boosts target's damage received.<br>Boosts all allies' weakness damage.<br>Converts all panels of all allies with Air affinity into Heartfelt Starbirth panels, except burst panels."
+  },
+  {
+    "id": 14003349,
+    "description": "On critical attack, boosts this attack's stun damage by {0}%.<br>Before attacking, reduces target's Air resistance by {1}% for 2 attacks.<br>After attacking, boosts target's damage received by {2}% for 2 attacks. Boosts all allies' weakness damage by {3}% for 2 turns. Converts all panels of all allies with Air affinity into Heartfelt Starbirth panels, except burst panels. (Creates panels if empty)",
+    "name": "Present For You!",
+    "summary": "On critical attack, boosts stun damage.<br>Before attacking, reduces target's Air resistance.<br>After attacking, boosts target's damage received.<br>Boosts all allies' weakness damage.<br>Converts all panels of all allies with Air affinity into Heartfelt Starbirth panels, except burst panels."
+  },
+  {
+    "id": 14003350,
+    "description": "On critical attack, boosts this attack's stun damage by {0}%.<br>Before attacking, reduces target's Air resistance by {1}% for 2 attacks.<br>After attacking, boosts target's damage received by {2}% for 2 attacks. Boosts all allies' weakness damage by {3}% for 2 turns. Converts all panels of all allies with Air affinity into Heartfelt Starbirth panels, except burst panels. (Creates panels if empty)",
+    "name": "Present For You!",
+    "summary": "On critical attack, boosts stun damage.<br>Before attacking, reduces target's Air resistance.<br>After attacking, boosts target's damage received.<br>Boosts all allies' weakness damage.<br>Converts all panels of all allies with Air affinity into Heartfelt Starbirth panels, except burst panels."
+  },
+  {
+    "id": 14003351,
+    "description": "On critical attack, boosts this attack's stun damage by {0}%.<br>Before attacking, reduces target's Air resistance by {1}% for 2 attacks.<br>After attacking, boosts target's damage received by {2}% for 2 attacks. Boosts all allies' weakness damage by {3}% for 2 turns. Converts all panels of all allies with Air affinity into Heartfelt Starbirth panels, except burst panels. (Creates panels if empty)",
+    "name": "Present For You!",
+    "summary": "On critical attack, boosts stun damage.<br>Before attacking, reduces target's Air resistance.<br>After attacking, boosts target's damage received.<br>Boosts all allies' weakness damage.<br>Converts all panels of all allies with Air affinity into Heartfelt Starbirth panels, except burst panels."
+  },
+  {
+    "id": 14003352,
+    "description": "On critical attack, boosts this attack's stun damage by {0}%.<br>Before attacking, reduces target's Air resistance by {1}% for 2 attacks.<br>After attacking, boosts target's damage received by {2}% for 2 attacks. Boosts all allies' weakness damage by {3}% for 2 turns. Converts all panels of all allies with Air affinity into Heartfelt Starbirth panels, except burst panels. (Creates panels if empty)",
+    "name": "Present For You!",
+    "summary": "On critical attack, boosts stun damage.<br>Before attacking, reduces target's Air resistance.<br>After attacking, boosts target's damage received.<br>Boosts all allies' weakness damage.<br>Converts all panels of all allies with Air affinity into Heartfelt Starbirth panels, except burst panels."
+  },
+  {
+    "id": 14003363,
+    "description": "Boosts this attack's penetration by {0}.<br>Before attacking, reduces target's Air resistance by {1}% for 2 attacks.<br>After attacking, boosts own M.ATK by {2}% for 2 turns. Boosts own weakness damage by {3}% (Up to 150%).<br>When the level of Ten Thousand Fortunes is 5, after attacking, removes Ten Thousand Fortunes. Boosts own skill damage by {5}% (Up to 100%), penetration by {6} (Up to 100), and grants Ten Thousand Fortunes (Lv. 2). Increases own burst gauge by {7}%.",
+    "name": "New Year Hanetuki Festival",
+    "summary": "Boosts this attack's penetration.<br>Before attacking, reduces target's Air resistance.<br>After attacking, boosts own M.ATK and weakness damage.<br>When Ten Thousand Fortunes is Lv. 5, removes Ten Thousand Fortunes. Boosts own skill damage and penetration.<br>After attacking, grants self Ten Thousand Fortunes Lv. 2 and restores own burst gauge."
+  },
+  {
+    "id": 14003364,
+    "description": "Boosts this attack's penetration by {0}.<br>Before attacking, reduces target's Air resistance by {1}% for 2 attacks.<br>After attacking, boosts own M.ATK by {2}% for 2 turns. Boosts own weakness damage by {3}% (Up to 150%).<br>When the level of Ten Thousand Fortunes is 5, after attacking, removes Ten Thousand Fortunes. Boosts own skill damage by {5}% (Up to 100%), penetration by {6} (Up to 100), and grants Ten Thousand Fortunes (Lv. 2). Increases own burst gauge by {7}%.",
+    "name": "New Year Hanetuki Festival",
+    "summary": "Boosts this attack's penetration.<br>Before attacking, reduces target's Air resistance.<br>After attacking, boosts own M.ATK and weakness damage.<br>When Ten Thousand Fortunes is Lv. 5, removes Ten Thousand Fortunes. Boosts own skill damage and penetration.<br>After attacking, grants self Ten Thousand Fortunes Lv. 2 and restores own burst gauge."
+  },
+  {
+    "id": 14003365,
+    "description": "Boosts this attack's penetration by {0}.<br>Before attacking, reduces target's Air resistance by {1}% for 2 attacks.<br>After attacking, boosts own M.ATK by {2}% for 2 turns. Boosts own weakness damage by {3}% (Up to 150%).<br>When the level of Ten Thousand Fortunes is 5, after attacking, removes Ten Thousand Fortunes. Boosts own skill damage by {5}% (Up to 100%), penetration by {6} (Up to 100), and grants Ten Thousand Fortunes (Lv. 2). Increases own burst gauge by {7}%.",
+    "name": "New Year Hanetuki Festival",
+    "summary": "Boosts this attack's penetration.<br>Before attacking, reduces target's Air resistance.<br>After attacking, boosts own M.ATK and weakness damage.<br>When Ten Thousand Fortunes is Lv. 5, removes Ten Thousand Fortunes. Boosts own skill damage and penetration.<br>After attacking, grants self Ten Thousand Fortunes Lv. 2 and restores own burst gauge."
+  },
+  {
+    "id": 14003366,
+    "description": "Boosts this attack's penetration by {0}.<br>Before attacking, reduces target's Air resistance by {1}% for 2 attacks.<br>After attacking, boosts own M.ATK by {2}% for 2 turns. Boosts own weakness damage by {3}% (Up to 150%).<br>When the level of Ten Thousand Fortunes is 5, after attacking, removes Ten Thousand Fortunes. Boosts own skill damage by {5}% (Up to 100%), penetration by {6} (Up to 100), and grants Ten Thousand Fortunes (Lv. 2). Increases own burst gauge by {7}%.",
+    "name": "New Year Hanetuki Festival",
+    "summary": "Boosts this attack's penetration.<br>Before attacking, reduces target's Air resistance.<br>After attacking, boosts own M.ATK and weakness damage.<br>When Ten Thousand Fortunes is Lv. 5, removes Ten Thousand Fortunes. Boosts own skill damage and penetration.<br>After attacking, grants self Ten Thousand Fortunes Lv. 2 and restores own burst gauge."
+  },
+  {
+    "id": 14003367,
+    "description": "Boosts this attack's penetration by {0}.<br>Before attacking, reduces target's Air resistance by {1}% for 2 attacks.<br>After attacking, boosts own M.ATK by {2}% for 2 turns. Boosts own weakness damage by {3}% (Up to 150%).<br>When the level of Ten Thousand Fortunes is 5, after attacking, removes Ten Thousand Fortunes. Boosts own skill damage by {5}% (Up to 100%), penetration by {6} (Up to 100), and grants Ten Thousand Fortunes (Lv. 2). Increases own burst gauge by {7}%.",
+    "name": "New Year Hanetuki Festival",
+    "summary": "Boosts this attack's penetration.<br>Before attacking, reduces target's Air resistance.<br>After attacking, boosts own M.ATK and weakness damage.<br>When Ten Thousand Fortunes is Lv. 5, removes Ten Thousand Fortunes. Boosts own skill damage and penetration.<br>After attacking, grants self Ten Thousand Fortunes Lv. 2 and restores own burst gauge."
+  },
+  {
+    "id": 32004051,
+    "description": "No effect.",
+    "name": "Wind Cross",
+    "summary": ""
+  },
+  {
+    "id": 32004052,
+    "description": "After attacking, boosts own damage dealt by 20% for 2 turns.",
+    "name": "Bite",
+    "summary": ""
+  },
+  {
+    "id": 32004053,
+    "description": "After attacking, reduces all enemies' stun damage dealt by 20% for 2 turns.",
+    "name": "Dark Storm Anger",
+    "summary": ""
+  },
+  {
+    "id": 32004054,
+    "description": "After attacking, reduces single enemy's stun damage dealt by 30% and HP recovery received by 30% for 2 turns.",
+    "name": "Blood Fang",
+    "summary": ""
+  },
+  {
+    "id": 32004055,
+    "description": "After attacking, restores own HP and stun gauge by 20%.",
+    "name": "Lovely Guruguru Punch",
+    "summary": ""
+  },
+  {
+    "id": 32004056,
+    "description": "After attacking, reduces target's damage dealt by 15% for 4 turns.",
+    "name": "Guruguru Punch",
+    "summary": ""
+  },
+  {
+    "id": 32004057,
+    "description": "After attacking, reduces all enemies' stun damage dealt by 15% for 4 turns.",
+    "name": "Dark Storm",
+    "summary": ""
+  },
+  {
+    "id": 32004058,
+    "description": "Removes own status effects and restores own HP by 15%.",
+    "name": "Heal Powder",
+    "summary": ""
+  },
+  {
+    "id": 32004059,
+    "description": "Grants self Cover for 3 turns.",
+    "name": "Stand By",
+    "summary": ""
+  },
+  {
+    "id": 32004060,
+    "description": "No effect.",
+    "name": "Super Cast",
+    "summary": ""
+  },
+  {
+    "id": 32004061,
+    "description": "After attacking, grants Sleep to all enemies for 2 turns.",
+    "name": "Flare Suffocation",
+    "summary": ""
+  },
+  {
+    "id": 32004062,
+    "description": "No effect.",
+    "name": "Shadow Fire",
+    "summary": ""
+  },
+  {
+    "id": 32004128,
+    "description": "Grants all allies Evasion (100%) for 2 turns and restores their HP by 10%.",
+    "name": "Cup of Blessing",
+    "summary": ""
+  },
+  {
+    "id": 32004129,
+    "description": "No effect.",
+    "name": "Mochipuni Korolyn",
+    "summary": ""
+  },
+  {
+    "id": 32004130,
+    "description": "After attacking, boosts own damage dealt by 30% for 3 turns.",
+    "name": "Heartfelt Prayer",
+    "summary": ""
+  },
+  {
+    "id": 32004131,
+    "description": "After attacking, increases target enemy's damage received by 20% for 3 turns.",
+    "name": "Fireball Charm",
+    "summary": ""
+  },
+  {
+    "id": 32004132,
+    "description": "After attacking, converts 10 non-burst panels on target enemy's timeline to burn panels.",
+    "name": "Savory Grill",
+    "summary": ""
+  },
+  {
+    "id": 32004133,
+    "description": "Reduces all allies' damage received by 20% for 1 turn.",
+    "name": "New Year's Protection",
+    "summary": ""
+  },
+  {
+    "id": 32004134,
+    "description": "After attacking, grants Daze to all enemies with 50% chance for 2 turns.",
+    "name": "Hanetsuki Festival",
+    "summary": ""
+  },
+  {
+    "id": 32004135,
+    "description": "After attacking, reduces target's Air resistance by 30% for 2 turns and restores own HP by 15%.",
+    "name": "Fierce Attack",
+    "summary": ""
+  },
+  {
+    "id": 32004136,
+    "description": "Boosts skill damage based on own damage received reduction.",
+    "name": "Giant Sesame Whirlwind",
+    "summary": ""
+  },
+  {
+    "id": 32004137,
+    "description": "Chance to remove all enemies' positive effects and reduces their single target skill damage dealt by 30% for 2 turns.",
+    "name": "Exorcism Flower",
+    "summary": ""
+  },
+  {
+    "id": 32004138,
+    "description": "After attacking, grants Daze to all enemies with 50% chance for 2 turns.",
+    "name": "Hanetsuki Festival",
+    "summary": ""
+  },
+  {
+    "id": 32004139,
+    "description": "After attacking, reduces target's Air resistance by 30% for 2 turns and restores own HP by 15%.",
+    "name": "Fierce Attack",
+    "summary": ""
+  },
+  {
+    "id": 32004140,
+    "description": "Boosts skill damage based on own damage received reduction.",
+    "name": "Giant Sesame Whirlwind",
+    "summary": ""
+  },
+  {
+    "id": 32004141,
+    "description": "Chance to remove all enemies' positive effects and reduces their single target skill damage dealt by 30% for 2 turns.",
+    "name": "Exorcism Flower",
+    "summary": ""
+  },
+  {
+    "id": 32004142,
+    "description": "After attacking, grants target Daze for 1 turn and delays their turn by 3.",
+    "name": "Big Blue Wave",
+    "summary": ""
+  },
+  {
+    "id": 32004143,
+    "description": "After attacking, reduces own damage received by 40% for 3 turns and delays target's turn by 2.",
+    "name": "Big Splash",
+    "summary": ""
+  },
+  {
+    "id": 32004144,
+    "description": "After attacking, reduces target's damage dealt by 40% for 3 turns.",
+    "name": "Impact Bringer",
+    "summary": ""
+  },
+  {
+    "id": 32004145,
+    "description": "When attacking, if own HP is 80% or higher, boosts skill power by 20%.\nAfter attacking, restores own HP by 10%.",
+    "name": "Drop Crash",
+    "summary": ""
+  },
+  {
+    "id": 32004146,
+    "description": "Grants self SPD +5% and damage received -40% for 3 turns.",
+    "name": "Moist Charge",
+    "summary": ""
+  },
+  {
+    "id": 32004147,
+    "description": "After attacking, restores own HP and stun gauge by 20%.",
+    "name": "Vigorous Swirling Punch",
+    "summary": ""
+  },
+  {
+    "id": 32004148,
+    "description": "After attacking, reduces target's damage dealt by 45% for 4 turns.",
+    "name": "Swirling Punch",
+    "summary": ""
+  },
+  {
+    "id": 32004149,
+    "description": "After attacking, reduces target's stun damage dealt by 45% for 4 turns.",
+    "name": "Dark Storm",
+    "summary": ""
+  },
+  {
+    "id": 32004150,
+    "description": "Restores own HP by 30% and removes status effects.",
+    "name": "Heal Powder",
+    "summary": ""
+  },
+  {
+    "id": 32004151,
+    "description": "Grants Cover (3 times) to self.",
+    "name": "Standby",
+    "summary": ""
+  },
+  {
+    "id": 32004152,
+    "description": "Grants all allies damage received -30% for 2 turns.",
+    "name": "Energy Powder",
+    "summary": ""
+  },
+  {
+    "id": 32004153,
+    "description": "No effects.",
+    "name": "Turtle Head",
+    "summary": ""
+  },
+  {
+    "id": 32004154,
+    "description": "No effects.",
+    "name": "Raging Turtle",
+    "summary": ""
+  },
+  {
+    "id": 32004155,
+    "description": "Grants self damage received -40% for 3 turns and inflicts Provoke (2 times) on all enemies.",
+    "name": "Shell Sign",
+    "summary": ""
+  },
+  {
+    "id": 32004156,
+    "description": "After attacking, increases target's damage received by 10% for 3 turns.",
+    "name": "Drop Crack",
+    "summary": ""
+  },
+  {
+    "id": 32004157,
+    "description": "After attacking, reduces target's damage dealt by 30% for 3 turns.",
+    "name": "Splash",
+    "summary": ""
+  },
+  {
+    "id": 32004158,
+    "description": "No effects.",
+    "name": "Fall Crash",
+    "summary": ""
+  },
+  {
+    "id": 32004159,
+    "description": "After attacking, boosts own damage dealt by 15% for 3 turns.",
+    "name": "Jump Crash",
+    "summary": ""
+  },
+  {
+    "id": 32004160,
+    "description": "Restores self by 15% and grants damage received -30% for 3 turns.",
+    "name": "Moist Supply",
+    "summary": ""
+  },
+  {
+    "id": 32004161,
+    "description": "After attacking, reduces all enemies' damage dealt by 25% for 2 turns, positive effect potency by 25% for 3 turns, and HP recovery amount by 15% for 3 turns.",
+    "name": "Monochrome World",
+    "summary": ""
+  },
+  {
+    "id": 32004162,
+    "description": "No effects.",
+    "name": "Iron Staff Strike",
+    "summary": ""
+  },
+  {
+    "id": 32004163,
+    "description": "Grants all allies damage dealt +20% for 3 turns and SPD +10% for 2 turns.",
+    "name": "Demon's Roar",
+    "summary": ""
+  },
+  {
+    "id": 32004164,
+    "description": "After attacking, reduces damage dealt by 40% for 2 turns for all enemies.",
+    "name": "Rock Crusher",
+    "summary": ""
+  },
+  {
+    "id": 32004165,
+    "description": "After attacking, grants Burn (100% chance) to all enemies.",
+    "name": "Hellfire Vortex",
+    "summary": ""
+  },
+  {
+    "id": 32004166,
+    "description": "Boosts this attack's critical damage by 15%.",
+    "name": "Fatal Bite",
+    "summary": ""
+  },
+  {
+    "id": 32004167,
+    "description": "After attacking, boosts own critical rate by 10% for 1 turn.",
+    "name": "Bite",
+    "summary": ""
+  },
+  {
+    "id": 32004168,
+    "description": "After attacking, boosts own critical damage by 10% for 3 turns.",
+    "name": "Club Roar",
+    "summary": ""
+  },
+  {
+    "id": 32004169,
+    "description": "No additional effects.",
+    "name": "Wind Sphere",
+    "summary": ""
+  },
+  {
+    "id": 32004170,
+    "description": "No additional effects.",
+    "name": "Tornado Summon",
+    "summary": ""
+  },
+  {
+    "id": 32004171,
+    "description": "After attacking, reduces own damage received by 30% for 1 to 5 turns.",
+    "name": "Armor Change",
+    "summary": ""
+  },
+  {
+    "id": 32004172,
+    "description": "After attacking, reduces own damage received by 50% for 1 turn.",
+    "name": "Ore Metabolism",
+    "summary": ""
+  },
+  {
+    "id": 32004173,
+    "description": "When attacking, if own HP is 50% or lower, boosts damage dealt by 20%.",
+    "name": "Rousing Tornado",
+    "summary": ""
+  },
+  {
+    "id": 32004174,
+    "description": "No additional effects.",
+    "name": "Wild Strike",
+    "summary": ""
+  },
+  {
+    "id": 32004175,
+    "description": "Reduces target single enemy's stun damage dealt by 40% for 3 turns.",
+    "name": "Curse Powder",
+    "summary": ""
+  },
+  {
+    "id": 32004176,
+    "description": "Grants self Cover for 3 turns.",
+    "name": "Stand By",
+    "summary": ""
+  },
+  {
+    "id": 32004177,
+    "description": "Advances all allies' turns by 3 turns.",
+    "name": "Order of Vitality",
+    "summary": ""
+  },
+  {
+    "id": 32004178,
+    "description": "After attacking, increases target's damage received by 15% for 3 turns.",
+    "name": "Point of Pain",
+    "summary": ""
+  },
+  {
+    "id": 32004179,
+    "description": "After attacking, reduces target's damage dealt by 30% for 3 turns and critical rate by 30% for 1 turn.",
+    "name": "Cold Unlocked",
+    "summary": ""
+  },
+  {
+    "id": 32004180,
+    "description": "Advances single ally's turn by 3 turns.",
+    "name": "Point of Vitality",
+    "summary": ""
+  },
+  {
+    "id": 32004181,
+    "description": "After attacking, grants target Daze for 1 turn and reduces own damage received by 100% for 1 turn.",
+    "name": "Thunder Sphere Burst",
+    "summary": ""
+  },
+  {
+    "id": 32004182,
+    "description": "No additional effects.",
+    "name": "Tusk",
+    "summary": ""
+  },
+  {
+    "id": 32004183,
+    "description": "Boosts damage dealt by 15% against targets with status effects.",
+    "name": "Silent Needle Rain",
+    "summary": ""
+  },
+  {
+    "id": 32004184,
+    "description": "After attacking, inflicts target with Paralysis for 2 turns (50% chance to apply).",
+    "name": "Numbing Stab",
+    "summary": ""
+  },
+  {
+    "id": 32004185,
+    "description": "After attacking, converts the first 5 panels on the timeline into burn panels (excluding burst panels).",
+    "name": "Hellfire Dispersion",
+    "summary": ""
+  },
+  {
+    "id": 32004186,
+    "description": "Grants target Poison for 3 turns (3 stacks). If target has a status effect, grants an additional Poison for 3 turns (3 stacks).",
+    "name": "Progressive Poisoning",
+    "summary": ""
+  },
+  {
+    "id": 32004187,
+    "description": "After attacking, inflicts target with Daze for 1 turn and delays their turn by 3 turns.",
+    "name": "Big Blue Wave",
+    "summary": ""
+  },
+  {
+    "id": 32004188,
+    "description": "After attacking, reduces own damage received by 40% for 3 turns and delays target's turn by 2 turns.",
+    "name": "Big Splash",
+    "summary": ""
+  },
+  {
+    "id": 32004189,
+    "description": "No additional effects.",
+    "name": "Iron Club Smash",
+    "summary": ""
+  },
+  {
+    "id": 32004190,
+    "description": "After attacking, inflicts target with Daze for 1 turn and reduces own damage received by 100% for 1 turn.",
+    "name": "Thunderball Burst",
+    "summary": ""
+  },
+  {
+    "id": 32004191,
+    "description": "No additional effects.",
+    "name": "Large Fang",
+    "summary": ""
+  },
+  {
+    "id": 32004192,
+    "description": "After attacking, inflicts all enemies with Poison (5%) for 3 turns, and grants all allies damage received -35% for 3 turns and negative effect potency -50% for 2 turns.",
+    "name": "Serpent's Poisonous Ritual",
+    "summary": ""
+  },
+  {
+    "id": 32004193,
+    "description": "After attacking, reduces skill target's damage dealt by 40% for 3 turns.",
+    "name": "Serpent's Gaze",
+    "summary": ""
+  },
+  {
+    "id": 32004194,
+    "description": "After attacking, reduces all enemies' damage dealt by 30% for 3 turns.",
+    "name": "Serpent Strike",
+    "summary": ""
+  },
+  {
+    "id": 32004195,
+    "description": "After attacking, inflicts all enemies with Poison (2%) for 3 turns.",
+    "name": "Agony's Poison Flame",
+    "summary": ""
+  },
+  {
+    "id": 32004196,
+    "description": "Recovers own HP by 15% and reduces all enemies' recovery amount by 25% for 3 turns.",
+    "name": "Serpent's Formation",
+    "summary": ""
+  },
+  {
+    "id": 32004197,
+    "description": "Summons up to 2 Elder Fangs.",
+    "name": "Agony Transformation",
+    "summary": ""
+  },
+  {
+    "id": 32004198,
+    "description": "After attacking, inflicts all enemies with Poison (5%) for 3 turns, and grants all allies damage received -35% for 3 turns and negative effect potency -50% for 2 turns.",
+    "name": "Serpent's Poisonous Ritual",
+    "summary": ""
+  },
+  {
+    "id": 32004199,
+    "description": "After attacking, reduces skill target's damage dealt by 40% for 3 turns.",
+    "name": "Serpent's Gaze",
+    "summary": ""
+  },
+  {
+    "id": 32004200,
+    "description": "After attacking, reduces all enemies' damage dealt by 30% for 3 turns.",
+    "name": "Serpent Strike",
+    "summary": ""
+  },
+  {
+    "id": 32004201,
+    "description": "After attacking, inflicts all enemies with Poison (2%) for 3 turns.",
+    "name": "Agony's Poison Flame",
+    "summary": ""
+  },
+  {
+    "id": 32004202,
+    "description": "Recovers own HP by 15% and reduces all enemies' recovery amount by 25% for 3 turns.",
+    "name": "Serpent's Formation",
+    "summary": ""
+  },
+  {
+    "id": 32004203,
+    "description": "Summons up to 2 Elder Fangs.",
+    "name": "Agony Transformation",
+    "summary": ""
+  },
+  {
+    "id": 32004204,
+    "description": "No effects.",
+    "name": "Tumble",
+    "summary": ""
+  },
+  {
+    "id": 32004205,
+    "description": "No effects.",
+    "name": "Shiny Puni Bomber",
+    "summary": ""
+  },
+  {
+    "id": 32004206,
+    "description": "No effects.",
+    "name": "Puni Breath",
+    "summary": ""
+  },
+  {
+    "id": 32004207,
+    "description": "Restores single ally's HP by 15%.",
+    "name": "Heal",
+    "summary": ""
+  },
+  {
+    "id": 32004208,
+    "description": "Increases target enemy's damage received by 20% for 2 attacks.",
+    "name": "Puni Dark",
+    "summary": ""
+  },
+  {
+    "id": 32004209,
+    "description": "No effects.",
+    "name": "Puni Bomber",
+    "summary": ""
+  },
+  {
+    "id": 32004210,
+    "description": "After attacking, delays skill target's turn by 2.",
+    "name": "Tumble",
+    "summary": ""
+  },
+  {
+    "id": 32004211,
+    "description": "After attacking, reduces skill target's damage dealt by 15% for 3 attacks.",
+    "name": "Puni Ball",
+    "summary": ""
+  },
+  {
+    "id": 32004212,
+    "description": "Reduces skill target's damage received by 30% for 1 attack.",
+    "name": "Puni Boost",
+    "summary": ""
+  },
+  {
+    "id": 32004213,
+    "description": "Reduces skill target's damage dealt by 30% for 1 attack.",
+    "name": "Puni Dark",
+    "summary": ""
+  },
+  {
+    "id": 32004214,
+    "description": "",
+    "name": "Fatal Bite",
+    "summary": ""
+  },
+  {
+    "id": 32004215,
+    "description": "",
+    "name": "Bite",
+    "summary": ""
+  },
+  {
+    "id": 32004216,
+    "description": "No effects.",
+    "name": "Club Roar",
+    "summary": ""
+  },
+  {
+    "id": 32004217,
+    "description": "No effects.",
+    "name": "Bolt Shot",
+    "summary": ""
+  },
+  {
+    "id": 32004218,
+    "description": "No effects.",
+    "name": "Thunder Shout",
+    "summary": ""
+  },
+  {
+    "id": 32004219,
+    "description": "Boosts own damage dealt by 20% for 1 attack.",
+    "name": "Howl",
+    "summary": ""
+  },
+  {
+    "id": 32004220,
+    "description": "No effects.",
+    "name": "Dangerous Bite",
+    "summary": ""
+  },
+  {
+    "id": 32004221,
+    "description": "After attacking, reduces skill target's damage dealt by 15% for 3 attacks.",
+    "name": "Sonic Voice",
+    "summary": ""
+  },
+  {
+    "id": 32004222,
+    "description": "After attacking, inflicts Poison on skill target 5 times, dealing 2% damage for 5 turns.",
+    "name": "Poison Bite",
+    "summary": ""
+  },
+  {
+    "id": 32004223,
+    "description": "After attacking, reduces skill target's SPD by 20% for 5 turns.",
+    "name": "Thunder Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32004224,
+    "description": "After attacking, boosts own damage dealt by 50% for 1 turn.",
+    "name": "Extreme Cold Wave",
+    "summary": ""
+  },
+  {
+    "id": 32004225,
+    "description": "Inflicts Sleep on target for 2 turns.",
+    "name": "Drowsy Breath",
+    "summary": ""
+  },
+  {
+    "id": 32004226,
+    "description": "Reduces target's P.ATK by 30% for 2 turns.",
+    "name": "Trample",
+    "summary": ""
+  },
+  {
+    "id": 32004227,
+    "description": "No effects.",
+    "name": "Ice Rain",
+    "summary": ""
+  },
+  {
+    "id": 32004228,
+    "description": "No effects.",
+    "name": "Earth Shaker",
+    "summary": ""
+  },
+  {
+    "id": 32004229,
+    "description": "Advances own turn by 1 and reduces damage received by 15% for 3 turns.",
+    "name": "Pseudo Wing Spread",
+    "summary": ""
+  },
+  {
+    "id": 32004230,
+    "description": "Reduces P.ATK by 15% for 2 turns for all enemies.",
+    "name": "Red Explosion",
+    "summary": ""
+  },
+  {
+    "id": 32004231,
+    "description": "No effects.",
+    "name": "Sudden",
+    "summary": ""
+  },
+  {
+    "id": 32004232,
+    "description": "After attacking, reduces HP recovery received by 30% for 2 turns for skill target.",
+    "name": "Stone Rain",
+    "summary": ""
+  },
+  {
+    "id": 32004233,
+    "description": "No effects.",
+    "name": "Thunder Kick",
+    "summary": ""
+  },
+  {
+    "id": 32004234,
+    "description": "No effects.",
+    "name": "Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 32004235,
+    "description": "After attacking, converts 1 of skill target's panels to a protection weaken panel.",
+    "name": "Cursed Thunder Breath",
+    "summary": ""
+  },
+  {
+    "id": 32004236,
+    "description": "No effects.",
+    "name": "Thunder Breath",
+    "summary": ""
+  },
+  {
+    "id": 32004237,
+    "description": "After attacking, removes all positive effects from skill target.",
+    "name": "Slash Bite",
+    "summary": ""
+  },
+  {
+    "id": 32004238,
+    "description": "After attacking, reduces damage dealt by 15% for 2 turns for all enemies.",
+    "name": "Thunder Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32004239,
+    "description": "No effects.",
+    "name": "Scatter Slash",
+    "summary": ""
+  },
+  {
+    "id": 32004240,
+    "description": "After attacking, reduces positive effect potency received by 50% for 3 turns for skill target.",
+    "name": "Dark Roar",
+    "summary": ""
+  },
+  {
+    "id": 32004241,
+    "description": "After attacking, converts own next panel to a critical panel (excluding burst panels) and grants target Nullify Positive Effects for 2 turns.",
+    "name": "Volare Bestia",
+    "summary": ""
+  },
+  {
+    "id": 32004242,
+    "description": "After attacking, delays target's turn by 2 turns and reduces target's SPD by 10% for 2 turns.",
+    "name": "Fortis Pugnus",
+    "summary": ""
+  },
+  {
+    "id": 32004243,
+    "description": "No effects.",
+    "name": "Fortis Clarus",
+    "summary": ""
+  },
+  {
+    "id": 32004244,
+    "description": "After attacking, reduces target's damage dealt by 40% for 1 turn.",
+    "name": "Cauda Excitium",
+    "summary": ""
+  },
+  {
+    "id": 32004245,
+    "description": "After attacking, reduces own damage received by 60% for 2 turns.",
+    "name": "Vis Excitium",
+    "summary": ""
+  },
+  {
+    "id": 32004246,
+    "description": "Boosts own SPD by 10% for 2 turns and converts own next panel to a critical panel (excluding burst panels).",
+    "name": "Shooting Star Stance",
+    "summary": ""
+  },
+  {
+    "id": 32004247,
+    "description": "Before attacking, increases skill target's damage received by 50% for 1 turn. If skill target does not have a barrier, nullifies HP recovery.",
+    "name": "Aequivitas Venator",
+    "summary": ""
+  },
+  {
+    "id": 32004248,
+    "description": "After attacking, reduces own damage received by 40% for 3 turns and converts skill target's panel to a weaken panel.",
+    "name": "Terra Fortitudo",
+    "summary": ""
+  },
+  {
+    "id": 32004249,
+    "description": "After attacking, converts skill target's panel to an empty panel and reduces SPD by 8% for 2 turns.",
+    "name": "Bellator Gladius",
+    "summary": ""
+  },
+  {
+    "id": 32004250,
+    "description": "After attacking, reduces skill target's damage dealt by 40% for 3 turns and removes all positive effects.",
+    "name": "Terra Magnus",
+    "summary": ""
+  },
+  {
+    "id": 32004251,
+    "description": "No additional effects.",
+    "name": "Gladius",
+    "summary": ""
+  },
+  {
+    "id": 32004252,
+    "description": "Boosts own SPD by 10% for 2 turns and damage dealt by 20% for 3 turns, then converts own next panel to a boost panel (excluding burst panels).",
+    "name": "True Star Liberation",
+    "summary": ""
+  },
+  {
+    "id": 32004253,
+    "description": "Before attacking, increases skill target's damage received by 50% for 1 turn. If skill target does not have a barrier, nullifies HP recovery.\nAfter that, removes own Damage Dealt Up (for burst attack trigger) and redraws turn.\n*Burst for gimmick use",
+    "name": "Aequivitas Venator",
+    "summary": ""
+  },
+  {
+    "id": 32004254,
+    "description": "After attacking, permanently boosts own SPD by 10%.",
+    "name": "Lucidus Sidera",
+    "summary": ""
+  },
+  {
+    "id": 32004255,
+    "description": "After attacking, reduces own damage received by 40% for 2 turns.\nAfter attacking, reduces own stun damage received by 40% for 2 turns.",
+    "name": "Harmonia",
+    "summary": ""
+  },
+  {
+    "id": 32004256,
+    "description": "No additional effects.",
+    "name": "Zodiacus",
+    "summary": ""
+  },
+  {
+    "id": 32004257,
+    "description": "After attacking, reduces target's SPD by 5% for 2 turns.",
+    "name": "Nexus Celeste",
+    "summary": ""
+  },
+  {
+    "id": 32004258,
+    "description": "After attacking, reduces own negative effect potency by 40% for 2 turns.",
+    "name": "Nexus Flarum",
+    "summary": ""
+  },
+  {
+    "id": 32004259,
+    "description": "Grants own SPD Up by 3% (permanent) twice.\nGrants own Evasion by 3% (permanent, max 30%).",
+    "name": "Emerald Star's Blessing",
+    "summary": ""
+  },
+  {
+    "id": 32004260,
+    "description": "After attacking, converts boost panels to weaken panels and weaken panels to boost panels for 10 spaces, and reduces all enemies' SPD by 10% for 2 turns.",
+    "name": "Semen Resonare",
+    "summary": ""
+  },
+  {
+    "id": 32004261,
+    "description": "No additional effects.",
+    "name": "Sagitta",
+    "summary": ""
+  },
+  {
+    "id": 32004262,
+    "description": "Reduces item gauge recovery for all enemies by 50%.",
+    "name": "Passio Sagitta",
+    "summary": ""
+  },
+  {
+    "id": 32004263,
+    "description": "Boosts own SPD by 10% for 3 turns and critical damage by 15% for 3 turns, then creates a critical panel on own next turn.",
+    "name": "Wisdom Star's Glimmer",
+    "summary": ""
+  },
+  {
+    "id": 32004264,
+    "description": "Converts target's panel to a weaken panel (excluding burst panels). Boosts own damage dealt by 15% for 3 turns.",
+    "name": "Viridis Arcus",
+    "summary": ""
+  },
+  {
+    "id": 32004265,
+    "description": "Reduces own damage received by 40% for 3 turns.",
+    "name": "Quinque Sagitta",
+    "summary": ""
+  },
+  {
+    "id": 32004266,
+    "description": "After attacking, converts own next panel to a critical panel (excluding burst panels). Grants target Nullify Positive Effects for 2 turns.",
+    "name": "Volare Bestia",
+    "summary": ""
+  },
+  {
+    "id": 32004267,
+    "description": "After attacking, delays target's turn by 2. Reduces target's SPD by 10% for 2 turns.",
+    "name": "Fortis Pugnas",
+    "summary": ""
+  },
+  {
+    "id": 32004268,
+    "description": "No additional effects.",
+    "name": "Fortis Cras",
+    "summary": ""
+  },
+  {
+    "id": 32004269,
+    "description": "Before attacking, increases target's damage received by 50% for 1 turn. If target does not have a barrier, grants Nullify HP Recovery.",
+    "name": "Aequivitas Venator",
+    "summary": ""
+  },
+  {
+    "id": 32004270,
+    "description": "After attacking, reduces own damage received by 40% for 3 turns. Converts target's panel to a weaken panel.",
+    "name": "Terra Fortitudo",
+    "summary": ""
+  },
+  {
+    "id": 32004271,
+    "description": "After attacking, reduces target's damage dealt by 40% for 3 turns. Removes all positive effects.",
+    "name": "Terra Magnus",
+    "summary": ""
+  },
+  {
+    "id": 32004272,
+    "description": "Before attacking, increases target's damage received by 50% for 1 turn. If target does not have a barrier, grants Nullify HP Recovery.\nAfterward, removes own Damage Dealt Up (for Burst trigger) and redraws turn.\n※Burst for gimmicks",
+    "name": "Aequivitas Venator",
+    "summary": ""
+  },
+  {
+    "id": 32004273,
+    "description": "After attacking, boosts own SPD by 10% (Permanent).",
+    "name": "Lucidus Sidera",
+    "summary": ""
+  },
+  {
+    "id": 32004274,
+    "description": "After attacking, reduces own damage received by 40% for 2 turns.\nAfter attacking, reduces own stun damage received by 40% for 2 turns.",
+    "name": "Harmonia",
+    "summary": ""
+  },
+  {
+    "id": 32004275,
+    "description": "No additional effects.",
+    "name": "Zodiacus",
+    "summary": ""
+  },
+  {
+    "id": 32004276,
+    "description": "No additional effects.",
+    "name": "Sagitta",
+    "summary": ""
+  },
+  {
+    "id": 32004277,
+    "description": "Converts target's panel to a weaken panel (excluding burst panels). Boosts own damage dealt by 15% for 3 turns.",
+    "name": "Viridis Arcus",
+    "summary": ""
+  },
+  {
+    "id": 32004278,
+    "description": "No additional effects.",
+    "name": "Tumble",
+    "summary": ""
+  },
+  {
+    "id": 32004279,
+    "description": "After attacking, removes 3 positive effects from target.",
+    "name": "Super Huge Bomber",
+    "summary": ""
+  },
+  {
+    "id": 32004280,
+    "description": "No additional effects.",
+    "name": "Puni Breath",
+    "summary": ""
+  },
+  {
+    "id": 32004281,
+    "description": "Restores own HP by 5%. Removes negative effects and status effects.",
+    "name": "Super Huge Heal",
+    "summary": ""
+  },
+  {
+    "id": 32004282,
+    "description": "No additional effects.",
+    "name": "Tumble",
+    "summary": ""
+  },
+  {
+    "id": 32004283,
+    "description": "After attacking, removes 10 positive effects from target.",
+    "name": "Super Huge Bomber",
+    "summary": ""
+  },
+  {
+    "id": 32004284,
+    "description": "No additional effects.",
+    "name": "Squishy Breath",
+    "summary": ""
+  },
+  {
+    "id": 32004285,
+    "description": "Restores own HP by 10% and removes negative effects and status effects.",
+    "name": "Super Big Heal",
+    "summary": ""
+  },
+  {
+    "id": 32004286,
+    "description": "No additional effects.",
+    "name": "Tumble Down",
+    "summary": ""
+  },
+  {
+    "id": 32004287,
+    "description": "After attacking, removes all positive effects from target.",
+    "name": "Super Big Squishy Bomber",
+    "summary": ""
+  },
+  {
+    "id": 32004288,
+    "description": "No additional effects.",
+    "name": "Squishy Breath",
+    "summary": ""
+  },
+  {
+    "id": 32004289,
+    "description": "Restores own HP by 20% and removes negative effects and status effects.",
+    "name": "Super Big Heal",
+    "summary": ""
+  },
+  {
+    "id": 32004290,
+    "description": "After attacking, inflicts Daze on all enemies (50% chance, 2 turns).",
+    "name": "Bounce Festival",
+    "summary": ""
+  },
+  {
+    "id": 32004291,
+    "description": "After attacking, reduces target's Air resistance by 30% for 2 turns and restores own HP by 15%.",
+    "name": "Ferocious Attack",
+    "summary": ""
+  },
+  {
+    "id": 32004292,
+    "description": "No additional effects.",
+    "name": "Giant Sesame Whirlwind",
+    "summary": ""
+  },
+  {
+    "id": 32004293,
+    "description": "Chance to remove all positive effects from all enemies and reduces single target skill damage by 30% for 2 turns.",
+    "name": "Exorcism Flower",
+    "summary": ""
   }
 ]

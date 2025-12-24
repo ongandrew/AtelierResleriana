@@ -2282,5 +2282,97 @@
   {
     "id": 60132046,
     "description": "- Inflicts multiple negative effects on opponent\n- Nullifies resistance down effects for all elements except Fire and Ice"
+  },
+  {
+    "id": 60012025,
+    "description": "- Inflicts Poison"
+  },
+  {
+    "id": 60012039,
+    "description": "- Inflicts Poison\n- Nullifies resistance reduction for all elements except Fire"
+  },
+  {
+    "id": 60015037,
+    "description": "- Heals allies\n- Inflicts Poison\n- Nullifies resistance reduction for all elements except Fire"
+  },
+  {
+    "id": 60025035,
+    "description": "- Inflicts Sleep"
+  },
+  {
+    "id": 60042033,
+    "description": "- Each time broken, boosts own damage received\n- Heals self\n- Nullifies resistance reduction for all elements except Fire"
+  },
+  {
+    "id": 60060019,
+    "description": "- Restores own HP and stun gauge each turn\n- When hit by an attack, boosts own damage received and stun damage received\n- Delays turn"
+  },
+  {
+    "id": 60090013,
+    "description": "- At battle start, grants self multiple instances of reduced damage received\n- Reduces own damage received\n- Covers"
+  },
+  {
+    "id": 60098034,
+    "description": "- Counters\n- Nullifies resistance reduction for all elements except Fire"
+  },
+  {
+    "id": 60111018,
+    "description": "- Heals allies"
+  },
+  {
+    "id": 60165023,
+    "description": "- No hints available"
+  },
+  {
+    "id": 60177012,
+    "description": "- No hints available"
+  },
+  {
+    "id": 60210011,
+    "description": "- Heals all allies and grants evasion\n- When KO'd while stunned, boosts negative effect potency received for all opponents and all allies\n- Creates Burn panels"
+  },
+  {
+    "id": 60231021,
+    "description": "- After being hit by weakness attacks a certain number of times, boosts Bolt resistance for all opponents\n- Inflicts Daze when attacking a weakness\n- Heals self\n- Removes all own negative effects"
+  },
+  {
+    "id": 60246017,
+    "description": "- Before powerful attack, boosts target's damage received\n- Before powerful attack, inflicts Nullify HP Recovery on targets without barriers\n- Removes positive effects from single target\n- Converts all opponents' panels to empty panels\n- Converts opponents' panels to weaken panels\n- Converts own panels to boost panels\n- When stunned, removes own positive effects\n- When HP reaches a certain level, grants self multiple positive effects and uses a powerful attack (activates MAX 1 time)"
+  },
+  {
+    "id": 60248007,
+    "description": "- Heals self"
+  },
+  {
+    "id": 60261001,
+    "description": "- Boosts damage dealt to targets with status effects\n- Chance to inflict Paralysis\n- Inflicts Poison\n- Inflicts Daze\n- Reduces own damage received\n- Converts all panels except burst panels to Burn panels\n- When HP reaches a certain level, removes own negative effects and grants SPD Up and increased damage dealt\n- When stunned, grants self immunity to detrimental status effects"
+  },
+  {
+    "id": 60268021,
+    "description": "- Summons allies\n- Inflicts Poison\n- Heals self\n- Reduces negative effect potency received\n- When stunned, summons allies\n- Nullifies resistance reduction for all elements except Air and Strike"
+  },
+  {
+    "id": 60269015,
+    "description": "- At battle start, reduces own damage received\n- Summons allies\n- When an ally is KO'd, removes own reduced damage received\n- When an ally is KO'd, summons allies\n- Heals self\n- Boosts skill damage based on the amount of own reduced damage received effects\n- Chance to remove positive effects\n- Chance to inflict Daze\n- Nullifies resistance reduction for all elements except Air and Strike"
+  },
+  {
+    "id": 60269027,
+    "description": "- Heals self\n- Chance to remove positive effects\n- Chance to inflict Daze"
+  },
+  {
+    "id": 60270007,
+    "description": "- Removes positive effects from opponents\n- Heals self and removes negative effects and status effects\n- Receives increased skill power from area attacks\n- Receives increased stun damage from area attacks\n- When hit by a weakness attack, boosts own damage received (up to 50%)"
+  },
+  {
+    "id": 80073003,
+    "description": "- Restores allies' stun gauge"
+  },
+  {
+    "id": 80103009,
+    "description": "- When self is not inflicted with a status effect, inflicts multiple negative effects and Nullify HP Recovery on all opponents\n- When self is inflicted with a status effect, grants multiple positive effects to all opponents\n- When self is not inflicted with a status effect, grants multiple positive effects to all allies and heals them\n- When self is inflicted with a status effect, inflicts multiple negative effects on all allies\n- Receives increased damage when hit by an Ice attack\n- Reduces damage dealt when hit by a Slash attack"
+  },
+  {
+    "id": 80103010,
+    "description": "- No hints available"
   }
 ]

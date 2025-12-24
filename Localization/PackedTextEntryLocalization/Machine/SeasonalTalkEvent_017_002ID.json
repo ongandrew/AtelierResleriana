@@ -1,0 +1,597 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "社の大掃除を手伝いたいだと？",
+        "localizations": {
+          "en": "You wish to help clean the shrine?"
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "はい！\u3000ケイウン特有の年末の迎え方だと\n本で読みました！",
+        "localizations": {
+          "en": "Yes! I read in a book that this is a unique Keiun tradition for welcoming the new year!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "１年の穢れを払い、新年を迎える大切な行事とのこと、\nぜひ参加させていただければ！",
+        "localizations": {
+          "en": "It's an important ritual to purify the year's impurities and welcome the new year. We'd be honored to participate!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "これも祈りの行事。星の案内人としても\nしかと体験させていただきたい所存です！",
+        "localizations": {
+          "en": "This is also a prayer ritual. As a Star Guide, I'd like to experience it firsthand!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "ははは。そう畏まらなくていい。ケイウンの文化を\nそう評されれば、悪い気はしない",
+        "localizations": {
+          "en": "Hahaha. No need to be so formal. I'm pleased to hear you speak so highly of Keiun's culture."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "遠慮なく、手伝いを頼むとしよう",
+        "localizations": {
+          "en": "I'll gladly accept your help."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "はいっ！",
+        "localizations": {
+          "en": "Yes!"
+        }
+      },
+      "2072370017": {
+        "text": "ふたり",
+        "localizations": {
+          "en": "Both"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "はいっ！",
+        "localizations": {
+          "en": "Yes!"
+        }
+      },
+      "2072370017": {
+        "text": "カット",
+        "localizations": {
+          "en": "Cut"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "そういえば、ここは花が満開なんですね。\nこの季節に咲く花なんですか？",
+        "localizations": {
+          "en": "Come to think of it, the flowers here are in full bloom. Do they normally blossom this time of year?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "見事だろう。これは桜という花でな。\n本来は暖かくなった頃に咲く花なんだ",
+        "localizations": {
+          "en": "Magnificent, aren't they? These are cherry blossoms. They typically bloom when the weather warms up."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "鏑矢様が、アトリエで知り合った錬金術士様から\n「花咲く粉」をいただきまして",
+        "localizations": {
+          "en": "Master Kaburaya received \"blooming powder\" from an alchemist he met at an atelier."
+        }
+      },
+      "2072370017": {
+        "text": "千歳",
+        "localizations": {
+          "en": "Chitose"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "なんと、錬金術で咲かせていた花だった！",
+        "localizations": {
+          "en": "Whoa, so they made these flowers bloom with alchemy!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "桜が咲き乱れる中、新年を迎えるのも一興だろう！",
+        "localizations": {
+          "en": "Welcoming the new year surrounded by cherry blossoms in full bloom—quite a sight, wouldn't you say?"
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "はい。幻想的でとっても素敵です！",
+        "localizations": {
+          "en": "Yes. It's fantastical and absolutely beautiful!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "この「桜」もケイウン名物っすね！",
+        "localizations": {
+          "en": "These cherry blossoms are a Keiun specialty too!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "幻想的っていえば、レスナのその晴れ着も見事だね。\nいつもと雰囲気が違って、美しいよ",
+        "localizations": {
+          "en": "Speaking of fantastical, that festive outfit of yours is quite stunning, Resna. You look different from usual—truly beautiful."
+        }
+      },
+      "2072370017": {
+        "text": "永遠",
+        "localizations": {
+          "en": "Towa"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "はい。とてもお似合いです",
+        "localizations": {
+          "en": "Yes. It suits you very well."
+        }
+      },
+      "2072370017": {
+        "text": "千歳",
+        "localizations": {
+          "en": "Chitose"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "母から贈られた衣装なんです。\nケイウンの衣装とも似ていると思い、着てみまして",
+        "localizations": {
+          "en": "It's an outfit my mother gave me. I thought it looked similar to Keiun's clothing, so I decided to wear it."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "ああ、見事だ。我が国の品が\nお前の手に渡ったのかもしれぬ。これも縁だな",
+        "localizations": {
+          "en": "Indeed, it's magnificent. Perhaps goods from our country reached your mother's hands. Another connection between us."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "そうだとしたら、素敵ですね！",
+        "localizations": {
+          "en": "If that's true, how wonderful!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "うんうん。すっごく綺麗。いいな～",
+        "localizations": {
+          "en": "Yeah, yeah. You look amazing. I'm so jealous!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "ふふ、ありがとう。じゃあ今度、私から何か\nアルビーナに贈るね",
+        "localizations": {
+          "en": "Hehe, thank you. In that case, I'll give you something next time."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "やったぁ！",
+        "localizations": {
+          "en": "Yay!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "しかし鏑矢様。レスナ殿のせっかくの美しい晴れ着、\n大掃除で汚れてしまうのでは？",
+        "localizations": {
+          "en": "However, Master Kaburaya, won't Resna's beautiful outfit get dirty during the cleaning?"
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "ふむ。千歳、晴れ着で掃除できそうな場所を\n見繕ってやれ",
+        "localizations": {
+          "en": "Hmm. Chitose, find them places to clean where their outfits won't get soiled."
+        }
+      },
+      "2072370017": {
+        "text": "鏑矢",
+        "localizations": {
+          "en": "Kaburaya"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "はい。レスナ様、アルビーナ様。こちらへ……",
+        "localizations": {
+          "en": "Yes. Resna, Alvina, this way, please..."
+        }
+      },
+      "2072370017": {
+        "text": "千歳",
+        "localizations": {
+          "en": "Chitose"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "か、かえって気を遣わせてしまい、恐縮しきりです",
+        "localizations": {
+          "en": "W-we're sorry for causing you extra trouble."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "静かな社。清浄な空気。なんだか掃除しながら\nこっちの心まで洗われてくよーな",
+        "localizations": {
+          "en": "The quiet shrine... The pure air... It almost feels like cleaning this place purifies our hearts too."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "年末の大切な行事なのも頷けるよね。\n私もこれから毎年やろうかな",
+        "localizations": {
+          "en": "I can see why this is such an important year-end ritual. Maybe I should start doing this every year too."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "アトリエ大掃除とか？",
+        "localizations": {
+          "en": "Like a big atelier cleaning?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "あ、それもいいな！\u3000１年間ずーっとお世話に\nなってる場所だもんね",
+        "localizations": {
+          "en": "Ah, that's a good idea! It's been looking after us all year long, after all."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "ん？\u3000あれって……なんだろう？\n何かの像……かな？",
+        "localizations": {
+          "en": "Hm? What's that... I wonder? Some kind of statue... maybe?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "ねぇ、ランターナの年末年始ってさ……",
+        "localizations": {
+          "en": "Hey, what do people in Lantarna do for the new year..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "え。レスナ？\u3000どうしたの？",
+        "localizations": {
+          "en": "Huh? Resna? What's wrong?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "ねぇ、レスナってば！？",
+        "localizations": {
+          "en": "Hey, Resna?!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  }
+]

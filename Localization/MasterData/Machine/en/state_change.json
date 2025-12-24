@@ -3783,5 +3783,160 @@
     "id": 1210444,
     "description": "Boosts critical rate by {value}% for characters with Fire affinity. Cannot be removed.",
     "name": "Critical Rate Up (Fire)"
+  },
+  {
+    "id": 510261,
+    "description": "Boosts stun damage by {value}%. (MAX 100%)",
+    "name": "Stun Damage Up"
+  },
+  {
+    "id": 510262,
+    "description": "Boosts M.ATK by {value}%. (MAX 50%)",
+    "name": "M.ATK Up"
+  },
+  {
+    "id": 510263,
+    "description": "Dummy buff for determination",
+    "name": "Determination Dummy Buff"
+  },
+  {
+    "id": 510264,
+    "description": "Grants bonuses based on Invoke All Fortunes! level for \"Bring Forth Fortune!\"",
+    "name": "Invoke All Fortunes!"
+  },
+  {
+    "id": 510265,
+    "description": "Based on Invoke All Fortunes! level, boosts skill damage by {value}% when attacking a weakness.",
+    "name": "Invoke All Fortunes! WEAK Damage Up"
+  },
+  {
+    "id": 510266,
+    "description": "Lv. 3 or higher: Boosts skill damage by {value}%.",
+    "name": "Invoke All Fortunes! Lv. 3+ Dealt Damage Up"
+  },
+  {
+    "id": 510267,
+    "description": "Lv. 5: Boosts skill damage by {value}%.",
+    "name": "Invoke All Fortunes! Lv. 5+ Dealt Damage Up"
+  },
+  {
+    "id": 510273,
+    "description": "Dummy buff for determination",
+    "name": "BS Olivia Determination Dummy Buff"
+  },
+  {
+    "id": 610382,
+    "description": "Increases damage received by {value}%. (MAX 40%)",
+    "name": "Received Damage Up"
+  },
+  {
+    "id": 610383,
+    "description": "Boosts M.ATK by {value}%. (MAX 30%)",
+    "name": "M.ATK Up"
+  },
+  {
+    "id": 610384,
+    "description": "Boosts skill damage by {value}% when attacking a weakness. (MAX 150%)",
+    "name": "WEAK Attack Dealt Damage Up"
+  },
+  {
+    "id": 610385,
+    "description": "Increases damage received from Fire attacks by {value}%. (MAX 4 stacks)",
+    "name": "Fire Resistance Down"
+  },
+  {
+    "id": 610386,
+    "description": "Increases damage received from Ice attacks by {value}%. (MAX 4 stacks)",
+    "name": "Ice Resistance Down"
+  },
+  {
+    "id": 610387,
+    "description": "Increases damage received from Bolt attacks by {value}%. (MAX 4 stacks)",
+    "name": "Bolt Resistance Down"
+  },
+  {
+    "id": 610388,
+    "description": "Increases damage received from Air attacks by {value}%. (MAX 4 stacks)",
+    "name": "Air Resistance Down"
+  },
+  {
+    "id": 610389,
+    "description": "Increases damage received from Slash attacks by {value}%. (MAX 4 stacks)",
+    "name": "Slash Resistance Down"
+  },
+  {
+    "id": 610390,
+    "description": "Increases damage received from Strike attacks by {value}%. (MAX 4 stacks)",
+    "name": "Strike Resistance Down"
+  },
+  {
+    "id": 610391,
+    "description": "Increases damage received from Stab attacks by {value}%. (MAX 4 stacks)",
+    "name": "Stab Resistance Down"
+  },
+  {
+    "id": 610392,
+    "description": "Boosts skill damage by {value}%. (MAX 100%)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 610393,
+    "description": "Boosts penetration by {value}. (MAX 100)",
+    "name": "Penetration Up"
+  },
+  {
+    "id": 610395,
+    "description": "Boosts positive effect potency from boost-type panels by {value}%. (Cannot be stacked)",
+    "name": "Boost-Type Panel Effect Potency Up"
+  },
+  {
+    "id": 610396,
+    "description": "When attacking a weakness, boosts penetration by {value}. (MAX 150)",
+    "name": "Penetration Up on Weak Attack"
+  },
+  {
+    "id": 610398,
+    "description": "Boosts critical damage by {value}%. (MAX 5 stacks)",
+    "name": "Critical Damage Up"
+  },
+  {
+    "id": 800190,
+    "description": "When attacking a weakness, boosts skill damage by {value}%.",
+    "name": "Damage Up on Weak Attack"
+  },
+  {
+    "id": 800191,
+    "description": "Boosts positive effect potency received by {value}%.",
+    "name": "Positive Effect Potency Up"
+  },
+  {
+    "id": 800192,
+    "description": "Boosts max HP by {value}%. (MAX 15%)",
+    "name": "HP Limit Up"
+  },
+  {
+    "id": 800193,
+    "description": "Boosts max HP by {value}%. (MAX 10%)",
+    "name": "HP Limit Up"
+  },
+  {
+    "id": 820131,
+    "description": "Reduces single target skill damage dealt.",
+    "name": "Single Target Skill Damage Down"
+  },
+  {
+    "id": 820132,
+    "description": "Boosts skill power received from area attacks by {value}%.",
+    "name": "Received Skill Power Up (Cond.)"
+  },
+  {
+    "id": 820133,
+    "description": "Boosts stun damage received from area attacks by {value}%.",
+    "name": "Received Stun Damage Up (Cond.)"
+  },
+  {
+    "id": 910195,
+    "description": "Boosts damage received from Air attacks by {value}%.",
+    "name": "Air Resistance Down"
   }
 ]

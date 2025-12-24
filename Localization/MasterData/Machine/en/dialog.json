@@ -328,5 +328,30 @@
     "id": 7606,
     "description": "You win by either reaching a chip level of 21 to defeat Antje,\nor by making Antje's chip level go to 22 or above to make her burst.\nTry to get close to 21 while being careful not to let your chip level exceed 22.",
     "name": "Summary"
+  },
+  {
+    "id": 7901,
+    "description": "This is content where you challenge powerful enemies with multiple parties.\nYou cannot deploy characters who have already been deployed in the same battle.\nYou can obtain rewards each time you defeat an enemy.",
+    "name": "Raid Battle"
+  },
+  {
+    "id": 7902,
+    "description": "This content has \"Challenge Attempts.\"\nChallenge Attempts are consumed when you clear any level within the event.\n\"Challenge Attempts\" reset every day at 12:00.",
+    "name": "Challenge Attempts"
+  },
+  {
+    "id": 7903,
+    "description": "Equipment items are disabled in Raid Battles.\nTrain your characters and Memoria before deploying them.",
+    "name": "Equipment Disabled"
+  },
+  {
+    "id": 7904,
+    "description": "Battles in this content have a \"Turn Limit.\"\nEven if you haven't defeated the enemy, the battle will end if your party is wiped out or the remaining turns reach 0.",
+    "name": "Battle Ending Without Victory"
+  },
+  {
+    "id": 7905,
+    "description": "You can reset the progress of the battle.\nResetting will completely reset the battle progress, including enemy HP, and character deployment status.",
+    "name": "Reset"
   }
 ]

@@ -3507,5 +3507,423 @@
         }
       }
     }
+  },
+  {
+    "id": 2048863152,
+    "properties": {
+      "999008199": {
+        "text": "レイドバトル",
+        "localizations": {
+          "en": "Raid Battle"
+        }
+      }
+    }
+  },
+  {
+    "id": 1338238744,
+    "properties": {
+      "999008199": {
+        "text": "呼び出せるパーティがありません",
+        "localizations": {
+          "en": "No available parties to deploy"
+        }
+      }
+    }
+  },
+  {
+    "id": 466235392,
+    "properties": {
+      "999008199": {
+        "text": "バトルの進捗をリセットします。よろしいですか？",
+        "localizations": {
+          "en": "This will reset your battle progress. Are you sure?"
+        }
+      }
+    }
+  },
+  {
+    "id": 972260710,
+    "properties": {
+      "999008199": {
+        "text": "・バトルの進行状況が全てリセットされます\n・キャラの出撃状況が全てリセットされ、再び編成できるようになります",
+        "localizations": {
+          "en": "・All battle progress will be reset\n・All character deployment status will be reset, allowing you to form teams again"
+        }
+      }
+    }
+  },
+  {
+    "id": 673127058,
+    "properties": {
+      "999008199": {
+        "text": "装備効果が反映されないバトルです",
+        "localizations": {
+          "en": "Equipment effects will not apply in this battle"
+        }
+      }
+    }
+  },
+  {
+    "id": 610538995,
+    "properties": {
+      "999008199": {
+        "text": "<b>今回のダメージは記録されず、キャラも使用済みになりません！</b>",
+        "localizations": {
+          "en": "<b>Damage dealt this time will not be recorded, and characters will not be marked as used!</b>"
+        }
+      }
+    }
+  },
+  {
+    "id": 1344534953,
+    "properties": {
+      "999008199": {
+        "text": "残り{0}%",
+        "localizations": {
+          "en": "{0}% Remaining"
+        }
+      }
+    }
+  },
+  {
+    "id": 839810273,
+    "properties": {
+      "999008199": {
+        "text": "PARTY DAMAGE",
+        "localizations": {
+          "en": "PARTY DAMAGE"
+        }
+      }
+    }
+  },
+  {
+    "id": 624021554,
+    "properties": {
+      "999008199": {
+        "text": "ENEMY HP",
+        "localizations": {
+          "en": "ENEMY HP"
+        }
+      }
+    }
+  },
+  {
+    "id": 1027532797,
+    "properties": {
+      "999008199": {
+        "text": "リーダーが出撃済のため、{0}がリーダーになりました",
+        "localizations": {
+          "en": "Your leader has already been deployed, so {0} has been set as leader instead"
+        }
+      }
+    }
+  },
+  {
+    "id": 1175456899,
+    "properties": {
+      "999008199": {
+        "text": "出撃済みのキャラは編成されませんでした",
+        "localizations": {
+          "en": "Characters already deployed were not added to the party"
+        }
+      }
+    }
+  },
+  {
+    "id": 1712483527,
+    "properties": {
+      "999008199": {
+        "text": "限定",
+        "localizations": {
+          "en": "Limited"
+        }
+      }
+    }
+  },
+  {
+    "id": 1295568111,
+    "properties": {
+      "999008199": {
+        "text": "常設",
+        "localizations": {
+          "en": "Permanent"
+        }
+      }
+    }
+  },
+  {
+    "id": 1149867732,
+    "properties": {
+      "999008199": {
+        "text": "獲得LEGENDメダル/キャラピース",
+        "localizations": {
+          "en": "LEGEND Medals/Character Pieces Obtained"
+        }
+      }
+    }
+  },
+  {
+    "id": 357078315,
+    "properties": {
+      "999008199": {
+        "text": "check↓",
+        "localizations": {
+          "en": "check↓"
+        }
+      }
+    }
+  },
+  {
+    "id": 1833185949,
+    "properties": {
+      "999008199": {
+        "text": "獲得LEGENDメダル",
+        "localizations": {
+          "en": "LEGEND Medals Obtained"
+        }
+      }
+    }
+  },
+  {
+    "id": 1639656317,
+    "properties": {
+      "999008199": {
+        "text": "STEP{0}：{1}枚",
+        "localizations": {
+          "en": "STEP {0}: {1}"
+        }
+      }
+    }
+  },
+  {
+    "id": 1008380853,
+    "properties": {
+      "999008199": {
+        "text": "※BONUS+{0}枚",
+        "localizations": {
+          "en": "※BONUS +{0}"
+        }
+      }
+    }
+  },
+  {
+    "id": 428425083,
+    "properties": {
+      "999008199": {
+        "text": "{0}回：{1}枚",
+        "localizations": {
+          "en": "{0} times: {1}"
+        }
+      }
+    }
+  },
+  {
+    "id": 980755491,
+    "properties": {
+      "999008199": {
+        "text": "獲得キャラピース",
+        "localizations": {
+          "en": "Character Pieces Obtained"
+        }
+      }
+    }
+  },
+  {
+    "id": 1407674273,
+    "properties": {
+      "999008199": {
+        "text": "（ピックアップ対象外）",
+        "localizations": {
+          "en": "(Not a featured character)"
+        }
+      }
+    }
+  },
+  {
+    "id": 66714247,
+    "properties": {
+      "999008199": {
+        "text": "★{0}キャラ{1}：{2}個",
+        "localizations": {
+          "en": "★{0} Character {1}: {2}"
+        }
+      }
+    }
+  },
+  {
+    "id": 582530111,
+    "properties": {
+      "999008199": {
+        "text": "※BONUS+{0}個",
+        "localizations": {
+          "en": "※BONUS +{0}"
+        }
+      }
+    }
+  },
+  {
+    "id": 573803531,
+    "properties": {
+      "999008199": {
+        "text": "★{0}キャラ（ピックアップ初回お迎え時）：{1}個",
+        "localizations": {
+          "en": "★{0} Character (first time obtaining featured character): {1}"
+        }
+      }
+    }
+  },
+  {
+    "id": 742305415,
+    "properties": {
+      "999008199": {
+        "text": "★{0}キャラ（ピックアップ2回目以降）：{1}個",
+        "localizations": {
+          "en": "★{0} Character (featured character 2nd time onward): {1}"
+        }
+      }
+    }
+  },
+  {
+    "id": 192386689,
+    "properties": {
+      "999008199": {
+        "text": "★{0}キャラ（ピックアップ対象）：{1}個",
+        "localizations": {
+          "en": "★{0} Character (featured): {1}"
+        }
+      }
+    }
+  },
+  {
+    "id": 422234948,
+    "properties": {
+      "999008199": {
+        "text": "※すでに加入しているキャラをお迎えした際に獲得できるキャラピース",
+        "localizations": {
+          "en": "※Character Pieces obtained when you receive a character who has already joined your team"
+        }
+      }
+    }
+  },
+  {
+    "id": 1012808683,
+    "properties": {
+      "999008199": {
+        "text": "挑戦回数の上限です",
+        "localizations": {
+          "en": "Maximum number of attempts reached"
+        }
+      }
+    }
+  },
+  {
+    "id": 1630654662,
+    "properties": {
+      "999008199": {
+        "text": "他のレイドバトルに挑戦中です",
+        "localizations": {
+          "en": "You are currently attempting another Raid Battle"
+        }
+      }
+    }
+  },
+  {
+    "id": 1248181242,
+    "properties": {
+      "999008199": {
+        "text": "レイドバトル",
+        "localizations": {
+          "en": "Raid Battle"
+        }
+      }
+    }
+  },
+  {
+    "id": 1391226393,
+    "properties": {
+      "999008199": {
+        "text": "<color=#f0335b><b>挑戦中！</b></color>",
+        "localizations": {
+          "en": "<color=#f0335b><b>In Progress!</b></color>"
+        }
+      }
+    }
+  },
+  {
+    "id": 625857268,
+    "properties": {
+      "999008199": {
+        "text": "敵の状況",
+        "localizations": {
+          "en": "Enemy Status"
+        }
+      }
+    }
+  },
+  {
+    "id": 1194069726,
+    "properties": {
+      "999008199": {
+        "text": "以下の条件を達成することにより、レイドバトルを解放できます",
+        "localizations": {
+          "en": "Complete the following conditions to unlock this Raid Battle"
+        }
+      }
+    }
+  },
+  {
+    "id": 1311986525,
+    "properties": {
+      "999008199": {
+        "text": "報酬一覧",
+        "localizations": {
+          "en": "Reward List"
+        }
+      }
+    }
+  },
+  {
+    "id": 955022123,
+    "properties": {
+      "999008199": {
+        "text": "<color=#0C111F>挑戦回数 {0}/{1}</color>",
+        "localizations": {
+          "en": "<color=#0C111F>Attempts {0}/{1}</color>"
+        }
+      }
+    }
+  },
+  {
+    "id": 899824974,
+    "properties": {
+      "999008199": {
+        "text": "{0}に挑戦しますか？",
+        "localizations": {
+          "en": "Challenge {0}?"
+        }
+      }
+    }
+  },
+  {
+    "id": 1174223889,
+    "properties": {
+      "999008199": {
+        "text": "・挑戦回数はクリア時に消費されます\n・挑戦回数は全てのレイドバトルで共通で、毎日12:00にリセットされます\n・パーティ画面から「リセット」を選択することで、バトルの進行状況を\n\u3000リセットすることができます",
+        "localizations": {
+          "en": "・Attempts are consumed upon clearing the battle\n・Attempts are shared across all Raid Battles and reset daily at 12:00\n・You can reset battle progress by selecting \"Reset\" from the party screen"
+        }
+      }
+    }
+  },
+  {
+    "id": 1549867436,
+    "properties": {
+      "999008199": {
+        "text": "バトルで出撃済のため、選択できません",
+        "localizations": {
+          "en": "Cannot select this character as they have already been deployed in battle"
+        }
+      }
+    }
   }
 ]

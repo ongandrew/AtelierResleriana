@@ -238,6 +238,12 @@ namespace AtelierResleriana.Localization.Utilities
             { "妖精", "Fairies - Fairy beings that can be encountered in Dimensional Paths. They provide useful items and can be recruited to work at the shop. Up to three fairies can cooperate during synthesis to create items with more powerful effects. The main fairy trio are Ruku, Poku, and Bonbon." },
             { "妖精さん", "Fairies - Collective term for the fairy beings. There are many fairies besides the main trio (Ruku, Poku, Bonbon) inhabiting the long-sealed dimensional paths. They help Rias and Slade as thanks for taking them out of the dimensional paths." },
             { "ガイストコア", "Geist Core - A mysterious tool possessed by Slade that can open entrances to dimensional paths leading to alternate dimensions. Slade himself lacks the ability to use alchemy, but possesses this unique device instead." },
+            { "ヤドリギ堂", "Mistletoe Miscellaneous - A workshop handed down to Rias by her grandfather." },
+            { "ハルフェン復興隊", "Hallfein Restoration Project - A team put together for the reconstruction of Hallfein after a certain disaster." },
+            { "アルマの大樹", "Alma's Great Tree - Once a symbol of Hallfein, it doesn't bear fruit anymore." },
+            { "紅天竜クルシュア", "Red Dragon Kerscha - A white dragon that turned red when it was corrupted." },
+            { "ハイネ州", "Haine Province - A location in Lantarna known for volcanic activity." },
+            { "オアゼス州", "Oazes Province - A location in Lantarna." },
 
             // Unofficial localizations - to be reviewed.
             { "大聖堂", "Grand Cathedral - The central religious institution of Nova, where the High Priest resides" },

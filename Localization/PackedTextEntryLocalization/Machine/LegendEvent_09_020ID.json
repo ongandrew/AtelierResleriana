@@ -1,0 +1,818 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "姉さん、めっちゃ驚いてて面白かった～",
+        "localizations": {
+          "en": "My sister was so surprised—it was hilarious!"
+        }
+      },
+      "2072370017": {
+        "text": "リアス",
+        "localizations": {
+          "en": "Rias"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "そりゃあ驚くだろう。出張から帰ってきたら\n地震や火山の問題が解決してたんだから",
+        "localizations": {
+          "en": "Of course she was. She came back from her trip to find the earthquake and volcano problems already solved."
+        }
+      },
+      "2072370017": {
+        "text": "スレイ",
+        "localizations": {
+          "en": "Slade"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "それに温泉が湧いたしね。\n早速温泉土産を売るって言ってたよ",
+        "localizations": {
+          "en": "And the hot spring too! She said she's already planning to sell hot spring souvenirs."
+        }
+      },
+      "2072370017": {
+        "text": "リアス",
+        "localizations": {
+          "en": "Rias"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "ハルフェンも復興どころか、以前よりも\n発展してきているからな。大変だろう",
+        "localizations": {
+          "en": "Hallfein isn't just recovering anymore—it's actually thriving more than before. She must have her hands full."
+        }
+      },
+      "2072370017": {
+        "text": "スレイ",
+        "localizations": {
+          "en": "Slade"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "そうだね。これからも頑張って\nハルフェンをでっかくしていかなきゃ！",
+        "localizations": {
+          "en": "Yeah. We've gotta keep working hard to make Hallfein even bigger!"
+        }
+      },
+      "2072370017": {
+        "text": "リアス",
+        "localizations": {
+          "en": "Rias"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "……そろそろ、いいんじゃないか？",
+        "localizations": {
+          "en": "...Isn't it about time?"
+        }
+      },
+      "2072370017": {
+        "text": "スレイ",
+        "localizations": {
+          "en": "Slade"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "え？",
+        "localizations": {
+          "en": "Huh?"
+        }
+      },
+      "2072370017": {
+        "text": "リアス",
+        "localizations": {
+          "en": "Rias"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "ずっと隣で見てきたから、俺には分かる。\nお前が本当は錬金術をもっと勉強したいってこと",
+        "localizations": {
+          "en": "I've been watching you this whole time, so I know. You really want to study more alchemy, don't you?"
+        }
+      },
+      "2072370017": {
+        "text": "スレイ",
+        "localizations": {
+          "en": "Slade"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "それは……でも、町が大きくなるには……\nそれに実はまだなってないし……",
+        "localizations": {
+          "en": "Well... But for the town to grow... And the tree still hasn't fruited yet..."
+        }
+      },
+      "2072370017": {
+        "text": "リアス",
+        "localizations": {
+          "en": "Rias"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "それは「やらなきゃいけないこと」だ。\nお前の「やりたいこと」は錬金術だろう？",
+        "localizations": {
+          "en": "Those are things you have to do. But what you want to do is alchemy, right?"
+        }
+      },
+      "2072370017": {
+        "text": "スレイ",
+        "localizations": {
+          "en": "Slade"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "……あはは、さっすがスレイ。\nあたしのこと、よーく見てるんだね",
+        "localizations": {
+          "en": "...Ahaha, that's Slade for you. You really do know me well, huh?"
+        }
+      },
+      "2072370017": {
+        "text": "リアス",
+        "localizations": {
+          "en": "Rias"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "錬金術を見てる時のお前は輝いていて、綺麗だった",
+        "localizations": {
+          "en": "When you're working with alchemy, you shine. You're beautiful."
+        }
+      },
+      "2072370017": {
+        "text": "スレイ",
+        "localizations": {
+          "en": "Slade"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "それにな、温泉が湧いて、今度こそ大樹の実もなる。\nハルフェンを一人前の町って認めてやってくれよ",
+        "localizations": {
+          "en": "Besides, the hot spring is flowing now, and the tree will bear fruit this time for sure. Give Hallfein some credit—it's a proper town now."
+        }
+      },
+      "2072370017": {
+        "text": "スレイ",
+        "localizations": {
+          "en": "Slade"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "それは……うん、確かにそだね。\n認めてあげなきゃハルフェンも可哀そうかも",
+        "localizations": {
+          "en": "You're... Yeah, you're right. If I don't recognize that, it'd be kind of mean to Hallfein."
+        }
+      },
+      "2072370017": {
+        "text": "リアス",
+        "localizations": {
+          "en": "Rias"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "あとね、あたし、もう１個やりたいことがあるんだ。\nそれはね、おじいちゃんたちの魂を救うこと",
+        "localizations": {
+          "en": "And you know, there's one more thing I want to do. I want to save Grandpa and the others' souls."
+        }
+      },
+      "2072370017": {
+        "text": "リアス",
+        "localizations": {
+          "en": "Rias"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "町を一人前にすることが、救いになるんじゃないかな、\nなんて思ったりしたけど……",
+        "localizations": {
+          "en": "I thought maybe making the town successful would be enough to do that..."
+        }
+      },
+      "2072370017": {
+        "text": "リアス",
+        "localizations": {
+          "en": "Rias"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "錬金術なら、もっと別の方法でおじいちゃんたちを\n救えるんじゃないかって思う",
+        "localizations": {
+          "en": "But I think with alchemy, I might be able to find a different way to save them."
+        }
+      },
+      "2072370017": {
+        "text": "リアス",
+        "localizations": {
+          "en": "Rias"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "そうか……なら、遠慮することはない。\nお前のやりたいようにやればいいさ",
+        "localizations": {
+          "en": "I see... Then don't hold back. Do what you want to do."
+        }
+      },
+      "2072370017": {
+        "text": "スレイ",
+        "localizations": {
+          "en": "Slade"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "俺は、そんなリアスをずっと支えたい",
+        "localizations": {
+          "en": "I want to support you, always."
+        }
+      },
+      "2072370017": {
+        "text": "スレイ",
+        "localizations": {
+          "en": "Slade"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "どんなことからも、リアスとハルフェンを……\n大切なものを守りたい",
+        "localizations": {
+          "en": "I want to protect you and Hallfein... everything that matters to me. From anything."
+        }
+      },
+      "2072370017": {
+        "text": "スレイ",
+        "localizations": {
+          "en": "Slade"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "だからさ、そろそろ出かけよう",
+        "localizations": {
+          "en": "So, let's head out."
+        }
+      },
+      "2072370017": {
+        "text": "スレイ",
+        "localizations": {
+          "en": "Slade"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "出かける、か……ふふっ。いいね、それ。\n帰る所があるって感じで",
+        "localizations": {
+          "en": "Head out, huh... Hehe. I like that. Makes it feel like we have somewhere to come home to."
+        }
+      },
+      "2072370017": {
+        "text": "リアス",
+        "localizations": {
+          "en": "Rias"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "うん。私も錬金術のこと、もっと知りたい。\nおじいちゃんたちを救う方法を見つけに行きたい",
+        "localizations": {
+          "en": "Yeah. I want to learn more about alchemy too. I want to find a way to save Grandpa and everyone."
+        }
+      },
+      "2072370017": {
+        "text": "リアス",
+        "localizations": {
+          "en": "Rias"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "それじゃあ、出かけよっか。\nこれからも、一緒に頑張ろっ！",
+        "localizations": {
+          "en": "All right then, let's get going. We'll keep doing our best together!"
+        }
+      },
+      "2072370017": {
+        "text": "リアス",
+        "localizations": {
+          "en": "Rias"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "リアスさんにスレイさん、ここにいましたか",
+        "localizations": {
+          "en": "There you two are."
+        }
+      },
+      "2072370017": {
+        "text": "ワルター",
+        "localizations": {
+          "en": "Walther"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "「転送の楔」の調子も大丈夫そうだし、\nそろそろレスナちゃんに合流しようかなって",
+        "localizations": {
+          "en": "The Transfer Wedge seems to be working fine, so we thought we'd head back to meet up with Resna."
+        }
+      },
+      "2072370017": {
+        "text": "ソフィー",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "私も群発地震の調査結果を国に報告しなければ\nなりません。模範囚の信頼に応えなくては",
+        "localizations": {
+          "en": "I also need to report the results of the seismic activity investigation to the kingdom. I must uphold the trust placed in a model prisoner."
+        }
+      },
+      "2072370017": {
+        "text": "ワルター",
+        "localizations": {
+          "en": "Walther"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "そっか……ワルターさんも、ゴゴンガも、\nソフィーにトトリも、ありがとう！",
+        "localizations": {
+          "en": "I see... Thank you so much, Walther! And you too, Gogonga, Sophie, Totori!"
+        }
+      },
+      "2072370017": {
+        "text": "リアス",
+        "localizations": {
+          "en": "Rias"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "みんながいてくれたから、ハルフェンは守られたし\nリアスも歩き出す決意が固まったよ",
+        "localizations": {
+          "en": "Thanks to all of you, Hallfein is safe, and Rias has made up her mind about moving forward."
+        }
+      },
+      "2072370017": {
+        "text": "スレイ",
+        "localizations": {
+          "en": "Slade"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "あたしとスレイもレスナちゃんに合流する！\nこれからは、また一緒だよ！",
+        "localizations": {
+          "en": "Slade and I are going to meet up with Resna too! So we'll all be together again!"
+        }
+      },
+      "2072370017": {
+        "text": "リアス",
+        "localizations": {
+          "en": "Rias"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "本当ですか！？\u3000嬉しいです！",
+        "localizations": {
+          "en": "Really!? That's wonderful!"
+        }
+      },
+      "2072370017": {
+        "text": "トトリ",
+        "localizations": {
+          "en": "Totori"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "うん！\u3000一緒に頑張ろうね！",
+        "localizations": {
+          "en": "Yay! Let's keep working hard together!"
+        }
+      },
+      "2072370017": {
+        "text": "ソフィー",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "それならば、また顔を合わせることも\nあるかもしれませんね",
+        "localizations": {
+          "en": "In that case, we may cross paths again."
+        }
+      },
+      "2072370017": {
+        "text": "ワルター",
+        "localizations": {
+          "en": "Walther"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "あ、ワルターさん！\u3000ゴゴンガの好物とかある？\n次に会うとき、ご褒美をあげたいから！",
+        "localizations": {
+          "en": "Oh, Walther! Does Gogonga have a favorite food? I want to give it a reward next time we meet!"
+        }
+      },
+      "2072370017": {
+        "text": "リアス",
+        "localizations": {
+          "en": "Rias"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "人造頂獣の好物ですか。彼は確か……\nリンゴが好きでしたね？",
+        "localizations": {
+          "en": "A man-made Apexi's favorite food? Let me think... I believe it likes apples?"
+        }
+      },
+      "2072370017": {
+        "text": "ワルター",
+        "localizations": {
+          "en": "Walther"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "グルゥ♪",
+        "localizations": {
+          "en": "Gruu♪"
+        }
+      },
+      "2072370017": {
+        "text": "ゴゴンガ",
+        "localizations": {
+          "en": "Gogonga"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "分かった！\u3000じゃあ今度会ったときは\n美味しいアップルパイをあげるね！\u3000スレイが！",
+        "localizations": {
+          "en": "Got it! Then next time we meet, I'll give you a delicious apple pie! That Slade made!"
+        }
+      },
+      "2072370017": {
+        "text": "リアス",
+        "localizations": {
+          "en": "Rias"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "俺かよ！？",
+        "localizations": {
+          "en": "Why me!?"
+        }
+      },
+      "2072370017": {
+        "text": "スレイ",
+        "localizations": {
+          "en": "Slade"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "うん……でも、次の収穫祭の頃には\nワルターさんとゴゴンガを招待したいな",
+        "localizations": {
+          "en": "Well... But by the next harvest festival, I want to invite you and Gogonga back."
+        }
+      },
+      "2072370017": {
+        "text": "リアス",
+        "localizations": {
+          "en": "Rias"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "その頃にはきっと大樹の実もなってると思うから。\nあたしとスレイも収穫祭には町に戻ってくるよ",
+        "localizations": {
+          "en": "I'm sure the tree will have fruited by then. Slade and I will come back to town for the festival too."
+        }
+      },
+      "2072370017": {
+        "text": "リアス",
+        "localizations": {
+          "en": "Rias"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "分かりました。ではその辺りに定期観察の陳情を\n国にしてみるとしましょうか",
+        "localizations": {
+          "en": "Understood. I'll petition the kingdom to schedule a regular inspection around that time."
+        }
+      },
+      "2072370017": {
+        "text": "ワルター",
+        "localizations": {
+          "en": "Walther"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "さあ、それでは行きますよ、ゴゴンガ",
+        "localizations": {
+          "en": "Now then, let's be off, Gogonga."
+        }
+      },
+      "2072370017": {
+        "text": "ワルター",
+        "localizations": {
+          "en": "Walther"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "あたしたちは飴で……リアスちゃん、飴持ってる？",
+        "localizations": {
+          "en": "We'll use the candy to... Rias, you still have it, right?"
+        }
+      },
+      "2072370017": {
+        "text": "ソフィー",
+        "localizations": {
+          "en": "Sophie"
+        }
+      }
+    }
+  },
+  {
+    "id": 43,
+    "properties": {
+      "999008199": {
+        "text": "うん、大丈夫！\u3000前にもらったのがあるよ、ほら！",
+        "localizations": {
+          "en": "Yep, I'm good! I still have some from before—here!"
+        }
+      },
+      "2072370017": {
+        "text": "リアス",
+        "localizations": {
+          "en": "Rias"
+        }
+      }
+    }
+  },
+  {
+    "id": 44,
+    "properties": {
+      "999008199": {
+        "text": "それじゃあ大丈夫ですね。\nわたしたち、先に行って待ってますね",
+        "localizations": {
+          "en": "Then we're all set. We'll head out first and wait for you."
+        }
+      },
+      "2072370017": {
+        "text": "トトリ",
+        "localizations": {
+          "en": "Totori"
+        }
+      }
+    }
+  },
+  {
+    "id": 45,
+    "properties": {
+      "999008199": {
+        "text": "……よし、それじゃあ、出かけよっか！",
+        "localizations": {
+          "en": "...All right then, let's get going!"
+        }
+      },
+      "2072370017": {
+        "text": "リアス",
+        "localizations": {
+          "en": "Rias"
+        }
+      }
+    }
+  },
+  {
+    "id": 46,
+    "properties": {
+      "999008199": {
+        "text": "ああ、そうだな",
+        "localizations": {
+          "en": "Yeah."
+        }
+      },
+      "2072370017": {
+        "text": "スレイ",
+        "localizations": {
+          "en": "Slade"
+        }
+      }
+    }
+  },
+  {
+    "id": 47,
+    "properties": {
+      "999008199": {
+        "text": "おじいちゃん、行ってくるね！",
+        "localizations": {
+          "en": "Grandpa, we're heading out!"
+        }
+      },
+      "2072370017": {
+        "text": "リアス",
+        "localizations": {
+          "en": "Rias"
+        }
+      }
+    }
+  }
+]

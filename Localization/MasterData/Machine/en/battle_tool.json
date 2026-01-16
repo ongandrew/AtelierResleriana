@@ -353,5 +353,25 @@
     "id": 316,
     "description": "Boosts all allies' max HP by {0}% for 2 turns (up to 10%) and restores 10% HP.",
     "name": "New Year's Mystery Box"
+  },
+  {
+    "id": 1004,
+    "description": "Deals Air damage to the enemy with the highest max HP and restores 15% HP to the ally with the lowest HP percentage.",
+    "name": "Deco Grimoire"
+  },
+  {
+    "id": 1005,
+    "description": "Deals Air damage to the enemy with the highest max HP and restores 10% HP to the ally with the lowest HP percentage.",
+    "name": "Deco Grimoire"
+  },
+  {
+    "id": 1006,
+    "description": "Deals Bolt damage and Bolt stun damage to the enemy with the highest max HP.",
+    "name": "Thunder Feet"
+  },
+  {
+    "id": 1007,
+    "description": "Deals Bolt damage and Bolt stun damage to the enemy with the highest max HP.",
+    "name": "Thunder Feet"
   }
 ]

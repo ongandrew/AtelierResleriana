@@ -2374,5 +2374,33 @@
   {
     "id": 80103010,
     "description": "- No hints available"
+  },
+  {
+    "id": 60006027,
+    "description": "- When using an item, boosts own received critical rate\n- Chance to inflict Paralysis\n- Delays turn\n- Nullifies resistance reduction for all elements except Fire, Bolt, Air, and Slash"
+  },
+  {
+    "id": 60013033,
+    "description": "- Grants Damage Immunity to all allies\n- Receives increased critical damage from battle items\n- Nullifies resistance reduction for all elements except Fire, Air, and Slash"
+  },
+  {
+    "id": 60030024,
+    "description": "- Counters"
+  },
+  {
+    "id": 60090027,
+    "description": "- Reduces damage received at the start of the wave\n- Protection\n- Reduces own damage received\n- Receives increased critical damage from battle items\n- Nullifies resistance reduction for all elements except Fire, Air, and Slash"
+  },
+  {
+    "id": 60100029,
+    "description": "- Boosts damage dealt to opponents with negative effects\n- Inflicts Negative Effect Potency Up\n- Heals all allies and grants Regen\n- When using an item, boosts own received critical rate\n- Nullifies resistance reduction for all elements except Fire, Bolt, Air, and Slash"
+  },
+  {
+    "id": 60160026,
+    "description": "- Creates weaken+ panels\n- Vanguard\n- Grants field effect that reduces all allies' damage received\n- Receives increased critical damage from battle items\n- Nullifies resistance reduction for all elements except Fire, Air, and Slash"
+  },
+  {
+    "id": 60170026,
+    "description": "- Inflicts multiple negative effects\n- When stunned, removes all opponents' negative effects\n- When damaged by a battle item, boosts own received critical rate\n- Nullifies resistance reduction for all elements except Fire, Bolt, Air, and Slash"
   }
 ]

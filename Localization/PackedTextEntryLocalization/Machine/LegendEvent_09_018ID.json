@@ -1,0 +1,410 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "随分と奥まで来たな。\nこの坑道は採掘もされていないようだが……",
+        "localizations": {
+          "en": "We've come pretty far in. Doesn't look like this tunnel was ever mined..."
+        }
+      },
+      "2072370017": {
+        "text": "スレイ",
+        "localizations": {
+          "en": "Slade"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "この辺りが一番反応が強いですね",
+        "localizations": {
+          "en": "The readings are strongest around here."
+        }
+      },
+      "2072370017": {
+        "text": "ワルター",
+        "localizations": {
+          "en": "Walther"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "見た感じ、特別な何かがあるとは思えませんが……",
+        "localizations": {
+          "en": "I don't see anything particularly unusual, though..."
+        }
+      },
+      "2072370017": {
+        "text": "スレイ",
+        "localizations": {
+          "en": "Slade"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "でもこのへんだけ苔とか生えてるよ？",
+        "localizations": {
+          "en": "But there's moss and stuff growing only in this area!"
+        }
+      },
+      "2072370017": {
+        "text": "リアス",
+        "localizations": {
+          "en": "Rias"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "それに、地面がちょっとあったかい……\n温泉かも！",
+        "localizations": {
+          "en": "And the ground feels a little warm... Maybe it's a hot spring!"
+        }
+      },
+      "2072370017": {
+        "text": "リアス",
+        "localizations": {
+          "en": "Rias"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "温泉ならいいが、溶岩の可能性もあるぞ？",
+        "localizations": {
+          "en": "Could be a hot spring, but it could also be lava."
+        }
+      },
+      "2072370017": {
+        "text": "スレイ",
+        "localizations": {
+          "en": "Slade"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "となると、ここはゴゴンガの出番ですね。\nゴゴンガ、ちょっと掘ってみてください",
+        "localizations": {
+          "en": "Then this sounds like a job for Gogonga. Gogonga, could you dig here a bit?"
+        }
+      },
+      "2072370017": {
+        "text": "ワルター",
+        "localizations": {
+          "en": "Walther"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "お湯が出た！\u3000温泉だー！",
+        "localizations": {
+          "en": "Water's coming out! It's a hot spring!"
+        }
+      },
+      "2072370017": {
+        "text": "リアス",
+        "localizations": {
+          "en": "Rias"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "待て！\u3000火傷するぞ！",
+        "localizations": {
+          "en": "Wait! You'll burn yourself!"
+        }
+      },
+      "2072370017": {
+        "text": "スレイ",
+        "localizations": {
+          "en": "Slade"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "おっと……",
+        "localizations": {
+          "en": "Oops..."
+        }
+      },
+      "2072370017": {
+        "text": "リアス",
+        "localizations": {
+          "en": "Rias"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "スレイさんの言う通りですね。\n源泉は高温だったり、人体に有害かもしれません",
+        "localizations": {
+          "en": "Slade's right. Spring water from the source can be extremely hot or contain harmful substances."
+        }
+      },
+      "2072370017": {
+        "text": "ワルター",
+        "localizations": {
+          "en": "Walther"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "というわけで、こんなこともあろうかと\n用意しておいた簡易検査道具を使いましょう",
+        "localizations": {
+          "en": "Which is why, anticipating this exact scenario, I brought along a portable testing kit."
+        }
+      },
+      "2072370017": {
+        "text": "ワルター",
+        "localizations": {
+          "en": "Walther"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "なんでそんなの持ってるの？",
+        "localizations": {
+          "en": "Why would you even have that on you?"
+        }
+      },
+      "2072370017": {
+        "text": "リアス",
+        "localizations": {
+          "en": "Rias"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "先輩が無茶振りするので、自然と色々と\n先回りして用意するのが癖になりまして……",
+        "localizations": {
+          "en": "My mentor has a habit of making unreasonable requests, so I've gotten into the habit of preparing for anything..."
+        }
+      },
+      "2072370017": {
+        "text": "ワルター",
+        "localizations": {
+          "en": "Walther"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "あなたも、難儀な人生を送ってるんですね……",
+        "localizations": {
+          "en": "Sounds like you've had a rough time too..."
+        }
+      },
+      "2072370017": {
+        "text": "スレイ",
+        "localizations": {
+          "en": "Slade"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "検査結果が出ました。水温は４１度でアルカリ性。\n新陳代謝、美肌効果が認められます",
+        "localizations": {
+          "en": "The results are in. Temperature is 41 degrees, alkaline. Promotes metabolism and has skin-beautifying properties."
+        }
+      },
+      "2072370017": {
+        "text": "ワルター",
+        "localizations": {
+          "en": "Walther"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "美肌！",
+        "localizations": {
+          "en": "Beautifying!"
+        }
+      },
+      "2072370017": {
+        "text": "リアス",
+        "localizations": {
+          "en": "Rias"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "植物の成長を促進する効果もありますし、\n天然の栄養剤かつ美容水ですね。素晴らしい",
+        "localizations": {
+          "en": "It also promotes plant growth. A natural nutrient solution and beauty treatment in one. Magnificent."
+        }
+      },
+      "2072370017": {
+        "text": "ワルター",
+        "localizations": {
+          "en": "Walther"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "まさか鉱山にそんな質のいい温泉があるとは……\nしかし、なぜあの窪みからここに移動したんでしょう？",
+        "localizations": {
+          "en": "I can't believe there's such high-quality spring water in a mine... But why did it shift from that depression to here?"
+        }
+      },
+      "2072370017": {
+        "text": "スレイ",
+        "localizations": {
+          "en": "Slade"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "これは推測ですが、火山活動による水脈の移動、\n頂獣や紅い霧による影響、年月経過が考えられます",
+        "localizations": {
+          "en": "This is speculation, but it could be due to shifts in the water vein from volcanic activity, the influence of Apexi or the red mist, or simply the passage of time."
+        }
+      },
+      "2072370017": {
+        "text": "ワルター",
+        "localizations": {
+          "en": "Walther"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "よく分かんないけど、色んなことが原因なんだね",
+        "localizations": {
+          "en": "I don't really get it, but basically a bunch of different things caused it, right?"
+        }
+      },
+      "2072370017": {
+        "text": "リアス",
+        "localizations": {
+          "en": "Rias"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "湧出量も十分ですし、大樹の根まで送っても\n問題ないでしょう。ゴゴンガ、また出番ですよ",
+        "localizations": {
+          "en": "The flow rate is sufficient as well. There should be no problem channeling it to the tree's roots. Gogonga, you're up again."
+        }
+      },
+      "2072370017": {
+        "text": "ワルター",
+        "localizations": {
+          "en": "Walther"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "ここから路まで水路を掘ってもらう必要がありますね。\nゴゴンガには頼り切りだな",
+        "localizations": {
+          "en": "We'll need to dig a waterway from here to the channels. We're really counting on you, Gogonga."
+        }
+      },
+      "2072370017": {
+        "text": "スレイ",
+        "localizations": {
+          "en": "Slade"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "フレーフレー、ゴゴンガ！",
+        "localizations": {
+          "en": "Go, Gogonga, go!"
+        }
+      },
+      "2072370017": {
+        "text": "リアス",
+        "localizations": {
+          "en": "Rias"
+        }
+      }
+    }
+  }
+]

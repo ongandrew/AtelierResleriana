@@ -88,5 +88,30 @@
     "id": 44,
     "description": "All: Boosts damage dealt.",
     "popup_text": "Dealt Damage Up"
+  },
+  {
+    "id": 46,
+    "description": "Enemies: Reduces damage received by 50%.",
+    "popup_text": "Damage Received Down"
+  },
+  {
+    "id": 47,
+    "description": "Enemies: Reduces Fire resistance by 50%.",
+    "popup_text": "Fire Resistance Down"
+  },
+  {
+    "id": 48,
+    "description": "Enemies: Reduces Ice resistance by 50%.",
+    "popup_text": "Ice Resistance Down"
+  },
+  {
+    "id": 49,
+    "description": "Enemies: Reduces Air resistance by 50%.",
+    "popup_text": "Air Resistance Down"
+  },
+  {
+    "id": 50,
+    "description": "Enemies: Reduces Bolt resistance by 50%.",
+    "popup_text": "Bolt Resistance Down"
   }
 ]

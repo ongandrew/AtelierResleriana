@@ -27334,5 +27334,947 @@
     "description": "Chance to remove all positive effects from all enemies and reduces single target skill damage by 30% for 2 turns.",
     "name": "Exorcism Flower",
     "summary": ""
+  },
+  {
+    "id": 3001,
+    "description": "Fire damage to target enemy.",
+    "name": "Explosion",
+    "summary": ""
+  },
+  {
+    "id": 3002,
+    "description": "Fire damage to target enemy.<br>After attacking, activates a field effect that reduces all enemies' Fire resistance by 50% for a combined total of 10 turns across all characters.",
+    "name": "Volcano",
+    "summary": ""
+  },
+  {
+    "id": 3003,
+    "description": "Fire and Ice damage to target enemy.",
+    "name": "Mist Blind",
+    "summary": ""
+  },
+  {
+    "id": 3004,
+    "description": "Fire and Ice damage to target enemy.<br>After attacking, grants target enemy Skill Accuracy -40% for 1 turn.",
+    "name": "Nebula Blind",
+    "summary": ""
+  },
+  {
+    "id": 3005,
+    "description": "Fire and Air damage to target enemy.<br>After attacking, grants target enemy SPD -3% for 1 turn.",
+    "name": "Fire Wing",
+    "summary": ""
+  },
+  {
+    "id": 3006,
+    "description": "Fire and Air damage to target enemy.<br>After attacking, grants target enemy SPD -7% for 1 turn.",
+    "name": "Fury Fire",
+    "summary": ""
+  },
+  {
+    "id": 3007,
+    "description": "Fire and Bolt damage to target enemy.<br>After attacking, converts boost panels on target enemy to empty panels.",
+    "name": "Cracker Shock",
+    "summary": ""
+  },
+  {
+    "id": 3008,
+    "description": "Fire and Bolt damage to target enemy.<br>After attacking, converts boost panels on target enemy to weaken panels.",
+    "name": "Firework",
+    "summary": ""
+  },
+  {
+    "id": 3009,
+    "description": "Ice damage to target enemy.",
+    "name": "Ice Burst",
+    "summary": ""
+  },
+  {
+    "id": 3010,
+    "description": "Ice damage to target enemy.<br>After attacking, activates a field effect that reduces all enemies' Ice resistance by 50% for a combined total of 10 turns across all characters.",
+    "name": "Glacier Burst",
+    "summary": ""
+  },
+  {
+    "id": 3011,
+    "description": "Ice and Air damage to target enemy.<br>After attacking, delays target enemy's turn by 1 turn.",
+    "name": "Cold Breeze",
+    "summary": ""
+  },
+  {
+    "id": 3012,
+    "description": "Ice and Air damage to target enemy.<br>After attacking, delays target enemy's turn by 2 turns.",
+    "name": "Blizzard",
+    "summary": ""
+  },
+  {
+    "id": 3013,
+    "description": "Ice and Bolt damage to target enemy.<br>After attacking, increases target enemy's damage received by 50% for 2 attacks.",
+    "name": "Hailstone",
+    "summary": ""
+  },
+  {
+    "id": 3014,
+    "description": "Ice and Bolt damage to target enemy.<br>After attacking, increases target enemy's damage received by 100% for 2 attacks.",
+    "name": "Icicle Rain",
+    "summary": ""
+  },
+  {
+    "id": 3015,
+    "description": "Air damage to target enemy.",
+    "name": "Crazy Wind",
+    "summary": ""
+  },
+  {
+    "id": 3016,
+    "description": "Air damage to target enemy.<br>After attacking, activates a field effect that reduces all enemies' Air resistance by 50% for a combined total of 10 turns across all characters.",
+    "name": "Rampage Wind",
+    "summary": ""
+  },
+  {
+    "id": 3017,
+    "description": "Bolt and Air damage to target enemy.<br>After attacking, grants target Damage Dealt -30% for 1 turn.",
+    "name": "Thunder Typhoon",
+    "summary": ""
+  },
+  {
+    "id": 3018,
+    "description": "Bolt and Air damage to target enemy.<br>After attacking, grants target Damage Dealt -50% for 1 turn.",
+    "name": "Calamity Thunder",
+    "summary": ""
+  },
+  {
+    "id": 3019,
+    "description": "Bolt damage to target enemy.",
+    "name": "Thunder Strike",
+    "summary": ""
+  },
+  {
+    "id": 3020,
+    "description": "Bolt damage to target enemy.<br>After attacking, activates a field effect that reduces all enemies' Bolt resistance by 50% for a combined total of 10 turns across all characters.",
+    "name": "Thunder Bolt",
+    "summary": ""
+  },
+  {
+    "id": 32168,
+    "description": "Deals Air damage to single enemy with highest max HP, and restores HP of ally with lowest HP percentage by 15%.",
+    "name": "Deco Grimoire",
+    "summary": ""
+  },
+  {
+    "id": 32169,
+    "description": "Deals Air damage to single enemy with highest max HP, and restores HP of ally with lowest HP percentage by 10%.",
+    "name": "Deco Grimoire",
+    "summary": ""
+  },
+  {
+    "id": 32170,
+    "description": "Deals Bolt damage and Bolt stun damage to single enemy with highest max HP.",
+    "name": "Thunder Feet",
+    "summary": ""
+  },
+  {
+    "id": 32171,
+    "description": "Deals Bolt damage and Bolt stun damage to single enemy with highest max HP.",
+    "name": "Thunder Feet",
+    "summary": ""
+  },
+  {
+    "id": 11003369,
+    "description": "Before attacking, removes negative effects from self.<br>After attacking, grants self M.ATK +{0}% (up to 40%).",
+    "name": "Wind Whip",
+    "summary": "Before attacking, removes negative effects from self.<br>After attacking, boosts own M.ATK."
+  },
+  {
+    "id": 11003370,
+    "description": "Before attacking, removes negative effects from self.<br>After attacking, grants self M.ATK +{0}% (up to 40%).",
+    "name": "Wind Whip",
+    "summary": "Before attacking, removes negative effects from self.<br>After attacking, boosts own M.ATK."
+  },
+  {
+    "id": 11003371,
+    "description": "Before attacking, removes negative effects from self.<br>After attacking, grants self M.ATK +{0}% (up to 40%).",
+    "name": "Wind Whip",
+    "summary": "Before attacking, removes negative effects from self.<br>After attacking, boosts own M.ATK."
+  },
+  {
+    "id": 11003372,
+    "description": "Before attacking, removes negative effects from self.<br>After attacking, grants self M.ATK +{0}% (up to 40%).",
+    "name": "Wind Whip",
+    "summary": "Before attacking, removes negative effects from self.<br>After attacking, boosts own M.ATK."
+  },
+  {
+    "id": 11003373,
+    "description": "Before attacking, removes negative effects from self.<br>After attacking, grants self M.ATK +{0}% (up to 40%).",
+    "name": "Wind Whip",
+    "summary": "Before attacking, removes negative effects from self.<br>After attacking, boosts own M.ATK."
+  },
+  {
+    "id": 11003384,
+    "description": "Before attacking, reduces target's Bolt resistance by {0}% for 2 attacks.<br>Grants self Skill Damage +{1}% and Stun Damage +{2}% (both up to 30%).",
+    "name": "Thunder Thrust",
+    "summary": "Before attacking, reduces target's Bolt resistance.<br>Boosts own skill damage and stun damage."
+  },
+  {
+    "id": 11003385,
+    "description": "Before attacking, reduces target's Bolt resistance by {0}% for 2 attacks.<br>Grants self Skill Damage +{1}% and Stun Damage +{2}% (both up to 30%).",
+    "name": "Thunder Thrust",
+    "summary": "Before attacking, reduces target's Bolt resistance.<br>Boosts own skill damage and stun damage."
+  },
+  {
+    "id": 11003386,
+    "description": "Before attacking, reduces target's Bolt resistance by {0}% for 2 attacks.<br>Grants self Skill Damage +{1}% and Stun Damage +{2}% (both up to 30%).",
+    "name": "Thunder Thrust",
+    "summary": "Before attacking, reduces target's Bolt resistance.<br>Boosts own skill damage and stun damage."
+  },
+  {
+    "id": 11003387,
+    "description": "Before attacking, reduces target's Bolt resistance by {0}% for 2 attacks.<br>Grants self Skill Damage +{1}% and Stun Damage +{2}% (both up to 30%).",
+    "name": "Thunder Thrust",
+    "summary": "Before attacking, reduces target's Bolt resistance.<br>Boosts own skill damage and stun damage."
+  },
+  {
+    "id": 11003388,
+    "description": "Before attacking, reduces target's Bolt resistance by {0}% for 2 attacks.<br>Grants self Skill Damage +{1}% and Stun Damage +{2}% (both up to 30%).",
+    "name": "Thunder Thrust",
+    "summary": "Before attacking, reduces target's Bolt resistance.<br>Boosts own skill damage and stun damage."
+  },
+  {
+    "id": 12003374,
+    "description": "Boosts this attack's critical damage by {0}%.<br>After attacking, grants self M.ATK +{1}% and Skill Damage +{2}% until 3 actions end.<br>Grants Battle Item Damage Activated on Own Turn +{3}% (up to 100%).",
+    "name": "Rumble Twister",
+    "summary": "Boosts this attack's critical damage.<br>After attacking, boosts own M.ATK, skill damage, and battle item damage."
+  },
+  {
+    "id": 12003375,
+    "description": "Boosts this attack's critical damage by {0}%.<br>After attacking, grants self M.ATK +{1}% and Skill Damage +{2}% until 3 actions end.<br>Grants Battle Item Damage Activated on Own Turn +{3}% (up to 100%).",
+    "name": "Rumble Twister",
+    "summary": "Boosts this attack's critical damage.<br>After attacking, boosts own M.ATK, skill damage, and battle item damage."
+  },
+  {
+    "id": 12003376,
+    "description": "Boosts this attack's critical damage by {0}%.<br>After attacking, grants self M.ATK +{1}% and Skill Damage +{2}% until 3 actions end.<br>Grants Battle Item Damage Activated on Own Turn +{3}% (up to 100%).",
+    "name": "Rumble Twister",
+    "summary": "Boosts this attack's critical damage.<br>After attacking, boosts own M.ATK, skill damage, and battle item damage."
+  },
+  {
+    "id": 12003377,
+    "description": "Boosts this attack's critical damage by {0}%.<br>After attacking, grants self M.ATK +{1}% and Skill Damage +{2}% until 3 actions end.<br>Grants Battle Item Damage Activated on Own Turn +{3}% (up to 100%).",
+    "name": "Rumble Twister",
+    "summary": "Boosts this attack's critical damage.<br>After attacking, boosts own M.ATK, skill damage, and battle item damage."
+  },
+  {
+    "id": 12003378,
+    "description": "Boosts this attack's critical damage by {0}%.<br>After attacking, grants self M.ATK +{1}% and Skill Damage +{2}% until 3 actions end.<br>Grants Battle Item Damage Activated on Own Turn +{3}% (up to 100%).",
+    "name": "Rumble Twister",
+    "summary": "Boosts this attack's critical damage.<br>After attacking, boosts own M.ATK, skill damage, and battle item damage."
+  },
+  {
+    "id": 12003389,
+    "description": "Boosts stun damage by 25-100% depending on the number of characters with the Hallfein Reconstruction Project tag. (Higher boost for more characters, range: 1-4 characters)<br>Before attacking, reduces target's Bolt resistance by {1}% for 3 attacks.<br>After attacking, boosts own stun damage by {2}% for 2 turns and boosts critical damage by {3}% and battle item damage activated on own turn by {4}% for 2 turns for all allies with Bolt affinity or the Hallfein Reconstruction Team tag.<br>Boosts target's stun damage received by {5}% for 2 attacks.<br>When target is stunned, boosts M.ATK by {6}% for self and all Attacker allies for 2 turns.",
+    "name": "Violet Lightning Slash",
+    "summary": "Boosts own stun damage depending on the number of characters with the Hallfein Reconstruction Project tag.<br>Before attack, reduces target's Bolt resistance.<br>After attack, boosts own stun damage.<br>Boosts critical damage and battle item damage for all allies with Bolt affinity or the Hallfein Reconstruction Team tag.<br>Boosts target's stun damage received.<br>When target is stunned, boosts M.ATK for self and all Attacker allies."
+  },
+  {
+    "id": 12003390,
+    "description": "Boosts stun damage by 25-100% depending on the number of characters with the Hallfein Reconstruction Project tag. (Higher boost for more characters, range: 1-4 characters)<br>Before attacking, reduces target's Bolt resistance by {1}% for 3 attacks.<br>After attacking, boosts own stun damage by {2}% for 2 turns and boosts critical damage by {3}% and battle item damage activated on own turn by {4}% for 2 turns for all allies with Bolt affinity or the Hallfein Reconstruction Team tag.<br>Boosts target's stun damage received by {5}% for 2 attacks.<br>When target is stunned, boosts M.ATK by {6}% for self and all Attacker allies for 2 turns.",
+    "name": "Violet Lightning Slash",
+    "summary": "Boosts own stun damage depending on the number of characters with the Hallfein Reconstruction Project tag.<br>Before attack, reduces target's Bolt resistance.<br>After attack, boosts own stun damage.<br>Boosts critical damage and battle item damage for all allies with Bolt affinity or the Hallfein Reconstruction Team tag.<br>Boosts target's stun damage received.<br>When target is stunned, boosts M.ATK for self and all Attacker allies."
+  },
+  {
+    "id": 12003391,
+    "description": "Boosts stun damage by 25-100% depending on the number of characters with the Hallfein Reconstruction Project tag. (Higher boost for more characters, range: 1-4 characters)<br>Before attacking, reduces target's Bolt resistance by {1}% for 3 attacks.<br>After attacking, boosts own stun damage by {2}% for 2 turns and boosts critical damage by {3}% and battle item damage activated on own turn by {4}% for 2 turns for all allies with Bolt affinity or the Hallfein Reconstruction Team tag.<br>Boosts target's stun damage received by {5}% for 2 attacks.<br>When target is stunned, boosts M.ATK by {6}% for self and all Attacker allies for 2 turns.",
+    "name": "Violet Lightning Slash",
+    "summary": "Boosts own stun damage depending on the number of characters with the Hallfein Reconstruction Project tag.<br>Before attack, reduces target's Bolt resistance.<br>After attack, boosts own stun damage.<br>Boosts critical damage and battle item damage for all allies with Bolt affinity or the Hallfein Reconstruction Team tag.<br>Boosts target's stun damage received.<br>When target is stunned, boosts M.ATK for self and all Attacker allies."
+  },
+  {
+    "id": 12003392,
+    "description": "Boosts stun damage by 25-100% depending on the number of characters with the Hallfein Reconstruction Project tag. (Higher boost for more characters, range: 1-4 characters)<br>Before attacking, reduces target's Bolt resistance by {1}% for 3 attacks.<br>After attacking, boosts own stun damage by {2}% for 2 turns and boosts critical damage by {3}% and battle item damage activated on own turn by {4}% for 2 turns for all allies with Bolt affinity or the Hallfein Reconstruction Team tag.<br>Boosts target's stun damage received by {5}% for 2 attacks.<br>When target is stunned, boosts M.ATK by {6}% for self and all Attacker allies for 2 turns.",
+    "name": "Violet Lightning Slash",
+    "summary": "Boosts own stun damage depending on the number of characters with the Hallfein Reconstruction Project tag.<br>Before attack, reduces target's Bolt resistance.<br>After attack, boosts own stun damage.<br>Boosts critical damage and battle item damage for all allies with Bolt affinity or the Hallfein Reconstruction Team tag.<br>Boosts target's stun damage received.<br>When target is stunned, boosts M.ATK for self and all Attacker allies."
+  },
+  {
+    "id": 12003393,
+    "description": "Boosts stun damage by 25-100% depending on the number of characters with the Hallfein Reconstruction Project tag. (Higher boost for more characters, range: 1-4 characters)<br>Before attacking, reduces target's Bolt resistance by {1}% for 3 attacks.<br>After attacking, boosts own stun damage by {2}% for 2 turns and boosts critical damage by {3}% and battle item damage activated on own turn by {4}% for 2 turns for all allies with Bolt affinity or the Hallfein Reconstruction Team tag.<br>Boosts target's stun damage received by {5}% for 2 attacks.<br>When target is stunned, boosts M.ATK by {6}% for self and all Attacker allies for 2 turns.",
+    "name": "Violet Lightning Slash",
+    "summary": "Boosts own stun damage depending on the number of characters with the Hallfein Reconstruction Project tag.<br>Before attack, reduces target's Bolt resistance.<br>After attack, boosts own stun damage.<br>Boosts critical damage and battle item damage for all allies with Bolt affinity or the Hallfein Reconstruction Team tag.<br>Boosts target's stun damage received.<br>When target is stunned, boosts M.ATK for self and all Attacker allies."
+  },
+  {
+    "id": 14003379,
+    "description": "Boosts this attack's critical damage by {0}%.<br>After attacking, boosts own M.ATK by {1}% and skill damage by {2}% for 2 turns and grants critical rate increased by {3}% (MAX 100%) and battle item damage activated on own turn increased by {4}% (MAX 200%).",
+    "name": "Einzelkampf",
+    "summary": "Boosts this attack's critical damage.<br>After attack, boosts own M.ATK, skill damage, critical rate, and battle item damage."
+  },
+  {
+    "id": 14003380,
+    "description": "Boosts this attack's critical damage by {0}%.<br>After attacking, boosts own M.ATK by {1}% and skill damage by {2}% for 2 turns and grants critical rate increased by {3}% (MAX 100%) and battle item damage activated on own turn increased by {4}% (MAX 200%).",
+    "name": "Einzelkampf",
+    "summary": "Boosts this attack's critical damage.<br>After attack, boosts own M.ATK, skill damage, critical rate, and battle item damage."
+  },
+  {
+    "id": 14003381,
+    "description": "Boosts this attack's critical damage by {0}%.<br>After attacking, boosts own M.ATK by {1}% and skill damage by {2}% for 2 turns and grants critical rate increased by {3}% (MAX 100%) and battle item damage activated on own turn increased by {4}% (MAX 200%).",
+    "name": "Einzelkampf",
+    "summary": "Boosts this attack's critical damage.<br>After attack, boosts own M.ATK, skill damage, critical rate, and battle item damage."
+  },
+  {
+    "id": 14003382,
+    "description": "Boosts this attack's critical damage by {0}%.<br>After attacking, boosts own M.ATK by {1}% and skill damage by {2}% for 2 turns and grants critical rate increased by {3}% (MAX 100%) and battle item damage activated on own turn increased by {4}% (MAX 200%).",
+    "name": "Einzelkampf",
+    "summary": "Boosts this attack's critical damage.<br>After attack, boosts own M.ATK, skill damage, critical rate, and battle item damage."
+  },
+  {
+    "id": 14003383,
+    "description": "Boosts this attack's critical damage by {0}%.<br>After attacking, boosts own M.ATK by {1}% and skill damage by {2}% for 2 turns and grants critical rate increased by {3}% (MAX 100%) and battle item damage activated on own turn increased by {4}% (MAX 200%).",
+    "name": "Einzelkampf",
+    "summary": "Boosts this attack's critical damage.<br>After attack, boosts own M.ATK, skill damage, critical rate, and battle item damage."
+  },
+  {
+    "id": 14003394,
+    "description": "Boosts stun damage by 30-120% depending on the number of characters with the Hallfein Reconstruction Team tag. (Higher boost for more characters, range: 1-4 characters)<br>Before attacking, reduces target's Bolt resistance by {1}% for 2 attacks.<br>After attacking, boosts own stun damage by {2}% for 2 turns and boosts critical damage by {3}% and battle item damage activated on own turn by {4}% for 2 turns for all allies with Bolt affinity or the Hallfein Reconstruction Team tag.<br>Boosts target's stun damage received by {5}% for 2 attacks.<br>When target is stunned, boosts M.ATK by {6}% for self and all Attacker allies for 2 turns.",
+    "name": "Starfall Spear",
+    "summary": "Boosts own stun damage depending on the number of characters with the Hallfein Reconstruction Project tag.<br>Before attack, reduces target's Bolt resistance.<br>After attack, boosts own stun damage.<br>Boosts critical damage and battle item damage for all allies with Bolt affinity or the Hallfein Reconstruction Team tag.<br>Boosts target's stun damage received.<br>When target is stunned, boosts M.ATK for self and all Attacker allies."
+  },
+  {
+    "id": 14003395,
+    "description": "Boosts stun damage by 30-120% depending on the number of characters with the Hallfein Reconstruction Team tag. (Higher boost for more characters, range: 1-4 characters)<br>Before attacking, reduces target's Bolt resistance by {1}% for 2 attacks.<br>After attacking, boosts own stun damage by {2}% for 2 turns and boosts critical damage by {3}% and battle item damage activated on own turn by {4}% for 2 turns for all allies with Bolt affinity or the Hallfein Reconstruction Team tag.<br>Boosts target's stun damage received by {5}% for 2 attacks.<br>When target is stunned, boosts M.ATK by {6}% for self and all Attacker allies for 2 turns.",
+    "name": "Starfall Spear",
+    "summary": "Boosts own stun damage depending on the number of characters with the Hallfein Reconstruction Project tag.<br>Before attack, reduces target's Bolt resistance.<br>After attack, boosts own stun damage.<br>Boosts critical damage and battle item damage for all allies with Bolt affinity or the Hallfein Reconstruction Team tag.<br>Boosts target's stun damage received.<br>When target is stunned, boosts M.ATK for self and all Attacker allies."
+  },
+  {
+    "id": 14003396,
+    "description": "Boosts stun damage by 30-120% depending on the number of characters with the Hallfein Reconstruction Team tag. (Higher boost for more characters, range: 1-4 characters)<br>Before attacking, reduces target's Bolt resistance by {1}% for 2 attacks.<br>After attacking, boosts own stun damage by {2}% for 2 turns and boosts critical damage by {3}% and battle item damage activated on own turn by {4}% for 2 turns for all allies with Bolt affinity or the Hallfein Reconstruction Team tag.<br>Boosts target's stun damage received by {5}% for 2 attacks.<br>When target is stunned, boosts M.ATK by {6}% for self and all Attacker allies for 2 turns.",
+    "name": "Starfall Spear",
+    "summary": "Boosts own stun damage depending on the number of characters with the Hallfein Reconstruction Project tag.<br>Before attack, reduces target's Bolt resistance.<br>After attack, boosts own stun damage.<br>Boosts critical damage and battle item damage for all allies with Bolt affinity or the Hallfein Reconstruction Team tag.<br>Boosts target's stun damage received.<br>When target is stunned, boosts M.ATK for self and all Attacker allies."
+  },
+  {
+    "id": 14003397,
+    "description": "Boosts stun damage by 30-120% depending on the number of characters with the Hallfein Reconstruction Team tag. (Higher boost for more characters, range: 1-4 characters)<br>Before attacking, reduces target's Bolt resistance by {1}% for 2 attacks.<br>After attacking, boosts own stun damage by {2}% for 2 turns and boosts critical damage by {3}% and battle item damage activated on own turn by {4}% for 2 turns for all allies with Bolt affinity or the Hallfein Reconstruction Team tag.<br>Boosts target's stun damage received by {5}% for 2 attacks.<br>When target is stunned, boosts M.ATK by {6}% for self and all Attacker allies for 2 turns.",
+    "name": "Starfall Spear",
+    "summary": "Boosts own stun damage depending on the number of characters with the Hallfein Reconstruction Project tag.<br>Before attack, reduces target's Bolt resistance.<br>After attack, boosts own stun damage.<br>Boosts critical damage and battle item damage for all allies with Bolt affinity or the Hallfein Reconstruction Team tag.<br>Boosts target's stun damage received.<br>When target is stunned, boosts M.ATK for self and all Attacker allies."
+  },
+  {
+    "id": 14003398,
+    "description": "Boosts stun damage by 30-120% depending on the number of characters with the Hallfein Reconstruction Team tag. (Higher boost for more characters, range: 1-4 characters)<br>Before attacking, reduces target's Bolt resistance by {1}% for 2 attacks.<br>After attacking, boosts own stun damage by {2}% for 2 turns and boosts critical damage by {3}% and battle item damage activated on own turn by {4}% for 2 turns for all allies with Bolt affinity or the Hallfein Reconstruction Team tag.<br>Boosts target's stun damage received by {5}% for 2 attacks.<br>When target is stunned, boosts M.ATK by {6}% for self and all Attacker allies for 2 turns.",
+    "name": "Starfall Spear",
+    "summary": "Boosts own stun damage depending on the number of characters with the Hallfein Reconstruction Project tag.<br>Before attack, reduces target's Bolt resistance.<br>After attack, boosts own stun damage.<br>Boosts critical damage and battle item damage for all allies with Bolt affinity or the Hallfein Reconstruction Team tag.<br>Boosts target's stun damage received.<br>When target is stunned, boosts M.ATK for self and all Attacker allies."
+  },
+  {
+    "id": 14003444,
+    "description": "After attacking, boosts target's damage received by {0}% for 5 attacks.",
+    "name": "Analyze",
+    "summary": "After attack, boosts target's damage received."
+  },
+  {
+    "id": 14003445,
+    "description": "After attacking, boosts target's damage received by {0}% for 5 attacks.",
+    "name": "Analyze",
+    "summary": "After attack, boosts target's damage received."
+  },
+  {
+    "id": 14003446,
+    "description": "After attacking, boosts target's damage received by {0}% for 5 attacks.",
+    "name": "Analyze",
+    "summary": "After attack, boosts target's damage received."
+  },
+  {
+    "id": 14003447,
+    "description": "After attacking, boosts target's damage received by {0}% for 5 attacks.",
+    "name": "Analyze",
+    "summary": "After attack, boosts target's damage received."
+  },
+  {
+    "id": 14003448,
+    "description": "After attacking, boosts target's damage received by {0}% for 5 attacks.",
+    "name": "Analyze",
+    "summary": "After attack, boosts target's damage received."
+  },
+  {
+    "id": 14003449,
+    "description": "Before attacking, boosts own stun damage by {0}% (MAX 150%) and reduces target's Slash resistance by {1}% for 3 attacks.<br>After attacking, boosts skill damage by {2}% for all allies with physical affinity or the Hallfein Reconstruction Team tag (MAX 60%).<br>When target is stunned, boosts critical damage by {4}% for all allies with the Hallfein Reconstruction Team tag (MAX 50%).",
+    "name": "Twin Caliburn",
+    "summary": "Before attack, boosts own stun damage.<br>Reduces target's Slash resistance.<br>After attack, boosts skill damage for all allies with physical affinity or the Hallfein Reconstruction Team tag.<br>When target is stunned, boosts critical damage for all allies."
+  },
+  {
+    "id": 14003450,
+    "description": "Before attacking, boosts own stun damage by {0}% (Max 150).<br>Reduces target's Slash resistance by {1}% for 3 attacks.<br>After attacking, boosts skill damage by {2}% (Max 60%) for all allies with physical affinities or the Hallfein Restoration Team tag.<br>When target is stunned, boosts critical damage by {4}% (Max 50%) for all allies with the Hallfein Restoration Team tag.",
+    "name": "Twin Caliburn",
+    "summary": "Before attacking, boosts own stun damage.<br>Reduces target's Slash resistance.<br>After attacking, boosts skill damage for all allies with physical affinities or the Hallfein Restoration Team tag.<br>When target is stunned, boosts critical damage for all allies with the Hallfein Restoration Team tag."
+  },
+  {
+    "id": 14003451,
+    "description": "Before attacking, boosts own stun damage by {0}% (Max 150).<br>Reduces target's Slash resistance by {1}% for 3 attacks.<br>After attacking, boosts skill damage by {2}% (Max 60%) for all allies with physical affinities or the Hallfein Restoration Team tag.<br>When target is stunned, boosts critical damage by {4}% (Max 50%) for all allies with the Hallfein Restoration Team tag.",
+    "name": "Twin Caliburn",
+    "summary": "Before attacking, boosts own stun damage.<br>Reduces target's Slash resistance.<br>After attacking, boosts skill damage for all allies with physical affinities or the Hallfein Restoration Team tag.<br>When target is stunned, boosts critical damage for all allies with the Hallfein Restoration Team tag."
+  },
+  {
+    "id": 14003452,
+    "description": "Before attacking, boosts own stun damage by {0}% (Max 150).<br>Reduces target's Slash resistance by {1}% for 3 attacks.<br>After attacking, boosts skill damage by {2}% (Max 60%) for all allies with physical affinities or the Hallfein Restoration Team tag.<br>When target is stunned, boosts critical damage by {4}% (Max 50%) for all allies with the Hallfein Restoration Team tag.",
+    "name": "Twin Caliburn",
+    "summary": "Before attacking, boosts own stun damage.<br>Reduces target's Slash resistance.<br>After attacking, boosts skill damage for all allies with physical affinities or the Hallfein Restoration Team tag.<br>When target is stunned, boosts critical damage for all allies with the Hallfein Restoration Team tag."
+  },
+  {
+    "id": 14003453,
+    "description": "Before attacking, boosts own stun damage by {0}% (Max 150).<br>Reduces target's Slash resistance by {1}% for 3 attacks.<br>After attacking, boosts skill damage by {2}% (Max 60%) for all allies with physical affinities or the Hallfein Restoration Team tag.<br>When target is stunned, boosts critical damage by {4}% (Max 50%) for all allies with the Hallfein Restoration Team tag.",
+    "name": "Twin Caliburn",
+    "summary": "Before attacking, boosts own stun damage.<br>Reduces target's Slash resistance.<br>After attacking, boosts skill damage for all allies with physical affinities or the Hallfein Restoration Team tag.<br>When target is stunned, boosts critical damage for all allies with the Hallfein Restoration Team tag."
+  },
+  {
+    "id": 14003454,
+    "description": "Before attacking, reduces target's Slash resistance by {0}% for 5 attacks.<br>After attacking, increases target's damage received by {1}% (Max 60%) and critical damage received by {2}% (Max 60%).",
+    "name": "Mana Extinguisher",
+    "summary": "Before attacking, reduces target's Slash resistance.<br>After attacking, increases target's damage received and critical damage received."
+  },
+  {
+    "id": 14003455,
+    "description": "After attacking, reduces target's Slash resistance by {0}% for 5 attacks.",
+    "name": "Mana Extinguisher",
+    "summary": "After attacking, reduces target's Slash resistance."
+  },
+  {
+    "id": 14003456,
+    "description": "Before attacking, reduces target's Fire resistance by {0}% for 3 attacks.<br>After attacking, boosts own M.ATK by {1}% (Max 30%) and skill damage by {2}% (Max 30%).",
+    "name": "Flame Cast",
+    "summary": "Before attacking, reduces target's Fire resistance.<br>After attacking, boosts own M.ATK and skill damage."
+  },
+  {
+    "id": 14003457,
+    "description": "Before attacking, reduces target's Fire resistance by {0}% for 3 attacks.<br>After attacking, boosts own M.ATK by {1}% (Max 30%) and skill damage by {2}% (Max 30%).",
+    "name": "Flame Cast",
+    "summary": "Before attacking, reduces target's Fire resistance.<br>After attacking, boosts own M.ATK and skill damage."
+  },
+  {
+    "id": 14003458,
+    "description": "Before attacking, reduces target's Fire resistance by {0}% for 3 attacks.<br>After attacking, boosts own M.ATK by {1}% (Max 30%) and skill damage by {2}% (Max 30%).",
+    "name": "Flame Cast",
+    "summary": "Before attacking, reduces target's Fire resistance.<br>After attacking, boosts own M.ATK and skill damage."
+  },
+  {
+    "id": 14003459,
+    "description": "Before attacking, reduces target's Fire resistance by {0}% for 3 attacks.<br>After attacking, boosts own M.ATK by {1}% (Max 30%) and skill damage by {2}% (Max 30%).",
+    "name": "Flame Cast",
+    "summary": "Before attacking, reduces target's Fire resistance.<br>After attacking, boosts own M.ATK and skill damage."
+  },
+  {
+    "id": 14003460,
+    "description": "Before attacking, reduces target's Fire resistance by {0}% for 3 attacks.<br>After attacking, boosts own M.ATK by {1}% (Max 30%) and skill damage by {2}% (Max 30%).",
+    "name": "Flame Cast",
+    "summary": "Before attacking, reduces target's Fire resistance.<br>After attacking, boosts own M.ATK and skill damage."
+  },
+  {
+    "id": 14003461,
+    "description": "Before attacking, reduces target's Fire resistance by {0}% for 3 attacks.<br>After attacking, boosts own skill damage by 20-60% and M.ATK by 10-30% for 2 turns depending on the number of enemies (Higher boost for more enemies, range: 1-3 enemies).<br>When there are allies with the Hallfein Restoration Team tag other than self in the party, boosts weakness attack damage by 60% for all allies with the Hallfein Restoration Team tag for 2 turns.",
+    "name": "Pumpkin Bomb",
+    "summary": "Before attacking, reduces target's Fire resistance.<br>After attacking, boosts own skill damage and M.ATK depending on the number of enemies.<br>When there are allies with the Hallfein Restoration Team tag other than self in the party, boosts weakness attack damage for all allies with the Hallfein Restoration Team tag."
+  },
+  {
+    "id": 14003462,
+    "description": "Before attacking, reduces target's Fire resistance by {0}% for 3 attacks.<br>After attacking, boosts own skill damage by 20-60% and M.ATK by 10-30% for 2 turns depending on the number of enemies (Higher boost for more enemies, range: 1-3 enemies).<br>When there are allies with the Hallfein Restoration Team tag other than self in the party, boosts weakness attack damage by 60% for all allies with the Hallfein Restoration Team tag for 2 turns.",
+    "name": "Pumpkin Bomb",
+    "summary": "Before attacking, reduces target's Fire resistance.<br>After attacking, boosts own skill damage and M.ATK depending on the number of enemies.<br>When there are allies with the Hallfein Restoration Team tag other than self in the party, boosts weakness attack damage for all allies with the Hallfein Restoration Team tag."
+  },
+  {
+    "id": 14003463,
+    "description": "Before attacking, reduces target's Fire resistance by {0}% for 3 attacks.<br>After attacking, boosts own skill damage by 20-60% and M.ATK by 10-30% for 2 turns depending on the number of enemies (Higher boost for more enemies, range: 1-3 enemies).<br>When there are allies with the Hallfein Restoration Team tag other than self in the party, boosts weakness attack damage by 60% for all allies with the Hallfein Restoration Team tag for 2 turns.",
+    "name": "Pumpkin Bomb",
+    "summary": "Before attacking, reduces target's Fire resistance.<br>After attacking, boosts own skill damage and M.ATK depending on the number of enemies.<br>When there are allies with the Hallfein Restoration Team tag other than self in the party, boosts weakness attack damage for all allies with the Hallfein Restoration Team tag."
+  },
+  {
+    "id": 14003464,
+    "description": "Before attacking, reduces target's Fire resistance by {0}% for 3 attacks.<br>After attacking, boosts own skill damage by 20-60% and M.ATK by 10-30% for 2 turns depending on the number of enemies (Higher boost for more enemies, range: 1-3 enemies).<br>When there are allies with the Hallfein Restoration Team tag other than self in the party, boosts weakness attack damage by 60% for all allies with the Hallfein Restoration Team tag for 2 turns.",
+    "name": "Pumpkin Bomb",
+    "summary": "Before attacking, reduces target's Fire resistance.<br>After attacking, boosts own skill damage and M.ATK depending on the number of enemies.<br>When there are allies with the Hallfein Restoration Team tag other than self in the party, boosts weakness attack damage for all allies with the Hallfein Restoration Team tag."
+  },
+  {
+    "id": 14003465,
+    "description": "Before attacking, reduces target's Fire resistance by {0}% for 3 attacks.<br>After attacking, boosts own skill damage by 20-60% and M.ATK by 10-30% for 2 turns depending on the number of enemies (Higher boost for more enemies, range: 1-3 enemies).<br>When there are allies with the Hallfein Restoration Team tag other than self in the party, boosts weakness attack damage by 60% for all allies with the Hallfein Restoration Team tag for 2 turns.",
+    "name": "Pumpkin Bomb",
+    "summary": "Before attacking, reduces target's Fire resistance.<br>After attacking, boosts own skill damage and M.ATK depending on the number of enemies.<br>When there are allies with the Hallfein Restoration Team tag other than self in the party, boosts weakness attack damage for all allies with the Hallfein Restoration Team tag."
+  },
+  {
+    "id": 14003466,
+    "description": "Boosts damage by 60-120% depending on the number of enemies (Higher boost for more enemies, range: 1-3 enemies).<br>After attacking, boosts own skill damage by 25-75% and M.ATK by 15-45% for 3 turns depending on the number of enemies (Higher boost for more enemies, range: 1-3 enemies).<br>When there are allies with the Hallfein Restoration Team tag other than self in the party, boosts weakness attack damage by 100% for all allies with the Hallfein Restoration Team tag for 2 turns.",
+    "name": "Meteor Storm",
+    "summary": "Boosts damage depending on the number of enemies.<br>After attacking, boosts own skill damage and M.ATK depending on the number of enemies.<br>When there are allies with the Hallfein Restoration Team tag other than self in the party, boosts weakness attack damage for all allies with the Hallfein Restoration Team tag."
+  },
+  {
+    "id": 14003467,
+    "description": "Boosts damage by 40-100% depending on the number of enemies (Higher boost for more enemies, range: 1-3 enemies).",
+    "name": "Meteor Storm",
+    "summary": "Boosts damage depending on the number of enemies."
+  },
+  {
+    "id": 14003468,
+    "description": "Consumes 100% of the item gauge and select two attack items of Fire, Ice, Bolt, or Air affinities to use.<br>After using battle items, activates the corresponding Item Mix skill based on the attribute.<br>※Can only be activated when the item gauge is at 100%.<br>※The skill power, stun power, and attack range of Item Mix skills vary depending on the items used.<br>※Item Mix skill damage is treated as battle item damage.<br>※The traits of the two selected items are applied to the Item Mix skill.",
+    "name": "Item Mix",
+    "summary": "Consumes 100% of the item gauge and select two attack items of Fire, Ice, Bolt, or Air affinities to use.<br>After using battle items, activates the corresponding Item Mix skill."
+  },
+  {
+    "id": 32004294,
+    "description": "After attacking, inflicts P.ATK Down on all enemies (35% chance/30%/2 turns) and grants self Counter for 2 counterattacks.",
+    "name": "激振",
+    "summary": ""
+  },
+  {
+    "id": 32004295,
+    "description": "No additional effects.",
+    "name": "Heavy Strike",
+    "summary": ""
+  },
+  {
+    "id": 32004296,
+    "description": "No additional effects.",
+    "name": "Explosive Fist",
+    "summary": ""
+  },
+  {
+    "id": 32004297,
+    "description": "No additional effects.",
+    "name": "Hellfire Surge",
+    "summary": ""
+  },
+  {
+    "id": 32004298,
+    "description": "No additional effects.",
+    "name": "Swing",
+    "summary": ""
+  },
+  {
+    "id": 32004299,
+    "description": "No additional effects.",
+    "name": "Heavy Strike",
+    "summary": ""
+  },
+  {
+    "id": 32004300,
+    "description": "No additional effects.",
+    "name": "Fierce Swing",
+    "summary": ""
+  },
+  {
+    "id": 32004301,
+    "description": "After attacking, reduces skill target's damage dealt by 15% for 3 turns.",
+    "name": "Swing",
+    "summary": ""
+  },
+  {
+    "id": 32004302,
+    "description": "Grants self Counter for 2 counterattacks.",
+    "name": "Counter Stance",
+    "summary": ""
+  },
+  {
+    "id": 32004303,
+    "description": "Reduces skill target's SPD by 15% for 3 turns.",
+    "name": "Intimidate",
+    "summary": ""
+  },
+  {
+    "id": 32004304,
+    "description": "No additional effects.",
+    "name": "Ambush",
+    "summary": ""
+  },
+  {
+    "id": 32004305,
+    "description": "After attacking, creates a weaken+ panel (15 spaces away).",
+    "name": "Thunder Excavation",
+    "summary": ""
+  },
+  {
+    "id": 32004306,
+    "description": "After attacking, creates a weaken panel on target enemy's next turn.",
+    "name": "Thunder Tail",
+    "summary": ""
+  },
+  {
+    "id": 32004307,
+    "description": "No additional effects.",
+    "name": "Thunder Wheel",
+    "summary": ""
+  },
+  {
+    "id": 32004308,
+    "description": "No additional effects.",
+    "name": "Stomp",
+    "summary": ""
+  },
+  {
+    "id": 32004309,
+    "description": "After attacking, increases all enemies' damage received by 25% for 2 attacks.",
+    "name": "Heaven and Earth Reversal",
+    "summary": ""
+  },
+  {
+    "id": 32004310,
+    "description": "Reduces a random enemy's damage dealt by 45% for 5 turns.",
+    "name": "Flash Tail",
+    "summary": ""
+  },
+  {
+    "id": 32004311,
+    "description": "Grants all allies a field effect that reduces damage received (Total of 10 turns).",
+    "name": "Solid Ice Wall",
+    "summary": ""
+  },
+  {
+    "id": 32004312,
+    "description": "After attacking, reduces own damage received by 30% for 1–5 attacks.",
+    "name": "Change Armor",
+    "summary": ""
+  },
+  {
+    "id": 32004313,
+    "description": "After attacking, reduces own damage received by 50% for 1 attack.",
+    "name": "Ore Metabolism",
+    "summary": ""
+  },
+  {
+    "id": 32004314,
+    "description": "When attacking, if own HP is 50% or below, boosts damage dealt by 20%.",
+    "name": "Spirited Whirlwind",
+    "summary": ""
+  },
+  {
+    "id": 32004315,
+    "description": "After attacking, reduces all enemies' P.ATK by 40% for 2 turns.",
+    "name": "Enervating Whirlwind",
+    "summary": ""
+  },
+  {
+    "id": 32004316,
+    "description": "No additional effects.",
+    "name": "Flurry of Blows",
+    "summary": ""
+  },
+  {
+    "id": 32004317,
+    "description": "Reduces single enemy's stun damage dealt by 40% for 3 turns.",
+    "name": "Curse Powder",
+    "summary": ""
+  },
+  {
+    "id": 32004318,
+    "description": "Grants self Cover for 3 turns.",
+    "name": "Stand By",
+    "summary": ""
+  },
+  {
+    "id": 32004319,
+    "description": "After attacking, creates weaken+ panels (15 spaces worth).",
+    "name": "Thunderous Excavation",
+    "summary": ""
+  },
+  {
+    "id": 32004320,
+    "description": "After attacking, creates a weaken panel on the enemy target's next turn.",
+    "name": "Thunder Tail",
+    "summary": ""
+  },
+  {
+    "id": 32004321,
+    "description": "No additional effects.",
+    "name": "Thunder Wheel",
+    "summary": ""
+  },
+  {
+    "id": 32004322,
+    "description": "No additional effects.",
+    "name": "Trample",
+    "summary": ""
+  },
+  {
+    "id": 32004323,
+    "description": "After attacking, boosts all enemies' damage received by 25% for 2 turns.",
+    "name": "Heaven and Earth Reversal",
+    "summary": ""
+  },
+  {
+    "id": 32004324,
+    "description": "Reduces random enemies' damage dealt by 45% for 5 turns.",
+    "name": "Flash Tail",
+    "summary": ""
+  },
+  {
+    "id": 32004325,
+    "description": "Grants all allies damage received reduction field effect (MAX 10 turns).",
+    "name": "Solid Ice Wall",
+    "summary": ""
+  },
+  {
+    "id": 32004326,
+    "description": "No additional effects.",
+    "name": "Turtle Head",
+    "summary": ""
+  },
+  {
+    "id": 32004327,
+    "description": "Grants all allies damage immunity for 1 attack.",
+    "name": "Shell Field",
+    "summary": ""
+  },
+  {
+    "id": 32004328,
+    "description": "No additional effects.",
+    "name": "Raging Turtle",
+    "summary": ""
+  },
+  {
+    "id": 32004329,
+    "description": "Reduces own damage received by 40% for 2 turns.",
+    "name": "Spin Up",
+    "summary": ""
+  },
+  {
+    "id": 32004330,
+    "description": "No additional effects.",
+    "name": "Dangerous Bite",
+    "summary": ""
+  },
+  {
+    "id": 32004331,
+    "description": "After attacking, reduces skill target's damage dealt by 15% for 3 turns.",
+    "name": "Sonic Voice",
+    "summary": ""
+  },
+  {
+    "id": 32004332,
+    "description": "After attacking, grants skill target Poison (2%/5 turns) 5 times.",
+    "name": "Poison Bite",
+    "summary": ""
+  },
+  {
+    "id": 32004333,
+    "description": "After attacking, reduces all enemies' SPD by 5% for 5 turns.",
+    "name": "Thunder Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32004334,
+    "description": "Boosts skill target's damage dealt by 15% for 3 turns.",
+    "name": "Spin Roar",
+    "summary": ""
+  },
+  {
+    "id": 32004335,
+    "description": "No additional effects.",
+    "name": "Gust",
+    "summary": ""
+  },
+  {
+    "id": 32004336,
+    "description": "After attacking, boosts own damage dealt by 20% for 2 turns.",
+    "name": "Bite",
+    "summary": ""
+  },
+  {
+    "id": 32004337,
+    "description": "After attacking, reduces all enemies' stun damage dealt by 20% for 2 turns.",
+    "name": "Dark Storm",
+    "summary": ""
+  },
+  {
+    "id": 32004338,
+    "description": "After attacking, reduces target's stun damage dealt by 15% and HP recovery by 30% for 2 turns.",
+    "name": "Blood Fang",
+    "summary": ""
+  },
+  {
+    "id": 32004339,
+    "description": "After attacking, nullifies positive effects for target for 1 turn.",
+    "name": "Disheveled",
+    "summary": ""
+  },
+  {
+    "id": 32004340,
+    "description": "No additional effects.",
+    "name": "Pounce",
+    "summary": ""
+  },
+  {
+    "id": 32004341,
+    "description": "No additional effects.",
+    "name": "Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 32004342,
+    "description": "After attacking, reduces all enemies' damage dealt by 20% for 3 turns.",
+    "name": "Black Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 32004343,
+    "description": "Boosts target ally's damage dealt by 25% for 3 turns.",
+    "name": "Relax",
+    "summary": ""
+  },
+  {
+    "id": 32004344,
+    "description": "After attacking, reduces target's SPD by 15% and Air resistance by 40% permanently.",
+    "name": "Venom Strike",
+    "summary": ""
+  },
+  {
+    "id": 32004345,
+    "description": "No additional effects.",
+    "name": "Try Slash",
+    "summary": ""
+  },
+  {
+    "id": 32004346,
+    "description": "After attacking, reduces all enemies' damage dealt by 20% permanently.",
+    "name": "Poison Scream",
+    "summary": ""
+  },
+  {
+    "id": 32004347,
+    "description": "After attacking, reduces target's damage dealt by 10% and increases damage received by 10% permanently.",
+    "name": "Poison Breath",
+    "summary": ""
+  },
+  {
+    "id": 32004348,
+    "description": "After attacking, increases all enemies' damage received by 10% permanently.",
+    "name": "Toxin Storm",
+    "summary": ""
+  },
+  {
+    "id": 32004349,
+    "description": "After attacking, delays target's turn by 3 turns.",
+    "name": "Tackle",
+    "summary": ""
+  },
+  {
+    "id": 32004350,
+    "description": "No additional effects.",
+    "name": "Rush",
+    "summary": ""
+  },
+  {
+    "id": 32004351,
+    "description": "After attacking, reduces target's damage dealt by 15% permanently.",
+    "name": "Meteor Slash",
+    "summary": ""
+  },
+  {
+    "id": 32004352,
+    "description": "After attacking, inflicts Paralysis on target (80% chance, 3 turns) and delays their turn by 3 turns.",
+    "name": "Fall Impact",
+    "summary": ""
+  },
+  {
+    "id": 32004353,
+    "description": "No additional effects.",
+    "name": "Fall Slash",
+    "summary": ""
+  },
+  {
+    "id": 32004354,
+    "description": "No additional effects.",
+    "name": "Thunder Slash",
+    "summary": ""
+  },
+  {
+    "id": 32004355,
+    "description": "Reduces target ally's damage received by 15% for 2 attacks.",
+    "name": "Cheer Up",
+    "summary": ""
+  },
+  {
+    "id": 32004356,
+    "description": "After attacking, reduces target enemy's SPD by 15% (permanent) and Air resistance by 40% (permanent).",
+    "name": "Venom Strike",
+    "summary": ""
+  },
+  {
+    "id": 32004357,
+    "description": "No effects.",
+    "name": "Try Slash",
+    "summary": ""
+  },
+  {
+    "id": 32004358,
+    "description": "After attacking, reduces all enemies' damage dealt by 20% (permanent).",
+    "name": "Poison Scream",
+    "summary": ""
+  },
+  {
+    "id": 32004359,
+    "description": "After attacking, reduces skill target's damage dealt by 10% (permanent) and increases damage received by 10% (permanent).",
+    "name": "Poison Breath",
+    "summary": ""
+  },
+  {
+    "id": 32004360,
+    "description": "After attacking, increases all enemies' damage received by 10% (permanent).",
+    "name": "Toxin Storm",
+    "summary": ""
+  },
+  {
+    "id": 32004361,
+    "description": "Boosts damage dealt by 40% against targets with negative effects.",
+    "name": "Ice Totem",
+    "summary": ""
+  },
+  {
+    "id": 32004362,
+    "description": "Boosts damage dealt by 20% against targets with negative effects.",
+    "name": "Ice Shot",
+    "summary": ""
+  },
+  {
+    "id": 32004363,
+    "description": "Boosts damage dealt by 20% against targets with negative effects.",
+    "name": "Ice Rain",
+    "summary": ""
+  },
+  {
+    "id": 32004364,
+    "description": "Grants Regeneration (10%/3 turns) to all allies and restores HP by 10%.",
+    "name": "Restoration",
+    "summary": ""
+  },
+  {
+    "id": 32004365,
+    "description": "Increases target enemy's negative effect potency by 45% for 3 turns.",
+    "name": "Mental Break",
+    "summary": ""
+  },
+  {
+    "id": 32004366,
+    "description": "No effects.",
+    "name": "Disheveled Kick",
+    "summary": ""
+  },
+  {
+    "id": 32004367,
+    "description": "No effects.",
+    "name": "Flying Kick",
+    "summary": ""
+  },
+  {
+    "id": 32004368,
+    "description": "After attacking, inflicts Provoke (5 turns) on skill target.",
+    "name": "Biting Kick",
+    "summary": ""
+  },
+  {
+    "id": 32004369,
+    "description": "No effects.",
+    "name": "Biting Kick",
+    "summary": ""
+  },
+  {
+    "id": 32004370,
+    "description": "After attacking, inflicts Paralysis (30% chance/3 turns) on skill target.",
+    "name": "Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 32004371,
+    "description": "Reduces single ally's damage received by 25% for 2 attacks and grants Regeneration (20%/2 turns).",
+    "name": "Relax",
+    "summary": ""
   }
 ]

@@ -168,5 +168,15 @@
     "id": 34,
     "name": "Item Penetration",
     "value_display_style": "{value}"
+  },
+  {
+    "id": 35,
+    "name": "Base P.ATK Boost",
+    "value_display_style": "{value}"
+  },
+  {
+    "id": 36,
+    "name": "Base M.ATK Boost",
+    "value_display_style": "{value}"
   }
 ]

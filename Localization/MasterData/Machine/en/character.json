@@ -989,5 +989,53 @@
     "profile_voice_text": "With this cute outfit and horn, let's celebrate the Starbirth Festival. I'll bring smiles to everyone!",
     "sort_name": "Izana",
     "start_at": "2025-12-24T03:00:00Z"
+  },
+  {
+    "id": 44902,
+    "acquisition_text": "Reviving alchemy is my wish as well.\n—Now then, let us go together.",
+    "another_name": "Suit of Vertex",
+    "description": "Resna's alchemy mentor.\nDuring his travels, he stopped by the village where Resna lived and taught her the basics of alchemy.\nHe has a cheerful and easygoing personality, but shows a strict side when it comes to alchemy.\nHis personal life is rather careless, and Resna often ends up taking care of him.",
+    "fullname": "Walther Mann",
+    "leader_skill": {
+      "description": "Boosts all allies' critical damage by 5% for each Lantarna character in the party.",
+      "name": "The Wandering Star Is with Us"
+    },
+    "name": "Walther",
+    "overlay_name": "Walther Mann",
+    "profile_voice_text": "I'm Saskia. Like Resna, I'm a dreaming alchemist. Set your sights on World's End.",
+    "sort_name": "Walther",
+    "start_at": "2049-12-31T15:00:00Z"
+  },
+  {
+    "id": 60101,
+    "acquisition_text": "What I want to do in this town, what I should do.\nLet's move forward together, one step at a time!",
+    "another_name": "Mistletoe of Hope",
+    "description": "A friendly and cheerful adventurer.\nShe hails from the town of Hallfein, which was struck by a mysterious disaster and became a restricted area. She returned to her hometown after a reconstruction plan was launched, hoping to reopen her grandfather's shop, Mistletoe Miscellaneous, and investigate the cause of the disaster.\nShe has the drive to charge toward her goals and an unyielding spirit, though her bold recklessness often worries her adoptive older sister Camilla.",
+    "fullname": "Rias Eidreise",
+    "leader_skill": {
+      "description": "Boosts all allies' P.ATK and M.ATK by 10% for each Promise & Teamwork character in the party.",
+      "name": "For My Beloved Town Once More"
+    },
+    "name": "Rias",
+    "overlay_name": "Rias Eidreise",
+    "profile_voice_text": "Rias Eidreise of the Mistletoe Miscellaneous!\nTurns out I actually have a talent for alchemy!",
+    "sort_name": "Rias",
+    "start_at": "2026-01-16T03:00:00Z"
+  },
+  {
+    "id": 60201,
+    "acquisition_text": "As a descendant of the guardians,\nI will continue to protect what has been passed down!",
+    "another_name": "Inheritor of the White Will",
+    "description": "A calm and composed young man.\nHe hails from the town of Hallfein, which was struck by a mysterious disaster and became a restricted area. He returned to his hometown after a reconstruction plan was launched in order to investigate the meaning of his father's last words.\nHe handles the management of Mistletoe Miscellaneous but is better suited to physical labor than desk work. He's skilled at all kinds of housework and often takes care of Rias, with whom he lives.",
+    "fullname": "Slade Clauslyter",
+    "leader_skill": {
+      "description": "Boosts all allies' base P.ATK and base M.ATK by 100 for each Hallfein Restoration Project character in the party.",
+      "name": "Carrying On My Father's Will"
+    },
+    "name": "Slade",
+    "overlay_name": "Slade Clauslyter",
+    "profile_voice_text": "Slade Clauslyter. A descendant of the guardians.\nNice to meet you.",
+    "sort_name": "Slade",
+    "start_at": "2026-01-21T03:00:00Z"
   }
 ]

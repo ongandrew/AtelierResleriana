@@ -3925,5 +3925,38 @@
         }
       }
     }
+  },
+  {
+    "id": 1137347677,
+    "properties": {
+      "999008199": {
+        "text": "ITEM MIX",
+        "localizations": {
+          "en": "ITEM MIX"
+        }
+      }
+    }
+  },
+  {
+    "id": 456576748,
+    "properties": {
+      "999008199": {
+        "text": "アイテムミックスに使用できないアイテムです",
+        "localizations": {
+          "en": "This item cannot be used for Item Mix"
+        }
+      }
+    }
+  },
+  {
+    "id": 1641031083,
+    "properties": {
+      "999008199": {
+        "text": "・各キャラのレアリティによってボーナス量が上昇します",
+        "localizations": {
+          "en": "・Bonuses increase based on each character's rarity"
+        }
+      }
+    }
   }
 ]

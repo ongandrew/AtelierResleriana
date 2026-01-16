@@ -12838,5 +12838,485 @@
     "id": 120000854,
     "description": "When self is Resna [Fortune's Bloom], boosts skill power.",
     "popup_text": ""
+  },
+  {
+    "id": 6001194,
+    "description": "Grants Accuracy Down to target enemy for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001195,
+    "description": "Grants SPD Down to target enemy for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001196,
+    "description": "Grants SPD Down to target enemy for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001197,
+    "description": "Converts boost+ panels on target enemy to empty panels.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001198,
+    "description": "Converts boost+ panels on target enemy to weaken panels.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001199,
+    "description": "Delays target enemy's turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001200,
+    "description": "Delays target enemy's turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001201,
+    "description": "Grants Damage Received Up to target enemy for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001202,
+    "description": "Grants Damage Received Up to target enemy for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001203,
+    "description": "Grants Damage Dealt Down to target enemy for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001204,
+    "description": "Grants Damage Dealt Down to target enemy for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001207,
+    "description": "Dummy buff for triggering Rias's ability.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001208,
+    "description": "While equipped to Rias [Mistletoe of Hope], after any party member uses a battle item, grants Skill Power Up to self for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001209,
+    "description": "While equipped to Slade [Inheritor of the White Will], boosts stun damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001210,
+    "description": "While equipped to Slade [Inheritor of the White Will], after stunning an enemy, grants Positive Effect Potency Up to all allies for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001211,
+    "description": "While equipped to a character with Fire affinity, before attacking, grants Magical Damage Received from Area Attacks Up to target for 1 attack.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001212,
+    "description": "While equipped to an Attacker, after attacking, grants Weakness Attack Damage Up to self for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001213,
+    "description": "While equipped to a character with Slash affinity, when attack target is stunned, grants Critical Damage Up to all allies with physical affinity for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001214,
+    "description": "While equipped to a character with Slash affinity, when attack target is stunned, grants Critical Damage Up to all Hallfein Restoration Team allies without physical affinity for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001215,
+    "description": "While equipped to a Breaker, after attacking a weakness, grants Stun Damage Up to self for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001216,
+    "description": "Boosts stun damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001217,
+    "description": "Reduces all allies' damage received from area attacks (fixed potency).",
+    "popup_text": ""
+  },
+  {
+    "id": 6001218,
+    "description": "Restores HP of 1 ally with the lowest HP percentage.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001550,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001551,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001552,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001553,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001554,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001555,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001556,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001557,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001559,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001560,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001561,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001562,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001563,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001564,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001565,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001568,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001569,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001570,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001572,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001573,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001574,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001577,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001578,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001579,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72500185,
+    "description": "[Self/Based on number of Promise & Teamwork allies/P.ATK Up]",
+    "popup_text": ""
+  },
+  {
+    "id": 72500186,
+    "description": "[Self/Based on number of Promise & Teamwork allies/M.ATK Up]",
+    "popup_text": ""
+  },
+  {
+    "id": 72500187,
+    "description": "[Self/Based on number of Hallfein Reconstruction Team allies/Base P.ATK Up]",
+    "popup_text": ""
+  },
+  {
+    "id": 72500188,
+    "description": "[Self/Based on number of Hallfein Reconstruction Team allies/Base M.ATK Up]",
+    "popup_text": ""
+  },
+  {
+    "id": 76160011,
+    "description": "Reduces damage dealt by random enemy target. (5 times)",
+    "popup_text": ""
+  },
+  {
+    "id": 86170011,
+    "description": "Increases critical rate received when using items. (MAX 100%)",
+    "popup_text": ""
+  },
+  {
+    "id": 91001998,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001999,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002003,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002033,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002034,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002035,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002037,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002038,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002039,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002040,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002041,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002043,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002044,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002045,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002046,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002047,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002048,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002049,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002050,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002051,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002052,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002053,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002054,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002055,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002056,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002103,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000336,
+    "description": "While equipped to a Supporter, boosts HP recovery given.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000337,
+    "description": "When self has the tag \"Family & Friends,\" after using a skill, grants critical damage up to all allies for 1 turn. (Max 3 stacks)",
+    "popup_text": ""
+  },
+  {
+    "id": 95000338,
+    "description": "While equipped to an Attacker with Air affinity, boosts battle item damage when used on own turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000339,
+    "description": "When self has the tag \"Spirited,\" boosts critical damage for battle items used on own turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000340,
+    "description": "While equipped to a Breaker with Bolt affinity, when anyone in the party uses a battle item, increases all enemies' critical damage received for 1 attack. (Max 2 stacks)",
+    "popup_text": ""
+  },
+  {
+    "id": 95000341,
+    "description": "When self has the tag \"Chef,\" boosts stun damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000857,
+    "description": "When self is Rias [Mistletoe of Hope], boosts skill power.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000858,
+    "description": "When Rias [Mistletoe of Hope] is in the party, reduces damage received.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000859,
+    "description": "When self is Slade [Inheritor of White Will], boosts stun damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000860,
+    "description": "When Slade [Inheritor of White Will] is in the party, reduces damage received.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000861,
+    "description": "When self has the tag \"Hallfein Reconstruction Team,\" boosts skill power.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000868,
+    "description": "Boosts skill power except when using battle items.",
+    "popup_text": ""
+  },
+  {
+    "id": 814000045,
+    "description": "Full count: Reduces damage received by all enemies.",
+    "popup_text": ""
+  },
+  {
+    "id": 814000046,
+    "description": "Full count: Reduces Fire resistance of all enemies.",
+    "popup_text": ""
+  },
+  {
+    "id": 814000047,
+    "description": "Full count: Reduces Ice resistance of all enemies.",
+    "popup_text": ""
+  },
+  {
+    "id": 814000048,
+    "description": "Full count: Reduces Air resistance of all enemies.",
+    "popup_text": ""
+  },
+  {
+    "id": 814000049,
+    "description": "Full count: Reduces Bolt resistance of all enemies.",
+    "popup_text": ""
   }
 ]

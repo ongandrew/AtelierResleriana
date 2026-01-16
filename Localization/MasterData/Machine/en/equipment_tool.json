@@ -1343,5 +1343,45 @@
     "id": 1219,
     "description": "While equipped to Resna [Jubilant Fortune], after attacking a weakness, boosts own positive effect potency received by {0}% for 1 turn.",
     "name": "New Year's Battledore"
+  },
+  {
+    "id": 1220,
+    "description": "While equipped to Rias [Mistletoe of Hope], after any party member uses a battle item, boosts own skill power by {0}% for 1 turn.<br>*Effect only activates once even if multiple items are used simultaneously.",
+    "name": "Graciaschuturf"
+  },
+  {
+    "id": 1221,
+    "description": "While equipped to Slade [Inheritor of the White Will], boosts stun damage by {0}%.<br>Additionally, when attack target is stunned, boosts all allies' potency of buff effects received by {1}% for 1 turn.",
+    "name": "Perchel Zwei"
+  },
+  {
+    "id": 1222,
+    "description": "While equipped to a character with Fire affinity, before attacking, boosts target's magic attack damage received from area attacks by {0}% for 1 attack.<br>While equipped to an Attacker, after attacking, boosts own damage dealt when attacking a weakness by {1}% for 1 turn.",
+    "name": "Witchcraft"
+  },
+  {
+    "id": 1223,
+    "description": "While equipped to a character with Slash affinity, when attack target is stunned, boosts all allies with physical affinity or the \"Hallfein Restoration Team\" tag's critical damage by {0}% for 1 turn.<br>While equipped to a Breaker, after attacking a weakness, boosts own stun damage by {1}% for 1 turn.",
+    "name": "Seneschal's Sash"
+  },
+  {
+    "id": 1224,
+    "description": "Boosts stun damage by {0}%.",
+    "name": "Unbridled Garb"
+  },
+  {
+    "id": 1225,
+    "description": "Boosts stun damage by {0}%.",
+    "name": "Unbridled Garb"
+  },
+  {
+    "id": 1226,
+    "description": "Reduces all allies' damage received from area attacks by {0}% (fixed).",
+    "name": "Obsidian Bracelet"
+  },
+  {
+    "id": 1227,
+    "description": "Reduces all allies' damage received from area attacks by {0}% (fixed).",
+    "name": "Obsidian Bracelet"
   }
 ]

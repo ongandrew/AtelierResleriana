@@ -8486,7 +8486,7 @@
   },
   {
     "id": 1990496,
-    "description": "When attacking a weakness, if Ten Thousand Blessings! has not been granted to self, grants Ten Thousand Blessings! (Lv. 1).<br>If already granted, increases Ten Thousand Blessings! Lv. +1 (max Lv. 5).<br>※If Ten Thousand Blessings! is Lv. 5 before skill activation, the above effect will not trigger.<br>When using a boost-type panel or burst panel, if Ten Thousand Blessings! has not been granted to self, grants Ten Thousand Blessings! (Lv. 2).<br>If already granted, increases Ten Thousand Blessings! Lv. +2 (max Lv. 5).<br>Grants the following bonuses based on Ten Thousand Blessings! Lv.:<br>Per Lv.: Weakness Attack Damage +{0}%.<br>Lv. 3 or higher: Skill Damage +{1}%.<br>Lv. 5: Skill Damage +{2}%.",
+    "description": "When attacking a weakness, if Ten Thousand Fortunes has not been granted to self, grants Ten Thousand Fortunes (Lv. 1).<br>If already granted, increases the level of Ten Thousand Fortunes by 1 (MAX Lv. 5).<br>※If Ten Thousand Fortunes is Lv. 5 before using a skill, the above effect will not trigger.<br>When using a boost-type panel or burst panel, if Ten Thousand Fortunes has not been granted to self, grants Ten Thousand Fortunes (Lv. 2).<br>If already granted, increases the level of Ten Thousand Fortunes by 2 (MAX Lv. 5).<br>Grants the following bonuses based on Ten Thousand Fortunes Lv.:<br>Per Lv.: Weakness Attack Damage +{0}%.<br>Lv. 3 or higher: Skill Damage +{1}%.<br>Lv. 5: Skill Damage +{2}%.",
     "name": "Come, Fortune!"
   },
   {
@@ -8651,18 +8651,18 @@
   },
   {
     "id": 4991215,
-    "description": "For Aladiss Research Team characters, boosts skill damage by {0}%, stun damage by {1}%, positive effect potency given by {2}%, and negative effect potency given by {3}%.",
-    "name": "Imagination \"A Moment of Respite\""
+    "description": "While equipped to a character with Aladiss Research Team tag, boosts skill damage by {0}%, stun damage by {1}%, positive effect potency given by {2}%, and negative effect potency given by {3}%.",
+    "name": "Imagination \"A Moment of Peace\""
   },
   {
     "id": 4991216,
-    "description": "For Aladiss Research Team characters, boosts skill damage by {0}%, stun damage by {1}%, positive effect potency given by {2}%, and negative effect potency given by {3}%.",
-    "name": "Imagination \"A Moment of Respite\""
+    "description": "While equipped to a character with Aladiss Research Team tag, boosts skill damage by {0}%, stun damage by {1}%, positive effect potency given by {2}%, and negative effect potency given by {3}%.",
+    "name": "Imagination \"A Moment of Peace\""
   },
   {
     "id": 4991217,
-    "description": "For Aladiss Research Team characters, boosts skill damage by {0}%, stun damage by {1}%, positive effect potency given by {2}%, and negative effect potency given by {3}%.",
-    "name": "Imagination \"A Moment of Respite\""
+    "description": "While equipped to a character with Aladiss Research Team tag, boosts skill damage by {0}%, stun damage by {1}%, positive effect potency given by {2}%, and negative effect potency given by {3}%.",
+    "name": "Imagination \"A Moment of Peace\""
   },
   {
     "id": 26042003,
@@ -8723,5 +8723,205 @@
     "id": 600000763,
     "description": "When Resna [Auspicious Fireworks: Flower of Fortune] or Izana [Starry Heavens Tone] is in the party, reduces damage received by 25% (max 25%).",
     "name": "Damage Received Reduction when Resna [Auspicious Fireworks: Flower of Fortune] or Izana [Starry Heavens Tone] is in Party"
+  },
+  {
+    "id": 301303,
+    "description": "While equipped to Rias [Mistletoe of Hope], after any party member uses a battle item, grants self Skill Power +{0}% for 1 turn.<br>※Effect only triggers once even if multiple items are used simultaneously.",
+    "name": "Graciaschtoof"
+  },
+  {
+    "id": 301304,
+    "description": "While equipped to Slade [Successor to the White Will], boosts stun damage by {0}%.<br>Additionally, when the attack target is stunned, grants all allies Positive Effect Potency Received +{1}% for 1 turn.",
+    "name": "Perschelzwei"
+  },
+  {
+    "id": 301305,
+    "description": "While equipped to a character with Fire affinity, before attacking, grants target Magical Damage Received from Area Attacks +{0}% for 1 attack.<br>While equipped to an Attacker, after attacking, grants self Weakness Attack Damage +{1}% for 1 turn.",
+    "name": "Witchcraft"
+  },
+  {
+    "id": 301306,
+    "description": "While equipped to a character with Slash affinity, when the attack target is stunned, grants all allies with physical affinity or Hallfein reconstruction project Critical Damage +{0}% for 1 turn.<br>While equipped to a Breaker, after attacking a weakness, grants self Stun Damage +{1}% for 1 turn.",
+    "name": "Steward's Vestments"
+  },
+  {
+    "id": 301307,
+    "description": "Boosts stun damage by {0}%.",
+    "name": "Unbridled Garb"
+  },
+  {
+    "id": 301308,
+    "description": "Boosts stun damage by {0}%.",
+    "name": "Unbridled Garb"
+  },
+  {
+    "id": 301309,
+    "description": "Reduces damage received from area attacks for all allies by {0}% (Fixed).",
+    "name": "Obsidian Bracelet"
+  },
+  {
+    "id": 301310,
+    "description": "Reduces damage received from area attacks for all allies by {0}% (Fixed).",
+    "name": "Obsidian Bracelet"
+  },
+  {
+    "id": 1980223,
+    "description": "For each ally with Promise & Teamwork, all allies gain P.ATK and M.ATK +10%.",
+    "name": "Our Beloved Town Once More"
+  },
+  {
+    "id": 1980224,
+    "description": "For each ally with Hallfein reconstruction project, all allies gain Base P.ATK and Base M.ATK +100.",
+    "name": "Carrying On My Father's Legacy"
+  },
+  {
+    "id": 1990497,
+    "description": "When the attack target is stunned or after attacking a stunned enemy, grants all allies Critical Damage +40% (Max 80%) and grants all allies with Hallfein reconstruction project P.ATK +25% (Max 50%) and M.ATK +25% (Max 50%).",
+    "name": "Go All Out for Me"
+  },
+  {
+    "id": 1990498,
+    "description": "Depending on the number of characters with the Hallfein reconstruction project tag, boosts own damage dealt by 20-100% (Higher boost for more characters, range: 1-5 characters).<br>After using Pumpkin Bomb or Meteor Storm, depending on the number of enemies, grants self Skill Power +5-25% (Higher boost for more enemies, range: 1-5 enemies) (Max 50%).",
+    "name": "This Is Burning Me Up!"
+  },
+  {
+    "id": 1990499,
+    "description": "After using a skill, restores the item gauge by {0}%.<br>After a critical attack, additionally restores the item gauge by {1}%.<br>After any party member uses a battle item, grants self Critical Rate +{2}% for 1 turn.<br>※Effect only triggers once even if multiple items are used simultaneously.<br><br>When the item gauge is at 100% on own turn, can activate {{hyperlink_id 151}}.<br>After using an Item Mix Skill, grants self Critical Rate +100% for 3 turns and grants Critical Damage +100% (Max 300%).",
+    "name": "Alchemichance"
+  },
+  {
+    "id": 1990500,
+    "description": "Depending on the number of characters with the Hallfein reconstruction project tag, boosts Base M.ATK by 100-500 (Higher boost for more characters, range: 1-5 characters).",
+    "name": "If We're All Together!"
+  },
+  {
+    "id": 1990501,
+    "description": "When any party member uses a battle item, grants self Stun Damage +{0}% (Max 80%) and grants all allies Critical Damage +{1}% (Max 80%).<br>※Effect only triggers once even if multiple items are used simultaneously.",
+    "name": "Fight Like a Thunderclap"
+  },
+  {
+    "id": 1990502,
+    "description": "When the attack target is stunned, restores the item gauge by {0}% and grants target Magical Damage Received +{1}% (Max 80%).",
+    "name": "Let's Go All Out!"
+  },
+  {
+    "id": 4991218,
+    "description": "While equipped to a Supporter, boosts HP recovery given by {0}%.<br>While equipped to a character with Family & Friends, after using a skill, grants all allies Critical Damage +{1}% for 1 turn (Max 3 stacks).",
+    "name": "Imagination \"Adventurer's Intuition\""
+  },
+  {
+    "id": 4991219,
+    "description": "While equipped to a Supporter, boosts HP recovery given by {0}%.<br>While equipped to a character with Family & Friends, after using a skill, grants all allies Critical Damage +{1}% for 1 turn (Max 3 stacks).",
+    "name": "Imagination \"Adventurer's Intuition\""
+  },
+  {
+    "id": 4991220,
+    "description": "While equipped to a Supporter, boosts HP recovery given by {0}%.<br>While equipped to a character with Family & Friends, after using a skill, grants all allies Critical Damage +{1}% for 1 turn (Max 3 stacks).",
+    "name": "Imagination \"Adventurer's Intuition\""
+  },
+  {
+    "id": 4991221,
+    "description": "While equipped to a Supporter, boosts HP recovery given by {0}%.<br>While equipped to a character with Family & Friends, after using a skill, grants all allies Critical Damage +{1}% for 1 turn (Max 3 stacks).",
+    "name": "Imagination \"Adventurer's Intuition\""
+  },
+  {
+    "id": 4991222,
+    "description": "While equipped to a Supporter, boosts HP recovery given by {0}%.<br>While equipped to a character with the Family & Friends tag, after using a skill, boosts all allies' critical damage by {1}% for 1 turn (max 3 stacks).",
+    "name": "Imagination \"Adventurer's Intuition\""
+  },
+  {
+    "id": 4991223,
+    "description": "While equipped to an Attacker with Air affinity, boosts battle item damage on own turn by {0}%.<br>While equipped to a character with the Spirited tag, boosts battle item critical damage on own turn by {1}%.",
+    "name": "Imagination \"Together to the Future!\""
+  },
+  {
+    "id": 4991224,
+    "description": "While equipped to an Attacker with Air affinity, boosts battle item damage on own turn by {0}%.<br>While equipped to a character with the Spirited tag, boosts battle item critical damage on own turn by {1}%.",
+    "name": "Imagination \"Together to the Future!\""
+  },
+  {
+    "id": 4991225,
+    "description": "While equipped to an Attacker with Air affinity, boosts battle item damage on own turn by {0}%.<br>While equipped to a character with the Spirited tag, boosts battle item critical damage on own turn by {1}%.",
+    "name": "Imagination \"Together to the Future!\""
+  },
+  {
+    "id": 4991226,
+    "description": "While equipped to an Attacker with Air affinity, boosts battle item damage on own turn by {0}%.<br>While equipped to a character with the Spirited tag, boosts battle item critical damage on own turn by {1}%.",
+    "name": "Imagination \"Together to the Future!\""
+  },
+  {
+    "id": 4991227,
+    "description": "While equipped to an Attacker with Air affinity, boosts battle item damage on own turn by {0}%.<br>While equipped to a character with the Spirited tag, boosts battle item critical damage on own turn by {1}%.",
+    "name": "Imagination \"Together to the Future!\""
+  },
+  {
+    "id": 4991228,
+    "description": "While equipped to a Breaker with Bolt affinity, when any party member uses a battle item, grants all enemies Critical damage received +{0}% for 1 attack (max 2 stacks).<br>*Only activates once even if multiple items are used simultaneously.<br>While equipped to a character with the Chef tag, boosts stun damage by {1}%.",
+    "name": "Imagination \"Together We Can\""
+  },
+  {
+    "id": 4991229,
+    "description": "While equipped to a Breaker with Bolt affinity, when any party member uses a battle item, grants all enemies Critical damage received +{0}% for 1 attack (max 2 stacks).<br>*Only activates once even if multiple items are used simultaneously.<br>While equipped to a character with the Chef tag, boosts stun damage by {1}%.",
+    "name": "Imagination \"Together We Can\""
+  },
+  {
+    "id": 4991230,
+    "description": "While equipped to a Breaker with Bolt affinity, when any party member uses a battle item, grants all enemies Critical damage received +{0}% for 1 attack (max 2 stacks).<br>*Only activates once even if multiple items are used simultaneously.<br>While equipped to a character with the Chef tag, boosts stun damage by {1}%.",
+    "name": "Imagination \"Together We Can\""
+  },
+  {
+    "id": 4991231,
+    "description": "While equipped to a Breaker with Bolt affinity, when any party member uses a battle item, grants all enemies Critical damage received +{0}% for 1 attack (max 2 stacks).<br>*Only activates once even if multiple items are used simultaneously.<br>While equipped to a character with the Chef tag, boosts stun damage by {1}%.",
+    "name": "Imagination \"Together We Can\""
+  },
+  {
+    "id": 4991232,
+    "description": "While equipped to a Breaker with Bolt affinity, when any party member uses a battle item, grants all enemies Critical damage received +{0}% for 1 attack (max 2 stacks).<br>*Only activates once even if multiple items are used simultaneously.<br>While equipped to a character with the Chef tag, boosts stun damage by {1}%.",
+    "name": "Imagination \"Together We Can\""
+  },
+  {
+    "id": 26160011,
+    "description": "Critical damage received from battle items UP (50%).",
+    "name": ""
+  },
+  {
+    "id": 26160012,
+    "description": "Nullifies resistance down for all elements except Fire, Air, Bolt, and Slash.",
+    "name": ""
+  },
+  {
+    "id": 26160014,
+    "description": "Nullifies resistance down for all elements except Fire, Air, and Slash.",
+    "name": ""
+  },
+  {
+    "id": 26170013,
+    "description": "When using an item, grants self Critical rate received UP (30%/max 100%).",
+    "name": ""
+  },
+  {
+    "id": 600000764,
+    "description": "Boosts Rias [Mistletoe of Hope]'s skill power by 100%.",
+    "name": "Rias [Mistletoe of Hope] Skill Power UP"
+  },
+  {
+    "id": 600000765,
+    "description": "When fielding Rias [Mistletoe of Hope] or Resna [Happy New Year's Dream], reduces damage received by 25% (max 25%).",
+    "name": "When fielding Rias [Mistletoe of Hope] or Resna [Happy New Year's Dream], damage received reduced"
+  },
+  {
+    "id": 600000766,
+    "description": "Boosts Slade [Inheritor of White Will]'s stun damage by 200%.",
+    "name": "Slade [Inheritor of White Will] Stun Damage UP"
+  },
+  {
+    "id": 600000767,
+    "description": "When fielding Slade [Inheritor of White Will] or Rias [Mistletoe of Hope], reduces damage received by 25% (max 25%).",
+    "name": "When fielding Slade [Inheritor of White Will] or Rias [Mistletoe of Hope], damage received reduced"
+  },
+  {
+    "id": 600000768,
+    "description": "While equipped to a character with the Hallfein Reconstruction Team tag, boosts skill power by 100%.",
+    "name": "While equipped to Hallfein Reconstruction Team, skill power UP"
   }
 ]

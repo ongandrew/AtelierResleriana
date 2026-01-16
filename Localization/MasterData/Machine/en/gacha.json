@@ -4746,5 +4746,193 @@
     "small_banner_label": "Paid Lodestar Gems Only!",
     "start_at": "2025-12-31T15:00:00Z",
     "step_up_loop_description": ""
+  },
+  {
+    "id": 2333,
+    "description": "Rias makes her debut & is on rate-up!\nFeatured until 2026/02/02 11:59 (UTC+8).",
+    "end_at": "2026-02-02T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Red & White Resleriana Crossover Celebration - Alchemist of Hallfein Rias LEGEND FES",
+    "name": "Red & White Resleriana Crossover Celebration - Alchemist of Hallfein Rias LEGEND FES",
+    "start_at": "2026-01-16T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2335,
+    "description": "Make 50 Wishes with Paid Lodestar Gems to unlock an additional Wish!\nFeatured until 2026/02/02 11:59 (UTC+8).",
+    "end_at": "2026-02-02T03:00:00Z",
+    "name": "Red & White Resleriana Crossover Celebration - Alchemist of Hallfein Rias LEGEND FES [Paid Lodestar Gems Only]",
+    "small_banner_label": "Paid Only!",
+    "start_at": "2026-01-16T03:00:00Z",
+    "step_up_loop_description": "{} cycles remaining"
+  },
+  {
+    "id": 2336,
+    "description": "Slade makes his debut & is on rate-up!\nFeatured until 2026/02/02 11:59 (UTC+8).",
+    "end_at": "2026-02-02T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Red & White Resleriana Crossover Celebration - White Guardian Slade LEGEND FES",
+    "name": "Red & White Resleriana Crossover Celebration - White Guardian Slade LEGEND FES",
+    "start_at": "2026-01-21T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2337,
+    "description": "Once per day with paid Stellacite! Featured rate doubled!\nUntil 2026/02/02 10:59 (UTC+8)",
+    "end_at": "2026-02-02T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 23371,
+            "description": "Featured rate 2x!\n1 time left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Red & White Resleriana Festival - Slade, White Guardian LEGEND FES [Once Per Day - Paid Only]",
+    "name": "Red & White Resleriana Festival - Slade, White Guardian LEGEND FES [Once Per Day - Paid Only]",
+    "small_banner_label": "Once per day!",
+    "start_at": "2026-01-21T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2338,
+    "description": "Wish 50 times with paid Stellacite to unlock an additional wish!\nUntil 2026/02/02 10:59 (UTC+8)",
+    "end_at": "2026-02-02T03:00:00Z",
+    "name": "Red & White Resleriana Festival - Slade, White Guardian LEGEND FES [Paid Only]",
+    "small_banner_label": "Paid only!",
+    "start_at": "2026-01-21T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 3044,
+    "description": "Featured character appears at ★5!\nIf you already own this character\nand obtain them for the first time in this wish,\nyou'll get an additional 1030 Pieces on your first pull!\n*Regardless of ownership status at time of first pull,\nsubsequent pulls will grant\n100 Pieces per character obtained.\nUntil 2026/02/02 10:59 (UTC+8)",
+    "end_at": "2026-02-02T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Raze [Blade of Light] ★6 Unlock Celebration Wish",
+    "name": "Raze [Blade of Light] ★6 Unlock Celebration Wish",
+    "small_banner_label": "Featured character at ★5!",
+    "start_at": "2026-01-16T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 3045,
+    "description": "Pick-up character debuts at ★5!\nIf you already have them and obtain them for the first time in this Wish,\nyou'll receive 1030 bonus Pieces on your first obtain!\n*Regardless of ownership status on first obtain,\nfrom the 2nd obtain onwards\nyou will receive 100 Pieces.\nUntil 2026/02/02 11:59 (UTC+8)",
+    "end_at": "2026-02-02T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Wilbell [Magical Trick Star] ★6 Release Commemoration Wish",
+    "name": "Wilbell [Magical Trick Star] ★6 Release Commemoration Wish",
+    "small_banner_label": "PU character debuts at ★5!",
+    "start_at": "2026-01-16T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 233501,
+    "description": "Max 5 times! PU rate doubled!\nObtain 16 Medals! Until 2026/02/02 11:59 (UTC+8)",
+    "end_at": "2026-02-02T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10005,
+            "description": "Bonus included!\n{} times left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Red & White Resleriana Collaboration Commemoration Alchemist of Hallfein Rias LEGEND FES [Paid Limited]",
+    "name": "Red & White Resleriana Collaboration Commemoration Alchemist of Hallfein Rias LEGEND FES [Paid Limited]",
+    "small_banner_label": "Paid Limited!",
+    "start_at": "2026-01-16T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 233801,
+    "description": "Max 5 times! PU rate doubled!\nObtain 16 Medals! Until 2026/02/02 11:59 (UTC+8)",
+    "end_at": "2026-02-02T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10005,
+            "description": "Bonus included!\n{} times left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Red & White Resleriana Collaboration Commemoration White Guardian Slade LEGEND FES [Paid Limited]",
+    "name": "Red & White Resleriana Collaboration Commemoration White Guardian Slade LEGEND FES [Paid Limited]",
+    "small_banner_label": "Paid Limited!",
+    "start_at": "2026-01-21T03:00:00Z",
+    "step_up_loop_description": ""
   }
 ]

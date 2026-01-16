@@ -3938,5 +3938,295 @@
     "id": 910195,
     "description": "Boosts damage received from Air attacks by {value}%.",
     "name": "Air Resistance Down"
+  },
+  {
+    "id": 510268,
+    "description": "Boosts critical damage by {value}%. (MAX 80%)",
+    "name": "No Holding Back"
+  },
+  {
+    "id": 510269,
+    "description": "Boosts P.ATK by {value}%. (MAX 50%)",
+    "name": "No Holding Back"
+  },
+  {
+    "id": 510270,
+    "description": "Boosts M.ATK by {value}%. (MAX 50%)",
+    "name": "No Holding Back"
+  },
+  {
+    "id": 510271,
+    "description": "Boosts skill power by {value}%. (MAX 50%)",
+    "name": "I'm Feeling Fired Up!"
+  },
+  {
+    "id": 510272,
+    "description": "Dummy buff for judgment.",
+    "name": "Dummy Buff for Judgment"
+  },
+  {
+    "id": 510274,
+    "description": "Base SPD +{value}",
+    "name": "Base SPD Up"
+  },
+  {
+    "id": 510275,
+    "description": "Base SPD -{value}",
+    "name": "Base SPD Down"
+  },
+  {
+    "id": 510276,
+    "description": "Base P.ATK +{value}",
+    "name": "Base P.ATK Up"
+  },
+  {
+    "id": 510277,
+    "description": "Base P.ATK -{value}",
+    "name": "Base P.ATK Down"
+  },
+  {
+    "id": 510278,
+    "description": "Base M.ATK +{value}",
+    "name": "Base M.ATK Up"
+  },
+  {
+    "id": 510279,
+    "description": "Base M.ATK -{value}",
+    "name": "Base M.ATK Down"
+  },
+  {
+    "id": 510280,
+    "description": "Base P.DEF +{value}",
+    "name": "Base P.DEF Up"
+  },
+  {
+    "id": 510281,
+    "description": "Base P.DEF -{value}",
+    "name": "Base P.DEF Down"
+  },
+  {
+    "id": 510282,
+    "description": "Base M.DEF +{value}",
+    "name": "Base M.DEF Up"
+  },
+  {
+    "id": 510283,
+    "description": "Base M.DEF -{value}",
+    "name": "Base M.DEF Down"
+  },
+  {
+    "id": 510284,
+    "description": "Base HP +{value}",
+    "name": "Base HP Up"
+  },
+  {
+    "id": 510285,
+    "description": "After any party member uses an item, grants self critical rate +{value}% for 1 turn.<br>※Only triggers once even if multiple items are used simultaneously.",
+    "name": "Alchemichance"
+  },
+  {
+    "id": 510286,
+    "description": "Boosts stun damage by {value}%. (MAX 80%)",
+    "name": "Strive Like Thunder"
+  },
+  {
+    "id": 510287,
+    "description": "Boosts critical damage by {value}%. (MAX 80%)",
+    "name": "Strive Like Thunder"
+  },
+  {
+    "id": 510288,
+    "description": "Boosts magic skill damage received by {value}%. (MAX 80%)",
+    "name": "Let's Go All Out!"
+  },
+  {
+    "id": 560079,
+    "description": "Boosts base P.ATK by {value}.",
+    "name": "Base P.ATK Up"
+  },
+  {
+    "id": 560080,
+    "description": "Boosts base M.ATK by {value}.",
+    "name": "Base M.ATK Up"
+  },
+  {
+    "id": 610399,
+    "description": "Boosts stun damage by {value}%. (MAX 150%)",
+    "name": "Stun Damage Up"
+  },
+  {
+    "id": 610400,
+    "description": "Boosts skill damage by {value}%. (MAX 60%)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 610401,
+    "description": "Boosts critical damage by {value}%. (MAX 50%)",
+    "name": "Critical Damage Up"
+  },
+  {
+    "id": 610402,
+    "description": "Boosts damage received by {value}%. (MAX 60%)",
+    "name": "Received Damage Up"
+  },
+  {
+    "id": 610403,
+    "description": "Boosts critical damage received by {value}%. (MAX 60%)",
+    "name": "Received Critical Damage Up"
+  },
+  {
+    "id": 610404,
+    "description": "Boosts M.ATK by {value}%. (MAX 30%)",
+    "name": "M.ATK Up"
+  },
+  {
+    "id": 610405,
+    "description": "Boosts skill damage by {value}%. (MAX 30%)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 610407,
+    "description": "Boosts M.ATK by {value}%. (MAX 40%)",
+    "name": "M.ATK Up"
+  },
+  {
+    "id": 610408,
+    "description": "Boosts battle item damage activated on own turn by {value}%. (MAX 100%)",
+    "name": "Battle Item Damage Up on Own Turn"
+  },
+  {
+    "id": 610409,
+    "description": "Boosts battle item damage activated on own turn by {value}%. (MAX 200%)",
+    "name": "Battle Item Damage Up on Own Turn"
+  },
+  {
+    "id": 610410,
+    "description": "Boosts critical rate by {value}%. (MAX 100%)",
+    "name": "Critical Rate Up"
+  },
+  {
+    "id": 610411,
+    "description": "Boosts skill damage by {value}%. (MAX 30%)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 610412,
+    "description": "Boosts stun damage by {value}%. (MAX 30%)",
+    "name": "Stun Damage Up"
+  },
+  {
+    "id": 610413,
+    "description": "Boosts battle item damage activated on own turn by {value}%.",
+    "name": "Battle Item Damage Up on Own Turn"
+  },
+  {
+    "id": 610414,
+    "description": "Boosts battle item damage activated on own turn by {value}%.",
+    "name": "Battle Item Damage Up on Own Turn"
+  },
+  {
+    "id": 610415,
+    "description": "Boosts battle item critical damage activated on own turn by {value}%.",
+    "name": "Battle Item Critical Damage Up on Own Turn"
+  },
+  {
+    "id": 610416,
+    "description": "Boosts critical damage received by {value}%. (MAX 2 stacks)",
+    "name": "Received Critical Damage Up"
+  },
+  {
+    "id": 610417,
+    "description": "Boosts critical damage by {value}%. (MAX 3 stacks)",
+    "name": "Critical Damage Up"
+  },
+  {
+    "id": 800194,
+    "description": "Boosts damage received from Fire attacks by {value}%.",
+    "name": "Fire Resistance Down"
+  },
+  {
+    "id": 800195,
+    "description": "Boosts damage received from Ice attacks by {value}%.",
+    "name": "Ice Resistance Down"
+  },
+  {
+    "id": 800196,
+    "description": "Boosts damage received from Air attacks by {value}%.",
+    "name": "Air Resistance Down"
+  },
+  {
+    "id": 800197,
+    "description": "Boosts damage received from Bolt attacks by {value}%.",
+    "name": "Bolt Resistance Down"
+  },
+  {
+    "id": 800198,
+    "description": "Reduces skill accuracy by {value}%.",
+    "name": "Accuracy Down"
+  },
+  {
+    "id": 800199,
+    "description": "Reduces SPD by {value}%.",
+    "name": "SPD Down"
+  },
+  {
+    "id": 800200,
+    "description": "Reduces SPD by {value}%.",
+    "name": "SPD Down"
+  },
+  {
+    "id": 800201,
+    "description": "Boosts damage received by {value}%.",
+    "name": "Damage Received Up"
+  },
+  {
+    "id": 800202,
+    "description": "Boosts damage received by {value}%.",
+    "name": "Damage Received Up"
+  },
+  {
+    "id": 800203,
+    "description": "Reduces damage dealt by {value}%.",
+    "name": "Dealt Damage Down"
+  },
+  {
+    "id": 800204,
+    "description": "Reduces damage dealt by {value}%.",
+    "name": "Dealt Damage Down"
+  },
+  {
+    "id": 800205,
+    "description": "Boosts critical rate by {value}%.",
+    "name": "Critical Rate Up"
+  },
+  {
+    "id": 800206,
+    "description": "Boosts critical damage by {value}%. (MAX 300%)",
+    "name": "Alchemichance"
+  },
+  {
+    "id": 800207,
+    "description": "Dummy buff for judgment purposes.",
+    "name": "Judgment Dummy Buff"
+  },
+  {
+    "id": 800208,
+    "description": "Boosts damage received from magical attacks that target all enemies by {value}%.",
+    "name": "Attack All Received M. Damage Up"
+  },
+  {
+    "id": 810188,
+    "description": "Boosts skill power by {value}%. Cannot be removed.",
+    "name": "Skill Power Up (Cond.)"
+  },
+  {
+    "id": 820134,
+    "description": "Boosts critical rate received by {value}%. (MAX 100%)",
+    "name": "Critical Rate Received Up"
+  },
+  {
+    "id": 1210443,
+    "description": "Reduces damage received by {value}%.",
+    "name": "Damage Received Down"
   }
 ]

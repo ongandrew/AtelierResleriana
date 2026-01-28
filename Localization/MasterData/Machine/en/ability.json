@@ -8923,5 +8923,75 @@
     "id": 600000768,
     "description": "While equipped to a character with the Hallfein Reconstruction Team tag, boosts skill power by 100%.",
     "name": "While equipped to Hallfein Reconstruction Team, skill power UP"
+  },
+  {
+    "id": 301311,
+    "description": "While equipped to Walther [Suit of Vertex], after attacking or when receiving an attack, grants all allies skill damage boost of {0}% for 1 turn (Max 3 stacks).",
+    "name": "Illgrave"
+  },
+  {
+    "id": 1980225,
+    "description": "Characters with the Lantarna tag have P.DEF and M.DEF boosted by 50%.",
+    "name": "Wielder of the Man-Made Apexi"
+  },
+  {
+    "id": 1990503,
+    "description": "Becomes much more likely to be targeted by enemies.\nBoosts max HP of all allies with Bolt affinity or the Hallfein Restoration Project tag by {0}%.\nAt the start of battle, charges 3 charge indicators for Weltex Sword and restores all allies' HP by 100%.\nWhen receiving an attack or when anyone in the party uses a battle item, charges 1 charge indicator for Weltex Sword.\n*Only activates once even if multiple items are used simultaneously.",
+    "name": "I'll Be Your Opponent Until the End"
+  },
+  {
+    "id": 1990504,
+    "description": "Changes own burst skill to a gauge system.\n*Burst gauge can be stocked for 3 turns.\n\nWhen receiving an attack, increases own burst gauge by {0}%.\nAfter using a skill, restores own HP by {1}%.\n\nAfter anyone in the party uses a battle item, grants all allies with Bolt affinity or the Hallfein Restoration Project tag base P.DEF and base M.DEF boost of 50-250 (Max 500) based on the number of characters with the Hallfein Restoration Project tag (higher boost for 1-5 characters).\n*Only activates once even if multiple items are used simultaneously.",
+    "name": "Alchemy Effect Verification Experiment"
+  },
+  {
+    "id": 1990505,
+    "description": "All allies gain critical damage boost of 10-50% and battle item critical damage boost of 10-50% based on the number of characters with the Hallfein Restoration Project tag (higher boost for 1-5 characters).\n\nAfter using a skill, restores the item gauge by {0}% and restores all allies' HP by {1}%.",
+    "name": "Let's Combine Our Strength!"
+  },
+  {
+    "id": 4991233,
+    "description": "While equipped to a Defender with Bolt affinity, when dealing damage with an attack, grants all enemies damage received boost of {0}% for 1 attack (Max 4 stacks).\nWhen equipped to a character with the Laid-back tag, boosts P.DEF and M.DEF by {1}%.",
+    "name": "Imagination \"Voice Echoing in the Lab\""
+  },
+  {
+    "id": 4991234,
+    "description": "While equipped to a Defender with Bolt affinity, when dealing damage with an attack, grants all enemies damage received boost of {0}% for 1 attack (Max 4 stacks).\nWhen equipped to a character with the Laid-back tag, boosts P.DEF and M.DEF by {1}%.",
+    "name": "Imagination \"Voice Echoing in the Lab\""
+  },
+  {
+    "id": 4991235,
+    "description": "While equipped to a Defender with Bolt affinity, when dealing damage with an attack, grants all enemies damage received boost of {0}% for 1 attack (Max 4 stacks).\nWhen equipped to a character with the Laid-back tag, boosts P.DEF and M.DEF by {1}%.",
+    "name": "Imagination \"Voice Echoing in the Lab\""
+  },
+  {
+    "id": 4991236,
+    "description": "While equipped to a Defender with Bolt affinity, when dealing damage with an attack, grants all enemies damage received boost of {0}% for 1 attack (Max 4 stacks).\nWhen equipped to a character with the Laid-back tag, boosts P.DEF and M.DEF by {1}%.",
+    "name": "Imagination \"Voice Echoing in the Lab\""
+  },
+  {
+    "id": 4991237,
+    "description": "While equipped to a Defender with Bolt affinity, when dealing damage with an attack, grants all enemies damage received boost of {0}% for 1 attack (Max 4 stacks).\nWhen equipped to a character with the Laid-back tag, boosts P.DEF and M.DEF by {1}%.",
+    "name": "Imagination \"Voice Echoing in the Lab\""
+  },
+  {
+    "id": 26102023,
+    "description": "While stunned, when hit by an attack skill, grants self damage received boost of 30% for 1 attack.",
+    "name": ""
+  },
+  {
+    "id": 26164022,
+    "description": "Nullifies Strike and Stab resistance down.",
+    "name": ""
+  },
+  {
+    "id": 600000769,
+    "description": "Reduces damage received by 20% when Walther [Suit of Vertex] is in the party.",
+    "name": "Walther [Suit of Vertex] Damage Received Down"
+  },
+  {
+    "id": 600000770,
+    "description": "When Walther [Suit of Vertex] or Slade [Inheritor of White Will] is in the party, reduces damage received by 25% (Max 25%).",
+    "name": "Walther [Suit of Vertex] or Slade [Inheritor of White Will] Damage Received Reduction"
   }
 ]

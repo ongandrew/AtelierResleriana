@@ -4934,5 +4934,61 @@
     "small_banner_label": "Paid Limited!",
     "start_at": "2026-01-21T03:00:00Z",
     "step_up_loop_description": ""
+  },
+  {
+    "id": 2339,
+    "description": "Walther makes his debut & is on PickUP!\nAvailable until 2026/02/02 11:59 (UTC+8)",
+    "end_at": "2026-02-02T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Red & White Resleriana Clash Commemoration - The Black Beast Master Walther LEGEND FES",
+    "name": "Red & White Resleriana Clash Commemoration - The Black Beast Master Walther LEGEND FES",
+    "start_at": "2026-01-26T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2340,
+    "description": "Wish 50 times with Paid Lodestar Gems to unlock additional Wishes!\nAvailable until 2026/02/02 11:59 (UTC+8)",
+    "end_at": "2026-02-02T03:00:00Z",
+    "name": "Red & White Resleriana Clash Commemoration - The Black Beast Master Walther LEGEND FES [Paid Lodestar Gems Only]",
+    "small_banner_label": "Paid Limited!",
+    "start_at": "2026-01-26T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 234001,
+    "description": "Max 5 times! PickUP rate is doubled!\nGet 16 Medals! Available until 2026/02/02 11:59 (UTC+8)",
+    "end_at": "2026-02-02T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10005,
+            "description": "Bonus included!\n{} times left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Red & White Resleriana Clash Commemoration - The Black Beast Master Walther LEGEND FES [Paid Lodestar Gems Only]",
+    "name": "Red & White Resleriana Clash Commemoration - The Black Beast Master Walther LEGEND FES [Paid Lodestar Gems Only]",
+    "small_banner_label": "Paid Limited!",
+    "start_at": "2026-01-26T03:00:00Z",
+    "step_up_loop_description": ""
   }
 ]

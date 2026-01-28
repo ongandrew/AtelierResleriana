@@ -12,6 +12,56 @@ namespace AtelierResleriana.MasterData
 
         private record class CatalogEntry(long Offset, long Size);
 
+
+        /// <summary>
+        /// Reads from a decrypted/unencrypted master data stream.
+        /// </summary>
+        /// <param name="decryptedStream"></param>
+        /// <returns></returns>
+        /// <exception cref="FormatException"></exception>
+        public IEnumerable<MasterDataFile> Read(Stream decryptedStream)
+        {
+            byte[] allBytes;
+            using (var ms = new MemoryStream())
+            {
+                decryptedStream.CopyTo(ms);
+                allBytes = ms.ToArray();
+            }
+
+            var options = MessagePackSerializerOptions.Standard;
+            var reader = new MessagePackReader(allBytes);
+
+            Dictionary<string, long[]> rawCatalog = MessagePackSerializer.Deserialize<Dictionary<string, long[]>>(
+                ref reader,
+                options
+            );
+
+            Catalog catalog = new Catalog();
+            foreach (var kvp in rawCatalog)
+            {
+                catalog.Add(kvp.Key, new CatalogEntry(kvp.Value[0], kvp.Value[1]));
+            }
+
+            long dataBlockStartOffset = reader.Consumed;
+
+            List<MasterDataFile> files = new List<MasterDataFile>(catalog.Count);
+            foreach (var entry in catalog)
+            {
+                long absoluteOffset = dataBlockStartOffset + entry.Value.Offset;
+
+                byte[] fileBytes = new byte[entry.Value.Size];
+                Array.Copy(allBytes, absoluteOffset, fileBytes, 0, entry.Value.Size);
+
+                files.Add(new MasterDataFile()
+                {
+                    Name = entry.Key,
+                    Bytes = fileBytes
+                });
+            }
+
+            return files;
+        }
+
         /// <summary>
         /// Reads from a decrypted/unencrypted master data stream.
         /// </summary>

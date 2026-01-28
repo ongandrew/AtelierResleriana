@@ -28276,5 +28276,317 @@
     "description": "Reduces single ally's damage received by 25% for 2 attacks and grants Regeneration (20%/2 turns).",
     "name": "Relax",
     "summary": ""
+  },
+  {
+    "id": 11003399,
+    "description": "Reduces target's damage by {0}% for 2 turns.<br>Removes own negative effects and status effects.",
+    "name": "Revoke Blow",
+    "summary": "Reduces target's damage.<br>Removes own negative effects and status effects."
+  },
+  {
+    "id": 11003400,
+    "description": "Reduces target's damage by {0}% for 2 turns.<br>Removes own negative effects and status effects.",
+    "name": "Revoke Blow",
+    "summary": "Reduces target's damage.<br>Removes own negative effects and status effects."
+  },
+  {
+    "id": 11003401,
+    "description": "Reduces target's damage by {0}% for 2 turns.<br>Removes own negative effects and status effects.",
+    "name": "Revoke Blow",
+    "summary": "Reduces target's damage.<br>Removes own negative effects and status effects."
+  },
+  {
+    "id": 11003402,
+    "description": "Reduces target's damage by {0}% for 2 turns.<br>Removes own negative effects and status effects.",
+    "name": "Revoke Blow",
+    "summary": "Reduces target's damage.<br>Removes own negative effects and status effects."
+  },
+  {
+    "id": 11003403,
+    "description": "Reduces target's damage by {0}% for 2 turns.<br>Removes own negative effects and status effects.",
+    "name": "Revoke Blow",
+    "summary": "Reduces target's damage.<br>Removes own negative effects and status effects."
+  },
+  {
+    "id": 12003404,
+    "description": "After attacking, boosts own skill damage by {0}% for 2 turns and<br>grants all allies P.DEF/M.DEF +{1}% for 3 attacks (max 2 stacks).<br>Reduces all enemies' damage by {2}% for 2 turns.<br>Weltex Sword has charge indicators, and when all 3 indicators are charged, the effect changes.<br>Skill can charge up to 3 indicators.<br><br>When charge indicators are below 3:<br>After attacking, charges 1 skill indicator.<br><br>When all 3 charge indicators are charged:<br>After attacking, increases own burst gauge by {3}%.<br>Additionally reduces all enemies' damage by {4}% for 2 turns and<br>before using this skill, converts the next panel of the ally with highest M.ATK to a burst panel (creates panel if empty) and<br>clears all charge indicators.",
+    "name": "Weltex Sword",
+    "summary": "After attacking, boosts own skill damage.<br>Boosts all allies' P.DEF and M.DEF.<br>Reduces all enemies' damage.<br>When charge indicators are below 3, after attacking, charges 1 skill indicator.<br>When all 3 charge indicators are charged, after attacking, increases own burst gauge, reduces all enemies' damage, converts the next panel of the ally with highest M.ATK to a burst panel, and clears all charge indicators."
+  },
+  {
+    "id": 12003405,
+    "description": "After attacking, boosts own skill damage by {0}% for 2 turns and<br>grants all allies P.DEF/M.DEF +{1}% for 3 attacks (max 2 stacks).<br>Reduces all enemies' damage by {2}% for 2 turns.<br>Weltex Sword has charge indicators, and when all 3 indicators are charged, the effect changes.<br>Skill can charge up to 3 indicators.<br><br>When charge indicators are below 3:<br>After attacking, charges 1 skill indicator.<br><br>When all 3 charge indicators are charged:<br>After attacking, increases own burst gauge by {3}%.<br>Additionally reduces all enemies' damage by {4}% for 2 turns and<br>before using this skill, converts the next panel of the ally with highest M.ATK to a burst panel (creates panel if empty) and<br>clears all charge indicators.",
+    "name": "Weltex Sword",
+    "summary": "After attacking, boosts own skill damage.<br>Boosts all allies' P.DEF and M.DEF.<br>Reduces all enemies' damage.<br>When charge indicators are below 3, after attacking, charges 1 skill indicator.<br>When all 3 charge indicators are charged, after attacking, increases own burst gauge, reduces all enemies' damage, converts the next panel of the ally with highest M.ATK to a burst panel, and clears all charge indicators."
+  },
+  {
+    "id": 12003406,
+    "description": "After attacking, boosts own skill damage by {0}% for 2 turns and<br>grants all allies P.DEF/M.DEF +{1}% for 3 attacks (max 2 stacks).<br>Reduces all enemies' damage by {2}% for 2 turns.<br>Weltex Sword has charge indicators, and when all 3 indicators are charged, the effect changes.<br>Skill can charge up to 3 indicators.<br><br>When charge indicators are below 3:<br>After attacking, charges 1 skill indicator.<br><br>When all 3 charge indicators are charged:<br>After attacking, increases own burst gauge by {3}%.<br>Additionally reduces all enemies' damage by {4}% for 2 turns and<br>before using this skill, converts the next panel of the ally with highest M.ATK to a burst panel (creates panel if empty) and<br>clears all charge indicators.",
+    "name": "Weltex Sword",
+    "summary": "After attacking, boosts own skill damage.<br>Boosts all allies' P.DEF and M.DEF.<br>Reduces all enemies' damage.<br>When charge indicators are below 3, after attacking, charges 1 skill indicator.<br>When all 3 charge indicators are charged, after attacking, increases own burst gauge, reduces all enemies' damage, converts the next panel of the ally with highest M.ATK to a burst panel, and clears all charge indicators."
+  },
+  {
+    "id": 12003407,
+    "description": "After attacking, boosts own skill damage by {0}% for 2 turns and<br>grants all allies P.DEF/M.DEF +{1}% for 3 attacks (max 2 stacks).<br>Reduces all enemies' damage by {2}% for 2 turns.<br>Weltex Sword has charge indicators, and when all 3 indicators are charged, the effect changes.<br>Skill can charge up to 3 indicators.<br><br>When charge indicators are below 3:<br>After attacking, charges 1 skill indicator.<br><br>When all 3 charge indicators are charged:<br>After attacking, increases own burst gauge by {3}%.<br>Additionally reduces all enemies' damage by {4}% for 2 turns and<br>before using this skill, converts the next panel of the ally with highest M.ATK to a burst panel (creates panel if empty) and<br>clears all charge indicators.",
+    "name": "Weltex Sword",
+    "summary": "After attacking, boosts own skill damage.<br>Boosts all allies' P.DEF and M.DEF.<br>Reduces all enemies' damage.<br>When charge indicators are below 3, after attacking, charges 1 skill indicator.<br>When all 3 charge indicators are charged, after attacking, increases own burst gauge, reduces all enemies' damage, converts the next panel of the ally with highest M.ATK to a burst panel, and clears all charge indicators."
+  },
+  {
+    "id": 12003408,
+    "description": "After attacking, boosts own skill damage by {0}% for 2 turns and<br>grants all allies P.DEF/M.DEF +{1}% for 3 attacks (max 2 stacks).<br>Reduces all enemies' damage by {2}% for 2 turns.<br>Weltex Sword has charge indicators, and when all 3 indicators are charged, the effect changes.<br>Skill can charge up to 3 indicators.<br><br>When charge indicators are below 3:<br>After attacking, charges 1 skill indicator.<br><br>When all 3 charge indicators are charged:<br>After attacking, increases own burst gauge by {3}%.<br>Additionally reduces all enemies' damage by {4}% for 2 turns and<br>before using this skill, converts the next panel of the ally with highest M.ATK to a burst panel (creates panel if empty) and<br>clears all charge indicators.",
+    "name": "Weltex Sword",
+    "summary": "After attacking, boosts own skill damage.<br>Boosts all allies' P.DEF and M.DEF.<br>Reduces all enemies' damage.<br>When charge indicators are below 3, after attacking, charges 1 skill indicator.<br>When all 3 charge indicators are charged, after attacking, increases own burst gauge, reduces all enemies' damage, converts the next panel of the ally with highest M.ATK to a burst panel, and clears all charge indicators."
+  },
+  {
+    "id": 14003409,
+    "description": "After attacking, recovers {0}% HP for all allies and<br>boosts own skill damage by {1}% for 2 turns.<br>Grants all allies with Bolt affinity or Hallfein Restoration Project tag P.DEF/M.DEF +{2}% (max 80%).<br>Reduces target's damage by {3}% for 2 turns.",
+    "name": "G-Barion Breaker",
+    "summary": "After attacking, recovers all allies' HP.<br>Boosts own skill damage.<br>Boosts P.DEF and M.DEF of all allies with Bolt affinity or Hallfein Restoration Project tag.<br>Reduces target's damage."
+  },
+  {
+    "id": 14003410,
+    "description": "After attacking, recovers {0}% HP for all allies and<br>boosts own skill damage by {1}% for 2 turns.<br>Grants all allies with Bolt affinity or Hallfein Restoration Project tag P.DEF/M.DEF +{2}% (max 80%).<br>Reduces target's damage by {3}% for 2 turns.",
+    "name": "G-Barion Breaker",
+    "summary": "After attacking, recovers all allies' HP.<br>Boosts own skill damage.<br>Boosts P.DEF and M.DEF of all allies with Bolt affinity or Hallfein Restoration Project tag.<br>Reduces target's damage."
+  },
+  {
+    "id": 14003411,
+    "description": "After attacking, recovers {0}% HP for all allies and<br>boosts own skill damage by {1}% for 2 turns.<br>Grants all allies with Bolt affinity or Hallfein Restoration Project tag P.DEF/M.DEF +{2}% (max 80%).<br>Reduces target's damage by {3}% for 2 turns.",
+    "name": "G-Barion Breaker",
+    "summary": "After attacking, recovers all allies' HP.<br>Boosts own skill damage.<br>Boosts P.DEF and M.DEF of all allies with Bolt affinity or Hallfein Restoration Project tag.<br>Reduces target's damage."
+  },
+  {
+    "id": 14003412,
+    "description": "After attacking, recovers {0}% HP for all allies and<br>boosts own skill damage by {1}% for 2 turns.<br>Grants all allies with Bolt affinity or Hallfein Restoration Project tag P.DEF/M.DEF +{2}% (max 80%).<br>Reduces target's damage by {3}% for 2 turns.",
+    "name": "G-Barion Breaker",
+    "summary": "After attacking, recovers all allies' HP.<br>Boosts own skill damage.<br>Boosts P.DEF and M.DEF of all allies with Bolt affinity or Hallfein Restoration Project tag.<br>Reduces target's damage."
+  },
+  {
+    "id": 14003413,
+    "description": "After attacking, recovers {0}% HP for all allies and<br>boosts own skill damage by {1}% for 2 turns.<br>Grants all allies with Bolt affinity or Hallfein Restoration Project tag P.DEF/M.DEF +{2}% (max 80%).<br>Reduces target's damage by {3}% for 2 turns.",
+    "name": "G-Barion Breaker",
+    "summary": "After attacking, recovers all allies' HP.<br>Boosts own skill damage.<br>Boosts P.DEF and M.DEF of all allies with Bolt affinity or Hallfein Restoration Project tag.<br>Reduces target's damage."
+  },
+  {
+    "id": 14003499,
+    "description": "After attacking, reduces own damage received by {0}% for 2 attacks and<br>grants all allies P.ATK/M.ATK +{1}% (max 30%).",
+    "name": "Staff Impact",
+    "summary": "After attacking, reduces own damage received.<br>Boosts all allies' P.ATK and M.ATK."
+  },
+  {
+    "id": 14003500,
+    "description": "After attacking, reduces own damage received by {0}% for 2 attacks and<br>grants all allies P.ATK/M.ATK +{1}% (max 30%).",
+    "name": "Staff Impact",
+    "summary": "After attacking, reduces own damage received.<br>Boosts all allies' P.ATK and M.ATK."
+  },
+  {
+    "id": 14003501,
+    "description": "After attacking, reduces own damage received by {0}% for 2 attacks and<br>grants all allies P.ATK/M.ATK +{1}% (max 30%).",
+    "name": "Staff Impact",
+    "summary": "After attacking, reduces own damage received.<br>Boosts all allies' P.ATK and M.ATK."
+  },
+  {
+    "id": 14003502,
+    "description": "After attacking, reduces own damage received by {0}% for 2 attacks and<br>grants all allies P.ATK/M.ATK +{1}% (max 30%).",
+    "name": "Staff Impact",
+    "summary": "After attacking, reduces own damage received.<br>Boosts all allies' P.ATK and M.ATK."
+  },
+  {
+    "id": 14003503,
+    "description": "After attacking, reduces own damage received by {0}% for 2 attacks and<br>grants all allies P.ATK/M.ATK +{1}% (max 30%).",
+    "name": "Staff Impact",
+    "summary": "After attacking, reduces own damage received.<br>Boosts all allies' P.ATK and M.ATK."
+  },
+  {
+    "id": 14003504,
+    "description": "Before recovery, removes target's negative effects and status effects.<br>After recovery, reduces target's damage received by {0}% for 2 attacks.<br>Grants P.ATK/M.ATK +{1}% and skill damage +{2}% to all Hallfein Restoration Project allies for 2 turns.",
+    "name": "Duplicate",
+    "summary": "Before recovery, removes target's negative effects and status effects.<br>After recovery, reduces target's damage received.<br>Boosts P.ATK, M.ATK, and skill damage for all Hallfein Restoration Project allies."
+  },
+  {
+    "id": 14003505,
+    "description": "Before recovery, removes target's negative effects and status effects.<br>After recovery, reduces target's damage received by {0}% for 2 attacks.<br>Grants P.ATK/M.ATK +{1}% and skill damage +{2}% to all Hallfein Restoration Project allies for 2 turns.",
+    "name": "Duplicate",
+    "summary": "Before recovery, removes target's negative effects and status effects.<br>After recovery, reduces target's damage received.<br>Boosts P.ATK, M.ATK, and skill damage for all Hallfein Restoration Project allies."
+  },
+  {
+    "id": 14003506,
+    "description": "Before recovery, removes target's negative effects and status effects.<br>After recovery, reduces target's damage received by {0}% for 2 attacks.<br>Grants P.ATK/M.ATK +{1}% and skill damage +{2}% to all Hallfein Restoration Project allies for 2 turns.",
+    "name": "Duplicate",
+    "summary": "Before recovery, removes target's negative effects and status effects.<br>After recovery, reduces target's damage received.<br>Boosts P.ATK, M.ATK, and skill damage for all Hallfein Restoration Project allies."
+  },
+  {
+    "id": 14003507,
+    "description": "Before recovery, removes target's negative effects and status effects.<br>After recovery, reduces target's damage received by {0}% for 2 attacks.<br>Grants P.ATK/M.ATK +{1}% and skill damage +{2}% to all Hallfein Restoration Project allies for 2 turns.",
+    "name": "Duplicate",
+    "summary": "Before recovery, removes target's negative effects and status effects.<br>After recovery, reduces target's damage received.<br>Boosts P.ATK, M.ATK, and skill damage for all Hallfein Restoration Project allies."
+  },
+  {
+    "id": 14003508,
+    "description": "Before recovery, removes target's negative effects and status effects.<br>After recovery, reduces target's damage received by {0}% for 2 attacks.<br>Grants P.ATK/M.ATK +{1}% and skill damage +{2}% to all Hallfein Restoration Project allies for 2 turns.",
+    "name": "Duplicate",
+    "summary": "Before recovery, removes target's negative effects and status effects.<br>After recovery, reduces target's damage received.<br>Boosts P.ATK, M.ATK, and skill damage for all Hallfein Restoration Project allies."
+  },
+  {
+    "id": 14003509,
+    "description": "After attacking, restores {0}% HP to all allies and reduces their damage received by {1}% for 1 attack.<br>Grants P.ATK/M.ATK +{2}% and skill damage +{3}% to all Hallfein Restoration Project allies for 2 turns.",
+    "name": "Rocket Helmet",
+    "summary": "After attacking, restores HP to all allies.<br>Reduces all allies' damage received.<br>Boosts P.ATK, M.ATK, and skill damage for all Hallfein Restoration Project allies."
+  },
+  {
+    "id": 14003510,
+    "description": "After attacking, reduces all allies' physical damage received by {0}% for 1 attack.",
+    "name": "Rocket Helmet",
+    "summary": "After attacking, reduces all allies' physical damage received."
+  },
+  {
+    "id": 32004372,
+    "description": "No effects.",
+    "name": "Dangerous Bite",
+    "summary": ""
+  },
+  {
+    "id": 32004373,
+    "description": "No effects.",
+    "name": "Sonic Voice",
+    "summary": ""
+  },
+  {
+    "id": 32004374,
+    "description": "After attacking, grants Poison (2%/1 turn) to skill target.",
+    "name": "Poison Bite",
+    "summary": ""
+  },
+  {
+    "id": 32004375,
+    "description": "No effects.",
+    "name": "Dark Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32004376,
+    "description": "No effects.",
+    "name": "Thunder Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32004377,
+    "description": "Grants damage dealt +25% to skill target for 3 turns.",
+    "name": "Spin Roar",
+    "summary": ""
+  },
+  {
+    "id": 32004378,
+    "description": "After attacking, grants self damage dealt +20% and SPD +10% for 1 turn.",
+    "name": "Chaotic Beam",
+    "summary": ""
+  },
+  {
+    "id": 32004379,
+    "description": "After attacking, grants self damage dealt +15% for 1 turn.",
+    "name": "Laser Eyes",
+    "summary": ""
+  },
+  {
+    "id": 32004380,
+    "description": "No effects.",
+    "name": "Glide",
+    "summary": ""
+  },
+  {
+    "id": 32004381,
+    "description": "After attacking, reduces own damage received by 35% for 1 attack.",
+    "name": "Scattershot Beam",
+    "summary": ""
+  },
+  {
+    "id": 32004382,
+    "description": "No effects.",
+    "name": "Rock Call",
+    "summary": ""
+  },
+  {
+    "id": 32004383,
+    "description": "After attacking, restores own stun gauge by 30%.",
+    "name": "Headbutt",
+    "summary": ""
+  },
+  {
+    "id": 32004384,
+    "description": "No effects.",
+    "name": "Stone Rain",
+    "summary": ""
+  },
+  {
+    "id": 32004385,
+    "description": "After attacking, restores 20% of own HP.",
+    "name": "Ice Pecking",
+    "summary": ""
+  },
+  {
+    "id": 32004386,
+    "description": "No effect.",
+    "name": "Ice Rain",
+    "summary": ""
+  },
+  {
+    "id": 32004387,
+    "description": "Grants self damage dealt up by 30% for 2 turns, damage received down by 30% for 2 turns, stun damage received down by 30% for 2 turns, and status effect resistance down by 50% for 3 turns.",
+    "name": "Meditation",
+    "summary": ""
+  },
+  {
+    "id": 32004388,
+    "description": "After attacking, grants self damage dealt up by 20% for 1 turn and SPD up by 10% for 1 turn.",
+    "name": "Frenzied Beam",
+    "summary": ""
+  },
+  {
+    "id": 32004389,
+    "description": "After attacking, grants self damage dealt up by 15% for 1 turn.",
+    "name": "Laser Eyes",
+    "summary": ""
+  },
+  {
+    "id": 32004390,
+    "description": "No effect.",
+    "name": "Glide",
+    "summary": ""
+  },
+  {
+    "id": 32004391,
+    "description": "After attacking, grants self damage received down by 35% for 1 turn.",
+    "name": "Scattered Beam",
+    "summary": ""
+  },
+  {
+    "id": 32004392,
+    "description": "Grants target ally nullify damage of 20% or less of max HP for 2 turns.",
+    "name": "Solid Reflection",
+    "summary": ""
+  },
+  {
+    "id": 32004393,
+    "description": "After attacking, converts 1 target enemy panel (excluding burst panels) to a weaken panel.",
+    "name": "Grab Comet",
+    "summary": ""
+  },
+  {
+    "id": 32004394,
+    "description": "No effect.",
+    "name": "Debris Fall",
+    "summary": ""
+  },
+  {
+    "id": 32004395,
+    "description": "After attacking, delays target enemy's turn by 2 turns.",
+    "name": "Dizzy Glint",
+    "summary": ""
+  },
+  {
+    "id": 32004396,
+    "description": "After attacking, reduces all enemies' damage dealt by 40% for 2 turns.",
+    "name": "Chaos Explosion",
+    "summary": ""
   }
 ]

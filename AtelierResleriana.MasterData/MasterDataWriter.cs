@@ -11,6 +11,46 @@ namespace AtelierResleriana.MasterData
 
         private record class CatalogEntry(long Offset, long Size);
 
+
+        public void Write(Stream stream, IEnumerable<MasterDataFile> files)
+        {
+            Write(stream, files.ToDictionary(x => x.Name, x => x.Bytes));
+        }
+
+        /// <summary>
+        /// Writes files to a stream in the master data format.
+        /// </summary>
+        /// <param name="stream">The stream to write to.</param>
+        /// <param name="files">Dictionary of files to write.</param>
+        /// <param name="cancellationToken">Cancellation token.</param>
+        public void Write(Stream stream, IDictionary<string, byte[]> files)
+        {
+            MemoryStream dataStream = new MemoryStream();
+            Catalog catalog = new Catalog();
+
+            foreach ((string fileName, byte[] bytes) in files)
+            {
+                long offset = dataStream.Position;
+                long size = bytes.LongLength;
+                dataStream.Write(bytes);
+                catalog.Add(fileName, new CatalogEntry(offset, size));
+            }
+
+            var rawCatalog = new Dictionary<string, long[]>();
+            foreach ((string fileName, CatalogEntry entry) in catalog)
+            {
+                rawCatalog.Add(fileName, new[] { entry.Offset, entry.Size });
+            }
+
+            var options = MessagePackSerializerOptions.Standard;
+
+            byte[] serializedCatalog = MessagePackSerializer.Serialize(rawCatalog, options);
+
+            stream.Write(serializedCatalog);
+            dataStream.Position = 0;
+            dataStream.CopyTo(stream);
+        }
+
         public async Task WriteAsync(Stream stream, IEnumerable<MasterDataFile> files, CancellationToken cancellationToken = default)
         {
             await WriteAsync(stream, files.ToDictionary(x => x.Name, x => x.Bytes), cancellationToken).ConfigureAwait(false);

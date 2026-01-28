@@ -40,13 +40,11 @@ namespace AtelierResleriana.Plugin.Localization
         private static ConfigEntry<string> ConfigEntryLocale { get; set; }
         private static ConfigEntry<bool> ConfigEntryLocalizeAssetBundles { get; set; }
         private static ConfigEntry<bool> ConfigEntryLocalizeMasterData { get; set; }
-        private static ConfigEntry<bool> ConfigEntryLocalizeNews { get; set; }
         private static ConfigEntry<bool> ConfigEntryUseSerializedFileCache { get; set; }
 
         private static ConfigEntry<string> ConfigEntryDataPath { get; set; }
         private static ConfigEntry<bool> ConfigEntryDataAutoUpdate { get; set; }
         private static ConfigEntry<string> ConfigEntryDataUpdateServer { get; set; }
-        private static ConfigEntry<string> ConfigEntryNewsServerUrl { get; set; }
         private static ConfigEntry<int> ConfigEntryDataUpdateCheckTimeout { get; set; }
         private static ConfigEntry<int> ConfigEntryDataUpdateDownloadTimeout { get; set; }
 
@@ -95,13 +93,6 @@ namespace AtelierResleriana.Plugin.Localization
                 Harmony.Patch(AccessTools.Method(typeof(CharaRarityUpWindow), nameof(CharaRarityUpWindow.NICCOKABDGM)),
                     prefix: new HarmonyMethod(typeof(Plugin), nameof(CharaRarityUpWindowNICCOKABDGMPrefix)));
 
-                // Gacha character pickup acquisition text.
-                // Reportedly results in a crash/white screen.
-                /*
-                Harmony.Patch(AccessTools.Method(typeof(GachaResultCharacter), nameof(GachaResultCharacter.SetDefault), new Type[] { typeof(AGAJFINGPKJ), typeof(bool), typeof(FAJCHCEDBPM) }),
-                    prefix: new HarmonyMethod(typeof(Plugin), nameof(GachaResultCharacterSetDefaultPrefix)));
-                */
-
                 // Synthesis item material window description.
                 Harmony.Patch(AccessTools.Method(typeof(SynthesisMaterialInfoDisp), nameof(SynthesisMaterialInfoDisp.KDNMGKADBEF), new Type[] { typeof(AECFEKECHCK), typeof(bool) }),
                     prefix: new HarmonyMethod(typeof(Plugin), nameof(SynthesisMaterialInfoDispKDNMGKADBEFPrefix)));
@@ -117,13 +108,6 @@ namespace AtelierResleriana.Plugin.Localization
                 Harmony.Patch(AccessTools.Method(typeof(DialogueDisplay), nameof(DialogueDisplay.DispText)),
                     prefix: new HarmonyMethod(typeof(Plugin), nameof(DialogueDisplayDispTextPrefix)));
             }
-
-            if (ConfigEntryLocalizeNews.Value)
-            {
-                // News - experimental - unsupported.
-                Harmony.Patch(AccessTools.Method(typeof(BaseWebView), nameof(BaseWebView.LoadUrl), new Type[] { typeof(string), typeof(Il2CppSystem.Collections.Generic.Dictionary<string, string>) }),
-                    prefix: new HarmonyMethod(typeof(Plugin), nameof(BaseWebViewLoadUrlPrefix)));
-            }
         }
 
         private void Configure()
@@ -133,15 +117,13 @@ namespace AtelierResleriana.Plugin.Localization
             ConfigEntryEnabled = Config.Bind<bool>("General", "Enabled", true, "Enable or disable this localization plugin.");
             ConfigEntryLocale = Config.Bind<string>("General", "Language", "en", "Language/locale to target - should be one of en, zh-CN, or zh-TW.");
             ConfigEntryLocalizeMasterData = Config.Bind<bool>("General", "LocalizeMasterData", true, "Enable this to enable the localization of master data.");
-            ConfigEntryLocalizeNews = Config.Bind<bool>("General", "LocalizeNews", false, "[Experimental] Enable this to use a separate news server for localized news in-game. This doesn't quite work right (external browser is opened) so no support is provided if this is enabled.");
-
+            
             ConfigEntryLocalizeAssetBundles = Config.Bind<bool>("General", "LocalizeAssetBundles", true, "Enable this to enable interception of asset bundles for localized dialogue scenes. Enabling this will have some impact on loading times.");
             ConfigEntryUseSerializedFileCache = Config.Bind<bool>("General", "UseSerializedFileCache", true, "Enable this to trade increased RAM usage for reduced loading times by caching processed files that the game may request multiple times.");
             ConfigEntryDialogueFontSize = Config.Bind<int>("General", "DialogueFontSize", 32, "The font size to use for dialogue displays.");
 
             ConfigEntryDataPath = Config.Bind<string>("Data", "Path", DefaultLocalizationDataPath, "The path to the localization data file to use - specified as a relative path to the plugin directory or an absolute path.");
             ConfigEntryDataAutoUpdate = Config.Bind<bool>("Data", "AutoUpdate", true, "Enable this to automatically check for updates to the localization data. This will only run if the default localization data path is used.");
-            ConfigEntryNewsServerUrl = Config.Bind<string>("Data", "NewsServerUrl", "https://atelierresleriana.azurewebsites.net/news/", "[Experimental] The news server to use.");
             ConfigEntryDataUpdateServer = Config.Bind<string>("Data", "UpdateServer", "atelierresleriana.azurewebsites.net", "The host of the server to use to check for automatic updates.");
             ConfigEntryDataUpdateCheckTimeout = Config.Bind<int>("Data", "UpdateCheckTimeout", 5, "The number of seconds to wait before timing out on the check for localization data updates.");
             ConfigEntryDataUpdateDownloadTimeout = Config.Bind<int>("Data", "UpdateDownloadTimeout", 30, "The number of seconds to wait for localization updates to download before timing out.");
@@ -343,19 +325,6 @@ namespace AtelierResleriana.Plugin.Localization
             }
         }
 
-        private static void BaseWebViewLoadUrlPrefix(ref string url)
-        {
-            if (url == "https://info.resleriana.jp/news/")
-            {
-                string newsServerUrl = ConfigEntryNewsServerUrl.Value;
-
-                if (!string.IsNullOrWhiteSpace(newsServerUrl))
-                {
-                    url = newsServerUrl;
-                }
-            }
-        }
-
         private static void CharaProfileDisplayKDNMGKADBEFPrefix(CharaProfileDisplay __instance)
         {
             if (__instance != null)
@@ -382,21 +351,6 @@ namespace AtelierResleriana.Plugin.Localization
                 }
             }
         }
-
-        // Causes a white screen.
-        /*
-        private static void GachaResultCharacterSetDefaultPrefix(GachaResultCharacter __instance)
-        {
-            if (__instance != null)
-            {
-                if (__instance.m_acquisitionText != null)
-                {
-                    __instance.m_acquisitionText.enableWordWrapping = true;
-                    __instance.m_acquisitionText.overflowMode = TMPro.TextOverflowModes.Overflow;
-                }
-            }
-        }
-        */
 
         private static void DialogueDisplayDispTextPrefix(DialogueDisplay __instance/*, 
             string LLMMBHHFAMB, // Speaker

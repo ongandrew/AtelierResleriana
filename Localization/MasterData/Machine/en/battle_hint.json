@@ -2402,5 +2402,25 @@
   {
     "id": 60170026,
     "description": "- Inflicts multiple negative effects\n- When stunned, removes all opponents' negative effects\n- When damaged by a battle item, boosts own received critical rate\n- Nullifies resistance reduction for all elements except Fire, Bolt, Air, and Slash"
+  },
+  {
+    "id": 60049030,
+    "description": "- Inflicts Poison"
+  },
+  {
+    "id": 60102033,
+    "description": "- Gets stunned when hit while inflicted with a status effect\n- When hit while stunned, boosts own damage received\n- Heals self\n- Restores own stun gauge\n- Reduces own status effect resistance"
+  },
+  {
+    "id": 60164032,
+    "description": "- When HP reaches a certain level, boosts own damage dealt, SPD, and reduces damage received\n- When hit while inflicted with a status effect, reduces own damage dealt, boosts critical rate received, and boosts damage received"
+  },
+  {
+    "id": 60164034,
+    "description": "- When HP reaches a certain level, boosts own damage dealt, SPD, and reduces damage received\n- When hit while inflicted with a status effect, reduces own damage dealt, boosts critical rate received, and boosts damage received\n- Nullifies resistance reduction for Strike and Stab elements"
+  },
+  {
+    "id": 60175035,
+    "description": "- When KO'd, advances allies' turns\n- Grants allies immunity to damage below a certain threshold\n- Delays turn\n- Creates weaken panels\n- Nullifies resistance reduction for Strike and Stab elements"
   }
 ]

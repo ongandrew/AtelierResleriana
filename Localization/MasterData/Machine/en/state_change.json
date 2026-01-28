@@ -4228,5 +4228,60 @@
     "id": 1210443,
     "description": "Reduces damage received by {value}%.",
     "name": "Damage Received Down"
+  },
+  {
+    "id": 510291,
+    "description": "Boosts base P.DEF by {value}. (MAX 500)",
+    "name": "Base P.DEF Up"
+  },
+  {
+    "id": 510292,
+    "description": "Boosts base M.DEF by {value}. (MAX 500)",
+    "name": "Base M.DEF Up"
+  },
+  {
+    "id": 510293,
+    "description": "Boosts critical damage dealt by battle items by {value}%.",
+    "name": "Battle Item Critical Damage Up"
+  },
+  {
+    "id": 610418,
+    "description": "Boosts M.DEF by {value}%. (MAX 2 stacks)",
+    "name": "M.DEF Up"
+  },
+  {
+    "id": 610419,
+    "description": "Boosts P.DEF by {value}%. (MAX 2 stacks)",
+    "name": "P.DEF Up"
+  },
+  {
+    "id": 610420,
+    "description": "Boosts M.DEF by {value}%. (MAX 80%)",
+    "name": "M.DEF Up"
+  },
+  {
+    "id": 610421,
+    "description": "Boosts P.DEF by {value}%. (MAX 80%)",
+    "name": "P.DEF Up"
+  },
+  {
+    "id": 610422,
+    "description": "Boosts M.ATK by {value}%. (MAX 30%)",
+    "name": "M.ATK Up"
+  },
+  {
+    "id": 610423,
+    "description": "Boosts P.ATK by {value}%. (MAX 30%)",
+    "name": "P.ATK Up"
+  },
+  {
+    "id": 800209,
+    "description": "Boosts skill damage by {value}%. (MAX 3 stacks)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 910196,
+    "description": "Boosts damage received by {value}%. (MAX 4 stacks)",
+    "name": "Received Damage Up"
   }
 ]

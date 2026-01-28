@@ -1383,5 +1383,10 @@
     "id": 1227,
     "description": "Reduces all allies' damage received from area attacks by {0}% (fixed).",
     "name": "Obsidian Bracelet"
+  },
+  {
+    "id": 1228,
+    "description": "While equipped to Walther [Suit of Vertex], after attacking or when taking damage, boosts all allies' skill damage by {0}% for 1 turn. (MAX 3 stacks)",
+    "name": "Illglaive"
   }
 ]

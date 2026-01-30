@@ -109,6 +109,7 @@ namespace AtelierResleriana.Localization.Utilities
         - ルクル → Ruku - One of the fairy trio encountered in Dimensional Paths, each with their own personality
         - ポック → Poku - One of the fairy trio encountered in Dimensional Paths, each with their own personality  
         - ボネボネ → Bonbon - One of the fairy trio encountered in Dimensional Paths, each with their own personality
+        - ティム・ディーゼル (ティム) → Tim Diezel (Tim) - Geron's younger brother who was sick but helped by the team.
         """;
 
         private static Dictionary<string, string> SpeakerNotes = new Dictionary<string, string>
@@ -195,6 +196,7 @@ namespace AtelierResleriana.Localization.Utilities
             { "ボネボネ", "Bonbon is one of the fairy trio encountered in Dimensional Paths. Each fairy has their own distinct personality. They help Rias and Slade as thanks for being taken out of the dimensional paths. The fairies have a somewhat defiant attitude, as shown by their quote about not being confused with 'snotty-nosed brats.'" },
             { "リーベ", "Liebe seems to be working with the Palme, alongside Gou. One of the Miraculous Nine. Speaks rather formally." },
             { "ゴゥ", "Gou seems to be working with the Palme, and addresses Saskia as Mother. One of the Miraculous Nine. Protective of Valeria." },
+            { "ティム", "Tim is Geron's younger brother." },
             // System and narrative elements
             { "？？？", "Unknown speaker - maintain mysterious tone appropriate to context." },
             { "ナレーション", "Narrator speaks in a clear, neutral tone providing context or background information." },
@@ -1120,6 +1122,7 @@ namespace AtelierResleriana.Localization.Utilities
                 WEAK攻撃時 - when attacking a weakness
                 得意属性 - affinity, commonly used in phrases like 得意属性が斬属性の時 (when equipped to a character with Slash affinity), 得意属性が突属性かつブレイカーの時 (when equipped to a Breaker with Stab affinity), 得意属性が雷属性の味方全員 (all allies with Bolt affinity).
                 スキルランプ - charge indicators - some skills can have charge indicators which are "charged" (equivalent of the JP's skill lamp terminiology getting "lit").
+                先駆け - initiative - often granted by abilities, and causes affected characters to act first.
 
                 Templating Examples:
                 得意属性が雷属性かつディフェンダーの時 - while equipped to a Defender with Bolt affinity

@@ -4990,5 +4990,126 @@
     "small_banner_label": "Paid Limited!",
     "start_at": "2026-01-26T03:00:00Z",
     "step_up_loop_description": ""
+  },
+  {
+    "id": 2341,
+    "description": "Tim makes his debut & is on Pick-Up!\nUntil 2026/02/24 11:59 (UTC+8)",
+    "end_at": "2026-02-24T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Brothers of Dawn and Dusk: Tim - LEGEND FES",
+    "name": "Brothers of Dawn and Dusk: Tim - LEGEND FES",
+    "start_at": "2026-01-30T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2342,
+    "description": "After wishing 50 times with Paid Lodestar Gems, an additional wish will appear!\nUntil 2026/02/24 11:59 (UTC+8)",
+    "end_at": "2026-02-24T03:00:00Z",
+    "name": "Brothers of Dawn and Dusk: Tim - LEGEND FES [Paid Lodestar Gems Only]",
+    "small_banner_label": "Paid Only!",
+    "start_at": "2026-01-30T03:00:00Z",
+    "step_up_loop_description": "{} cycles remaining"
+  },
+  {
+    "id": 2343,
+    "description": "Geron makes his debut & is on Pick-Up!\nUntil 2026/02/24 11:59 (UTC+8)",
+    "end_at": "2026-02-24T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Brothers of Dawn and Dusk: Geron - LEGEND FES",
+    "name": "Brothers of Dawn and Dusk: Geron - LEGEND FES",
+    "start_at": "2026-02-04T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2344,
+    "description": "Wish 50 times with paid Lodestar Gems to unlock an additional wish!\nUntil 2026/02/24 10:59 (UTC+8).",
+    "end_at": "2026-02-24T03:00:00Z",
+    "name": "Brothers of the Dawn: Geron LEGEND FES [Paid Lodestar Gems Only]",
+    "small_banner_label": "Paid Only!",
+    "start_at": "2026-02-04T03:00:00Z",
+    "step_up_loop_description": "{} Rounds Left"
+  },
+  {
+    "id": 3046,
+    "description": "Max 10 rounds! STEP 4 is free once!\nGuaranteed SSR Memoria of your choice!\nUntil 2026/03/02 10:59 (UTC+8).",
+    "end_at": "2026-03-02T03:00:00Z",
+    "name": "SSR Memoria Guaranteed Wishlist Wish [New Stars]",
+    "small_banner_label": "Guaranteed SSR Memoria of Your Choice",
+    "start_at": "2026-01-30T03:00:00Z",
+    "step_up_loop_description": "{} Rounds Left"
+  },
+  {
+    "id": 234201,
+    "description": "Max 5 times! 2x rate up!\nGet 16 medals!\nUntil 2026/02/24 10:59 (UTC+8).",
+    "end_at": "2026-02-24T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10005,
+            "description": "With bonus!\n{} times left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Brothers of the Dawn: Tim LEGEND FES [Paid Lodestar Gems Only]",
+    "name": "Brothers of the Dawn: Tim LEGEND FES [Paid Lodestar Gems Only]",
+    "small_banner_label": "Paid Only!",
+    "start_at": "2026-01-30T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 234401,
+    "description": "Limited to 5 times! PU rate doubled!\nReceive 16 Medals, until 2026/02/24 11:59 (UTC+8)",
+    "end_at": "2026-02-24T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10005,
+            "description": "Bonus included!\n{} remaining!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Brother of Dawn Geron LEGEND FES [Paid Only]",
+    "name": "Brother of Dawn Geron LEGEND FES [Paid Only]",
+    "small_banner_label": "Paid Only!",
+    "start_at": "2026-02-04T03:00:00Z",
+    "step_up_loop_description": ""
   }
 ]

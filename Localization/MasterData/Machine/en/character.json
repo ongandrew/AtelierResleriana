@@ -1037,5 +1037,37 @@
     "profile_voice_text": "Slade Clauslyter. A descendant of the guardians.\nNice to meet you.",
     "sort_name": "Slade",
     "start_at": "2026-01-21T03:00:00Z"
+  },
+  {
+    "id": 44102,
+    "acquisition_text": "Even with this cursed body of mine,\nI can go anywhere with my brother!",
+    "another_name": "Break the Curse",
+    "description": "An alchemist whose body is partially transformed into that of a beast. He was once a member of the Polar Night Alchemists, where he would stop at nothing to help his younger brother Tim. Now, together with a recovered Tim, he cooperates with the Lantarna Knights. He finds daily joy in watching his energetic brother grow.",
+    "fullname": "Geron Diezel",
+    "leader_skill": {
+      "description": "All Knight characters gain initiative and boosts their critical damage by 50%.",
+      "name": "Beyond the Curse"
+    },
+    "name": "Geron",
+    "overlay_name": "Geron Diezel",
+    "profile_voice_text": "I'm Geron Diezel, an adventurer.\nI'm cooperating with the Royal Knights alongside my brother Tim.",
+    "sort_name": "Geron",
+    "start_at": "2026-02-04T03:00:00Z"
+  },
+  {
+    "id": 46401,
+    "acquisition_text": "Just like my brother... I want to become\nsomeone who can help everyone too!",
+    "another_name": "Little Knight",
+    "description": "Geron's younger brother, a boy whose body is partially transformed into that of a beast. Though he suffered under the curse, he recovered thanks to Geron, Resna, and the others. He now cooperates with the Lantarna Knights alongside Geron. He has a cheerful and kind personality, and after all the kindness he has received, he wishes to live his life helping others.",
+    "fullname": "Tim Diezel",
+    "leader_skill": {
+      "description": "All Diligent characters restore their own HP by 5% when receiving an attack. Also boosts their skill damage and stun damage by 50%.",
+      "name": "Kindhearted and Energetic Youth"
+    },
+    "name": "Tim",
+    "overlay_name": "Tim Diezel",
+    "profile_voice_text": "Tim Diezel. I'm Geron's younger brother.\nThanks to everyone, I'm all better now!",
+    "sort_name": "Tim",
+    "start_at": "2026-01-30T03:00:00Z"
   }
 ]

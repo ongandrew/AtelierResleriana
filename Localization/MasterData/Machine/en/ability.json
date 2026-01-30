@@ -8993,5 +8993,185 @@
     "id": 600000770,
     "description": "When Walther [Suit of Vertex] or Slade [Inheritor of White Will] is in the party, reduces damage received by 25% (Max 25%).",
     "name": "Walther [Suit of Vertex] or Slade [Inheritor of White Will] Damage Received Reduction"
+  },
+  {
+    "id": 301312,
+    "description": "While equipped to Team [Little Knight], at the start of battle, grants all allies the following effect: When attacking a target with Shadow of the Ravenous Wolf Lv. 5 or higher, boosts that attack's skill power by {0}%.",
+    "name": "Beyond the Curse"
+  },
+  {
+    "id": 301313,
+    "description": "While equipped to Geron [Break the Curse], when attacking a target with Shadow of the Ravenous Wolf Lv. 3 or higher, boosts own attack's critical rate by {0}% and critical damage by {1}%.",
+    "name": "Hades Fang"
+  },
+  {
+    "id": 1980231,
+    "description": "Diligent grants When hit by an attack, restores own HP by 5% and Boosts skill damage and stun damage by 50%.",
+    "name": "Kindhearted Energetic Youth"
+  },
+  {
+    "id": 1980232,
+    "description": "Knight grants Vanguard and Boosts critical damage by 50%.",
+    "name": "Beyond the Curse"
+  },
+  {
+    "id": 1990516,
+    "description": "Converts own Burst Skill to a gauge system.<br>Note: Burst gauge can store up to 3 cycles.<br><br>After attacking an enemy granted Shadow of the Ravenous Wolf, increases own burst gauge by {0}%.<br>After activating a skill, restores all allies' HP by {1}%.",
+    "name": "Following in My Brother's Footsteps"
+  },
+  {
+    "id": 1990517,
+    "description": "At the start of battle, grants all allies with a physical affinity the following additional effect:<br>Additional Effect: When receiving HP recovery, grants self Critical damage +35% (max 210%) (fixed effect potency).<br><br>Note: Does not include recovery effects triggered at the start of battle.",
+    "name": "Devotion to My Brother"
+  },
+  {
+    "id": 1990518,
+    "description": "Converts own Burst Skill to a gauge system.<br>Note: Burst gauge can store up to 2 cycles.<br><br>After attacking an enemy granted Shadow of the Ravenous Wolf, increases own burst gauge by {0}%.<br>When attacking a target granted Shadow of the Ravenous Wolf (Lv. 10), grants Burst skill damage +{1}% for 1 turn and increases own burst gauge by {2}% (activates up to 3 times).",
+    "name": "As a Reliable Brother"
+  },
+  {
+    "id": 1990519,
+    "description": "When there is another Knight besides self in the party, base P.ATK +{0}.",
+    "name": "Dreams Shared with My Brother"
+  },
+  {
+    "id": 4991238,
+    "description": "While equipped to a Supporter with Stab affinity, when receiving HP recovery, grants all allies Skill damage +{0}% for 1 turn (max 3 stacks).<br>While equipped to a character with Sweets, boosts HP recovery granted by {1}%.",
+    "name": "Imagination \"Eternal Teacher's Love Guide!?\""
+  },
+  {
+    "id": 4991239,
+    "description": "While equipped to a Supporter with Stab affinity, when receiving HP recovery, grants all allies Skill damage +{0}% for 1 turn (max 3 stacks).<br>While equipped to a character with Sweets, boosts HP recovery granted by {1}%.",
+    "name": "Imagination \"Eternal Teacher's Love Guide!?\""
+  },
+  {
+    "id": 4991240,
+    "description": "While equipped to a Supporter with Stab affinity, when receiving HP recovery, grants all allies Skill damage +{0}% for 1 turn (max 3 stacks).<br>While equipped to a character with Sweets, boosts HP recovery granted by {1}%.",
+    "name": "Imagination \"Eternal Teacher's Love Guide!?\""
+  },
+  {
+    "id": 4991241,
+    "description": "While equipped to a Supporter with Stab affinity, when receiving HP recovery, grants all allies Skill damage +{0}% for 1 turn (max 3 stacks).<br>While equipped to a character with Sweets, boosts HP recovery granted by {1}%.",
+    "name": "Imagination \"Eternal Teacher's Love Guide!?\""
+  },
+  {
+    "id": 4991242,
+    "description": "While equipped to a Supporter with Stab affinity, when receiving HP recovery, grants all allies Skill damage +{0}% for 1 turn (max 3 stacks).<br>While equipped to a character with Sweets, boosts HP recovery granted by {1}%.",
+    "name": "Imagination \"Eternal Teacher's Love Guide!?\""
+  },
+  {
+    "id": 4991243,
+    "description": "While equipped to an Attacker with Slash affinity, boosts burst skill damage by {0}%.<br>While equipped to a character with Knight, boosts area attack skill damage by {1}%.",
+    "name": "Imagination \"Filled with Sweet Happiness\""
+  },
+  {
+    "id": 4991244,
+    "description": "While equipped to an Attacker with Slash affinity, boosts burst skill damage by {0}%.<br>While equipped to a character with Knight, boosts area attack skill damage by {1}%.",
+    "name": "Imagination \"Filled with Sweet Happiness\""
+  },
+  {
+    "id": 4991245,
+    "description": "While equipped to an Attacker with Slash affinity, boosts burst skill damage by {0}%.<br>While equipped to a character with Knight, boosts area attack skill damage by {1}%.",
+    "name": "Imagination \"Filled with Sweet Happiness\""
+  },
+  {
+    "id": 4991246,
+    "description": "While equipped to an Attacker with Slash affinity, boosts burst skill damage by {0}%.<br>While equipped to a character with Knight, boosts area attack skill damage by {1}%.",
+    "name": "Imagination \"Filled with Sweet Happiness\""
+  },
+  {
+    "id": 4991247,
+    "description": "While equipped to an Attacker with Slash affinity, boosts burst skill damage by {0}%.<br>While equipped to a character with Knight, boosts area attack skill damage by {1}%.",
+    "name": "Imagination \"Filled with Sweet Happiness\""
+  },
+  {
+    "id": 4991248,
+    "description": "While equipped to a character with a magical affinity, boosts own M.ATK by {0}%.<br>While equipped to an Attacker, boosts skill damage by {1}%.<br>At the start of battle, increases own burst gauge by {2}%.",
+    "name": "Imagination \"To Reclaim Alchemy\""
+  },
+  {
+    "id": 4991249,
+    "description": "While equipped to a character with a magical affinity, boosts own M.ATK by {0}%.<br>While equipped to an Attacker, boosts skill damage by {1}%.<br>At the start of battle, increases own burst gauge by {2}%.",
+    "name": "Imagination \"To Reclaim Alchemy\""
+  },
+  {
+    "id": 4991250,
+    "description": "While equipped to a character with magical affinity, boosts own M.ATK by {0}%.<br>While equipped to an Attacker, boosts skill damage by {1}%.<br>At the start of battle, increases own burst gauge by {2}%.",
+    "name": "Imagination \"To Reclaim Alchemy\""
+  },
+  {
+    "id": 4991251,
+    "description": "While equipped to a character with magical affinity, boosts own M.ATK by {0}%.<br>While equipped to an Attacker, boosts skill damage by {1}%.<br>At the start of battle, increases own burst gauge by {2}%.",
+    "name": "Imagination \"To Reclaim Alchemy\""
+  },
+  {
+    "id": 4991252,
+    "description": "While equipped to a character with magical affinity, boosts own M.ATK by {0}%.<br>While equipped to an Attacker, boosts skill damage by {1}%.<br>At the start of battle, increases own burst gauge by {2}%.",
+    "name": "Imagination \"To Reclaim Alchemy\""
+  },
+  {
+    "id": 4991253,
+    "description": "While equipped to a character with physical affinity, boosts own P.ATK by {0}%.<br>While equipped to an Attacker, boosts skill damage by {1}%.<br>At the start of battle, increases own burst gauge by {2}%.",
+    "name": "Imagination \"To Find What Matters\""
+  },
+  {
+    "id": 4991254,
+    "description": "While equipped to a character with physical affinity, boosts own P.ATK by {0}%.<br>While equipped to an Attacker, boosts skill damage by {1}%.<br>At the start of battle, increases own burst gauge by {2}%.",
+    "name": "Imagination \"To Find What Matters\""
+  },
+  {
+    "id": 4991255,
+    "description": "While equipped to a character with physical affinity, boosts own P.ATK by {0}%.<br>While equipped to an Attacker, boosts skill damage by {1}%.<br>At the start of battle, increases own burst gauge by {2}%.",
+    "name": "Imagination \"To Find What Matters\""
+  },
+  {
+    "id": 4991256,
+    "description": "While equipped to a character with physical affinity, boosts own P.ATK by {0}%.<br>While equipped to an Attacker, boosts skill damage by {1}%.<br>At the start of battle, increases own burst gauge by {2}%.",
+    "name": "Imagination \"To Find What Matters\""
+  },
+  {
+    "id": 4991257,
+    "description": "While equipped to a character with physical affinity, boosts own P.ATK by {0}%.<br>While equipped to an Attacker, boosts skill damage by {1}%.<br>At the start of battle, increases own burst gauge by {2}%.",
+    "name": "Imagination \"To Find What Matters\""
+  },
+  {
+    "id": 26078016,
+    "description": "Boosts damage dealt by 15% against targets with status effects or negative effects.",
+    "name": ""
+  },
+  {
+    "id": 26143111,
+    "description": "When single target attack causes enemy to faint, grants Nullify Positive Effects to all enemies for 1 turn.",
+    "name": ""
+  },
+  {
+    "id": 26216015,
+    "description": "When hit during Burst Skill, grants self Damage Received Down by 5%. (MAX 30%)",
+    "name": ""
+  },
+  {
+    "id": 600000111,
+    "description": "Boosts potency of positive effects granted by 150% for Tim [Little Knight].",
+    "name": "Tim [Little Knight] Positive Effect Potency Up"
+  },
+  {
+    "id": 600000112,
+    "description": "Boosts skill power by 100% for Geron [Break the Curse].",
+    "name": "Geron [Break the Curse] Skill Power Up"
+  },
+  {
+    "id": 600000113,
+    "description": "When Tim [Little Knight] or Walther [Suit of Vertex] is in the party, reduces damage received by 25%. (MAX 25%)",
+    "name": "Tim [Little Knight] or Walther [Suit of Vertex] Party Damage Received Down"
+  },
+  {
+    "id": 600000114,
+    "description": "When Geron [Break the Curse] or Tim [Little Knight] is in the party, reduces damage received by 25%. (MAX 25%)",
+    "name": "Geron [Break the Curse] or Tim [Little Knight] Party Damage Received Down"
+  },
+  {
+    "id": 600000115,
+    "description": "While equipped to a character with the Knight tag, boosts skill power by 100%.",
+    "name": "Knight Tag Skill Power Up"
   }
 ]

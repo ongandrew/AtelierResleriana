@@ -250,5 +250,17 @@
     "effect_name": "HP recovery for characters with Bolt affinity {}",
     "name": "Hallfein Ground Survey Mission Battle Conqueror",
     "start_at": "2026-01-26T03:00:00Z"
+  },
+  {
+    "id": 112,
+    "effect_name": "Single target attack damage for characters with Stab affinity {}",
+    "name": "Chocolate for a Hero Boss Challenge Conqueror",
+    "start_at": "2026-01-30T03:00:00Z"
+  },
+  {
+    "id": 113,
+    "effect_name": "Critical damage for characters with Slash affinity {}",
+    "name": "Chocolate for a Hero Mission Battle Conqueror",
+    "start_at": "2026-02-04T03:00:00Z"
   }
 ]

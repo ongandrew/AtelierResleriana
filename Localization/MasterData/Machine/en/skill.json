@@ -28588,5 +28588,833 @@
     "description": "After attacking, reduces all enemies' damage dealt by 40% for 2 turns.",
     "name": "Chaos Explosion",
     "summary": ""
+  },
+  {
+    "id": 11003414,
+    "description": "After attacking, restores {0}% HP to all allies.<br>Grants skill damage +{1}% and stun damage +{2}%. (All MAX 40%)",
+    "name": "Bolt Shot",
+    "summary": "After attacking, restores HP to all allies and boosts skill damage and stun damage."
+  },
+  {
+    "id": 11003415,
+    "description": "After attacking, restores {0}% HP to all allies.<br>Grants skill damage +{1}% and stun damage +{2}%. (All MAX 40%)",
+    "name": "Bolt Shot",
+    "summary": "After attacking, restores HP to all allies and boosts skill damage and stun damage."
+  },
+  {
+    "id": 11003416,
+    "description": "After attacking, restores {0}% HP to all allies.<br>Grants skill damage +{1}% and stun damage +{2}%. (All MAX 40%)",
+    "name": "Bolt Shot",
+    "summary": "After attacking, restores HP to all allies and boosts skill damage and stun damage."
+  },
+  {
+    "id": 11003417,
+    "description": "After attacking, restores {0}% HP to all allies.<br>Grants skill damage +{1}% and stun damage +{2}%. (All MAX 40%)",
+    "name": "Bolt Shot",
+    "summary": "After attacking, restores HP to all allies and boosts skill damage and stun damage."
+  },
+  {
+    "id": 11003418,
+    "description": "After attacking, restores {0}% HP to all allies.<br>Grants skill damage +{1}% and stun damage +{2}%. (All MAX 40%)",
+    "name": "Bolt Shot",
+    "summary": "After attacking, restores HP to all allies and boosts skill damage and stun damage."
+  },
+  {
+    "id": 11003429,
+    "description": "After attacking, grants self P.ATK +{0}% and skill damage +{1}% for 3 turns.",
+    "name": "Crimson Slash",
+    "summary": "After attacking, boosts own P.ATK and skill damage."
+  },
+  {
+    "id": 11003430,
+    "description": "After attacking, grants self P.ATK +{0}% and skill damage +{1}% for 3 turns.",
+    "name": "Crimson Slash",
+    "summary": "After attacking, boosts own P.ATK and skill damage."
+  },
+  {
+    "id": 11003431,
+    "description": "After attacking, grants self P.ATK +{0}% and skill damage +{1}% for 3 turns.",
+    "name": "Crimson Slash",
+    "summary": "After attacking, boosts own P.ATK and skill damage."
+  },
+  {
+    "id": 11003432,
+    "description": "After attacking, grants self P.ATK +{0}% and skill damage +{1}% for 3 turns.",
+    "name": "Crimson Slash",
+    "summary": "After attacking, boosts own P.ATK and skill damage."
+  },
+  {
+    "id": 11003433,
+    "description": "After attacking, grants self P.ATK +{0}% and skill damage +{1}% for 3 turns.",
+    "name": "Crimson Slash",
+    "summary": "After attacking, boosts own P.ATK and skill damage."
+  },
+  {
+    "id": 12003419,
+    "description": "Restores target's HP by {0}%.<br>Grants target P.ATK +{1}% for 2 turns.<br>Grants all allies HP recovery +{2}% at the start of turn for 2 turns.<br>Grants the following additional effect for 2 turns:<br>Additional effect: After attacking, if Shadow of the Ravenous Wolf has not been granted to target, grants Shadow of the Ravenous Wolf (Lv. 1). If already granted, Shadow of the Ravenous Wolf Lv +1 (MAX Lv. 10).<br><br>Based on number of characters with Diligent tag, grants all allies with physical affinity burst skill damage +10–30% and HP recovery received +15–45% for 2 turns (higher boost for more characters, 1–3 characters).<br>*Each Lv. of Shadow of the Ravenous Wolf: Received P. ATK damage +20% (fixed effect) (Cannot be removed except when incapacitated).",
+    "name": "Rescue Shower",
+    "summary": "Restores target's HP and boosts P.ATK.<br>Grants regeneration and additional effect to all allies.<br>Based on number of characters with Diligent tag, boosts burst skill damage and HP recovery received for all allies with physical affinity."
+  },
+  {
+    "id": 12003420,
+    "description": "Restores target's HP by {0}%.<br>Grants target P.ATK +{1}% for 2 turns.<br>Grants all allies HP recovery +{2}% at the start of turn for 2 turns.<br>Grants the following additional effect for 2 turns:<br>Additional effect: After attacking, if Shadow of the Ravenous Wolf has not been granted to target, grants Shadow of the Ravenous Wolf (Lv. 1). If already granted, Shadow of the Ravenous Wolf Lv +1 (MAX Lv. 10).<br><br>Based on number of characters with Diligent tag, grants all allies with physical affinity burst skill damage +10–30% and HP recovery received +15–45% for 2 turns (higher boost for more characters, 1–3 characters).<br>*Each Lv. of Shadow of the Ravenous Wolf: Received P. ATK damage +20% (fixed effect) (Cannot be removed except when incapacitated).",
+    "name": "Rescue Shower",
+    "summary": "Restores target's HP and boosts P.ATK.<br>Grants regeneration and additional effect to all allies.<br>Based on number of characters with Diligent tag, boosts burst skill damage and HP recovery received for all allies with physical affinity."
+  },
+  {
+    "id": 12003421,
+    "description": "Restores target's HP by {0}%.<br>Grants target P.ATK +{1}% for 2 turns.<br>Grants all allies HP recovery +{2}% at the start of turn for 2 turns.<br>Grants the following additional effect for 2 turns:<br>Additional effect: After attacking, if Shadow of the Ravenous Wolf has not been granted to target, grants Shadow of the Ravenous Wolf (Lv. 1). If already granted, Shadow of the Ravenous Wolf Lv +1 (MAX Lv. 10).<br><br>Based on number of characters with Diligent tag, grants all allies with physical affinity burst skill damage +10–30% and HP recovery received +15–45% for 2 turns (higher boost for more characters, 1–3 characters).<br>*Each Lv. of Shadow of the Ravenous Wolf: Received P. ATK damage +20% (fixed effect) (Cannot be removed except when incapacitated).",
+    "name": "Rescue Shower",
+    "summary": "Restores target's HP and boosts P.ATK.<br>Grants regeneration and additional effect to all allies.<br>Based on number of characters with Diligent tag, boosts burst skill damage and HP recovery received for all allies with physical affinity."
+  },
+  {
+    "id": 12003422,
+    "description": "Restores target's HP by {0}%.<br>Grants target P.ATK +{1}% for 2 turns.<br>Grants all allies HP recovery +{2}% at the start of turn for 2 turns.<br>Grants the following additional effect for 2 turns:<br>Additional effect: After attacking, if Shadow of the Ravenous Wolf has not been granted to target, grants Shadow of the Ravenous Wolf (Lv. 1). If already granted, Shadow of the Ravenous Wolf Lv +1 (MAX Lv. 10).<br><br>Based on number of characters with Diligent tag, grants all allies with physical affinity burst skill damage +10–30% and HP recovery received +15–45% for 2 turns (higher boost for more characters, 1–3 characters).<br>*Each Lv. of Shadow of the Ravenous Wolf: Received P. ATK damage +20% (fixed effect) (Cannot be removed except when incapacitated).",
+    "name": "Rescue Shower",
+    "summary": "Restores target's HP and boosts P.ATK.<br>Grants regeneration and additional effect to all allies.<br>Based on number of characters with Diligent tag, boosts burst skill damage and HP recovery received for all allies with physical affinity."
+  },
+  {
+    "id": 12003423,
+    "description": "Restores target's HP by {0}%.<br>Grants target P.ATK +{1}% for 2 turns.<br>Grants all allies HP recovery +{2}% at the start of turn for 2 turns.<br>Grants the following additional effect for 2 turns:<br>Additional effect: After attacking, if Shadow of the Ravenous Wolf has not been granted to target, grants Shadow of the Ravenous Wolf (Lv. 1). If already granted, Shadow of the Ravenous Wolf Lv +1 (MAX Lv. 10).<br><br>Based on number of characters with Diligent tag, grants all allies with physical affinity burst skill damage +10–30% and HP recovery received +15–45% for 2 turns (higher boost for more characters, 1–3 characters).<br>*Each Lv. of Shadow of the Ravenous Wolf: Received P. ATK damage +20% (fixed effect) (Cannot be removed except when incapacitated).",
+    "name": "Rescue Shower",
+    "summary": "Restores target's HP and boosts P.ATK.<br>Grants regeneration and additional effect to all allies.<br>Based on number of characters with Diligent tag, boosts burst skill damage and HP recovery received for all allies with physical affinity."
+  },
+  {
+    "id": 12003434,
+    "description": "Before attacking, reduces target's Slash resistance by {0}% for 1 attack.<br>After attacking, grants self P.ATK +{1}% for 2 turns and skill damage +{2}% (MAX 100%).<br>If Shadow of the Ravenous Wolf has not been granted to target, grants Shadow of the Ravenous Wolf (Lv. 2). If already granted, Shadow of the Ravenous Wolf Lv +2 (MAX Lv. 10).<br>*Each Lv. of Shadow of the Ravenous Wolf: Received P. ATK damage +20% (fixed effect) (Cannot be removed except when incapacitated).",
+    "name": "Fierce Cross",
+    "summary": "Before attacking, reduces target's Slash resistance.<br>After attacking, boosts own P.ATK and skill damage.<br>Grants or increases Lv of Shadow of the Ravenous Wolf to target."
+  },
+  {
+    "id": 12003435,
+    "description": "Before attacking, reduces target's Slash resistance by {0}% for 1 attack.<br>After attacking, grants self P.ATK +{1}% for 2 turns and skill damage +{2}% (MAX 100%).<br>If Shadow of the Ravenous Wolf has not been granted to target, grants Shadow of the Ravenous Wolf (Lv. 2). If already granted, Shadow of the Ravenous Wolf Lv +2 (MAX Lv. 10).<br>*Each Lv. of Shadow of the Ravenous Wolf: Received P. ATK damage +20% (fixed effect) (Cannot be removed except when incapacitated).",
+    "name": "Fierce Cross",
+    "summary": "Before attacking, reduces target's Slash resistance.<br>After attacking, boosts own P.ATK and skill damage.<br>Grants or increases Lv of Shadow of the Ravenous Wolf to target."
+  },
+  {
+    "id": 12003436,
+    "description": "Before attacking, reduces target's Slash resistance by {0}% for 1 attack.<br>After attacking, grants self P.ATK +{1}% for 2 turns and skill damage +{2}% (MAX 100%).<br>If Shadow of the Ravenous Wolf has not been granted to target, grants Shadow of the Ravenous Wolf (Lv. 2). If already granted, Shadow of the Ravenous Wolf Lv +2 (MAX Lv. 10).<br>*Each Lv. of Shadow of the Ravenous Wolf: Received P. ATK damage +20% (fixed effect) (Cannot be removed except when incapacitated).",
+    "name": "Fierce Cross",
+    "summary": "Before attacking, reduces target's Slash resistance.<br>After attacking, boosts own P.ATK and skill damage.<br>Grants or increases Lv of Shadow of the Ravenous Wolf to target."
+  },
+  {
+    "id": 12003437,
+    "description": "Before attacking, reduces target's Slash resistance by {0}% for 1 attack.<br>After attacking, grants self P.ATK +{1}% for 2 turns and skill damage +{2}% (MAX 100%).<br>If Shadow of the Ravenous Wolf has not been granted to target, grants Shadow of the Ravenous Wolf (Lv. 2). If already granted, Shadow of the Ravenous Wolf Lv +2 (MAX Lv. 10).<br>*Each Lv. of Shadow of the Ravenous Wolf: Received P. ATK damage +20% (fixed effect) (Cannot be removed except when incapacitated).",
+    "name": "Fierce Cross",
+    "summary": "Before attacking, reduces target's Slash resistance.<br>After attacking, boosts own P.ATK and skill damage.<br>Grants or increases Lv of Shadow of the Ravenous Wolf to target."
+  },
+  {
+    "id": 12003438,
+    "description": "Before attacking, reduces target's Slash resistance by {0}% for 1 attack.<br>After attacking, grants self P.ATK +{1}% for 2 turns and skill damage +{2}% (MAX 100%).<br>If Shadow of the Ravenous Wolf has not been granted to target, grants Shadow of the Ravenous Wolf (Lv. 2). If already granted, Shadow of the Ravenous Wolf Lv +2 (MAX Lv. 10).<br>*Each Lv. of Shadow of the Ravenous Wolf: Received P. ATK damage +20% (fixed effect) (Cannot be removed except when incapacitated).",
+    "name": "Fierce Cross",
+    "summary": "Before attacking, reduces target's Slash resistance.<br>After attacking, boosts own P.ATK and skill damage.<br>Grants or increases Lv of Shadow of the Ravenous Wolf to target."
+  },
+  {
+    "id": 14003424,
+    "description": "Boosts this attack's critical rate by 100% and critical damage by {0}%.<br>After attacking, boosts all allies' P.ATK by {1}% for 2 turns.<br>If Shadow of the Ravenous Wolf has not been granted to target, grants Shadow of the Ravenous Wolf (Lv. 2).<br>If already granted, increases Shadow of the Ravenous Wolf level by 2 (Max Lv. 10).<br>Based on the number of characters with the Diligent tag, boosts skill damage by 20-60% for all allies with physical affinities for 2 turns. (Higher boost for more characters, range: 1-3).<br>*Each level of Shadow of the Ravenous Wolf increases physical damage received by 20% (fixed potency) (not removed except when incapacitated).",
+    "name": "Heavenly Arrows",
+    "summary": "Boosts this attack's critical rate and critical damage.<br>After attacking, boosts all allies' P.ATK.<br>Grants Shadow of the Ravenous Wolf to target or increases level.<br>Based on number of Diligent characters, boosts skill damage for all allies with physical affinities."
+  },
+  {
+    "id": 14003425,
+    "description": "Boosts this attack's critical rate by 100% and critical damage by {0}%.<br>After attacking, boosts all allies' P.ATK by {1}% for 2 turns.<br>If Shadow of the Ravenous Wolf has not been granted to target, grants Shadow of the Ravenous Wolf (Lv. 2).<br>If already granted, increases Shadow of the Ravenous Wolf level by 2 (Max Lv. 10).<br>Based on the number of characters with the Diligent tag, boosts skill damage by 20-60% for all allies with physical affinities for 2 turns. (Higher boost for more characters, range: 1-3).<br>*Each level of Shadow of the Ravenous Wolf increases physical damage received by 20% (fixed potency) (not removed except when incapacitated).",
+    "name": "Heavenly Arrows",
+    "summary": "Boosts this attack's critical rate and critical damage.<br>After attacking, boosts all allies' P.ATK.<br>Grants Shadow of the Ravenous Wolf to target or increases level.<br>Based on number of Diligent characters, boosts skill damage for all allies with physical affinities."
+  },
+  {
+    "id": 14003426,
+    "description": "Boosts this attack's critical rate by 100% and critical damage by {0}%.<br>After attacking, boosts all allies' P.ATK by {1}% for 2 turns.<br>If Shadow of the Ravenous Wolf has not been granted to target, grants Shadow of the Ravenous Wolf (Lv. 2).<br>If already granted, increases Shadow of the Ravenous Wolf level by 2 (Max Lv. 10).<br>Based on the number of characters with the Diligent tag, boosts skill damage by 20-60% for all allies with physical affinities for 2 turns. (Higher boost for more characters, range: 1-3).<br>*Each level of Shadow of the Ravenous Wolf increases physical damage received by 20% (fixed potency) (not removed except when incapacitated).",
+    "name": "Heavenly Arrows",
+    "summary": "Boosts this attack's critical rate and critical damage.<br>After attacking, boosts all allies' P.ATK.<br>Grants Shadow of the Ravenous Wolf to target or increases level.<br>Based on number of Diligent characters, boosts skill damage for all allies with physical affinities."
+  },
+  {
+    "id": 14003427,
+    "description": "Boosts this attack's critical rate by 100% and critical damage by {0}%.<br>After attacking, boosts all allies' P.ATK by {1}% for 2 turns.<br>If Shadow of the Ravenous Wolf has not been granted to target, grants Shadow of the Ravenous Wolf (Lv. 2).<br>If already granted, increases Shadow of the Ravenous Wolf level by 2 (Max Lv. 10).<br>Based on the number of characters with the Diligent tag, boosts skill damage by 20-60% for all allies with physical affinities for 2 turns. (Higher boost for more characters, range: 1-3).<br>*Each level of Shadow of the Ravenous Wolf increases physical damage received by 20% (fixed potency) (not removed except when incapacitated).",
+    "name": "Heavenly Arrows",
+    "summary": "Boosts this attack's critical rate and critical damage.<br>After attacking, boosts all allies' P.ATK.<br>Grants Shadow of the Ravenous Wolf to target or increases level.<br>Based on number of Diligent characters, boosts skill damage for all allies with physical affinities."
+  },
+  {
+    "id": 14003428,
+    "description": "Boosts this attack's critical rate by 100% and critical damage by {0}%.<br>After attacking, boosts all allies' P.ATK by {1}% for 2 turns.<br>If Shadow of the Ravenous Wolf has not been granted to target, grants Shadow of the Ravenous Wolf (Lv. 2).<br>If already granted, increases Shadow of the Ravenous Wolf level by 2 (Max Lv. 10).<br>Based on the number of characters with the Diligent tag, boosts skill damage by 20-60% for all allies with physical affinities for 2 turns. (Higher boost for more characters, range: 1-3).<br>*Each level of Shadow of the Ravenous Wolf increases physical damage received by 20% (fixed potency) (not removed except when incapacitated).",
+    "name": "Heavenly Arrows",
+    "summary": "Boosts this attack's critical rate and critical damage.<br>After attacking, boosts all allies' P.ATK.<br>Grants Shadow of the Ravenous Wolf to target or increases level.<br>Based on number of Diligent characters, boosts skill damage for all allies with physical affinities."
+  },
+  {
+    "id": 14003439,
+    "description": "Boosts this attack's critical rate by 100% and critical damage by {0}%.<br>Before attacking, removes own negative effects and status effects.<br>After attacking, consumes own HP by {1}% and grants self skill damage boost by {2}% (Max 150%).<br>If Shadow of the Ravenous Wolf has not been granted to target, grants Shadow of the Ravenous Wolf (Lv. 3).<br>If already granted, increases Shadow of the Ravenous Wolf level by 3 (Max Lv. 10).<br>*Each level of Shadow of the Ravenous Wolf increases physical damage received by 20% (fixed potency) (not removed except when incapacitated).",
+    "name": "Dead on Howling",
+    "summary": "Boosts this attack's critical rate and critical damage.<br>Before attacking, removes own negative effects and status effects.<br>After attacking, consumes own HP and boosts skill damage.<br>Grants Shadow of the Ravenous Wolf to target or increases level."
+  },
+  {
+    "id": 14003440,
+    "description": "Boosts this attack's critical rate by 100% and critical damage by {0}%.<br>Before attacking, removes own negative effects and status effects.<br>After attacking, consumes own HP by {1}% and grants self skill damage boost by {2}% (Max 150%).<br>If Shadow of the Ravenous Wolf has not been granted to target, grants Shadow of the Ravenous Wolf (Lv. 3).<br>If already granted, increases Shadow of the Ravenous Wolf level by 3 (Max Lv. 10).<br>*Each level of Shadow of the Ravenous Wolf increases physical damage received by 20% (fixed potency) (not removed except when incapacitated).",
+    "name": "Dead on Howling",
+    "summary": "Boosts this attack's critical rate and critical damage.<br>Before attacking, removes own negative effects and status effects.<br>After attacking, consumes own HP and boosts skill damage.<br>Grants Shadow of the Ravenous Wolf to target or increases level."
+  },
+  {
+    "id": 14003441,
+    "description": "Boosts this attack's critical rate by 100% and critical damage by {0}%.<br>Before attacking, removes own negative effects and status effects.<br>After attacking, consumes own HP by {1}% and grants self skill damage boost by {2}% (Max 150%).<br>If Shadow of the Ravenous Wolf has not been granted to target, grants Shadow of the Ravenous Wolf (Lv. 3).<br>If already granted, increases Shadow of the Ravenous Wolf level by 3 (Max Lv. 10).<br>*Each level of Shadow of the Ravenous Wolf increases physical damage received by 20% (fixed potency) (not removed except when incapacitated).",
+    "name": "Dead on Howling",
+    "summary": "Boosts this attack's critical rate and critical damage.<br>Before attacking, removes own negative effects and status effects.<br>After attacking, consumes own HP and boosts skill damage.<br>Grants Shadow of the Ravenous Wolf to target or increases level."
+  },
+  {
+    "id": 14003442,
+    "description": "Boosts this attack's critical rate by 100% and critical damage by {0}%.<br>Before attacking, removes own negative effects and status effects.<br>After attacking, consumes own HP by {1}% and grants self skill damage boost by {2}% (Max 150%).<br>If Shadow of the Ravenous Wolf has not been granted to target, grants Shadow of the Ravenous Wolf (Lv. 3).<br>If already granted, increases Shadow of the Ravenous Wolf level by 3 (Max Lv. 10).<br>*Each level of Shadow of the Ravenous Wolf increases physical damage received by 20% (fixed potency) (not removed except when incapacitated).",
+    "name": "Dead on Howling",
+    "summary": "Boosts this attack's critical rate and critical damage.<br>Before attacking, removes own negative effects and status effects.<br>After attacking, consumes own HP and boosts skill damage.<br>Grants Shadow of the Ravenous Wolf to target or increases level."
+  },
+  {
+    "id": 14003443,
+    "description": "Boosts this attack's critical rate by 100% and critical damage by {0}%.<br>Before attacking, removes own negative effects and status effects.<br>After attacking, consumes own HP by {1}% and grants self skill damage boost by {2}% (Max 150%).<br>If Shadow of the Ravenous Wolf has not been granted to target, grants Shadow of the Ravenous Wolf (Lv. 3).<br>If already granted, increases Shadow of the Ravenous Wolf level by 3 (Max Lv. 10).<br>*Each level of Shadow of the Ravenous Wolf increases physical damage received by 20% (fixed potency) (not removed except when incapacitated).",
+    "name": "Dead on Howling",
+    "summary": "Boosts this attack's critical rate and critical damage.<br>Before attacking, removes own negative effects and status effects.<br>After attacking, consumes own HP and boosts skill damage.<br>Grants Shadow of the Ravenous Wolf to target or increases level."
+  },
+  {
+    "id": 32004397,
+    "description": "No additional effects.",
+    "name": "Tumble Down",
+    "summary": ""
+  },
+  {
+    "id": 32004398,
+    "description": "No additional effects.",
+    "name": "Puni Bomber",
+    "summary": ""
+  },
+  {
+    "id": 32004399,
+    "description": "No additional effects.",
+    "name": "Puni Breath",
+    "summary": ""
+  },
+  {
+    "id": 32004400,
+    "description": "Recovers target ally's HP by 15%.",
+    "name": "Heal",
+    "summary": ""
+  },
+  {
+    "id": 32004401,
+    "description": "Reduces target's damage dealt by 10% for 1 turn.",
+    "name": "Puni Dark",
+    "summary": ""
+  },
+  {
+    "id": 32004402,
+    "description": "No additional effects.",
+    "name": "Horn Attack",
+    "summary": ""
+  },
+  {
+    "id": 32004403,
+    "description": "Increases damage received by 15% for 5 turns for enemies with 75% HP or higher.",
+    "name": "Unpleasant Cry",
+    "summary": ""
+  },
+  {
+    "id": 32004404,
+    "description": "Reduces own damage received by 15% for 3 turns.",
+    "name": "Full Power Cry",
+    "summary": ""
+  },
+  {
+    "id": 32004405,
+    "description": "Grants self Cover for 3 turns and Counter for 2 counterattacks.",
+    "name": "Charge Preparations",
+    "summary": ""
+  },
+  {
+    "id": 32004406,
+    "description": "No additional effects.",
+    "name": "Ice Rain",
+    "summary": ""
+  },
+  {
+    "id": 32004407,
+    "description": "No additional effects.",
+    "name": "Horn Counter",
+    "summary": ""
+  },
+  {
+    "id": 32004408,
+    "description": "After attacking, boosts all allies' damage dealt by 20% for 5 turns.",
+    "name": "Hellfire Gift",
+    "summary": ""
+  },
+  {
+    "id": 32004409,
+    "description": "After attacking, boosts all allies' damage dealt by 10% for 5 turns.",
+    "name": "Magic Fire Gift",
+    "summary": ""
+  },
+  {
+    "id": 32004410,
+    "description": "After attacking, boosts all allies' damage dealt by 10% for 5 turns.",
+    "name": "Wide Range Fire Gift",
+    "summary": ""
+  },
+  {
+    "id": 32004411,
+    "description": "Restores 15% of all allies' stun gauge and HP.",
+    "name": "Heal All",
+    "summary": ""
+  },
+  {
+    "id": 32004412,
+    "description": "After attacking, reduces all allies' damage received by 30% for 3 turns.",
+    "name": "Earnest Surprise",
+    "summary": ""
+  },
+  {
+    "id": 32004413,
+    "description": "After attacking, increases target's damage received by 30% for 3 turns and reduces SPD by 10% for 3 turns.",
+    "name": "Bittersweet Choco Rock",
+    "summary": ""
+  },
+  {
+    "id": 32004414,
+    "description": "No additional effects.",
+    "name": "Chocolate Bomb",
+    "summary": ""
+  },
+  {
+    "id": 32004415,
+    "description": "After attacking, boosts own damage dealt by 25% for 3 turns.",
+    "name": "Scorching Choco Magma",
+    "summary": ""
+  },
+  {
+    "id": 32004416,
+    "description": "Grants all allies Regeneration (10%) for 3 turns and reduces damage received by 30% for 3 turns.",
+    "name": "Sweet Shower",
+    "summary": ""
+  },
+  {
+    "id": 32004417,
+    "description": "After attacking, increases skill target's damage received by 30% for 2 turns.",
+    "name": "Earnest For You",
+    "summary": ""
+  },
+  {
+    "id": 32004418,
+    "description": "After attacking, reduces skill target's Stab resistance by 25% for 2 turns.",
+    "name": "Bittersweet Choco Stone",
+    "summary": ""
+  },
+  {
+    "id": 32004419,
+    "description": "No additional effects.",
+    "name": "Chocolate Bomb",
+    "summary": ""
+  },
+  {
+    "id": 32004420,
+    "description": "After attacking, reduces all enemies' M.ATK by 30% for 2 turns.",
+    "name": "Scorching Choco Fire",
+    "summary": ""
+  },
+  {
+    "id": 32004421,
+    "description": "No additional effects.",
+    "name": "Sugar Shower",
+    "summary": ""
+  },
+  {
+    "id": 32004422,
+    "description": "No additional effects.",
+    "name": "Bomb Throw",
+    "summary": ""
+  },
+  {
+    "id": 32004423,
+    "description": "No additional effects.",
+    "name": "Fire Spiral",
+    "summary": ""
+  },
+  {
+    "id": 32004424,
+    "description": "Increases skill target's damage received by 20% for 2 turns.",
+    "name": "Power Ritual",
+    "summary": ""
+  },
+  {
+    "id": 32004425,
+    "description": "No additional effects.",
+    "name": "Hellfire Spiral",
+    "summary": ""
+  },
+  {
+    "id": 32004426,
+    "description": "Reduces skill target's M.ATK by 35% for 2 turns.",
+    "name": "Power Offering",
+    "summary": ""
+  },
+  {
+    "id": 32004427,
+    "description": "No effect.",
+    "name": "Wind Toss",
+    "summary": ""
+  },
+  {
+    "id": 32004428,
+    "description": "No effect.",
+    "name": "Gale Toss",
+    "summary": ""
+  },
+  {
+    "id": 32004429,
+    "description": "No effect.",
+    "name": "Whip Up",
+    "summary": ""
+  },
+  {
+    "id": 32004430,
+    "description": "Reduces skill target's damage dealt by 30% for 2 attacks.",
+    "name": "Power Suppression",
+    "summary": ""
+  },
+  {
+    "id": 32004431,
+    "description": "Boosts own SPD by 10% for 5 attacks.",
+    "name": "Speed Gift",
+    "summary": ""
+  },
+  {
+    "id": 32004432,
+    "description": "After attacking, reduces all allies' damage received by 30% for 3 attacks.",
+    "name": "Earnest Surprise",
+    "summary": ""
+  },
+  {
+    "id": 32004433,
+    "description": "After attacking, increases target's damage received by 30% for 3 attacks and reduces SPD by 10% for 3 attacks.",
+    "name": "Bitter Choco Lock",
+    "summary": ""
+  },
+  {
+    "id": 32004434,
+    "description": "No effect.",
+    "name": "Chocolate Bomb",
+    "summary": ""
+  },
+  {
+    "id": 32004435,
+    "description": "After attacking, boosts own damage dealt by 25% for 3 attacks.",
+    "name": "Piping Hot Choco Magma",
+    "summary": ""
+  },
+  {
+    "id": 32004436,
+    "description": "Grants Regeneration (10% for 3 attacks) and reduces damage received by 30% for 3 attacks to all allies.",
+    "name": "Sweet Shower",
+    "summary": ""
+  },
+  {
+    "id": 32004437,
+    "description": "After attacking, increases skill target's damage received by 30% for 2 attacks.",
+    "name": "Earnest For You",
+    "summary": ""
+  },
+  {
+    "id": 32004438,
+    "description": "After attacking, reduces skill target's Stab resistance by 25% for 2 attacks.",
+    "name": "Bitter Choco Stone",
+    "summary": ""
+  },
+  {
+    "id": 32004439,
+    "description": "No effect.",
+    "name": "Chocolate Bomb",
+    "summary": ""
+  },
+  {
+    "id": 32004440,
+    "description": "After attacking, reduces all enemies' M.ATK by 30% for 2 attacks.",
+    "name": "Piping Hot Choco Fire",
+    "summary": ""
+  },
+  {
+    "id": 32004441,
+    "description": "No effect.",
+    "name": "Sugar Shower",
+    "summary": ""
+  },
+  {
+    "id": 32004442,
+    "description": "No effect.",
+    "name": "Bolt Toss",
+    "summary": ""
+  },
+  {
+    "id": 32004443,
+    "description": "No effect.",
+    "name": "Bolt Volley",
+    "summary": ""
+  },
+  {
+    "id": 32004444,
+    "description": "No effect.",
+    "name": "Thundering Bolt Volley",
+    "summary": ""
+  },
+  {
+    "id": 32004445,
+    "description": "Reduces skill target's M.ATK by 25% for 2 attacks and P.ATK by 25% for 2 attacks.",
+    "name": "Power Suppression",
+    "summary": ""
+  },
+  {
+    "id": 32004446,
+    "description": "Increases skill target's damage dealt by 30% for 2 attacks.",
+    "name": "Power Gift",
+    "summary": ""
+  },
+  {
+    "id": 32004447,
+    "description": "No effect",
+    "name": "Fire Throw",
+    "summary": ""
+  },
+  {
+    "id": 32004448,
+    "description": "No effect",
+    "name": "Ice Throw",
+    "summary": ""
+  },
+  {
+    "id": 32004449,
+    "description": "No effect",
+    "name": "Bolt Throw",
+    "summary": ""
+  },
+  {
+    "id": 32004450,
+    "description": "No effect",
+    "name": "Air Throw",
+    "summary": ""
+  },
+  {
+    "id": 32004451,
+    "description": "No effect",
+    "name": "Rock Barrage",
+    "summary": ""
+  },
+  {
+    "id": 32004452,
+    "description": "No effect",
+    "name": "Boulder Barrage",
+    "summary": ""
+  },
+  {
+    "id": 32004453,
+    "description": "Increases target's damage received by 30% for 2 attacks.",
+    "name": "Armor-Piercing Rock Throw",
+    "summary": ""
+  },
+  {
+    "id": 32004454,
+    "description": "Grants target Poison (2%/5 turns) 5 times.",
+    "name": "Poison Share",
+    "summary": ""
+  },
+  {
+    "id": 32004455,
+    "description": "After attacking, delays target's turn by 1 turn.",
+    "name": "Tackle",
+    "summary": ""
+  },
+  {
+    "id": 32004456,
+    "description": "No effect",
+    "name": "Rush",
+    "summary": ""
+  },
+  {
+    "id": 32004457,
+    "description": "After attacking, reduces target's damage dealt by 20% for 3 attacks.",
+    "name": "Meteor Rush",
+    "summary": ""
+  },
+  {
+    "id": 32004458,
+    "description": "No effect",
+    "name": "Fire Slash",
+    "summary": ""
+  },
+  {
+    "id": 32004459,
+    "description": "Increases target's damage dealt by 20% for 3 attacks.",
+    "name": "Cheer Up",
+    "summary": ""
+  },
+  {
+    "id": 32004460,
+    "description": "No effect",
+    "name": "Exploding Vortex",
+    "summary": ""
+  },
+  {
+    "id": 32004461,
+    "description": "After attacking, grants target Paralysis for 2 turns (50% chance to apply).",
+    "name": "Seal Blow",
+    "summary": ""
+  },
+  {
+    "id": 32004462,
+    "description": "After attacking, reduces own damage received by 15% for 2 attacks.",
+    "name": "Filas Fir Needle",
+    "summary": ""
+  },
+  {
+    "id": 32004463,
+    "description": "No effect",
+    "name": "Fire Tornado",
+    "summary": ""
+  },
+  {
+    "id": 32004464,
+    "description": "After attacking, boosts own damage dealt by 15% for 2 attacks.",
+    "name": "Fire Dance",
+    "summary": ""
+  },
+  {
+    "id": 32004465,
+    "description": "Restores 10% HP to all allies and removes all status effects from all allies.",
+    "name": "Magic Recovery",
+    "summary": ""
+  },
+  {
+    "id": 32004466,
+    "description": "No effect",
+    "name": "Glide",
+    "summary": ""
+  },
+  {
+    "id": 32004467,
+    "description": "Boosts own damage dealt by 15% for 3 turns.",
+    "name": "Aerial Dance",
+    "summary": ""
+  },
+  {
+    "id": 32004468,
+    "description": "After attacking, inflicts Paralysis on target for 3 turns.",
+    "name": "Paralyze Gale",
+    "summary": ""
+  },
+  {
+    "id": 32004469,
+    "description": "効果なし",
+    "name": "Mini Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32004470,
+    "description": "After attacking, inflicts Darkness on target for 1 turn.",
+    "name": "Mortal Fin",
+    "summary": ""
+  },
+  {
+    "id": 32004471,
+    "description": "After attacking, grants self Evasion (70% chance) for 1 turn.",
+    "name": "Heavy Bite",
+    "summary": ""
+  },
+  {
+    "id": 32004472,
+    "description": "After attacking, reduces target's SPD by 5% for 2 turns and stun damage by 15% for 3 turns.",
+    "name": "Thunder Ball",
+    "summary": ""
+  },
+  {
+    "id": 32004473,
+    "description": "After attacking, creates a paralysis panel within the first 2 slots on the timeline.",
+    "name": "Thunder Breath",
+    "summary": ""
+  },
+  {
+    "id": 32004474,
+    "description": "Inflicts Darkness on all enemies and allies for 1 turn.",
+    "name": "Blinding",
+    "summary": ""
+  },
+  {
+    "id": 32004475,
+    "description": "After attacking, removes 3 status changes from all enemies.",
+    "name": "Ribbon Tornado",
+    "summary": ""
+  },
+  {
+    "id": 32004476,
+    "description": "After attacking, reduces own damage received by 30% for 2 turns.",
+    "name": "Tail Smack",
+    "summary": ""
+  },
+  {
+    "id": 32004477,
+    "description": "After attacking, reduces target's SPD by 10% for 2 turns.",
+    "name": "Ribbon Toss",
+    "summary": ""
+  },
+  {
+    "id": 32004478,
+    "description": "After attacking, reduces all enemies' damage dealt by 35% for 2 turns and Air resistance by 35% for 3 turns.",
+    "name": "Peach Storm",
+    "summary": ""
+  },
+  {
+    "id": 32004479,
+    "description": "効果なし",
+    "name": "Peach Wind",
+    "summary": ""
+  },
+  {
+    "id": 32004480,
+    "description": "Inflicts 6 instances of Poison (2% damage/2 turns) on all enemies and reduces own status effect resistance by 50% for 2 turns.",
+    "name": "Poison Spray",
+    "summary": ""
+  },
+  {
+    "id": 32004481,
+    "description": "After attacking, converts 1 panel on all enemies' timelines to an empty panel.",
+    "name": "Mill Storm",
+    "summary": ""
+  },
+  {
+    "id": 32004482,
+    "description": "効果なし",
+    "name": "Tail Rush",
+    "summary": ""
+  },
+  {
+    "id": 32004483,
+    "description": "After attacking, converts 1 panel on target's timeline to a weaken panel.",
+    "name": "Wind Ball",
+    "summary": ""
+  },
+  {
+    "id": 32004484,
+    "description": "After attacking, reduces all enemies' SPD by 3% for 1 turn.",
+    "name": "Blood Storm",
+    "summary": ""
+  },
+  {
+    "id": 32004485,
+    "description": "Boosts all allies' panel boost effect potency by 45% for 2 turns and restores HP by 15%.",
+    "name": "Inspiring Cry",
+    "summary": ""
+  },
+  {
+    "id": 32004486,
+    "description": "After attacking, grants target Nullify Positive Effects for 1 turn.",
+    "name": "Dishevelment",
+    "summary": ""
+  },
+  {
+    "id": 32004487,
+    "description": "No additional effects.",
+    "name": "Jumping Tackle",
+    "summary": ""
+  },
+  {
+    "id": 32004488,
+    "description": "No additional effects.",
+    "name": "Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 32004489,
+    "description": "After attacking, reduces all enemies' damage dealt by 30% for 3 turns.",
+    "name": "Black Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 32004490,
+    "description": "Boosts target ally's damage dealt by 35% for 3 turns.",
+    "name": "Relax",
+    "summary": ""
+  },
+  {
+    "id": 32004491,
+    "description": "After attacking, removes 3 status changes from all enemies.",
+    "name": "Ribbon Tornado",
+    "summary": ""
+  },
+  {
+    "id": 32004492,
+    "description": "After attacking, reduces own damage received by 30% for 2 turns.",
+    "name": "Tail Bash",
+    "summary": ""
+  },
+  {
+    "id": 32004493,
+    "description": "After attacking, reduces skill target's SPD by 10% for 2 turns.",
+    "name": "Ribbon Strike",
+    "summary": ""
+  },
+  {
+    "id": 32004494,
+    "description": "After attacking, reduces all enemies' damage dealt by 35% for 2 turns and reduces Air resistance by 35% for 3 turns.",
+    "name": "Peach Storm",
+    "summary": ""
+  },
+  {
+    "id": 32004495,
+    "description": "No additional effects.",
+    "name": "Peach Wind",
+    "summary": ""
+  },
+  {
+    "id": 32004496,
+    "description": "Inflicts Poison (2% for 2 turns) on all enemies 6 times and reduces own status effect resistance by 50% for 2 turns.",
+    "name": "Poison Spray",
+    "summary": ""
+  },
+  {
+    "id": 32004497,
+    "description": "After attacking, converts 1 panel for the next ally into a burst panel.",
+    "name": "Ice Dance",
+    "summary": ""
+  },
+  {
+    "id": 32004498,
+    "description": "After attacking, inflicts Sleep (for 1 turn) on targets with SPD Down.",
+    "name": "Ice Spin",
+    "summary": ""
+  },
+  {
+    "id": 32004499,
+    "description": "After attacking, reduces all enemies' damage dealt by 30% for 2 turns.",
+    "name": "Ice Mist",
+    "summary": ""
+  },
+  {
+    "id": 32004500,
+    "description": "Reduces target's SPD by 5% for 3 turns.",
+    "name": "Speed Down",
+    "summary": ""
+  },
+  {
+    "id": 32004501,
+    "description": "Grants self Cover (for 2 turns).\nGrants self Regeneration (5% for 6 turns).",
+    "name": "Tough Covering",
+    "summary": ""
+  },
+  {
+    "id": 32004502,
+    "description": "No additional effects.",
+    "name": "Turtle Head",
+    "summary": ""
+  },
+  {
+    "id": 32004503,
+    "description": "No additional effects.",
+    "name": "Raging Turtle",
+    "summary": ""
+  },
+  {
+    "id": 32004504,
+    "description": "Inflicts Taunt on all enemies for 2 turns and reduces own damage received by 25% for 3 turns.",
+    "name": "Shell Sign",
+    "summary": ""
   }
 ]

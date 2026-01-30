@@ -13473,5 +13473,235 @@
     "id": 120000863,
     "description": "While Walther [Suit of Vertex] is in the party, reduces damage received.",
     "popup_text": ""
+  },
+  {
+    "id": 2000385,
+    "description": "Increases burst gauge received.",
+    "popup_text": ""
+  },
+  {
+    "id": 2000386,
+    "description": "Decreases burst gauge received.",
+    "popup_text": ""
+  },
+  {
+    "id": 2000387,
+    "description": "Increases burst gauge given.",
+    "popup_text": ""
+  },
+  {
+    "id": 2000388,
+    "description": "Decreases burst gauge given.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001220,
+    "description": "While equipped to Tim [Little Knight], at the start of battle, grants all allies skill power up for attacks when the target's Shadow of the Starving Wolf is Lv. 5 or higher (fixed amount).",
+    "popup_text": ""
+  },
+  {
+    "id": 6001221,
+    "description": "Boosts skill power when attack target's Shadow of the Starving Wolf is Lv. 5 or higher (fixed amount).",
+    "popup_text": ""
+  },
+  {
+    "id": 6001222,
+    "description": "While equipped to Geron [Break the Curse], boosts own attack's critical rate when attack target's Shadow of the Starving Wolf is Lv. 3 or higher.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001223,
+    "description": "Boosts own attack's critical rate when attack target's Shadow of the Starving Wolf is Lv. 3 or higher.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001224,
+    "description": "While equipped to Geron [Break the Curse], boosts own attack's critical damage when attack target's Shadow of the Starving Wolf is Lv. 3 or higher.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001225,
+    "description": "Boosts own attack's critical damage when attack target's Shadow of the Starving Wolf is Lv. 3 or higher.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001599,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001600,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001601,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001602,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001603,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001604,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001605,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 86143033,
+    "description": "When defeating an enemy with a single target attack, grants nullify positive effects to all enemies (1 time).",
+    "popup_text": ""
+  },
+  {
+    "id": 86216101,
+    "description": "When hit by a Burst Skill, grants self damage dealt down (up to 30%).",
+    "popup_text": ""
+  },
+  {
+    "id": 91002104,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002105,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002106,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002107,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002108,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002109,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002110,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002111,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002112,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002113,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002114,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002115,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002116,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002142,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000345,
+    "description": "While equipped to a Supporter with Stab affinity, when own recovery occurs, boosts all allies' skill damage for 1 turn. (MAX 3 stacks)",
+    "popup_text": ""
+  },
+  {
+    "id": 95000346,
+    "description": "While equipped to a character with the Sweets tag, boosts HP recovery given.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000347,
+    "description": "While equipped to an Attacker with Slash affinity, boosts burst skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000348,
+    "description": "While equipped to a character with the Knight tag, boosts skill damage for area attacks.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000349,
+    "description": "While equipped to a character with a magical affinity, boosts own M. ATK.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000350,
+    "description": "While equipped to an Attacker, boosts skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000351,
+    "description": "Increases burst gauge gain.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000352,
+    "description": "While equipped to a character with physical affinity, boosts P.ATK.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000864,
+    "description": "While equipped to Tim [Little Knight], boosts positive effects.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000865,
+    "description": "While equipped to Geron [Break the Curse], boosts skill power.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000866,
+    "description": "When Tim [Little Knight] is in the party, reduces damage received.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000867,
+    "description": "When Geron [Break the Curse] is in the party, reduces damage received.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000869,
+    "description": "While equipped to a character with the Knight tag, boosts skill power.",
+    "popup_text": ""
   }
 ]

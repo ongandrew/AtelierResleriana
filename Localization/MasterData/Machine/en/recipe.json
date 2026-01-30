@@ -2279,5 +2279,27 @@
     ],
     "start_at": "2026-01-26T03:00:00Z",
     "tracking_id": "af_synthesis_recipe_822"
+  },
+  {
+    "id": 823,
+    "name": "Beyond the Curse",
+    "requirements": [
+      {
+        "name": "Awaken Tim [Little Knight] to ★5"
+      }
+    ],
+    "start_at": "2026-01-30T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_823"
+  },
+  {
+    "id": 824,
+    "name": "Hades Fang",
+    "requirements": [
+      {
+        "name": "Awaken Geron [Break the Curse] to ★5"
+      }
+    ],
+    "start_at": "2026-02-04T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_824"
   }
 ]

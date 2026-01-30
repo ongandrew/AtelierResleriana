@@ -2422,5 +2422,57 @@
   {
     "id": 60175035,
     "description": "- When KO'd, advances allies' turns\n- Grants allies immunity to damage below a certain threshold\n- Delays turn\n- Creates weaken panels\n- Nullifies resistance reduction for Strike and Stab elements"
+  },
+  {
+    "id": 60034041,
+    "description": "- Protection\n- Grants Regen to self\n- Converts allies' panels to burst panels\n- Inflicts Sleep on opponents with SPD Down\n- Nullifies resistance reduction for all elements except Slash and Stab"
+  },
+  {
+    "id": 60040037,
+    "description": "- Inflicts Nullify Positive Effects"
+  },
+  {
+    "id": 60066055,
+    "description": "- Boosts damage dealt to opponents with negative effects\n- Nullifies resistance reduction for all elements except Slash and Stab"
+  },
+  {
+    "id": 60072060,
+    "description": "- When stunned, removes own positive effects\n- Nullifies resistance reduction for all elements except Slash and Stab"
+  },
+  {
+    "id": 60075056,
+    "description": "- When stunned, removes positive effects\n- When stunned, inflicts SPD Down on self\n- Nullifies resistance reduction for all elements except Slash and Stab"
+  },
+  {
+    "id": 60078061,
+    "description": "- Boosts damage dealt to enemies with status effects\n- Boosts damage dealt to opponents with negative effects\n- Inflicts Poison\n- Nullifies resistance reduction for all elements except Slash and Stab"
+  },
+  {
+    "id": 60081042,
+    "description": "- Taunts\n- Restores HP and stun gauge with each turn\n- Nullifies resistance reduction for all elements except Slash and Stab"
+  },
+  {
+    "id": 60143035,
+    "description": "- Creates weaken panels\n- Creates empty panels\n- Restores all allies' HP\n- When KO'd by a single target attack, inflicts Nullify Positive Effects on all opponents"
+  },
+  {
+    "id": 60215034,
+    "description": "- Inflicts Poison\n- Removes multiple positive effects from all opponents\n- Inflicts Status Effect Resistance Down on self"
+  },
+  {
+    "id": 60215039,
+    "description": "- Inflicts Poison\n- Removes multiple positive effects from all opponents\n- Inflicts Status Effect Resistance Down on self\n- Nullifies resistance reduction for all elements except Slash and Stab"
+  },
+  {
+    "id": 60216052,
+    "description": "- When hit by a burst skill, reduces own damage dealt (up to 30%)\n- Grants Regen to all allies\n- Nullifies resistance reduction for all elements except Slash and Stab"
+  },
+  {
+    "id": 60217054,
+    "description": "- When KO'd, grants Regen to all opponents\n- Restores all allies' HP\n- Nullifies resistance reduction for all elements except Slash and Stab"
+  },
+  {
+    "id": 60224099,
+    "description": "- Restores all allies' HP and removes all status effects\n- Chance to inflict Paralysis"
   }
 ]

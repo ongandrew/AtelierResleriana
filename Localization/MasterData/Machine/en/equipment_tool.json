@@ -1388,5 +1388,15 @@
     "id": 1228,
     "description": "While equipped to Walther [Suit of Vertex], after attacking or when taking damage, boosts all allies' skill damage by {0}% for 1 turn. (MAX 3 stacks)",
     "name": "Illglaive"
+  },
+  {
+    "id": 1229,
+    "description": "While equipped to Tim [Little Knight], at the start of battle, grants all allies the following effect: when attack target's Shadow of the Starved Wolf is Lv. 5 or higher, boosts that attack's skill power by {0}%.",
+    "name": "Beyond the Curse"
+  },
+  {
+    "id": 1230,
+    "description": "While equipped to Geron [Break the Curse], when attack target's Shadow of the Starved Wolf is Lv. 3 or higher, boosts own attack's critical rate by {0}% and critical damage by {1}%.",
+    "name": "Hadesfang"
   }
 ]

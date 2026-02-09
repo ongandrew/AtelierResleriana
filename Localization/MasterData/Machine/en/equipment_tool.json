@@ -1398,5 +1398,35 @@
     "id": 1230,
     "description": "While equipped to Geron [Break the Curse], when attack target's Shadow of the Starved Wolf is Lv. 3 or higher, boosts own attack's critical rate by {0}% and critical damage by {1}%.",
     "name": "Hadesfang"
+  },
+  {
+    "id": 1231,
+    "description": "Boosts critical damage by {0}%.",
+    "name": "Noel Jacket"
+  },
+  {
+    "id": 1232,
+    "description": "Boosts critical damage by {0}%.",
+    "name": "Noel Jacket"
+  },
+  {
+    "id": 1233,
+    "description": "Boosts all allies' skill damage by {0}%.",
+    "name": "Light Helm"
+  },
+  {
+    "id": 1234,
+    "description": "Boosts all allies' skill damage by {0}%.",
+    "name": "Light Helm"
+  },
+  {
+    "id": 1235,
+    "description": "While equipped to Criselda (Polar Night Alchemist Leader), after attacking an enemy with status effects before using a skill, grants self critical rate +{0}% and critical damage +{1}% (all stack up to 3 times).",
+    "name": "Freiheit Shift"
+  },
+  {
+    "id": 1236,
+    "description": "While equipped to Antje (Doll-Playing Witch), after attacking an enemy with status effects before using a skill, grants skill power +{0}% to 1 ally with the highest M.ATK for 1 turn.",
+    "name": "Hex Stab"
   }
 ]

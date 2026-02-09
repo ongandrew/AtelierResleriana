@@ -2474,5 +2474,57 @@
   {
     "id": 60224099,
     "description": "- Restores all allies' HP and removes all status effects\n- Chance to inflict Paralysis"
+  },
+  {
+    "id": 10072003,
+    "description": "- Removes own positive effects when stunned"
+  },
+  {
+    "id": 60021023,
+    "description": "- Protection\n- Restores stun gauge after taking action"
+  },
+  {
+    "id": 60091039,
+    "description": "- At the start of battle, reduces own damage received\n- Grants Evasion to all allies\n- Heals all allies\n- Boosts damage dealt depending on the number of positive effect types\n- Nullifies resistance reduction for all elements except Ice, Slash, and Stab"
+  },
+  {
+    "id": 60109044,
+    "description": "- Heals self\n- Reduces own damage received and stun damage received"
+  },
+  {
+    "id": 60133022,
+    "description": "- Counters\n- At the start of battle, reduces own damage received and stun damage received\n- When recovering from stun, boosts own magical damage and SPD (once only)\n- When HP reaches a certain level, reduces own damage received and stun damage received\n- Reduces physical damage received by allies"
+  },
+  {
+    "id": 60133024,
+    "description": "- Counters\n- At the start of battle, reduces own damage received and stun damage received\n- When recovering from stun, boosts own magical damage and SPD (once only)\n- When HP reaches a certain level, reduces own damage received and stun damage received\n- Reduces physical damage received by allies\n- Nullifies resistance reduction for all elements except Ice and Stab"
+  },
+  {
+    "id": 60142021,
+    "description": "- When using weaken panels, inflicts Paralysis and boosts own damage received\n- Uses a powerful attack on the 4th turn\n- After the 5th turn, boosts own damage received and behavior changes\n- Inflicts Burn\n- Creates Burn panels"
+  },
+  {
+    "id": 60156041,
+    "description": "- Restores all allies' stun gauge and HP\n- When KO'd, removes positive effects from all allies and opponents\n- Nullifies resistance reduction for all elements except Ice, Slash, and Stab"
+  },
+  {
+    "id": 60169025,
+    "description": "- Heals all allies' HP\n- Restores allies' HP and stun gauge\n- Nullifies resistance reduction for all elements except Ice and Stab"
+  },
+  {
+    "id": 60191038,
+    "description": "- Converts all opponents' boost panels into empty panels\n- Converts all opponents' panels into weaken panels\n- Nullifies resistance reduction for all elements except Ice, Slash, and Stab"
+  },
+  {
+    "id": 60276011,
+    "description": "- When 2 or more positive effects are active on self, converts weaken panels into boost panels before the start of turn\n- When stunned, boosts own damage received (MAX 50%)\n- Receives increased skill power from area attacks\n- Receives increased stun damage from area attacks\n- Nullifies effects that delay own turns"
+  },
+  {
+    "id": 60276012,
+    "description": "- When 2 or more positive effects are active on self, converts weaken panels into boost panels before the start of turn\n- Boosts own critical rate\n- When stunned, boosts own damage received (MAX 50%)\n- Receives increased skill power from area attacks\n- Receives increased stun damage from area attacks\n- Nullifies effects that delay own turns"
+  },
+  {
+    "id": 60276018,
+    "description": "- When 2 or more positive effects are active on self, converts weaken panels into boost panels before the start of turn\n- Heals self\n- Boosts own critical rate\n- When stunned, boosts own damage received (MAX 50%)\n- Receives increased skill power from area attacks\n- Receives increased stun damage from area attacks\n- Nullifies effects that delay own turns"
   }
 ]

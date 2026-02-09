@@ -110,6 +110,8 @@ namespace AtelierResleriana.Localization.Utilities
         - ポック → Poku - One of the fairy trio encountered in Dimensional Paths, each with their own personality  
         - ボネボネ → Bonbon - One of the fairy trio encountered in Dimensional Paths, each with their own personality
         - ティム・ディーゼル (ティム) → Tim Diezel (Tim) - Geron's younger brother who was sick but helped by the team.
+        - ミルカ・クロッツェ (ミルカ) → Miruca Crotze (Miruca) - Quiet alchemist who runs a small atelier creating armor and weapons, Shallotte's childhood friend and Jurie's younger sister
+        - ユリエ・クロッツェ (ユリエ) → Jurie Crotze (Jurie) - Treasure hunter working to pay off debts with her sister Miruca, skilled with twin swords and enjoys reading
         """;
 
         private static Dictionary<string, string> SpeakerNotes = new Dictionary<string, string>
@@ -197,6 +199,8 @@ namespace AtelierResleriana.Localization.Utilities
             { "リーベ", "Liebe seems to be working with the Palme, alongside Gou. One of the Miraculous Nine. Speaks rather formally." },
             { "ゴゥ", "Gou seems to be working with the Palme, and addresses Saskia as Mother. One of the Miraculous Nine. Protective of Valeria." },
             { "ティム", "Tim is Geron's younger brother." },
+            { "ミルカ", "Miruca is a quiet alchemist who runs a small atelier where she creates armor and weapons for adventurers. She's Shallotte's childhood friend and Jurie's younger sister. She speaks softly and thoughtfully." },
+            { "ユリエ", "Jurie is a treasure hunter who dreams of striking it rich so she and her sister Miruca can pay off their debt. She's somewhat of a loner who enjoys the outdoors, reading, and writing. She uses twin swords in combat and speaks with determination and independence." },
             // System and narrative elements
             { "？？？", "Unknown speaker - maintain mysterious tone appropriate to context." },
             { "ナレーション", "Narrator speaks in a clear, neutral tone providing context or background information." },

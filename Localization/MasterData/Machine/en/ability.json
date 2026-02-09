@@ -9173,5 +9173,160 @@
     "id": 600000115,
     "description": "While equipped to a character with the Knight tag, boosts skill power by 100%.",
     "name": "Knight Tag Skill Power Up"
+  },
+  {
+    "id": 301314,
+    "description": "Boosts critical damage by {0}%.",
+    "name": "Nowal Jacket"
+  },
+  {
+    "id": 301315,
+    "description": "Boosts critical damage by {0}%.",
+    "name": "Nowal Jacket"
+  },
+  {
+    "id": 301316,
+    "description": "Boosts all allies' skill damage by {0}%.",
+    "name": "Light Helm"
+  },
+  {
+    "id": 301317,
+    "description": "Boosts all allies' skill damage by {0}%.",
+    "name": "Light Helm"
+  },
+  {
+    "id": 301318,
+    "description": "While equipped to Criselda [Leader of the Polar Night Alchemists], after attacking an enemy with a status effect before using a skill, grants self critical rate by {0}% and critical damage by {1}% (max 3 stacks each).",
+    "name": "Freiheit Schrift"
+  },
+  {
+    "id": 301319,
+    "description": "While equipped to Antje [Doll-Playing Witch], after attacking an enemy with a status effect before using a skill, grants the ally with the highest M.ATK skill power by {0}% for 1 turn.",
+    "name": "Hexen Stab"
+  },
+  {
+    "id": 1980233,
+    "description": "Dark Memories grants P.ATK, M.ATK, P.DEF, and M.DEF by 30%.",
+    "name": "Polar Night Charisma"
+  },
+  {
+    "id": 1980234,
+    "description": "Alchemist grants initiative and boosts skill damage by 50%.",
+    "name": "Polar Night Witch"
+  },
+  {
+    "id": 1990520,
+    "description": "Converts own burst skill to gauge-based.\n*Burst gauge can store up to 2 uses.\n\nAfter critical attack, increases own burst gauge by {0}%.\nAfter attacking an enemy with a status effect before using a skill, increases own burst gauge by {1}%.\n\nWhen own positive effects are 10 or more before using a skill, boosts critical rate by {2}%.\nWhen own critical rate exceeds 100%, during attacks, converts the excess critical rate increase beyond 100% into critical damage boost (max 400% conversion).",
+    "name": "Ancestral Alchemy"
+  },
+  {
+    "id": 1990521,
+    "description": "Boosts skill power by 30-150% based on number of characters with Dark Memories tag (Higher boost for more characters, range: 1-5 characters).\n\nAt the start of battle, charges 2 charge indicators for Sternchemischen.\nAfter attacking an enemy with a status effect before using a skill, charges 1 charge indicator for Sternchemischen.",
+    "name": "Aspiring Darkness"
+  },
+  {
+    "id": 1990522,
+    "description": "Converts own burst skill to gauge-based.\n*Burst gauge can store up to 3 uses.\n\nWhen attacking a weakness, increases own burst gauge by {0}%, recovers HP of all allies with Ice affinity or Dark Memories by {1}%, and grants them skill damage by {2}% (max 150%).\nAfter attacking an enemy with a status effect before using a skill, increases own burst gauge by {3}%, recovers HP of all allies with Ice affinity or Dark Memories by {4}%, and grants them P.ATK and M.ATK by {5}% (max 80%).",
+    "name": "No Need for Discomfort"
+  },
+  {
+    "id": 1990523,
+    "description": "Boosts base P.ATK and base M.ATK of all allies with Dark Memories by 50-400 based on number of characters with Dark Memories tag (Higher boost for more characters, range: 1-5 characters).",
+    "name": "Cursing Darkness"
+  },
+  {
+    "id": 4991258,
+    "description": "While equipped to an Attacker with Ice affinity, after attacking, grants self M.ATK by {0}% for 2 turns.\nWhile equipped to a Nurturer, boosts critical damage by {1}% when attacking an enemy with a status effect before using a skill.",
+    "name": "Imagination \"Ninjutsu VS Magic!?\""
+  },
+  {
+    "id": 4991259,
+    "description": "While equipped to an Attacker with Ice affinity, after attacking, grants self M.ATK by {0}% for 2 turns.\nWhile equipped to a Nurturer, boosts critical damage by {1}% when attacking an enemy with a status effect before using a skill.",
+    "name": "Imagination \"Ninjutsu VS Magic!?\""
+  },
+  {
+    "id": 4991260,
+    "description": "While equipped to an Attacker with Ice affinity, after attacking, grants self M.ATK by {0}% for 2 turns.\nWhile equipped to a Nurturer, boosts critical damage by {1}% when attacking an enemy with a status effect before using a skill.",
+    "name": "Imagination \"Ninjutsu VS Magic!?\""
+  },
+  {
+    "id": 4991261,
+    "description": "While equipped to an Attacker with Ice affinity, after attacking, grants self M.ATK by {0}% for 2 turns.\nWhile equipped to a Nurturer, boosts critical damage by {1}% when attacking an enemy with a status effect before using a skill.",
+    "name": "Imagination \"Ninjutsu VS Magic!?\""
+  },
+  {
+    "id": 4991262,
+    "description": "While equipped to an Attacker with Ice affinity, after attacking, grants self M.ATK by {0}% for 2 turns.\nWhile equipped to a Nurturer, boosts critical damage by {1}% when attacking an enemy with a status effect before using a skill.",
+    "name": "Imagination \"Ninjutsu VS Magic!?\""
+  },
+  {
+    "id": 4991263,
+    "description": "While equipped to a Supporter with Ice affinity, after attacking an enemy with a status effect before using a skill, grants self buff effect potency by {0}% for 1 turn.\nWhile equipped to a Quiet character, boosts all allies' skill damage by {1}%.",
+    "name": "Imagination \"Sisters' Daily Life\""
+  },
+  {
+    "id": 4991264,
+    "description": "While equipped to a Supporter with Ice affinity, after attacking an enemy with a status effect before using a skill, grants self buff effect potency by {0}% for 1 turn.\nWhile equipped to a Quiet character, boosts all allies' skill damage by {1}%.",
+    "name": "Imagination \"Sisters' Daily Life\""
+  },
+  {
+    "id": 4991265,
+    "description": "While equipped to a Supporter with Ice affinity, after attacking an enemy with a status effect before using a skill, grants self buff effect potency by {0}% for 1 turn.\nWhile equipped to a Quiet character, boosts all allies' skill damage by {1}%.",
+    "name": "Imagination \"Sisters' Daily Life\""
+  },
+  {
+    "id": 4991266,
+    "description": "While equipped to a Supporter with Ice affinity, after attacking enemies with status effects before skill activation, grants self Buff Potency +{0}% for 1 turn.<br>Boosts skill damage by {1}% for all allies for Quiet characters.",
+    "name": "Imagination \"Sisters' Daily Life\""
+  },
+  {
+    "id": 4991267,
+    "description": "While equipped to a Supporter with Ice affinity, after attacking enemies with status effects before skill activation, grants self Buff Potency +{0}% for 1 turn.<br>Boosts skill damage by {1}% for all allies for Quiet characters.",
+    "name": "Imagination \"Sisters' Daily Life\""
+  },
+  {
+    "id": 26105004,
+    "description": "Before the wave starts, grants self Skill Power Up (70%) against area attacks and Stun Damage Up (200%) against area attacks.\nWhen stunned, grants self Damage Received Up (10%/max 50%).",
+    "name": ""
+  },
+  {
+    "id": 26191003,
+    "description": "Nullifies resistance down for all elements except Ice and Stab.",
+    "name": ""
+  },
+  {
+    "id": 26191004,
+    "description": "Nullifies resistance down for all elements except Ice, Slash, and Stab.",
+    "name": ""
+  },
+  {
+    "id": 600000771,
+    "description": "Boosts skill power by 100% for Criselda [Leader of the Polar Night Alchemists].",
+    "name": "Criselda [Leader of the Polar Night Alchemists] Skill Power Up"
+  },
+  {
+    "id": 600000772,
+    "description": "Boosts buff potency given by 150% for Antje [Doll-Playing Witch].",
+    "name": "Antje [Doll-Playing Witch] Buff Potency Up"
+  },
+  {
+    "id": 600000773,
+    "description": "When Criselda [Leader of the Polar Night Alchemists] or Geron [Break the Curse] is in the party, reduces damage received by 25% (max 25%).",
+    "name": "When Criselda [Leader of the Polar Night Alchemists] or Geron [Break the Curse] is in Party, Damage Reduction"
+  },
+  {
+    "id": 600000774,
+    "description": "When Antje [Doll-Playing Witch] or Criselda [Leader of the Polar Night Alchemists] is in the party, reduces damage received by 25% (max 25%).",
+    "name": "When Antje [Doll-Playing Witch] or Criselda [Leader of the Polar Night Alchemists] is in Party, Damage Reduction"
+  },
+  {
+    "id": 600000775,
+    "description": "When Dark Recollection tag is active, boosts skill power by 100%.",
+    "name": "When Dark Recollection Tag is Active, Skill Power Up"
+  },
+  {
+    "id": 600000776,
+    "description": "Form a party with featured characters from the \"Dawn of Brothers\" and \"Dark Recollection\" wishes to gain advantageous buffs in battle!",
+    "name": "Form a party with featured characters from the \"Dawn of Brothers\" and \"Dark Recollection\" wishes to gain advantageous buffs in battle!"
   }
 ]

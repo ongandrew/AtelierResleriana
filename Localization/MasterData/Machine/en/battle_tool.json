@@ -373,5 +373,25 @@
     "id": 1007,
     "description": "Deals Bolt damage and Bolt stun damage to the enemy with the highest max HP.",
     "name": "Thunder Feet"
+  },
+  {
+    "id": 1008,
+    "description": "Boosts burst skill damage of the ally with highest M. ATK by {0}% when attacking enemies with status effects for 1 turn.",
+    "name": "Rose Chocolat Bomb"
+  },
+  {
+    "id": 1009,
+    "description": "Boosts burst skill damage of the ally with highest M. ATK by {0}% when attacking enemies with status effects for 1 turn.",
+    "name": "Rose Chocolat Bomb"
+  },
+  {
+    "id": 1010,
+    "description": "Restores 15% HP to all allies. After recovery, restores {0}% HP to the ally with the lowest HP.",
+    "name": "Sincere Biscuit"
+  },
+  {
+    "id": 1011,
+    "description": "Restores 10% HP to all allies. After recovery, restores {0}% HP to the ally with the lowest HP.",
+    "name": "Sincere Biscuit"
   }
 ]

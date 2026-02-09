@@ -1069,5 +1069,37 @@
     "profile_voice_text": "Tim Diezel. I'm Geron's younger brother.\nThanks to everyone, I'm all better now!",
     "sort_name": "Tim",
     "start_at": "2026-01-30T03:00:00Z"
+  },
+  {
+    "id": 44804,
+    "acquisition_text": "I am darkness itself. My name is Antje Moltke of the Polar Night Alchemists.",
+    "another_name": "Doll-Sending Witch",
+    "description": "An alchemist cloaked in a dark aura. A member of the Polar Night Alchemists, she assists her friend Criselda. The four stuffed animals always at her side are her friends, each with their own names, and she occasionally converses with them. She has been tearful since childhood and tends to think about things negatively.",
+    "fullname": "Antje Moltke",
+    "leader_skill": {
+      "description": "Grants Alchemist characters initiative and boosts their skill damage by 50%.",
+      "name": "Polar Night Witch"
+    },
+    "name": "Antje",
+    "overlay_name": "Antje Moltke",
+    "profile_voice_text": "I am Antje... One of the Polar Night Alchemists.\nI won't let anyone get in our way...",
+    "sort_name": "Antje",
+    "start_at": "2026-02-13T03:00:00Z"
+  },
+  {
+    "id": 45004,
+    "acquisition_text": "Everything is...for the sake of fulfilling my desire.",
+    "another_name": "Leader of the Polar Night Alchemists",
+    "description": "An alchemist of exceptional talent. As the leader of the Polar Night Alchemists, she conducts alchemy research to fulfill her own desires. With her natural charisma, she recruited talented alchemists from various regions into the Polar Night Alchemists and grew their power. Though her atmosphere is eerie, she has a domestic side, enjoying cooking and sewing.",
+    "fullname": "Criselda Amelhauser",
+    "leader_skill": {
+      "description": "Boosts P.ATK, M.ATK, P.DEF, and M.DEF by 30% for characters with Dark Memories.",
+      "name": "Polar Night's Charisma"
+    },
+    "name": "Criselda",
+    "overlay_name": "Criselda Amelhauser",
+    "profile_voice_text": "I am Criselda, leader of the Polar Night Alchemists.\nRemember that name well.",
+    "sort_name": "Criselda",
+    "start_at": "2026-02-09T03:00:00Z"
   }
 ]

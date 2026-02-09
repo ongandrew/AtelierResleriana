@@ -29416,5 +29416,581 @@
     "description": "Inflicts Taunt on all enemies for 2 turns and reduces own damage received by 25% for 3 turns.",
     "name": "Shell Sign",
     "summary": ""
+  },
+  {
+    "id": 32172,
+    "description": "Grants the ally with the highest M.ATK boosts burst skill damage by {0}% when attacking enemies with status effects for 1 turn.",
+    "name": "Rose Choco Bomb",
+    "summary": ""
+  },
+  {
+    "id": 32173,
+    "description": "Grants the ally with the highest M.ATK boosts burst skill damage by {0}% when attacking enemies with status effects for 1 turn.",
+    "name": "Rose Choco Bomb",
+    "summary": ""
+  },
+  {
+    "id": 32174,
+    "description": "Restores all allies' HP by 15%.<br>After recovery, restores the ally with the lowest HP percentage's HP by {0}%.",
+    "name": "Heart Biscuit",
+    "summary": ""
+  },
+  {
+    "id": 32175,
+    "description": "Restores all allies' HP by 10%.<br>After recovery, restores the ally with the lowest HP percentage's HP by {0}%.",
+    "name": "Heart Biscuit",
+    "summary": ""
+  },
+  {
+    "id": 11003469,
+    "description": "After attacking, grants self M.ATK Up by {0}% (MAX 30%) and boosts skill damage by {1}% for 2 turns.",
+    "name": "Weissheit",
+    "summary": "After attacking, boosts own M.ATK and skill damage."
+  },
+  {
+    "id": 11003470,
+    "description": "After attacking, grants self M.ATK Up by {0}% (MAX 30%) and boosts skill damage by {1}% for 2 turns.",
+    "name": "Weissheit",
+    "summary": "After attacking, boosts own M.ATK and skill damage."
+  },
+  {
+    "id": 11003471,
+    "description": "After attacking, grants self M.ATK Up by {0}% (MAX 30%) and boosts skill damage by {1}% for 2 turns.",
+    "name": "Weissheit",
+    "summary": "After attacking, boosts own M.ATK and skill damage."
+  },
+  {
+    "id": 11003472,
+    "description": "After attacking, grants self M.ATK Up by {0}% (MAX 30%) and boosts skill damage by {1}% for 2 turns.",
+    "name": "Weissheit",
+    "summary": "After attacking, boosts own M.ATK and skill damage."
+  },
+  {
+    "id": 11003473,
+    "description": "After attacking, grants self M.ATK Up by {0}% (MAX 30%) and boosts skill damage by {1}% for 2 turns.",
+    "name": "Weissheit",
+    "summary": "After attacking, boosts own M.ATK and skill damage."
+  },
+  {
+    "id": 11003484,
+    "description": "Before attacking, reduces target's Ice resistance by {0}% for 3 attacks.<br>After attacking, boosts all allies' skill damage by {1}% for 3 turns.",
+    "name": "Lamenting Swing",
+    "summary": "Before attacking, reduces target's Ice resistance.<br>After attacking, boosts all allies' skill damage."
+  },
+  {
+    "id": 11003485,
+    "description": "Before attacking, reduces target's Ice resistance by {0}% for 3 attacks.<br>After attacking, boosts all allies' skill damage by {1}% for 3 turns.",
+    "name": "Lamenting Swing",
+    "summary": "Before attacking, reduces target's Ice resistance.<br>After attacking, boosts all allies' skill damage."
+  },
+  {
+    "id": 11003486,
+    "description": "Before attacking, reduces target's Ice resistance by {0}% for 3 attacks.<br>After attacking, boosts all allies' skill damage by {1}% for 3 turns.",
+    "name": "Lamenting Swing",
+    "summary": "Before attacking, reduces target's Ice resistance.<br>After attacking, boosts all allies' skill damage."
+  },
+  {
+    "id": 11003487,
+    "description": "Before attacking, reduces target's Ice resistance by {0}% for 3 attacks.<br>After attacking, boosts all allies' skill damage by {1}% for 3 turns.",
+    "name": "Lamenting Swing",
+    "summary": "Before attacking, reduces target's Ice resistance.<br>After attacking, boosts all allies' skill damage."
+  },
+  {
+    "id": 11003488,
+    "description": "Before attacking, reduces target's Ice resistance by {0}% for 3 attacks.<br>After attacking, boosts all allies' skill damage by {1}% for 3 turns.",
+    "name": "Lamenting Swing",
+    "summary": "Before attacking, reduces target's Ice resistance.<br>After attacking, boosts all allies' skill damage."
+  },
+  {
+    "id": 12003474,
+    "description": "Boosts this attack's critical damage by {0}%.<br>When target has status effects, boosts damage by {1}%.<br>After attacking, boosts own M.ATK by {2}% and critical damage by {3}% for 2 turns.<br>Sternchemischen has charge indicators. When both indicators are charged, the effects change.<br>Up to 2 indicators can be charged.<br><br>When charge indicators are below 2:<br>After attacking, charges 1 indicator.<br><br>When both charge indicators are charged:<br>Before attacking, reduces target's status effect resistance by {4}% for 2 turns.<br>After attacking, there is a very high chance to inflict Daze on the target for 1 turn.<br>Boosts own skill damage by {5}% for 2 turns and boosts critical rate by {6}% (MAX 100%), then clears all charge indicators.",
+    "name": "Sternchemischen",
+    "summary": "Boosts this attack's critical damage.<br>When target has status effects, boosts this attack's damage.<br>After attacking, boosts own M.ATK and critical damage.<br>When charge indicators are below 2, after attacking, charges 1 indicator.<br>When both charge indicators are charged, before attacking, reduces target's status effect resistance.<br>After attacking, inflicts Daze on the target and boosts own skill damage and critical rate, then clears all charge indicators."
+  },
+  {
+    "id": 12003475,
+    "description": "Boosts this attack's critical damage by {0}%.<br>When target has status effects, boosts damage by {1}%.<br>After attacking, boosts own M.ATK by {2}% and critical damage by {3}% for 2 turns.<br>Sternchemischen has charge indicators. When both indicators are charged, the effects change.<br>Up to 2 indicators can be charged.<br><br>When charge indicators are below 2:<br>After attacking, charges 1 indicator.<br><br>When both charge indicators are charged:<br>Before attacking, reduces target's status effect resistance by {4}% for 2 turns.<br>After attacking, there is a very high chance to inflict Daze on the target for 1 turn.<br>Boosts own skill damage by {5}% for 2 turns and boosts critical rate by {6}% (MAX 100%), then clears all charge indicators.",
+    "name": "Sternchemischen",
+    "summary": "Boosts this attack's critical damage.<br>When target has status effects, boosts this attack's damage.<br>After attacking, boosts own M.ATK and critical damage.<br>When charge indicators are below 2, after attacking, charges 1 indicator.<br>When both charge indicators are charged, before attacking, reduces target's status effect resistance.<br>After attacking, inflicts Daze on the target and boosts own skill damage and critical rate, then clears all charge indicators."
+  },
+  {
+    "id": 12003476,
+    "description": "Boosts this attack's critical damage by {0}%.<br>When target has status effects, boosts damage by {1}%.<br>After attacking, boosts own M.ATK by {2}% and critical damage by {3}% for 2 turns.<br>Sternchemischen has charge indicators. When both indicators are charged, the effects change.<br>Up to 2 indicators can be charged.<br><br>When charge indicators are below 2:<br>After attacking, charges 1 indicator.<br><br>When both charge indicators are charged:<br>Before attacking, reduces target's status effect resistance by {4}% for 2 turns.<br>After attacking, there is a very high chance to inflict Daze on the target for 1 turn.<br>Boosts own skill damage by {5}% for 2 turns and boosts critical rate by {6}% (MAX 100%), then clears all charge indicators.",
+    "name": "Sternchemischen",
+    "summary": "Boosts this attack's critical damage.<br>When target has status effects, boosts this attack's damage.<br>After attacking, boosts own M.ATK and critical damage.<br>When charge indicators are below 2, after attacking, charges 1 indicator.<br>When both charge indicators are charged, before attacking, reduces target's status effect resistance.<br>After attacking, inflicts Daze on the target and boosts own skill damage and critical rate, then clears all charge indicators."
+  },
+  {
+    "id": 12003477,
+    "description": "Boosts this attack's critical damage by {0}%.<br>When target has status effects, boosts damage by {1}%.<br>After attacking, boosts own M.ATK by {2}% and critical damage by {3}% for 2 turns.<br>Sternchemischen has charge indicators. When both indicators are charged, the effects change.<br>Up to 2 indicators can be charged.<br><br>When charge indicators are below 2:<br>After attacking, charges 1 indicator.<br><br>When both charge indicators are charged:<br>Before attacking, reduces target's status effect resistance by {4}% for 2 turns.<br>After attacking, there is a very high chance to inflict Daze on the target for 1 turn.<br>Boosts own skill damage by {5}% for 2 turns and boosts critical rate by {6}% (MAX 100%), then clears all charge indicators.",
+    "name": "Sternchemischen",
+    "summary": "Boosts this attack's critical damage.<br>When target has status effects, boosts this attack's damage.<br>After attacking, boosts own M.ATK and critical damage.<br>When charge indicators are below 2, after attacking, charges 1 indicator.<br>When both charge indicators are charged, before attacking, reduces target's status effect resistance.<br>After attacking, inflicts Daze on the target and boosts own skill damage and critical rate, then clears all charge indicators."
+  },
+  {
+    "id": 12003478,
+    "description": "Boosts this attack's critical damage by {0}%.<br>When target has status effects, boosts damage by {1}%.<br>After attacking, boosts own M.ATK by {2}% and critical damage by {3}% for 2 turns.<br>Sternchemischen has charge indicators. When both indicators are charged, the effects change.<br>Up to 2 indicators can be charged.<br><br>When charge indicators are below 2:<br>After attacking, charges 1 indicator.<br><br>When both charge indicators are charged:<br>Before attacking, reduces target's status effect resistance by {4}% for 2 turns.<br>After attacking, there is a very high chance to inflict Daze on the target for 1 turn.<br>Boosts own skill damage by {5}% for 2 turns and boosts critical rate by {6}% (MAX 100%), then clears all charge indicators.",
+    "name": "Sternchemischen",
+    "summary": "Boosts this attack's critical damage.<br>When target has status effects, boosts this attack's damage.<br>After attacking, boosts own M.ATK and critical damage.<br>When charge indicators are below 2, after attacking, charges 1 indicator.<br>When both charge indicators are charged, before attacking, reduces target's status effect resistance.<br>After attacking, inflicts Daze on the target and boosts own skill damage and critical rate, then clears all charge indicators."
+  },
+  {
+    "id": 12003489,
+    "description": "Before attacking, reduces target's Ice resistance by {0}% for 2 attacks and reduces status effect resistance by {1}% (MAX 50%).<br>After attacking, there is a very high chance to inflict Poison on the target for 3 turns and a very high chance to inflict Darkness for 1 turn.<br>Boosts P.ATK and M.ATK by {2}% and critical damage by {3}% for all allies with Ice affinity or Earnest Listener for 2 turns.",
+    "name": "Tsubaki of Spite",
+    "summary": "Before attacking, reduces target's Ice resistance and status effect resistance.<br>After attacking, inflicts Poison and Darkness on the target.<br>Boosts P.ATK, M.ATK, and critical damage for all allies with Ice affinity or Earnest Listener."
+  },
+  {
+    "id": 12003490,
+    "description": "Before attacking, reduces target's Ice resistance by {0}% for 2 attacks and reduces status effect resistance by {1}% (max. 50%).<br>After attacking, inflicts Poison on target for 3 turns and Darkness for 1 turn with a very high chance.<br>Boosts P.ATK & M.ATK by {2}% and critical damage by {3}% for all allies with Ice affinity or Netherworld Reminiscence for 2 turns.",
+    "name": "Malicious Camellia",
+    "summary": "Before attacking, reduces target's Ice resistance and status effect resistance.<br>After attacking, inflicts Poison and Darkness on target.<br>Boosts P.ATK, M.ATK, and critical damage for all allies with Ice affinity or Netherworld Reminiscence."
+  },
+  {
+    "id": 12003491,
+    "description": "Before attacking, reduces target's Ice resistance by {0}% for 2 attacks and reduces status effect resistance by {1}% (max. 50%).<br>After attacking, inflicts Poison on target for 3 turns and Darkness for 1 turn with a very high chance.<br>Boosts P.ATK & M.ATK by {2}% and critical damage by {3}% for all allies with Ice affinity or Netherworld Reminiscence for 2 turns.",
+    "name": "Malicious Camellia",
+    "summary": "Before attacking, reduces target's Ice resistance and status effect resistance.<br>After attacking, inflicts Poison and Darkness on target.<br>Boosts P.ATK, M.ATK, and critical damage for all allies with Ice affinity or Netherworld Reminiscence."
+  },
+  {
+    "id": 12003492,
+    "description": "Before attacking, reduces target's Ice resistance by {0}% for 2 attacks and reduces status effect resistance by {1}% (max. 50%).<br>After attacking, inflicts Poison on target for 3 turns and Darkness for 1 turn with a very high chance.<br>Boosts P.ATK & M.ATK by {2}% and critical damage by {3}% for all allies with Ice affinity or Netherworld Reminiscence for 2 turns.",
+    "name": "Malicious Camellia",
+    "summary": "Before attacking, reduces target's Ice resistance and status effect resistance.<br>After attacking, inflicts Poison and Darkness on target.<br>Boosts P.ATK, M.ATK, and critical damage for all allies with Ice affinity or Netherworld Reminiscence."
+  },
+  {
+    "id": 12003493,
+    "description": "Before attacking, reduces target's Ice resistance by {0}% for 2 attacks and reduces status effect resistance by {1}% (max. 50%).<br>After attacking, inflicts Poison on target for 3 turns and Darkness for 1 turn with a very high chance.<br>Boosts P.ATK & M.ATK by {2}% and critical damage by {3}% for all allies with Ice affinity or Netherworld Reminiscence for 2 turns.",
+    "name": "Malicious Camellia",
+    "summary": "Before attacking, reduces target's Ice resistance and status effect resistance.<br>After attacking, inflicts Poison and Darkness on target.<br>Boosts P.ATK, M.ATK, and critical damage for all allies with Ice affinity or Netherworld Reminiscence."
+  },
+  {
+    "id": 14003479,
+    "description": "Boosts this attack's critical damage by {0}%.<br>When target is afflicted with a status effect, boosts damage by {1}%.<br>After attacking, inflicts Daze on target for 1 turn with a very high chance and boosts own M.ATK by {2}% and skill damage by {3}% for 2 turns.",
+    "name": "Freiheit Raoven",
+    "summary": "Boosts this attack's critical damage.<br>When target is afflicted with a status effect, boosts this attack's damage.<br>After attacking, inflicts Daze on target and boosts own M.ATK and skill damage."
+  },
+  {
+    "id": 14003480,
+    "description": "Boosts this attack's critical damage by {0}%.<br>When target is afflicted with a status effect, boosts damage by {1}%.<br>After attacking, inflicts Daze on target for 1 turn with a very high chance and boosts own M.ATK by {2}% and skill damage by {3}% for 2 turns.",
+    "name": "Freiheit Raoven",
+    "summary": "Boosts this attack's critical damage.<br>When target is afflicted with a status effect, boosts this attack's damage.<br>After attacking, inflicts Daze on target and boosts own M.ATK and skill damage."
+  },
+  {
+    "id": 14003481,
+    "description": "Boosts this attack's critical damage by {0}%.<br>When target is afflicted with a status effect, boosts damage by {1}%.<br>After attacking, inflicts Daze on target for 1 turn with a very high chance and boosts own M.ATK by {2}% and skill damage by {3}% for 2 turns.",
+    "name": "Freiheit Raoven",
+    "summary": "Boosts this attack's critical damage.<br>When target is afflicted with a status effect, boosts this attack's damage.<br>After attacking, inflicts Daze on target and boosts own M.ATK and skill damage."
+  },
+  {
+    "id": 14003482,
+    "description": "Boosts this attack's critical damage by {0}%.<br>When target is afflicted with a status effect, boosts damage by {1}%.<br>After attacking, inflicts Daze on target for 1 turn with a very high chance and boosts own M.ATK by {2}% and skill damage by {3}% for 2 turns.",
+    "name": "Freiheit Raoven",
+    "summary": "Boosts this attack's critical damage.<br>When target is afflicted with a status effect, boosts this attack's damage.<br>After attacking, inflicts Daze on target and boosts own M.ATK and skill damage."
+  },
+  {
+    "id": 14003483,
+    "description": "Boosts this attack's critical damage by {0}%.<br>When target is afflicted with a status effect, boosts damage by {1}%.<br>After attacking, inflicts Daze on target for 1 turn with a very high chance and boosts own M.ATK by {2}% and skill damage by {3}% for 2 turns.",
+    "name": "Freiheit Raoven",
+    "summary": "Boosts this attack's critical damage.<br>When target is afflicted with a status effect, boosts this attack's damage.<br>After attacking, inflicts Daze on target and boosts own M.ATK and skill damage."
+  },
+  {
+    "id": 14003494,
+    "description": "Before attacking, reduces target's All Element resistances by {0}% for 3 attacks and status effect resistance by {1}% for 3 turns.<br>After attacking, inflicts Poison on target for 5 turns and Darkness for 3 turns with a very high chance, and delays target's turn by 2 turns.<br>Boosts P.ATK & M.ATK by {2}% and critical damage by {3}% for all allies with Ice affinity or Netherworld Reminiscence for 1 turn.",
+    "name": "Bottomless Abyss",
+    "summary": "Before attacking, reduces target's All Element resistances and status effect resistance.<br>After attacking, inflicts Poison and Darkness on target and delays turn.<br>Boosts P.ATK, M.ATK, and critical damage for all allies with Ice affinity or Netherworld Reminiscence."
+  },
+  {
+    "id": 14003495,
+    "description": "Before attacking, reduces target's All Element resistances by {0}% for 3 attacks and status effect resistance by {1}% for 3 turns.<br>After attacking, inflicts Poison on target for 5 turns and Darkness for 3 turns with a very high chance, and delays target's turn by 2 turns.<br>Boosts P.ATK & M.ATK by {2}% and critical damage by {3}% for all allies with Ice affinity or Netherworld Reminiscence for 1 turn.",
+    "name": "Bottomless Abyss",
+    "summary": "Before attacking, reduces target's All Element resistances and status effect resistance.<br>After attacking, inflicts Poison and Darkness on target and delays turn.<br>Boosts P.ATK, M.ATK, and critical damage for all allies with Ice affinity or Netherworld Reminiscence."
+  },
+  {
+    "id": 14003496,
+    "description": "Before attacking, reduces target's All Element resistances by {0}% for 3 attacks and status effect resistance by {1}% for 3 turns.<br>After attacking, inflicts Poison on target for 5 turns and Darkness for 3 turns with a very high chance, and delays target's turn by 2 turns.<br>Boosts P.ATK & M.ATK by {2}% and critical damage by {3}% for all allies with Ice affinity or Netherworld Reminiscence for 1 turn.",
+    "name": "Bottomless Abyss",
+    "summary": "Before attacking, reduces target's All Element resistances and status effect resistance.<br>After attacking, inflicts Poison and Darkness on target and delays turn.<br>Boosts P.ATK, M.ATK, and critical damage for all allies with Ice affinity or Netherworld Reminiscence."
+  },
+  {
+    "id": 14003497,
+    "description": "Before attacking, reduces target's All Element resistances by {0}% for 3 attacks and status effect resistance by {1}% for 3 turns.<br>After attacking, inflicts Poison on target for 5 turns and Darkness for 3 turns with a very high chance, and delays target's turn by 2 turns.<br>Boosts P.ATK & M.ATK by {2}% and critical damage by {3}% for all allies with Ice affinity or Netherworld Reminiscence for 1 turn.",
+    "name": "Bottomless Abyss",
+    "summary": "Before attacking, reduces target's All Element resistances and status effect resistance.<br>After attacking, inflicts Poison and Darkness on target and delays turn.<br>Boosts P.ATK, M.ATK, and critical damage for all allies with Ice affinity or Netherworld Reminiscence."
+  },
+  {
+    "id": 14003498,
+    "description": "Before attacking, reduces target's All Element resistances by {0}% for 3 attacks and status effect resistance by {1}% for 3 turns.<br>After attacking, inflicts Poison on target for 5 turns and Darkness for 3 turns with a very high chance, and delays target's turn by 2 turns.<br>Boosts P.ATK & M.ATK by {2}% and critical damage by {3}% for all allies with Ice affinity or Netherworld Reminiscence for 1 turn.",
+    "name": "Bottomless Abyss",
+    "summary": "Before attacking, reduces target's All Element resistances and status effect resistance.<br>After attacking, inflicts Poison and Darkness on target and delays turn.<br>Boosts P.ATK, M.ATK, and critical damage for all allies with Ice affinity or Netherworld Reminiscence."
+  },
+  {
+    "id": 14003616,
+    "description": "Swaps own turn with one ally's turn among the next 5 turns on the timeline (once per activation limit).<br>Restores HP of all allies by 50%.<br>Boosts skill damage by 50% for 1 ally with the highest M.ATK for 1 turn.<br>※This Active Skill can only be activated if own HP is below 50% before skill activation.",
+    "name": "Tactical Change - Revenge",
+    "summary": "Swaps own turn with one ally's turn among the next 5 turns on the timeline.<br>Restores HP of all allies.<br>Boosts skill damage for 1 ally with the highest M.ATK."
+  },
+  {
+    "id": 32004505,
+    "description": "After attacking, reduces SPD of all enemies by 5% for 1 turn and converts all enemy panels to weaken panels.",
+    "name": "Assault Glacier",
+    "summary": ""
+  },
+  {
+    "id": 32004506,
+    "description": "No effects.",
+    "name": "Cross Slash",
+    "summary": ""
+  },
+  {
+    "id": 32004507,
+    "description": "After attacking, increases damage received by all enemies by 25% for 2 turns.",
+    "name": "Tail Saber",
+    "summary": ""
+  },
+  {
+    "id": 32004508,
+    "description": "After attacking, reduces own damage received by 35% for 2 turns and reduces damage received from physical attacks by 20% for 2 turns.",
+    "name": "Ice Burn",
+    "summary": ""
+  },
+  {
+    "id": 32004509,
+    "description": "After attacking, reduces damage dealt by all enemies by 30% for 2 turns, converts all empty panels to weaken panels, and converts boost-type panels to empty panels.",
+    "name": "Ice Crash",
+    "summary": ""
+  },
+  {
+    "id": 32004510,
+    "description": "When possessing the following buffs, damage dealt by this attack increases by 10% per buff type:\nDamage Dealt Up, Damage Received Down, Stun Damage Received Down, Evasion, Regeneration, SPD Up",
+    "name": "Power Shot",
+    "summary": ""
+  },
+  {
+    "id": 32004511,
+    "description": "After attacking, grants Damage Dealt Up (10%/10 turns) to all allies.",
+    "name": "Spin Slash",
+    "summary": ""
+  },
+  {
+    "id": 32004512,
+    "description": "After attacking, recovers HP of all allies by 10%.",
+    "name": "Heal Gale",
+    "summary": ""
+  },
+  {
+    "id": 32004513,
+    "description": "After attacking, grants Damage Received Down (10%/10 turns) to all allies.",
+    "name": "Storm",
+    "summary": ""
+  },
+  {
+    "id": 32004514,
+    "description": "Grants Evasion (100%/1 time) to all allies.",
+    "name": "Causation Call",
+    "summary": ""
+  },
+  {
+    "id": 32004515,
+    "description": "Inflicts Speed Down (10%/1 turn) on skill target.",
+    "name": "Speed Down",
+    "summary": ""
+  },
+  {
+    "id": 32004516,
+    "description": "After attacking, inflicts Speed Down (5%/1 turn) on all enemies and converts all enemy panels to weaken panels.",
+    "name": "Assault Glacier",
+    "summary": ""
+  },
+  {
+    "id": 32004517,
+    "description": "No additional effects.",
+    "name": "Cross Slash",
+    "summary": ""
+  },
+  {
+    "id": 32004518,
+    "description": "After attacking, inflicts Damage Received Up (25%/2 turns) on all enemies.",
+    "name": "Tail Saber",
+    "summary": ""
+  },
+  {
+    "id": 32004519,
+    "description": "After attacking, grants Damage Received Down (35%/2 turns) and Physical Damage Received Down (20%/2 turns) to self.",
+    "name": "Ice Burn",
+    "summary": ""
+  },
+  {
+    "id": 32004520,
+    "description": "After attacking, inflicts Damage Dealt Down (30%/2 turns) on all enemies, converts all enemy empty panels to weaken panels, and converts all enemy boost-type panels to empty panels.",
+    "name": "Ice Crash",
+    "summary": ""
+  },
+  {
+    "id": 32004521,
+    "description": "After attacking, grants Damage Dealt Up (30%/5 turns) to all allies.",
+    "name": "Hellfire Gift",
+    "summary": ""
+  },
+  {
+    "id": 32004522,
+    "description": "After attacking, grants Damage Dealt Up (15%/5 turns) to all allies.",
+    "name": "Magic Fire Gift",
+    "summary": ""
+  },
+  {
+    "id": 32004523,
+    "description": "After attacking, grants Damage Dealt Up (15%/5 turns) to all allies.",
+    "name": "Wide Range Fire Gift",
+    "summary": ""
+  },
+  {
+    "id": 32004524,
+    "description": "Recovers stun gauge and HP of all allies by 10%.",
+    "name": "Heal All",
+    "summary": ""
+  },
+  {
+    "id": 32004525,
+    "description": "No additional effects.",
+    "name": "Strike Axe",
+    "summary": ""
+  },
+  {
+    "id": 32004526,
+    "description": "After attacking, inflicts P.DEF Down (25%/2 turns) on target.",
+    "name": "Protray",
+    "summary": ""
+  },
+  {
+    "id": 32004527,
+    "description": "No additional effects.",
+    "name": "Primal Stroke",
+    "summary": ""
+  },
+  {
+    "id": 32004528,
+    "description": "No additional effects.",
+    "name": "Enchant Blast",
+    "summary": ""
+  },
+  {
+    "id": 32004529,
+    "description": "Grants Defense Up (25%/2 turns), Physical Damage Received Down (40%/2 turns), and SPD Up (10%/2 turns) to target.",
+    "name": "Ancient Power",
+    "summary": ""
+  },
+  {
+    "id": 32004530,
+    "description": "No additional effects.",
+    "name": "Counter",
+    "summary": ""
+  },
+  {
+    "id": 32004531,
+    "description": "Grants self Counter (3 times), reduces damage received by 30% (3 times), and reduces stun damage received by 30% (3 times).",
+    "name": "Counterattack Stance",
+    "summary": ""
+  },
+  {
+    "id": 32004532,
+    "description": "No additional effects.",
+    "name": "Shield Charge",
+    "summary": ""
+  },
+  {
+    "id": 32004533,
+    "description": "No additional effects.",
+    "name": "Rampage",
+    "summary": ""
+  },
+  {
+    "id": 32004534,
+    "description": "No additional effects.",
+    "name": "Down Thrust",
+    "summary": ""
+  },
+  {
+    "id": 32004535,
+    "description": "No additional effects.",
+    "name": "Rage Slash",
+    "summary": ""
+  },
+  {
+    "id": 32004536,
+    "description": "No additional effects.",
+    "name": "Rage Fire",
+    "summary": ""
+  },
+  {
+    "id": 32004537,
+    "description": "Reduces own damage received by 25% (3 times) and enters cover state (3 times).",
+    "name": "Covering",
+    "summary": ""
+  },
+  {
+    "id": 32004538,
+    "description": "No additional effects.",
+    "name": "Strike Axe",
+    "summary": ""
+  },
+  {
+    "id": 32004539,
+    "description": "After attacking, inflicts target with P.DEF Down (25%/2 times).",
+    "name": "Protray",
+    "summary": ""
+  },
+  {
+    "id": 32004540,
+    "description": "No additional effects.",
+    "name": "Primal Stroke",
+    "summary": ""
+  },
+  {
+    "id": 32004541,
+    "description": "No additional effects.",
+    "name": "Ancient Blast",
+    "summary": ""
+  },
+  {
+    "id": 32004542,
+    "description": "Boosts target's defense by 25% (2 times), reduces physical damage received by 40% (2 times), and boosts SPD by 10% (2 times).",
+    "name": "Ancient Power",
+    "summary": ""
+  },
+  {
+    "id": 32004543,
+    "description": "No additional effects.",
+    "name": "Counter",
+    "summary": ""
+  },
+  {
+    "id": 32004544,
+    "description": "Grants self Counter (3 times), reduces damage received by 30% (3 times), and reduces stun damage received by 30% (3 times).",
+    "name": "Counterattack Stance",
+    "summary": ""
+  },
+  {
+    "id": 32004545,
+    "description": "Restores target ally's HP by 40%.",
+    "name": "Healing Chant",
+    "summary": ""
+  },
+  {
+    "id": 32004546,
+    "description": "Restores target ally's HP by 15%, then restores target's stun gauge by 15%.",
+    "name": "Support",
+    "summary": ""
+  },
+  {
+    "id": 32004547,
+    "description": "Restores all allies' HP by 15%.",
+    "name": "Support",
+    "summary": ""
+  },
+  {
+    "id": 32004548,
+    "description": "No additional effects.",
+    "name": "Grit",
+    "summary": ""
+  },
+  {
+    "id": 32004549,
+    "description": "After attacking, reduces target's damage dealt by 35% (1 time).",
+    "name": "Whirlwind Dance",
+    "summary": ""
+  },
+  {
+    "id": 32004550,
+    "description": "No additional effects.",
+    "name": "Tornado Dance",
+    "summary": ""
+  },
+  {
+    "id": 32004551,
+    "description": "Before attacking, grants self Damage Dealt Up (20%/2 turns), Critical Rate Up (40%/2 turns), and Damage Received Down (10%/2 turns).",
+    "name": "Rock-Smashing Choco",
+    "summary": ""
+  },
+  {
+    "id": 32004552,
+    "description": "After attacking, grants self Damage Dealt Up (25%/2 turns).",
+    "name": "Heavy Choco Throw",
+    "summary": ""
+  },
+  {
+    "id": 32004554,
+    "description": "After attacking, grants self Critical Rate Up (40%/2 turns).",
+    "name": "Ice Choco Throw",
+    "summary": ""
+  },
+  {
+    "id": 32004555,
+    "description": "No additional effects.",
+    "name": "Ice Choco Rain",
+    "summary": ""
+  },
+  {
+    "id": 32004557,
+    "description": "Before attacking, grants self Damage Dealt Up (30%/2 turns), Critical Rate Up (50%/2 turns), and Damage Received Down (20%/2 turns).",
+    "name": "Rock-Smashing Choco",
+    "summary": ""
+  },
+  {
+    "id": 32004558,
+    "description": "After attacking, grants self Damage Dealt Up (35%/2 turns).",
+    "name": "Heavy Choco Throw",
+    "summary": ""
+  },
+  {
+    "id": 32004559,
+    "description": "No additional effects.",
+    "name": "Power Fist",
+    "summary": ""
+  },
+  {
+    "id": 32004560,
+    "description": "After attacking, grants self Critical Rate Up (50%/2 turns).",
+    "name": "Ice Choco Throw",
+    "summary": ""
+  },
+  {
+    "id": 32004561,
+    "description": "No additional effects.",
+    "name": "Ice Choco Rain",
+    "summary": ""
+  },
+  {
+    "id": 32004563,
+    "description": "Before attacking, grants self Damage Dealt Up (40%/2 turns), Critical Rate Up (80%/2 turns), and Damage Received Down (30%/2 turns).",
+    "name": "Rock-Smashing Choco",
+    "summary": ""
+  },
+  {
+    "id": 32004564,
+    "description": "After attacking, grants self Damage Dealt Up (45%/2 turns).",
+    "name": "Heavy Choco Throw",
+    "summary": ""
+  },
+  {
+    "id": 32004565,
+    "description": "No additional effects.",
+    "name": "Power Fist",
+    "summary": ""
+  },
+  {
+    "id": 32004566,
+    "description": "After attacking, grants self Critical Rate Up (80%/2 turns).",
+    "name": "Ice Choco Throw",
+    "summary": ""
+  },
+  {
+    "id": 32004567,
+    "description": "No additional effects.",
+    "name": "Ice Choco Rain",
+    "summary": ""
+  },
+  {
+    "id": 32004568,
+    "description": "Restores own HP by 20%.",
+    "name": "Self-Recovery",
+    "summary": ""
   }
 ]

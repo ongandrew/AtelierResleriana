@@ -13703,5 +13703,340 @@
     "id": 120000869,
     "description": "While equipped to a character with the Knight tag, boosts skill power.",
     "popup_text": ""
+  },
+  {
+    "id": 6001226,
+    "description": "Boosts critical damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001227,
+    "description": "Boosts all allies' skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001228,
+    "description": "While equipped to Criselda [Leader of the Polar Night Alchemists], when attacking an enemy with status effects before activating a skill, boosts own critical rate (Max: 3 stacks).",
+    "popup_text": ""
+  },
+  {
+    "id": 6001229,
+    "description": "While equipped to Criselda [Leader of the Polar Night Alchemists], when attacking an enemy with status effects before activating a skill, boosts own critical damage (Max: 3 stacks).",
+    "popup_text": ""
+  },
+  {
+    "id": 6001230,
+    "description": "While equipped to Antje [Doll-Wielding Witch], when attacking an enemy with status effects before activating a skill, boosts skill power of 1 ally with the highest M.ATK for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001231,
+    "description": "Boosts burst skill damage when attacking enemies with status effects for 1 ally with the highest M.ATK for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001232,
+    "description": "Boosts burst skill damage when attacking enemies with status effects.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001233,
+    "description": "Restores HP of ally with the lowest HP percentage.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001607,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001608,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001609,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001610,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001611,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001612,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001613,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001614,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001615,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001616,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001617,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001618,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001619,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001620,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001621,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001622,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001642,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001643,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001644,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 76133001,
+    "description": "Reduces physical damage received.",
+    "popup_text": ""
+  },
+  {
+    "id": 76133002,
+    "description": "Grants target Defense Up for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 86276001,
+    "description": "When stunned, grants self Damage Received Up.",
+    "popup_text": ""
+  },
+  {
+    "id": 91002118,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002119,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002120,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002121,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002122,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002123,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002124,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002125,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002126,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002127,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002128,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002129,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002130,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002131,
+    "description": "",
+    "popup_text": "Turn Swap"
+  },
+  {
+    "id": 91002132,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002133,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002134,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002135,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002136,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002137,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002146,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002147,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002148,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002149,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002150,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002151,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002152,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000353,
+    "description": "While equipped to an Attacker with Ice affinity, after attacking, grants M.ATK Up to self for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000354,
+    "description": "While equipped to Nurturer, when attack target has a status effect, boosts critical damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000355,
+    "description": "When attack target has a status effect, boosts critical damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000356,
+    "description": "While equipped to a Supporter with Ice affinity, when attacking an enemy with a status effect before activating a skill, grants self Positive Effect Potency Granted Up for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000357,
+    "description": "While equipped to a character with the Quiet tag, boosts all allies' skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000870,
+    "description": "Boosts Criselda's skill power.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000871,
+    "description": "Boosts Antje's positive effect potency.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000872,
+    "description": "When Criselda is in the party, reduces damage received.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000873,
+    "description": "When Antje is in the party, reduces damage received.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000874,
+    "description": "Boosts skill power when self has Dark Remembrance.",
+    "popup_text": ""
   }
 ]

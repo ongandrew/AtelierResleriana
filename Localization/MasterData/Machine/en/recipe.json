@@ -2301,5 +2301,71 @@
     ],
     "start_at": "2026-02-04T03:00:00Z",
     "tracking_id": "af_synthesis_recipe_824"
+  },
+  {
+    "id": 825,
+    "name": "Freiheit Schrift",
+    "requirements": [
+      {
+        "name": "Awaken Criselda [Leader of the Polar Night Alchemists] to ☆5"
+      }
+    ],
+    "start_at": "2026-02-09T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_825"
+  },
+  {
+    "id": 826,
+    "name": "Hex Sturm",
+    "requirements": [
+      {
+        "name": "Awaken Antje [Doll-Playing Witch] to ☆5"
+      }
+    ],
+    "start_at": "2026-02-13T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_826"
+  },
+  {
+    "id": 827,
+    "name": "Noval Jacket",
+    "requirements": [
+      {
+        "name": "Clear Main Story 8-57"
+      }
+    ],
+    "start_at": "2026-02-09T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_827"
+  },
+  {
+    "id": 828,
+    "name": "Light Helm",
+    "requirements": [
+      {
+        "name": "Clear Main Story 8-57"
+      }
+    ],
+    "start_at": "2026-02-09T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_828"
+  },
+  {
+    "id": 829,
+    "name": "Rose Choco Bomb",
+    "requirements": [
+      {
+        "name": "Clear Sweet Hearts on Choco 1"
+      }
+    ],
+    "start_at": "2026-02-09T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_829"
+  },
+  {
+    "id": 830,
+    "name": "Heartfelt Biscuit",
+    "requirements": [
+      {
+        "name": "Clear Sweet Hearts on Choco 1"
+      }
+    ],
+    "start_at": "2026-02-09T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_830"
   }
 ]

@@ -5127,82 +5127,82 @@
   {
     "id": 301226,
     "description": "Boosts critical damage by {0}%.",
-    "name": "Passionate Alchemist's Outfit"
+    "name": "Passionate Alchemist's Garb"
   },
   {
     "id": 301227,
     "description": "Boosts critical damage by {0}%.",
-    "name": "Passionate Alchemist's Outfit"
+    "name": "Passionate Alchemist's Garb"
   },
   {
     "id": 301228,
     "description": "Boosts stun damage by {0}%.",
-    "name": "Free-spirited Alchemist's Outfit"
+    "name": "Free-spirited Alchemist's Garb"
   },
   {
     "id": 301229,
     "description": "Boosts stun damage by {0}%.",
-    "name": "Free-spirited Alchemist's Outfit"
+    "name": "Free-spirited Alchemist's Garb"
   },
   {
     "id": 301230,
     "description": "Reduces damage received from single target attacks by {0}% (fixed).",
-    "name": "Immovable Alchemist's Outfit"
+    "name": "Unwavering Alchemist's Garb"
   },
   {
     "id": 301231,
     "description": "Reduces damage received from single target attacks by {0}% (fixed).",
-    "name": "Immovable Alchemist's Outfit"
+    "name": "Unwavering Alchemist's Garb"
   },
   {
     "id": 301232,
     "description": "Boosts all allies' critical damage by {0}%.",
-    "name": "Serene Alchemist's Outfit"
+    "name": "Serene Alchemist's Garb"
   },
   {
     "id": 301233,
     "description": "Boosts all allies' critical damage by {0}%.",
-    "name": "Serene Alchemist's Outfit"
+    "name": "Serene Alchemist's Garb"
   },
   {
     "id": 301234,
     "description": "Boosts skill damage by {0}%.",
-    "name": "Gorge Guardian"
+    "name": "Gorge Charm"
   },
   {
     "id": 301235,
     "description": "Boosts skill damage by {0}%.",
-    "name": "Gorge Guardian"
+    "name": "Gorge Charm"
   },
   {
     "id": 301236,
     "description": "After using a skill, grants target Damage Received +{0}% for 1 attack (Max 2 stacks).",
-    "name": "Desert Guardian"
+    "name": "Desert Charm"
   },
   {
     "id": 301237,
     "description": "After using a skill, grants target Damage Received +{0}% for 1 attack (Max 2 stacks).",
-    "name": "Desert Guardian"
+    "name": "Desert Charm"
   },
   {
     "id": 301238,
     "description": "Reduces damage received from area attacks by {0}% for all allies (fixed).",
-    "name": "Raging Waves Guardian"
+    "name": "Raging Waves Charm"
   },
   {
     "id": 301239,
     "description": "Reduces damage received from area attacks by {0}% for all allies (fixed).",
-    "name": "Raging Waves Guardian"
+    "name": "Raging Waves Charm"
   },
   {
     "id": 301240,
     "description": "Boosts all allies' skill damage by {0}%.",
-    "name": "Calm Sky Guardian"
+    "name": "Serene Sky Charm"
   },
   {
     "id": 301241,
     "description": "Boosts all allies' skill damage by {0}%.",
-    "name": "Calm Sky Guardian"
+    "name": "Serene Sky Charm"
   },
   {
     "id": 1980200,
@@ -9328,5 +9328,3360 @@
     "id": 600000776,
     "description": "Form a party with featured characters from the \"Dawn of Brothers\" and \"Dark Recollection\" wishes to gain advantageous buffs in battle!",
     "name": "Form a party with featured characters from the \"Dawn of Brothers\" and \"Dark Recollection\" wishes to gain advantageous buffs in battle!"
+  },
+  {
+    "id": 301321,
+    "description": "While equipped to Tainie [Lovable Inspector], after attacking a stunned enemy, grants all allies with 5 or more positive effects before using a skill Critical Rate +{0}% for 1 turn.<br>※Does not include unlimited positive effects granted at the start of battle.",
+    "name": "Rookie Inspector's Baton"
+  },
+  {
+    "id": 301322,
+    "description": "While equipped to a character with Strike affinity, boosts skill damage by {0}% for single target attacks.<br>While equipped to an Attacker, after attacking, grants self Positive Effect Potency Received +{1}% for 1 turn.",
+    "name": "Sturmrose"
+  },
+  {
+    "id": 500001,
+    "description": "While equipped to a character with Fire affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500002,
+    "description": "While equipped to a character with Ice affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500003,
+    "description": "While equipped to a character with Bolt affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500004,
+    "description": "While equipped to a character with Air affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500005,
+    "description": "While equipped to a character with Slash affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500006,
+    "description": "While equipped to a character with Strike affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500007,
+    "description": "While equipped to a character with Stab affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500008,
+    "description": "While equipped to a character with Fire affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500009,
+    "description": "While equipped to a character with Ice affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500010,
+    "description": "While equipped to a character with Bolt affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500011,
+    "description": "While equipped to a character with Air affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500012,
+    "description": "While equipped to a character with Slash affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500013,
+    "description": "While equipped to a character with Strike affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500014,
+    "description": "While equipped to a character with Stab affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500015,
+    "description": "While equipped to a character with Fire affinity, boosts M.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500016,
+    "description": "While equipped to a character with Ice affinity, boosts M.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500017,
+    "description": "While equipped to a character with Bolt affinity, boosts M.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500018,
+    "description": "While equipped to a character with Air affinity, boosts M.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500019,
+    "description": "While equipped to a character with Slash affinity, boosts P.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500020,
+    "description": "While equipped to a character with Strike affinity, boosts P.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500021,
+    "description": "While equipped to a character with Stab affinity, boosts P.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500022,
+    "description": "While equipped to a character with Fire affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500023,
+    "description": "While equipped to a character with Ice affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500024,
+    "description": "While equipped to a character with Bolt affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500025,
+    "description": "While equipped to a character with Air affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500026,
+    "description": "While equipped to a character with Slash affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500027,
+    "description": "While equipped to a character with Strike affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500028,
+    "description": "While equipped to a character with Stab affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500029,
+    "description": "While equipped to a Breaker with Fire affinity, before attacking, reduces target's Fire resistance by {0}% for 1 attack. (Max 1 trigger)",
+    "name": ""
+  },
+  {
+    "id": 500030,
+    "description": "While equipped to a Breaker with Ice affinity, before attacking, reduces target's Ice resistance by {0}% for 1 attack. (Max 1 trigger)",
+    "name": ""
+  },
+  {
+    "id": 500031,
+    "description": "While equipped to a Breaker with Bolt affinity, before attacking, reduces target's Bolt resistance by {0}% for 1 attack. (Max 1 trigger)",
+    "name": ""
+  },
+  {
+    "id": 500032,
+    "description": "While equipped to a Breaker with Air affinity, before attacking, reduces target's Air resistance by {0}% for 1 attack. (Max 1 trigger)",
+    "name": ""
+  },
+  {
+    "id": 500033,
+    "description": "While equipped to a Breaker with Slash affinity, before attacking, reduces target's Slash resistance by {0}% for 1 attack. (Max 1 trigger)",
+    "name": ""
+  },
+  {
+    "id": 500034,
+    "description": "While equipped to a Breaker with Strike affinity, before attacking, reduces target's Strike resistance by {0}% for 1 attack. (Max 1 trigger)",
+    "name": ""
+  },
+  {
+    "id": 500035,
+    "description": "While equipped to a Breaker with Stab affinity, before attacking, reduces target's Stab resistance by {0}% for 1 attack. (Max 1 trigger)",
+    "name": ""
+  },
+  {
+    "id": 500036,
+    "description": "While equipped to a character with Fire affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500037,
+    "description": "While equipped to a character with Ice affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500038,
+    "description": "While equipped to a character with Bolt affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500039,
+    "description": "While equipped to a character with Air affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500040,
+    "description": "While equipped to a character with Slash affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500041,
+    "description": "While equipped to a character with Strike affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500042,
+    "description": "While equipped to a character with Stab affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500043,
+    "description": "While equipped to a character with Fire affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500044,
+    "description": "While equipped to a character with Ice affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500045,
+    "description": "While equipped to a character with Bolt affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500046,
+    "description": "While equipped to a character with Air affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500047,
+    "description": "While equipped to a character with Slash affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500048,
+    "description": "While equipped to a character with Strike affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500049,
+    "description": "While equipped to a character with Stab affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500050,
+    "description": "While equipped to a Defender with Fire affinity, when receiving an attack, recovers own HP by {0}% (once per turn).",
+    "name": ""
+  },
+  {
+    "id": 500051,
+    "description": "While equipped to a Defender with Ice affinity, when receiving an attack, recovers own HP by {0}% (once per turn).",
+    "name": ""
+  },
+  {
+    "id": 500052,
+    "description": "While equipped to a Defender with Bolt affinity, when receiving an attack, recovers own HP by {0}% (once per turn).",
+    "name": ""
+  },
+  {
+    "id": 500053,
+    "description": "While equipped to a Defender with Air affinity, when receiving an attack, recovers own HP by {0}% (once per turn).",
+    "name": ""
+  },
+  {
+    "id": 500054,
+    "description": "While equipped to a Defender with Slash affinity, when receiving an attack, recovers own HP by {0}% (once per turn).",
+    "name": ""
+  },
+  {
+    "id": 500055,
+    "description": "While equipped to a Defender with Strike affinity, when receiving an attack, recovers own HP by {0}% (once per turn).",
+    "name": ""
+  },
+  {
+    "id": 500056,
+    "description": "While equipped to a Defender with Stab affinity, when receiving an attack, recovers own HP by {0}% (once per turn).",
+    "name": ""
+  },
+  {
+    "id": 500057,
+    "description": "While equipped to a character with Fire affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500058,
+    "description": "While equipped to a character with Ice affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500059,
+    "description": "While equipped to a character with Bolt affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500060,
+    "description": "While equipped to a character with Air affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500061,
+    "description": "While equipped to a character with Slash affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500062,
+    "description": "While equipped to a character with Strike affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500063,
+    "description": "While equipped to a character with Stab affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500064,
+    "description": "While equipped to a character with Fire affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500065,
+    "description": "While equipped to a character with Ice affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500066,
+    "description": "While equipped to a character with Bolt affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500067,
+    "description": "While equipped to a character with Air affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500068,
+    "description": "While equipped to a character with Slash affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500069,
+    "description": "While equipped to a character with Strike affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500070,
+    "description": "While equipped to a character with Stab affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500071,
+    "description": "While equipped to a character with Fire affinity, boosts M.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500072,
+    "description": "While equipped to a character with Ice affinity, boosts M.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500073,
+    "description": "While equipped to a character with Bolt affinity, boosts M.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500074,
+    "description": "While equipped to a character with Air affinity, boosts M.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500075,
+    "description": "While equipped to a character with Slash affinity, boosts P.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500076,
+    "description": "While equipped to a character with Strike affinity, boosts P.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500077,
+    "description": "While equipped to a character with Stab affinity, boosts P.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500078,
+    "description": "While equipped to a character with Fire affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500079,
+    "description": "While equipped to a character with Ice affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500080,
+    "description": "While equipped to a character with Bolt affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500081,
+    "description": "While equipped to a character with Air affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500082,
+    "description": "While equipped to a character with Slash affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500083,
+    "description": "While equipped to a character with Strike affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500084,
+    "description": "While equipped to a character with Stab affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500085,
+    "description": "While equipped to a Breaker with Fire affinity, before attacking, reduces target's Fire resistance by {0}% for 1 attack (MAX 1 activation).",
+    "name": ""
+  },
+  {
+    "id": 500086,
+    "description": "While equipped to a Breaker with Ice affinity, before attacking, reduces target's Ice resistance by {0}% for 1 attack (MAX 1 activation).",
+    "name": ""
+  },
+  {
+    "id": 500087,
+    "description": "While equipped to a Breaker with Bolt affinity, before attacking, reduces target's Bolt resistance by {0}% for 1 attack (MAX 1 activation).",
+    "name": ""
+  },
+  {
+    "id": 500088,
+    "description": "While equipped to a Breaker with Air affinity, before attacking, reduces target's Air resistance by {0}% for 1 attack (MAX 1 activation).",
+    "name": ""
+  },
+  {
+    "id": 500089,
+    "description": "While equipped to a Breaker with Slash affinity, before attacking, reduces target's Slash resistance by {0}% for 1 attack (MAX 1 activation).",
+    "name": ""
+  },
+  {
+    "id": 500090,
+    "description": "While equipped to a Breaker with Strike affinity, before attacking, reduces target's Strike resistance by {0}% for 1 attack (MAX 1 activation).",
+    "name": ""
+  },
+  {
+    "id": 500091,
+    "description": "While equipped to a Breaker with Stab affinity, before attacking, reduces target's Stab resistance by {0}% for 1 attack (MAX 1 activation).",
+    "name": ""
+  },
+  {
+    "id": 500092,
+    "description": "While equipped to a character with Fire affinity, boosts HP recovery granted by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500093,
+    "description": "While equipped to a character with Ice affinity, boosts HP recovery granted by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500094,
+    "description": "While equipped to a character with Bolt affinity, boosts HP recovery granted by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500095,
+    "description": "While equipped to a character with Air affinity, boosts HP recovery granted by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500096,
+    "description": "While equipped to a character with Slash affinity, boosts HP recovery granted by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500097,
+    "description": "While equipped to a character with Strike affinity, boosts HP recovery granted by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500098,
+    "description": "While equipped to a character with Stab affinity, boosts HP recovery granted by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500099,
+    "description": "While equipped to a character with Fire affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500100,
+    "description": "While equipped to a character with Ice affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500101,
+    "description": "While equipped to a character with Bolt affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500102,
+    "description": "While equipped to a character with Air affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500103,
+    "description": "While equipped to a character with Slash affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500104,
+    "description": "While equipped to a character with Strike affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500105,
+    "description": "While equipped to a character with Stab affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500106,
+    "description": "While equipped to a Defender with Fire affinity, when hit by an attack, restores own HP by {0}%. (Max 1 activation per turn)",
+    "name": ""
+  },
+  {
+    "id": 500107,
+    "description": "While equipped to a Defender with Ice affinity, when hit by an attack, restores own HP by {0}%. (Max 1 activation per turn)",
+    "name": ""
+  },
+  {
+    "id": 500108,
+    "description": "While equipped to a Defender with Bolt affinity, when hit by an attack, restores own HP by {0}%. (Max 1 activation per turn)",
+    "name": ""
+  },
+  {
+    "id": 500109,
+    "description": "While equipped to a Defender with Air affinity, when hit by an attack, restores own HP by {0}%. (Max 1 activation per turn)",
+    "name": ""
+  },
+  {
+    "id": 500110,
+    "description": "While equipped to a Defender with Slash affinity, when hit by an attack, restores own HP by {0}%. (Max 1 activation per turn)",
+    "name": ""
+  },
+  {
+    "id": 500111,
+    "description": "While equipped to a Defender with Strike affinity, when hit by an attack, restores own HP by {0}%. (Max 1 activation per turn)",
+    "name": ""
+  },
+  {
+    "id": 500112,
+    "description": "While equipped to a Defender with Stab affinity, when hit by an attack, restores own HP by {0}%. (Max 1 activation per turn)",
+    "name": ""
+  },
+  {
+    "id": 500113,
+    "description": "While equipped to a character with Fire affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500114,
+    "description": "While equipped to a character with Ice affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500115,
+    "description": "While equipped to a character with Bolt affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500116,
+    "description": "While equipped to a character with Air affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500117,
+    "description": "While equipped to a character with Slash affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500118,
+    "description": "While equipped to a character with Strike affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500119,
+    "description": "While equipped to a character with Stab affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500120,
+    "description": "While equipped to a character with Fire affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500121,
+    "description": "While equipped to a character with Ice affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500122,
+    "description": "While equipped to a character with Bolt affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500123,
+    "description": "While equipped to a character with Air affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500124,
+    "description": "While equipped to a character with Slash affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500125,
+    "description": "While equipped to a character with Strike affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500126,
+    "description": "While equipped to a character with Stab affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500127,
+    "description": "While equipped to a character with Fire affinity, boosts M. ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500128,
+    "description": "While equipped to a character with Ice affinity, boosts M. ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500129,
+    "description": "While equipped to a character with Bolt affinity, boosts M. ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500130,
+    "description": "While equipped to a character with Air affinity, boosts M. ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500131,
+    "description": "While equipped to a character with Slash affinity, boosts P. ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500132,
+    "description": "While equipped to a character with Strike affinity, boosts P. ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500133,
+    "description": "While equipped to a character with Stab affinity, boosts P. ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500134,
+    "description": "While equipped to a character with Fire affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500135,
+    "description": "While equipped to a character with Ice affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500136,
+    "description": "While equipped to a character with Bolt affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500137,
+    "description": "While equipped to a character with Air affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500138,
+    "description": "While equipped to a character with Slash affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500139,
+    "description": "While equipped to a character with Strike affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500140,
+    "description": "While equipped to a character with Stab affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500141,
+    "description": "While equipped to a Breaker with Fire affinity, before attacking, reduces target's Fire resistance by {0}% for 1 attack (once per turn).",
+    "name": ""
+  },
+  {
+    "id": 500142,
+    "description": "While equipped to a Breaker with Ice affinity, before attacking, reduces target's Ice resistance by {0}% for 1 attack (once per turn).",
+    "name": ""
+  },
+  {
+    "id": 500143,
+    "description": "While equipped to a Breaker with Bolt affinity, before attacking, reduces target's Bolt resistance by {0}% for 1 attack (once per turn).",
+    "name": ""
+  },
+  {
+    "id": 500144,
+    "description": "While equipped to a Breaker with Air affinity, before attacking, reduces target's Air resistance by {0}% for 1 attack (once per turn).",
+    "name": ""
+  },
+  {
+    "id": 500145,
+    "description": "While equipped to a Breaker with Slash affinity, before attacking, reduces target's Slash resistance by {0}% for 1 attack (once per turn).",
+    "name": ""
+  },
+  {
+    "id": 500146,
+    "description": "While equipped to a Breaker with Strike affinity, before attacking, reduces target's Strike resistance by {0}% for 1 attack (once per turn).",
+    "name": ""
+  },
+  {
+    "id": 500147,
+    "description": "While equipped to a Breaker with Stab affinity, before attacking, reduces target's Stab resistance by {0}% for 1 attack (once per turn).",
+    "name": ""
+  },
+  {
+    "id": 500148,
+    "description": "While equipped to a character with Fire affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500149,
+    "description": "While equipped to a character with Ice affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500150,
+    "description": "While equipped to a character with Bolt affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500151,
+    "description": "While equipped to a character with Air affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500152,
+    "description": "While equipped to a character with Slash affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500153,
+    "description": "While equipped to a character with Strike affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500154,
+    "description": "While equipped to a character with Stab affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500155,
+    "description": "While equipped to a character with Fire affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500156,
+    "description": "While equipped to a character with Ice affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500157,
+    "description": "While equipped to a character with Bolt affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500158,
+    "description": "While equipped to a character with Air affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500159,
+    "description": "While equipped to a character with Slash affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500160,
+    "description": "While equipped to a character with Strike affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500161,
+    "description": "While equipped to a character with Stab affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500162,
+    "description": "While equipped to a Defender with Fire affinity, when hit by an attack, restores own HP by {0}% (Max: 1 time per turn).",
+    "name": ""
+  },
+  {
+    "id": 500163,
+    "description": "While equipped to a Defender with Ice affinity, when hit by an attack, restores own HP by {0}% (Max: 1 time per turn).",
+    "name": ""
+  },
+  {
+    "id": 500164,
+    "description": "While equipped to a Defender with Bolt affinity, when hit by an attack, restores own HP by {0}% (Max: 1 time per turn).",
+    "name": ""
+  },
+  {
+    "id": 500165,
+    "description": "While equipped to a Defender with Air affinity, when hit by an attack, restores own HP by {0}% (Max: 1 time per turn).",
+    "name": ""
+  },
+  {
+    "id": 500166,
+    "description": "While equipped to a Defender with Slash affinity, when hit by an attack, restores own HP by {0}% (Max: 1 time per turn).",
+    "name": ""
+  },
+  {
+    "id": 500167,
+    "description": "While equipped to a Defender with Strike affinity, when hit by an attack, restores own HP by {0}% (Max: 1 time per turn).",
+    "name": ""
+  },
+  {
+    "id": 500168,
+    "description": "While equipped to a Defender with Stab affinity, when hit by an attack, restores own HP by {0}% (Max: 1 time per turn).",
+    "name": ""
+  },
+  {
+    "id": 500169,
+    "description": "While equipped to a character with Fire affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500170,
+    "description": "While equipped to a character with Ice affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500171,
+    "description": "While equipped to a character with Bolt affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500172,
+    "description": "While equipped to a character with Air affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500173,
+    "description": "While equipped to a character with Slash affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500174,
+    "description": "While equipped to a character with Strike affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500175,
+    "description": "While equipped to a character with Stab affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500176,
+    "description": "While equipped to a character with Fire affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500177,
+    "description": "While equipped to a character with Ice affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500178,
+    "description": "While equipped to a character with Bolt affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500179,
+    "description": "While equipped to a character with Air affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500180,
+    "description": "While equipped to a character with Slash affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500181,
+    "description": "While equipped to a character with Strike affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500182,
+    "description": "While equipped to a character with Stab affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500183,
+    "description": "While equipped to a character with Fire affinity, boosts M.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500184,
+    "description": "While equipped to a character with Ice affinity, boosts M.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500185,
+    "description": "While equipped to a character with Bolt affinity, boosts M.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500186,
+    "description": "While equipped to a character with Air affinity, boosts M.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500187,
+    "description": "While equipped to a character with Slash affinity, boosts P.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500188,
+    "description": "While equipped to a character with Strike affinity, boosts P.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500189,
+    "description": "While equipped to a character with Stab affinity, boosts P.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500190,
+    "description": "While equipped to a character with Fire affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500191,
+    "description": "While equipped to a character with Ice affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500192,
+    "description": "While equipped to a character with Bolt affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500193,
+    "description": "While equipped to a character with Air affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500194,
+    "description": "While equipped to a character with Slash affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500195,
+    "description": "While equipped to a character with Strike affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500196,
+    "description": "While equipped to a character with Stab affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500197,
+    "description": "While equipped to a Breaker with Fire affinity, before attacking, reduces target's Fire resistance by {0}% for 1 attack (up to 1 time).",
+    "name": ""
+  },
+  {
+    "id": 500198,
+    "description": "While equipped to a Breaker with Ice affinity, before attacking, reduces target's Ice resistance by {0}% for 1 attack (up to 1 time).",
+    "name": ""
+  },
+  {
+    "id": 500199,
+    "description": "While equipped to a Breaker with Bolt affinity, before attacking, decreases target's Bolt resistance by {0}% for 1 attack (triggers up to 1 time).",
+    "name": ""
+  },
+  {
+    "id": 500200,
+    "description": "While equipped to a Breaker with Air affinity, before attacking, decreases target's Air resistance by {0}% for 1 attack (triggers up to 1 time).",
+    "name": ""
+  },
+  {
+    "id": 500201,
+    "description": "While equipped to a Breaker with Slash affinity, before attacking, decreases target's Slash resistance by {0}% for 1 attack (triggers up to 1 time).",
+    "name": ""
+  },
+  {
+    "id": 500202,
+    "description": "While equipped to a Breaker with Strike affinity, before attacking, decreases target's Strike resistance by {0}% for 1 attack (triggers up to 1 time).",
+    "name": ""
+  },
+  {
+    "id": 500203,
+    "description": "While equipped to a Breaker with Stab affinity, before attacking, decreases target's Stab resistance by {0}% for 1 attack (triggers up to 1 time).",
+    "name": ""
+  },
+  {
+    "id": 500204,
+    "description": "While equipped to a character with Fire affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500205,
+    "description": "While equipped to a character with Ice affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500206,
+    "description": "While equipped to a character with Bolt affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500207,
+    "description": "While equipped to a character with Air affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500208,
+    "description": "While equipped to a character with Slash affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500209,
+    "description": "While equipped to a character with Strike affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500210,
+    "description": "While equipped to a character with Stab affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500211,
+    "description": "While equipped to a character with Fire affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500212,
+    "description": "While equipped to a character with Ice affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500213,
+    "description": "While equipped to a character with Bolt affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500214,
+    "description": "While equipped to a character with Air affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500215,
+    "description": "While equipped to a character with Slash affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500216,
+    "description": "While equipped to a character with Strike affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500217,
+    "description": "While equipped to a character with Stab affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500218,
+    "description": "While equipped to a Defender with Fire affinity, when receiving an attack, restores own HP by {0}% (triggers up to 1 time).",
+    "name": ""
+  },
+  {
+    "id": 500219,
+    "description": "While equipped to a Defender with Ice affinity, when receiving an attack, restores own HP by {0}% (once per turn).",
+    "name": ""
+  },
+  {
+    "id": 500220,
+    "description": "While equipped to a Defender with Bolt affinity, when receiving an attack, restores own HP by {0}% (once per turn).",
+    "name": ""
+  },
+  {
+    "id": 500221,
+    "description": "While equipped to a Defender with Air affinity, when receiving an attack, restores own HP by {0}% (once per turn).",
+    "name": ""
+  },
+  {
+    "id": 500222,
+    "description": "While equipped to a Defender with Slash affinity, when receiving an attack, restores own HP by {0}% (once per turn).",
+    "name": ""
+  },
+  {
+    "id": 500223,
+    "description": "While equipped to a Defender with Strike affinity, when receiving an attack, restores own HP by {0}% (once per turn).",
+    "name": ""
+  },
+  {
+    "id": 500224,
+    "description": "While equipped to a Defender with Stab affinity, when receiving an attack, restores own HP by {0}% (once per turn).",
+    "name": ""
+  },
+  {
+    "id": 500225,
+    "description": "While equipped to a character with Fire affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500226,
+    "description": "While equipped to a character with Ice affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500227,
+    "description": "While equipped to a character with Bolt affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500228,
+    "description": "While equipped to a character with Air affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500229,
+    "description": "While equipped to a character with Slash affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500230,
+    "description": "While equipped to a character with Strike affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500231,
+    "description": "While equipped to a character with Stab affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500232,
+    "description": "While equipped to a character with Fire affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500233,
+    "description": "While equipped to a character with Ice affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500234,
+    "description": "While equipped to a character with Bolt affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500235,
+    "description": "While equipped to a character with Air affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500236,
+    "description": "While equipped to a character with Slash affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500237,
+    "description": "While equipped to a character with Strike affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500238,
+    "description": "While equipped to a character with Stab affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500239,
+    "description": "While equipped to a character with Fire affinity, boosts M.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500240,
+    "description": "While equipped to a character with Ice affinity, boosts M.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500241,
+    "description": "While equipped to a character with Bolt affinity, boosts M.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500242,
+    "description": "While equipped to a character with Air affinity, boosts M.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500243,
+    "description": "While equipped to a character with Slash affinity, boosts P.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500244,
+    "description": "While equipped to a character with Strike affinity, boosts P.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500245,
+    "description": "While equipped to a character with Stab affinity, boosts P.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500246,
+    "description": "While equipped to a character with Fire affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500247,
+    "description": "While equipped to a character with Ice affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500248,
+    "description": "While equipped to a character with Bolt affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500249,
+    "description": "While equipped to a character with Air affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500250,
+    "description": "While equipped to a character with Slash affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500251,
+    "description": "While equipped to a character with Strike affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500252,
+    "description": "While equipped to a character with Stab affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500253,
+    "description": "While equipped to a Breaker with Fire affinity, reduces target's Fire resistance by {0}% for 1 attack before attacking (max 1 activation per turn).",
+    "name": ""
+  },
+  {
+    "id": 500254,
+    "description": "While equipped to a Breaker with Ice affinity, reduces target's Ice resistance by {0}% for 1 attack before attacking (max 1 activation per turn).",
+    "name": ""
+  },
+  {
+    "id": 500255,
+    "description": "While equipped to a Breaker with Bolt affinity, reduces target's Bolt resistance by {0}% for 1 attack before attacking (max 1 activation per turn).",
+    "name": ""
+  },
+  {
+    "id": 500256,
+    "description": "While equipped to a Breaker with Air affinity, reduces target's Air resistance by {0}% for 1 attack before attacking (max 1 activation per turn).",
+    "name": ""
+  },
+  {
+    "id": 500257,
+    "description": "While equipped to a Breaker with Slash affinity, reduces target's Slash resistance by {0}% for 1 attack before attacking (max 1 activation per turn).",
+    "name": ""
+  },
+  {
+    "id": 500258,
+    "description": "While equipped to a Breaker with Strike affinity, reduces target's Strike resistance by {0}% for 1 attack before attacking (max 1 activation per turn).",
+    "name": ""
+  },
+  {
+    "id": 500259,
+    "description": "While equipped to a Breaker with Stab affinity, before attacking, grants target Stab resistance -{0}% for 1 attack (max once per use).",
+    "name": ""
+  },
+  {
+    "id": 500260,
+    "description": "While equipped to a character with Fire affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500261,
+    "description": "While equipped to a character with Ice affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500262,
+    "description": "While equipped to a character with Bolt affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500263,
+    "description": "While equipped to a character with Air affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500264,
+    "description": "While equipped to a character with Slash affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500265,
+    "description": "While equipped to a character with Strike affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500266,
+    "description": "While equipped to a character with Stab affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500267,
+    "description": "While equipped to a character with Fire affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500268,
+    "description": "While equipped to a character with Ice affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500269,
+    "description": "While equipped to a character with Bolt affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500270,
+    "description": "While equipped to a character with Air affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500271,
+    "description": "While equipped to a character with Slash affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500272,
+    "description": "While equipped to a character with Strike affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500273,
+    "description": "While equipped to a character with Stab affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500274,
+    "description": "While equipped to a Defender with Fire affinity, when hit by an attack, recovers own HP by {0}% (max once per use).",
+    "name": ""
+  },
+  {
+    "id": 500275,
+    "description": "While equipped to a Defender with Ice affinity, when hit by an attack, recovers own HP by {0}% (max once per use).",
+    "name": ""
+  },
+  {
+    "id": 500276,
+    "description": "While equipped to a Defender with Bolt affinity, when hit by an attack, recovers own HP by {0}% (max once per use).",
+    "name": ""
+  },
+  {
+    "id": 500277,
+    "description": "While equipped to a Defender with Air affinity, when hit by an attack, recovers own HP by {0}% (max once per use).",
+    "name": ""
+  },
+  {
+    "id": 500278,
+    "description": "While equipped to a Defender with Slash affinity, when hit by an attack, recovers own HP by {0}% (max once per use).",
+    "name": ""
+  },
+  {
+    "id": 500279,
+    "description": "While equipped to a Defender with Strike affinity, restores own HP by {0}% when receiving an attack (up to 1 time per turn).",
+    "name": ""
+  },
+  {
+    "id": 500280,
+    "description": "While equipped to a Defender with Stab affinity, restores own HP by {0}% when receiving an attack (up to 1 time per turn).",
+    "name": ""
+  },
+  {
+    "id": 500281,
+    "description": "While equipped to a character with Fire affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500282,
+    "description": "While equipped to a character with Ice affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500283,
+    "description": "While equipped to a character with Bolt affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500284,
+    "description": "While equipped to a character with Air affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500285,
+    "description": "While equipped to a character with Slash affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500286,
+    "description": "While equipped to a character with Strike affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500287,
+    "description": "While equipped to a character with Stab affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500288,
+    "description": "While equipped to a character with Fire affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500289,
+    "description": "While equipped to a character with Ice affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500290,
+    "description": "While equipped to a character with Bolt affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500291,
+    "description": "While equipped to a character with Air affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500292,
+    "description": "While equipped to a character with Slash affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500293,
+    "description": "While equipped to a character with Strike affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500294,
+    "description": "While equipped to a character with Stab affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500295,
+    "description": "While equipped to a character with Fire affinity, boosts M.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500296,
+    "description": "While equipped to a character with Ice affinity, boosts M.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500297,
+    "description": "While equipped to a character with Bolt affinity, boosts M.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500298,
+    "description": "While equipped to a character with Air affinity, boosts M.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500299,
+    "description": "While equipped to a character with Slash affinity, boosts P.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500300,
+    "description": "While equipped to a character with Strike affinity, boosts P.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500301,
+    "description": "While equipped to a character with Stab affinity, boosts P.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500302,
+    "description": "While equipped to a character with Fire affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500303,
+    "description": "While equipped to a character with Ice affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500304,
+    "description": "While equipped to a character with Bolt affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500305,
+    "description": "While equipped to a character with Air affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500306,
+    "description": "While equipped to a character with Slash affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500307,
+    "description": "While equipped to a character with Strike affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500308,
+    "description": "While equipped to a character with Stab affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500309,
+    "description": "While equipped to a Breaker with Fire affinity, before attacking, reduces target's Fire Resistance by {0}% for 1 attack. (MAX 1 activation per turn)",
+    "name": ""
+  },
+  {
+    "id": 500310,
+    "description": "While equipped to a Breaker with Ice affinity, before attacking, reduces target's Ice Resistance by {0}% for 1 attack. (MAX 1 activation per turn)",
+    "name": ""
+  },
+  {
+    "id": 500311,
+    "description": "While equipped to a Breaker with Bolt affinity, before attacking, reduces target's Bolt Resistance by {0}% for 1 attack. (MAX 1 activation per turn)",
+    "name": ""
+  },
+  {
+    "id": 500312,
+    "description": "While equipped to a Breaker with Air affinity, before attacking, reduces target's Air Resistance by {0}% for 1 attack. (MAX 1 activation per turn)",
+    "name": ""
+  },
+  {
+    "id": 500313,
+    "description": "While equipped to a Breaker with Slash affinity, before attacking, reduces target's Slash Resistance by {0}% for 1 attack. (MAX 1 activation per turn)",
+    "name": ""
+  },
+  {
+    "id": 500314,
+    "description": "While equipped to a Breaker with Strike affinity, before attacking, reduces target's Strike Resistance by {0}% for 1 attack. (MAX 1 activation per turn)",
+    "name": ""
+  },
+  {
+    "id": 500315,
+    "description": "While equipped to a Breaker with Stab affinity, before attacking, reduces target's Stab Resistance by {0}% for 1 attack. (MAX 1 activation per turn)",
+    "name": ""
+  },
+  {
+    "id": 500316,
+    "description": "While equipped to a character with Fire affinity, boosts HP recovery amount by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500317,
+    "description": "While equipped to a character with Ice affinity, boosts HP recovery amount by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500318,
+    "description": "While equipped to a character with Bolt affinity, boosts HP recovery amount by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500319,
+    "description": "While equipped to a character with Air affinity, boosts HP recovery granted by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500320,
+    "description": "While equipped to a character with Slash affinity, boosts HP recovery granted by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500321,
+    "description": "While equipped to a character with Strike affinity, boosts HP recovery granted by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500322,
+    "description": "While equipped to a character with Stab affinity, boosts HP recovery granted by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500323,
+    "description": "While equipped to a character with Fire affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500324,
+    "description": "While equipped to a character with Ice affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500325,
+    "description": "While equipped to a character with Bolt affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500326,
+    "description": "While equipped to a character with Air affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500327,
+    "description": "While equipped to a character with Slash affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500328,
+    "description": "While equipped to a character with Strike affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500329,
+    "description": "While equipped to a character with Stab affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500330,
+    "description": "While equipped to a Defender with Fire affinity, when hit by an attack, restores own HP by {0}%. (MAX 1 time)",
+    "name": ""
+  },
+  {
+    "id": 500331,
+    "description": "While equipped to a Defender with Ice affinity, when hit by an attack, restores own HP by {0}%. (MAX 1 time)",
+    "name": ""
+  },
+  {
+    "id": 500332,
+    "description": "While equipped to a Defender with Bolt affinity, when hit by an attack, restores own HP by {0}%. (MAX 1 time)",
+    "name": ""
+  },
+  {
+    "id": 500333,
+    "description": "While equipped to a Defender with Air affinity, when hit by an attack, restores own HP by {0}%. (MAX 1 time)",
+    "name": ""
+  },
+  {
+    "id": 500334,
+    "description": "While equipped to a Defender with Slash affinity, when hit by an attack, restores own HP by {0}%. (MAX 1 time)",
+    "name": ""
+  },
+  {
+    "id": 500335,
+    "description": "While equipped to a Defender with Strike affinity, when hit by an attack, restores own HP by {0}%. (MAX 1 time)",
+    "name": ""
+  },
+  {
+    "id": 500336,
+    "description": "While equipped to a Defender with Stab affinity, when hit by an attack, restores own HP by {0}%. (MAX 1 time)",
+    "name": ""
+  },
+  {
+    "id": 500337,
+    "description": "While equipped to a character with Fire affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500338,
+    "description": "While equipped to a character with Ice affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500339,
+    "description": "While equipped to a character with Bolt affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500340,
+    "description": "While equipped to a character with Air affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500341,
+    "description": "While equipped to a character with Slash affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500342,
+    "description": "While equipped to a character with Strike affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500343,
+    "description": "While equipped to a character with Stab affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500344,
+    "description": "While equipped to a character with Fire affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500345,
+    "description": "While equipped to a character with Ice affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500346,
+    "description": "While equipped to a character with Bolt affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500347,
+    "description": "While equipped to a character with Air affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500348,
+    "description": "While equipped to a character with Slash affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500349,
+    "description": "While equipped to a character with Strike affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500350,
+    "description": "While equipped to a character with Stab affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500351,
+    "description": "While equipped to a character with Fire affinity, boosts M. ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500352,
+    "description": "While equipped to a character with Ice affinity, boosts M. ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500353,
+    "description": "While equipped to a character with Bolt affinity, boosts M. ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500354,
+    "description": "While equipped to a character with Air affinity, boosts M. ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500355,
+    "description": "While equipped to a character with Slash affinity, boosts P. ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500356,
+    "description": "While equipped to a character with Strike affinity, boosts P. ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500357,
+    "description": "While equipped to a character with Stab affinity, boosts P. ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500358,
+    "description": "While equipped to a character with Fire affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500359,
+    "description": "While equipped to a character with Ice affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500360,
+    "description": "While equipped to a character with Bolt affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500361,
+    "description": "While equipped to a character with Air affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500362,
+    "description": "While equipped to a character with Slash affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500363,
+    "description": "While equipped to a character with Strike affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500364,
+    "description": "While equipped to a character with Stab affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500365,
+    "description": "While equipped to a Breaker with Fire affinity, before attacking, reduces target's Fire resistance by {0}% for 1 attack (triggers up to once).",
+    "name": ""
+  },
+  {
+    "id": 500366,
+    "description": "While equipped to a Breaker with Ice affinity, before attacking, reduces target's Ice resistance by {0}% for 1 attack (triggers up to once).",
+    "name": ""
+  },
+  {
+    "id": 500367,
+    "description": "While equipped to a Breaker with Bolt affinity, before attacking, reduces target's Bolt resistance by {0}% for 1 attack (triggers up to once).",
+    "name": ""
+  },
+  {
+    "id": 500368,
+    "description": "While equipped to a Breaker with Air affinity, before attacking, reduces target's Air resistance by {0}% for 1 attack (triggers up to once).",
+    "name": ""
+  },
+  {
+    "id": 500369,
+    "description": "While equipped to a Breaker with Slash affinity, before attacking, reduces target's Slash resistance by {0}% for 1 attack (triggers up to once).",
+    "name": ""
+  },
+  {
+    "id": 500370,
+    "description": "While equipped to a Breaker with Strike affinity, before attacking, reduces target's Strike resistance by {0}% for 1 attack (triggers up to once).",
+    "name": ""
+  },
+  {
+    "id": 500371,
+    "description": "While equipped to a Breaker with Stab affinity, before attacking, reduces target's Stab resistance by {0}% for 1 attack (triggers up to once).",
+    "name": ""
+  },
+  {
+    "id": 500372,
+    "description": "While equipped to a character with Fire affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500373,
+    "description": "While equipped to a character with Ice affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500374,
+    "description": "While equipped to a character with Bolt affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500375,
+    "description": "While equipped to a character with Air affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500376,
+    "description": "While equipped to a character with Slash affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500377,
+    "description": "While equipped to a character with Strike affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500378,
+    "description": "While equipped to a character with Stab affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500379,
+    "description": "While equipped to a character with Fire affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500380,
+    "description": "While equipped to a character with Ice affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500381,
+    "description": "While equipped to a character with Bolt affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500382,
+    "description": "While equipped to a character with Air affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500383,
+    "description": "While equipped to a character with Slash affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500384,
+    "description": "While equipped to a character with Strike affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500385,
+    "description": "While equipped to a character with Stab affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500386,
+    "description": "While equipped to a Defender with Fire affinity, when receiving an attack, restores own HP by {0}%. (Once per turn)",
+    "name": ""
+  },
+  {
+    "id": 500387,
+    "description": "While equipped to a Defender with Ice affinity, when receiving an attack, restores own HP by {0}%. (Once per turn)",
+    "name": ""
+  },
+  {
+    "id": 500388,
+    "description": "While equipped to a Defender with Bolt affinity, when receiving an attack, restores own HP by {0}%. (Once per turn)",
+    "name": ""
+  },
+  {
+    "id": 500389,
+    "description": "While equipped to a Defender with Air affinity, when receiving an attack, restores own HP by {0}%. (Once per turn)",
+    "name": ""
+  },
+  {
+    "id": 500390,
+    "description": "While equipped to a Defender with Slash affinity, when receiving an attack, restores own HP by {0}%. (Once per turn)",
+    "name": ""
+  },
+  {
+    "id": 500391,
+    "description": "While equipped to a Defender with Strike affinity, when receiving an attack, restores own HP by {0}%. (Once per turn)",
+    "name": ""
+  },
+  {
+    "id": 500392,
+    "description": "While equipped to a Defender with Stab affinity, when receiving an attack, restores own HP by {0}%. (Once per turn)",
+    "name": ""
+  },
+  {
+    "id": 500393,
+    "description": "While equipped to a character with Fire affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500394,
+    "description": "While equipped to a character with Ice affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500395,
+    "description": "While equipped to a character with Bolt affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500396,
+    "description": "While equipped to a character with Air affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500397,
+    "description": "While equipped to a character with Slash affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500398,
+    "description": "While equipped to a character with Strike affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500399,
+    "description": "While equipped to a character with Stab affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500400,
+    "description": "While equipped to a character with Fire affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500401,
+    "description": "While equipped to a character with Ice affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500402,
+    "description": "While equipped to a character with Bolt affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500403,
+    "description": "While equipped to a character with Air affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500404,
+    "description": "While equipped to a character with Slash affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500405,
+    "description": "While equipped to a character with Strike affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500406,
+    "description": "While equipped to a character with Stab affinity, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500407,
+    "description": "While equipped to a character with Fire affinity, boosts M.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500408,
+    "description": "While equipped to a character with Ice affinity, boosts M.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500409,
+    "description": "While equipped to a character with Bolt affinity, boosts M.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500410,
+    "description": "While equipped to a character with Air affinity, boosts M.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500411,
+    "description": "While equipped to a character with Slash affinity, boosts P.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500412,
+    "description": "While equipped to a character with Strike affinity, boosts P.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500413,
+    "description": "While equipped to a character with Stab affinity, boosts P.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500414,
+    "description": "While equipped to a character with Fire affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500415,
+    "description": "While equipped to a character with Ice affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500416,
+    "description": "While equipped to a character with Bolt affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500417,
+    "description": "While equipped to a character with Air affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500418,
+    "description": "While equipped to a character with Slash affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500419,
+    "description": "While equipped to a character with Strike affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500420,
+    "description": "While equipped to a character with Stab affinity, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500421,
+    "description": "While equipped to a Breaker with Fire affinity, before attacking, reduces target's Fire resistance by {0}% for 1 attack (activates up to once per turn).",
+    "name": ""
+  },
+  {
+    "id": 500422,
+    "description": "While equipped to a Breaker with Ice affinity, before attacking, reduces target's Ice resistance by {0}% for 1 attack (activates up to once per turn).",
+    "name": ""
+  },
+  {
+    "id": 500423,
+    "description": "While equipped to a Breaker with Bolt affinity, before attacking, reduces target's Bolt resistance by {0}% for 1 attack (activates up to once per turn).",
+    "name": ""
+  },
+  {
+    "id": 500424,
+    "description": "While equipped to a Breaker with Air affinity, before attacking, reduces target's Air resistance by {0}% for 1 attack (activates up to once per turn).",
+    "name": ""
+  },
+  {
+    "id": 500425,
+    "description": "While equipped to a Breaker with Slash affinity, before attacking, reduces target's Slash resistance by {0}% for 1 attack (activates up to once per turn).",
+    "name": ""
+  },
+  {
+    "id": 500426,
+    "description": "While equipped to a Breaker with Strike affinity, before attacking, reduces target's Strike resistance by {0}% for 1 attack (activates up to once per turn).",
+    "name": ""
+  },
+  {
+    "id": 500427,
+    "description": "While equipped to a Breaker with Stab affinity, before attacking, reduces target's Stab resistance by {0}% for 1 attack (activates up to once per turn).",
+    "name": ""
+  },
+  {
+    "id": 500428,
+    "description": "While equipped to a character with Fire affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500429,
+    "description": "While equipped to a character with Ice affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500430,
+    "description": "While equipped to a character with Bolt affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500431,
+    "description": "While equipped to a character with Air affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500432,
+    "description": "While equipped to a character with Slash affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500433,
+    "description": "While equipped to a character with Strike affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500434,
+    "description": "While equipped to a character with Stab affinity, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500435,
+    "description": "While equipped to a character with Fire affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500436,
+    "description": "While equipped to a character with Ice affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500437,
+    "description": "While equipped to a character with Bolt affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500438,
+    "description": "While equipped to a character with Air affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500439,
+    "description": "While equipped to a character with Slash affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500440,
+    "description": "While equipped to a character with Strike affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500441,
+    "description": "While equipped to a character with Stab affinity, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500442,
+    "description": "While equipped to a Defender with Fire affinity, when hit by an attack, restores own HP by {0}% (Max: 1 time).",
+    "name": ""
+  },
+  {
+    "id": 500443,
+    "description": "While equipped to a Defender with Ice affinity, when hit by an attack, restores own HP by {0}% (Max: 1 time).",
+    "name": ""
+  },
+  {
+    "id": 500444,
+    "description": "While equipped to a Defender with Bolt affinity, when hit by an attack, restores own HP by {0}% (Max: 1 time).",
+    "name": ""
+  },
+  {
+    "id": 500445,
+    "description": "While equipped to a Defender with Air affinity, when hit by an attack, restores own HP by {0}% (Max: 1 time).",
+    "name": ""
+  },
+  {
+    "id": 500446,
+    "description": "While equipped to a Defender with Slash affinity, when hit by an attack, restores own HP by {0}% (Max: 1 time).",
+    "name": ""
+  },
+  {
+    "id": 500447,
+    "description": "While equipped to a Defender with Strike affinity, when hit by an attack, restores own HP by {0}% (Max: 1 time).",
+    "name": ""
+  },
+  {
+    "id": 500448,
+    "description": "While equipped to a Defender with Stab affinity, when hit by an attack, restores own HP by {0}% (Max: 1 time).",
+    "name": ""
+  },
+  {
+    "id": 500449,
+    "description": "While equipped to a Nova character, boosts P.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500450,
+    "description": "While equipped to a Nova character, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500451,
+    "description": "While equipped to a Nova character, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500452,
+    "description": "While equipped to a Nova character, boosts HP recovery granted by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500453,
+    "description": "While equipped to a Nova character, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500454,
+    "description": "While equipped to a Nova character, boosts P.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500455,
+    "description": "While equipped to a Nova character, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500456,
+    "description": "While equipped to a Nova character, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500457,
+    "description": "While equipped to a Nova character, boosts HP recovery granted by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500458,
+    "description": "While equipped to a Nova character, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500459,
+    "description": "For Nova characters, boosts P.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500460,
+    "description": "For Nova characters, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500461,
+    "description": "For Nova characters, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500462,
+    "description": "For Nova characters, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500463,
+    "description": "For Nova characters, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500464,
+    "description": "For Nova characters, boosts P.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500465,
+    "description": "For Nova characters, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500466,
+    "description": "For Nova characters, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500467,
+    "description": "For Nova characters, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500468,
+    "description": "For Nova characters, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500469,
+    "description": "For Nova characters, boosts P.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500470,
+    "description": "For Nova characters, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500471,
+    "description": "For Nova characters, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500472,
+    "description": "For Nova characters, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500473,
+    "description": "For Nova characters, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500474,
+    "description": "For Nova characters, boosts P.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500475,
+    "description": "For Nova characters, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500476,
+    "description": "For Nova characters, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500477,
+    "description": "For Nova characters, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500478,
+    "description": "For Nova characters, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500479,
+    "description": "For Nova characters, boosts P.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500480,
+    "description": "For Nova characters, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500481,
+    "description": "For Nova characters, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500482,
+    "description": "For Nova characters, boosts HP recovery granted by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500483,
+    "description": "For Nova characters, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500484,
+    "description": "For Nova characters, boosts P.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500485,
+    "description": "For Nova characters, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500486,
+    "description": "For Nova characters, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500487,
+    "description": "For Nova characters, boosts HP recovery granted by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500488,
+    "description": "For Nova characters, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500489,
+    "description": "For Family & Friends characters, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500490,
+    "description": "For Family & Friends characters, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500491,
+    "description": "For Family & Friends characters, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500492,
+    "description": "For Family & Friends characters, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500493,
+    "description": "For Family & Friends characters, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500494,
+    "description": "For Family & Friends characters, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500495,
+    "description": "For Family & Friends characters, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500496,
+    "description": "For Family & Friends characters, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500497,
+    "description": "For Knight characters, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500498,
+    "description": "For Knight characters, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500499,
+    "description": "While equipped to a character with the Knight tag, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500500,
+    "description": "While equipped to a character with the Knight tag, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500501,
+    "description": "While equipped to a character with the Knight tag, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500502,
+    "description": "While equipped to a character with the Knight tag, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500503,
+    "description": "While equipped to a character with the Knight tag, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500504,
+    "description": "While equipped to a character with the Knight tag, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500505,
+    "description": "While equipped to a Defender with the Diligent tag, when receiving an attack, restores own HP by {0}% (can activate up to 1 time).",
+    "name": ""
+  },
+  {
+    "id": 500506,
+    "description": "While equipped to a Defender with the Diligent tag, when receiving an attack, restores own HP by {0}% (can activate up to 1 time).",
+    "name": ""
+  },
+  {
+    "id": 500507,
+    "description": "While equipped to a Defender with the Diligent tag, when receiving an attack, restores own HP by {0}% (can activate up to 1 time).",
+    "name": ""
+  },
+  {
+    "id": 500508,
+    "description": "While equipped to a Defender with the Diligent tag, when receiving an attack, restores own HP by {0}% (can activate up to 1 time).",
+    "name": ""
+  },
+  {
+    "id": 500509,
+    "description": "While equipped to a Defender with the Diligent tag, when receiving an attack, restores own HP by {0}% (can activate up to 1 time).",
+    "name": ""
+  },
+  {
+    "id": 500510,
+    "description": "While equipped to a Defender with the Diligent tag, when receiving an attack, restores own HP by {0}% (can activate up to 1 time).",
+    "name": ""
+  },
+  {
+    "id": 500511,
+    "description": "While equipped to a Defender with the Diligent tag, when receiving an attack, restores own HP by {0}% (can activate up to 1 time).",
+    "name": ""
+  },
+  {
+    "id": 500512,
+    "description": "While equipped to a Defender with the Diligent tag, when receiving an attack, restores own HP by {0}% (can activate up to 1 time).",
+    "name": ""
+  },
+  {
+    "id": 500513,
+    "description": "While equipped to a member of the Aladiss Research Team, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500514,
+    "description": "While equipped to a member of the Aladiss Research Team, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500515,
+    "description": "While equipped to a member of the Aladiss Research Team, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500516,
+    "description": "While equipped to a Breaker who is a member of the Aladiss Research Team, before attacking, grants target Strike resistance -{0}% for 1 attack (can activate up to 1 time).",
+    "name": ""
+  },
+  {
+    "id": 500517,
+    "description": "While equipped to a member of the Aladiss Research Team, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500518,
+    "description": "While equipped to a member of the Aladiss Research Team, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500519,
+    "description": "While equipped to a character with the Aladiss Research Team tag, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500520,
+    "description": "While equipped to a character with the Aladiss Research Team tag, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500521,
+    "description": "While equipped to a Breaker with the Aladiss Research Team tag, before attacking, reduces target's Strike resistance by {0}% for 1 attack (Activates up to 1 time).",
+    "name": ""
+  },
+  {
+    "id": 500522,
+    "description": "While equipped to a character with the Aladiss Research Team tag, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500523,
+    "description": "While equipped to a character with the Aladiss Research Team tag, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500524,
+    "description": "While equipped to a character with the Aladiss Research Team tag, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500525,
+    "description": "While equipped to a character with the Aladiss Research Team tag, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500526,
+    "description": "While equipped to a Breaker with the Aladiss Research Team tag, before attacking, reduces target's Strike resistance by {0}% for 1 attack (Activates up to 1 time).",
+    "name": ""
+  },
+  {
+    "id": 500527,
+    "description": "While equipped to a character with the Aladiss Research Team tag, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500528,
+    "description": "While equipped to a character with the Aladiss Research Team tag, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500529,
+    "description": "While equipped to a character with the Aladiss Research Team tag, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500530,
+    "description": "While equipped to a character with the Aladiss Research Team tag, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500531,
+    "description": "While equipped to a Breaker with the Aladiss Research Team tag, before attacking, reduces target's Strike resistance by {0}% for 1 attack (Activates up to 1 time).",
+    "name": ""
+  },
+  {
+    "id": 500532,
+    "description": "While equipped to a character with the Aladiss Research Team tag, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500533,
+    "description": "While equipped to a character with the Aladiss Research Team tag, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500534,
+    "description": "While equipped to a character with the Aladiss Research Team tag, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500535,
+    "description": "While equipped to a character with the Aladiss Research Team tag, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500536,
+    "description": "While equipped to a Breaker with the Aladiss Research Team tag, before attacking, reduces target's Strike resistance by {0}% for 1 attack (Activates up to 1 time).",
+    "name": ""
+  },
+  {
+    "id": 500537,
+    "description": "While equipped to a character with the Aladiss Research Team tag, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500538,
+    "description": "While equipped to a character with the Aladiss Research Team tag, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500539,
+    "description": "While equipped to a character with the Aladiss Research Team tag, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500540,
+    "description": "While equipped to a character with the Aladiss Research Team tag, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500541,
+    "description": "While equipped to a Breaker with the Aladiss Research Team tag, before attacking, reduces target's Strike resistance by {0}% for 1 attack (Max 1 activation).",
+    "name": ""
+  },
+  {
+    "id": 500542,
+    "description": "While equipped to a character with the Aladiss Research Team tag, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500543,
+    "description": "While equipped to a character with the Aladiss Research Team tag, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500544,
+    "description": "While equipped to a character with the Aladiss Research Team tag, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500545,
+    "description": "While equipped to a character with the Aladiss Research Team tag, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500546,
+    "description": "While equipped to a Breaker with the Aladiss Research Team tag, before attacking, reduces target's Strike resistance by {0}% for 1 attack (Max 1 activation).",
+    "name": ""
+  },
+  {
+    "id": 500547,
+    "description": "While equipped to a character with the Aladiss Research Team tag, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500548,
+    "description": "While equipped to a character with the Aladiss Research Team tag, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500549,
+    "description": "While equipped to a character with the Aladiss Research Team tag, boosts critical damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500550,
+    "description": "While equipped to a character with the Aladiss Research Team tag, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500551,
+    "description": "While equipped to a Breaker with the Aladiss Research Team tag, before attacking, reduces target's Strike resistance by {0}% for 1 attack (Max 1 activation).",
+    "name": ""
+  },
+  {
+    "id": 500552,
+    "description": "While equipped to a character with the Aladiss Research Team tag, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500553,
+    "description": "While equipped to a character with the Dark Recollections tag, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500556,
+    "description": "While equipped to a character with the Dark Recollections tag, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500557,
+    "description": "While equipped to a character with the Dark Recollections tag, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500558,
+    "description": "While equipped to a character with the Dark Recollections tag, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500559,
+    "description": "While equipped to a character with the Dark Recollections tag, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500562,
+    "description": "While equipped to a character with the Dark Recollections tag, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500563,
+    "description": "While Dark Reminiscence is in effect, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500564,
+    "description": "While Dark Reminiscence is in effect, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500565,
+    "description": "While Dark Reminiscence is in effect, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500568,
+    "description": "While Dark Reminiscence is in effect, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500569,
+    "description": "While Dark Reminiscence is in effect, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500570,
+    "description": "While Dark Reminiscence is in effect, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500571,
+    "description": "While Dark Reminiscence is in effect, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500574,
+    "description": "While Dark Reminiscence is in effect, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500575,
+    "description": "While Dark Reminiscence is in effect, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500576,
+    "description": "While Dark Reminiscence is in effect, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500577,
+    "description": "While Dark Reminiscence is in effect, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500580,
+    "description": "While Dark Reminiscence is in effect, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500581,
+    "description": "While Dark Reminiscence is in effect, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500582,
+    "description": "While Dark Reminiscence is in effect, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500583,
+    "description": "While Dark Reminiscence is in effect, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500586,
+    "description": "While Dark Reminiscence is in effect, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500587,
+    "description": "While Dark Reminiscence is in effect, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500588,
+    "description": "While Dark Reminiscence is in effect, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500589,
+    "description": "While Dark Reminiscence is in effect, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500592,
+    "description": "While Dark Reminiscence is in effect, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500593,
+    "description": "While equipped to a character with Dark Reminiscence, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500594,
+    "description": "While equipped to a character with Dark Reminiscence, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500595,
+    "description": "While equipped to a character with Dark Reminiscence, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500598,
+    "description": "While equipped to a character with Dark Reminiscence, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500599,
+    "description": "While equipped to a character with Dark Reminiscence, boosts HP recovery received by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500600,
+    "description": "While equipped to a character with Dark Reminiscence, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500601,
+    "description": "While equipped to a character with Hallfein Restoration Project tag, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500602,
+    "description": "While equipped to a character with Hallfein Restoration Project tag, boosts battle item damage dealt on own turn by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500603,
+    "description": "While equipped to a character with Hallfein Restoration Project tag, boosts M.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500604,
+    "description": "While equipped to a character with Hallfein Restoration Project tag, boosts battle item critical damage dealt on own turn by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500605,
+    "description": "While equipped to a character with Hallfein Restoration Project tag, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500606,
+    "description": "While equipped to a character with Hallfein Restoration Project tag, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500607,
+    "description": "While equipped to a character with Hallfein Restoration Project tag, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500608,
+    "description": "While equipped to a character with Hallfein Restoration Project tag, boosts battle item damage dealt on own turn by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500609,
+    "description": "While equipped to a character with Hallfein Restoration Project tag, boosts M.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500610,
+    "description": "While equipped to a character with Hallfein Restoration Project tag, boosts battle item critical damage dealt on own turn by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500611,
+    "description": "While equipped to a character with Hallfein Restoration Project tag, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500612,
+    "description": "While equipped to a character with Hallfein Restoration Project tag, boosts HP recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500613,
+    "description": "While equipped to a character with Hallfein Restoration Project tag, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500614,
+    "description": "While equipped to a character with Hallfein Restoration Project tag, boosts battle item damage dealt on own turn by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500615,
+    "description": "While equipped to a character with the Hallfein Restoration Project tag, boosts M.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500616,
+    "description": "While equipped to a character with the Hallfein Restoration Project tag, boosts battle item critical damage dealt on own turn by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500617,
+    "description": "While equipped to a character with the Hallfein Restoration Project tag, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500618,
+    "description": "While equipped to a character with the Hallfein Restoration Project tag, boosts HP recovery granted by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500619,
+    "description": "While equipped to a character with the Hallfein Restoration Project tag, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500620,
+    "description": "While equipped to a character with the Hallfein Restoration Project tag, boosts battle item damage dealt on own turn by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500621,
+    "description": "While equipped to a character with the Hallfein Restoration Project tag, boosts M.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500622,
+    "description": "While equipped to a character with the Hallfein Restoration Project tag, boosts battle item critical damage dealt on own turn by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500623,
+    "description": "While equipped to a character with the Hallfein Restoration Project tag, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500624,
+    "description": "While equipped to a character with the Hallfein Restoration Project tag, boosts HP recovery granted by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500625,
+    "description": "While equipped to a character with the Hallfein Restoration Project tag, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500626,
+    "description": "While equipped to a character with the Hallfein Restoration Project tag, boosts battle item damage dealt on own turn by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500627,
+    "description": "While equipped to a character with the Hallfein Restoration Project tag, boosts M.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500628,
+    "description": "While equipped to a character with the Hallfein Restoration Project tag, boosts battle item critical damage dealt on own turn by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500629,
+    "description": "While equipped to a character with the Hallfein Restoration Project tag, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500630,
+    "description": "While equipped to a character with the Hallfein Restoration Project tag, boosts HP recovery granted by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500631,
+    "description": "While equipped to a character with the Hallfein Restoration Project tag, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500632,
+    "description": "While equipped to a character with the Hallfein Restoration Project tag, boosts battle item damage dealt on own turn by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500633,
+    "description": "While equipped to a character with the Hallfein Restoration Project tag, boosts M.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500634,
+    "description": "While equipped to a character with the Hallfein Restoration Project tag, boosts battle item critical damage dealt on own turn by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500635,
+    "description": "For characters with the \"Hallfein Restoration Project\" tag, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500636,
+    "description": "For characters with the \"Hallfein Restoration Project\" tag, boosts recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500637,
+    "description": "For characters with the \"Hallfein Restoration Project\" tag, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500638,
+    "description": "For characters with the \"Hallfein Restoration Project\" tag, boosts battle item damage dealt on own turn by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500639,
+    "description": "For characters with the \"Hallfein Restoration Project\" tag, boosts M.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500640,
+    "description": "For characters with the \"Hallfein Restoration Project\" tag, boosts battle item critical damage dealt on own turn by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500641,
+    "description": "For characters with the \"Hallfein Restoration Project\" tag, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500642,
+    "description": "For characters with the \"Hallfein Restoration Project\" tag, boosts recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500643,
+    "description": "For characters with the \"Hallfein Restoration Project\" tag, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500644,
+    "description": "For characters with the \"Hallfein Restoration Project\" tag, boosts battle item damage dealt on own turn by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500645,
+    "description": "For characters with the \"Hallfein Restoration Project\" tag, boosts M.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500646,
+    "description": "For characters with the \"Hallfein Restoration Project\" tag, boosts battle item critical damage dealt on own turn by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500647,
+    "description": "For characters with the \"Hallfein Restoration Project\" tag, boosts stun damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500648,
+    "description": "For characters with the \"Hallfein Restoration Project\" tag, boosts recovery given by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500649,
+    "description": "For characters with the \"Braulle\" tag, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500652,
+    "description": "For characters with the \"Braulle\" tag, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500655,
+    "description": "For characters with the \"Braulle\" tag, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500658,
+    "description": "For characters with the \"Braulle\" tag, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500661,
+    "description": "For characters with the \"Braulle\" tag, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500664,
+    "description": "For characters with the \"Braulle\" tag, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500667,
+    "description": "While equipped to a character with Braulle affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500670,
+    "description": "While equipped to a character with Braulle affinity, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 1980226,
+    "description": "Nova grants P.ATK +{0}%.",
+    "name": "<Nova> P.ATK Up"
+  },
+  {
+    "id": 1980227,
+    "description": "Nova grants Stun Damage +{0}% and Skill Damage +{1}% when attack target is stunned.",
+    "name": "<Nova> Stun Damage Up"
+  },
+  {
+    "id": 1980228,
+    "description": "Nova grants Critical Damage +{0}%.",
+    "name": "<Nova> Critical Damage Up"
+  },
+  {
+    "id": 1980229,
+    "description": "Nova grants Skill Damage +{0}%.",
+    "name": "<Nova> Skill Damage Up"
+  },
+  {
+    "id": 1980230,
+    "description": "Nova grants P.DEF & M.DEF +{0}%.",
+    "name": "<Nova> P.DEF & M.DEF Up"
+  },
+  {
+    "id": 1980236,
+    "description": "All allies gain P.ATK & M.ATK +12% for each Infinite Island Chain character in the party.",
+    "name": "Archipelago Federation Inspector Trainee"
+  },
+  {
+    "id": 1990506,
+    "description": "After using a skill, grants P.ATK +2-10% to self based on number of Nova characters (Higher boost for more characters, range: 1-5 characters). (MAX 30%)",
+    "name": "<Nova Unity> Skill P.ATK Up"
+  },
+  {
+    "id": 1990507,
+    "description": "Boosts P.ATK by 4-20% based on number of Nova characters (Higher boost for more characters, range: 1-5 characters).",
+    "name": "<Nova Unity> Power of P.ATK"
+  },
+  {
+    "id": 1990508,
+    "description": "When attack target is stunned, increases target's damage received by 4-20% for 2 attacks based on number of Nova characters (Higher boost for more characters, range: 1-5 characters).",
+    "name": "<Nova Unity> Stun Damage Received Up"
+  },
+  {
+    "id": 1990509,
+    "description": "Boosts stun damage by 4-20% based on number of Nova characters (Higher boost for more characters, range: 1-5 characters).",
+    "name": "<Nova Unity> Power of Destruction"
+  },
+  {
+    "id": 1990510,
+    "description": "Boosts critical rate for all allies by 20-100% based on number of Nova characters (Higher boost for more characters, range: 1-5 characters).",
+    "name": "<Nova Unity> Overflowing Critical Rate Power"
+  },
+  {
+    "id": 1990511,
+    "description": "Boosts critical damage for all allies by 4-20% based on number of Nova characters (Higher boost for more characters, range: 1-5 characters).",
+    "name": "<Nova Unity> Overflowing Critical Power"
+  },
+  {
+    "id": 1990512,
+    "description": "After using a skill, restores HP by {0}% for all allies with Nova.",
+    "name": "<Nova> Skill Heal"
+  },
+  {
+    "id": 1990513,
+    "description": "Boosts skill damage for all allies by 4-20% based on number of Nova characters (Higher boost for more characters, range: 1-5 characters).",
+    "name": "<Nova Unity> Overflowing Battle Power"
+  },
+  {
+    "id": 1990514,
+    "description": "Becomes significantly more likely to be targeted by enemies.\n\nBoosts max HP by {0}% for all allies with Fire affinity or Nova.\nAt the start of battle, restores HP by 100% for all allies.",
+    "name": "<Nova> Hate & Power of Vitality"
+  },
+  {
+    "id": 1990515,
+    "description": "Boosts P.DEF & M.DEF for all allies by 3-15% based on number of Nova characters (Higher boost for more characters, range: 1-5 characters).",
+    "name": "<Nova Unity> Overflowing P.DEF & M.DEF Power"
+  },
+  {
+    "id": 1990526,
+    "description": "Converts own burst skill to a gauge.\n*Burst gauge can store up to 3 cycles.\n\nWhen Battle Maiden Bloom is Lv. 4 or higher, increases own burst gauge by {0}% after a critical attack.\n\nWhen there are other Lantarna characters in the party and Battle Maiden Bloom is Lv. 10, boosts critical damage by {1}%.",
+    "name": "I'll Bloom Even Stronger!"
+  },
+  {
+    "id": 1990527,
+    "description": "Converts own burst skill to a gauge.\n*Burst gauge can store up to 3 cycles.\n\nWhen attacking a weakness, increases own burst gauge by {0}%, restores all allies' HP by {1}%, and restores the item gauge by {2}%.\n\nAfter attacking a stunned enemy when own positive effects are 10 or more before using a skill, activates all of the following effects (MAX 2 times per battle):\n・Increases own burst gauge by {3}%.\n・Extends damage buffs granted to the ally with the highest P.ATK before skill activation by 1 turn.\n*Does not include positive effects with no turn limit granted at the start of battle.\n*Damage buffs granted during the turn when the extension effect activates are not included in the extension.",
+    "name": "Super Motivated Ale"
+  },
+  {
+    "id": 1990528,
+    "description": "Boosts positive effect potency granted by 10-50% based on the number of characters with the Nova tag (higher boost for 1-3 characters).<br><br>After any party member uses a burst skill, grants Burst Gauge Gain +{0}% to all allies with Stab affinity (max 50%).<br>After any party member uses a non-burst skill or uses a battle item, grants P. ATK/M. ATK +{1}% to all allies with the Nova tag (max 150%).<br>*Activates only once even if multiple items are used simultaneously.",
+    "name": "Let's Keep Order Together!"
+  },
+  {
+    "id": 4991268,
+    "description": "While equipped to a Supporter with Stab affinity, after attacking, grants Skill Damage +{0}% to 1 ally with the highest P. ATK or M. ATK for 1 turn (max 3 stacks).<br>When equipped to a Whimsical character, boosts P. ATK by {1}% for all allies.",
+    "name": "Imagination \"Subordinate's Initiative\""
+  },
+  {
+    "id": 4991269,
+    "description": "While equipped to a Supporter with Stab affinity, after attacking, grants Skill Damage +{0}% to 1 ally with the highest P. ATK or M. ATK for 1 turn (max 3 stacks).<br>When equipped to a Whimsical character, boosts P. ATK by {1}% for all allies.",
+    "name": "Imagination \"Subordinate's Initiative\""
+  },
+  {
+    "id": 4991270,
+    "description": "While equipped to a Supporter with Stab affinity, after attacking, grants Skill Damage +{0}% to 1 ally with the highest P. ATK or M. ATK for 1 turn (max 3 stacks).<br>When equipped to a Whimsical character, boosts P. ATK by {1}% for all allies.",
+    "name": "Imagination \"Subordinate's Initiative\""
+  },
+  {
+    "id": 4991271,
+    "description": "While equipped to a Supporter with Stab affinity, after attacking, grants Skill Damage +{0}% to 1 ally with the highest P. ATK or M. ATK for 1 turn (max 3 stacks).<br>When equipped to a Whimsical character, boosts P. ATK by {1}% for all allies.",
+    "name": "Imagination \"Subordinate's Initiative\""
+  },
+  {
+    "id": 4991272,
+    "description": "While equipped to a Supporter with Stab affinity, after attacking, grants Skill Damage +{0}% to 1 ally with the highest P. ATK or M. ATK for 1 turn (max 3 stacks).<br>When equipped to a Whimsical character, boosts P. ATK by {1}% for all allies.",
+    "name": "Imagination \"Subordinate's Initiative\""
+  },
+  {
+    "id": 21271001,
+    "description": "At the start of battle, grants self permanent Damage Received Down (70%) ×4.\nAfter acting, summons a low-durability Frozen Bat and Fang Bat (only activates when 2 or fewer enemies remain; only Frozen Bat when 2 enemies remain).\nFor each ally summoned, removes 1 stack of permanent Damage Received Down.",
+    "name": ""
+  },
+  {
+    "id": 21271002,
+    "description": "At the start of battle, grants self permanent Damage Received Down (90%) ×4.\nAfter acting, summons a low-durability Frozen Bat and Fang Bat (only activates when 2 or fewer enemies remain; only Frozen Bat when 2 enemies remain).\nFor each ally summoned, removes 1 stack of permanent Damage Received Down.",
+    "name": ""
+  },
+  {
+    "id": 26013111,
+    "description": "When self is not stunned, reduces damage received by 90%.",
+    "name": ""
+  },
+  {
+    "id": 600000778,
+    "description": "Boosts positive effect potency granted by Tiny [Lovable Inspector] by 150%.",
+    "name": "Tiny [Lovable Inspector] Effect Potency Up"
+  },
+  {
+    "id": 600000784,
+    "description": "When self has the Nova tag, boosts skill power by 100%.",
+    "name": "Skill Power Up When Nova"
   }
 ]

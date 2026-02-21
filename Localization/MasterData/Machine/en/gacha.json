@@ -5252,5 +5252,256 @@
     "small_banner_label": "Paid Only!",
     "start_at": "2026-02-18T03:00:00Z",
     "step_up_loop_description": ""
+  },
+  {
+    "id": 2351,
+    "description": "Tiny makes her debut & Pick-Up!\nUntil 2026/03/31 11:59 (UTC+8)",
+    "end_at": "2026-03-31T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Archipelago Federation Inspector: Shinmai Tiny - LEGEND FES",
+    "name": "Archipelago Federation Inspector: Shinmai Tiny - LEGEND FES",
+    "start_at": "2026-02-21T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2352,
+    "description": "Make 50 Wishes with Paid Lodestar Gems to unlock an additional Wish!\nUntil 2026/03/31 11:59 (UTC+8)",
+    "end_at": "2026-03-31T03:00:00Z",
+    "name": "Archipelago Federation Inspector: Shinmai Tiny - LEGEND FES [Paid Lodestar Gems Only]",
+    "small_banner_label": "Paid Only!",
+    "start_at": "2026-02-21T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 2353,
+    "description": "STEP 2 and STEP 5 are free!\nGet your choice of 3 ★3 characters guaranteed!",
+    "name": "72-Hour Limited! Choose 3 ★3 Characters Guaranteed Wish Vol. 1",
+    "small_banner_label": "Choose & Guaranteed!",
+    "start_at": "2026-02-21T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 2354,
+    "description": "Steps 2 and 5 are free!\nGet your selected ★3 character guaranteed!",
+    "name": "72-Hour Limited! Select ★3 Character Guaranteed Wish Part 2",
+    "small_banner_label": "Select Guaranteed!",
+    "start_at": "2026-02-21T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 2355,
+    "description": "Steps 2 and 5 are free!\nGet your selected SSR Memoria guaranteed!",
+    "name": "Chapter 3 Completion Celebration - Select SSR Memoria Guaranteed Wish",
+    "small_banner_label": "Select Guaranteed!",
+    "start_at": "2026-02-21T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 2356,
+    "description": "★3 characters that debuted between 2024/08/13 and 2025/11/28 are guaranteed!\nUntil 2026/03/31 10:59 (UTC+8)\n*★3 characters not permanently added to LEGEND FES are excluded.",
+    "end_at": "2026-03-31T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 23562,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "2.5th Anniversary Celebration ★3 Character Guaranteed Wish",
+    "name": "2.5th Anniversary Celebration ★3 Character Guaranteed Wish",
+    "small_banner_label": "★3 Character Guaranteed!",
+    "start_at": "2026-02-21T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2357,
+    "description": "Guaranteed to get an SSR Memoria!\nUntil 2026/03/31 10:59 (UTC+8).\n*SSR Memoria not permanently added to LEGEND FES are excluded.",
+    "end_at": "2026-03-31T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 23572,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "2.5th Anniversary SSR Memoria Guarantee Wish",
+    "name": "2.5th Anniversary SSR Memoria Guarantee Wish",
+    "small_banner_label": "SSR Memoria Guaranteed!",
+    "start_at": "2026-02-21T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 3048,
+    "description": "For every 50 Wishes with Paid Lodestar Gems, unlock additional Wishes!\nUntil 2026/03/11 10:59 (UTC+8).",
+    "end_at": "2026-03-11T03:00:00Z",
+    "name": "Rerun VALENTINE 2025 Klaudia - LEGEND FES [Paid Lodestar Gems Only]",
+    "small_banner_label": "Paid Lodestar Gems Only!",
+    "start_at": "2026-02-25T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 3049,
+    "description": "Pick-up character appears at ★5!\nIf you already have the character and welcome them for the first time from this Wish, you'll receive 1030 bonus Pieces on the first welcome!\n*Regardless of joining status at the time of the first welcome, subsequent welcomes will grant 100 Pieces.\nUntil 2026/03/06 10:59 (UTC+8).",
+    "end_at": "2026-03-06T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Valeria [Warrior of Rose] ★6 Release Celebration Wish",
+    "name": "Valeria [Warrior of Rose] ★6 Release Celebration Wish",
+    "small_banner_label": "PU Character at ★5!",
+    "start_at": "2026-02-21T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 21013,
+    "description": "Lodestar Gem Wreath",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 210131,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Lodestar Gem Wreath",
+    "name": "Lodestar Gem Wreath",
+    "start_at": "2026-02-21T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 21014,
+    "description": "Lodestar Gem Bud",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 210141,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Lodestar Gem Bud",
+    "name": "Lodestar Gem Bud",
+    "start_at": "2026-02-21T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 21015,
+    "description": "Lodestar Gem Wreath (Memoria)",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 210151,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Lodestar Gem Wreath (Memoria)",
+    "name": "Lodestar Gem Wreath (Memoria)",
+    "start_at": "2026-02-21T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 235201,
+    "description": "Max 5 times! Featured rate doubled!\nGet 16 Medals! Until 2026/03/31 11:59 (UTC+8).",
+    "end_at": "2026-03-31T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10005,
+            "description": "Bonus included!\n{} Times Left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Archipelago Federation Auditor Tiny LEGEND FES [Paid Lodestar Gems Only]",
+    "name": "Archipelago Federation Auditor Tiny LEGEND FES [Paid Lodestar Gems Only]",
+    "small_banner_label": "Paid Only!",
+    "start_at": "2026-02-21T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 235202,
+    "description": "With Paid Lodestar Gems, once per day! Featured rate doubled!\nUntil 2026/03/07 11:59 (UTC+8).",
+    "end_at": "2026-03-07T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 2352021,
+            "description": "Featured rate doubled!\n1 Time Left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Archipelago Federation Auditor Tiny LEGEND FES [Once Per Day・Paid Lodestar Gems Only]",
+    "name": "Archipelago Federation Auditor Tiny LEGEND FES [Once Per Day・Paid Lodestar Gems Only]",
+    "small_banner_label": "Once Per Day!",
+    "start_at": "2026-02-21T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 304801,
+    "description": "Max 5 times! Featured rate doubled!\nGet 16 Medals! Until 2026/03/11 11:59 (UTC+8).",
+    "end_at": "2026-03-11T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10005,
+            "description": "Bonus included!\n{} Times Left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Reprint VALENTINE 2025 Klaudia LEGEND FES [Paid Lodestar Gems Only]",
+    "name": "Reprint VALENTINE 2025 Klaudia LEGEND FES [Paid Lodestar Gems Only]",
+    "small_banner_label": "Paid Only!",
+    "start_at": "2026-02-25T03:00:00Z",
+    "step_up_loop_description": ""
   }
 ]

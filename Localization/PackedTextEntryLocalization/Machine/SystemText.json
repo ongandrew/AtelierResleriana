@@ -3958,5 +3958,764 @@
         }
       }
     }
+  },
+  {
+    "id": 39564157,
+    "properties": {
+      "999008199": {
+        "text": "招待キャンペーン",
+        "localizations": {
+          "en": "Invitation Campaign"
+        }
+      }
+    }
+  },
+  {
+    "id": 718481697,
+    "properties": {
+      "999008199": {
+        "text": "【{0}】",
+        "localizations": {
+          "en": "[{0}]"
+        }
+      }
+    }
+  },
+  {
+    "id": 1236505523,
+    "properties": {
+      "999008199": {
+        "text": "【{0}】を入手すると解放されます",
+        "localizations": {
+          "en": "Unlocked by obtaining [{0}]"
+        }
+      }
+    }
+  },
+  {
+    "id": 1412309836,
+    "properties": {
+      "999008199": {
+        "text": "衣装調合",
+        "localizations": {
+          "en": "Costume Synthesis"
+        }
+      }
+    }
+  },
+  {
+    "id": 238544442,
+    "properties": {
+      "999008199": {
+        "text": "コスチューム",
+        "localizations": {
+          "en": "Costume"
+        }
+      }
+    }
+  },
+  {
+    "id": 2018887931,
+    "properties": {
+      "999008199": {
+        "text": "その他",
+        "localizations": {
+          "en": "Other"
+        }
+      }
+    }
+  },
+  {
+    "id": 1183917112,
+    "properties": {
+      "999008199": {
+        "text": "コスチュームを所持していません",
+        "localizations": {
+          "en": "You do not possess any costumes"
+        }
+      }
+    }
+  },
+  {
+    "id": 703483009,
+    "properties": {
+      "999008199": {
+        "text": "同じコスチュームを同時に装備できるのは1キャラのみです\n{0}が現在装備しているコスチュームを解除して装備しますか？",
+        "localizations": {
+          "en": "Only one character can equip the same costume at a time.\nWould you like to unequip this costume from {0} and equip it?"
+        }
+      }
+    }
+  },
+  {
+    "id": 1462965931,
+    "properties": {
+      "999008199": {
+        "text": "{0}のコスチュームを解除しました",
+        "localizations": {
+          "en": "Unequipped {0}'s costume"
+        }
+      }
+    }
+  },
+  {
+    "id": 2064631718,
+    "properties": {
+      "999008199": {
+        "text": "サポートアビリティ強化",
+        "localizations": {
+          "en": "Support Ability Enhancement"
+        }
+      }
+    }
+  },
+  {
+    "id": 1484757679,
+    "properties": {
+      "999008199": {
+        "text": "サポートアビリティ発動",
+        "localizations": {
+          "en": "Support Ability Activation"
+        }
+      }
+    }
+  },
+  {
+    "id": 1749792075,
+    "properties": {
+      "999008199": {
+        "text": "サポートアビリティ",
+        "localizations": {
+          "en": "Support Ability"
+        }
+      }
+    }
+  },
+  {
+    "id": 2014788525,
+    "properties": {
+      "999008199": {
+        "text": "<sprite name=\"999_icon_atelierbase_SS\">アトリエメインメモリアアビリティ",
+        "localizations": {
+          "en": "<sprite name=\"999_icon_atelierbase_SS\">Atelier Main Memoria Ability"
+        }
+      }
+    }
+  },
+  {
+    "id": 2138815479,
+    "properties": {
+      "999008199": {
+        "text": "<sprite name=\"999_icon_atelierbase_SS\">サポートアビリティ",
+        "localizations": {
+          "en": "<sprite name=\"999_icon_atelierbase_SS\">Support Ability"
+        }
+      }
+    }
+  },
+  {
+    "id": 1764203617,
+    "properties": {
+      "999008199": {
+        "text": "これ以上メモリアを編成できません",
+        "localizations": {
+          "en": "Cannot assign any more Memoria"
+        }
+      }
+    }
+  },
+  {
+    "id": 48551974,
+    "properties": {
+      "999008199": {
+        "text": "メインメモリアが設定されていません",
+        "localizations": {
+          "en": "Main Memoria is not set"
+        }
+      }
+    }
+  },
+  {
+    "id": 1032051950,
+    "properties": {
+      "999008199": {
+        "text": "このメモリアは亜空サポートに編成されています\n選択してよろしいですか？",
+        "localizations": {
+          "en": "This Memoria is assigned to Subspace Support.\nAre you sure you want to select it?"
+        }
+      }
+    }
+  },
+  {
+    "id": 1407600686,
+    "properties": {
+      "999008199": {
+        "text": "※{0}にある同名の商品と同一の商品となります",
+        "localizations": {
+          "en": "*This is the same product as the item of the same name found in {0}"
+        }
+      }
+    }
+  },
+  {
+    "id": 1680198148,
+    "properties": {
+      "999008199": {
+        "text": "亜空サポート編成",
+        "localizations": {
+          "en": "Subspace Support Formation"
+        }
+      }
+    }
+  },
+  {
+    "id": 1421021971,
+    "properties": {
+      "999008199": {
+        "text": "キャラ枠：{0}\nサブメモリア枠：{1}",
+        "localizations": {
+          "en": "Character Slots: {0}\nSub Memoria Slots: {1}"
+        }
+      }
+    }
+  },
+  {
+    "id": 804733023,
+    "properties": {
+      "999008199": {
+        "text": "サポート強化",
+        "localizations": {
+          "en": "Support Enhancement"
+        }
+      }
+    }
+  },
+  {
+    "id": 1969908453,
+    "properties": {
+      "999008199": {
+        "text": "サポートアビリティ強化倍率+{0}％",
+        "localizations": {
+          "en": "Support Ability Enhancement Rate +{0}%"
+        }
+      }
+    }
+  },
+  {
+    "id": 1143967874,
+    "properties": {
+      "999008199": {
+        "text": "亜空サポート効果",
+        "localizations": {
+          "en": "Subspace Support Effect"
+        }
+      }
+    }
+  },
+  {
+    "id": 1624519959,
+    "properties": {
+      "999008199": {
+        "text": "亜空サポート",
+        "localizations": {
+          "en": "Subspace Support"
+        }
+      }
+    }
+  },
+  {
+    "id": 1049932393,
+    "properties": {
+      "999008199": {
+        "text": "亜空サポート編成",
+        "localizations": {
+          "en": "Subspace Support Formation"
+        }
+      }
+    }
+  },
+  {
+    "id": 71791544,
+    "properties": {
+      "999008199": {
+        "text": "亜空サポート",
+        "localizations": {
+          "en": "Subspace Support"
+        }
+      }
+    }
+  },
+  {
+    "id": 590845975,
+    "properties": {
+      "999008199": {
+        "text": "亜空サポート効果",
+        "localizations": {
+          "en": "Subspace Support Effect"
+        }
+      }
+    }
+  },
+  {
+    "id": 901809437,
+    "properties": {
+      "999008199": {
+        "text": "キャラ編成",
+        "localizations": {
+          "en": "Character Formation"
+        }
+      }
+    }
+  },
+  {
+    "id": 354096083,
+    "properties": {
+      "999008199": {
+        "text": "メインメモリア編成",
+        "localizations": {
+          "en": "Main Memoria Formation"
+        }
+      }
+    }
+  },
+  {
+    "id": 1847116179,
+    "properties": {
+      "999008199": {
+        "text": "サブメモリア編成",
+        "localizations": {
+          "en": "Sub Memoria Formation"
+        }
+      }
+    }
+  },
+  {
+    "id": 1656571828,
+    "properties": {
+      "999008199": {
+        "text": "このメモリアは、メインメモリアとして編成中です",
+        "localizations": {
+          "en": "This Memoria is currently assigned as Main Memoria"
+        }
+      }
+    }
+  },
+  {
+    "id": 1889867782,
+    "properties": {
+      "999008199": {
+        "text": "亜空サポートレベル{0}で解放",
+        "localizations": {
+          "en": "Unlocked at Subspace Support Level {0}"
+        }
+      }
+    }
+  },
+  {
+    "id": 1684878632,
+    "properties": {
+      "999008199": {
+        "text": "メインメモリア",
+        "localizations": {
+          "en": "Main Memoria"
+        }
+      }
+    }
+  },
+  {
+    "id": 122513788,
+    "properties": {
+      "999008199": {
+        "text": "上限解放！",
+        "localizations": {
+          "en": "Limit Break!"
+        }
+      }
+    }
+  },
+  {
+    "id": 2116801331,
+    "properties": {
+      "999008199": {
+        "text": "ボム強化！",
+        "localizations": {
+          "en": "Bomb Enhanced!"
+        }
+      }
+    }
+  },
+  {
+    "id": 1182103606,
+    "properties": {
+      "999008199": {
+        "text": "効果一覧",
+        "localizations": {
+          "en": "Effect List"
+        }
+      }
+    }
+  },
+  {
+    "id": 523349019,
+    "properties": {
+      "999008199": {
+        "text": "これ以上メモリアを編成できません",
+        "localizations": {
+          "en": "Cannot assign any more Memoria"
+        }
+      }
+    }
+  },
+  {
+    "id": 1918440593,
+    "properties": {
+      "999008199": {
+        "text": "サポート強化で亜空サポートを解放してください",
+        "localizations": {
+          "en": "Unlock Subspace Support with Support Enhancement"
+        }
+      }
+    }
+  },
+  {
+    "id": 604898719,
+    "properties": {
+      "999008199": {
+        "text": "メインメモリアアビリティ",
+        "localizations": {
+          "en": "Main Memoria Ability"
+        }
+      }
+    }
+  },
+  {
+    "id": 213479331,
+    "properties": {
+      "999008199": {
+        "text": "ボーナス確認",
+        "localizations": {
+          "en": "Check Bonus"
+        }
+      }
+    }
+  },
+  {
+    "id": 1869132188,
+    "properties": {
+      "999008199": {
+        "text": "このメモリアは最大{0}%ボーナスを獲得可能です。",
+        "localizations": {
+          "en": "This Memoria can gain a maximum of {0}% bonus."
+        }
+      }
+    }
+  },
+  {
+    "id": 1906466886,
+    "properties": {
+      "999008199": {
+        "text": "サブメモリアの変更が保存されていません。\n変更を保存して、亜空サポート編成へ戻りますか？",
+        "localizations": {
+          "en": "Sub Memoria changes have not been saved.\nWould you like to save changes and return to Subspace Support Formation?"
+        }
+      }
+    }
+  },
+  {
+    "id": 828786179,
+    "properties": {
+      "999008199": {
+        "text": "亜空サポート強化！",
+        "localizations": {
+          "en": "Subspace Support Enhanced!"
+        }
+      }
+    }
+  },
+  {
+    "id": 2050447173,
+    "properties": {
+      "999008199": {
+        "text": "経験値獲得！",
+        "localizations": {
+          "en": "EXP Gained!"
+        }
+      }
+    }
+  },
+  {
+    "id": 1961357276,
+    "properties": {
+      "999008199": {
+        "text": "これ以上レベルを上げることはできません",
+        "localizations": {
+          "en": "Cannot raise level any higher"
+        }
+      }
+    }
+  },
+  {
+    "id": 1867615736,
+    "properties": {
+      "999008199": {
+        "text": "実行回数が0です",
+        "localizations": {
+          "en": "Number of executions is 0"
+        }
+      }
+    }
+  },
+  {
+    "id": 996714516,
+    "properties": {
+      "999008199": {
+        "text": "上限解放は完了しています",
+        "localizations": {
+          "en": "Limit Break is complete"
+        }
+      }
+    }
+  },
+  {
+    "id": 1247546782,
+    "properties": {
+      "999008199": {
+        "text": "このメモリアは、サブメモリアとして編成中です",
+        "localizations": {
+          "en": "This Memoria is currently assigned as Sub Memoria"
+        }
+      }
+    }
+  },
+  {
+    "id": 1590768577,
+    "properties": {
+      "999008199": {
+        "text": "ボム調合",
+        "localizations": {
+          "en": "Bomb Synthesis"
+        }
+      }
+    }
+  },
+  {
+    "id": 253633869,
+    "properties": {
+      "999008199": {
+        "text": "サポート強化",
+        "localizations": {
+          "en": "Support Enhancement"
+        }
+      }
+    }
+  },
+  {
+    "id": 148963501,
+    "properties": {
+      "999008199": {
+        "text": "衣装調合",
+        "localizations": {
+          "en": "Costume Synthesis"
+        }
+      }
+    }
+  },
+  {
+    "id": 321022664,
+    "properties": {
+      "999008199": {
+        "text": "衣装調合結果",
+        "localizations": {
+          "en": "Costume Synthesis Result"
+        }
+      }
+    }
+  },
+  {
+    "id": 1241764370,
+    "properties": {
+      "999008199": {
+        "text": "現行STEP",
+        "localizations": {
+          "en": "Current STEP"
+        }
+      }
+    }
+  },
+  {
+    "id": 760032037,
+    "properties": {
+      "999008199": {
+        "text": "次のSTEP",
+        "localizations": {
+          "en": "Next STEP"
+        }
+      }
+    }
+  },
+  {
+    "id": 864942105,
+    "properties": {
+      "999008199": {
+        "text": "既に実行済みのため、衣装調合を実行できません。",
+        "localizations": {
+          "en": "Costume Synthesis cannot be executed as it has already been completed."
+        }
+      }
+    }
+  },
+  {
+    "id": 1651202855,
+    "properties": {
+      "999008199": {
+        "text": "前のステップを実行していないため、衣装調合を実行できません。",
+        "localizations": {
+          "en": "Costume Synthesis cannot be executed as the previous step has not been completed."
+        }
+      }
+    }
+  },
+  {
+    "id": 459737879,
+    "properties": {
+      "999008199": {
+        "text": "{0}を {1}枚 消費して、衣装調合を {2}回 実行しますか？",
+        "localizations": {
+          "en": "Use {1} {0} to execute Costume Synthesis {2} time(s)?"
+        }
+      }
+    }
+  },
+  {
+    "id": 653381315,
+    "properties": {
+      "999008199": {
+        "text": "開催中の衣装調合が見つかりませんでした。ホームに戻ります。",
+        "localizations": {
+          "en": "No active Costume Synthesis found. Returning to home."
+        }
+      }
+    }
+  },
+  {
+    "id": 277743276,
+    "properties": {
+      "999008199": {
+        "text": "開催中の衣装調合をすべて実行しました。ホームに戻ります。",
+        "localizations": {
+          "en": "All active Costume Synthesis have been completed. Returning to home."
+        }
+      }
+    }
+  },
+  {
+    "id": 1605481443,
+    "properties": {
+      "999008199": {
+        "text": "実行できる衣装調合がありません。",
+        "localizations": {
+          "en": "No Costume Synthesis available to execute."
+        }
+      }
+    }
+  },
+  {
+    "id": 1322151580,
+    "properties": {
+      "999008199": {
+        "text": "TAP!",
+        "localizations": {
+          "en": "TAP!"
+        }
+      }
+    }
+  },
+  {
+    "id": 439338488,
+    "properties": {
+      "999008199": {
+        "text": "衣装調合へ",
+        "localizations": {
+          "en": "To Costume Synthesis"
+        }
+      }
+    }
+  },
+  {
+    "id": 1704940672,
+    "properties": {
+      "999008199": {
+        "text": "無料で衣装調合を {0}回 実行しますか？",
+        "localizations": {
+          "en": "Execute Costume Synthesis {0} time(s) for free?"
+        }
+      }
+    }
+  },
+  {
+    "id": 987043177,
+    "properties": {
+      "999008199": {
+        "text": "星導石を {0}個 消費して、衣装調合を {1}回 実行しますか？",
+        "localizations": {
+          "en": "Use {0} Stellastones to execute Costume Synthesis {1} time(s)?"
+        }
+      }
+    }
+  },
+  {
+    "id": 1278103768,
+    "properties": {
+      "999008199": {
+        "text": "アイテム選択",
+        "localizations": {
+          "en": "Item Selection"
+        }
+      }
+    }
+  },
+  {
+    "id": 1653305015,
+    "properties": {
+      "999008199": {
+        "text": "ランクアップできる特性がないアイテムです",
+        "localizations": {
+          "en": "This item has no traits that can be ranked up"
+        }
+      }
+    }
+  },
+  {
+    "id": 386237450,
+    "properties": {
+      "999008199": {
+        "text": "ランクを上げる特性を選択してください",
+        "localizations": {
+          "en": "Select a trait to rank up"
+        }
+      }
+    }
+  },
+  {
+    "id": 273235244,
+    "properties": {
+      "999008199": {
+        "text": "特性が未選択です",
+        "localizations": {
+          "en": "No trait selected"
+        }
+      }
+    }
+  },
+  {
+    "id": 661612469,
+    "properties": {
+      "999008199": {
+        "text": "特性ランクアップ！",
+        "localizations": {
+          "en": "Trait Rank Up!"
+        }
+      }
+    }
   }
 ]

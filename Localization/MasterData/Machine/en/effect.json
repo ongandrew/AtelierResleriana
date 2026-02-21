@@ -14038,5 +14038,805 @@
     "id": 120000874,
     "description": "Boosts skill power when self has Dark Remembrance.",
     "popup_text": ""
+  },
+  {
+    "id": 50001,
+    "description": "While equipped to a character with Fire affinity, boosts skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 50002,
+    "description": "While equipped to a character with Ice affinity, boosts skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 50003,
+    "description": "While equipped to a character with Bolt affinity, boosts skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 50004,
+    "description": "While equipped to a character with Air affinity, boosts skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 50005,
+    "description": "While equipped to a character with Slash affinity, boosts skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 50006,
+    "description": "While equipped to a character with Strike affinity, boosts skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 50007,
+    "description": "While equipped to a character with Stab affinity, boosts skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 50008,
+    "description": "While equipped to a character with Fire affinity, boosts critical damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 50009,
+    "description": "While equipped to a character with Ice affinity, boosts critical damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 500010,
+    "description": "While equipped to a character with Bolt affinity, boosts critical damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 500011,
+    "description": "While equipped to a character with Air affinity, boosts critical damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 500012,
+    "description": "While equipped to a character with Slash affinity, boosts critical damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 500013,
+    "description": "While equipped to a character with Strike affinity, boosts critical damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 500014,
+    "description": "While equipped to a character with Stab affinity, boosts critical damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 500015,
+    "description": "While equipped to a character with Fire affinity, boosts M. ATK.",
+    "popup_text": ""
+  },
+  {
+    "id": 500016,
+    "description": "While equipped to a character with Ice affinity, boosts M. ATK.",
+    "popup_text": ""
+  },
+  {
+    "id": 500017,
+    "description": "While equipped to a character with Bolt affinity, boosts M. ATK.",
+    "popup_text": ""
+  },
+  {
+    "id": 500018,
+    "description": "While equipped to a character with Air affinity, boosts M. ATK.",
+    "popup_text": ""
+  },
+  {
+    "id": 500019,
+    "description": "While equipped to a character with Slash affinity, boosts P. ATK.",
+    "popup_text": ""
+  },
+  {
+    "id": 500020,
+    "description": "While equipped to a character with Strike affinity, boosts P. ATK.",
+    "popup_text": ""
+  },
+  {
+    "id": 500021,
+    "description": "Grants P.ATK Up when own affinity is Stab.",
+    "popup_text": ""
+  },
+  {
+    "id": 500022,
+    "description": "Grants Stun Damage Up when own affinity is Fire.",
+    "popup_text": ""
+  },
+  {
+    "id": 500023,
+    "description": "Grants Stun Damage Up when own affinity is Ice.",
+    "popup_text": ""
+  },
+  {
+    "id": 500024,
+    "description": "Grants Stun Damage Up when own affinity is Bolt.",
+    "popup_text": ""
+  },
+  {
+    "id": 500025,
+    "description": "Grants Stun Damage Up when own affinity is Air.",
+    "popup_text": ""
+  },
+  {
+    "id": 500026,
+    "description": "Grants Stun Damage Up when own affinity is Slash.",
+    "popup_text": ""
+  },
+  {
+    "id": 500027,
+    "description": "Grants Stun Damage Up when own affinity is Strike.",
+    "popup_text": ""
+  },
+  {
+    "id": 500028,
+    "description": "Grants Stun Damage Up when own affinity is Stab.",
+    "popup_text": ""
+  },
+  {
+    "id": 500029,
+    "description": "While a Breaker with Fire affinity, before attacking, grants Fire Resistance Down to target.",
+    "popup_text": ""
+  },
+  {
+    "id": 500030,
+    "description": "While a Breaker with Ice affinity, before attacking, grants Ice Resistance Down to target.",
+    "popup_text": ""
+  },
+  {
+    "id": 500031,
+    "description": "While a Breaker with Bolt affinity, before attacking, grants Bolt Resistance Down to target.",
+    "popup_text": ""
+  },
+  {
+    "id": 500032,
+    "description": "While a Breaker with Air affinity, before attacking, grants Air Resistance Down to target.",
+    "popup_text": ""
+  },
+  {
+    "id": 500033,
+    "description": "While a Breaker with Slash affinity, before attacking, grants Slash Resistance Down to target.",
+    "popup_text": ""
+  },
+  {
+    "id": 500034,
+    "description": "While a Breaker with Strike affinity, before attacking, grants Strike Resistance Down to target.",
+    "popup_text": ""
+  },
+  {
+    "id": 500035,
+    "description": "While a Breaker with Stab affinity, before attacking, grants Stab Resistance Down to target.",
+    "popup_text": ""
+  },
+  {
+    "id": 500036,
+    "description": "Grants HP Recovery Given Up when own affinity is Fire.",
+    "popup_text": ""
+  },
+  {
+    "id": 500037,
+    "description": "Grants HP Recovery Given Up when own affinity is Ice.",
+    "popup_text": ""
+  },
+  {
+    "id": 500038,
+    "description": "Grants HP Recovery Given Up when own affinity is Bolt.",
+    "popup_text": ""
+  },
+  {
+    "id": 500039,
+    "description": "Grants HP Recovery Given Up when own affinity is Air.",
+    "popup_text": ""
+  },
+  {
+    "id": 500040,
+    "description": "Grants HP Recovery Given Up when own affinity is Slash.",
+    "popup_text": ""
+  },
+  {
+    "id": 500041,
+    "description": "Boosts HP recovery when equipped to a character with Strike affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 500042,
+    "description": "Boosts HP recovery when equipped to a character with Stab affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 500043,
+    "description": "Boosts HP recovery received when equipped to a character with Fire affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 500044,
+    "description": "Boosts HP recovery received when equipped to a character with Ice affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 500045,
+    "description": "Boosts HP recovery received when equipped to a character with Bolt affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 500046,
+    "description": "Boosts HP recovery received when equipped to a character with Air affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 500047,
+    "description": "Boosts HP recovery received when equipped to a character with Slash affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 500048,
+    "description": "Boosts HP recovery received when equipped to a character with Strike affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 500049,
+    "description": "Boosts HP recovery received when equipped to a character with Stab affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 500050,
+    "description": "Restores own HP when equipped to a Defender with Fire affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 500051,
+    "description": "Restores own HP when equipped to a Defender with Ice affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 500052,
+    "description": "Restores own HP when equipped to a Defender with Bolt affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 500053,
+    "description": "Restores own HP when equipped to a Defender with Air affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 500054,
+    "description": "Restores own HP when equipped to a Defender with Slash affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 500055,
+    "description": "Restores own HP when equipped to a Defender with Strike affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 500056,
+    "description": "Restores own HP when equipped to a Defender with Stab affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 500057,
+    "description": "Boosts P.ATK when New Star is active.",
+    "popup_text": ""
+  },
+  {
+    "id": 500058,
+    "description": "Boosts critical damage when New Star is active.",
+    "popup_text": ""
+  },
+  {
+    "id": 500059,
+    "description": "Boosts stun damage when New Star is active.",
+    "popup_text": ""
+  },
+  {
+    "id": 500060,
+    "description": "Boosts HP recovery when New Star is active.",
+    "popup_text": ""
+  },
+  {
+    "id": 500061,
+    "description": "Boosts HP recovery received when equipped to characters with Nova.",
+    "popup_text": ""
+  },
+  {
+    "id": 500062,
+    "description": "Boosts stun damage when equipped to characters with Family & Friends.",
+    "popup_text": ""
+  },
+  {
+    "id": 500063,
+    "description": "Boosts stun damage when equipped to characters with Knight.",
+    "popup_text": ""
+  },
+  {
+    "id": 500064,
+    "description": "Restores own HP by a percentage while equipped to a Defender with Diligent.",
+    "popup_text": ""
+  },
+  {
+    "id": 500065,
+    "description": "Boosts skill damage when equipped to characters with Aladiss Research Team.",
+    "popup_text": ""
+  },
+  {
+    "id": 500066,
+    "description": "Boosts critical damage when equipped to characters with Aladiss Research Team.",
+    "popup_text": ""
+  },
+  {
+    "id": 500067,
+    "description": "Boosts stun damage when equipped to characters with Aladiss Research Team.",
+    "popup_text": ""
+  },
+  {
+    "id": 500068,
+    "description": "Before attacking, reduces target's Strike resistance while equipped to a Breaker with Aladiss Research Team.",
+    "popup_text": ""
+  },
+  {
+    "id": 500069,
+    "description": "Boosts HP recovery received when equipped to characters with Aladiss Research Team.",
+    "popup_text": ""
+  },
+  {
+    "id": 500070,
+    "description": "Boosts skill damage when equipped to characters with Desolate Remembrance.",
+    "popup_text": ""
+  },
+  {
+    "id": 500074,
+    "description": "Boosts stun damage when equipped to characters with Desolate Remembrance.",
+    "popup_text": ""
+  },
+  {
+    "id": 500075,
+    "description": "Boosts HP recovery received when equipped to characters with Desolate Remembrance.",
+    "popup_text": ""
+  },
+  {
+    "id": 500076,
+    "description": "Boosts HP recovery granted when equipped to characters with Desolate Remembrance.",
+    "popup_text": ""
+  },
+  {
+    "id": 500077,
+    "description": "Boosts skill damage when equipped to characters with Hallfein Restoration Project.",
+    "popup_text": ""
+  },
+  {
+    "id": 500078,
+    "description": "Boosts M.ATK when equipped to characters with Hallfein Restoration Project.",
+    "popup_text": ""
+  },
+  {
+    "id": 500079,
+    "description": "Boosts stun damage when equipped to characters with Hallfein Restoration Project.",
+    "popup_text": ""
+  },
+  {
+    "id": 500080,
+    "description": "Boosts HP recovery granted when equipped to characters with Hallfein Restoration Project.",
+    "popup_text": ""
+  },
+  {
+    "id": 500081,
+    "description": "Boosts skill damage when equipped to characters with Braulle.",
+    "popup_text": ""
+  },
+  {
+    "id": 500084,
+    "description": "Boosts battle item damage when equipped to characters with Hallfein Restoration Project.",
+    "popup_text": ""
+  },
+  {
+    "id": 500085,
+    "description": "Boosts battle item critical damage when equipped to characters with Hallfein Restoration Project.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001235,
+    "description": "While equipped to Tiny [Lovable Inspector], after attacking a stunned enemy, grants critical rate up to all allies with 5 or more positive effects before skill activation for 1 turn.<br>※Does not count unlimited positive effects granted at the start of battle.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001236,
+    "description": "While equipped to a character with Strike affinity, boosts skill damage for single target attacks.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001237,
+    "description": "While equipped to an Attacker, after attacking, grants self positive effect potency received up for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 71273001,
+    "description": "Grants target negative effect potency inflicted down for 2 times.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001585,
+    "description": "After an ally with the Nova tag acts, grants self P.ATK up (max 30%).",
+    "popup_text": ""
+  },
+  {
+    "id": 72001586,
+    "description": "Grants self P.ATK up based on the number of characters with the Nova tag in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001587,
+    "description": "When target is stunned, grants target damage received up based on the number of characters with the Nova tag in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001588,
+    "description": "Grants self stun damage dealt up based on the number of characters with the Nova tag in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001589,
+    "description": "Grants all allies critical rate up based on the number of characters with the Nova tag in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001590,
+    "description": "Grants all allies critical damage up based on the number of characters with the Nova tag in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001591,
+    "description": "Restores HP of allies with the Nova tag.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001592,
+    "description": "Grants all allies skill damage up based on the number of characters with the Nova tag in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001593,
+    "description": "Grants max HP up to all allies with the Nova tag.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001594,
+    "description": "Grants max HP up to all allies without the Nova tag who have Fire affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001595,
+    "description": "Grants all allies P.DEF up based on the number of characters with the Nova tag in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001596,
+    "description": "Grants all allies M.DEF up based on the number of characters with the Nova tag in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001647,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001648,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001649,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001650,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001651,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001652,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001653,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001654,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001655,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001656,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001657,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001658,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001659,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001660,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001676,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72500191,
+    "description": "[Self/The more Diligent allies/P.ATK Up]",
+    "popup_text": ""
+  },
+  {
+    "id": 72500192,
+    "description": "[Self/The more Diligent allies/M.ATK Up]",
+    "popup_text": ""
+  },
+  {
+    "id": 81271002,
+    "description": "Summons a Fangbat (total enemies 1).",
+    "popup_text": ""
+  },
+  {
+    "id": 81271003,
+    "description": "Summons an Ice Bat (total enemies 2 or fewer).",
+    "popup_text": ""
+  },
+  {
+    "id": 81271004,
+    "description": "Removes 1 stack of damage received down when summoning an ally.",
+    "popup_text": ""
+  },
+  {
+    "id": 81271005,
+    "description": "Grants self damage received down.",
+    "popup_text": ""
+  },
+  {
+    "id": 81271006,
+    "description": "Summons a Fangbat (total enemies 1).",
+    "popup_text": ""
+  },
+  {
+    "id": 81271007,
+    "description": "Summons an Ice Bat (total enemies 2 or fewer).",
+    "popup_text": ""
+  },
+  {
+    "id": 81271008,
+    "description": "Removes damage received down when summoning an ally.",
+    "popup_text": ""
+  },
+  {
+    "id": 86013014,
+    "description": "While not stunned, reduces damage received.",
+    "popup_text": ""
+  },
+  {
+    "id": 91002077,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002078,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002079,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002080,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002081,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002082,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002083,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002084,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002088,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002089,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002090,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002091,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002095,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002096,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002097,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002098,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002099,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002100,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002101,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002102,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002153,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002154,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002155,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002156,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002157,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002158,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002159,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002160,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002161,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002162,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002164,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002184,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002201,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002202,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000358,
+    "description": "While equipped to a Supporter with Stab affinity, after attacking, boosts skill damage for the ally with the highest P.ATK or M.ATK for 1 turn. (Max 3 stacks)",
+    "popup_text": ""
+  },
+  {
+    "id": 95000359,
+    "description": "While equipped to a character with the Whimsical tag, boosts all allies' P.ATK.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000875,
+    "description": "Boosts Tiny's positive effect potency.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000882,
+    "description": "Boosts skill power when self has the Nova tag.",
+    "popup_text": ""
+  },
+  {
+    "id": 814000051,
+    "description": "Ally Count: SPD Down 20%",
+    "popup_text": ""
   }
 ]

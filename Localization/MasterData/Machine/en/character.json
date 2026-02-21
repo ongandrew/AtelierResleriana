@@ -1101,5 +1101,101 @@
     "profile_voice_text": "I am Criselda, leader of the Polar Night Alchemists.\nRemember that name well.",
     "sort_name": "Criselda",
     "start_at": "2026-02-09T03:00:00Z"
+  },
+  {
+    "id": 25506,
+    "acquisition_text": "I might be able to make a new pie!\nPlease take me along too!",
+    "another_name": "Startup Supporter",
+    "description": "A cheerful and energetic alchemist.\nShe has an extraordinary passion for making pies and works tirelessly every day to captivate people with her baking.\nWhile she can be a bit clumsy and airheaded at times, she is always positive and hardworking.",
+    "fullname": "Rorolina Frixell",
+    "leader_skill": {
+      "description": "Boosts Rising Star characters' critical damage by 40%.",
+      "name": "<Rising Star> Critical Damage Up"
+    },
+    "name": "Rorona",
+    "overlay_name": "Rororina Fryxell",
+    "profile_voice_text": "Ehehe. I'm so happy I can bake pies every day.\nI'm so glad I got to work at the cafe!",
+    "sort_name": "Rorona",
+    "start_at": "2026-02-21T03:00:00Z"
+  },
+  {
+    "id": 32203,
+    "acquisition_text": "Your dream—\nplease let me help you achieve it!",
+    "another_name": "Startup Supporter",
+    "description": "An alchemist shouldering her clan's mission.\nShe overlapped the mana depletion occurring on this continent with the drought affecting her homeland, and has been traveling in search of clues to save her home.\nShe has a strong sense of responsibility and is energetic and hardworking. She can also be a bit stubborn at times.",
+    "fullname": "Shallistera",
+    "leader_skill": {
+      "description": "Boosts Rising Star characters' stun damage by 25%. Also boosts their skill damage by 25% when the attack target is stunned.",
+      "name": "<Rising Star> Stun Damage Up"
+    },
+    "name": "Shallistera",
+    "overlay_name": "Shallistera",
+    "profile_voice_text": "To fulfill my mission of saving my homeland,\nI must do everything in my power.",
+    "sort_name": "Shallistera",
+    "start_at": "2026-02-21T03:00:00Z"
+  },
+  {
+    "id": 39907,
+    "acquisition_text": "I'm getting excited!\nOff to new adventures!",
+    "another_name": "Startup Supporter",
+    "description": "An adventure-loving alchemist.\nAfter saving Resna from monsters, she began accompanying her on various adventures.\nShe has a free-spirited personality and acts before she worries. She has a strong sense of justice and won't easily back down from what she believes is right.",
+    "fullname": "Reisalin Stout",
+    "leader_skill": {
+      "description": "Boosts Rising Star characters' P. DEF and M. DEF by 15%.",
+      "name": "<Rising Star> P. DEF & M. DEF Up"
+    },
+    "name": "Ryza",
+    "overlay_name": "Reisalin Stout",
+    "profile_voice_text": "Working at the cafe is so much fun!\nI get to hear all sorts of interesting stories!",
+    "sort_name": "Ryza",
+    "start_at": "2026-02-21T03:00:00Z"
+  },
+  {
+    "id": 43111,
+    "acquisition_text": "Heading for the World's End—let's go!",
+    "another_name": "Startup Supporter",
+    "description": "A fledgling alchemist. She has an extraordinary love and extensive knowledge of alchemy, revealing her inner \"alchemy otaku.\" She gets so excited about alchemy that she tends to speak rapidly. Her dream is to revive the now-defunct practice of alchemy and enrich people's lives.",
+    "fullname": "Resna Sternenlicht",
+    "leader_skill": {
+      "description": "Boosts Nova characters' skill damage by 40%.",
+      "name": "<Nova> Skill Damage Up"
+    },
+    "name": "Resna",
+    "overlay_name": "Resna Sternenlicht",
+    "profile_voice_text": "I'm Resna. I'll do my very best to catch up to my seniors!",
+    "sort_name": "Resna",
+    "start_at": "2026-02-21T03:00:00Z"
+  },
+  {
+    "id": 43209,
+    "acquisition_text": "Leave the fighting to me. I'm confident in my abilities.",
+    "another_name": "Startup Supporter",
+    "description": "An amnesiac warrior. Her combat skills are top-notch, and alongside her partner Heidi, she's handled various odd jobs. Having lost her memories of the past, she lives while searching for answers about her identity. She has a strong-willed personality and speaks bluntly, but when pushed, she can be surprisingly weak-willed. In her private life, her sloppy side tends to show, often causing those around her to fuss over her.",
+    "fullname": "Valeria",
+    "leader_skill": {
+      "description": "Boosts Nova characters' P.ATK by 25%.",
+      "name": "<Nova> P.ATK Up"
+    },
+    "name": "Valeria",
+    "overlay_name": "Valeria",
+    "profile_voice_text": "I'm Valeria. I don't have any memories of the past, but...well, I'm having fun.",
+    "sort_name": "Valeria",
+    "start_at": "2026-02-21T03:00:00Z"
+  },
+  {
+    "id": 46501,
+    "acquisition_text": "Inspector trainee, moving out! I'll do my best to maintain order today too!",
+    "another_name": "Lovable Inspector",
+    "description": "An Archipelago Federation inspector trainee. Together with her superior Els, she works to maintain order in the Archipelago Federation. She has a kind personality and tends to trust people too much, but her combat instincts are sharp, and Els has high expectations for her future. Because she sleeps and eats well, she appears particularly worn out when work gets busy.",
+    "fullname": "Tiny Rompuy",
+    "leader_skill": {
+      "description": "Boosts all allies' P.ATK and M.ATK by 12% for each Nova character in the party.",
+      "name": "Archipelago Federation Inspector Trainee"
+    },
+    "name": "Tiny",
+    "overlay_name": "Tiny Rompuy",
+    "profile_voice_text": "My track record as an inspector is still pretty shallow, but I'm improving daily under my boss!",
+    "sort_name": "Tiny",
+    "start_at": "2026-02-21T03:00:00Z"
   }
 ]

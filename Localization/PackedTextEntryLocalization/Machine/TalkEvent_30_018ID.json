@@ -1,0 +1,648 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "はあ、はあ……やった、倒せた……",
+        "localizations": {
+          "en": "Hah... hah... We did it... We took it down..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "兄さん、大丈夫？\u3000傷口……また開いてない？",
+        "localizations": {
+          "en": "Are you okay? Your wounds... they didn't open up again, did they?"
+        }
+      },
+      "2072370017": {
+        "text": "ティム",
+        "localizations": {
+          "en": "Tim"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "ああ、大丈夫だ。少なくとも生きてる……\n今はそれで十分だ",
+        "localizations": {
+          "en": "Yeah, I'm fine. At least I'm alive... That's enough for now."
+        }
+      },
+      "2072370017": {
+        "text": "ジェロン",
+        "localizations": {
+          "en": "Geron"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "説得、できたのかな……",
+        "localizations": {
+          "en": "Did we... actually convince them?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "少なくとも、これくらいで済んだのなら\n１週間かけて準備した甲斐があったと思うよ",
+        "localizations": {
+          "en": "Well, if this is all we had to deal with, I'd say the week of preparation was worth it."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "アタシの知ってる知識を総動員して作った\n諸島同盟旅のしおり、渡せなかった……",
+        "localizations": {
+          "en": "I put everything I knew into making that Archipelago Travel Guide, and I didn't even get to give it to them..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "まあ、あの二人の場合、誰かのお仕着せじゃなくて\n自分で楽しみを探してるほうが性に合うよ",
+        "localizations": {
+          "en": "With those two, they're better off finding their own fun rather than following someone else's itinerary anyway."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "これでしばらくは生き延びられる……\nとはいえ、あくまでしばらくの間だけど",
+        "localizations": {
+          "en": "At least we'll survive for a while... Though it really is only for a while."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "あの強さのドラゴンを軽く従えられる……\nやっぱり強いのね、ヘルトとゼロって",
+        "localizations": {
+          "en": "They can command a dragon that powerful so easily... Held and Zero really are incredibly strong."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "うん。結局あの二人は楽しんでるのさ。\n本気を出せば僕らを軽々なぎ倒せるんだから",
+        "localizations": {
+          "en": "Yeah. In the end, those two are just having fun. If they got serious, they could mow us down without breaking a sweat."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "すでにホルハーツとかは見物してたみたいだけど、\n読み通り島で騒ぎは起こしてない",
+        "localizations": {
+          "en": "Sounds like they've already visited places like Holhartz, but just like we predicted, they haven't caused any trouble on the islands."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "上機嫌で遊んでいる分には、大人しいはずだよ",
+        "localizations": {
+          "en": "As long as they're enjoying themselves and in a good mood, they should stay docile."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "これで、二人の考えがこっちに寄ってくれたら言うこと\nないんだけどね。いつまで平和が続くことやら……",
+        "localizations": {
+          "en": "Now if only we could get them to come around to our way of thinking... Who knows how long this peace will last though..."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "これからは一層気を引き締めて、\n「九偉人図」を集めなくちゃってことですね",
+        "localizations": {
+          "en": "Which means we need to be even more careful going forward and focus on collecting the Portraits of the Nine."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "ああ、そうだったわ。次はベスティラよね？\nエルスとタイニーに会いに行かなきゃ",
+        "localizations": {
+          "en": "Right, that's what we were doing. Bestira's next, isn't it? We need to go meet Els and Tiny."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "ブラオールの港に出発だね",
+        "localizations": {
+          "en": "Off to the port in Braulle, then."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "うん。でもその前に……ちょっとだけいい？\n改めてみんなに言っておきたいの",
+        "localizations": {
+          "en": "Yeah. But before that... can I say something? I want to tell everyone how I feel."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "ヴァレリア？",
+        "localizations": {
+          "en": "Valeria?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "私の兄弟……九偉人は、パルメ族の指示で\n人間たちを「管理」しようとしている",
+        "localizations": {
+          "en": "My siblings... the Miraculous Nine are trying to 'manage' humanity under orders from the Palme."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "でも、私はその「管理」に反対。\n九偉人も……パルメ族も、別に偉くもなんともない",
+        "localizations": {
+          "en": "But I oppose that 'management.' The Nine... and the Palme, for that matter... they're not special or superior."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "言い切ってくれるねぇ、まぁ同意さ。\n長く生きてるだけだ",
+        "localizations": {
+          "en": "You really tell it like it is. I agree, though. They've just been around longer, that's all."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "私はレスナの叶えたいことを手伝いたい……\nそう思ってたし、今も思ってる。でも",
+        "localizations": {
+          "en": "I wanted to help you achieve your dream, Resna... I still do. But..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "私にもやりたいことができた。兄弟のこと……\n九偉人の問題は私がけりを付けたいの",
+        "localizations": {
+          "en": "Now I have something I want to do too. The situation with my siblings... with the Nine—I want to settle it myself."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "ヴァレリア……",
+        "localizations": {
+          "en": "Valeria..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "ヘルトの性格、見たでしょ？\u3000あんな奴の親玉に\n「管理」なんてますます任せられないわよ",
+        "localizations": {
+          "en": "You saw what Held's like, right? There's no way I can let someone like his boss 'manage' anything."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "キューンなんか、ずっと怯えちゃってたし。\n可哀そうに、そりゃあ、ああなるよ",
+        "localizations": {
+          "en": "And poor Quinn was terrified the whole time. Can't blame her for being like that."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "うん、まずはあの子のことを助けてあげたいわ。\n記憶にはないけど、かわいい妹なんだし",
+        "localizations": {
+          "en": "Yeah, I want to help her first. I don't remember her, but she is my cute little sister."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "キューンは潜在能力がヘルトやゼロに\n匹敵するから、二人も目をかけてるんだろうね",
+        "localizations": {
+          "en": "Quinn's latent abilities rival Held's and Zero's, so those two probably keep an eye on her because of that."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "というか、末っ子の面倒を見ようと思ってるんだろう。\nヘル兄なりにさ。そういう兄貴っぽさはあるよ",
+        "localizations": {
+          "en": "More like they're looking after their baby sister. That's what Held thinks he's doing, anyway. He's got that big brother thing going on."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "ただ、暴君がすぎる",
+        "localizations": {
+          "en": "He's just way too tyrannical about it."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "ヴァレリアの思うまま、やりたいようにしなよ。\n何があっても、アタシはお前さんの味方だよ",
+        "localizations": {
+          "en": "Do what you want, Valeria. Whatever happens, I've got your back."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "ええ、ありがとう。\nなんだか……お姉ちゃんみたい",
+        "localizations": {
+          "en": "Thank you. You're like... a real big sister."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "……ふ、なに言ってるんだい。\n本当に姉なんだから、当たり前だろう？",
+        "localizations": {
+          "en": "...Heh. What are you talking about? I am your real sister, so of course I am."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "ふふ……",
+        "localizations": {
+          "en": "Hehe..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "さて、色々片付いたところで、\nいよいよベスティラに行くわよ！\u3000しゅっぱーつ！！",
+        "localizations": {
+          "en": "All right, now that everything's settled, it's finally time to head to Bestira! Let's go!!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "おー！",
+        "localizations": {
+          "en": "Yeah!!"
+        }
+      },
+      "2072370017": {
+        "text": "みんな",
+        "localizations": {
+          "en": "Everyone"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "おー！",
+        "localizations": {
+          "en": "Yeah!!"
+        }
+      },
+      "2072370017": {
+        "text": "カット",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "おー！",
+        "localizations": {
+          "en": "Yeah!!"
+        }
+      },
+      "2072370017": {
+        "text": "カット",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  }
+]

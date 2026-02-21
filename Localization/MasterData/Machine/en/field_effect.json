@@ -113,5 +113,10 @@
     "id": 50,
     "description": "Enemies: Reduces Bolt resistance by 50%.",
     "popup_text": "Bolt Resistance Down"
+  },
+  {
+    "id": 51,
+    "description": "Allies: Reduces SPD by 20%.",
+    "popup_text": "SPD Down"
   }
 ]

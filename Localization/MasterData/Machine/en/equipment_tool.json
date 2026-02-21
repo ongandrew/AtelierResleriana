@@ -1428,5 +1428,15 @@
     "id": 1236,
     "description": "While equipped to Antje (Doll-Playing Witch), after attacking an enemy with status effects before using a skill, grants skill power +{0}% to 1 ally with the highest M.ATK for 1 turn.",
     "name": "Hex Stab"
+  },
+  {
+    "id": 1238,
+    "description": "While equipped to Tiny [Lovable Inspector], after attacking a stunned enemy, boosts critical rate by {0}% for all allies with 5 or more positive effects granted before activating their skill for 1 turn.<br>Note: Does not include positive effects with unlimited turns granted at the start of battle.",
+    "name": "Fledgling Inspector's Baton"
+  },
+  {
+    "id": 1239,
+    "description": "While equipped to a character with Strike affinity, boosts skill damage from single target attacks by {0}%.<br>While equipped to an Attacker, after attacking, boosts own potency of received buff effects by {1}% for 1 turn.",
+    "name": "Sturm Rose"
   }
 ]

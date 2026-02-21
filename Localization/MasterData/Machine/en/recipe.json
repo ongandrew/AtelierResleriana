@@ -1534,7 +1534,7 @@
   },
   {
     "id": 755,
-    "name": "Serene Alchemist's Garb",
+    "name": "Tranquil Alchemist's Garb",
     "requirements": [
       {
         "name": "Clear Main Story 1-69"
@@ -1545,7 +1545,7 @@
   },
   {
     "id": 756,
-    "name": "Canyon Charm",
+    "name": "Gorge Charm",
     "requirements": [
       {
         "name": "Clear Main Story 1-69"
@@ -1578,7 +1578,7 @@
   },
   {
     "id": 759,
-    "name": "Tranquil Sky Charm",
+    "name": "Serene Sky Charm",
     "requirements": [
       {
         "name": "Clear Main Story 1-69"
@@ -2367,5 +2367,27 @@
     ],
     "start_at": "2026-02-09T03:00:00Z",
     "tracking_id": "af_synthesis_recipe_830"
+  },
+  {
+    "id": 831,
+    "name": "Rookie Inspector's Baton",
+    "requirements": [
+      {
+        "name": "Awaken Tiny [Lovable Inspector] to ★5"
+      }
+    ],
+    "start_at": "2026-02-21T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_831"
+  },
+  {
+    "id": 832,
+    "name": "Sturmrose",
+    "requirements": [
+      {
+        "name": "Awaken Valeria [Warrior of Rose] to ★6"
+      }
+    ],
+    "start_at": "2026-02-21T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_832"
   }
 ]

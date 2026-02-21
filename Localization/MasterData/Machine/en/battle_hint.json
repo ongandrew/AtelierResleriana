@@ -2526,5 +2526,41 @@
   {
     "id": 60276018,
     "description": "- When 2 or more positive effects are active on self, converts weaken panels into boost panels before the start of turn\n- Heals self\n- Boosts own critical rate\n- When stunned, boosts own damage received (MAX 50%)\n- Receives increased skill power from area attacks\n- Receives increased stun damage from area attacks\n- Nullifies effects that delay own turns"
+  },
+  {
+    "id": 10259025,
+    "description": "- When hit by a Burst Skill, grants self Nullify HP Recovery\n- Boosts own max HP and recovers HP\n- Has a chance to inflict Paralysis\n- Restores all allies' HP and stun gauge, and grants Regen"
+  },
+  {
+    "id": 10271028,
+    "description": "- After acting, summons allies until there are 3 allies in the party\n- At the start of battle, grants self 4 stacks of Damage Received Down\n- After summoning allies, removes 1 Damage Received Down from self\n- Increases appearance of burn panels\n- Inflicts Taunt\n- Removes opponents' positive effects"
+  },
+  {
+    "id": 10272021,
+    "description": "- Inflicts Daze\n- Delays turn"
+  },
+  {
+    "id": 10273026,
+    "description": "- Inflicts Poison\n- Delays turn\n- Heals self and removes negative effects"
+  },
+  {
+    "id": 60020084,
+    "description": "- No tips available."
+  },
+  {
+    "id": 60026079,
+    "description": "- Inflicts Burn\n- Reduces allies' damage received\n- Reduces opponents' damage dealt"
+  },
+  {
+    "id": 60090085,
+    "description": "- At the start of a wave, reduces damage received"
+  },
+  {
+    "id": 60097081,
+    "description": "- Delays turn\n- Heals allies"
+  },
+  {
+    "id": 60122033,
+    "description": "- When stunned, converts boost-type panels and critical panels into burst panels\n- Heals self and removes status effects\n- Restores own HP and stun gauge"
   }
 ]

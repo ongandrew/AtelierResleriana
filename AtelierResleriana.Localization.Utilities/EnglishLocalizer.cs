@@ -112,6 +112,11 @@ namespace AtelierResleriana.Localization.Utilities
         - ティム・ディーゼル (ティム) → Tim Diezel (Tim) - Geron's younger brother who was sick but helped by the team.
         - ミルカ・クロッツェ (ミルカ) → Miruca Crotze (Miruca) - Quiet alchemist who runs a small atelier creating armor and weapons, Shallotte's childhood friend and Jurie's younger sister
         - ユリエ・クロッツェ (ユリエ) → Jurie Crotze (Jurie) - Treasure hunter working to pay off debts with her sister Miruca, skilled with twin swords and enjoys reading
+        - タイニー・ロンパイ (タイニー) → Tiny Rompuy (Tiny) - Apprentice inspector of the Archipelago Alliance; kind-hearted with sharp instincts but a bit of an airhead.
+        - エルス・マーティン (エルス) → Els Martin (Els) - A strict and highly professional inspector for the Archipelago Federation; supervisor to Tiny.
+        - ジョゼ・ダンブロシオ (ジョゼ) → José d'Ambrosio (José) - A mysterious bounty hunter in the Archipelago Federation who often teases Tiny.
+        - ヘルト → Held - The first of the Miraculous Nine to awaken; powerful and moody.
+        - ゼロ → Zero - The second of the Miraculous Nine to awaken; a battle-hungry warrior with a strong will.
         """;
 
         private static Dictionary<string, string> SpeakerNotes = new Dictionary<string, string>
@@ -201,6 +206,11 @@ namespace AtelierResleriana.Localization.Utilities
             { "ティム", "Tim is Geron's younger brother." },
             { "ミルカ", "Miruca is a quiet alchemist who runs a small atelier where she creates armor and weapons for adventurers. She's Shallotte's childhood friend and Jurie's younger sister. She speaks softly and thoughtfully." },
             { "ユリエ", "Jurie is a treasure hunter who dreams of striking it rich so she and her sister Miruca can pay off their debt. She's somewhat of a loner who enjoys the outdoors, reading, and writing. She uses twin swords in combat and speaks with determination and independence." },
+            { "タイニー", "Tiny is an apprentice inspector for the Archipelago Alliance, working under her superior, Els. While she is kind-hearted and occasionally too trusting, she possesses sharp combat instincts that earn her high expectations from Els. She is fond of eating and sleeping, often finding busy work periods particularly taxing. Her speech is polite yet energetic, reflecting her status as a diligent but green recruit." },
+            { "エルス", "Els is a prominent female inspector for the Archipelago Federation and serves as Tiny's direct supervisor. Known for her exceptionally strict work ethic and professional demeanor, she maintains order with authority. While she presents a sharp, career-focused exterior, she is noted to have a certain underlying charm (or 'glossiness') and holds high hopes for Tiny’s future despite their contrasting personalities." },
+            { "ジョゼ", "José is a bounty hunter of unknown identity operating within the Archipelago Federation. He is known to frequently tease Tiny. His appearance is marked by a distinctive blue and black mask and a patterned blue cloak." },
+            { "ヘルト", "Held is the first of the Nine to awaken from a long slumber. He possesses tremendous power but is defined by a moody, fickle nature, choosing to act entirely as he pleases rather than following a set agenda." },
+            { "ゼロ", "Zero is the second of the Nine to awaken from their long sleep. He is a fierce, strong-willed battle maniac who lives for the thrill of combat and loves to fight above all else." },
             // System and narrative elements
             { "？？？", "Unknown speaker - maintain mysterious tone appropriate to context." },
             { "ナレーション", "Narrator speaks in a clear, neutral tone providing context or background information." },
@@ -268,7 +278,8 @@ namespace AtelierResleriana.Localization.Utilities
             { "暗黒の氷海", "Midnight Sea - A location north of the Infinite Island Chain." },
             { "レプルガルム", "Ripplegharm - An Apexi in the Midnight Sea." },
             { "ホルハーツ", "Holhartz - A location in the Infinite Island Chain." },
-            { "ブラオール", "Braulle - A location in the Infinite Island Chain." }
+            { "ブラオール", "Braulle - A location in the Infinite Island Chain. The capital of the Archipelago Federation." },
+            { "ベスティラへ", "Bestira - A beastkin island in the Infinite Island Chain." }
         };
 
         public string Locale { get => "en"; }

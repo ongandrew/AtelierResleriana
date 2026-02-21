@@ -4458,5 +4458,205 @@
     "id": 810190,
     "description": "Boosts skill power by {value}%. Cannot be removed.",
     "name": "Skill Power Up (Cond.)"
+  },
+  {
+    "id": 50001,
+    "description": "Boosts skill damage by {value}%.",
+    "name": "Skill Damage Up"
+  },
+  {
+    "id": 50002,
+    "description": "Boosts critical damage by {value}%.",
+    "name": "Critical Damage Up"
+  },
+  {
+    "id": 50003,
+    "description": "Boosts M.ATK by {value}%.",
+    "name": "M.ATK Up"
+  },
+  {
+    "id": 50004,
+    "description": "Boosts P.ATK by {value}%.",
+    "name": "P.ATK Up"
+  },
+  {
+    "id": 50005,
+    "description": "Boosts stun damage by {value}%.",
+    "name": "Stun Damage Up"
+  },
+  {
+    "id": 50006,
+    "description": "Boosts damage received from Fire attacks by {value}%.",
+    "name": "Fire Resistance Down"
+  },
+  {
+    "id": 50007,
+    "description": "Boosts damage received from Ice attacks by {value}%.",
+    "name": "Ice Resistance Down"
+  },
+  {
+    "id": 50008,
+    "description": "Boosts damage received from Bolt attacks by {value}%.",
+    "name": "Bolt Resistance Down"
+  },
+  {
+    "id": 50009,
+    "description": "Boosts damage received from Air attacks by {value}%.",
+    "name": "Air Resistance Down"
+  },
+  {
+    "id": 50010,
+    "description": "Boosts damage received from Slash attacks by {value}%.",
+    "name": "Slash Resistance Down"
+  },
+  {
+    "id": 50011,
+    "description": "Boosts damage received from Strike attacks by {value}%.",
+    "name": "Strike Resistance Down"
+  },
+  {
+    "id": 50012,
+    "description": "Boosts damage received from Stab attacks by {value}%.",
+    "name": "Stab Resistance Down"
+  },
+  {
+    "id": 50013,
+    "description": "Boosts HP recovery granted by {value}%.",
+    "name": "HP Recovery Granted Up"
+  },
+  {
+    "id": 50014,
+    "description": "Boosts HP recovery received by {value}%.",
+    "name": "HP Recovery Received Up"
+  },
+  {
+    "id": 50015,
+    "description": "Boosts battle item damage by {value}%.",
+    "name": "Battle Item Damage Up"
+  },
+  {
+    "id": 50016,
+    "description": "Boosts battle item critical damage by {value}%.",
+    "name": "Battle Item Critical Damage Up"
+  },
+  {
+    "id": 510294,
+    "description": "Boosts P.ATK by {value}%. (MAX 30%)",
+    "name": "P.ATK Up"
+  },
+  {
+    "id": 510310,
+    "description": "When Battle Maiden Bloom is Lv. 10 or higher, boosts critical damage by {value}%.",
+    "name": "Critical Damage Up (Cond.)"
+  },
+  {
+    "id": 510311,
+    "description": "Dummy buff for judgment. (MAX 2 stacks)",
+    "name": "Judgment Dummy Buff"
+  },
+  {
+    "id": 510312,
+    "description": "Boosts P.ATK by {value}%. (MAX 150%)",
+    "name": "P.ATK Up"
+  },
+  {
+    "id": 510313,
+    "description": "Boosts burst gauge gain by {value}%. (MAX 50%)",
+    "name": "Burst Gauge Gain Up"
+  },
+  {
+    "id": 510314,
+    "description": "Boosts M.ATK by {value}%. (MAX 150%)",
+    "name": "M.ATK Up"
+  },
+  {
+    "id": 610424,
+    "description": "Boosts P.ATK by {value}%. (MAX 15%)",
+    "name": "P.ATK Up"
+  },
+  {
+    "id": 610425,
+    "description": "Boosts P.ATK by {value}%. (MAX 50%)",
+    "name": "P.ATK Up"
+  },
+  {
+    "id": 610426,
+    "description": "Boosts stun damage by {value}%. (MAX 15%)",
+    "name": "Stun Damage Up"
+  },
+  {
+    "id": 610427,
+    "description": "Increases damage received by {value}%. (MAX 20%)",
+    "name": "Received Damage Up"
+  },
+  {
+    "id": 610428,
+    "description": "Boosts stun damage by {value}%. (MAX 40%)",
+    "name": "Stun Damage Up"
+  },
+  {
+    "id": 610429,
+    "description": "Boosts skill damage by {value}%. (MAX 15%)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 610431,
+    "description": "Boosts critical damage by {value}%. (MAX 15%)",
+    "name": "Critical Damage Up"
+  },
+  {
+    "id": 610432,
+    "description": "Boosts critical rate by {value}%. (MAX 100%)",
+    "name": "Critical Rate Up"
+  },
+  {
+    "id": 610434,
+    "description": "Boosts P.DEF by {value}%. (MAX 15%)",
+    "name": "P.DEF Up"
+  },
+  {
+    "id": 610435,
+    "description": "Boosts M.DEF by {value}%. (MAX 15%)",
+    "name": "M.DEF Up"
+  },
+  {
+    "id": 610455,
+    "description": "Boosts P.ATK by {value}%. (MAX 40%)",
+    "name": "P.ATK Up"
+  },
+  {
+    "id": 610456,
+    "description": "Boosts skill damage by {value}%. (MAX 40%)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 610457,
+    "description": "Boosts skill damage by {value}%. (MAX 30%)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 610458,
+    "description": "Boosts stun damage by {value}%. (MAX 30%)",
+    "name": "Stun Damage Up"
+  },
+  {
+    "id": 610459,
+    "description": "Boosts skill damage by {value}%. (MAX 100%)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 610460,
+    "description": "Boosts skill damage by {value}%. (MAX 150%)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 610472,
+    "description": "Boosts skill damage by {value}%. (MAX 3 stacks)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 810189,
+    "description": "Reduces damage received by {value}%. Cannot be removed.",
+    "name": "Received Damage Down"
   }
 ]

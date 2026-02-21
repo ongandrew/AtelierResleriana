@@ -29992,5 +29992,1037 @@
     "description": "Restores own HP by 20%.",
     "name": "Self-Recovery",
     "summary": ""
+  },
+  {
+    "id": 11003511,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, grants self P.ATK +{0}% (max 15%).",
+    "name": "Katze Beissen",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, boosts own P.ATK."
+  },
+  {
+    "id": 11003512,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, grants self P.ATK +{0}% (max 15%).",
+    "name": "Katze Beissen",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, boosts own P.ATK."
+  },
+  {
+    "id": 11003513,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, grants self P.ATK +{0}% (max 15%).",
+    "name": "Katze Beissen",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, boosts own P.ATK."
+  },
+  {
+    "id": 11003514,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, grants self P.ATK +{0}% (max 15%).",
+    "name": "Katze Beissen",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, boosts own P.ATK."
+  },
+  {
+    "id": 11003515,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, grants self P.ATK +{0}% (max 15%).",
+    "name": "Katze Beissen",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, boosts own P.ATK."
+  },
+  {
+    "id": 11003526,
+    "description": "Before attacking, reduces target's Air resistance by {0}% and Stab resistance by {1}% for 2 attacks.<br>After attacking, increases target's damage received by {2}% for 2 attacks and<br>grants self stun damage +{3}% (max 15%).",
+    "name": "Spression",
+    "summary": "Before attacking, reduces target's Air and Stab resistance.<br>After attacking, increases target's damage received.<br>Boosts own stun damage."
+  },
+  {
+    "id": 11003527,
+    "description": "Before attacking, reduces target's Air resistance by {0}% and Stab resistance by {1}% for 2 attacks.<br>After attacking, increases target's damage received by {2}% for 2 attacks and<br>grants self stun damage +{3}% (max 15%).",
+    "name": "Spression",
+    "summary": "Before attacking, reduces target's Air and Stab resistance.<br>After attacking, increases target's damage received.<br>Boosts own stun damage."
+  },
+  {
+    "id": 11003528,
+    "description": "Before attacking, reduces target's Air resistance by {0}% and Stab resistance by {1}% for 2 attacks.<br>After attacking, increases target's damage received by {2}% for 2 attacks and<br>grants self stun damage +{3}% (max 15%).",
+    "name": "Spression",
+    "summary": "Before attacking, reduces target's Air and Stab resistance.<br>After attacking, increases target's damage received.<br>Boosts own stun damage."
+  },
+  {
+    "id": 11003529,
+    "description": "Before attacking, reduces target's Air resistance by {0}% and Stab resistance by {1}% for 2 attacks.<br>After attacking, increases target's damage received by {2}% for 2 attacks and<br>grants self stun damage +{3}% (max 15%).",
+    "name": "Spression",
+    "summary": "Before attacking, reduces target's Air and Stab resistance.<br>After attacking, increases target's damage received.<br>Boosts own stun damage."
+  },
+  {
+    "id": 11003530,
+    "description": "Before attacking, reduces target's Air resistance by {0}% and Stab resistance by {1}% for 2 attacks.<br>After attacking, increases target's damage received by {2}% for 2 attacks and<br>grants self stun damage +{3}% (max 15%).",
+    "name": "Spression",
+    "summary": "Before attacking, reduces target's Air and Stab resistance.<br>After attacking, increases target's damage received.<br>Boosts own stun damage."
+  },
+  {
+    "id": 11003541,
+    "description": "After attacking, grants skill damage +{0}% to all allies (max 15%).",
+    "name": "Stella Shower",
+    "summary": "After attacking, boosts skill damage for all allies."
+  },
+  {
+    "id": 11003542,
+    "description": "After attacking, grants skill damage +{0}% to all allies (max 15%).",
+    "name": "Stella Shower",
+    "summary": "After attacking, boosts skill damage for all allies."
+  },
+  {
+    "id": 11003543,
+    "description": "After attacking, grants skill damage +{0}% to all allies (max 15%).",
+    "name": "Stella Shower",
+    "summary": "After attacking, boosts skill damage for all allies."
+  },
+  {
+    "id": 11003544,
+    "description": "After attacking, grants skill damage +{0}% to all allies (max 15%).",
+    "name": "Stella Shower",
+    "summary": "After attacking, boosts skill damage for all allies."
+  },
+  {
+    "id": 11003545,
+    "description": "After attacking, grants skill damage +{0}% to all allies (max 15%).",
+    "name": "Stella Shower",
+    "summary": "After attacking, boosts skill damage for all allies."
+  },
+  {
+    "id": 11003556,
+    "description": "After attacking, very high chance to inflict Brittle on target for 2 attacks and<br>grants critical damage +{0}% to all allies (max 15%).",
+    "name": "Rorona Special",
+    "summary": "After attacking, very high chance to inflict Brittle on target.<br>Boosts critical damage for all allies."
+  },
+  {
+    "id": 11003557,
+    "description": "After attacking, very high chance to inflict Brittle on target for 2 attacks and<br>grants critical damage +{0}% to all allies (max 15%).",
+    "name": "Rorona Special",
+    "summary": "After attacking, very high chance to inflict Brittle on target.<br>Boosts critical damage for all allies."
+  },
+  {
+    "id": 11003558,
+    "description": "After attacking, very high chance to inflict Brittle on target for 2 attacks and<br>grants critical damage +{0}% to all allies (max 15%).",
+    "name": "Rorona Special",
+    "summary": "After attacking, very high chance to inflict Brittle on target.<br>Boosts critical damage for all allies."
+  },
+  {
+    "id": 11003559,
+    "description": "After attacking, very high chance to inflict Brittle on target for 2 attacks and<br>grants critical damage +{0}% to all allies (max 15%).",
+    "name": "Rorona Special",
+    "summary": "After attacking, very high chance to inflict Brittle on target.<br>Boosts critical damage for all allies."
+  },
+  {
+    "id": 11003560,
+    "description": "After attacking, very high chance to inflict Brittle on target for 2 attacks and<br>grants critical damage +{0}% to all allies (max 15%).",
+    "name": "Rorona Special",
+    "summary": "After attacking, very high chance to inflict Brittle on target.<br>Boosts critical damage for all allies."
+  },
+  {
+    "id": 11003571,
+    "description": "After attacking, grants P.DEF/M.DEF +{0}% to all allies with Fire affinity or Nova tag (max 15%).",
+    "name": "Ryza Special",
+    "summary": "After attacking, boosts P.DEF and M.DEF of all allies with Fire affinity or Nova tag"
+  },
+  {
+    "id": 11003572,
+    "description": "After attacking, grants P.DEF/M.DEF +{0}% to all allies with Fire affinity or Nova tag (max 15%).",
+    "name": "Ryza Special",
+    "summary": "After attacking, boosts P.DEF and M.DEF of all allies with Fire affinity or Nova tag"
+  },
+  {
+    "id": 11003573,
+    "description": "After attacking, grants P.DEF/M.DEF +{0}% to all allies with Fire affinity or Nova tag (max 15%).",
+    "name": "Ryza Special",
+    "summary": "After attacking, boosts P.DEF and M.DEF of all allies with Fire affinity or Nova tag"
+  },
+  {
+    "id": 11003574,
+    "description": "After attacking, grants P.DEF/M.DEF +{0}% to all allies with Fire affinity or Nova tag (max 15%).",
+    "name": "Ryza Special",
+    "summary": "After attacking, boosts P.DEF and M.DEF of all allies with Fire affinity or Nova tag"
+  },
+  {
+    "id": 11003575,
+    "description": "After attacking, grants P.DEF/M.DEF +{0}% to all allies with Fire affinity or Nova tag (max 15%).",
+    "name": "Ryza Special",
+    "summary": "After attacking, boosts P.DEF and M.DEF of all allies with Fire affinity or Nova tag"
+  },
+  {
+    "id": 11003601,
+    "description": "Before attacking, reduces target's Stab resistance by {0}% for 3 attacks.<br>After attacking, grants Skill Damage +{1}% and Stun Damage +{2}% to all allies (all max 30%).",
+    "name": "Baton Attack",
+    "summary": "Before attacking, reduces target's Stab resistance<br>After attacking, boosts all allies' skill damage and stun damage"
+  },
+  {
+    "id": 11003602,
+    "description": "Before attacking, reduces target's Stab resistance by {0}% for 3 attacks.<br>After attacking, grants Skill Damage +{1}% and Stun Damage +{2}% to all allies (all max 30%).",
+    "name": "Baton Attack",
+    "summary": "Before attacking, reduces target's Stab resistance<br>After attacking, boosts all allies' skill damage and stun damage"
+  },
+  {
+    "id": 11003603,
+    "description": "Before attacking, reduces target's Stab resistance by {0}% for 3 attacks.<br>After attacking, grants Skill Damage +{1}% and Stun Damage +{2}% to all allies (all max 30%).",
+    "name": "Baton Attack",
+    "summary": "Before attacking, reduces target's Stab resistance<br>After attacking, boosts all allies' skill damage and stun damage"
+  },
+  {
+    "id": 11003604,
+    "description": "Before attacking, reduces target's Stab resistance by {0}% for 3 attacks.<br>After attacking, grants Skill Damage +{1}% and Stun Damage +{2}% to all allies (all max 30%).",
+    "name": "Baton Attack",
+    "summary": "Before attacking, reduces target's Stab resistance<br>After attacking, boosts all allies' skill damage and stun damage"
+  },
+  {
+    "id": 11003605,
+    "description": "Before attacking, reduces target's Stab resistance by {0}% for 3 attacks.<br>After attacking, grants Skill Damage +{1}% and Stun Damage +{2}% to all allies (all max 30%).",
+    "name": "Baton Attack",
+    "summary": "Before attacking, reduces target's Stab resistance<br>After attacking, boosts all allies' skill damage and stun damage"
+  },
+  {
+    "id": 12003516,
+    "description": "After attacking, grants own P.ATK +{0}% for 1 turn.",
+    "name": "Messer Vent",
+    "summary": "After attacking, boosts own P.ATK"
+  },
+  {
+    "id": 12003517,
+    "description": "After attacking, grants own P.ATK +{0}% for 1 turn.",
+    "name": "Messer Vent",
+    "summary": "After attacking, boosts own P.ATK"
+  },
+  {
+    "id": 12003518,
+    "description": "After attacking, grants own P.ATK +{0}% for 1 turn.",
+    "name": "Messer Vent",
+    "summary": "After attacking, boosts own P.ATK"
+  },
+  {
+    "id": 12003519,
+    "description": "After attacking, grants own P.ATK +{0}% for 1 turn.",
+    "name": "Messer Vent",
+    "summary": "After attacking, boosts own P.ATK"
+  },
+  {
+    "id": 12003520,
+    "description": "After attacking, grants own P.ATK +{0}% for 1 turn.",
+    "name": "Messer Vent",
+    "summary": "After attacking, boosts own P.ATK"
+  },
+  {
+    "id": 12003531,
+    "description": "Before attacking, reduces target's Air resistance by {0}% and Stab resistance by {1}% for 2 attacks.<br>After attacking, increases target's Damage Received by {2}% for 2 attacks and<br>grants own Stun Damage +{3}% for 2 turns.",
+    "name": "Four Elements Law",
+    "summary": "Before attacking, reduces target's Air and Stab resistance<br>After attacking, increases target's Damage Received<br>Boosts own stun damage"
+  },
+  {
+    "id": 12003532,
+    "description": "Before attacking, reduces target's Air resistance by {0}% and Stab resistance by {1}% for 2 attacks.<br>After attacking, increases target's Damage Received by {2}% for 2 attacks and<br>grants own Stun Damage +{3}% for 2 turns.",
+    "name": "Four Elements Law",
+    "summary": "Before attacking, reduces target's Air and Stab resistance<br>After attacking, increases target's Damage Received<br>Boosts own stun damage"
+  },
+  {
+    "id": 12003533,
+    "description": "Before attacking, reduces target's Air resistance by {0}% and Stab resistance by {1}% for 2 attacks.<br>After attacking, increases target's Damage Received by {2}% for 2 attacks and<br>grants own Stun Damage +{3}% for 2 turns.",
+    "name": "Four Elements Law",
+    "summary": "Before attacking, reduces target's Air and Stab resistance<br>After attacking, increases target's Damage Received<br>Boosts own stun damage"
+  },
+  {
+    "id": 12003534,
+    "description": "Before attacking, reduces target's Air resistance by {0}% and Stab resistance by {1}% for 2 attacks.<br>After attacking, increases target's Damage Received by {2}% for 2 attacks and<br>grants own Stun Damage +{3}% for 2 turns.",
+    "name": "Four Elements Law",
+    "summary": "Before attacking, reduces target's Air and Stab resistance<br>After attacking, increases target's Damage Received<br>Boosts own stun damage"
+  },
+  {
+    "id": 12003535,
+    "description": "Before attacking, reduces target's Air resistance by {0}% and Stab resistance by {1}% for 2 attacks.<br>After attacking, increases target's Damage Received by {2}% for 2 attacks and<br>grants own Stun Damage +{3}% for 2 turns.",
+    "name": "Four Elements Law",
+    "summary": "Before attacking, reduces target's Air and Stab resistance<br>After attacking, increases target's Damage Received<br>Boosts own stun damage"
+  },
+  {
+    "id": 12003546,
+    "description": "After attacking, recovers all allies' HP by {0}% and<br>boosts skill damage by {1}% for all allies with Fire affinity or the \"Nova\" tag for 1 turn.",
+    "name": "Stellacraft",
+    "summary": "After attacking, recovers all allies' HP.<br>Boosts skill damage for all allies with Fire affinity or the \"Nova\" tag."
+  },
+  {
+    "id": 12003547,
+    "description": "After attacking, recovers all allies' HP by {0}% and<br>boosts skill damage by {1}% for all allies with Fire affinity or the \"Nova\" tag for 1 turn.",
+    "name": "Stellacraft",
+    "summary": "After attacking, recovers all allies' HP.<br>Boosts skill damage for all allies with Fire affinity or the \"Nova\" tag."
+  },
+  {
+    "id": 12003548,
+    "description": "After attacking, recovers all allies' HP by {0}% and<br>boosts skill damage by {1}% for all allies with Fire affinity or the \"Nova\" tag for 1 turn.",
+    "name": "Stellacraft",
+    "summary": "After attacking, recovers all allies' HP.<br>Boosts skill damage for all allies with Fire affinity or the \"Nova\" tag."
+  },
+  {
+    "id": 12003549,
+    "description": "After attacking, recovers all allies' HP by {0}% and<br>boosts skill damage by {1}% for all allies with Fire affinity or the \"Nova\" tag for 1 turn.",
+    "name": "Stellacraft",
+    "summary": "After attacking, recovers all allies' HP.<br>Boosts skill damage for all allies with Fire affinity or the \"Nova\" tag."
+  },
+  {
+    "id": 12003550,
+    "description": "After attacking, recovers all allies' HP by {0}% and<br>boosts skill damage by {1}% for all allies with Fire affinity or the \"Nova\" tag for 1 turn.",
+    "name": "Stellacraft",
+    "summary": "After attacking, recovers all allies' HP.<br>Boosts skill damage for all allies with Fire affinity or the \"Nova\" tag."
+  },
+  {
+    "id": 12003561,
+    "description": "After attacking, boosts critical damage by {0}% for all allies with Ice affinity or the \"Nova\" tag for 1 turn.",
+    "name": "Angel Spirit",
+    "summary": "After attacking, boosts critical damage for all allies with Ice affinity or the \"Nova\" tag."
+  },
+  {
+    "id": 12003562,
+    "description": "After attacking, boosts critical damage by {0}% for all allies with Ice affinity or the \"Nova\" tag for 1 turn.",
+    "name": "Angel Spirit",
+    "summary": "After attacking, boosts critical damage for all allies with Ice affinity or the \"Nova\" tag."
+  },
+  {
+    "id": 12003563,
+    "description": "After attacking, boosts critical damage by {0}% for all allies with Ice affinity or the \"Nova\" tag for 1 turn.",
+    "name": "Angel Spirit",
+    "summary": "After attacking, boosts critical damage for all allies with Ice affinity or the \"Nova\" tag."
+  },
+  {
+    "id": 12003564,
+    "description": "After attacking, boosts critical damage by {0}% for all allies with Ice affinity or the \"Nova\" tag for 1 turn.",
+    "name": "Angel Spirit",
+    "summary": "After attacking, boosts critical damage for all allies with Ice affinity or the \"Nova\" tag."
+  },
+  {
+    "id": 12003565,
+    "description": "After attacking, boosts critical damage by {0}% for all allies with Ice affinity or the \"Nova\" tag for 1 turn.",
+    "name": "Angel Spirit",
+    "summary": "After attacking, boosts critical damage for all allies with Ice affinity or the \"Nova\" tag."
+  },
+  {
+    "id": 12003576,
+    "description": "After attacking, grants self P.DEF and M.DEF +{0}% for 2 attacks and<br>boosts max HP by {1}% for all allies with Fire affinity or the \"Nova\" tag for 1 turn.",
+    "name": "Calling Star",
+    "summary": "After attacking, boosts own P.DEF and M.DEF.<br>Boosts max HP for all allies with Fire affinity or the \"Nova\" tag."
+  },
+  {
+    "id": 12003577,
+    "description": "After attacking, grants self P.DEF and M.DEF +{0}% for 2 attacks and<br>boosts max HP by {1}% for all allies with Fire affinity or the \"Nova\" tag for 1 turn.",
+    "name": "Calling Star",
+    "summary": "After attacking, boosts own P.DEF and M.DEF.<br>Boosts max HP for all allies with Fire affinity or the \"Nova\" tag."
+  },
+  {
+    "id": 12003578,
+    "description": "After attacking, grants self P.DEF and M.DEF +{0}% for 2 attacks and<br>boosts max HP by {1}% for all allies with Fire affinity or the \"Nova\" tag for 1 turn.",
+    "name": "Calling Star",
+    "summary": "After attacking, boosts own P.DEF and M.DEF.<br>Boosts max HP for all allies with Fire affinity or the \"Nova\" tag."
+  },
+  {
+    "id": 12003579,
+    "description": "After attacking, grants self P.DEF and M.DEF +{0}% for 2 attacks and<br>boosts max HP by {1}% for all allies with Fire affinity or the \"Nova\" tag for 1 turn.",
+    "name": "Calling Star",
+    "summary": "After attacking, boosts own P.DEF and M.DEF.<br>Boosts max HP for all allies with Fire affinity or the \"Nova\" tag."
+  },
+  {
+    "id": 12003580,
+    "description": "After attacking, grants self P.DEF and M.DEF +{0}% for 2 attacks and<br>boosts max HP by {1}% for all allies with Fire affinity or the \"Nova\" tag for 1 turn.",
+    "name": "Calling Star",
+    "summary": "After attacking, boosts own P.DEF and M.DEF.<br>Boosts max HP for all allies with Fire affinity or the \"Nova\" tag."
+  },
+  {
+    "id": 12003606,
+    "description": "Before attacking, reduces target's Stab resistance by {0}% for 3 attacks.<br>After attacking, boosts skill damage by {1}% for all allies with the \"Nova\" tag for 2 turns,<br>boosts stun damage by {2}% for all allies with the \"Adventurer\" tag for 2 turns, and<br>boosts skill damage by {3}% for all allies with Stab affinity (max 100%).",
+    "name": "Tiny's Arrest Technique",
+    "summary": "Before attacking, reduces target's Stab resistance.<br>After attacking, boosts skill damage for all allies with the \"Nova\" tag.<br>Boosts stun damage for all allies with the \"Adventurer\" tag.<br>Boosts skill damage for all allies with Stab affinity."
+  },
+  {
+    "id": 12003607,
+    "description": "Before attacking, reduces target's Stab resistance by {0}% for 3 attacks.<br>After attacking, boosts skill damage by {1}% for all allies with the \"Nova\" tag for 2 turns,<br>boosts stun damage by {2}% for all allies with the \"Adventurer\" tag for 2 turns, and<br>boosts skill damage by {3}% for all allies with Stab affinity (max 100%).",
+    "name": "Tiny's Arrest Technique",
+    "summary": "Before attacking, reduces target's Stab resistance.<br>After attacking, boosts skill damage for all allies with the \"Nova\" tag.<br>Boosts stun damage for all allies with the \"Adventurer\" tag.<br>Boosts skill damage for all allies with Stab affinity."
+  },
+  {
+    "id": 12003608,
+    "description": "Before attacking, reduces target's Stab resistance by {0}% for 3 attacks.<br>After attacking, boosts skill damage by {1}% for all allies with the \"Nova\" tag for 2 turns,<br>boosts stun damage by {2}% for all allies with the \"Adventurer\" tag for 2 turns, and<br>boosts skill damage by {3}% for all allies with Stab affinity (max 100%).",
+    "name": "Tiny's Arrest Technique",
+    "summary": "Before attacking, reduces target's Stab resistance.<br>After attacking, boosts skill damage for all allies with the \"Nova\" tag.<br>Boosts stun damage for all allies with the \"Adventurer\" tag.<br>Boosts skill damage for all allies with Stab affinity."
+  },
+  {
+    "id": 12003609,
+    "description": "Before attacking, reduces target's Stab resistance by {0}% for 3 attacks.<br>After attacking, boosts skill damage by {1}% for all allies with the \"Nova\" tag for 2 turns,<br>boosts stun damage by {2}% for all allies with the \"Adventurer\" tag for 2 turns, and<br>boosts skill damage by {3}% for all allies with Stab affinity (max 100%).",
+    "name": "Tiny's Arrest Technique",
+    "summary": "Before attacking, reduces target's Stab resistance.<br>After attacking, boosts skill damage for all allies with the \"Nova\" tag.<br>Boosts stun damage for all allies with the \"Adventurer\" tag.<br>Boosts skill damage for all allies with Stab affinity."
+  },
+  {
+    "id": 12003610,
+    "description": "Before attacking, reduces target's Stab resistance by {0}% for 3 attacks.<br>After attacking, boosts skill damage by {1}% for all allies with the \"Nova\" tag for 2 turns,<br>boosts stun damage by {2}% for all allies with the \"Adventurer\" tag for 2 turns, and<br>boosts skill damage by {3}% for all allies with Stab affinity (max 100%).",
+    "name": "Tiny's Arrest Technique",
+    "summary": "Before attacking, reduces target's Stab resistance.<br>After attacking, boosts skill damage for all allies with the \"Nova\" tag.<br>Boosts stun damage for all allies with the \"Adventurer\" tag.<br>Boosts skill damage for all allies with Stab affinity."
+  },
+  {
+    "id": 14003521,
+    "description": "Boosts this attack's penetration by {0}.<br>After attacking, boosts own P.ATK by {1}% (MAX 50%).",
+    "name": "Ende Finsternis",
+    "summary": "Boosts this attack's penetration.<br>After attacking, boosts own P.ATK."
+  },
+  {
+    "id": 14003522,
+    "description": "Boosts this attack's penetration by {0}.<br>After attacking, boosts own P.ATK by {1}% (MAX 50%).",
+    "name": "Ende Finsternis",
+    "summary": "Boosts this attack's penetration.<br>After attacking, boosts own P.ATK."
+  },
+  {
+    "id": 14003523,
+    "description": "Boosts this attack's penetration by {0}.<br>After attacking, boosts own P.ATK by {1}% (MAX 50%).",
+    "name": "Ende Finsternis",
+    "summary": "Boosts this attack's penetration.<br>After attacking, boosts own P.ATK."
+  },
+  {
+    "id": 14003524,
+    "description": "Boosts this attack's penetration by {0}.<br>After attacking, boosts own P.ATK by {1}% (MAX 50%).",
+    "name": "Ende Finsternis",
+    "summary": "Boosts this attack's penetration.<br>After attacking, boosts own P.ATK."
+  },
+  {
+    "id": 14003525,
+    "description": "Boosts this attack's penetration by {0}.<br>After attacking, boosts own P.ATK by {1}% (MAX 50%).",
+    "name": "Ende Finsternis",
+    "summary": "Boosts this attack's penetration.<br>After attacking, boosts own P.ATK."
+  },
+  {
+    "id": 14003536,
+    "description": "Before attacking, reduces target's Air resistance by {0}% and Stab resistance by {1}% for 3 attacks.<br>After attacking, increases target's damage received by 4-20% (Higher boost with more Nova characters, range: 1-5 characters) (MAX 20%) and boosts own stun damage by {2}% (MAX 40%).",
+    "name": "Initiategram",
+    "summary": "Before attacking, reduces target's Air and Stab resistance.<br>After attacking, increases target's damage received based on number of Nova characters.<br>Boosts own stun damage."
+  },
+  {
+    "id": 14003537,
+    "description": "Before attacking, reduces target's Air resistance by {0}% and Stab resistance by {1}% for 3 attacks.<br>After attacking, increases target's damage received by 4-20% (Higher boost with more Nova characters, range: 1-5 characters) (MAX 20%) and boosts own stun damage by {2}% (MAX 40%).",
+    "name": "Initiategram",
+    "summary": "Before attacking, reduces target's Air and Stab resistance.<br>After attacking, increases target's damage received based on number of Nova characters.<br>Boosts own stun damage."
+  },
+  {
+    "id": 14003538,
+    "description": "Before attacking, reduces target's Air resistance by {0}% and Stab resistance by {1}% for 3 attacks.<br>After attacking, increases target's damage received by 4-20% (Higher boost with more Nova characters, range: 1-5 characters) (MAX 20%) and boosts own stun damage by {2}% (MAX 40%).",
+    "name": "Initiategram",
+    "summary": "Before attacking, reduces target's Air and Stab resistance.<br>After attacking, increases target's damage received based on number of Nova characters.<br>Boosts own stun damage."
+  },
+  {
+    "id": 14003539,
+    "description": "Before attacking, reduces target's Air resistance by {0}% and Stab resistance by {1}% for 3 attacks.<br>After attacking, increases target's damage received by 4-20% (Higher boost with more Nova characters, range: 1-5 characters) (MAX 20%) and boosts own stun damage by {2}% (MAX 40%).",
+    "name": "Initiategram",
+    "summary": "Before attacking, reduces target's Air and Stab resistance.<br>After attacking, increases target's damage received based on number of Nova characters.<br>Boosts own stun damage."
+  },
+  {
+    "id": 14003540,
+    "description": "Before attacking, reduces target's Air resistance by {0}% and Stab resistance by {1}% for 3 attacks.<br>After attacking, increases target's damage received by 4-20% (Higher boost with more Nova characters, range: 1-5 characters) (MAX 20%) and boosts own stun damage by {2}% (MAX 40%).",
+    "name": "Initiategram",
+    "summary": "Before attacking, reduces target's Air and Stab resistance.<br>After attacking, increases target's damage received based on number of Nova characters.<br>Boosts own stun damage."
+  },
+  {
+    "id": 14003551,
+    "description": "After attacking, restores all allies' HP by {0}%.<br>Boosts skill damage by {1}% for all allies with Fire affinity or Nova tag for 1 turn.",
+    "name": "Quick Mix",
+    "summary": "After attacking, restores all allies' HP.<br>Boosts skill damage for all allies with Fire affinity or Nova tag."
+  },
+  {
+    "id": 14003552,
+    "description": "After attacking, restores all allies' HP by {0}%.<br>Boosts skill damage by {1}% for all allies with Fire affinity or Nova tag for 1 turn.",
+    "name": "Quick Mix",
+    "summary": "After attacking, restores all allies' HP.<br>Boosts skill damage for all allies with Fire affinity or Nova tag."
+  },
+  {
+    "id": 14003553,
+    "description": "After attacking, restores all allies' HP by {0}%.<br>Boosts skill damage by {1}% for all allies with Fire affinity or Nova tag for 1 turn.",
+    "name": "Quick Mix",
+    "summary": "After attacking, restores all allies' HP.<br>Boosts skill damage for all allies with Fire affinity or Nova tag."
+  },
+  {
+    "id": 14003554,
+    "description": "After attacking, restores all allies' HP by {0}%.<br>Boosts skill damage by {1}% for all allies with Fire affinity or Nova tag for 1 turn.",
+    "name": "Quick Mix",
+    "summary": "After attacking, restores all allies' HP.<br>Boosts skill damage for all allies with Fire affinity or Nova tag."
+  },
+  {
+    "id": 14003555,
+    "description": "After attacking, restores all allies' HP by {0}%.<br>Boosts skill damage by {1}% for all allies with Fire affinity or Nova tag for 1 turn.",
+    "name": "Quick Mix",
+    "summary": "After attacking, restores all allies' HP.<br>Boosts skill damage for all allies with Fire affinity or Nova tag."
+  },
+  {
+    "id": 14003566,
+    "description": "After attacking, boosts all allies' critical rate by {0}% (MAX 100%).<br>Boosts critical damage by {1}% for all allies with Ice affinity or Nova tag for 1 turn.",
+    "name": "Mysterious Recipe",
+    "summary": "After attacking, boosts all allies' critical rate.<br>Boosts critical damage for all allies with Ice affinity or Nova tag."
+  },
+  {
+    "id": 14003567,
+    "description": "After attacking, boosts all allies' critical rate by {0}% (MAX 100%).<br>Boosts critical damage by {1}% for all allies with Ice affinity or Nova tag for 1 turn.",
+    "name": "Mysterious Recipe",
+    "summary": "After attacking, boosts all allies' critical rate.<br>Boosts critical damage for all allies with Ice affinity or Nova tag."
+  },
+  {
+    "id": 14003568,
+    "description": "After attacking, boosts all allies' critical rate by {0}% (MAX 100%).<br>Boosts critical damage by {1}% for all allies with Ice affinity or Nova tag for 1 turn.",
+    "name": "Mysterious Recipe",
+    "summary": "After attacking, boosts all allies' critical rate.<br>Boosts critical damage for all allies with Ice affinity or Nova tag."
+  },
+  {
+    "id": 14003569,
+    "description": "After attacking, boosts all allies' critical rate by {0}% (MAX 100%).<br>Boosts critical damage by {1}% for all allies with Ice affinity or Nova tag for 1 turn.",
+    "name": "Mysterious Recipe",
+    "summary": "After attacking, boosts all allies' critical rate.<br>Boosts critical damage for all allies with Ice affinity or Nova tag."
+  },
+  {
+    "id": 14003570,
+    "description": "After attacking, boosts all allies' critical rate by {0}% (MAX 100%).<br>Boosts critical damage by {1}% for all allies with Ice affinity or Nova tag for 1 turn.",
+    "name": "Mysterious Recipe",
+    "summary": "After attacking, boosts all allies' critical rate.<br>Boosts critical damage for all allies with Ice affinity or Nova tag."
+  },
+  {
+    "id": 14003581,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, reduces damage received by {0}% for 1 attack for all allies with Fire affinity or the Nova tag.",
+    "name": "Heaven's Quasar",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, reduces damage received for all allies with Fire affinity or the Nova tag."
+  },
+  {
+    "id": 14003582,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, reduces damage received by {0}% for 1 attack for all allies with Fire affinity or the Nova tag.",
+    "name": "Heaven's Quasar",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, reduces damage received for all allies with Fire affinity or the Nova tag."
+  },
+  {
+    "id": 14003583,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, reduces damage received by {0}% for 1 attack for all allies with Fire affinity or the Nova tag.",
+    "name": "Heaven's Quasar",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, reduces damage received for all allies with Fire affinity or the Nova tag."
+  },
+  {
+    "id": 14003584,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, reduces damage received by {0}% for 1 attack for all allies with Fire affinity or the Nova tag.",
+    "name": "Heaven's Quasar",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, reduces damage received for all allies with Fire affinity or the Nova tag."
+  },
+  {
+    "id": 14003585,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, reduces damage received by {0}% for 1 attack for all allies with Fire affinity or the Nova tag.",
+    "name": "Heaven's Quasar",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, reduces damage received for all allies with Fire affinity or the Nova tag."
+  },
+  {
+    "id": 14003611,
+    "description": "Before attacking, reduces target's Stab resistance by {0}% for 3 attacks.<br>After attacking, boosts skill power by {1}% for 2 actions for all allies with the Nova tag, boosts stun damage by {2}% for 2 actions for all allies with the Adventurer tag, and boosts skill damage by {3}% for all allies with Stab affinity (MAX 150%).",
+    "name": "Order: All Out",
+    "summary": "Before attacking, reduces target's Stab resistance.<br>After attacking, boosts skill power for all allies with the Nova tag.<br>Boosts stun damage for all allies with the Adventurer tag.<br>Boosts skill damage for all allies with Stab affinity."
+  },
+  {
+    "id": 14003612,
+    "description": "Before attacking, reduces target's Stab resistance by {0}% for 3 attacks.<br>After attacking, boosts skill power by {1}% for 2 actions for all allies with the Nova tag, boosts stun damage by {2}% for 2 actions for all allies with the Adventurer tag, and boosts skill damage by {3}% for all allies with Stab affinity (MAX 150%).",
+    "name": "Order: All Out",
+    "summary": "Before attacking, reduces target's Stab resistance.<br>After attacking, boosts skill power for all allies with the Nova tag.<br>Boosts stun damage for all allies with the Adventurer tag.<br>Boosts skill damage for all allies with Stab affinity."
+  },
+  {
+    "id": 14003613,
+    "description": "Before attacking, reduces target's Stab resistance by {0}% for 3 attacks.<br>After attacking, boosts skill power by {1}% for 2 actions for all allies with the Nova tag, boosts stun damage by {2}% for 2 actions for all allies with the Adventurer tag, and boosts skill damage by {3}% for all allies with Stab affinity (MAX 150%).",
+    "name": "Order: All Out",
+    "summary": "Before attacking, reduces target's Stab resistance.<br>After attacking, boosts skill power for all allies with the Nova tag.<br>Boosts stun damage for all allies with the Adventurer tag.<br>Boosts skill damage for all allies with Stab affinity."
+  },
+  {
+    "id": 14003614,
+    "description": "Before attacking, reduces target's Stab resistance by {0}% for 3 attacks.<br>After attacking, boosts skill power by {1}% for 2 actions for all allies with the Nova tag, boosts stun damage by {2}% for 2 actions for all allies with the Adventurer tag, and boosts skill damage by {3}% for all allies with Stab affinity (MAX 150%).",
+    "name": "Order: All Out",
+    "summary": "Before attacking, reduces target's Stab resistance.<br>After attacking, boosts skill power for all allies with the Nova tag.<br>Boosts stun damage for all allies with the Adventurer tag.<br>Boosts skill damage for all allies with Stab affinity."
+  },
+  {
+    "id": 14003615,
+    "description": "Before attacking, reduces target's Stab resistance by {0}% for 3 attacks.<br>After attacking, boosts skill power by {1}% for 2 actions for all allies with the Nova tag, boosts stun damage by {2}% for 2 actions for all allies with the Adventurer tag, and boosts skill damage by {3}% for all allies with Stab affinity (MAX 150%).",
+    "name": "Order: All Out",
+    "summary": "Before attacking, reduces target's Stab resistance.<br>After attacking, boosts skill power for all allies with the Nova tag.<br>Boosts stun damage for all allies with the Adventurer tag.<br>Boosts skill damage for all allies with Stab affinity."
+  },
+  {
+    "id": 14003668,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, boosts own SPD by {0}% for 1 action, and boosts own P.ATK by {1}% and skill damage by {2}% (MAX 40%).",
+    "name": "Twin Shark",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, boosts own SPD, P.ATK, and skill damage."
+  },
+  {
+    "id": 14003669,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, boosts own SPD by {0}% for 1 action, and boosts own P.ATK by {1}% and skill damage by {2}% (MAX 40%).",
+    "name": "Twin Shark",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, boosts own SPD, P.ATK, and skill damage."
+  },
+  {
+    "id": 14003670,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, boosts own SPD by {0}% for 1 action, and boosts own P.ATK by {1}% and skill damage by {2}% (MAX 40%).",
+    "name": "Twin Shark",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, boosts own SPD, P.ATK, and skill damage."
+  },
+  {
+    "id": 14003671,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, boosts own SPD by {0}% for 1 action, and boosts own P.ATK by {1}% and skill damage by {2}% (MAX 40%).",
+    "name": "Twin Shark",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, boosts own SPD, P.ATK, and skill damage."
+  },
+  {
+    "id": 14003672,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, boosts own SPD by {0}% for 1 action, and boosts own P.ATK by {1}% and skill damage by {2}% (MAX 40%).",
+    "name": "Twin Shark",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, boosts own SPD, P.ATK, and skill damage."
+  },
+  {
+    "id": 14003673,
+    "description": "Boosts this attack's critical rate by 100%.<br>After attacking, depending on Battle Maiden Bloom level, boosts own skill damage by 6-60% and P.ATK by 4-40% for 2 actions.<br>If Battle Maiden Bloom has not been granted, grants Battle Maiden Bloom (Lv. 2).<br>If already granted, increases Battle Maiden Bloom level by 2 (MAX Lv. 10).<br>*Battle Maiden Bloom: See Bloom Accel.",
+    "name": "Katzenschwanz",
+    "summary": "Boosts this attack's critical rate.<br>After attacking, boosts own skill damage and P.ATK depending on Battle Maiden Bloom level.<br>After that, grants or levels up Battle Maiden Bloom."
+  },
+  {
+    "id": 14003674,
+    "description": "Boosts this attack's critical rate by 100%.<br>After attacking, depending on Battle Maiden Bloom level, boosts own skill damage by 6-60% and P.ATK by 4-40% for 2 actions.<br>If Battle Maiden Bloom has not been granted, grants Battle Maiden Bloom (Lv. 2).<br>If already granted, increases Battle Maiden Bloom level by 2 (MAX Lv. 10).<br>*Battle Maiden Bloom: See Bloom Accel.",
+    "name": "Katzenschwanz",
+    "summary": "Boosts this attack's critical rate.<br>After attacking, boosts own skill damage and P.ATK depending on Battle Maiden Bloom level.<br>After that, grants or levels up Battle Maiden Bloom."
+  },
+  {
+    "id": 14003675,
+    "description": "Boosts this attack's critical rate by 100%.<br>After attacking, depending on Battle Maiden Bloom level, boosts own skill damage by 6-60% and P.ATK by 4-40% for 2 actions.<br>If Battle Maiden Bloom has not been granted, grants Battle Maiden Bloom (Lv. 2).<br>If already granted, increases Battle Maiden Bloom level by 2 (MAX Lv. 10).<br>*Battle Maiden Bloom: See Bloom Accel.",
+    "name": "Katzenschwanz",
+    "summary": "Boosts this attack's critical rate.<br>After attacking, boosts own skill damage and P.ATK depending on Battle Maiden Bloom level.<br>After that, grants or levels up Battle Maiden Bloom."
+  },
+  {
+    "id": 14003676,
+    "description": "Boosts this attack's critical rate by 100%.<br>After attacking, depending on Battle Maiden Bloom level, boosts own skill damage by 6-60% and P.ATK by 4-40% for 2 actions.<br>If Battle Maiden Bloom has not been granted, grants Battle Maiden Bloom (Lv. 2).<br>If already granted, increases Battle Maiden Bloom level by 2 (MAX Lv. 10).<br>*Battle Maiden Bloom: See Bloom Accel.",
+    "name": "Katzenschwanz",
+    "summary": "Boosts this attack's critical rate.<br>After attacking, boosts own skill damage and P.ATK depending on Battle Maiden Bloom level.<br>After that, grants or levels up Battle Maiden Bloom."
+  },
+  {
+    "id": 14003677,
+    "description": "Boosts this attack's critical rate by 100%.<br>After attacking, depending on Battle Maiden Bloom level, boosts own skill damage by 6-60% and P.ATK by 4-40% for 2 actions.<br>If Battle Maiden Bloom has not been granted, grants Battle Maiden Bloom (Lv. 2).<br>If already granted, increases Battle Maiden Bloom level by 2 (MAX Lv. 10).<br>*Battle Maiden Bloom: See Bloom Accel.",
+    "name": "Katzenschwanz",
+    "summary": "Boosts this attack's critical rate.<br>After attacking, boosts own skill damage and P.ATK depending on Battle Maiden Bloom level.<br>After that, grants or levels up Battle Maiden Bloom."
+  },
+  {
+    "id": 14003678,
+    "description": "Boosts this attack's critical rate by 100%.<br>After attacking, boosts own P.ATK by 8–80% for 2 turns, depending on Battle Maiden Bloom level.<br>If Battle Maiden Bloom has not been granted, grants self Battle Maiden Bloom (Lv. 5).<br>If already granted, increases Battle Maiden Bloom level by 5 (MAX Lv. 10).<br>Creates an extra turn (Extra Skill: {hyperlink_id 152}) 3 turns later.<br>Note: Battle Maiden Bloom - See Bloom Accel.",
+    "name": "Dornstraafe",
+    "summary": "Boosts this attack's critical rate.<br>After attacking, boosts own P.ATK depending on Battle Maiden Bloom level.<br>Then, grants Battle Maiden Bloom or increases its level, and creates an extra turn."
+  },
+  {
+    "id": 14003679,
+    "description": "Boosts this attack's critical rate by 100%.<br>After attacking, if Battle Maiden Bloom has not been granted, grants self Battle Maiden Bloom (Lv. 3).<br>If already granted, increases Battle Maiden Bloom level by 3 (MAX Lv. 10).<br>Creates an extra turn (Extra Skill: {hyperlink_id 8}) 3 turns later.<br>Note: Battle Maiden Bloom - See Bloom Accel.",
+    "name": "Dornstraafe",
+    "summary": "Boosts this attack's critical rate. After attacking, grants Battle Maiden Bloom or increases its level, and creates an extra turn."
+  },
+  {
+    "id": 14003680,
+    "description": "Boosts this attack's critical rate by 100%.<br>After attacking, boosts own skill damage by 5–50% and P.ATK by 3–30% for 2 turns, depending on Battle Maiden Bloom level.<br>If Battle Maiden Bloom has not been granted, grants self Battle Maiden Bloom (Lv. 2).<br>If already granted, increases Battle Maiden Bloom level by 2 (MAX Lv. 10).<br>Note: Battle Maiden Bloom - See Bloom Accel.",
+    "name": "Blitzdorn",
+    "summary": "Boosts this attack's critical rate.<br>After attacking, boosts own skill damage and P.ATK depending on Battle Maiden Bloom level.<br>Then, grants Battle Maiden Bloom or increases its level."
+  },
+  {
+    "id": 22001919,
+    "description": "After attacking, boosts own damage dealt by 25% for 2 turns and inflicts Daze on target enemy (100% chance for 1 turn).",
+    "name": "Pungere Saltatio",
+    "summary": ""
+  },
+  {
+    "id": 22001920,
+    "description": "No additional effects.",
+    "name": "Incidere",
+    "summary": ""
+  },
+  {
+    "id": 22001921,
+    "description": "After attacking, delays target enemy's turn by 5.",
+    "name": "Gravis Globus",
+    "summary": ""
+  },
+  {
+    "id": 22001922,
+    "description": "After attacking, reduces own damage received by 20% for 2 turns and stun damage received by 15% for 3 turns.",
+    "name": "Ferrum Ventus",
+    "summary": ""
+  },
+  {
+    "id": 22001923,
+    "description": "After attacking, reduces all enemies' damage dealt by 30% for 2 turns.",
+    "name": "Unda Impactus",
+    "summary": ""
+  },
+  {
+    "id": 22001924,
+    "description": "After attacking, inflicts Nullify Positive Effects on target for 3 turns.",
+    "name": "Sigil Blow",
+    "summary": ""
+  },
+  {
+    "id": 22001925,
+    "description": "No additional effects.",
+    "name": "Thunder Shot",
+    "summary": ""
+  },
+  {
+    "id": 22001926,
+    "description": "After attacking, inflicts 6 stacks of Poison on target for 3 turns (100% chance).",
+    "name": "Death Spin",
+    "summary": ""
+  },
+  {
+    "id": 22001927,
+    "description": "If target is afflicted with a status effect, boosts damage dealt by 15%.",
+    "name": "Death Touch",
+    "summary": ""
+  },
+  {
+    "id": 22001928,
+    "description": "No additional effects.",
+    "name": "Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 22001929,
+    "description": "Boosts target's damage dealt by 20% for 2 turns and reduces damage received by 20% for 2 turns.",
+    "name": "Energy Gain",
+    "summary": ""
+  },
+  {
+    "id": 22001930,
+    "description": "After attacking, increases own max HP by 15% and restores HP by 20%.",
+    "name": "High Jump Crash",
+    "summary": ""
+  },
+  {
+    "id": 22001931,
+    "description": "After attacking, inflicts Paralysis on target (40% chance for 1 turn).",
+    "name": "Splash",
+    "summary": ""
+  },
+  {
+    "id": 22001932,
+    "description": "No additional effects.",
+    "name": "Ride",
+    "summary": ""
+  },
+  {
+    "id": 22001933,
+    "description": "After attacking, reduces own damage received by 20% for 3 turns.",
+    "name": "Ice Riding",
+    "summary": ""
+  },
+  {
+    "id": 22001934,
+    "description": "Restores all allies' HP and stun gauge by 10% and grants Regeneration (10% for 2 turns).",
+    "name": "Moisture Supply",
+    "summary": ""
+  },
+  {
+    "id": 22001935,
+    "description": "After attacking, delays target enemy's turn by 2 and reduces positive effect potency by 35% for 3 turns.",
+    "name": "FATAL MODE: Volatus",
+    "summary": ""
+  },
+  {
+    "id": 22001936,
+    "description": "No effect",
+    "name": "Pulsare",
+    "summary": ""
+  },
+  {
+    "id": 22001937,
+    "description": "After attacking, reduces target enemy's HP recovery by 30% for 2 turns.",
+    "name": "MODE: Radious",
+    "summary": ""
+  },
+  {
+    "id": 22001938,
+    "description": "After attacking, grants target enemy 3 stacks of Poison (100% chance, 2 turns).",
+    "name": "Magna Venenum",
+    "summary": ""
+  },
+  {
+    "id": 22001939,
+    "description": "After attacking, reduces all enemies' negative effect potency by 40% for 2 turns.",
+    "name": "MODE: Gradius",
+    "summary": ""
+  },
+  {
+    "id": 22001940,
+    "description": "Restores all allies' HP by 10% and removes negative effects.",
+    "name": "Starry Bliss",
+    "summary": ""
+  },
+  {
+    "id": 22001941,
+    "description": "After attacking, boosts own SPD by 10% (permanent).",
+    "name": "Lucidus Sidera",
+    "summary": ""
+  },
+  {
+    "id": 22001942,
+    "description": "After attacking, reduces own damage received by 40% for 2 turns. After attacking, reduces own stun damage received by 40% for 2 turns.",
+    "name": "Harmonia",
+    "summary": ""
+  },
+  {
+    "id": 22001943,
+    "description": "No effect",
+    "name": "Zodiacus",
+    "summary": ""
+  },
+  {
+    "id": 22001944,
+    "description": "After attacking, reduces target enemy's SPD by 5% for 2 turns.",
+    "name": "Nexus Celeste",
+    "summary": ""
+  },
+  {
+    "id": 22001945,
+    "description": "After attacking, reduces own negative effect potency received by 40% for 2 turns.",
+    "name": "Nexus Flarum",
+    "summary": ""
+  },
+  {
+    "id": 22001946,
+    "description": "Grants self 2 stacks of SPD Up (3%, permanent). Grants self Evasion (3%, permanent, MAX 30%).",
+    "name": "Azure Star's Blessing",
+    "summary": ""
+  },
+  {
+    "id": 22001947,
+    "description": "After attacking, activates a field effect that reduces all characters' SPD by 20% for 10 ally turns.",
+    "name": "Vortex Discharge",
+    "summary": ""
+  },
+  {
+    "id": 22001948,
+    "description": "After attacking, reduces own damage received by 25% for 2 turns and reduces own stun damage received by 30% for 2 turns.",
+    "name": "Tail Thrust",
+    "summary": ""
+  },
+  {
+    "id": 22001949,
+    "description": "After attacking, reduces target's SPD by 8% for 2 turns.",
+    "name": "Freeze Breath",
+    "summary": ""
+  },
+  {
+    "id": 22001950,
+    "description": "No effect",
+    "name": "Hazard Sting",
+    "summary": ""
+  },
+  {
+    "id": 22001951,
+    "description": "After attacking, converts 2 of all enemies' panels (excluding Burst Skills) to Burn panels and reduces magical damage dealt by 40% for 1 turn.",
+    "name": "Crimson Fire",
+    "summary": ""
+  },
+  {
+    "id": 22001952,
+    "description": "Grants all enemies Provoke for 1 turn, removes some positive effects (50% chance to remove, 5 effects), and reduces own damage received by 35% for 2 turns.",
+    "name": "King's Leap",
+    "summary": ""
+  },
+  {
+    "id": 22001953,
+    "description": "No effect",
+    "name": "Dangerous Bite",
+    "summary": ""
+  },
+  {
+    "id": 22001954,
+    "description": "After attacking, reduces skill target's damage dealt by 35% for 3 turns.",
+    "name": "Sonic Voice",
+    "summary": ""
+  },
+  {
+    "id": 22001955,
+    "description": "After attacking, grants skill target 5 stacks of Poison (2%, 5 turns).",
+    "name": "Poison Bite",
+    "summary": ""
+  },
+  {
+    "id": 22001956,
+    "description": "After attacking, reduces target's SPD by 8% for 5 turns.",
+    "name": "Thunder Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 22001957,
+    "description": "Boosts target's damage dealt by 15% for 3 turns.",
+    "name": "Spin Roar",
+    "summary": ""
+  },
+  {
+    "id": 32004599,
+    "description": "No effects.",
+    "name": "Heavy Strike",
+    "summary": ""
+  },
+  {
+    "id": 32004600,
+    "description": "No effects.",
+    "name": "Violent Shake",
+    "summary": ""
+  },
+  {
+    "id": 32004601,
+    "description": "After attacking, reduces target's damage dealt by 15% for 3 turns.",
+    "name": "Shake Off",
+    "summary": ""
+  },
+  {
+    "id": 32004602,
+    "description": "Reduces target's SPD by 15% for 3 turns.",
+    "name": "Intimidate",
+    "summary": ""
+  },
+  {
+    "id": 32004603,
+    "description": "After attacking, converts 1 of all enemies' panels into an empty panel.",
+    "name": "Mill Storm",
+    "summary": ""
+  },
+  {
+    "id": 32004604,
+    "description": "No effects.",
+    "name": "Tail Rush",
+    "summary": ""
+  },
+  {
+    "id": 32004605,
+    "description": "After attacking, converts 1 of target enemy's panels into a weaken panel.",
+    "name": "Wind Ball",
+    "summary": ""
+  },
+  {
+    "id": 32004606,
+    "description": "After attacking, reduces all enemies' SPD by 8% for 1 turn.",
+    "name": "Blood Storm",
+    "summary": ""
+  },
+  {
+    "id": 32004607,
+    "description": "Boosts all allies' panel positive effect potency by 25% for 2 turns and restores all allies' HP by 15%.",
+    "name": "Inspiring Roar",
+    "summary": ""
+  },
+  {
+    "id": 32004608,
+    "description": "No effects.",
+    "name": "Spinning Saw",
+    "summary": ""
+  },
+  {
+    "id": 32004609,
+    "description": "No effects.",
+    "name": "Rolling Cut",
+    "summary": ""
+  },
+  {
+    "id": 32004610,
+    "description": "No effects.",
+    "name": "Spread Slash",
+    "summary": ""
+  },
+  {
+    "id": 32004611,
+    "description": "No effects.",
+    "name": "Ice Call",
+    "summary": ""
+  },
+  {
+    "id": 32004612,
+    "description": "Grants self Counter for 2 counterattacks.",
+    "name": "Counterattack Preparation",
+    "summary": ""
+  },
+  {
+    "id": 32004613,
+    "description": "Boosts target ally with positive effects' damage dealt by 20% for 2 turns, reduces damage received by 25% for 2 turns, and boosts SPD by 5% for 1 turn.",
+    "name": "Cheer Addition",
+    "summary": ""
+  },
+  {
+    "id": 32004614,
+    "description": "After attacking, reduces target enemy's SPD by 10% for 1 turn and reduces own damage received by 15% for 2 turns.",
+    "name": "Counter Tail",
+    "summary": ""
+  },
+  {
+    "id": 32004615,
+    "description": "Restores target ally's HP by 15%.",
+    "name": "Blessed Guidance",
+    "summary": ""
+  },
+  {
+    "id": 32004616,
+    "description": "After attacking, grants target 8 stacks of Poison. (100% chance, 5 times)",
+    "name": "Explosive Bloom",
+    "summary": ""
+  },
+  {
+    "id": 32004617,
+    "description": "No additional effects.",
+    "name": "Magic Shot",
+    "summary": ""
+  },
+  {
+    "id": 32004618,
+    "description": "After attacking, inflicts Paralysis on skill target for 3 turns (70% chance).",
+    "name": "Paralyze Shot",
+    "summary": ""
+  },
+  {
+    "id": 32004619,
+    "description": "After attacking, delays skill target's turn by 3 turns.",
+    "name": "Tackle",
+    "summary": ""
+  },
+  {
+    "id": 32004620,
+    "description": "No additional effects.",
+    "name": "Rush",
+    "summary": ""
+  },
+  {
+    "id": 32004621,
+    "description": "After attacking, reduces skill target's damage dealt by 20% for 3 turns.",
+    "name": "Slash Meteor",
+    "summary": ""
+  },
+  {
+    "id": 32004622,
+    "description": "No additional effects.",
+    "name": "Thunder Slash",
+    "summary": ""
+  },
+  {
+    "id": 32004623,
+    "description": "Reduces skill target's damage received by 30% for 2 turns.",
+    "name": "Cheer Up",
+    "summary": ""
+  },
+  {
+    "id": 32004624,
+    "description": "After attacking, reduces own damage received by 10% for 1-5 turns.",
+    "name": "Armor Change",
+    "summary": ""
+  },
+  {
+    "id": 32004625,
+    "description": "After attacking, reduces own damage received by 20% for 1 turn.",
+    "name": "Ore Metabolism",
+    "summary": ""
+  },
+  {
+    "id": 32004626,
+    "description": "When attacking with HP at 50% or lower, boosts damage dealt by 20%.",
+    "name": "Invigorating Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32004627,
+    "description": "After attacking, reduces target enemy's M.ATK by 25% for 1 turn.",
+    "name": "Dispiriting Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32004628,
+    "description": "No additional effects.",
+    "name": "Wild Strike",
+    "summary": ""
   }
 ]

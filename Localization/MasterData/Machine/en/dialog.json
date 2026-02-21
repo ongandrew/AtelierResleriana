@@ -353,5 +353,50 @@
     "id": 7905,
     "description": "You can reset the progress of the battle.\nResetting will completely reset the battle progress, including enemy HP, and character deployment status.",
     "name": "Reset"
+  },
+  {
+    "id": 10,
+    "description": "Subspace Support has been unlocked.",
+    "name": "Subspace Support Unlocked"
+  },
+  {
+    "id": 8001,
+    "description": "Subspace Support provides effects that give you an advantage in battle.",
+    "name": "Subspace Support"
+  },
+  {
+    "id": 8002,
+    "description": "You can check the current effects of Subspace Support.\nAs the level increases, you can receive various benefits.\nYou can strengthen Subspace Support from Atelier > Support Enhancement.",
+    "name": "Subspace Support Effects"
+  },
+  {
+    "id": 8003,
+    "description": "By adding characters to your party, you can receive the effects of each character's Support Ability.",
+    "name": "Subspace Support Party"
+  },
+  {
+    "id": 8004,
+    "description": "When you equip a Main Memoria, part of that Memoria's ability effects will apply to the entire party.\nMain Memoria with multiple roles or affinities will have reduced effects.",
+    "name": "Subspace Support Party"
+  },
+  {
+    "id": 8005,
+    "description": "When you equip Sub Memoria, the effects of the Main Memoria increase.\nEquip Sub Memoria with high unlock ranks and matching roles and affinities with the Main Memoria.\nSub Memoria with multiple roles or affinities will have reduced bonus values.",
+    "name": "Subspace Support Party"
+  },
+  {
+    "id": 8101,
+    "description": "In Support Enhancement, you can use synthesis materials and mana to level up Subspace Support and unlock its level cap.",
+    "name": "Support Enhancement"
+  },
+  {
+    "id": 8102,
+    "description": "Information about items that can be synthesized and required materials is displayed on the left side of the screen.\nTap an icon on the right side of the screen to select an item to synthesize.",
+    "name": "Support Enhancement"
+  },
+  {
+    "id": 8103,
+    "description": "Unlike regular synthesis, when you create an item in Support Enhancement, Subspace Support is strengthened directly instead of obtaining the item.\nTherefore, traits are not applied.",
+    "name": "Support Enhancement"
   }
 ]

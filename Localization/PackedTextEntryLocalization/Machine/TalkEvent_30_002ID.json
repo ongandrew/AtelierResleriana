@@ -1,0 +1,495 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "準備、完の了！\nいつでもブラオールに行けるっすわ！",
+        "localizations": {
+          "en": "All set! We're ready to head to Braulle anytime!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "今回はまた随分と積荷が少ないのね。\n本当にバーバラ号とアルビ号の２隻で大丈夫なの？",
+        "localizations": {
+          "en": "We're traveling unusually light this time. Are you sure just the Barbara and the Alvie will be enough?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "平気だよ。ブラオールまでの航路は安全だからね。\nなんたって諸島同盟でも一番の大都市だし？\u3000うん平気",
+        "localizations": {
+          "en": "We'll be fine. The route to Braulle is safe. After all, it's the biggest city in the Archipelago Federation, so yeah, totally safe."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "今のうちにフロッケ号の手入れができるって\nランツェさんも張り切ってたよ",
+        "localizations": {
+          "en": "Lanze was pretty excited about having time to work on the Flocke while we're there."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "ブラオール、噂に聞いた大都市……\nアルビちゃん、ついに足を踏み入れます……！",
+        "localizations": {
+          "en": "Braulle, the great city I've only heard about in stories... I'm finally going to set foot there...!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "すっかりおのぼりさんだね、オノボリーナ。\n神聖国の案内人ともあろうものが",
+        "localizations": {
+          "en": "You're quite the country bumpkin, aren't you, Bumpkina? And here I thought you were supposed to be a Guide."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "むっ……しょうがないでしょ、\n初めてのブラオールなんだから。あとアルビーナな",
+        "localizations": {
+          "en": "Hey... can you blame me? It's my first time in Braulle. And it's Alvina."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "じゃあ、案内人の役割も僕に任せてもらおうかな？\n何度か僕らは行ったことがあるしね",
+        "localizations": {
+          "en": "Well then, how about you let me handle the guide duties? We've been there a few times before."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "とはいえ、最後に行ったのはだいぶ昔のことだ。\n景色もすっかり変わってるかもしれないよ",
+        "localizations": {
+          "en": "Though it's been quite a while since our last visit. The scenery might've changed completely by now."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "あれ、そういえばリーベとゴゥは？",
+        "localizations": {
+          "en": "Wait, where are Liebe and Gou?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "あの子らは別件。危険生物の「管理」中だよ。\nその分アタシらが同行させてもらうから",
+        "localizations": {
+          "en": "Those two are on a different assignment. They're managing some dangerous creatures. So we'll be tagging along instead."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "同行という指示は我が主から出ていない",
+        "localizations": {
+          "en": "I received no such directive from our master to accompany you."
+        }
+      },
+      "2072370017": {
+        "text": "ヤドヴィガ",
+        "localizations": {
+          "en": "Jadwiga"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "ヤドヴィガ、それにキューン！\nまた私たちを監視しているの？",
+        "localizations": {
+          "en": "Jadwiga, and Quinn! Are you monitoring us again?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "う、ううん。今回は違うの。\nイェルカ姉貴とシトリンに用があって……",
+        "localizations": {
+          "en": "N-no, it's different this time. We actually have business with Jelka and Citrine..."
+        }
+      },
+      "2072370017": {
+        "text": "キューン",
+        "localizations": {
+          "en": "Quinn"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "我が主からの命令。二人も私たちと共に\n不穏分子の「管理」を進めよと……",
+        "localizations": {
+          "en": "Direct orders from our master. You two are to join us in managing destabilizing elements."
+        }
+      },
+      "2072370017": {
+        "text": "ヤドヴィガ",
+        "localizations": {
+          "en": "Jadwiga"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "アウグスト直々の招集ってことかい……",
+        "localizations": {
+          "en": "A personal summons from August himself..."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "不穏分子って……ゴゥさんたちがしてる危険生物の\n「管理」を手伝うって意味じゃ、ないですよね",
+        "localizations": {
+          "en": "Destabilizing elements... You don't mean helping Gou manage dangerous creatures, do you?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "肯定。私たちの分担は危険思想を抱く人類、\nたとえば元極夜の錬金党のクリセルダなど",
+        "localizations": {
+          "en": "Affirmative. Our assignment concerns humans with dangerous ideologies. Such as Criselda, former leader of the Polar Night Alchemists."
+        }
+      },
+      "2072370017": {
+        "text": "ヤドヴィガ",
+        "localizations": {
+          "en": "Jadwiga"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "そんな！\u3000まだクリセルダさんのことを……！",
+        "localizations": {
+          "en": "What?! You're still after Criselda?!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "だね。それを聞かされちゃあ\n仕事をさせるわけにはいかないよ！",
+        "localizations": {
+          "en": "No way! If that's what you're planning, we can't let you go through with it!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "クリセルダも最近は大人しくしていると聞くよ。\nそんな急に話を進めることはないと思うけどね",
+        "localizations": {
+          "en": "I hear Criselda's been keeping a low profile lately. There's no need to rush into anything."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "そ、それは……事情が",
+        "localizations": {
+          "en": "Th-there are... circumstances..."
+        }
+      },
+      "2072370017": {
+        "text": "キューン",
+        "localizations": {
+          "en": "Quinn"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "私からすれば我が主の命令に従わない姉上が\n同じ兄弟として理解できない",
+        "localizations": {
+          "en": "I cannot comprehend why my siblings refuse to follow our master's orders. As fellow creations, this defies understanding."
+        }
+      },
+      "2072370017": {
+        "text": "ヤドヴィガ",
+        "localizations": {
+          "en": "Jadwiga"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "こういう「管理」は粋じゃないんだよ。\n彼女をどう裁くかは同じ人間に委ねるべきさ！",
+        "localizations": {
+          "en": "This kind of management isn't chic at all. How she's judged should be left to other humans!"
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "不測の事態が起こった際には、\n実力行使の許可も出ている",
+        "localizations": {
+          "en": "In the event of resistance, authorization for forceful measures has been granted."
+        }
+      },
+      "2072370017": {
+        "text": "ヤドヴィガ",
+        "localizations": {
+          "en": "Jadwiga"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "ちょ、ちょっとヤド姉！\n本当に兄弟で戦っちゃうの？",
+        "localizations": {
+          "en": "W-wait, Jadwiga! Are we really going to fight our own siblings?!"
+        }
+      },
+      "2072370017": {
+        "text": "キューン",
+        "localizations": {
+          "en": "Quinn"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "キューン、下がって",
+        "localizations": {
+          "en": "Quinn, stand back."
+        }
+      },
+      "2072370017": {
+        "text": "ヤドヴィガ",
+        "localizations": {
+          "en": "Jadwiga"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "あなたがたであれば、私一人で十分と判断",
+        "localizations": {
+          "en": "Assessment: I alone am sufficient to handle the two of you."
+        }
+      },
+      "2072370017": {
+        "text": "ヤドヴィガ",
+        "localizations": {
+          "en": "Jadwiga"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "ふぅん……言ったね妹め！\u3000やってみるがいいさ！\nやれるものならねッ！！",
+        "localizations": {
+          "en": "Oh really now, little sister?! Go ahead and try it then! If you think you can!!"
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  }
+]

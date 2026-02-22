@@ -1110,10 +1110,10 @@ namespace AtelierResleriana.Localization.Utilities
                 レスレリ学園 - Resleriana Academy
                 クリエイター - Creator
                 錬金党 - Alchemist
-                無数島群域 - Nova (when used as a character tag or when referring to a character with a tag, otherwise Infinite Island Chain)
+                無数島群域 - Infinite Island Chain
                 冥き追憶 - Dark Memories
                 ハルフェン復興隊 - Hallfein Restoration Project
-                新星 - Rising Star (when used as a character tag, so as to not confuse it with Nova the location)
+                新星 - Rising Star (when used as a character tag, so as to avoid confusion with Nova the location)
                 ブラオール - Braulle
 
                 Gacha (Wish):

@@ -2526,8 +2526,8 @@
   },
   {
     "id": 600000651,
-    "description": "For each ally with the Nova tag, boosts battle item damage by 200%. (MAX 3000%)",
-    "name": "Nova Item Damage Up"
+    "description": "For each ally with the Infinite Island Chain tag, boosts battle item damage by 200%. (MAX 3000%)",
+    "name": "Infinite Island Chain Item Damage Up"
   },
   {
     "id": 600000652,
@@ -7736,13 +7736,13 @@
   },
   {
     "id": 600000732,
-    "description": "Boosts Resna (Venus Nova)'s positive effect potency granted by 150%.",
-    "name": "Resna (Venus Nova) Positive Effect Potency Up"
+    "description": "Boosts Resna [Venus Nova]'s positive effect potency granted by 150%.",
+    "name": "Resna [Venus Nova] Positive Effect Potency Up"
   },
   {
     "id": 600000733,
-    "description": "When Marie Rose (Twinkle Rose) or Resna (Venus Nova) is in the party, reduces damage received by 25% (up to 25%).",
-    "name": "Marie Rose (Twinkle Rose) or Resna (Venus Nova) Party Damage Reduction"
+    "description": "When Marie Rose [Twinkle Rose] or Resna [Venus Nova] is in the party, reduces damage received by 25% (up to 25%).",
+    "name": "Marie Rose [Twinkle Rose] or Resna [Venus Nova] Party Damage Reduction"
   },
   {
     "id": 301277,
@@ -12631,7 +12631,7 @@
   },
   {
     "id": 1990528,
-    "description": "Boosts positive effect potency granted by 10-50% based on the number of characters with the Nova tag (higher boost for 1-3 characters).<br><br>After any party member uses a burst skill, grants Burst Gauge Gain +{0}% to all allies with Stab affinity (max 50%).<br>After any party member uses a non-burst skill or uses a battle item, grants P. ATK/M. ATK +{1}% to all allies with the Nova tag (max 150%).<br>*Activates only once even if multiple items are used simultaneously.",
+    "description": "Boosts positive effect potency granted by 10-50% based on the number of characters with the Infinite Island Chain tag (higher boost for 1-3 characters).<br><br>After any party member uses a burst skill, grants Burst Gauge Gain +{0}% to all allies with Stab affinity (max 50%).<br>After any party member uses a non-burst skill or uses a battle item, grants P. ATK/M. ATK +{1}% to all allies with the Infinite Island Chain tag (max 150%).<br>*Activates only once even if multiple items are used simultaneously.",
     "name": "Let's Keep Order Together!"
   },
   {
@@ -12681,7 +12681,7 @@
   },
   {
     "id": 600000784,
-    "description": "When self has the Nova tag, boosts skill power by 100%.",
-    "name": "Skill Power Up When Nova"
+    "description": "When self has the Infinite Island Chain tag, boosts skill power by 100%.",
+    "name": "Skill Power Up When Infinite Island Chain"
   }
 ]

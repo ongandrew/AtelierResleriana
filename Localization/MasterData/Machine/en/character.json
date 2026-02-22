@@ -171,7 +171,7 @@
     "description": "A young girl who serves as a Sacred Knight in the Nova.\nThough not related by blood, she looks up to Alvina as an older sister.\nWhile she maintains a cool and mysterious air, she has a natural side to her and sometimes surprises others with her unexpected actions.",
     "fullname": "Bepp Zimlock",
     "leader_skill": {
-      "description": "Boosts Nova characters' P. ATK and M. ATK by 50%.",
+      "description": "Boosts Infinite Island Chain characters' P. ATK and M. ATK by 50%.",
       "name": "Young Warrior Who Swears Vengeance"
     },
     "name": "Bepp",
@@ -186,7 +186,7 @@
     "description": "The Star Guide of Nova and a secret alchemist.\nAfter meeting an alchemist who arrived on the island, she became deeply involved in alchemy herself. Since pursuing work outside one's divine calling is forbidden in the sacred lands of Nova, she keeps her activities as an alchemist hidden from others.\nQuick-witted and sharp-tongued, she often finds herself getting into clever mischief.",
     "fullname": "Alvina Zimlock",
     "leader_skill": {
-      "description": "Boosts Nova characters' P.ATK and stun damage by 30%",
+      "description": "Boosts Infinite Island Chain characters' P.ATK and stun damage by 30%",
       "name": "Star Guide"
     },
     "name": "Alvina",
@@ -1157,8 +1157,8 @@
     "description": "A fledgling alchemist. She has an extraordinary love and extensive knowledge of alchemy, revealing her inner \"alchemy otaku.\" She gets so excited about alchemy that she tends to speak rapidly. Her dream is to revive the now-defunct practice of alchemy and enrich people's lives.",
     "fullname": "Resna Sternenlicht",
     "leader_skill": {
-      "description": "Boosts Nova characters' skill damage by 40%.",
-      "name": "<Nova> Skill Damage Up"
+      "description": "Boosts Rising Star characters' skill damage by 40%.",
+      "name": "<Rising Star> Skill Damage Up"
     },
     "name": "Resna",
     "overlay_name": "Resna Sternenlicht",
@@ -1173,8 +1173,8 @@
     "description": "An amnesiac warrior. Her combat skills are top-notch, and alongside her partner Heidi, she's handled various odd jobs. Having lost her memories of the past, she lives while searching for answers about her identity. She has a strong-willed personality and speaks bluntly, but when pushed, she can be surprisingly weak-willed. In her private life, her sloppy side tends to show, often causing those around her to fuss over her.",
     "fullname": "Valeria",
     "leader_skill": {
-      "description": "Boosts Nova characters' P.ATK by 25%.",
-      "name": "<Nova> P.ATK Up"
+      "description": "Boosts Rising Star characters' P.ATK by 25%.",
+      "name": "<Rising Star> P.ATK Up"
     },
     "name": "Valeria",
     "overlay_name": "Valeria",
@@ -1189,7 +1189,7 @@
     "description": "An Archipelago Federation inspector trainee. Together with her superior Els, she works to maintain order in the Archipelago Federation. She has a kind personality and tends to trust people too much, but her combat instincts are sharp, and Els has high expectations for her future. Because she sleeps and eats well, she appears particularly worn out when work gets busy.",
     "fullname": "Tiny Rompuy",
     "leader_skill": {
-      "description": "Boosts all allies' P.ATK and M.ATK by 12% for each Nova character in the party.",
+      "description": "Boosts all allies' P.ATK and M.ATK by 12% for each Infinite Island Chain character in the party.",
       "name": "Archipelago Federation Inspector Trainee"
     },
     "name": "Tiny",

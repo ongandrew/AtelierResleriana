@@ -1111,6 +1111,10 @@ namespace AtelierResleriana.Localization.Utilities
                 クリエイター - Creator
                 錬金党 - Alchemist
                 無数島群域 - Nova (when used as a character tag or when referring to a character with a tag, otherwise Infinite Island Chain)
+                冥き追憶 - Dark Memories
+                ハルフェン復興隊 - Hallfein Restoration Project
+                新星 - Rising Star (when used as a character tag, so as to not confuse it with Nova the location)
+                ブラオール - Braulle
 
                 Gacha (Wish):
                 ガチャ - Wish: The term "Wish" is to be used instead of "gacha".
@@ -1155,7 +1159,8 @@ namespace AtelierResleriana.Localization.Utilities
                 自身の位置をアウトレンジに移動 - shifts to the outer range
                 自身の位置をインレンジに移動 - shifts to the inner range
                 自身がバーストパネル獲得時 - when using a burst panel
-
+                
+                NB - Abilities with an ID range of 500000 are global abilities rather than equipment abilities, in this case the templating should be simplified (drop the "While/when equipped to" part, and just make it straightforward such as "Boost critical damage by +{0}% for characters with Fire affinity." or similar).
                 NB - Not all 「」 elements get preserved - those referencing basic mechanics like skill damage and critical damage always get dropped and rewritten. The existing localization prefers to drop the punctuation completely but sometimes keeps double quotes when referring to specific skills or abilities. Prefer to drop them going forwards.
                 NB - For skills with multiple parts, always end the fragments with proper punctuation, usually a period (.).
 

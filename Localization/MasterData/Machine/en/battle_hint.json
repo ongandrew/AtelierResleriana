@@ -2562,5 +2562,73 @@
   {
     "id": 60122033,
     "description": "- When stunned, converts boost-type panels and critical panels into burst panels\n- Heals self and removes status effects\n- Restores own HP and stun gauge"
+  },
+  {
+    "id": 10097038,
+    "description": "- Reduces all enemies' damage dealt when KO'd\n- Boosts all enemies' damage received when KO'd\n- Delays turn\n- Heals allies\n- Hastens own turn"
+  },
+  {
+    "id": 10272035,
+    "description": "- Inflicts Daze\n- Delays turn\n- When an ally is KO'd, hastens own turn and boosts damage dealt and reduces damage received"
+  },
+  {
+    "id": 10273036,
+    "description": "- Inflicts Poison\n- Delays turn\n- Restores all allies' HP and removes negative effects\n- When an ally is KO'd, hastens own turn and boosts damage dealt and reduces damage received"
+  },
+  {
+    "id": 10274034,
+    "description": "- Counters when hit by magical attacks\n- Heals self\n- Removes some of opponent's positive effects"
+  },
+  {
+    "id": 10275032,
+    "description": "- Protection\n- Heals self\n- Grants Damage Immunity to all allies\n- Inflicts Paralysis\n- Reduces own damage received when hit by magical attacks"
+  },
+  {
+    "id": 60016018,
+    "description": "- Heals allies"
+  },
+  {
+    "id": 60018013,
+    "description": "- Heals allies\n- Heals allies when KO'd"
+  },
+  {
+    "id": 60081033,
+    "description": "- Inflicts Provoke\n- Uses powerful attacks\n- Restores own HP and stun gauge with each action"
+  },
+  {
+    "id": 60146016,
+    "description": "- Creates boost+ panels when KO'd\n- Removes opponent's positive effects"
+  },
+  {
+    "id": 60176015,
+    "description": "- When using a boost-type panel, boosts own damage dealt and removes own Damage Dealt Down\n- When using a weaken panel, reduces own damage dealt and removes own Damage Dealt Up\n- Delays turn\n- Hastens all allies' turns"
+  },
+  {
+    "id": 60187017,
+    "description": "- When receiving damage from battle items, reduces own resistance to all elements\n- Reduces negative effect potency received by self\n- Delays turn"
+  },
+  {
+    "id": 60189014,
+    "description": "- Grants self Damage Immunity when an ally is KO'd\n- Delays turn"
+  },
+  {
+    "id": 60201011,
+    "description": "- When stunned, removes own positive effects and grants SPD Up to all opponents\n- Heals self"
+  },
+  {
+    "id": 60272001,
+    "description": "- Inflicts Daze\n- Delays turn\n- Nullifies resistance reduction for all elements except Stab"
+  },
+  {
+    "id": 60272003,
+    "description": "- Inflicts Daze\n- Delays turn\n- When an ally is KO'd, hastens own turn and boosts damage dealt and reduces damage received\n- Nullifies resistance reduction for all elements except Stab"
+  },
+  {
+    "id": 60273002,
+    "description": "- Inflicts Poison\n- Delays turn\n- Restores allies' HP and removes negative effects\n- Nullifies resistance reduction for all elements except Stab"
+  },
+  {
+    "id": 60273004,
+    "description": "- Inflicts Poison\n- Delays turn\n- Restores all allies' HP and removes negative effects\n- When an ally is KO'd, hastens own turn and boosts damage dealt and reduces damage received\n- Nullifies resistance reduction for all elements except Stab"
   }
 ]

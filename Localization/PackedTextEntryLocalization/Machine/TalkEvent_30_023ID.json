@@ -1,0 +1,580 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "着きました！\nまずはここから調べましょう！",
+        "localizations": {
+          "en": "We're here! Let's start investigating this area!"
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "こんな所を？\u3000聞き込みっていうからてっきり\n街の中ですると思ってたわ",
+        "localizations": {
+          "en": "This place? I figured we'd be questioning people in town."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "街での聞き込みも無論行う。だが、まずは現場だ",
+        "localizations": {
+          "en": "We'll conduct interviews in town as well, naturally. But first, we check the scene."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "被害者たちは、この辺りで行方不明になったという\n話なんですけど……",
+        "localizations": {
+          "en": "The victims were reported missing somewhere around here..."
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "この辺りで行方不明つったって……\n砂ばっかりで隠れる場所もないよ？",
+        "localizations": {
+          "en": "Missing around here? There's nothing but sand. Nowhere to hide."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "ここで消えるとするなら砂の中か、\n人に連れ去られたか……",
+        "localizations": {
+          "en": "If they vanished here, they're either buried in the sand or someone took them..."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "砂の中に埋まっちゃってたら、探すのは大変ですね。\nそれに、もしそうだったら、は、はわわわ",
+        "localizations": {
+          "en": "If they're buried in the sand, it'll be really hard to find them. And if that's the case, th-then, oh no..."
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "勝手に青ざめるな。生きている前提で考えろ。\nそうでないと、助けられるものも助けられない",
+        "localizations": {
+          "en": "Don't jump to conclusions. Assume they're alive. Otherwise, you won't be able to save anyone."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "あれ？\u3000あそこ、誰かたむろしてるよ？",
+        "localizations": {
+          "en": "Hm? Is someone hanging around over there?"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "あー……あっちー……",
+        "localizations": {
+          "en": "Ugh... It's so hot..."
+        }
+      },
+      "2072370017": {
+        "text": "アウトローな獣人",
+        "localizations": {
+          "en": "Shady Beastkin"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "すみませーん！\u3000そこで何をされているんですか？",
+        "localizations": {
+          "en": "Excuse me! What are you doing here?"
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "あ？\u3000見て分かんねーのかよ\nなんもしてねーんだよ！",
+        "localizations": {
+          "en": "Hah? Can't you tell just by lookin'? Nothin'!"
+        }
+      },
+      "2072370017": {
+        "text": "アウトローな獣人",
+        "localizations": {
+          "en": "Shady Beastkin"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "金もなくなっちまったから店にもいられねえし、\nまた稼がなきゃいけねえや……",
+        "localizations": {
+          "en": "I'm outta cash, so I can't even hang at a bar. Gotta figure out how to earn some more..."
+        }
+      },
+      "2072370017": {
+        "text": "アウトローな獣人",
+        "localizations": {
+          "en": "Shady Beastkin"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "稼ぐって……まさか良からぬことを\n生業としていますか！？",
+        "localizations": {
+          "en": "Earn? Don't tell me you're involved in something illegal!"
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "はぁ？\u3000んなわけねーだろ！\u3000なんて失礼な奴だ。\n何様なんだよ。名を名乗れ名を",
+        "localizations": {
+          "en": "Huh? Course not! What a rude thing to say. Who do you think you are? Give me your name."
+        }
+      },
+      "2072370017": {
+        "text": "アウトローな獣人",
+        "localizations": {
+          "en": "Shady Beastkin"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "申し遅れました！\u3000わたくし、諸島同盟監察局の\nタイニー・ロンパイであります！",
+        "localizations": {
+          "en": "My apologies! I am Tiny Rompuy of the Archipelago Federation Inspector Bureau!"
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "うお",
+        "localizations": {
+          "en": "Whoa!"
+        }
+      },
+      "2072370017": {
+        "text": "アウトローな獣人",
+        "localizations": {
+          "en": "Shady Beastkin"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "同じくエルス・マーティンだ。\n捜査に協力してもらおうか",
+        "localizations": {
+          "en": "Els Martin, likewise. We'll need your cooperation with our investigation."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "ひっ……あ、あの「鋼のエルス」様でしたか！\nも、申し訳ございません！",
+        "localizations": {
+          "en": "Eek! Y-you're the legendary 'Iron Els'?! I-I'm so sorry!"
+        }
+      },
+      "2072370017": {
+        "text": "アウトローな獣人",
+        "localizations": {
+          "en": "Shady Beastkin"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "それで、その稼ぎの当てとはなんだ？",
+        "localizations": {
+          "en": "Now then, what were you planning to do for money?"
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "ベ、ベスティラの闘技場ですよ。\nこの島では拳で稼げるものですから……",
+        "localizations": {
+          "en": "Th-the Bestira arena! On this island, you can earn cash with your fists..."
+        }
+      },
+      "2072370017": {
+        "text": "アウトローな獣人",
+        "localizations": {
+          "en": "Shady Beastkin"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "わーお……聞き込みっていうか\nもはや取り調べだね",
+        "localizations": {
+          "en": "Wow... This isn't so much an interview as an interrogation."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "名前を聞いたら震えあがるあたり、\n知られた人物だねえ",
+        "localizations": {
+          "en": "He's trembling just from hearing her name. She must be quite well-known."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "「鋼のエルス」っていうのは？",
+        "localizations": {
+          "en": "What's this 'Iron Els' thing about?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "犯罪者にも同じ監察官にも、意見を曲げずに\n容赦しないことから付けられたあだ名です",
+        "localizations": {
+          "en": "It's a nickname she earned because she never bends to criminals or fellow inspectors alike, and shows no mercy."
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "ボスはとにかく仕事人間で、手が空くと\n自分から別の仕事を探しに行ってしまうほどで……",
+        "localizations": {
+          "en": "She's such a workaholic that whenever she has free time, she goes looking for more cases to work on..."
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "はー、やり手なんだね。\n上司からの信頼も厚いんだろうなあ",
+        "localizations": {
+          "en": "Huh. Sounds like a real go-getter. Her superiors must trust her completely."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "いや、そいつはどうかな。\nできすぎる部下ってのは煙たがられるもんだよ",
+        "localizations": {
+          "en": "Not necessarily. Subordinates who are too capable can be a headache for their bosses."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "はい、実はイェルカさんの言う通りでして……",
+        "localizations": {
+          "en": "Yes, actually, you're right about that..."
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "上司の皆さんはボスの能力は認めているんですけど、\nボスが出張すると、笑顔になるそうです",
+        "localizations": {
+          "en": "Her superiors recognize her abilities, but apparently they smile whenever she goes on assignment."
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "タイニー、聞き込みをする側が情報を与えているように\n私には見えるんだが？",
+        "localizations": {
+          "en": "Tiny, it appears to me that the interviewer is giving away more information than she's gathering."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "あっ……！\u3000ボ、ボス、もう聞き込みは終わりで？",
+        "localizations": {
+          "en": "Oh! B-Boss, are we done here?"
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "ああ。残念ながら手掛かりはなしだ。\n次の現場に向かうぞ",
+        "localizations": {
+          "en": "Yes. Unfortunately, no leads. We're moving to the next location."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "はっ！\u3000承知いたしました！",
+        "localizations": {
+          "en": "Yes, ma'am! Understood!"
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  }
+]

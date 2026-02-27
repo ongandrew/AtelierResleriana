@@ -1,0 +1,529 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "あれ？\u3000向こうに獣人じゃない方がいますね……\n旅行者でしょうか？",
+        "localizations": {
+          "en": "Huh? There's someone over there who's not a beastkin... A traveler, maybe?"
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "風の向くまま気の向くまま……\nここで出会うのも運命ってやつかもね",
+        "localizations": {
+          "en": "Going where the wind takes me... Running into you here must be fate."
+        }
+      },
+      "2072370017": {
+        "text": "ジョゼ",
+        "localizations": {
+          "en": "José"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "変てこ仮面さん！",
+        "localizations": {
+          "en": "Weird Mask Guy!"
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "お前、なぜベスティラに？",
+        "localizations": {
+          "en": "What are you doing in Bestira?"
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "変てこ仮面さんは砂漠でその仮面、\n暑くないんですか？\u3000確実にムレますよね？",
+        "localizations": {
+          "en": "Doesn't wearing that mask in the desert make you hot? It's gotta be stuffy under there!"
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "フッ……ファッションっていうのは、\n時として我慢が必要なものなんだよ",
+        "localizations": {
+          "en": "Heh... Fashion requires sacrifice sometimes."
+        }
+      },
+      "2072370017": {
+        "text": "ジョゼ",
+        "localizations": {
+          "en": "José"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "おい、話を聞け。タイニーも世間話はいい",
+        "localizations": {
+          "en": "Listen when I'm talking. And Tiny, enough with the small talk."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "相変わらず余裕のない人だねえ……\n賞金稼ぎの俺がここにいる理由は１つだけ",
+        "localizations": {
+          "en": "Relentless as ever... There's only one reason a bounty hunter like me would be here."
+        }
+      },
+      "2072370017": {
+        "text": "ジョゼ",
+        "localizations": {
+          "en": "José"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "悪名高い「ヌルスラの鷹」が、ベスティラに\n入国したというネタを掴んだからだよ",
+        "localizations": {
+          "en": "I caught wind that the infamous 'Hawk of Nurslath' entered Bestira."
+        }
+      },
+      "2072370017": {
+        "text": "ジョゼ",
+        "localizations": {
+          "en": "José"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "「ヌルスラの鷹」……あっ！\n確か、ブラオールの掲示板に載ってた賞金首！",
+        "localizations": {
+          "en": "The 'Hawk of Nurslath'... Oh! That's one of the bounties on the board in Braulle!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "ここに「ヌルスラの鷹」が……！",
+        "localizations": {
+          "en": "The Hawk of Nurslath is here...!"
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "っと、いつになく真剣だね。\nどうしちゃったのさ、タイニー",
+        "localizations": {
+          "en": "Wow, you're unusually serious. What's gotten into you, Tiny?"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "タイニーはその賞金首と同郷……\nヌルスラの出身なんだ",
+        "localizations": {
+          "en": "Tiny is from the same place as that bounty... She's from Nurslath."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "ヌルスラは最後の島とか墓場島とかいわれる所でね。\n様々な理由で行き場を失った者たちの島なのさ",
+        "localizations": {
+          "en": "Nurslath is known as the Last Island, or the Graveyard Isle. It's where people with nowhere else to go end up."
+        }
+      },
+      "2072370017": {
+        "text": "ジョゼ",
+        "localizations": {
+          "en": "José"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "ありとあらゆる犯罪が横行し、平均寿命も最低の魔窟。\n諸島同盟にも未加入……いや、最近加入したか？",
+        "localizations": {
+          "en": "Crime runs rampant, life expectancy is abysmal—a real hellhole. They weren't part of the Federation either... though I think they joined recently?"
+        }
+      },
+      "2072370017": {
+        "text": "ジョゼ",
+        "localizations": {
+          "en": "José"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "はい……だから私は、こうして監察官になれたんです",
+        "localizations": {
+          "en": "Yes... That's why I was able to become an inspector."
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "あー、ごめん。前に変な名前とか言っちゃって……",
+        "localizations": {
+          "en": "Oh, sorry. I said something about your weird name before..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "いえ、いいんです。色々言われるのは慣れてますから。\nでも……ヌルスラにもいい人はいるんです",
+        "localizations": {
+          "en": "No, it's okay. I'm used to people saying things. But... there are good people in Nurslath too."
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "私を助けてくれたお兄ちゃんとか……\n治安だって徐々に良くなってる……",
+        "localizations": {
+          "en": "Like the man who helped me... And things are slowly getting better there..."
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "…………",
+        "localizations": {
+          "en": "..."
+        }
+      },
+      "2072370017": {
+        "text": "ジョゼ",
+        "localizations": {
+          "en": "José"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "それなのに、こういう風に名乗ってる悪い人がいるから\nヌルスラはやっぱり悪い島だ～ってなるんです！",
+        "localizations": {
+          "en": "But when bad people use our island's name like this, everyone just thinks Nurslath is still a terrible place!"
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "あの場所は変わりつつあるんだって示すためにも\n「ヌルスラの鷹」を見つけたら絶対捕まえます！！",
+        "localizations": {
+          "en": "I need to catch the Hawk of Nurslath to prove that things are changing there!"
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "タイニー、気持ちは分かるが本来の目的を忘れるな",
+        "localizations": {
+          "en": "Tiny, I understand how you feel, but don't lose sight of our original objective."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "おっと、競争相手を増やしちゃったかな。\nま、その様子じゃ情報も持ってなさそうだし……",
+        "localizations": {
+          "en": "Oops, looks like I made myself some competition. Well, you clearly don't have any leads yet..."
+        }
+      },
+      "2072370017": {
+        "text": "ジョゼ",
+        "localizations": {
+          "en": "José"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "せいぜい、本来の目的とやらを頑張りなよ。\nあいつの賞金は俺のものだ",
+        "localizations": {
+          "en": "Better focus on that original objective of yours. That bounty's mine."
+        }
+      },
+      "2072370017": {
+        "text": "ジョゼ",
+        "localizations": {
+          "en": "José"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "……獣人の行方不明事件に、時を同じくして\n賞金首の入国……か。捜査に思い込みは禁物だが",
+        "localizations": {
+          "en": "...Missing beastkin and a wanted criminal entering the country at the same time. I shouldn't jump to conclusions, but..."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "なんだか匂うね。\nこの線、繋がってんじゃないの？",
+        "localizations": {
+          "en": "Something smells fishy. You think these cases are connected?"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "そうにしろ、そうじゃないにしろ……\nベスティラ、一筋縄じゃいかなそうな島ね",
+        "localizations": {
+          "en": "Either way... Bestira isn't going to be straightforward, is it?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "ヌルスラ、人攫い……もしかして、あの教団が？\nでも、壊滅したはずじゃ……ざ、残党とか！？",
+        "localizations": {
+          "en": "Nurslath, kidnappings... Could it be that cult? But they were destroyed... U-unless there are remnants!?"
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "だとしたら……なおさら絶対に捕まえなきゃ……！",
+        "localizations": {
+          "en": "If that's the case... I have to catch them no matter what...!"
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "タイニー……",
+        "localizations": {
+          "en": "Tiny..."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  }
+]

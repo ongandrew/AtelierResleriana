@@ -1438,5 +1438,30 @@
     "id": 1239,
     "description": "While equipped to a character with Strike affinity, boosts skill damage from single target attacks by {0}%.<br>While equipped to an Attacker, after attacking, boosts own potency of received buff effects by {1}% for 1 turn.",
     "name": "Sturm Rose"
+  },
+  {
+    "id": 1240,
+    "description": "While equipped to José [Masked Hunter], after using Burst Skill, boosts target's damage received by {0}% for 1 turn.<br>After using Burst Skill, if target is not stunned, further boosts their stun damage received by {1}% for 2 turns.",
+    "name": "Rañatera"
+  },
+  {
+    "id": 1241,
+    "description": "When own HP is 70% or higher, reduces damage received by {0}%. (Fixed)",
+    "name": "Guardian Armor"
+  },
+  {
+    "id": 1242,
+    "description": "When own HP is 70% or higher, reduces damage received by {0}%. (Fixed)",
+    "name": "Guardian Armor"
+  },
+  {
+    "id": 1243,
+    "description": "After attacking, boosts target's damage received by {0}% for 1 attack. (MAX 2 stacks)",
+    "name": "Lightning Rod Pendant"
+  },
+  {
+    "id": 1244,
+    "description": "After attacking, boosts target's damage received by {0}% for 1 attack. (MAX 2 stacks)",
+    "name": "Lightning Rod Pendant"
   }
 ]

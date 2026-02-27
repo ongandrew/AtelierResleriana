@@ -1,0 +1,631 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "姉様、こっちは準備完了",
+        "localizations": {
+          "en": "I'm all set over here, Alvina."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "ん、あんがと。ベップは仕事が速いし正確だし、\nいつも助かるわ～",
+        "localizations": {
+          "en": "Thanks. You're always so quick and precise—really saves me a lot of trouble."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "一家に一台、ベップをよろしく……嘘。\nベップは姉様の元にしか存在しない",
+        "localizations": {
+          "en": "Every household should have a Bepp. Just kidding. There's only one Bepp, and she belongs with Alvina."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "さーて、ベスティラ王曰く、次の「九偉人図」は\nピルッツァ島なんだよね……キノコで有名なとこ",
+        "localizations": {
+          "en": "So, according to the king of Bestira, the next Portrait of the Nine is on Piruzza Island... The place famous for mushrooms."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "諸島同盟に入ってない、ちょっと遠い島だけど……\n姉様、大丈夫？",
+        "localizations": {
+          "en": "It's not part of the Archipelago Federation, and it's pretty far out... Are you going to be okay?"
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "ああ、うん。いけるいける。\nオーベンランドみたいな辺境に行くわけでもないし？",
+        "localizations": {
+          "en": "Yeah, I'll be fine. It's not like we're heading to some remote place like Obenland, right?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "とはいえ、いちいちこんなこと考えてるようじゃ\nまた暗黒の氷海に行くときは厳しいかもなあ",
+        "localizations": {
+          "en": "Though if I'm already worrying about this, the next trip to the Midnight Sea might be rough..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "姉様……",
+        "localizations": {
+          "en": "Alvina..."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "なんてね！\n大丈夫だよ、空き時間を使って色々と模索中だから",
+        "localizations": {
+          "en": "Oh well. Don't worry, I'm using my free time to figure things out."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "アルビーナ、いるか？",
+        "localizations": {
+          "en": "Alvina, are you there?"
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "エルスさん？\nこんな遅くなのにまだ捜査を？",
+        "localizations": {
+          "en": "Els? Still investigating this late at night?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "監察官に休みの時間などない",
+        "localizations": {
+          "en": "An inspector never rests."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "ふわあぁぁ……",
+        "localizations": {
+          "en": "Yaaawwwn..."
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "見事なあくび、島魚を丸呑みできそう",
+        "localizations": {
+          "en": "Impressive yawn. You could swallow an island fish whole."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "まったく……立ち寄ったのは他でもない。\nあの二人について、詳しく話を聞かせてもらいたい",
+        "localizations": {
+          "en": "Honestly... The reason I stopped by is simple. I'd like to hear more details about those two."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "ヤドヴィガとキューンといったな？\nあれはなんだ？\u3000ただ者ではなさすぎるぞ",
+        "localizations": {
+          "en": "Jadwiga and Quinn, was it? What exactly are they? They're far from ordinary."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "アルビーナさんが探している「九偉人図」と関連が\nあるんですよね？",
+        "localizations": {
+          "en": "They're related to the Portraits of the Nine you're looking for, right?"
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "……エルスさん相手にすっとぼけるのは無理だよね。\n分かりました、お話しします",
+        "localizations": {
+          "en": "...I can't play dumb with you, Els. All right, I'll tell you everything."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "人々を導くパルメ族……その配下であるホムンクルス\n九偉人……ヴァレリアやイェルカも同じ存在……",
+        "localizations": {
+          "en": "The Palme, who guide humanity... Their homunculus servants, the Miraculous Nine... Valeria and Jelka are the same kind of beings..."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "情報の洪水です……もう頭がくらくら……",
+        "localizations": {
+          "en": "This is information overload... My head is spinning..."
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "にわかには信じがたいが……その話が真実だとすると\nこれまで諸島同盟であった未解決事件も辻褄が合う……",
+        "localizations": {
+          "en": "It's hard to believe at first... But if what you're saying is true, it would explain several unsolved cases in the Archipelago Federation..."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "指導者の死亡で紛争が終了したあの件も、あの件も……\n九偉人の自称管理によるものと考えると、ぞっとするな",
+        "localizations": {
+          "en": "That conflict that ended when the leader died, and that other incident... If I think of them as the Nine's so-called management, it's a chilling thought."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "タイニーはともかく、エルスさんもすんなり\n信じてくれたのはちょっと意外だったかも",
+        "localizations": {
+          "en": "I'm not surprised about Tiny, but I didn't expect you to accept it so easily, Els."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "アタシが話を聞いた時は、固まっちゃったというか\n",
+        "localizations": {
+          "en": "When I first heard about all this, I kind of froze up."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "実際に彼女らの力を目の当たりにしてしまったら\n信じないわけにもいかないさ",
+        "localizations": {
+          "en": "When you witness their power firsthand, you don't have much choice but to believe it."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "……だが、あの管理とやらは諸島の秩序を乱す行為だ。\n我々の監察下でパルメ族の勝手を許すわけにはいかない",
+        "localizations": {
+          "en": "...However, this management of theirs disrupts the archipelago's order. We can't let the Palme do as they please under our watch."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "我々には我々の秩序がある。\n自分たちの世界は自分たちで良くしていかねばならん",
+        "localizations": {
+          "en": "We have our own sense of order. We must make our world better ourselves."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "おお、さすが。言い切るっすね",
+        "localizations": {
+          "en": "Wow, that's pretty definitive."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "しかし相手は強大だ。こうなるとこちらも\n強力な味方が欲しいな……ジョゼを引き込むか",
+        "localizations": {
+          "en": "But our opponent is formidable. At this point, we'll need powerful allies... Perhaps I should recruit José."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "あの仮面の賞金稼ぎを、ですか？",
+        "localizations": {
+          "en": "That masked bounty hunter?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "ボス、いつも監察官に引き抜こうとして\n断られてるじゃないですか",
+        "localizations": {
+          "en": "Boss, you're always trying to recruit him as an inspector and he keeps turning you down."
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "まあそうだが、今回は事態が事態だ。\n監察官への抜擢ではなく共同戦線という形ならば……",
+        "localizations": {
+          "en": "True, but this situation is different. If I approach him not as a promotion to inspector but as a joint operation..."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "でも、あんな怪しい仮面の人、信頼できるんすか？\nきっとジョゼって名前も偽名っすよ？",
+        "localizations": {
+          "en": "But can you really trust someone in such a sketchy mask? I bet José isn't even his real name."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "まあ、いけ好かない言動で腹が立つことはある。\nだが、腹と同じくらい腕が立つのも確かだ",
+        "localizations": {
+          "en": "His attitude can be irritating, I'll admit. But his skills are just as sharp as my annoyance."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "妙な格好でも、妙な真似をする奴じゃない。\nそれくらいは、調べがついているさ",
+        "localizations": {
+          "en": "Strange appearance aside, he's not the type to pull strange stunts. I've done my research."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "……好評、絶賛",
+        "localizations": {
+          "en": "...High praise indeed."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "尊敬するボスの評価ではあるけど……変てこ仮面さん、\nちゃらんぽらんな人だと思うけどなぁ……",
+        "localizations": {
+          "en": "I respect your judgment, Boss, but... I still think weird mask guy is pretty flaky..."
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  }
+]

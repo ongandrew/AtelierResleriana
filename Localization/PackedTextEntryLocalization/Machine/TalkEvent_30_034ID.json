@@ -1,0 +1,903 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "くたくたぁ……宿への道のりが遠い～……",
+        "localizations": {
+          "en": "Ugh, I'm exhausted... The inn feels so far away right now..."
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "今日は色々あったもんね。\n武道会に賞金首の大捕物……",
+        "localizations": {
+          "en": "We did have a lot going on today. The tournament and then that whole chase after the bounty..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "イザナちゃんはそのどっちも参加したんだもん、\nたくさんお疲れさまだよ",
+        "localizations": {
+          "en": "And you were in both of them, Izana. You really worked hard today."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "えへへ。まあ武道会で全部出し切っちゃって\n賞金首を追いかける時はバテバテだったけど……",
+        "localizations": {
+          "en": "Hehe. Well, I gave it my all at the tournament, so by the time we were chasing that criminal I was totally wiped..."
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "あ、あの！\u3000もしかして武道会に出てた\nイザナ選手ですか？",
+        "localizations": {
+          "en": "E-excuse me! Are you Izana, the fighter from the tournament?"
+        }
+      },
+      "2072370017": {
+        "text": "町娘Ａ",
+        "localizations": {
+          "en": "Girl A"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "え？\u3000あ、うん、そうですけど……",
+        "localizations": {
+          "en": "Huh? Oh, yeah, that's me..."
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "きゃ～！\u3000やっぱりイザナ様だ～！\nハンマーを振るう姿、素敵でした！",
+        "localizations": {
+          "en": "Eek! I knew it! It's Miss Izana! You looked so amazing swinging that hammer!"
+        }
+      },
+      "2072370017": {
+        "text": "町娘Ｂ",
+        "localizations": {
+          "en": "Girl B"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "握手してください！\u3000してくれたら\n手、一生洗いません！",
+        "localizations": {
+          "en": "Can I shake your hand?! If you do, I'll never wash it again!"
+        }
+      },
+      "2072370017": {
+        "text": "町娘Ｃ",
+        "localizations": {
+          "en": "Girl C"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "握手くらい、いいけど……手は洗ってね？",
+        "localizations": {
+          "en": "I don't mind shaking your hand, but... please wash it afterward, okay?"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "あの、あの！\u3000これにサインください！",
+        "localizations": {
+          "en": "Oh, oh! Could you sign this for me?!"
+        }
+      },
+      "2072370017": {
+        "text": "町娘Ａ",
+        "localizations": {
+          "en": "Girl A"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "サイン？\u3000サインなんて……実は考えてあるんだよね。\n騎士団員になった時に練習しといてよかった～",
+        "localizations": {
+          "en": "A signature? Well, I... actually do have one ready. Good thing I practiced for when I'd join the knights!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "うわあ、イザナちゃん大人気だなあ……\n武道会で大活躍だったもんねぇ……",
+        "localizations": {
+          "en": "Wow, Izana's really popular... She was incredible at the tournament, so I guess it makes sense..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "嬢ちゃん、ちょっといい？",
+        "localizations": {
+          "en": "Hey, girl. Got a minute?"
+        }
+      },
+      "2072370017": {
+        "text": "ジョゼ",
+        "localizations": {
+          "en": "José"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "あっ、あなたは……",
+        "localizations": {
+          "en": "Oh, you're..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "ああ、別に襲ったりしない。逆に謝りにきたんだ。\nあの時は急だったんで、我ながら冷静じゃなかった",
+        "localizations": {
+          "en": "Relax, I'm not here to threaten you. Actually, I came to apologize. Things happened so fast earlier that I wasn't thinking straight."
+        }
+      },
+      "2072370017": {
+        "text": "ジョゼ",
+        "localizations": {
+          "en": "José"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "は、はぁ……",
+        "localizations": {
+          "en": "I-I see..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "とはいえ、ここじゃ人目につくな……秘密の話だから、\n悪いけど場所を変えさせてくれないか？",
+        "localizations": {
+          "en": "That said, there are too many eyes here... This is a private matter, so would you mind moving somewhere quieter?"
+        }
+      },
+      "2072370017": {
+        "text": "ジョゼ",
+        "localizations": {
+          "en": "José"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "分かりました。そんなに離れることはできませんが……\nあの、イザナちゃん、私ちょっとジョゼさんと話が",
+        "localizations": {
+          "en": "All right. Though I can't go too far... Um, Izana, I'm going to talk with José for a bit—"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "うん、すぐ駆けつけられる位置にいてね",
+        "localizations": {
+          "en": "Sure, just stay close enough that I can reach you if needed."
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "はい、列になって並んで！\n最後尾の人は手を挙げて～！",
+        "localizations": {
+          "en": "Okay everyone, form a line! If you're at the back, raise your hand!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "さて……改めてになるが。本当にごめんね。\n強い言葉で脅迫して、君を不安にさせちゃった",
+        "localizations": {
+          "en": "So... Let me start over. I'm truly sorry. I scared you with those harsh words earlier."
+        }
+      },
+      "2072370017": {
+        "text": "ジョゼ",
+        "localizations": {
+          "en": "José"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "どうしても正体がバレたら困る相手がいて、\n慌ててあんな心にもないことを口走ってしまったんだ",
+        "localizations": {
+          "en": "There's someone I absolutely can't let find out who I am. I panicked and said things I didn't mean."
+        }
+      },
+      "2072370017": {
+        "text": "ジョゼ",
+        "localizations": {
+          "en": "José"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "そう、だったんですか。\n何か事情があるんだなとは、思っていました",
+        "localizations": {
+          "en": "I see. I figured there had to be some kind of reason."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "この仮面をつけたジョゼの姿は、偽りでね",
+        "localizations": {
+          "en": "This masked persona—José—is a disguise."
+        }
+      },
+      "2072370017": {
+        "text": "ジョゼ",
+        "localizations": {
+          "en": "José"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "本名は……ギヨームですか？",
+        "localizations": {
+          "en": "So your real name is... Guillaume?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "そうだ。俺の本当の名はギヨーム・カスターニュ。\nヌルスラの生まれでね、あの鷹とも顔見知りだったのさ",
+        "localizations": {
+          "en": "That's right. My true name is Guillaume Castagne. I'm from Nurslath, and I used to know the Hawk."
+        }
+      },
+      "2072370017": {
+        "text": "ジョゼ",
+        "localizations": {
+          "en": "José"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "けど、タイニーが来る時に俺の名を呼ばれちゃ\nたまらない。それでつい口を封じちゃったんだよね",
+        "localizations": {
+          "en": "But if he'd called out my name when Tiny was there, it would've been a disaster. That's why I had to silence you."
+        }
+      },
+      "2072370017": {
+        "text": "ジョゼ",
+        "localizations": {
+          "en": "José"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "でもタイニーさん、\nあなたを探しているって話でしたよ？",
+        "localizations": {
+          "en": "But Tiny said she was looking for you, didn't she?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "彼女には正体をバラせないんだ。黙っていてくれないか",
+        "localizations": {
+          "en": "I can't reveal my identity to her. Please, keep this secret."
+        }
+      },
+      "2072370017": {
+        "text": "ジョゼ",
+        "localizations": {
+          "en": "José"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "頼む。レスナ・シュテルネンリヒト",
+        "localizations": {
+          "en": "I implore you, Resna Sternenlicht."
+        }
+      },
+      "2072370017": {
+        "text": "ジョゼ",
+        "localizations": {
+          "en": "José"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "何か事情があるなら、ぜひお力になりたく思います",
+        "localizations": {
+          "en": "If there's a reason behind this, I'd like to help however I can."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "ありがと。でも、過去の話なんだ。\n時間を巻き戻せるなら、ぜひお願いしたいけど",
+        "localizations": {
+          "en": "Thanks. But it's all in the past now. If you could turn back time, I'd definitely take you up on that."
+        }
+      },
+      "2072370017": {
+        "text": "ジョゼ",
+        "localizations": {
+          "en": "José"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "すみません、それは……無理です",
+        "localizations": {
+          "en": "I'm sorry, but that's... impossible."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "だよね。まぁ、詳しい事情については長くなるから、\nどこかで話すよ",
+        "localizations": {
+          "en": "Yeah, I figured. Well, it's a long story, so I'll tell you the details some other time."
+        }
+      },
+      "2072370017": {
+        "text": "ジョゼ",
+        "localizations": {
+          "en": "José"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "彼女が真実を知ってもただ悲しくなるだけなんだ。\nだから、黙っていたい",
+        "localizations": {
+          "en": "If she learned the truth, it would only hurt her. That's why I want to keep quiet."
+        }
+      },
+      "2072370017": {
+        "text": "ジョゼ",
+        "localizations": {
+          "en": "José"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "……分かりました。\nタイニーさんにはジョゼさんのこと、黙っておきます",
+        "localizations": {
+          "en": "...All right. I won't tell Tiny about you."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "ありがとう、感謝する。\n初めからこう頼めばよかった",
+        "localizations": {
+          "en": "Thank you. I appreciate it. Should've just asked nicely from the start."
+        }
+      },
+      "2072370017": {
+        "text": "ジョゼ",
+        "localizations": {
+          "en": "José"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "でも……そんな仮面だけでよくタイニーさんに\n正体がバレませんでしたね？",
+        "localizations": {
+          "en": "But... How did Tiny not recognize you with just that mask?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "いや、この姿で再会した時に０．１秒で聞かれたよ。\nもしかしてギヨームお兄ちゃんかって",
+        "localizations": {
+          "en": "Actually, the first time we met like this, she asked me within 0.1 seconds if I was Guillaume."
+        }
+      },
+      "2072370017": {
+        "text": "ジョゼ",
+        "localizations": {
+          "en": "José"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "それで違うと否定したら信じてしまった。\nあの子は……純粋だから",
+        "localizations": {
+          "en": "When I denied it, she believed me. She's... very trusting."
+        }
+      },
+      "2072370017": {
+        "text": "ジョゼ",
+        "localizations": {
+          "en": "José"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "あ、あはは……",
+        "localizations": {
+          "en": "Ah, ahaha..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "なんだ、珍しい組み合わせだな",
+        "localizations": {
+          "en": "Well, this is an unusual pairing."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "……って、レスナさんと変てこ仮面さん？\nもしかして……",
+        "localizations": {
+          "en": "...Wait, Resna and weird mask guy? Could it be...?"
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 43,
+    "properties": {
+      "999008199": {
+        "text": "ち、ちちち、違いますよ！\n決して秘密の相談ではなくて……",
+        "localizations": {
+          "en": "N-no, no, no! This isn't some secret meeting or anything..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 44,
+    "properties": {
+      "999008199": {
+        "text": "もしかして、二人は恋仲……？",
+        "localizations": {
+          "en": "Are you two... in love?"
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 45,
+    "properties": {
+      "999008199": {
+        "text": "烏白馬角です",
+        "localizations": {
+          "en": "That's preposterous!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 46,
+    "properties": {
+      "999008199": {
+        "text": "意味は分からないけど否定されたことは分かる！",
+        "localizations": {
+          "en": "I don't know what that word means, but I definitely caught the rejection!"
+        }
+      },
+      "2072370017": {
+        "text": "ジョゼ",
+        "localizations": {
+          "en": "José"
+        }
+      }
+    }
+  },
+  {
+    "id": 47,
+    "properties": {
+      "999008199": {
+        "text": "まったく、他の誘拐犯がいないか見回ってるのに\n紛らわしいことをするな。ほら、さっさと宿に帰れ",
+        "localizations": {
+          "en": "Honestly, we're patrolling for any other kidnappers and you're acting suspicious. Now get back to the inn."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 48,
+    "properties": {
+      "999008199": {
+        "text": "はいはい。それじゃ……レスナ、ありがとね",
+        "localizations": {
+          "en": "All right, all right. Well then... Thanks, Resna."
+        }
+      },
+      "2072370017": {
+        "text": "ジョゼ",
+        "localizations": {
+          "en": "José"
+        }
+      }
+    }
+  },
+  {
+    "id": 49,
+    "properties": {
+      "999008199": {
+        "text": "……変てこ仮面さん、私の行く先々で\nちょこちょこ見かけるんですよねえ……変な人です",
+        "localizations": {
+          "en": "...That weird mask guy keeps popping up wherever I go... He's so strange."
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 50,
+    "properties": {
+      "999008199": {
+        "text": "…………",
+        "localizations": {
+          "en": "..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 51,
+    "properties": {
+      "999008199": {
+        "text": "夜の潮風は……染みるなあ",
+        "localizations": {
+          "en": "The night sea breeze... It stings."
+        }
+      },
+      "2072370017": {
+        "text": "ジョゼ",
+        "localizations": {
+          "en": "José"
+        }
+      }
+    }
+  },
+  {
+    "id": 52,
+    "properties": {
+      "999008199": {
+        "text": "タイニー、ごめんな。\n俺はもう、あの頃の俺じゃなくなったんだよ……",
+        "localizations": {
+          "en": "I'm sorry, Tiny. I'm not the same person I was back then..."
+        }
+      },
+      "2072370017": {
+        "text": "ジョゼ",
+        "localizations": {
+          "en": "José"
+        }
+      }
+    }
+  }
+]

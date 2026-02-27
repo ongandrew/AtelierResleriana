@@ -1,0 +1,495 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "着いたぞ。見て分かる通り、ここが――",
+        "localizations": {
+          "en": "We've arrived. As you can see, this is—"
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "ボスがしゃべってる途中なのに、失礼な雷です！",
+        "localizations": {
+          "en": "How rude of that lightning, interrupting the boss mid-sentence!"
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "自然現象に無理言っちゃダメだよ",
+        "localizations": {
+          "en": "You can't exactly blame a force of nature."
+        }
+      },
+      "2072370017": {
+        "text": "ジョゼ",
+        "localizations": {
+          "en": "José"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "『避雷のペンダント』は肌身離さず\n持っていてくださいね？",
+        "localizations": {
+          "en": "Everyone, make sure you keep your Lightning Protection Pendant on you at all times, okay?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "なかなかよい意匠ですこと。\n普段使いしても良さそうですわ",
+        "localizations": {
+          "en": "Quite an elegant design. I could wear this on a daily basis."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "なぁジェロンさん、俺らには綺麗すぎて\nちょっと似合わなそうだ",
+        "localizations": {
+          "en": "Hey Geron, don't these feel a bit too pretty for guys like us?"
+        }
+      },
+      "2072370017": {
+        "text": "ジョゼ",
+        "localizations": {
+          "en": "José"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "そうだな。ティムはともかく……\nだがこれも落雷対策だ、仕方あるまい",
+        "localizations": {
+          "en": "True. Tim aside... But it's for protection against lightning, so we'll just have to deal with it."
+        }
+      },
+      "2072370017": {
+        "text": "ジェロン",
+        "localizations": {
+          "en": "Geron"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "対策しているとはいえ、危険なのは変わりない。\n皆、気を付けて進むように",
+        "localizations": {
+          "en": "Even with countermeasures in place, this is still dangerous. Everyone, proceed with caution."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "おお、うるさいうるさい。\nどうせなら耳栓も用意してくればよかったね",
+        "localizations": {
+          "en": "Ugh, so loud. We should've brought earplugs while we were at it."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "ハイディとジョゼは遊撃隊ね。\n状況を判断して好きに動いてちょうだい",
+        "localizations": {
+          "en": "Heidi and José, you two are our mobile unit. Read the situation and act as you see fit."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "ああ。俺は単独行動に慣れてるしね",
+        "localizations": {
+          "en": "Got it. I'm used to working solo anyway."
+        }
+      },
+      "2072370017": {
+        "text": "ジョゼ",
+        "localizations": {
+          "en": "José"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "私は何かあったときのために船で待機している。\nタイニー、現場は任せたぞ",
+        "localizations": {
+          "en": "I'll stand by at the ship in case something happens. Tiny, the field is yours."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "はっ！\u3000お任せください！\nボスの分まで、しっかり頑張ります！",
+        "localizations": {
+          "en": "Yes ma'am! Leave it to me! I'll work hard enough for both of us!"
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "配置、逆のほうがいい気もするんだけど……",
+        "localizations": {
+          "en": "I feel like those positions should be reversed..."
+        }
+      },
+      "2072370017": {
+        "text": "ジョゼ",
+        "localizations": {
+          "en": "José"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "邪知に長けた罠があるかもしれません。\nどんと構えた方が一人後詰めにいると、心強いので",
+        "localizations": {
+          "en": "There might be cunning traps waiting for us. Having someone with experience in reserve is reassuring."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "経験を活かして、的確に動いてみせよう",
+        "localizations": {
+          "en": "I'll put my experience to good use and act decisively."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "ほら、仮面くん。私たちは別行動だよ",
+        "localizations": {
+          "en": "Come on, mask boy. We're splitting off."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "そういえば雷って、どこに落ちるのかしら",
+        "localizations": {
+          "en": "Come to think of it, where does lightning strike?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "高い所とか、大きな金属に落ちやすいんですよ",
+        "localizations": {
+          "en": "It tends to strike high places and large metal objects."
+        }
+      },
+      "2072370017": {
+        "text": "ティム",
+        "localizations": {
+          "en": "Tim"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "さすがティム、詳しいな",
+        "localizations": {
+          "en": "That's my Tim. You really know your stuff."
+        }
+      },
+      "2072370017": {
+        "text": "ジェロン",
+        "localizations": {
+          "en": "Geron"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "ふーん、じゃあこうしてみたら……",
+        "localizations": {
+          "en": "Hmm, so if I try this..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "ビ、ビビッた……！",
+        "localizations": {
+          "en": "Th-That scared me...!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "ちょっとお前さん、大丈夫かい！？",
+        "localizations": {
+          "en": "Hey, are you okay?!"
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "え、ええ……\n『避雷のペンダント』のおかげね",
+        "localizations": {
+          "en": "Y-Yes... Thanks to the Lightning Protection Pendant."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "実験で効果があるのは確認してるけど、\n実際の雷相手にどれくらい持つか分からないから……",
+        "localizations": {
+          "en": "I've confirmed they work in experiments, but I don't know how long they'll hold up against actual lightning strikes..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "わざと雷を受けるなんて無茶はみんな、\nやめてくださいね？",
+        "localizations": {
+          "en": "So please, everyone, don't do anything reckless like deliberately getting struck by lightning, okay?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "わ、分かったわ……\nごめんなさい",
+        "localizations": {
+          "en": "U-Understood... I'm sorry."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "うちの愚妹が申し訳ない……",
+        "localizations": {
+          "en": "Sorry about my foolish little sister..."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "はぁ、それにしても結局ヘルトと戦うんだもんなぁ。\n……動きに気を付けないと……いざとなれば……",
+        "localizations": {
+          "en": "But man, we're really going to fight Held after all... I'll need to watch my movements... and if push comes to shove..."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  }
+]

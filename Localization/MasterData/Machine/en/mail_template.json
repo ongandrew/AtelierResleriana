@@ -83,5 +83,10 @@
     "id": 49,
     "body": "We are sending you a serial code that can be exchanged for Lodestar Gem x300 and Sacred Orb x1 on the \"KOEI TECMO WebStore.\"\n\n*If you delete this mail, you will not be able to view the serial code. Please do not delete this mail until you have used the code.\n\nExpiration Date: Until 2026/3/31 11:59 (UTC+8)\n\nSerial Code: {serial_code}\n{{open_browser href=clipboard:{serial_code}}}Tap here to copy to clipboard{{/open_browser}}\n\nThe \"KOEI TECMO WebStore\" can be accessed {{open_browser href=https://www.gamecity.ne.jp/atelier/resleriana/ktstore/}}here{{/open_browser}}\n\n*After logging in, you can navigate to the serial code input screen by selecting the three horizontal lines in the upper right → Username on mobile, or by selecting your Username in the upper right on PC.",
     "subject": "\"KOEI TECMO WebStore\" Serial Code"
+  },
+  {
+    "id": 50,
+    "body": "Your Dress Jewels have expired and have been converted to Lodestar Gems.",
+    "subject": "Expired Dress Jewels Converted"
   }
 ]

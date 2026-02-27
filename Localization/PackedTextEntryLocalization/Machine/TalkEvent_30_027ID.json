@@ -1,0 +1,597 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "最後まで残っていた者が勝ちの武道会、か。\n獣人限定ならば、参加できるのは俺とイザナと……",
+        "localizations": {
+          "en": "A free-for-all tournament where the last one standing wins... If it's beastkin only, that means I can enter, along with Izana and..."
+        }
+      },
+      "2072370017": {
+        "text": "ジェロン",
+        "localizations": {
+          "en": "Geron"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "僕もやるよ！\u3000一緒に頑張ろうね、兄さん！",
+        "localizations": {
+          "en": "I'll do it too! Let's both do our best, brother!"
+        }
+      },
+      "2072370017": {
+        "text": "ティム",
+        "localizations": {
+          "en": "Tim"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "最後にティムと俺が残ったら、俺は即降参する",
+        "localizations": {
+          "en": "If it comes down to just you and me at the end, I'm forfeiting immediately."
+        }
+      },
+      "2072370017": {
+        "text": "ジェロン",
+        "localizations": {
+          "en": "Geron"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "あんまり露骨だと、\n観客のみんなががっかりしちゃわないかな",
+        "localizations": {
+          "en": "Won't the audience be disappointed if you make it that obvious?"
+        }
+      },
+      "2072370017": {
+        "text": "ティム",
+        "localizations": {
+          "en": "Tim"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "ティム。お前はなんて優しいんだ",
+        "localizations": {
+          "en": "Tim. You're too kind for your own good."
+        }
+      },
+      "2072370017": {
+        "text": "ジェロン",
+        "localizations": {
+          "en": "Geron"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "ランターナ王国騎士団の強さをお披露目する機会！\nハンマーを磨いて準備しないと！",
+        "localizations": {
+          "en": "This is my chance to show everyone how strong the Lantarna Royal Knights are! I need to polish my hammer and get ready!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "ふふっ、イザナちゃん張り切ってるなぁ。\n私たちも何か力になれないかな？",
+        "localizations": {
+          "en": "Hehe, Izana's really fired up. I wonder if there's anything we can do to help?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "武道会の規定を読んだんだけど、\n武器とか道具を使ってもいいみたいなんだよねえ",
+        "localizations": {
+          "en": "I was reading the tournament rules, and apparently you're allowed to use weapons and items."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "あの国王らしい豪快な取り決めっすわ。\nわりとなんでもありだと思っていい",
+        "localizations": {
+          "en": "Very much in character for that king. I'd say pretty much anything goes."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "道具がありなら、疲れたとき用に\n体力を回復できるものを用意しておこうか",
+        "localizations": {
+          "en": "If items are allowed, maybe I should prepare something to restore stamina when they get tired."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "おお、いいんじゃない？\u3000というか調合した道具を\nごっそり持ち込めば楽に勝てるやも",
+        "localizations": {
+          "en": "Oh, that's a great idea! Actually, if we load them up with synthesized items, they might cruise to victory."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "あはは……でも、裏を返せば相手も道具を使えるって\nことだし、油断はできなさそう。ひとまず回復かぁ……",
+        "localizations": {
+          "en": "Ahaha... But that also means our opponents can use items too, so we can't let our guard down. For now, let's focus on recovery items..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "片手で簡単に食べられて、栄養豊富な携帯食料……\nちょっと考えてみようかな",
+        "localizations": {
+          "en": "Something portable and nutritious that's easy to eat with one hand... I'll give it some thought."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "鍛冶屋でハンマーを鍛える道具も買ったし、\nあとは……クンクン",
+        "localizations": {
+          "en": "I bought some tools at the smithy to work on my hammer, so now I just need to... Sniff sniff."
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "ふわぁ、甘くて美味しそうな匂い……\n腹ごしらえも必要だね。腹が減ってはなんとやら",
+        "localizations": {
+          "en": "Wow, that smells sweet and delicious... I should grab a bite to eat first. Can't fight on an empty stomach, right?"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "そこのかわいいお嬢ちゃん。どうだい？\nとっても甘いはちみつアイス、試食してみないかい",
+        "localizations": {
+          "en": "Hey there, cute little miss. How about it? Want to try a sample of my super sweet honey ice cream?"
+        }
+      },
+      "2072370017": {
+        "text": "アイス売りの女",
+        "localizations": {
+          "en": "Ice Cream Seller"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "ほんと！？\u3000ありがとう！\nいただきまーす！！",
+        "localizations": {
+          "en": "Really?! Thanks! Don't mind if I do!!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "……あまーい！\u3000でも、甘いだけじゃない？\nちょっと苦いのがあって、でもそれが甘さを……",
+        "localizations": {
+          "en": "...So sweet! But wait, it's not just sweet? There's something a little bitter that makes the sweetness..."
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "これ……ヤバ、なんか、きゅうに、ねむ……",
+        "localizations": {
+          "en": "This is... Whoa, suddenly I'm feeling really sleep..."
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "おや、大丈夫かい？\u3000熱中症かねえ。\nほら、うちで休んでおいき……",
+        "localizations": {
+          "en": "Oh my, are you all right? Heatstroke, perhaps? Come on, rest inside for a bit..."
+        }
+      },
+      "2072370017": {
+        "text": "アイス売りの女",
+        "localizations": {
+          "en": "Ice Cream Seller"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "くっ……！\u3000だいじょ、ぶ……",
+        "localizations": {
+          "en": "No...! I'm... fine..."
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "あ、イザナちゃ――どうしたの！？\u3000大丈夫！？",
+        "localizations": {
+          "en": "Izana! What happened?! Are you okay?!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "……チッ",
+        "localizations": {
+          "en": "...Tch."
+        }
+      },
+      "2072370017": {
+        "text": "アイス売りの女",
+        "localizations": {
+          "en": "Ice Cream Seller"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "……ってことがあったんです。\n幸いイザナちゃんは無事でしたけど",
+        "localizations": {
+          "en": "...And that's what happened. Thankfully, Izana's all right."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "ごめん、アタシとしたことが浮かれてた……\nあのアイスに、なんか入ってたんだ",
+        "localizations": {
+          "en": "Sorry, I let my guard down when I should've known better... There was definitely something in that ice cream."
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "私たちが聞き込みに行っている間に\nそんなことになってたなんて……",
+        "localizations": {
+          "en": "I can't believe that happened while we were out gathering information..."
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "そのアイス売りの女、クロだな。\n誘拐の実行犯だ",
+        "localizations": {
+          "en": "That ice cream seller is our culprit. She's the one behind the kidnappings."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "今すぐ逮捕しに行きましょう！",
+        "localizations": {
+          "en": "Let's go arrest her right now!"
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "いや、もう遅い。手口が割れた以上\n相手は二度と同じ手は使わんだろう",
+        "localizations": {
+          "en": "No, it's too late. Now that her method's been exposed, she won't try the same trick twice."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "こっちは武道会で勝ち抜かなきゃいけないのに\n行方不明事件も続いてるんじゃ困っちゃうわね",
+        "localizations": {
+          "en": "We've got our hands full with the tournament, and now these disappearances keep happening too. This is getting troublesome."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "こちらも王宮に捜査の協力を要求したんですけど\nなんだかあんまり反応が良くなくて……",
+        "localizations": {
+          "en": "We requested the royal palace's cooperation with the investigation, but they weren't very receptive..."
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "王のように欲しければ力で奪い取れというお国柄か、\nあるいは……",
+        "localizations": {
+          "en": "Perhaps it's the culture here—take what you want by force like their king suggests. Or maybe..."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "とにかく王宮の支援が期待できない分、\n私がいつもの３倍頑張ります！\u3000むんっ！！",
+        "localizations": {
+          "en": "Either way, since we can't count on help from the palace, I'll just have to work three times as hard! Here we go!!"
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "それじゃあ、私たちは引き続き聞き込みってことね",
+        "localizations": {
+          "en": "Then I suppose we'll continue gathering information on our end."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "はい！\u3000イザナさんの件も気になりますし、\n行方不明事件、テキパキ解決しましょう！",
+        "localizations": {
+          "en": "Yes! I'm concerned about what happened to Izana, so let's solve these disappearances quickly and efficiently!"
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,886 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "砂、砂、砂……どこもかしこも砂まみれ！\n砂漠の国だ！",
+        "localizations": {
+          "en": "Sand, sand, sand... It's everywhere! This place is covered in sand! It's a desert country!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "日差しはキツいけど、思ったより暑くないわね",
+        "localizations": {
+          "en": "The sun's pretty harsh, but it's not as hot as I expected."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "湿度が低いんだと思う。\n気候としては神聖国に近いかな？",
+        "localizations": {
+          "en": "I think it's because the humidity is low. The climate's actually similar to Nova's."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "くんくん……なんかいい匂いがする！\nお肉の焼ける匂い！",
+        "localizations": {
+          "en": "Sniff sniff... Something smells amazing! Like grilled meat!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "陽気な音楽もそこかしこから聞こえてくる……\nなるほど、獣人の楽園と呼ばれる島だけあるな",
+        "localizations": {
+          "en": "And I can hear cheerful music coming from every direction... I see why they call this the beastkin paradise."
+        }
+      },
+      "2072370017": {
+        "text": "ジェロン",
+        "localizations": {
+          "en": "Geron"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "うん、なんていうか……島全体が\nお祭りをしてる感じがする！",
+        "localizations": {
+          "en": "Yeah, it's like... the whole island is having one big festival!"
+        }
+      },
+      "2072370017": {
+        "text": "ティム",
+        "localizations": {
+          "en": "Tim"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "ちょっと砂が多いのが気になるけど、\nなんかここにいるだけで、楽しくなってきちゃう！",
+        "localizations": {
+          "en": "There's a bit too much sand for my liking, but just being here is making me feel excited!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "ふふっ、はしゃぐイザナちゃんもかわいいな",
+        "localizations": {
+          "en": "Hehe, watching you get so excited is pretty adorable, Izana."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "この島の獣人は、角付きも多いのね。\nなんだか親近感覚えちゃうかも",
+        "localizations": {
+          "en": "There are a lot of beastkin with horns on this island. I almost feel a sense of kinship with them."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "享楽的な都というのは分かりました。\nとなると気になるのは……",
+        "localizations": {
+          "en": "I can see this is a city of pleasure. Which brings me to my concern..."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "んだとこらぁ！",
+        "localizations": {
+          "en": "What did you say?!"
+        }
+      },
+      "2072370017": {
+        "text": "獣人Ａ",
+        "localizations": {
+          "en": "Beastkin A"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "やるってのかぁ！！",
+        "localizations": {
+          "en": "You wanna fight?!!"
+        }
+      },
+      "2072370017": {
+        "text": "獣人Ｂ",
+        "localizations": {
+          "en": "Beastkin B"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "……やはり、少々治安がよろしくないようですわね",
+        "localizations": {
+          "en": "...As I suspected, the public order here leaves much to be desired."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "皆さんベスティラへようこそ！\n獣人のお仲間もおりますな、ささ、こちらをどうぞ",
+        "localizations": {
+          "en": "Welcome to Bestira, everyone! I see you have some beastkin companions with you. Please, try this!"
+        }
+      },
+      "2072370017": {
+        "text": "獣人の商人",
+        "localizations": {
+          "en": "Beastkin Merchant"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "おっきいヤシの実！\u3000中身を飲むの？\u3000美味しそう！",
+        "localizations": {
+          "en": "A huge coconut! You drink what's inside? Looks delicious!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "あっ、それは……",
+        "localizations": {
+          "en": "Oh, that's..."
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "なに？\u3000まずいものでも入ってたりするの？",
+        "localizations": {
+          "en": "What? Does it have something bad in it?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "いや。観光客に押し売りで法外な料金を請求する\n悪質な商人がベスティラでは散見されてな",
+        "localizations": {
+          "en": "No. But there are unscrupulous merchants in Bestira who push products on tourists and charge outrageous prices."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "我々監察官も、本腰を入れて撲滅してやろうかと\n思っているんだが――",
+        "localizations": {
+          "en": "We inspectors have been thinking about cracking down on them more seriously—"
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "っ！\u3000しまった、こいつら監察官か！",
+        "localizations": {
+          "en": "Crap! These guys are inspectors!"
+        }
+      },
+      "2072370017": {
+        "text": "獣人の商人",
+        "localizations": {
+          "en": "Beastkin Merchant"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "あ、逃げた",
+        "localizations": {
+          "en": "Ah, he ran away."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "さすが獣人、素早いですね",
+        "localizations": {
+          "en": "Beastkin sure are fast!"
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "追いかける！？\u3000今なら追いつけるって\nハンマーがささやいてる！",
+        "localizations": {
+          "en": "Should we chase him?! My hammer's telling me we can catch him!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "いや、いい。請求の現場を目撃したわけじゃないしな",
+        "localizations": {
+          "en": "No, leave it. We didn't actually witness him trying to charge us."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "あらお兄さん、かっこいい！\nこの後お茶しに行かない？",
+        "localizations": {
+          "en": "Oh my, aren't you handsome! Want to get tea with me after this?"
+        }
+      },
+      "2072370017": {
+        "text": "獣人のお姉さんＡ",
+        "localizations": {
+          "en": "Beastkin Lady A"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "むぅ、その……困る。\n好意はありがたいが……",
+        "localizations": {
+          "en": "Uh, that's... I'm not really... I appreciate the offer, but..."
+        }
+      },
+      "2072370017": {
+        "text": "ジェロン",
+        "localizations": {
+          "en": "Geron"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "そちらの坊やもかわいいわね。\n食べちゃいたいくらい♪",
+        "localizations": {
+          "en": "And this little one is so cute! I could just eat you up! ♪"
+        }
+      },
+      "2072370017": {
+        "text": "獣人のお姉さんＢ",
+        "localizations": {
+          "en": "Beastkin Lady B"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "あ、あああ、あの、そのっ……",
+        "localizations": {
+          "en": "U-uh, um, I, uh..."
+        }
+      },
+      "2072370017": {
+        "text": "ティム",
+        "localizations": {
+          "en": "Tim"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "ティムを食べるだと……？\nそれ以上近づいてみろ。ただじゃおかないぞ",
+        "localizations": {
+          "en": "Eat Tim...? Take one more step and you'll regret it."
+        }
+      },
+      "2072370017": {
+        "text": "ジェロン",
+        "localizations": {
+          "en": "Geron"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "あなたがた、わたくしの連れに何かご用でして？",
+        "localizations": {
+          "en": "Excuse me, ladies. Do you have business with my companions?"
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "うっ……負けた",
+        "localizations": {
+          "en": "Ugh... We don't stand a chance."
+        }
+      },
+      "2072370017": {
+        "text": "獣人のお姉さんＡ",
+        "localizations": {
+          "en": "Beastkin Lady A"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "いいオトコだと思ったのにお手付き済かぁ……",
+        "localizations": {
+          "en": "And here I thought I found a good man, but he's already taken..."
+        }
+      },
+      "2072370017": {
+        "text": "獣人のお姉さんＢ",
+        "localizations": {
+          "en": "Beastkin Lady B"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "ララ、助かった。\n何やら誤解された気もするが……",
+        "localizations": {
+          "en": "Thanks for the help, Lara. Though I feel like there's been some kind of misunderstanding..."
+        }
+      },
+      "2072370017": {
+        "text": "ジェロン",
+        "localizations": {
+          "en": "Geron"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "別にわたくしは構いませんわ。それにしても\nあなたがた兄弟は女性に免疫がございませんのね",
+        "localizations": {
+          "en": "I don't mind at all. But really, you brothers have no immunity to women whatsoever."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "錬金術と、ティムの病気を治すことだけを\n考えていたからな……我ながら、不甲斐ないものだ",
+        "localizations": {
+          "en": "I've only ever focused on alchemy and curing Tim's illness... I'm ashamed of how inadequate I am."
+        }
+      },
+      "2072370017": {
+        "text": "ジェロン",
+        "localizations": {
+          "en": "Geron"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "僕も、家で寝てることが多かったから……\nドキドキしたぁ、いい匂いしてたなぁ……",
+        "localizations": {
+          "en": "I spent most of my time in bed at home, so... My heart was pounding. They smelled really nice..."
+        }
+      },
+      "2072370017": {
+        "text": "ティム",
+        "localizations": {
+          "en": "Tim"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "ベスティラの治安回復も大切だが、目下の任務は別……\n我々は仕事に向かうが、お前たちはどうする？",
+        "localizations": {
+          "en": "Restoring order in Bestira is important, but our immediate mission is different... We're heading to work. What will you do?"
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "えっと、可能ならベスティラの国王陛下と\nお話ししたいのですが……難しいでしょうか？",
+        "localizations": {
+          "en": "Um, if possible, we'd like to speak with the King of Bestira... Would that be difficult?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "諸島同盟監察局のツテってすごいですよ～。\n会談ができないか確認してみますね",
+        "localizations": {
+          "en": "The Archipelago Federation Inspector Bureau has some serious connections! I'll check if we can arrange a meeting for you."
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "……エルス、これから行方不明事件について\n調べに行くのよね",
+        "localizations": {
+          "en": "...Els, you're about to investigate those disappearances, right?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "その通りだ",
+        "localizations": {
+          "en": "Correct."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "ここ最近、若い獣人の娘ばかりが行方不明になる……\nこれは営利誘拐の可能性がある。調査せねばならない",
+        "localizations": {
+          "en": "Recently, young beastkin women have been going missing... This could be a case of kidnapping for profit. We need to investigate."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "私もその調査、手伝わせてほしいんだけど。\n腕前のほどは、航海中に見せた通りよ",
+        "localizations": {
+          "en": "I'd like to help with that investigation. You saw what I can do during our voyage."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 43,
+    "properties": {
+      "999008199": {
+        "text": "（こういった事件には、九偉人が介入してくる可能性が\n\u3000ある。キューンちゃんたちと接触したいんだよね）",
+        "localizations": {
+          "en": "(The Nine might get involved in cases like this. Valeria wants a chance to make contact with Quinn and the others.)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 44,
+    "properties": {
+      "999008199": {
+        "text": "謁見はレスナたちに任せるわ",
+        "localizations": {
+          "en": "I'll leave the royal audience to you, Resna."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 45,
+    "properties": {
+      "999008199": {
+        "text": "うん、分かった。こっちは任せて",
+        "localizations": {
+          "en": "Got it. Leave it to us."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 46,
+    "properties": {
+      "999008199": {
+        "text": "そういうわけで、お願い。\n新入りだと思ってこき使ってくれて構わないから！",
+        "localizations": {
+          "en": "So, please let me help. Feel free to work me like a rookie!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 47,
+    "properties": {
+      "999008199": {
+        "text": "私では顔が割れていて、それが不都合な場合もある。\n協力を得られるのはありがたい。よろしく頼む",
+        "localizations": {
+          "en": "My face is too well-known, which could be inconvenient in certain situations. I'm grateful for the assistance. I'm counting on you."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 48,
+    "properties": {
+      "999008199": {
+        "text": "えへへ、私にも後輩ができるんですね～\nヴァレリアさん、よろしくお願いします！",
+        "localizations": {
+          "en": "Hehe, I'm getting a junior partner! Looking forward to working with you, Valeria!"
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 49,
+    "properties": {
+      "999008199": {
+        "text": "やれやれ、それじゃあ相棒が行くなら……",
+        "localizations": {
+          "en": "Well then, if my partner's going..."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 50,
+    "properties": {
+      "999008199": {
+        "text": "アタシもこっち側さね",
+        "localizations": {
+          "en": "Count me in on this side too."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 51,
+    "properties": {
+      "999008199": {
+        "text": "謁見は私たちにお任せください！\nヴァレリアたちも、聞き込み頑張って！",
+        "localizations": {
+          "en": "Leave the audience to us! Good luck with your investigation, Valeria!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  }
+]

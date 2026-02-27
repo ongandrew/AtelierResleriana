@@ -114,7 +114,7 @@ namespace AtelierResleriana.Localization.Utilities
         - ユリエ・クロッツェ (ユリエ) → Jurie Crotze (Jurie) - Treasure hunter working to pay off debts with her sister Miruca, skilled with twin swords and enjoys reading
         - タイニー・ロンパイ (タイニー) → Tiny Rompuy (Tiny) - Apprentice inspector of the Archipelago Alliance; kind-hearted with sharp instincts but a bit of an airhead.
         - エルス・マーティン (エルス) → Els Martin (Els) - A strict and highly professional inspector for the Archipelago Federation; supervisor to Tiny.
-        - ジョゼ・ダンブロシオ (ジョゼ) → José d'Ambrosio (José) - A mysterious bounty hunter in the Archipelago Federation who often teases Tiny.
+        - ジョゼ・ダンブロシオ (ジョゼ) → José d'Ambrosio (José) - A mysterious bounty hunter in the Archipelago Federation who often teases Tiny. His real identity is Guillaume Castagne.
         - ヘルト → Held - The first of the Miraculous Nine to awaken; powerful and moody.
         - ゼロ → Zero - The second of the Miraculous Nine to awaken; a battle-hungry warrior with a strong will.
         """;
@@ -279,7 +279,9 @@ namespace AtelierResleriana.Localization.Utilities
             { "レプルガルム", "Ripplegharm - An Apexi in the Midnight Sea." },
             { "ホルハーツ", "Holhartz - A location in the Infinite Island Chain." },
             { "ブラオール", "Braulle - A location in the Infinite Island Chain. The capital of the Archipelago Federation." },
-            { "ベスティラへ", "Bestira - A beastkin island in the Infinite Island Chain." }
+            { "ベスティラへ", "Bestira - A beastkin island in the Infinite Island Chain." },
+            { "ヌルスラ", "Nurslath - A poor island location in the Infinite Island Chain. Also known as the Last Island or Graveyard Isle." },
+            { "ピルッツァ島", "Piruzza - An island in the Infinite Island Chain." }
         };
 
         public string Locale { get => "en"; }

@@ -1,0 +1,580 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "暗くなってきたけど……もう夜？",
+        "localizations": {
+          "en": "It's getting dark... Is it already nighttime?"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "私の腹時計はまだ昼だって言ってるけど",
+        "localizations": {
+          "en": "My stomach says it's still midday, though."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "黒い雷雲が空を覆っているんだよ。\n今まで以上に雷が落ちてきそうだね",
+        "localizations": {
+          "en": "No, the sky's covered in black thunderclouds. Looks like we're in for even more lightning strikes than before."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "えっ……ちょ、ちょっと待ってください！\nなんか飛んで来ますよ！？",
+        "localizations": {
+          "en": "Huh? W-Wait a minute! Something's flying this way!"
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "ようやく来たな。お揃いか？",
+        "localizations": {
+          "en": "So you've finally arrived. Is everyone here?"
+        }
+      },
+      "2072370017": {
+        "text": "ヘルト",
+        "localizations": {
+          "en": "Held"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "気を付けろ、来るぞ！",
+        "localizations": {
+          "en": "Watch out, here it comes!"
+        }
+      },
+      "2072370017": {
+        "text": "ジェロン",
+        "localizations": {
+          "en": "Geron"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "そう急くな、せっかくだから俺の話を聞け。\nこの魔物はな、旅先の霊峰で見つけたんだ",
+        "localizations": {
+          "en": "Don't be so hasty. Hear me out first. I found this creature at a sacred mountain during my travels."
+        }
+      },
+      "2072370017": {
+        "text": "ヘルト",
+        "localizations": {
+          "en": "Held"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "危険な大怪鳥だから本当は管理されるべきなんだが、\n今回の趣向に合わせて役立ってもらうことにした",
+        "localizations": {
+          "en": "It's a dangerous raptor that should be properly managed, but I've decided to put it to use for today's entertainment."
+        }
+      },
+      "2072370017": {
+        "text": "ヘルト",
+        "localizations": {
+          "en": "Held"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "こいつが吐く息をくらうとだな、\nなんと身体が石になってしまう。面白いだろう？",
+        "localizations": {
+          "en": "When this thing breathes on you, your body turns to stone. Fascinating, isn't it?"
+        }
+      },
+      "2072370017": {
+        "text": "ヘルト",
+        "localizations": {
+          "en": "Held"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "まったく面白くないよ！\u3000戦うんじゃなかったの！？",
+        "localizations": {
+          "en": "Not fascinating at all! I thought we were supposed to fight you!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "戦いさ。こういうのも戦いの中に含まれてるだろ。\n雷の対策で頭がいっぱいだったかな",
+        "localizations": {
+          "en": "This is part of the fight. Were you so focused on lightning countermeasures that you forgot battles can take many forms?"
+        }
+      },
+      "2072370017": {
+        "text": "ヘルト",
+        "localizations": {
+          "en": "Held"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "わざわざ手のうちを明かすなんて、\n随分と余裕ね？",
+        "localizations": {
+          "en": "How generous of you to reveal your tactics. Feeling confident?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "いやいや、悠長にしているそちらこそ\n余裕があると言わざるを得んな",
+        "localizations": {
+          "en": "Oh no, I'd say you're the ones with confidence to spare, taking your sweet time like this."
+        }
+      },
+      "2072370017": {
+        "text": "ヘルト",
+        "localizations": {
+          "en": "Held"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "空が……雲が落ちてきます！\nな、なにこれ……！？",
+        "localizations": {
+          "en": "The sky... The clouds are falling! Wh-What is this...?!"
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "もしかして、これ、雲じゃなくて……",
+        "localizations": {
+          "en": "Wait, could these not be clouds at all...?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "やられた……！\u3000大怪鳥の息を雲に混ぜて\nすでに吐いておいたとは……！",
+        "localizations": {
+          "en": "We've been had...! It already breathed its petrifying mist into the clouds...!"
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "足が……動きませんわ！\nこのままでは、全身に回って……",
+        "localizations": {
+          "en": "My legs... won't move! At this rate, my whole body will..."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "みんな……！\u3000私は、大丈夫？\nあとは、イェルカとシトリン！！",
+        "localizations": {
+          "en": "Everyone...! I'm okay? And Jelka and Citrine too!!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "僕らはホムンクルスだからね……\nつまり、あの鳥を倒すのは僕らの役割ってこと",
+        "localizations": {
+          "en": "We're homunculi, after all... Which means taking down that bird falls to us."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "それを俺が黙って見ているとでも？",
+        "localizations": {
+          "en": "You think I'll just stand by and watch?"
+        }
+      },
+      "2072370017": {
+        "text": "ヘルト",
+        "localizations": {
+          "en": "Held"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "くっ……！",
+        "localizations": {
+          "en": "Gah...!"
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "人間たちよ、パルメ族の……ひいてはこのヘルトの\n言葉に従うと誓えば助けてやろう",
+        "localizations": {
+          "en": "Humans, swear to obey the words of the Palme—of Held himself—and I'll save you."
+        }
+      },
+      "2072370017": {
+        "text": "ヘルト",
+        "localizations": {
+          "en": "Held"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "ちょっと、やり方が卑怯よ！\u3000陰湿よ！！",
+        "localizations": {
+          "en": "That's dirty! Underhanded!!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "知的と言ってほしいな。まあ、この趣向が分からぬのは\nゼロも一緒だからな。だから別行動にさせたのだが",
+        "localizations": {
+          "en": "I prefer 'clever.' Though Zero wouldn't understand this approach either. That's why I sent her elsewhere."
+        }
+      },
+      "2072370017": {
+        "text": "ヘルト",
+        "localizations": {
+          "en": "Held"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "あいつは戦いの風情も駆け引きもなく、\nただ暴れたいだけだからな……",
+        "localizations": {
+          "en": "She has no appreciation for the artistry of battle or strategic maneuvering... She just lusts for violence."
+        }
+      },
+      "2072370017": {
+        "text": "ヘルト",
+        "localizations": {
+          "en": "Held"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "ぐ……！\u3000動け、俺の身体……！\nまだ、レスナへ恩を返せていない……！",
+        "localizations": {
+          "en": "Urgh...! Move, damn it...! I still haven't repaid Resna...!"
+        }
+      },
+      "2072370017": {
+        "text": "ジェロン",
+        "localizations": {
+          "en": "Geron"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "そうこうしている間に石化は進むぞ？\nさあ、早く命乞いを始めろ！",
+        "localizations": {
+          "en": "The petrification is spreading as we speak. Come now, start begging for your lives!"
+        }
+      },
+      "2072370017": {
+        "text": "ヘルト",
+        "localizations": {
+          "en": "Held"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "俺は、その心を折れればそれでいいんだ。\nそら、言えよ",
+        "localizations": {
+          "en": "All I need is to break your spirits. Go on, say it."
+        }
+      },
+      "2072370017": {
+        "text": "ヘルト",
+        "localizations": {
+          "en": "Held"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "い、嫌だ……！\u3000怖い、けど……！",
+        "localizations": {
+          "en": "N-No...! I'm scared, but...!"
+        }
+      },
+      "2072370017": {
+        "text": "ティム",
+        "localizations": {
+          "en": "Tim"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "邪知暴虐の振る舞いには、屈しません！！\nたとえ、この身が石になっても！！",
+        "localizations": {
+          "en": "We won't bow to your wicked tyranny!! Even if my body turns to stone!!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "ヴァレリア、お願い。\n信じてる",
+        "localizations": {
+          "en": "Valeria, please. I believe in you."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "……！\nええ、任せてっ！！",
+        "localizations": {
+          "en": "...! Yes, leave it to me!!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "レスナーーーッ！！！",
+        "localizations": {
+          "en": "Resnaaa!!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "フッ……フフッ！！！\nハーッハッハッハ！！！",
+        "localizations": {
+          "en": "Heh... Heheh!!! Ah ha ha ha ha!!!"
+        }
+      },
+      "2072370017": {
+        "text": "ヘルト",
+        "localizations": {
+          "en": "Held"
+        }
+      }
+    }
+  }
+]

@@ -14838,5 +14838,275 @@
     "id": 814000051,
     "description": "Ally Count: SPD Down 20%",
     "popup_text": ""
+  },
+  {
+    "id": 500082,
+    "description": "Grants Critical Damage Up to characters with the Braulle tag.",
+    "popup_text": ""
+  },
+  {
+    "id": 500087,
+    "description": "In special battles, grants Critical Damage Up to characters with the Braulle tag.",
+    "popup_text": ""
+  },
+  {
+    "id": 500088,
+    "description": "In special battles, grants Skill Damage Up to characters with Stab affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 500089,
+    "description": "In special battles, grants Critical Damage Up to characters with Stab affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 500090,
+    "description": "In special battles, grants Skill Damage Up to characters with the Dark Memories tag.",
+    "popup_text": ""
+  },
+  {
+    "id": 500091,
+    "description": "In special battles, grants Skill Damage Up to characters with Ice affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 500092,
+    "description": "In special battles, grants Critical Damage Up to characters with Ice affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 500093,
+    "description": "In special battles, grants M.ATK Up to characters with Ice affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 500094,
+    "description": "In special battles, grants Skill Damage Up to characters with Slash affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 500095,
+    "description": "In special battles, grants Critical Damage Up to characters with Slash affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 500096,
+    "description": "In special battles, grants P.ATK Up to characters with Slash affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 500097,
+    "description": "In special battles, grants Skill Damage Up to characters with Strike affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 500098,
+    "description": "In special battles, grants Critical Damage Up to characters with Strike affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 500099,
+    "description": "In special battles, grants P.ATK Up to characters with Strike affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 5000100,
+    "description": "In special battles, grants Skill Damage Up to characters with the Aladiss Research Team tag.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001238,
+    "description": "While equipped to José [Masked Hunter], after using a burst skill, boosts target's damage received by {0}% for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001239,
+    "description": "While equipped to José [Masked Hunter], after using a burst skill, if the target was not stunned, additionally boosts target's stun damage received by {0}% for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001240,
+    "description": "When own HP is 70% or higher, reduces damage received. (Fixed effect value)",
+    "popup_text": ""
+  },
+  {
+    "id": 6001241,
+    "description": "After using a skill, grants Damage Received Up to target for 1 attack. (Max 2 stacks)",
+    "popup_text": ""
+  },
+  {
+    "id": 6001242,
+    "description": "After using a skill, grants Damage Received Up to target for 1 attack. (Max 2 stacks)",
+    "popup_text": ""
+  },
+  {
+    "id": 6001243,
+    "description": "Reduces the enemy with the highest max HP's Ice resistance for 2 attacks.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001244,
+    "description": "Inflicts Sleep on the enemy with the highest max HP for 1 turn with a low chance.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001245,
+    "description": "Reduces the enemy with the highest max HP's Ice resistance for 2 attacks.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001246,
+    "description": "Inflicts Sleep on the enemy with the highest max HP for 1 turn with a low chance.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001247,
+    "description": "Boosts all allies' Stab skill damage by 40% for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 71272004,
+    "description": "When self is the only ally remaining, advances turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 71272005,
+    "description": "When self is the only ally remaining, reduces damage received.",
+    "popup_text": ""
+  },
+  {
+    "id": 71272006,
+    "description": "When self is the only ally remaining, increases damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 71272008,
+    "description": "When self is the only ally remaining, redraws turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 71273005,
+    "description": "When self is the only ally remaining, advances turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 71273009,
+    "description": "When self is the only ally remaining, reduces damage received.",
+    "popup_text": ""
+  },
+  {
+    "id": 71273010,
+    "description": "When self is the only ally remaining, increases damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 71273011,
+    "description": "When self is the only ally remaining, redraws turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 71274001,
+    "description": "Grants self Magical Attack Evasion for 2 times.",
+    "popup_text": ""
+  },
+  {
+    "id": 71274002,
+    "description": "Magic attribute evasion.",
+    "popup_text": ""
+  },
+  {
+    "id": 71274003,
+    "description": "Grants magical attack counter.",
+    "popup_text": ""
+  },
+  {
+    "id": 71275007,
+    "description": "When hit by a magical attack, grants Damage Received Down.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001661,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001662,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001663,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001664,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001665,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001673,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002165,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002166,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002167,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002168,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002203,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000360,
+    "description": "While equipped to a Breaker with Stab affinity, when stunning a target, grants Skill Damage Up to all Attacker allies for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000361,
+    "description": "While equipped to a character with the Energetic tag, boosts negative effect potency.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000883,
+    "description": "Grants Battleship Battle State Change 1.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000884,
+    "description": "Grants Battleship Battle State Change 2.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000885,
+    "description": "Grants Battleship Battle State Change 3.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000886,
+    "description": "Grants Battleship Battle State Change 4.",
+    "popup_text": ""
   }
 ]

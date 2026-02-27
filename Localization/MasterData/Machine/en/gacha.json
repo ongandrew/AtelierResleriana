@@ -5503,5 +5503,89 @@
     "small_banner_label": "Paid Only!",
     "start_at": "2026-02-25T03:00:00Z",
     "step_up_loop_description": ""
+  },
+  {
+    "id": 2358,
+    "description": "José makes his debut & Pick-Up!\nUntil 2026/03/31 11:59 (UTC+8)",
+    "end_at": "2026-03-31T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Mysterious Bounty Hunter José - LEGEND FES",
+    "name": "Mysterious Bounty Hunter José - LEGEND FES",
+    "start_at": "2026-02-27T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2359,
+    "description": "Once per day with Paid Lodestar Gems! 2x Pick-up rate!\nUntil 2026/03/13 11:59 (UTC+8)",
+    "end_at": "2026-03-13T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 23591,
+            "description": "2x Pick-up rate!\n1 Time Left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Mysterious Bounty Hunter José - LEGEND FES [Once Per Day - Paid Lodestar Gems Only]",
+    "name": "Mysterious Bounty Hunter José - LEGEND FES [Once Per Day - Paid Lodestar Gems Only]",
+    "small_banner_label": "Once Per Day!",
+    "start_at": "2026-02-27T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2360,
+    "description": "After 50 Wishes with Paid Lodestar Gems, an additional Wish will appear!\nUntil 2026/03/31 11:59 (UTC+8)",
+    "end_at": "2026-03-31T03:00:00Z",
+    "name": "Mysterious Bounty Hunter José - LEGEND FES [Paid Lodestar Gems Only]",
+    "small_banner_label": "Paid Lodestar Gems Only!",
+    "start_at": "2026-02-27T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 236001,
+    "description": "Max 5 times! 2x pick-up rates!\nGet 16 Medals! Until 2026/03/31 11:59 (UTC+8).",
+    "end_at": "2026-03-31T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10005,
+            "description": "Bonus included!\n{} Times Left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "José the Mysterious Bounty Hunter - LEGEND FES [Paid Lodestar Gems Only]",
+    "name": "José the Mysterious Bounty Hunter - LEGEND FES [Paid Lodestar Gems Only]",
+    "small_banner_label": "Paid Only!",
+    "start_at": "2026-02-27T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 3100000,
+    "description": "[New Outfit Guaranteed at STEP 7!]\n\nSophie's new outfit makes its debut!\nThe new outfit's appearance rate increases with each step!\nUntil 2026/03/31 11:59 (UTC+8)",
+    "end_at": "2026-03-31T03:00:00Z",
+    "name": "Sophie A New Me Outfit Wish",
+    "start_at": "2026-02-27T03:00:00Z",
+    "step_up_loop_description": "{} Loops Left"
   }
 ]

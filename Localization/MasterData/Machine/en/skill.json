@@ -31024,5 +31024,629 @@
     "description": "No additional effects.",
     "name": "Wild Strike",
     "summary": ""
+  },
+  {
+    "id": 32176,
+    "description": "Reduces Ice resistance of 1 enemy with the highest max HP by {0}% for 2 attacks and has a medium chance to inflict Sleep until they act once.",
+    "name": "Soothing Ice",
+    "summary": ""
+  },
+  {
+    "id": 32177,
+    "description": "Reduces Ice resistance of 1 enemy with the highest max HP by {0}% for 2 attacks and has a low chance to inflict Sleep until they act once.",
+    "name": "Soothing Ice",
+    "summary": ""
+  },
+  {
+    "id": 32178,
+    "description": "Restores HP of all allies by 15%. After recovery, boosts Stab skill damage by {0}% for 2 turns.",
+    "name": "Fish Ration",
+    "summary": ""
+  },
+  {
+    "id": 32179,
+    "description": "Restores HP of all allies by 10%. After recovery, boosts Stab skill damage by {0}% for 2 turns.",
+    "name": "Fish Ration",
+    "summary": ""
+  },
+  {
+    "id": 11003617,
+    "description": "Boosts Stun Damage by 10-40% depending on own HP (Higher boost for higher HP, range: 25-100% HP).<br>After attacking, boosts own Stun Damage by {0}% (MAX 40%).",
+    "name": "Detonation",
+    "summary": "Boosts Stun Damage based on own HP.<br>After attacking, boosts own Stun Damage."
+  },
+  {
+    "id": 11003618,
+    "description": "Boosts Stun Damage by 10-40% depending on own HP (Higher boost for higher HP, range: 25-100% HP).<br>After attacking, boosts own Stun Damage by {0}% (MAX 40%).",
+    "name": "Detonation",
+    "summary": "Boosts Stun Damage based on own HP.<br>After attacking, boosts own Stun Damage."
+  },
+  {
+    "id": 11003619,
+    "description": "Boosts Stun Damage by 10-40% depending on own HP (Higher boost for higher HP, range: 25-100% HP).<br>After attacking, boosts own Stun Damage by {0}% (MAX 40%).",
+    "name": "Detonation",
+    "summary": "Boosts Stun Damage based on own HP.<br>After attacking, boosts own Stun Damage."
+  },
+  {
+    "id": 11003620,
+    "description": "Boosts Stun Damage by 10-40% depending on own HP (Higher boost for higher HP, range: 25-100% HP).<br>After attacking, boosts own Stun Damage by {0}% (MAX 40%).",
+    "name": "Detonation",
+    "summary": "Boosts Stun Damage based on own HP.<br>After attacking, boosts own Stun Damage."
+  },
+  {
+    "id": 11003621,
+    "description": "Boosts Stun Damage by 10-40% depending on own HP (Higher boost for higher HP, range: 25-100% HP).<br>After attacking, boosts own Stun Damage by {0}% (MAX 40%).",
+    "name": "Detonation",
+    "summary": "Boosts Stun Damage based on own HP.<br>After attacking, boosts own Stun Damage."
+  },
+  {
+    "id": 12003622,
+    "description": "Boosts Stun Damage by 30-120% depending on own HP (Higher boost for higher HP, range: 25-100% HP).<br>After attacking, boosts target's physical damage received by {0}% for 2 attacks,<br>boosts own Stun Damage by {1}% for 2 turns,<br>boosts critical damage of all allies with Infinite Island Chain by {2}% for 2 turns, and<br>boosts critical damage of all allies with Stab affinity by {3}% for 1 turn.",
+    "name": "Wrist Rain String",
+    "summary": "Boosts Stun Damage based on own HP.<br>After attacking, boosts target's physical damage received.<br>Boosts own Stun Damage.<br>Boosts critical damage of all allies with Infinite Island Chain.<br>Boosts critical damage of all allies with Stab affinity."
+  },
+  {
+    "id": 12003623,
+    "description": "Boosts Stun Damage by 30-120% depending on own HP (Higher boost for higher HP, range: 25-100% HP).<br>After attacking, boosts target's physical damage received by {0}% for 2 attacks,<br>boosts own Stun Damage by {1}% for 2 turns,<br>boosts critical damage of all allies with Infinite Island Chain by {2}% for 2 turns, and<br>boosts critical damage of all allies with Stab affinity by {3}% for 1 turn.",
+    "name": "Wrist Rain String",
+    "summary": "Boosts Stun Damage based on own HP.<br>After attacking, boosts target's physical damage received.<br>Boosts own Stun Damage.<br>Boosts critical damage of all allies with Infinite Island Chain.<br>Boosts critical damage of all allies with Stab affinity."
+  },
+  {
+    "id": 12003624,
+    "description": "Boosts Stun Damage by 30-120% depending on own HP (Higher boost for higher HP, range: 25-100% HP).<br>After attacking, boosts target's physical damage received by {0}% for 2 attacks,<br>boosts own Stun Damage by {1}% for 2 turns,<br>boosts critical damage of all allies with Infinite Island Chain by {2}% for 2 turns, and<br>boosts critical damage of all allies with Stab affinity by {3}% for 1 turn.",
+    "name": "Wrist Rain String",
+    "summary": "Boosts Stun Damage based on own HP.<br>After attacking, boosts target's physical damage received.<br>Boosts own Stun Damage.<br>Boosts critical damage of all allies with Infinite Island Chain.<br>Boosts critical damage of all allies with Stab affinity."
+  },
+  {
+    "id": 12003625,
+    "description": "Boosts Stun Damage by 30-120% depending on own HP (Higher boost for higher HP, range: 25-100% HP).<br>After attacking, boosts target's physical damage received by {0}% for 2 attacks,<br>boosts own Stun Damage by {1}% for 2 turns,<br>boosts critical damage of all allies with Infinite Island Chain by {2}% for 2 turns, and<br>boosts critical damage of all allies with Stab affinity by {3}% for 1 turn.",
+    "name": "Wrist Rain String",
+    "summary": "Boosts Stun Damage based on own HP.<br>After attacking, boosts target's physical damage received.<br>Boosts own Stun Damage.<br>Boosts critical damage of all allies with Infinite Island Chain.<br>Boosts critical damage of all allies with Stab affinity."
+  },
+  {
+    "id": 12003626,
+    "description": "Boosts Stun Damage by 30-120% depending on own HP (Higher boost for higher HP, range: 25-100% HP).<br>After attacking, boosts target's physical damage received by {0}% for 2 attacks,<br>boosts own Stun Damage by {1}% for 2 turns,<br>boosts critical damage of all allies with Infinite Island Chain by {2}% for 2 turns, and<br>boosts critical damage of all allies with Stab affinity by {3}% for 1 turn.",
+    "name": "Wrist Rain String",
+    "summary": "Boosts Stun Damage based on own HP.<br>After attacking, boosts target's physical damage received.<br>Boosts own Stun Damage.<br>Boosts critical damage of all allies with Infinite Island Chain.<br>Boosts critical damage of all allies with Stab affinity."
+  },
+  {
+    "id": 14003627,
+    "description": "Boosts Stun Damage by 50-200% depending on own HP (Higher boost for higher HP, range: 25-100% HP).<br>Before attacking, reduces target's Stab resistance by {0}% for 1 attack.<br>After attacking, boosts target's damage received by {1}% and penetration of attacks received by {2} for 3 attacks,<br>boosts own Stun Damage by {3}% for 2 turns,<br>boosts critical damage of all allies with Infinite Island Chain by {4}% for 2 turns, and<br>boosts critical damage of all allies with Stab affinity by {5}% for 1 turn.",
+    "name": "Hunting Ambush",
+    "summary": "Boosts Stun Damage based on own HP.<br>Before attacking, reduces target's Stab resistance.<br>After attacking, boosts target's damage received and penetration of attacks received.<br>Boosts own Stun Damage.<br>Boosts critical damage of all allies with Infinite Island Chain.<br>Boosts critical damage of all allies with Stab affinity."
+  },
+  {
+    "id": 14003628,
+    "description": "Boosts Stun Damage by 50-200% depending on own HP (Higher boost for higher HP, range: 25-100% HP).<br>Before attacking, reduces target's Stab resistance by {0}% for 1 attack.<br>After attacking, boosts target's damage received by {1}% and penetration of attacks received by {2} for 3 attacks,<br>boosts own Stun Damage by {3}% for 2 turns,<br>boosts critical damage of all allies with Infinite Island Chain by {4}% for 2 turns, and<br>boosts critical damage of all allies with Stab affinity by {5}% for 1 turn.",
+    "name": "Hunting Ambush",
+    "summary": "Boosts Stun Damage based on own HP.<br>Before attacking, reduces target's Stab resistance.<br>After attacking, boosts target's damage received and penetration of attacks received.<br>Boosts own Stun Damage.<br>Boosts critical damage of all allies with Infinite Island Chain.<br>Boosts critical damage of all allies with Stab affinity."
+  },
+  {
+    "id": 14003629,
+    "description": "Boosts Stun Damage by 50-200% depending on own HP (Higher boost for higher HP, range: 25-100% HP).<br>Before attacking, reduces target's Stab resistance by {0}% for 1 attack.<br>After attacking, boosts target's damage received by {1}% and penetration of attacks received by {2} for 3 attacks,<br>boosts own Stun Damage by {3}% for 2 turns,<br>boosts critical damage of all allies with Infinite Island Chain by {4}% for 2 turns, and<br>boosts critical damage of all allies with Stab affinity by {5}% for 1 turn.",
+    "name": "Hunting Ambush",
+    "summary": "Boosts Stun Damage based on own HP.<br>Before attacking, reduces target's Stab resistance.<br>After attacking, boosts target's damage received and penetration of attacks received.<br>Boosts own Stun Damage.<br>Boosts critical damage of all allies with Infinite Island Chain.<br>Boosts critical damage of all allies with Stab affinity."
+  },
+  {
+    "id": 14003630,
+    "description": "Boosts Stun Damage by 50-200% depending on own HP (Higher boost for higher HP, range: 25-100% HP).<br>Before attacking, reduces target's Stab resistance by {0}% for 1 attack.<br>After attacking, boosts target's damage received by {1}% and penetration of attacks received by {2} for 3 attacks,<br>boosts own Stun Damage by {3}% for 2 turns,<br>boosts critical damage of all allies with Infinite Island Chain by {4}% for 2 turns, and<br>boosts critical damage of all allies with Stab affinity by {5}% for 1 turn.",
+    "name": "Hunting Ambush",
+    "summary": "Boosts Stun Damage based on own HP.<br>Before attacking, reduces target's Stab resistance.<br>After attacking, boosts target's damage received and penetration of attacks received.<br>Boosts own Stun Damage.<br>Boosts critical damage of all allies with Infinite Island Chain.<br>Boosts critical damage of all allies with Stab affinity."
+  },
+  {
+    "id": 14003631,
+    "description": "Boosts Stun Damage by 50-200% depending on own HP (Higher boost for higher HP, range: 25-100% HP).<br>Before attacking, reduces target's Stab resistance by {0}% for 1 attack.<br>After attacking, boosts target's damage received by {1}% and penetration of attacks received by {2} for 3 attacks,<br>boosts own Stun Damage by {3}% for 2 turns,<br>boosts critical damage of all allies with Infinite Island Chain by {4}% for 2 turns, and<br>boosts critical damage of all allies with Stab affinity by {5}% for 1 turn.",
+    "name": "Hunting Ambush",
+    "summary": "Boosts Stun Damage based on own HP.<br>Before attacking, reduces target's Stab resistance.<br>After attacking, boosts target's damage received and penetration of attacks received.<br>Boosts own Stun Damage.<br>Boosts critical damage of all allies with Infinite Island Chain.<br>Boosts critical damage of all allies with Stab affinity."
+  },
+  {
+    "id": 22001958,
+    "description": "After attacking, grants all allies Nullify Damage for 2 turns.",
+    "name": "Spiked Iron Ball Toss",
+    "summary": ""
+  },
+  {
+    "id": 22001959,
+    "description": "No effect",
+    "name": "Throw Iron",
+    "summary": ""
+  },
+  {
+    "id": 22001960,
+    "description": "After attacking, inflicts Paralysis on target enemy (100% chance for 2 turns).",
+    "name": "Numb Iron Throw",
+    "summary": ""
+  },
+  {
+    "id": 22001961,
+    "description": "After attacking, reduces own damage received by 35% for 2 turns.",
+    "name": "Rock Throw",
+    "summary": ""
+  },
+  {
+    "id": 22001962,
+    "description": "After attacking, reduces all enemies' SPD by 8% for 2 turns.",
+    "name": "Gravi Stone Throw",
+    "summary": ""
+  },
+  {
+    "id": 22001963,
+    "description": "Restores own HP by 15% and grants self Cover for 3 turns.",
+    "name": "Self-Recovery",
+    "summary": ""
+  },
+  {
+    "id": 22001964,
+    "description": "After attacking, 50% chance to remove positive effects from all enemies 5 times.",
+    "name": "Breeze",
+    "summary": ""
+  },
+  {
+    "id": 22001965,
+    "description": "After attacking, restores own HP by 15%.",
+    "name": "Gnaw Supply",
+    "summary": ""
+  },
+  {
+    "id": 22001966,
+    "description": "After attacking, grants self magical attack evasion (100% for 2 turns).",
+    "name": "Gnaw",
+    "summary": ""
+  },
+  {
+    "id": 22001967,
+    "description": "After attacking, reduces all enemies' M.ATK by 45% for 3 turns.",
+    "name": "Piercing Roar",
+    "summary": ""
+  },
+  {
+    "id": 22001968,
+    "description": "After attacking, reduces all enemies' negative effect potency by 40% for 2 turns.",
+    "name": "Dark Clouds",
+    "summary": ""
+  },
+  {
+    "id": 22001969,
+    "description": "No effect",
+    "name": "Gust Breeze",
+    "summary": ""
+  },
+  {
+    "id": 22001970,
+    "description": "After attacking, boosts own damage dealt by 40% for 2 turns and inflicts Daze on target enemy (100% chance for 1 turn).",
+    "name": "Pungere Saltatio",
+    "summary": ""
+  },
+  {
+    "id": 22001971,
+    "description": "No effect",
+    "name": "Incidere",
+    "summary": ""
+  },
+  {
+    "id": 22001972,
+    "description": "After attacking, delays target enemy's turn by 4.",
+    "name": "Gravis Globus",
+    "summary": ""
+  },
+  {
+    "id": 22001973,
+    "description": "After attacking, reduces own damage received by 35% for 2 turns and stun damage received by 35% for 3 turns.",
+    "name": "Ferrum Ventus",
+    "summary": ""
+  },
+  {
+    "id": 22001974,
+    "description": "After attacking, reduces all enemies' damage dealt by 30% for 2 turns.",
+    "name": "Unda Impactus",
+    "summary": ""
+  },
+  {
+    "id": 22001975,
+    "description": "After attacking, delays target enemy's turn by 4 and reduces positive effect potency received by 35% for 3 turns.",
+    "name": "FATAL MODE: Volatus",
+    "summary": ""
+  },
+  {
+    "id": 22001976,
+    "description": "No effect",
+    "name": "Pulsare",
+    "summary": ""
+  },
+  {
+    "id": 22001977,
+    "description": "After attacking, reduces target enemy's HP recovery received by 30% for 2 turns.",
+    "name": "MODE: Radius",
+    "summary": ""
+  },
+  {
+    "id": 22001978,
+    "description": "After attacking, inflicts 3 stacks of Poison on target enemy (100% chance for 2 turns).",
+    "name": "Magna Venenum",
+    "summary": ""
+  },
+  {
+    "id": 22001979,
+    "description": "After attacking, reduces negative effect potency received by all enemies by 40% for 2 turns.",
+    "name": "MODE: Gradius",
+    "summary": ""
+  },
+  {
+    "id": 22001980,
+    "description": "Restores 10% HP to all allies and removes negative effects.",
+    "name": "Starry Bliss",
+    "summary": ""
+  },
+  {
+    "id": 22001981,
+    "description": "After attacking, grants Poison (2 turns) to target 8 times and Regeneration (5%/2 turns) to self.",
+    "name": "Death Spin",
+    "summary": ""
+  },
+  {
+    "id": 22001982,
+    "description": "No effect.",
+    "name": "Ice Step",
+    "summary": ""
+  },
+  {
+    "id": 22001983,
+    "description": "After attacking, grants Poison (100% chance/2 turns) to target 3 times and Regeneration (5%/2 turns) to self.",
+    "name": "Ice Mist",
+    "summary": ""
+  },
+  {
+    "id": 22001984,
+    "description": "After attacking, converts 1 of target's boost panels to an empty panel.",
+    "name": "Pounding Downpour",
+    "summary": ""
+  },
+  {
+    "id": 22001985,
+    "description": "After attacking, increases target's damage received by 10% for 3 turns.",
+    "name": "Drop Crack",
+    "summary": ""
+  },
+  {
+    "id": 22001986,
+    "description": "After attacking, reduces target's damage dealt by 30% for 3 turns.",
+    "name": "Splash",
+    "summary": ""
+  },
+  {
+    "id": 22001987,
+    "description": "No effect.",
+    "name": "Fall Crash",
+    "summary": ""
+  },
+  {
+    "id": 22001988,
+    "description": "After attacking, boosts own damage dealt by 15% for 3 turns.",
+    "name": "Jump Crash",
+    "summary": ""
+  },
+  {
+    "id": 22001989,
+    "description": "Restores own HP by 15% and reduces damage received by 30% for 3 turns.",
+    "name": "Moist Supply",
+    "summary": ""
+  },
+  {
+    "id": 32004629,
+    "description": "After attacking, boosts own damage dealt by 40% (2 times), reduces stun damage received by 40% (2 times), and reduces damage received by 40% (2 times).",
+    "name": "Needle Blast",
+    "summary": ""
+  },
+  {
+    "id": 32004630,
+    "description": "After attacking, boosts own damage dealt by 30% (2 times) and reduces damage received by 30% (2 times).",
+    "name": "Head Surge",
+    "summary": ""
+  },
+  {
+    "id": 32004631,
+    "description": "After attacking, reduces own damage received by 40% for 1 turn.",
+    "name": "Spin Needle",
+    "summary": ""
+  },
+  {
+    "id": 32004632,
+    "description": "After attacking, restores own HP by 20%.",
+    "name": "Skate Carapace",
+    "summary": ""
+  },
+  {
+    "id": 32004633,
+    "description": "Reduces negative effect potency received by skill target by 40% (2 times) and boosts critical rate by 15% (2 times).",
+    "name": "Shell Field",
+    "summary": ""
+  },
+  {
+    "id": 32004634,
+    "description": "No effect.",
+    "name": "Turtle Head",
+    "summary": ""
+  },
+  {
+    "id": 32004635,
+    "description": "No effect.",
+    "name": "Raging Turtle",
+    "summary": ""
+  },
+  {
+    "id": 32004636,
+    "description": "Grants Provoke (2 turns) to all enemies and reduces own damage received by 35% for 3 turns.",
+    "name": "Shell Sign",
+    "summary": ""
+  },
+  {
+    "id": 32004637,
+    "description": "No effect.",
+    "name": "Rock Cutter",
+    "summary": ""
+  },
+  {
+    "id": 32004638,
+    "description": "No effect.",
+    "name": "Wild Strikes",
+    "summary": ""
+  },
+  {
+    "id": 32004639,
+    "description": "Restores all allies' HP by 30%.",
+    "name": "Heal Powder",
+    "summary": ""
+  },
+  {
+    "id": 32004640,
+    "description": "No effect.",
+    "name": "Lightning Bind",
+    "summary": ""
+  },
+  {
+    "id": 32004641,
+    "description": "No effect.",
+    "name": "Spinning Slash",
+    "summary": ""
+  },
+  {
+    "id": 32004642,
+    "description": "Boosts skill target's damage dealt by 25% for 2 turns.",
+    "name": "Energy Powder",
+    "summary": ""
+  },
+  {
+    "id": 32004643,
+    "description": "Boosts enemy target's damage received by 10% for 3 turns.",
+    "name": "Curse Powder",
+    "summary": ""
+  },
+  {
+    "id": 32004645,
+    "description": "After attacking, delays enemy target's turn by 4 and reduces SPD by 20% for 1 turn.",
+    "name": "Spin Heavy Tackle",
+    "summary": ""
+  },
+  {
+    "id": 32004646,
+    "description": "After attacking, boosts own damage dealt by 35% for 2 turns and reduces own damage received by 30% for 3 turns.",
+    "name": "Power Rolling",
+    "summary": ""
+  },
+  {
+    "id": 32004647,
+    "description": "After attacking, converts self's next panel to a boost panel (excluding burst panels).",
+    "name": "Meteorite Summon",
+    "summary": ""
+  },
+  {
+    "id": 32004648,
+    "description": "After attacking, reduces all enemies' critical damage by 50% for 2 turns.",
+    "name": "Thundercloud Summon",
+    "summary": ""
+  },
+  {
+    "id": 32004649,
+    "description": "Reduces all allies' critical damage received by 30% for 3 turns.",
+    "name": "Full Power Roar",
+    "summary": ""
+  },
+  {
+    "id": 32004650,
+    "description": "After attacking, advances all allies' turns by 2.",
+    "name": "Dimension Collapse",
+    "summary": ""
+  },
+  {
+    "id": 32004651,
+    "description": "After attacking, converts 1 of target's panels to a weaken panel (excluding burst panels).",
+    "name": "Grab Comet",
+    "summary": ""
+  },
+  {
+    "id": 32004652,
+    "description": "No effect.",
+    "name": "Debris Fall",
+    "summary": ""
+  },
+  {
+    "id": 32004653,
+    "description": "After attacking, delays skill target's turn by 2.",
+    "name": "Dizzy Glint",
+    "summary": ""
+  },
+  {
+    "id": 32004654,
+    "description": "After attacking, converts 1 of self's panels to a boost panel (excluding burst panels).",
+    "name": "Chaos Explosion",
+    "summary": ""
+  },
+  {
+    "id": 32004655,
+    "description": "After attacking, converts 1 of skill target's panels to a protection weaken panel.",
+    "name": "Cursed Thunder Breath",
+    "summary": ""
+  },
+  {
+    "id": 32004656,
+    "description": "No effect.",
+    "name": "Thunder Breath",
+    "summary": ""
+  },
+  {
+    "id": 32004657,
+    "description": "After attacking, removes all positive effects from skill target.",
+    "name": "Slash Bite",
+    "summary": ""
+  },
+  {
+    "id": 32004658,
+    "description": "After attacking, reduces all enemies' damage dealt by 15% for 2 turns.",
+    "name": "Thunder Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32004659,
+    "description": "No effects.",
+    "name": "Scatter Slash",
+    "summary": ""
+  },
+  {
+    "id": 32004660,
+    "description": "After attacking, reduces all enemies' positive effect potency by 50% for 3 turns.",
+    "name": "Dark Roar",
+    "summary": ""
+  },
+  {
+    "id": 32004661,
+    "description": "After attacking, grants self nullify negative effects for 2 turns and reduces damage received by 30% for 3 turns.",
+    "name": "Great Heavy Storm",
+    "summary": ""
+  },
+  {
+    "id": 32004662,
+    "description": "No effects.",
+    "name": "Tri-Slash",
+    "summary": ""
+  },
+  {
+    "id": 32004663,
+    "description": "After attacking, increases all enemies' damage received by 15% for 2 turns and reduces M.ATK by 30% for 3 turns.",
+    "name": "Threatening Claw",
+    "summary": ""
+  },
+  {
+    "id": 32004664,
+    "description": "After attacking, delays target's turn by 2 and reduces SPD by 10% for 1 turn.",
+    "name": "Breeze Ribbon",
+    "summary": ""
+  },
+  {
+    "id": 32004665,
+    "description": "After attacking, reduces all enemies' Air resistance by 20 for 2 turns.",
+    "name": "Heavy Storm",
+    "summary": ""
+  },
+  {
+    "id": 32004666,
+    "description": "Grants self damage dealt up by 35% for 2 turns and reduces negative effect potency by 50% for 2 turns.",
+    "name": "Spirit Roar",
+    "summary": ""
+  },
+  {
+    "id": 32004667,
+    "description": "No effects.",
+    "name": "Beckoning Pain",
+    "summary": ""
+  },
+  {
+    "id": 32004668,
+    "description": "No effects.",
+    "name": "Explosive Bloom",
+    "summary": ""
+  },
+  {
+    "id": 32004669,
+    "description": "No effects.",
+    "name": "Chill Release",
+    "summary": ""
+  },
+  {
+    "id": 32004670,
+    "description": "Boosts target ally's damage dealt by 20% for 3 turns and restores HP by 15%.",
+    "name": "Blessed Beckoning",
+    "summary": ""
+  },
+  {
+    "id": 32004671,
+    "description": "Increases target enemy's damage received by 20% for 3 turns and reduces SPD by 15% for 3 turns.",
+    "name": "Cursed Beckoning",
+    "summary": ""
+  },
+  {
+    "id": 32004672,
+    "description": "After attacking, boosts own damage dealt by 25% for 2 turns and inflicts Daze on target enemy for 1 turn (100% chance).",
+    "name": "Pungere Saltatio",
+    "summary": ""
+  },
+  {
+    "id": 32004673,
+    "description": "No effects.",
+    "name": "Incidere",
+    "summary": ""
+  },
+  {
+    "id": 32004674,
+    "description": "After attacking, delays target enemy's turn by 2.",
+    "name": "Gravis Globus",
+    "summary": ""
+  },
+  {
+    "id": 32004675,
+    "description": "After attacking, grants self damage received down by 20% for 2 turns and stun damage received down by 15% for 3 turns.",
+    "name": "Ferrum Ventus",
+    "summary": ""
+  },
+  {
+    "id": 32004676,
+    "description": "After attacking, reduces all enemies' damage dealt by 30% for 2 turns.",
+    "name": "Unda Impactus",
+    "summary": ""
+  },
+  {
+    "id": 32004677,
+    "description": "After attacking, delays target enemy's turn by 2 and reduces positive effect potency by 35% for 3 turns.",
+    "name": "FATAL MODE: Volatus",
+    "summary": ""
+  },
+  {
+    "id": 32004678,
+    "description": "No effects.",
+    "name": "Pulsare",
+    "summary": ""
+  },
+  {
+    "id": 32004679,
+    "description": "After attacking, reduces target's HP recovery by 30% for 2 turns.",
+    "name": "MODE: Radius",
+    "summary": ""
+  },
+  {
+    "id": 32004680,
+    "description": "After attacking, grants target 3 stacks of Poison. (100% chance, 2 times)",
+    "name": "Magna Venenum",
+    "summary": ""
+  },
+  {
+    "id": 32004681,
+    "description": "After attacking, reduces all enemies' negative effect potency by 40% for 2 turns.",
+    "name": "MODE: Gradius",
+    "summary": ""
+  },
+  {
+    "id": 32004682,
+    "description": "Restores all allies' HP by 10% and removes negative effects.",
+    "name": "Starlight Blessing",
+    "summary": ""
   }
 ]

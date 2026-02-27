@@ -398,5 +398,15 @@
     "id": 8103,
     "description": "Unlike regular synthesis, when you create an item in Support Enhancement, Subspace Support is strengthened directly instead of obtaining the item.\nTherefore, traits are not applied.",
     "name": "Support Enhancement"
+  },
+  {
+    "id": 703,
+    "description": "For characters with multiple outfits, you can switch between outfits using the button in the top-left corner.",
+    "name": "Switching Outfits"
+  },
+  {
+    "id": 8201,
+    "description": "When you perform Outfit Synthesis, character outfits or item sets will be drawn based on the provided rates, and you can obtain them.\nSpecial items are required to perform this synthesis.",
+    "name": "Outfit Synthesis"
   }
 ]

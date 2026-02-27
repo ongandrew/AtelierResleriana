@@ -1,0 +1,597 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "お二方とも、お疲れさまです",
+        "localizations": {
+          "en": "Thank you both for your hard work."
+        }
+      },
+      "2072370017": {
+        "text": "監察官",
+        "localizations": {
+          "en": "Inspector"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "お疲れさまです！",
+        "localizations": {
+          "en": "Thank you!"
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "ご苦労。経過報告を聞こう",
+        "localizations": {
+          "en": "Good work. Give me your progress report."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "王妃の逮捕からしばらく経つが……\nベスティラはどうなっている？",
+        "localizations": {
+          "en": "It's been some time since the queen's arrest... How are things in Bestira?"
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "はっ、当初は混乱も見られましたが、\n獣人特有の明るい性格もあり、今や平常運転です",
+        "localizations": {
+          "en": "Yes, ma'am. There was some initial confusion, but thanks to the naturally upbeat nature of the beastkin, everything's back to normal now."
+        }
+      },
+      "2072370017": {
+        "text": "監察官",
+        "localizations": {
+          "en": "Inspector"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "獣人って、いつも前向きですもんねぇ……",
+        "localizations": {
+          "en": "The beastkin are always so positive..."
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "うむ。国王陛下の様子はどうだ？",
+        "localizations": {
+          "en": "Good. How is His Majesty the King?"
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "はい。変わりなく治政と武道会を行っています。\n以前より酒の量が増えたようではありますが……",
+        "localizations": {
+          "en": "He continues his governance and martial arts tournaments as usual. Though it seems he's been drinking more than before..."
+        }
+      },
+      "2072370017": {
+        "text": "監察官",
+        "localizations": {
+          "en": "Inspector"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "責任を感じているのだろう。あとは自分の目で\n確かめてみるとしよう。行くぞ、タイニー",
+        "localizations": {
+          "en": "He must feel responsible. I'll confirm the rest with my own eyes. Let's go, Tiny."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "はい、ボス！",
+        "localizations": {
+          "en": "Yes, Boss!"
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "なんか、バタバタしてますね。\n私たちの監査に慌ててるんでしょうか？",
+        "localizations": {
+          "en": "Things seem pretty chaotic here. Are they panicking because of our inspection?"
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "いや、違う……！\u3000襲撃者だ！",
+        "localizations": {
+          "en": "No, that's not it...! An attacker!"
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "お前、何者だ！\u3000陛下に何をした！！",
+        "localizations": {
+          "en": "Who are you?! What have you done to His Majesty?!"
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "何を？\u3000この国は力こそすべてだと言うから、\n王に対して管理者の力を見せてやったまでだ",
+        "localizations": {
+          "en": "What have I done? This country claims strength is everything, so I merely demonstrated a manager's power to the king."
+        }
+      },
+      "2072370017": {
+        "text": "ヘルト",
+        "localizations": {
+          "en": "Held"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "管理者……？\u3000もしかして……",
+        "localizations": {
+          "en": "Manager...? Wait, could you be..."
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "俺の宣言を受けて、先に手を出したのは王のほうだ。\nまったく、この国は思い上がっているな",
+        "localizations": {
+          "en": "After my declaration, the king was the one who struck first. Honestly, this country is far too arrogant."
+        }
+      },
+      "2072370017": {
+        "text": "ヘルト",
+        "localizations": {
+          "en": "Held"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "だからこそ……俺が「管理」してやるのも\nやぶさかではない、かな",
+        "localizations": {
+          "en": "Which is precisely why... I don't mind 'managing' it myself."
+        }
+      },
+      "2072370017": {
+        "text": "ヘルト",
+        "localizations": {
+          "en": "Held"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "その大上段からの物言い……そうか、お前は\nパルメ族、もしくはその遣いの九偉人だな？",
+        "localizations": {
+          "en": "That condescending tone... So you're one of the Palme, or one of their Nine servants."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "人間の罪は同じ人間が裁く！\n人間の事情に口を挟むな！",
+        "localizations": {
+          "en": "Humans judge their own crimes! Stay out of human affairs!"
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "俺たちのことを知っている……\nそうか、お前らもあの錬金術士の仲間か",
+        "localizations": {
+          "en": "You know about us... Ah, so you're also allies of that alchemist."
+        }
+      },
+      "2072370017": {
+        "text": "ヘルト",
+        "localizations": {
+          "en": "Held"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "あれだけ大口を叩いておいて実際はこの体たらく。\nお前らの「管理」が生ぬるい証ではないのかな",
+        "localizations": {
+          "en": "She talked such a big game, yet look at the actual state of things. Isn't this proof that your management is too lenient?"
+        }
+      },
+      "2072370017": {
+        "text": "ヘルト",
+        "localizations": {
+          "en": "Held"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "大口とか、ちょっと分からないんですけど……\nでも、あなたのやり方がおかしいのは分かります！",
+        "localizations": {
+          "en": "I don't really understand what you mean by 'big game'... But I do know your methods are wrong!"
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "人を管理するとか、そんなのは誰も幸せにならない！\n教え導くのではなく、寄り添うことが必要なんです！",
+        "localizations": {
+          "en": "Managing people like that won't make anyone happy! What's needed isn't control and guidance—it's compassion!"
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "昔、私に寄り添っていつも優しくしてくれた\nお兄ちゃんのように……！",
+        "localizations": {
+          "en": "Like the way my big brother used to be there for me, always kind and caring...!"
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "寄り添うことは否定しないぞ。ただ、力による「管理」\nが必要だ。各地を旅して、それが分かりかけてきた",
+        "localizations": {
+          "en": "I don't deny the value of compassion. But management through power is necessary. I've been traveling these lands, and I'm starting to understand that."
+        }
+      },
+      "2072370017": {
+        "text": "ヘルト",
+        "localizations": {
+          "en": "Held"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "何か良くないことがあれば、\nそれは私たちが法の下に……",
+        "localizations": {
+          "en": "If something goes wrong, we handle it under the law..."
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "そのやり方がぬるかったから、この英雄ヘルト様が\n一肌脱ごうと言っているのさ",
+        "localizations": {
+          "en": "Your methods are too soft. That's why the hero that is I, Held, am graciously lending a hand."
+        }
+      },
+      "2072370017": {
+        "text": "ヘルト",
+        "localizations": {
+          "en": "Held"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "こ、こんな圧、ボスの説教に比べたら……！\nあなたは、間違ってます！！",
+        "localizations": {
+          "en": "T-This pressure, is overwhelming compared to Boss's lectures... But as for you, you're wrong!!"
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "タイニー……",
+        "localizations": {
+          "en": "Tiny..."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "俺の圧を受けて、下がるどころか前に出るとはな……\nやるじゃないか",
+        "localizations": {
+          "en": "Even under my pressure, you step forward instead of backing down... Not bad."
+        }
+      },
+      "2072370017": {
+        "text": "ヘルト",
+        "localizations": {
+          "en": "Held"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "俺は旅の途中だ。まだ見てない地域もある。\nすべてを見聞するまでは、寛容でいてやろう",
+        "localizations": {
+          "en": "I'm in the middle of a journey. There are still regions I haven't seen. Until I've observed everything, I'll be lenient."
+        }
+      },
+      "2072370017": {
+        "text": "ヘルト",
+        "localizations": {
+          "en": "Held"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "じゃあな",
+        "localizations": {
+          "en": "Later."
+        }
+      },
+      "2072370017": {
+        "text": "ヘルト",
+        "localizations": {
+          "en": "Held"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "え、えっと、どうしましょう？\n応援を呼んで……",
+        "localizations": {
+          "en": "U-Um, what should we do? Should we call for backup...?"
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "アルビーナの話からすると数で掛かっても無駄だ。\nそれより今は陛下の手当てを",
+        "localizations": {
+          "en": "Based on what Alvina told us, throwing numbers at him would be pointless. Right now, we need to tend to His Majesty."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "りょ、了解です！",
+        "localizations": {
+          "en": "U-Understood!"
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  }
+]

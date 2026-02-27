@@ -393,5 +393,25 @@
     "id": 1011,
     "description": "Restores 10% HP to all allies. After recovery, restores {0}% HP to the ally with the lowest HP.",
     "name": "Sincere Biscuit"
+  },
+  {
+    "id": 1012,
+    "description": "Reduces the enemy with the highest max HP's Ice resistance by {0}% for 2 attacks and has a moderate chance to inflict Sleep for 1 turn.",
+    "name": "Soothing Ice Cream"
+  },
+  {
+    "id": 1013,
+    "description": "Reduces the enemy with the highest max HP's Ice resistance by {0}% for 2 attacks and has a low chance to inflict Sleep for 1 turn.",
+    "name": "Soothing Ice Cream"
+  },
+  {
+    "id": 1014,
+    "description": "Restores 15% HP to all allies. After recovery, boosts Stab skill damage by {0}% for 2 turns.",
+    "name": "Fish Ration"
+  },
+  {
+    "id": 1015,
+    "description": "Restores 10% HP to all allies. After recovery, boosts Stab skill damage by {0}% for 2 turns.",
+    "name": "Fish Ration"
   }
 ]

@@ -6512,5 +6512,44 @@
   {
     "id": 961,
     "name": "Joy"
+  },
+  {
+    "id": 947,
+    "name": "Standing 2"
+  },
+  {
+    "id": 948,
+    "name": "Standing 3"
+  },
+  {
+    "id": 949,
+    "key_tasks": [
+      {
+        "name": "Unlocked by obtaining a specific motion."
+      }
+    ],
+    "name": "Praying"
+  },
+  {
+    "id": 950,
+    "key_tasks": [
+      {
+        "name": "Unlocked by obtaining a specific motion."
+      }
+    ],
+    "name": "Command"
+  },
+  {
+    "id": 951,
+    "key_tasks": [
+      {
+        "name": "Unlocked by obtaining a specific motion."
+      }
+    ],
+    "name": "Unique Scene"
+  },
+  {
+    "id": 962,
+    "name": "Costume 1 Unique Scene"
   }
 ]

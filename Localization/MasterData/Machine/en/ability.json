@@ -12683,5 +12683,155 @@
     "id": 600000784,
     "description": "When self has the Infinite Island Chain tag, boosts skill power by 100%.",
     "name": "Skill Power Up When Infinite Island Chain"
+  },
+  {
+    "id": 301323,
+    "description": "While equipped to José [Masked Hunter], after using a burst skill, increases target's damage received by {0}% for 1 turn.<br>After using a burst skill, if the target is not stunned, additionally increases target's stun damage received by {1}% for 2 turns.",
+    "name": "Ragnatela"
+  },
+  {
+    "id": 301324,
+    "description": "While own HP is 70% or higher, reduces damage received by {0}% (fixed).",
+    "name": "Guardian's Armor"
+  },
+  {
+    "id": 301325,
+    "description": "While own HP is 70% or higher, reduces damage received by {0}% (fixed).",
+    "name": "Guardian's Armor"
+  },
+  {
+    "id": 301326,
+    "description": "After attacking, increases target's damage received by {0}% for 1 attack (Max 2 stacks).",
+    "name": "Lightning Rod Pendant"
+  },
+  {
+    "id": 301327,
+    "description": "After attacking, increases target's damage received by {0}% for 1 attack (Max 2 stacks).",
+    "name": "Lightning Rod Pendant"
+  },
+  {
+    "id": 500650,
+    "description": "Boosts critical damage by {0}% for characters with Braulle.",
+    "name": ""
+  },
+  {
+    "id": 500653,
+    "description": "Boosts critical damage by {0}% for characters with Braulle.",
+    "name": ""
+  },
+  {
+    "id": 500656,
+    "description": "Boosts critical damage by {0}% for characters with Braulle.",
+    "name": ""
+  },
+  {
+    "id": 500659,
+    "description": "Boosts critical damage by {0}% for characters with Braulle.",
+    "name": ""
+  },
+  {
+    "id": 500662,
+    "description": "Boosts critical damage by {0}% for characters with Braulle.",
+    "name": ""
+  },
+  {
+    "id": 500665,
+    "description": "Boosts critical damage by {0}% for characters with Braulle.",
+    "name": ""
+  },
+  {
+    "id": 500668,
+    "description": "Boosts critical damage by {0}% for characters with Braulle.",
+    "name": ""
+  },
+  {
+    "id": 500671,
+    "description": "Boosts critical damage by {0}% for characters with Braulle.",
+    "name": ""
+  },
+  {
+    "id": 1980237,
+    "description": "Infinite Island Chain characters gain initiative and Critical Damage +50%.",
+    "name": "Mysterious Bounty Hunter"
+  },
+  {
+    "id": 1990529,
+    "description": "Converts own burst skill to a gauge.<br>*Burst gauge can stock up to 2 uses.<br><br>When attack target is stunned, increases own burst gauge by {0}%, restores own HP by {1}%, and restores item gauge by {2}%.<br>When attacking a stunned enemy, increases own burst gauge by {3}%.<br><br>While party has other Infinite Island Chain allies, boosts negative effect potency dealt by all allies in battle by {4}%.",
+    "name": "Mask That Hunts Evil"
+  },
+  {
+    "id": 1990530,
+    "description": "After any party member uses a burst skill, grants all Infinite Island Chain allies Critical Damage +{0}% (Max 200%).<br>After any party member uses a non-burst skill or uses a battle item, grants self Stun Damage +{1}% (Max 200%).<br>*Triggers only once even if multiple items are used simultaneously.",
+    "name": "Aligned Interests, Right?"
+  },
+  {
+    "id": 4991273,
+    "description": "While equipped to a Breaker with Stab affinity, when stunning a target, grants all Attacker allies Skill Damage +{0}% for 1 turn.<br>While equipped to a character with Energetic, boosts negative effect potency dealt by {1}%.",
+    "name": "Imagination \"Curious Mask\""
+  },
+  {
+    "id": 4991274,
+    "description": "While equipped to a Breaker with Stab affinity, when stunning a target, grants all Attacker allies Skill Damage +{0}% for 1 turn.<br>While equipped to a character with Energetic, boosts negative effect potency dealt by {1}%.",
+    "name": "Imagination \"Curious Mask\""
+  },
+  {
+    "id": 4991275,
+    "description": "While equipped to a Breaker with Stab affinity, when stunning a target, grants all Attacker allies Skill Damage +{0}% for 1 turn.<br>While equipped to a character with Energetic, boosts negative effect potency dealt by {1}%.",
+    "name": "Imagination \"Curious Mask\""
+  },
+  {
+    "id": 4991276,
+    "description": "While equipped to a Breaker with Stab affinity, when stunning a target, grants all Attacker allies Skill Damage +{0}% for 1 turn.<br>While equipped to a character with Energetic, boosts negative effect potency dealt by {1}%.",
+    "name": "Imagination \"Curious Mask\""
+  },
+  {
+    "id": 4991277,
+    "description": "While equipped to a Breaker with Stab affinity, when stunning a target, grants all Attacker allies Skill Damage +{0}% for 1 turn.<br>For Energetic characters, boosts negative effect potency granted by {1}%.",
+    "name": "Imagination \"Curious Mask\""
+  },
+  {
+    "id": 21272002,
+    "description": "When self becomes the last character standing, advances own turn by 3, grants self Damage Received Down (30%) and Damage Dealt Up (50%), and redraws action.",
+    "name": ""
+  },
+  {
+    "id": 21273004,
+    "description": "When self becomes the last character standing, advances own turn by 3, grants self Damage Received Down (30%) and Damage Dealt Up (50%), and redraws action.",
+    "name": ""
+  },
+  {
+    "id": 21274001,
+    "description": "Before wave start, grants magical attack counter.",
+    "name": ""
+  },
+  {
+    "id": 21275003,
+    "description": "When hit by a magical attack, grants self Damage Received Down (35% for 3 attacks).",
+    "name": ""
+  },
+  {
+    "id": 26018011,
+    "description": "When self is KO'd, restores allies' HP by 15%.",
+    "name": ""
+  },
+  {
+    "id": 600000785,
+    "description": "When a Breaker character with Stab affinity is assigned to Dimensional Support, their support ability effect is multiplied by 10!",
+    "name": "Battleship Battle Judgment Field Ability"
+  },
+  {
+    "id": 600000786,
+    "description": "When a Breaker character with Ice affinity is assigned to Dimensional Support, their support ability effect is multiplied by 10!",
+    "name": "Battleship Battle Judgment Field Ability"
+  },
+  {
+    "id": 600000787,
+    "description": "When a Defender character with Slash affinity is assigned to Dimensional Support, their support ability effect is multiplied by 10!",
+    "name": "Battleship Battle Judgment Field Ability"
+  },
+  {
+    "id": 600000788,
+    "description": "When a Defender character with Strike affinity is assigned to Dimensional Support, their support ability effect is multiplied by 10!",
+    "name": "Battleship Battle Judgment Field Ability"
   }
 ]

@@ -1463,5 +1463,15 @@
     "id": 1244,
     "description": "After attacking, boosts target's damage received by {0}% for 1 attack. (MAX 2 stacks)",
     "name": "Lightning Rod Pendant"
+  },
+  {
+    "id": 1237,
+    "description": "While equipped to Lara [Lara, Ruler of Her Kingdom], when stunning an enemy with a status effect before using a skill, increases target's damage received by {0}% for 1 turn.",
+    "name": "Dornleschen"
+  },
+  {
+    "id": 1245,
+    "description": "While equipped to Liebe [Miraculous Nine No. 6], grants all allies Reduces damage received by {0}% while a barrier is active (fixed value).",
+    "name": "Steel-Heart Bow That Pierces All Things: Severing Sin"
   }
 ]

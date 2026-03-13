@@ -12833,5 +12833,230 @@
     "id": 600000788,
     "description": "When a Defender character with Strike affinity is assigned to Dimensional Support, their support ability effect is multiplied by 10!",
     "name": "Battleship Battle Judgment Field Ability"
+  },
+  {
+    "id": 301320,
+    "description": "While equipped to Lara [Queen of the Kingdom of Lara], when stunning an enemy with a status effect before using a skill, boosts target's damage received by {0}% for 1 turn.",
+    "name": "Dornreschen"
+  },
+  {
+    "id": 500554,
+    "description": "Boosts critical damage by {0}% for characters with the Dark Memories tag.",
+    "name": ""
+  },
+  {
+    "id": 500560,
+    "description": "Boosts critical damage by {0}% for characters with the Dark Memories tag.",
+    "name": ""
+  },
+  {
+    "id": 500566,
+    "description": "Boosts critical damage by {0}% for characters with the Dark Memories tag.",
+    "name": ""
+  },
+  {
+    "id": 500572,
+    "description": "Boosts critical damage by {0}% for characters with the Dark Memories tag.",
+    "name": ""
+  },
+  {
+    "id": 500578,
+    "description": "Boosts critical damage by {0}% for characters with the Dark Memories tag.",
+    "name": ""
+  },
+  {
+    "id": 500584,
+    "description": "Boosts critical damage by {0}% for characters with the Dark Memories tag.",
+    "name": ""
+  },
+  {
+    "id": 500590,
+    "description": "Boosts critical damage by {0}% for characters with the Dark Memories tag.",
+    "name": ""
+  },
+  {
+    "id": 500596,
+    "description": "Boosts critical damage by {0}% for characters with the Dark Memories tag.",
+    "name": ""
+  },
+  {
+    "id": 1980235,
+    "description": "Lantarna characters gain Skill Damage +100% when the attack target is paralyzed.",
+    "name": "Lady of the Night"
+  },
+  {
+    "id": 1990524,
+    "description": "Converts own Burst Skill to a gauge system.<br>Note: Burst gauge can store up to 2 cycles.<br><br>When attacking a stunned enemy, increases own burst gauge by {0}%.<br>When stunning a target with a status effect before using a skill, increases own burst gauge by {1}% and grants all allies with the Dark Memories tag Critical Rate +{2}% for 1 turn.<br><br>At the start of the 1st turn and when stunning the attack target, grants self Critical Rate +{3}% for 2 turns and grants all enemies Paralysis for 1 turn with very high chance.",
+    "name": "Poison of the Beautiful Rose"
+  },
+  {
+    "id": 1990525,
+    "description": "Boosts own stun damage by 50-250% and all allies with the Dark Memories tag gain Penetration +50-300 depending on number of characters with the Dark Memories tag (Higher boost for more characters, range: 1-5 characters).<br><br>At the start of battle, grants all allies with Ice affinity or the Dark Memories tag the following additional effects:<br>Additional Effect: After a critical attack, grants target Damage Received +{0}% and Stun Damage Received +{1}% (All max 160%).<br>After attacking a target with a status effect before using a skill, grants target Penetration Received +{2} (Max 100).",
+    "name": "Approaching Darkness"
+  },
+  {
+    "id": 4991278,
+    "description": "While equipped to a Breaker with Ice affinity, when stunning, grants skill target Penetration Received +{0} for 1 attack.<br>While equipped to a Creator, after a critical attack, grants target Burst Skill Damage Received +{1}% for 1 turn (Max 2 stacks).",
+    "name": "Imagination \"Embracing Emotion\""
+  },
+  {
+    "id": 4991279,
+    "description": "While equipped to a Breaker with Ice affinity, when stunning, grants skill target Penetration Received +{0} for 1 attack.<br>While equipped to a Creator, after a critical attack, grants target Burst Skill Damage Received +{1}% for 1 turn (Max 2 stacks).",
+    "name": "Imagination \"Embracing Emotion\""
+  },
+  {
+    "id": 4991280,
+    "description": "While equipped to a Breaker with Ice affinity, when stunning, grants skill target Penetration Received +{0} for 1 attack.<br>While equipped to a Creator, after a critical attack, grants target Burst Skill Damage Received +{1}% for 1 turn (Max 2 stacks).",
+    "name": "Imagination \"Embracing Emotion\""
+  },
+  {
+    "id": 4991281,
+    "description": "While equipped to a Breaker with Ice affinity, when stunning, grants skill target Penetration Received +{0} for 1 attack.<br>While equipped to a Creator, after a critical attack, grants target Burst Skill Damage Received +{1}% for 1 turn (Max 2 stacks).",
+    "name": "Imagination \"Embracing Emotion\""
+  },
+  {
+    "id": 4991282,
+    "description": "While equipped to a Breaker with Ice affinity, when stunning, grants skill target Penetration Received +{0} for 1 attack.<br>While equipped to a Creator, after a critical attack, grants target Burst Skill Damage Received +{1}% for 1 turn (Max 2 stacks).",
+    "name": "Imagination \"Embracing Emotion\""
+  },
+  {
+    "id": 26226011,
+    "description": "When hit while HP is at 30% or below, shifts own turn 3 turns earlier. When hit while HP is at 30% or below, redraws turn. Has effect_motion.",
+    "name": ""
+  },
+  {
+    "id": 600000789,
+    "description": "Boosts stun damage by 200% for Lara [Queen of the Kingdom of Lara].",
+    "name": "Lara [Queen of the Kingdom of Lara] Stun Damage Up"
+  },
+  {
+    "id": 600000790,
+    "description": "When deploying Lara [Queen of the Kingdom of Lara] or José [Masked Hunter], reduces damage received by 25% (Max 25%).",
+    "name": "Damage Reduction when deploying Lara [Queen of the Kingdom of Lara] or José [Masked Hunter]"
+  },
+  {
+    "id": 600000791,
+    "description": "Boosts José [Masked Hunter]'s stun damage by 200%.",
+    "name": "José [Masked Hunter] Stun Damage Up"
+  },
+  {
+    "id": 301328,
+    "description": "While equipped to Riebe [Miraculous Nine No. 6], grants all allies damage received reduced by {0}% (fixed value) when a barrier is active.",
+    "name": "All-Piercing Steel-Hearted Bow - Absolution"
+  },
+  {
+    "id": 500555,
+    "description": "Boosts P.ATK and M.ATK by {0}% for characters with Dark Memories tag.",
+    "name": ""
+  },
+  {
+    "id": 500561,
+    "description": "Boosts P.ATK and M.ATK by {0}% for characters with Dark Memories tag.",
+    "name": ""
+  },
+  {
+    "id": 500567,
+    "description": "Boosts P.ATK and M.ATK by {0}% for characters with Dark Memories tag.",
+    "name": ""
+  },
+  {
+    "id": 500573,
+    "description": "Boosts P.ATK and M.ATK by {0}% for characters with Dark Memories tag.",
+    "name": ""
+  },
+  {
+    "id": 500579,
+    "description": "Boosts P.ATK and M.ATK by {0}% for characters with Dark Memories tag.",
+    "name": ""
+  },
+  {
+    "id": 500585,
+    "description": "Boosts P.ATK and M.ATK by {0}% for characters with Dark Memories tag.",
+    "name": ""
+  },
+  {
+    "id": 500591,
+    "description": "Boosts P.ATK and M.ATK by {0}% for characters with Dark Memories tag.",
+    "name": ""
+  },
+  {
+    "id": 500597,
+    "description": "Boosts P.ATK and M.ATK by {0}% for characters with Dark Memories tag.",
+    "name": ""
+  },
+  {
+    "id": 1980238,
+    "description": "Dark Memories characters gain damage received reduced by 25%.",
+    "name": "Freezing Mind"
+  },
+  {
+    "id": 1990531,
+    "description": "Becomes significantly more targeted by enemies.<br>Boosts max HP of all allies with Stab affinity or Dark Memories tag by {0}%.<br>At the start of battle, restores 100% HP to all allies.<br>After using a skill, restores {1}% HP to all allies, and if a barrier was active before using the skill, restores an additional {2}% HP to all allies with barriers.",
+    "name": "Power of the Miraculous Nine -VI-"
+  },
+  {
+    "id": 1990532,
+    "description": "Converts own burst skill to a gauge system.<br>※Burst gauge can store up to 3 uses.<br><br>When receiving attacks, increases own burst gauge by {0}%.<br><br>When own HP falls below 70% or 40%, increases own burst gauge by {1}% (each trigger occurs once per battle).<br>Reduces damage received by 3-30% based on number of positive effects active on self (higher reduction for 1-10 effects) (fixed potency).<br>※Does not include positive effects with no turn limit that activated at the start of battle.<br><br>Boosts base P.DEF and base M.DEF of all Dark Memories allies by 100-500 based on number of Dark Memories characters (higher boost for 1-5 characters).",
+    "name": "Pondering Darkness"
+  },
+  {
+    "id": 4991283,
+    "description": "While equipped to a Defender with Stab affinity, after attacking, grants all allies max HP +{0}% (up to 20%).<br>While equipped to a Diligent character, boosts P.DEF and M.DEF by {1}%.",
+    "name": "Imagination \"How Does It Taste?\""
+  },
+  {
+    "id": 4991284,
+    "description": "While equipped to a Defender with Stab affinity, after attacking, grants all allies max HP +{0}% (up to 20%).<br>While equipped to a Diligent character, boosts P.DEF and M.DEF by {1}%.",
+    "name": "Imagination \"How Does It Taste?\""
+  },
+  {
+    "id": 4991285,
+    "description": "While equipped to a Defender with Stab affinity, after attacking, grants all allies max HP +{0}% (up to 20%).<br>While equipped to a Diligent character, boosts P.DEF and M.DEF by {1}%.",
+    "name": "Imagination \"How Does It Taste?\""
+  },
+  {
+    "id": 4991286,
+    "description": "While equipped to a Defender with Stab affinity, after attacking, grants all allies max HP +{0}% (up to 20%).<br>While equipped to a Diligent character, boosts P.DEF and M.DEF by {1}%.",
+    "name": "Imagination \"How Does It Taste?\""
+  },
+  {
+    "id": 4991287,
+    "description": "While equipped to a Defender with Stab affinity, after attacking, grants all allies max HP +{0}% (up to 20%).<br>While equipped to a Diligent character, boosts P.DEF and M.DEF by {1}%.",
+    "name": "Imagination \"How Does It Taste?\""
+  },
+  {
+    "id": 7000902,
+    "description": "Boosts potency of P.ATK Up and M.ATK Up effects granted to Attackers by {0}%.",
+    "name": "P.ATK/M.ATK Buff Enhancement [A] (1)"
+  },
+  {
+    "id": 7000903,
+    "description": "Boosts potency of P.ATK Up and M.ATK Up effects granted to Attackers by {0}%.",
+    "name": "P.ATK/M.ATK Buff Enhancement [A] (2)"
+  },
+  {
+    "id": 7000904,
+    "description": "Boosts potency of P.ATK Up and M.ATK Up effects granted to Attackers by {0}%.",
+    "name": "P.ATK/M.ATK Buff Enhancement [A] (3)"
+  },
+  {
+    "id": 7000905,
+    "description": "Boosts potency of P.ATK Up and M.ATK Up granted to Attackers by {0}%.",
+    "name": "P.ATK/M.ATK Buff Enhancement [A] (4)"
+  },
+  {
+    "id": 7000906,
+    "description": "Boosts potency of P.ATK Up and M.ATK Up granted to Attackers by {0}%.",
+    "name": "P.ATK/M.ATK Buff Enhancement [A] (5)"
+  },
+  {
+    "id": 600000792,
+    "description": "Reduces damage received by Liebe [Miraculous Nine No. 6] by 20%.",
+    "name": "Liebe [Miraculous Nine No. 6] Damage Received Down"
+  },
+  {
+    "id": 600000793,
+    "description": "When Liebe [Miraculous Nine No. 6] or Lala [King of the Kingdom of Lara] is in the party, reduces damage received by 25%. (MAX 25%)",
+    "name": "Damage Reduction when Liebe [Miraculous Nine No. 6] or Lala [King of the Kingdom of Lara] in Party"
   }
 ]

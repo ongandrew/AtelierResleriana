@@ -6551,5 +6551,66 @@
   {
     "id": 962,
     "name": "Costume 1 Unique Scene"
+  },
+  {
+    "id": 938,
+    "name": "Standing 2"
+  },
+  {
+    "id": 939,
+    "name": "Conversation"
+  },
+  {
+    "id": 940,
+    "key_tasks": [
+      {
+        "name": "Unlocked by obtaining specific motions"
+      }
+    ],
+    "name": "Refusal"
+  },
+  {
+    "id": 941,
+    "key_tasks": [
+      {
+        "name": "Unlocked by obtaining specific motions"
+      }
+    ],
+    "name": "Command"
+  },
+  {
+    "id": 963,
+    "name": "Standing 2"
+  },
+  {
+    "id": 964,
+    "name": "Standing 3"
+  },
+  {
+    "id": 965,
+    "key_tasks": [
+      {
+        "name": "Unlocked by obtaining specific motions"
+      }
+    ],
+    "name": "Hand on Hip"
+  },
+  {
+    "id": 966,
+    "key_tasks": [
+      {
+        "name": "Unlocked by obtaining specific motions"
+      }
+    ],
+    "name": "Refuse"
+  },
+  {
+    "id": 972,
+    "key_tasks": [
+      {
+        "name": "Unlocked by obtaining specific motions"
+      }
+    ],
+    "name": "Unique Scene"
   }
 ]

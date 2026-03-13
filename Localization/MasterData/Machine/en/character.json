@@ -1213,5 +1213,37 @@
     "profile_voice_text": "I hate to brag, but I'm a pretty skilled bounty hunter.",
     "sort_name": "José",
     "start_at": "2026-02-27T03:00:00Z"
+  },
+  {
+    "id": 44204,
+    "acquisition_text": "Alchemy is a great power to fulfill one's desires.\nIs that not so?",
+    "another_name": "Queen of the Kingdom of Lara",
+    "description": "A noble-appearing alchemist aspiring to establish her own kingdom. She belongs to the Polar Night Alchemists in pursuit of her dream of founding the Kingdom of Lara. When she finds someone she likes or sees potential in, she tries to recruit them to the Kingdom of Lara. She proudly proclaims her real name as a form of revenge against the family that mistreated her.",
+    "fullname": "Lara Trockel",
+    "leader_skill": {
+      "description": "Boosts Lantarna characters' skill damage by 100% when attack target is paralyzed.",
+      "name": "Polar Night's Daughter"
+    },
+    "name": "Lara",
+    "overlay_name": "Lara Trockel",
+    "profile_voice_text": "I am Lara Trockel. Queen of the promised land, the Kingdom of Lara.",
+    "sort_name": "Lara",
+    "start_at": "2026-03-06T03:00:00Z"
+  },
+  {
+    "id": 46102,
+    "acquisition_text": "I will do what I must do.",
+    "another_name": "Miraculous Nine No. 6",
+    "description": "A homunculus created by the Palme, and the sixth of the Miraculous Nine.\nTogether with the other members of the Nine, she carries out \"management\" under the Palme's orders.\nShe is responsible for devising strategies and providing support, excelling at eliminating small fry.\nBelieving that good thinking requires good sleep, she is particular about her sleeping environment.",
+    "fullname": "Liebe",
+    "leader_skill": {
+      "description": "Reduces damage received by Dark Memories characters by 25%.",
+      "name": "Razor-Sharp Mind"
+    },
+    "name": "Liebe",
+    "overlay_name": "Liebe",
+    "profile_voice_text": "My name is Liebe. I am in charge of tactics and operational command.",
+    "sort_name": "Liebe",
+    "start_at": "2026-03-13T03:00:00Z"
   }
 ]

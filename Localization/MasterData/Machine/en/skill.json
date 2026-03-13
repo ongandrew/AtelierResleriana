@@ -31648,5 +31648,503 @@
     "description": "Restores all allies' HP by 10% and removes negative effects.",
     "name": "Starlight Blessing",
     "summary": ""
+  },
+  {
+    "id": 11003586,
+    "description": "After attacking, boosts target's damage received by {0}% and stun damage received by {1}%. (All effects cap at 30%)",
+    "name": "Rosatoxin",
+    "summary": "After attacking, boosts target's damage received and stun damage received."
+  },
+  {
+    "id": 11003587,
+    "description": "After attacking, boosts target's damage received by {0}% and stun damage received by {1}%. (All effects cap at 30%)",
+    "name": "Rosatoxin",
+    "summary": "After attacking, boosts target's damage received and stun damage received."
+  },
+  {
+    "id": 11003588,
+    "description": "After attacking, boosts target's damage received by {0}% and stun damage received by {1}%. (All effects cap at 30%)",
+    "name": "Rosatoxin",
+    "summary": "After attacking, boosts target's damage received and stun damage received."
+  },
+  {
+    "id": 11003589,
+    "description": "After attacking, boosts target's damage received by {0}% and stun damage received by {1}%. (All effects cap at 30%)",
+    "name": "Rosatoxin",
+    "summary": "After attacking, boosts target's damage received and stun damage received."
+  },
+  {
+    "id": 11003590,
+    "description": "After attacking, boosts target's damage received by {0}% and stun damage received by {1}%. (All effects cap at 30%)",
+    "name": "Rosatoxin",
+    "summary": "After attacking, boosts target's damage received and stun damage received."
+  },
+  {
+    "id": 12003591,
+    "description": "On critical attack, boosts this attack's stun damage by {0}%.<br>When target has a status effect, boosts this attack's stun damage by {1}%.<br>Before attacking, reduces target's status effect resistance by {2}% for 1 turn.<br>After attacking, inflicts Paralysis on target with very high chance for 2 turns, and boosts target's damage received by {3}% for 2 attacks.<br>Boosts critical damage by {4}% for all allies with Ice affinity or Dark Memories for 2 turns.<br>When target is stunned, boosts target's critical damage received by {5}% for 2 attacks.",
+    "name": "Ultimate Alchemy",
+    "summary": "On critical attack, boosts stun damage.<br>When target has a status effect, boosts stun damage.<br>Before attacking, reduces target's status effect resistance.<br>After attacking, inflicts Paralysis on target and boosts damage received.<br>Boosts critical damage for all allies with Ice affinity or Dark Memories.<br>When target is stunned, boosts target's critical damage received."
+  },
+  {
+    "id": 12003592,
+    "description": "On critical attack, boosts this attack's stun damage by {0}%.<br>When target has a status effect, boosts this attack's stun damage by {1}%.<br>Before attacking, reduces target's status effect resistance by {2}% for 1 turn.<br>After attacking, inflicts Paralysis on target with very high chance for 2 turns, and boosts target's damage received by {3}% for 2 attacks.<br>Boosts critical damage by {4}% for all allies with Ice affinity or Dark Memories for 2 turns.<br>When target is stunned, boosts target's critical damage received by {5}% for 2 attacks.",
+    "name": "Ultimate Alchemy",
+    "summary": "On critical attack, boosts stun damage.<br>When target has a status effect, boosts stun damage.<br>Before attacking, reduces target's status effect resistance.<br>After attacking, inflicts Paralysis on target and boosts damage received.<br>Boosts critical damage for all allies with Ice affinity or Dark Memories.<br>When target is stunned, boosts target's critical damage received."
+  },
+  {
+    "id": 12003593,
+    "description": "On critical attack, boosts this attack's stun damage by {0}%.<br>When target has a status effect, boosts this attack's stun damage by {1}%.<br>Before attacking, reduces target's status effect resistance by {2}% for 1 turn.<br>After attacking, inflicts Paralysis on target with very high chance for 2 turns, and boosts target's damage received by {3}% for 2 attacks.<br>Boosts critical damage by {4}% for all allies with Ice affinity or Dark Memories for 2 turns.<br>When target is stunned, boosts target's critical damage received by {5}% for 2 attacks.",
+    "name": "Ultimate Alchemy",
+    "summary": "On critical attack, boosts stun damage.<br>When target has a status effect, boosts stun damage.<br>Before attacking, reduces target's status effect resistance.<br>After attacking, inflicts Paralysis on target and boosts damage received.<br>Boosts critical damage for all allies with Ice affinity or Dark Memories.<br>When target is stunned, boosts target's critical damage received."
+  },
+  {
+    "id": 12003594,
+    "description": "On critical attack, boosts this attack's stun damage by {0}%.<br>When target has a status effect, boosts this attack's stun damage by {1}%.<br>Before attacking, reduces target's status effect resistance by {2}% for 1 turn.<br>After attacking, inflicts Paralysis on target with very high chance for 2 turns, and boosts target's damage received by {3}% for 2 attacks.<br>Boosts critical damage by {4}% for all allies with Ice affinity or Dark Memories for 2 turns.<br>When target is stunned, boosts target's critical damage received by {5}% for 2 attacks.",
+    "name": "Ultimate Alchemy",
+    "summary": "On critical attack, boosts stun damage.<br>When target has a status effect, boosts stun damage.<br>Before attacking, reduces target's status effect resistance.<br>After attacking, inflicts Paralysis on target and boosts damage received.<br>Boosts critical damage for all allies with Ice affinity or Dark Memories.<br>When target is stunned, boosts target's critical damage received."
+  },
+  {
+    "id": 12003595,
+    "description": "On critical attack, boosts this attack's stun damage by {0}%.<br>When target has a status effect, boosts this attack's stun damage by {1}%.<br>Before attacking, reduces target's status effect resistance by {2}% for 1 turn.<br>After attacking, inflicts Paralysis on target with very high chance for 2 turns, and boosts target's damage received by {3}% for 2 attacks.<br>Boosts critical damage by {4}% for all allies with Ice affinity or Dark Memories for 2 turns.<br>When target is stunned, boosts target's critical damage received by {5}% for 2 attacks.",
+    "name": "Ultimate Alchemy",
+    "summary": "On critical attack, boosts stun damage.<br>When target has a status effect, boosts stun damage.<br>Before attacking, reduces target's status effect resistance.<br>After attacking, inflicts Paralysis on target and boosts damage received.<br>Boosts critical damage for all allies with Ice affinity or Dark Memories.<br>When target is stunned, boosts target's critical damage received."
+  },
+  {
+    "id": 14003596,
+    "description": "On critical attack, boosts this attack's stun damage by {0}%.<br>When target has a status effect, boosts this attack's stun damage by {1}%.<br>Before attacking, reduces target's Ice resistance by {2}% for 1 attack.<br>After attacking, inflicts Sovereign's Majesty on target with very high chance for 2 turns, and boosts target's damage received by {3}% for 2 attacks.<br>Boosts critical damage by {4}% for all allies with Ice affinity or Dark Memories for 2 turns.<br>When target is stunned, boosts target's critical damage received by {5}% for 2 attacks.",
+    "name": "Blooming Conquest",
+    "summary": "On critical attack, boosts stun damage.<br>When target has a status effect, boosts stun damage.<br>Before attacking, reduces target's Ice resistance.<br>After attacking, inflicts Sovereign's Majesty on target and boosts damage received.<br>Boosts critical damage for all allies with Ice affinity or Dark Memories.<br>When target is stunned, boosts target's critical damage received."
+  },
+  {
+    "id": 14003597,
+    "description": "On critical attack, boosts this attack's stun damage by {0}%.<br>When target has a status effect, boosts this attack's stun damage by {1}%.<br>Before attacking, reduces target's Ice resistance by {2}% for 1 attack.<br>After attacking, inflicts Sovereign's Majesty on target with very high chance for 2 turns, and boosts target's damage received by {3}% for 2 attacks.<br>Boosts critical damage by {4}% for all allies with Ice affinity or Dark Memories for 2 turns.<br>When target is stunned, boosts target's critical damage received by {5}% for 2 attacks.",
+    "name": "Blooming Conquest",
+    "summary": "On critical attack, boosts stun damage.<br>When target has a status effect, boosts stun damage.<br>Before attacking, reduces target's Ice resistance.<br>After attacking, inflicts Sovereign's Majesty on target and boosts damage received.<br>Boosts critical damage for all allies with Ice affinity or Dark Memories.<br>When target is stunned, boosts target's critical damage received."
+  },
+  {
+    "id": 14003598,
+    "description": "On critical attack, boosts this attack's stun damage by {0}%.<br>When target has a status effect, boosts this attack's stun damage by {1}%.<br>Before attacking, reduces target's Ice resistance by {2}% for 1 attack.<br>After attacking, inflicts Sovereign's Majesty on target with very high chance for 2 turns, and boosts target's damage received by {3}% for 2 attacks.<br>Boosts critical damage by {4}% for all allies with Ice affinity or Dark Memories for 2 turns.<br>When target is stunned, boosts target's critical damage received by {5}% for 2 attacks.",
+    "name": "Blooming Conquest",
+    "summary": "On critical attack, boosts stun damage.<br>When target has a status effect, boosts stun damage.<br>Before attacking, reduces target's Ice resistance.<br>After attacking, inflicts Sovereign's Majesty on target and boosts damage received.<br>Boosts critical damage for all allies with Ice affinity or Dark Memories.<br>When target is stunned, boosts target's critical damage received."
+  },
+  {
+    "id": 14003599,
+    "description": "On critical attack, boosts this attack's stun damage by {0}%.<br>When target has a status effect, boosts this attack's stun damage by {1}%.<br>Before attacking, reduces target's Ice resistance by {2}% for 1 attack.<br>After attacking, inflicts Sovereign's Majesty on target with very high chance for 2 turns, and boosts target's damage received by {3}% for 2 attacks.<br>Boosts critical damage by {4}% for all allies with Ice affinity or Dark Memories for 2 turns.<br>When target is stunned, boosts target's critical damage received by {5}% for 2 attacks.",
+    "name": "Blooming Conquest",
+    "summary": "On critical attack, boosts stun damage.<br>When target has a status effect, boosts stun damage.<br>Before attacking, reduces target's Ice resistance.<br>After attacking, inflicts Sovereign's Majesty on target and boosts damage received.<br>Boosts critical damage for all allies with Ice affinity or Dark Memories.<br>When target is stunned, boosts target's critical damage received."
+  },
+  {
+    "id": 14003600,
+    "description": "On critical attack, boosts this attack's stun damage by {0}%.<br>When target has a status effect, boosts this attack's stun damage by {1}%.<br>Before attacking, reduces target's Ice resistance by {2}% for 1 attack.<br>After attacking, inflicts Sovereign's Majesty on target with very high chance for 2 turns, and boosts target's damage received by {3}% for 2 attacks.<br>Boosts critical damage by {4}% for all allies with Ice affinity or Dark Memories for 2 turns.<br>When target is stunned, boosts target's critical damage received by {5}% for 2 attacks.",
+    "name": "Blooming Conquest",
+    "summary": "On critical attack, boosts stun damage.<br>When target has a status effect, boosts stun damage.<br>Before attacking, reduces target's Ice resistance.<br>After attacking, inflicts Sovereign's Majesty on target and boosts damage received.<br>Boosts critical damage for all allies with Ice affinity or Dark Memories.<br>When target is stunned, boosts target's critical damage received."
+  },
+  {
+    "id": 14003632,
+    "description": "Removes the next turn of up to 1 enemy within the next 5 turns on the timeline (can only activate up to 1 time).<br>Restores all allies' HP by 40%.<br>Increases own burst gauge by 100%.<br>Note: This active skill can only be activated when own HP is below 60% before skill activation.",
+    "name": "Remove Order",
+    "summary": "Removes the turn of selected enemy target within the next 5 turns on the timeline.<br>Restores all allies' HP.<br>Increases own burst gauge."
+  },
+  {
+    "id": 32004683,
+    "description": "After attacking, increases own SPD by 10% (permanent).",
+    "name": "Lucidus Sidera",
+    "summary": ""
+  },
+  {
+    "id": 32004684,
+    "description": "After attacking, reduces own damage received by 35% for 2 turns.\nAfter attacking, reduces own stun damage received by 35% for 2 turns.",
+    "name": "Harmonia",
+    "summary": ""
+  },
+  {
+    "id": 32004685,
+    "description": "No effect.",
+    "name": "Zodiacus",
+    "summary": ""
+  },
+  {
+    "id": 32004686,
+    "description": "After attacking, reduces target's SPD by 8% for 2 turns.",
+    "name": "Nexus Celeste",
+    "summary": ""
+  },
+  {
+    "id": 32004687,
+    "description": "After attacking, reduces own negative effect potency by 35% for 2 turns.",
+    "name": "Nexus Florum",
+    "summary": ""
+  },
+  {
+    "id": 32004688,
+    "description": "Grants self SPD +5% permanently for 2 stacks.\nGrants self 8% Evasion permanently (Max: 30%).",
+    "name": "Blessing of the Jade Star",
+    "summary": ""
+  },
+  {
+    "id": 32004689,
+    "description": "After attacking, boosts own SPD by 12% permanently.",
+    "name": "Lucidus Sidera",
+    "summary": ""
+  },
+  {
+    "id": 32004690,
+    "description": "After attacking, reduces own damage received by 40% for 2 turns.\nAfter attacking, reduces own stun damage received by 40% for 2 turns.",
+    "name": "Harmonia",
+    "summary": ""
+  },
+  {
+    "id": 32004691,
+    "description": "No additional effects.",
+    "name": "Zodiacus",
+    "summary": ""
+  },
+  {
+    "id": 32004692,
+    "description": "After attacking, reduces target's SPD by 10% for 2 turns.",
+    "name": "Nexus Celeste",
+    "summary": ""
+  },
+  {
+    "id": 32004693,
+    "description": "After attacking, reduces own negative effect potency by 45% for 2 turns.",
+    "name": "Nexus Florum",
+    "summary": ""
+  },
+  {
+    "id": 32004694,
+    "description": "Grants self SPD +7% permanently for 2 stacks.\nGrants self 10% Evasion permanently (Max: 30%).",
+    "name": "Blessing of the Jade Star",
+    "summary": ""
+  },
+  {
+    "id": 32004695,
+    "description": "After attacking, boosts own SPD by 8% permanently.",
+    "name": "Lucidus Sidera",
+    "summary": ""
+  },
+  {
+    "id": 32004696,
+    "description": "After attacking, reduces own damage received by 20% for 2 turns.\nAfter attacking, reduces own stun damage received by 20% for 2 turns.",
+    "name": "Harmonia",
+    "summary": ""
+  },
+  {
+    "id": 32004697,
+    "description": "No additional effects.",
+    "name": "Zodiacus",
+    "summary": ""
+  },
+  {
+    "id": 32004698,
+    "description": "After attacking, reduces target's SPD by 5% for 2 turns.",
+    "name": "Nexus Celeste",
+    "summary": ""
+  },
+  {
+    "id": 32004699,
+    "description": "After attacking, reduces own negative effect potency by 25% for 2 turns.",
+    "name": "Nexus Florum",
+    "summary": ""
+  },
+  {
+    "id": 32004700,
+    "description": "Grants self SPD +3% permanently for 2 stacks.\nGrants self 3% Evasion permanently (Max: 30%).",
+    "name": "Blessing of the Jade Star",
+    "summary": ""
+  },
+  {
+    "id": 11003633,
+    "description": "After attacking, grants self Cover for 2 activations.<br>Grants all allies P.DEF & M.DEF +{0}% (up to 30%) and max HP +{1}% (up to 10%).",
+    "name": "Sagitta",
+    "summary": "After attacking, grants self Cover<br>Boosts all allies' P.DEF, M.DEF, and max HP"
+  },
+  {
+    "id": 11003634,
+    "description": "After attacking, grants self Cover for 2 activations.<br>Grants all allies P.DEF & M.DEF +{0}% (up to 30%) and max HP +{1}% (up to 10%).",
+    "name": "Sagitta",
+    "summary": "After attacking, grants self Cover<br>Boosts all allies' P.DEF, M.DEF, and max HP"
+  },
+  {
+    "id": 11003635,
+    "description": "After attacking, grants self Cover for 2 activations.<br>Grants all allies P.DEF & M.DEF +{0}% (up to 30%) and max HP +{1}% (up to 10%).",
+    "name": "Sagitta",
+    "summary": "After attacking, grants self Cover<br>Boosts all allies' P.DEF, M.DEF, and max HP"
+  },
+  {
+    "id": 11003636,
+    "description": "After attacking, grants self Cover for 2 activations.<br>Grants all allies P.DEF & M.DEF +{0}% (up to 30%) and max HP +{1}% (up to 10%).",
+    "name": "Sagitta",
+    "summary": "After attacking, grants self Cover<br>Boosts all allies' P.DEF, M.DEF, and max HP"
+  },
+  {
+    "id": 11003637,
+    "description": "After attacking, grants self Cover for 2 activations.<br>Grants all allies P.DEF & M.DEF +{0}% (up to 30%) and max HP +{1}% (up to 10%).",
+    "name": "Sagitta",
+    "summary": "After attacking, grants self Cover<br>Boosts all allies' P.DEF, M.DEF, and max HP"
+  },
+  {
+    "id": 12003638,
+    "description": "After attacking, grants target Darkness for 1 turn with very high chance.<br>Grants all allies with Stab affinity or Dark Memories a barrier that blocks damage equal to {0}% of own max HP (Percentage-fixed).<br>Grants P.DEF & M.DEF +{1}% for 2 attacks (up to 2 stacks).",
+    "name": "Viridis Arcus",
+    "summary": "After attacking, grants target Darkness<br>Grants all allies with Stab affinity or Dark Memories a barrier and boosts P.DEF and M.DEF"
+  },
+  {
+    "id": 12003639,
+    "description": "After attacking, grants target Darkness for 1 turn with very high chance.<br>Grants all allies with Stab affinity or Dark Memories a barrier that blocks damage equal to {0}% of own max HP (Percentage-fixed).<br>Grants P.DEF & M.DEF +{1}% for 2 attacks (up to 2 stacks).",
+    "name": "Viridis Arcus",
+    "summary": "After attacking, grants target Darkness<br>Grants all allies with Stab affinity or Dark Memories a barrier and boosts P.DEF and M.DEF"
+  },
+  {
+    "id": 12003640,
+    "description": "After attacking, grants target Darkness for 1 turn with very high chance.<br>Grants all allies with Stab affinity or Dark Memories a barrier that blocks damage equal to {0}% of own max HP (Percentage-fixed).<br>Grants P.DEF & M.DEF +{1}% for 2 attacks (up to 2 stacks).",
+    "name": "Viridis Arcus",
+    "summary": "After attacking, grants target Darkness<br>Grants all allies with Stab affinity or Dark Memories a barrier and boosts P.DEF and M.DEF"
+  },
+  {
+    "id": 12003641,
+    "description": "After attacking, grants target Darkness for 1 turn with very high chance.<br>Grants all allies with Stab affinity or Dark Memories a barrier that blocks damage equal to {0}% of own max HP (Percentage-fixed).<br>Grants P.DEF & M.DEF +{1}% for 2 attacks (up to 2 stacks).",
+    "name": "Viridis Arcus",
+    "summary": "After attacking, grants target Darkness<br>Grants all allies with Stab affinity or Dark Memories a barrier and boosts P.DEF and M.DEF"
+  },
+  {
+    "id": 12003642,
+    "description": "After attacking, grants target Darkness for 1 turn with very high chance.<br>Grants all allies with Stab affinity or Dark Memories a barrier that blocks damage equal to {0}% of own max HP (Percentage-fixed).<br>Grants P.DEF & M.DEF +{1}% for 2 attacks (up to 2 stacks).",
+    "name": "Viridis Arcus",
+    "summary": "After attacking, grants target Darkness<br>Grants all allies with Stab affinity or Dark Memories a barrier and boosts P.DEF and M.DEF"
+  },
+  {
+    "id": 14003643,
+    "description": "Before attacking, removes all allies' negative effects.<br>After attacking, grants target Darkness for 3 turns with very high chance.<br>Grants all allies with Stab affinity or Dark Memories a barrier that blocks damage equal to {0}% of own max HP (Percentage-fixed).<br>Grants P.DEF & M.DEF +{1}% for 3 attacks (up to 3 stacks).<br>Grants Evasion (100% fixed chance) for 1 attack.",
+    "name": "Semen Resonare",
+    "summary": "Before attacking, removes all allies' negative effects<br>After attacking, grants target Darkness<br>Grants all allies with Stab affinity or Dark Memories a barrier and boosts P.DEF and M.DEF<br>Then grants Evasion"
+  },
+  {
+    "id": 14003644,
+    "description": "Before attacking, removes all allies' negative effects.<br>After attacking, grants target Darkness for 3 turns with very high chance.<br>Grants all allies with Stab affinity or Dark Memories a barrier that blocks damage equal to {0}% of own max HP (Percentage-fixed).<br>Grants P.DEF & M.DEF +{1}% for 3 attacks (up to 3 stacks).<br>Grants Evasion (100% fixed chance) for 1 attack.",
+    "name": "Semen Resonare",
+    "summary": "Before attacking, removes all allies' negative effects<br>After attacking, grants target Darkness<br>Grants all allies with Stab affinity or Dark Memories a barrier and boosts P.DEF and M.DEF<br>Then grants Evasion"
+  },
+  {
+    "id": 14003645,
+    "description": "Before attacking, removes all allies' negative effects.<br>After attacking, grants target Darkness for 3 turns with very high chance.<br>Grants all allies with Stab affinity or Dark Memories a barrier that blocks damage equal to {0}% of own max HP (Percentage-fixed).<br>Grants P.DEF & M.DEF +{1}% for 3 attacks (up to 3 stacks).<br>Grants Evasion (100% fixed chance) for 1 attack.",
+    "name": "Semen Resonare",
+    "summary": "Before attacking, removes all allies' negative effects<br>After attacking, grants target Darkness<br>Grants all allies with Stab affinity or Dark Memories a barrier and boosts P.DEF and M.DEF<br>Then grants Evasion"
+  },
+  {
+    "id": 14003646,
+    "description": "Before attacking, removes all allies' negative effects.<br>After attacking, grants target Darkness for 3 turns with very high chance.<br>Grants all allies with Stab affinity or Dark Memories a barrier that blocks damage equal to {0}% of own max HP (Percentage-fixed).<br>Grants P.DEF & M.DEF +{1}% for 3 attacks (up to 3 stacks).<br>Grants Evasion (100% fixed chance) for 1 attack.",
+    "name": "Semen Resonare",
+    "summary": "Before attacking, removes all allies' negative effects<br>After attacking, grants target Darkness<br>Grants all allies with Stab affinity or Dark Memories a barrier and boosts P.DEF and M.DEF<br>Then grants Evasion"
+  },
+  {
+    "id": 14003647,
+    "description": "Before attacking, removes all allies' negative effects.<br>After attacking, grants target Darkness for 3 turns with very high chance.<br>Grants all allies with Stab affinity or Dark Memories a barrier that blocks damage equal to {0}% of own max HP (Percentage-fixed).<br>Grants P.DEF & M.DEF +{1}% for 3 attacks (up to 3 stacks).<br>Grants Evasion (100% fixed chance) for 1 attack.",
+    "name": "Semen Resonare",
+    "summary": "Before attacking, removes all allies' negative effects<br>After attacking, grants target Darkness<br>Grants all allies with Stab affinity or Dark Memories a barrier and boosts P.DEF and M.DEF<br>Then grants Evasion"
+  },
+  {
+    "id": 32004701,
+    "description": "After attacking, converts own next panel to a critical panel (excluding BS). Grants target Nullify Positive Effects for 2 turns.",
+    "name": "Volare Bestia",
+    "summary": ""
+  },
+  {
+    "id": 32004702,
+    "description": "After attacking, delays target's turn by 1. Reduces target's SPD by 5% for 2 turns.",
+    "name": "Fortis Pugnus",
+    "summary": ""
+  },
+  {
+    "id": 32004703,
+    "description": "No effects.",
+    "name": "Fortis Crus",
+    "summary": ""
+  },
+  {
+    "id": 32004704,
+    "description": "After attacking, reduces target's damage dealt by 20% for 1 turn.",
+    "name": "Cauda Excitium",
+    "summary": ""
+  },
+  {
+    "id": 32004705,
+    "description": "After attacking, reduces own damage received by 30% for 2 turns.",
+    "name": "Vis Excitium",
+    "summary": ""
+  },
+  {
+    "id": 32004706,
+    "description": "Boosts own SPD by 5% for 2 turns and converts next panel into a critical panel (excluding BS panels).",
+    "name": "Rising Star Stance",
+    "summary": ""
+  },
+  {
+    "id": 32004707,
+    "description": "Before attacking, increases skill target's damage received by 30% for 1 turn. If skill target does not have a barrier, grants nullify HP recovery.",
+    "name": "Aequitas Venator",
+    "summary": ""
+  },
+  {
+    "id": 32004708,
+    "description": "After attacking, reduces own damage received by 25% for 3 turns and converts skill target's panels into negative panels (excluding burst panels).",
+    "name": "Terra Fortitudo",
+    "summary": ""
+  },
+  {
+    "id": 32004709,
+    "description": "After attacking, converts skill target's panels into empty panels and reduces SPD by 5% for 2 turns.",
+    "name": "Bellator Gladius",
+    "summary": ""
+  },
+  {
+    "id": 32004710,
+    "description": "After attacking, reduces skill target's damage dealt by 20% for 3 turns and removes all positive effects.",
+    "name": "Terra Magnus",
+    "summary": ""
+  },
+  {
+    "id": 32004711,
+    "description": "No effect.",
+    "name": "Gladius",
+    "summary": ""
+  },
+  {
+    "id": 32004712,
+    "description": "Boosts own SPD by 5% for 2 turns and damage dealt by 20% for 3 turns, then converts own next panel into a boost panel (excluding burst panels).",
+    "name": "True Star Release",
+    "summary": ""
+  },
+  {
+    "id": 32004713,
+    "description": "After attacking, converts own next panel into a critical panel (excluding BS panels) and grants target nullify positive effects for 2 turns.",
+    "name": "Volare Bestia",
+    "summary": ""
+  },
+  {
+    "id": 32004714,
+    "description": "After attacking, delays target's turn by 2 and reduces SPD by 10% for 2 turns.",
+    "name": "Fortis Pugnus",
+    "summary": ""
+  },
+  {
+    "id": 32004715,
+    "description": "No effect.",
+    "name": "Fortis Clas",
+    "summary": ""
+  },
+  {
+    "id": 32004716,
+    "description": "After attacking, reduces target's damage dealt by 35% for 1 turn.",
+    "name": "Cauda Excitium",
+    "summary": ""
+  },
+  {
+    "id": 32004717,
+    "description": "After attacking, reduces own damage received by 45% for 2 turns.",
+    "name": "Vis Excitium",
+    "summary": ""
+  },
+  {
+    "id": 32004718,
+    "description": "Boosts own SPD by 8% for 2 turns and converts next panel into a critical panel (excluding BS panels).",
+    "name": "Rising Star Stance",
+    "summary": ""
+  },
+  {
+    "id": 32004719,
+    "description": "Before attacking, increases skill target's damage received by 40% for 1 turn. If skill target does not have a barrier, grants nullify HP recovery.",
+    "name": "Aequitas Venator",
+    "summary": ""
+  },
+  {
+    "id": 32004724,
+    "description": "Boosts own SPD by 10% for 2 turns and damage dealt by 35% for 3 turns, then converts own next panel into a boost panel (excluding burst panels).",
+    "name": "True Star Release",
+    "summary": ""
+  },
+  {
+    "id": 32004725,
+    "description": "Before attacking, increases skill target's damage received by 50% for 1 turn. If skill target does not have a barrier, grants nullify HP recovery.\nAfterwards, removes own Damage Dealt Up (For BS Activation) and redraws turn.\n*Gimmick BS",
+    "name": "Aequitas Venator",
+    "summary": ""
+  },
+  {
+    "id": 32004726,
+    "description": "After attacking, converts own next panel into a critical panel (excluding BS panels) and grants target nullify positive effects for 2 turns.",
+    "name": "Volare Bestia",
+    "summary": ""
+  },
+  {
+    "id": 32004727,
+    "description": "After attacking, delays target's turn by 2 and reduces SPD by 12% for 2 turns.",
+    "name": "Fortis Pugnus",
+    "summary": ""
+  },
+  {
+    "id": 32004728,
+    "description": "No effect.",
+    "name": "Fortis Clas",
+    "summary": ""
+  },
+  {
+    "id": 32004729,
+    "description": "After attacking, reduces target's damage dealt by 40% for 1 turn.",
+    "name": "Cauda Excitium",
+    "summary": ""
+  },
+  {
+    "id": 32004730,
+    "description": "After attacking, reduces own damage received by 60% for 2 turns.",
+    "name": "Vis Excitium",
+    "summary": ""
+  },
+  {
+    "id": 32004731,
+    "description": "Boosts own SPD by 10% for 2 turns and converts next panel into a critical panel (except burst panels).",
+    "name": "Meteor Stance",
+    "summary": ""
+  },
+  {
+    "id": 32004732,
+    "description": "Before attacking, increases skill target's damage received by 50% for 1 turn. If the skill target has no barrier, grants nullify HP recovery.",
+    "name": "Aequivitas Venator",
+    "summary": ""
+  },
+  {
+    "id": 32004733,
+    "description": "After attacking, reduces own damage received by 40% for 3 turns and converts skill target's panel into a negative effect panel (except burst panels).",
+    "name": "Terra Fortitudo",
+    "summary": ""
+  },
+  {
+    "id": 32004734,
+    "description": "After attacking, converts skill target's panel into an empty panel and reduces their SPD by 8% for 2 turns.",
+    "name": "Bellator Gladius",
+    "summary": ""
+  },
+  {
+    "id": 32004735,
+    "description": "After attacking, reduces skill target's damage dealt by 40% for 3 turns and removes all positive effects.",
+    "name": "Terra Magnus",
+    "summary": ""
+  },
+  {
+    "id": 32004736,
+    "description": "No effect.",
+    "name": "Gladius",
+    "summary": ""
+  },
+  {
+    "id": 32005080,
+    "description": "Boosts own SPD by 10% for 2 turns and damage dealt by 45% for 3 turns, then converts own next panel into a boost panel (except burst panels).",
+    "name": "True Star Liberation",
+    "summary": ""
+  },
+  {
+    "id": 32005081,
+    "description": "Before attacking, increases skill target's damage received by 50% for 1 turn. If the skill target has no barrier, grants nullify HP recovery.\nAfterwards, removes own Damage Dealt Up (for Burst Activation) and redraws turn.\n*Burst for gimmick use",
+    "name": "Aequivitas Venator",
+    "summary": ""
   }
 ]

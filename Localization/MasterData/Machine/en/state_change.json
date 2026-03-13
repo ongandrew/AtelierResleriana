@@ -4748,5 +4748,115 @@
     "id": 1250005,
     "description": "For determination",
     "name": "Battleship Battle"
+  },
+  {
+    "id": 510302,
+    "description": "Dummy buff for determination purposes.",
+    "name": "Dummy Buff for Start of Turn"
+  },
+  {
+    "id": 510303,
+    "description": "After a critical attack, grants target +{value}% damage received. (MAX 160%)",
+    "name": "Encroaching Darkness"
+  },
+  {
+    "id": 510304,
+    "description": "After a critical attack, grants target +{value}% stun damage received. (MAX 160%)",
+    "name": "Encroaching Darkness"
+  },
+  {
+    "id": 510305,
+    "description": "Boosts damage received by {value}%. (MAX 160%)",
+    "name": "Received Damage Up"
+  },
+  {
+    "id": 510306,
+    "description": "Boosts stun damage received by {value}%. (MAX 160%)",
+    "name": "Received Stun Damage Up"
+  },
+  {
+    "id": 510307,
+    "description": "When attacking a target that has a status effect at the time of skill activation, grants target +{value} penetration power from attacks received. (MAX 100)",
+    "name": "Encroaching Darkness"
+  },
+  {
+    "id": 510308,
+    "description": "Boosts penetration power of attacks received by {value}. (MAX 100)",
+    "name": "Received Attack Penetration Up"
+  },
+  {
+    "id": 610452,
+    "description": "Boosts damage received by {value}%. (MAX 30%)",
+    "name": "Received Damage Up"
+  },
+  {
+    "id": 610453,
+    "description": "Boosts stun damage received by {value}%. (MAX 30%)",
+    "name": "Received Stun Damage Up"
+  },
+  {
+    "id": 610473,
+    "description": "Boosts burst damage received by {value}%. (MAX 2 stacks)",
+    "name": "Received Burst Damage Up"
+  },
+  {
+    "id": 800220,
+    "description": "Boosts damage received by {value}%.",
+    "name": "Received Damage Up"
+  },
+  {
+    "id": 510317,
+    "description": "Dummy buff for determination. (MAX 1 stack)",
+    "name": "Dummy Buff for Determination"
+  },
+  {
+    "id": 510318,
+    "description": "Dummy buff for determination. (MAX 1 stack)",
+    "name": "Dummy Buff for Determination"
+  },
+  {
+    "id": 610462,
+    "description": "Boosts P.DEF by {value}%. (MAX 30%)",
+    "name": "P.DEF Up"
+  },
+  {
+    "id": 610463,
+    "description": "Boosts M.DEF by {value}%. (MAX 30%)",
+    "name": "M.DEF Up"
+  },
+  {
+    "id": 610464,
+    "description": "Boosts max HP by {value}%. (MAX 10%)",
+    "name": "Max HP Up"
+  },
+  {
+    "id": 610465,
+    "description": "Boosts P.DEF by {value}%. (MAX 2 stacks)",
+    "name": "P.DEF Up"
+  },
+  {
+    "id": 610466,
+    "description": "Boosts M.DEF by {value}%. (MAX 2 stacks)",
+    "name": "M.DEF Up"
+  },
+  {
+    "id": 610467,
+    "description": "Boosts P.DEF by {value}%. (MAX 3 stacks)",
+    "name": "P.DEF Up"
+  },
+  {
+    "id": 610468,
+    "description": "Boosts M.DEF by {value}%. (MAX 3 stacks)",
+    "name": "M.DEF Up"
+  },
+  {
+    "id": 610474,
+    "description": "Boosts max HP by {value}%. (MAX 20%)",
+    "name": "Max HP Up"
+  },
+  {
+    "id": 800221,
+    "description": "When self has a barrier, reduces damage received by {value}%. (Fixed potency)",
+    "name": "Received Damage Down (Cond.)"
   }
 ]

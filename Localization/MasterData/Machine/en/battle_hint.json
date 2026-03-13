@@ -2630,5 +2630,29 @@
   {
     "id": 60273004,
     "description": "- Inflicts Poison\n- Delays turn\n- Restores all allies' HP and removes negative effects\n- When an ally is KO'd, hastens own turn and boosts damage dealt and reduces damage received\n- Nullifies resistance reduction for all elements except Stab"
+  },
+  {
+    "id": 60004023,
+    "description": "- Delays opponent's turn"
+  },
+  {
+    "id": 60226011,
+    "description": "- Boosts damage dealt based on number of SPD Up effects on self\n- Grants self SPD Up and Evasion (MAX 30%)\n- Reduces negative effect potency received\n- When stunned, removes 1 stack of SPD Up from self"
+  },
+  {
+    "id": 60226012,
+    "description": "- When HP reaches a certain level, advances own turn and changes action\n- Boosts damage dealt based on number of SPD Up effects on self\n- Grants self SPD Up and Evasion (MAX 30%)\n- Reduces negative effect potency received\n- When stunned, removes 1 stack of SPD Up from self"
+  },
+  {
+    "id": 60226013,
+    "description": "- When HP reaches a certain level, advances own turn and changes action\n- Boosts damage dealt based on number of SPD Up effects on self\n- Grants self SPD Up and Evasion (MAX 30%)\n- Reduces negative effect potency received\n- When stunned, removes 1 stack of SPD Up from self\n- Nullifies resistance reduction for all elements except Ice and Stab"
+  },
+  {
+    "id": 60227005,
+    "description": "- Increases appearance of critical panels\n- Delays turn\n- Reduces damage received\n- Inflicts Nullify Positive Effects"
+  },
+  {
+    "id": 60246044,
+    "description": "- Before using a powerful attack, boosts a single opponent's damage received\n- Inflicts Nullify Recovery\n- Removes a single opponent's positive effects\n- Converts opponent panels into empty panels\n- Converts opponent panels into weaken panels\n- Converts own panels into boost panels"
   }
 ]

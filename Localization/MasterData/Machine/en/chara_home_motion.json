@@ -3807,5 +3807,51 @@
   {
     "id": 971,
     "name": "Costume 1 Unique Scene"
+  },
+  {
+    "id": 947,
+    "name": "Standing 2"
+  },
+  {
+    "id": 948,
+    "name": "Conversation"
+  },
+  {
+    "id": 949,
+    "name": "Refusal"
+  },
+  {
+    "id": 950,
+    "key_tasks": [
+      {
+        "name": "※Unlocks in 4.5"
+      }
+    ],
+    "name": "Command"
+  },
+  {
+    "id": 972,
+    "name": "Standing 2"
+  },
+  {
+    "id": 973,
+    "name": "Standing 3"
+  },
+  {
+    "id": 974,
+    "name": "Hand on Hip"
+  },
+  {
+    "id": 975,
+    "key_tasks": [
+      {
+        "name": "※Will be unlocked in 4.5"
+      }
+    ],
+    "name": "Refusal"
+  },
+  {
+    "id": 981,
+    "name": "Unique Scene"
   }
 ]

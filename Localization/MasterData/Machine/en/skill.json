@@ -32146,5 +32146,4391 @@
     "description": "Before attacking, increases skill target's damage received by 50% for 1 turn. If the skill target has no barrier, grants nullify HP recovery.\nAfterwards, removes own Damage Dealt Up (for Burst Activation) and redraws turn.\n*Burst for gimmick use",
     "name": "Aequivitas Venator",
     "summary": ""
+  },
+  {
+    "id": 50201,
+    "description": "Deals Strike damage to the single enemy with the highest current HP.<br>※Does not consume status effect durations on the target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to the single enemy with the highest current HP.<br>※Does not consume status effect durations on the target."
+  },
+  {
+    "id": 50202,
+    "description": "Deals Strike damage to the single enemy with the highest current HP.<br>※Does not consume status effect durations on the target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to the single enemy with the highest current HP.<br>※Does not consume status effect durations on the target."
+  },
+  {
+    "id": 50203,
+    "description": "Deals Strike damage to the single enemy with the highest current HP.<br>※Does not consume status effect durations on the target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to the single enemy with the highest current HP.<br>※Does not consume status effect durations on the target."
+  },
+  {
+    "id": 50204,
+    "description": "Deals Strike damage to the single enemy with the highest current HP.<br>※Does not consume status effect durations on the target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to the single enemy with the highest current HP.<br>※Does not consume status effect durations on the target."
+  },
+  {
+    "id": 50205,
+    "description": "Deals Strike damage to the single enemy with the highest current HP.<br>※Does not consume status effect durations on the target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to the single enemy with the highest current HP.<br>※Does not consume status effect durations on the target."
+  },
+  {
+    "id": 50206,
+    "description": "Deals Strike damage to the single enemy with the highest current HP.<br>※Does not consume status effect durations on the target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to the single enemy with the highest current HP.<br>※Does not consume status effect durations on the target."
+  },
+  {
+    "id": 50207,
+    "description": "Deals Strike damage to the single enemy with the highest current HP.<br>※Does not consume status effect durations on the target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to the single enemy with the highest current HP.<br>※Does not consume status effect durations on the target."
+  },
+  {
+    "id": 50208,
+    "description": "Deals Strike damage to the single enemy with the highest current HP.<br>※Does not consume status effect durations on the target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to the single enemy with the highest current HP.<br>※Does not consume status effect durations on the target."
+  },
+  {
+    "id": 50209,
+    "description": "Deals Strike damage to the single enemy with the highest current HP.<br>※Does not consume status effect durations on the target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to the single enemy with the highest current HP.<br>※Does not consume status effect durations on the target."
+  },
+  {
+    "id": 50210,
+    "description": "Deals Strike damage to the single enemy with the highest current HP.<br>※Does not consume status effect durations on the target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to the single enemy with the highest current HP.<br>※Does not consume status effect durations on the target."
+  },
+  {
+    "id": 50211,
+    "description": "Deals Strike damage to the single enemy with the highest current HP.<br>※Does not consume status effect durations on the target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to the single enemy with the highest current HP.<br>※Does not consume status effect durations on the target."
+  },
+  {
+    "id": 50212,
+    "description": "Deals Strike damage to the single enemy with the highest current HP.<br>※Does not consume status effect durations on the target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to the single enemy with the highest current HP.<br>※Does not consume status effect durations on the target."
+  },
+  {
+    "id": 50213,
+    "description": "Deals Strike damage to the single enemy with the highest current HP.<br>※Does not consume status effect durations on the target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to the single enemy with the highest current HP.<br>※Does not consume status effect durations on the target."
+  },
+  {
+    "id": 50214,
+    "description": "Deals Strike damage to the single enemy with the highest current HP.<br>※Does not consume status effect durations on the target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to the single enemy with the highest current HP.<br>※Does not consume status effect durations on the target."
+  },
+  {
+    "id": 50215,
+    "description": "Deals Strike damage to the single enemy with the highest current HP.<br>※Does not consume status effect durations on the target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to the single enemy with the highest current HP.<br>※Does not consume status effect durations on the target."
+  },
+  {
+    "id": 50216,
+    "description": "Deals Strike damage to the single enemy with the highest current HP.<br>※Does not consume status effect durations on the target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to the single enemy with the highest current HP.<br>※Does not consume status effect durations on the target."
+  },
+  {
+    "id": 50217,
+    "description": "Deals Strike damage to the single enemy with the highest current HP.<br>※Does not consume status effect durations on the target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to the single enemy with the highest current HP.<br>※Does not consume status effect durations on the target."
+  },
+  {
+    "id": 50218,
+    "description": "Deals Strike damage to the single enemy with the highest current HP.<br>※Does not consume status effect durations on the target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to the single enemy with the highest current HP.<br>※Does not consume status effect durations on the target."
+  },
+  {
+    "id": 50219,
+    "description": "Deals Strike damage to the single enemy with the highest current HP.<br>※Does not consume status effect durations on the target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to the single enemy with the highest current HP.<br>※Does not consume status effect durations on the target."
+  },
+  {
+    "id": 50220,
+    "description": "Deals Strike damage to the single enemy with the highest current HP.<br>※Does not consume status effect durations on the target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to the single enemy with the highest current HP.<br>※Does not consume status effect durations on the target."
+  },
+  {
+    "id": 50221,
+    "description": "Deals Strike damage to a single enemy with the highest current HP.<br>※Does not consume status effect durations on the target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to a single enemy with the highest current HP.<br>※Does not consume status effect durations on the target."
+  },
+  {
+    "id": 50222,
+    "description": "Deals Strike damage to a single enemy with the highest current HP.<br>※Does not consume status effect durations on the target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to a single enemy with the highest current HP.<br>※Does not consume status effect durations on the target."
+  },
+  {
+    "id": 50223,
+    "description": "Deals Strike damage to a single enemy with the highest current HP.<br>※Does not consume status effect durations on the target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to a single enemy with the highest current HP.<br>※Does not consume status effect durations on the target."
+  },
+  {
+    "id": 50224,
+    "description": "Deals Strike damage to a single enemy with the highest current HP.<br>※Does not consume status effect durations on the target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to a single enemy with the highest current HP.<br>※Does not consume status effect durations on the target."
+  },
+  {
+    "id": 50225,
+    "description": "Deals Strike damage to a single enemy with the highest current HP.<br>※Does not consume status effect durations on the target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to a single enemy with the highest current HP.<br>※Does not consume status effect durations on the target."
+  },
+  {
+    "id": 50226,
+    "description": "Deals Strike damage to a single enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect durations on the target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to a single enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect durations on the target."
+  },
+  {
+    "id": 50227,
+    "description": "Deals Strike damage to a single enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect durations on the target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to a single enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect durations on the target."
+  },
+  {
+    "id": 50228,
+    "description": "Deals Strike damage to a single enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect durations on the target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to a single enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect durations on the target."
+  },
+  {
+    "id": 50229,
+    "description": "Deals Strike damage to a single enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect durations on the target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to a single enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect durations on the target."
+  },
+  {
+    "id": 50230,
+    "description": "Deals Strike damage to a single enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect durations on the target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to a single enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect durations on the target."
+  },
+  {
+    "id": 50231,
+    "description": "Deals Strike damage to a single enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect durations on the target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to a single enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect durations on the target."
+  },
+  {
+    "id": 50232,
+    "description": "Deals Strike damage to a single enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect durations on the target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to a single enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect durations on the target."
+  },
+  {
+    "id": 50233,
+    "description": "Deals Strike damage to a single enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect durations on the target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to a single enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect durations on the target."
+  },
+  {
+    "id": 50234,
+    "description": "Deals Strike damage to a single enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect durations on the target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to a single enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect durations on the target."
+  },
+  {
+    "id": 50235,
+    "description": "Deals Strike damage to a single enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect durations on the target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to a single enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect durations on the target."
+  },
+  {
+    "id": 50236,
+    "description": "Deals Strike damage to a single enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect durations on the target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to a single enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect durations on the target."
+  },
+  {
+    "id": 50237,
+    "description": "Deals Strike damage to a single enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect durations on the target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to a single enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect durations on the target."
+  },
+  {
+    "id": 50238,
+    "description": "Deals Strike damage to a single enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect durations on the target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to a single enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect durations on the target."
+  },
+  {
+    "id": 50239,
+    "description": "Deals Strike damage to a single enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect durations on the target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to a single enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect durations on the target."
+  },
+  {
+    "id": 50240,
+    "description": "Deals Strike damage to a single enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect durations on the target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to a single enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect durations on the target."
+  },
+  {
+    "id": 50241,
+    "description": "Deals Strike damage to 1 enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>*Does not consume status effect turn count on target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to 1 enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>*Does not consume status effect turn count on target."
+  },
+  {
+    "id": 50242,
+    "description": "Deals Strike damage to 1 enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>*Does not consume status effect turn count on target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to 1 enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>*Does not consume status effect turn count on target."
+  },
+  {
+    "id": 50243,
+    "description": "Deals Strike damage to 1 enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>*Does not consume status effect turn count on target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to 1 enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>*Does not consume status effect turn count on target."
+  },
+  {
+    "id": 50244,
+    "description": "Deals Strike damage to 1 enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>*Does not consume status effect turn count on target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to 1 enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>*Does not consume status effect turn count on target."
+  },
+  {
+    "id": 50245,
+    "description": "Deals Strike damage to 1 enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>*Does not consume status effect turn count on target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to 1 enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>*Does not consume status effect turn count on target."
+  },
+  {
+    "id": 50246,
+    "description": "Deals Strike damage to 1 enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>*Does not consume status effect turn count on target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to 1 enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>*Does not consume status effect turn count on target."
+  },
+  {
+    "id": 50247,
+    "description": "Deals Strike damage to 1 enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>*Does not consume status effect turn count on target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to 1 enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>*Does not consume status effect turn count on target."
+  },
+  {
+    "id": 50248,
+    "description": "Deals Strike damage to 1 enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>*Does not consume status effect turn count on target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to 1 enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>*Does not consume status effect turn count on target."
+  },
+  {
+    "id": 50249,
+    "description": "Deals Strike damage to 1 enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>*Does not consume status effect turn count on target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to 1 enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>*Does not consume status effect turn count on target."
+  },
+  {
+    "id": 50250,
+    "description": "Deals Strike damage to 1 enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>*Does not consume status effect turn count on target.",
+    "name": "Cannon Ball",
+    "summary": "Deals Strike damage to 1 enemy with the highest current HP.<br>Boosts this attack's critical rate by {0}%.<br>*Does not consume status effect turn count on target."
+  },
+  {
+    "id": 50301,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>*Does not consume status effect turn count on target.",
+    "name": "Alchemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>*Does not consume status effect turn count on target."
+  },
+  {
+    "id": 50302,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>*Does not consume status effect turn count on target.",
+    "name": "Alchemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>*Does not consume status effect turn count on target."
+  },
+  {
+    "id": 50303,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>*Does not consume status effect turn count on target.",
+    "name": "Alchemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>*Does not consume status effect turn count on target."
+  },
+  {
+    "id": 50304,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>*Does not consume status effect turn count on target.",
+    "name": "Alchemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>*Does not consume status effect turn count on target."
+  },
+  {
+    "id": 50305,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>*Does not consume status effect turn count on target.",
+    "name": "Alchemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>*Does not consume status effect turn count on target."
+  },
+  {
+    "id": 50306,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>*Does not consume status effect turn count on target.",
+    "name": "Alchemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>*Does not consume status effect turn count on target."
+  },
+  {
+    "id": 50307,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>*Does not consume status effect turn count on target.",
+    "name": "Alchemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>*Does not consume status effect turn count on target."
+  },
+  {
+    "id": 50308,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>*Does not consume status effect turn count on target.",
+    "name": "Alchemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>*Does not consume status effect turn count on target."
+  },
+  {
+    "id": 50309,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>*Does not consume status effect turn count on target.",
+    "name": "Alchemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>*Does not consume status effect turn count on target."
+  },
+  {
+    "id": 50310,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>*Does not consume status effect turn count on target.",
+    "name": "Alchemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>*Does not consume status effect turn count on target."
+  },
+  {
+    "id": 50311,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>※Does not consume target status change counters.",
+    "name": "Alkemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>※Does not consume target status change counters."
+  },
+  {
+    "id": 50312,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>※Does not consume target status change counters.",
+    "name": "Alkemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>※Does not consume target status change counters."
+  },
+  {
+    "id": 50313,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>※Does not consume target status change counters.",
+    "name": "Alkemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>※Does not consume target status change counters."
+  },
+  {
+    "id": 50314,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>※Does not consume target status change counters.",
+    "name": "Alkemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>※Does not consume target status change counters."
+  },
+  {
+    "id": 50315,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>※Does not consume target status change counters.",
+    "name": "Alkemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>※Does not consume target status change counters."
+  },
+  {
+    "id": 50316,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>※Does not consume target status change counters.",
+    "name": "Alkemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>※Does not consume target status change counters."
+  },
+  {
+    "id": 50317,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>※Does not consume target status change counters.",
+    "name": "Alkemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>※Does not consume target status change counters."
+  },
+  {
+    "id": 50318,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>※Does not consume target status change counters.",
+    "name": "Alkemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>※Does not consume target status change counters."
+  },
+  {
+    "id": 50319,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>※Does not consume target status change counters.",
+    "name": "Alkemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>※Does not consume target status change counters."
+  },
+  {
+    "id": 50320,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>※Does not consume target status change counters.",
+    "name": "Alkemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>※Does not consume target status change counters."
+  },
+  {
+    "id": 50321,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>※Does not consume target status change counters.",
+    "name": "Alkemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>※Does not consume target status change counters."
+  },
+  {
+    "id": 50322,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>※Does not consume target status change counters.",
+    "name": "Alkemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>※Does not consume target status change counters."
+  },
+  {
+    "id": 50323,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>※Does not consume target status change counters.",
+    "name": "Alkemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>※Does not consume target status change counters."
+  },
+  {
+    "id": 50324,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>※Does not consume target status change counters.",
+    "name": "Alkemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>※Does not consume target status change counters."
+  },
+  {
+    "id": 50325,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>※Does not consume target status change counters.",
+    "name": "Alkemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>※Does not consume target status change counters."
+  },
+  {
+    "id": 50326,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume target status change counters.",
+    "name": "Alkemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume target status change counters."
+  },
+  {
+    "id": 50327,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume target status change counters.",
+    "name": "Alkemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume target status change counters."
+  },
+  {
+    "id": 50328,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume target status change counters.",
+    "name": "Alkemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume target status change counters."
+  },
+  {
+    "id": 50329,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume target status change counters.",
+    "name": "Alkemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume target status change counters."
+  },
+  {
+    "id": 50330,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume target status change counters.",
+    "name": "Alkemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume target status change counters."
+  },
+  {
+    "id": 50331,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect turn counts on targets.",
+    "name": "Alchemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect turn counts on targets."
+  },
+  {
+    "id": 50332,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect turn counts on targets.",
+    "name": "Alchemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect turn counts on targets."
+  },
+  {
+    "id": 50333,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect turn counts on targets.",
+    "name": "Alchemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect turn counts on targets."
+  },
+  {
+    "id": 50334,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect turn counts on targets.",
+    "name": "Alchemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect turn counts on targets."
+  },
+  {
+    "id": 50335,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect turn counts on targets.",
+    "name": "Alchemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect turn counts on targets."
+  },
+  {
+    "id": 50336,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect turn counts on targets.",
+    "name": "Alchemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect turn counts on targets."
+  },
+  {
+    "id": 50337,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect turn counts on targets.",
+    "name": "Alchemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect turn counts on targets."
+  },
+  {
+    "id": 50338,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect turn counts on targets.",
+    "name": "Alchemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect turn counts on targets."
+  },
+  {
+    "id": 50339,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect turn counts on targets.",
+    "name": "Alchemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect turn counts on targets."
+  },
+  {
+    "id": 50340,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect turn counts on targets.",
+    "name": "Alchemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect turn counts on targets."
+  },
+  {
+    "id": 50341,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect turn counts on targets.",
+    "name": "Alchemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect turn counts on targets."
+  },
+  {
+    "id": 50342,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect turn counts on targets.",
+    "name": "Alchemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect turn counts on targets."
+  },
+  {
+    "id": 50343,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect turn counts on targets.",
+    "name": "Alchemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect turn counts on targets."
+  },
+  {
+    "id": 50344,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect turn counts on targets.",
+    "name": "Alchemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect turn counts on targets."
+  },
+  {
+    "id": 50345,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect turn counts on targets.",
+    "name": "Alchemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect turn counts on targets."
+  },
+  {
+    "id": 50346,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect turn counts on targets.",
+    "name": "Alchemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect turn counts on targets."
+  },
+  {
+    "id": 50347,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect turn counts on targets.",
+    "name": "Alchemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect turn counts on targets."
+  },
+  {
+    "id": 50348,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect turn counts on targets.",
+    "name": "Alchemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect turn counts on targets."
+  },
+  {
+    "id": 50349,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect turn counts on targets.",
+    "name": "Alchemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect turn counts on targets."
+  },
+  {
+    "id": 50350,
+    "description": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect turn counts on targets.",
+    "name": "Alchemist Shell",
+    "summary": "Deals Ice damage and Ice stun damage to all enemies.<br>Boosts this attack's critical rate by {0}%.<br>※Does not consume status effect turn counts on targets."
+  },
+  {
+    "id": 50401,
+    "description": "Restores 10% HP to all allies.",
+    "name": "Granat Bomb",
+    "summary": "Restores 10% HP to all allies."
+  },
+  {
+    "id": 50402,
+    "description": "Restores 11% HP to all allies.",
+    "name": "Granat Bomb",
+    "summary": "Restores 11% HP to all allies."
+  },
+  {
+    "id": 50403,
+    "description": "Restores 12% HP to all allies.",
+    "name": "Granat Bomb",
+    "summary": "Restores 12% HP to all allies."
+  },
+  {
+    "id": 50404,
+    "description": "Restores 13% HP to all allies.",
+    "name": "Granat Bomb",
+    "summary": "Restores 13% HP to all allies."
+  },
+  {
+    "id": 50405,
+    "description": "Restores 14% HP to all allies.",
+    "name": "Granat Bomb",
+    "summary": "Restores 14% HP to all allies."
+  },
+  {
+    "id": 50406,
+    "description": "Restores 19% HP to all allies.",
+    "name": "Granat Bomb",
+    "summary": "Restores 19% HP to all allies."
+  },
+  {
+    "id": 50407,
+    "description": "Restores 20% HP to all allies.",
+    "name": "Granat Bomb",
+    "summary": "Restores 20% HP to all allies."
+  },
+  {
+    "id": 50408,
+    "description": "Restores 21% HP to all allies.",
+    "name": "Granat Bomb",
+    "summary": "Restores 21% HP to all allies."
+  },
+  {
+    "id": 50409,
+    "description": "Restores 22% HP to all allies.",
+    "name": "Granat Bomb",
+    "summary": "Restores 22% HP to all allies."
+  },
+  {
+    "id": 50410,
+    "description": "Restores 24% HP to all allies.",
+    "name": "Granat Bomb",
+    "summary": "Restores 24% HP to all allies."
+  },
+  {
+    "id": 50411,
+    "description": "Restores 29% HP to all allies.",
+    "name": "Granat Bomb",
+    "summary": "Restores 29% HP to all allies."
+  },
+  {
+    "id": 50412,
+    "description": "Restores 30% HP to all allies.",
+    "name": "Granat Bomb",
+    "summary": "Restores 30% HP to all allies."
+  },
+  {
+    "id": 50413,
+    "description": "Restores 31% HP to all allies.",
+    "name": "Granat Bomb",
+    "summary": "Restores 31% HP to all allies."
+  },
+  {
+    "id": 50414,
+    "description": "Restores 32% HP to all allies.",
+    "name": "Granat Bomb",
+    "summary": "Restores 32% HP to all allies."
+  },
+  {
+    "id": 50415,
+    "description": "Restores 33% HP to all allies.",
+    "name": "Granat Bomb",
+    "summary": "Restores 33% HP to all allies."
+  },
+  {
+    "id": 50416,
+    "description": "Restores 38% HP to all allies.",
+    "name": "Granat Bomb",
+    "summary": "Restores 38% HP to all allies."
+  },
+  {
+    "id": 50417,
+    "description": "Restores 39% HP to all allies.",
+    "name": "Granat Bomb",
+    "summary": "Restores 39% HP to all allies."
+  },
+  {
+    "id": 50418,
+    "description": "Restores 40% HP to all allies.",
+    "name": "Granat Bomb",
+    "summary": "Restores 40% HP to all allies."
+  },
+  {
+    "id": 50419,
+    "description": "Restores 41% HP to all allies.",
+    "name": "Granat Bomb",
+    "summary": "Restores 41% HP to all allies."
+  },
+  {
+    "id": 50420,
+    "description": "Restores 43% HP to all allies.",
+    "name": "Granat Bomb",
+    "summary": "Restores 43% HP to all allies."
+  },
+  {
+    "id": 50421,
+    "description": "Recovers all allies' HP by 48%.",
+    "name": "Granat Bomb",
+    "summary": "Recovers all allies' HP by 48%."
+  },
+  {
+    "id": 50422,
+    "description": "Recovers all allies' HP by 49%.",
+    "name": "Granat Bomb",
+    "summary": "Recovers all allies' HP by 49%."
+  },
+  {
+    "id": 50423,
+    "description": "Recovers all allies' HP by 50%.",
+    "name": "Granat Bomb",
+    "summary": "Recovers all allies' HP by 50%."
+  },
+  {
+    "id": 50424,
+    "description": "Recovers all allies' HP by 51%.",
+    "name": "Granat Bomb",
+    "summary": "Recovers all allies' HP by 51%."
+  },
+  {
+    "id": 50425,
+    "description": "Recovers all allies' HP by 52%.",
+    "name": "Granat Bomb",
+    "summary": "Recovers all allies' HP by 52%."
+  },
+  {
+    "id": 50426,
+    "description": "Recovers all allies' HP by 57%.",
+    "name": "Granat Bomb",
+    "summary": "Recovers all allies' HP by 57%."
+  },
+  {
+    "id": 50427,
+    "description": "Recovers all allies' HP by 58%.",
+    "name": "Granat Bomb",
+    "summary": "Recovers all allies' HP by 58%."
+  },
+  {
+    "id": 50428,
+    "description": "Recovers all allies' HP by 59%.",
+    "name": "Granat Bomb",
+    "summary": "Recovers all allies' HP by 59%."
+  },
+  {
+    "id": 50429,
+    "description": "Recovers all allies' HP by 60%.",
+    "name": "Granat Bomb",
+    "summary": "Recovers all allies' HP by 60%."
+  },
+  {
+    "id": 50430,
+    "description": "Recovers all allies' HP by 62%.",
+    "name": "Granat Bomb",
+    "summary": "Recovers all allies' HP by 62%."
+  },
+  {
+    "id": 50431,
+    "description": "Recovers all allies' HP by 67%.",
+    "name": "Granat Bomb",
+    "summary": "Recovers all allies' HP by 67%."
+  },
+  {
+    "id": 50432,
+    "description": "Recovers all allies' HP by 68%.",
+    "name": "Granat Bomb",
+    "summary": "Recovers all allies' HP by 68%."
+  },
+  {
+    "id": 50433,
+    "description": "Recovers all allies' HP by 69%.",
+    "name": "Granat Bomb",
+    "summary": "Recovers all allies' HP by 69%."
+  },
+  {
+    "id": 50434,
+    "description": "Recovers all allies' HP by 70%.",
+    "name": "Granat Bomb",
+    "summary": "Recovers all allies' HP by 70%."
+  },
+  {
+    "id": 50435,
+    "description": "Recovers all allies' HP by 71%.",
+    "name": "Granat Bomb",
+    "summary": "Recovers all allies' HP by 71%."
+  },
+  {
+    "id": 50436,
+    "description": "Recovers all allies' HP by 76%.",
+    "name": "Granat Bomb",
+    "summary": "Recovers all allies' HP by 76%."
+  },
+  {
+    "id": 50437,
+    "description": "Recovers all allies' HP by 77%.",
+    "name": "Granat Bomb",
+    "summary": "Recovers all allies' HP by 77%."
+  },
+  {
+    "id": 50438,
+    "description": "Recovers all allies' HP by 78%.",
+    "name": "Granat Bomb",
+    "summary": "Recovers all allies' HP by 78%."
+  },
+  {
+    "id": 50439,
+    "description": "Recovers all allies' HP by 79%.",
+    "name": "Granat Bomb",
+    "summary": "Recovers all allies' HP by 79%."
+  },
+  {
+    "id": 50440,
+    "description": "Recovers all allies' HP by 81%.",
+    "name": "Granat Bomb",
+    "summary": "Recovers all allies' HP by 81%."
+  },
+  {
+    "id": 50441,
+    "description": "Restores HP of all allies by 86%.",
+    "name": "Granat Bomb",
+    "summary": "Restores HP of all allies by 86%."
+  },
+  {
+    "id": 50442,
+    "description": "Restores HP of all allies by 87%.",
+    "name": "Granat Bomb",
+    "summary": "Restores HP of all allies by 87%."
+  },
+  {
+    "id": 50443,
+    "description": "Restores HP of all allies by 88%.",
+    "name": "Granat Bomb",
+    "summary": "Restores HP of all allies by 88%."
+  },
+  {
+    "id": 50444,
+    "description": "Restores HP of all allies by 89%.",
+    "name": "Granat Bomb",
+    "summary": "Restores HP of all allies by 89%."
+  },
+  {
+    "id": 50445,
+    "description": "Restores HP of all allies by 90%.",
+    "name": "Granat Bomb",
+    "summary": "Restores HP of all allies by 90%."
+  },
+  {
+    "id": 50446,
+    "description": "Restores HP of all allies by 95%.",
+    "name": "Granat Bomb",
+    "summary": "Restores HP of all allies by 95%."
+  },
+  {
+    "id": 50447,
+    "description": "Restores HP of all allies by 96%.",
+    "name": "Granat Bomb",
+    "summary": "Restores HP of all allies by 96%."
+  },
+  {
+    "id": 50448,
+    "description": "Restores HP of all allies by 97%.",
+    "name": "Granat Bomb",
+    "summary": "Restores HP of all allies by 97%."
+  },
+  {
+    "id": 50449,
+    "description": "Restores HP of all allies by 98%.",
+    "name": "Granat Bomb",
+    "summary": "Restores HP of all allies by 98%."
+  },
+  {
+    "id": 50450,
+    "description": "Restores HP of all allies by 100%.",
+    "name": "Granat Bomb",
+    "summary": "Restores HP of all allies by 100%."
+  },
+  {
+    "id": 50501,
+    "description": "Increases physical damage received by all enemies by {0}% for 1 attack.",
+    "name": "Type 26-1 Armor-Piercing Round",
+    "summary": "Increases physical damage received by all enemies by {0}% for 1 attack."
+  },
+  {
+    "id": 50502,
+    "description": "Increases physical damage received by all enemies by {0}% for 1 attack.",
+    "name": "Type 26-1 Armor-Piercing Round",
+    "summary": "Increases physical damage received by all enemies by {0}% for 1 attack."
+  },
+  {
+    "id": 50503,
+    "description": "Increases physical damage received by all enemies by {0}% for 1 attack.",
+    "name": "Type 26-1 Armor-Piercing Round",
+    "summary": "Increases physical damage received by all enemies by {0}% for 1 attack."
+  },
+  {
+    "id": 50504,
+    "description": "Increases physical damage received by all enemies by {0}% for 1 attack.",
+    "name": "Type 26-1 Armor-Piercing Round",
+    "summary": "Increases physical damage received by all enemies by {0}% for 1 attack."
+  },
+  {
+    "id": 50505,
+    "description": "Increases physical damage received by all enemies by {0}% for 1 attack.",
+    "name": "Type 26-1 Armor-Piercing Round",
+    "summary": "Increases physical damage received by all enemies by {0}% for 1 attack."
+  },
+  {
+    "id": 50506,
+    "description": "Increases physical damage received by all enemies by {0}% for 1 attack.",
+    "name": "Type 26-1 Armor-Piercing Round",
+    "summary": "Increases physical damage received by all enemies by {0}% for 1 attack."
+  },
+  {
+    "id": 50507,
+    "description": "Increases physical damage received by all enemies by {0}% for 1 attack.",
+    "name": "Type 26-1 Armor-Piercing Round",
+    "summary": "Increases physical damage received by all enemies by {0}% for 1 attack."
+  },
+  {
+    "id": 50508,
+    "description": "Increases physical damage received by all enemies by {0}% for 1 attack.",
+    "name": "Type 26-1 Armor-Piercing Round",
+    "summary": "Increases physical damage received by all enemies by {0}% for 1 attack."
+  },
+  {
+    "id": 50509,
+    "description": "Increases physical damage received by all enemies by {0}% for 1 attack.",
+    "name": "Type 26-1 Armor-Piercing Round",
+    "summary": "Increases physical damage received by all enemies by {0}% for 1 attack."
+  },
+  {
+    "id": 50510,
+    "description": "Increases physical damage received by all enemies by {0}% for 1 attack.",
+    "name": "Type 26-1 Armor-Piercing Round",
+    "summary": "Increases physical damage received by all enemies by {0}% for 1 attack."
+  },
+  {
+    "id": 50511,
+    "description": "Increases all enemies' physical attack damage received by {0}% for 1 attack.",
+    "name": "Type 261 Armor-Piercing Round",
+    "summary": "Increases all enemies' physical attack damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50512,
+    "description": "Increases all enemies' physical attack damage received by {0}% for 1 attack.",
+    "name": "Type 261 Armor-Piercing Round",
+    "summary": "Increases all enemies' physical attack damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50513,
+    "description": "Increases all enemies' physical attack damage received by {0}% for 1 attack.",
+    "name": "Type 261 Armor-Piercing Round",
+    "summary": "Increases all enemies' physical attack damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50514,
+    "description": "Increases all enemies' physical attack damage received by {0}% for 1 attack.",
+    "name": "Type 261 Armor-Piercing Round",
+    "summary": "Increases all enemies' physical attack damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50515,
+    "description": "Increases all enemies' physical attack damage received by {0}% for 1 attack.",
+    "name": "Type 261 Armor-Piercing Round",
+    "summary": "Increases all enemies' physical attack damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50516,
+    "description": "Increases all enemies' physical attack damage received by {0}% for 1 attack.",
+    "name": "Type 261 Armor-Piercing Round",
+    "summary": "Increases all enemies' physical attack damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50517,
+    "description": "Increases all enemies' physical attack damage received by {0}% for 1 attack.",
+    "name": "Type 261 Armor-Piercing Round",
+    "summary": "Increases all enemies' physical attack damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50518,
+    "description": "Increases all enemies' physical attack damage received by {0}% for 1 attack.",
+    "name": "Type 261 Armor-Piercing Round",
+    "summary": "Increases all enemies' physical attack damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50519,
+    "description": "Increases all enemies' physical attack damage received by {0}% for 1 attack.",
+    "name": "Type 261 Armor-Piercing Round",
+    "summary": "Increases all enemies' physical attack damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50520,
+    "description": "Increases all enemies' physical attack damage received by {0}% for 1 attack.",
+    "name": "Type 261 Armor-Piercing Round",
+    "summary": "Increases all enemies' physical attack damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50521,
+    "description": "Increases all enemies' physical attack damage received by {0}% for 1 attack.",
+    "name": "Type 261 Armor-Piercing Round",
+    "summary": "Increases all enemies' physical attack damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50522,
+    "description": "Increases all enemies' physical attack damage received by {0}% for 1 attack.",
+    "name": "Type 261 Armor-Piercing Round",
+    "summary": "Increases all enemies' physical attack damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50523,
+    "description": "Increases all enemies' physical attack damage received by {0}% for 1 attack.",
+    "name": "Type 261 Armor-Piercing Round",
+    "summary": "Increases all enemies' physical attack damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50524,
+    "description": "Increases all enemies' physical attack damage received by {0}% for 1 attack.",
+    "name": "Type 261 Armor-Piercing Round",
+    "summary": "Increases all enemies' physical attack damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50525,
+    "description": "Increases all enemies' physical attack damage received by {0}% for 1 attack.",
+    "name": "Type 261 Armor-Piercing Round",
+    "summary": "Increases all enemies' physical attack damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50526,
+    "description": "Increases all enemies' physical attack damage received by {0}% for 1 attack.",
+    "name": "Type 261 Armor-Piercing Round",
+    "summary": "Increases all enemies' physical attack damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50527,
+    "description": "Increases all enemies' physical attack damage received by {0}% for 1 attack.",
+    "name": "Type 261 Armor-Piercing Round",
+    "summary": "Increases all enemies' physical attack damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50528,
+    "description": "Increases all enemies' physical attack damage received by {0}% for 1 attack.",
+    "name": "Type 261 Armor-Piercing Round",
+    "summary": "Increases all enemies' physical attack damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50529,
+    "description": "Increases all enemies' physical attack damage received by {0}% for 1 attack.",
+    "name": "Type 261 Armor-Piercing Round",
+    "summary": "Increases all enemies' physical attack damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50530,
+    "description": "Increases all enemies' physical attack damage received by {0}% for 1 attack.",
+    "name": "Type 261 Armor-Piercing Round",
+    "summary": "Increases all enemies' physical attack damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50531,
+    "description": "Boosts all enemies' physical damage received by {0}% for 1 attack.",
+    "name": "Type 261 Armor-piercing Rounds",
+    "summary": "Boosts all enemies' physical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50532,
+    "description": "Boosts all enemies' physical damage received by {0}% for 1 attack.",
+    "name": "Type 261 Armor-piercing Rounds",
+    "summary": "Boosts all enemies' physical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50533,
+    "description": "Boosts all enemies' physical damage received by {0}% for 1 attack.",
+    "name": "Type 261 Armor-piercing Rounds",
+    "summary": "Boosts all enemies' physical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50534,
+    "description": "Boosts all enemies' physical damage received by {0}% for 1 attack.",
+    "name": "Type 261 Armor-piercing Rounds",
+    "summary": "Boosts all enemies' physical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50535,
+    "description": "Boosts all enemies' physical damage received by {0}% for 1 attack.",
+    "name": "Type 261 Armor-piercing Rounds",
+    "summary": "Boosts all enemies' physical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50536,
+    "description": "Boosts all enemies' physical damage received by {0}% for 1 attack.",
+    "name": "Type 261 Armor-piercing Rounds",
+    "summary": "Boosts all enemies' physical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50537,
+    "description": "Boosts all enemies' physical damage received by {0}% for 1 attack.",
+    "name": "Type 261 Armor-piercing Rounds",
+    "summary": "Boosts all enemies' physical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50538,
+    "description": "Boosts all enemies' physical damage received by {0}% for 1 attack.",
+    "name": "Type 261 Armor-piercing Rounds",
+    "summary": "Boosts all enemies' physical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50539,
+    "description": "Boosts all enemies' physical damage received by {0}% for 1 attack.",
+    "name": "Type 261 Armor-piercing Rounds",
+    "summary": "Boosts all enemies' physical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50540,
+    "description": "Boosts all enemies' physical damage received by {0}% for 1 attack.",
+    "name": "Type 261 Armor-piercing Rounds",
+    "summary": "Boosts all enemies' physical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50541,
+    "description": "Boosts all enemies' physical damage received by {0}% for 1 attack.",
+    "name": "Type 261 Armor-piercing Rounds",
+    "summary": "Boosts all enemies' physical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50542,
+    "description": "Boosts all enemies' physical damage received by {0}% for 1 attack.",
+    "name": "Type 261 Armor-piercing Rounds",
+    "summary": "Boosts all enemies' physical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50543,
+    "description": "Boosts all enemies' physical damage received by {0}% for 1 attack.",
+    "name": "Type 261 Armor-piercing Rounds",
+    "summary": "Boosts all enemies' physical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50544,
+    "description": "Boosts all enemies' physical damage received by {0}% for 1 attack.",
+    "name": "Type 261 Armor-piercing Rounds",
+    "summary": "Boosts all enemies' physical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50545,
+    "description": "Boosts all enemies' physical damage received by {0}% for 1 attack.",
+    "name": "Type 261 Armor-piercing Rounds",
+    "summary": "Boosts all enemies' physical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50546,
+    "description": "Boosts all enemies' physical damage received by {0}% for 1 attack.",
+    "name": "Type 261 Armor-piercing Rounds",
+    "summary": "Boosts all enemies' physical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50547,
+    "description": "Boosts all enemies' physical damage received by {0}% for 1 attack.",
+    "name": "Type 261 Armor-piercing Rounds",
+    "summary": "Boosts all enemies' physical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50548,
+    "description": "Boosts all enemies' physical damage received by {0}% for 1 attack.",
+    "name": "Type 261 Armor-piercing Rounds",
+    "summary": "Boosts all enemies' physical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50549,
+    "description": "Boosts all enemies' physical damage received by {0}% for 1 attack.",
+    "name": "Type 261 Armor-piercing Rounds",
+    "summary": "Boosts all enemies' physical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50550,
+    "description": "Boosts all enemies' physical damage received by {0}% for 1 attack.",
+    "name": "Type 261 Armor-piercing Rounds",
+    "summary": "Boosts all enemies' physical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50601,
+    "description": "Boosts all enemies' magical damage received by {0}% for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Boosts all enemies' magical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50602,
+    "description": "Boosts all enemies' magical damage received by {0}% for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Boosts all enemies' magical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50603,
+    "description": "Boosts all enemies' magical damage received by {0}% for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Boosts all enemies' magical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50604,
+    "description": "Boosts all enemies' magical damage received by {0}% for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Boosts all enemies' magical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50605,
+    "description": "Boosts all enemies' magical damage received by {0}% for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Boosts all enemies' magical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50606,
+    "description": "Boosts all enemies' magical damage received by {0}% for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Boosts all enemies' magical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50607,
+    "description": "Boosts all enemies' magical damage received by {0}% for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Boosts all enemies' magical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50608,
+    "description": "Boosts all enemies' magical damage received by {0}% for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Boosts all enemies' magical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50609,
+    "description": "Boosts all enemies' magical damage received by {0}% for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Boosts all enemies' magical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50610,
+    "description": "Boosts all enemies' magical damage received by {0}% for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Boosts all enemies' magical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50611,
+    "description": "Boosts all enemies' magical damage received by {0}% for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Boosts all enemies' magical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50612,
+    "description": "Boosts all enemies' magical damage received by {0}% for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Boosts all enemies' magical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50613,
+    "description": "Boosts all enemies' magical damage received by {0}% for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Boosts all enemies' magical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50614,
+    "description": "Boosts all enemies' magical damage received by {0}% for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Boosts all enemies' magical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50615,
+    "description": "Boosts all enemies' magical damage received by {0}% for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Boosts all enemies' magical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50616,
+    "description": "Boosts all enemies' magical damage received by {0}% for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Boosts all enemies' magical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50617,
+    "description": "Boosts all enemies' magical damage received by {0}% for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Boosts all enemies' magical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50618,
+    "description": "Boosts all enemies' magical damage received by {0}% for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Boosts all enemies' magical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50619,
+    "description": "Boosts all enemies' magical damage received by {0}% for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Boosts all enemies' magical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50620,
+    "description": "Boosts all enemies' magical damage received by {0}% for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Boosts all enemies' magical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50621,
+    "description": "Boosts magical damage received by {0}% for all enemies for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Boosts magical damage received by {0}% for all enemies for 1 attack."
+  },
+  {
+    "id": 50622,
+    "description": "Boosts magical damage received by {0}% for all enemies for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Boosts magical damage received by {0}% for all enemies for 1 attack."
+  },
+  {
+    "id": 50623,
+    "description": "Boosts magical damage received by {0}% for all enemies for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Boosts magical damage received by {0}% for all enemies for 1 attack."
+  },
+  {
+    "id": 50624,
+    "description": "Boosts magical damage received by {0}% for all enemies for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Boosts magical damage received by {0}% for all enemies for 1 attack."
+  },
+  {
+    "id": 50625,
+    "description": "Boosts magical damage received by {0}% for all enemies for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Boosts magical damage received by {0}% for all enemies for 1 attack."
+  },
+  {
+    "id": 50626,
+    "description": "Boosts magical damage received by {0}% for all enemies for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Boosts magical damage received by {0}% for all enemies for 1 attack."
+  },
+  {
+    "id": 50627,
+    "description": "Boosts magical damage received by {0}% for all enemies for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Boosts magical damage received by {0}% for all enemies for 1 attack."
+  },
+  {
+    "id": 50628,
+    "description": "Boosts magical damage received by {0}% for all enemies for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Boosts magical damage received by {0}% for all enemies for 1 attack."
+  },
+  {
+    "id": 50629,
+    "description": "Boosts magical damage received by {0}% for all enemies for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Boosts magical damage received by {0}% for all enemies for 1 attack."
+  },
+  {
+    "id": 50630,
+    "description": "Boosts magical damage received by {0}% for all enemies for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Boosts magical damage received by {0}% for all enemies for 1 attack."
+  },
+  {
+    "id": 50631,
+    "description": "Boosts magical damage received by {0}% for all enemies for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Boosts magical damage received by {0}% for all enemies for 1 attack."
+  },
+  {
+    "id": 50632,
+    "description": "Boosts magical damage received by {0}% for all enemies for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Boosts magical damage received by {0}% for all enemies for 1 attack."
+  },
+  {
+    "id": 50633,
+    "description": "Boosts magical damage received by {0}% for all enemies for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Boosts magical damage received by {0}% for all enemies for 1 attack."
+  },
+  {
+    "id": 50634,
+    "description": "Boosts magical damage received by {0}% for all enemies for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Boosts magical damage received by {0}% for all enemies for 1 attack."
+  },
+  {
+    "id": 50635,
+    "description": "Boosts magical damage received by {0}% for all enemies for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Boosts magical damage received by {0}% for all enemies for 1 attack."
+  },
+  {
+    "id": 50636,
+    "description": "Boosts magical damage received by {0}% for all enemies for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Boosts magical damage received by {0}% for all enemies for 1 attack."
+  },
+  {
+    "id": 50637,
+    "description": "Boosts magical damage received by {0}% for all enemies for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Boosts magical damage received by {0}% for all enemies for 1 attack."
+  },
+  {
+    "id": 50638,
+    "description": "Boosts magical damage received by {0}% for all enemies for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Boosts magical damage received by {0}% for all enemies for 1 attack."
+  },
+  {
+    "id": 50639,
+    "description": "Boosts magical damage received by {0}% for all enemies for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Boosts magical damage received by {0}% for all enemies for 1 attack."
+  },
+  {
+    "id": 50640,
+    "description": "Boosts magical damage received by {0}% for all enemies for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Boosts magical damage received by {0}% for all enemies for 1 attack."
+  },
+  {
+    "id": 50641,
+    "description": "Increases all enemies' magical damage received by {0}% for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Increases all enemies' magical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50642,
+    "description": "Increases all enemies' magical damage received by {0}% for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Increases all enemies' magical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50643,
+    "description": "Increases all enemies' magical damage received by {0}% for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Increases all enemies' magical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50644,
+    "description": "Increases all enemies' magical damage received by {0}% for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Increases all enemies' magical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50645,
+    "description": "Increases all enemies' magical damage received by {0}% for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Increases all enemies' magical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50646,
+    "description": "Increases all enemies' magical damage received by {0}% for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Increases all enemies' magical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50647,
+    "description": "Increases all enemies' magical damage received by {0}% for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Increases all enemies' magical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50648,
+    "description": "Increases all enemies' magical damage received by {0}% for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Increases all enemies' magical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50649,
+    "description": "Increases all enemies' magical damage received by {0}% for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Increases all enemies' magical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50650,
+    "description": "Increases all enemies' magical damage received by {0}% for 1 attack.",
+    "name": "Sternspitze",
+    "summary": "Increases all enemies' magical damage received by {0}% for 1 attack."
+  },
+  {
+    "id": 50701,
+    "description": "Grants all allies skill damage +{0}% for Attackers for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Grants all allies skill damage +{0}% for Attackers for 2 turns."
+  },
+  {
+    "id": 50702,
+    "description": "Grants all allies skill damage +{0}% for Attackers for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Grants all allies skill damage +{0}% for Attackers for 2 turns."
+  },
+  {
+    "id": 50703,
+    "description": "Grants all allies skill damage +{0}% for Attackers for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Grants all allies skill damage +{0}% for Attackers for 2 turns."
+  },
+  {
+    "id": 50704,
+    "description": "Grants all allies skill damage +{0}% for Attackers for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Grants all allies skill damage +{0}% for Attackers for 2 turns."
+  },
+  {
+    "id": 50705,
+    "description": "Grants all allies skill damage +{0}% for Attackers for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Grants all allies skill damage +{0}% for Attackers for 2 turns."
+  },
+  {
+    "id": 50706,
+    "description": "Grants all allies skill damage +{0}% for Attackers for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Grants all allies skill damage +{0}% for Attackers for 2 turns."
+  },
+  {
+    "id": 50707,
+    "description": "Grants all allies skill damage +{0}% for Attackers for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Grants all allies skill damage +{0}% for Attackers for 2 turns."
+  },
+  {
+    "id": 50708,
+    "description": "Grants all allies skill damage +{0}% for Attackers for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Grants all allies skill damage +{0}% for Attackers for 2 turns."
+  },
+  {
+    "id": 50709,
+    "description": "Grants all allies skill damage +{0}% for Attackers for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Grants all allies skill damage +{0}% for Attackers for 2 turns."
+  },
+  {
+    "id": 50710,
+    "description": "Grants all allies skill damage +{0}% for Attackers for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Grants all allies skill damage +{0}% for Attackers for 2 turns."
+  },
+  {
+    "id": 50711,
+    "description": "Boosts all Attackers' skill damage by {0}% for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Boosts all Attackers' skill damage by {0}% for 2 turns."
+  },
+  {
+    "id": 50712,
+    "description": "Boosts all Attackers' skill damage by {0}% for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Boosts all Attackers' skill damage by {0}% for 2 turns."
+  },
+  {
+    "id": 50713,
+    "description": "Boosts all Attackers' skill damage by {0}% for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Boosts all Attackers' skill damage by {0}% for 2 turns."
+  },
+  {
+    "id": 50714,
+    "description": "Boosts all Attackers' skill damage by {0}% for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Boosts all Attackers' skill damage by {0}% for 2 turns."
+  },
+  {
+    "id": 50715,
+    "description": "Boosts all Attackers' skill damage by {0}% for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Boosts all Attackers' skill damage by {0}% for 2 turns."
+  },
+  {
+    "id": 50716,
+    "description": "Boosts all Attackers' skill damage by {0}% for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Boosts all Attackers' skill damage by {0}% for 2 turns."
+  },
+  {
+    "id": 50717,
+    "description": "Boosts all Attackers' skill damage by {0}% for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Boosts all Attackers' skill damage by {0}% for 2 turns."
+  },
+  {
+    "id": 50718,
+    "description": "Boosts all Attackers' skill damage by {0}% for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Boosts all Attackers' skill damage by {0}% for 2 turns."
+  },
+  {
+    "id": 50719,
+    "description": "Boosts all Attackers' skill damage by {0}% for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Boosts all Attackers' skill damage by {0}% for 2 turns."
+  },
+  {
+    "id": 50720,
+    "description": "Boosts all Attackers' skill damage by {0}% for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Boosts all Attackers' skill damage by {0}% for 2 turns."
+  },
+  {
+    "id": 50721,
+    "description": "Boosts all Attackers' skill damage by {0}% for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Boosts all Attackers' skill damage by {0}% for 2 turns."
+  },
+  {
+    "id": 50722,
+    "description": "Boosts all Attackers' skill damage by {0}% for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Boosts all Attackers' skill damage by {0}% for 2 turns."
+  },
+  {
+    "id": 50723,
+    "description": "Boosts all Attackers' skill damage by {0}% for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Boosts all Attackers' skill damage by {0}% for 2 turns."
+  },
+  {
+    "id": 50724,
+    "description": "Boosts all Attackers' skill damage by {0}% for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Boosts all Attackers' skill damage by {0}% for 2 turns."
+  },
+  {
+    "id": 50725,
+    "description": "Boosts all Attackers' skill damage by {0}% for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Boosts all Attackers' skill damage by {0}% for 2 turns."
+  },
+  {
+    "id": 50726,
+    "description": "Boosts all Attackers' skill damage by {0}% for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Boosts all Attackers' skill damage by {0}% for 2 turns."
+  },
+  {
+    "id": 50727,
+    "description": "Boosts all Attackers' skill damage by {0}% for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Boosts all Attackers' skill damage by {0}% for 2 turns."
+  },
+  {
+    "id": 50728,
+    "description": "Boosts all Attackers' skill damage by {0}% for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Boosts all Attackers' skill damage by {0}% for 2 turns."
+  },
+  {
+    "id": 50729,
+    "description": "Boosts all Attackers' skill damage by {0}% for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Boosts all Attackers' skill damage by {0}% for 2 turns."
+  },
+  {
+    "id": 50730,
+    "description": "Boosts all Attackers' skill damage by {0}% for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Boosts all Attackers' skill damage by {0}% for 2 turns."
+  },
+  {
+    "id": 50731,
+    "description": "Boosts skill damage by {0}% for all Attackers for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Boosts skill damage by {0}% for all Attackers for 2 turns."
+  },
+  {
+    "id": 50732,
+    "description": "Boosts skill damage by {0}% for all Attackers for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Boosts skill damage by {0}% for all Attackers for 2 turns."
+  },
+  {
+    "id": 50733,
+    "description": "Boosts skill damage by {0}% for all Attackers for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Boosts skill damage by {0}% for all Attackers for 2 turns."
+  },
+  {
+    "id": 50734,
+    "description": "Boosts skill damage by {0}% for all Attackers for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Boosts skill damage by {0}% for all Attackers for 2 turns."
+  },
+  {
+    "id": 50735,
+    "description": "Boosts skill damage by {0}% for all Attackers for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Boosts skill damage by {0}% for all Attackers for 2 turns."
+  },
+  {
+    "id": 50736,
+    "description": "Boosts skill damage by {0}% for all Attackers for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Boosts skill damage by {0}% for all Attackers for 2 turns."
+  },
+  {
+    "id": 50737,
+    "description": "Boosts skill damage by {0}% for all Attackers for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Boosts skill damage by {0}% for all Attackers for 2 turns."
+  },
+  {
+    "id": 50738,
+    "description": "Boosts skill damage by {0}% for all Attackers for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Boosts skill damage by {0}% for all Attackers for 2 turns."
+  },
+  {
+    "id": 50739,
+    "description": "Boosts skill damage by {0}% for all Attackers for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Boosts skill damage by {0}% for all Attackers for 2 turns."
+  },
+  {
+    "id": 50740,
+    "description": "Boosts skill damage by {0}% for all Attackers for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Boosts skill damage by {0}% for all Attackers for 2 turns."
+  },
+  {
+    "id": 50741,
+    "description": "Boosts skill damage by {0}% for all Attackers for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Boosts skill damage by {0}% for all Attackers for 2 turns."
+  },
+  {
+    "id": 50742,
+    "description": "Boosts skill damage by {0}% for all Attackers for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Boosts skill damage by {0}% for all Attackers for 2 turns."
+  },
+  {
+    "id": 50743,
+    "description": "Boosts skill damage by {0}% for all Attackers for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Boosts skill damage by {0}% for all Attackers for 2 turns."
+  },
+  {
+    "id": 50744,
+    "description": "Boosts skill damage by {0}% for all Attackers for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Boosts skill damage by {0}% for all Attackers for 2 turns."
+  },
+  {
+    "id": 50745,
+    "description": "Boosts skill damage by {0}% for all Attackers for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Boosts skill damage by {0}% for all Attackers for 2 turns."
+  },
+  {
+    "id": 50746,
+    "description": "Boosts skill damage by {0}% for all Attackers for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Boosts skill damage by {0}% for all Attackers for 2 turns."
+  },
+  {
+    "id": 50747,
+    "description": "Boosts skill damage by {0}% for all Attackers for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Boosts skill damage by {0}% for all Attackers for 2 turns."
+  },
+  {
+    "id": 50748,
+    "description": "Boosts skill damage by {0}% for all Attackers for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Boosts skill damage by {0}% for all Attackers for 2 turns."
+  },
+  {
+    "id": 50749,
+    "description": "Boosts skill damage by {0}% for all Attackers for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Boosts skill damage by {0}% for all Attackers for 2 turns."
+  },
+  {
+    "id": 50750,
+    "description": "Boosts skill damage by {0}% for all Attackers for 2 turns.",
+    "name": "Break Shot",
+    "summary": "Boosts skill damage by {0}% for all Attackers for 2 turns."
+  },
+  {
+    "id": 11003648,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, boosts own P. ATK by {0}% (MAX 40%).",
+    "name": "Double Shot",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, boosts own P. ATK."
+  },
+  {
+    "id": 11003649,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, boosts own P. ATK by {0}% (MAX 40%).",
+    "name": "Double Shot",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, boosts own P. ATK."
+  },
+  {
+    "id": 11003650,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, boosts own P. ATK by {0}% (MAX 40%).",
+    "name": "Double Shot",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, boosts own P. ATK."
+  },
+  {
+    "id": 11003651,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, boosts own P. ATK by {0}% (MAX 40%).",
+    "name": "Double Shot",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, boosts own P. ATK."
+  },
+  {
+    "id": 11003652,
+    "description": "Before attacking, removes own negative effects.<br>After attacking, boosts own P. ATK by {0}% (MAX 40%).",
+    "name": "Double Shot",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, boosts own P. ATK."
+  },
+  {
+    "id": 12003653,
+    "description": "Boosts this attack's critical damage by {0}%.<br>Before attacking, reduces target's Stab resistance by {1}% for 1 attack.<br>After attacking, boosts own P. ATK by {2}% and skill damage by {3}% for 3 turns.<br>If Call Sign α is Lv. 10, creates an extra turn (Extra Skill: {hyperlink_id 153}) 3 turns later.",
+    "name": "Sanction Trigger",
+    "summary": "Boosts this attack's critical damage.<br>Before attacking, reduces target's Stab resistance.<br>After attacking, boosts own P. ATK and skill damage.<br>If Call Sign α is Lv. 10, creates an extra turn."
+  },
+  {
+    "id": 12003654,
+    "description": "Boosts this attack's critical damage by {0}%.<br>Before attacking, reduces target's Stab resistance by {1}% for 1 attack.<br>After attacking, boosts own P. ATK by {2}% and skill damage by {3}% for 3 turns.<br>If Call Sign α is Lv. 10, creates an extra turn (Extra Skill: {hyperlink_id 153}) 3 turns later.",
+    "name": "Sanction Trigger",
+    "summary": "Boosts this attack's critical damage.<br>Before attacking, reduces target's Stab resistance.<br>After attacking, boosts own P. ATK and skill damage.<br>If Call Sign α is Lv. 10, creates an extra turn."
+  },
+  {
+    "id": 12003655,
+    "description": "Boosts this attack's critical damage by {0}%.<br>Before attacking, reduces target's Stab resistance by {1}% for 1 attack.<br>After attacking, boosts own P. ATK by {2}% and skill damage by {3}% for 3 turns.<br>If Call Sign α is Lv. 10, creates an extra turn (Extra Skill: {hyperlink_id 153}) 3 turns later.",
+    "name": "Sanction Trigger",
+    "summary": "Boosts this attack's critical damage.<br>Before attacking, reduces target's Stab resistance.<br>After attacking, boosts own P. ATK and skill damage.<br>If Call Sign α is Lv. 10, creates an extra turn."
+  },
+  {
+    "id": 12003656,
+    "description": "Boosts this attack's critical damage by {0}%.<br>Before attacking, reduces target's Stab resistance by {1}% for 1 attack.<br>After attacking, boosts own P. ATK by {2}% and skill damage by {3}% for 3 turns.<br>If Call Sign α is Lv. 10, creates an extra turn (Extra Skill: {hyperlink_id 153}) 3 turns later.",
+    "name": "Sanction Trigger",
+    "summary": "Boosts this attack's critical damage.<br>Before attacking, reduces target's Stab resistance.<br>After attacking, boosts own P. ATK and skill damage.<br>If Call Sign α is Lv. 10, creates an extra turn."
+  },
+  {
+    "id": 12003657,
+    "description": "Boosts this attack's critical damage by {0}%.<br>Before attacking, reduces target's Stab resistance by {1}% for 1 attack.<br>After attacking, boosts own P. ATK by {2}% and skill damage by {3}% for 3 turns.<br>If Call Sign α is Lv. 10, creates an extra turn (Extra Skill: {hyperlink_id 153}) 3 turns later.",
+    "name": "Sanction Trigger",
+    "summary": "Boosts this attack's critical damage.<br>Before attacking, reduces target's Stab resistance.<br>After attacking, boosts own P. ATK and skill damage.<br>If Call Sign α is Lv. 10, creates an extra turn."
+  },
+  {
+    "id": 14003658,
+    "description": "Boosts this attack's critical damage by {0}%.<br>After attacking, boosts own skill damage by {1}% and penetration by {2} for 2 turns.<br>Boosts own critical damage by {3}% (MAX 150%) and penetration by {4} (MAX 100).",
+    "name": "Order: Enforcement",
+    "summary": "Boosts this attack's critical damage.<br>After attacking, boosts skill damage, penetration, and critical damage."
+  },
+  {
+    "id": 14003659,
+    "description": "Boosts this attack's critical damage by {0}%.<br>After attacking, boosts own skill damage by {1}% and penetration by {2} for 2 turns.<br>Boosts own critical damage by {3}% (MAX 150%) and penetration by {4} (MAX 100).",
+    "name": "Order: Enforcement",
+    "summary": "Boosts this attack's critical damage.<br>After attacking, boosts skill damage, penetration, and critical damage."
+  },
+  {
+    "id": 14003660,
+    "description": "Boosts this attack's critical damage by {0}%.<br>After attacking, boosts own skill damage by {1}% and penetration by {2} for 2 turns.<br>Boosts own critical damage by {3}% (MAX 150%) and penetration by {4} (MAX 100).",
+    "name": "Order: Enforcement",
+    "summary": "Boosts this attack's critical damage.<br>After attacking, boosts skill damage, penetration, and critical damage."
+  },
+  {
+    "id": 14003661,
+    "description": "Boosts this attack's critical damage by {0}%.<br>After attacking, boosts own skill damage by {1}% and penetration by {2} for 2 turns.<br>Boosts own critical damage by {3}% (MAX 150%) and penetration by {4} (MAX 100).",
+    "name": "Order: Enforcement",
+    "summary": "Boosts this attack's critical damage.<br>After attacking, boosts skill damage, penetration, and critical damage."
+  },
+  {
+    "id": 14003662,
+    "description": "Boosts this attack's critical damage by {0}%.<br>After attacking, boosts own skill damage by {1}% and penetration by {2} for 2 turns.<br>Boosts own critical damage by {3}% (MAX 150%) and penetration by {4} (MAX 100).",
+    "name": "Order: Enforcement",
+    "summary": "Boosts this attack's critical damage.<br>After attacking, boosts skill damage, penetration, and critical damage."
+  },
+  {
+    "id": 14003663,
+    "description": "Boosts this attack's critical rate by 100%.<br>Boosts this attack's damage by {0}%.<br>Before attacking, removes own negative effects and status effects.<br>After attacking, boosts own critical rate by {1}%, critical damage by {2}%, and burst skill damage by {3}% for 3 turns.<br>Increases own burst gauge by {4}%.<br>Removes Call Sign α.",
+    "name": "Order: Intercept",
+    "summary": "Boosts this attack's critical rate and damage.<br>Before attacking, removes own negative effects and status effects.<br>After attacking, boosts own critical rate, critical damage, and burst skill damage, and increases burst gauge.<br>Removes Call Sign α."
+  },
+  {
+    "id": 14003664,
+    "description": "Boosts this attack's critical rate by 100%.<br>Boosts this attack's damage by {0}%.<br>Before attacking, removes own negative effects and status effects.<br>After attacking, boosts own critical rate by {1}%, critical damage by {2}%, and burst skill damage by {3}% for 3 turns.<br>Increases own burst gauge by {4}%.<br>Removes Call Sign α.",
+    "name": "Order: Intercept",
+    "summary": "Boosts this attack's critical rate and damage.<br>Before attacking, removes own negative effects and status effects.<br>After attacking, boosts own critical rate, critical damage, and burst skill damage, and increases burst gauge.<br>Removes Call Sign α."
+  },
+  {
+    "id": 14003665,
+    "description": "Boosts this attack's critical rate by 100%.<br>Boosts this attack's damage by {0}%.<br>Before attacking, removes own negative effects and status effects.<br>After attacking, boosts own critical rate by {1}%, critical damage by {2}%, and burst skill damage by {3}% for 3 turns.<br>Increases own burst gauge by {4}%.<br>Removes Call Sign α.",
+    "name": "Order: Intercept",
+    "summary": "Boosts this attack's critical rate and damage.<br>Before attacking, removes own negative effects and status effects.<br>After attacking, boosts own critical rate, critical damage, and burst skill damage, and increases burst gauge.<br>Removes Call Sign α."
+  },
+  {
+    "id": 14003666,
+    "description": "Boosts this attack's critical rate by 100%.<br>Boosts this attack's damage by {0}%.<br>Before attacking, removes own negative effects and status effects.<br>After attacking, boosts own critical rate by {1}%, critical damage by {2}%, and burst skill damage by {3}% for 3 turns.<br>Increases own burst gauge by {4}%.<br>Removes Call Sign α.",
+    "name": "Order: Intercept",
+    "summary": "Boosts this attack's critical rate and damage.<br>Before attacking, removes own negative effects and status effects.<br>After attacking, boosts own critical rate, critical damage, and burst skill damage, and increases burst gauge.<br>Removes Call Sign α."
+  },
+  {
+    "id": 14003667,
+    "description": "Boosts this attack's critical rate by 100%.<br>Boosts this attack's damage by {0}%.<br>Before attacking, removes own negative effects and status effects.<br>After attacking, boosts own critical rate by {1}%, critical damage by {2}%, and burst skill damage by {3}% for 3 turns.<br>Increases own burst gauge by {4}%.<br>Removes Call Sign α.",
+    "name": "Order: Intercept",
+    "summary": "Boosts this attack's critical rate and damage.<br>Before attacking, removes own negative effects and status effects.<br>After attacking, boosts own critical rate, critical damage, and burst skill damage, and increases burst gauge.<br>Removes Call Sign α."
+  },
+  {
+    "id": 26001990,
+    "description": "After attacking, grants self Damage Dealt +30%, Stun Damage Received -30%, and Damage Received -30% for 2 turns.",
+    "name": "Needle Blast",
+    "summary": ""
+  },
+  {
+    "id": 26001991,
+    "description": "After attacking, grants self Damage Dealt +20% and Damage Received -20% for 2 turns.",
+    "name": "Headlong Wave",
+    "summary": ""
+  },
+  {
+    "id": 26001992,
+    "description": "After attacking, reduces own damage received by 30% for 1 turn.",
+    "name": "Spin Needle",
+    "summary": ""
+  },
+  {
+    "id": 26001993,
+    "description": "After attacking, restores own HP by 15%.",
+    "name": "Skate Carapace",
+    "summary": ""
+  },
+  {
+    "id": 26001994,
+    "description": "Grants skill target Negative Effect Potency -30% and Critical Rate +10% for 2 turns.",
+    "name": "Shell Field",
+    "summary": ""
+  },
+  {
+    "id": 26001995,
+    "description": "No additional effects.",
+    "name": "Strike Axe",
+    "summary": ""
+  },
+  {
+    "id": 26001996,
+    "description": "After attacking, reduces target's P.DEF by 25% for 2 turns.",
+    "name": "Protray",
+    "summary": ""
+  },
+  {
+    "id": 26001997,
+    "description": "No additional effects.",
+    "name": "Primal Stroke",
+    "summary": ""
+  },
+  {
+    "id": 26001998,
+    "description": "No additional effects.",
+    "name": "Ancient Blast",
+    "summary": ""
+  },
+  {
+    "id": 26001999,
+    "description": "Grants target P.DEF +25%, Magical Damage Received -20%, and SPD +8% for 2 turns.",
+    "name": "Ancient Power",
+    "summary": ""
+  },
+  {
+    "id": 26002000,
+    "description": "No additional effects.",
+    "name": "Counter",
+    "summary": ""
+  },
+  {
+    "id": 26002001,
+    "description": "Grants self Counter for 3 counterattacks, Damage Received -20%, and Stun Damage Received -30% for 3 turns.",
+    "name": "Counterattack Stance",
+    "summary": ""
+  },
+  {
+    "id": 26002002,
+    "description": "After attacking, creates a boost panel on own next turn and grants self Damage Dealt +30% for 3 turns.",
+    "name": "Sand Devourer",
+    "summary": ""
+  },
+  {
+    "id": 26002003,
+    "description": "No additional effects.",
+    "name": "Heavy Bite",
+    "summary": ""
+  },
+  {
+    "id": 26002004,
+    "description": "After attacking, reduces target's critical rate by 30% for 3 turns.",
+    "name": "Heat Lock",
+    "summary": ""
+  },
+  {
+    "id": 26002005,
+    "description": "After attacking, increases all enemies' damage received by 20% for 3 turns.",
+    "name": "Fire Breath",
+    "summary": ""
+  },
+  {
+    "id": 26002006,
+    "description": "Removes all allies' status effects, restores HP by 15%, and grants status effect immunity for 1 turn.",
+    "name": "Protective Roar",
+    "summary": ""
+  },
+  {
+    "id": 26002007,
+    "description": "After attacking, grants self Damage Dealt +20% and SPD +10% for 1 turn.",
+    "name": "Frenzied Ray",
+    "summary": ""
+  },
+  {
+    "id": 26002008,
+    "description": "After attacking, grants self Damage Dealt +15% for 1 turn.",
+    "name": "Laser Eyes",
+    "summary": ""
+  },
+  {
+    "id": 26002009,
+    "description": "No additional effects.",
+    "name": "Glide",
+    "summary": ""
+  },
+  {
+    "id": 26002010,
+    "description": "After attacking, reduces own damage received by 35% for 1 turn.",
+    "name": "Scatter Beam",
+    "summary": ""
+  },
+  {
+    "id": 26002011,
+    "description": "No additional effects.",
+    "name": "Roll Over",
+    "summary": ""
+  },
+  {
+    "id": 26002012,
+    "description": "No additional effects.",
+    "name": "Deluxe Glittery Punibomber",
+    "summary": ""
+  },
+  {
+    "id": 26002013,
+    "description": "No additional effects.",
+    "name": "Puni Breath",
+    "summary": ""
+  },
+  {
+    "id": 26002014,
+    "description": "Recovers 30% HP for target ally.",
+    "name": "Heal",
+    "summary": ""
+  },
+  {
+    "id": 26002015,
+    "description": "After attacking, boosts self's damage dealt by 40% for 2 turns, reduces stun damage received by 40% for 2 turns, and reduces damage received by 30% for 2 turns.",
+    "name": "Needle Blast",
+    "summary": ""
+  },
+  {
+    "id": 26002016,
+    "description": "After attacking, boosts self's damage dealt by 30% for 2 turns and reduces damage received by 30% for 2 turns.",
+    "name": "Ramming Wave",
+    "summary": ""
+  },
+  {
+    "id": 26002017,
+    "description": "After attacking, reduces own damage received by 30% for 1 turn.",
+    "name": "Spin Needle",
+    "summary": ""
+  },
+  {
+    "id": 26002018,
+    "description": "After attacking, recovers 15% of own HP.",
+    "name": "Skate Carapace",
+    "summary": ""
+  },
+  {
+    "id": 26002019,
+    "description": "Grants skill target negative effect potency down by 30% for 2 turns and boosts critical rate by 10% for 2 turns.",
+    "name": "Shell Field",
+    "summary": ""
+  },
+  {
+    "id": 26002020,
+    "description": "No additional effects.",
+    "name": "Strike Axe",
+    "summary": ""
+  },
+  {
+    "id": 26002021,
+    "description": "After attacking, reduces target's P.DEF by 35% for 2 turns.",
+    "name": "Protray",
+    "summary": ""
+  },
+  {
+    "id": 26002022,
+    "description": "No additional effects.",
+    "name": "Primal Stroke",
+    "summary": ""
+  },
+  {
+    "id": 26002023,
+    "description": "No additional effects.",
+    "name": "Ancient Blast",
+    "summary": ""
+  },
+  {
+    "id": 26002024,
+    "description": "Boosts target's P.DEF by 35% for 2 turns, reduces magic attack damage received by 30% for 2 turns, and boosts SPD by 10% for 2 turns.",
+    "name": "Ancient Power",
+    "summary": ""
+  },
+  {
+    "id": 26002025,
+    "description": "No additional effects.",
+    "name": "Counter",
+    "summary": ""
+  },
+  {
+    "id": 26002026,
+    "description": "Grants self Counter for 3 counterattacks, reduces damage received by 30% for 3 turns, and reduces stun damage received by 40% for 3 turns.",
+    "name": "Interception Stance",
+    "summary": ""
+  },
+  {
+    "id": 26002027,
+    "description": "After attacking, creates a boost panel on own next turn and boosts damage dealt by 35% for 3 turns.",
+    "name": "Sand Devourer",
+    "summary": ""
+  },
+  {
+    "id": 26002028,
+    "description": "No additional effects.",
+    "name": "Heavy Bite",
+    "summary": ""
+  },
+  {
+    "id": 26002029,
+    "description": "After attacking, reduces target's critical rate by 40% for 3 turns.",
+    "name": "Heat Lock",
+    "summary": ""
+  },
+  {
+    "id": 26002030,
+    "description": "After attacking, boosts all enemies' damage received by 30% for 3 turns.",
+    "name": "Fire Breath",
+    "summary": ""
+  },
+  {
+    "id": 26002031,
+    "description": "Removes all status effects from all allies, restores HP by 15%, and grants status effect immunity for 1 turn.",
+    "name": "Guardian's Roar",
+    "summary": ""
+  },
+  {
+    "id": 26002032,
+    "description": "After attacking, boosts own damage dealt by 40% and SPD by 10% for 1 turn.",
+    "name": "Madness Ray",
+    "summary": ""
+  },
+  {
+    "id": 26002033,
+    "description": "After attacking, boosts own damage dealt by 30% for 1 turn.",
+    "name": "Laser Eyes",
+    "summary": ""
+  },
+  {
+    "id": 26002034,
+    "description": "No additional effects.",
+    "name": "Glide",
+    "summary": ""
+  },
+  {
+    "id": 26002035,
+    "description": "After attacking, reduces own damage received by 25% for 1 turn.",
+    "name": "Scattering Ray",
+    "summary": ""
+  },
+  {
+    "id": 26002036,
+    "description": "No additional effects.",
+    "name": "Tumble",
+    "summary": ""
+  },
+  {
+    "id": 26002037,
+    "description": "No additional effects.",
+    "name": "Deluxe Golden Bomber",
+    "summary": ""
+  },
+  {
+    "id": 26002038,
+    "description": "No additional effects.",
+    "name": "Puni Breath",
+    "summary": ""
+  },
+  {
+    "id": 26002039,
+    "description": "Restores target ally's HP by 40%.",
+    "name": "Heal",
+    "summary": ""
+  },
+  {
+    "id": 26002040,
+    "description": "Restores target ally's HP by 40%.",
+    "name": "Healing Chorus",
+    "summary": ""
+  },
+  {
+    "id": 26002041,
+    "description": "Restores target ally's HP by 15%, then restores target's stun gauge by 15%.",
+    "name": "Support",
+    "summary": ""
+  },
+  {
+    "id": 26002042,
+    "description": "Restores all allies' HP by 15%.",
+    "name": "Support",
+    "summary": ""
+  },
+  {
+    "id": 26002043,
+    "description": "No additional effects.",
+    "name": "Bare Teeth",
+    "summary": ""
+  },
+  {
+    "id": 26002044,
+    "description": "After attacking, reduces target's damage dealt by 35% for 1 turn.",
+    "name": "Whirlwind Dance",
+    "summary": ""
+  },
+  {
+    "id": 26002045,
+    "description": "No additional effects.",
+    "name": "Tornado Dance",
+    "summary": ""
+  },
+  {
+    "id": 26002046,
+    "description": "After attacking, boosts all allies' damage dealt by 25% and reduces their damage received by 25% for 3 turns.",
+    "name": "Stage on Ice",
+    "summary": ""
+  },
+  {
+    "id": 26002047,
+    "description": "Reduces all allies' damage received by 25% for 3 turns.",
+    "name": "Protective Dance",
+    "summary": ""
+  },
+  {
+    "id": 26002048,
+    "description": "Reduces all enemies' damage dealt by 40% and stun damage dealt by 40% for 3 turns.",
+    "name": "Hazardous Snow",
+    "summary": ""
+  },
+  {
+    "id": 26002049,
+    "description": "Restores target ally's stun gauge and HP by 15%.",
+    "name": "Support",
+    "summary": ""
+  },
+  {
+    "id": 26002050,
+    "description": "After attacking, converts 1 panel for all enemies to an empty panel.",
+    "name": "Mill Storm",
+    "summary": ""
+  },
+  {
+    "id": 26002051,
+    "description": "No effect.",
+    "name": "Tail Rush",
+    "summary": ""
+  },
+  {
+    "id": 26002052,
+    "description": "After attacking, converts 1 panel for the target enemy to a weaken panel.",
+    "name": "Wind Ball",
+    "summary": ""
+  },
+  {
+    "id": 26002053,
+    "description": "After attacking, reduces all enemies' SPD by 8% for 1 turn.",
+    "name": "Blood Storm",
+    "summary": ""
+  },
+  {
+    "id": 26002054,
+    "description": "Increases all allies' panel boost effect potency by 25% for 2 turns and recovers all allies' HP by 15%.",
+    "name": "Encouraging Call",
+    "summary": ""
+  },
+  {
+    "id": 26002055,
+    "description": "For each of the following buffs held, boosts this attack's damage by 10%:\nDamage Dealt Up, Damage Received Down, Stun Damage Received Down, Evasion, Regeneration, SPD Up.",
+    "name": "Power Shot",
+    "summary": ""
+  },
+  {
+    "id": 26002056,
+    "description": "After attacking, increases all allies' damage dealt by 8% for 10 turns.",
+    "name": "Spin Slash",
+    "summary": ""
+  },
+  {
+    "id": 26002057,
+    "description": "After attacking, recovers all allies' HP by 10%.",
+    "name": "Heal Gale",
+    "summary": ""
+  },
+  {
+    "id": 26002058,
+    "description": "After attacking, reduces all allies' damage received by 10% for 10 turns.",
+    "name": "Storm",
+    "summary": ""
+  },
+  {
+    "id": 26002059,
+    "description": "Grants all allies Evasion (100%) for 1 turn.",
+    "name": "Caution Call",
+    "summary": ""
+  },
+  {
+    "id": 26002061,
+    "description": "No effect.",
+    "name": "Turtle Head",
+    "summary": ""
+  },
+  {
+    "id": 26002062,
+    "description": "No effect.",
+    "name": "Raging Turtle",
+    "summary": ""
+  },
+  {
+    "id": 26002063,
+    "description": "Inflicts Provoke on all enemies for 2 turns and reduces own damage received by 30% for 3 turns.",
+    "name": "Shell Sign",
+    "summary": ""
+  },
+  {
+    "id": 26002064,
+    "description": "No effect.",
+    "name": "Turtle Head",
+    "summary": ""
+  },
+  {
+    "id": 26002065,
+    "description": "Grants target Nullify Damage for 1 turn.",
+    "name": "Shell Field",
+    "summary": ""
+  },
+  {
+    "id": 26002066,
+    "description": "No effect.",
+    "name": "Raging Turtle",
+    "summary": ""
+  },
+  {
+    "id": 26002067,
+    "description": "Reduces own damage received by 30% for 2 turns.",
+    "name": "Spin Up",
+    "summary": ""
+  },
+  {
+    "id": 26002068,
+    "description": "Increases all allies' damage dealt by 15% for 5 turns and converts 10 panels for all allies to boost panels (excluding burst panels).",
+    "name": "Valiant Flame Dance",
+    "summary": ""
+  },
+  {
+    "id": 26002069,
+    "description": "No effect.",
+    "name": "Chomp Bite",
+    "summary": ""
+  },
+  {
+    "id": 26002070,
+    "description": "After attacking, 60% chance to inflict 5 stacks of Burn.",
+    "name": "Hot Hot Gnaw Punch",
+    "summary": ""
+  },
+  {
+    "id": 26002071,
+    "description": "Converts the next panel, excluding own burst panels, into a boost panel.",
+    "name": "Magma Dance",
+    "summary": ""
+  },
+  {
+    "id": 26002072,
+    "description": "Restores all allies' HP by 15% and grants Damage Dealt +20% for 3 turns.",
+    "name": "Support",
+    "summary": ""
+  },
+  {
+    "id": 26002073,
+    "description": "No additional effects.",
+    "name": "Tumble",
+    "summary": ""
+  },
+  {
+    "id": 26002074,
+    "description": "No additional effects.",
+    "name": "Glittery Puni Bomber",
+    "summary": ""
+  },
+  {
+    "id": 26002075,
+    "description": "No additional effects.",
+    "name": "Puni Breath",
+    "summary": ""
+  },
+  {
+    "id": 26002076,
+    "description": "Restores a single ally by 15%.",
+    "name": "Heal",
+    "summary": ""
+  },
+  {
+    "id": 26002077,
+    "description": "Grants target enemy Damage Received +20% for 2 turns.",
+    "name": "Puni Dark",
+    "summary": ""
+  },
+  {
+    "id": 26002078,
+    "description": "No additional effects.",
+    "name": "Puni Bomber",
+    "summary": ""
+  },
+  {
+    "id": 26002079,
+    "description": "After attacking, delays skill target's turn by 2 turns.",
+    "name": "Tumble",
+    "summary": ""
+  },
+  {
+    "id": 26002080,
+    "description": "After attacking, reduces skill target's damage dealt by 30% for 3 turns.",
+    "name": "Puni Ball",
+    "summary": ""
+  },
+  {
+    "id": 26002081,
+    "description": "Reduces skill target's damage received by 30% for 1 turn.",
+    "name": "Puni Boost",
+    "summary": ""
+  },
+  {
+    "id": 26002082,
+    "description": "Reduces skill target's damage dealt by 35% for 1 turn.",
+    "name": "Puni Dark",
+    "summary": ""
+  },
+  {
+    "id": 26002083,
+    "description": "After attacking, inflicts Poison x3 (100% chance) on skill target for 3 turns. If target has 3 or more stacks of Poison, inflicts Poison x3 (100% chance) for 3 turns.",
+    "name": "Poison Eruption",
+    "summary": ""
+  },
+  {
+    "id": 26002084,
+    "description": "After attacking, grants self Nullify Negative Effects for 2 turns and removes negative effects.",
+    "name": "Mood Refresher",
+    "summary": ""
+  },
+  {
+    "id": 26002085,
+    "description": "Grants all enemies Damage Received +6% (max 30%).",
+    "name": "Fierce Blizzard",
+    "summary": ""
+  },
+  {
+    "id": 26002086,
+    "description": "After attacking, inflicts Poison x3 (100% chance) on skill target for 3 turns.",
+    "name": "Toxic Rockfall",
+    "summary": ""
+  },
+  {
+    "id": 26002087,
+    "description": "Reduces skill target's stun damage dealt by 30% for 2 turns and stun damage dealt during area attacks by 40% for 2 turns.",
+    "name": "Weakening Howl",
+    "summary": ""
+  },
+  {
+    "id": 26002088,
+    "description": "After attacking, inflicts Poison x3 (100% chance) on skill target for 3 turns. If target has 3 or more stacks of Poison, inflicts Poison x3 (100% chance) for 3 turns.",
+    "name": "Poison Eruption",
+    "summary": ""
+  },
+  {
+    "id": 26002089,
+    "description": "After attacking, grants self Nullify Negative Effects for 2 turns and removes negative effects.",
+    "name": "Mood Refresher",
+    "summary": ""
+  },
+  {
+    "id": 26002090,
+    "description": "Grants all enemies Damage Received +10% (max 30%).",
+    "name": "Fierce Blizzard",
+    "summary": ""
+  },
+  {
+    "id": 26002091,
+    "description": "After attacking, inflicts Poison x3 (100% chance/3 turns) on target.",
+    "name": "Poison Rock Drop",
+    "summary": ""
+  },
+  {
+    "id": 26002092,
+    "description": "Reduces target's stun damage dealt by 40% for 2 turns. Reduces target's stun damage dealt by 50% for 2 turns when using area attacks.",
+    "name": "Enervating Cry",
+    "summary": ""
+  },
+  {
+    "id": 32004737,
+    "description": "Boosts this attack's critical damage by 15%.",
+    "name": "Fatal Bite",
+    "summary": ""
+  },
+  {
+    "id": 32004738,
+    "description": "After attacking, boosts own critical rate by 10% for 1 turn.",
+    "name": "Bite",
+    "summary": ""
+  },
+  {
+    "id": 32004739,
+    "description": "After attacking, boosts own critical damage by 10% for 3 turns.",
+    "name": "Howl",
+    "summary": ""
+  },
+  {
+    "id": 32004740,
+    "description": "No effects.",
+    "name": "Wind Orb",
+    "summary": ""
+  },
+  {
+    "id": 32004741,
+    "description": "No effects.",
+    "name": "Whirlwind",
+    "summary": ""
+  },
+  {
+    "id": 32004742,
+    "description": "No effects.",
+    "name": "Horn Assault",
+    "summary": ""
+  },
+  {
+    "id": 32004743,
+    "description": "Increases damage received by 15% for 5 turns on targets with 75% HP or higher.",
+    "name": "Unpleasant Cry",
+    "summary": ""
+  },
+  {
+    "id": 32004744,
+    "description": "Reduces target's damage received by 15% for 3 turns.",
+    "name": "Full Power Cry",
+    "summary": ""
+  },
+  {
+    "id": 32004745,
+    "description": "Grants self Cover (3 turns) and Counter (2 turns).",
+    "name": "Prepare to Charge",
+    "summary": ""
+  },
+  {
+    "id": 32004746,
+    "description": "No effects.",
+    "name": "Ice Rain",
+    "summary": ""
+  },
+  {
+    "id": 32004747,
+    "description": "No effects.",
+    "name": "Dangerous Bite",
+    "summary": ""
+  },
+  {
+    "id": 32004748,
+    "description": "No effects.",
+    "name": "Sonic Voice",
+    "summary": ""
+  },
+  {
+    "id": 32004749,
+    "description": "After attacking, inflicts 5 stacks of Poison (100% chance/1 turn) on target.",
+    "name": "Poison Bite",
+    "summary": ""
+  },
+  {
+    "id": 32004750,
+    "description": "No effects.",
+    "name": "Dark Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32004751,
+    "description": "No effects.",
+    "name": "Thunder Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32004752,
+    "description": "Increases target's damage dealt by 25% for 3 turns.",
+    "name": "Spin Roar",
+    "summary": ""
+  },
+  {
+    "id": 32004753,
+    "description": "After attacking, reduces target's damage dealt by 30% for 3 turns.",
+    "name": "Call Hellfire",
+    "summary": ""
+  },
+  {
+    "id": 32004754,
+    "description": "No effects.",
+    "name": "Shadow Punch",
+    "summary": ""
+  },
+  {
+    "id": 32004755,
+    "description": "After attacking, reduces skill target's damage dealt by 15% for 2 turns.",
+    "name": "Shadow Fire",
+    "summary": ""
+  },
+  {
+    "id": 32004756,
+    "description": "Inflicts Darkness on skill target for 3 turns.",
+    "name": "Shadow Curse",
+    "summary": ""
+  },
+  {
+    "id": 32004757,
+    "description": "Boosts skill target's damage dealt by 15% and SPD by 5% for 3 turns.",
+    "name": "Sky Ale",
+    "summary": ""
+  },
+  {
+    "id": 32004758,
+    "description": "No effects.",
+    "name": "Glide",
+    "summary": ""
+  },
+  {
+    "id": 32004759,
+    "description": "After attacking, increases skill target's damage received by 20% and inflicts Darkness (100% chance) for 3 turns.",
+    "name": "Charge Rush",
+    "summary": ""
+  },
+  {
+    "id": 32004760,
+    "description": "After attacking, reduces skill target's damage dealt by 30% for 3 turns.",
+    "name": "White Breath",
+    "summary": ""
+  },
+  {
+    "id": 32004761,
+    "description": "After attacking, 40% chance to inflict Darkness on skill target for 3 turns and 30% chance to delay target's turn by 3.",
+    "name": "Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32004762,
+    "description": "No effects.",
+    "name": "Mini Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32004763,
+    "description": "Boosts all allies' SPD by 5% for 3 turns.",
+    "name": "Sky Ale",
+    "summary": ""
+  },
+  {
+    "id": 32004764,
+    "description": "No effects.",
+    "name": "Glide",
+    "summary": ""
+  },
+  {
+    "id": 32004765,
+    "description": "After attacking, inflicts 5 stacks of Poison (100% chance) on skill target for 5 turns.",
+    "name": "Charge Rush",
+    "summary": ""
+  },
+  {
+    "id": 32004766,
+    "description": "After attacking, increases own damage received by 30% for 3 turns and increases skill target's damage received by 25% for 1 turn.",
+    "name": "White Breath",
+    "summary": ""
+  },
+  {
+    "id": 32004767,
+    "description": "No effects.",
+    "name": "Mini Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32004768,
+    "description": "No effects.",
+    "name": "Glide",
+    "summary": ""
+  },
+  {
+    "id": 32004769,
+    "description": "Boosts own damage dealt by 35% for 3 turns.",
+    "name": "Aerial Dance",
+    "summary": ""
+  },
+  {
+    "id": 32004770,
+    "description": "After attacking, inflicts Paralysis (100% chance) on skill target for 3 turns.",
+    "name": "Paralyze Gale",
+    "summary": ""
+  },
+  {
+    "id": 32004771,
+    "description": "No effects.",
+    "name": "Mini Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32004772,
+    "description": "Boosts skill target's damage dealt by 15% and SPD by 5% for 3 turns.",
+    "name": "Sky Ale",
+    "summary": ""
+  },
+  {
+    "id": 32004773,
+    "description": "No effects.",
+    "name": "Glide",
+    "summary": ""
+  },
+  {
+    "id": 32004774,
+    "description": "After attacking, increases skill target's damage received by 20% and inflicts Darkness (100% chance) for 3 turns.",
+    "name": "Charge Rush",
+    "summary": ""
+  },
+  {
+    "id": 32004775,
+    "description": "After attacking, reduces skill target's damage dealt by 30% for 3 turns.",
+    "name": "White Breath",
+    "summary": ""
+  },
+  {
+    "id": 32004776,
+    "description": "After attacking, inflicts Darkness on skill target (40% chance for 3 turns) and has a 30% chance to delay target's turn by 3 turns.",
+    "name": "Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32004777,
+    "description": "No effects.",
+    "name": "Mini Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32004778,
+    "description": "No effects.",
+    "name": "Confusion Thrust",
+    "summary": ""
+  },
+  {
+    "id": 32004779,
+    "description": "No effects.",
+    "name": "Pounce",
+    "summary": ""
+  },
+  {
+    "id": 32004780,
+    "description": "After attacking, inflicts Provoke on skill target for 5 turns.",
+    "name": "Thunder Thrust",
+    "summary": ""
+  },
+  {
+    "id": 32004781,
+    "description": "No effects.",
+    "name": "Thunder Kick",
+    "summary": ""
+  },
+  {
+    "id": 32004782,
+    "description": "After attacking, inflicts Paralysis on skill target (30% chance for 3 turns).",
+    "name": "Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 32004783,
+    "description": "Reduces single ally's damage received by 30% and grants Regeneration (15% HP) for 2 turns.",
+    "name": "Relax",
+    "summary": ""
+  },
+  {
+    "id": 32004784,
+    "description": "Reduces skill target's damage dealt by 30% for 2 turns.",
+    "name": "Enervating Haze",
+    "summary": ""
+  },
+  {
+    "id": 32004785,
+    "description": "Boosts this attack's damage by 10% for each of the following buffs held:\nDamage Dealt Up, Damage Received Down, Stun Damage Received Down, Evasion, Regeneration, SPD Up.",
+    "name": "Power Shot",
+    "summary": ""
+  },
+  {
+    "id": 32004786,
+    "description": "After attacking, boosts all allies' damage dealt by 8% for 10 turns.",
+    "name": "Spin Slash",
+    "summary": ""
+  },
+  {
+    "id": 32004787,
+    "description": "After attacking, restores all allies' HP by 10%.",
+    "name": "Healing Gale",
+    "summary": ""
+  },
+  {
+    "id": 32004788,
+    "description": "After attacking, reduces all allies' damage received by 15% for 10 turns.",
+    "name": "Storm",
+    "summary": ""
+  },
+  {
+    "id": 32004789,
+    "description": "Grants all allies Evasion (100% for 1 attack).",
+    "name": "Caution Call",
+    "summary": ""
+  },
+  {
+    "id": 32004790,
+    "description": "Reduces skill target's SPD by 10% for 1 turn.",
+    "name": "Speed Down",
+    "summary": ""
+  },
+  {
+    "id": 32004791,
+    "description": "No effects.",
+    "name": "Finger of Pain",
+    "summary": ""
+  },
+  {
+    "id": 32004792,
+    "description": "No effects.",
+    "name": "Explosive Bloom",
+    "summary": ""
+  },
+  {
+    "id": 32004793,
+    "description": "No effects.",
+    "name": "Cold Release",
+    "summary": ""
+  },
+  {
+    "id": 32004794,
+    "description": "Boosts skill target's damage dealt by 20% for 3 turns and restores their HP by 15%.",
+    "name": "Finger of Blessing",
+    "summary": ""
+  },
+  {
+    "id": 32004795,
+    "description": "Increases target's damage received by 20% and reduces SPD by 15% for 3 turns.",
+    "name": "Cursed Pointing",
+    "summary": ""
+  },
+  {
+    "id": 32004796,
+    "description": "After attacking, boosts own damage dealt by 25%, reduces damage received by 45%, and boosts SPD by 10% for 2 turns.",
+    "name": "High Altitude Barrage",
+    "summary": ""
+  },
+  {
+    "id": 32004797,
+    "description": "After attacking, boosts own damage dealt by 15% for 1 turn.",
+    "name": "Fist Thrust",
+    "summary": ""
+  },
+  {
+    "id": 32004798,
+    "description": "No effect",
+    "name": "Heavy Swing",
+    "summary": ""
+  },
+  {
+    "id": 32004799,
+    "description": "Reduces critical rate of all enemies by 50% for 1 turn.",
+    "name": "Invite Misfortune",
+    "summary": ""
+  },
+  {
+    "id": 32004800,
+    "description": "After attacking, boosts own damage dealt by 5% for 1 turn.",
+    "name": "Retribution",
+    "summary": ""
+  },
+  {
+    "id": 32004801,
+    "description": "After attacking, grants self Regeneration (15%) for 3 turns.",
+    "name": "Energy Storm",
+    "summary": ""
+  },
+  {
+    "id": 32004802,
+    "description": "Inflicts Provoke on all enemies for 1 turn.",
+    "name": "Rage Powder",
+    "summary": ""
+  },
+  {
+    "id": 32004803,
+    "description": "After attacking, reduces own damage received by 30% for 5 turns.",
+    "name": "Full-power Guruguru Punch",
+    "summary": ""
+  },
+  {
+    "id": 32004804,
+    "description": "No effect",
+    "name": "Wild Strikes",
+    "summary": ""
+  },
+  {
+    "id": 32004805,
+    "description": "After attacking, converts one of the target's panels to a weaken panel (excluding BS).",
+    "name": "Dark Storm",
+    "summary": ""
+  },
+  {
+    "id": 32004806,
+    "description": "Restores HP of all allies by 20%.",
+    "name": "Heal Powder",
+    "summary": ""
+  },
+  {
+    "id": 32004807,
+    "description": "After attacking, inflicts Daze on target for 1 turn and delays their turn by 3.",
+    "name": "Big Blue Wave",
+    "summary": ""
+  },
+  {
+    "id": 32004808,
+    "description": "After attacking, reduces own damage received by 40% for 3 turns and delays target's turn by 2.",
+    "name": "Big Splash",
+    "summary": ""
+  },
+  {
+    "id": 32004809,
+    "description": "After attacking, reduces target's damage dealt by 40% for 3 turns.",
+    "name": "Shocking Impact",
+    "summary": ""
+  },
+  {
+    "id": 32004810,
+    "description": "When attacking, if own HP is above 80%, boosts skill power by 15%.\nAfter attacking, restores own HP by 10%.",
+    "name": "Drop Crash",
+    "summary": ""
+  },
+  {
+    "id": 32004811,
+    "description": "Boosts own SPD by 5% and reduces damage received by 40% for 3 turns.",
+    "name": "Sopping Wet Charge",
+    "summary": ""
+  },
+  {
+    "id": 32004812,
+    "description": "After attacking, increases target's damage received by 20% for 3 turns.",
+    "name": "Drop Crack",
+    "summary": ""
+  },
+  {
+    "id": 32004813,
+    "description": "After attacking, reduces target's damage dealt by 40% for 3 turns.",
+    "name": "Splash",
+    "summary": ""
+  },
+  {
+    "id": 32004814,
+    "description": "No effect",
+    "name": "Fall Crash",
+    "summary": ""
+  },
+  {
+    "id": 32004815,
+    "description": "After attacking, grants self Damage Dealt Up (20%/3 times).",
+    "name": "Jump Crash",
+    "summary": ""
+  },
+  {
+    "id": 32004816,
+    "description": "Restores own HP by 15% and grants self Damage Received Down (30%/3 times).",
+    "name": "Moist Replenishment",
+    "summary": ""
+  },
+  {
+    "id": 32004817,
+    "description": "After attacking, grants self Max HP Up (15%/Max: 30%) and restores own HP by 20%.",
+    "name": "High Jump Crash",
+    "summary": ""
+  },
+  {
+    "id": 32004818,
+    "description": "After attacking, inflicts Paralysis on target (40% chance/1 time).",
+    "name": "Splash",
+    "summary": ""
+  },
+  {
+    "id": 32004819,
+    "description": "No additional effects.",
+    "name": "Leap On",
+    "summary": ""
+  },
+  {
+    "id": 32004820,
+    "description": "After attacking, grants self Damage Received Down (40%/3 times).",
+    "name": "Ice Gliding",
+    "summary": ""
+  },
+  {
+    "id": 32004821,
+    "description": "Restores HP and stun gauge of all allies by 20% and grants Regeneration (5%/2 times).",
+    "name": "Moist Supply",
+    "summary": ""
+  },
+  {
+    "id": 32004822,
+    "description": "No additional effects.",
+    "name": "Thunder Shot",
+    "summary": ""
+  },
+  {
+    "id": 32004823,
+    "description": "After attacking, inflicts Poison on target (100% chance/5 times) x8.",
+    "name": "Death Spin",
+    "summary": ""
+  },
+  {
+    "id": 32004824,
+    "description": "Boosts damage dealt to taunted enemies by 20%.",
+    "name": "Death Touch",
+    "summary": ""
+  },
+  {
+    "id": 32004825,
+    "description": "Boosts damage dealt to enemies afflicted with status effects by 15%.",
+    "name": "Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 32004826,
+    "description": "After attacking, inflicts Nullify Positive Effects on target for 1 time.",
+    "name": "Seal Thunder",
+    "summary": ""
+  },
+  {
+    "id": 32004828,
+    "description": "Grants single ally Damage Dealt Up (25%/3 times).",
+    "name": "Energy Gain",
+    "summary": ""
+  },
+  {
+    "id": 32004829,
+    "description": "After attacking, inflicts Poison on target (100% chance/2 times) x8 and grants self Regeneration (5%/2 times).",
+    "name": "Death Spin",
+    "summary": ""
+  },
+  {
+    "id": 32004830,
+    "description": "No additional effects.",
+    "name": "Ice Step",
+    "summary": ""
+  },
+  {
+    "id": 32004831,
+    "description": "After attacking, inflicts Poison on target (100% chance/2 times) x3 and grants self Regeneration (5%/2 times).",
+    "name": "Ice Mist",
+    "summary": ""
+  },
+  {
+    "id": 32004832,
+    "description": "After attacking, converts 3 of target's boost panels into empty panels.",
+    "name": "Pounding Torrential Rain",
+    "summary": ""
+  },
+  {
+    "id": 32004833,
+    "description": "No additional effects.",
+    "name": "Explosive Vortex",
+    "summary": ""
+  },
+  {
+    "id": 32004834,
+    "description": "After attacking, inflicts Paralysis on target (50% chance/2 times).",
+    "name": "Seal Blow",
+    "summary": ""
+  },
+  {
+    "id": 32004835,
+    "description": "After attacking, grants self Damage Received Down (40%/2 times).",
+    "name": "Feeler Sphere Needle",
+    "summary": ""
+  },
+  {
+    "id": 32004836,
+    "description": "No effects.",
+    "name": "Fire Tornado",
+    "summary": ""
+  },
+  {
+    "id": 32004837,
+    "description": "After attacking, boosts own damage dealt by 20% for 2 turns.",
+    "name": "Fire Dance",
+    "summary": ""
+  },
+  {
+    "id": 32004838,
+    "description": "Restores all allies' HP by 10% and removes all status effects.",
+    "name": "Magic Recovery",
+    "summary": ""
+  },
+  {
+    "id": 32004839,
+    "description": "After attacking, boosts own counter damage dealt by 30% permanently.",
+    "name": "Mad Swing",
+    "summary": ""
+  },
+  {
+    "id": 32004840,
+    "description": "No effects.",
+    "name": "Destruction",
+    "summary": ""
+  },
+  {
+    "id": 32004841,
+    "description": "After attacking, reduces own damage received by 40% for 2 turns.",
+    "name": "Crashing Strike",
+    "summary": ""
+  },
+  {
+    "id": 32004842,
+    "description": "After attacking, converts 5 of target's panels to weaken panels (excluding burst panels).",
+    "name": "Mad Swing",
+    "summary": ""
+  },
+  {
+    "id": 32004843,
+    "description": "Grants self All resistance up by 30% for 2 turns and Regeneration (10%) for 3 turns.",
+    "name": "Drift",
+    "summary": ""
+  },
+  {
+    "id": 32004844,
+    "description": "No effects.",
+    "name": "Counterstrike",
+    "summary": ""
+  },
+  {
+    "id": 32004845,
+    "description": "After attacking, converts 1 of target's panels to a weaken panel (excluding burst panels).",
+    "name": "Surprise Burn",
+    "summary": ""
+  },
+  {
+    "id": 32004846,
+    "description": "No effects.",
+    "name": "Burning Tongue",
+    "summary": ""
+  },
+  {
+    "id": 32004847,
+    "description": "After attacking, inflicts Darkness on target (100% chance) for 2 turns.",
+    "name": "Magical Slash",
+    "summary": ""
+  },
+  {
+    "id": 32004848,
+    "description": "After attacking, reduces target's positive effect potency by 50% for 2 turns.",
+    "name": "Curse Burn",
+    "summary": ""
+  },
+  {
+    "id": 32004849,
+    "description": "After attacking, increases target's magical damage received by 15% for 2 turns.",
+    "name": "Magical Dark Slide",
+    "summary": ""
+  },
+  {
+    "id": 32004850,
+    "description": "Restores all allies' HP by 10% and reduces damage received by 40% for 2 turns.",
+    "name": "Heal All",
+    "summary": ""
+  },
+  {
+    "id": 32004851,
+    "description": "After attacking, grants self Counter (ex2) for 4 counterattacks and boosts damage dealt by 20% for 5 turns.",
+    "name": "Groovy Gale",
+    "summary": ""
+  },
+  {
+    "id": 32004852,
+    "description": "No effects.",
+    "name": "Trick Slash",
+    "summary": ""
+  },
+  {
+    "id": 32004853,
+    "description": "No effects.",
+    "name": "Trick Wind",
+    "summary": ""
+  },
+  {
+    "id": 32004854,
+    "description": "After attacking, inflicts Poison (100% chance) 5 times on targets with 70% HP or less for 3 turns.",
+    "name": "Cold Storm",
+    "summary": ""
+  },
+  {
+    "id": 32004855,
+    "description": "After attacking, grants self Counter (ex1) for 2 counterattacks.",
+    "name": "Counter Warning",
+    "summary": ""
+  },
+  {
+    "id": 32004856,
+    "description": "Inflicts Darkness on target (100% chance) for 3 attacks.",
+    "name": "Shadow Curse",
+    "summary": ""
+  },
+  {
+    "id": 32004857,
+    "description": "No effect.",
+    "name": "Turtle Head",
+    "summary": ""
+  },
+  {
+    "id": 32004858,
+    "description": "Grants skill target Nullify Damage for 1 attack.",
+    "name": "Shell Field",
+    "summary": ""
+  },
+  {
+    "id": 32004859,
+    "description": "No effect.",
+    "name": "Raging Turtle",
+    "summary": ""
+  },
+  {
+    "id": 32004860,
+    "description": "Reduces own damage received by 10% for 2 turns.",
+    "name": "Spin Up",
+    "summary": ""
+  },
+  {
+    "id": 32004861,
+    "description": "No effect.",
+    "name": "Explosive Vortex",
+    "summary": ""
+  },
+  {
+    "id": 32004862,
+    "description": "After attacking, inflicts Paralysis on target enemy (50% chance) for 2 turns.",
+    "name": "Seal Blow",
+    "summary": ""
+  },
+  {
+    "id": 32004863,
+    "description": "After attacking, reduces own damage received by 15% for 2 turns.",
+    "name": "Philosophia Needle",
+    "summary": ""
+  },
+  {
+    "id": 32004864,
+    "description": "No effect.",
+    "name": "Fire Tornado",
+    "summary": ""
+  },
+  {
+    "id": 32004865,
+    "description": "After attacking, boosts own damage dealt by 15% for 2 turns.",
+    "name": "Fire Dance",
+    "summary": ""
+  },
+  {
+    "id": 32004866,
+    "description": "Restores all allies' HP by 10%.\nRemoves all status effects from all allies.",
+    "name": "Magic Recovery",
+    "summary": ""
+  },
+  {
+    "id": 32004867,
+    "description": "After attacking, grants skill target Nullify Positive Effects for 3 turns.",
+    "name": "Seal Blow",
+    "summary": ""
+  },
+  {
+    "id": 32004868,
+    "description": "No effect.",
+    "name": "Thunder Shot",
+    "summary": ""
+  },
+  {
+    "id": 32004869,
+    "description": "After attacking, inflicts 6 stacks of Poison on skill target (2% per turn) for 3 turns.",
+    "name": "Death Spin",
+    "summary": ""
+  },
+  {
+    "id": 32004870,
+    "description": "If skill target has a status effect, boosts damage dealt by 15%.",
+    "name": "Death Touch",
+    "summary": ""
+  },
+  {
+    "id": 32004871,
+    "description": "No effect.",
+    "name": "Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 32004872,
+    "description": "Boosts skill target's damage dealt by 20% for 2 turns and reduces damage received by 20% for 2 turns.",
+    "name": "Energy Gain",
+    "summary": ""
+  },
+  {
+    "id": 32004873,
+    "description": "No effect.",
+    "name": "Rolling",
+    "summary": ""
+  },
+  {
+    "id": 32004874,
+    "description": "After attacking, delays skill target's turn by 2 turns.",
+    "name": "Spin Tackle",
+    "summary": ""
+  },
+  {
+    "id": 32004875,
+    "description": "Grants self Counter for 2 counterattacks.",
+    "name": "Prepare to Run",
+    "summary": ""
+  },
+  {
+    "id": 32004876,
+    "description": "No effect.",
+    "name": "Ice Rain",
+    "summary": ""
+  },
+  {
+    "id": 32004877,
+    "description": "Grants self Damage Received Down (15%/3 turns).",
+    "name": "Full Power Roar",
+    "summary": ""
+  },
+  {
+    "id": 32004878,
+    "description": "No effect.",
+    "name": "Horn Strike",
+    "summary": ""
+  },
+  {
+    "id": 32004879,
+    "description": "After attacking, converts 10 empty panels and weaken panels to burn panels.",
+    "name": "Full Burn Shot",
+    "summary": ""
+  },
+  {
+    "id": 32004880,
+    "description": "No effect.",
+    "name": "Glide",
+    "summary": ""
+  },
+  {
+    "id": 32004881,
+    "description": "After attacking, inflicts Burn (5 stacks) on target enemy.",
+    "name": "Burning Shot",
+    "summary": ""
+  },
+  {
+    "id": 32004882,
+    "description": "When target enemy has Burn, Damage Dealt +30%.",
+    "name": "Fuel Ball",
+    "summary": ""
+  },
+  {
+    "id": 32004883,
+    "description": "No effect.",
+    "name": "Wing Cutter",
+    "summary": ""
+  },
+  {
+    "id": 32004884,
+    "description": "Removes all positive effects from target enemy.\nGrants self Damage Dealt Up (20%/3 turns).\nGrants self Damage Received Down (20%/3 turns).",
+    "name": "Demoralizing Howl",
+    "summary": ""
+  },
+  {
+    "id": 32004885,
+    "description": "No effect.",
+    "name": "Roll Over",
+    "summary": ""
+  },
+  {
+    "id": 32004886,
+    "description": "No effect.",
+    "name": "Puni Bomber",
+    "summary": ""
+  },
+  {
+    "id": 32004887,
+    "description": "No effect.",
+    "name": "Puni Breath",
+    "summary": ""
+  },
+  {
+    "id": 32004888,
+    "description": "Restores target ally's HP by 25%.",
+    "name": "Heal",
+    "summary": ""
+  },
+  {
+    "id": 32004889,
+    "description": "Grants target enemy Damage Dealt Down (20%/1 turn).",
+    "name": "Puni Dark",
+    "summary": ""
+  },
+  {
+    "id": 32004890,
+    "description": "After attacking, grants self Damage Dealt Up (15%/2 turns).",
+    "name": "Stretchy Wind Ball",
+    "summary": ""
+  },
+  {
+    "id": 32004891,
+    "description": "After attacking, delays target enemy's turn by 1.",
+    "name": "Rolling Slash",
+    "summary": ""
+  },
+  {
+    "id": 32004892,
+    "description": "No effect.",
+    "name": "Leaf Cutter",
+    "summary": ""
+  },
+  {
+    "id": 32004893,
+    "description": "Restores target ally's HP by 15% and advances their turn by 1.",
+    "name": "Tailwind Heal",
+    "summary": ""
+  },
+  {
+    "id": 32004895,
+    "description": "After attacking, grants all enemies Damage Dealt Down (25%/2 turns), Positive Effect Potency Received Down (25%/3 turns), and HP Recovery Received Down (15%/3 turns).",
+    "name": "Ink Wash World",
+    "summary": ""
+  },
+  {
+    "id": 32004896,
+    "description": "No effect.",
+    "name": "Kanabo Strike",
+    "summary": ""
+  },
+  {
+    "id": 32004897,
+    "description": "Grants all allies damage dealt Up (20%/3 turns) and SPD Up (10%/2 turns).",
+    "name": "Demon's Roar",
+    "summary": ""
+  },
+  {
+    "id": 32004898,
+    "description": "After attacking, grants all enemies damage dealt Down (20%/2 turns).",
+    "name": "Rock Crusher",
+    "summary": ""
+  },
+  {
+    "id": 32004899,
+    "description": "After attacking, grants all enemies Burn (100% application chance).",
+    "name": "Hellfire Vortex",
+    "summary": ""
+  },
+  {
+    "id": 32004900,
+    "description": "Boosts this attack's critical damage by 15%.",
+    "name": "Fatal Bite",
+    "summary": ""
+  },
+  {
+    "id": 32004901,
+    "description": "After attacking, grants self critical rate Up (10%/1 turn).",
+    "name": "Bite Down",
+    "summary": ""
+  },
+  {
+    "id": 32004902,
+    "description": "After attacking, grants self critical damage Up (10%/3 turns).",
+    "name": "Club Roar",
+    "summary": ""
+  },
+  {
+    "id": 32004903,
+    "description": "No effect.",
+    "name": "Wind Sphere",
+    "summary": ""
+  },
+  {
+    "id": 32004904,
+    "description": "No effect.",
+    "name": "Whirlwind",
+    "summary": ""
+  },
+  {
+    "id": 32004905,
+    "description": "Grants enemy skill targets Nullify Positive Effects (1 turn).",
+    "name": "No Escape",
+    "summary": ""
+  },
+  {
+    "id": 32004906,
+    "description": "Grants enemy target stun damage Down (20%/2 turns), damage dealt Down (20%/2 turns), and damage received Up (20%/2 turns).",
+    "name": "Shadow Curse",
+    "summary": ""
+  },
+  {
+    "id": 32004907,
+    "description": "After attacking, delays enemy target's turn by 1 if they have 1 or more negative effects. Delays by 2 turns if they have 2 or more negative effects.",
+    "name": "Slash Ring",
+    "summary": ""
+  },
+  {
+    "id": 32004908,
+    "description": "After attacking, grants all enemies M.ATK Down (20%/2 turns), P.ATK Down (20%/2 turns), and SPD Down (5%/2 turns).",
+    "name": "Call Hellfire",
+    "summary": ""
+  },
+  {
+    "id": 32004909,
+    "description": "After attacking, delays enemy target's turn by 2.",
+    "name": "Shadow Fire",
+    "summary": ""
+  },
+  {
+    "id": 32004910,
+    "description": "After attacking, grants self damage dealt Up (20%/3 turns) and damage received Down (20%/3 turns).",
+    "name": "Fire Burst",
+    "summary": ""
+  },
+  {
+    "id": 32004911,
+    "description": "Before attacking, grants self damage dealt Up (20%/2 turns) and damage received Down (20%/2 turns), and restores own HP by 20%.",
+    "name": "Uni Throw MAX",
+    "summary": ""
+  },
+  {
+    "id": 32004912,
+    "description": "Grants self damage dealt Up (25%/2 turns).",
+    "name": "Warmup Throw",
+    "summary": ""
+  },
+  {
+    "id": 32004913,
+    "description": "No effect.",
+    "name": "Iron Chunk Throw",
+    "summary": ""
+  },
+  {
+    "id": 32004914,
+    "description": "After attacking, grants self critical rate Up (25%/2 turns).",
+    "name": "Thunder Clears the Skies",
+    "summary": ""
+  },
+  {
+    "id": 32004915,
+    "description": "No effect.",
+    "name": "Lightning Strike",
+    "summary": ""
+  },
+  {
+    "id": 32004916,
+    "description": "Restores own HP by 15%.",
+    "name": "Self Recovery",
+    "summary": ""
+  },
+  {
+    "id": 32004917,
+    "description": "Restores target ally's HP by 15%.",
+    "name": "Heal Powder",
+    "summary": ""
+  },
+  {
+    "id": 32004918,
+    "description": "Boosts all allies' damage dealt by 20% for 2 turns.",
+    "name": "Energy Powder",
+    "summary": ""
+  },
+  {
+    "id": 32004919,
+    "description": "No effects.",
+    "name": "Octopus Beatdown",
+    "summary": ""
+  },
+  {
+    "id": 32004920,
+    "description": "After attacking, reduces target's damage dealt by 20% for 2 turns.",
+    "name": "Wild Strike",
+    "summary": ""
+  },
+  {
+    "id": 32004921,
+    "description": "No effects.",
+    "name": "Wind Slice",
+    "summary": ""
+  },
+  {
+    "id": 32004922,
+    "description": "Boosts this attack's critical damage by 20%.",
+    "name": "Fatal Bite",
+    "summary": ""
+  },
+  {
+    "id": 32004923,
+    "description": "After attacking, boosts own critical rate by 20% for 1 turn.",
+    "name": "Snapping Jaws",
+    "summary": ""
+  },
+  {
+    "id": 32004924,
+    "description": "After attacking, boosts own critical damage dealt by 15% for 3 turns.",
+    "name": "Clubbing Roar",
+    "summary": ""
+  },
+  {
+    "id": 32004925,
+    "description": "No effects.",
+    "name": "Wind Sphere",
+    "summary": ""
+  },
+  {
+    "id": 32004926,
+    "description": "No effects.",
+    "name": "Whirlwind",
+    "summary": ""
+  },
+  {
+    "id": 32004927,
+    "description": "Boosts own critical rate by 25% and reduces own damage received by 25% for 1 turn.",
+    "name": "Decisive Howl",
+    "summary": ""
+  },
+  {
+    "id": 32004940,
+    "description": "No effects.",
+    "name": "Rampage",
+    "summary": ""
+  },
+  {
+    "id": 32004941,
+    "description": "After attacking, delays target's turn by 2 turns.",
+    "name": "Down Thrust",
+    "summary": ""
+  },
+  {
+    "id": 32004942,
+    "description": "No effects.",
+    "name": "Raging Fire",
+    "summary": ""
+  },
+  {
+    "id": 32004943,
+    "description": "Boosts own damage dealt by 8% indefinitely and restores own stun gauge by 15%.",
+    "name": "Reinforce",
+    "summary": ""
+  },
+  {
+    "id": 32004944,
+    "description": "After attacking, delays target enemy's turn by 1 turn.",
+    "name": "Blitz Shot",
+    "summary": ""
+  },
+  {
+    "id": 32004945,
+    "description": "After attacking, reduces all enemies' P.ATK by 30% and M.ATK by 30% for 1 turn.",
+    "name": "Thunder of Despair",
+    "summary": ""
+  },
+  {
+    "id": 32004946,
+    "description": "No effects.",
+    "name": "Black Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 32004948,
+    "description": "No effects.",
+    "name": "Power Strike",
+    "summary": ""
+  },
+  {
+    "id": 32004949,
+    "description": "No effects.",
+    "name": "Fierce Blow",
+    "summary": ""
+  },
+  {
+    "id": 32004950,
+    "description": "After attacking, reduces target's damage dealt by 15% for 3 turns.",
+    "name": "Swing",
+    "summary": ""
+  },
+  {
+    "id": 32004951,
+    "description": "Grants self Counter for 2 counterattacks.",
+    "name": "Counterattack Stance",
+    "summary": ""
+  },
+  {
+    "id": 32004952,
+    "description": "Reduces target's SPD by 8% for 3 turns.",
+    "name": "Intimidate",
+    "summary": ""
+  },
+  {
+    "id": 32004953,
+    "description": "No effect.",
+    "name": "Retaliation",
+    "summary": ""
+  },
+  {
+    "id": 32004954,
+    "description": "After attacking, reduces all enemies' M.ATK by 20% for 2 turns (35% chance to apply), reduces P.ATK by 20% for 2 turns (35% chance to apply), and grants self Counter for 2 counterattacks.",
+    "name": "Fierce Swing",
+    "summary": ""
+  },
+  {
+    "id": 32004955,
+    "description": "No effect.",
+    "name": "Heavy Strike",
+    "summary": ""
+  },
+  {
+    "id": 32004956,
+    "description": "No effect.",
+    "name": "Explosive Fist",
+    "summary": ""
+  },
+  {
+    "id": 32004957,
+    "description": "No effect.",
+    "name": "Hellfire Swirl",
+    "summary": ""
+  },
+  {
+    "id": 32004958,
+    "description": "No effect.",
+    "name": "Swing",
+    "summary": ""
+  },
+  {
+    "id": 32004959,
+    "description": "After attacking, reduces own damage received by 15% for 2 turns.",
+    "name": "Defensive Stance",
+    "summary": ""
+  },
+  {
+    "id": 32004961,
+    "description": "No effect.",
+    "name": "Turtle Head",
+    "summary": ""
+  },
+  {
+    "id": 32004962,
+    "description": "Grants target damage immunity for 1 turn.",
+    "name": "Shell Field",
+    "summary": ""
+  },
+  {
+    "id": 32004963,
+    "description": "No effect.",
+    "name": "Raging Turtle",
+    "summary": ""
+  },
+  {
+    "id": 32004964,
+    "description": "Reduces own damage received by 20% for 2 turns.",
+    "name": "Spin Up",
+    "summary": ""
+  },
+  {
+    "id": 32004965,
+    "description": "No effect.",
+    "name": "Explosive Vortex",
+    "summary": ""
+  },
+  {
+    "id": 32004966,
+    "description": "After attacking, inflicts Paralysis on target for 2 turns (50% chance to apply).",
+    "name": "Seal Blow",
+    "summary": ""
+  },
+  {
+    "id": 32004967,
+    "description": "After attacking, reduces own damage received by 20% for 2 turns.",
+    "name": "Philosopher Needle",
+    "summary": ""
+  },
+  {
+    "id": 32004968,
+    "description": "No effect.",
+    "name": "Fire Tornado",
+    "summary": ""
+  },
+  {
+    "id": 32004969,
+    "description": "After attacking, boosts own damage dealt by 30% for 2 turns.",
+    "name": "Fire Dance",
+    "summary": ""
+  },
+  {
+    "id": 32004970,
+    "description": "Restores all allies' HP by 10%.\nRemoves all status effects from all allies.",
+    "name": "Magic Recovery",
+    "summary": ""
+  },
+  {
+    "id": 32004971,
+    "description": "After attacking, inflicts Nullify Positive Effects on skill target for 3 turns.",
+    "name": "Seal Blow",
+    "summary": ""
+  },
+  {
+    "id": 32004972,
+    "description": "No effect.",
+    "name": "Thunder Shot",
+    "summary": ""
+  },
+  {
+    "id": 32004973,
+    "description": "After attacking, inflicts 6 stacks of Poison (2%/3 turns) on skill target.",
+    "name": "Death Spin",
+    "summary": ""
+  },
+  {
+    "id": 32004974,
+    "description": "If skill target has a status effect, boosts damage dealt by 15%.",
+    "name": "Death Touch",
+    "summary": ""
+  },
+  {
+    "id": 32004975,
+    "description": "No effect.",
+    "name": "Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 32004976,
+    "description": "Grants skill target damage dealt +20% and damage received -20% for 2 turns.",
+    "name": "Energy Gain",
+    "summary": ""
+  },
+  {
+    "id": 32004977,
+    "description": "No effect.",
+    "name": "Rolling",
+    "summary": ""
+  },
+  {
+    "id": 32004978,
+    "description": "After attacking, delays skill target's turn by 2 turns.",
+    "name": "Spin Tackle",
+    "summary": ""
+  },
+  {
+    "id": 32004979,
+    "description": "Grants self Counter for 2 counterattacks.",
+    "name": "Rush Preparation",
+    "summary": ""
+  },
+  {
+    "id": 32004980,
+    "description": "No effect.",
+    "name": "Ice Rain",
+    "summary": ""
+  },
+  {
+    "id": 32004981,
+    "description": "Grants self damage received -25% for 3 turns.",
+    "name": "Full Roar",
+    "summary": ""
+  },
+  {
+    "id": 32004982,
+    "description": "No effect.",
+    "name": "Horn Strike",
+    "summary": ""
+  },
+  {
+    "id": 32004983,
+    "description": "After attacking, converts 10 empty panels and weaken panels to burn panels.",
+    "name": "Full Burn Shot",
+    "summary": ""
+  },
+  {
+    "id": 32004984,
+    "description": "No effect.",
+    "name": "Glide",
+    "summary": ""
+  },
+  {
+    "id": 32004985,
+    "description": "After attacking, inflicts Burn (5 stacks) on target enemy.",
+    "name": "Burning Shot",
+    "summary": ""
+  },
+  {
+    "id": 32004986,
+    "description": "When target enemy has Burn status, boosts damage dealt by 30%.",
+    "name": "Fuel Ball",
+    "summary": ""
+  },
+  {
+    "id": 32004987,
+    "description": "No effect.",
+    "name": "Wing Cutter",
+    "summary": ""
+  },
+  {
+    "id": 32004988,
+    "description": "Removes all positive effects from target enemy.\nGrants self damage dealt +30% for 3 turns.\nGrants self damage received -30% for 3 turns.",
+    "name": "Dispiriting Roar",
+    "summary": ""
+  },
+  {
+    "id": 32004989,
+    "description": "No effect.",
+    "name": "Tumble",
+    "summary": ""
+  },
+  {
+    "id": 32004990,
+    "description": "No effect.",
+    "name": "Puni Bomber",
+    "summary": ""
+  },
+  {
+    "id": 32004991,
+    "description": "No additional effects.",
+    "name": "Puni Breath",
+    "summary": ""
+  },
+  {
+    "id": 32004992,
+    "description": "Restores target ally's HP by 25%.",
+    "name": "Heal",
+    "summary": ""
+  },
+  {
+    "id": 32004993,
+    "description": "Reduces target enemy's damage dealt by 30% for 1 turn.",
+    "name": "Puni Dark",
+    "summary": ""
+  },
+  {
+    "id": 32004994,
+    "description": "After attacking, boosts own damage dealt by 30% for 2 turns.",
+    "name": "Stretchy Wind Ball",
+    "summary": ""
+  },
+  {
+    "id": 32004995,
+    "description": "After attacking, delays target enemy's turn by 1.",
+    "name": "Rolling Slash",
+    "summary": ""
+  },
+  {
+    "id": 32004996,
+    "description": "No additional effects.",
+    "name": "Leaf Cutter",
+    "summary": ""
+  },
+  {
+    "id": 32004997,
+    "description": "Restores target ally's HP by 15% and advances their turn by 1.",
+    "name": "Tailwind Heal",
+    "summary": ""
+  },
+  {
+    "id": 32004999,
+    "description": "After attacking, reduces all enemies' damage dealt by 25% for 2 turns, reduces their positive effect potency by 25% for 3 turns, and reduces their HP recovery by 15% for 3 turns.",
+    "name": "World of Ink and Water",
+    "summary": ""
+  },
+  {
+    "id": 32005000,
+    "description": "No additional effects.",
+    "name": "Iron Club Strike",
+    "summary": ""
+  },
+  {
+    "id": 32005001,
+    "description": "Boosts all allies' damage dealt by 25% for 3 turns and SPD by 8% for 2 turns.",
+    "name": "Demon's Roar",
+    "summary": ""
+  },
+  {
+    "id": 32005002,
+    "description": "After attacking, reduces all enemies' damage dealt by 25% for 2 turns.",
+    "name": "Rock Smash",
+    "summary": ""
+  },
+  {
+    "id": 32005003,
+    "description": "After attacking, inflicts Burn on all enemies (100% chance).",
+    "name": "Hellfire Vortex",
+    "summary": ""
+  },
+  {
+    "id": 32005004,
+    "description": "Boosts this attack's critical damage by 25%.",
+    "name": "Fatal Bite",
+    "summary": ""
+  },
+  {
+    "id": 32005005,
+    "description": "After attacking, boosts own critical rate by 20% for 1 turn.",
+    "name": "Snapping Bite",
+    "summary": ""
+  },
+  {
+    "id": 32005006,
+    "description": "After attacking, boosts own critical damage by 20% for 3 turns.",
+    "name": "Club Roar",
+    "summary": ""
+  },
+  {
+    "id": 32005007,
+    "description": "No additional effects.",
+    "name": "Wind Sphere",
+    "summary": ""
+  },
+  {
+    "id": 32005008,
+    "description": "No additional effects.",
+    "name": "Whirlwind",
+    "summary": ""
+  },
+  {
+    "id": 32005009,
+    "description": "Grants Nullify Positive Effects to target enemy for 1 turn.",
+    "name": "No Rushing Allowed",
+    "summary": ""
+  },
+  {
+    "id": 32005010,
+    "description": "Reduces target enemy's stun damage dealt by 20% for 2 turns, damage dealt by 20% for 2 turns, and boosts damage received by 20% for 2 turns.",
+    "name": "Shadow Curse",
+    "summary": ""
+  },
+  {
+    "id": 32005011,
+    "description": "After attacking, if target enemy has 1 or more negative effects, delays their turn by 1. If 2 or more negative effects, delays by 2 turns.",
+    "name": "Slashing",
+    "summary": ""
+  },
+  {
+    "id": 32005012,
+    "description": "After attacking, reduces all enemies' M.ATK by 20%, P.ATK by 20%, and SPD by 5% for 2 turns.",
+    "name": "Call Hellfire",
+    "summary": ""
+  },
+  {
+    "id": 32005013,
+    "description": "After attacking, delays target enemy's turn by 2.",
+    "name": "Shadow Fire",
+    "summary": ""
+  },
+  {
+    "id": 32005014,
+    "description": "After attacking, boosts own damage dealt by 25% and reduces damage received by 25% for 3 turns.",
+    "name": "Fire Burst",
+    "summary": ""
+  },
+  {
+    "id": 32005015,
+    "description": "Before attacking, boosts own damage dealt by 25% and reduces damage received by 25% for 2 turns, and restores own HP by 20%.",
+    "name": "Uni Throw MAX",
+    "summary": ""
+  },
+  {
+    "id": 32005016,
+    "description": "Boosts own damage dealt by 25% for 2 turns.",
+    "name": "Warm-Up Throw",
+    "summary": ""
+  },
+  {
+    "id": 32005017,
+    "description": "No effect.",
+    "name": "Iron Chunk Throw",
+    "summary": ""
+  },
+  {
+    "id": 32005018,
+    "description": "After attacking, boosts own critical rate by 25% for 2 turns.",
+    "name": "Thunder Passing",
+    "summary": ""
+  },
+  {
+    "id": 32005019,
+    "description": "No effect.",
+    "name": "Lightning Drop",
+    "summary": ""
+  },
+  {
+    "id": 32005020,
+    "description": "Restores own HP by 15%.",
+    "name": "Self-Recovery",
+    "summary": ""
+  },
+  {
+    "id": 32005021,
+    "description": "Restores target ally's HP by 15%.",
+    "name": "Heal Powder",
+    "summary": ""
+  },
+  {
+    "id": 32005022,
+    "description": "Boosts all allies' damage dealt by 30% for 2 turns.",
+    "name": "Energy Powder",
+    "summary": ""
+  },
+  {
+    "id": 32005023,
+    "description": "No effect.",
+    "name": "Drum Strike",
+    "summary": ""
+  },
+  {
+    "id": 32005024,
+    "description": "After attacking, reduces skill target's damage dealt by 35% for 2 turns.",
+    "name": "Wild Strike",
+    "summary": ""
+  },
+  {
+    "id": 32005025,
+    "description": "No effect.",
+    "name": "Wind Slice",
+    "summary": ""
+  },
+  {
+    "id": 32005026,
+    "description": "Boosts this attack's critical damage by 25%.",
+    "name": "Fatal Bite",
+    "summary": ""
+  },
+  {
+    "id": 32005027,
+    "description": "After attacking, boosts own critical rate by 30% for 1 turn.",
+    "name": "Bite Attack",
+    "summary": ""
+  },
+  {
+    "id": 32005028,
+    "description": "After attacking, boosts own critical damage by 25% for 3 turns.",
+    "name": "Club Roar",
+    "summary": ""
+  },
+  {
+    "id": 32005029,
+    "description": "No effect.",
+    "name": "Wind Sphere",
+    "summary": ""
+  },
+  {
+    "id": 32005030,
+    "description": "No effect.",
+    "name": "Whirlwind",
+    "summary": ""
+  },
+  {
+    "id": 32005031,
+    "description": "Boosts own critical rate by 35% and reduces damage received by 30% for 1 turn.",
+    "name": "Decisive Howl",
+    "summary": ""
+  },
+  {
+    "id": 32005045,
+    "description": "No effects.",
+    "name": "Rampage",
+    "summary": ""
+  },
+  {
+    "id": 32005046,
+    "description": "After attacking, delays skill target's turn by 2 turns.",
+    "name": "Down Thrust",
+    "summary": ""
+  },
+  {
+    "id": 32005047,
+    "description": "No effects.",
+    "name": "Rage Fire",
+    "summary": ""
+  },
+  {
+    "id": 32005048,
+    "description": "Grants self Damage Dealt +12% permanently and restores the stun gauge by 50%.",
+    "name": "Reinforce",
+    "summary": ""
+  },
+  {
+    "id": 32005049,
+    "description": "After attacking, delays enemy target's turn by 1 turn.",
+    "name": "Blitz Shot",
+    "summary": ""
+  },
+  {
+    "id": 32005050,
+    "description": "After attacking, reduces all enemies' P.ATK by 30% and M.ATK by 30% for 1 turn.",
+    "name": "Thundercloud of Despair",
+    "summary": ""
+  },
+  {
+    "id": 32005051,
+    "description": "No effects.",
+    "name": "Black Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 32005053,
+    "description": "No effects.",
+    "name": "Power Strike",
+    "summary": ""
+  },
+  {
+    "id": 32005054,
+    "description": "No effects.",
+    "name": "Violent Swing",
+    "summary": ""
+  },
+  {
+    "id": 32005055,
+    "description": "After attacking, reduces skill target's damage dealt by 25% for 3 turns.",
+    "name": "Swing",
+    "summary": ""
+  },
+  {
+    "id": 32005056,
+    "description": "Grants self Counter for 2 turns.",
+    "name": "Counterattack Stance",
+    "summary": ""
+  },
+  {
+    "id": 32005057,
+    "description": "Reduces skill target's SPD by 10% for 3 turns.",
+    "name": "Intimidate",
+    "summary": ""
+  },
+  {
+    "id": 32005058,
+    "description": "No effects.",
+    "name": "Assault Notice",
+    "summary": ""
+  },
+  {
+    "id": 32005059,
+    "description": "After attacking, reduces all enemies' M.ATK by 30% and P.ATK by 30% for 2 turns with a 35% chance, and grants self Counter for 2 turns.",
+    "name": "Violent Swing",
+    "summary": ""
+  },
+  {
+    "id": 32005060,
+    "description": "No effects.",
+    "name": "Power Strike",
+    "summary": ""
+  },
+  {
+    "id": 32005061,
+    "description": "No effects.",
+    "name": "Explosive Fist",
+    "summary": ""
+  },
+  {
+    "id": 32005062,
+    "description": "No effects.",
+    "name": "Hellfire Surge",
+    "summary": ""
+  },
+  {
+    "id": 32005063,
+    "description": "No effects.",
+    "name": "Swing",
+    "summary": ""
+  },
+  {
+    "id": 32005064,
+    "description": "After attacking, reduces own damage received by 25% for 2 turns.",
+    "name": "Defensive Stance",
+    "summary": ""
+  },
+  {
+    "id": 32005068,
+    "description": "After attacking, boosts own critical rate by 25% for 1 turn.",
+    "name": "Blizzard",
+    "summary": ""
+  },
+  {
+    "id": 32005069,
+    "description": "After attacking, reduces enemy target's critical rate by 20% for 1 turn.",
+    "name": "Tail Lash",
+    "summary": ""
+  },
+  {
+    "id": 32005070,
+    "description": "No effect.",
+    "name": "Freezing Breath",
+    "summary": ""
+  },
+  {
+    "id": 32005071,
+    "description": "After attacking, reduces all enemies' damage dealt by 15% for 1 turn.",
+    "name": "Freeze Rain",
+    "summary": ""
+  },
+  {
+    "id": 32005072,
+    "description": "Boosts all allies' critical rate by 15% for 1 turn.",
+    "name": "Battle Cry",
+    "summary": ""
+  },
+  {
+    "id": 32005073,
+    "description": "Before attacking, grants countdown buff (5 turns).",
+    "name": "5 Turns Left",
+    "summary": ""
+  },
+  {
+    "id": 32005074,
+    "description": "Before attacking, grants countdown buff (4 turns).",
+    "name": "4 Turns Left",
+    "summary": ""
+  },
+  {
+    "id": 32005075,
+    "description": "Before attacking, grants countdown buff (3 turns).",
+    "name": "3 Turns Left",
+    "summary": ""
+  },
+  {
+    "id": 32005076,
+    "description": "Before attacking, grants countdown buff (2 turns).",
+    "name": "2 Turns Left",
+    "summary": ""
+  },
+  {
+    "id": 32005077,
+    "description": "Before attacking, grants countdown buff (1 turn).",
+    "name": "1 Turn Left",
+    "summary": ""
+  },
+  {
+    "id": 32005078,
+    "description": "Before attacking, removes all positive effects from all enemies.",
+    "name": "Death Blizzard",
+    "summary": ""
+  },
+  {
+    "id": 32005079,
+    "description": "Reduces target's HP by 99%.",
+    "name": "Frenzy Swing",
+    "summary": ""
   }
 ]

@@ -13058,5 +13058,470 @@
     "id": 600000793,
     "description": "When Liebe [Miraculous Nine No. 6] or Lala [King of the Kingdom of Lara] is in the party, reduces damage received by 25%. (MAX 25%)",
     "name": "Damage Reduction when Liebe [Miraculous Nine No. 6] or Lala [King of the Kingdom of Lara] in Party"
+  },
+  {
+    "id": 301329,
+    "description": "While equipped to Els [Absolute Order], increases Call Sign α level granted by 1.<br>Boosts skill power by {0}% per Call Sign α level.<br>After using Order: Intercept, boosts own skill damage by 100% for 1 turn.",
+    "name": "Braulle P60"
+  },
+  {
+    "id": 500651,
+    "description": "Boosts stun damage by {0}% for characters with Braulle.",
+    "name": ""
+  },
+  {
+    "id": 500654,
+    "description": "Boosts stun damage by {0}% for characters with Braulle.",
+    "name": ""
+  },
+  {
+    "id": 500657,
+    "description": "Boosts stun damage by {0}% for characters with Braulle.",
+    "name": ""
+  },
+  {
+    "id": 500660,
+    "description": "Boosts stun damage by {0}% for characters with Braulle.",
+    "name": ""
+  },
+  {
+    "id": 500663,
+    "description": "Boosts stun damage by {0}% for characters with Braulle.",
+    "name": ""
+  },
+  {
+    "id": 500666,
+    "description": "Boosts stun damage by {0}% for characters with Braulle.",
+    "name": ""
+  },
+  {
+    "id": 500669,
+    "description": "Boosts stun damage by {0}% for characters with Braulle.",
+    "name": ""
+  },
+  {
+    "id": 500672,
+    "description": "Boosts stun damage by {0}% for characters with Braulle.",
+    "name": ""
+  },
+  {
+    "id": 1980239,
+    "description": "Boosts P. ATK, M. ATK, P. DEF, and M. DEF by 30% for characters with Infinite Island Chain tag.",
+    "name": "Iron Inspector"
+  },
+  {
+    "id": 1990533,
+    "description": "Converts own burst skill to a gauge.<br>※Burst gauge can store up to 2 uses.<br><br>On critical attack, increases own burst gauge by {0}%.<br>When stunning with a skill, increases own burst gauge by {1}%.<br><br>When there are other Infinite Island Chain allies in the party, boosts base P.ATK by {2}.",
+    "name": "Guardian of Order"
+  },
+  {
+    "id": 1990534,
+    "description": "After any party member uses a burst skill, if Call Sign α has not been granted, grants self Call Sign α (Lv. 2).<br>If already granted, increases Call Sign α level by 2 (max Lv. 10).<br>After any party member uses a skill other than burst skill or uses a battle item, if Call Sign α has not been granted, grants self Call Sign α (Lv. 1).<br>If already granted, increases Call Sign α level by 1 (max Lv. 10).<br>※Activates only once even if multiple items are used simultaneously.<br>※These effects do not activate when using Order: Intercept.",
+    "name": "Let Us Fulfill Our Duty"
+  },
+  {
+    "id": 4991288,
+    "description": "While equipped to an Attacker with Stab affinity, boosts burst skill damage by {0}%.<br>Boosts P.ATK by {1}% for characters with Mentor tag.",
+    "name": "Imagination \"Upholding Order\""
+  },
+  {
+    "id": 4991289,
+    "description": "While equipped to an Attacker with Stab affinity, boosts burst skill damage by {0}%.<br>Boosts P.ATK by {1}% for characters with Mentor tag.",
+    "name": "Imagination \"Upholding Order\""
+  },
+  {
+    "id": 4991290,
+    "description": "While equipped to an Attacker with Stab affinity, boosts burst skill damage by {0}%.<br>Boosts P.ATK by {1}% for characters with Mentor tag.",
+    "name": "Imagination \"Upholding Order\""
+  },
+  {
+    "id": 4991291,
+    "description": "While equipped to an Attacker with Stab affinity, boosts burst skill damage by {0}%.<br>Boosts P.ATK by {1}% for characters with Mentor tag.",
+    "name": "Imagination \"Upholding Order\""
+  },
+  {
+    "id": 4991292,
+    "description": "While equipped to an Attacker with Stab affinity, boosts burst skill damage by {0}%.<br>Boosts P.ATK by {1}% for characters with Mentor tag.",
+    "name": "Imagination \"Upholding Order\""
+  },
+  {
+    "id": 4991293,
+    "description": "While equipped to an Attacker, after using a skill, grants self skill damage by {0}% (max 900%).",
+    "name": "Imagination \"Guardians of Order\""
+  },
+  {
+    "id": 4991294,
+    "description": "While equipped to an Attacker, after using a skill, grants self skill damage by {0}% (max 900%).",
+    "name": "Imagination \"Guardians of Order\""
+  },
+  {
+    "id": 4991295,
+    "description": "While equipped to an Attacker, after using a skill, grants self skill damage by {0}% (max 900%).",
+    "name": "Imagination \"Guardians of Order\""
+  },
+  {
+    "id": 4991296,
+    "description": "While equipped to an Attacker, grants self skill damage +{0}% after using a skill (Max: 900%).",
+    "name": "Imagination \"Order Keepers\""
+  },
+  {
+    "id": 4991297,
+    "description": "While equipped to an Attacker, grants self skill damage +{0}% after using a skill (Max: 900%).",
+    "name": "Imagination \"Order Keepers\""
+  },
+  {
+    "id": 7000845,
+    "description": "Boosts Atelier Cannon damage buff effects granted by {0}%.",
+    "name": "Atelier Cannon Damage Buff Enhancement (1)"
+  },
+  {
+    "id": 7000846,
+    "description": "Boosts Atelier Cannon damage buff effects granted by {0}%.",
+    "name": "Atelier Cannon Damage Buff Enhancement (2)"
+  },
+  {
+    "id": 7000847,
+    "description": "Boosts Atelier Cannon damage buff effects granted by {0}%.",
+    "name": "Atelier Cannon Damage Buff Enhancement (3)"
+  },
+  {
+    "id": 7000848,
+    "description": "Boosts Atelier Cannon damage buff effects granted by {0}%.",
+    "name": "Atelier Cannon Damage Buff Enhancement (4)"
+  },
+  {
+    "id": 7000849,
+    "description": "Boosts Atelier Cannon damage buff effects granted by {0}%.",
+    "name": "Atelier Cannon Damage Buff Enhancement (5)"
+  },
+  {
+    "id": 7000852,
+    "description": "After using a skill, increases the Atelier Cannon gauge by {0}%.",
+    "name": "Atelier Cannon Gauge Increase After Skill (1)"
+  },
+  {
+    "id": 7000853,
+    "description": "After using a skill, increases the Atelier Cannon gauge by {0}%.",
+    "name": "Atelier Cannon Gauge Increase After Skill (2)"
+  },
+  {
+    "id": 7000854,
+    "description": "After using a skill, increases the Atelier Cannon gauge by {0}%.",
+    "name": "Atelier Cannon Gauge Increase After Skill (3)"
+  },
+  {
+    "id": 7000855,
+    "description": "After using a skill, increases the Atelier Cannon gauge by {0}%.",
+    "name": "Atelier Cannon Gauge Increase After Skill (4)"
+  },
+  {
+    "id": 7000856,
+    "description": "After using a skill, increases the Atelier Cannon gauge by {0}%.",
+    "name": "Atelier Cannon Gauge Increase After Skill (5)"
+  },
+  {
+    "id": 7000857,
+    "description": "After using a skill, increases the Atelier Cannon gauge by {0}%.",
+    "name": "Atelier Cannon Gauge Increase After Skill (6)"
+  },
+  {
+    "id": 7000858,
+    "description": "After using a skill, increases the Atelier Cannon gauge by {0}%.",
+    "name": "Atelier Cannon Gauge Increase After Skill (7)"
+  },
+  {
+    "id": 7000859,
+    "description": "After using a skill, increases the Atelier Cannon gauge by {0}%.",
+    "name": "Atelier Cannon Gauge Increase After Skill (8)"
+  },
+  {
+    "id": 7000860,
+    "description": "After using a skill, increases the Atelier Cannon gauge by {0}%.",
+    "name": "Atelier Cannon Gauge Increase After Skill (9)"
+  },
+  {
+    "id": 7000861,
+    "description": "After using a skill, increases the Atelier Cannon gauge by {0}%.",
+    "name": "Atelier Cannon Gauge Increase After Skill (10)"
+  },
+  {
+    "id": 7000862,
+    "description": "After using a skill, increases the Atelier Cannon gauge by {0}%.",
+    "name": "Atelier Cannon Gauge Increase After Skill (11)"
+  },
+  {
+    "id": 7000863,
+    "description": "After using a skill, increases the Atelier Cannon gauge by {0}%.",
+    "name": "Atelier Cannon Gauge Increase After Skill (12)"
+  },
+  {
+    "id": 7000864,
+    "description": "After using a skill, increases the Atelier Cannon gauge by {0}%.",
+    "name": "Atelier Cannon Gauge Increase After Skill (13)"
+  },
+  {
+    "id": 7000865,
+    "description": "After using a skill, increases the Atelier Cannon gauge by {0}%.",
+    "name": "After Skill, Atelier Cannon Gauge Up (14)"
+  },
+  {
+    "id": 7000866,
+    "description": "After using a skill, increases the Atelier Cannon gauge by {0}%.",
+    "name": "After Skill, Atelier Cannon Gauge Up (15)"
+  },
+  {
+    "id": 7000867,
+    "description": "After using a skill, increases the Atelier Cannon gauge by {0}%.",
+    "name": "After Skill, Atelier Cannon Gauge Up (16)"
+  },
+  {
+    "id": 7000868,
+    "description": "After using a skill, increases the Atelier Cannon gauge by {0}%.",
+    "name": "After Skill, Atelier Cannon Gauge Up (17)"
+  },
+  {
+    "id": 7000869,
+    "description": "After using a skill, increases the Atelier Cannon gauge by {0}%.",
+    "name": "After Skill, Atelier Cannon Gauge Up (18)"
+  },
+  {
+    "id": 7000870,
+    "description": "After using a skill, increases the Atelier Cannon gauge by {0}%.",
+    "name": "After Skill, Atelier Cannon Gauge Up (19)"
+  },
+  {
+    "id": 7000871,
+    "description": "After using a skill, increases the Atelier Cannon gauge by {0}%.",
+    "name": "After Skill, Atelier Cannon Gauge Up (20)"
+  },
+  {
+    "id": 7000872,
+    "description": "After using a skill, increases the Atelier Cannon gauge by {0}%.",
+    "name": "After Skill, Atelier Cannon Gauge Up (21)"
+  },
+  {
+    "id": 7000873,
+    "description": "After using a skill, increases the Atelier Cannon gauge by {0}%.",
+    "name": "After Skill, Atelier Cannon Gauge Up (22)"
+  },
+  {
+    "id": 7000874,
+    "description": "After using a skill, increases the Atelier Cannon gauge by {0}%.",
+    "name": "After Skill, Atelier Cannon Gauge Up (23)"
+  },
+  {
+    "id": 7000875,
+    "description": "After using a skill, increases the Atelier Cannon gauge by {0}%.",
+    "name": "After Skill, Atelier Cannon Gauge Up (24)"
+  },
+  {
+    "id": 7000876,
+    "description": "After using a skill, increases the Atelier Cannon gauge by {0}%.",
+    "name": "After Skill, Atelier Cannon Gauge Up (25)"
+  },
+  {
+    "id": 7000877,
+    "description": "After using a skill, increases the Atelier Cannon gauge by {0}%.",
+    "name": "After Skill, Atelier Cannon Gauge Up (26)"
+  },
+  {
+    "id": 7000878,
+    "description": "After using a skill, increases the Atelier Cannon gauge by {0}%.",
+    "name": "After Skill, Atelier Cannon Gauge Up (27)"
+  },
+  {
+    "id": 7000879,
+    "description": "After using a skill, increases the Atelier Cannon gauge by {0}%.",
+    "name": "After Skill, Atelier Cannon Gauge Up (28)"
+  },
+  {
+    "id": 7000880,
+    "description": "After using a skill, increases the Atelier Cannon gauge by {0}%.",
+    "name": "After Skill, Atelier Cannon Gauge Up (29)"
+  },
+  {
+    "id": 7000881,
+    "description": "After using a skill, increases the Atelier Cannon gauge by {0}%.",
+    "name": "After Skill, Atelier Cannon Gauge Up (30)"
+  },
+  {
+    "id": 7000882,
+    "description": "After using a skill, increases the Atelier Cannon gauge by {0}%.",
+    "name": "After Skill, Atelier Cannon Gauge Up (31)"
+  },
+  {
+    "id": 7000883,
+    "description": "After using a skill, increases the Atelier Cannon gauge by {0}%.",
+    "name": "After Skill, Atelier Cannon Gauge Up (32)"
+  },
+  {
+    "id": 7000884,
+    "description": "After using a skill, increases the Atelier Cannon gauge by {0}%.",
+    "name": "After Skill, Atelier Cannon Gauge Up (33)"
+  },
+  {
+    "id": 7000885,
+    "description": "After using a skill, increases the atelier cannon gauge by {0}%.",
+    "name": "Atelier Cannon Gauge Increase After Skill (34)"
+  },
+  {
+    "id": 7000886,
+    "description": "After using a skill, increases the atelier cannon gauge by {0}%.",
+    "name": "Atelier Cannon Gauge Increase After Skill (35)"
+  },
+  {
+    "id": 7000887,
+    "description": "After using a skill, increases the atelier cannon gauge by {0}%.",
+    "name": "Atelier Cannon Gauge Increase After Skill (36)"
+  },
+  {
+    "id": 7000888,
+    "description": "After using a skill, increases the atelier cannon gauge by {0}%.",
+    "name": "Atelier Cannon Gauge Increase After Skill (37)"
+  },
+  {
+    "id": 7000889,
+    "description": "After using a skill, increases the atelier cannon gauge by {0}%.",
+    "name": "Atelier Cannon Gauge Increase After Skill (38)"
+  },
+  {
+    "id": 7000890,
+    "description": "After using a skill, increases the atelier cannon gauge by {0}%.",
+    "name": "Atelier Cannon Gauge Increase After Skill (39)"
+  },
+  {
+    "id": 7000891,
+    "description": "After using a skill, increases the atelier cannon gauge by {0}%.",
+    "name": "Atelier Cannon Gauge Increase After Skill (40)"
+  },
+  {
+    "id": 7000892,
+    "description": "After using a skill, increases the atelier cannon gauge by {0}%.",
+    "name": "Atelier Cannon Gauge Increase After Skill (41)"
+  },
+  {
+    "id": 7000893,
+    "description": "After using a skill, increases the atelier cannon gauge by {0}%.",
+    "name": "Atelier Cannon Gauge Increase After Skill (42)"
+  },
+  {
+    "id": 7000894,
+    "description": "After using a skill, increases the atelier cannon gauge by {0}%.",
+    "name": "Atelier Cannon Gauge Increase After Skill (43)"
+  },
+  {
+    "id": 7000895,
+    "description": "After using a skill, increases the atelier cannon gauge by {0}%.",
+    "name": "Atelier Cannon Gauge Increase After Skill (44)"
+  },
+  {
+    "id": 7000896,
+    "description": "After using a skill, increases the atelier cannon gauge by {0}%.",
+    "name": "Atelier Cannon Gauge Increase After Skill (45)"
+  },
+  {
+    "id": 7000897,
+    "description": "After using a skill, increases the atelier cannon gauge by {0}%.",
+    "name": "Atelier Cannon Gauge Increase After Skill (46)"
+  },
+  {
+    "id": 7000898,
+    "description": "After using a skill, increases the atelier cannon gauge by {0}%.",
+    "name": "Atelier Cannon Gauge Increase After Skill (47)"
+  },
+  {
+    "id": 7000899,
+    "description": "After using a skill, increases the atelier cannon gauge by {0}%.",
+    "name": "Atelier Cannon Gauge Increase After Skill (48)"
+  },
+  {
+    "id": 7000900,
+    "description": "After using a skill, increases the atelier cannon gauge by {0}%.",
+    "name": "Atelier Cannon Gauge Increase After Skill (49)"
+  },
+  {
+    "id": 7000901,
+    "description": "After using a skill, increases the atelier cannon gauge by {0}%.",
+    "name": "Atelier Cannon Gauge Increase After Skill (50)"
+  },
+  {
+    "id": 26086011,
+    "description": "When own HP falls to 50% or below, grants the following effects once only:\n• Grants self Damage Dealt +20%\n• Grants self SPD +10%\n",
+    "name": ""
+  },
+  {
+    "id": 26168012,
+    "description": "After using a skill, redraw turn order.",
+    "name": ""
+  },
+  {
+    "id": 26267010,
+    "description": "At the start of battle, increases the atelier cannon gauge by 100%.",
+    "name": ""
+  },
+  {
+    "id": 26267011,
+    "description": "After using a skill, additionally increases the Atelier Cannon gauge by 40%.",
+    "name": ""
+  },
+  {
+    "id": 26267012,
+    "description": "Boosts Atelier Cannon skill damage by 1000%.",
+    "name": ""
+  },
+  {
+    "id": 26267013,
+    "description": "Boosts Atelier Cannon skill power by 1000%.",
+    "name": ""
+  },
+  {
+    "id": 26267014,
+    "description": "Boosts positive effect potency from Atelier Cannon by 2000%.",
+    "name": ""
+  },
+  {
+    "id": 26267015,
+    "description": "Boosts negative effect potency from Atelier Cannon by 2000%.",
+    "name": ""
+  },
+  {
+    "id": 26267016,
+    "description": "Boosts HP recovery from Atelier Cannon by 200%.",
+    "name": ""
+  },
+  {
+    "id": 26267017,
+    "description": "Boosts Atelier Cannon critical rate by 100%.",
+    "name": ""
+  },
+  {
+    "id": 26267018,
+    "description": "Boosts Atelier Cannon critical damage by 1000%.",
+    "name": ""
+  },
+  {
+    "id": 600000794,
+    "description": "Boosts skill power by 100% for Els [Absolute Order].",
+    "name": "Els [Absolute Order] Skill Power Up"
+  },
+  {
+    "id": 600000795,
+    "description": "When Els [Absolute Order] or Leah [Miraculous Nine No. 6] is on the team, reduces damage received by 25%. (MAX 25%)",
+    "name": "When Els [Absolute Order] or Leah [Miraculous Nine No. 6] is on the Team, Reduce Damage Received"
+  },
+  {
+    "id": 600000796,
+    "description": "While equipped to a character with Stab affinity, boosts critical rate by 40%.",
+    "name": "Boosts Critical Rate for Stab Affinity"
+  },
+  {
+    "id": 600000797,
+    "description": "While equipped to a character with Bolt affinity, boosts critical rate by 40%.",
+    "name": "Boosts Critical Rate for Bolt Affinity"
+  },
+  {
+    "id": 600000798,
+    "description": "While equipped to a character with Stab affinity, boosts stun damage by 200%.",
+    "name": "Boosts Stun Damage for Stab Affinity"
   }
 ]

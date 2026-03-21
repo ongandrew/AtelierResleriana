@@ -15473,5 +15473,245 @@
     "id": 120000890,
     "description": "When Leah [Miraculous Nine No. 6] is in the party, reduces damage received.",
     "popup_text": ""
+  },
+  {
+    "id": 500083,
+    "description": "Boosts stun damage for characters with the Braulle tag.",
+    "popup_text": ""
+  },
+  {
+    "id": 2000392,
+    "description": "Increases the bomb gauge.",
+    "popup_text": ""
+  },
+  {
+    "id": 3000389,
+    "description": "Boosts Atelier Cannon damage by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001250,
+    "description": "While equipped to Els [Absolute Order], boosts skill power per level of Call Sign α.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001251,
+    "description": "Boosts skill power per level of Call Sign α.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001252,
+    "description": "While equipped to Els [Absolute Order], grants self Judgment Dummy Buff_Braulle P60. (Judgment Dummy Buff_Braulle P60 boosts Els [Absolute Order]'s skill damage by 100% when using Order: Intercept for 1 turn.)",
+    "popup_text": ""
+  },
+  {
+    "id": 6001253,
+    "description": "While equipped to Els [Absolute Order], after any party member uses a burst skill, if Call Sign α has not been granted to self, grants Call Sign α (Lv. 1). If already granted, increases Call Sign α level by 1 (max Lv. 10).",
+    "popup_text": ""
+  },
+  {
+    "id": 6001254,
+    "description": "While equipped to Els [Absolute Order], after any party member uses a skill other than a burst skill, if Call Sign α has not been granted to self, grants Call Sign α (Lv. 1). If already granted, increases Call Sign α level by 1 (max Lv. 10).",
+    "popup_text": ""
+  },
+  {
+    "id": 6001255,
+    "description": "While equipped to Els [Absolute Order], if Call Sign α has not been granted to self, grants Call Sign α (Lv. 1). If already granted, increases Call Sign α level by 1 (max Lv. 10).",
+    "popup_text": ""
+  },
+  {
+    "id": 6001256,
+    "description": "Boosts all Attacker allies' skill damage for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001677,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001678,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001679,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001680,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 73007001,
+    "description": "Increases damage received by skill target (up to 30%).",
+    "popup_text": ""
+  },
+  {
+    "id": 86086012,
+    "description": "Increases damage dealt for self.",
+    "popup_text": ""
+  },
+  {
+    "id": 86086013,
+    "description": "Increases SPD for self.",
+    "popup_text": ""
+  },
+  {
+    "id": 86267016,
+    "description": "Grants self Atelier Cannon skill damage boost.",
+    "popup_text": ""
+  },
+  {
+    "id": 86267017,
+    "description": "Grants self Atelier Cannon skill power boost.",
+    "popup_text": ""
+  },
+  {
+    "id": 86267018,
+    "description": "Grants self Atelier Cannon positive effect potency boost.",
+    "popup_text": ""
+  },
+  {
+    "id": 86267019,
+    "description": "Grants self a state change that boosts negative effect potency of Atelier Cannon skills.",
+    "popup_text": ""
+  },
+  {
+    "id": 86267020,
+    "description": "Grants self a state change that boosts HP recovery of Atelier Cannon skills.",
+    "popup_text": ""
+  },
+  {
+    "id": 86267021,
+    "description": "Grants self a state change that boosts critical damage of Atelier Cannon skills.",
+    "popup_text": ""
+  },
+  {
+    "id": 86267022,
+    "description": "Grants self a state change that boosts critical rate of Atelier Cannon skills.",
+    "popup_text": ""
+  },
+  {
+    "id": 91001181,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002187,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002188,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002189,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002190,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002191,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002192,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002193,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002194,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002195,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002196,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002197,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002198,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002199,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002200,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002204,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000367,
+    "description": "While equipped to an Attacker with Stab affinity, boosts burst skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000368,
+    "description": "Boosts P.ATK for those with the Mentor tag.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000369,
+    "description": "While equipped to an Attacker, grants self Skill Damage Up after acting (max 900%).",
+    "popup_text": ""
+  },
+  {
+    "id": 120000891,
+    "description": "While equipped to Els [Absolute Order], boosts skill power.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000892,
+    "description": "When Els [Absolute Order] is in the party, reduces damage received.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000893,
+    "description": "Grants Critical Rate Up for those with Stab affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000894,
+    "description": "Grants Critical Rate Up for those with Bolt affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000895,
+    "description": "Grants Stun Damage Dealt Up for those with Stab affinity.",
+    "popup_text": ""
   }
 ]

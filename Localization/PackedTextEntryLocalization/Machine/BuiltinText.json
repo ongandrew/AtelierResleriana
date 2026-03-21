@@ -240,5 +240,38 @@
         }
       }
     }
+  },
+  {
+    "id": 315297085,
+    "properties": {
+      "999008199": {
+        "text": "アトリエ砲演出設定",
+        "localizations": {
+          "en": "Atelier Cannon Animation Settings"
+        }
+      }
+    }
+  },
+  {
+    "id": 209745878,
+    "properties": {
+      "999008199": {
+        "text": "再生しない",
+        "localizations": {
+          "en": "Disable"
+        }
+      }
+    }
+  },
+  {
+    "id": 295310479,
+    "properties": {
+      "999008199": {
+        "text": "※通常……毎回アトリエ砲演出が流れます。\n\u30001日1回通常……毎日初回発動分のみアトリエ砲演出が流れます。\n\u3000再生しない……アトリエ砲演出が流れません。",
+        "localizations": {
+          "en": "※ Normal: The Atelier Cannon animation will play every time.\n   Normal Once Daily: The Atelier Cannon animation will only play for the first activation each day.\n   Disable: The Atelier Cannon animation will not play."
+        }
+      }
+    }
   }
 ]

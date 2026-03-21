@@ -5739,5 +5739,125 @@
     "small_banner_label": "Paid Only!",
     "start_at": "2026-03-13T03:00:00Z",
     "step_up_loop_description": ""
+  },
+  {
+    "id": 2367,
+    "description": "Els makes her debut & is Featured!\nUntil 2026/03/31 11:59 (UTC+8)",
+    "end_at": "2026-03-31T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Archipelago Federation Inspector Els of Steel LEGEND FES",
+    "name": "Archipelago Federation Inspector Els of Steel LEGEND FES",
+    "start_at": "2026-03-19T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2368,
+    "description": "Wish 50 times with Paid Lodestar Gems to unlock an additional Wish!\nUntil 2026/03/31 11:59 (UTC+8)",
+    "end_at": "2026-03-31T03:00:00Z",
+    "name": "Archipelago Federation Inspector Els of Steel LEGEND FES [Paid Lodestar Gems Only]",
+    "small_banner_label": "Paid Only!",
+    "start_at": "2026-03-19T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 2369,
+    "description": "Once per day with Paid Lodestar Gems! 2x Featured Rate!\nUntil 2026/03/31 11:59 (UTC+8)",
+    "end_at": "2026-03-31T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 23691,
+            "description": "2x Featured Rate!\n1 Time Left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Archipelago Federation Inspector Els of Steel LEGEND FES [Once Per Day・Paid Lodestar Gems Only]",
+    "name": "Archipelago Federation Inspector Els of Steel LEGEND FES [Once Per Day・Paid Lodestar Gems Only]",
+    "small_banner_label": "Once Per Day!",
+    "start_at": "2026-03-19T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 3050,
+    "description": "\"Guardians of Order\" make their debut & are featured!\nAvailable until 2026/03/31 11:59 (UTC+8).",
+    "end_at": "2026-03-31T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "2.5th Anniversary - Guardians of Order LEGEND FES",
+    "name": "2.5th Anniversary - Guardians of Order LEGEND FES",
+    "start_at": "2026-03-23T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 3051,
+    "description": "For every 30 Wishes with Paid Lodestar Gems, get 1 Wish for free! Max 5 times!\nSTEP 4 guarantees 1 Featured Memoria!\nUntil 2026/03/31 11:59 (UTC+8).",
+    "end_at": "2026-03-31T03:00:00Z",
+    "name": "2.5th Anniversary - Guardians of Order LEGEND FES [Paid Lodestar Gems Only]",
+    "small_banner_label": "Featured Guaranteed!",
+    "start_at": "2026-03-23T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 236801,
+    "description": "Max 5 times! 2x Featured rates!\nEarn 16 Medals. Until 2026/03/31 11:59 (UTC+8).",
+    "end_at": "2026-03-31T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10005,
+            "description": "Bonus included!\n{} Times Left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Archipelago Federation Inspector: Steel Els LEGEND FES [Paid Lodestar Gems Only]",
+    "name": "Archipelago Federation Inspector: Steel Els LEGEND FES [Paid Lodestar Gems Only]",
+    "small_banner_label": "Paid Only!",
+    "start_at": "2026-03-19T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 3100001,
+    "description": "[Guaranteed New Outfit at STEP 7!]\n\nFiris's new outfit makes its debut!\nThe appearance rate for the new outfit increases with each step!\nUntil 2026/04/06 10:59 (UTC+8)",
+    "end_at": "2026-04-06T03:00:00Z",
+    "name": "Firis Pure Flora Outfit Synthesis",
+    "start_at": "2026-03-23T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
   }
 ]

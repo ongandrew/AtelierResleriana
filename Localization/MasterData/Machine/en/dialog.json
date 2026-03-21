@@ -408,5 +408,70 @@
     "id": 8201,
     "description": "When you perform Outfit Synthesis, character outfits or item sets will be drawn based on the provided rates, and you can obtain them.\nSpecial items are required to perform this synthesis.",
     "name": "Outfit Synthesis"
+  },
+  {
+    "id": 8006,
+    "description": "You can select which Atelier Cannons to bring into battle.\nYou can equip Atelier Cannons created through Atelier Cannon Synthesis.\nThe number of Atelier Cannons you can equip is the same for both normal quests and dungeons.",
+    "name": "Atelier Cannons"
+  },
+  {
+    "id": 8301,
+    "description": "In Atelier Cannon Quests, you can gather the materials needed to synthesize and enhance Atelier Cannons.\nThere is no score system—you can obtain rewards simply by clearing the quest.",
+    "name": "Atelier Cannon Quests"
+  },
+  {
+    "id": 8302,
+    "description": "These quests do not consume stamina, and you can clear them based on your available attempts.\nAttempts are added daily, and there is a maximum number you can hold.\nAttempts are consumed when you clear any of the quests.",
+    "name": "Attempts"
+  },
+  {
+    "id": 8303,
+    "description": "Atelier Cannon Quests have restrictions on which characters you can use.\nAdditionally, you cannot use the Quick Clear function even for quests you have already cleared.",
+    "name": "Quest Rules"
+  },
+  {
+    "id": 8401,
+    "description": "In Atelier Cannon Synthesis, you can synthesize Atelier Cannons using synthesis materials and mana.",
+    "name": "Atelier Cannon Synthesis"
+  },
+  {
+    "id": 8402,
+    "description": "The left side of the screen displays information about the Atelier Cannons you can synthesize and the required materials.\nTap an icon on the right side of the screen to select which Atelier Cannon to synthesize.",
+    "name": "Atelier Cannon Synthesis"
+  },
+  {
+    "id": 8403,
+    "description": "After synthesis, you can level up your Atelier Cannons through Support Enhancement to increase their effects.\nAtelier Cannons do not have traits applied to them.",
+    "name": "Atelier Cannon Synthesis"
+  },
+  {
+    "id": 8501,
+    "description": "RSP Challenge is high-difficulty content featuring incredibly powerful enemies.\nForm your party based on the battle's characteristics and take on these challenging fights!",
+    "name": "RSP Challenge"
+  },
+  {
+    "id": 8502,
+    "description": "RSP Challenge has no score system—you can obtain rewards simply by clearing it.",
+    "name": "Rewards"
+  },
+  {
+    "id": 8503,
+    "description": "Some RSP Challenge battles have restrictions on which characters you can use in your party.",
+    "name": "Party Restrictions"
+  },
+  {
+    "id": 8601,
+    "description": "In Scene Photography, you can replay certain past event scenes with different characters replacing the original cast.\nYou can also take photos at any time during playback.",
+    "name": "Scene Photography"
+  },
+  {
+    "id": 8602,
+    "description": "You can replace event characters with characters you have obtained.\nIf you own skins or outfits, you can also replace characters with those applied.",
+    "name": "Scene Photography"
+  },
+  {
+    "id": 8603,
+    "description": "Some characters cannot be used for replacement due to potential issues with event direction.",
+    "name": "Scene Photography"
   }
 ]

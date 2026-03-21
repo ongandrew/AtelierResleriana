@@ -2654,5 +2654,97 @@
   {
     "id": 60246044,
     "description": "- Before using a powerful attack, boosts a single opponent's damage received\n- Inflicts Nullify Recovery\n- Removes a single opponent's positive effects\n- Converts opponent panels into empty panels\n- Converts opponent panels into weaken panels\n- Converts own panels into boost panels"
+  },
+  {
+    "id": 30007055,
+    "description": "- Inflicts Poison\n- Removes own negative effects and grants Nullify Negative Effects to self\n- When acting, restores own stun gauge if it is below a certain level\n- Reduces all opponents' stun damage dealt with area attacks"
+  },
+  {
+    "id": 30112063,
+    "description": "- Heals allies"
+  },
+  {
+    "id": 30140073,
+    "description": "- When using a boost-type panel, inflicts Darkness on all opponents and all allies\n- When using a weaken panel, inflicts multiple negative effects on self\n- Removes all allies' status effects and grants Status Effect Immunity\n- Creates boost panels\n- Heals all allies"
+  },
+  {
+    "id": 60009034,
+    "description": "- Inflicts Paralysis\n- When stunned, boosts own damage dealt\n- When stunned, boosts own damage received\n- Nullifies resistance reduction for all elements except Stab"
+  },
+  {
+    "id": 60010032,
+    "description": "- Inflicts Poison\n- Boosts SPD\n- Nullifies resistance reduction for all elements except Stab"
+  },
+  {
+    "id": 60016038,
+    "description": "- Heals allies"
+  },
+  {
+    "id": 60020054,
+    "description": "- Counters"
+  },
+  {
+    "id": 60022052,
+    "description": "- Receives increased damage while stunned\n- Delays turn\n- Removes own positive effects after stun\n- Restores stun gauge after using burst skill"
+  },
+  {
+    "id": 60030055,
+    "description": "- Counters\n- When hit by a physical attack, boosts own damage dealt and damage received\n- When hit by a magical attack, reduces own damage dealt and damage received"
+  },
+  {
+    "id": 60039036,
+    "description": "- Inflicts Taunt\n- Chance to inflict Paralysis\n- Dealt damage is increased against taunted targets\n- Grants Regeneration to allies"
+  },
+  {
+    "id": 60046031,
+    "description": "- After turn, boosts own damage dealt\n- Inflicts Darkness\n- Chance to delay turn\n- Nullifies resistance reduction for all elements except Stab"
+  },
+  {
+    "id": 60046035,
+    "description": "- After turn, boosts own damage dealt\n- Inflicts Darkness\n- Delays turn"
+  },
+  {
+    "id": 60053066,
+    "description": "- Counters\n- Delays turn"
+  },
+  {
+    "id": 60056006,
+    "description": "- Inflicts Poison\n- Inflicts Nullify Positive Effects\n- Dealt damage is increased against targets with status effects\n- Dealt damage is increased against taunted targets\n- Counters non-weakness attacks"
+  },
+  {
+    "id": 60086053,
+    "description": "- Gains multiple positive effects when HP reaches a certain level\n- Delays turn"
+  },
+  {
+    "id": 60089009,
+    "description": "- Inflicts Poison\n- Counters\n- Inflicts Darkness"
+  },
+  {
+    "id": 60091037,
+    "description": "- Reduces own damage received at the start of battle\n- Grants Evasion to all allies\n- Heals all allies\n- Boosts damage dealt depending on the amount of different positive effects"
+  },
+  {
+    "id": 60142066,
+    "description": "- When using a weaken panel, inflicts Paralysis and boosts own damage received\n- Inflicts Burn\n- Removes all positive effects from opponents\n- Creates burn panels"
+  },
+  {
+    "id": 60161049,
+    "description": "- Boosts all allies' critical rate\n- Boosts critical damage"
+  },
+  {
+    "id": 60168078,
+    "description": "- No hints available"
+  },
+  {
+    "id": 60168079,
+    "description": "- Grants Initiative\n- After acting 5 times, removes all opponents' positive effects before attacking and uses a powerful attack\n- Powerful attack has high power\n- Nullifies effects that delay turns"
+  },
+  {
+    "id": 60225001,
+    "description": "- Grants Initiative\n- Deals damage equal to 99% of opponent's max HP on the first turn\n- Counters non-weakness attacks\n- When defeating an opponent, grants Counter to self\n- Creates weaken panels\n- Grants All Elemental Resistance Up and Regeneration to self"
+  },
+  {
+    "id": 60251043,
+    "description": "- Reduces all opponents' positive effect potency received and HP recovery received\n- After recovering from stun, boosts own SPD\n- Creates random boost panels or burst panels after receiving a certain number of attacks\n- Inflicts Burn"
   }
 ]

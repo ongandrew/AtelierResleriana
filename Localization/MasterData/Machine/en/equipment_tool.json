@@ -1478,5 +1478,40 @@
     "id": 1246,
     "description": "When equipped to Els [Absolute Order], increases Call Sign α level granted by 1.<br>Boosts skill power by {0}% per Call Sign α level.<br>After using Order: Intercept, boosts own skill damage by 100% for 1 turn.",
     "name": "Braulle P60"
+  },
+  {
+    "id": 1247,
+    "description": "Reduces damage received from single-target attacks by {0}%. (Fixed)",
+    "name": "Drowned Corpse Armor"
+  },
+  {
+    "id": 1248,
+    "description": "Reduces damage received from single-target attacks by {0}%. (Fixed)",
+    "name": "Drowned Corpse Armor"
+  },
+  {
+    "id": 1249,
+    "description": "Boosts HP recovery granted by {0}%.",
+    "name": "Vortex Amulet"
+  },
+  {
+    "id": 1250,
+    "description": "Boosts HP recovery granted by {0}%.",
+    "name": "Vortex Amulet"
+  },
+  {
+    "id": 1251,
+    "description": "While equipped to Kimon [Cutie☆Fox], when burst gauge is 200% or higher and after using a burst skill, boosts own skill power by {0}% for 1 turn.",
+    "name": "Adult Fox"
+  },
+  {
+    "id": 1252,
+    "description": "While equipped to a character with Strike affinity, boosts positive effect potency granted by {0}%.<br>While equipped to a Supporter, boosts all allies' burst skill damage by {1}%.",
+    "name": "Chairman's Pouch"
+  },
+  {
+    "id": 1253,
+    "description": "No additional effects.",
+    "name": "Cutie☆AnimaL Ballot"
   }
 ]

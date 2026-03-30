@@ -13523,5 +13523,160 @@
     "id": 600000798,
     "description": "While equipped to a character with Stab affinity, boosts stun damage by 200%.",
     "name": "Boosts Stun Damage for Stab Affinity"
+  },
+  {
+    "id": 301330,
+    "description": "Reduces damage received from single target attacks by {0}% (fixed).",
+    "name": "Corpse Armor"
+  },
+  {
+    "id": 301331,
+    "description": "Reduces damage received from single target attacks by {0}% (fixed).",
+    "name": "Corpse Armor"
+  },
+  {
+    "id": 301332,
+    "description": "Boosts HP recovery granted by {0}%.",
+    "name": "Spiraling Amulet"
+  },
+  {
+    "id": 301333,
+    "description": "Boosts HP recovery granted by {0}%.",
+    "name": "Spiraling Amulet"
+  },
+  {
+    "id": 301334,
+    "description": "While equipped to Kimon [Cutie☆Fox], after using a burst skill with 200% or more burst gauge, grants self skill power +{0}% for 1 turn.",
+    "name": "Otoko Fox"
+  },
+  {
+    "id": 301335,
+    "description": "While equipped to a character with Strike affinity, boosts positive effect potency granted by {0}%.<br>While equipped to a Supporter, boosts burst skill damage by {1}% for all allies.",
+    "name": "Class Representative's Pouch"
+  },
+  {
+    "id": 500676,
+    "description": "Boosts stun damage by {0}% for characters with Resleriana Academy.",
+    "name": ""
+  },
+  {
+    "id": 500679,
+    "description": "Boosts stun damage by {0}% for characters with Resleriana Academy.",
+    "name": ""
+  },
+  {
+    "id": 500682,
+    "description": "Boosts stun damage by {0}% for characters with Resleriana Academy.",
+    "name": ""
+  },
+  {
+    "id": 500685,
+    "description": "Boosts stun damage by {0}% for characters with Resleriana Academy.",
+    "name": ""
+  },
+  {
+    "id": 500688,
+    "description": "Boosts stun damage by {0}% for characters with Resleriana Academy.",
+    "name": ""
+  },
+  {
+    "id": 500691,
+    "description": "Boosts stun damage by {0}% for characters with Resleriana Academy.",
+    "name": ""
+  },
+  {
+    "id": 500694,
+    "description": "Boosts stun damage by {0}% for characters with Resleriana Academy.",
+    "name": ""
+  },
+  {
+    "id": 500697,
+    "description": "Boosts stun damage by {0}% for characters with Resleriana Academy.",
+    "name": ""
+  },
+  {
+    "id": 1980240,
+    "description": "Characters with Bolt affinity gain M. ATK +{0}%.",
+    "name": "Unit Leader"
+  },
+  {
+    "id": 1990535,
+    "description": "Converts own burst skill into a gauge system.<br>※Burst gauge can be stocked up to 3 turns.<br><br>When receiving HP recovery, increases own burst gauge by {0}%.<br>After attacking a weakness, increases own burst gauge by {1}%.<br>When defeating an enemy with a skill, increases own burst gauge by {2}%.",
+    "name": "This Is Strictly Forbidden!"
+  },
+  {
+    "id": 1990536,
+    "description": "Boosts base M. ATK by 100-400 depending on the number of characters with Resleriana Academy (Higher boost for more characters, range: 1-4 characters).<br><br>After using a burst skill with 200% or more burst gauge, consumes an additional 100% burst gauge and launches an extra attack: {hyperlink_id 158} on the enemy with the lowest current HP.",
+    "name": "I'll Disturb Your Heart!"
+  },
+  {
+    "id": 1990541,
+    "description": "After using a skill, increases burst gauge by {0}% for all allies with Resleriana Academy.<br>When anyone in the party defeats an enemy with a burst skill, increases burst gauge by {1}% for all allies with Resleriana Academy.",
+    "name": "Hooray, Everyone!"
+  },
+  {
+    "id": 4991298,
+    "description": "While equipped to an Attacker with Bolt affinity, boosts burst skill damage by {0}%.<br>While equipped to a character with Diligent, boosts M. ATK by {1}%.",
+    "name": "Idea \"Kimon's Stage Ninjutsu☆\""
+  },
+  {
+    "id": 4991299,
+    "description": "While equipped to an Attacker with Bolt affinity, boosts burst skill damage by {0}%.<br>While equipped to a character with Diligent, boosts M. ATK by {1}%.",
+    "name": "Idea \"Kimon's Stage Ninjutsu☆\""
+  },
+  {
+    "id": 4991300,
+    "description": "While equipped to an Attacker with Bolt affinity, boosts burst skill damage by {0}%.<br>Boosts M.ATK by {1}% for Diligent characters.",
+    "name": "Imagination \"Kimon's Stage Ninjutsu☆\""
+  },
+  {
+    "id": 4991301,
+    "description": "While equipped to an Attacker with Bolt affinity, boosts burst skill damage by {0}%.<br>Boosts M.ATK by {1}% for Diligent characters.",
+    "name": "Imagination \"Kimon's Stage Ninjutsu☆\""
+  },
+  {
+    "id": 4991302,
+    "description": "While equipped to an Attacker with Bolt affinity, boosts burst skill damage by {0}%.<br>Boosts M.ATK by {1}% for Diligent characters.",
+    "name": "Imagination \"Kimon's Stage Ninjutsu☆\""
+  },
+  {
+    "id": 26138001,
+    "description": "When hit by an attack while HP is 60% or below, grants damage immunity (1 time) (only once). When hit by an attack while HP is 60% or below, grants damage received -15% (permanent) (only once). When hit by a battle item attack, grants own damage received +30% for 3 attacks (only once). When attacked by a female character, grants own damage dealt -15% (permanent) (only once).\nBefore battle starts, increases own potency of effects received from panels by 50%.",
+    "name": ""
+  },
+  {
+    "id": 26138002,
+    "description": "Nullifies resistance reduction for all elements except Bolt and Stab.",
+    "name": ""
+  },
+  {
+    "id": 70001052,
+    "description": "Boosts HP recovery given by {0}% for characters with Bolt affinity.",
+    "name": "Bolt HP Recovery Given Up (1)"
+  },
+  {
+    "id": 70001053,
+    "description": "Boosts HP recovery given by {0}% for characters with Bolt affinity.",
+    "name": "Bolt HP Recovery Given Up (2)"
+  },
+  {
+    "id": 70001054,
+    "description": "Boosts HP recovery given by {0}% for characters with Bolt affinity.",
+    "name": "Bolt HP Recovery Given Up (3)"
+  },
+  {
+    "id": 600000799,
+    "description": "Boosts Kimon [Cutie☆Fox]'s skill power by 100%.",
+    "name": "Kimon [Cutie☆Fox] Skill Power Up"
+  },
+  {
+    "id": 600000800,
+    "description": "When Kimon [Cutie☆Fox] or Els [Absolute Order] is in the party, reduces damage received by 25% (up to 25%).",
+    "name": "Kimon [Cutie☆Fox] or Els [Absolute Order] Damage Received Down"
+  },
+  {
+    "id": 600000801,
+    "description": "Boosts skill power by 100% for Resleriana Academy characters.",
+    "name": "Resleriana Academy Skill Power Up"
   }
 ]

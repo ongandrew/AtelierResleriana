@@ -2746,5 +2746,37 @@
   {
     "id": 60251043,
     "description": "- Reduces all opponents' positive effect potency received and HP recovery received\n- After recovering from stun, boosts own SPD\n- Creates random boost panels or burst panels after receiving a certain number of attacks\n- Inflicts Burn"
+  },
+  {
+    "id": 60018022,
+    "description": "- Heals allies\n- Heals allies when KO'd"
+  },
+  {
+    "id": 60035021,
+    "description": "- When stunned, grants Regen to all opponents\n- Reduces opponent's P.ATK\n- Delays opponent's turn\n- Advances allies' turns"
+  },
+  {
+    "id": 60072018,
+    "description": "- When stunned, removes own positive effects\n- When stunned, boosts own damage received\n- Nullifies resistance reduction for all elements except Bolt and Stab"
+  },
+  {
+    "id": 60111019,
+    "description": "- Heals allies\n- Nullifies resistance reduction for all elements except Bolt and Stab"
+  },
+  {
+    "id": 60111023,
+    "description": "- Heals allies"
+  },
+  {
+    "id": 60138017,
+    "description": "- Counters\n- Protection\n- When damaged by battle items, boosts own damage received once\n- When hit by a female character's attack, reduces own damage dealt\n- When HP reaches a certain level, grants self Damage Immunity and reduces own damage received\n- Boosts effects received from panels by 50%\n- Creates weaken panels\n- Creates HP Recovery panels\n- Nullifies resistance reduction for all elements except Bolt and Stab"
+  },
+  {
+    "id": 60138020,
+    "description": "- Counters\n- Protection\n- When damaged by battle items, boosts own damage received once\n- When hit by a female character's attack, reduces own damage dealt\n- When HP reaches a certain level, grants self Damage Immunity and reduces own damage received\n- Boosts effects received from panels by 50%\n- Creates weaken panels\n- Creates HP Recovery panels"
+  },
+  {
+    "id": 60156016,
+    "description": "- Restores all allies' stun gauge and HP"
   }
 ]

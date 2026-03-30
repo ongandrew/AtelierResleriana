@@ -1261,5 +1261,53 @@
     "profile_voice_text": "Els Martin. I'm an inspector.\nIf you have nothing to hide, there's nothing to fear, right?",
     "sort_name": "Els",
     "start_at": "2026-03-19T03:00:00Z"
+  },
+  {
+    "id": 43806,
+    "acquisition_text": "Reviving alchemy is my wish as well.\nNow, let us go together.",
+    "another_name": "Cutie☆Cat",
+    "description": "Resna's alchemy mentor.\nShe stopped by Resna's village during her travels and taught her the basics of alchemy.\nShe has a bright and carefree personality, but shows a strict side when it comes to alchemy.\nHer personal life is quite messy, and Resna often helps look after her.",
+    "fullname": "Izana Kokoschka",
+    "leader_skill": {
+      "description": "Boosts all allies' critical damage by 5% for each Lantarna character in the party.",
+      "name": "The Comet Travels with Us"
+    },
+    "name": "Izana",
+    "overlay_name": "Izana Kokoschka",
+    "profile_voice_text": "I'm Saskia. An alchemist with dreams, just like Resna.\nAim for World's End, you hear?",
+    "sort_name": "IZANA",
+    "start_at": "2049-12-31T15:00:00Z"
+  },
+  {
+    "id": 44005,
+    "acquisition_text": "Reviving alchemy is my wish as well.\nNow, let us go together.",
+    "another_name": "Cutie☆Hamster",
+    "description": "Resna's alchemy mentor.\nShe stopped by Resna's village during her travels and taught her the basics of alchemy.\nShe has a bright and carefree personality, but shows a strict side when it comes to alchemy.\nHer personal life is quite messy, and Resna often helps look after her.",
+    "fullname": "Johanna",
+    "leader_skill": {
+      "description": "Boosts all allies' critical damage by 5% for each Lantarna character in the party.",
+      "name": "The Comet Travels with Us"
+    },
+    "name": "Johanna",
+    "overlay_name": "Johanna",
+    "profile_voice_text": "I'm Saskia. An alchemist with dreams, just like Resna.\nAim for World's End, you hear?",
+    "sort_name": "JOHANNA",
+    "start_at": "2049-12-31T15:00:00Z"
+  },
+  {
+    "id": 45602,
+    "acquisition_text": "A ninja-style idol means a stealthy one!\nI'll captivate you with energy and flair!",
+    "another_name": "Cutie☆Fox",
+    "description": "Leader of the animal-themed idol unit \"Cutie☆AnimaL.\" Her motif animal is a fox.\nShe was approached by the president of \"Lara Production\" when her idol activities at her previous agency weren't going well.\nShe loves trying new things and eagerly jumps on board when there's an interesting project.\nShe thinks of Izana and Johanna like troublesome younger sisters.",
+    "fullname": "Kimon",
+    "leader_skill": {
+      "description": "Boosts M.ATK by 50% for characters with Bolt affinity.",
+      "name": "Leader of the Unit"
+    },
+    "name": "Kimon",
+    "overlay_name": "Kimon",
+    "profile_voice_text": "I'm Kimon. I disliked the old-fashioned ways of shinobi,\nso I entered the fun yet strict path of being an idol.",
+    "sort_name": "KIMON",
+    "start_at": "2026-03-30T03:00:00Z"
   }
 ]

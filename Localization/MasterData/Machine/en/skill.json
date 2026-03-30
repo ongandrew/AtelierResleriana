@@ -36532,5 +36532,551 @@
     "description": "Reduces target's HP by 99%.",
     "name": "Frenzy Swing",
     "summary": ""
+  },
+  {
+    "id": 32180,
+    "description": "Reduces Bolt resistance of the enemy with the highest max HP by 15% for 2 attacks and has a medium chance to inflict Paralysis for 1 turn.",
+    "name": "Hot Chili Mist",
+    "summary": ""
+  },
+  {
+    "id": 32181,
+    "description": "Reduces Bolt resistance of the enemy with the highest max HP by 10% for 2 attacks and has a low chance to inflict Paralysis for 1 turn.",
+    "name": "Hot Chili Mist",
+    "summary": ""
+  },
+  {
+    "id": 32182,
+    "description": "Deals Strike damage and Strike stun damage to all enemies.",
+    "name": "Globe",
+    "summary": ""
+  },
+  {
+    "id": 32183,
+    "description": "Deals Strike damage and Strike stun damage to all enemies.",
+    "name": "Globe",
+    "summary": ""
+  },
+  {
+    "id": 11003681,
+    "description": "Before attacking, reduces target's Bolt resistance by {0}% for 3 attacks. After attacking, boosts own skill damage by {1}%. (MAX 40%)",
+    "name": "Shockin' Powder",
+    "summary": "Before attacking, reduces target's Bolt resistance. After attacking, boosts own skill damage."
+  },
+  {
+    "id": 11003682,
+    "description": "Before attacking, reduces target's Bolt resistance by {0}% for 3 attacks. After attacking, boosts own skill damage by {1}%. (MAX 40%)",
+    "name": "Shockin' Powder",
+    "summary": "Before attacking, reduces target's Bolt resistance. After attacking, boosts own skill damage."
+  },
+  {
+    "id": 11003683,
+    "description": "Before attacking, reduces target's Bolt resistance by {0}% for 3 attacks. After attacking, boosts own skill damage by {1}%. (MAX 40%)",
+    "name": "Shockin' Powder",
+    "summary": "Before attacking, reduces target's Bolt resistance. After attacking, boosts own skill damage."
+  },
+  {
+    "id": 11003684,
+    "description": "Before attacking, reduces target's Bolt resistance by {0}% for 3 attacks. After attacking, boosts own skill damage by {1}%. (MAX 40%)",
+    "name": "Shockin' Powder",
+    "summary": "Before attacking, reduces target's Bolt resistance. After attacking, boosts own skill damage."
+  },
+  {
+    "id": 11003685,
+    "description": "Before attacking, reduces target's Bolt resistance by {0}% for 3 attacks. After attacking, boosts own skill damage by {1}%. (MAX 40%)",
+    "name": "Shockin' Powder",
+    "summary": "Before attacking, reduces target's Bolt resistance. After attacking, boosts own skill damage."
+  },
+  {
+    "id": 11003729,
+    "description": "After attacking, restores {0}% HP to the ally with the lowest HP percentage and boosts burst skill damage by {1}% for all allies. (MAX 45%)",
+    "name": "Super Yummy Special",
+    "summary": "After attacking, restores HP to the ally with the lowest HP percentage. Boosts burst skill damage for all allies."
+  },
+  {
+    "id": 11003730,
+    "description": "After attacking, restores {0}% HP to the ally with the lowest HP percentage and boosts burst skill damage by {1}% for all allies. (MAX 45%)",
+    "name": "Super Yummy Special",
+    "summary": "After attacking, restores HP to the ally with the lowest HP percentage. Boosts burst skill damage for all allies."
+  },
+  {
+    "id": 11003731,
+    "description": "After attacking, restores {0}% HP to the ally with the lowest HP percentage and boosts burst skill damage by {1}% for all allies. (MAX 45%)",
+    "name": "Super Yummy Special",
+    "summary": "After attacking, restores HP to the ally with the lowest HP percentage. Boosts burst skill damage for all allies."
+  },
+  {
+    "id": 11003732,
+    "description": "After attacking, restores {0}% HP to the ally with the lowest HP percentage and boosts burst skill damage by {1}% for all allies. (MAX 45%)",
+    "name": "Super Yummy Special",
+    "summary": "After attacking, restores HP to the ally with the lowest HP percentage. Boosts burst skill damage for all allies."
+  },
+  {
+    "id": 11003733,
+    "description": "After attacking, restores {0}% HP to the ally with the lowest HP percentage and boosts burst skill damage by {1}% for all allies. (MAX 45%)",
+    "name": "Super Yummy Special",
+    "summary": "After attacking, restores HP to the ally with the lowest HP percentage. Boosts burst skill damage for all allies."
+  },
+  {
+    "id": 12003686,
+    "description": "Before attacking, reduces target's Bolt resistance by {0}%. (MAX 50%) After attacking, boosts own weakness damage by {1}% and M.ATK by {2}% for 3 turns.",
+    "name": "Joyful Dancing",
+    "summary": "Before attacking, reduces target's Bolt resistance. After attacking, boosts own weakness damage and M.ATK."
+  },
+  {
+    "id": 12003687,
+    "description": "Before attacking, reduces target's Bolt resistance by {0}%. (MAX 50%) After attacking, boosts own weakness damage by {1}% and M.ATK by {2}% for 3 turns.",
+    "name": "Joyful Dancing",
+    "summary": "Before attacking, reduces target's Bolt resistance. After attacking, boosts own weakness damage and M.ATK."
+  },
+  {
+    "id": 12003688,
+    "description": "Before attacking, reduces target's Bolt resistance by {0}%. (MAX 50%) After attacking, boosts own weakness damage by {1}% and M.ATK by {2}% for 3 turns.",
+    "name": "Joyful Dancing",
+    "summary": "Before attacking, reduces target's Bolt resistance. After attacking, boosts own weakness damage and M.ATK."
+  },
+  {
+    "id": 12003689,
+    "description": "Before attacking, reduces target's Bolt resistance by {0}%. (MAX 50%) After attacking, boosts own weakness damage by {1}% and M.ATK by {2}% for 3 turns.",
+    "name": "Joyful Dancing",
+    "summary": "Before attacking, reduces target's Bolt resistance. After attacking, boosts own weakness damage and M.ATK."
+  },
+  {
+    "id": 12003690,
+    "description": "Before attacking, reduces target's Bolt resistance by {0}%. (MAX 50%) After attacking, boosts own weakness damage by {1}% and M.ATK by {2}% for 3 turns.",
+    "name": "Joyful Dancing",
+    "summary": "Before attacking, reduces target's Bolt resistance. After attacking, boosts own weakness damage and M.ATK."
+  },
+  {
+    "id": 12003734,
+    "description": "Boosts P.ATK and M.ATK by {0}% and skill damage by {1}% for all allies for 2 turns. Boosts burst skill damage by {2}% for all Resleriana Academy allies for 2 turns. Before using this skill, converts the next {3} ally panels on the timeline to burst panels (creates if empty).",
+    "name": "Blooming Flap",
+    "summary": "Boosts P.ATK, M.ATK, and skill damage for all allies. Boosts burst skill damage for all Resleriana Academy allies. Converts the next ally panels on the timeline to burst panels."
+  },
+  {
+    "id": 12003735,
+    "description": "Boosts all allies' P.ATK and M.ATK by {0}% and skill damage by {1}% for 2 turns.<br>Boosts all allies with Resleriana Academy tag's burst skill damage by {2}% for 2 turns.<br>Before using this skill, converts the next {3} ally panels on the timeline to burst panels (creates if empty).",
+    "name": "Blooming Cheer",
+    "summary": "Boosts all allies' P.ATK, M.ATK, and skill damage.<br>Boosts all allies with Resleriana Academy tag's burst skill damage.<br>Converts the next ally panels on the timeline to burst panels."
+  },
+  {
+    "id": 12003736,
+    "description": "Boosts all allies' P.ATK and M.ATK by {0}% and skill damage by {1}% for 2 turns.<br>Boosts all allies with Resleriana Academy tag's burst skill damage by {2}% for 2 turns.<br>Before using this skill, converts the next {3} ally panels on the timeline to burst panels (creates if empty).",
+    "name": "Blooming Cheer",
+    "summary": "Boosts all allies' P.ATK, M.ATK, and skill damage.<br>Boosts all allies with Resleriana Academy tag's burst skill damage.<br>Converts the next ally panels on the timeline to burst panels."
+  },
+  {
+    "id": 12003737,
+    "description": "Boosts all allies' P.ATK and M.ATK by {0}% and skill damage by {1}% for 2 turns.<br>Boosts all allies with Resleriana Academy tag's burst skill damage by {2}% for 2 turns.<br>Before using this skill, converts the next {3} ally panels on the timeline to burst panels (creates if empty).",
+    "name": "Blooming Cheer",
+    "summary": "Boosts all allies' P.ATK, M.ATK, and skill damage.<br>Boosts all allies with Resleriana Academy tag's burst skill damage.<br>Converts the next ally panels on the timeline to burst panels."
+  },
+  {
+    "id": 12003738,
+    "description": "Boosts all allies' P.ATK and M.ATK by {0}% and skill damage by {1}% for 2 turns.<br>Boosts all allies with Resleriana Academy tag's burst skill damage by {2}% for 2 turns.<br>Before using this skill, converts the next {3} ally panels on the timeline to burst panels (creates if empty).",
+    "name": "Blooming Cheer",
+    "summary": "Boosts all allies' P.ATK, M.ATK, and skill damage.<br>Boosts all allies with Resleriana Academy tag's burst skill damage.<br>Converts the next ally panels on the timeline to burst panels."
+  },
+  {
+    "id": 14003691,
+    "description": "Before attacking, reduces target's Bolt resistance by {0}% for 2 attacks.<br>After attacking, boosts own skill damage by {1}% and M.ATK by {2}% for 2 turns.",
+    "name": "Kimon☆On Stage",
+    "summary": "Before attacking, reduces target's Bolt resistance.<br>After attacking, boosts own skill damage and M.ATK."
+  },
+  {
+    "id": 14003692,
+    "description": "Before attacking, reduces target's Bolt resistance by {0}% for 2 attacks.<br>After attacking, boosts own skill damage by {1}% and M.ATK by {2}% for 2 turns.",
+    "name": "Kimon☆On Stage",
+    "summary": "Before attacking, reduces target's Bolt resistance.<br>After attacking, boosts own skill damage and M.ATK."
+  },
+  {
+    "id": 14003693,
+    "description": "Before attacking, reduces target's Bolt resistance by {0}% for 2 attacks.<br>After attacking, boosts own skill damage by {1}% and M.ATK by {2}% for 2 turns.",
+    "name": "Kimon☆On Stage",
+    "summary": "Before attacking, reduces target's Bolt resistance.<br>After attacking, boosts own skill damage and M.ATK."
+  },
+  {
+    "id": 14003694,
+    "description": "Before attacking, reduces target's Bolt resistance by {0}% for 2 attacks.<br>After attacking, boosts own skill damage by {1}% and M.ATK by {2}% for 2 turns.",
+    "name": "Kimon☆On Stage",
+    "summary": "Before attacking, reduces target's Bolt resistance.<br>After attacking, boosts own skill damage and M.ATK."
+  },
+  {
+    "id": 14003695,
+    "description": "Before attacking, reduces target's Bolt resistance by {0}% for 2 attacks.<br>After attacking, boosts own skill damage by {1}% and M.ATK by {2}% for 2 turns.",
+    "name": "Kimon☆On Stage",
+    "summary": "Before attacking, reduces target's Bolt resistance.<br>After attacking, boosts own skill damage and M.ATK."
+  },
+  {
+    "id": 14003726,
+    "description": "Boosts this attack's critical rate by 100% and critical damage by 50%.<br>After attacking, boosts own skill damage by {0}% for 3 turns.<br>Depending on number of characters with Resleriana Academy tag, boosts own base M.ATK by 100-300 (Max 300) (Higher boost for more characters, range: 1-3).<br>*Does not consume status effect counts or trigger additional effects.",
+    "name": "Charming Wink",
+    "summary": "Boosts this attack's critical rate and critical damage.<br>After attacking, boosts own skill damage.<br>Depending on number of characters with Resleriana Academy tag, boosts own base M.ATK.<br>Does not consume status effect counts."
+  },
+  {
+    "id": 14003739,
+    "description": "After attacking, reduces target's All resistance by {0}% for 2 attacks.<br>Boosts 1 ally with highest P.ATK or M.ATK's P.ATK and M.ATK by {1}% for 2 turns.<br>Boosts all allies with Resleriana Academy tag's burst skill damage by {2}% for 2 turns.",
+    "name": "Ultimate Cannon",
+    "summary": "After attacking, reduces target's All resistance.<br>Boosts 1 ally with highest P.ATK or M.ATK's P.ATK and M.ATK.<br>Boosts all allies with Resleriana Academy tag's burst skill damage."
+  },
+  {
+    "id": 14003740,
+    "description": "After attacking, reduces target's All resistance by {0}% for 2 attacks.<br>Boosts 1 ally with highest P.ATK's P.ATK by {1}% for 1 turn.",
+    "name": "Ultimate Cannon",
+    "summary": "After attacking, reduces target's All resistance.<br>Boosts 1 ally with highest P.ATK's P.ATK."
+  },
+  {
+    "id": 32005082,
+    "description": "After attacking, increases skill target's damage received by 20% for 2 times.",
+    "name": "Dream Meteor",
+    "summary": ""
+  },
+  {
+    "id": 32005083,
+    "description": "After attacking, reduces own damage received by 10% for 3 times.",
+    "name": "Super Strike Rolling",
+    "summary": ""
+  },
+  {
+    "id": 32005084,
+    "description": "No effects.",
+    "name": "Meteorite Summon",
+    "summary": ""
+  },
+  {
+    "id": 32005085,
+    "description": "After attacking, reduces all enemies' critical damage by 30% for 2 times.",
+    "name": "Thundercloud Summon",
+    "summary": ""
+  },
+  {
+    "id": 32005086,
+    "description": "Inflicts Provoke on all enemies for 3 times and reduces own damage received by 20% for 3 times.",
+    "name": "Annoying Howl",
+    "summary": ""
+  },
+  {
+    "id": 32005087,
+    "description": "After attacking, delays target enemy's turn by 1.",
+    "name": "Slash Bite",
+    "summary": ""
+  },
+  {
+    "id": 32005088,
+    "description": "No effects.",
+    "name": "Scatter Slash",
+    "summary": ""
+  },
+  {
+    "id": 32005089,
+    "description": "No effects.",
+    "name": "Wind Breath",
+    "summary": ""
+  },
+  {
+    "id": 32005090,
+    "description": "After attacking, reduces all enemies' M.ATK by 15% for 3 turns, P.ATK by 15% for 3 turns, and SPD by 8% for 2 turns.",
+    "name": "Bloody Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32005091,
+    "description": "Advances target ally's turn by 2 turns.",
+    "name": "Spin Roar",
+    "summary": ""
+  },
+  {
+    "id": 32005092,
+    "description": "Reduces all enemies' M.DEF by 20% for 2 turns and P.DEF by 20% for 2 turns.",
+    "name": "Dark Roar",
+    "summary": ""
+  },
+  {
+    "id": 32005093,
+    "description": "After attacking, increases all allies' damage dealt by 10% for 5 turns.",
+    "name": "Hellfire Gift",
+    "summary": ""
+  },
+  {
+    "id": 32005094,
+    "description": "After attacking, increases all allies' damage dealt by 10% for 5 turns.",
+    "name": "Magic Fire Gift",
+    "summary": ""
+  },
+  {
+    "id": 32005095,
+    "description": "After attacking, increases all allies' damage dealt by 10% for 5 turns.",
+    "name": "Wide Range Fire Gift",
+    "summary": ""
+  },
+  {
+    "id": 32005096,
+    "description": "Restores all allies' Burst Gauge by 20%.",
+    "name": "Heal All",
+    "summary": ""
+  },
+  {
+    "id": 32005097,
+    "description": "Converts 5 empty panels on target enemy's timeline to weaken panels, and grants self damage received down by 30% for 3 turns and SPD up by 15% for 3 turns.",
+    "name": "Shield Full Charge",
+    "summary": ""
+  },
+  {
+    "id": 32005098,
+    "description": "No effects.",
+    "name": "Shield Charge",
+    "summary": ""
+  },
+  {
+    "id": 32005099,
+    "description": "No effects.",
+    "name": "Thunder Drop",
+    "summary": ""
+  },
+  {
+    "id": 32005100,
+    "description": "No effects.",
+    "name": "Rock Toss",
+    "summary": ""
+  },
+  {
+    "id": 32005101,
+    "description": "No effects.",
+    "name": "Shock Slash",
+    "summary": ""
+  },
+  {
+    "id": 32005102,
+    "description": "No effects.",
+    "name": "Rock Return",
+    "summary": ""
+  },
+  {
+    "id": 32005103,
+    "description": "Grants self cover for 5 times and counter for 3 times.",
+    "name": "Rush Preparation",
+    "summary": ""
+  },
+  {
+    "id": 32005104,
+    "description": "Grants single ally damage immunity for 1 attack, and converts 3 empty panels on target's timeline to HP recovery panels.",
+    "name": "War Drum",
+    "summary": ""
+  },
+  {
+    "id": 32005105,
+    "description": "No effects.",
+    "name": "Lightning Throw",
+    "summary": ""
+  },
+  {
+    "id": 32005106,
+    "description": "No effects.",
+    "name": "Thunder Coating",
+    "summary": ""
+  },
+  {
+    "id": 32005107,
+    "description": "No effects.",
+    "name": "Roaring Thunder Coating",
+    "summary": ""
+  },
+  {
+    "id": 32005108,
+    "description": "Reduces skill target's M.ATK by 20% for 2 turns and P.ATK by 20% for 2 turns.",
+    "name": "Strength Restraint",
+    "summary": ""
+  },
+  {
+    "id": 32005109,
+    "description": "Increases all allies' damage dealt by 15% for 2 turns.",
+    "name": "Strength Blessing",
+    "summary": ""
+  },
+  {
+    "id": 32005110,
+    "description": "No effect.",
+    "name": "Tumble Down",
+    "summary": ""
+  },
+  {
+    "id": 32005111,
+    "description": "No effect.",
+    "name": "Shiny Puni Bomber",
+    "summary": ""
+  },
+  {
+    "id": 32005112,
+    "description": "No effect.",
+    "name": "Puni Breath",
+    "summary": ""
+  },
+  {
+    "id": 32005113,
+    "description": "Restores 15% HP to a single ally.",
+    "name": "Heal",
+    "summary": ""
+  },
+  {
+    "id": 32005114,
+    "description": "Boosts target enemy's damage received by 20% for 2 turns.",
+    "name": "Puni Dark",
+    "summary": ""
+  },
+  {
+    "id": 32005115,
+    "description": "Converts 5 empty panels to weaken panels on the target enemy's timeline. Grants self damage received -45% and SPD +15% for 3 turns.",
+    "name": "Shield Full Charge",
+    "summary": ""
+  },
+  {
+    "id": 32005116,
+    "description": "No effect.",
+    "name": "Shield Charge",
+    "summary": ""
+  },
+  {
+    "id": 32005117,
+    "description": "No effect.",
+    "name": "Lightning Drop",
+    "summary": ""
+  },
+  {
+    "id": 32005118,
+    "description": "No effect.",
+    "name": "Rock Toss",
+    "summary": ""
+  },
+  {
+    "id": 32005119,
+    "description": "No effect.",
+    "name": "Crackle Slash",
+    "summary": ""
+  },
+  {
+    "id": 32005120,
+    "description": "No effect.",
+    "name": "Rock Return",
+    "summary": ""
+  },
+  {
+    "id": 32005121,
+    "description": "Grants self Cover for 5 turns and Counter for 3 turns.",
+    "name": "Prepare to Rush",
+    "summary": ""
+  },
+  {
+    "id": 32005122,
+    "description": "Grants target ally damage immunity for 1 turn. Converts 3 empty panels to HP recovery panels on the target's timeline.",
+    "name": "War Song",
+    "summary": ""
+  },
+  {
+    "id": 32005123,
+    "description": "After attacking, delays target enemy's turn by 1.",
+    "name": "Slash Bite",
+    "summary": ""
+  },
+  {
+    "id": 32005124,
+    "description": "No effect.",
+    "name": "Scatter Slash",
+    "summary": ""
+  },
+  {
+    "id": 32005125,
+    "description": "No effect.",
+    "name": "Wind Breath",
+    "summary": ""
+  },
+  {
+    "id": 32005126,
+    "description": "After attacking, grants all enemies M.ATK -35% for 3 turns, P.ATK -50% for 3 turns, and SPD -8% for 2 turns.",
+    "name": "Bloody Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32005127,
+    "description": "Advances a single ally's turn by 2.",
+    "name": "Spin Roar",
+    "summary": ""
+  },
+  {
+    "id": 32005128,
+    "description": "Grants all enemies M.DEF -35% and P.DEF -35% for 2 turns.",
+    "name": "Dark Roar",
+    "summary": ""
+  },
+  {
+    "id": 32005129,
+    "description": "No effect.",
+    "name": "Rock Cutter",
+    "summary": ""
+  },
+  {
+    "id": 32005130,
+    "description": "No additional effects.",
+    "name": "Wild Strike",
+    "summary": ""
+  },
+  {
+    "id": 32005131,
+    "description": "Restores all allies' HP by 20%.",
+    "name": "Heal Powder",
+    "summary": ""
+  },
+  {
+    "id": 32005132,
+    "description": "No additional effects.",
+    "name": "Lightning Slash",
+    "summary": ""
+  },
+  {
+    "id": 32005133,
+    "description": "No additional effects.",
+    "name": "Spinning Slash",
+    "summary": ""
+  },
+  {
+    "id": 32005134,
+    "description": "Boosts target enemy's damage dealt by 30% for 2 turns.",
+    "name": "Energy Powder",
+    "summary": ""
+  },
+  {
+    "id": 32005135,
+    "description": "Increases target enemy's damage received by 20% for 3 turns.",
+    "name": "Curse Powder",
+    "summary": ""
+  },
+  {
+    "id": 32005179,
+    "description": "No additional effects.",
+    "name": "Tumble",
+    "summary": ""
+  },
+  {
+    "id": 32005180,
+    "description": "No additional effects.",
+    "name": "Glitter Puni Bomber",
+    "summary": ""
+  },
+  {
+    "id": 32005181,
+    "description": "No additional effects.",
+    "name": "Puni Breath",
+    "summary": ""
+  },
+  {
+    "id": 32005182,
+    "description": "Restores single ally's HP by 8%.",
+    "name": "Heal",
+    "summary": ""
+  },
+  {
+    "id": 32005183,
+    "description": "Increases target's damage received by 5% for 2 turns.",
+    "name": "Puni Dark",
+    "summary": ""
   }
 ]

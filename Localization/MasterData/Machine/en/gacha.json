@@ -5859,5 +5859,122 @@
     "name": "Firis Pure Flora Outfit Synthesis",
     "start_at": "2026-03-23T03:00:00Z",
     "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 2370,
+    "description": "Kimon makes her debut and is featured!\nUntil 2026/04/27 10:59 (UTC+8).",
+    "end_at": "2026-04-27T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "I'll Disturb Your Heart! Leader Kimon - LEGEND FES",
+    "name": "I'll Disturb Your Heart! Leader Kimon - LEGEND FES",
+    "start_at": "2026-03-30T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2371,
+    "description": "With Paid Lodestar Gems, once per day only! Featured rate doubled!\nUntil 2026/04/13 10:59 (UTC+8).",
+    "end_at": "2026-04-13T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 23711,
+            "description": "Featured Rate x2!\n1 Time Left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "I'll Disturb Your Heart! Leader Kimon - LEGEND FES [Once Per Day - Paid Lodestar Gems Only]",
+    "name": "I'll Disturb Your Heart! Leader Kimon - LEGEND FES [Once Per Day - Paid Lodestar Gems Only]",
+    "small_banner_label": "Once Per Day!",
+    "start_at": "2026-03-30T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2372,
+    "description": "For every 50 Wishes with Paid Lodestar Gems, an additional Wish will appear!\nUntil 2026/04/27 10:59 (UTC+8).",
+    "end_at": "2026-04-27T03:00:00Z",
+    "name": "I'll Disturb Your Heart! Leader Kimon - LEGEND FES [Paid Lodestar Gems Only]",
+    "small_banner_label": "Paid Lodestar Gems Only!",
+    "start_at": "2026-03-30T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 3052,
+    "description": "Pick-up character debuts at ★5!\nIf you already have them\nand welcome them for the first time in this Wish,\nyou'll get 1030 additional Pieces on your first summon!\n *Regardless of join status when first welcomed,\nfrom the 2nd summon onwards\nyou will receive 100 Pieces\nFeatured until 2026/04/13 11:59 (UTC+8).",
+    "end_at": "2026-04-13T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10003,
+            "description": ""
+          },
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Rorona [Joyful Leader] ★6 Release Celebration Wish",
+    "name": "Rorona [Joyful Leader] ★6 Release Celebration Wish",
+    "small_banner_label": "1 Free Wish Per Day!",
+    "start_at": "2026-03-30T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 3053,
+    "description": "STEP 4 guarantees one of the ★3 characters that debuted in Keiun!\nFeatured until 2026/04/13 11:59 (UTC+8)\n*STEPs 1-3 have no rate-ups\n*The guaranteed ★3 character in STEP 4 will be one of:\nKimon [Unwavering Shinobi of Loyalty], Towa [Silver-Tongued Diviner],\nKaburaya [Brightest Star on Earth], or Chitose [Graceful Maiden]",
+    "end_at": "2026-04-13T03:00:00Z",
+    "name": "Far Eastern Island Nation Keiun - ★3 Character Guaranteed Wish",
+    "small_banner_label": "Keiun ★3 Guaranteed!",
+    "start_at": "2026-03-30T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 237201,
+    "description": "Max 5 times! 2x Pick-up rate!\nEarn 16 Medals! Until 2026/04/27 11:59 (UTC+8)",
+    "end_at": "2026-04-27T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10005,
+            "description": "Bonus Included!\n{} Times Left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "I'll Be Stealing Your Heart! - Leader Kimon LEGEND FES [Paid Lodestar Gems Only]",
+    "name": "I'll Be Stealing Your Heart! - Leader Kimon LEGEND FES [Paid Lodestar Gems Only]",
+    "small_banner_label": "Paid Gems Only!",
+    "start_at": "2026-03-30T03:00:00Z",
+    "step_up_loop_description": ""
   }
 ]

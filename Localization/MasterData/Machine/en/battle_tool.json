@@ -413,5 +413,25 @@
     "id": 1015,
     "description": "Restores 10% HP to all allies. After recovery, boosts Stab skill damage by {0}% for 2 turns.",
     "name": "Fish Ration"
+  },
+  {
+    "id": 1016,
+    "description": "Reduces Bolt resistance of the enemy with the highest max HP by 15% for 2 attacks and has a medium chance to inflict Paralysis for 1 turn.",
+    "name": "Hot Chili Mist"
+  },
+  {
+    "id": 1017,
+    "description": "Reduces Bolt resistance of the enemy with the highest max HP by 10% for 2 attacks and has a low chance to inflict Paralysis for 1 turn.",
+    "name": "Hot Chili Mist"
+  },
+  {
+    "id": 1018,
+    "description": "Deals Strike damage and Strike stun damage to all enemies.",
+    "name": "Globe"
+  },
+  {
+    "id": 1019,
+    "description": "Deals Strike damage and Strike stun damage to all enemies.",
+    "name": "Globe"
   }
 ]

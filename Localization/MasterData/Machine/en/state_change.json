@@ -4943,5 +4943,25 @@
     "id": 910212,
     "description": "Boosts Atelier Cannon critical rate by {value}%.",
     "name": "Atelier Cannon Critical Rate Up"
+  },
+  {
+    "id": 610475,
+    "description": "Boosts skill damage by {value}%. (MAX 40%)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 610476,
+    "description": "Boosts damage received from Bolt attacks by {value}%. (MAX 50%)",
+    "name": "Bolt Resistance Down"
+  },
+  {
+    "id": 610477,
+    "description": "Boosts base M.ATK by {value}. (MAX 300)",
+    "name": "Base M.ATK Up"
+  },
+  {
+    "id": 610487,
+    "description": "Boosts burst skill damage by {value}%. (MAX 45%)",
+    "name": "Burst Damage Up"
   }
 ]

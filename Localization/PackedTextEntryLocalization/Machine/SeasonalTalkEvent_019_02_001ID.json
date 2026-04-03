@@ -1,0 +1,563 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "カウントダウンフェス。\n年越しに合わせて行われるカウントダウンライブの１つ",
+        "localizations": {
+          "en": "The Countdown Festival. One of the countdown live events held on New Year's Eve."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "様々なジャンルのアーティストやアイドルグループが\n一堂に会するビッグイベント",
+        "localizations": {
+          "en": "A massive event where artists and idol groups from various genres gather in one place."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "皆さん知っていますわよね？",
+        "localizations": {
+          "en": "You all know about it, yes?"
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "知ってるに決まってるよ！\u3000年末にテレビで\n見るものといったらそれしかないくらいだし",
+        "localizations": {
+          "en": "Of course we do! It's basically the only thing you watch on TV at the end of the year!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "まさかそれに出演できるってわけ！？",
+        "localizations": {
+          "en": "Wait, you're saying we could actually perform there?!"
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "そんなはずがありません。主催者からオファーを\n受けたアーティストのみが出演できるはず",
+        "localizations": {
+          "en": "That can't be right. Only artists who receive offers from the organizers can perform there."
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "そうですわね。基本的には",
+        "localizations": {
+          "en": "That's correct. Generally speaking."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "……そう言うってことは、何か手があるのね",
+        "localizations": {
+          "en": "...Which means you've found a way in."
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "「公募枠」というものがありますわ。\n審査を受け、勝ち残った者が出演権を獲得できますの",
+        "localizations": {
+          "en": "There's something called an \"open audition slot.\" Those who pass the screening and win can earn the right to perform."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "とはいえ、その枠はごくごく少数……\nわたくしたちはその枠を勝ち取らなくてはなりません",
+        "localizations": {
+          "en": "That said, only a very limited number of slots are available... We'll need to claim one of them."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "審査とは、何を評価されるのですか？\nやはり、歌やダンスの技量でしょうか",
+        "localizations": {
+          "en": "What does the screening evaluate? Our singing and dancing ability, I assume?"
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "一言で表すのであれば……「人気」ですわ",
+        "localizations": {
+          "en": "If I had to sum it up in one word... \"popularity.\""
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "ライブの動員実績、ＳＮＳのフォロワー数、\nそして直近の勢い、エトセトラ……",
+        "localizations": {
+          "en": "Live attendance records, social media follower counts, recent momentum, et cetera..."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "そういったものを総合的に見て\n判定されているようですわね",
+        "localizations": {
+          "en": "They make their judgment based on a comprehensive assessment of such factors."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "はあ！？\u3000それ、私たちに勝ち目あるわけ？\nこの前デビューしたばかりで、ファンも少ないのに",
+        "localizations": {
+          "en": "Huh?! Do we even stand a chance? We just debuted, and we barely have any fans!"
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "審査開始までに１週間ありますわ。そこまでに、\n全力で「人気」を獲得すれば良いだけのこと",
+        "localizations": {
+          "en": "We have one week until the screening begins. All we need to do is gain as much popularity as possible before then."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "そんなの、簡単にいくわけ――",
+        "localizations": {
+          "en": "Like that's gonna be eas—"
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "言い訳を並べるのは結構。\n……ですが、せっかくのチャンスを棒に振るのですか？",
+        "localizations": {
+          "en": "I've heard quite enough excuses. ...But tell me, do you truly intend to squander this opportunity?"
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "……っ",
+        "localizations": {
+          "en": "...!"
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "生存競争の激しい世界ですわ。少しずつ、一歩一歩。\nそんなことを言っていたら置いていかれてしまうのです",
+        "localizations": {
+          "en": "This is a cutthroat world. Take it slow, one step at a time—say that, and you'll be left in the dust."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "世界一のアイドルになる。そう仰っていましたが、\nあなたにはそのための計画がありますの？",
+        "localizations": {
+          "en": "You said you wanted to become the world's greatest idol. Do you have a plan to make that happen?"
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "それは……",
+        "localizations": {
+          "en": "Well..."
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "前に言っていた、わたくしの計画。\nそれはこのフェスを目指したものでした",
+        "localizations": {
+          "en": "The plan I mentioned before? It was designed with this festival in mind all along."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "だからこそ急いでライブを重ね、\n実績を作る必要がありましたの",
+        "localizations": {
+          "en": "That's why we needed to hold multiple lives quickly and build up our track record."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "ま、まあ？\u3000たとえ選ばれなかったとしても、\n人気になることはいいことだと思うし……",
+        "localizations": {
+          "en": "W-well, I guess even if we don't get picked, gaining popularity is still a good thing..."
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "とにかくやってみようよ！\n面白そうだしね！",
+        "localizations": {
+          "en": "Let's just give it a shot! It sounds like fun!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "そうでございまするな。そのサポートは\n期待して良いのでしょう？\u3000社長殿",
+        "localizations": {
+          "en": "Indeed. We can count on your support for this, yes, Boss?"
+        }
+      },
+      "2072370017": {
+        "text": "鬼門",
+        "localizations": {
+          "en": "Kimon"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "もちろん。ですがまずはあなたがたが現状を自覚し、\n自ら動くことが大切ですわ",
+        "localizations": {
+          "en": "Of course. But first, you must acknowledge your current position and take action yourselves."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "わたくしは、皆さんがアイドルとして大成するための\n最短ルートを切り拓いて差し上げます",
+        "localizations": {
+          "en": "I will carve out the shortest path to your success as idols."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "そこから先は、皆さんの努力次第。\n必要以上の支援は期待しないこと。いいですわね？",
+        "localizations": {
+          "en": "Beyond that, it's up to your own efforts. Don't expect more support than necessary. Understood?"
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "……分かったわ。やるわよ。\nやってみせようじゃない！",
+        "localizations": {
+          "en": "...Fine. I'll do it. I'll show you what we're made of!"
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "見てなさいよ！\u3000ぎゃふんと言わせてやるんだから！",
+        "localizations": {
+          "en": "Just you wait! I'll make you eat your words!"
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "ふふ。楽しみにしていますわ",
+        "localizations": {
+          "en": "Hehe. I'm looking forward to it."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  }
+]

@@ -185,11 +185,11 @@ namespace AtelierResleriana.Executables.Pipeline.TextAsset.Localize
                 new EnglishLocalizer(
                     new AnthropicTextGenerator(new AnthropicClient(configuration["Anthropic:ApiKey"]), new AnthropicTextGenerator.Options() 
                     {
-                        Model = Models.ClaudeSonnet45
+                        Model = Models.ClaudeSonnet46
                     }),
-                    new AnthropicTextTransformer(new AnthropicClient(configuration["Anthropic:ApiKey"]), new AnthropicTextTransformer.Options() 
+                    new AnthropicStructuredTextTransformer(new AnthropicClient(configuration["Anthropic:ApiKey"]), new AnthropicStructuredTextTransformer.Options() 
                     {
-                        Model = Models.ClaudeSonnet45
+                        Model = Models.ClaudeSonnet46
                     })
                 )
             ];

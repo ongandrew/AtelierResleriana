@@ -4963,5 +4963,25 @@
     "id": 610487,
     "description": "Boosts burst skill damage by {value}%. (MAX 45%)",
     "name": "Burst Damage Up"
+  },
+  {
+    "id": 610478,
+    "description": "Boosts M.ATK by {value}%. (MAX 100%)",
+    "name": "M.ATK Up"
+  },
+  {
+    "id": 610479,
+    "description": "Boosts skill power by {value}%. (MAX 100%)",
+    "name": "Skill Power Up"
+  },
+  {
+    "id": 610480,
+    "description": "Boosts critical rate by {value}%. (MAX 100%)",
+    "name": "Critical Rate Up"
+  },
+  {
+    "id": 800224,
+    "description": "Boosts positive effect potency given by {value}%. (MAX 40%)",
+    "name": "Given Positive Effect Potency Up"
   }
 ]

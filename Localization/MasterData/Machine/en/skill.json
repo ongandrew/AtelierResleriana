@@ -37078,5 +37078,353 @@
     "description": "Increases target's damage received by 5% for 2 turns.",
     "name": "Puni Dark",
     "summary": ""
+  },
+  {
+    "id": 11003696,
+    "description": "After attacking, boosts M.ATK by {0}% and skill damage by {1}% for all allies for 3 turns.",
+    "name": "Melody Blade",
+    "summary": "After attacking, boosts M.ATK and skill damage for all allies."
+  },
+  {
+    "id": 11003697,
+    "description": "After attacking, boosts M.ATK by {0}% and skill damage by {1}% for all allies for 3 turns.",
+    "name": "Melody Blade",
+    "summary": "After attacking, boosts M.ATK and skill damage for all allies."
+  },
+  {
+    "id": 11003698,
+    "description": "After attacking, boosts M.ATK by {0}% and skill damage by {1}% for all allies for 3 turns.",
+    "name": "Melody Blade",
+    "summary": "After attacking, boosts M.ATK and skill damage for all allies."
+  },
+  {
+    "id": 11003699,
+    "description": "After attacking, boosts M.ATK by {0}% and skill damage by {1}% for all allies for 3 turns.",
+    "name": "Melody Blade",
+    "summary": "After attacking, boosts M.ATK and skill damage for all allies."
+  },
+  {
+    "id": 11003700,
+    "description": "After attacking, boosts M.ATK by {0}% and skill damage by {1}% for all allies for 3 turns.",
+    "name": "Melody Blade",
+    "summary": "After attacking, boosts M.ATK and skill damage for all allies."
+  },
+  {
+    "id": 12003701,
+    "description": "Restores target's HP by {0}%.<br>Boosts target's critical damage by {1}% for 2 turns.<br>Boosts M.ATK by {2}% for 2 turns for all allies with Bolt affinity.<br>Boosts M.ATK by {3}% for all allies with Resleriana Academy tag (Max: 100%).",
+    "name": "Colorful Harmony",
+    "summary": "Restores target's HP and boosts critical damage.<br>Boosts M.ATK for all allies with Bolt affinity.<br>Boosts M.ATK for all allies with Resleriana Academy tag."
+  },
+  {
+    "id": 12003702,
+    "description": "Restores target's HP by {0}%.<br>Boosts target's critical damage by {1}% for 2 turns.<br>Boosts M.ATK by {2}% for 2 turns for all allies with Bolt affinity.<br>Boosts M.ATK by {3}% for all allies with Resleriana Academy tag (Max: 100%).",
+    "name": "Colorful Harmony",
+    "summary": "Restores target's HP and boosts critical damage.<br>Boosts M.ATK for all allies with Bolt affinity.<br>Boosts M.ATK for all allies with Resleriana Academy tag."
+  },
+  {
+    "id": 12003703,
+    "description": "Restores target's HP by {0}%.<br>Boosts target's critical damage by {1}% for 2 turns.<br>Boosts M.ATK by {2}% for 2 turns for all allies with Bolt affinity.<br>Boosts M.ATK by {3}% for all allies with Resleriana Academy tag (Max: 100%).",
+    "name": "Colorful Harmony",
+    "summary": "Restores target's HP and boosts critical damage.<br>Boosts M.ATK for all allies with Bolt affinity.<br>Boosts M.ATK for all allies with Resleriana Academy tag."
+  },
+  {
+    "id": 12003704,
+    "description": "Restores target's HP by {0}%.<br>Boosts target's critical damage by {1}% for 2 turns.<br>Boosts M.ATK by {2}% for 2 turns for all allies with Bolt affinity.<br>Boosts M.ATK by {3}% for all allies with Resleriana Academy tag (Max: 100%).",
+    "name": "Colorful Harmony",
+    "summary": "Restores target's HP and boosts critical damage.<br>Boosts M.ATK for all allies with Bolt affinity.<br>Boosts M.ATK for all allies with Resleriana Academy tag."
+  },
+  {
+    "id": 12003705,
+    "description": "Restores target's HP by {0}%.<br>Boosts target's critical damage by {1}% for 2 turns.<br>Boosts M.ATK by {2}% for 2 turns for all allies with Bolt affinity.<br>Boosts M.ATK by {3}% for all allies with Resleriana Academy tag (Max: 100%).",
+    "name": "Colorful Harmony",
+    "summary": "Restores target's HP and boosts critical damage.<br>Boosts M.ATK for all allies with Bolt affinity.<br>Boosts M.ATK for all allies with Resleriana Academy tag."
+  },
+  {
+    "id": 14003706,
+    "description": "Restores target's HP by {0}%.<br>Boosts target's critical damage by {1}% for 2 turns.<br>Boosts M.ATK by {2}% for 2 turns for all allies with Bolt affinity or Resleriana Academy tag.",
+    "name": "Johanna☆On Stage",
+    "summary": "Restores target's HP and boosts critical damage.<br>Boosts M.ATK for all allies with Bolt affinity or Resleriana Academy tag."
+  },
+  {
+    "id": 14003707,
+    "description": "Restores target's HP by {0}%.<br>Boosts target's critical damage by {1}% for 2 turns.<br>Boosts M.ATK by {2}% for 2 turns for all allies with Bolt affinity or Resleriana Academy tag.",
+    "name": "Johanna☆On Stage",
+    "summary": "Restores target's HP and boosts critical damage.<br>Boosts M.ATK for all allies with Bolt affinity or Resleriana Academy tag."
+  },
+  {
+    "id": 14003708,
+    "description": "Restores target's HP by {0}%.<br>Boosts target's critical damage by {1}% for 2 turns.<br>Boosts M.ATK by {2}% for 2 turns for all allies with Bolt affinity or Resleriana Academy tag.",
+    "name": "Johanna☆On Stage",
+    "summary": "Restores target's HP and boosts critical damage.<br>Boosts M.ATK for all allies with Bolt affinity or Resleriana Academy tag."
+  },
+  {
+    "id": 14003709,
+    "description": "Restores target's HP by {0}%.<br>Boosts target's critical damage by {1}% for 2 turns.<br>Boosts M.ATK by {2}% for 2 turns for all allies with Bolt affinity or Resleriana Academy tag.",
+    "name": "Johanna☆On Stage",
+    "summary": "Restores target's HP and boosts critical damage.<br>Boosts M.ATK for all allies with Bolt affinity or Resleriana Academy tag."
+  },
+  {
+    "id": 14003710,
+    "description": "Restores target's HP by {0}%.<br>Boosts target's critical damage by {1}% for 2 turns.<br>Boosts M.ATK by {2}% for 2 turns for all allies with Bolt affinity or Resleriana Academy tag.",
+    "name": "Johanna☆On Stage",
+    "summary": "Restores target's HP and boosts critical damage.<br>Boosts M.ATK for all allies with Bolt affinity or Resleriana Academy tag."
+  },
+  {
+    "id": 14003727,
+    "description": "After attacking, boosts skill damage by {0}% for 2 turns for all allies with Bolt affinity or Resleriana Academy tag.<br>Grants skill power by {1}% (Max: 100%) and critical rate by {2}% (Max: 100%).<br>Increases burst gauge by {3}%.<br>※Does not consume status change counters or trigger additional effects.",
+    "name": "Shining Fencer",
+    "summary": "After attacking, boosts skill damage, skill power, and critical rate for all allies with Bolt affinity or Resleriana Academy tag.<br>Then increases burst gauge.<br>Does not consume status change counters."
+  },
+  {
+    "id": 32005136,
+    "description": "No effect.",
+    "name": "Tumble",
+    "summary": ""
+  },
+  {
+    "id": 32005137,
+    "description": "No effect.",
+    "name": "Puni Bomber",
+    "summary": ""
+  },
+  {
+    "id": 32005138,
+    "description": "No effect.",
+    "name": "Puni Breath",
+    "summary": ""
+  },
+  {
+    "id": 32005139,
+    "description": "Restores target ally's HP by 10%.",
+    "name": "Heal",
+    "summary": ""
+  },
+  {
+    "id": 32005140,
+    "description": "Reduces enemy target's damage dealt by 20% for 1 turn.",
+    "name": "Punidark",
+    "summary": ""
+  },
+  {
+    "id": 32005141,
+    "description": "After attacking, delays skill target's turn by 3 turns.",
+    "name": "Tackle",
+    "summary": ""
+  },
+  {
+    "id": 32005142,
+    "description": "No effect.",
+    "name": "Rush",
+    "summary": ""
+  },
+  {
+    "id": 32005143,
+    "description": "After attacking, reduces skill target's damage dealt by 20% for 3 turns.",
+    "name": "Meteor Slash",
+    "summary": ""
+  },
+  {
+    "id": 32005144,
+    "description": "No effect.",
+    "name": "Fire Slash",
+    "summary": ""
+  },
+  {
+    "id": 32005145,
+    "description": "Boosts ally target's damage dealt by 20% for 1 turn.",
+    "name": "Cheer Up",
+    "summary": ""
+  },
+  {
+    "id": 32005146,
+    "description": "After attacking, reduces skill target's HP recovery by 45% for 2 turns.",
+    "name": "Rock Call",
+    "summary": ""
+  },
+  {
+    "id": 32005147,
+    "description": "After attacking, restores own HP by 15%.",
+    "name": "Peck",
+    "summary": ""
+  },
+  {
+    "id": 32005148,
+    "description": "No effect.",
+    "name": "Stone Rain",
+    "summary": ""
+  },
+  {
+    "id": 32005149,
+    "description": "After attacking, increases skill target's damage received by 25% for 2 turns.",
+    "name": "Thunder Kick",
+    "summary": ""
+  },
+  {
+    "id": 32005150,
+    "description": "After attacking, restores all allies' HP by 10%.",
+    "name": "Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 32005151,
+    "description": "Before attacking, grants self damage dealt +30% and damage received -25% for 2 turns, and restores own HP by 20%.",
+    "name": "MAX Uni Throw",
+    "summary": ""
+  },
+  {
+    "id": 32005152,
+    "description": "After attacking, boosts own damage dealt by 25% for 2 turns.",
+    "name": "Warmup Throw",
+    "summary": ""
+  },
+  {
+    "id": 32005153,
+    "description": "No effect.",
+    "name": "Scrap Throw",
+    "summary": ""
+  },
+  {
+    "id": 32005154,
+    "description": "After attacking, boosts own critical rate by 40% for 2 turns.",
+    "name": "Thunder and Clear Skies",
+    "summary": ""
+  },
+  {
+    "id": 32005155,
+    "description": "No effect.",
+    "name": "Thunder Drop",
+    "summary": ""
+  },
+  {
+    "id": 32005156,
+    "description": "Restores own HP by 25%.",
+    "name": "Self-Recovery",
+    "summary": ""
+  },
+  {
+    "id": 32005157,
+    "description": "No effect.",
+    "name": "Pointing Pain",
+    "summary": ""
+  },
+  {
+    "id": 32005158,
+    "description": "No effect.",
+    "name": "Explosive Bloom",
+    "summary": ""
+  },
+  {
+    "id": 32005159,
+    "description": "No effect.",
+    "name": "Frigid Release",
+    "summary": ""
+  },
+  {
+    "id": 32005160,
+    "description": "Increases skill target's damage dealt by 25% for 3 turns and restores HP by 15%.",
+    "name": "Blessing Gesture",
+    "summary": ""
+  },
+  {
+    "id": 32005161,
+    "description": "Increases skill target's damage received by 20% for 3 turns and reduces SPD by 10% for 3 turns.",
+    "name": "Curse Gesture",
+    "summary": ""
+  },
+  {
+    "id": 32005162,
+    "description": "After attacking, reduces skill target's HP recovery by 45% for 2 turns.",
+    "name": "Rock Score",
+    "summary": ""
+  },
+  {
+    "id": 32005163,
+    "description": "After attacking, restores own HP by 15%.",
+    "name": "Peck",
+    "summary": ""
+  },
+  {
+    "id": 32005164,
+    "description": "No effects.",
+    "name": "Stone Rain",
+    "summary": ""
+  },
+  {
+    "id": 32005165,
+    "description": "After attacking, increases skill target's damage received by 25% for 2 turns.",
+    "name": "Thunder Kick",
+    "summary": ""
+  },
+  {
+    "id": 32005166,
+    "description": "After attacking, restores all allies' HP by 10%.",
+    "name": "Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 32005167,
+    "description": "No effects.",
+    "name": "Rock Score",
+    "summary": ""
+  },
+  {
+    "id": 32005168,
+    "description": "After attacking, restores own stun gauge by 30%.",
+    "name": "Headbutt",
+    "summary": ""
+  },
+  {
+    "id": 32005169,
+    "description": "No effects.",
+    "name": "Stone Rain",
+    "summary": ""
+  },
+  {
+    "id": 32005170,
+    "description": "After attacking, restores own HP by 20%.",
+    "name": "Ice Peck",
+    "summary": ""
+  },
+  {
+    "id": 32005171,
+    "description": "No effects.",
+    "name": "Ice Rain",
+    "summary": ""
+  },
+  {
+    "id": 32005173,
+    "description": "After attacking, restores own HP and stun gauge by 20%.",
+    "name": "Vigorous Spiral Punch",
+    "summary": ""
+  },
+  {
+    "id": 32005174,
+    "description": "After attacking, reduces target's damage dealt by 25% for 4 turns.",
+    "name": "Spiral Punch",
+    "summary": ""
+  },
+  {
+    "id": 32005175,
+    "description": "After attacking, reduces target's stun damage dealt by 35% for 4 turns.",
+    "name": "Dark Storm",
+    "summary": ""
+  },
+  {
+    "id": 32005176,
+    "description": "Restores own HP by 30% and removes status effects.",
+    "name": "Healing Powder",
+    "summary": ""
+  },
+  {
+    "id": 32005177,
+    "description": "Grants self Cover for 3 turns.",
+    "name": "Stand By",
+    "summary": ""
+  },
+  {
+    "id": 32005178,
+    "description": "Reduces all allies' damage received by 30% for 2 turns.",
+    "name": "Energy Powder",
+    "summary": ""
   }
 ]

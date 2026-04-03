@@ -2778,5 +2778,37 @@
   {
     "id": 60156016,
     "description": "- Restores all allies' stun gauge and HP"
+  },
+  {
+    "id": 60072007,
+    "description": "- When stunned, removes own positive effects\n- When stunned, boosts own damage received\n- Nullifies resistance reduction for all elements except Bolt"
+  },
+  {
+    "id": 60102007,
+    "description": "- When inflicted with a status effect, gets stunned upon receiving an attack\n- When stunned, boosts own damage received when hit by an attack\n- Heals self\n- Restores own stun gauge\n- Nullifies resistance reduction for all elements except Bolt"
+  },
+  {
+    "id": 60102044,
+    "description": "- When inflicted with a status effect, gets stunned upon receiving an attack\n- When stunned, boosts own damage received when hit by an attack\n- Heals self\n- Restores own stun gauge"
+  },
+  {
+    "id": 60111007,
+    "description": "- Heals allies\n- Nullifies resistance reduction for all elements except Bolt"
+  },
+  {
+    "id": 60122030,
+    "description": "- When stunned, converts boost-type panels to burst panels\n- Protection\n- Restores own HP and stun gauge\n- Heals self and removes all status effects\n- Nullifies resistance reduction for all elements except Bolt"
+  },
+  {
+    "id": 60138001,
+    "description": "- Counters\n- Protection\n- When receiving damage from battle items, boosts own damage received once only\n- When hit by an attack from a female character, reduces own damage dealt\n- When HP reaches a certain level, grants self Damage Immunity and reduces damage received\n- Boosts effects received from panels by 50%\n- Creates weaken panels\n- Creates HP recovery panels\n- Nullifies resistance reduction for all elements except Bolt"
+  },
+  {
+    "id": 60178040,
+    "description": "- Each time HP is restored, boosts own damage dealt\n- When stunned, removes own damage dealt boosts\n- Heals self\n- Heals all allies"
+  },
+  {
+    "id": 60178043,
+    "description": "- Each time HP is restored, boosts own damage dealt\n- When stunned, removes own damage dealt boosts\n- Heals self\n- Heals all allies\n- Nullifies resistance reduction for all elements except Bolt"
   }
 ]

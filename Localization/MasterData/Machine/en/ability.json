@@ -13678,5 +13678,100 @@
     "id": 600000801,
     "description": "Boosts skill power by 100% for Resleriana Academy characters.",
     "name": "Resleriana Academy Skill Power Up"
+  },
+  {
+    "id": 301336,
+    "description": "While equipped to Johanna [Cutie☆Hamster], before using burst skill, grants self positive effect potency +{0}% (MAX 40%).",
+    "name": "Genius Chord"
+  },
+  {
+    "id": 500675,
+    "description": "Boosts critical damage by {0}% for Resleriana Academy characters.",
+    "name": ""
+  },
+  {
+    "id": 500678,
+    "description": "Boosts critical damage by {0}% for Resleriana Academy characters.",
+    "name": ""
+  },
+  {
+    "id": 500681,
+    "description": "Boosts critical damage by {0}% for Resleriana Academy characters.",
+    "name": ""
+  },
+  {
+    "id": 500684,
+    "description": "Boosts critical damage by {0}% for Resleriana Academy characters.",
+    "name": ""
+  },
+  {
+    "id": 500687,
+    "description": "Boosts critical damage by {0}% for Resleriana Academy characters.",
+    "name": ""
+  },
+  {
+    "id": 500690,
+    "description": "Boosts critical damage by {0}% for Resleriana Academy characters.",
+    "name": ""
+  },
+  {
+    "id": 500693,
+    "description": "Boosts critical damage by {0}% for Resleriana Academy characters.",
+    "name": ""
+  },
+  {
+    "id": 500696,
+    "description": "Boosts critical damage by {0}% for Resleriana Academy characters.",
+    "name": ""
+  },
+  {
+    "id": 1980241,
+    "description": "All allies gain skill damage and critical damage +20% per Resleriana Academy character in the party.",
+    "name": "The Unit's Cool Representative"
+  },
+  {
+    "id": 1990537,
+    "description": "Converts own burst skill to a gauge system.<br>※Burst gauge can stock up to 4 uses.<br><br>Converts burst skills of all Resleriana Academy allies to a gauge system.<br>※Burst gauge can stock up to 2 uses.<br><br>After any party member except self uses a burst skill, increases own burst gauge by {0}%.<br>After using a skill, increases burst gauge of all allies with Bolt affinity or Resleriana Academy tag by {1}%.",
+    "name": "We'll Aim for the Top Together!"
+  },
+  {
+    "id": 1990538,
+    "description": "Based on number of characters with Resleriana Academy tag, boosts burst gauge increase received during battle by 30-50% for all allies with Bolt affinity or Resleriana Academy tag (higher boost for more characters, range: 1-5 characters).<br><br>When burst gauge is 200% or higher after using burst skill, consumes an additional 100% burst gauge to trigger an additional attack against the enemy with the highest current HP: {hyperlink_id 159}.",
+    "name": "Absolutely Number One!"
+  },
+  {
+    "id": 4991303,
+    "description": "While equipped to a Supporter with Bolt affinity, boosts all allies' burst skill damage by {0}%.<br>While equipped to a Spirited character, boosts all allies' M.ATK by {1}%.",
+    "name": "Imagination: \"Johanna's Cute Side♪\""
+  },
+  {
+    "id": 4991304,
+    "description": "While equipped to a Supporter with Bolt affinity, boosts all allies' burst skill damage by {0}%.<br>While equipped to a Spirited character, boosts all allies' M.ATK by {1}%.",
+    "name": "Imagination: \"Johanna's Cute Side♪\""
+  },
+  {
+    "id": 4991305,
+    "description": "While equipped to a Supporter with Bolt affinity, boosts all allies' burst skill damage by {0}%.<br>While equipped to a Spirited character, boosts all allies' M.ATK by {1}%.",
+    "name": "Imagination: \"Johanna's Cute Side♪\""
+  },
+  {
+    "id": 4991306,
+    "description": "While equipped to a Supporter with Bolt affinity, boosts all allies' burst skill damage by {0}%.<br>While equipped to a Spirited character, boosts all allies' M.ATK by {1}%.",
+    "name": "Imagination: \"Johanna's Cute Side♪\""
+  },
+  {
+    "id": 4991307,
+    "description": "While equipped to a Supporter with Bolt affinity, boosts all allies' burst skill damage by {0}%.<br>While equipped to a Spirited character, boosts all allies' M.ATK by {1}%.",
+    "name": "Imagination: \"Johanna's Cute Side♪\""
+  },
+  {
+    "id": 600000802,
+    "description": "Boosts Johanna [Cutie☆Hamster]'s positive effect potency by 150%.",
+    "name": "Johanna [Cutie☆Hamster] Positive Effect Potency Up"
+  },
+  {
+    "id": 600000803,
+    "description": "When Johanna [Cutie☆Hamster] or Kimon [Cutie☆Fox] is in the party, reduces damage received by 25% (MAX 25%).",
+    "name": "Johanna [Cutie☆Hamster] or Kimon [Cutie☆Fox] Damage Reduction"
   }
 ]

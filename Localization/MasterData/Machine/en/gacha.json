@@ -5976,5 +5976,90 @@
     "small_banner_label": "Paid Gems Only!",
     "start_at": "2026-03-30T03:00:00Z",
     "step_up_loop_description": ""
+  },
+  {
+    "id": 2373,
+    "description": "Johanna makes her debut!\nFeatured until 2026/04/27 10:59 (UTC+8).",
+    "end_at": "2026-04-27T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Absolutely Number One! Cool Girl Johanna - LEGEND FES",
+    "name": "Absolutely Number One! Cool Girl Johanna - LEGEND FES",
+    "start_at": "2026-04-03T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2374,
+    "description": "Once per day with Paid Lodestar Gems! Featured rate doubled!\nUntil 2026/04/17 10:59 (UTC+8).",
+    "end_at": "2026-04-17T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 23741,
+            "description": "Featured rate x2!\n1 time left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Absolutely Number One! Cool Girl Johanna - LEGEND FES [Once Per Day - Paid Lodestar Gems Only]",
+    "name": "Absolutely Number One! Cool Girl Johanna - LEGEND FES [Once Per Day - Paid Lodestar Gems Only]",
+    "small_banner_label": "Once Per Day!",
+    "start_at": "2026-04-03T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2375,
+    "description": "After 50 Wishes with Paid Lodestar Gems, an additional Wish becomes available!\nFeatured until 2026/04/27 10:59 (UTC+8).",
+    "end_at": "2026-04-27T03:00:00Z",
+    "name": "Absolutely Number One! Cool Girl Johanna - LEGEND FES [Paid Lodestar Gems Only]",
+    "small_banner_label": "Paid Lodestar Gems Only!",
+    "start_at": "2026-04-03T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 3054,
+    "description": "STEP 4 guarantees Johanna!\nUntil 2026/4/17 10:59 (UTC+8)\n*STEP 1-3 do not have rate-ups\n*The guaranteed Johanna in STEP 4 will be one of the following:\nJohanna [Battle Phenom], Johanna [Phenom's Reborn],\nJohanna [Brilliant Diver]",
+    "end_at": "2026-04-17T03:00:00Z",
+    "name": "Genius Prodigy - Johanna Guaranteed Wish",
+    "small_banner_label": "Johanna Guaranteed!",
+    "start_at": "2026-04-03T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 237501,
+    "description": "5 Wishes only! Double the featured rate!\nGet 16 Medals, until 2026/04/27 10:59 (UTC+8)",
+    "end_at": "2026-04-27T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10005,
+            "description": "Bonus included!\n{} time(s) remaining!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Absolutely Number One! Cool Rep Johanna LEGEND FES [Paid Lodestar Gems Only]",
+    "name": "Absolutely Number One! Cool Rep Johanna LEGEND FES [Paid Lodestar Gems Only]",
+    "small_banner_label": "Paid Only!",
+    "start_at": "2026-04-03T03:00:00Z",
+    "step_up_loop_description": ""
   }
 ]

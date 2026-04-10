@@ -2626,5 +2626,27 @@
     ],
     "start_at": "2026-04-03T03:00:00Z",
     "tracking_id": "af_synthesis_recipe_848"
+  },
+  {
+    "id": 849,
+    "name": "Dream Reed",
+    "requirements": [
+      {
+        "name": "Awaken Izana [Cutie☆Cat] to ★5"
+      }
+    ],
+    "start_at": "2026-04-10T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_849"
+  },
+  {
+    "id": 850,
+    "name": "Unyielding Rookie's Synthesis Belt",
+    "requirements": [
+      {
+        "name": "Awaken Resna [Loved Rookie] to ★6"
+      }
+    ],
+    "start_at": "2026-04-10T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_850"
   }
 ]

@@ -1518,5 +1518,15 @@
     "id": 1254,
     "description": "While equipped to Johanna [Cutie☆Hamster], before using a burst skill, boosts own potency of buff effects given by {0}%. (Max 40%)",
     "name": "Genius Chord"
+  },
+  {
+    "id": 1255,
+    "description": "While equipped to Izana [Cutie☆Cat], when breaking with burst skill, grants self negative effect potency +{0}%. (Cannot be stacked)",
+    "name": "Dream Reed"
+  },
+  {
+    "id": 1256,
+    "description": "While equipped to a character with Air affinity, boosts critical damage by {0}%.<br>While equipped to an Attacker, boosts effect potency received from boost-type panels by {1}%.",
+    "name": "Unyielding Freshman's Synthesis Belt"
   }
 ]

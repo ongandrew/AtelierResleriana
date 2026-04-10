@@ -37426,5 +37426,815 @@
     "description": "Reduces all allies' damage received by 30% for 2 turns.",
     "name": "Energy Powder",
     "summary": ""
+  },
+  {
+    "id": 11003711,
+    "description": "Before attacking, reduces target's Bolt resistance by {0}% for 5 attacks.<br>After attacking, boosts own stun damage by {1}%. (MAX 30%)",
+    "name": "Meow-Meow Guitar",
+    "summary": "Before attacking, reduces target's Bolt resistance.<br>After attacking, boosts own stun damage."
+  },
+  {
+    "id": 11003712,
+    "description": "Before attacking, reduces target's Bolt resistance by {0}% for 5 attacks.<br>After attacking, boosts own stun damage by {1}%. (MAX 30%)",
+    "name": "Meow-Meow Guitar",
+    "summary": "Before attacking, reduces target's Bolt resistance.<br>After attacking, boosts own stun damage."
+  },
+  {
+    "id": 11003713,
+    "description": "Before attacking, reduces target's Bolt resistance by {0}% for 5 attacks.<br>After attacking, boosts own stun damage by {1}%. (MAX 30%)",
+    "name": "Meow-Meow Guitar",
+    "summary": "Before attacking, reduces target's Bolt resistance.<br>After attacking, boosts own stun damage."
+  },
+  {
+    "id": 11003714,
+    "description": "Before attacking, reduces target's Bolt resistance by {0}% for 5 attacks.<br>After attacking, boosts own stun damage by {1}%. (MAX 30%)",
+    "name": "Meow-Meow Guitar",
+    "summary": "Before attacking, reduces target's Bolt resistance.<br>After attacking, boosts own stun damage."
+  },
+  {
+    "id": 11003715,
+    "description": "Before attacking, reduces target's Bolt resistance by {0}% for 5 attacks.<br>After attacking, boosts own stun damage by {1}%. (MAX 30%)",
+    "name": "Meow-Meow Guitar",
+    "summary": "Before attacking, reduces target's Bolt resistance.<br>After attacking, boosts own stun damage."
+  },
+  {
+    "id": 11003771,
+    "description": "After attacking, if own next panel isn't a burst panel, converts it to a boost+ panel (creates one if empty).<br>Boosts own critical damage by {0}%. (MAX 40%)",
+    "name": "Handmade Boomerang",
+    "summary": "After attacking, if own next panel isn't a burst panel, converts it to a boost+ panel.<br>Boosts own critical damage."
+  },
+  {
+    "id": 11003772,
+    "description": "After attacking, if own next panel isn't a burst panel, converts it to a boost+ panel (creates one if empty).<br>Boosts own critical damage by {0}%. (MAX 40%)",
+    "name": "Handmade Boomerang",
+    "summary": "After attacking, if own next panel isn't a burst panel, converts it to a boost+ panel.<br>Boosts own critical damage."
+  },
+  {
+    "id": 11003773,
+    "description": "After attacking, if own next panel isn't a burst panel, converts it to a boost+ panel (creates one if empty).<br>Boosts own critical damage by {0}%. (MAX 40%)",
+    "name": "Handmade Boomerang",
+    "summary": "After attacking, if own next panel isn't a burst panel, converts it to a boost+ panel.<br>Boosts own critical damage."
+  },
+  {
+    "id": 11003774,
+    "description": "After attacking, if own next panel isn't a burst panel, converts it to a boost+ panel (creates one if empty).<br>Boosts own critical damage by {0}%. (MAX 40%)",
+    "name": "Handmade Boomerang",
+    "summary": "After attacking, if own next panel isn't a burst panel, converts it to a boost+ panel.<br>Boosts own critical damage."
+  },
+  {
+    "id": 11003775,
+    "description": "After attacking, if own next panel isn't a burst panel, converts it to a boost+ panel (creates one if empty).<br>Boosts own critical damage by {0}%. (MAX 40%)",
+    "name": "Handmade Boomerang",
+    "summary": "After attacking, if own next panel isn't a burst panel, converts it to a boost+ panel.<br>Boosts own critical damage."
+  },
+  {
+    "id": 12003716,
+    "description": "Before attacking, reduces target's Bolt resistance by {0}% for 1 attack.<br>After attacking, boosts own stun damage by {1}% for 2 turns.<br>Boosts target's magical damage received by {2}% and stun damage received by {3}% for 2 attacks.<br>Boosts all enemies' damage received by {4}%. (MAX 60%)<br>When target is stunned, boosts all allies with Bolt affinity or Resleriana Academy tag burst skill damage by {5}%. (MAX 150%)",
+    "name": "Vivid♪ Beat",
+    "summary": "Before attacking, reduces target's Bolt resistance.<br>After attacking, boosts own stun damage.<br>Boosts target's magical damage and stun damage received.<br>Boosts all enemies' damage received.<br>When target is stunned, boosts burst skill damage for allies with Bolt affinity or Resleriana Academy tag."
+  },
+  {
+    "id": 12003717,
+    "description": "Before attacking, reduces target's Bolt resistance by {0}% for 1 attack.<br>After attacking, boosts own stun damage by {1}% for 2 turns.<br>Boosts target's magical damage received by {2}% and stun damage received by {3}% for 2 attacks.<br>Boosts all enemies' damage received by {4}%. (MAX 60%)<br>When target is stunned, boosts all allies with Bolt affinity or Resleriana Academy tag burst skill damage by {5}%. (MAX 150%)",
+    "name": "Vivid♪ Beat",
+    "summary": "Before attacking, reduces target's Bolt resistance.<br>After attacking, boosts own stun damage.<br>Boosts target's magical damage and stun damage received.<br>Boosts all enemies' damage received.<br>When target is stunned, boosts burst skill damage for allies with Bolt affinity or Resleriana Academy tag."
+  },
+  {
+    "id": 12003718,
+    "description": "Before attacking, reduces target's Bolt resistance by {0}% for 1 attack.<br>After attacking, boosts own stun damage by {1}% for 2 turns.<br>Boosts target's magical damage received by {2}% and stun damage received by {3}% for 2 attacks.<br>Boosts all enemies' damage received by {4}%. (MAX 60%)<br>When target is stunned, boosts all allies with Bolt affinity or Resleriana Academy tag burst skill damage by {5}%. (MAX 150%)",
+    "name": "Vivid♪ Beat",
+    "summary": "Before attacking, reduces target's Bolt resistance.<br>After attacking, boosts own stun damage.<br>Boosts target's magical damage and stun damage received.<br>Boosts all enemies' damage received.<br>When target is stunned, boosts burst skill damage for allies with Bolt affinity or Resleriana Academy tag."
+  },
+  {
+    "id": 12003719,
+    "description": "Before attacking, reduces target's Bolt resistance by {0}% for 1 attack.<br>After attacking, boosts own stun damage by {1}% for 2 turns.<br>Boosts target's magical damage received by {2}% and stun damage received by {3}% for 2 attacks.<br>Boosts all enemies' damage received by {4}%. (MAX 60%)<br>When target is stunned, boosts all allies with Bolt affinity or Resleriana Academy tag burst skill damage by {5}%. (MAX 150%)",
+    "name": "Vivid♪ Beat",
+    "summary": "Before attacking, reduces target's Bolt resistance.<br>After attacking, boosts own stun damage.<br>Boosts target's magical damage and stun damage received.<br>Boosts all enemies' damage received.<br>When target is stunned, boosts burst skill damage for allies with Bolt affinity or Resleriana Academy tag."
+  },
+  {
+    "id": 12003720,
+    "description": "Before attacking, reduces target's Bolt resistance by {0}% for 1 attack.<br>After attacking, boosts own stun damage by {1}% for 2 turns.<br>Boosts target's magical damage received by {2}% and stun damage received by {3}% for 2 attacks.<br>Boosts all enemies' damage received by {4}%. (MAX 60%)<br>When target is stunned, boosts all allies with Bolt affinity or Resleriana Academy tag burst skill damage by {5}%. (MAX 150%)",
+    "name": "Vivid♪ Beat",
+    "summary": "Before attacking, reduces target's Bolt resistance.<br>After attacking, boosts own stun damage.<br>Boosts target's magical damage and stun damage received.<br>Boosts all enemies' damage received.<br>When target is stunned, boosts burst skill damage for allies with Bolt affinity or Resleriana Academy tag."
+  },
+  {
+    "id": 12003776,
+    "description": "When using boost-type panels, boosts this attack's critical rate by {0}%.<br>After attacking, boosts target's critical damage received by {1}%. (MAX 100%)<br>Depending on number of characters with Resleriana Academy tag, boosts own skill damage by 15-75% for 2 turns (Higher boost for more characters, range: 1-5 characters).",
+    "name": "Spinning Wheel",
+    "summary": "When using boost-type panels, boosts this attack's critical rate.<br>After attacking, boosts target's critical damage received.<br>Depending on number of characters with Resleriana Academy tag, boosts own skill damage."
+  },
+  {
+    "id": 12003777,
+    "description": "When using boost-type panels, boosts this attack's critical rate by {0}%.<br>After attacking, boosts target's critical damage received by {1}%. (MAX 100%)<br>Depending on number of characters with Resleriana Academy tag, boosts own skill damage by 15-75% for 2 turns (Higher boost for more characters, range: 1-5 characters).",
+    "name": "Spinning Wheel",
+    "summary": "When using boost-type panels, boosts this attack's critical rate.<br>After attacking, boosts target's critical damage received.<br>Depending on number of characters with Resleriana Academy tag, boosts own skill damage."
+  },
+  {
+    "id": 12003778,
+    "description": "When using boost-type panels, boosts this attack's critical rate by {0}%.<br>After attacking, boosts target's critical damage received by {1}%. (MAX 100%)<br>Depending on number of characters with Resleriana Academy tag, boosts own skill damage by 15-75% for 2 turns (Higher boost for more characters, range: 1-5 characters).",
+    "name": "Spinning Wheel",
+    "summary": "When using boost-type panels, boosts this attack's critical rate.<br>After attacking, boosts target's critical damage received.<br>Depending on number of characters with Resleriana Academy tag, boosts own skill damage."
+  },
+  {
+    "id": 12003779,
+    "description": "When using boost-type panels, boosts this attack's critical rate by {0}%.<br>After attacking, boosts target's critical damage received by {1}%. (MAX 100%)<br>Depending on number of characters with Resleriana Academy tag, boosts own skill damage by 15-75% for 2 turns (Higher boost for more characters, range: 1-5 characters).",
+    "name": "Spinning Wheel",
+    "summary": "When using boost-type panels, boosts this attack's critical rate.<br>After attacking, boosts target's critical damage received.<br>Depending on number of characters with Resleriana Academy tag, boosts own skill damage."
+  },
+  {
+    "id": 12003780,
+    "description": "When using boost-type panels, boosts this attack's critical rate by {0}%.<br>After attacking, boosts target's critical damage received by {1}%. (MAX 100%)<br>Depending on number of characters with Resleriana Academy tag, boosts own skill damage by 15-75% for 2 turns (Higher boost for more characters, range: 1-5 characters).",
+    "name": "Spinning Wheel",
+    "summary": "When using boost-type panels, boosts this attack's critical rate.<br>After attacking, boosts target's critical damage received.<br>Depending on number of characters with Resleriana Academy tag, boosts own skill damage."
+  },
+  {
+    "id": 14003721,
+    "description": "Before attacking, reduces target's Bolt resistance by {0}% for 1 attack.<br>After attacking, boosts own stun damage by {1}% for 2 turns and increases target's magic attack damage received by {2}% for 2 attacks.<br>Increases all enemies' damage received by {3}% (MAX 100%). When target is stunned, boosts penetration by {4} for all allies with Bolt affinity or Resleriana Academy (MAX 150).",
+    "name": "Izana☆On Stage",
+    "summary": "Before attacking, reduces target's Bolt resistance.<br>After attacking, boosts own stun damage.<br>Increases target's magic attack damage received.<br>Increases all enemies' damage received.<br>When target is stunned, boosts penetration for all allies with Bolt affinity or Resleriana Academy."
+  },
+  {
+    "id": 14003722,
+    "description": "Before attacking, reduces target's Bolt resistance by {0}% for 1 attack.<br>After attacking, boosts own stun damage by {1}% for 2 turns and increases target's magic attack damage received by {2}% for 2 attacks.<br>Increases all enemies' damage received by {3}% (MAX 100%). When target is stunned, boosts penetration by {4} for all allies with Bolt affinity or Resleriana Academy (MAX 150).",
+    "name": "Izana☆On Stage",
+    "summary": "Before attacking, reduces target's Bolt resistance.<br>After attacking, boosts own stun damage.<br>Increases target's magic attack damage received.<br>Increases all enemies' damage received.<br>When target is stunned, boosts penetration for all allies with Bolt affinity or Resleriana Academy."
+  },
+  {
+    "id": 14003723,
+    "description": "Before attacking, reduces target's Bolt resistance by {0}% for 1 attack.<br>After attacking, boosts own stun damage by {1}% for 2 turns and increases target's magic attack damage received by {2}% for 2 attacks.<br>Increases all enemies' damage received by {3}% (MAX 100%). When target is stunned, boosts penetration by {4} for all allies with Bolt affinity or Resleriana Academy (MAX 150).",
+    "name": "Izana☆On Stage",
+    "summary": "Before attacking, reduces target's Bolt resistance.<br>After attacking, boosts own stun damage.<br>Increases target's magic attack damage received.<br>Increases all enemies' damage received.<br>When target is stunned, boosts penetration for all allies with Bolt affinity or Resleriana Academy."
+  },
+  {
+    "id": 14003724,
+    "description": "Before attacking, reduces target's Bolt resistance by {0}% for 1 attack.<br>After attacking, boosts own stun damage by {1}% for 2 turns and increases target's magic attack damage received by {2}% for 2 attacks.<br>Increases all enemies' damage received by {3}% (MAX 100%). When target is stunned, boosts penetration by {4} for all allies with Bolt affinity or Resleriana Academy (MAX 150).",
+    "name": "Izana☆On Stage",
+    "summary": "Before attacking, reduces target's Bolt resistance.<br>After attacking, boosts own stun damage.<br>Increases target's magic attack damage received.<br>Increases all enemies' damage received.<br>When target is stunned, boosts penetration for all allies with Bolt affinity or Resleriana Academy."
+  },
+  {
+    "id": 14003725,
+    "description": "Before attacking, reduces target's Bolt resistance by {0}% for 1 attack.<br>After attacking, boosts own stun damage by {1}% for 2 turns and increases target's magic attack damage received by {2}% for 2 attacks.<br>Increases all enemies' damage received by {3}% (MAX 100%). When target is stunned, boosts penetration by {4} for all allies with Bolt affinity or Resleriana Academy (MAX 150).",
+    "name": "Izana☆On Stage",
+    "summary": "Before attacking, reduces target's Bolt resistance.<br>After attacking, boosts own stun damage.<br>Increases target's magic attack damage received.<br>Increases all enemies' damage received.<br>When target is stunned, boosts penetration for all allies with Bolt affinity or Resleriana Academy."
+  },
+  {
+    "id": 14003728,
+    "description": "After attacking, boosts own stun power by {0}% for 2 turns.<br>Increases all enemies' damage received by {1}% (MAX 200%) and stun damage received by {2}% (MAX 150%).<br>※Does not consume status effect durations or trigger additional effects.",
+    "name": "Startling Peace",
+    "summary": "After attacking, boosts own stun power.<br>Increases all enemies' damage and stun damage received.<br>Does not consume status effect durations."
+  },
+  {
+    "id": 14003781,
+    "description": "When party includes other Resleriana Academy members besides self, boosts this attack's critical rate by {0}%.<br>When own HP is 70% or above, boosts damage by {1}%.<br>After attacking, boosts own critical damage by {2}% (MAX 150%) and converts 2 panels (excluding burst panels) to boost+ panels (creates if empty).<br>Based on number of characters with Resleriana Academy tag, boosts own M.ATK by 15-75% for 2 turns (increases with 1-5 members).",
+    "name": "Try Mix Spear",
+    "summary": "When party has other Resleriana Academy members, boosts this attack's critical rate.<br>When HP is 70% or above, boosts damage.<br>After attacking, boosts own critical damage and converts 2 panels to boost+ panels.<br>Boosts own M.ATK based on number of Resleriana Academy members."
+  },
+  {
+    "id": 14003782,
+    "description": "When own HP is 70% or above, boosts damage by {0}%.<br>After attacking, boosts own critical damage by {1}% (MAX 100%).<br>When own next panel is not a burst panel, converts it to boost+ panel (creates if empty).",
+    "name": "Try Mix Spear",
+    "summary": "When HP is 70% or above, boosts damage.<br>After attacking, boosts own critical damage.<br>When next panel is not a burst panel, converts to boost+ panel."
+  },
+  {
+    "id": 32005184,
+    "description": "After attacking, grants self Damage Dealt Up (15%/2 times).",
+    "name": "Stretching Wind Ball",
+    "summary": ""
+  },
+  {
+    "id": 32005185,
+    "description": "After attacking, delays target's turn by 1.",
+    "name": "Rolling Slash",
+    "summary": ""
+  },
+  {
+    "id": 32005186,
+    "description": "No additional effects.",
+    "name": "Leaf Cutter",
+    "summary": ""
+  },
+  {
+    "id": 32005187,
+    "description": "Advances target ally's turn by 1 and restores HP by 10%.",
+    "name": "Tailwind Heal",
+    "summary": ""
+  },
+  {
+    "id": 32005188,
+    "description": "Grants all enemies Damage Received Up (15%/2 times) and Damage Dealt Down (15%/2 times).",
+    "name": "Form Change",
+    "summary": ""
+  },
+  {
+    "id": 32005189,
+    "description": "No additional effects.",
+    "name": "Dangerous Bite",
+    "summary": ""
+  },
+  {
+    "id": 32005190,
+    "description": "No additional effects.",
+    "name": "Sonic Voice",
+    "summary": ""
+  },
+  {
+    "id": 32005191,
+    "description": "After attacking, inflicts 5 stacks of poison on skill target (100% application chance/1 time).",
+    "name": "Poison Bite",
+    "summary": ""
+  },
+  {
+    "id": 32005192,
+    "description": "No additional effects.",
+    "name": "Dark Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32005193,
+    "description": "No additional effects.",
+    "name": "Thunder Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32005194,
+    "description": "Grants skill target Damage Dealt Up (25%/3 times).",
+    "name": "Spin Roar",
+    "summary": ""
+  },
+  {
+    "id": 32005195,
+    "description": "No additional effects.",
+    "name": "Tail Lashing",
+    "summary": ""
+  },
+  {
+    "id": 32005196,
+    "description": "After attacking, inflicts nullify HP recovery on skill target (50% chance to apply for 1 turn).",
+    "name": "Lightning Drop",
+    "summary": ""
+  },
+  {
+    "id": 32005197,
+    "description": "After attacking, inflicts 8 stacks of poison on skill target (100% chance to apply for 3 turns).",
+    "name": "Spore Shot",
+    "summary": ""
+  },
+  {
+    "id": 32005198,
+    "description": "Grants skill target regeneration (15% for 3 turns).",
+    "name": "Good Fortune",
+    "summary": ""
+  },
+  {
+    "id": 32005199,
+    "description": "After attacking, inflicts 8 stacks of poison on skill target (100% chance to apply for 3 turns).",
+    "name": "Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 32005200,
+    "description": "Reduces skill target's damage dealt by 15% for 2 turns.",
+    "name": "Attack Down",
+    "summary": ""
+  },
+  {
+    "id": 32005201,
+    "description": "Recovers 10% HP of target ally.",
+    "name": "Blessing Point",
+    "summary": ""
+  },
+  {
+    "id": 32005202,
+    "description": "After attacking, inflicts 8 stacks of poison on skill target (100% chance to apply for 5 turns).",
+    "name": "Burst Bloom",
+    "summary": ""
+  },
+  {
+    "id": 32005203,
+    "description": "No effect.",
+    "name": "Magic Shoot",
+    "summary": ""
+  },
+  {
+    "id": 32005205,
+    "description": "After attacking, reduces enemy target's SPD by 5% and Air resistance by 8% permanently.",
+    "name": "Venom Strike",
+    "summary": ""
+  },
+  {
+    "id": 32005206,
+    "description": "No effect.",
+    "name": "Triple Slash",
+    "summary": ""
+  },
+  {
+    "id": 32005207,
+    "description": "After attacking, reduces all enemies' damage dealt by 8% permanently.",
+    "name": "Poison Scream",
+    "summary": ""
+  },
+  {
+    "id": 32005208,
+    "description": "After attacking, reduces enemy target's damage dealt by 8% and increases damage received by 8% permanently.",
+    "name": "Toxic Breath",
+    "summary": ""
+  },
+  {
+    "id": 32005209,
+    "description": "After attacking, increases all enemies' damage received by 5% permanently.",
+    "name": "Toxin Storm",
+    "summary": ""
+  },
+  {
+    "id": 32005210,
+    "description": "No effect.",
+    "name": "Dangerous Bite",
+    "summary": ""
+  },
+  {
+    "id": 32005211,
+    "description": "After attacking, reduces skill target's damage dealt by 15% for 3 turns.",
+    "name": "Sonic Voice",
+    "summary": ""
+  },
+  {
+    "id": 32005212,
+    "description": "After attacking, inflicts 5 stacks of poison on skill target (100% chance to apply for 5 turns).",
+    "name": "Poison Bite",
+    "summary": ""
+  },
+  {
+    "id": 32005213,
+    "description": "After attacking, reduces all enemies' SPD by 5% for 5 turns.",
+    "name": "Thunder Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32005214,
+    "description": "After attacking, boosts own SPD by 10% for 1 turn.",
+    "name": "Fatal Bite",
+    "summary": ""
+  },
+  {
+    "id": 32005215,
+    "description": "After attacking, reduces enemy target's SPD by 5% for 1 turn.",
+    "name": "Bite",
+    "summary": ""
+  },
+  {
+    "id": 32005216,
+    "description": "No effect.",
+    "name": "Club Roar",
+    "summary": ""
+  },
+  {
+    "id": 32005217,
+    "description": "No effect.",
+    "name": "Bolt Shot",
+    "summary": ""
+  },
+  {
+    "id": 32005218,
+    "description": "No effect.",
+    "name": "Thunder Shout",
+    "summary": ""
+  },
+  {
+    "id": 32005219,
+    "description": "Boosts own damage dealt by 30% for 1 turn.",
+    "name": "Howl",
+    "summary": ""
+  },
+  {
+    "id": 32005220,
+    "description": "After attacking, reduces target's SPD by 10% (permanent) and Air resistance by 15% (permanent).",
+    "name": "Venom Strike",
+    "summary": ""
+  },
+  {
+    "id": 32005221,
+    "description": "No effect.",
+    "name": "Triple Slash",
+    "summary": ""
+  },
+  {
+    "id": 32005222,
+    "description": "After attacking, reduces all enemies' damage dealt by 12% (permanent).",
+    "name": "Poison Scream",
+    "summary": ""
+  },
+  {
+    "id": 32005223,
+    "description": "After attacking, reduces target's damage dealt by 10% (permanent) and increases damage received by 10% (permanent).",
+    "name": "Toxic Breath",
+    "summary": ""
+  },
+  {
+    "id": 32005224,
+    "description": "After attacking, increases all enemies' damage received by 8% (permanent).",
+    "name": "Toxin Storm",
+    "summary": ""
+  },
+  {
+    "id": 32005225,
+    "description": "After attacking, reduces skill target's damage dealt by 35% for 2 turns.",
+    "name": "Scorching Fire Toss",
+    "summary": ""
+  },
+  {
+    "id": 32005226,
+    "description": "No effect.",
+    "name": "Fire Spiral",
+    "summary": ""
+  },
+  {
+    "id": 32005227,
+    "description": "Boosts skill target's damage dealt by 20% for 2 turns.",
+    "name": "Share Power",
+    "summary": ""
+  },
+  {
+    "id": 32005228,
+    "description": "Reduces skill target's M.ATK by 25% for 2 turns and P.ATK by 25% for 2 turns.",
+    "name": "Suppress Power",
+    "summary": ""
+  },
+  {
+    "id": 32005229,
+    "description": "After attacking, converts up to 10 empty panels and weaken panels to burn panels.",
+    "name": "Full Burn Shot",
+    "summary": ""
+  },
+  {
+    "id": 32005230,
+    "description": "No effect.",
+    "name": "Glide",
+    "summary": ""
+  },
+  {
+    "id": 32005231,
+    "description": "After attacking, inflicts 5 stacks of Burn on target.",
+    "name": "Burning Shot",
+    "summary": ""
+  },
+  {
+    "id": 32005232,
+    "description": "When target is in burn state, boosts damage by 30%.",
+    "name": "Fuel Ball",
+    "summary": ""
+  },
+  {
+    "id": 32005233,
+    "description": "No effect.",
+    "name": "Wing Cutter",
+    "summary": ""
+  },
+  {
+    "id": 32005234,
+    "description": "Removes all positive effects from target.\nBoosts own damage dealt by 20% for 3 turns.\nReduces own damage received by 20% for 3 turns.",
+    "name": "Demoralizing Roar",
+    "summary": ""
+  },
+  {
+    "id": 32005235,
+    "description": "After attacking, randomly grants 5 elemental resistances from 7 elements, boosting resistance by {0}% for 3 turns each.",
+    "name": "Super Explosive Buster Missile",
+    "summary": ""
+  },
+  {
+    "id": 32005236,
+    "description": "After attacking, converts 1 of target's panels to a burn panel.",
+    "name": "Explosive Buster Punch",
+    "summary": ""
+  },
+  {
+    "id": 32005237,
+    "description": "No additional effects.",
+    "name": "Rocket Punch",
+    "summary": ""
+  },
+  {
+    "id": 32005238,
+    "description": "After attacking, boosts own damage dealt by {0}% for 2 turns.",
+    "name": "Blazing Build Up",
+    "summary": ""
+  },
+  {
+    "id": 32005239,
+    "description": "After attacking, reduces own damage received by {0}% for 2 turns.",
+    "name": "Power Dive",
+    "summary": ""
+  },
+  {
+    "id": 32005240,
+    "description": "After attacking, reduces all enemies' stun damage dealt by {0}% for 2 turns.",
+    "name": "Furious Lockdown",
+    "summary": ""
+  },
+  {
+    "id": 32005241,
+    "description": "After attacking, boosts own damage dealt by {0}% for 2 turns.",
+    "name": "Stretchy Power Ball",
+    "summary": ""
+  },
+  {
+    "id": 32005242,
+    "description": "After attacking, delays target's turn by 2 turns.",
+    "name": "Rolling Slash",
+    "summary": ""
+  },
+  {
+    "id": 32005243,
+    "description": "No additional effects.",
+    "name": "Leaf Cutter",
+    "summary": ""
+  },
+  {
+    "id": 32005244,
+    "description": "Restores own stun gauge by {0}% and boosts damage dealt by {1}% for 2 turns and reduces stun damage received by {2}% for 2 turns.",
+    "name": "High Rain Force",
+    "summary": ""
+  },
+  {
+    "id": 32005245,
+    "description": "No additional effects.",
+    "name": "Rampage",
+    "summary": ""
+  },
+  {
+    "id": 32005246,
+    "description": "After attacking, delays target's turn by 2 turns.",
+    "name": "Down Thrust",
+    "summary": ""
+  },
+  {
+    "id": 32005247,
+    "description": "No additional effects.",
+    "name": "Rage Fire",
+    "summary": ""
+  },
+  {
+    "id": 32005248,
+    "description": "Reduces own damage received by {0}% for 2 turns, stun damage received by {1}% for 2 turns, and grants cover for 2 turns.",
+    "name": "Fighting Spirit Rally",
+    "summary": ""
+  },
+  {
+    "id": 32005249,
+    "description": "After attacking, randomly grants 5 element resistances from all 7 elements, boosting resistance by {0}% for 3 turns.",
+    "name": "Ultra Blast Buster Missile",
+    "summary": ""
+  },
+  {
+    "id": 32005250,
+    "description": "After attacking, converts one of target's panels to a burn panel.",
+    "name": "Blast Buster Punch",
+    "summary": ""
+  },
+  {
+    "id": 32005251,
+    "description": "No additional effects.",
+    "name": "Rocket Punch",
+    "summary": ""
+  },
+  {
+    "id": 32005252,
+    "description": "After attacking, boosts own damage dealt by {0}% for 2 turns.",
+    "name": "Blazing Build Up",
+    "summary": ""
+  },
+  {
+    "id": 32005253,
+    "description": "After attacking, reduces own damage received by {0}% for 2 turns.",
+    "name": "Power Dive",
+    "summary": ""
+  },
+  {
+    "id": 32005254,
+    "description": "After attacking, reduces all enemies' stun damage dealt by {0}% for 2 turns.",
+    "name": "Furious Lockdown",
+    "summary": ""
+  },
+  {
+    "id": 32005255,
+    "description": "After attacking, boosts own damage dealt by {0}% for 2 turns.",
+    "name": "Stretchy Power Ball",
+    "summary": ""
+  },
+  {
+    "id": 32005256,
+    "description": "After attacking, delays target's turn by 2 turns.",
+    "name": "Rolling Slash",
+    "summary": ""
+  },
+  {
+    "id": 32005257,
+    "description": "No additional effects.",
+    "name": "Leaf Cutter",
+    "summary": ""
+  },
+  {
+    "id": 32005258,
+    "description": "Restores own stun gauge by {0}% and grants damage dealt up by {1}% and stun damage received down by {2}% for 2 turns.",
+    "name": "High Rain Force",
+    "summary": ""
+  },
+  {
+    "id": 32005259,
+    "description": "No additional effects.",
+    "name": "Rampage",
+    "summary": ""
+  },
+  {
+    "id": 32005260,
+    "description": "After attacking, delays target by 2 turns.",
+    "name": "Down Thrust",
+    "summary": ""
+  },
+  {
+    "id": 32005261,
+    "description": "No additional effects.",
+    "name": "Rage Fire",
+    "summary": ""
+  },
+  {
+    "id": 32005262,
+    "description": "Grants self damage received down by {0}%, stun damage received down by {1}%, and cover for 2 turns.",
+    "name": "Continuing Battle Spirit",
+    "summary": ""
+  },
+  {
+    "id": 32005263,
+    "description": "After attacking, randomly grants self 5 elemental resistances up by {0}% for 3 turns from 7 available elements.",
+    "name": "Super Explosive Buster Missile",
+    "summary": ""
+  },
+  {
+    "id": 32005264,
+    "description": "After attacking, converts 1 of target's panels to a burn panel.",
+    "name": "Explosive Buster Punch",
+    "summary": ""
+  },
+  {
+    "id": 32005265,
+    "description": "No additional effects.",
+    "name": "Rocket Punch",
+    "summary": ""
+  },
+  {
+    "id": 32005266,
+    "description": "After attacking, boosts own damage dealt by {0}% for 2 turns.",
+    "name": "Blazing Build Up",
+    "summary": ""
+  },
+  {
+    "id": 32005267,
+    "description": "After attacking, reduces own damage received by {0}% for 2 turns.",
+    "name": "Power Dive",
+    "summary": ""
+  },
+  {
+    "id": 32005268,
+    "description": "After attacking, reduces all enemies' stun damage dealt by {0}% for 2 turns.",
+    "name": "Raging Flame Lockdown",
+    "summary": ""
+  },
+  {
+    "id": 32005269,
+    "description": "After attacking, boosts own damage dealt by {0}% for 2 turns.",
+    "name": "Stretchy Study Ball",
+    "summary": ""
+  },
+  {
+    "id": 32005270,
+    "description": "After attacking, delays target by 2 turns.",
+    "name": "Rolling Slash",
+    "summary": ""
+  },
+  {
+    "id": 32005271,
+    "description": "No additional effects.",
+    "name": "Leaf Cutter",
+    "summary": ""
+  },
+  {
+    "id": 32005272,
+    "description": "Restores own stun gauge by {0}% and grants damage dealt up by {1}% and stun damage received down by {2}% for 2 turns.",
+    "name": "High Rain Force",
+    "summary": ""
+  },
+  {
+    "id": 32005273,
+    "description": "No additional effects.",
+    "name": "Rampage",
+    "summary": ""
+  },
+  {
+    "id": 32005274,
+    "description": "After attacking, delays target by 2 turns.",
+    "name": "Down Thrust",
+    "summary": ""
+  },
+  {
+    "id": 32005275,
+    "description": "No additional effects.",
+    "name": "Rage Fire",
+    "summary": ""
+  },
+  {
+    "id": 32005276,
+    "description": "Grants self damage received down by {0}%, stun damage received down by {1}%, and cover for 2 turns.",
+    "name": "Continuing Battle Spirit",
+    "summary": ""
+  },
+  {
+    "id": 32005277,
+    "description": "After attacking, grants self element resistance up ({0}%/3 turns) for 5 random elements out of 7.",
+    "name": "Ultra Explosive Buster Missile",
+    "summary": ""
+  },
+  {
+    "id": 32005278,
+    "description": "After attacking, converts 1 panel from target to a burn panel.",
+    "name": "Explosive Buster Punch",
+    "summary": ""
+  },
+  {
+    "id": 32005279,
+    "description": "No effect.",
+    "name": "Rocket Punch",
+    "summary": ""
+  },
+  {
+    "id": 32005280,
+    "description": "After attacking, grants self damage dealt up ({0}%/2 turns).",
+    "name": "Blazing Build Up",
+    "summary": ""
+  },
+  {
+    "id": 32005281,
+    "description": "After attacking, grants self damage received down ({0}%/2 turns).",
+    "name": "Power Dive",
+    "summary": ""
+  },
+  {
+    "id": 32005282,
+    "description": "After attacking, reduces all enemies' stun damage dealt by {0}% for 2 turns.",
+    "name": "Burning Lock Down",
+    "summary": ""
+  },
+  {
+    "id": 32005283,
+    "description": "After attacking, grants self damage dealt up ({0}%/2 turns).",
+    "name": "Stretchy Learning Ball",
+    "summary": ""
+  },
+  {
+    "id": 32005284,
+    "description": "After attacking, delays target by 2 turns.",
+    "name": "Rolling Slash",
+    "summary": ""
+  },
+  {
+    "id": 32005285,
+    "description": "No effect.",
+    "name": "Leaf Cutter",
+    "summary": ""
+  },
+  {
+    "id": 32005286,
+    "description": "Recovers target ally (20%), then accelerates them by 2 turns.",
+    "name": "Tailwind Heal",
+    "summary": ""
+  },
+  {
+    "id": 32005287,
+    "description": "Restores own stun gauge by {0}%, grants damage dealt up ({1}%/2 turns) and stun damage received down ({2}%/2 turns).",
+    "name": "High Rain Force",
+    "summary": ""
+  },
+  {
+    "id": 32005288,
+    "description": "No effect.",
+    "name": "Rampage",
+    "summary": ""
+  },
+  {
+    "id": 32005289,
+    "description": "After attacking, delays target by 2 turns.",
+    "name": "Down Thrust",
+    "summary": ""
+  },
+  {
+    "id": 32005290,
+    "description": "No effect.",
+    "name": "Rage Fire",
+    "summary": ""
+  },
+  {
+    "id": 32005291,
+    "description": "Grants self damage received down ({0}%/2 turns), stun damage received down ({1}%/2 turns), and cover (2 turns).",
+    "name": "Fighting Spirit for Battle",
+    "summary": ""
   }
 ]

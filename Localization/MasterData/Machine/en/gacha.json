@@ -6061,5 +6061,109 @@
     "small_banner_label": "Paid Only!",
     "start_at": "2026-04-03T03:00:00Z",
     "step_up_loop_description": ""
+  },
+  {
+    "id": 2376,
+    "description": "Izana makes her debut & is on rate-up!\nFeatured until 2026/04/27 11:59 (UTC+8).",
+    "end_at": "2026-04-27T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Hammer Over Cat Toys! Adorable Handler Izana LEGEND FES",
+    "name": "Hammer Over Cat Toys! Adorable Handler Izana LEGEND FES",
+    "start_at": "2026-04-10T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2377,
+    "description": "Once per day with Paid Lodestar Gems only! Featured rate is doubled!\nFeatured until 2026/04/24 11:59 (UTC+8).",
+    "end_at": "2026-04-24T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 23771,
+            "description": "Featured rate x2!\n1 Wish left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Hammer Over Cat Toys! Adorable Handler Izana LEGEND FES [Once Per Day - Paid Lodestar Gems Only]",
+    "name": "Hammer Over Cat Toys! Adorable Handler Izana LEGEND FES [Once Per Day - Paid Lodestar Gems Only]",
+    "small_banner_label": "Once Per Day!",
+    "start_at": "2026-04-10T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2378,
+    "description": "After 50 Wishes with Paid Lodestar Gems, an additional wish appears!\nFeatured until 2026/04/27 11:59 (UTC+8).",
+    "end_at": "2026-04-27T03:00:00Z",
+    "name": "Hammer Over Cat Toys! Adorable Handler Izana LEGEND FES [Paid Lodestar Gems Only]",
+    "small_banner_label": "Paid Only!",
+    "start_at": "2026-04-10T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 3055,
+    "description": "Featured character debuts at ★5!\nIf you're already a member and\nthis is your first time summoning from this wish,\nyou'll receive an extra 1030 Pieces on your first summon!\n*Regardless of membership status at first summon,\nsubsequent summons will award 100 Pieces.\nFeatured until 2026/04/24 10:59 (UTC+8).",
+    "end_at": "2026-04-24T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Resna [Loved Rookie] ★6 Release Celebration Wish",
+    "name": "Resna [Loved Rookie] ★6 Release Celebration Wish",
+    "small_banner_label": "Featured character debuts at ★5!",
+    "start_at": "2026-04-10T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 237801,
+    "description": "Max 5 times! Featured rate doubled!\nGet 16 Medals! Until 2026/04/27 10:59 (UTC+8).",
+    "end_at": "2026-04-27T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10005,
+            "description": "With Bonus!\n{} Times Left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Hammer Over Cat-Teasing! Adorable Representative Izana LEGEND FES [Paid Limited]",
+    "name": "Hammer Over Cat-Teasing! Adorable Representative Izana LEGEND FES [Paid Limited]",
+    "small_banner_label": "Paid Only!",
+    "start_at": "2026-04-10T03:00:00Z",
+    "step_up_loop_description": ""
   }
 ]

@@ -13773,5 +13773,110 @@
     "id": 600000803,
     "description": "When Johanna [Cutie☆Hamster] or Kimon [Cutie☆Fox] is in the party, reduces damage received by 25% (MAX 25%).",
     "name": "Johanna [Cutie☆Hamster] or Kimon [Cutie☆Fox] Damage Reduction"
+  },
+  {
+    "id": 301337,
+    "description": "While equipped to Izana [Cutie☆Cat], when using burst skill against a stunned target, grants Negative Effect Potency +{0}% to self (non-stackable).",
+    "name": "Dream Lead"
+  },
+  {
+    "id": 301338,
+    "description": "While equipped to a character with Air affinity, boosts critical damage by {0}%.<br>While equipped to an Attacker, boosts effect potency received from boost-type panels by {1}%.",
+    "name": "Indomitable Freshman's Synthesis Belt"
+  },
+  {
+    "id": 500674,
+    "description": "Boosts skill damage by {0}% for characters with Resleriana Academy.",
+    "name": ""
+  },
+  {
+    "id": 500677,
+    "description": "Boosts skill damage by {0}% for characters with Resleriana Academy.",
+    "name": ""
+  },
+  {
+    "id": 500680,
+    "description": "Boosts skill damage by {0}% for characters with Resleriana Academy.",
+    "name": ""
+  },
+  {
+    "id": 500683,
+    "description": "Boosts skill damage by {0}% for characters with Resleriana Academy.",
+    "name": ""
+  },
+  {
+    "id": 500686,
+    "description": "Boosts skill damage by {0}% for characters with Resleriana Academy.",
+    "name": ""
+  },
+  {
+    "id": 500689,
+    "description": "Boosts skill damage by {0}% for characters with Resleriana Academy.",
+    "name": ""
+  },
+  {
+    "id": 500692,
+    "description": "Boosts skill damage by {0}% for characters with Resleriana Academy.",
+    "name": ""
+  },
+  {
+    "id": 500695,
+    "description": "Boosts skill damage by {0}% for characters with Resleriana Academy.",
+    "name": ""
+  },
+  {
+    "id": 1980242,
+    "description": "Characters with Resleriana Academy gain initiative and Skill Damage +50%.",
+    "name": "Unit's Lovely Representative"
+  },
+  {
+    "id": 1990539,
+    "description": "Converts own burst skill to a gauge system.<br>※Burst gauge can store up to 3 cycles.<br><br>After using a skill, increases own burst gauge by {0}%.<br>After attacking a stunned enemy, increases own burst gauge by {1}%.<br>When attack target is stunned, increases own burst gauge by {2}%.",
+    "name": "Be Mesmerized by My Performance!"
+  },
+  {
+    "id": 1990540,
+    "description": "When attack target is stunned, grants Skill Damage +{0}% to all allies, and additionally grants Skill Damage +{1}% to all allies with Resleriana Academy (all effects cap at 100%).<br><br>When burst gauge is at 200% or higher and after using burst skill, consumes an additional 100% of burst gauge to launch an additional attack against the enemy with the highest remaining stun gauge: {{hyperlink_id 160}}.",
+    "name": "Hammer Over Cat's Paw!"
+  },
+  {
+    "id": 1990542,
+    "description": "Boosts skill damage by 20-100% depending on the number of characters with Resleriana Academy tag (higher boost for more characters, range: 1-5 characters).<br>After a critical attack, grants Skill Power +10-50% to self for 2 turns depending on the number of characters with Resleriana Academy tag (higher boost for more characters, range: 1-5 characters).",
+    "name": "Let's Race Through Together!"
+  },
+  {
+    "id": 4991308,
+    "description": "While equipped to a Breaker with Bolt affinity, when stunning a target, grants Burst Critical Damage +{0}% to all allies for 1 turn.<br>While equipped to a Whimsical character, boosts negative effect potency by {1}%.",
+    "name": "Imagination \"Izana's Guitar Technique!\""
+  },
+  {
+    "id": 4991309,
+    "description": "While equipped to a Breaker with Bolt affinity, when stunning a target, grants Burst Critical Damage +{0}% to all allies for 1 turn.<br>While equipped to a Whimsical character, boosts negative effect potency by {1}%.",
+    "name": "Imagination \"Izana's Guitar Technique!\""
+  },
+  {
+    "id": 4991310,
+    "description": "While equipped to a Breaker with Bolt affinity, when stunning a target, grants Burst Critical Damage +{0}% to all allies for 1 turn.<br>While equipped to a Whimsical character, boosts negative effect potency by {1}%.",
+    "name": "Imagination \"Izana's Guitar Technique!\""
+  },
+  {
+    "id": 4991311,
+    "description": "While equipped to a Breaker with Bolt affinity, when stunning a target, grants Burst Critical Damage +{0}% to all allies for 1 turn.<br>While equipped to a Whimsical character, boosts negative effect potency by {1}%.",
+    "name": "Imagination \"Izana's Guitar Technique!\""
+  },
+  {
+    "id": 4991312,
+    "description": "While equipped to a Breaker with Bolt affinity, when stunning a target, grants Burst Critical Damage +{0}% to all allies for 1 turn.<br>While equipped to a Whimsical character, boosts negative effect potency by {1}%.",
+    "name": "Imagination \"Izana's Guitar Technique!\""
+  },
+  {
+    "id": 600000804,
+    "description": "Boosts Izana [Cutie☆Cat]'s stun damage by 200%.",
+    "name": "Izana [Cutie☆Cat] Stun Damage UP"
+  },
+  {
+    "id": 600000805,
+    "description": "When Izana [Cutie☆Cat] or Johanna [Cutie☆Hamster] is in the party, reduces damage received by 25% (Max 25%).",
+    "name": "When Izana [Cutie☆Cat] or Johanna [Cutie☆Hamster] is in the party, reduces damage received"
   }
 ]

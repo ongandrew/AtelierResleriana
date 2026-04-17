@@ -6165,5 +6165,103 @@
     "small_banner_label": "Paid Only!",
     "start_at": "2026-04-10T03:00:00Z",
     "step_up_loop_description": ""
+  },
+  {
+    "id": 3056,
+    "description": "Resleriana Academy 1st & 2nd Term characters are on Pick-Up!\nGet your selected 3★ character guaranteed!\nUntil 2026/05/01 11:59 (UTC+8)",
+    "end_at": "2026-05-01T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 30011,
+            "description": "Selected Character Guaranteed!\n{} Times Left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Resleriana Academy 1st & 2nd Term Pick & Guarantee Wish",
+    "name": "Resleriana Academy 1st & 2nd Term Pick & Guarantee Wish",
+    "small_banner_label": "Resleriana Academy 3★ Character Guaranteed!",
+    "start_at": "2026-04-17T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 3057,
+    "description": "Various outfits of Ryza are on Pick-Up!\nUntil 2026/05/01 11:59 (UTC+8)",
+    "end_at": "2026-05-01T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Ryza: Traveler from the Far East - Outfit Synthesis Event Rerun Wish",
+    "name": "Ryza: Traveler from the Far East - Outfit Synthesis Event Rerun Wish",
+    "start_at": "2026-04-17T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 3058,
+    "description": "The Light She Wove is on Pick-Up!\nUntil 2026/05/01 11:59 (UTC+8)",
+    "end_at": "2026-05-01T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Rerun: Ryza's Atelier DX Release Commemorative - The Light She Wove LEGEND FES",
+    "name": "Rerun: Ryza's Atelier DX Release Commemorative - The Light She Wove LEGEND FES",
+    "start_at": "2026-04-17T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 3059,
+    "description": "Max 5 times! Wish 30 times with paid Star Gems and get 1 free wish!\nSTEP 4 guarantees 1 featured Memoria!\nUntil 2026/05/01 11:59 (UTC+8)",
+    "end_at": "2026-05-01T03:00:00Z",
+    "name": "Reprint Ryza's Atelier DX Release Celebration: The Light She Spun - LEGEND FES [Paid Limited]",
+    "start_at": "2026-04-17T03:00:00Z",
+    "step_up_loop_description": "{} rounds remaining"
+  },
+  {
+    "id": 3100002,
+    "description": "[New outfit guaranteed at STEP 7!]\n\nRyza's new outfit debuts!\nNew outfit appearance rate increases with each STEP!\nUntil 2026/05/01 11:59 (UTC+8)\n*Ryza wearing this outfit will have the same character model size as Ryza [Flowering Explorer].",
+    "end_at": "2026-05-01T03:00:00Z",
+    "name": "Ryza Far East Traveler Outfit Coordination",
+    "start_at": "2026-04-17T03:00:00Z",
+    "step_up_loop_description": "{} rounds remaining"
+  },
+  {
+    "id": 3100003,
+    "description": "[New outfit guaranteed at STEP 7!]\n\nKlaudia's new outfit debuts!\nNew outfit appearance rate increases with each STEP!\nUntil 2026/05/01 11:59 (UTC+8)\n*Klaudia wearing this outfit will have the same character model size as Klaudia [Flowering Doer].",
+    "end_at": "2026-05-01T03:00:00Z",
+    "name": "Klaudia Far East Traveler Outfit Coordination",
+    "start_at": "2026-04-17T03:00:00Z",
+    "step_up_loop_description": "{} rounds remaining"
   }
 ]

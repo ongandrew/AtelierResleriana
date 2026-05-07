@@ -433,5 +433,25 @@
     "id": 1019,
     "description": "Deals Strike damage and Strike stun damage to all enemies.",
     "name": "Globe"
+  },
+  {
+    "id": 1020,
+    "description": "Deals Fire damage to all enemies and increases their burst skill damage received by {0}% for 2 attacks.",
+    "name": "Prism Core"
+  },
+  {
+    "id": 1021,
+    "description": "Deals Fire damage to all enemies and increases their burst skill damage received by {0}% for 2 attacks.",
+    "name": "Prism Core"
+  },
+  {
+    "id": 1022,
+    "description": "Increases positive effects received from boost-type panels by {0}% for the ally with highest P.ATK for 1 turn. (Cannot be stacked)",
+    "name": "Mystical Ankh"
+  },
+  {
+    "id": 1023,
+    "description": "Increases positive effects received from boost-type panels by {0}% for the ally with highest P.ATK for 1 turn. (Cannot be stacked)",
+    "name": "Mystical Ankh"
   }
 ]

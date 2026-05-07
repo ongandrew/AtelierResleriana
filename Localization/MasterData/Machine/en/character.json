@@ -1309,5 +1309,53 @@
     "profile_voice_text": "I'm Kimon. I disliked the old-fashioned ways of shinobi,\nso I entered the fun yet strict path of being an idol.",
     "sort_name": "KIMON",
     "start_at": "2026-03-30T03:00:00Z"
+  },
+  {
+    "id": 43505,
+    "acquisition_text": "Sorry to keep you waiting, partner!\nYou can count on Heidi now that she's shed her skin!",
+    "another_name": "Buddy's Returning",
+    "description": "Valeria's partner, who is actually the daughter of a noble family.\nShe ran away from home after growing tired of her quarrelsome parents, but a letter from her old local friend Caroline prompted her to properly face her family again.\nThis outfit reflects her mother's taste rather than Heidi's preference, but she's quite fond of the footwear as it's surprisingly easy to move around in.",
+    "fullname": "Heidi Jungels",
+    "leader_skill": {
+      "description": "Boosts base P.ATK & base M.ATK by 300 for Family & Friends characters.",
+      "name": "The Partner Returns"
+    },
+    "name": "Heidi",
+    "overlay_name": "Heidi Jungels",
+    "profile_voice_text": "Hehe, the atmosphere's changed quite a bit, don't you think?\nYou can look forward to the new and improved Heidi!",
+    "sort_name": "Heidi",
+    "start_at": "2026-05-01T03:00:00Z"
+  },
+  {
+    "id": 46801,
+    "acquisition_text": "For those who won't listen to reason—\nI'll let this gun do the talking.",
+    "another_name": "Courageous Sister",
+    "description": "A sister who works at a church in Ruine Province, as well as an adventurer.\nHer parents were killed by monsters, and she was taken in by the church.\nDue to her unique philosophy that \"battle is dialogue,\" she attacks even monsters with proper etiquette. Those around her say her demeanor is both gentle and terrifying.",
+    "fullname": "Caroline Jasper",
+    "leader_skill": {
+      "description": "Boosts all allies' skill damage & stun damage by 20% for each Lantarna character in the party.",
+      "name": "Traveling Sister"
+    },
+    "name": "Caroline",
+    "overlay_name": "Caroline Jasper",
+    "profile_voice_text": "I am Caroline, a sister of the church.\nThis gun is for protecting those dear to me.",
+    "sort_name": "Caroline",
+    "start_at": "2026-04-24T03:00:00Z"
+  },
+  {
+    "id": 46202,
+    "acquisition_text": "We were created to protect the Palme from all kinds of disasters.",
+    "another_name": "Miraculous Nine No. 4",
+    "description": "A homunculus created by the Palme and the fourth of the Miraculous Nine.\nAlong with the other Miraculous Nine, they carry out \"management\" under orders from the Palme.\nBehind their carefree demeanor lies a surprisingly competitive and stubborn nature.\nThey love beautiful things and find happiness in gazing at gemstones.",
+    "fullname": "Citrine",
+    "leader_skill": {
+      "description": "Dark Memories characters gain skill damage +50% and take 25% less damage from enemies inflicted with Provoke.",
+      "name": "Whimsical Little Devil"
+    },
+    "name": "Citrine",
+    "overlay_name": "Citrine",
+    "profile_voice_text": "Hey there, I'm Citrine! I'm the self-proclaimed handyperson of the sacred lands of Nova... or so I've been told.",
+    "sort_name": "Citrine",
+    "start_at": "2026-05-08T03:00:00Z"
   }
 ]

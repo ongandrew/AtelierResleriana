@@ -1,0 +1,580 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "もうすっかり夜ですね……\nホルハーツ鳥、どこにいるんでしょう",
+        "localizations": {
+          "en": "It's gotten quite dark out... Where could that Holhartz Bird be hiding?"
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "見つからないわね。\n湿原の奥まで来たけど、手掛かりもないし……",
+        "localizations": {
+          "en": "Still no sign of it. We've come all the way to the back of the marshes, and not even a clue..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "おい、あそこ……誰か立ってるぞ",
+        "localizations": {
+          "en": "Oi, over there... Someone's standing out in the open."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "シスターさん？\u3000こんな場所に？",
+        "localizations": {
+          "en": "A sister? Out here of all places?"
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "レースの参加者？\nでも、一人でいるのは変よね",
+        "localizations": {
+          "en": "A race participant? But why would she be alone out here..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "あらあら。迷える者が一人、二人……",
+        "localizations": {
+          "en": "Oh my. One lost soul... two lost souls..."
+        }
+      },
+      "2072370017": {
+        "text": "？？？",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "危ない！\u3000魔物が……！",
+        "localizations": {
+          "en": "Watch out! There are monsters—!"
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "おい、助けに――",
+        "localizations": {
+          "en": "Hey, we've gotta help her—"
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "分かりました。\n存分に――“語り合い”ましょう",
+        "localizations": {
+          "en": "It's alright. Allow me to... have a little conversation with them."
+        }
+      },
+      "2072370017": {
+        "text": "？？？",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "……安らかに",
+        "localizations": {
+          "en": "...Rest now."
+        }
+      },
+      "2072370017": {
+        "text": "？？？",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "なに、今の……！？",
+        "localizations": {
+          "en": "What was that...!?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "すごい……あんな大きな銃、初めて見ました",
+        "localizations": {
+          "en": "Incredible... I've never seen a gun that large before."
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "あいつ、ただ者じゃねぇな",
+        "localizations": {
+          "en": "That one's no ordinary traveler."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "こんばんは。\nお騒がせしてしまいましたね",
+        "localizations": {
+          "en": "Good evening. I'm sorry for all the commotion."
+        }
+      },
+      "2072370017": {
+        "text": "？？？",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "……あんた、何者？\u3000レースの参加者なの？",
+        "localizations": {
+          "en": "...Who are you? Are you in the race?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "はい。会えてよかったです、ヴァレリアさん",
+        "localizations": {
+          "en": "I am. It's good to finally meet you, Valeria."
+        }
+      },
+      "2072370017": {
+        "text": "？？？",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "……私のこと、知ってるの？",
+        "localizations": {
+          "en": "...You know who I am?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "もちろんです。\nあなたがたのことは、以前から聞き及んでおりますので",
+        "localizations": {
+          "en": "Of course. I've heard quite a bit about all of you."
+        }
+      },
+      "2072370017": {
+        "text": "？？？",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "レースは一人じゃ参加できないはずだが……\n仲間とはぐれたのか？",
+        "localizations": {
+          "en": "You can't enter this race alone... Did you get separated from your partner?"
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "いえ、仲間ならあなたがたの後ろにおりますよ",
+        "localizations": {
+          "en": "Not at all. My partner is standing right behind you."
+        }
+      },
+      "2072370017": {
+        "text": "？？？",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "よっ、久しぶりだね、相棒っ、家族たち",
+        "localizations": {
+          "en": "Hey there, long time no see—partner, family!"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "ハイディ！？\u3000どうしてここに――",
+        "localizations": {
+          "en": "Heidi!? How did you end up here—"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "おいおい。家の事情とやらは片付いたのかよ！？",
+        "localizations": {
+          "en": "Hold on now. Does that mean you've sorted out your family business!?"
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "まあ、ね。みんなに追いつこうとは思ってたけど、\nまさかこんな所で再会するなんて",
+        "localizations": {
+          "en": "More or less. I was hoping to catch up with everyone at some point, but I didn't exactly expect to run into you all out here."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "……とにかく、無事でよかったわ。\nやっぱり、あんたがいると心強いわね",
+        "localizations": {
+          "en": "...Either way, I'm just glad you're safe. It really does feel like a weight off my shoulders having you back."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "これでまた家族全員が揃いましたね！",
+        "localizations": {
+          "en": "The whole family is together again!"
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "皆さんの絆、素敵です。\nハイディが話していた通りの、温かい方々ですね",
+        "localizations": {
+          "en": "The bond between you all is truly lovely. Warm and welcoming, just like Heidi described."
+        }
+      },
+      "2072370017": {
+        "text": "？？？",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "私はカロリン・ヤスベルと申します。\n旅するシスターをしております。以後、お見知りおきを",
+        "localizations": {
+          "en": "My name is Caroline Jasper. I'm a traveling sister. It's a pleasure to make your acquaintance."
+        }
+      },
+      "2072370017": {
+        "text": "カロリン",
+        "localizations": {
+          "en": "Caroline"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "旅するシスター、ね。道理で戦い慣れてると思ったわ",
+        "localizations": {
+          "en": "A traveling sister. That explains why she looked so comfortable in a fight."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "えげつねえ戦い方してたぜ。\n魔物に負ける心配はなさそうだ",
+        "localizations": {
+          "en": "Quite the fighting style she's got. No need to worry about her holding her own against monsters."
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "それで……教えてくれるのよね？\n今までなにしてたか",
+        "localizations": {
+          "en": "Now then... you'll fill us in, won't you? On where you've been all this time."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "……ああ",
+        "localizations": {
+          "en": "...Yeah."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "ヴァレリアの相棒であり、家族。\nとある理由から別行動していた",
+        "localizations": {
+          "en": "Valeria's partner, and family. She had her own reasons for going it alone for a while."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "ハイディの旧友で、シスター兼冒険者。\n研鑽を積むため、ハイディと共に行動している",
+        "localizations": {
+          "en": "An old friend of Heidi's, sister and adventurer. She's been traveling with Heidi to continue honing her skills."
+        }
+      },
+      "2072370017": {
+        "text": "カロリン・ヤスベル",
+        "localizations": {
+          "en": "Caroline"
+        }
+      }
+    }
+  }
+]

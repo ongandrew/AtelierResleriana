@@ -117,6 +117,7 @@ namespace AtelierResleriana.Localization.Utilities
         - ジョゼ・ダンブロシオ (ジョゼ) → José d'Ambrosio (José) - A mysterious bounty hunter in the Archipelago Federation who often teases Tiny. His real identity is Guillaume Castagne.
         - ヘルト → Held - The first of the Miraculous Nine to awaken; powerful and moody.
         - ゼロ → Zero - The second of the Miraculous Nine to awaken; a battle-hungry warrior with a strong will.
+        - カロリン・ヤスベル (カロリン) → Caroline Jasper (Caroline) - Sister and adventurer, an old friend of Heidi's traveling alongside her to hone her skills
         """;
 
         private static Dictionary<string, string> SpeakerNotes = new Dictionary<string, string>
@@ -211,6 +212,7 @@ namespace AtelierResleriana.Localization.Utilities
             { "ジョゼ", "José is a bounty hunter of unknown identity operating within the Archipelago Federation. He is known to frequently tease Tiny. His appearance is marked by a distinctive blue and black mask and a patterned blue cloak." },
             { "ヘルト", "Held is the first of the Nine to awaken from a long slumber. He possesses tremendous power but is defined by a moody, fickle nature, choosing to act entirely as he pleases rather than following a set agenda." },
             { "ゼロ", "Zero is the second of the Nine to awaken from their long sleep. He is a fierce, strong-willed battle maniac who lives for the thrill of combat and loves to fight above all else." },
+            { "カロリン", "Caroline is a sister (in the religious sense) and adventurer, and an old friend of Heidi's. She travels with Heidi to continue her training and self-improvement." },
             // System and narrative elements
             { "？？？", "Unknown speaker - maintain mysterious tone appropriate to context." },
             { "ナレーション", "Narrator speaks in a clear, neutral tone providing context or background information." },

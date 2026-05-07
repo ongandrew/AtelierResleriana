@@ -94,5 +94,17 @@
     "description": "{0} Level Cap Release ({1} time(s))\nReleasing increases the level cap by {2}",
     "name": "Break Core",
     "start_at": "2026-03-19T03:00:00Z"
+  },
+  {
+    "id": 19,
+    "description": "{0} EXP +{1}",
+    "name": "Zegen Shard",
+    "start_at": "2026-04-24T03:00:00Z"
+  },
+  {
+    "id": 20,
+    "description": "{0} Level Cap Release ({1} time(s))\nReleasing increases the level cap by {2}",
+    "name": "Zegen Core",
+    "start_at": "2026-04-24T03:00:00Z"
   }
 ]

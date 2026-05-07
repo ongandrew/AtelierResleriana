@@ -1,0 +1,648 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "お母様。連れてまいりました",
+        "localizations": {
+          "en": "Ma'am. I've brought her."
+        }
+      },
+      "2072370017": {
+        "text": "カロリン",
+        "localizations": {
+          "en": "Caroline"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "……ただいま、母さん",
+        "localizations": {
+          "en": "...I'm home, Mom."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "ハイディ！\u3000あなた、いったい今までどこに居たの！",
+        "localizations": {
+          "en": "Heidi! Where on earth have you been all this time!?"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディの母",
+        "localizations": {
+          "en": "Heidi's Mother"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "ごほん！",
+        "localizations": {
+          "en": "Ahem!"
+        }
+      },
+      "2072370017": {
+        "text": "カロリン",
+        "localizations": {
+          "en": "Caroline"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "その格好もなんなの？\nまともな暮らしができていたとは思えない――",
+        "localizations": {
+          "en": "And what are you wearing? You couldn't possibly have been living properly like that—"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディの母",
+        "localizations": {
+          "en": "Heidi's Mother"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "ごほん、ごほん！",
+        "localizations": {
+          "en": "Ahem, ahem!"
+        }
+      },
+      "2072370017": {
+        "text": "カロリン",
+        "localizations": {
+          "en": "Caroline"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "……ごめんなさい。\nこんなことを言いたかったわけじゃないはずなのに",
+        "localizations": {
+          "en": "...I'm sorry. That's not what I meant to say at all."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディの母",
+        "localizations": {
+          "en": "Heidi's Mother"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "……手紙、読んだよ。\nとにかく助けに来たから、ちゃんと事情を話して",
+        "localizations": {
+          "en": "...I got your letter. I'm here to help, so just tell me what's going on."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "ここからは、どうぞお二人で。\n私はこのまま外で警戒しております",
+        "localizations": {
+          "en": "I'll leave the two of you to it. I'll keep watch outside."
+        }
+      },
+      "2072370017": {
+        "text": "カロリン",
+        "localizations": {
+          "en": "Caroline"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "それじゃあ、中に入りましょう。\n着替えも用意しておくわ",
+        "localizations": {
+          "en": "Come inside, then. I'll have something for you to change into."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディの母",
+        "localizations": {
+          "en": "Heidi's Mother"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "着替え？\u3000いいよこのままの格好で！",
+        "localizations": {
+          "en": "Change? I'm fine the way I am!"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "いいって言ったのに",
+        "localizations": {
+          "en": "I said I was fine..."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "あなたのために用意してたんだから\n着ていってちょうだい",
+        "localizations": {
+          "en": "I had it ready for you, so humor me and put it on."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディの母",
+        "localizations": {
+          "en": "Heidi's Mother"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "色々言いたいことも、言わなきゃいけないことも\nあるけれど……ひとまず、今の話をしましょう",
+        "localizations": {
+          "en": "There's plenty I want to say, and plenty I need to say... but let's focus on the situation at hand."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディの母",
+        "localizations": {
+          "en": "Heidi's Mother"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "うん。そうだね。まずは、今回の件を解決しよう",
+        "localizations": {
+          "en": "Yeah. You're right. Let's deal with this first."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "……きっかけは、あの人の不正に気付いたことだった。\nあの人は、やってはいけないことをしたのよ",
+        "localizations": {
+          "en": "...It started when I noticed what he'd been doing. He crossed a line that should never be crossed."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディの母",
+        "localizations": {
+          "en": "Heidi's Mother"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "……もしかして、ねつ造とか？",
+        "localizations": {
+          "en": "...Fabricating findings?"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "ええ。遺跡に別の時代や場所の遺物を埋めて、\n自分で掘り出して「発見」したの",
+        "localizations": {
+          "en": "Yes. He was burying artifacts from other eras and locations into dig sites and then 'discovering' them himself."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディの母",
+        "localizations": {
+          "en": "Heidi's Mother"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "私は妻だけど、それ以前に考古学者。\n歴史を歪ませるような行為を見過ごせなかった",
+        "localizations": {
+          "en": "I'm his wife, but I'm an archaeologist first. I couldn't look the other way while someone distorted history."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディの母",
+        "localizations": {
+          "en": "Heidi's Mother"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "不正を認めて発見を取り下げるように\n勧めたってこと？",
+        "localizations": {
+          "en": "So you asked him to come clean and retract his findings?"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "ええ。でも、あの人は拒否したの。\nだから……私は学会に、告発した",
+        "localizations": {
+          "en": "I did. But he refused. So I... reported him to the academic board."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディの母",
+        "localizations": {
+          "en": "Heidi's Mother"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "それで、あの人は学会を追われて……\n元々仲が悪かったけど、もう修復不可能になったわ",
+        "localizations": {
+          "en": "He was expelled, and... things were already bad between us, but after that, there was no coming back from it."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディの母",
+        "localizations": {
+          "en": "Heidi's Mother"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "そして職を失った父さんは、\n母さんを恨むようになった……そういうこと？",
+        "localizations": {
+          "en": "And then he lost his career and started blaming you for it. Is that it?"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "そう。ひどい大ゲンカの末に、家からも出てったわ。\nだけど最近、果たし状が送られてきて――",
+        "localizations": {
+          "en": "Yes. After a terrible fight, he left the house. But recently, a challenge letter arrived..."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディの母",
+        "localizations": {
+          "en": "Heidi's Mother"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "念のため、代理としてカロリンさんを雇ったの。\n決闘なんて馬鹿げた話、付き合う気もないけど",
+        "localizations": {
+          "en": "I hired Caroline as a precaution. I have no intention of playing along with something as ridiculous as a duel."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディの母",
+        "localizations": {
+          "en": "Heidi's Mother"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "まったくだよ……。てか、よくカロリンを雇ったね。\n確かに強いけど、シスターなのに",
+        "localizations": {
+          "en": "Good grief... Also, hiring Caroline of all people? She's tough, sure, but she's a sister."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "彼女とは少し縁があったから……",
+        "localizations": {
+          "en": "We had a connection of sorts..."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディの母",
+        "localizations": {
+          "en": "Heidi's Mother"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "！？\u3000何ごと……！？",
+        "localizations": {
+          "en": "!? What's going on—!?"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディの母",
+        "localizations": {
+          "en": "Heidi's Mother"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "……来たか。母さんはここに居て！\n私はカロリンを手伝ってくる！",
+        "localizations": {
+          "en": "...Here he comes. Stay inside, Mom! I'll go help Caroline!"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "お止まりください！\nそれ以上近づくことは許しません！",
+        "localizations": {
+          "en": "Stop right there! I will not allow you to come any closer!"
+        }
+      },
+      "2072370017": {
+        "text": "カロリン",
+        "localizations": {
+          "en": "Caroline"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "誰だお前は！\u3000そこをどけ！",
+        "localizations": {
+          "en": "Who are you!? Get out of my way!"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディの父",
+        "localizations": {
+          "en": "Heidi's Father"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "父さん、やめてよ！",
+        "localizations": {
+          "en": "Dad, stop!"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "ハ、ハイディ！？\n帰って来てくれたのか！？",
+        "localizations": {
+          "en": "H-Heidi!? You came back!?"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディの父",
+        "localizations": {
+          "en": "Heidi's Father"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "父さん……\nまさか、ゴーレムまで操るようになったの？",
+        "localizations": {
+          "en": "Dad... don't tell me you've started controlling golems now."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "母さんは我が考古学を否定した！\u3000\nゆえに我が叡智を見せてやっているのだ！",
+        "localizations": {
+          "en": "Your mother denied everything I built! So I am demonstrating the full breadth of my intellect!"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディの父",
+        "localizations": {
+          "en": "Heidi's Father"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "ゴーレムの使役には豊富な考古学の知識が必要です。\n自らの能力を誇示したいのですね",
+        "localizations": {
+          "en": "Golem handling requires a wealth of archaeological knowledge. You wish to prove your worth, I see."
+        }
+      },
+      "2072370017": {
+        "text": "カロリン",
+        "localizations": {
+          "en": "Caroline"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "だからって家の前で暴れる馬鹿がどこにいるっての！\u3000\nカロリン、一緒に止めて！",
+        "localizations": {
+          "en": "That doesn't mean you get to rampage in front of the house! Caroline, help me stop him!"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "はい、これは説法が必要のようですね……！",
+        "localizations": {
+          "en": "Yes... it seems a sermon is in order...!"
+        }
+      },
+      "2072370017": {
+        "text": "カロリン",
+        "localizations": {
+          "en": "Caroline"
+        }
+      }
+    }
+  }
+]

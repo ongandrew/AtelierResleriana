@@ -13878,5 +13878,385 @@
     "id": 600000805,
     "description": "When Izana [Cutie☆Cat] or Johanna [Cutie☆Hamster] is in the party, reduces damage received by 25% (Max 25%).",
     "name": "When Izana [Cutie☆Cat] or Johanna [Cutie☆Hamster] is in the party, reduces damage received"
+  },
+  {
+    "id": 301339,
+    "description": "When equipped to Caroline [Courageous Sister], after attacking, grants self P.ATK +25-75% and Critical Rate +30-90% for 1 turn based on the number of charge indicators on Kugel Ultail before using the skill. (Both effects scale from 1-3 indicators, higher for more indicators)",
+    "name": "Wasp's Nest"
+  },
+  {
+    "id": 301340,
+    "description": "Boosts stun damage by {0}%.",
+    "name": "Flower Coat"
+  },
+  {
+    "id": 301341,
+    "description": "Boosts stun damage by {0}%.",
+    "name": "Flower Coat"
+  },
+  {
+    "id": 301342,
+    "description": "Boosts skill damage by {0}%.",
+    "name": "Flower Earrings"
+  },
+  {
+    "id": 301343,
+    "description": "Boosts skill damage by {0}%.",
+    "name": "Flower Earrings"
+  },
+  {
+    "id": 301344,
+    "description": "When equipped to Heidi [Buddy's Returning], when stunning an enemy, increases target's damage received by {0}% for 1 turn. After using burst skill with burst gauge at 200% or higher, consumes an additional 100% of burst gauge and increases target's burst skill damage received by {1}% for 1 turn.",
+    "name": "Yungers"
+  },
+  {
+    "id": 500698,
+    "description": "Before attacking, reduces target's Strike resistance by {0}% for 1 attack for characters with the Family & Friends tag. (Once per turn)",
+    "name": ""
+  },
+  {
+    "id": 500699,
+    "description": "Boosts P.ATK by {0}% for characters with the Family & Friends tag.",
+    "name": ""
+  },
+  {
+    "id": 500700,
+    "description": "Before attacking, reduces target's Strike resistance by {0}% for 1 attack for characters with the Family & Friends tag. (Once per turn)",
+    "name": ""
+  },
+  {
+    "id": 500701,
+    "description": "Boosts P.ATK by {0}% for characters with the Family & Friends tag.",
+    "name": ""
+  },
+  {
+    "id": 500702,
+    "description": "Before attacking, reduces target's Strike resistance by {0}% for 1 attack for characters with the Family & Friends tag. (Once per turn)",
+    "name": ""
+  },
+  {
+    "id": 500703,
+    "description": "Boosts P.ATK by {0}% for characters with the Family & Friends tag.",
+    "name": ""
+  },
+  {
+    "id": 500704,
+    "description": "Before attacking, reduces target's Strike resistance by {0}% for 1 attack for characters with the Family & Friends tag. (Once per turn)",
+    "name": ""
+  },
+  {
+    "id": 500705,
+    "description": "Boosts P.ATK by {0}% for characters with the Family & Friends tag.",
+    "name": ""
+  },
+  {
+    "id": 500706,
+    "description": "Before attacking, reduces target's Strike resistance by {0}% for 1 attack for characters with the Family & Friends tag. (Once per turn)",
+    "name": ""
+  },
+  {
+    "id": 500707,
+    "description": "Boosts P.ATK by {0}% for characters with the Family & Friends tag.",
+    "name": ""
+  },
+  {
+    "id": 500708,
+    "description": "Before attacking, reduces target's Strike resistance by {0}% for 1 attack for characters with the Family & Friends tag. (Once per turn)",
+    "name": ""
+  },
+  {
+    "id": 500709,
+    "description": "Boosts P.ATK by {0}% for characters with the Family & Friends tag.",
+    "name": ""
+  },
+  {
+    "id": 500710,
+    "description": "Before attacking, reduces target's Strike resistance by {0}% for 1 attack for characters with the Family & Friends tag. (Once per turn)",
+    "name": ""
+  },
+  {
+    "id": 500711,
+    "description": "Boosts P.ATK by {0}% for characters with the Family & Friends tag.",
+    "name": ""
+  },
+  {
+    "id": 500712,
+    "description": "For Family & Friends characters, before attacking, reduces target's Strike resistance by {0}% for 1 attack. (MAX 1 time)",
+    "name": ""
+  },
+  {
+    "id": 500713,
+    "description": "For Family & Friends characters, boosts P.ATK by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 1980243,
+    "description": "All allies gain skill damage and stun damage +20% for each Lantarna party member.",
+    "name": "Traveling Sister"
+  },
+  {
+    "id": 1980244,
+    "description": "Family & Friends characters gain base P.ATK and base M.ATK +300.",
+    "name": "The Partner Who Came Home"
+  },
+  {
+    "id": 1990543,
+    "description": "Converts own burst skill to gauge-type.<br>※Burst gauge can store up to 3 uses<br><br>When a party member uses a battle item, increases own burst gauge by {0}%.<br>※Even when using multiple items at the same time, this effect will only activate once<br><br>When using a panel, grants own skill damage +{1}% (MAX 200%) and restores the item gauge by {2}%.",
+    "name": "Prayers Offered to the Stars"
+  },
+  {
+    "id": 1990544,
+    "description": "At the start of battle, charges 3 of Kugel Welteil's charge indicators.<br>When using a panel or when a party member uses a battle item, charges 1 of Kugel Welteil's charge indicators.<br>※Even when using multiple items at the same time, this effect will only activate once<br><br>Nullifies weaken panels and weaken+ panels.<br>Boosts positive effect potency from panels by +{0}%.<br>Boosts positive effect potency from battle items by +{1}%.<br>When other Family & Friends party members are present, boosts own base P.ATK by +{2}.",
+    "name": "It's Time for the Sermon"
+  },
+  {
+    "id": 1990545,
+    "description": "Converts own burst skill to gauge-type.<br>※Burst gauge can store up to 3 uses<br><br>When obtaining a crimson fierce bullet panel, can activate burst skill.<br>When attacking stunned targets, increases own burst gauge by {0}%.<br>When a party member uses a battle item, increases own burst gauge by {1}%.<br>※Even when using multiple items at the same time, this effect will only activate once",
+    "name": "Lock-On Bullet"
+  },
+  {
+    "id": 1990546,
+    "description": "At the start of battle, grants all allies the following additional effect:<br>Additional Effect: When using negative panels, increases own burst gauge by {0}%<br><br>When using a panel, grants own stun power +{1}% for 1 turn and restores the item gauge by {2}%.<br><br>Boosts positive effect potency from panels by +{3}%.<br>When other Family & Friends party members are present, boosts own stun damage by +{4}% and boosts all allies' positive effect potency from battle items by +{5}%.",
+    "name": "We Decided to Face Each Other"
+  },
+  {
+    "id": 4991313,
+    "description": "While equipped to an Attacker with Strike affinity, when using a panel, grants own P.ATK +{0}% for 1 turn.<br>For Nurturer characters, boosts burst skill damage by +{1}%.",
+    "name": "Imagination \"Combat is Dialogue\""
+  },
+  {
+    "id": 4991314,
+    "description": "While equipped to an Attacker with Strike affinity, when using a panel, grants own P.ATK +{0}% for 1 turn.<br>For Nurturer characters, boosts burst skill damage by +{1}%.",
+    "name": "Imagination \"Combat is Dialogue\""
+  },
+  {
+    "id": 4991315,
+    "description": "While equipped to an Attacker with Strike affinity, when using a panel, grants own P.ATK +{0}% for 1 turn.<br>For Nurturer characters, boosts burst skill damage by +{1}%.",
+    "name": "Imagination \"Combat is Dialogue\""
+  },
+  {
+    "id": 4991316,
+    "description": "While equipped to an Attacker with Strike affinity, when using a panel, grants own P.ATK +{0}% for 1 turn.<br>For Nurturer characters, boosts burst skill damage by +{1}%.",
+    "name": "Imagination \"Combat is Dialogue\""
+  },
+  {
+    "id": 4991317,
+    "description": "While equipped to an Attacker with Strike affinity, when using a panel, grants own P.ATK +{0}% for 1 turn.<br>For Nurturer characters, boosts burst skill damage by +{1}%.",
+    "name": "Imagination \"Combat is Dialogue\""
+  },
+  {
+    "id": 4991318,
+    "description": "While equipped to a Breaker, before attacking with Skill 2 or Burst Skill, reduces target's All Elements resistance by {0}% for 2 attacks.",
+    "name": "Imagination \"Bunny's Scheme\""
+  },
+  {
+    "id": 4991319,
+    "description": "While equipped to a Breaker, before attacking with Skill 2 or Burst Skill, reduces target's All Elements resistance by {0}% for 2 attacks.",
+    "name": "Imagination \"Bunny's Scheme\""
+  },
+  {
+    "id": 4991320,
+    "description": "While equipped to a Breaker, before attacking with Skill 2 or Burst Skill, reduces target's All Elements resistance by {0}% for 2 attacks.",
+    "name": "Imagination \"Bunny's Scheme\""
+  },
+  {
+    "id": 4991321,
+    "description": "While equipped to a Breaker, before attacking with Skill 2 or Burst Skill, reduces target's All Elements resistance by {0}% for 2 attacks.",
+    "name": "Imagination \"Bunny's Scheme\""
+  },
+  {
+    "id": 4991322,
+    "description": "While equipped to a Breaker, before attacking with Skill 2 or Burst Skill, reduces target's All Elements resistance by {0}% for 2 attacks.",
+    "name": "Imagination \"Bunny's Scheme\""
+  },
+  {
+    "id": 4991323,
+    "description": "While equipped to a Breaker with Strike affinity, when stunning a target, grants target negative effect potency from negative panels +{0}% for 1 turn.<br>For Energetic characters, boosts burst stun damage by +{1}%.",
+    "name": "Imagination \"Partner Tea Time\""
+  },
+  {
+    "id": 4991324,
+    "description": "While equipped to a Breaker with Strike affinity, when stunning a target, grants target negative effect potency from negative panels +{0}% for 1 turn.<br>For Energetic characters, boosts burst stun damage by +{1}%.",
+    "name": "Imagination \"Partner Tea Time\""
+  },
+  {
+    "id": 4991325,
+    "description": "While equipped to a Breaker with Strike affinity, when stunning target, increases target's negative effect potency from negative panels by {0}% for 1 turn.<br>While equipped to a character with the Energetic tag, boosts burst stun damage by {1}%.",
+    "name": "Imagination \"Tea Time with Partner\""
+  },
+  {
+    "id": 4991326,
+    "description": "While equipped to a Breaker with Strike affinity, when stunning target, increases target's negative effect potency from negative panels by {0}% for 1 turn.<br>While equipped to a character with the Energetic tag, boosts burst stun damage by {1}%.",
+    "name": "Imagination \"Tea Time with Partner\""
+  },
+  {
+    "id": 4991327,
+    "description": "While equipped to a Breaker with Strike affinity, when stunning target, increases target's negative effect potency from negative panels by {0}% for 1 turn.<br>While equipped to a character with the Energetic tag, boosts burst stun damage by {1}%.",
+    "name": "Imagination \"Tea Time with Partner\""
+  },
+  {
+    "id": 7000967,
+    "description": "Boosts damage enhancement effect potency given to Attackers with Strike affinity by {0}%.",
+    "name": "Damage Buff Enhancement [Strike A] (1)"
+  },
+  {
+    "id": 7000968,
+    "description": "Boosts damage enhancement effect potency given to Attackers with Strike affinity by {0}%.",
+    "name": "Damage Buff Enhancement [Strike A] (2)"
+  },
+  {
+    "id": 7000969,
+    "description": "Boosts damage enhancement effect potency given to Attackers with Strike affinity by {0}%.",
+    "name": "Damage Buff Enhancement [Strike A] (3)"
+  },
+  {
+    "id": 7000970,
+    "description": "Boosts damage enhancement effect potency given to Attackers with Strike affinity by {0}%.",
+    "name": "Damage Buff Enhancement [Strike A] (4)"
+  },
+  {
+    "id": 7000971,
+    "description": "Boosts damage enhancement effect potency given to Attackers with Strike affinity by {0}%.",
+    "name": "Damage Buff Enhancement [Strike A] (5)"
+  },
+  {
+    "id": 23137001,
+    "description": "When receiving damage from a Bomb, grants self Damage Dealt Down (50%) for 3 turns, Damage Received Up (50%) for 3 turns, and Stun Damage Received Up (50%) for 3 turns. (Maximum 3 applications)",
+    "name": ""
+  },
+  {
+    "id": 26111103,
+    "description": "Before wave start, nullifies Fire resistance down.",
+    "name": ""
+  },
+  {
+    "id": 26111104,
+    "description": "Before wave start, nullifies Ice resistance down.",
+    "name": ""
+  },
+  {
+    "id": 26111105,
+    "description": "Before wave start, nullifies Air resistance down.",
+    "name": ""
+  },
+  {
+    "id": 26111106,
+    "description": "Before wave start, nullifies Bolt resistance down.",
+    "name": ""
+  },
+  {
+    "id": 26112102,
+    "description": "Before wave start, grants self 4 stacks of Damage Received Down (90%). When an allied Gold Puni becomes unable to battle, removes 1 stack of Damage Received Down.",
+    "name": ""
+  },
+  {
+    "id": 600000806,
+    "description": "Boosts Caroline [Courageous Sister]'s skill power by 100%.",
+    "name": "Caroline [Courageous Sister] Skill Power Up"
+  },
+  {
+    "id": 600000807,
+    "description": "Boosts Heidi [Buddy's Returning]'s stun damage by 200%.",
+    "name": "Heidi [Buddy's Returning] Stun Damage Up"
+  },
+  {
+    "id": 600000808,
+    "description": "When Caroline [Courageous Sister] or Izana [Cutie☆Cat] is in the party, reduces damage received by 25%. (MAX 25%)",
+    "name": "Caroline [Courageous Sister] or Izana [Cutie☆Cat] Party Damage Reduction"
+  },
+  {
+    "id": 600000809,
+    "description": "When Heidi [Buddy's Returning] or Caroline [Courageous Sister] is in the party, reduces damage received by 25%. (MAX 25%)",
+    "name": "Heidi [Buddy's Returning] or Caroline [Courageous Sister] Party Damage Reduction"
+  },
+  {
+    "id": 600000812,
+    "description": "When equipped to a character with the Family & Friends tag, boosts skill power by 100%.",
+    "name": "Family & Friends Skill Power Up"
+  },
+  {
+    "id": 301345,
+    "description": "While equipped to Citrine [Miraculous Nine No.4], boosts skill power by {0}% for all allies against enemies with status effects before using skills.",
+    "name": "Enchanting Eyes of a Ruined Nation - Fierce Splendor"
+  },
+  {
+    "id": 1980245,
+    "description": "Dark Memories characters gain skill damage +50% and damage received from taunting enemies -25%.",
+    "name": "Whimsical Little Devil"
+  },
+  {
+    "id": 1990547,
+    "description": "Transforms own burst skill into a gauge system.<br>※Burst gauge can stock up to 3 cycles.<br><br>When granted evasion, increases own burst gauge by {0}%.<br>When taking less than 1 damage from attacks against self, increases own burst gauge by {1}%.",
+    "name": "Power of the Miraculous Nine -IV-"
+  },
+  {
+    "id": 1990548,
+    "description": "After using Zodiacus or Rukidus Sidera, grants the following additional effect to all Defender allies for 1 turn.<br>Additional Effect: After using a skill, grants taunt to all enemies with very high chance for 2 turns.<br><br>After attacking targets with status effects before using skills, grants skill damage +{0}% and stun damage +{1}% to all allies (all effects capped at 300%).<br><br>Based on the number of characters with Dark Memories tags, boosts skill power by 8-40% and burst gauge increase received during battle by 8-40% for all Dark Memories allies (higher boost for more characters, range: 1-5 characters).",
+    "name": "Mocking Darkness"
+  },
+  {
+    "id": 4991328,
+    "description": "While equipped to a Supporter with Air affinity, when evading enemy attacks, grants skill damage +{0}% to all allies for 1 turn (MAX 3 stacks).<br>For Miraculous Nine characters, boosts positive effect potency granted by +{1}%.",
+    "name": "Imagination \"Relaxing at Hot Springs\""
+  },
+  {
+    "id": 4991329,
+    "description": "While equipped to a Supporter with Air affinity, when evading enemy attacks, grants skill damage +{0}% to all allies for 1 turn (MAX 3 stacks).<br>For Miraculous Nine characters, boosts positive effect potency granted by +{1}%.",
+    "name": "Imagination \"Relaxing at Hot Springs\""
+  },
+  {
+    "id": 4991330,
+    "description": "While equipped to a Supporter with Air affinity, when evading enemy attacks, grants skill damage +{0}% to all allies for 1 turn (MAX 3 stacks).<br>For Miraculous Nine characters, boosts positive effect potency granted by +{1}%.",
+    "name": "Imagination \"Relaxing at Hot Springs\""
+  },
+  {
+    "id": 4991331,
+    "description": "While equipped to a Supporter with Air affinity, when evading enemy attacks, grants skill damage +{0}% to all allies for 1 turn (MAX 3 stacks).<br>For Miraculous Nine characters, boosts positive effect potency granted by +{1}%.",
+    "name": "Imagination \"Relaxing at Hot Springs\""
+  },
+  {
+    "id": 4991332,
+    "description": "While equipped to a Supporter with Air affinity, when evading enemy attacks, grants skill damage +{0}% to all allies for 1 turn (MAX 3 stacks).<br>For Miraculous Nine characters, boosts positive effect potency granted by +{1}%.",
+    "name": "Imagination \"Relaxing at Hot Springs\""
+  },
+  {
+    "id": 7000957,
+    "description": "Boosts damage enhancement effect potency granted to Attackers with Air affinity by {0}%.",
+    "name": "Damage Buff Enhancement [Air A] (1)"
+  },
+  {
+    "id": 7000958,
+    "description": "Boosts damage enhancement effect potency granted to Attackers with Air affinity by {0}%.",
+    "name": "Damage Buff Enhancement [Air A] (2)"
+  },
+  {
+    "id": 7000959,
+    "description": "Boosts damage enhancement effect potency granted to Attackers with Air affinity by {0}%.",
+    "name": "Damage Buff Enhancement [Air A] (3)"
+  },
+  {
+    "id": 7000960,
+    "description": "Boosts damage enhancement effect potency granted to Attackers with Air affinity by {0}%.",
+    "name": "Damage Buff Enhancement [Air A] (4)"
+  },
+  {
+    "id": 7000961,
+    "description": "Boosts damage enhancement effect potency granted to Attackers with Air affinity by {0}%.",
+    "name": "Damage Buff Enhancement [Air A] (5)"
+  },
+  {
+    "id": 26160006,
+    "description": "Nullifies resistance down for all elements except Ice, Air, Strike, and Stab.",
+    "name": ""
+  },
+  {
+    "id": 600000810,
+    "description": "Boosts positive effect potency granted by Citrine [Miraculous Nine No.4] by 150%.",
+    "name": "Citrine [Miraculous Nine No.4] Effect Potency Up"
+  },
+  {
+    "id": 600000811,
+    "description": "When Citrine [Miraculous Nine No.4] or Heidi [Buddy's Returning] is in the party, reduces damage received by 25% (MAX 25%).",
+    "name": "Damage Reduction with Citrine [Miraculous Nine No.4] or Heidi [Buddy's Returning]"
   }
 ]

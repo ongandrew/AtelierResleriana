@@ -16183,5 +16183,475 @@
     "id": 120000902,
     "description": "Reduces damage received when Izana [Cutie☆Cat] is in the party.",
     "popup_text": ""
+  },
+  {
+    "id": 3000407,
+    "description": "Boosts damage buffs to Strike Attackers by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 5000104,
+    "description": "While equipped to a character with Family & Friends tag, before attacking, reduces target's Strike resistance.",
+    "popup_text": ""
+  },
+  {
+    "id": 5000105,
+    "description": "While equipped to a character with Family & Friends tag, grants P.ATK Up.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001270,
+    "description": "While equipped to Caroline [Courageous Sister], after attacking, boosts own P.ATK for 1 turn based on the number of charge indicators on Kugelurtail before using skill (Higher boost for more indicators, range: 1-3).",
+    "popup_text": ""
+  },
+  {
+    "id": 6001271,
+    "description": "While equipped to Caroline [Courageous Sister], after attacking, boosts own critical rate for 1 turn based on the number of charge indicators on Kugelurtail before using skill (Higher boost for more indicators, range: 1-3).",
+    "popup_text": ""
+  },
+  {
+    "id": 6001272,
+    "description": "Boosts stun damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001273,
+    "description": "Boosts skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001274,
+    "description": "Increases target's burst skill damage received for 2 attacks.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001275,
+    "description": "Grants 1 ally with highest P.ATK enhanced effects from boost-type panels for 1 turn (Cannot be stacked).",
+    "popup_text": ""
+  },
+  {
+    "id": 6001276,
+    "description": "Grants 1 ally with highest P.ATK enhanced effects from boost-type panels for 1 turn (Cannot be stacked).",
+    "popup_text": ""
+  },
+  {
+    "id": 6001277,
+    "description": "While equipped to Heidi [Buddy's Returning], after stunning, increases target's damage received for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001278,
+    "description": "While equipped to Heidi [Buddy's Returning], when burst gauge is 200% or higher and after using burst skill, consumes burst gauge.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001279,
+    "description": "Grants all allies boosted critical rate when equipped to an Attacker for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001280,
+    "description": "Grants all allies boosted critical damage when equipped to an Attacker for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001290,
+    "description": "While equipped to Heidi [Buddy's Returning], when burst gauge is 200% or higher and after using burst skill, increases target's burst skill damage received for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 13000425,
+    "description": "Boosts armor penetration of received attacks by {0}.",
+    "popup_text": ""
+  },
+  {
+    "id": 13000426,
+    "description": "Boosts all allies' P.ATK by {value}% (Upper limit 150%).",
+    "popup_text": ""
+  },
+  {
+    "id": 13000427,
+    "description": "Nullifies weaken panels.",
+    "popup_text": ""
+  },
+  {
+    "id": 13000428,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001699,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001701,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001702,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001703,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001704,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001705,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001706,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001707,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001709,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72500195,
+    "description": "[Self/Increases skill damage based on number of Lantarna characters]",
+    "popup_text": ""
+  },
+  {
+    "id": 72500196,
+    "description": "[Self/Increases stun damage based on number of Lantarna characters]",
+    "popup_text": ""
+  },
+  {
+    "id": 72500197,
+    "description": "[Self/Base P.ATK Up]",
+    "popup_text": ""
+  },
+  {
+    "id": 72500198,
+    "description": "[Self/Base M.ATK Up]",
+    "popup_text": ""
+  },
+  {
+    "id": 76090001,
+    "description": "Grants self Cover (1 time).",
+    "popup_text": ""
+  },
+  {
+    "id": 76146002,
+    "description": "Grants enemy skill targets Reduced Positive Effect Potency (1 time).",
+    "popup_text": ""
+  },
+  {
+    "id": 83137019,
+    "description": "When receiving bomb damage, reduces own damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 83137020,
+    "description": "When receiving bomb damage, boosts damage received.",
+    "popup_text": ""
+  },
+  {
+    "id": 83137021,
+    "description": "When receiving bomb damage, boosts stun damage received.",
+    "popup_text": ""
+  },
+  {
+    "id": 86112050,
+    "description": "Removes 1 stack of Damage Received Down from self.",
+    "popup_text": ""
+  },
+  {
+    "id": 86112054,
+    "description": "Grants self Damage Received Down.",
+    "popup_text": ""
+  },
+  {
+    "id": 91002243,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002244,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002245,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002246,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002247,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002248,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002288,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002299,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002300,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002301,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000376,
+    "description": "While equipped to an Attacker with Strike affinity, when using a panel, boosts own P.ATK for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000377,
+    "description": "When self has the tag \"Nurturer,\" boosts burst skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000378,
+    "description": "While equipped to a Breaker, before attacking with Skill 2, reduces target's All resistance for 2 attacks.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000379,
+    "description": "While equipped to a Breaker with Strike affinity, when stunning a target, increases target's negative effect potency from panels for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000380,
+    "description": "When self has the tag \"Energetic,\" boosts burst stun damage by 7%.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000387,
+    "description": "While equipped to a Breaker, before attacking with Burst Skill, reduces target's All resistance for 2 attacks.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000904,
+    "description": "When self is Caroline [Courageous Sister], boosts skill power.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000905,
+    "description": "When self is Heidi [Buddy's Returning], boosts stun damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000906,
+    "description": "When Heidi [Buddy's Returning] is in the party, reduces damage received.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000907,
+    "description": "When Caroline [Courageous Sister] is in the party, reduces damage received.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000910,
+    "description": "When self has the tag \"Family & Friends,\" boosts skill power.",
+    "popup_text": ""
+  },
+  {
+    "id": 3000405,
+    "description": "Boosts damage to Attackers with Air affinity by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001281,
+    "description": "While equipped to Citrine [Miraculous Nine No. 4], grants all allies boosted skill power against enemies with status effects before using skills.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001285,
+    "description": "Boosts skill power against enemies with status effects before using skills.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001710,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001711,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001712,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001713,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001714,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72500199,
+    "description": "[Self/Damage received from enemies with Provoke reduced/for state_change]",
+    "popup_text": ""
+  },
+  {
+    "id": 72500200,
+    "description": "[Self/Damage received from enemies with Provoke reduced]",
+    "popup_text": ""
+  },
+  {
+    "id": 91002256,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002257,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002258,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002259,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002260,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002261,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002262,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002263,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002265,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002266,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002267,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002303,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002304,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002305,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002306,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002307,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002308,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002309,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002310,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002311,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000381,
+    "description": "When equipped to a Supporter with Air affinity, grants Skill Damage Up to all allies for 1 turn (max 3 stacks).",
+    "popup_text": ""
+  },
+  {
+    "id": 95000382,
+    "description": "When equipped to a character with the Miraculous Nine tag, increases positive effect potency granted.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000908,
+    "description": "Citrine [Miraculous Nine No. 4] Positive Effect Potency Up",
+    "popup_text": ""
+  },
+  {
+    "id": 120000909,
+    "description": "When Citrine [Miraculous Nine No. 4] is in the party, reduces damage received.",
+    "popup_text": ""
   }
 ]

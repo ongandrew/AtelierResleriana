@@ -2858,5 +2858,77 @@
   {
     "id": 60236002,
     "description": "- When HP reaches a certain level, grants self panel immunity, damage dealt up, and SPD up\n- Grants random elemental resistance up to self 5 times\n- Converts opponents' non-burst panels to burn panels"
+  },
+  {
+    "id": 30137035,
+    "description": "- When hit by an Atelier Cannon, inflicts multiple negative effects on self\n- Delays turn\n- Restores allies' HP and stun gauge\n- Inflicts Speed Down"
+  },
+  {
+    "id": 60007117,
+    "description": "- Inflicts Poison\n- Removes own negative effects and grants self Nullify Negative Effects\n- When acting, if own stun gauge is below a certain level, restores own stun gauge\n- Reduces all opponents' stun damage dealt when using area attacks\n- Nullifies resistance down effects for all elements except Bolt and Strike"
+  },
+  {
+    "id": 60017116,
+    "description": "- Inflicts Poison\n- Grants Regeneration to allies\n- Inflicts Nullify HP Recovery"
+  },
+  {
+    "id": 60030109,
+    "description": "- Counters\n- When hit by a physical attack, boosts own damage dealt and damage received\n- When hit by a magical attack, reduces own damage dealt and damage received"
+  },
+  {
+    "id": 60030116,
+    "description": "- Counters\n- When hit by a physical attack, boosts own damage dealt and damage received\n- When hit by a magical attack, reduces own damage dealt and damage received\n- Nullifies resistance down effects for all elements except Strike"
+  },
+  {
+    "id": 60090107,
+    "description": "- Protection\n- Nullifies resistance down effects for all elements except Strike"
+  },
+  {
+    "id": 60107118,
+    "description": "- When attacked while stun gauge is at maximum, converts weaken panels to boost panels\n- When attacked while stun gauge is at maximum, converts boost-type panels to weaken panels\n- Delays turn\n- Inflicts Nullify Positive Effects\n- Nullifies resistance down effects for all elements except Bolt and Strike"
+  },
+  {
+    "id": 60111063,
+    "description": "- Heals allies\n- Before battle start, grants self Nullify Fire Resistance Down"
+  },
+  {
+    "id": 60111064,
+    "description": "- Heals allies\n- Before battle start, grants self Nullify Ice Resistance Down"
+  },
+  {
+    "id": 60111065,
+    "description": "- Heals allies\n- Before battle start, grants self Nullify Air Resistance Down"
+  },
+  {
+    "id": 60111066,
+    "description": "- Heals allies\n- Before battle start, grants self Nullify Bolt Resistance Down"
+  },
+  {
+    "id": 60112056,
+    "description": "- Heals allies"
+  },
+  {
+    "id": 60112062,
+    "description": "- Heals allies\n- Before battle start, grants self 4 stacks of Damage Received Down\n- When ally is KO'd, removes one stack of Damage Received Down"
+  },
+  {
+    "id": 60193104,
+    "description": "- Advances allies' turns"
+  },
+  {
+    "id": 60072211,
+    "description": "- No hints available"
+  },
+  {
+    "id": 60091208,
+    "description": "- At battle start, reduces own damage received\n- Boosts Burst Skill damage based on the number of positive effect types\n- Grants Evasion to all allies\n- Heals all allies\n- Nullifies resistance reduction for Fire, Bolt, and Slash elements"
+  },
+  {
+    "id": 60160207,
+    "description": "- After receiving a critical attack, boosts own damage received\n- While stunned, boosts own critical rate received\n- Creates weaken+ panels\n- Nullifies resistance reduction for Fire, Bolt, and Slash elements"
+  },
+  {
+    "id": 60160210,
+    "description": "- After receiving a critical attack, boosts own damage received\n- While stunned, boosts own critical rate received\n- Creates weaken+ panels"
   }
 ]

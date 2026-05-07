@@ -18,5 +18,10 @@
     "id": 66,
     "description": "Considered a boost-type panel.<br>When used by an enemy, reduces Air resistance by 40% for 1 attack.<br>When used by an ally, boosts skill damage by 75% for 2 turns.",
     "name": "Holy Night Sincerity Panel"
+  },
+  {
+    "id": 67,
+    "description": "When used by an enemy, boosts damage received by 60% and attack penetration by 100 for 1 attack.<br>When used by an ally, boosts own stun damage by 75% for 1 turn and boosts all allies' P.ATK by 30%. (MAX 150%)",
+    "name": "Crimson Bullet Panel"
   }
 ]

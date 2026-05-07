@@ -5058,5 +5058,155 @@
     "id": 910210,
     "description": "Boosts stun power by {value}%.",
     "name": "Stun Power Up"
+  },
+  {
+    "id": 510322,
+    "description": "Boosts skill damage by {value}%. (MAX 200%)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 510323,
+    "description": "When using a negative effect panel, restores burst gauge by {value}%.",
+    "name": "Burst Gauge Recovery (Cond.)"
+  },
+  {
+    "id": 510326,
+    "description": "Nullifies the effects of weaken panels and weaken+ panels.",
+    "name": "Weaken Panel Immunity"
+  },
+  {
+    "id": 610491,
+    "description": "Boosts P.ATK by {value}%. (MAX 30%)",
+    "name": "P.ATK Up"
+  },
+  {
+    "id": 610492,
+    "description": "Boosts P.ATK by {value}%. (MAX 100%)",
+    "name": "P.ATK Up"
+  },
+  {
+    "id": 610493,
+    "description": "Boosts stun damage by {value}%. (MAX 40%)",
+    "name": "Stun Damage Up"
+  },
+  {
+    "id": 610512,
+    "description": "Boosts damage received by {value}%. (MAX 80%)",
+    "name": "Received Damage Up"
+  },
+  {
+    "id": 610519,
+    "description": "Boosts negative effect potency received from negative effect panels by {value}%.",
+    "name": "Negative Effect Potency from Negative Panels Up"
+  },
+  {
+    "id": 610520,
+    "description": "Boosts damage received from Family & Friends characters by {value}%. (Cannot be stacked)",
+    "name": "Received Damage Up (Cond.)"
+  },
+  {
+    "id": 800226,
+    "description": "Boosts damage received by {value}%.",
+    "name": "Received Damage Up"
+  },
+  {
+    "id": 800227,
+    "description": "Boosts damage received from burst skills by {value}%.",
+    "name": "Received Burst Skill Damage Up"
+  },
+  {
+    "id": 800228,
+    "description": "When self is an Attacker, boosts critical rate by {value}%.",
+    "name": "Critical Rate Up (Cond.)"
+  },
+  {
+    "id": 800229,
+    "description": "Boosts buff effect potency received from boost-type panels by {value}%. (Cannot be stacked)",
+    "name": "Buff Effect Potency from Boost-Type Panels Up"
+  },
+  {
+    "id": 800230,
+    "description": "Boosts buff effect potency received from boost-type panels by {value}%. (Cannot be stacked)",
+    "name": "Buff Effect Potency from Boost-Type Panels Up"
+  },
+  {
+    "id": 810199,
+    "description": "Reduces damage received by {value}%. Removes one stack when defeating a Gold Puni.",
+    "name": "Received Damage Down"
+  },
+  {
+    "id": 910215,
+    "description": "Boosts penetration power of attacks received by {value}.",
+    "name": "Received Attack Penetration Up"
+  },
+  {
+    "id": 910216,
+    "description": "Boosts P.ATK by {value}%. (MAX 150%)",
+    "name": "P.ATK Up"
+  },
+  {
+    "id": 910217,
+    "description": "Boosts burst damage received by {value}%.",
+    "name": "Received Burst Damage Up"
+  },
+  {
+    "id": 910218,
+    "description": "Boosts stun damage by {value}%.",
+    "name": "Stun Damage Up"
+  },
+  {
+    "id": 910219,
+    "description": "Boosts burst stun damage by {value}%.",
+    "name": "Burst Stun Damage Up"
+  },
+  {
+    "id": 510328,
+    "description": "Boosts skill damage by {value}%. (MAX 300%)",
+    "name": "Mocking Darkness"
+  },
+  {
+    "id": 510329,
+    "description": "Boosts stun damage by {value}%. (MAX 300%)",
+    "name": "Mocking Darkness"
+  },
+  {
+    "id": 510347,
+    "description": "Boosts burst gauge gain by {value}%.",
+    "name": "Burst Gauge Gain Up"
+  },
+  {
+    "id": 560081,
+    "description": "Reduces damage received from enemies with Provoke by {value}%.",
+    "name": "Damage Received Down (Provoke)"
+  },
+  {
+    "id": 610498,
+    "description": "After using a skill, inflicts Provoke on all enemies with very high chance for 2 turns.",
+    "name": "Post-Skill Provoke (Very High Chance)"
+  },
+  {
+    "id": 610522,
+    "description": "Boosts stun damage by {value}%. (MAX 30%)",
+    "name": "Stun Damage Up"
+  },
+  {
+    "id": 610523,
+    "description": "Boosts skill damage by {value}%. (MAX 30%)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 610524,
+    "description": "Reduces negative status effect resistance by {value}%. (MAX 50%)",
+    "name": "Status Effect Resistance Down"
+  },
+  {
+    "id": 800231,
+    "description": "Boosts skill power by {value}% when the target has a status effect.",
+    "name": "Skill Power Up (Cond.)"
+  },
+  {
+    "id": 910221,
+    "description": "Boosts skill damage by {value}%. (MAX 3 stacks)",
+    "name": "Dealt Damage Up"
   }
 ]

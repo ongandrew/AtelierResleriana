@@ -5553,5 +5553,49 @@
         }
       }
     }
+  },
+  {
+    "id": 494560657,
+    "properties": {
+      "999008199": {
+        "text": "条件を満たさないキャラが含まれています",
+        "localizations": {
+          "en": "Party contains characters that don't meet the requirements"
+        }
+      }
+    }
+  },
+  {
+    "id": 253648144,
+    "properties": {
+      "999008199": {
+        "text": "イラスト",
+        "localizations": {
+          "en": "Illustration"
+        }
+      }
+    }
+  },
+  {
+    "id": 2085310435,
+    "properties": {
+      "999008199": {
+        "text": "プレビュー",
+        "localizations": {
+          "en": "Preview"
+        }
+      }
+    }
+  },
+  {
+    "id": 97871126,
+    "properties": {
+      "999008199": {
+        "text": "ホームシーンが作成されていません",
+        "localizations": {
+          "en": "No home scene has been created"
+        }
+      }
+    }
   }
 ]

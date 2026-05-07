@@ -273,5 +273,170 @@
         }
       }
     }
+  },
+  {
+    "id": 1237174508,
+    "properties": {
+      "999008199": {
+        "text": "ダウンロード済みデータを整理して、端末の空き容量を増やしますか？\n容量を削減できますが、プレイ中に再ダウンロードが発生する場合があります。 \nどちらかの方法を選んでください。",
+        "localizations": {
+          "en": "Would you like to free up storage space by organizing your downloaded data?\nThis will reduce storage usage, but data may need to be re-downloaded during gameplay.\nPlease select one of the following options."
+        }
+      }
+    }
+  },
+  {
+    "id": 1410458835,
+    "properties": {
+      "999008199": {
+        "text": "全リソース削除",
+        "localizations": {
+          "en": "Delete All Resources"
+        }
+      }
+    }
+  },
+  {
+    "id": 702298397,
+    "properties": {
+      "999008199": {
+        "text": "・<b>全リソース削除</b>：保存されているリソースをすべて削除します。",
+        "localizations": {
+          "en": "・<b>Delete All Resources</b>: Deletes all saved resources."
+        }
+      }
+    }
+  },
+  {
+    "id": 975289089,
+    "properties": {
+      "999008199": {
+        "text": "・<b>最小化する\u3000\u3000</b>：最小限のリソースだけをダウンロードする設定に変更し、\n<indent=9.5em>使用頻度の低いリソースを削除します。</indent>",
+        "localizations": {
+          "en": "・<b>Minimize\u3000\u3000\u3000\u3000</b>: Changes to a setting that only downloads the minimum required resources,\n<indent=9.5em>and deletes infrequently used resources.</indent>"
+        }
+      }
+    }
+  },
+  {
+    "id": 342657010,
+    "properties": {
+      "999008199": {
+        "text": "容量削減",
+        "localizations": {
+          "en": "Free Up Space"
+        }
+      }
+    }
+  },
+  {
+    "id": 1478987990,
+    "properties": {
+      "999008199": {
+        "text": "一部のデータを削除してストレージ容量を空けます",
+        "localizations": {
+          "en": "Delete some data to free up storage space"
+        }
+      }
+    }
+  },
+  {
+    "id": 1935894491,
+    "properties": {
+      "999008199": {
+        "text": "視聴済み動画",
+        "localizations": {
+          "en": "Watched Videos"
+        }
+      }
+    }
+  },
+  {
+    "id": 73129474,
+    "properties": {
+      "999008199": {
+        "text": "視聴済みメインストーリー",
+        "localizations": {
+          "en": "Watched Main Story"
+        }
+      }
+    }
+  },
+  {
+    "id": 1158409695,
+    "properties": {
+      "999008199": {
+        "text": "削除確認",
+        "localizations": {
+          "en": "Confirm Deletion"
+        }
+      }
+    }
+  },
+  {
+    "id": 1745820143,
+    "properties": {
+      "999008199": {
+        "text": "削除する",
+        "localizations": {
+          "en": "Delete"
+        }
+      }
+    }
+  },
+  {
+    "id": 831354432,
+    "properties": {
+      "999008199": {
+        "text": "動画データを削除しますか？",
+        "localizations": {
+          "en": "Delete video data?"
+        }
+      }
+    }
+  },
+  {
+    "id": 959713268,
+    "properties": {
+      "999008199": {
+        "text": "ダウンロードした不要な動画データを削除して、\n容量の削減を行うことができますが、\nゲーム進行中、再ダウンロードが発生する場合があります。\n{0}\nまた、ダウンロード形式を分割ダウンロードに変更します。",
+        "localizations": {
+          "en": "You can free up storage space by deleting downloaded video data that is no longer needed,\nbut data may need to be re-downloaded during gameplay.\n{0}\nThe download format will also be changed to split downloads."
+        }
+      }
+    }
+  },
+  {
+    "id": 1755220077,
+    "properties": {
+      "999008199": {
+        "text": "メインストーリーデータを削除しますか？",
+        "localizations": {
+          "en": "Delete main story data?"
+        }
+      }
+    }
+  },
+  {
+    "id": 1613230497,
+    "properties": {
+      "999008199": {
+        "text": "ダウンロードした視聴済みのメインストーリーのデータを削除して、\n容量の削減を行うことができますが、\nゲーム進行中、再ダウンロードが発生する場合があります。\n{0}\nまた、ダウンロード形式を分割ダウンロードに変更します。",
+        "localizations": {
+          "en": "You can free up storage space by deleting downloaded main story data that has already been watched,\nbut data may need to be re-downloaded during gameplay.\n{0}\nThe download format will also be changed to split downloads."
+        }
+      }
+    }
+  },
+  {
+    "id": 1996572739,
+    "properties": {
+      "999008199": {
+        "text": "<voffset=-10><b><color=#ff2037>削除容量\u3000{0}</color></b></voffset>",
+        "localizations": {
+          "en": "<voffset=-10><b><color=#ff2037>Space to be freed: {0}</color></b></voffset>"
+        }
+      }
+    }
   }
 ]

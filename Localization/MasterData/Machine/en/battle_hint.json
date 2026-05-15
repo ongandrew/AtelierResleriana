@@ -2930,5 +2930,17 @@
   {
     "id": 60160210,
     "description": "- After receiving a critical attack, boosts own damage received\n- While stunned, boosts own critical rate received\n- Creates weaken+ panels"
+  },
+  {
+    "id": 60153061,
+    "description": "- When an ally is KO'd, grants self a guaranteed critical\n- When stunned, removes own positive effects\n- Nullifies resistance reduction for all elements except Ice, Air, and Stab"
+  },
+  {
+    "id": 60278060,
+    "description": "- Delays turn\n- Follow-up attack\n- Reduces burst gauge\n- At battle start, activates a field effect that boosts all allies' damage dealt after turn and deals percentage HP damage to all enemies\n- Each additional activation of the field effect adds the following:\n1st time: Inflicts Nullify HP Recovery on all enemies\n2nd time: Inflicts Nullify Positive Effects on all enemies\n3rd time: Increases the potency of percentage HP damage dealt to all enemies\n- When defeating an opponent, restores own HP\n- After using a powerful attack or when defeating an opponent, activates field effect\n- Nullifies resistance reduction for all elements except Ice, Air, and Stab"
+  },
+  {
+    "id": 60278067,
+    "description": "- Delays turn\n- Follow-up attack\n- Reduces burst gauge\n- At battle start, activates a field effect that boosts all allies' damage dealt after turn and deals percentage HP damage to all enemies\n- Each additional activation of the field effect adds the following:\n1st time: Inflicts Nullify HP Recovery on all enemies\n2nd time: Inflicts Nullify Positive Effects on all enemies\n3rd time: Increases the potency of percentage HP damage dealt to all enemies\n- When defeating an opponent, restores own HP\n- After using a powerful attack or when defeating an opponent, activates field effect"
   }
 ]

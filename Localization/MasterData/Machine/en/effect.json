@@ -16653,5 +16653,110 @@
     "id": 120000909,
     "description": "When Citrine [Miraculous Nine No. 4] is in the party, reduces damage received.",
     "popup_text": ""
+  },
+  {
+    "id": 3000402,
+    "description": "Boosts damage buff by {0}% for Attackers with Fire affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 3000403,
+    "description": "Boosts damage buff by {0}% for Attackers with Ice affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 3000404,
+    "description": "Boosts damage buff by {0}% for Attackers with Bolt affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 3000406,
+    "description": "Boosts damage buff by {0}% for Attackers with Slash affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 3000408,
+    "description": "Boosts damage buff by {0}% for Attackers with Stab affinity.",
+    "popup_text": ""
+  },
+  {
+    "id": 76278002,
+    "description": "Reduces burst gauge of enemy skill targets.",
+    "popup_text": "Burst Gauge Reduction"
+  },
+  {
+    "id": 76278005,
+    "description": "Follow-up attack.",
+    "popup_text": ""
+  },
+  {
+    "id": 76278006,
+    "description": "Recovers self.",
+    "popup_text": ""
+  },
+  {
+    "id": 76278008,
+    "description": "Grants self Attack Up for 3 times.",
+    "popup_text": ""
+  },
+  {
+    "id": 76278009,
+    "description": "Grants self Follow-up Attack State with a chance.",
+    "popup_text": ""
+  },
+  {
+    "id": 76278010,
+    "description": "Grants self Follow-up Attack State.",
+    "popup_text": ""
+  },
+  {
+    "id": 86278001,
+    "description": "Increases Damage Dealt Up level by 1.",
+    "popup_text": ""
+  },
+  {
+    "id": 86278007,
+    "description": "Determination effect (after destruction).",
+    "popup_text": ""
+  },
+  {
+    "id": 91002329,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 120000903,
+    "description": "Grants Damage Dealt Up after action.",
+    "popup_text": ""
+  },
+  {
+    "id": 814000052,
+    "description": "Global Count: All allies receive HP Recovery Nullify, 5% slip damage, all enemies receive +2% damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 814000053,
+    "description": "Global Count: All allies receive HP Recovery Nullify, Nullify Positive Effects, 5% slip damage, all enemies receive +2% damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 814000055,
+    "description": "Global Count: All allies receive HP Recovery Nullify, Nullify Positive Effects, 10% slip damage, all enemies receive +2% damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 814000056,
+    "description": "Global Count: All allies receive HP Recovery Nullify, 5% slip damage, all enemies receive +2% damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 814000057,
+    "description": "Global Count: All allies receive HP Recovery Nullify, Nullify Positive Effects, 5% slip damage, all enemies receive +2% damage dealt.",
+    "popup_text": ""
+  },
+  {
+    "id": 814000058,
+    "description": "Total Count: Nullifies HP recovery and positive effects for all allies, 10% slip damage, +2% damage dealt for all enemies.",
+    "popup_text": ""
   }
 ]

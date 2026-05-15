@@ -118,5 +118,25 @@
     "id": 51,
     "description": "Allies: Reduces SPD by 20%.",
     "popup_text": "SPD Down"
+  },
+  {
+    "id": 52,
+    "description": "Allies: Nullifies HP recovery and receives 5% max HP damage before turn.<br>Enemies: Boosts damage dealt after turn.",
+    "popup_text": "Nullify HP Recovery"
+  },
+  {
+    "id": 53,
+    "description": "Allies: Nullifies HP recovery and positive effects, and receives 5% max HP damage before turn.<br>Enemies: Boosts damage dealt after turn.",
+    "popup_text": "Nullify Positive Effects"
+  },
+  {
+    "id": 54,
+    "description": "Allies: Receives 5% max HP damage before turn.<br>Enemies: Boosts damage dealt after turn.",
+    "popup_text": "HP Percentage Damage"
+  },
+  {
+    "id": 55,
+    "description": "Allies: Nullifies HP recovery and positive effects, and receives 10% max HP damage before turn.<br>Enemies: Boosts damage dealt after turn.",
+    "popup_text": "HP Percentage Damage"
   }
 ]

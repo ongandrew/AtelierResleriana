@@ -14258,5 +14258,145 @@
     "id": 600000811,
     "description": "When Citrine [Miraculous Nine No.4] or Heidi [Buddy's Returning] is in the party, reduces damage received by 25% (MAX 25%).",
     "name": "Damage Reduction with Citrine [Miraculous Nine No.4] or Heidi [Buddy's Returning]"
+  },
+  {
+    "id": 7000942,
+    "description": "Boosts potency of damage enhancement effects given to Attackers with Fire affinity by {0}%.",
+    "name": "Damage Buff Enhancement [Fire A] (1)"
+  },
+  {
+    "id": 7000943,
+    "description": "Boosts potency of damage enhancement effects given to Attackers with Fire affinity by {0}%.",
+    "name": "Damage Buff Enhancement [Fire A] (2)"
+  },
+  {
+    "id": 7000944,
+    "description": "Boosts potency of damage enhancement effects given to Attackers with Fire affinity by {0}%.",
+    "name": "Damage Buff Enhancement [Fire A] (3)"
+  },
+  {
+    "id": 7000945,
+    "description": "Boosts potency of damage enhancement effects given to Attackers with Fire affinity by {0}%.",
+    "name": "Damage Buff Enhancement [Fire A] (4)"
+  },
+  {
+    "id": 7000946,
+    "description": "Boosts potency of damage enhancement effects given to Attackers with Fire affinity by {0}%.",
+    "name": "Damage Buff Enhancement [Fire A] (5)"
+  },
+  {
+    "id": 7000947,
+    "description": "Boosts potency of damage enhancement effects given to Attackers with Ice affinity by {0}%.",
+    "name": "Damage Buff Enhancement [Ice A] (1)"
+  },
+  {
+    "id": 7000948,
+    "description": "Boosts potency of damage enhancement effects given to Attackers with Ice affinity by {0}%.",
+    "name": "Damage Buff Enhancement [Ice A] (2)"
+  },
+  {
+    "id": 7000949,
+    "description": "Boosts potency of damage enhancement effects given to Attackers with Ice affinity by {0}%.",
+    "name": "Damage Buff Enhancement [Ice A] (3)"
+  },
+  {
+    "id": 7000950,
+    "description": "Boosts potency of damage enhancement effects given to Attackers with Ice affinity by {0}%.",
+    "name": "Damage Buff Enhancement [Ice A] (4)"
+  },
+  {
+    "id": 7000951,
+    "description": "Boosts potency of damage enhancement effects given to Attackers with Ice affinity by {0}%.",
+    "name": "Damage Buff Enhancement [Ice A] (5)"
+  },
+  {
+    "id": 7000952,
+    "description": "Boosts potency of damage enhancement effects given to Attackers with Bolt affinity by {0}%.",
+    "name": "Damage Buff Enhancement [Bolt A] (1)"
+  },
+  {
+    "id": 7000953,
+    "description": "Boosts potency of damage enhancement effects given to Attackers with Bolt affinity by {0}%.",
+    "name": "Damage Buff Enhancement [Bolt A] (2)"
+  },
+  {
+    "id": 7000954,
+    "description": "Boosts potency of damage enhancement effects given to Attackers with Bolt affinity by {0}%.",
+    "name": "Damage Buff Enhancement [Bolt A] (3)"
+  },
+  {
+    "id": 7000955,
+    "description": "Boosts potency of damage enhancement effects given to Attackers with Bolt affinity by {0}%.",
+    "name": "Damage Buff Enhancement [Bolt A] (4)"
+  },
+  {
+    "id": 7000956,
+    "description": "Boosts potency of damage enhancement effects given to Attackers with Bolt affinity by {0}%.",
+    "name": "Damage Buff Enhancement [Bolt A] (5)"
+  },
+  {
+    "id": 7000962,
+    "description": "Boosts potency of damage enhancement effects given to Attackers with Slash affinity by {0}%.",
+    "name": "Damage Buff Enhancement [Slash A] (1)"
+  },
+  {
+    "id": 7000963,
+    "description": "Boosts potency of damage enhancement effects given to Attackers with Slash affinity by {0}%.",
+    "name": "Damage Buff Enhancement [Slash A] (2)"
+  },
+  {
+    "id": 7000964,
+    "description": "Boosts potency of damage enhancement effects given to Attackers with Slash affinity by {0}%.",
+    "name": "Damage Buff Enhancement [Slash A] (3)"
+  },
+  {
+    "id": 7000965,
+    "description": "Boosts potency of damage enhancement effects given to Attackers with Slash affinity by {0}%.",
+    "name": "Damage Buff Enhancement [Slash A] (4)"
+  },
+  {
+    "id": 7000966,
+    "description": "Boosts potency of damage enhancement effects given to Attackers with Slash affinity by {0}%.",
+    "name": "Damage Buff Enhancement [Slash A] (5)"
+  },
+  {
+    "id": 7000972,
+    "description": "Boosts damage buff potency granted to Attackers with Stab affinity by {0}%.",
+    "name": "Damage Buff Enhancement [Stab A] (1)"
+  },
+  {
+    "id": 7000973,
+    "description": "Boosts damage buff potency granted to Attackers with Stab affinity by {0}%.",
+    "name": "Damage Buff Enhancement [Stab A] (2)"
+  },
+  {
+    "id": 7000974,
+    "description": "Boosts damage buff potency granted to Attackers with Stab affinity by {0}%.",
+    "name": "Damage Buff Enhancement [Stab A] (3)"
+  },
+  {
+    "id": 7000975,
+    "description": "Boosts damage buff potency granted to Attackers with Stab affinity by {0}%.",
+    "name": "Damage Buff Enhancement [Stab A] (4)"
+  },
+  {
+    "id": 7000976,
+    "description": "Boosts damage buff potency granted to Attackers with Stab affinity by {0}%.",
+    "name": "Damage Buff Enhancement [Stab A] (5)"
+  },
+  {
+    "id": 26278001,
+    "description": "Before wave start, grants status effect changes for field effect skill determination.",
+    "name": ""
+  },
+  {
+    "id": 26278002,
+    "description": "Nullifies resistance down for all attributes except Ice, Air, and Stab.",
+    "name": ""
+  },
+  {
+    "id": 26278003,
+    "description": "When defeating an enemy, recovers own HP by 20% and deploys the following field effect (as a permanent field effect: reduces slip damage to allies by 5%, boosts damage dealt to enemies by 2%). Burst skill and counter have the same effect.\n1st time: adds nullify HP recovery. 2nd time: adds nullify positive effects. 3rd time: slip damage increases to 10%.",
+    "name": ""
   }
 ]

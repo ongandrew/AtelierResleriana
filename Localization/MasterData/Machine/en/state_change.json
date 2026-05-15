@@ -5208,5 +5208,35 @@
     "id": 910221,
     "description": "Boosts skill damage by {value}%. (MAX 3 stacks)",
     "name": "Dealt Damage Up"
+  },
+  {
+    "id": 710037,
+    "description": "Boosts attack by {value}%.",
+    "name": "Attack Up"
+  },
+  {
+    "id": 710200,
+    "description": "After using a skill, triggers an additional attack.",
+    "name": "Follow-Up Attack"
+  },
+  {
+    "id": 720001,
+    "description": "Prevents HP recovery effects.",
+    "name": "Nullify HP Recovery"
+  },
+  {
+    "id": 720028,
+    "description": "Prevents positive effects from being applied.",
+    "name": "Nullify Positive Effects"
+  },
+  {
+    "id": 810193,
+    "description": "After using a skill, boosts damage dealt by {value}%.",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 850024,
+    "description": "Boosts damage dealt by {value}%.",
+    "name": "Bestira Royal Judgment 1"
   }
 ]

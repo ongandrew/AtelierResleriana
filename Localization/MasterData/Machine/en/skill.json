@@ -40030,5 +40030,221 @@
     "description": "Increases target enemy's negative effect potency by 50% for 3 turns.",
     "name": "Mental Break",
     "summary": ""
+  },
+  {
+    "id": 32005426,
+    "description": "After attacking, deploys the following field effect (Passive field effect: allies receive 5% Slip Damage, enemies receive 2% Damage Dealt Up)\n1st use adds nullify HP recovery, 2nd use adds nullify positive effects, 3rd use increases slip damage to 10%",
+    "name": "Tyrant Strike",
+    "summary": ""
+  },
+  {
+    "id": 32005427,
+    "description": "Grants self SPD Up (5%/3 turns) and P.ATK Up (25%/3 turns)",
+    "name": "Fighting Spirit Release",
+    "summary": ""
+  },
+  {
+    "id": 32005428,
+    "description": "After attacking, reduces target enemy's burst gauge by 20% and has a 30% chance to grant self Follow-up Attack for 1 turn",
+    "name": "King's Fist",
+    "summary": ""
+  },
+  {
+    "id": 32005429,
+    "description": "No additional effects.",
+    "name": "Fighting Wave",
+    "summary": ""
+  },
+  {
+    "id": 32005430,
+    "description": "After attacking, reduces target enemy's burst gauge by 30% and grants self Follow-up Attack for 1 turn (Activates when own HP is 50% or below)",
+    "name": "Fighting Tempest",
+    "summary": ""
+  },
+  {
+    "id": 32005431,
+    "description": "After attacking, delays target enemy's turn by 2",
+    "name": "King's Roar",
+    "summary": ""
+  },
+  {
+    "id": 32005432,
+    "description": "No additional effects.",
+    "name": "Fighting Vortex",
+    "summary": ""
+  },
+  {
+    "id": 32005433,
+    "description": "Boosts this attack's critical damage by 35%",
+    "name": "Fatal Bite",
+    "summary": ""
+  },
+  {
+    "id": 32005434,
+    "description": "After attacking, grants self Critical Rate Up (30%/1 turn)",
+    "name": "Bite",
+    "summary": ""
+  },
+  {
+    "id": 32005435,
+    "description": "After attacking, grants self Critical Damage Up (30%/3 turns)",
+    "name": "Club Roar",
+    "summary": ""
+  },
+  {
+    "id": 32005436,
+    "description": "No additional effects.",
+    "name": "Wind Sphere",
+    "summary": ""
+  },
+  {
+    "id": 32005437,
+    "description": "No additional effects.",
+    "name": "Tornado",
+    "summary": ""
+  },
+  {
+    "id": 32005438,
+    "description": "After attacking, deploys the following field effect (Passive field effect: allies receive 5% Slip Damage, enemies receive 2% Damage Dealt Up)\n1st use adds nullify HP recovery, 2nd use adds nullify positive effects, 3rd use increases slip damage to 10%",
+    "name": "Tyrant Strike",
+    "summary": ""
+  },
+  {
+    "id": 32005439,
+    "description": "Grants self SPD Up (5%/3 turns) and P.ATK Up (25%/3 turns)",
+    "name": "Fighting Spirit Release",
+    "summary": ""
+  },
+  {
+    "id": 32005440,
+    "description": "After attacking, reduces target enemy's burst gauge by 30% and has a 30% chance to grant self Follow-up Attack for 1 turn",
+    "name": "King's Fist",
+    "summary": ""
+  },
+  {
+    "id": 32005441,
+    "description": "No additional effects.",
+    "name": "Fighting Wave",
+    "summary": ""
+  },
+  {
+    "id": 32005442,
+    "description": "After attacking, reduces target enemy's burst gauge by 30% and grants self Follow-up Attack for 1 turn (Activates when own HP is 50% or below)",
+    "name": "Fighting Tempest",
+    "summary": ""
+  },
+  {
+    "id": 32005443,
+    "description": "After attacking, delays target enemy's turn by 2",
+    "name": "King's Roar",
+    "summary": ""
+  },
+  {
+    "id": 32005444,
+    "description": "No additional effects.",
+    "name": "Fighting Vortex",
+    "summary": ""
+  },
+  {
+    "id": 32005445,
+    "description": "Grants all allies SPD Up (10%/3 turns)",
+    "name": "Sky Gale",
+    "summary": ""
+  },
+  {
+    "id": 32005446,
+    "description": "No additional effects.",
+    "name": "Glide",
+    "summary": ""
+  },
+  {
+    "id": 32005447,
+    "description": "After attacking, inflicts 5 stacks of Poison on target enemy (100% application chance, 5 turns).",
+    "name": "Charge Lash",
+    "summary": ""
+  },
+  {
+    "id": 32005448,
+    "description": "After attacking, increases own damage received by 20% for 3 turns and target enemy's damage received by 30% for 1 turn.",
+    "name": "White Breath",
+    "summary": ""
+  },
+  {
+    "id": 32005449,
+    "description": "No additional effects.",
+    "name": "Mini Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32005450,
+    "description": "After attacking, deploys the following field effect (Constant field effect that boosts ally slip damage by 5% and enemy damage dealt by 2%).\nFirst use adds HP recovery nullification, second use adds positive effect nullification, third use increases slip damage to 10%.",
+    "name": "Overlord Strike",
+    "summary": ""
+  },
+  {
+    "id": 32005451,
+    "description": "Boosts own SPD by 5% for 3 turns and P.ATK by 25% for 3 turns.",
+    "name": "Fighting Spirit Release",
+    "summary": ""
+  },
+  {
+    "id": 32005452,
+    "description": "After attacking, reduces target enemy's burst gauge by 10% and grants self additional attack state for 1 turn with 30% chance.",
+    "name": "King's Fist",
+    "summary": ""
+  },
+  {
+    "id": 32005453,
+    "description": "No additional effects.",
+    "name": "Fighting Wave",
+    "summary": ""
+  },
+  {
+    "id": 32005454,
+    "description": "After attacking, reduces target enemy's burst gauge by 30% and grants self additional attack state for 1 turn (activates when own HP is 50% or below).",
+    "name": "Fighting Storm",
+    "summary": ""
+  },
+  {
+    "id": 32005455,
+    "description": "After attacking, delays target enemy's turn by 2 turns.",
+    "name": "King's Roar",
+    "summary": ""
+  },
+  {
+    "id": 32005456,
+    "description": "No additional effects.",
+    "name": "Fighting Vortex",
+    "summary": ""
+  },
+  {
+    "id": 32005457,
+    "description": "After attacking, delays target enemy's turn by 1 turn.",
+    "name": "Tackle",
+    "summary": ""
+  },
+  {
+    "id": 32005458,
+    "description": "No additional effects.",
+    "name": "Rush",
+    "summary": ""
+  },
+  {
+    "id": 32005459,
+    "description": "After attacking, reduces target enemy's damage dealt by 20% for 3 turns.",
+    "name": "Slash Meteor",
+    "summary": ""
+  },
+  {
+    "id": 32005460,
+    "description": "No additional effects.",
+    "name": "Thunder Slash",
+    "summary": ""
+  },
+  {
+    "id": 32005461,
+    "description": "Reduces target ally's damage received by 30% for 2 turns.",
+    "name": "Cheer Up",
+    "summary": ""
   }
 ]

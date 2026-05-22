@@ -2942,5 +2942,41 @@
   {
     "id": 60278067,
     "description": "- Delays turn\n- Follow-up attack\n- Reduces burst gauge\n- At battle start, activates a field effect that boosts all allies' damage dealt after turn and deals percentage HP damage to all enemies\n- Each additional activation of the field effect adds the following:\n1st time: Inflicts Nullify HP Recovery on all enemies\n2nd time: Inflicts Nullify Positive Effects on all enemies\n3rd time: Increases the potency of percentage HP damage dealt to all enemies\n- When defeating an opponent, restores own HP\n- After using a powerful attack or when defeating an opponent, activates field effect"
+  },
+  {
+    "id": 30150001,
+    "description": "- When hit by an atelier cannon while having skill evasion status, inflicts Daze on self\n- Grants Skill Evasion to self\n- Grants Weaken Panel Immunity to self"
+  },
+  {
+    "id": 60023019,
+    "description": "- Inflicts Darkness\n- Grants Evasion to self each turn"
+  },
+  {
+    "id": 60060009,
+    "description": "- Restores own HP and stun gauge each turn\n- Inflicts Paralysis on self when stunned\n- When hit by an attack, increases own damage received and stun damage received\n- Delays turn"
+  },
+  {
+    "id": 60122079,
+    "description": "- When stunned, converts boost-type panels to burst panels\n- Protection\n- Heals self and removes all status effects\n- Restores own HP and stun gauge"
+  },
+  {
+    "id": 60143011,
+    "description": "- Creates weaken panels\n- Creates empty panels\n- Heals all allies\n- Nullifies resistance down effects for all elements except Air"
+  },
+  {
+    "id": 60156004,
+    "description": "- Restores allies' HP and stun gauge\n- When KO'd, removes all positive effects from allies and all opponents\n- Nullifies resistance down effects for all elements except Air"
+  },
+  {
+    "id": 60214016,
+    "description": "- When KO'd, converts weaken panels to darkness panels\n- Inflicts Darkness\n- Heals all allies\n- Reduces positive effect potency received for all opponents\n- Converts all opponents' non-burst panels to weaken panels"
+  },
+  {
+    "id": 60215004,
+    "description": "- Removes multiple positive effects from all opponents\n- Nullifies resistance down effects for all elements except Air"
+  },
+  {
+    "id": 60215005,
+    "description": "- Removes multiple positive effects from all opponents"
   }
 ]

@@ -1,0 +1,716 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "ん……ここ、どこ？\u3000\nあれ、私たち……どうして……",
+        "localizations": {
+          "en": "Mm... where am I? Wait, how did we end up..."
+        }
+      },
+      "2072370017": {
+        "text": "キューン",
+        "localizations": {
+          "en": "Quinn"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "目が覚めたみたいね。大丈夫？\u3000\nどこか痛いところはない？",
+        "localizations": {
+          "en": "Looks like you're awake. Are you okay? Does anything hurt?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "……状況、把握。ここは敵陣営。\nベスティラでの衝突後、ここに連れ去られたと推測",
+        "localizations": {
+          "en": "...Situation, assessed. We are in enemy territory. After the confrontation in Bestira, we were taken here."
+        }
+      },
+      "2072370017": {
+        "text": "ヤドヴィガ",
+        "localizations": {
+          "en": "Jadwiga"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "そうよ。キューンが「そっちに行きたい」って\n言ったから、連れてきたの",
+        "localizations": {
+          "en": "That's right. Quinn said she wanted to come this way, so I brought her."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "連れてきたって言うには物騒な感じだったけど……\nまあ、そういうことだから、安心しなよ",
+        "localizations": {
+          "en": "'Brought' might be a generous way of putting it... but that's the gist of it. So relax."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "（獣人の国ベスティラで発生していた誘拐事件。\n\u3000その犯人をキューンたちは「管理」すると言った）",
+        "localizations": {
+          "en": "(The kidnappings happening in Bestira, the beastkin nation. Quinn and the others claimed to be 'managing' the culprits.)"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "（それを止めるべく、私たちは対立した……けど、\n\u3000本当は、キューンは争いなんて望んでいなかった）",
+        "localizations": {
+          "en": "(We stood against them to put a stop to it... but in truth, Quinn never wanted any of this conflict.)"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "（だから、私はキューンを無理矢理こっちに\n\u3000連れ去った。ヤドヴィガは、不服みたいだけど……）",
+        "localizations": {
+          "en": "(So I took her away by force. Jadwiga doesn't seem too pleased about it... but here we are.)"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "よろしければ、ご飯をどうぞ。\n温かいうちに召し上がってくださいね",
+        "localizations": {
+          "en": "If you're hungry, please help yourself. While it's still warm!"
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "……ご飯？\u3000あ、いい匂い……",
+        "localizations": {
+          "en": "...Food? Oh, that smells good..."
+        }
+      },
+      "2072370017": {
+        "text": "キューン",
+        "localizations": {
+          "en": "Quinn"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "遠慮はいらないさ。仲良くなるには\n食事を共にするのが一番ってもんだろう？",
+        "localizations": {
+          "en": "No need to be shy. The best way to get along is to share a meal, wouldn't you say?"
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "お腹も空いてるだろうしね。\nまずは食べてから考えなよ",
+        "localizations": {
+          "en": "You must be starving. Eat first, think later."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "……敵の施しを受けるのは、危険。\n……とはいえ",
+        "localizations": {
+          "en": "...Accepting aid from enemies is dangerous. ...That said..."
+        }
+      },
+      "2072370017": {
+        "text": "ヤドヴィガ",
+        "localizations": {
+          "en": "Jadwiga"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "そうそう。なんかするなら気絶した時にやってるさ。\nだから食べても大丈夫だよ？\u3000多分ね",
+        "localizations": {
+          "en": "Right, if we were going to do something, we'd have done it while you were out cold. So eating should be fine. Probably."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "やめなさい。あんたが言うと\nシャレに聞こえないんだから",
+        "localizations": {
+          "en": "Don't. When you say it, it doesn't sound like a joke."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "…………\nじゃあ、ちょっとだけ……",
+        "localizations": {
+          "en": "......Okay... just a little, then..."
+        }
+      },
+      "2072370017": {
+        "text": "キューン",
+        "localizations": {
+          "en": "Quinn"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "ん……美味しい。とっても、優しい味がする……\nほら、ヤド姉も。毒なんてないよ？",
+        "localizations": {
+          "en": "Mm... it's delicious. So warm and gentle... Here, you too. There's no poison, I promise."
+        }
+      },
+      "2072370017": {
+        "text": "キューン",
+        "localizations": {
+          "en": "Quinn"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "あむ……異常なし。\n……いただきます",
+        "localizations": {
+          "en": "...Nom. No abnormalities detected. ...Thank you for the meal."
+        }
+      },
+      "2072370017": {
+        "text": "ヤドヴィガ",
+        "localizations": {
+          "en": "Jadwiga"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "よかったです。おかわりもありますから、\n遠慮せず食べてくださいね",
+        "localizations": {
+          "en": "I'm so glad! There's plenty more, so please don't hold back."
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "……その頬当て、外してから食べたらどうだい？",
+        "localizations": {
+          "en": "...You know, you could try taking that cheek guard off before you eat?"
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "そんなに警戒しなくてもいいのよ。\n私たち、仲間になるんだから",
+        "localizations": {
+          "en": "No need to stay on guard. We're going to be allies, after all."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "……主の命令が最優先。たとえもてなされても、\n我が主の方針に反するなら、戦う。それが私の役目",
+        "localizations": {
+          "en": "...My master's orders come first. No matter how well we are treated—if it conflicts with my master's will, I will fight. That is my duty."
+        }
+      },
+      "2072370017": {
+        "text": "ヤドヴィガ",
+        "localizations": {
+          "en": "Jadwiga"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "ご馳走を食べても揺るがないとは……冷静なのね",
+        "localizations": {
+          "en": "Not even a good meal can shake you... You really are composed."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "いやいや、相棒じゃないんだから",
+        "localizations": {
+          "en": "Hey, she's not your partner, you know."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "綺麗な宝石とかなら、\n心が揺らぐ可能性もあるんじゃない？",
+        "localizations": {
+          "en": "Maybe a nice shiny gemstone would do the trick?"
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "そっちはお前さんだけさね。\n大事なのは気持ちだろう",
+        "localizations": {
+          "en": "That's just you, friend. What matters is what's in the heart."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "あはは……みんな、仲良しなんだね。\nなんか、こういうの……久しぶりだなぁ",
+        "localizations": {
+          "en": "Ahaha... everyone gets along so well. This kind of thing... it's been a long time..."
+        }
+      },
+      "2072370017": {
+        "text": "キューン",
+        "localizations": {
+          "en": "Quinn"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "ふふ……一緒に食べると、心までポカポカしますよね。\nキューンさんが笑顔で、フロッケも嬉しいです",
+        "localizations": {
+          "en": "Hehe... eating together really does warm the heart. Seeing you smile makes Flocke happy too!"
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "うん……ありがとう、フロッケちゃん。\n本当に、温かい……",
+        "localizations": {
+          "en": "Yeah... thank you, Flocke. It really is... warm..."
+        }
+      },
+      "2072370017": {
+        "text": "キューン",
+        "localizations": {
+          "en": "Quinn"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "キューン……",
+        "localizations": {
+          "en": "Quinn..."
+        }
+      },
+      "2072370017": {
+        "text": "ヤドヴィガ",
+        "localizations": {
+          "en": "Jadwiga"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "ヤドヴィガ、あんたも本当は、\n自由になりたいって思ってるんじゃない？",
+        "localizations": {
+          "en": "Jadwiga—deep down, don't you want to be free too?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "……判断、保留。\n私には、まだ分からない",
+        "localizations": {
+          "en": "...Judgment, suspended. I do not yet know."
+        }
+      },
+      "2072370017": {
+        "text": "ヤドヴィガ",
+        "localizations": {
+          "en": "Jadwiga"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "答えはすぐに出さなくていいさ。\n焦ることはないよ",
+        "localizations": {
+          "en": "You don't need to have an answer right away. No need to rush."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "私、ここにいてもいいのかな……？",
+        "localizations": {
+          "en": "Is it... okay for me to stay here...?"
+        }
+      },
+      "2072370017": {
+        "text": "キューン",
+        "localizations": {
+          "en": "Quinn"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "もちろんです。みんな、\nキューンさんとヤドヴィガさんを歓迎していますよ",
+        "localizations": {
+          "en": "Of course it is! Everyone here is glad to have you and Jadwiga with us."
+        }
+      },
+      "2072370017": {
+        "text": "フロッケ",
+        "localizations": {
+          "en": "Flocke"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "……うん",
+        "localizations": {
+          "en": "...Yeah."
+        }
+      },
+      "2072370017": {
+        "text": "キューン",
+        "localizations": {
+          "en": "Quinn"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "……今は、ここに留まる。\nキューン一人を、置いてはいけない",
+        "localizations": {
+          "en": "...For now, I will remain. I cannot leave Quinn alone."
+        }
+      },
+      "2072370017": {
+        "text": "ヤドヴィガ",
+        "localizations": {
+          "en": "Jadwiga"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "ふふ、これからよろしくね。二人とも",
+        "localizations": {
+          "en": "Hehe. We're glad to have you, both of you."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "「九偉人」の９番目。控えめな性格で、少し人見知り。\n兄のヘルトについていたが、ヴァレリアに連れ去られた",
+        "localizations": {
+          "en": "The ninth of the Miraculous Nine. Shy and soft-spoken by nature. Was with her brother Held until Valeria whisked her away."
+        }
+      },
+      "2072370017": {
+        "text": "キューン",
+        "localizations": {
+          "en": "Quinn"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "「九偉人」の８番目。真面目な性格で、主に忠実。\n兄のヘルトについていたが、ヴァレリアに連れ去られた",
+        "localizations": {
+          "en": "The eighth of the Miraculous Nine. Earnest and loyal to her master. Was with her brother Held until Valeria whisked her away."
+        }
+      },
+      "2072370017": {
+        "text": "ヤドヴィガ",
+        "localizations": {
+          "en": "Jadwiga"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "「九偉人」の３番目。いなせな風来坊。\nレスナたちと共に行動している",
+        "localizations": {
+          "en": "The third of the Miraculous Nine. A stylish free spirit. Currently traveling alongside Resna and the others."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "「九偉人」の４番目。飄々とした性格。\nレスナたちと共に行動している",
+        "localizations": {
+          "en": "The fourth of the Miraculous Nine. Easygoing and hard to read. Currently traveling alongside Resna and the others."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  }
+]

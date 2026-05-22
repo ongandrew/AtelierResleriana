@@ -6535,5 +6535,133 @@
     "name": "Lila Classic Onyx Outfit Coordination",
     "start_at": "2026-05-15T03:00:00Z",
     "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 2388,
+    "description": "Sophie makes her debut & Pick Up!\nFeatured until 2026/06/15 11:59 (UTC+8).",
+    "end_at": "2026-06-15T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Atelier Series 29th LEGEND FES",
+    "name": "Atelier Series 29th LEGEND FES",
+    "start_at": "2026-05-22T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2389,
+    "description": "One time per day only with Paid Lodestar Gems! Pick Up rate doubled!\nFeatured until 2026/06/05 11:59 (UTC+8).",
+    "end_at": "2026-06-05T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 23891,
+            "description": "Pick Up rate x2!\n1 time remaining!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Atelier Series 29th LEGEND FES [Once Daily・Paid Lodestar Gems Only]",
+    "name": "Atelier Series 29th LEGEND FES [Once Daily・Paid Lodestar Gems Only]",
+    "small_banner_label": "Once Daily Only!",
+    "start_at": "2026-05-22T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2390,
+    "description": "Wish 50 times with Paid Lodestar Gems to unlock an additional Wish option!\nFeatured until 2026/06/15 11:59 (UTC+8).",
+    "end_at": "2026-06-15T03:00:00Z",
+    "name": "Atelier Series 29th LEGEND FES [Paid Lodestar Gems Only]",
+    "small_banner_label": "Paid Only!",
+    "start_at": "2026-05-22T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 2391,
+    "description": "\"Make a Wish Upon a Shooting Star\" and \"Gazing Up at the Starry Sky\"\nare making their debut & featured!\nUntil 2026/06/15 10:59 (UTC+8)",
+    "end_at": "2026-06-15T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Atelier Series 29th Anniversary - Together with Alchemy LEGEND FES",
+    "name": "Atelier Series 29th Anniversary - Together with Alchemy LEGEND FES",
+    "start_at": "2026-05-22T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2392,
+    "description": "Max 5 times! Wish 30 times with Paid Lodestar Gems and get 1 free wish!\nSTEP 4 guarantees 1 featured Memoria!\nUntil 2026/06/15 10:59 (UTC+8)",
+    "end_at": "2026-06-15T03:00:00Z",
+    "name": "Atelier Series 29th Anniversary - Together with Alchemy LEGEND FES [Paid Limited]",
+    "small_banner_label": "Featured Guaranteed!",
+    "start_at": "2026-05-22T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 239001,
+    "description": "Max 5 times! Featured rate doubled!\nEarn 16 Medals! Until 2026/06/15 10:59 (UTC+8)",
+    "end_at": "2026-06-15T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10005,
+            "description": "Bonus included!\n{} times left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Atelier Series 29th Anniversary LEGEND FES [Paid Limited]",
+    "name": "Atelier Series 29th Anniversary LEGEND FES [Paid Limited]",
+    "small_banner_label": "Paid Limited!",
+    "start_at": "2026-05-22T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 3100005,
+    "description": "[Guaranteed New Outfit at STEP 7!]\n\nLydie's new outfit makes its debut!\nThe appearance rate for the new outfit increases with each step!\nUntil 2026/06/09 10:59 (UTC+8)\n",
+    "end_at": "2026-06-09T03:00:00Z",
+    "name": "Lydie Aspiring Marie Outfit Synthesis",
+    "start_at": "2026-05-26T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 3100006,
+    "description": "[Guaranteed New Outfit at STEP 7!]\n\nSuelle's new outfit makes its debut!\nThe appearance rate for the new outfit increases with each step!\nUntil 2026/06/09 10:59 (UTC+8)\n",
+    "end_at": "2026-06-09T03:00:00Z",
+    "name": "Suelle Aspiring Elie Outfit Synthesis",
+    "start_at": "2026-05-26T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
   }
 ]

@@ -5238,5 +5238,55 @@
     "id": 850024,
     "description": "Boosts damage dealt by {value}%.",
     "name": "Bestira Royal Judgment 1"
+  },
+  {
+    "id": 510330,
+    "description": "Dummy buff for judgment purposes (MAX 2 stacks)",
+    "name": "Dummy Buff for Judgment"
+  },
+  {
+    "id": 510331,
+    "description": "When own HP is 90% or higher, increases own burst gauge by 100% after using a skill (MAX 2 activations)",
+    "name": "I'll Support You!"
+  },
+  {
+    "id": 510332,
+    "description": "Boosts base P.DEF by {value} (MAX 2 stacks)",
+    "name": "I'll Support You!"
+  },
+  {
+    "id": 510333,
+    "description": "Boosts base M.DEF by {value} (MAX 2 stacks)",
+    "name": "I'll Support You!"
+  },
+  {
+    "id": 510344,
+    "description": "When own HP is 90% or higher, grants self dummy buff for judgment purposes after using a skill",
+    "name": "Sophie_Grant Dummy Buff for Judgment"
+  },
+  {
+    "id": 610499,
+    "description": "Boosts P.DEF by {value}%. (MAX 30%)",
+    "name": "P.DEF Up"
+  },
+  {
+    "id": 610500,
+    "description": "Boosts M.DEF by {value}%. (MAX 30%)",
+    "name": "M.DEF Up"
+  },
+  {
+    "id": 610505,
+    "description": "Boosts max HP by {value}%. (MAX 50%)",
+    "name": "Max HP Up"
+  },
+  {
+    "id": 800232,
+    "description": "Boosts damage received from Skill 2 by {value}%",
+    "name": "Received Damage Up (Cond.)"
+  },
+  {
+    "id": 910220,
+    "description": "Boosts critical damage by {value}%. (MAX 2 stacks)",
+    "name": "Critical Damage Up"
   }
 ]

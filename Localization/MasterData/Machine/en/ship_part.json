@@ -106,5 +106,17 @@
     "description": "{0} Level Cap Release ({1} time(s))\nReleasing increases the level cap by {2}",
     "name": "Zegen Core",
     "start_at": "2026-04-24T03:00:00Z"
+  },
+  {
+    "id": 21,
+    "description": "{0} EXP +{1}",
+    "name": "Dokudoku Shard",
+    "start_at": "2026-05-22T03:00:00Z"
+  },
+  {
+    "id": 22,
+    "description": "{0} Level Cap Release ({1} time(s))\nReleasing increases the level cap by {2}",
+    "name": "Dokudoku Core",
+    "start_at": "2026-05-22T03:00:00Z"
   }
 ]

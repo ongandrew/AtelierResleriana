@@ -1357,5 +1357,21 @@
     "profile_voice_text": "Hey there, I'm Citrine! I'm the self-proclaimed handyperson of the sacred lands of Nova... or so I've been told.",
     "sort_name": "Citrine",
     "start_at": "2026-05-08T03:00:00Z"
+  },
+  {
+    "id": 33404,
+    "acquisition_text": "I really do think that alchemy is a power that can help make dreams come true!",
+    "another_name": "Memory of Dreams",
+    "description": "A cheerful and innocent alchemist.\nShe aims to become an alchemist who makes everyone happy, working hard every day while following in the footsteps of her late grandmother.\nShe has a bright and easygoing personality, but is a serious hard worker.\nShe's not good with details and tends to keep problems to herself.",
+    "fullname": "Sophie Neuenmuller",
+    "leader_skill": {
+      "description": "Boosts Promise & Teamwork characters' P.ATK, M.ATK, P.DEF, and M.DEF by 30%.",
+      "name": "What I Learned from Grandma"
+    },
+    "name": "Sophie",
+    "overlay_name": "Sophie Neuenmuller",
+    "profile_voice_text": "It was Grandma and Plachta who showed me the path of alchemy.",
+    "sort_name": "Sophie",
+    "start_at": "2026-05-22T03:00:00Z"
   }
 ]

@@ -2736,5 +2736,60 @@
     ],
     "start_at": "2026-05-08T03:00:00Z",
     "tracking_id": "af_synthesis_recipe_857"
+  },
+  {
+    "id": 858,
+    "name": "Veil Cuir",
+    "requirements": [
+      {
+        "name": "Clear Main Story 12-60"
+      }
+    ],
+    "start_at": "2026-05-22T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_858"
+  },
+  {
+    "id": 859,
+    "name": "Solid Armor Talisman",
+    "requirements": [
+      {
+        "name": "Clear Main Story 12-60"
+      }
+    ],
+    "start_at": "2026-05-22T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_859"
+  },
+  {
+    "id": 860,
+    "name": "Gentle Breeze Aroma",
+    "requirements": [
+      {
+        "name": "Clear Piruzza - Prelude 1"
+      }
+    ],
+    "start_at": "2026-05-22T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_860"
+  },
+  {
+    "id": 861,
+    "name": "Star Guide's Staff",
+    "requirements": [
+      {
+        "name": "Awaken Sophie [Memory of Dreams] to ★5"
+      }
+    ],
+    "start_at": "2026-05-22T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_861"
+  },
+  {
+    "id": 10044,
+    "name": "Throbbing Dokuro",
+    "requirements": [
+      {
+        "name": "Obtain 190 types of Memoria"
+      }
+    ],
+    "start_at": "2026-05-22T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_10044"
   }
 ]

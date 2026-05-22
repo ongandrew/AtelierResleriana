@@ -14398,5 +14398,360 @@
     "id": 26278003,
     "description": "When defeating an enemy, recovers own HP by 20% and deploys the following field effect (as a permanent field effect: reduces slip damage to allies by 5%, boosts damage dealt to enemies by 2%). Burst skill and counter have the same effect.\n1st time: adds nullify HP recovery. 2nd time: adds nullify positive effects. 3rd time: slip damage increases to 10%.",
     "name": ""
+  },
+  {
+    "id": 301346,
+    "description": "While equipped to Sophie [Memory of Dreams] with HP at 85% or above, when hit by an attack, increases the burst gauge of all allies with Air affinity by {0}%.",
+    "name": "Starlight Staff"
+  },
+  {
+    "id": 301347,
+    "description": "Boosts critical damage by {0}% for all allies.",
+    "name": "Veil Cuirass"
+  },
+  {
+    "id": 301348,
+    "description": "Boosts critical damage by {0}% for all allies.",
+    "name": "Veil Cuirass"
+  },
+  {
+    "id": 301349,
+    "description": "Reduces damage received from area attacks by {0}% for all allies (permanent).",
+    "name": "Ironclad Amulet"
+  },
+  {
+    "id": 301350,
+    "description": "Reduces damage received from area attacks by {0}% for all allies (permanent).",
+    "name": "Ironclad Amulet"
+  },
+  {
+    "id": 500714,
+    "description": "Boosts skill damage by {0}% for characters with Promise & Teamwork tag.",
+    "name": ""
+  },
+  {
+    "id": 500716,
+    "description": "Boosts skill damage by {0}% for characters with Promise & Teamwork tag.",
+    "name": ""
+  },
+  {
+    "id": 500718,
+    "description": "Boosts skill damage by {0}% for characters with Promise & Teamwork tag.",
+    "name": ""
+  },
+  {
+    "id": 500720,
+    "description": "Boosts skill damage by {0}% for characters with Promise & Teamwork tag.",
+    "name": ""
+  },
+  {
+    "id": 500722,
+    "description": "Boosts skill damage by {0}% for characters with Promise & Teamwork tag.",
+    "name": ""
+  },
+  {
+    "id": 500724,
+    "description": "Boosts skill damage by {0}% for characters with Promise & Teamwork tag.",
+    "name": ""
+  },
+  {
+    "id": 500726,
+    "description": "Boosts skill damage by {0}% for characters with Promise & Teamwork tag.",
+    "name": ""
+  },
+  {
+    "id": 500728,
+    "description": "Boosts skill damage by {0}% for characters with Promise & Teamwork tag.",
+    "name": ""
+  },
+  {
+    "id": 1980246,
+    "description": "Characters with Promise & Teamwork tag gain P.ATK, M.ATK, P.DEF, and M.DEF +30%.",
+    "name": "What I Learned from Grandma"
+  },
+  {
+    "id": 1990549,
+    "description": "Converts own burst skill to gauge system.<br>※ Burst gauge can store up to 3 uses.<br><br>Converts burst skills to gauge system for all allies with Air affinity.<br>※ Burst gauge can store up to 2 uses.<br><br>When hit by an attack, increases own burst gauge by {0}%.<br>When any party member uses an item, increases the burst gauge of all allies with Air affinity by {1}%.<br>※ Only triggers once even when multiple items are used simultaneously.",
+    "name": "Super-Special Glutton"
+  },
+  {
+    "id": 1990550,
+    "description": "Becomes very likely to be targeted by enemies.<br>Boosts max HP by {0}% for all allies with Air affinity.<br>At the start of battle, restores HP by {1}% for all allies and grants the following additional effect to all allies with Air affinity:<br>Additional Effect: \"When own HP is at 90% or above, after using a skill, increases own burst gauge by {2}% (up to 2 times).\"<br><br>When own HP is at 90% or above, after using a skill, grants Base P.DEF and Base M.DEF +{3} to all allies with Air affinity (up to 2 stacks).",
+    "name": "I'll Support You!"
+  },
+  {
+    "id": 4991333,
+    "description": "While equipped to a Defender with Air affinity, when hit by an attack, grants critical damage +{0}% to all allies for 1 turn (up to 2 stacks).<br>While equipped to a character with Kirchen Bell tag, at the start of battle, boosts max HP by {1}% and restores HP to 100%.",
+    "name": "Imagination \"The Smile I Looked Up To\""
+  },
+  {
+    "id": 4991334,
+    "description": "While equipped to a Defender with Air affinity, when hit by an attack, grants critical damage +{0}% to all allies for 1 turn (up to 2 stacks).<br>While equipped to a character with Kirchen Bell tag, at the start of battle, boosts max HP by {1}% and restores HP to 100%.",
+    "name": "Imagination \"The Smile I Looked Up To\""
+  },
+  {
+    "id": 4991335,
+    "description": "While equipped to a Defender with Air affinity, when hit by an attack, grants critical damage +{0}% to all allies for 1 turn (up to 2 stacks).<br>While equipped to a character with Kirchen Bell tag, at the start of battle, boosts max HP by {1}% and restores HP to 100%.",
+    "name": "Imagination \"The Smile I Looked Up To\""
+  },
+  {
+    "id": 4991336,
+    "description": "While equipped to a Defender with Air affinity, when hit by an attack, grants critical damage +{0}% to all allies for 1 turn (up to 2 stacks).<br>While equipped to a character with Kirchen Bell tag, at the start of battle, boosts max HP by {1}% and restores HP to 100%.",
+    "name": "Imagination \"The Smile I Looked Up To\""
+  },
+  {
+    "id": 4991337,
+    "description": "While equipped to a Defender with Air affinity, when receiving an attack, grants all allies Critical Damage +{0}% for 1 turn (Max 2 stacks).<br>While equipped to a Kirchen Bell character, at battle start, boosts max HP by {1}% and restores HP to 100%.",
+    "name": "Imagination \"The Smile I Looked Up To\""
+  },
+  {
+    "id": 4991338,
+    "description": "While equipped to a Supporter with physical affinity, boosts skill power of all allies by {0}%.",
+    "name": "Imagination \"Looking Up at the Star-Filled Sky\""
+  },
+  {
+    "id": 4991339,
+    "description": "While equipped to a Supporter with physical affinity, boosts skill power of all allies by {0}%.",
+    "name": "Imagination \"Looking Up at the Star-Filled Sky\""
+  },
+  {
+    "id": 4991340,
+    "description": "While equipped to a Supporter with physical affinity, boosts skill power of all allies by {0}%.",
+    "name": "Imagination \"Looking Up at the Star-Filled Sky\""
+  },
+  {
+    "id": 4991341,
+    "description": "While equipped to a Supporter with physical affinity, boosts skill power of all allies by {0}%.",
+    "name": "Imagination \"Looking Up at the Star-Filled Sky\""
+  },
+  {
+    "id": 4991342,
+    "description": "While equipped to a Supporter with physical affinity, boosts skill power of all allies by {0}%.",
+    "name": "Imagination \"Looking Up at the Star-Filled Sky\""
+  },
+  {
+    "id": 4991343,
+    "description": "While equipped to a Supporter with magical affinity, boosts skill power of all allies by {0}%.",
+    "name": "Imagination \"Making a Wish Upon a Shooting Star\""
+  },
+  {
+    "id": 4991344,
+    "description": "While equipped to a Supporter with magical affinity, boosts skill power of all allies by {0}%.",
+    "name": "Imagination \"Making a Wish Upon a Shooting Star\""
+  },
+  {
+    "id": 4991345,
+    "description": "While equipped to a Supporter with magical affinity, boosts skill power of all allies by {0}%.",
+    "name": "Imagination \"Making a Wish Upon a Shooting Star\""
+  },
+  {
+    "id": 4991346,
+    "description": "While equipped to a Supporter with magical affinity, boosts skill power of all allies by {0}%.",
+    "name": "Imagination \"Making a Wish Upon a Shooting Star\""
+  },
+  {
+    "id": 4991347,
+    "description": "While equipped to a Supporter with magical affinity, boosts skill power of all allies by {0}%.",
+    "name": "Imagination \"Making a Wish Upon a Shooting Star\""
+  },
+  {
+    "id": 7000907,
+    "description": "Boosts the effectiveness of P.ATK Up and M.ATK Up granted to Attackers with Fire affinity by {0}%.",
+    "name": "P.ATK/M.ATK Buff Enhancement [Fire A] (1)"
+  },
+  {
+    "id": 7000908,
+    "description": "Boosts the effectiveness of P.ATK Up and M.ATK Up granted to Attackers with Fire affinity by {0}%.",
+    "name": "P.ATK/M.ATK Buff Enhancement [Fire A] (2)"
+  },
+  {
+    "id": 7000909,
+    "description": "Boosts the effectiveness of P.ATK Up and M.ATK Up granted to Attackers with Fire affinity by {0}%.",
+    "name": "P.ATK/M.ATK Buff Enhancement [Fire A] (3)"
+  },
+  {
+    "id": 7000910,
+    "description": "Boosts the effectiveness of P.ATK Up and M.ATK Up granted to Attackers with Fire affinity by {0}%.",
+    "name": "P.ATK/M.ATK Buff Enhancement [Fire A] (4)"
+  },
+  {
+    "id": 7000911,
+    "description": "Boosts the effectiveness of P.ATK Up and M.ATK Up granted to Attackers with Fire affinity by {0}%.",
+    "name": "P.ATK/M.ATK Buff Enhancement [Fire A] (5)"
+  },
+  {
+    "id": 7000912,
+    "description": "Boosts the effectiveness of P.ATK Up and M.ATK Up granted to Attackers with Ice affinity by {0}%.",
+    "name": "P.ATK/M.ATK Buff Enhancement [Ice A] (1)"
+  },
+  {
+    "id": 7000913,
+    "description": "Boosts the effectiveness of P.ATK Up and M.ATK Up granted to Attackers with Ice affinity by {0}%.",
+    "name": "P.ATK/M.ATK Buff Enhancement [Ice A] (2)"
+  },
+  {
+    "id": 7000914,
+    "description": "Boosts the effectiveness of P.ATK Up and M.ATK Up granted to Attackers with Ice affinity by {0}%.",
+    "name": "P.ATK/M.ATK Buff Enhancement [Ice A] (3)"
+  },
+  {
+    "id": 7000915,
+    "description": "Boosts the effectiveness of P.ATK Up and M.ATK Up granted to Attackers with Ice affinity by {0}%.",
+    "name": "P.ATK/M.ATK Buff Enhancement [Ice A] (4)"
+  },
+  {
+    "id": 7000916,
+    "description": "Boosts potency of P.ATK Up and M.ATK Up effects given to Attackers with Ice affinity by {0}%.",
+    "name": "P.ATK/M.ATK Buff Enhancement [Ice A] (5)"
+  },
+  {
+    "id": 7000917,
+    "description": "Boosts potency of P.ATK Up and M.ATK Up effects given to Attackers with Bolt affinity by {0}%.",
+    "name": "P.ATK/M.ATK Buff Enhancement [Bolt A] (1)"
+  },
+  {
+    "id": 7000918,
+    "description": "Boosts potency of P.ATK Up and M.ATK Up effects given to Attackers with Bolt affinity by {0}%.",
+    "name": "P.ATK/M.ATK Buff Enhancement [Bolt A] (2)"
+  },
+  {
+    "id": 7000919,
+    "description": "Boosts potency of P.ATK Up and M.ATK Up effects given to Attackers with Bolt affinity by {0}%.",
+    "name": "P.ATK/M.ATK Buff Enhancement [Bolt A] (3)"
+  },
+  {
+    "id": 7000920,
+    "description": "Boosts potency of P.ATK Up and M.ATK Up effects given to Attackers with Bolt affinity by {0}%.",
+    "name": "P.ATK/M.ATK Buff Enhancement [Bolt A] (4)"
+  },
+  {
+    "id": 7000921,
+    "description": "Boosts potency of P.ATK Up and M.ATK Up effects given to Attackers with Bolt affinity by {0}%.",
+    "name": "P.ATK/M.ATK Buff Enhancement [Bolt A] (5)"
+  },
+  {
+    "id": 7000922,
+    "description": "Boosts potency of P.ATK Up and M.ATK Up effects given to Attackers with Air affinity by {0}%.",
+    "name": "P.ATK/M.ATK Buff Enhancement [Air A] (1)"
+  },
+  {
+    "id": 7000923,
+    "description": "Boosts potency of P.ATK Up and M.ATK Up effects given to Attackers with Air affinity by {0}%.",
+    "name": "P.ATK/M.ATK Buff Enhancement [Air A] (2)"
+  },
+  {
+    "id": 7000924,
+    "description": "Boosts potency of P.ATK Up and M.ATK Up effects given to Attackers with Air affinity by {0}%.",
+    "name": "P.ATK/M.ATK Buff Enhancement [Air A] (3)"
+  },
+  {
+    "id": 7000925,
+    "description": "Boosts potency of P.ATK Up and M.ATK Up effects given to Attackers with Air affinity by {0}%.",
+    "name": "P.ATK/M.ATK Buff Enhancement [Air A] (4)"
+  },
+  {
+    "id": 7000926,
+    "description": "Boosts potency of P.ATK Up and M.ATK Up effects given to Attackers with Air affinity by {0}%.",
+    "name": "P.ATK/M.ATK Buff Enhancement [Air A] (5)"
+  },
+  {
+    "id": 7000927,
+    "description": "Boosts potency of P.ATK Up and M.ATK Up effects given to Attackers with Slash affinity by {0}%.",
+    "name": "P.ATK/M.ATK Buff Enhancement [Slash A] (1)"
+  },
+  {
+    "id": 7000928,
+    "description": "Boosts potency of P.ATK Up and M.ATK Up effects given to Attackers with Slash affinity by {0}%.",
+    "name": "P.ATK/M.ATK Buff Enhancement [Slash A] (2)"
+  },
+  {
+    "id": 7000929,
+    "description": "Boosts potency of P.ATK Up and M.ATK Up effects given to Attackers with Slash affinity by {0}%.",
+    "name": "P.ATK/M.ATK Buff Enhancement [Slash A] (3)"
+  },
+  {
+    "id": 7000930,
+    "description": "Boosts potency of P.ATK Up and M.ATK Up effects given to Attackers with Slash affinity by {0}%.",
+    "name": "P.ATK/M.ATK Buff Enhancement [Slash A] (4)"
+  },
+  {
+    "id": 7000931,
+    "description": "Boosts potency of P.ATK Up and M.ATK Up effects given to Attackers with Slash affinity by {0}%.",
+    "name": "P.ATK/M.ATK Buff Enhancement [Slash A] (5)"
+  },
+  {
+    "id": 7000932,
+    "description": "Boosts potency of P.ATK Up and M.ATK Up effects given to Attackers with Strike affinity by {0}%.",
+    "name": "P.ATK/M.ATK Buff Enhancement [Strike A] (1)"
+  },
+  {
+    "id": 7000933,
+    "description": "Boosts potency of P.ATK Up and M.ATK Up effects given to Attackers with Strike affinity by {0}%.",
+    "name": "P.ATK/M.ATK Buff Enhancement [Strike A] (2)"
+  },
+  {
+    "id": 7000934,
+    "description": "Boosts potency of P.ATK Up and M.ATK Up effects given to Attackers with Strike affinity by {0}%.",
+    "name": "P.ATK/M.ATK Buff Enhancement [Strike A] (3)"
+  },
+  {
+    "id": 7000935,
+    "description": "Boosts potency of P.ATK Up and M.ATK Up effects given to Attackers with Strike affinity by {0}%.",
+    "name": "P.ATK/M.ATK Buff Enhancement [Strike A] (4)"
+  },
+  {
+    "id": 7000936,
+    "description": "Boosts potency of P.ATK Up and M.ATK Up effects given to Attackers with Strike affinity by {0}%.",
+    "name": "P.ATK/M.ATK Buff Enhancement [Strike A] (5)"
+  },
+  {
+    "id": 7000937,
+    "description": "Boosts potency of P.ATK Up and M.ATK Up effects given to Attackers with Stab affinity by {0}%.",
+    "name": "P.ATK/M.ATK Buff Enhancement [Stab A] (1)"
+  },
+  {
+    "id": 7000938,
+    "description": "Boosts potency of P.ATK Up and M.ATK Up effects given to Attackers with Stab affinity by {0}%.",
+    "name": "P.ATK/M.ATK Buff Enhancement [Stab A] (2)"
+  },
+  {
+    "id": 7000939,
+    "description": "Boosts potency of P.ATK Up and M.ATK Up effects given to Attackers with Stab affinity by {0}%.",
+    "name": "P.ATK/M.ATK Buff Enhancement [Stab A] (3)"
+  },
+  {
+    "id": 7000940,
+    "description": "Boosts potency of P.ATK Up and M.ATK Up effects given to Attackers with Stab affinity by {0}%.",
+    "name": "P.ATK/M.ATK Buff Enhancement [Stab A] (4)"
+  },
+  {
+    "id": 7000941,
+    "description": "Boosts potency of P.ATK Up and M.ATK Up effects given to Attackers with Stab affinity by {0}%.",
+    "name": "P.ATK/M.ATK Buff Enhancement [Stab A] (5)"
+  },
+  {
+    "id": 26150003,
+    "description": "While in the Skill Evasion state, grants self Daze (1 time) when hit by Atelier Cannon.",
+    "name": ""
+  },
+  {
+    "id": 26278004,
+    "description": "Nullifies elemental resistance reduction for all elements except Air.",
+    "name": ""
+  },
+  {
+    "id": 600000813,
+    "description": "Reduces damage received by 20% for Sophie [Memory of Dreams].",
+    "name": "Sophie [Memory of Dreams] Damage Received Down"
+  },
+  {
+    "id": 600000816,
+    "description": "When forming a party with Sophie [Memory of Dreams] or Citrine [Miraculous Nine No.4], reduces damage received by 25%. (MAX 25%)",
+    "name": "Sophie [Memory of Dreams] or Citrine [Miraculous Nine No.4] Party Damage Reduction"
+  },
+  {
+    "id": 600000817,
+    "description": "When tagged with Promise & Teamwork, boosts skill power by 100%.",
+    "name": "Promise & Teamwork Skill Power Up"
   }
 ]

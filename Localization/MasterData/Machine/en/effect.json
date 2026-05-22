@@ -16758,5 +16758,190 @@
     "id": 814000058,
     "description": "Total Count: Nullifies HP recovery and positive effects for all allies, 10% slip damage, +2% damage dealt for all enemies.",
     "popup_text": ""
+  },
+  {
+    "id": 3000395,
+    "description": "Boosts P.ATK/M.ATK buffs given to Fire Attackers by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 3000396,
+    "description": "Boosts P.ATK/M.ATK buffs given to Ice Attackers by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 3000397,
+    "description": "Boosts P.ATK/M.ATK buffs given to Bolt Attackers by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 3000398,
+    "description": "Boosts P.ATK/M.ATK buffs given to Air Attackers by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 3000399,
+    "description": "Boosts P.ATK/M.ATK buffs given to Slash Attackers by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 3000400,
+    "description": "Boosts P.ATK/M.ATK buffs given to Strike Attackers by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 3000401,
+    "description": "Boosts P.ATK/M.ATK buffs given to Stab Attackers by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 5000106,
+    "description": "When equipped to a character with Promise & Teamwork tag, boosts skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001282,
+    "description": "While equipped to Sophie [Memory of Dreams] when HP is 85% or higher, increases burst gauge for all allies with Air affinity.",
+    "popup_text": "Burst Gauge Increase"
+  },
+  {
+    "id": 6001283,
+    "description": "Boosts critical damage for all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001284,
+    "description": "Reduces damage received from area attacks for all allies (fixed amount).",
+    "popup_text": ""
+  },
+  {
+    "id": 6001286,
+    "description": "Boosts Skill 2 damage for target ally.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001288,
+    "description": "Increases all enemies' damage received from Skill 2 for 1 attack.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001289,
+    "description": "Increases damage received from Skill 2.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001715,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001716,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001717,
+    "description": "",
+    "popup_text": "Burst Gauge Increase"
+  },
+  {
+    "id": 72001718,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001719,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001720,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001730,
+    "description": "",
+    "popup_text": "Burst Gauge Increased"
+  },
+  {
+    "id": 72001744,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 86150005,
+    "description": "When in Skill Evasion state and using an Atelier Cannon, grants self Daze for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 91002268,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002269,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002270,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002271,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002276,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002312,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000383,
+    "description": "While equipped to a Defender with Air affinity, grants Critical Damage Up to all allies for 1 turn (up to 2 stacks).",
+    "popup_text": ""
+  },
+  {
+    "id": 95000384,
+    "description": "Boosts own Max HP for characters with Kirchen Bell tag.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000385,
+    "description": "While equipped to a Supporter with physical affinity, boosts all allies' skill power.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000386,
+    "description": "While equipped to a Supporter with magical affinity, boosts all allies' skill power.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000388,
+    "description": "Restores own HP for characters with Kirchen Bell tag.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000911,
+    "description": "While equipped to Sophie [Memory of Dreams], reduces damage received.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000914,
+    "description": "When Sophie [Memory of Dreams] is in the party, reduces damage received.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000917,
+    "description": "While equipped to characters with Promise & Teamwork tag, boosts skill power.",
+    "popup_text": ""
   }
 ]

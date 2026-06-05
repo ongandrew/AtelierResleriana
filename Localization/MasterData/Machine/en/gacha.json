@@ -6663,5 +6663,151 @@
     "name": "Suelle Aspiring Elie Outfit Synthesis",
     "start_at": "2026-05-26T03:00:00Z",
     "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 3100007,
+    "description": "【NEW OUTFIT GUARANTEED AT STEP 7!】\n\nPlachta's new outfit makes its debut!\nThe appearance rate for the new outfit increases with each step!\nUntil 2026/06/12 11:59 (UTC+8)\n※This outfit cannot be equipped to Plachta [Curious Theorist].",
+    "end_at": "2026-06-12T03:00:00Z",
+    "name": "Plachta Violage Outfit Synthesis",
+    "start_at": "2026-05-29T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
+  },
+  {
+    "id": 2393,
+    "description": "Miruca makes her debut & PickUP!\nUntil 2026/06/29 11:59 (UTC+8)",
+    "end_at": "2026-06-29T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Sisterly Support Miruca LEGEND FES",
+    "name": "Sisterly Support Miruca LEGEND FES",
+    "start_at": "2026-06-05T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2394,
+    "description": "Paid Lodestar Gems only! Once per day limit! PU rate doubled!\nUntil 2026/06/19 11:59 (UTC+8)",
+    "end_at": "2026-06-19T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 23941,
+            "description": "PU rate x2!\n1 time left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Sisterly Support Miruca LEGEND FES [Once Daily・Paid Lodestar Gems Only]",
+    "name": "Sisterly Support Miruca LEGEND FES [Once Daily・Paid Lodestar Gems Only]",
+    "small_banner_label": "Once Daily!",
+    "start_at": "2026-06-05T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2395,
+    "description": "Wish 50 times with Paid Lodestar Gems to unlock an additional wish!\nUntil 2026/06/29 11:59 (UTC+8)",
+    "end_at": "2026-06-29T03:00:00Z",
+    "name": "Sisterly Support Miruca LEGEND FES [Paid Lodestar Gems Only]",
+    "small_banner_label": "Paid Only!",
+    "start_at": "2026-06-05T03:00:00Z",
+    "step_up_loop_description": "{} rounds remaining"
+  },
+  {
+    "id": 21016,
+    "description": "Star Prayer Stone Crown",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 210161,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Star Prayer Stone Crown",
+    "name": "Star Prayer Stone Crown",
+    "start_at": "2026-06-05T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 21017,
+    "description": "Star Prayer Stone Bud",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 210171,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Star Prayer Stone Bud",
+    "name": "Star Prayer Stone Bud",
+    "start_at": "2026-06-05T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 21018,
+    "description": "Star Prayer Stone Crown (Memoria)",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 210181,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Star Prayer Stone Crown (Memoria)",
+    "name": "Star Prayer Stone Crown (Memoria)",
+    "start_at": "2026-06-05T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 239501,
+    "description": "Limited to 5 wishes! Pick-Up rate doubled!\nEarn 16 medals! Until 2026/06/29 11:59 (UTC+8)",
+    "end_at": "2026-06-29T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10005,
+            "description": "Bonus included!\n{} wishes remaining!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "The Sisters' Caring Hearts Miruca LEGEND FES [Paid Limited]",
+    "name": "The Sisters' Caring Hearts Miruca LEGEND FES [Paid Limited]",
+    "small_banner_label": "Paid Limited!",
+    "start_at": "2026-06-05T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 3100008,
+    "description": "[New attire guaranteed at STEP 7!]\n\nShallotte's new attire makes its debut!\nThe appearance rate for the new attire increases with each STEP!\nUntil 2026/06/23 11:59 (UTC+8)\n",
+    "end_at": "2026-06-23T03:00:00Z",
+    "name": "Shallotte Glama Master Attire Coordination",
+    "start_at": "2026-06-09T03:00:00Z",
+    "step_up_loop_description": "{} loops remaining"
   }
 ]

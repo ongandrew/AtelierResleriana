@@ -2978,5 +2978,21 @@
   {
     "id": 60215005,
     "description": "- Removes multiple positive effects from all opponents"
+  },
+  {
+    "id": 60279001,
+    "description": "- When HP falls below a certain level, grants Regen to self and converts panels to burst panels\n- When defeating an opponent, boosts own damage dealt and inflicts Nullify Positive Effects on all opponents\n- After defeating an opponent, uses powerful attacks and skill targets become random\n- Removes some positive effects from targets\n- Delays turn\n- Inflicts Daze"
+  },
+  {
+    "id": 60015048,
+    "description": "- Heals allies\n- Inflicts Poison\n- Has a chance to inflict Paralysis\n- Counters when hit by attacks other than burst skills\n- When hit by a burst skill, reduces own damage dealt\n- Nullifies resistance reduction for all elements except Ice and Air"
+  },
+  {
+    "id": 60046036,
+    "description": "- At the start of battle, reduces own damage received\n- At the start of battle, boosts own critical rate received\n- After turn, boosts own damage dealt\n- Inflicts Darkness\n- Chance to delay turn\n- When hit by a burst skill, reduces own damage dealt\n- Nullifies resistance reduction for all elements except Ice and Air"
+  },
+  {
+    "id": 60046037,
+    "description": "- At the start of battle, reduces own damage received\n- At the start of battle, boosts own critical rate received\n- After turn, boosts own damage dealt\n- Inflicts Darkness\n- Chance to delay turn\n- When hit by a burst skill, reduces own damage dealt"
   }
 ]

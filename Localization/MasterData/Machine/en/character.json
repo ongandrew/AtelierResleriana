@@ -1373,5 +1373,21 @@
     "profile_voice_text": "It was Grandma and Plachta who showed me the path of alchemy.",
     "sort_name": "Sophie",
     "start_at": "2026-05-22T03:00:00Z"
+  },
+  {
+    "id": 32401,
+    "acquisition_text": "If you need strength, I'll lend you mine.\nWell... I can meet your expectations.",
+    "another_name": "Skilled Alchemist",
+    "description": "A quiet alchemist. Jurie's younger sister.\nShe cooperates with Ayesha and the others, handling various requests.\nHer honest nature sometimes makes her words come across as harsh.\nShe likes Shallotte's straightforward personality from their childhood friendship, and despite her sharp tongue, they get along well and often work together.",
+    "fullname": "Miruca Crotze",
+    "leader_skill": {
+      "description": "Bookworm characters gain P.ATK, M.ATK, P.DEF, and M.DEF +35%.",
+      "name": "Path Walked with Sister"
+    },
+    "name": "Miruca",
+    "overlay_name": "Miruca Crotze",
+    "profile_voice_text": "Miruca Crotze. Alchemist.\nIf you need weapons or armor made, I think I can help.",
+    "sort_name": "Miruca",
+    "start_at": "2026-06-05T03:00:00Z"
   }
 ]

@@ -1,0 +1,835 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "胞子の流れを探知。さらに西の方角",
+        "localizations": {
+          "en": "Spore trail detected. Moving further west."
+        }
+      },
+      "2072370017": {
+        "text": "ヤドヴィガ",
+        "localizations": {
+          "en": "Jadwiga"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "ありがとう。さあ、急ぐわよ！",
+        "localizations": {
+          "en": "Good. Come on, let's move!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "待ちな！\u3000なんだ、この強烈な「気」は……",
+        "localizations": {
+          "en": "Hold on! What is that... that overwhelming presence..."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "……！\u3000胞子量の減少を確認。\n誰かが、魔物を倒している？",
+        "localizations": {
+          "en": "...! Spore count dropping. Someone is defeating the monsters?"
+        }
+      },
+      "2072370017": {
+        "text": "ヤドヴィガ",
+        "localizations": {
+          "en": "Jadwiga"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "イヤ……これは……この気配は……！",
+        "localizations": {
+          "en": "No... this is... I know this presence...!"
+        }
+      },
+      "2072370017": {
+        "text": "キューン",
+        "localizations": {
+          "en": "Quinn"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "！！！",
+        "localizations": {
+          "en": "...!!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "うぬら、我に胞子を浴びせるとは……",
+        "localizations": {
+          "en": "You dare shower me in spores..."
+        }
+      },
+      "2072370017": {
+        "text": "ゼロ",
+        "localizations": {
+          "en": "Zero"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "このキノコども、我を支配できるとでも思ったか！\n愚か者めが！！",
+        "localizations": {
+          "en": "Did you mushrooms actually think you could control me?! Fools!!!"
+        }
+      },
+      "2072370017": {
+        "text": "ゼロ",
+        "localizations": {
+          "en": "Zero"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "ゼロ姉……！！",
+        "localizations": {
+          "en": "Zero...!!"
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "嘘だろ……キノコ相手にここまでやる？",
+        "localizations": {
+          "en": "No way... they went this far against a bunch of mushrooms?"
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "ゼロ、なにしに来たのよ！",
+        "localizations": {
+          "en": "Zero, what are you doing here?!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "決まっておろう。ヤドヴィガ、キューン、\nうぬらを連れ戻しに来たのじゃ",
+        "localizations": {
+          "en": "Isn't it obvious? I've come to bring Jadwiga and Quinn back."
+        }
+      },
+      "2072370017": {
+        "text": "ゼロ",
+        "localizations": {
+          "en": "Zero"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "あんたたちじゃ凶暴すぎるのよ。\n二人の面倒は私が見る。だから、帰ってもらうわ！",
+        "localizations": {
+          "en": "They're better off without you around. I'm looking after them now. So go home!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "ほう？\u3000皆がそう言っておると？",
+        "localizations": {
+          "en": "Oh? And everyone agrees with that, do they?"
+        }
+      },
+      "2072370017": {
+        "text": "ゼロ",
+        "localizations": {
+          "en": "Zero"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "ええ、そうよ。当たり前じゃない！",
+        "localizations": {
+          "en": "Yes. Obviously!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "ヤドヴィガ。パルメ族の使命を忘れたというのか？",
+        "localizations": {
+          "en": "Jadwiga. Have you forgotten your duty to the Palme?"
+        }
+      },
+      "2072370017": {
+        "text": "ゼロ",
+        "localizations": {
+          "en": "Zero"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "……否",
+        "localizations": {
+          "en": "...No."
+        }
+      },
+      "2072370017": {
+        "text": "ヤドヴィガ",
+        "localizations": {
+          "en": "Jadwiga"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "キューン！！！",
+        "localizations": {
+          "en": "Quinn!!!"
+        }
+      },
+      "2072370017": {
+        "text": "ゼロ",
+        "localizations": {
+          "en": "Zero"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "ひっ……！",
+        "localizations": {
+          "en": "Eek...!"
+        }
+      },
+      "2072370017": {
+        "text": "キューン",
+        "localizations": {
+          "en": "Quinn"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "どうなんじゃ？\nヴァレリアが言っていることは、本当かのう？",
+        "localizations": {
+          "en": "Well? Is what Valeria saying... true?"
+        }
+      },
+      "2072370017": {
+        "text": "ゼロ",
+        "localizations": {
+          "en": "Zero"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "私は……わた、し……は……ここ、に……",
+        "localizations": {
+          "en": "I... I... I want to... stay here..."
+        }
+      },
+      "2072370017": {
+        "text": "キューン",
+        "localizations": {
+          "en": "Quinn"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "やめて",
+        "localizations": {
+          "en": "Stop."
+        }
+      },
+      "2072370017": {
+        "text": "ヤドヴィガ",
+        "localizations": {
+          "en": "Jadwiga"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "何様のつもりじゃ？\u3000ヤドヴィガ",
+        "localizations": {
+          "en": "Who do you think you are, Jadwiga?"
+        }
+      },
+      "2072370017": {
+        "text": "ゼロ",
+        "localizations": {
+          "en": "Zero"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "キューン。正直な気持ちを、求める",
+        "localizations": {
+          "en": "Quinn. Tell us how you truly feel."
+        }
+      },
+      "2072370017": {
+        "text": "ヤドヴィガ",
+        "localizations": {
+          "en": "Jadwiga"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "大丈夫。私がいる",
+        "localizations": {
+          "en": "It is all right. I am here."
+        }
+      },
+      "2072370017": {
+        "text": "ヤドヴィガ",
+        "localizations": {
+          "en": "Jadwiga"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "…………",
+        "localizations": {
+          "en": "..."
+        }
+      },
+      "2072370017": {
+        "text": "キューン",
+        "localizations": {
+          "en": "Quinn"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "ここに、いたい……ここにいたいよおっ！",
+        "localizations": {
+          "en": "I want to stay here... I want to stay here!"
+        }
+      },
+      "2072370017": {
+        "text": "キューン",
+        "localizations": {
+          "en": "Quinn"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "……承知。ならば",
+        "localizations": {
+          "en": "...Understood. Then—"
+        }
+      },
+      "2072370017": {
+        "text": "ヤドヴィガ",
+        "localizations": {
+          "en": "Jadwiga"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "キューンの笑顔を、私は守る。\n私も、ここに残る！",
+        "localizations": {
+          "en": "I will protect Quinn's smile. I am staying too!"
+        }
+      },
+      "2072370017": {
+        "text": "ヤドヴィガ",
+        "localizations": {
+          "en": "Jadwiga"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "抜かしおる……！！",
+        "localizations": {
+          "en": "You dare...!!!"
+        }
+      },
+      "2072370017": {
+        "text": "ゼロ",
+        "localizations": {
+          "en": "Zero"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "二人とも、よく言ったわ！",
+        "localizations": {
+          "en": "Well said, both of you!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "ヴァレリアああああ！\u3000皆を誑かしおって！\nお仕置きじゃ！",
+        "localizations": {
+          "en": "Valeria! You've led them astray! Time for your punishment!"
+        }
+      },
+      "2072370017": {
+        "text": "ゼロ",
+        "localizations": {
+          "en": "Zero"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "くっ……！\u3000\nやっぱり、力が違いすぎる……！",
+        "localizations": {
+          "en": "Ugh...! She's just too strong...!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "ぐっ……！",
+        "localizations": {
+          "en": "Ngh...!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "……やめて",
+        "localizations": {
+          "en": "...Stop."
+        }
+      },
+      "2072370017": {
+        "text": "キューン",
+        "localizations": {
+          "en": "Quinn"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "はあああ！！",
+        "localizations": {
+          "en": "Haaaaah!!"
+        }
+      },
+      "2072370017": {
+        "text": "ゼロ",
+        "localizations": {
+          "en": "Zero"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "があっ！！",
+        "localizations": {
+          "en": "Aaagh!!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "ヴァレリア姉ちゃんを傷つけないで！！",
+        "localizations": {
+          "en": "Don't you hurt her!!"
+        }
+      },
+      "2072370017": {
+        "text": "キューン",
+        "localizations": {
+          "en": "Quinn"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "ぬっ！！",
+        "localizations": {
+          "en": "Wha—!!"
+        }
+      },
+      "2072370017": {
+        "text": "ゼロ",
+        "localizations": {
+          "en": "Zero"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "はあ、はあ……私だって……",
+        "localizations": {
+          "en": "Hah... hah... I'm not just..."
+        }
+      },
+      "2072370017": {
+        "text": "キューン",
+        "localizations": {
+          "en": "Quinn"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "守られてばかりじゃない……みんなを、守るんだ！",
+        "localizations": {
+          "en": "I'm not just someone who gets protected... I protect people too!"
+        }
+      },
+      "2072370017": {
+        "text": "キューン",
+        "localizations": {
+          "en": "Quinn"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "キューン……",
+        "localizations": {
+          "en": "Quinn..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "私……分かったんだ。\n誰かを守りたいって思ったとき、力が湧いてくるの",
+        "localizations": {
+          "en": "I finally understand. When I want to protect someone... that's when my strength comes."
+        }
+      },
+      "2072370017": {
+        "text": "キューン",
+        "localizations": {
+          "en": "Quinn"
+        }
+      }
+    }
+  },
+  {
+    "id": 43,
+    "properties": {
+      "999008199": {
+        "text": "だってきっと、それが私の存在意義だから！",
+        "localizations": {
+          "en": "Because that's why I exist!"
+        }
+      },
+      "2072370017": {
+        "text": "キューン",
+        "localizations": {
+          "en": "Quinn"
+        }
+      }
+    }
+  },
+  {
+    "id": 44,
+    "properties": {
+      "999008199": {
+        "text": "面白い！\u3000うぬのその覚悟……しかと見せてみよ！",
+        "localizations": {
+          "en": "Interesting! Show me that resolve of yours — for real!"
+        }
+      },
+      "2072370017": {
+        "text": "ゼロ",
+        "localizations": {
+          "en": "Zero"
+        }
+      }
+    }
+  },
+  {
+    "id": 45,
+    "properties": {
+      "999008199": {
+        "text": "キューン、右へ回避！\u3000次は上から！",
+        "localizations": {
+          "en": "Quinn, dodge right! The next attack comes from above!"
+        }
+      },
+      "2072370017": {
+        "text": "ヤドヴィガ",
+        "localizations": {
+          "en": "Jadwiga"
+        }
+      }
+    }
+  },
+  {
+    "id": 46,
+    "properties": {
+      "999008199": {
+        "text": "うんっ！",
+        "localizations": {
+          "en": "Got it!"
+        }
+      },
+      "2072370017": {
+        "text": "キューン",
+        "localizations": {
+          "en": "Quinn"
+        }
+      }
+    }
+  },
+  {
+    "id": 47,
+    "properties": {
+      "999008199": {
+        "text": "ふははは！\u3000良いぞ、良いぞ！\u3000\nならば、こちらも少し本気でいくぞ！！",
+        "localizations": {
+          "en": "Hahaha! Yes, yes! Now we're talking! Let's see how you handle me going all out!!"
+        }
+      },
+      "2072370017": {
+        "text": "ゼロ",
+        "localizations": {
+          "en": "Zero"
+        }
+      }
+    }
+  },
+  {
+    "id": 48,
+    "properties": {
+      "999008199": {
+        "text": "「九偉人」の２番目。戦うことが大好き。\n兄のヘルトと共に、世界を見て回っている途中",
+        "localizations": {
+          "en": "The second of the Miraculous Nine. Lives to fight. Currently traveling the world alongside her brother Held."
+        }
+      },
+      "2072370017": {
+        "text": "ゼロ",
+        "localizations": {
+          "en": "Zero"
+        }
+      }
+    }
+  }
+]

@@ -463,5 +463,15 @@
     "id": 1025,
     "description": "Boosts Skill 2 damage of the ally with the highest M. ATK by {0}% for 2 turns.",
     "name": "Gentle Breeze Aroma"
+  },
+  {
+    "id": 1026,
+    "description": "Restores all allies' HP by 15% and removes {0} negative effects.",
+    "name": "Lebenshtrahl"
+  },
+  {
+    "id": 1027,
+    "description": "Restores all allies' HP by 10% and removes {0} negative effects.",
+    "name": "Lebenshtrahl"
   }
 ]

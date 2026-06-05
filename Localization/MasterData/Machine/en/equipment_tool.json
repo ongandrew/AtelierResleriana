@@ -1588,5 +1588,10 @@
     "id": 1268,
     "description": "Reduces damage received from area attacks by {0}% for all allies (fixed).",
     "name": "Solid Armor Talisman"
+  },
+  {
+    "id": 1269,
+    "description": "While equipped to Miruca [Forging Alchemist], the critical rate boost effects of Mighty Burst and Full Auto are also granted to characters without the Bookworm tag.",
+    "name": "Chronicle Bunker"
   }
 ]

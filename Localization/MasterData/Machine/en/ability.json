@@ -14753,5 +14753,135 @@
     "id": 600000817,
     "description": "When tagged with Promise & Teamwork, boosts skill power by 100%.",
     "name": "Promise & Teamwork Skill Power Up"
+  },
+  {
+    "id": 26279001,
+    "description": "When HP drops to 50% or below, grants self Regeneration ({0}%/3 times) and creates {1} burst panels.\nWhen defeating an enemy, grants self Damage Dealt Up ({2}%/permanent) and grants all enemies Nullify Positive Effects (permanent). Afterwards, will target random enemies and reselect actions.",
+    "name": ""
+  },
+  {
+    "id": 26279002,
+    "description": "When HP drops to 50% or below, grants self Regeneration ({0}%/3 times) and creates {1} burst panels.\nWhen defeating an enemy, grants self Damage Dealt Up ({2}%/permanent) and grants all enemies Nullify Positive Effects (permanent). Afterwards, will target random enemies and reselect actions.",
+    "name": ""
+  },
+  {
+    "id": 26279003,
+    "description": "When HP drops to 50% or below, grants self Regeneration ({0}%/3 times) and creates {1} burst panels.\nWhen defeating an enemy, grants self Damage Dealt Up ({2}%/permanent) and grants all enemies Nullify Positive Effects (permanent). Afterwards, will target random enemies and reselect actions.",
+    "name": ""
+  },
+  {
+    "id": 301351,
+    "description": "While equipped to Miruca [Forge Alchemist], the critical rate boost effects of Mighty Burst and Full Auto are also granted to characters without the Bookworm tag.",
+    "name": "Chronicle Bunker"
+  },
+  {
+    "id": 500730,
+    "description": "Boosts skill damage by {0}% for characters with the Bookworm tag.",
+    "name": ""
+  },
+  {
+    "id": 500731,
+    "description": "Boosts skill damage by {0}% for characters with the Bookworm tag.",
+    "name": ""
+  },
+  {
+    "id": 500732,
+    "description": "Boosts skill damage by {0}% for characters with the Bookworm tag.",
+    "name": ""
+  },
+  {
+    "id": 500733,
+    "description": "Boosts skill damage by {0}% for characters with the Bookworm tag.",
+    "name": ""
+  },
+  {
+    "id": 500734,
+    "description": "Boosts skill damage by {0}% for characters with the Bookworm tag.",
+    "name": ""
+  },
+  {
+    "id": 500735,
+    "description": "Boosts skill damage by {0}% for characters with the Bookworm tag.",
+    "name": ""
+  },
+  {
+    "id": 500736,
+    "description": "Boosts skill damage by {0}% for characters with the Bookworm tag.",
+    "name": ""
+  },
+  {
+    "id": 500737,
+    "description": "Boosts skill damage by {0}% for characters with the Bookworm tag.",
+    "name": ""
+  },
+  {
+    "id": 1980249,
+    "description": "Bookworm tag grants P.ATK, M.ATK, P.DEF, and M.DEF +35%.",
+    "name": "Path Walked With My Sister"
+  },
+  {
+    "id": 1990555,
+    "description": "Converts own burst skill to a gauge system. The burst gauge can store 3 charges.<br><br>Converts the burst skills of all allies with Ice affinity to a gauge system. Their burst gauge can store 2 charges.<br><br>After a party member performs a critical attack, increases own burst gauge by {0}% and increases the burst gauge of all allies with Ice affinity by {1}%.",
+    "name": "Freezing Fighting Spirit"
+  },
+  {
+    "id": 1990556,
+    "description": "While a party member has the Adventurer tag, boosts potency of buff effects given by {0}%.<br><br>After a party member uses a burst skill, grants all allies with Ice affinity Critical Damage +{1}% and M.ATK +{2}%. (All effects capped at 150%)",
+    "name": "Let's Finish This Quickly"
+  },
+  {
+    "id": 4991353,
+    "description": "While equipped to a Supporter with Ice affinity, boosts all allies' critical damage by {0}%.<br>While equipped to a character with the Laid-back tag, boosts all allies' P.DEF and M.DEF by {1}%.",
+    "name": "Imagination \"A Moment of Leisure\""
+  },
+  {
+    "id": 4991354,
+    "description": "While equipped to a Supporter with Ice affinity, boosts all allies' critical damage by {0}%.<br>While equipped to a character with the Laid-back tag, boosts all allies' P.DEF and M.DEF by {1}%.",
+    "name": "Imagination \"A Moment of Leisure\""
+  },
+  {
+    "id": 4991355,
+    "description": "While equipped to a Supporter with Ice affinity, boosts all allies' critical damage by {0}%.<br>While equipped to a character with the Laid-back tag, boosts all allies' P.DEF and M.DEF by {1}%.",
+    "name": "Imagination \"A Moment of Leisure\""
+  },
+  {
+    "id": 4991356,
+    "description": "While equipped to a Supporter with Ice affinity, boosts all allies' critical damage by {0}%.<br>While equipped to a character with the Laid-back tag, boosts all allies' P.DEF and M.DEF by {1}%.",
+    "name": "Imagination \"A Moment of Leisure\""
+  },
+  {
+    "id": 4991357,
+    "description": "While equipped to a Supporter with Ice affinity, boosts all allies' critical damage by {0}%.<br>While equipped to a character with the Laid-back tag, boosts all allies' P.DEF and M.DEF by {1}%.",
+    "name": "Imagination \"A Moment of Leisure\""
+  },
+  {
+    "id": 26015003,
+    "description": "Counters when receiving a non-burst skill attack.\nWhen receiving a burst skill attack, grants self Damage Dealt -{1}%. (Capped at 25%)",
+    "name": ""
+  },
+  {
+    "id": 26046001,
+    "description": "At the start of a wave, grants self Damage Received Down (20%) and Critical Rate Received Up (10%).\nWhen receiving a burst skill attack, grants self Damage Dealt -{2}%. (Capped at 25%)",
+    "name": ""
+  },
+  {
+    "id": 26046002,
+    "description": "At the start of a wave, grants self Damage Received Down (20%) and Critical Rate Received Up (10%).\nWhen receiving a burst skill attack, grants self Damage Dealt -{2}%. (Capped at 25%)",
+    "name": ""
+  },
+  {
+    "id": 600000819,
+    "description": "Boosts potency of positive effects given by Miruca [Forging Alchemist] by 150%.",
+    "name": "Miruca [Forging Alchemist] Positive Effect Potency Up"
+  },
+  {
+    "id": 600000820,
+    "description": "When Miruca [Forging Alchemist] or Sophie [Memory of Dreams] is in the party, reduces damage received by 25% (max 25%).",
+    "name": "Miruca [Forging Alchemist] or Sophie [Memory of Dreams] Party Damage Down"
+  },
+  {
+    "id": 600000821,
+    "description": "When self has Quiet tag, boosts skill power by 100%.",
+    "name": "Quiet Tag Skill Power Up"
   }
 ]

@@ -1,0 +1,580 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "ここがクア州の海辺……\n船がたくさんあって、思ったより賑やかね",
+        "localizations": {
+          "en": "So this is the coast of Kua Province... There are so many ships. It's livelier than I expected."
+        }
+      },
+      "2072370017": {
+        "text": "ユリエ",
+        "localizations": {
+          "en": "Jurie"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "あれ？\u3000ミルカとユリエさんだ！\nおーい！",
+        "localizations": {
+          "en": "Hey, is that Miruca and Jurie? Over here!"
+        }
+      },
+      "2072370017": {
+        "text": "？？？",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "シャル……！\u3000どうしてここに……というか、\n大きい声で呼ばないでよ……",
+        "localizations": {
+          "en": "Shallotte...! What are you doing here... and please don't shout like that..."
+        }
+      },
+      "2072370017": {
+        "text": "ミルカ",
+        "localizations": {
+          "en": "Miruca"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "ミルカさん、ユリエさん、こんにちは。\nマリオンさんから旅に出たって聞いてますよ",
+        "localizations": {
+          "en": "Miruca, Jurie, hello! Marion mentioned you'd both set out on a journey."
+        }
+      },
+      "2072370017": {
+        "text": "シャリステラ",
+        "localizations": {
+          "en": "Shallistera"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "ミルカも水遊びに誘おうと思ったのに、\nいなかったからさー",
+        "localizations": {
+          "en": "I was going to invite you to come play in the water with us, but you were already gone!"
+        }
+      },
+      "2072370017": {
+        "text": "シャルロッテ",
+        "localizations": {
+          "en": "Shallotte"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "水遊びのために、わざわざ二人でクア州まで来たの？",
+        "localizations": {
+          "en": "You came all the way to Kua Province just to play in the water?"
+        }
+      },
+      "2072370017": {
+        "text": "ミルカ",
+        "localizations": {
+          "en": "Miruca"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "えっと、クア州に来たのは――",
+        "localizations": {
+          "en": "Well, the reason we came to Kua Province is—"
+        }
+      },
+      "2072370017": {
+        "text": "シャリステラ",
+        "localizations": {
+          "en": "Shallistera"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "船で海を渡るためなんだ",
+        "localizations": {
+          "en": "To sail across the sea."
+        }
+      },
+      "2072370017": {
+        "text": "コルテス",
+        "localizations": {
+          "en": "Cortes"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "あら、コルテス。\nそういえば、クア州は造船が盛んらしいわね",
+        "localizations": {
+          "en": "Oh, Cortes. Now that you mention it, I heard Kua Province is known for shipbuilding."
+        }
+      },
+      "2072370017": {
+        "text": "ユリエ",
+        "localizations": {
+          "en": "Jurie"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "ああ。船を貸してもらえるっていうから、\nそれを使ってヴィアベル州まで行ってみようと思ってな",
+        "localizations": {
+          "en": "That's right. Someone's lending us a ship, so we figured we'd use it to head over to Viabel Province."
+        }
+      },
+      "2072370017": {
+        "text": "コルテス",
+        "localizations": {
+          "en": "Cortes"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "ヴィアベル州の海も、とっても綺麗なので\n遊びに行こうって話になって",
+        "localizations": {
+          "en": "The waters around Viabel Province are supposed to be beautiful, so we thought it'd be fun to visit."
+        }
+      },
+      "2072370017": {
+        "text": "シャリステラ",
+        "localizations": {
+          "en": "Shallistera"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "ヴィアベル州……ランターナ王国内の群島ね。\n私たちの次の目的地もそこよ",
+        "localizations": {
+          "en": "Viabel Province... the archipelago within Lantarna. That's our next destination too, as it happens."
+        }
+      },
+      "2072370017": {
+        "text": "ユリエ",
+        "localizations": {
+          "en": "Jurie"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "おお！\u3000じゃあ一緒に行こうよ！\nみんなで船に乗って冒険だー！",
+        "localizations": {
+          "en": "Oh! Then let's go together! We can all sail there and make an adventure of it!"
+        }
+      },
+      "2072370017": {
+        "text": "シャルロッテ",
+        "localizations": {
+          "en": "Shallotte"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "いいの？\u3000それならお願いしたいわ。\nミルカも二人に会えて嬉しそうだし",
+        "localizations": {
+          "en": "Are you sure? I'd really appreciate that. Miruca looks happy to see you both too."
+        }
+      },
+      "2072370017": {
+        "text": "ユリエ",
+        "localizations": {
+          "en": "Jurie"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "姉さん、適当なこと言わないで",
+        "localizations": {
+          "en": "Don't put words in my mouth, Sis."
+        }
+      },
+      "2072370017": {
+        "text": "ミルカ",
+        "localizations": {
+          "en": "Miruca"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "わたしも、みんなで一緒に行けたら嬉しいです！\nコルテス兄さま、いいですか？",
+        "localizations": {
+          "en": "I'd love it if we could all go together! Is that alright with you?"
+        }
+      },
+      "2072370017": {
+        "text": "シャリステラ",
+        "localizations": {
+          "en": "Shallistera"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "ああ、もちろんだ。\nもうすぐ出発するから、荷物をまとめておけよ",
+        "localizations": {
+          "en": "Of course. We're leaving soon, so get your things ready."
+        }
+      },
+      "2072370017": {
+        "text": "コルテス",
+        "localizations": {
+          "en": "Cortes"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "ありがとう、みんな",
+        "localizations": {
+          "en": "Thank you, everyone."
+        }
+      },
+      "2072370017": {
+        "text": "ユリエ",
+        "localizations": {
+          "en": "Jurie"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "ねぇロッテ、浮き輪は持ってきた？",
+        "localizations": {
+          "en": "Hey Lotte, did you bring floaties?"
+        }
+      },
+      "2072370017": {
+        "text": "シャリステラ",
+        "localizations": {
+          "en": "Shallistera"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "もちろん！\u3000たくさん船に積んどいたよ！",
+        "localizations": {
+          "en": "Obviously! I loaded a whole bunch onto the ship!"
+        }
+      },
+      "2072370017": {
+        "text": "シャルロッテ",
+        "localizations": {
+          "en": "Shallotte"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "……もしかして、手作り？",
+        "localizations": {
+          "en": "...Did you make those yourself?"
+        }
+      },
+      "2072370017": {
+        "text": "ミルカ",
+        "localizations": {
+          "en": "Miruca"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "うん！\u3000錬金術で作った「一瞬で膨らむ浮き輪」だよ！\n船が沈みそうになっても、それに掴まれば大丈夫！",
+        "localizations": {
+          "en": "Yep! They're alchemy-crafted \"Instant-Inflate Floaties!\" Even if the ship starts to sink, just grab one and you'll be fine!"
+        }
+      },
+      "2072370017": {
+        "text": "シャルロッテ",
+        "localizations": {
+          "en": "Shallotte"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "冗談でもやめてくれ。\n船が転覆したらシャレにならん",
+        "localizations": {
+          "en": "Please don't joke about that. A capsized ship is no laughing matter."
+        }
+      },
+      "2072370017": {
+        "text": "コルテス",
+        "localizations": {
+          "en": "Cortes"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "コルテス、操縦は任せていいのね？",
+        "localizations": {
+          "en": "Cortes, I can count on you to handle the sailing?"
+        }
+      },
+      "2072370017": {
+        "text": "ユリエ",
+        "localizations": {
+          "en": "Jurie"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "任せとけ。\n危険だと思ったら、すぐ引き返す",
+        "localizations": {
+          "en": "Leave it to me. If things start looking dangerous, I'll turn back right away."
+        }
+      },
+      "2072370017": {
+        "text": "コルテス",
+        "localizations": {
+          "en": "Cortes"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "ヴィアベル州の海は、どんな所なの？",
+        "localizations": {
+          "en": "What's the water like around Viabel Province?"
+        }
+      },
+      "2072370017": {
+        "text": "ミルカ",
+        "localizations": {
+          "en": "Miruca"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "水が澄んでて、魚も多い。\n泳ぐにはちょうどいいだろう",
+        "localizations": {
+          "en": "Clear as glass, and plenty of fish. Perfect for swimming."
+        }
+      },
+      "2072370017": {
+        "text": "コルテス",
+        "localizations": {
+          "en": "Cortes"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "あたし、魚掴み取りしたい！",
+        "localizations": {
+          "en": "I want to try catching fish with my bare hands!"
+        }
+      },
+      "2072370017": {
+        "text": "シャルロッテ",
+        "localizations": {
+          "en": "Shallotte"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "……シャル、また変なこと考えてる",
+        "localizations": {
+          "en": "...There you go again with another strange idea, Shallotte."
+        }
+      },
+      "2072370017": {
+        "text": "ミルカ",
+        "localizations": {
+          "en": "Miruca"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "えー、いいじゃん！\u3000\nみんなで競争しようよ",
+        "localizations": {
+          "en": "Oh come on, it'll be fun! Let's all race each other!"
+        }
+      },
+      "2072370017": {
+        "text": "シャルロッテ",
+        "localizations": {
+          "en": "Shallotte"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "ふふ。まあ、ケガだけはしないように",
+        "localizations": {
+          "en": "Hehe. Just try not to get hurt."
+        }
+      },
+      "2072370017": {
+        "text": "ユリエ",
+        "localizations": {
+          "en": "Jurie"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "明るく快活な錬金術士。ミルカの幼馴染。\n愛称はシャリステラと同じ「シャリー」",
+        "localizations": {
+          "en": "A bright and cheerful alchemist, and Miruca's childhood friend. Goes by the nickname \"Shallie,\" just like Shallistera."
+        }
+      },
+      "2072370017": {
+        "text": "シャルロッテ・エルミナス",
+        "localizations": {
+          "en": "Shallotte Elminus"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "とある使命を背負った錬金術士。\n愛称はシャルロッテと同じ「シャリー」",
+        "localizations": {
+          "en": "An alchemist carrying a certain mission. Goes by the nickname \"Shallie,\" just like Shallotte."
+        }
+      },
+      "2072370017": {
+        "text": "シャリステラ",
+        "localizations": {
+          "en": "Shallistera"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "船を守る一族の戦士。シャリステラの幼馴染。\n社交的で頭の回転が速く、頼りがいがあるしっかり者",
+        "localizations": {
+          "en": "A warrior from a seafaring clan, and Shallistera's childhood friend. Sociable and quick-witted, he's someone you can always count on."
+        }
+      },
+      "2072370017": {
+        "text": "コルテス",
+        "localizations": {
+          "en": "Cortes"
+        }
+      }
+    }
+  }
+]

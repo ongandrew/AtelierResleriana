@@ -16943,5 +16943,190 @@
     "id": 120000917,
     "description": "While equipped to characters with Promise & Teamwork tag, boosts skill power.",
     "popup_text": ""
+  },
+  {
+    "id": 6001287,
+    "description": "Removes negative effects from target ally.",
+    "popup_text": ""
+  },
+  {
+    "id": 86279001,
+    "description": "Grants self Regeneration for 3 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 86279002,
+    "description": "Converts own turn to a burst panel.",
+    "popup_text": ""
+  },
+  {
+    "id": 86279003,
+    "description": "Grants Nullify Positive Effects to all enemies.",
+    "popup_text": ""
+  },
+  {
+    "id": 86279004,
+    "description": "Grants self Damage Dealt Up (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 86279005,
+    "description": "Redraws own turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 86279006,
+    "description": "Grants self defeat determination status change (permanent).",
+    "popup_text": ""
+  },
+  {
+    "id": 5000108,
+    "description": "When self has Bookworm tag, grants Skill Damage Up.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001291,
+    "description": "Grants status change for Miruca exclusive equipment effect activation determination.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001745,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001746,
+    "description": "",
+    "popup_text": "Burst Gauge Increase"
+  },
+  {
+    "id": 72001747,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001748,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001752,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 86015003,
+    "description": "When receiving an attack that is not a Burst Skill, counter.",
+    "popup_text": ""
+  },
+  {
+    "id": 86046001,
+    "description": "When receiving a Burst Skill, grants Damage Dealt Down to self (max 25%).",
+    "popup_text": ""
+  },
+  {
+    "id": 86046002,
+    "description": "Boosts own critical rate received by {0}%.",
+    "popup_text": ""
+  },
+  {
+    "id": 91002313,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002314,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002315,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002316,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002317,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002318,
+    "description": "",
+    "popup_text": "Burst Gauge Increase"
+  },
+  {
+    "id": 91002319,
+    "description": "",
+    "popup_text": "Burst Gauge Increase"
+  },
+  {
+    "id": 91002320,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002321,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002325,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002326,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002327,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002330,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002331,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000390,
+    "description": "While equipped to a Supporter with Ice affinity, boosts critical damage for all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000391,
+    "description": "While character has Laid-back tag, boosts P.DEF for all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000392,
+    "description": "While character has Laid-back tag, boosts M.DEF for all allies.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000918,
+    "description": "While using Miruca [Forging Alchemist], boosts positive effect potency given.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000919,
+    "description": "While Miruca [Forging Alchemist] is in the party, reduces damage received.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000920,
+    "description": "While character has Quiet tag, boosts skill power.",
+    "popup_text": ""
   }
 ]

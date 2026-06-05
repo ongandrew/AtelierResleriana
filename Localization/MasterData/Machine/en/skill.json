@@ -41086,5 +41086,305 @@
     "description": "Inflicts skill target with Darkness for 3 turns.",
     "name": "Shadow Curse",
     "summary": ""
+  },
+  {
+    "id": 32190,
+    "description": "Restores all allies' HP by 15% and removes {0} negative effects.",
+    "name": "Lebenstral",
+    "summary": ""
+  },
+  {
+    "id": 32191,
+    "description": "Restores all allies' HP by 10% and removes {0} negative effects.",
+    "name": "Lebenstral",
+    "summary": ""
+  },
+  {
+    "id": 32005462,
+    "description": "After attacking, delays target's turn by {0} and inflicts Daze (100% chance for 1 turn).",
+    "name": "Rabidus Percutio",
+    "summary": ""
+  },
+  {
+    "id": 32005463,
+    "description": "No additional effects.",
+    "name": "Vulnus",
+    "summary": ""
+  },
+  {
+    "id": 32005464,
+    "description": "After attacking, delays target's turn by {0} and increases damage received by {1}% for 1 turn.",
+    "name": "Vulnit Celeritas",
+    "summary": ""
+  },
+  {
+    "id": 32005465,
+    "description": "After attacking, increases own damage dealt by {0}% for 2 turns and removes {1} positive effects from target.",
+    "name": "Agilis Ruptura",
+    "summary": ""
+  },
+  {
+    "id": 32005466,
+    "description": "After attacking, delays target's turn by {0} and inflicts Daze (100% chance for 1 turn).",
+    "name": "Rabidus Percutio",
+    "summary": ""
+  },
+  {
+    "id": 32005467,
+    "description": "No additional effects.",
+    "name": "Vulnus",
+    "summary": ""
+  },
+  {
+    "id": 32005468,
+    "description": "After attacking, delays target's turn by {0} and increases damage received by {1}% for 1 turn.",
+    "name": "Vulnit Celeritas",
+    "summary": ""
+  },
+  {
+    "id": 32005469,
+    "description": "After attacking, increases own damage dealt by {0}% for 2 turns and removes {1} positive effects from target.",
+    "name": "Agilis Ruptura",
+    "summary": ""
+  },
+  {
+    "id": 32005512,
+    "description": "After attacking, delays target's turn by {0} and inflicts Daze (100% chance for 1 turn).",
+    "name": "Rabidus Percutio",
+    "summary": ""
+  },
+  {
+    "id": 32005513,
+    "description": "No additional effects.",
+    "name": "Vulnus",
+    "summary": ""
+  },
+  {
+    "id": 32005514,
+    "description": "After attacking, delays target's turn by {0} and increases damage received by {1}% for 1 turn.",
+    "name": "Vulnit Celeritas",
+    "summary": ""
+  },
+  {
+    "id": 32005515,
+    "description": "After attacking, increases own damage dealt by {0}% for 2 turns and removes {1} positive effects from target.",
+    "name": "Agilis Ruptura",
+    "summary": ""
+  },
+  {
+    "id": 11003846,
+    "description": "Grants critical damage +{0}% and M.ATK +{1}% to all allies with Ice affinity (all effects max 30%).",
+    "name": "Frost Shot",
+    "summary": "Boosts critical damage and M.ATK for all allies with Ice affinity."
+  },
+  {
+    "id": 11003847,
+    "description": "Grants critical damage +{0}% and M.ATK +{1}% to all allies with Ice affinity (all effects max 30%).",
+    "name": "Frost Shot",
+    "summary": "Boosts critical damage and M.ATK for all allies with Ice affinity."
+  },
+  {
+    "id": 11003848,
+    "description": "Grants critical damage +{0}% and M.ATK +{1}% to all allies with Ice affinity (all effects max 30%).",
+    "name": "Frost Shot",
+    "summary": "Boosts critical damage and M.ATK for all allies with Ice affinity."
+  },
+  {
+    "id": 11003849,
+    "description": "Grants critical damage +{0}% and M.ATK +{1}% to all allies with Ice affinity (all effects max 30%).",
+    "name": "Frost Shot",
+    "summary": "Boosts critical damage and M.ATK for all allies with Ice affinity."
+  },
+  {
+    "id": 11003850,
+    "description": "Grants critical damage +{0}% and M.ATK +{1}% to all allies with Ice affinity (all effects max 30%).",
+    "name": "Frost Shot",
+    "summary": "Boosts critical damage and M.ATK for all allies with Ice affinity."
+  },
+  {
+    "id": 12003851,
+    "description": "Increases target's Burst Gauge by {0}% and grants critical damage +{1}% for 3 turns.<br>If target has Bookworm, grants critical rate +{2}% for 2 turns.<br>Grants P.DEF & M.DEF +{3}% to all allies with Ice affinity for 2 attacks (max 3 stacks).",
+    "name": "Mighty Burst",
+    "summary": "Increases target's Burst Gauge and boosts critical damage.<br>If target has Bookworm, boosts critical rate.<br>Boosts P.DEF and M.DEF for all allies with Ice affinity."
+  },
+  {
+    "id": 12003852,
+    "description": "Increases target's Burst Gauge by {0}% and grants critical damage +{1}% for 3 turns.<br>If target has Bookworm, grants critical rate +{2}% for 2 turns.<br>Grants P.DEF & M.DEF +{3}% to all allies with Ice affinity for 2 attacks (max 3 stacks).",
+    "name": "Mighty Burst",
+    "summary": "Increases target's Burst Gauge and boosts critical damage.<br>If target has Bookworm, boosts critical rate.<br>Boosts P.DEF and M.DEF for all allies with Ice affinity."
+  },
+  {
+    "id": 12003853,
+    "description": "Increases target's Burst Gauge by {0}% and grants critical damage +{1}% for 3 turns.<br>If target has Bookworm, grants critical rate +{2}% for 2 turns.<br>Grants P.DEF & M.DEF +{3}% to all allies with Ice affinity for 2 attacks (max 3 stacks).",
+    "name": "Mighty Burst",
+    "summary": "Increases target's Burst Gauge and boosts critical damage.<br>If target has Bookworm, boosts critical rate.<br>Boosts P.DEF and M.DEF for all allies with Ice affinity."
+  },
+  {
+    "id": 12003854,
+    "description": "Increases target's Burst Gauge by {0}% and grants critical damage +{1}% for 3 turns.<br>If target has Bookworm, grants critical rate +{2}% for 2 turns.<br>Grants P.DEF & M.DEF +{3}% to all allies with Ice affinity for 2 attacks (max 3 stacks).",
+    "name": "Mighty Burst",
+    "summary": "Increases target's Burst Gauge and boosts critical damage.<br>If target has Bookworm, boosts critical rate.<br>Boosts P.DEF and M.DEF for all allies with Ice affinity."
+  },
+  {
+    "id": 12003855,
+    "description": "Increases target's Burst Gauge by {0}% and grants critical damage +{1}% for 3 turns.<br>If target has Bookworm, grants critical rate +{2}% for 2 turns.<br>Grants P.DEF & M.DEF +{3}% to all allies with Ice affinity for 2 attacks (max 3 stacks).",
+    "name": "Mighty Burst",
+    "summary": "Increases target's Burst Gauge and boosts critical damage.<br>If target has Bookworm, boosts critical rate.<br>Boosts P.DEF and M.DEF for all allies with Ice affinity."
+  },
+  {
+    "id": 14003856,
+    "description": "After attacking, reduces target's Ice resistance by {0}% (max 60%).<br>Before using this skill, increases the Burst Gauge of the ally with the highest M.ATK by {1}%.<br>Grants critical rate +{2}% to all allies with Bookworm for 3 turns.<br>Grants critical damage +{3}% and M.ATK +{4}% to all allies with Ice affinity for 3 turns.",
+    "name": "Full Auto",
+    "summary": "After attack, reduces target's Ice resistance.<br>Increases Burst Gauge for ally with highest M.ATK.<br>Boosts critical rate for all allies with Bookworm.<br>Boosts critical damage and M.ATK for all allies with Ice affinity."
+  },
+  {
+    "id": 14003857,
+    "description": "After attacking, reduces target's Ice resistance by {0}% (max 60%).<br>Before using this skill, increases the Burst Gauge of the ally with the highest M.ATK by {1}%.<br>Grants critical rate +{2}% to all allies with Bookworm for 3 turns.<br>Grants critical damage +{3}% and M.ATK +{4}% to all allies with Ice affinity for 3 turns.",
+    "name": "Full Auto",
+    "summary": "After attack, reduces target's Ice resistance.<br>Increases Burst Gauge for ally with highest M.ATK.<br>Boosts critical rate for all allies with Bookworm.<br>Boosts critical damage and M.ATK for all allies with Ice affinity."
+  },
+  {
+    "id": 14003858,
+    "description": "After attacking, reduces target's Ice resistance by {0}% (max 60%).<br>Before using this skill, increases the Burst Gauge of the ally with the highest M.ATK by {1}%.<br>Grants critical rate +{2}% to all allies with Bookworm for 3 turns.<br>Grants critical damage +{3}% and M.ATK +{4}% to all allies with Ice affinity for 3 turns.",
+    "name": "Full Auto",
+    "summary": "After attack, reduces target's Ice resistance.<br>Increases Burst Gauge for ally with highest M.ATK.<br>Boosts critical rate for all allies with Bookworm.<br>Boosts critical damage and M.ATK for all allies with Ice affinity."
+  },
+  {
+    "id": 14003859,
+    "description": "After attacking, reduces target's Ice resistance by {0}% (max 60%).<br>Before using this skill, increases the Burst Gauge of the ally with the highest M.ATK by {1}%.<br>Grants critical rate +{2}% to all allies with Bookworm for 3 turns.<br>Grants critical damage +{3}% and M.ATK +{4}% to all allies with Ice affinity for 3 turns.",
+    "name": "Full Auto",
+    "summary": "After attack, reduces target's Ice resistance.<br>Increases Burst Gauge for ally with highest M.ATK.<br>Boosts critical rate for all allies with Bookworm.<br>Boosts critical damage and M.ATK for all allies with Ice affinity."
+  },
+  {
+    "id": 14003860,
+    "description": "After attacking, reduces target's Ice resistance by {0}% (max 60%).<br>Before using this skill, increases the Burst Gauge of the ally with the highest M.ATK by {1}%.<br>Grants critical rate +{2}% to all allies with Bookworm for 3 turns.<br>Grants critical damage +{3}% and M.ATK +{4}% to all allies with Ice affinity for 3 turns.",
+    "name": "Full Auto",
+    "summary": "After attack, reduces target's Ice resistance.<br>Increases Burst Gauge for ally with highest M.ATK.<br>Boosts critical rate for all allies with Bookworm.<br>Boosts critical damage and M.ATK for all allies with Ice affinity."
+  },
+  {
+    "id": 32005548,
+    "description": "Grants damage dealt +15% and SPD +15% to all allies for 3 turns.",
+    "name": "Sky Ael",
+    "summary": ""
+  },
+  {
+    "id": 32005549,
+    "description": "No additional effects.",
+    "name": "Glide",
+    "summary": ""
+  },
+  {
+    "id": 32005550,
+    "description": "After attacking, inflicts skill target with damage received +15% and Darkness for 3 turns.",
+    "name": "Charge Rush",
+    "summary": ""
+  },
+  {
+    "id": 32005551,
+    "description": "After attacking, reduces skill target's damage dealt by 15% for 3 turns.",
+    "name": "White Breath",
+    "summary": ""
+  },
+  {
+    "id": 32005552,
+    "description": "After attacking, inflicts skill target with Darkness (40% success rate) for 3 turns and has a 30% chance to delay opponent's turn by 3 turns.",
+    "name": "Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32005553,
+    "description": "No Text",
+    "name": "Mini Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32005554,
+    "description": "Restores target ally's HP by 15%.",
+    "name": "Blessing Point",
+    "summary": ""
+  },
+  {
+    "id": 32005555,
+    "description": "After attacking, applies 8 stacks of Poison to skill target for 5 turns.",
+    "name": "Explosive Bloom",
+    "summary": ""
+  },
+  {
+    "id": 32005556,
+    "description": "No Text",
+    "name": "Magic Shoot",
+    "summary": ""
+  },
+  {
+    "id": 32005557,
+    "description": "After attacking, 70% chance to inflict Paralysis on skill target for 3 turns.",
+    "name": "Paralyze Shoot",
+    "summary": ""
+  },
+  {
+    "id": 32005558,
+    "description": "Grants all allies Damage Dealt Up (15%/3 turns) and SPD Up (15%/3 turns).",
+    "name": "Sky Ale",
+    "summary": ""
+  },
+  {
+    "id": 32005559,
+    "description": "No Text",
+    "name": "Glide",
+    "summary": ""
+  },
+  {
+    "id": 32005560,
+    "description": "After attacking, applies Damage Received Up (15%/3 turns) and Darkness (3 turns) to skill target.",
+    "name": "Charge Rush",
+    "summary": ""
+  },
+  {
+    "id": 32005561,
+    "description": "After attacking, reduces skill target's damage dealt by 15% for 3 turns.",
+    "name": "White Breath",
+    "summary": ""
+  },
+  {
+    "id": 32005562,
+    "description": "After attacking, 40% chance to inflict Darkness on skill target for 3 turns. 30% chance to delay target's turn by 3 turns.",
+    "name": "Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32005563,
+    "description": "No Text",
+    "name": "Mini Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32005564,
+    "description": "Boosts this attack's critical damage by 15%.",
+    "name": "Fatal Bite",
+    "summary": ""
+  },
+  {
+    "id": 32005565,
+    "description": "After attacking, boosts own critical rate by 10% for 1 turn.",
+    "name": "Bite",
+    "summary": ""
+  },
+  {
+    "id": 32005566,
+    "description": "After attacking, boosts own critical damage by 10% for 3 turns.",
+    "name": "Howl",
+    "summary": ""
+  },
+  {
+    "id": 32005567,
+    "description": "No Text",
+    "name": "Wind Ball",
+    "summary": ""
+  },
+  {
+    "id": 32005568,
+    "description": "No Text",
+    "name": "Whirlwind",
+    "summary": ""
   }
 ]

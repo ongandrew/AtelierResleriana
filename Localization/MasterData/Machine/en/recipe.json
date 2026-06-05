@@ -2791,5 +2791,27 @@
     ],
     "start_at": "2026-05-22T03:00:00Z",
     "tracking_id": "af_synthesis_recipe_10044"
+  },
+  {
+    "id": 862,
+    "name": "Rebe Stral",
+    "requirements": [
+      {
+        "name": "Clear Piruzza - Epilogue 1"
+      }
+    ],
+    "start_at": "2026-05-29T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_862"
+  },
+  {
+    "id": 863,
+    "name": "Chronicle Bunker",
+    "requirements": [
+      {
+        "name": "Awaken Miruca [Forging Alchemist] to ☆5"
+      }
+    ],
+    "start_at": "2026-06-05T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_863"
   }
 ]

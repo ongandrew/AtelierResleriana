@@ -5288,5 +5288,55 @@
     "id": 910220,
     "description": "Boosts critical damage by {value}%. (MAX 2 stacks)",
     "name": "Critical Damage Up"
+  },
+  {
+    "id": 850025,
+    "description": "Boosts damage dealt by {value}%.",
+    "name": "Zero Enemy Defeat Judgment"
+  },
+  {
+    "id": 510345,
+    "description": "Boosts critical damage by {value}%. (MAX 150%)",
+    "name": "Let's End This Quickly"
+  },
+  {
+    "id": 510348,
+    "description": "Boosts M.ATK by {value}%. (MAX 150%)",
+    "name": "Let's End This Quickly"
+  },
+  {
+    "id": 610525,
+    "description": "Boosts critical damage by {value}%. (MAX 30%)",
+    "name": "Critical Damage Up"
+  },
+  {
+    "id": 610526,
+    "description": "Boosts M.ATK by {value}%. (MAX 30%)",
+    "name": "M.ATK Up"
+  },
+  {
+    "id": 610527,
+    "description": "Boosts P.DEF by {value}%. (MAX 3 stacks)",
+    "name": "P.DEF Up"
+  },
+  {
+    "id": 610528,
+    "description": "Boosts M.DEF by {value}%. (MAX 3 stacks)",
+    "name": "M.DEF Up"
+  },
+  {
+    "id": 610529,
+    "description": "Increases damage received from Ice attacks by {value}%. (MAX 60%)",
+    "name": "Ice Resistance Down"
+  },
+  {
+    "id": 800233,
+    "description": "Dummy buff for calculations",
+    "name": "Calculation Dummy Buff"
+  },
+  {
+    "id": 820137,
+    "description": "Reduces damage dealt by {value}%. (MAX 25%)",
+    "name": "Dealt Damage Down"
   }
 ]

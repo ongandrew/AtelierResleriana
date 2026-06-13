@@ -262,6 +262,8 @@ namespace AtelierResleriana.Localization.Utilities
             { "紅天竜クルシュア", "Red Dragon Kerscha - A white dragon that turned red when it was corrupted." },
             { "ハイネ州", "Haine Province - A location in Lantarna known for volcanic activity." },
             { "オアゼス州", "Oazes Province - A location in Lantarna." },
+            { "クア州", "Kur Province - A coastal region in Lantarna known for its shipbuilding. The Apexi Weltex appeared off its coast." },
+            { "ヴィアベル州", "Wirbel Province - An archipelago within Lantarna known for its beautiful seas and thriving arts scene." },
 
             // Unofficial localizations - to be reviewed.
             { "大聖堂", "Grand Cathedral - The central religious institution of Nova, where the High Priest resides" },

@@ -6809,5 +6809,89 @@
     "name": "Shallotte Glama Master Attire Coordination",
     "start_at": "2026-06-09T03:00:00Z",
     "step_up_loop_description": "{} loops remaining"
+  },
+  {
+    "id": 2396,
+    "description": "Jurie makes her debut & is featured!\nFeatured until 2026/06/29 11:59 (UTC+8).",
+    "end_at": "2026-06-29T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Sisterly Bond of Love - Jurie LEGEND FES",
+    "name": "Sisterly Bond of Love - Jurie LEGEND FES",
+    "start_at": "2026-06-12T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2397,
+    "description": "One wish per day with Paid Lodestar Gems only! Double pickup rate!\nFeatured until 2026/06/26 11:59 (UTC+8).",
+    "end_at": "2026-06-26T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 23971,
+            "description": "Double pickup rate!\n1 time left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Sisterly Bond of Love - Jurie LEGEND FES [1 Per Day Limited・Paid Limited]",
+    "name": "Sisterly Bond of Love - Jurie LEGEND FES [1 Per Day Limited・Paid Limited]",
+    "small_banner_label": "1 Per Day Limited!",
+    "start_at": "2026-06-12T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 2398,
+    "description": "Wish 50 times with Paid Lodestar Gems to unlock additional wishes!\nFeatured until 2026/06/29 11:59 (UTC+8).",
+    "end_at": "2026-06-29T03:00:00Z",
+    "name": "Sisterly Bond of Love - Jurie LEGEND FES [Paid Limited]",
+    "small_banner_label": "Paid Limited!",
+    "start_at": "2026-06-12T03:00:00Z",
+    "step_up_loop_description": "{} rounds remaining"
+  },
+  {
+    "id": 239801,
+    "description": "Max 5 times! 2x Featured rate!\nEarn 16 Medals! Until 2026/06/29 10:59 (UTC+8).",
+    "end_at": "2026-06-29T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10005,
+            "description": "Bonus included!\n{} times left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Sisterly Bond and Devotion Jurie LEGEND FES [Paid Lodestar Gems Only]",
+    "name": "Sisterly Bond and Devotion Jurie LEGEND FES [Paid Lodestar Gems Only]",
+    "small_banner_label": "Paid Only!",
+    "start_at": "2026-06-12T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 3100009,
+    "description": "[New outfit guaranteed at Step 7!]\n\nShallistera's new outfit makes its debut!\nNew outfit appearance rate increases with each step!\nUntil 2026/06/30 10:59 (UTC+8)",
+    "end_at": "2026-06-30T03:00:00Z",
+    "name": "Shallistera Lily Classical Outfit Synthesis",
+    "start_at": "2026-06-16T03:00:00Z",
+    "step_up_loop_description": "{} loops remaining"
   }
 ]

@@ -5338,5 +5338,35 @@
     "id": 820137,
     "description": "Reduces damage dealt by {value}%. (MAX 25%)",
     "name": "Dealt Damage Down"
+  },
+  {
+    "id": 510346,
+    "description": "Boosts skill damage by {value}%. (MAX 2)",
+    "name": "I'll Meet Your Expectations"
+  },
+  {
+    "id": 610530,
+    "description": "Boosts skill damage by {value}%. (MAX 30%)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 610531,
+    "description": "Boosts M.ATK by {value}%. (MAX 30%)",
+    "name": "M.ATK Up"
+  },
+  {
+    "id": 610532,
+    "description": "Boosts penetration power by {value}. (MAX 200)",
+    "name": "Penetration Power Up"
+  },
+  {
+    "id": 800234,
+    "description": "Dummy buff for evaluation purposes.",
+    "name": "Evaluation Dummy Buff"
+  },
+  {
+    "id": 810201,
+    "description": "Reduces damage received by {value}%. Cannot be removed.",
+    "name": "Received Damage Down"
   }
 ]

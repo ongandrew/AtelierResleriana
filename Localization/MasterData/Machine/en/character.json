@@ -1389,5 +1389,21 @@
     "profile_voice_text": "Miruca Crotze. Alchemist.\nIf you need weapons or armor made, I think I can help.",
     "sort_name": "Miruca",
     "start_at": "2026-06-05T03:00:00Z"
+  },
+  {
+    "id": 32501,
+    "acquisition_text": "My goal is to strike it rich—\nWould you like to come with me?",
+    "another_name": "Treasure Hunter",
+    "description": "A lone wolf treasure hunter. Miruca's older sister.\nShe uses methods of discovering treasures by making deductions from legends from various regions.\nShe combines her treasure hunting experience with adventure stories, keeping detailed records.\nShe has loved books since childhood and has always wanted to write her own book.",
+    "fullname": "Jurie Crotze",
+    "leader_skill": {
+      "description": "All allies gain 24% skill damage and stun damage for each ally with the Bookworm tag.",
+      "name": "A Journey Walked with My Sister"
+    },
+    "name": "Jurie",
+    "overlay_name": "Jurie Crotze",
+    "profile_voice_text": "I research all kinds of legends and folklore.\nIf you know anything interesting, could you tell me about it?",
+    "sort_name": "Jurie",
+    "start_at": "2026-06-12T03:00:00Z"
   }
 ]

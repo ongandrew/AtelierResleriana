@@ -41386,5 +41386,221 @@
     "description": "No Text",
     "name": "Whirlwind",
     "summary": ""
+  },
+  {
+    "id": 11003861,
+    "description": "Before attacking, removes all negative effects from self.<br>After attacking, grants self skill damage +{0}% and M.ATK +{1}% (all effects capped at 30%).",
+    "name": "Unseen Strike",
+    "summary": "Before attacking, removes all negative effects from self.<br>After attacking, boosts own skill damage and M.ATK."
+  },
+  {
+    "id": 11003862,
+    "description": "Before attacking, removes all negative effects from self.<br>After attacking, grants self skill damage +{0}% and M.ATK +{1}% (all effects capped at 30%).",
+    "name": "Unseen Strike",
+    "summary": "Before attacking, removes all negative effects from self.<br>After attacking, boosts own skill damage and M.ATK."
+  },
+  {
+    "id": 11003863,
+    "description": "Before attacking, removes all negative effects from self.<br>After attacking, grants self skill damage +{0}% and M.ATK +{1}% (all effects capped at 30%).",
+    "name": "Unseen Strike",
+    "summary": "Before attacking, removes all negative effects from self.<br>After attacking, boosts own skill damage and M.ATK."
+  },
+  {
+    "id": 11003864,
+    "description": "Before attacking, removes all negative effects from self.<br>After attacking, grants self skill damage +{0}% and M.ATK +{1}% (all effects capped at 30%).",
+    "name": "Unseen Strike",
+    "summary": "Before attacking, removes all negative effects from self.<br>After attacking, boosts own skill damage and M.ATK."
+  },
+  {
+    "id": 11003865,
+    "description": "Before attacking, removes all negative effects from self.<br>After attacking, grants self skill damage +{0}% and M.ATK +{1}% (all effects capped at 30%).",
+    "name": "Unseen Strike",
+    "summary": "Before attacking, removes all negative effects from self.<br>After attacking, boosts own skill damage and M.ATK."
+  },
+  {
+    "id": 12003866,
+    "description": "Boosts this attack's penetration power by {0}.<br>After attacking, grants self skill damage +{1}% and M.ATK +{2}% for 3 turns.",
+    "name": "Breath Hunter",
+    "summary": "Boosts this attack's penetration power.<br>After attacking, boosts own skill damage and M.ATK."
+  },
+  {
+    "id": 12003867,
+    "description": "Boosts this attack's penetration power by {0}.<br>After attacking, grants self skill damage +{1}% and M.ATK +{2}% for 3 turns.",
+    "name": "Breath Hunter",
+    "summary": "Boosts this attack's penetration power.<br>After attacking, boosts own skill damage and M.ATK."
+  },
+  {
+    "id": 12003868,
+    "description": "Boosts this attack's penetration power by {0}.<br>After attacking, grants self skill damage +{1}% and M.ATK +{2}% for 3 turns.",
+    "name": "Breath Hunter",
+    "summary": "Boosts this attack's penetration power.<br>After attacking, boosts own skill damage and M.ATK."
+  },
+  {
+    "id": 12003869,
+    "description": "Boosts this attack's penetration power by {0}.<br>After attacking, grants self skill damage +{1}% and M.ATK +{2}% for 3 turns.",
+    "name": "Breath Hunter",
+    "summary": "Boosts this attack's penetration power.<br>After attacking, boosts own skill damage and M.ATK."
+  },
+  {
+    "id": 12003870,
+    "description": "Boosts this attack's penetration power by {0}.<br>After attacking, grants self skill damage +{1}% and M.ATK +{2}% for 3 turns.",
+    "name": "Breath Hunter",
+    "summary": "Boosts this attack's penetration power.<br>After attacking, boosts own skill damage and M.ATK."
+  },
+  {
+    "id": 14003871,
+    "description": "Boosts this attack's penetration power by {0}.<br>After attacking, grants self skill damage +{1}% and M.ATK +{2}% for 3 turns.<br>Creates an Extra Turn (Extra Skill: {hyperlink_id 162}) {3} turns later.",
+    "name": "Fatal Blow",
+    "summary": "Boosts this attack's penetration power.<br>After attacking, boosts own skill damage and M.ATK.<br>Creates an Extra Turn."
+  },
+  {
+    "id": 14003872,
+    "description": "Boosts this attack's penetration power by {0}.<br>After attacking, grants self skill damage +{1}% and M.ATK +{2}% for 3 turns.<br>Creates an Extra Turn (Extra Skill: {hyperlink_id 162}) {3} turns later.",
+    "name": "Fatal Blow",
+    "summary": "Boosts this attack's penetration power.<br>After attacking, boosts own skill damage and M.ATK.<br>Creates an Extra Turn."
+  },
+  {
+    "id": 14003873,
+    "description": "Boosts this attack's penetration power by {0}.<br>After attacking, grants self skill damage +{1}% and M.ATK +{2}% for 3 turns.<br>Creates an Extra Turn (Extra Skill: {hyperlink_id 162}) {3} turns later.",
+    "name": "Fatal Blow",
+    "summary": "Boosts this attack's penetration power.<br>After attacking, boosts own skill damage and M.ATK.<br>Creates an Extra Turn."
+  },
+  {
+    "id": 14003874,
+    "description": "Boosts this attack's penetration power by {0}.<br>After attacking, grants self skill damage +{1}% and M.ATK +{2}% for 3 turns.<br>Creates an Extra Turn (Extra Skill: {hyperlink_id 162}) {3} turns later.",
+    "name": "Fatal Blow",
+    "summary": "Boosts this attack's penetration power.<br>After attacking, boosts own skill damage and M.ATK.<br>Creates an Extra Turn."
+  },
+  {
+    "id": 14003875,
+    "description": "Boosts this attack's penetration power by {0}.<br>After attacking, grants self skill damage +{1}% and M.ATK +{2}% for 3 turns.<br>Creates an Extra Turn (Extra Skill: {hyperlink_id 162}) {3} turns later.",
+    "name": "Fatal Blow",
+    "summary": "Boosts this attack's penetration power.<br>After attacking, boosts own skill damage and M.ATK.<br>Creates an Extra Turn."
+  },
+  {
+    "id": 14003876,
+    "description": "Boosts this attack's critical rate by 100% and penetration power by {0}.<br>After attacking, grants self skill damage +{1}% and M.ATK +{2}% for 3 turns.<br>Grants self penetration power +{3} (cap: 200).",
+    "name": "Unseen Pursuit",
+    "summary": "Boosts this attack's critical rate and penetration power.<br>After attacking, boosts own skill damage, M.ATK, and penetration power."
+  },
+  {
+    "id": 32005569,
+    "description": "After attacking, converts all enemies' panels to burn panels (except burst panels).",
+    "name": "Hellfire of Perdition",
+    "summary": ""
+  },
+  {
+    "id": 32005570,
+    "description": "After attacking, inflicts 2 stacks of Poison (100% application chance/3 attacks) on skill target and reduces recovery amount by 20% for 3 attacks.",
+    "name": "Massive Tentacle",
+    "summary": ""
+  },
+  {
+    "id": 32005571,
+    "description": "When skill target has a status effect, boosts damage by {1}%.<br>After attacking, inflicts 1 stack of Poison (100% application chance/3 attacks) on skill target.",
+    "name": "Silent Sting",
+    "summary": ""
+  },
+  {
+    "id": 32005572,
+    "description": "After attacking, creates burn panels on 3 timeline slots and reduces skill target's SPD by 5% for 3 attacks.",
+    "name": "Inferno Emission",
+    "summary": ""
+  },
+  {
+    "id": 32005573,
+    "description": "Inflicts skill target with 1 stack of Darkness and reduces damage dealt by 20% for 3 times.",
+    "name": "Light Orb Explosion",
+    "summary": ""
+  },
+  {
+    "id": 32005574,
+    "description": "No effect.",
+    "name": "Dangerous Sniff",
+    "summary": ""
+  },
+  {
+    "id": 32005575,
+    "description": "After attacking, reduces skill target's damage dealt by 15% for 3 times.",
+    "name": "Sonic Voice",
+    "summary": ""
+  },
+  {
+    "id": 32005576,
+    "description": "After attacking, inflicts skill target with 5 stacks of Poison (100% application chance/5 times).",
+    "name": "Poison Bite",
+    "summary": ""
+  },
+  {
+    "id": 32005577,
+    "description": "After attacking, reduces skill target's SPD by 10% for 5 times.",
+    "name": "Thunder Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32005579,
+    "description": "Boosts skill target's damage dealt by 15% for 3 times.",
+    "name": "Spin Roar",
+    "summary": ""
+  },
+  {
+    "id": 32005580,
+    "description": "After attacking, converts all enemy panels to Burn panels (excluding Burst panels).",
+    "name": "Flames of Purgatory",
+    "summary": ""
+  },
+  {
+    "id": 32005581,
+    "description": "After attacking, inflicts skill target with 2 stacks of Poison (100% application chance/3 times) and reduces recovery amount granted by 20% for 3 times.",
+    "name": "Giant Tentacles",
+    "summary": ""
+  },
+  {
+    "id": 32005582,
+    "description": "Boosts damage by {1}% when skill target has status effects.<br>After attacking, inflicts skill target with 1 stack of Poison (100% application chance/3 times).",
+    "name": "Silent Thorn",
+    "summary": ""
+  },
+  {
+    "id": 32005583,
+    "description": "After attacking, creates Burn panels on 3 timeline slots and reduces skill target's SPD by 5% for 3 times.",
+    "name": "Hellfire Blast",
+    "summary": ""
+  },
+  {
+    "id": 32005584,
+    "description": "Inflicts skill target with 1 stack of Darkness (1 time) and reduces damage dealt by 20% for 3 times.",
+    "name": "Light Orb Explosion",
+    "summary": ""
+  },
+  {
+    "id": 32005585,
+    "description": "After attacking, inflicts skill target with Daze (1 time).",
+    "name": "Blue Wave",
+    "summary": ""
+  },
+  {
+    "id": 32005586,
+    "description": "After attacking, delays skill target's turn by 2.",
+    "name": "Splash",
+    "summary": ""
+  },
+  {
+    "id": 32005587,
+    "description": "No effect.",
+    "name": "Leap",
+    "summary": ""
+  },
+  {
+    "id": 32005588,
+    "description": "Boosts damage dealt by 20% when own HP is 70% or higher.",
+    "name": "Fall Crash",
+    "summary": ""
+  },
+  {
+    "id": 32005589,
+    "description": "Boosts own SPD by 5% for 3 times and reduces damage received by 20% for 3 times.",
+    "name": "Annoying Charge",
+    "summary": ""
   }
 ]

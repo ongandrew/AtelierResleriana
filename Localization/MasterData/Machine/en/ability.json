@@ -14883,5 +14883,130 @@
     "id": 600000821,
     "description": "When self has Quiet tag, boosts skill power by 100%.",
     "name": "Quiet Tag Skill Power Up"
+  },
+  {
+    "id": 301352,
+    "description": "While equipped to Jurie [Treasure Hunter], after using Hidden Strike, boosts skill power by 50% for 2 turns.",
+    "name": "Crystal Twin Swords"
+  },
+  {
+    "id": 500738,
+    "description": "Boosts M.ATK by {0}% for Chef characters.",
+    "name": ""
+  },
+  {
+    "id": 500739,
+    "description": "Boosts M.ATK by {0}% for Chef characters.",
+    "name": ""
+  },
+  {
+    "id": 500740,
+    "description": "Boosts M.ATK by {0}% for Chef characters.",
+    "name": ""
+  },
+  {
+    "id": 500741,
+    "description": "Boosts M.ATK by {0}% for Chef characters.",
+    "name": ""
+  },
+  {
+    "id": 500742,
+    "description": "Boosts M.ATK by {0}% for Chef characters.",
+    "name": ""
+  },
+  {
+    "id": 500743,
+    "description": "Boosts M.ATK by {0}% for Chef characters.",
+    "name": ""
+  },
+  {
+    "id": 500744,
+    "description": "Boosts M.ATK by {0}% for Chef characters.",
+    "name": ""
+  },
+  {
+    "id": 500745,
+    "description": "Boosts M.ATK by {0}% for Chef characters.",
+    "name": ""
+  },
+  {
+    "id": 1980250,
+    "description": "All allies gain skill damage and stun damage +24% per Bookworm character in the party.",
+    "name": "Journey Walked with Sister"
+  },
+  {
+    "id": 1990557,
+    "description": "Converts own burst skill to a gauge system.<br>※Burst gauge can store up to 3 full charges.<br><br>After a critical attack, increases own burst gauge by {0}%.",
+    "name": "Seasoned Adventurer's Skill"
+  },
+  {
+    "id": 1990558,
+    "description": "When there is a Quiet character other than self in the party, boosts base M.ATK by {0}.<br><br>After receiving a single target skill from an ally, boosts skill damage by {1}% (Max 2 stacks).",
+    "name": "I'll Try to Meet Your Expectations"
+  },
+  {
+    "id": 4991358,
+    "description": "While equipped to an Attacker with Ice affinity, after attacking, boosts skill damage by {0}% for 4 turns.<br>When Chef, boosts M.ATK by {1}%.",
+    "name": "Imagination \"To Places Unseen\""
+  },
+  {
+    "id": 4991359,
+    "description": "While equipped to an Attacker with Ice affinity, after attacking, boosts skill damage by {0}% for 4 turns.<br>When Chef, boosts M.ATK by {1}%.",
+    "name": "Imagination \"To Places Unseen\""
+  },
+  {
+    "id": 4991360,
+    "description": "While equipped to an Attacker with Ice affinity, after attacking, boosts skill damage by {0}% for 4 turns.<br>When Chef, boosts M.ATK by {1}%.",
+    "name": "Imagination \"To Places Unseen\""
+  },
+  {
+    "id": 4991361,
+    "description": "While equipped to an Attacker with Ice affinity, after attacking, boosts skill damage by {0}% for 4 turns.<br>When Chef, boosts M.ATK by {1}%.",
+    "name": "Imagination \"To Places Unseen\""
+  },
+  {
+    "id": 4991362,
+    "description": "While equipped to an Attacker with Ice affinity, after attacking, boosts skill damage by {0}% for 4 turns.<br>When Chef, boosts M.ATK by {1}%.",
+    "name": "Imagination \"To Places Unseen\""
+  },
+  {
+    "id": 26012002,
+    "description": "At the start of the wave, grants self damage received down by {0}% (cannot be removed).\nWhen hit by a burst skill, increases critical damage received by {1}% for 2 attacks.",
+    "name": ""
+  },
+  {
+    "id": 26203001,
+    "description": "At the start of the wave, grants self damage received down by {0}% (cannot be removed).\nWhen hit by a burst skill, increases critical damage received by {1}% for 2 attacks.",
+    "name": ""
+  },
+  {
+    "id": 26203003,
+    "description": "At the start of the wave, grants self damage received down by {0}% (cannot be removed).\nWhen hit by a burst skill, increases critical damage received by {1}% for 2 attacks.",
+    "name": ""
+  },
+  {
+    "id": 26203005,
+    "description": "Nullifies resistance down for all attributes except Ice.",
+    "name": ""
+  },
+  {
+    "id": 26204004,
+    "description": "At the start of each wave, grants self damage received down ({0}%, cannot be removed).\nWhen receiving a burst skill, grants self critical damage received up by {1}% for 2 attacks.",
+    "name": ""
+  },
+  {
+    "id": 600000822,
+    "description": "Boosts skill power by 100% for Jurie [Treasure Hunter].",
+    "name": "Jurie [Treasure Hunter] Skill Power Up"
+  },
+  {
+    "id": 600000823,
+    "description": "While equipped to a Bookworm character, boosts skill power by 100%.",
+    "name": "Bookworm Character Skill Power Up"
+  },
+  {
+    "id": 600000824,
+    "description": "When teamed with Jurie [Treasure Hunter] or Miruca [Forging Alchemist], reduces damage received by 25% (max 25%).",
+    "name": "Jurie [Treasure Hunter] or Miruca [Forging Alchemist] Team Damage Reduction"
   }
 ]

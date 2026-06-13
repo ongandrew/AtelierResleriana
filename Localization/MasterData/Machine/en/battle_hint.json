@@ -2994,5 +2994,25 @@
   {
     "id": 60046037,
     "description": "- At the start of battle, reduces own damage received\n- At the start of battle, boosts own critical rate received\n- After turn, boosts own damage dealt\n- Inflicts Darkness\n- Chance to delay turn\n- When hit by a burst skill, reduces own damage dealt"
+  },
+  {
+    "id": 60012067,
+    "description": "- At the start of battle, reduces own damage received (cannot be removed)\n- Inflicts Poison\n- When hit by a burst skill, boosts own critical damage received\n- Nullifies resistance reduction for all elements except Ice"
+  },
+  {
+    "id": 60122035,
+    "description": "- When stunned, converts boost-type panels to burst panels\n- Restores own HP and stun gauge\n- Heals self and removes all status effects"
+  },
+  {
+    "id": 60203059,
+    "description": "- At the start of battle, reduces own damage received (cannot be removed)\n- Creates Burn panels\n- Boosts damage dealt to opponents with status effects\n- Inflicts Poison\n- Inflicts Darkness\n- When hit by a burst skill, boosts own critical damage received\n- Nullifies resistance reduction for all elements except Ice"
+  },
+  {
+    "id": 60203075,
+    "description": "- At the start of battle, reduces own damage received (cannot be removed)\n- Creates Burn panels\n- Boosts damage dealt to opponents with status effects\n- Inflicts Poison\n- Inflicts Darkness\n- When hit by a burst skill, boosts own critical damage received"
+  },
+  {
+    "id": 60204083,
+    "description": "- At the start of battle, reduces own damage received (cannot be removed)\n- Inflicts Daze\n- Delays turn\n- Boosts damage dealt when HP is above a certain level\n- When hit by a burst skill, boosts own critical damage received\n- When KO'd, grants Regeneration to all allies"
   }
 ]

@@ -6893,5 +6893,123 @@
     "name": "Shallistera Lily Classical Outfit Synthesis",
     "start_at": "2026-06-16T03:00:00Z",
     "step_up_loop_description": "{} loops remaining"
+  },
+  {
+    "id": 2399,
+    "description": "Zero makes a new appearance & Pick Up!\nUntil 2026/07/14 11:59 (UTC+8)\n※ Characters making their debut in this Wish will be available for a limited time.\n\u3000Please check the announcements for details.",
+    "end_at": "2026-07-14T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Dark Memories - \"Strongest\" Who Crowns the Ancestor Zero LEGEND FES",
+    "name": "Dark Memories - \"Strongest\" Who Crowns the Ancestor Zero LEGEND FES",
+    "start_at": "2026-06-23T03:00:00Z",
+    "step_up_loop_description": "",
+    "small_banner_label": ""
+  },
+  {
+    "id": 2400,
+    "description": "Limited to 1 Wish per day with Paid Lodestar Gems! PU rate doubled!\nUntil 2026/07/07 11:59 (UTC+8)\n※ Characters making their debut in this Wish will be available for a limited time.\n\u3000Please check the announcements for details.",
+    "end_at": "2026-07-07T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 24001,
+            "description": "PU Rate x2!\n1 Time Left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Dark Memories - \"Strongest\" Who Crowns the Ancestor Zero LEGEND FES [1/Day Limited - Paid Lodestar Gems Only]",
+    "name": "Dark Memories - \"Strongest\" Who Crowns the Ancestor Zero LEGEND FES [1/Day Limited - Paid Lodestar Gems Only]",
+    "start_at": "2026-06-23T03:00:00Z",
+    "step_up_loop_description": "",
+    "small_banner_label": "1/Day Limited!"
+  },
+  {
+    "id": 2401,
+    "description": "Wish 50 times with Paid Lodestar Gems to get bonus Wishes!\nUntil 2026/07/14 11:59 (UTC+8)\n※ Characters making their debut in this Wish will be available for a limited time.\n\u3000Please check the announcements for details.",
+    "end_at": "2026-07-14T03:00:00Z",
+    "gacha_button_groups": [],
+    "gacha_rate_set_name": "",
+    "name": "Dark Memories - \"Strongest\" Who Crowns the Ancestor Zero LEGEND FES [Paid Lodestar Gems Only]",
+    "start_at": "2026-06-23T03:00:00Z",
+    "step_up_loop_description": "{} Times Left",
+    "small_banner_label": "Paid Only!"
+  },
+  {
+    "id": 3062,
+    "description": "\"Nukumori of Back-to-Back\" makes its debut & Pickup!\nUntil 2026/06/29 10:59 (UTC+8).",
+    "end_at": "2026-06-29T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Nukumori of Back-to-Back LEGEND FES",
+    "name": "Nukumori of Back-to-Back LEGEND FES",
+    "start_at": "2026-06-19T03:00:00Z",
+    "step_up_loop_description": "",
+    "small_banner_label": ""
+  },
+  {
+    "id": 3063,
+    "description": "For every 30 Wishes with Paid Lodestar Gems, get 1 Wish for free! Max 5 times!\nSTEP 4 guarantees 1 Pickup Memoria!\nUntil 2026/06/29 10:59 (UTC+8).",
+    "end_at": "2026-06-29T03:00:00Z",
+    "gacha_button_groups": [],
+    "gacha_rate_set_name": "",
+    "name": "Nukumori of Back-to-Back LEGEND FES [Paid Lodestar Gems Only]",
+    "start_at": "2026-06-19T03:00:00Z",
+    "step_up_loop_description": "{} Times Left",
+    "small_banner_label": "PU Guaranteed!"
+  },
+  {
+    "id": 240101,
+    "description": "Max 5 times! PU rate doubled!\nGet 16 medals! Until 2026/07/14 10:59 (UTC+8).\n※ Characters making their debut in this Wish will be limited-time.\n\nPlease check the announcement for details.",
+    "end_at": "2026-07-14T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10005,
+            "description": "Bonus included!\n{} Wishes left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Dark Memories: Zero \"The Strongest\" Who Crowns the Founding Ancestor LEGEND FES [Paid Lodestar Gems Only]",
+    "name": "Dark Memories: Zero \"The Strongest\" Who Crowns the Founding Ancestor LEGEND FES [Paid Lodestar Gems Only]",
+    "start_at": "2026-06-23T03:00:00Z",
+    "step_up_loop_description": "",
+    "small_banner_label": "Paid Only!"
   }
 ]

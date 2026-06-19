@@ -153,9 +153,9 @@ namespace AtelierResleriana.Executables.Pipeline.MasterData.Localize
                     {
                         Model = Models.ClaudeSonnet46
                     }),
-                    new AnthropicTextTransformer(new AnthropicClient(configuration["Anthropic:ApiKey"]), new AnthropicTextTransformer.Options()
+                    new AnthropicStructuredTextTransformer(new AnthropicClient(configuration["Anthropic:ApiKey"]), new AnthropicStructuredTextTransformer.Options()
                     {
-                        Model = Models.ClaudeSonnet4
+                        Model = Models.ClaudeSonnet46
                     })
                 )
             ];

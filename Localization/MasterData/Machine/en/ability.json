@@ -15008,5 +15008,60 @@
     "id": 600000824,
     "description": "When teamed with Jurie [Treasure Hunter] or Miruca [Forging Alchemist], reduces damage received by 25% (max 25%).",
     "name": "Jurie [Treasure Hunter] or Miruca [Forging Alchemist] Team Damage Reduction"
+  },
+  {
+    "id": 301359,
+    "description": "While equipped to Zero [Miraculous Nine No. 2], at the start of a wave, boosts own M.ATK by {0}% for 2 turns.",
+    "name": "Zero's Battlefield of Sealed Dominance"
+  },
+  {
+    "id": 1980251,
+    "description": "\"Miraculous Nine\" characters gain P.ATK, M.ATK, P.DEF, and M.DEF +35%.",
+    "name": "Self-Proclaimed \"Strongest of the Miraculous Nine\""
+  },
+  {
+    "id": 1990559,
+    "description": "Converts own burst skill to a gauge system.<br>※ Burst gauge can stack up to 3 charges.<br><br>When obtaining a panel, increases own burst gauge by {0}% and boosts own critical damage by {1}% for 1 turn.",
+    "name": "Power of the Miraculous Nine -II-"
+  },
+  {
+    "id": 1990560,
+    "description": "Boosts critical rate by {0}% when attack target is stunned.<br>Boosts skill damage by {1}% when attacking a target that has a status effect before the skill is used.<br><br>Boosts base M.ATK by {2} when there is another \"Miraculous Nine\" character in the party.<br><br>Boosts skill power by 20-{3}% based on the number of characters with the Dark Memories tag (more characters from 1-5 increases the boost).",
+    "name": "Annihilating Darkness"
+  },
+  {
+    "id": 4991348,
+    "description": "While equipped to a Supporter, boosts own burst gauge by {0}% at the start of battle.",
+    "name": "Imagination \"Back-to-Back Warmth\""
+  },
+  {
+    "id": 4991349,
+    "description": "While equipped to a Supporter, boosts own burst gauge by {0}% at the start of battle.",
+    "name": "Imagination \"Back-to-Back Warmth\""
+  },
+  {
+    "id": 4991350,
+    "description": "While equipped to a Supporter, boosts own burst gauge by {0}% at the start of battle.",
+    "name": "Imagination \"Back-to-Back Warmth\""
+  },
+  {
+    "id": 4991351,
+    "description": "While equipped to a Supporter, boosts own burst gauge by {0}% at the start of battle.",
+    "name": "Imagination \"Back-to-Back Warmth\""
+  },
+  {
+    "id": 4991352,
+    "description": "While equipped to a Supporter, boosts own burst gauge by {0}% at the start of battle.",
+    "name": "Imagination \"Back-to-Back Warmth\""
+  },
+  {
+    "id": 26105003,
+    "description": "Stun damage received from single target attacks +{0}%.\nReduces damage received by {1}% when not stunned.\nBoosts critical damage received by {2}% when stunned.",
+    "name": ""
+  },
+  {
+    "id": 600000825,
+    "description": "Boosts skill power for Jurie [Treasure Hunter] by 200%.",
+    "name": "Jurie [Treasure Hunter] Skill Power Up"
   }
 ]

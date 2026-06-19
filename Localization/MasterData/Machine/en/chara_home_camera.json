@@ -7742,5 +7742,42 @@
   {
     "id": 1240,
     "name": "Costume ① Unique Scene"
+  },
+  {
+    "id": 1223,
+    "name": "Standing 2",
+    "key_tasks": []
+  },
+  {
+    "id": 1224,
+    "name": "Hand on Hip",
+    "key_tasks": []
+  },
+  {
+    "id": 1225,
+    "name": "Proud",
+    "key_tasks": [
+      {
+        "name": "Unlocked by obtaining specific motions"
+      }
+    ]
+  },
+  {
+    "id": 1226,
+    "name": "Spaced Out",
+    "key_tasks": [
+      {
+        "name": "Unlocked at ★4.5"
+      }
+    ]
+  },
+  {
+    "id": 1227,
+    "name": "Unique Scene",
+    "key_tasks": [
+      {
+        "name": "Unlocked by obtaining specific motions"
+      }
+    ]
   }
 ]

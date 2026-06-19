@@ -4,6 +4,7 @@ using System.Text.Json.Nodes;
 using Universal.Common;
 using Universal.Common.Json;
 using Universal.GenerativeAI;
+using Universal.GenerativeAI.Anthropic;
 
 namespace AtelierResleriana.Localization.Utilities
 {
@@ -1225,7 +1226,8 @@ namespace AtelierResleriana.Localization.Utilities
                 </input>
                 """;
 
-            object[] localizedEntitiesNewtonsoft = await TextTransformer.TransformAsync<object[]>(prompt, cancellationToken)
+            JsonSchemaInferrer jsonSchemaInferrer = new JsonSchemaInferrer();
+            object[] localizedEntitiesNewtonsoft = await ((AnthropicStructuredTextTransformer)TextTransformer).TransformAsync<object[]>(prompt, jsonSchemaInferrer.Infer(System.Text.Json.JsonSerializer.Serialize(entities, new System.Text.Json.JsonSerializerOptions())), cancellationToken)
                 .ConfigureAwait(false);
 
             // Convert to string with Newtonsoft, preserving all data

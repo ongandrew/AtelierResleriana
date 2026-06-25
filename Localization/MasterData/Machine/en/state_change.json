@@ -5398,5 +5398,70 @@
     "id": 820139,
     "description": "When stunned, boosts critical damage received by {value}%. Cannot be removed.",
     "name": "Conditional Received Critical Damage Up"
+  },
+  {
+    "id": 510334,
+    "description": "Boosts critical damage by {value}%. (MAX 200%)",
+    "name": "Guide to Victory!"
+  },
+  {
+    "id": 510335,
+    "description": "Boosts critical rate by {value}%. (MAX 250%)",
+    "name": "Guide to Victory!"
+  },
+  {
+    "id": 510336,
+    "description": "When own critical rate exceeds 100%, converts the excess critical rate above 100% into a critical damage boost during attacks. (Conversion MAX 100%)",
+    "name": "Guide to Victory!"
+  },
+  {
+    "id": 510337,
+    "description": "When own critical rate exceeds 100%, converts the excess critical rate above 100% into a critical damage boost during attacks. (Conversion range: 0-100%)",
+    "name": "Guide to Victory!"
+  },
+  {
+    "id": 610506,
+    "description": "Boosts M.ATK by {value}%. (MAX 30%)",
+    "name": "M.ATK Up"
+  },
+  {
+    "id": 610507,
+    "description": "Boosts critical rate by {value}%. (MAX 150%)",
+    "name": "Critical Rate Up"
+  },
+  {
+    "id": 610508,
+    "description": "Boosts critical rate by {value}%. (MAX 200%)",
+    "name": "Critical Rate Up"
+  },
+  {
+    "id": 610509,
+    "description": "When own critical rate exceeds 100%, converts the excess critical rate above 100% into a critical damage boost during attacks. (Conversion MAX 300%)",
+    "name": "Excess Critical Rate Conversion"
+  },
+  {
+    "id": 610510,
+    "description": "Nullifies attacks from enemies and performs a counter attack. (Cannot be stacked)",
+    "name": "Special Counter Status"
+  },
+  {
+    "id": 610511,
+    "description": "State change for special counter determination. (Cannot be stacked)",
+    "name": "Special Counter Determination"
+  },
+  {
+    "id": 610513,
+    "description": "Boosts burst skill damage by {value}%.",
+    "name": "Burst Damage Up"
+  },
+  {
+    "id": 610514,
+    "description": "Boosts burst gauge increase received by {value}%.",
+    "name": "Received Burst Gauge Increase Up"
+  },
+  {
+    "id": 800240,
+    "description": "Boosts Bomb damage by {value}%.",
+    "name": "Bomb Damage Up"
   }
 ]

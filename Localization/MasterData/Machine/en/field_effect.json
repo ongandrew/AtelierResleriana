@@ -138,5 +138,10 @@
     "id": 55,
     "description": "Allies: Nullifies HP recovery and positive effects, and receives 10% max HP damage before turn.<br>Enemies: Boosts damage dealt after turn.",
     "popup_text": "HP Percentage Damage"
+  },
+  {
+    "id": 57,
+    "description": "Allies: Boosts burst skill damage by 200% and burst gauge gain received by 50%.",
+    "popup_text": "Burst Damage/Burst Gauge Gain Up"
   }
 ]

@@ -1,0 +1,631 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "……ってことがあってね。\n光星隊は本格始動前に壊滅しちゃったの",
+        "localizations": {
+          "en": "...So that's what happened. The Star Vanguard was wiped out before it ever really got started."
+        }
+      },
+      "2072370017": {
+        "text": "クレオ",
+        "localizations": {
+          "en": "Creo"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "私はヘルトとゼロに必ずやり返す……\n私を信じてついてきてくれた部下たちのためにも！",
+        "localizations": {
+          "en": "I will make Held and Zero pay for this. For the sake of every soldier who believed in me and followed me!"
+        }
+      },
+      "2072370017": {
+        "text": "クレオ",
+        "localizations": {
+          "en": "Creo"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "ヘルトとゼロを追ってる理由は分かりましたけど……\nぶっちゃけ、勝てるんすか？",
+        "localizations": {
+          "en": "Okay, I get why you're going after them, but... honestly? Do you think you can actually win?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "……うん？",
+        "localizations": {
+          "en": "...Hm?"
+        }
+      },
+      "2072370017": {
+        "text": "クレオ",
+        "localizations": {
+          "en": "Creo"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "ほら、なんかこう、必勝の策とか、\n伝説の武器を手に入れた、とか？",
+        "localizations": {
+          "en": "Like, do you have some kind of surefire plan? A legendary weapon you picked up somewhere?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "もちろん、いくつか作戦は立てたけどね、\nそこまで確かなものは、ないよ",
+        "localizations": {
+          "en": "I've thought through a few strategies, sure, but nothing I'd call a guaranteed win."
+        }
+      },
+      "2072370017": {
+        "text": "クレオ",
+        "localizations": {
+          "en": "Creo"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "そ、それじゃ見つけて戦っても\n同じように負けちゃうんじゃ……",
+        "localizations": {
+          "en": "S-so if you find them and fight... won't you just end up losing again?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "それでもだよ",
+        "localizations": {
+          "en": "Maybe. Doesn't change a thing."
+        }
+      },
+      "2072370017": {
+        "text": "クレオ",
+        "localizations": {
+          "en": "Creo"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "光星隊を倒すほどの脅威を、私は王女としても\n光星隊隊長としても野放しにはできない",
+        "localizations": {
+          "en": "A threat powerful enough to destroy the Star Vanguard—I can't let that roam free. Not as a princess, not as their captain."
+        }
+      },
+      "2072370017": {
+        "text": "クレオ",
+        "localizations": {
+          "en": "Creo"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "赤子の手をひねるように壊滅させられて……あれでは\nランターナ王国が舐められているのと同じだもの！",
+        "localizations": {
+          "en": "They dismantled us like it was nothing. To leave that unanswered would be an insult to the entire kingdom!"
+        }
+      },
+      "2072370017": {
+        "text": "クレオ",
+        "localizations": {
+          "en": "Creo"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "お、おお～……",
+        "localizations": {
+          "en": "Oh... wow..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "（この人、レスナ側の人だ。何があっても諦めない\n\u3000英雄側の人間……でも……）",
+        "localizations": {
+          "en": "(She's just like Resna. The kind of person who never gives up no matter what... but...)"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "次は、ないかもしれませんよ？\u3000あいつらは……\nヘルトとゼロは命を奪うことも躊躇わない",
+        "localizations": {
+          "en": "There might not be a next time. Held and Zero... they won't hesitate to kill."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "あなた……",
+        "localizations": {
+          "en": "...You're not just worried about me, are you?"
+        }
+      },
+      "2072370017": {
+        "text": "クレオ",
+        "localizations": {
+          "en": "Creo"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "どうして、あなたはそこまでできるんですか？\n誇りとか想いって、命より大事なんですか？",
+        "localizations": {
+          "en": "Why can you push forward like that? Is your pride really worth more than your life?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "死んだら、失敗したら……それで終わりなんですよ？\n復讐だって果たせないし、無駄死にじゃないですか！",
+        "localizations": {
+          "en": "If you die, if you fail... that's it. You won't get your revenge. It'll all be for nothing!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "その忠告、私のためを思って……じゃなくて、\n私に別の誰かさんを重ねているみたいだね",
+        "localizations": {
+          "en": "That warning of yours... it doesn't feel like it's really meant for me. You're seeing someone else when you look at me, aren't you?"
+        }
+      },
+      "2072370017": {
+        "text": "クレオ",
+        "localizations": {
+          "en": "Creo"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "あっ……",
+        "localizations": {
+          "en": "Oh..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "他人の気持ちを汲み取るのは得意なんだ。\n王族に求められる能力の１つだからね",
+        "localizations": {
+          "en": "Reading people is something I've always been good at. It's a skill royalty needs."
+        }
+      },
+      "2072370017": {
+        "text": "クレオ",
+        "localizations": {
+          "en": "Creo"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "で、これはあなたの求めている答えかどうかは\n分からないけれど……",
+        "localizations": {
+          "en": "I don't know if this is the answer you're looking for, but..."
+        }
+      },
+      "2072370017": {
+        "text": "クレオ",
+        "localizations": {
+          "en": "Creo"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "危険は百も承知。私だって死にたくはない。\nでも、死ぬのを怖がってたら、一生進めない",
+        "localizations": {
+          "en": "I know the risks. I don't want to die either. But if I spend my life afraid of dying, I'll never move forward."
+        }
+      },
+      "2072370017": {
+        "text": "クレオ",
+        "localizations": {
+          "en": "Creo"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "いつか勝ってみせる、じゃダメなんだって分かった。\nだって、その「いつか」はいつ来るの？",
+        "localizations": {
+          "en": "I used to tell myself I'd win someday. But then I asked—when exactly is someday?"
+        }
+      },
+      "2072370017": {
+        "text": "クレオ",
+        "localizations": {
+          "en": "Creo"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "絶対勝てるようになるまで強くなってから挑むの？\n何年かかるの？\u3000それまで立ち止まってるの？",
+        "localizations": {
+          "en": "Wait until I'm strong enough to guarantee a win? How many years would that take? Just standing still until then?"
+        }
+      },
+      "2072370017": {
+        "text": "クレオ",
+        "localizations": {
+          "en": "Creo"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "それは生きてない。ただ死んでないだけ……\n一生挑戦しないなら、いつまで経っても負け犬だよ",
+        "localizations": {
+          "en": "That's not living. That's just... not dying yet. If you never take the challenge, you'll always be a loser."
+        }
+      },
+      "2072370017": {
+        "text": "クレオ",
+        "localizations": {
+          "en": "Creo"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "一生挑戦しないなら、負け犬……",
+        "localizations": {
+          "en": "If you never take the challenge... you'll always be a loser..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "馬鹿だ、無謀だなんてのは、軍に入った時に散々\n言われた。お姫様は城で大人しくしとけって",
+        "localizations": {
+          "en": "People called me reckless and foolish the moment I joined the military. Told me the princess should stay quietly in her castle."
+        }
+      },
+      "2072370017": {
+        "text": "クレオ",
+        "localizations": {
+          "en": "Creo"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "でもね、私はなりたかったの。あらゆる意味でみんなを\n守れて、面倒を見られる王族にね",
+        "localizations": {
+          "en": "But I wanted to be the kind of royalty who could truly protect people—and look after them—in every sense of the word."
+        }
+      },
+      "2072370017": {
+        "text": "クレオ",
+        "localizations": {
+          "en": "Creo"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "もちろん、私の命は自分だけのものじゃない。\n民のみんなが支えてくれているもの……でも",
+        "localizations": {
+          "en": "My life isn't mine alone, I know that. The people of this kingdom hold it up alongside me... but even so."
+        }
+      },
+      "2072370017": {
+        "text": "クレオ",
+        "localizations": {
+          "en": "Creo"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "ここで動かなきゃ、クレオ・ランターナじゃない。\n私の信じた、私じゃないの",
+        "localizations": {
+          "en": "If I don't act now, I'm not Creo Lantarna. I wouldn't be the person I believe myself to be."
+        }
+      },
+      "2072370017": {
+        "text": "クレオ",
+        "localizations": {
+          "en": "Creo"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "そう、ですか……",
+        "localizations": {
+          "en": "I see..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "姉様……",
+        "localizations": {
+          "en": "Alvina..."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "お気持ちは承知いたしました。\nただ今からでは、雷鳴の島での決闘に間に合わない……",
+        "localizations": {
+          "en": "I understand how you feel. But even leaving now, you won't reach Thundering Isle in time for the duel..."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "下手に船で向かっても行き違いになってしまいます。\nここはレスナさんが彼らを連れ帰るのを待ちましょう",
+        "localizations": {
+          "en": "Setting out by ship could mean missing them entirely. For now, let's wait for Resna to bring them back."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "そうだね。物理的に間に合わないのは\nしょうがないもんね……分かった",
+        "localizations": {
+          "en": "You're right. If there's no way to make it in time, there's nothing to be done... Alright."
+        }
+      },
+      "2072370017": {
+        "text": "クレオ",
+        "localizations": {
+          "en": "Creo"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "続報が入るまで、カフェで大人しくお客になるよ。\n腹が減っては戦ができぬ、だもんね",
+        "localizations": {
+          "en": "I'll be a good little customer at the cafe until we hear something. Can't fight on an empty stomach, after all."
+        }
+      },
+      "2072370017": {
+        "text": "クレオ",
+        "localizations": {
+          "en": "Creo"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "え、ええ……ともかく、今はここで待っていたほうが。\nでは、アタシは、これで……",
+        "localizations": {
+          "en": "Y-yes, that's... probably for the best. I'll just be heading off then..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "ごめんなさい、早退するから引き継ぎ頼めるかしら。\n後で絶対埋め合わせするから！",
+        "localizations": {
+          "en": "Sorry, I need to duck out early—could you cover for me? I promise I'll make it up to you!"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  }
+]

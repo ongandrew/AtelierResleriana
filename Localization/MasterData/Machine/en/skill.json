@@ -41878,5 +41878,293 @@
     "description": "Boosts skill target's damage received by 20% for 3 turns.",
     "name": "Curse Powder",
     "summary": ""
+  },
+  {
+    "id": 11003813,
+    "description": "After attacking, boosts all allies' critical damage by {0}% for 3 turns and grants M.ATK +{1}%. (MAX 30%)",
+    "name": "Crimson Shine",
+    "summary": "After attack, boosts all allies' critical damage and M.ATK."
+  },
+  {
+    "id": 11003814,
+    "description": "After attacking, boosts all allies' critical damage by {0}% for 3 turns and grants M.ATK +{1}%. (MAX 30%)",
+    "name": "Crimson Shine",
+    "summary": "After attack, boosts all allies' critical damage and M.ATK."
+  },
+  {
+    "id": 11003815,
+    "description": "After attacking, boosts all allies' critical damage by {0}% for 3 turns and grants M.ATK +{1}%. (MAX 30%)",
+    "name": "Crimson Shine",
+    "summary": "After attack, boosts all allies' critical damage and M.ATK."
+  },
+  {
+    "id": 11003816,
+    "description": "After attacking, boosts all allies' critical damage by {0}% for 3 turns and grants M.ATK +{1}%. (MAX 30%)",
+    "name": "Crimson Shine",
+    "summary": "After attack, boosts all allies' critical damage and M.ATK."
+  },
+  {
+    "id": 11003817,
+    "description": "After attacking, boosts all allies' critical damage by {0}% for 3 turns and grants M.ATK +{1}%. (MAX 30%)",
+    "name": "Crimson Shine",
+    "summary": "After attack, boosts all allies' critical damage and M.ATK."
+  },
+  {
+    "id": 12003818,
+    "description": "Grants target Nullify Negative Effects and Nullify Status Effects for 1 turn.<br>Boosts own critical damage by {0}% and M.ATK by {1}% for 3 turns.<br>Boosts critical rate by {2}% for all allies with Air affinity. (MAX 150%)",
+    "name": "Alchemical Zone",
+    "summary": "Grants target Nullify Negative Effects and Nullify Status Effects.<br>Boosts own critical damage and M.ATK.<br>Boosts critical rate for all allies with Air affinity."
+  },
+  {
+    "id": 12003819,
+    "description": "Grants target Nullify Negative Effects and Nullify Status Effects for 1 turn.<br>Boosts own critical damage by {0}% and M.ATK by {1}% for 3 turns.<br>Boosts critical rate by {2}% for all allies with Air affinity. (MAX 150%)",
+    "name": "Alchemical Zone",
+    "summary": "Grants target Nullify Negative Effects and Nullify Status Effects.<br>Boosts own critical damage and M.ATK.<br>Boosts critical rate for all allies with Air affinity."
+  },
+  {
+    "id": 12003820,
+    "description": "Grants target Nullify Negative Effects and Nullify Status Effects for 1 turn.<br>Boosts own critical damage by {0}% and M.ATK by {1}% for 3 turns.<br>Boosts critical rate by {2}% for all allies with Air affinity. (MAX 150%)",
+    "name": "Alchemical Zone",
+    "summary": "Grants target Nullify Negative Effects and Nullify Status Effects.<br>Boosts own critical damage and M.ATK.<br>Boosts critical rate for all allies with Air affinity."
+  },
+  {
+    "id": 12003821,
+    "description": "Grants target Nullify Negative Effects and Nullify Status Effects for 1 turn.<br>Boosts own critical damage by {0}% and M.ATK by {1}% for 3 turns.<br>Boosts critical rate by {2}% for all allies with Air affinity. (MAX 150%)",
+    "name": "Alchemical Zone",
+    "summary": "Grants target Nullify Negative Effects and Nullify Status Effects.<br>Boosts own critical damage and M.ATK.<br>Boosts critical rate for all allies with Air affinity."
+  },
+  {
+    "id": 12003822,
+    "description": "Grants target Nullify Negative Effects and Nullify Status Effects for 1 turn.<br>Boosts own critical damage by {0}% and M.ATK by {1}% for 3 turns.<br>Boosts critical rate by {2}% for all allies with Air affinity. (MAX 150%)",
+    "name": "Alchemical Zone",
+    "summary": "Grants target Nullify Negative Effects and Nullify Status Effects.<br>Boosts own critical damage and M.ATK.<br>Boosts critical rate for all allies with Air affinity."
+  },
+  {
+    "id": 14003823,
+    "description": "Removes target's negative effects and status effects.<br>Grants self Special Counter ({hyperlink_id 161}) for 1 special counterattack. (Cannot be stacked.)<br>Boosts critical damage by {0}% and M.ATK by {1}% for all allies with Air affinity for 3 turns, and boosts critical rate by {2}%. (MAX 200%)<br>Grants all Attacker allies the following additional effect for 1 turn.<br>Additional effect: When own critical rate exceeds 100%, during an attack, converts the amount by which critical rate exceeds 100% into a critical damage boost. (Conversion MAX 300%)<br><br>※ The Special Counter activates when any party member becomes the target of an enemy skill, nullifying that skill and triggering Special Counter ({hyperlink_id 161}).",
+    "name": "Heroic Tribute",
+    "summary": "Removes target's negative effects and status effects.<br>Grants self Special Counter.<br>Boosts critical damage, M.ATK, and critical rate for all allies with Air affinity.<br>Grants additional effect to all Attacker allies."
+  },
+  {
+    "id": 14003824,
+    "description": "Removes target's negative effects and status effects.<br>Grants self Special Counter ({hyperlink_id 161}) for 1 special counterattack. (Cannot be stacked.)<br>Boosts critical damage by {0}% and M.ATK by {1}% for all allies with Air affinity for 3 turns, and boosts critical rate by {2}%. (MAX 200%)<br>Grants all Attacker allies the following additional effect for 1 turn.<br>Additional effect: When own critical rate exceeds 100%, during an attack, converts the amount by which critical rate exceeds 100% into a critical damage boost. (Conversion MAX 300%)<br><br>※ The Special Counter activates when any party member becomes the target of an enemy skill, nullifying that skill and triggering Special Counter ({hyperlink_id 161}).",
+    "name": "Heroic Tribute",
+    "summary": "Removes target's negative effects and status effects.<br>Grants self Special Counter.<br>Boosts critical damage, M.ATK, and critical rate for all allies with Air affinity.<br>Grants additional effect to all Attacker allies."
+  },
+  {
+    "id": 14003825,
+    "description": "Removes target's negative effects and status effects.<br>Grants self Special Counter ({hyperlink_id 161}) for 1 special counterattack. (Cannot be stacked.)<br>Boosts critical damage by {0}% and M.ATK by {1}% for all allies with Air affinity for 3 turns, and boosts critical rate by {2}%. (MAX 200%)<br>Grants all Attacker allies the following additional effect for 1 turn.<br>Additional effect: When own critical rate exceeds 100%, during an attack, converts the amount by which critical rate exceeds 100% into a critical damage boost. (Conversion MAX 300%)<br><br>※ The Special Counter activates when any party member becomes the target of an enemy skill, nullifying that skill and triggering Special Counter ({hyperlink_id 161}).",
+    "name": "Heroic Tribute",
+    "summary": "Removes target's negative effects and status effects.<br>Grants self Special Counter.<br>Boosts critical damage, M.ATK, and critical rate for all allies with Air affinity.<br>Grants additional effect to all Attacker allies."
+  },
+  {
+    "id": 14003826,
+    "description": "Removes target's negative effects and status effects.<br>Grants self Special Counter ({hyperlink_id 161}) for 1 special counterattack. (Cannot be stacked.)<br>Boosts critical damage by {0}% and M.ATK by {1}% for all allies with Air affinity for 3 turns, and boosts critical rate by {2}%. (MAX 200%)<br>Grants all Attacker allies the following additional effect for 1 turn.<br>Additional effect: When own critical rate exceeds 100%, during an attack, converts the amount by which critical rate exceeds 100% into a critical damage boost. (Conversion MAX 300%)<br><br>※ The Special Counter activates when any party member becomes the target of an enemy skill, nullifying that skill and triggering Special Counter ({hyperlink_id 161}).",
+    "name": "Heroic Tribute",
+    "summary": "Removes target's negative effects and status effects.<br>Grants self Special Counter.<br>Boosts critical damage, M.ATK, and critical rate for all allies with Air affinity.<br>Grants additional effect to all Attacker allies."
+  },
+  {
+    "id": 14003827,
+    "description": "Removes target's negative effects and status effects.<br>Grants self Special Counter ({hyperlink_id 161}) for 1 special counterattack. (Cannot be stacked.)<br>Boosts critical damage by {0}% and M.ATK by {1}% for all allies with Air affinity for 3 turns, and boosts critical rate by {2}%. (MAX 200%)<br>Grants all Attacker allies the following additional effect for 1 turn.<br>Additional effect: When own critical rate exceeds 100%, during an attack, converts the amount by which critical rate exceeds 100% into a critical damage boost. (Conversion MAX 300%)<br><br>※ The Special Counter activates when any party member becomes the target of an enemy skill, nullifying that skill and triggering Special Counter ({hyperlink_id 161}).",
+    "name": "Heroic Tribute",
+    "summary": "Removes target's negative effects and status effects.<br>Grants self Special Counter.<br>Boosts critical damage, M.ATK, and critical rate for all allies with Air affinity.<br>Grants additional effect to all Attacker allies."
+  },
+  {
+    "id": 14003843,
+    "description": "Grants target increased damage received by {0}% and increased stun damage received by {1}% for 2 attacks, and increases own Burst Gauge by {2}%.",
+    "name": "Ascendance",
+    "summary": "Boosts target's damage received and stun damage received.<br>Increases own Burst Gauge."
+  },
+  {
+    "id": 14003844,
+    "description": "Activates a field effect with the following effect on both allies and enemies for a combined total of 10 turns. (MAX 2 activations.)<br>Effect: Allies: Burst Skill Damage +200%, Burst Gauge increase received +50%.",
+    "name": "Albi-chan Discharge☆",
+    "summary": "Activates a field effect that boosts all allies' burst skill damage and burst gauge increase received."
+  },
+  {
+    "id": 22002014,
+    "description": "Restores 25% HP to a single ally and recovers the Burst Gauge by {0}%.",
+    "name": "Aid",
+    "summary": ""
+  },
+  {
+    "id": 22002015,
+    "description": "Restores 15% HP to all allies.",
+    "name": "Aid",
+    "summary": ""
+  },
+  {
+    "id": 22002016,
+    "description": "No additional effects.",
+    "name": "Reckless",
+    "summary": ""
+  },
+  {
+    "id": 22002017,
+    "description": "After attacking, reduces target's damage dealt by {0}% for 1 turn.",
+    "name": "Whirlwind Dance",
+    "summary": ""
+  },
+  {
+    "id": 22002018,
+    "description": "No additional effects.",
+    "name": "Dragon Spiral Dance",
+    "summary": ""
+  },
+  {
+    "id": 22002019,
+    "description": "After attacking, delays target's turn by {0}.",
+    "name": "Tackle",
+    "summary": ""
+  },
+  {
+    "id": 22002020,
+    "description": "No additional effects.",
+    "name": "Rush",
+    "summary": ""
+  },
+  {
+    "id": 22002021,
+    "description": "After attacking, reduces target's damage dealt by {0}% for 3 turns.",
+    "name": "Meteor Slash",
+    "summary": ""
+  },
+  {
+    "id": 22002022,
+    "description": "No additional effects.",
+    "name": "Fire Slash",
+    "summary": ""
+  },
+  {
+    "id": 22002023,
+    "description": "Boosts target's damage dealt by {0}% for 3 turns.",
+    "name": "Cheer Up",
+    "summary": ""
+  },
+  {
+    "id": 22002024,
+    "description": "No additional effects.",
+    "name": "Dangerous Bite",
+    "summary": ""
+  },
+  {
+    "id": 22002025,
+    "description": "After attacking, reduces target's damage dealt by {0}% for 3 turns.",
+    "name": "Sonic Voice",
+    "summary": ""
+  },
+  {
+    "id": 22002027,
+    "description": "After attacking, reduces target's SPD by {0}% for 5 turns.",
+    "name": "Thunder Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 22002046,
+    "description": "Reduces own damage received by {0}% for 10 turns.",
+    "name": "Life's Radiance",
+    "summary": ""
+  },
+  {
+    "id": 22002047,
+    "description": "No additional effects.",
+    "name": "Stomp",
+    "summary": ""
+  },
+  {
+    "id": 22002048,
+    "description": "No additional effects.",
+    "name": "Prop Scatter",
+    "summary": ""
+  },
+  {
+    "id": 22002049,
+    "description": "After attacking, increases target's damage received by {0}% for 10 turns.",
+    "name": "Eerie Breath",
+    "summary": ""
+  },
+  {
+    "id": 22002050,
+    "description": "Boosts own damage dealt by {0}% (permanent) and reduces own damage received by {1}% (permanent), and restores own HP by {2}%.",
+    "name": "Self-Transformation",
+    "summary": ""
+  },
+  {
+    "id": 22002051,
+    "description": "No additional effects.",
+    "name": "Heaven and Earth Return",
+    "summary": ""
+  },
+  {
+    "id": 22002052,
+    "description": "No additional effects.",
+    "name": "Power Strike",
+    "summary": ""
+  },
+  {
+    "id": 22002053,
+    "description": "No additional effects.",
+    "name": "Invigorate",
+    "summary": ""
+  },
+  {
+    "id": 22002054,
+    "description": "After attacking, reduces target's damage dealt by {0}% for 3 turns.",
+    "name": "Striking Beat",
+    "summary": ""
+  },
+  {
+    "id": 22002055,
+    "description": "Grants self Counter for 2 counterattacks.",
+    "name": "Counter Stance",
+    "summary": ""
+  },
+  {
+    "id": 22002056,
+    "description": "Grants target SPD Down ({0}%/3 turns).",
+    "name": "Intimidation",
+    "summary": ""
+  },
+  {
+    "id": 22002057,
+    "description": "No additional effects.",
+    "name": "Retaliation",
+    "summary": ""
+  },
+  {
+    "id": 22002075,
+    "description": "After attacking, grants self SPD Up ({0}%/1 turn).",
+    "name": "Fatal Bite",
+    "summary": ""
+  },
+  {
+    "id": 22002076,
+    "description": "After attacking, grants target SPD Down ({0}%/1 turn).",
+    "name": "Venomous Strike",
+    "summary": ""
+  },
+  {
+    "id": 22002077,
+    "description": "No additional effects.",
+    "name": "Roaring Howl",
+    "summary": ""
+  },
+  {
+    "id": 22002078,
+    "description": "No additional effects.",
+    "name": "Bolt Shot",
+    "summary": ""
+  },
+  {
+    "id": 22002079,
+    "description": "No additional effects.",
+    "name": "Thunder Shout",
+    "summary": ""
+  },
+  {
+    "id": 22002080,
+    "description": "After attacking, grants self damage dealt up ({0}%/1 turn).",
+    "name": "Distant Growl",
+    "summary": ""
   }
 ]

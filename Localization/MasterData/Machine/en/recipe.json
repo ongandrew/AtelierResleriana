@@ -2835,5 +2835,16 @@
     ],
     "start_at": "2026-06-23T03:00:00Z",
     "tracking_id": "af_synthesis_recipe_865"
+  },
+  {
+    "id": 866,
+    "name": "Dimension Gate",
+    "requirements": [
+      {
+        "name": "Awaken Alvina [Beyond Dimension] to ★5"
+      }
+    ],
+    "start_at": "2026-06-26T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_866"
   }
 ]

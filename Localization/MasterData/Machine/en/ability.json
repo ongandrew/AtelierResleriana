@@ -15063,5 +15063,140 @@
     "id": 600000825,
     "description": "Boosts skill power for Jurie [Treasure Hunter] by 200%.",
     "name": "Jurie [Treasure Hunter] Skill Power Up"
+  },
+  {
+    "id": 301353,
+    "description": "While equipped to Alvina [Beyond Dimension], boosts potency of buff effects given to Attackers by +{0}%.",
+    "name": "Dimension Gate"
+  },
+  {
+    "id": 500746,
+    "description": "Boosts M.ATK by {0}% for characters with Indomitable Spirit.",
+    "name": ""
+  },
+  {
+    "id": 500747,
+    "description": "Boosts M.ATK by {0}% for characters with Indomitable Spirit.",
+    "name": ""
+  },
+  {
+    "id": 500748,
+    "description": "Boosts M.ATK by {0}% for characters with Indomitable Spirit.",
+    "name": ""
+  },
+  {
+    "id": 500749,
+    "description": "Boosts M.ATK by {0}% for characters with Indomitable Spirit.",
+    "name": ""
+  },
+  {
+    "id": 500750,
+    "description": "Boosts M.ATK by {0}% for characters with Indomitable Spirit.",
+    "name": ""
+  },
+  {
+    "id": 500751,
+    "description": "Boosts M.ATK by {0}% for characters with Indomitable Spirit.",
+    "name": ""
+  },
+  {
+    "id": 500752,
+    "description": "Boosts M.ATK by {0}% for characters with Indomitable Spirit.",
+    "name": ""
+  },
+  {
+    "id": 500753,
+    "description": "Boosts M.ATK by {0}% for characters with Indomitable Spirit.",
+    "name": ""
+  },
+  {
+    "id": 1980247,
+    "description": "Characters with Air affinity gain Initiative and M.ATK +35%.",
+    "name": "Alvie's New Frontier"
+  },
+  {
+    "id": 1990551,
+    "description": "Converts own burst skill to a gauge-type.<br>※ Burst gauge can stack up to 3 charges.<br><br>After activating a skill, increases own burst gauge by {0}% and restores {1}% HP to all allies.<br>When any party member lands a critical attack, increases own burst gauge by {2}%.",
+    "name": "I'll Prove It With This Power!"
+  },
+  {
+    "id": 1990552,
+    "description": "After activating Alchemical Zone, Heroic Reboot, or Ascendance, grants all allies Critical Damage +{0}% (MAX 200%) and Critical Rate +{1}% (MAX 250%).<br><br>At the start of battle, grants all allies the following additional effect based on the number of Promise & Teamwork tag characters in the party (more allies = greater boost, range: 1-2).<br>Additional Effect: When own critical rate exceeds 100%, converts the excess critical rate above 100% into a critical damage boost upon attacking (conversion MAX: 100-200%).",
+    "name": "Guiding You to Victory!"
+  },
+  {
+    "id": 4991363,
+    "description": "While equipped to a Supporter with Air affinity, boosts potency of buff effects granted by +{0}%.<br>For Merchant characters, boosts HP recovery granted by +{1}%.",
+    "name": "Imagination \"Wings of Resolve\""
+  },
+  {
+    "id": 4991364,
+    "description": "While equipped to a Supporter with Air affinity, boosts potency of buff effects granted by +{0}%.<br>For Merchant characters, boosts HP recovery granted by +{1}%.",
+    "name": "Imagination \"Wings of Resolve\""
+  },
+  {
+    "id": 4991365,
+    "description": "While equipped to a Supporter with Air affinity, boosts potency of buff effects granted by +{0}%.<br>For Merchant characters, boosts HP recovery granted by +{1}%.",
+    "name": "Imagination \"Wings of Resolve\""
+  },
+  {
+    "id": 4991366,
+    "description": "While equipped to a Supporter with Air affinity, boosts potency of buff effects granted by +{0}%.<br>For Merchant characters, boosts HP recovery granted by +{1}%.",
+    "name": "Imagination \"Wings of Resolve\""
+  },
+  {
+    "id": 4991367,
+    "description": "While equipped to a Supporter with Air affinity, boosts potency of buff effects granted by +{0}%.<br>For Merchant characters, boosts HP recovery granted by +{1}%.",
+    "name": "Imagination \"Wings of Resolve\""
+  },
+  {
+    "id": 4991368,
+    "description": "While equipped to an Attacker, boosts battle item damage activated on own turn by +{0}%.",
+    "name": "Imagination \"In Pursuit of Truth\""
+  },
+  {
+    "id": 4991369,
+    "description": "While equipped to an Attacker, boosts battle item damage activated on own turn by +{0}%.",
+    "name": "Imagination \"In Pursuit of Truth\""
+  },
+  {
+    "id": 4991370,
+    "description": "While equipped to an Attacker, boosts battle item damage activated on own turn by +{0}%.",
+    "name": "Imagination \"In Pursuit of Truth\""
+  },
+  {
+    "id": 4991371,
+    "description": "While equipped to an Attacker, boosts battle item damage by {0}% when activated on own turn.",
+    "name": "Imagination \"Seeking the Truth\""
+  },
+  {
+    "id": 4991372,
+    "description": "While equipped to an Attacker, boosts battle item damage by {0}% when activated on own turn.",
+    "name": "Imagination \"Seeking the Truth\""
+  },
+  {
+    "id": 4991373,
+    "description": "While equipped to an Attacker, boosts Atelier Bomb damage by {0}% when activated on own turn.",
+    "name": "Imagination \"Alvina-chan Kick!\""
+  },
+  {
+    "id": 4991374,
+    "description": "While equipped to an Attacker, boosts Atelier Bomb damage by {0}% when activated on own turn.",
+    "name": "Imagination \"Alvina-chan Kick!\""
+  },
+  {
+    "id": 4991375,
+    "description": "While equipped to an Attacker, boosts Atelier Bomb damage by {0}% when activated on own turn.",
+    "name": "Imagination \"Alvina-chan Kick!\""
+  },
+  {
+    "id": 4991376,
+    "description": "While equipped to an Attacker, boosts Atelier Bomb damage by {0}% when activated on own turn.",
+    "name": "Imagination \"Alvina-chan Kick!\""
+  },
+  {
+    "id": 4991377,
+    "description": "While equipped to an Attacker, boosts Atelier Bomb damage by {0}% when activated on own turn.",
+    "name": "Imagination \"Alvina-chan Kick!\""
   }
 ]

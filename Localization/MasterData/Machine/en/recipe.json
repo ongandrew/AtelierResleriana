@@ -2846,5 +2846,71 @@
     ],
     "start_at": "2026-06-26T03:00:00Z",
     "tracking_id": "af_synthesis_recipe_866"
+  },
+  {
+    "id": 867,
+    "name": "Draguun Mail",
+    "requirements": [
+      {
+        "name": "Clear Main Story 13-52"
+      }
+    ],
+    "start_at": "2026-07-03T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_867"
+  },
+  {
+    "id": 868,
+    "name": "Dragon Scale Charm",
+    "requirements": [
+      {
+        "name": "Clear Main Story 13-52"
+      }
+    ],
+    "start_at": "2026-07-03T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_868"
+  },
+  {
+    "id": 869,
+    "name": "Fulgida",
+    "requirements": [
+      {
+        "name": "Awaken Mowen [The Flash Adventurer] to ☆5"
+      }
+    ],
+    "start_at": "2026-07-03T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_869"
+  },
+  {
+    "id": 870,
+    "name": "Shelbani Bread",
+    "requirements": [
+      {
+        "name": "Clear Main Story 31-37"
+      }
+    ],
+    "start_at": "2026-07-03T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_870"
+  },
+  {
+    "id": 871,
+    "name": "Ancient Beast Talisman",
+    "requirements": [
+      {
+        "name": "Clear Main Story 31-37"
+      }
+    ],
+    "start_at": "2026-07-03T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_871"
+  },
+  {
+    "id": 10045,
+    "name": "Death Uni",
+    "requirements": [
+      {
+        "name": "Obtain 210 types of Memoria"
+      }
+    ],
+    "start_at": "2026-07-03T03:00:00Z",
+    "tracking_id": "af_synthesis_recipe_10045"
   }
 ]

@@ -143,5 +143,10 @@
     "id": 57,
     "description": "Allies: Boosts burst skill damage by 200% and burst gauge gain received by 50%.",
     "popup_text": "Burst Damage/Burst Gauge Gain Up"
+  },
+  {
+    "id": 56,
+    "description": "Allies: Reduces buff effect potency.",
+    "popup_text": "Buff Effect Potency Down"
   }
 ]

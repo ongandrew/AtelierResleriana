@@ -473,5 +473,25 @@
     "id": 1027,
     "description": "Restores all allies' HP by 10% and removes {0} negative effects.",
     "name": "Lebenshtrahl"
+  },
+  {
+    "id": 1028,
+    "description": "Restores 5% HP to all allies.<br>After recovery, grants all allies HP recovery of {0}% at the start of turn, 2 stacks each, for 2 turns.",
+    "name": "Shelbani Bread"
+  },
+  {
+    "id": 1029,
+    "description": "Restores 3% HP to all allies.<br>After recovery, grants all allies HP recovery of {0}% at the start of turn, 2 stacks each, for 2 turns.",
+    "name": "Shelbani Bread"
+  },
+  {
+    "id": 1030,
+    "description": "Boosts all enemies' damage received from Skill 2 by {0}% for 2 attacks. (Cannot be stacked)",
+    "name": "Ancient Beast Talisman"
+  },
+  {
+    "id": 1031,
+    "description": "Boosts all enemies' damage received from Skill 2 by {0}% for 2 attacks. (Cannot be stacked)",
+    "name": "Ancient Beast Talisman"
   }
 ]

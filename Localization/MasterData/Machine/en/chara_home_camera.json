@@ -7821,5 +7821,42 @@
     "id": 1241,
     "name": "Costume ① Unique Scene",
     "key_tasks": []
+  },
+  {
+    "id": 1233,
+    "name": "Standing 2",
+    "key_tasks": []
+  },
+  {
+    "id": 1234,
+    "name": "Mood",
+    "key_tasks": []
+  },
+  {
+    "id": 1235,
+    "name": "Laugh",
+    "key_tasks": [
+      {
+        "name": "Unlocked by obtaining certain motions"
+      }
+    ]
+  },
+  {
+    "id": 1236,
+    "name": "Finger Snap",
+    "key_tasks": [
+      {
+        "name": "Unlocked by obtaining certain motions"
+      }
+    ]
+  },
+  {
+    "id": 1237,
+    "name": "Unique Scene",
+    "key_tasks": [
+      {
+        "name": "Unlocked by obtaining certain motions"
+      }
+    ]
   }
 ]

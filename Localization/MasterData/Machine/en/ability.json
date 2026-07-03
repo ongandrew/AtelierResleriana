@@ -15198,5 +15198,130 @@
     "id": 4991377,
     "description": "While equipped to an Attacker, boosts Atelier Bomb damage by {0}% when activated on own turn.",
     "name": "Imagination \"Alvina-chan Kick!\""
+  },
+  {
+    "id": 301354,
+    "description": "When equipped to Mowen [The Flash Adventurer], increases the level of Rehtrumen granted by 1.<br>Each Lv of Rehtrumen boosts penetration power by +{0}.<br>When Rehtrumen is at Lv. 10, boosts skill damage by +{1}%.",
+    "name": "Fulgida"
+  },
+  {
+    "id": 301355,
+    "description": "Boosts battle item critical damage dealt on own turn by +{0}%.",
+    "name": "Dragoon Mail"
+  },
+  {
+    "id": 301356,
+    "description": "Boosts battle item critical damage dealt on own turn by +{0}%.",
+    "name": "Dragoon Mail"
+  },
+  {
+    "id": 301357,
+    "description": "Boosts Atelier Bomb critical damage dealt on own turn by +{0}%.",
+    "name": "Dragon Scale Charm"
+  },
+  {
+    "id": 301358,
+    "description": "Boosts Atelier Bomb critical damage dealt on own turn by +{0}%.",
+    "name": "Dragon Scale Charm"
+  },
+  {
+    "id": 500715,
+    "description": "Boosts stun damage by +{0}% for characters with the Promise & Teamwork tag.",
+    "name": ""
+  },
+  {
+    "id": 500717,
+    "description": "Boosts stun damage by +{0}% for characters with the Promise & Teamwork tag.",
+    "name": ""
+  },
+  {
+    "id": 500719,
+    "description": "Boosts stun damage by +{0}% for characters with the Promise & Teamwork tag.",
+    "name": ""
+  },
+  {
+    "id": 500721,
+    "description": "Boosts stun damage by +{0}% for characters with the Promise & Teamwork tag.",
+    "name": ""
+  },
+  {
+    "id": 500723,
+    "description": "Boosts stun damage by +{0}% for characters with the Promise & Teamwork tag.",
+    "name": ""
+  },
+  {
+    "id": 500725,
+    "description": "Boosts stun damage by +{0}% for characters with the Promise & Teamwork tag.",
+    "name": ""
+  },
+  {
+    "id": 500727,
+    "description": "Boosts stun damage by +{0}% for characters with the Promise & Teamwork tag.",
+    "name": ""
+  },
+  {
+    "id": 500729,
+    "description": "Boosts stun damage by +{0}% for characters with the Promise & Teamwork tag.",
+    "name": ""
+  },
+  {
+    "id": 1980248,
+    "description": "Adventurer grants base P.ATK and M.ATK +300.",
+    "name": "Searching for a Beloved Husband"
+  },
+  {
+    "id": 1990553,
+    "description": "Converts own burst skill to a gauge.<br>※The burst gauge can stack up to 3 times.<br><br>After a critical attack, increases own burst gauge by {0}%.<br>When breaking with a skill, increases own burst gauge by {1}%.",
+    "name": "Leave It to Mom!"
+  },
+  {
+    "id": 1990554,
+    "description": "At the start of a wave, grants self Critical Rate +{0}% for 2 turns.<br><br>After a critical attack, if Rehtrumen has not been granted to self, grants Rehtrumen (Lv. 1). If already granted, increases Rehtrumen Lv by +1 (max Lv. 10).<br>Gains the following bonuses based on Rehtrumen Lv:<br>Each Lv grants Critical Rate +{1}% and Critical Damage +{2}%.<br>Lv. 3 or above: Critical Damage +{3}%.<br>Lv. 5 or above: Critical Damage +{4}%.<br>Lv. 7 or above: Critical Rate +{5}%.<br>Lv. 10: When own critical rate exceeds 100%, converts the excess critical rate above 100% into skill power during attacks (conversion cap: {6}%).",
+    "name": "This Is the Power of \"Flash\"!"
+  },
+  {
+    "id": 4991378,
+    "description": "While equipped to an Attacker with Air affinity, after a critical attack, grants self Skill Damage +{0}% for 2 turns.<br>When equipped to a character with the Promise & Teamwork tag, boosts critical rate by +{1}%.",
+    "name": "Imagination \"Leave It to Mom!\""
+  },
+  {
+    "id": 4991379,
+    "description": "While equipped to an Attacker with Air affinity, after a critical attack, grants self Skill Damage +{0}% for 2 turns.<br>When equipped to a character with the Promise & Teamwork tag, boosts critical rate by +{1}%.",
+    "name": "Imagination \"Leave It to Mom!\""
+  },
+  {
+    "id": 4991380,
+    "description": "While equipped to an Attacker with Air affinity, after a critical attack, grants self Skill Damage +{0}% for 2 turns.<br>When equipped to a character with the Promise & Teamwork tag, boosts critical rate by +{1}%.",
+    "name": "Imagination \"Leave It to Mom!\""
+  },
+  {
+    "id": 4991381,
+    "description": "While equipped to an Attacker with Air affinity, after a critical attack, grants self Skill Damage +{0}% for 2 turns.<br>When equipped to a character with the Promise & Teamwork tag, boosts critical rate by +{1}%.",
+    "name": "Imagination \"Leave It to Mom!\""
+  },
+  {
+    "id": 4991382,
+    "description": "While equipped to an Attacker with Air affinity, after a critical attack, boosts own skill damage by {0}% for 2 turns.<br>When equipped to a character with the Promise & Teamwork tag, boosts critical rate by {1}%.",
+    "name": "Imagination \"Leave It to Mom!\""
+  },
+  {
+    "id": 21232001,
+    "description": "When HP drops to 60% or below, delays own turn by {0} turns, restores the stun gauge by {1}%, grants self Damage Dealt Up ({2}%/1 time) and Stun Damage Received Down ({3}%/2 turns), and re-enters the turn selection.\nWhen hit by Atelier Cannon damage, grants self ATK Down ({5}%/up to 40%).\nWhen stunned, removes own Damage Dealt Up.",
+    "name": ""
+  },
+  {
+    "id": 21279002,
+    "description": "At the start of a wave, grants self Penetration Power Up (+50) and Boost Effect Potency from Panels Up (30%).\nAfter using a skill, grants self Damage Dealt Up (5%, up to 5 stacks).",
+    "name": ""
+  },
+  {
+    "id": 21279003,
+    "description": "At the start of a wave, grants self Penetration Power Up (+75) and Boost Effect Potency from Panels Up (30%).\nAfter using a skill, grants self Damage Dealt Up (7%, up to 5 stacks) and Regeneration (3%, 1 time).",
+    "name": ""
+  },
+  {
+    "id": 26280001,
+    "description": "At the start of a wave, converts the 10 nearest panels on the timeline to burst panels, and grants self Damage Nullification while not stunned and Penetration Power Up (+20).",
+    "name": ""
   }
 ]

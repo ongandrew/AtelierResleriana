@@ -1,0 +1,971 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "ただいま、フリーゲン。\n何年経っても相変わらず、ほっとする田舎だね！",
+        "localizations": {
+          "en": "I'm home, Friegen. No matter how many years pass, this little town never changes. Still feels like home."
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "田舎には田舎の温かさがあるよね",
+        "localizations": {
+          "en": "There's a warmth to small towns that you just can't find anywhere else."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "変わらない毎日に退屈して、\n王都に憧れたんだけど……",
+        "localizations": {
+          "en": "I used to get so bored here. I dreamed about the capital all the time..."
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "色々冒険して、戦って……変わらない場所も\nそれでいいところがあるなって思うようになったよ",
+        "localizations": {
+          "en": "But after all the adventures, all the fights... I've come to appreciate having a place that stays the same."
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "イザナちゃん……ほんと、大きくなったわね。\nねぇ、今もハンマー好きなのは変わらず？",
+        "localizations": {
+          "en": "Izana, look at you... you've really grown up. Do you still have that thing for hammers?"
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "今もハンマーこそがすべてだよ、メーヴェおばさん！",
+        "localizations": {
+          "en": "Hammers are my life, Miss Mowen!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "うぐっ！\u3000おばさん呼びは効くわ……\n戦いで負った傷に響く……",
+        "localizations": {
+          "en": "Oof! 'Miss' hits hard... right in my battle wounds..."
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "もう、お母さんたら。色々あったし、\nケガを治す間くらい、おうちでのんびりしようよ",
+        "localizations": {
+          "en": "Oh, Mom. After everything that happened, you should take it easy at home while you heal."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "やだやだ、お姉さんって呼ばれるまで\n私はここを動かないんだから！",
+        "localizations": {
+          "en": "No way! I'm not budging until someone calls me Big Sis Mowen!"
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "相変わらずの自由奔放……！",
+        "localizations": {
+          "en": "You're as free-spirited as ever...!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "アタシも早く帰って弟やパパに会いたいし……\nメーヴェお姉さん、許してください",
+        "localizations": {
+          "en": "I want to get home and see my brother and dad too... Big Sis Mowen, please forgive me!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "うん、許したげる！",
+        "localizations": {
+          "en": "Consider yourself forgiven!"
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "相変わらず立ち直りも早い……\nそうそう、イザナちゃんは騎士になったんだよ！",
+        "localizations": {
+          "en": "And she bounces back just as fast as always... Oh! Izana became a knight!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "すごいじゃない！\u3000夢を叶えたのね！\nもうすっかり私、追い越されちゃった",
+        "localizations": {
+          "en": "Look at that! You made your dream come true! I think she's already lapped me."
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "追い越す？",
+        "localizations": {
+          "en": "Lapped you?"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "私、冒険者になる前は騎士になろうって思ってたのよ",
+        "localizations": {
+          "en": "I actually wanted to be a knight myself, before I became an adventurer."
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "そうなの？\u3000知らなかった……",
+        "localizations": {
+          "en": "Really? I had no idea..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "実技は余裕だったんだけど、筆記で落ちちゃって。\nこりゃあもう私には無理だな～って",
+        "localizations": {
+          "en": "The practical exam was a breeze, but I failed the written portion. Figured it just wasn't meant to be."
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "筆記試験、難しいもんね……アタシも\nハンマー勉強法を応用したりして……大変だったよ",
+        "localizations": {
+          "en": "The written exam is really tough... I had to get creative with my hammer study method... it was a lot."
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "ちょっと最初の夢とは違ったけど、冒険者になって、\nそして冒険中に、あの人……ユリウスと出会ったの",
+        "localizations": {
+          "en": "It wasn't quite the path I'd imagined, but becoming an adventurer led me to Julius. I met him out on the road."
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "もう、めっちゃかっこよくって？\n何度も何度も言い寄って、やっと口説き落としたのよ",
+        "localizations": {
+          "en": "He was so incredibly cool. I had to chase him down and ask him over and over before he finally gave in."
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "メーヴェお姉さんから口説いたんだ！\nはわ……はわわ……はんまー",
+        "localizations": {
+          "en": "You were the one doing the chasing?! Oh my... oh my... h-hammer..."
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "お母さん力強いなぁ",
+        "localizations": {
+          "en": "Mom is a force of nature."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "ああ、ごめん。\nユリウスのことを思い出したら、つい……",
+        "localizations": {
+          "en": "Sorry. I started thinking about Julius and got carried away..."
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "ううん、もっと聞きたいよ。\nお母さんとお父さんが仲良しで、娘として嬉しいもん",
+        "localizations": {
+          "en": "Don't be. I want to hear more. It makes me happy as your daughter knowing how much you two meant to each other."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "お父さんが、まだ見つからないのは残念だけど、\nお母さんなら、きっと……",
+        "localizations": {
+          "en": "It's a shame we still haven't found Dad, but... I know you will someday, Mom..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "…………",
+        "localizations": {
+          "en": "..."
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "お母さん？",
+        "localizations": {
+          "en": "Mom?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "……あ、ううん。こんな母親失格の私を\nお母さんって呼んでくれるんだなって",
+        "localizations": {
+          "en": "...Sorry. I just... you still call me Mom, even after everything."
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "ウェルテックスにやられて姿を消したユリウス。\nそれを追って、あなたを置いて旅に出た私……",
+        "localizations": {
+          "en": "Julius vanished after Weltex attacked. I left you behind to go search for him..."
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "ランターナ王国の外にも聞こえてきたあなたの名声。\n驚いたわ。嬉しかったし、申し訳なくも思った",
+        "localizations": {
+          "en": "Word of your name even reached me beyond Lantarna's borders. It surprised me. Made me proud — and ashamed all at once."
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "イザナちゃんと同じで、とても立派に育ってくれた。\nユリウスが勝てなかった頂獣も倒してくれた",
+        "localizations": {
+          "en": "You grew up so well. Just like Izana. You even defeated the Apexi that took Julius from us."
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "……ありがとう。それと、ごめんね。\nあなたの世話をザスキアに任せきりにして",
+        "localizations": {
+          "en": "...Thank you. And I'm sorry. For leaving your care entirely to Saskia."
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "そのザスキアのことも聞いたけど……大丈夫？",
+        "localizations": {
+          "en": "Speaking of Saskia... are you all right?"
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "うん……私、自分で言うのもなんだけど、\n結構大人になれた気がする",
+        "localizations": {
+          "en": "I am... I'd like to think I've grown up quite a bit, strange as it is to say myself."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "だからね。正直に教えてほしい。私……お母さんと\nお父さんから産まれた子じゃ、ないんだよね？",
+        "localizations": {
+          "en": "So... I need you to be honest with me. I'm not really your and Dad's daughter by blood, am I?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "え……？",
+        "localizations": {
+          "en": "...What?"
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "ヘルトさんが言ってたよね、\n「偽りの血縁」って……",
+        "localizations": {
+          "en": "Held mentioned it. He called it a 'false bond of blood'..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "なに言ってるの。私たちは家族よ",
+        "localizations": {
+          "en": "What are you talking about? We're family."
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "…………",
+        "localizations": {
+          "en": "..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "大丈夫。レスナちゃんにはアタシがついてる",
+        "localizations": {
+          "en": "It's okay. I'm right here with you, Resna."
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "……あれは、私がユリウスと一緒に\n冒険をしていた時だったわ",
+        "localizations": {
+          "en": "...It was during one of the expeditions Julius and I went on together."
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "とある遺跡を探検していた時、声が聞こえた。\n赤ん坊の、泣き声が……",
+        "localizations": {
+          "en": "We were exploring some ruins when we heard a sound. A baby, crying..."
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 43,
+    "properties": {
+      "999008199": {
+        "text": "泣き声は祭壇から聞こえてきた。\nなんでそこに赤ん坊がいるのか分からなかったけど",
+        "localizations": {
+          "en": "The cries were coming from an altar. We had no idea why a baby would be there."
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 44,
+    "properties": {
+      "999008199": {
+        "text": "見過ごせないから、連れ帰って育てることにした。\nそれがあなた、レスナよ",
+        "localizations": {
+          "en": "But we couldn't just walk away. So we brought you home and raised you as our own. That was you, Resna."
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 45,
+    "properties": {
+      "999008199": {
+        "text": "そっか……やっぱり……",
+        "localizations": {
+          "en": "I see... I thought so..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 46,
+    "properties": {
+      "999008199": {
+        "text": "レスナちゃん……",
+        "localizations": {
+          "en": "Resna..."
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 47,
+    "properties": {
+      "999008199": {
+        "text": "…………う",
+        "localizations": {
+          "en": "..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 48,
+    "properties": {
+      "999008199": {
+        "text": "ありがとう、私を拾って、育ててくれて。\n祭壇に置かれていたおかげだね",
+        "localizations": {
+          "en": "Thank you. For taking me in and raising me. I guess being left on that altar led me to all of this."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 49,
+    "properties": {
+      "999008199": {
+        "text": "だから私はお母さんとお父さんと、\nイザナちゃんとだって出会えた",
+        "localizations": {
+          "en": "It's how I got to meet you and Dad... and Izana too."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 50,
+    "properties": {
+      "999008199": {
+        "text": "レスナ……っ！",
+        "localizations": {
+          "en": "Resna...!"
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 51,
+    "properties": {
+      "999008199": {
+        "text": "……ごめんなさい、あなたがいつか\n大人になったら伝えようと思ってたの",
+        "localizations": {
+          "en": "...I'm sorry. I always told myself I'd tell you someday, when you were grown."
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 52,
+    "properties": {
+      "999008199": {
+        "text": "そして、同時に伝えるのが怖かった。\nでも、あなたはもう立派に、大人だった……",
+        "localizations": {
+          "en": "But I was scared. And by the time I found you again... you already were."
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 53,
+    "properties": {
+      "999008199": {
+        "text": "レスナ、私たちのところに来てくれて……\nこっちこそ、ありがとね……！",
+        "localizations": {
+          "en": "Resna... thank you for coming into our lives...!"
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 54,
+    "properties": {
+      "999008199": {
+        "text": "うん……うんっ……！",
+        "localizations": {
+          "en": "Yeah... yeah...!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 55,
+    "properties": {
+      "999008199": {
+        "text": "（私にとって、血が繋がってなくても\n\u3000お母さんは、お母さんだ）",
+        "localizations": {
+          "en": "(Even if we don't share blood... she's still my mom.)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 56,
+    "properties": {
+      "999008199": {
+        "text": "（でも、だとしたら……私を祭壇に置いたのは、\n\u3000きっと――）",
+        "localizations": {
+          "en": "(But then... whoever left me on that altar... it must have been—)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  }
+]

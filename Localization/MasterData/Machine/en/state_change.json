@@ -5463,5 +5463,110 @@
     "id": 800240,
     "description": "Boosts Bomb damage by {value}%.",
     "name": "Bomb Damage Up"
+  },
+  {
+    "id": 510338,
+    "description": "Boosts critical rate by {value}% based on Rehtoloumen's level.",
+    "name": "Critical Rate Up (Rehtoloumen Level)"
+  },
+  {
+    "id": 510339,
+    "description": "Boosts critical damage by {value}% based on Rehtoloumen's level.",
+    "name": "Critical Damage Up (Rehtoloumen Level)"
+  },
+  {
+    "id": 510340,
+    "description": "Lv. 3 or above: Boosts critical damage by {value}%.",
+    "name": "Critical Damage Up (Rehtoloumen Lv. 3+)"
+  },
+  {
+    "id": 510341,
+    "description": "Lv. 5 or above: Boosts critical damage by {value}%.",
+    "name": "Critical Damage Up (Rehtoloumen Lv. 5+)"
+  },
+  {
+    "id": 510342,
+    "description": "Lv. 7 or above: Boosts critical rate by {value}%.",
+    "name": "Critical Rate Up (Rehtoloumen Lv. 7+)"
+  },
+  {
+    "id": 510343,
+    "description": "At Lv. 10: When own critical rate exceeds 100%, converts the excess critical rate above 100% into skill power up during attacks. (Conversion MAX 300%)",
+    "name": "Excess Critical Conversion (Rehtoloumen Lv. 10)"
+  },
+  {
+    "id": 610515,
+    "description": "Boosts M.ATK by {value}%. (MAX 40%)",
+    "name": "M.ATK Up"
+  },
+  {
+    "id": 610516,
+    "description": "Boosts skill damage by {value}%. (MAX 40%)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 610517,
+    "description": "Grants bonuses based on Rehtoloumen's level via This is the Power of Flash!",
+    "name": "Rehtoloumen"
+  },
+  {
+    "id": 610518,
+    "description": "When own critical rate exceeds 100%, converts the excess critical rate above 100% into skill power up during attacks. (Conversion MAX 200%)",
+    "name": "Excess Critical Rate to Skill Power Conversion"
+  },
+  {
+    "id": 710039,
+    "description": "Reduces ATK by {value}%. (MAX 40%)",
+    "name": "ATK Down"
+  },
+  {
+    "id": 800235,
+    "description": "Increases damage received from Skill 2 by {value}%. (Non-stackable)",
+    "name": "Received Damage Up (Cond.)"
+  },
+  {
+    "id": 800236,
+    "description": "Increases damage received from Skill 2 by {value}%. (Non-stackable)",
+    "name": "Received Damage Up (Cond.)"
+  },
+  {
+    "id": 800237,
+    "description": "Boosts penetration power by {value}.",
+    "name": "Penetration Power Up"
+  },
+  {
+    "id": 800238,
+    "description": "Dummy buff for judgment.",
+    "name": "Judgment Dummy Buff"
+  },
+  {
+    "id": 800239,
+    "description": "Boosts Atelier Cannon critical damage by {value}%.",
+    "name": "Atelier Cannon Critical Damage Up"
+  },
+  {
+    "id": 800241,
+    "description": "When Rehtoloumen is at Lv. 10, boosts skill damage by {value}%.",
+    "name": "Skill Damage Up (Cond.)"
+  },
+  {
+    "id": 810194,
+    "description": "Negates damage.",
+    "name": "Damage Immunity (Non-Stunned)"
+  },
+  {
+    "id": 810203,
+    "description": "Boosts damage dealt by {value}%. (MAX 25%)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 810204,
+    "description": "Boosts damage dealt by {value}%. (MAX 35%)",
+    "name": "Dealt Damage Up"
+  },
+  {
+    "id": 820136,
+    "description": "Reduces potency of positive effects granted by {value}%.",
+    "name": "Positive Effect Potency Down"
   }
 ]

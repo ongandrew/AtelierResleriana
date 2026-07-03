@@ -17448,5 +17448,280 @@
     "id": 95000398,
     "description": "While an Attacker, boosts Bomb damage used on own turn.",
     "popup_text": ""
+  },
+  {
+    "id": 5000107,
+    "description": "Grants Stun Damage Up to self when Promise & Teamwork is active.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001293,
+    "description": "Grants all allies HP recovery at the start of turn for 2 turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001294,
+    "description": "Grants all enemies increased damage received from Skill 2 for 2 attacks. (Cannot be stacked)",
+    "popup_text": ""
+  },
+  {
+    "id": 6001295,
+    "description": "Grants all enemies increased damage received from Skill 2 for 2 attacks. (Cannot be stacked)",
+    "popup_text": ""
+  },
+  {
+    "id": 6001297,
+    "description": "When equipped to Mowen [The Flash Adventurer], grants P.ATK Up per Lv. of Rehitruumen.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001298,
+    "description": "Grants a status change used to determine the activation of Mowen's exclusive equipment effects.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001299,
+    "description": "When equipped to Mowen [The Flash Adventurer], after a critical attack, grants Rehitruumen at Lv. 1.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001300,
+    "description": "Grants P.ATK Up per Lv. of Original Buff.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001301,
+    "description": "Grants self increased critical damage for battle items used on self.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001302,
+    "description": "Grants self increased critical damage for Atelier Bomb used on self.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001303,
+    "description": "When holding Dummy Buff for Determination (Full Guida), grants Rehitruumen at Lv. 1.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001304,
+    "description": "When equipped to Mowen [The Flash Adventurer] and Rehitruumen is at Lv. 10, boosts skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 71280001,
+    "description": "Removes target enemy's M.DEF and P.DEF Up.",
+    "popup_text": ""
+  },
+  {
+    "id": 71280003,
+    "description": "Reduces damage dealt for Attackers (3 times).",
+    "popup_text": ""
+  },
+  {
+    "id": 71280004,
+    "description": "Reduces stun damage dealt for Breakers (3 times).",
+    "popup_text": ""
+  },
+  {
+    "id": 71280005,
+    "description": "Increases damage received for Defenders (3 times).",
+    "popup_text": ""
+  },
+  {
+    "id": 71280006,
+    "description": "Reduces HP recovery given for Supporters (3 times).",
+    "popup_text": ""
+  },
+  {
+    "id": 72001731,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001732,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001733,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001734,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001735,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001736,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001737,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001738,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001739,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001740,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001741,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001742,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001743,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001753,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 81232001,
+    "description": "When using an atelier bomb, grants self Attack Down (cap: 40%).",
+    "popup_text": ""
+  },
+  {
+    "id": 81232002,
+    "description": "When HP is at 60% or below and not stunned, re-draws turns.",
+    "popup_text": ""
+  },
+  {
+    "id": 81279011,
+    "description": "Grants self increased boost effect potency received from panels.",
+    "popup_text": ""
+  },
+  {
+    "id": 81279013,
+    "description": "Grants self Damage Dealt Up (cap: 25%, resets at chapter 31).",
+    "popup_text": ""
+  },
+  {
+    "id": 81279014,
+    "description": "Grants self Damage Dealt Up (cap: 35%, resets at chapter 31).",
+    "popup_text": ""
+  },
+  {
+    "id": 81279015,
+    "description": "Grants self Regeneration.",
+    "popup_text": ""
+  },
+  {
+    "id": 81279016,
+    "description": "Grants self Penetration Up.",
+    "popup_text": ""
+  },
+  {
+    "id": 81280007,
+    "description": "Converts the next 10 panels on the timeline to burst panels.",
+    "popup_text": ""
+  },
+  {
+    "id": 81280008,
+    "description": "When not stunned, grants self Damage Nullification.",
+    "popup_text": ""
+  },
+  {
+    "id": 81280009,
+    "description": "Grants self damage immunity when not stunned.",
+    "popup_text": ""
+  },
+  {
+    "id": 81280010,
+    "description": "Grants self Penetration Up.",
+    "popup_text": ""
+  },
+  {
+    "id": 91001309,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91001357,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002290,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002291,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002292,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002293,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002294,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002295,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002296,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002297,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002298,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000399,
+    "description": "While equipped to an Attacker with Air affinity, grants self Skill Damage Up for 2 turns after a critical attack.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000400,
+    "description": "Boosts critical rate when the Promise & Teamwork condition is active.",
+    "popup_text": ""
   }
 ]

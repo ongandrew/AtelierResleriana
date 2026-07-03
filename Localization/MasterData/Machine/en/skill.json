@@ -42166,5 +42166,845 @@
     "description": "After attacking, grants self damage dealt up ({0}%/1 turn).",
     "name": "Distant Growl",
     "summary": ""
+  },
+  {
+    "id": 32192,
+    "description": "Restores 5% HP to all allies.<br>After recovery, grants all allies HP recovery of {0}% at the start of turn, 2 stacks each, lasting until their next 2 turns.",
+    "name": "Sherbany Bread",
+    "summary": ""
+  },
+  {
+    "id": 32193,
+    "description": "Restores 3% HP to all allies.<br>After recovery, grants all allies HP recovery of {0}% at the start of turn, 2 stacks each, lasting until their next 2 turns.",
+    "name": "Sherbany Bread",
+    "summary": ""
+  },
+  {
+    "id": 32194,
+    "description": "Increases all enemies' damage received from Skill 2 by {0}% for 2 attacks. (Cannot be stacked)",
+    "name": "Ancient Beast Talisman",
+    "summary": ""
+  },
+  {
+    "id": 32195,
+    "description": "Increases all enemies' damage received from Skill 2 by {0}% for 2 attacks. (Cannot be stacked)",
+    "name": "Ancient Beast Talisman",
+    "summary": ""
+  },
+  {
+    "id": 51001,
+    "description": "Deals Stab damage to all enemies.<br>※Does not consume the target's status effect turns.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>※Does not consume the target's status effect turns."
+  },
+  {
+    "id": 51002,
+    "description": "Deals Stab damage to all enemies.<br>※Does not consume the target's status effect turns.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>※Does not consume the target's status effect turns."
+  },
+  {
+    "id": 51003,
+    "description": "Deals Stab damage to all enemies.<br>※Does not consume the target's status effect turns.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>※Does not consume the target's status effect turns."
+  },
+  {
+    "id": 51004,
+    "description": "Deals Stab damage to all enemies.<br>※Does not consume the target's status effect turns.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>※Does not consume the target's status effect turns."
+  },
+  {
+    "id": 51005,
+    "description": "Deals Stab damage to all enemies.<br>※Does not consume the target's status effect turns.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>※Does not consume the target's status effect turns."
+  },
+  {
+    "id": 51006,
+    "description": "Deals Stab damage to all enemies.<br>※Does not consume the target's status effect turns.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>※Does not consume the target's status effect turns."
+  },
+  {
+    "id": 51007,
+    "description": "Deals Stab damage to all enemies.<br>※Does not consume the target's status effect turns.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>※Does not consume the target's status effect turns."
+  },
+  {
+    "id": 51008,
+    "description": "Deals Stab damage to all enemies.<br>※Does not consume the target's status effect turns.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>※Does not consume the target's status effect turns."
+  },
+  {
+    "id": 51009,
+    "description": "Deals Stab damage to all enemies.<br>※Does not consume the target's status effect turns.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>※Does not consume the target's status effect turns."
+  },
+  {
+    "id": 51010,
+    "description": "Deals Stab damage to all enemies.<br>※Does not consume the target's status effect turns.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>※Does not consume the target's status effect turns."
+  },
+  {
+    "id": 51011,
+    "description": "Deals Stab damage to all enemies.<br>※Does not consume the target's status effect turns.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>※Does not consume the target's status effect turns."
+  },
+  {
+    "id": 51012,
+    "description": "Deals Stab damage to all enemies.<br>※Does not consume the target's status effect turns.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>※Does not consume the target's status effect turns."
+  },
+  {
+    "id": 51013,
+    "description": "Deals Stab damage to all enemies.<br>※Does not consume the target's status effect turns.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>※Does not consume the target's status effect turns."
+  },
+  {
+    "id": 51014,
+    "description": "Deals Stab damage to all enemies.<br>※Does not consume the target's status effect turns.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>※Does not consume the target's status effect turns."
+  },
+  {
+    "id": 51015,
+    "description": "Deals Stab damage to all enemies.<br>※Does not consume the target's status effect turns.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>※Does not consume the target's status effect turns."
+  },
+  {
+    "id": 51016,
+    "description": "Deals Stab damage to all enemies.<br>※Does not consume the target's status effect turns.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>※Does not consume the target's status effect turns."
+  },
+  {
+    "id": 51017,
+    "description": "Deals Stab damage to all enemies.<br>※Does not consume the target's status change count.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>※Does not consume the target's status change count."
+  },
+  {
+    "id": 51018,
+    "description": "Deals Stab damage to all enemies.<br>※Does not consume the target's status change count.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>※Does not consume the target's status change count."
+  },
+  {
+    "id": 51019,
+    "description": "Deals Stab damage to all enemies.<br>※Does not consume the target's status change count.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>※Does not consume the target's status change count."
+  },
+  {
+    "id": 51020,
+    "description": "Deals Stab damage to all enemies.<br>※Does not consume the target's status change count.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>※Does not consume the target's status change count."
+  },
+  {
+    "id": 51021,
+    "description": "Deals Stab damage to all enemies.<br>※Does not consume the target's status change count.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>※Does not consume the target's status change count."
+  },
+  {
+    "id": 51022,
+    "description": "Deals Stab damage to all enemies.<br>※Does not consume the target's status change count.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>※Does not consume the target's status change count."
+  },
+  {
+    "id": 51023,
+    "description": "Deals Stab damage to all enemies.<br>※Does not consume the target's status change count.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>※Does not consume the target's status change count."
+  },
+  {
+    "id": 51024,
+    "description": "Deals Stab damage to all enemies.<br>※Does not consume the target's status change count.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>※Does not consume the target's status change count."
+  },
+  {
+    "id": 51025,
+    "description": "Deals Stab damage to all enemies.<br>※Does not consume the target's status change count.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>※Does not consume the target's status change count."
+  },
+  {
+    "id": 51026,
+    "description": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※Does not consume the target's status change count.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※Does not consume the target's status change count."
+  },
+  {
+    "id": 51027,
+    "description": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※Does not consume the target's status change count.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※Does not consume the target's status change count."
+  },
+  {
+    "id": 51028,
+    "description": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※Does not consume the target's status change count.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※Does not consume the target's status change count."
+  },
+  {
+    "id": 51029,
+    "description": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※Does not consume the target's status change count.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※Does not consume the target's status change count."
+  },
+  {
+    "id": 51030,
+    "description": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※Does not consume the target's status change count.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※Does not consume the target's status change count."
+  },
+  {
+    "id": 51031,
+    "description": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※Does not consume the target's status change count.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※Does not consume the target's status change count."
+  },
+  {
+    "id": 51032,
+    "description": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※Does not consume the target's status change count.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※Does not consume the target's status change count."
+  },
+  {
+    "id": 51033,
+    "description": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※Does not consume the target's status change count.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※Does not consume the target's status change count."
+  },
+  {
+    "id": 51034,
+    "description": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※Does not consume the target's status change count.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※Does not consume the target's status change count."
+  },
+  {
+    "id": 51035,
+    "description": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※Does not consume the target's status change count.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※Does not consume the target's status change count."
+  },
+  {
+    "id": 51036,
+    "description": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※Does not consume the target's status change count.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※Does not consume the target's status change count."
+  },
+  {
+    "id": 51037,
+    "description": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※ Does not consume the target's status effect count.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※ Does not consume the target's status effect count."
+  },
+  {
+    "id": 51038,
+    "description": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※ Does not consume the target's status effect count.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※ Does not consume the target's status effect count."
+  },
+  {
+    "id": 51039,
+    "description": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※ Does not consume the target's status effect count.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※ Does not consume the target's status effect count."
+  },
+  {
+    "id": 51040,
+    "description": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※ Does not consume the target's status effect count.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※ Does not consume the target's status effect count."
+  },
+  {
+    "id": 51041,
+    "description": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※ Does not consume the target's status effect count.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※ Does not consume the target's status effect count."
+  },
+  {
+    "id": 51042,
+    "description": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※ Does not consume the target's status effect count.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※ Does not consume the target's status effect count."
+  },
+  {
+    "id": 51043,
+    "description": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※ Does not consume the target's status effect count.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※ Does not consume the target's status effect count."
+  },
+  {
+    "id": 51044,
+    "description": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※ Does not consume the target's status effect count.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※ Does not consume the target's status effect count."
+  },
+  {
+    "id": 51045,
+    "description": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※ Does not consume the target's status effect count.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※ Does not consume the target's status effect count."
+  },
+  {
+    "id": 51046,
+    "description": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※ Does not consume the target's status effect count.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※ Does not consume the target's status effect count."
+  },
+  {
+    "id": 51047,
+    "description": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※ Does not consume the target's status effect count.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※ Does not consume the target's status effect count."
+  },
+  {
+    "id": 51048,
+    "description": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※ Does not consume the target's status effect count.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※ Does not consume the target's status effect count."
+  },
+  {
+    "id": 51049,
+    "description": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※ Does not consume the target's status effect count.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※ Does not consume the target's status effect count."
+  },
+  {
+    "id": 51050,
+    "description": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※ Does not consume the target's status effect count.",
+    "name": "Death Uni",
+    "summary": "Deals Stab damage to all enemies.<br>Boosts this attack's critical rate by +{0}% and critical damage by +{1}%.<br>※ Does not consume the target's status effect count."
+  },
+  {
+    "id": 11003828,
+    "description": "After attacking, boosts own M.ATK by {0}% and skill damage by {1}% (max 40% each).",
+    "name": "Flash Blow",
+    "summary": "After attacking, boosts own M.ATK and skill damage."
+  },
+  {
+    "id": 11003829,
+    "description": "After attacking, boosts own M.ATK by {0}% and skill damage by {1}% (max 40% each).",
+    "name": "Flash Blow",
+    "summary": "After attacking, boosts own M.ATK and skill damage."
+  },
+  {
+    "id": 11003830,
+    "description": "After attacking, boosts own M.ATK by {0}% and skill damage by {1}% (max 40% each).",
+    "name": "Flash Blow",
+    "summary": "After attacking, boosts own M.ATK and skill damage."
+  },
+  {
+    "id": 11003831,
+    "description": "After attacking, boosts own M.ATK by {0}% and skill damage by {1}% (max 40% each).",
+    "name": "Flash Blow",
+    "summary": "After attacking, boosts own M.ATK and skill damage."
+  },
+  {
+    "id": 11003832,
+    "description": "After attacking, boosts own M.ATK by {0}% and skill damage by {1}% (max 40% each).",
+    "name": "Flash Blow",
+    "summary": "After attacking, boosts own M.ATK and skill damage."
+  },
+  {
+    "id": 12003833,
+    "description": "Boosts critical damage by 100-150% depending on own HP (Higher boost for higher HP, range: 20-100% HP).<br>After attacking, boosts own M.ATK by {0}% and critical damage by {1}% for 2 turns.<br>If Raging Lumen has not been granted, grants self Raging Lumen (Lv. 1).<br>If already granted, increases Raging Lumen's Lv. by 1 (max Lv. 10).",
+    "name": "Raging Smite",
+    "summary": "Higher HP boosts critical damage.<br>After attacking, boosts own M.ATK and critical damage.<br>Grants self Raging Lumen or increases its Lv."
+  },
+  {
+    "id": 12003834,
+    "description": "Boosts critical damage by 100-150% depending on own HP (Higher boost for higher HP, range: 20-100% HP).<br>After attacking, grants self M.ATK +{0}% and critical damage +{1}% for 2 turns.<br>If Retoolumon has not been granted, grants self Retoolumon (Lv. 1).<br>If already granted, increases Retoolumon's Lv. +1 (MAX Lv. 10).",
+    "name": "Raging Smite",
+    "summary": "Higher HP boosts critical damage more.<br>After attacking, boosts own M.ATK and critical damage.<br>Grants self Retoolumon or increases its level."
+  },
+  {
+    "id": 12003835,
+    "description": "Boosts critical damage by 100-150% depending on own HP (Higher boost for higher HP, range: 20-100% HP).<br>After attacking, grants self M.ATK +{0}% and critical damage +{1}% for 2 turns.<br>If Retoolumon has not been granted, grants self Retoolumon (Lv. 1).<br>If already granted, increases Retoolumon's Lv. +1 (MAX Lv. 10).",
+    "name": "Raging Smite",
+    "summary": "Higher HP boosts critical damage more.<br>After attacking, boosts own M.ATK and critical damage.<br>Grants self Retoolumon or increases its level."
+  },
+  {
+    "id": 12003836,
+    "description": "Boosts critical damage by 100-150% depending on own HP (Higher boost for higher HP, range: 20-100% HP).<br>After attacking, grants self M.ATK +{0}% and critical damage +{1}% for 2 turns.<br>If Retoolumon has not been granted, grants self Retoolumon (Lv. 1).<br>If already granted, increases Retoolumon's Lv. +1 (MAX Lv. 10).",
+    "name": "Raging Smite",
+    "summary": "Higher HP boosts critical damage more.<br>After attacking, boosts own M.ATK and critical damage.<br>Grants self Retoolumon or increases its level."
+  },
+  {
+    "id": 12003837,
+    "description": "Boosts critical damage by 100-150% depending on own HP (Higher boost for higher HP, range: 20-100% HP).<br>After attacking, grants self M.ATK +{0}% and critical damage +{1}% for 2 turns.<br>If Retoolumon has not been granted, grants self Retoolumon (Lv. 1).<br>If already granted, increases Retoolumon's Lv. +1 (MAX Lv. 10).",
+    "name": "Raging Smite",
+    "summary": "Higher HP boosts critical damage more.<br>After attacking, boosts own M.ATK and critical damage.<br>Grants self Retoolumon or increases its level."
+  },
+  {
+    "id": 14003838,
+    "description": "Boosts critical damage by 100-150% depending on own HP (Higher boost for higher HP, range: 20-100% HP).<br>After attacking, grants self M.ATK +{0}% and penetration +{1} for 2 turns.<br>If Retoolumon has not been granted, grants self Retoolumon (Lv. 2).<br>If already granted, increases Retoolumon's Lv. +2 (MAX Lv. 10).",
+    "name": "Einzel Camp",
+    "summary": "Higher HP boosts critical damage more.<br>After attacking, boosts own M.ATK and penetration.<br>Grants self Retoolumon or increases its level."
+  },
+  {
+    "id": 14003839,
+    "description": "Boosts critical damage by 100-150% depending on own HP (Higher boost for higher HP, range: 20-100% HP).<br>After attacking, grants self M.ATK +{0}% and penetration +{1} for 2 turns.<br>If Retoolumon has not been granted, grants self Retoolumon (Lv. 2).<br>If already granted, increases Retoolumon's Lv. +2 (MAX Lv. 10).",
+    "name": "Einzel Camp",
+    "summary": "Higher HP boosts critical damage more.<br>After attacking, boosts own M.ATK and penetration.<br>Grants self Retoolumon or increases its level."
+  },
+  {
+    "id": 14003840,
+    "description": "Boosts critical damage by 100-150% depending on own HP (Higher boost for higher HP, range: 20-100% HP).<br>After attacking, grants self M.ATK +{0}% and penetration +{1} for 2 turns.<br>If Retoolumon has not been granted, grants self Retoolumon (Lv. 2).<br>If already granted, increases Retoolumon's Lv. +2 (MAX Lv. 10).",
+    "name": "Einzel Camp",
+    "summary": "Higher HP boosts critical damage more.<br>After attacking, boosts own M.ATK and penetration.<br>Grants self Retoolumon or increases its level."
+  },
+  {
+    "id": 14003841,
+    "description": "Boosts critical damage by 100-150% depending on own HP (Higher boost for higher HP, range: 20-100% HP).<br>After attacking, grants self M.ATK +{0}% and penetration +{1} for 2 turns.<br>If Retoolumon has not been granted, grants self Retoolumon (Lv. 2).<br>If already granted, increases Retoolumon's Lv. +2 (MAX Lv. 10).",
+    "name": "Einzel Camp",
+    "summary": "Higher HP boosts critical damage more.<br>After attacking, boosts own M.ATK and penetration.<br>Grants self Retoolumon or increases its level."
+  },
+  {
+    "id": 14003842,
+    "description": "Boosts critical damage by 100-150% depending on own HP (Higher boost for higher HP, range: 20-100% HP).<br>After attacking, grants self M.ATK +{0}% and penetration +{1} for 2 turns.<br>If Retoolumon has not been granted, grants self Retoolumon (Lv. 2).<br>If already granted, increases Retoolumon's Lv. +2 (MAX Lv. 10).",
+    "name": "Einzel Camp",
+    "summary": "Higher HP boosts critical damage more.<br>After attacking, boosts own M.ATK and penetration.<br>Grants self Retoolumon or increases its level."
+  },
+  {
+    "id": 14003845,
+    "description": "Increases own burst gauge by {0}% (MAX 2 activations).<br>Grants self HP recovery +{1}% at the start of turn for 2 turns.<br>Grants self the following additional effect for 1 turn:<br>Additional Effect: When own critical rate exceeds 100%, converts the excess critical rate above 100% into skill power during attacks (conversion MAX: {2}%).<br>If Retoolumon has not been granted, grants self Retoolumon (Lv. 5).<br>If already granted, increases Retoolumon's Lv. +5 (MAX Lv. 10).",
+    "name": "Burst Recharge",
+    "summary": "Increases own burst gauge.<br>Grants self Regeneration.<br>Grants self additional effect.<br>Grants self Retoolumon or increases its level."
+  },
+  {
+    "id": 22001990,
+    "description": "After attacking, reduces the potency of positive effects granted to all enemies by 50% for 3 turns, and grants self stun damage received -60% for 2 turns.",
+    "name": "Methus Ac Mori",
+    "summary": ""
+  },
+  {
+    "id": 22001991,
+    "description": "No effects.",
+    "name": "Aquies",
+    "summary": ""
+  },
+  {
+    "id": 22001992,
+    "description": "After attacking, removes target enemy's P.DEF Up and M.DEF Up.",
+    "name": "Akel Luptura",
+    "summary": ""
+  },
+  {
+    "id": 22001993,
+    "description": "After attacking, restores own HP by 20% and grants self negative effect immunity for 2 turns.",
+    "name": "Caedes Floris",
+    "summary": ""
+  },
+  {
+    "id": 22001994,
+    "description": "After attacking, inflicts the following effects on all enemies.\nFor Attackers: damage dealt -({0}%/3 turns). For Breakers: stun damage dealt -({1}%/3 turns). For Defenders: damage received +({2}%/3 turns). For Supporters: HP recovery granted -({3}%/3 turns).",
+    "name": "Crimen Poena",
+    "summary": ""
+  },
+  {
+    "id": 22001995,
+    "description": "Removes all enemies' positive effects and grants them nullify positive effects for 1 turn.",
+    "name": "Silentium",
+    "summary": ""
+  },
+  {
+    "id": 22001996,
+    "description": "After attacking, delays target's turn by {0} and inflicts Daze (100% chance to apply/1 turn).",
+    "name": "Lavidus Perctio",
+    "summary": ""
+  },
+  {
+    "id": 22001997,
+    "description": "No effects.",
+    "name": "Ursus",
+    "summary": ""
+  },
+  {
+    "id": 22001998,
+    "description": "After attacking, delays target's turn by {0} and grants damage received +({1}%/1 turn).",
+    "name": "Volrit Kerelitas",
+    "summary": ""
+  },
+  {
+    "id": 22001999,
+    "description": "After attacking, grants self damage dealt +({0}%/2 turns) and removes {1} of target's positive effects.",
+    "name": "Agiris Luptura",
+    "summary": ""
+  },
+  {
+    "id": 22002029,
+    "description": "Inflicts Nullify Positive Effects on a single enemy for 1 turn.",
+    "name": "Inhibiting Pursuit Prohibition",
+    "summary": ""
+  },
+  {
+    "id": 22002030,
+    "description": "Reduces a single enemy's stun damage dealt by {0}% for 2 turns, damage dealt by {1}% for 2 turns, and boosts damage received by {2}% for 2 turns.",
+    "name": "Shadow Curse",
+    "summary": ""
+  },
+  {
+    "id": 22002031,
+    "description": "After attacking, delays target's turn by {0} if the target has 1 or more negative effects, and by an additional {1} if the target has 2 or more negative effects.",
+    "name": "Slash Ring",
+    "summary": ""
+  },
+  {
+    "id": 22002032,
+    "description": "After attacking, reduces target's M.ATK by {0}% for 2 turns, P.ATK by {1}% for 2 turns, and SPD by {2}% for 2 turns.",
+    "name": "Call Hellfire",
+    "summary": ""
+  },
+  {
+    "id": 22002033,
+    "description": "After attacking, delays target's turn by {0}.",
+    "name": "Shadow Fire",
+    "summary": ""
+  },
+  {
+    "id": 22002034,
+    "description": "After attacking, boosts own damage dealt by {0}% for 3 turns and reduces damage received by {1}% for 3 turns.",
+    "name": "Fire Burst",
+    "summary": ""
+  },
+  {
+    "id": 22002036,
+    "description": "No effect.",
+    "name": "Explosion",
+    "summary": ""
+  },
+  {
+    "id": 22002037,
+    "description": "After attacking, reduces all allies' stun damage received by {0}% for 2 turns.",
+    "name": "Magic Fire Gift",
+    "summary": ""
+  },
+  {
+    "id": 22002038,
+    "description": "Reduces all enemies' P.ATK by {0}% for 2 turns.",
+    "name": "Magical Smoke",
+    "summary": ""
+  },
+  {
+    "id": 22002039,
+    "description": "Reduces a single ally's damage received by {0}% for 2 turns and stun damage received by {1}% for 2 turns.",
+    "name": "Blessing",
+    "summary": ""
+  },
+  {
+    "id": 26002173,
+    "description": "After attacking, reduces target's P.DEF by {0}% for 2 turns and M.DEF by {1}% for 2 turns.",
+    "name": "Release Voltage",
+    "summary": ""
+  },
+  {
+    "id": 26002174,
+    "description": "No effect.",
+    "name": "Death Roll",
+    "summary": ""
+  },
+  {
+    "id": 26002175,
+    "description": "After attacking, reduces own damage received by {0}% for 2 turns.",
+    "name": "Double Binder",
+    "summary": ""
+  },
+  {
+    "id": 26002176,
+    "description": "After attacking, reduces target's damage dealt by {0}% for 2 turns.",
+    "name": "Power Tale",
+    "summary": ""
+  },
+  {
+    "id": 26002177,
+    "description": "After attacking, reduces target's item gauge recovery speed by {0}% for 2 turns.",
+    "name": "Body Press",
+    "summary": ""
+  },
+  {
+    "id": 26002178,
+    "description": "Boosts own damage dealt by {0}% for 2 turns and reduces SPD by {1}% for 1 turn.",
+    "name": "Gigaton Voice",
+    "summary": ""
+  },
+  {
+    "id": 26002182,
+    "description": "After attacking, reduces target's P.DEF by {0}% for 2 turns and M.DEF by {1}% for 2 turns.",
+    "name": "Release Voltage",
+    "summary": ""
+  },
+  {
+    "id": 26002183,
+    "description": "No effect.",
+    "name": "Death Roll",
+    "summary": ""
+  },
+  {
+    "id": 26002184,
+    "description": "After attacking, reduces own damage received by {0}% for 2 turns.",
+    "name": "Double Binder",
+    "summary": ""
+  },
+  {
+    "id": 26002185,
+    "description": "After attacking, reduces target's damage dealt by {0}% for 2 turns.",
+    "name": "Power Tale",
+    "summary": ""
+  },
+  {
+    "id": 26002186,
+    "description": "After attacking, reduces target's item gauge recovery speed by {0}% for 2 attacks.",
+    "name": "Body Press",
+    "summary": ""
+  },
+  {
+    "id": 26002187,
+    "description": "Grants self damage dealt up ({0}%/2 times) and SPD down ({1}%/1 time).",
+    "name": "Gigaton Voice",
+    "summary": ""
+  },
+  {
+    "id": 26002188,
+    "description": "No additional effect.",
+    "name": "Rock Cutter",
+    "summary": ""
+  },
+  {
+    "id": 26002189,
+    "description": "No additional effect.",
+    "name": "Wild Strike",
+    "summary": ""
+  },
+  {
+    "id": 26002190,
+    "description": "Restores all allies' HP by 30%.",
+    "name": "Heal Powder",
+    "summary": ""
+  },
+  {
+    "id": 26002191,
+    "description": "No additional effect.",
+    "name": "Thunder Slash",
+    "summary": ""
+  },
+  {
+    "id": 26002192,
+    "description": "No additional effect.",
+    "name": "Return Slash",
+    "summary": ""
+  },
+  {
+    "id": 26002193,
+    "description": "Grants target damage dealt up ({0}%/2 times).",
+    "name": "Energy Powder",
+    "summary": ""
+  },
+  {
+    "id": 26002194,
+    "description": "Grants target damage received up ({0}%/3 times).",
+    "name": "Curse Powder",
+    "summary": ""
+  },
+  {
+    "id": 26002195,
+    "description": "No additional effect.",
+    "name": "Wild Strike",
+    "summary": ""
+  },
+  {
+    "id": 26002196,
+    "description": "No additional effect.",
+    "name": "Octopus Strike",
+    "summary": ""
+  },
+  {
+    "id": 26002197,
+    "description": "Grants all enemies Provoke (3 times) and reduces own damage received by {1}% for 3 attacks.",
+    "name": "Attention",
+    "summary": ""
+  },
+  {
+    "id": 26002198,
+    "description": "Reduces own damage received by {0}% for 2 attacks and restores HP by {1}%.",
+    "name": "Heal Roar",
+    "summary": ""
+  },
+  {
+    "id": 26002199,
+    "description": "After attacking, reduces own damage received by {0}% for 1 attack and boosts own damage dealt by {1}% for 2 attacks.",
+    "name": "Pork Bite",
+    "summary": ""
+  },
+  {
+    "id": 26002200,
+    "description": "No additional effect.",
+    "name": "Spin Needle",
+    "summary": ""
+  },
+  {
+    "id": 26002201,
+    "description": "No additional effect.",
+    "name": "Ice Bite",
+    "summary": ""
+  },
+  {
+    "id": 26002202,
+    "description": "After attacking, grants self damage dealt up ({0}%/3 times), stun damage received down ({1}%/1 time), and damage received down ({2}%/1 time).",
+    "name": "Ice Mountain Armor",
+    "summary": ""
+  },
+  {
+    "id": 26002203,
+    "description": "After attacking, reduces target's P.DEF by {0}% for 2 attacks and M.DEF by {1}% for 2 attacks.",
+    "name": "Release Voltage",
+    "summary": ""
+  },
+  {
+    "id": 26002204,
+    "description": "No additional effect.",
+    "name": "Death Roll",
+    "summary": ""
+  },
+  {
+    "id": 26002205,
+    "description": "After attacking, reduces own damage received by {0}% for 2 attacks.",
+    "name": "Double Vinta",
+    "summary": ""
+  },
+  {
+    "id": 26002206,
+    "description": "After attacking, reduces target's damage dealt by {0}% for 2 turns.",
+    "name": "Power Tail",
+    "summary": ""
+  },
+  {
+    "id": 26002207,
+    "description": "After attacking, reduces target's item gauge recovery speed by {0}% for 2 turns.",
+    "name": "Body Press",
+    "summary": ""
+  },
+  {
+    "id": 26002208,
+    "description": "Grants self damage dealt +{0}% for 2 turns and SPD -{1}% for 1 turn.",
+    "name": "Gigaton Voice",
+    "summary": ""
+  },
+  {
+    "id": 26002209,
+    "description": "After attacking, grants all allies damage dealt +{0}% and damage received -{1}% for 3 turns.",
+    "name": "Stage On Ice",
+    "summary": ""
+  },
+  {
+    "id": 26002210,
+    "description": "Reduces all allies' damage received by {0}% for 3 turns.",
+    "name": "Dance of Protection",
+    "summary": ""
+  },
+  {
+    "id": 26002211,
+    "description": "Reduces all enemies' damage dealt by {0}% and stun damage dealt by {1}% for 3 turns.",
+    "name": "Dangerous Snow Powder",
+    "summary": ""
+  },
+  {
+    "id": 26002212,
+    "description": "Restores target ally's HP by 25% and restores BG by {0}%.",
+    "name": "Support",
+    "summary": ""
+  },
+  {
+    "id": 26002213,
+    "description": "After attacking, restores own HP and BG by {0}%.",
+    "name": "Spinning Twirling Punch",
+    "summary": ""
+  },
+  {
+    "id": 26002214,
+    "description": "After attacking, reduces target's damage dealt by {0}% for 4 turns.",
+    "name": "Twirling Punch",
+    "summary": ""
+  },
+  {
+    "id": 26002215,
+    "description": "After attacking, reduces target's stun damage dealt by {0}% for 4 turns.",
+    "name": "Dark Storm",
+    "summary": ""
+  },
+  {
+    "id": 26002216,
+    "description": "Restores own HP by 30% and clears status effects.",
+    "name": "Heal Powder",
+    "summary": ""
+  },
+  {
+    "id": 26002217,
+    "description": "Grants self Cover for 3 attacks.",
+    "name": "Stand By",
+    "summary": ""
+  },
+  {
+    "id": 26002218,
+    "description": "Reduces all allies' damage received by {0}% for 2 turns.",
+    "name": "Energy Powder",
+    "summary": ""
+  },
+  {
+    "id": 26002219,
+    "description": "After attacking, reduces own damage received by {0}% for 1-5 turns.",
+    "name": "Armor Swap",
+    "summary": ""
+  },
+  {
+    "id": 26002220,
+    "description": "After attacking, reduces own damage received by {0}% for 1 turn.",
+    "name": "Stone Gratitude",
+    "summary": ""
+  },
+  {
+    "id": 26002221,
+    "description": "When attacking, boosts damage dealt by {0}% when own HP is 50% or below.",
+    "name": "Rising Dragon Scroll",
+    "summary": ""
+  },
+  {
+    "id": 26002222,
+    "description": "No additional effects.",
+    "name": "Rapid Fire",
+    "summary": ""
+  },
+  {
+    "id": 26002223,
+    "description": "Reduces single enemy's stun damage dealt by {0}% for 3 turns.",
+    "name": "Curse Powder",
+    "summary": ""
+  },
+  {
+    "id": 26002224,
+    "description": "Grants self Cover for 3 attacks.",
+    "name": "Stand By",
+    "summary": ""
+  },
+  {
+    "id": 26002225,
+    "description": "After attacking, reduces target's P.DEF by {0}% and M.DEF by {1}% for 2 turns.",
+    "name": "Release Voltage",
+    "summary": ""
   }
 ]

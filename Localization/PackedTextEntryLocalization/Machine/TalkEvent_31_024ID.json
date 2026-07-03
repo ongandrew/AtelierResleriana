@@ -1,0 +1,597 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "洞窟はやっぱ寒いね？",
+        "localizations": {
+          "en": "These caves are pretty chilly, huh?"
+        }
+      },
+      "2072370017": {
+        "text": "リアス",
+        "localizations": {
+          "en": "Rias"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "そうそう。冷えるからお腹出さないほうがいいよ？\n私が言えた義理じゃないけど",
+        "localizations": {
+          "en": "They really are. Careful not to catch cold—you should probably cover up your midriff. Not that I'm one to talk."
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "聖地だから、九偉人の光る像とかあるかなーって\n思ったのに……もっと奥行ったらあるかな？",
+        "localizations": {
+          "en": "I thought a sacred site might have glowing statues of the Nine or something... Maybe they're deeper in?"
+        }
+      },
+      "2072370017": {
+        "text": "リアス",
+        "localizations": {
+          "en": "Rias"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "慎重に進もう。九偉人の聖地といわれる洞窟、\n侵入者除けの罠があったりする可能性も……",
+        "localizations": {
+          "en": "Let's stay cautious. If this really is a sacred site of the Nine, there could be traps set for intruders..."
+        }
+      },
+      "2072370017": {
+        "text": "スレイ",
+        "localizations": {
+          "en": "Slade"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "ああ、それは大丈夫。\nそれこそ、聖地だから、ね",
+        "localizations": {
+          "en": "Oh, that won't be an issue. Precisely because it's a sacred site."
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "聖地だから……そっか、聖地なら多くの人が\n参拝に来るから、罠を仕掛けたら危ないもんね",
+        "localizations": {
+          "en": "Right... if it's sacred, people would make pilgrimages here. Setting traps would put worshippers at risk."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "そうよ。それにここが聖地なら、信仰のために\nむしろしっかり整備されているはずだと思うわ",
+        "localizations": {
+          "en": "Exactly. And if it's truly a place of devotion, I'd expect it to be well-maintained rather than dangerous."
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "確かに。今は寂れて見えるけど、\n昔は整備されていたと思える跡がちょこっと見えるね",
+        "localizations": {
+          "en": "Good point. It looks a bit run-down now, but you can definitely see traces of upkeep from back in the day."
+        }
+      },
+      "2072370017": {
+        "text": "クレオ",
+        "localizations": {
+          "en": "Creo"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "あの～、今さらなんだけど、あなたは……？",
+        "localizations": {
+          "en": "Um, not to be rude—but who are you exactly?"
+        }
+      },
+      "2072370017": {
+        "text": "リアス",
+        "localizations": {
+          "en": "Rias"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "私はクレオ・ランターナ。ランターナ王女だよ。\nそして、特殊部隊「光星隊」の隊長なり！",
+        "localizations": {
+          "en": "Creo Lantarna, Princess of Lantarna. And captain of the Star Vanguard!"
+        }
+      },
+      "2072370017": {
+        "text": "クレオ",
+        "localizations": {
+          "en": "Creo"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "光星隊再結成の時まで、私も旅に参加するの。\nみんなと一緒にいたら、もっと強くなれる気がするから",
+        "localizations": {
+          "en": "I'm joining the journey until I can reassemble the Star Vanguard. Being around everyone feels like it'll make me stronger."
+        }
+      },
+      "2072370017": {
+        "text": "クレオ",
+        "localizations": {
+          "en": "Creo"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "改めて、よろしくね！",
+        "localizations": {
+          "en": "Nice to officially meet you!"
+        }
+      },
+      "2072370017": {
+        "text": "クレオ",
+        "localizations": {
+          "en": "Creo"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "よろしくお願いします……\nリアスが失礼をしないよう、しっかり見ていないと",
+        "localizations": {
+          "en": "Likewise... I'd better keep a close eye on Rias so she doesn't say anything rude."
+        }
+      },
+      "2072370017": {
+        "text": "スレイ",
+        "localizations": {
+          "en": "Slade"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "もう！\u3000しないってば！",
+        "localizations": {
+          "en": "Hey! I wouldn't!"
+        }
+      },
+      "2072370017": {
+        "text": "リアス",
+        "localizations": {
+          "en": "Rias"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "聖地……洞窟、ひと気のない場所……\nお、いいのできたかも！",
+        "localizations": {
+          "en": "A sacred site... a cave... somewhere quiet and secluded... Oh, I think I've got something!"
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "冷たく、暗い私の心、吹き込んでくるのは\n温かなあの人の温もり……",
+        "localizations": {
+          "en": "My heart, cold and darkened, feels the warmth of that distant, beloved presence stealing in..."
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "え？\u3000なに急に？",
+        "localizations": {
+          "en": "Huh? Where did that come from?"
+        }
+      },
+      "2072370017": {
+        "text": "リアス",
+        "localizations": {
+          "en": "Rias"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "お母さん、詩を作るのが好きなの。\n昔から変わってないんだね、その趣味",
+        "localizations": {
+          "en": "She loves writing poetry. She's been like that since I was little—some things never change."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "へえ、ポエム……！",
+        "localizations": {
+          "en": "Ooh, a poem...!"
+        }
+      },
+      "2072370017": {
+        "text": "クレオ",
+        "localizations": {
+          "en": "Creo"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "誰も踏み入れたことのない私の聖地に、\nあなたの気配が忍び寄る……",
+        "localizations": {
+          "en": "Into the sacred ground none may trespass, your presence creeps closer in the shadows..."
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "ハッハッハッ……",
+        "localizations": {
+          "en": "Heh heh heh..."
+        }
+      },
+      "2072370017": {
+        "text": "魔物",
+        "localizations": {
+          "en": "Monster"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "それは荒く、獣のような息遣い……\nって、魔物じゃないの！",
+        "localizations": {
+          "en": "Ragged breaths, wild and fierce like a beast— wait, that's an actual monster!"
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "私の恋愛詩をなんかいやらしくしないでよね！",
+        "localizations": {
+          "en": "Don't go making my love poetry sound like something weird!"
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "ひゃー、豪快……",
+        "localizations": {
+          "en": "Oh wow, that was bold..."
+        }
+      },
+      "2072370017": {
+        "text": "リアス",
+        "localizations": {
+          "en": "Rias"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "繊細な詩とは正反対だな……",
+        "localizations": {
+          "en": "Not exactly the delicate imagery she was going for..."
+        }
+      },
+      "2072370017": {
+        "text": "スレイ",
+        "localizations": {
+          "en": "Slade"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "強くて詩も作れる……文武両道で素敵！",
+        "localizations": {
+          "en": "She can fight and write poetry? A true warrior-poet—I love it!"
+        }
+      },
+      "2072370017": {
+        "text": "クレオ",
+        "localizations": {
+          "en": "Creo"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "あら、ほめてくれてありがと",
+        "localizations": {
+          "en": "Aww, thank you."
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "元々恋愛詩を書くのが趣味だったんだけど、\nどっちかというと向いてるのは荒事だったみたいでね",
+        "localizations": {
+          "en": "Writing love poetry was always my hobby, but it turns out combat suits me a lot better."
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "吟遊詩人みたいなことをしたかったけど、\nいつの間にやらすっかり冒険者",
+        "localizations": {
+          "en": "I dreamed of being a bard, but somewhere along the way I ended up a full-on adventurer."
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "まあでも、そのうち冒険自体楽しめるようになったし\n冒険譚とか詩の引き出しも増えたからよし！",
+        "localizations": {
+          "en": "Honestly though, I came to love adventuring in its own right—and it's given me plenty of new stories and inspiration, so no complaints!"
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "戦って歌える吟遊冒険者、なんて結構私に\n似合ってる気がするんだけど、どうかな？",
+        "localizations": {
+          "en": "A singing, sword-swinging adventurer-bard—you don't think it suits me?"
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "すごく似合ってる！\u3000素敵！\n私もそんな素敵な人になりたいよ",
+        "localizations": {
+          "en": "It suits you perfectly! I want to grow into someone that cool one day."
+        }
+      },
+      "2072370017": {
+        "text": "クレオ",
+        "localizations": {
+          "en": "Creo"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "ふふっ、今のクレオちゃんも十分素敵だけどね",
+        "localizations": {
+          "en": "Hehe, you're pretty wonderful yourself, Creo."
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "洞窟の出発前でも思ったけど\nレスナちゃんのお母さん、元気で、とっても若いよね",
+        "localizations": {
+          "en": "I was thinking it even before we entered the cave—Resna's mom is so full of energy. And she looks so young!"
+        }
+      },
+      "2072370017": {
+        "text": "リアス",
+        "localizations": {
+          "en": "Rias"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "ふふ、私が小さい頃からずっとあんな感じなんだ。\n誰とでもすぐ仲良くなれちゃう、自慢のお母さん",
+        "localizations": {
+          "en": "Hehe, she's been exactly like that since I was little. She makes friends with anyone in an instant. I'm really proud of her."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  }
+]

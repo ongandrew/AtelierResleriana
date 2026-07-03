@@ -3114,5 +3114,41 @@
   {
     "id": 10169015,
     "description": "- No tips available."
+  },
+  {
+    "id": 10107009,
+    "description": "- No tips available."
+  },
+  {
+    "id": 10121007,
+    "description": "- No tips available."
+  },
+  {
+    "id": 10279000,
+    "description": "- At the start of battle, grants self Penetration Up and Positive Effect Potency Up from boost panels\n- After using a skill, grants self Damage Dealt Up\n- When HP drops to a certain level, grants self Regen and converts panels to burst panels\n- When stunning an opponent, grants self Damage Dealt Up and inflicts Nullify Positive Effects on all opponents\n- After stunning an opponent, begins using powerful attacks and skill targets become random\n- Removes some positive effects from target\n- Delays turn\n- Inflicts Daze"
+  },
+  {
+    "id": 10279001,
+    "description": "- At the start of battle, grants self Penetration Up and Positive Effect Potency Up from boost panels\n- After using a skill, grants self Damage Dealt Up and Regen\n- When HP drops to a certain level, grants self Regen and converts panels to burst panels\n- When stunning an opponent, grants self Damage Dealt Up and inflicts Nullify Positive Effects on all opponents\n- After stunning an opponent, begins using powerful attacks and skill targets become random\n- Removes some positive effects from target\n- Delays turn\n- Inflicts Daze"
+  },
+  {
+    "id": 10280000,
+    "description": "- At the start of battle, activates a field effect that reduces positive effect potency granted by all opponents\n- At the start of battle, converts up to 10 panels from the front of the timeline to burst panels, and grants self Nullify Damage Received When Not Stunned and Penetration Up\n- Reduces own stun damage received\n- Heals self and grants Nullify Negative Effects\n- Inflicts Damage Dealt Down on Attackers, Stun Damage Dealt Down on Breakers, Damage Received Up on Defenders, and HP Recovery Down on Supporters respectively\n- Removes positive effects from all opponents and additionally inflicts Nullify Positive Effects\n- Inflicts Positive Effect Potency Down on all opponents\n- Removes P.DEF Up and M.DEF Up from target"
+  },
+  {
+    "id": 30081011,
+    "description": "- No tips available."
+  },
+  {
+    "id": 30082003,
+    "description": "- No tips available."
+  },
+  {
+    "id": 30232001,
+    "description": "- No tips available."
+  },
+  {
+    "id": 30232002,
+    "description": "- When HP reaches a certain level, delays own turn, grants self multiple positive effects, restores stun gauge, and begins using powerful attacks\n- When stunned, removes the Damage Dealt Up granted by the above effect\n- When receiving damage from an Atelier Bomb, grants self ATK Down (up to 40%)"
   }
 ]

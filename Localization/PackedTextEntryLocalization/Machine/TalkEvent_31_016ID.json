@@ -1,0 +1,750 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "もう、ダメ……",
+        "localizations": {
+          "en": "I can't... anymore..."
+        }
+      },
+      "2072370017": {
+        "text": "キューン",
+        "localizations": {
+          "en": "Quinn"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "チッ、足が……\n動きな、この凡骨！！",
+        "localizations": {
+          "en": "Tch, my legs... Move, you useless things!!"
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "さて、残るはヴァレリア、お前だけだ",
+        "localizations": {
+          "en": "Well then. Only you remain, Valeria."
+        }
+      },
+      "2072370017": {
+        "text": "ヘルト",
+        "localizations": {
+          "en": "Held"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "まだやるかのぅ？\u3000参ったと言ってしまえ",
+        "localizations": {
+          "en": "Still going, are you? Just say the word and I'll let you be."
+        }
+      },
+      "2072370017": {
+        "text": "ゼロ",
+        "localizations": {
+          "en": "Zero"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "はぁ……はぁっ……ま、……まだまだぁ……\n……はぁ、はぁ、はぁ",
+        "localizations": {
+          "en": "Hah... hah... I'm... ...still... going... ...hah... hah... hah..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "間に合った！！",
+        "localizations": {
+          "en": "We made it in time!!"
+        }
+      },
+      "2072370017": {
+        "text": "？？？",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "その声は……",
+        "localizations": {
+          "en": "That voice..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "すっご、あの二人相手によくここまで……",
+        "localizations": {
+          "en": "Incredible... they held out against those two all this time..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "アルビーナ！！",
+        "localizations": {
+          "en": "Alvina!!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "とりあえず、お疲れさま！\nあとはアタシたちに任せて！",
+        "localizations": {
+          "en": "First things first—you've done more than enough! Leave the rest to us!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "フン、怖気付いていた雑魚か。\n雑魚が５人増えたところで戦況は変わらん",
+        "localizations": {
+          "en": "Hmph. The coward who ran away? Five more rabble changes nothing."
+        }
+      },
+      "2072370017": {
+        "text": "ヘルト",
+        "localizations": {
+          "en": "Held"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "状況把握が疎かだな。\n我々は雑魚ではないし――",
+        "localizations": {
+          "en": "Your situation assessment needs work. We are not rabble—"
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "増えたのは５人だけじゃないぜ！\n俺たちもさ",
+        "localizations": {
+          "en": "And it's not just five of us either! We're here too!"
+        }
+      },
+      "2072370017": {
+        "text": "ジョゼ",
+        "localizations": {
+          "en": "José"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "わ……身体、動く……！",
+        "localizations": {
+          "en": "Wh... my body's moving again...!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "お待たせ！\u3000こいつで戻って！",
+        "localizations": {
+          "en": "Sorry to keep you waiting! Take this—it'll bring you back!"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "感謝しますわ",
+        "localizations": {
+          "en": "My gratitude."
+        }
+      },
+      "2072370017": {
+        "text": "ララ",
+        "localizations": {
+          "en": "Lara"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "さ、起きなさい、レスナ。\nそろそろ目覚める時間よ",
+        "localizations": {
+          "en": "Alright, rise and shine, Resna. It's past time you woke up."
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "ん……んんっ……",
+        "localizations": {
+          "en": "Mmh... ngh..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "え……？\nお、お母さん！？",
+        "localizations": {
+          "en": "Wh...? M-Mom?!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "ええ、お母さんよ♪\nでも詳しい話は後！",
+        "localizations": {
+          "en": "That's right, your mom♪ But catch-up time comes later!"
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "今はこの人たちをやっつけるのが先！",
+        "localizations": {
+          "en": "Right now, we've got these two to deal with!"
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "う、うん。分かった！",
+        "localizations": {
+          "en": "R-right. Got it!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "こ、この前はよくもアタシのこと、\n一般人呼ばわりしてくれたわね！",
+        "localizations": {
+          "en": "And you—after calling me a helpless civilian last time, you've got some nerve!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "ほう、装いを変えて強がれるようになったのか？\nだが、結局薄皮一枚剥げば弱気の虫が顔を出す",
+        "localizations": {
+          "en": "Oh? A change of clothes and you've found your fighting spirit? Scratch the surface and that timid little creature is still there."
+        }
+      },
+      "2072370017": {
+        "text": "ヘルト",
+        "localizations": {
+          "en": "Held"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "うるさい！\u3000確かに弱気だったけど、\nアタシはこの服と共に、それを乗り越えるんじゃい！",
+        "localizations": {
+          "en": "Oh, be quiet! Sure, I was scared—but I'm leaving that behind, along with my old self. This outfit says so!!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "命の危機を本能が教えてくれたというのに\nそれを無視して、強者に立ち向かうか",
+        "localizations": {
+          "en": "Your every instinct screams danger—and yet you ignore it and charge at a superior foe regardless."
+        }
+      },
+      "2072370017": {
+        "text": "ゼロ",
+        "localizations": {
+          "en": "Zero"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "こういう言葉もあるんだよ。\n身を捨ててこそ浮かぶ瀬もあれ、ってね！",
+        "localizations": {
+          "en": "There's a saying for that, you know. Nothing ventured, nothing gained!"
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "形勢、逆転……",
+        "localizations": {
+          "en": "The tide... has turned."
+        }
+      },
+      "2072370017": {
+        "text": "ヤドヴィガ",
+        "localizations": {
+          "en": "Jadwiga"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "ふむ、此度の戦乱、これ以上の役者もおらぬか。\nいよいよ宴も仕上げとなろう……",
+        "localizations": {
+          "en": "Hmm. It seems this stage has no more players to offer. The time for the final act draws near..."
+        }
+      },
+      "2072370017": {
+        "text": "ゼロ",
+        "localizations": {
+          "en": "Zero"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "兄者、もう血が抑えられぬ……\nこの力、解放させてもらう",
+        "localizations": {
+          "en": "Brother. I can no longer hold back the blood. Allow me to unleash this power."
+        }
+      },
+      "2072370017": {
+        "text": "ゼロ",
+        "localizations": {
+          "en": "Zero"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "……いいだろう、好きなだけ暴れるがいい",
+        "localizations": {
+          "en": "...Fine. Rampage to your heart's content."
+        }
+      },
+      "2072370017": {
+        "text": "ヘルト",
+        "localizations": {
+          "en": "Held"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "あんだけ偉そうなこと言って、逃げた！？",
+        "localizations": {
+          "en": "After all that grandstanding—she retreated?!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "ち、違うよ……あれは、ゼロ姉貴が本気を出すため……\n逃げたんじゃなくて、攻めてくるってこと",
+        "localizations": {
+          "en": "N-no, that's not it... that means Zero is getting serious... she's not retreating, she's coming at us with everything."
+        }
+      },
+      "2072370017": {
+        "text": "キューン",
+        "localizations": {
+          "en": "Quinn"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "姉上の本気は敵も仲間もすべて巻き込んでいく。\n兄上の存在は姉上にとって足枷だった",
+        "localizations": {
+          "en": "When she goes all-out, she sweeps up friend and foe alike. Brother was holding her back."
+        }
+      },
+      "2072370017": {
+        "text": "ヤドヴィガ",
+        "localizations": {
+          "en": "Jadwiga"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "正直、我には兄者のいう試しだなんだは、\nそんなに理解できぬ。だが、それでいいと思っておる",
+        "localizations": {
+          "en": "To be honest, I never quite grasped all of Held's talk about trials and tests. But I think that's just fine."
+        }
+      },
+      "2072370017": {
+        "text": "ゼロ",
+        "localizations": {
+          "en": "Zero"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "我は暴れられれば、それでいい！\nすべてを壊し、屠り、灰燼に帰す！！",
+        "localizations": {
+          "en": "All I need is to let loose! To shatter, to slay, to reduce everything to ash!!"
+        }
+      },
+      "2072370017": {
+        "text": "ゼロ",
+        "localizations": {
+          "en": "Zero"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "ヴァレリア、我を従えたくば、力を示せ！\nしかし我はゼロ、我を超え得る者なしじゃ！！",
+        "localizations": {
+          "en": "Valeria—if you would have me submit, then show me your strength! But I am Zero—and none can surpass me!!"
+        }
+      },
+      "2072370017": {
+        "text": "ゼロ",
+        "localizations": {
+          "en": "Zero"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "まったく、２番目の生まれのくせにゼロなんて\nややこしい真似を",
+        "localizations": {
+          "en": "Born second, yet she calls herself Zero... what a troublesome name to live up to."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "ああ、怖い、逃げ出したい！\nでもね……それでも、戦わなきゃ！",
+        "localizations": {
+          "en": "I'm terrified. Every part of me wants to run. But... even so, I have to fight!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "あの人も……怖いのに、それでも頑張ってる。\n私……だって……やらなきゃ！",
+        "localizations": {
+          "en": "She's scared too... and she's still pushing through. I... I have to do the same!"
+        }
+      },
+      "2072370017": {
+        "text": "キューン",
+        "localizations": {
+          "en": "Quinn"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "……そうか、これが\nヴァレリア姉上の言う、守りたいという気持ち……",
+        "localizations": {
+          "en": "...So this is what Valeria means... when she speaks of wanting to protect something."
+        }
+      },
+      "2072370017": {
+        "text": "ヤドヴィガ",
+        "localizations": {
+          "en": "Jadwiga"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "キューン、大丈夫。私もついてる。\nあなたは、一人じゃない",
+        "localizations": {
+          "en": "Quinn—it's alright. I'm right here with you. You are not alone."
+        }
+      },
+      "2072370017": {
+        "text": "ヤドヴィガ",
+        "localizations": {
+          "en": "Jadwiga"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "……うん、ありがとう！",
+        "localizations": {
+          "en": "...Yeah. Thank you!"
+        }
+      },
+      "2072370017": {
+        "text": "キューン",
+        "localizations": {
+          "en": "Quinn"
+        }
+      }
+    }
+  },
+  {
+    "id": 43,
+    "properties": {
+      "999008199": {
+        "text": "戯れは……しまいじゃ！\n全力全開で、いかせてもらう！！",
+        "localizations": {
+          "en": "Enough playing around! I'm going all-out—hold nothing back!!"
+        }
+      },
+      "2072370017": {
+        "text": "ゼロ",
+        "localizations": {
+          "en": "Zero"
+        }
+      }
+    }
+  }
+]

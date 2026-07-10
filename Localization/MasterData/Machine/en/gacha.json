@@ -7228,5 +7228,95 @@
     "start_at": "2026-07-03T03:00:00Z",
     "step_up_loop_description": "",
     "small_banner_label": "Paid Limited!"
+  },
+  {
+    "id": 2411,
+    "description": "Held makes their debut & is featured!\nFeatured until 2026/07/27 11:59 (UTC+8)\n*The character making their debut in this Wish will be available for a limited time.\n  Please check the notice for details.",
+    "end_at": "2026-07-27T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Dark Memories - Hero of the Saving Star - Held LEGEND FES",
+    "name": "Dark Memories - Hero of the Saving Star - Held LEGEND FES",
+    "start_at": "2026-07-13T03:00:00Z",
+    "step_up_loop_description": "",
+    "small_banner_label": ""
+  },
+  {
+    "id": 2412,
+    "description": "Paid Star Crystals only, limited to 1 per day! PU rate is doubled!\nFeatured until 2026/07/27 11:59 (UTC+8)\n*The character making their debut in this Wish will be available for a limited time.\n  Please check the notice for details.",
+    "end_at": "2026-07-27T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 24121,
+            "description": "PU Rate 2x!\n1 remaining!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Dark Memories - Hero of the Saving Star - Held LEGEND FES [1/Day Limited - Paid Only]",
+    "name": "Dark Memories - Hero of the Saving Star - Held LEGEND FES [1/Day Limited - Paid Only]",
+    "start_at": "2026-07-13T03:00:00Z",
+    "step_up_loop_description": "",
+    "small_banner_label": "1/Day Limited!"
+  },
+  {
+    "id": 2413,
+    "description": "Wish 50 times with paid Star Crystals and get bonus Wishes!\nFeatured until 2026/07/27 11:59 (UTC+8)\n*The character making their debut in this Wish will be available for a limited time.\n  Please check the notice for details.",
+    "end_at": "2026-07-27T03:00:00Z",
+    "gacha_button_groups": [],
+    "gacha_rate_set_name": "",
+    "name": "Dark Memories - Hero of the Saving Star - Held LEGEND FES [Paid Only]",
+    "start_at": "2026-07-13T03:00:00Z",
+    "step_up_loop_description": "{} rounds remaining",
+    "small_banner_label": "Paid Only!"
+  },
+  {
+    "id": 241301,
+    "description": "PU rate doubled! Limited to 5 times!\nObtain 16 Medals! Until 2026/07/27 11:59 (UTC+8)\n※ The character making their debut in this Wish will be limited-time only.\n\tPlease check the announcement for details.",
+    "end_at": "2026-07-27T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10005,
+            "description": "Bonus included!\n{} Times Left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Dark Memories: Hero of the Saving Star - Held LEGEND FES [Paid Limited]",
+    "name": "Dark Memories: Hero of the Saving Star - Held LEGEND FES [Paid Limited]",
+    "small_banner_label": "Paid Limited!",
+    "start_at": "2026-07-13T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 3100011,
+    "description": "[New outfit guaranteed at STEP 7!]\n\nSaskia's new outfit makes its debut!\nThe appearance rate for the new outfit increases as you advance through STEPs!\nUntil 2026/07/24 11:59 (UTC+8)\n",
+    "end_at": "2026-07-24T03:00:00Z",
+    "gacha_button_groups": [],
+    "gacha_rate_set_name": "",
+    "name": "Saskia: Guiding Palm - Outfit Synthesis",
+    "small_banner_label": "",
+    "start_at": "2026-07-10T03:00:00Z",
+    "step_up_loop_description": "{} Times Left"
   }
 ]

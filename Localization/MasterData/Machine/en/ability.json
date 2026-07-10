@@ -15323,5 +15323,50 @@
     "id": 26280001,
     "description": "At the start of a wave, converts the 10 nearest panels on the timeline to burst panels, and grants self Damage Nullification while not stunned and Penetration Power Up (+20).",
     "name": ""
+  },
+  {
+    "id": 301360,
+    "description": "When self is Held [Miraculous Nine No.1] and attack target is partially stunned or stunned, grants target increased attack penetration by +{0} for 1 turn.<br>※Only activates once even if multiple gauges are emptied simultaneously.",
+    "name": "The Pillar That Rules All Creation"
+  },
+  {
+    "id": 1980252,
+    "description": "Dark Memories grants initiative and Skill Power +50%.",
+    "name": "Origin and Summit"
+  },
+  {
+    "id": 1990561,
+    "description": "Converts own burst skill to a gauge.<br>※Burst gauge can store up to 3 uses.<br><br>When attack target is partially stunned or stunned, increases own burst gauge by {0}%, and grants target physical damage received +{1}% and magical damage received +{2}% for 2 attacks.<br>※Only activates once even if multiple gauges are emptied simultaneously.",
+    "name": "Power of the Miraculous Nine -I-"
+  },
+  {
+    "id": 1990562,
+    "description": "Based on the number of characters with the Dark Memories tag, boosts own negative effect potency by +10-{0}% and all allies' P.ATK and M.ATK by +20-{1}% (higher boost for more characters, range: 1-5).<br><br>All allies with Dark Memories have their panels converted to burst panels at the start of the first turn (creates panels if empty).",
+    "name": "Reigning Darkness"
+  },
+  {
+    "id": 4991383,
+    "description": "At the start of battle, boosts the Atelier Cannon gauge by {0}%.",
+    "name": "Atelier Cannon Charge Tempo III"
+  },
+  {
+    "id": 4991384,
+    "description": "At the start of battle, boosts the Atelier Cannon gauge by {0}%.",
+    "name": "Atelier Cannon Charge Tempo III"
+  },
+  {
+    "id": 4991385,
+    "description": "At the start of battle, boosts the Atelier Cannon gauge by {0}%.",
+    "name": "Atelier Cannon Charge Tempo III"
+  },
+  {
+    "id": 4991386,
+    "description": "At the start of battle, boosts the Atelier Cannon gauge by {0}%.",
+    "name": "Atelier Cannon Charge Tempo III"
+  },
+  {
+    "id": 4991387,
+    "description": "At the start of battle, boosts the Atelier Cannon gauge by {0}%.",
+    "name": "Atelier Cannon Charge Tempo III"
   }
 ]

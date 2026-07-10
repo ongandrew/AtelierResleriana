@@ -1,0 +1,682 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "おーい！\u3000イェルカ、シトリン！\nこっちよ！",
+        "localizations": {
+          "en": "Hey! Jelka, Citrine! Over here!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "ちょっと。そっちが呼んだくせに\n遅れて来るってどういう神経してるわけ？",
+        "localizations": {
+          "en": "Excuse me. You're the one who called us here, and you show up late? What's that about?"
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "ごめん……キューンとヤドヴィガと話してたら、\n思いのほか盛り上がっちゃって",
+        "localizations": {
+          "en": "Sorry... I got to talking with Quinn and Jadwiga, and it kind of ran long."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "へえ！\u3000仲良しでいいじゃないか！\nなんか昔を思い出すねぇ",
+        "localizations": {
+          "en": "Aw, look at you getting along! It's giving me all kinds of nostalgia."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "そういえば、昔はよくナナとヤドヴィガとキューンで\n集まって、内緒話とかしてたよねぇ",
+        "localizations": {
+          "en": "Now that you mention it, Nana and Jadwiga and Quinn used to sneak off together all the time. Lots of whispering going on."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "そうそう。次の任務がめんどくさいーとか、\n調合疲れるーとか、ゴゥが暑苦しいーとか",
+        "localizations": {
+          "en": "Right, right. 'This next mission is such a pain,' 'synthesis is exhausting,' 'Gou is so suffocating'—that kind of thing."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "あははっ、ゴゥってばかわいそ～。\nま、暑苦しいのは同意するけどさ",
+        "localizations": {
+          "en": "Ahahaha, poor Gou. I mean, I can't exactly disagree, but still."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "あれ？\u3000内緒話なのに、\nなんで二人とも内容を知ってるのよ",
+        "localizations": {
+          "en": "Hold on—if it was supposed to be a secret, why do you two know exactly what was said?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "あっはっは！\nま、細かいことはいいじゃないか！",
+        "localizations": {
+          "en": "Ahaha! Don't sweat the details!"
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "ヴァレリアが今日、アタシたちを呼んだのは\nヘル兄の話をするためだろう？",
+        "localizations": {
+          "en": "You called us here to talk about big bro Held, didn't you?"
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "イェルカも話が早いわね！\nもしかして、誰かから何か聞いた？",
+        "localizations": {
+          "en": "Right to the point! Did someone tip you off?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "リーベからちょいとね。\n情報共有に抜かりがない、できた妹だよ",
+        "localizations": {
+          "en": "Liebe mentioned it. Always keeping everyone in the loop—she's a good little sister."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "他のみんなから、ヘル兄が怖いだの厳しいだのって\n話は散々聞いただろうから、アタシからは違うことを",
+        "localizations": {
+          "en": "You've probably already heard plenty about how scary and strict he is from the others, so I'll give you something different."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "ヘル兄は、一番初めに創られたホムンクルスだ。\n脅威に対抗するために、大きな力を持って生まれた",
+        "localizations": {
+          "en": "Held was the first homunculus ever created. Born with great power to stand against threats."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "だから、兄弟たちを力で支配するのは当たり前、\nみたいなことを言いたいわけ？",
+        "localizations": {
+          "en": "So what, you're saying it makes sense that he dominates his siblings by force?"
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "違うよシトリン。話は最後まで聞くものさ。\n聞かないのは粋じゃないよ",
+        "localizations": {
+          "en": "That's not what I'm saying, Citrine. Let me finish. Cutting someone off isn't very chic."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "ヘル兄とゼロ姉の関係を思い出してみてほしいんだ。\n長兄と、その１つ下の妹。仲がいいと思わないかい？",
+        "localizations": {
+          "en": "Think about Held and Zero's relationship. Eldest brother and the sister right below him. Don't they seem close?"
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "そうね。なんかゼロってヘルトの言うことは聞くし、\n特に懐いているような気がするわ",
+        "localizations": {
+          "en": "Now that you say it... Zero does listen to him, more than anyone else. There's something different about how she looks up to him."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "その理由は、ヘル兄が自分より強いから\nというのもあると思うけれど――",
+        "localizations": {
+          "en": "Part of it is that he's stronger than her. But I think the bigger reason..."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "一番は、ヘル兄がゼロ姉の面倒をよく見ていたから、\nだと思うのさ",
+        "localizations": {
+          "en": "...is that he took good care of her."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "そうなの？",
+        "localizations": {
+          "en": "Really?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "ああ。これはずっと前に、\nアウグストから聞いた話なんだけれど――",
+        "localizations": {
+          "en": "Yeah. This goes way back—something I heard from August—"
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "ゼロ姉が創られた時、ヘル兄は初めての兄弟に\nとっても喜んでいたらしいんだ",
+        "localizations": {
+          "en": "Apparently, when Zero was first created, Held was overjoyed to finally have a sibling."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "それで、鍛錬も食事も休息も一緒に行って、\n兄として、ゼロ姉に色々教えてあげていたって",
+        "localizations": {
+          "en": "He trained with her, ate with her, rested with her. Taught her everything he knew, just like a real older brother."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "……あのヘルトが？\n想像できないんだけど",
+        "localizations": {
+          "en": "...Held? That Held? I'm having trouble picturing it."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "本当さ。アタシは３番目として生まれてから\n少しの間、二人のこと近くで見てたけれど――",
+        "localizations": {
+          "en": "It's true. I was born third, so for a little while I got to watch those two up close..."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "ヘル兄は、ゼロ姉がケガしたら薬を塗ってあげたり、\n食後すぐ寝るゼロ姉を寝所まで運んであげたりしてたね",
+        "localizations": {
+          "en": "When Zero got hurt, he'd tend to her wounds. When she fell asleep right after eating, he'd carry her to bed."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "だからアタシも最初はゼロ姉よろしく面倒見られて、\nヘル兄に髪の毛を結ってもらったりしてたさ",
+        "localizations": {
+          "en": "He fussed over me the same way at first—even tied my hair for me."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "シトリンにもそういうの、あっただろう？",
+        "localizations": {
+          "en": "Same thing happened with you, right, Citrine?"
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "いや？\u3000僕はゼロたちと違って、生まれた直後から\n一人前だったからね。そういうのはなかったし――",
+        "localizations": {
+          "en": "No? Unlike Zero and the others, I was self-sufficient from the start. Nothing like that happened to me—"
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "隠さなくていいだろう？\u3000昔は食べるの下手くそで、\n汚れた口周りを拭いてもらったりしてたじゃないか",
+        "localizations": {
+          "en": "Come on, you don't have to hide it. You were terrible at eating back then. He wiped your face clean more than once."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "あああーーー！！！\n妹の前で言わなくていいんだよ！\u3000そんなことは！",
+        "localizations": {
+          "en": "Oh, come OOON!! You didn't have to say that in front of my little sister!"
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "あはは！\u3000お姉ちゃんたちのそういう話を\n聞くのって、なんか楽しいわね！",
+        "localizations": {
+          "en": "Ahaha! Hearing stories like that about you two is kind of wonderful, honestly!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "他のみんなからも話を聞いて思ったんだけど、\nヘルトって昔はしっかりいいお兄ちゃんしていたのね",
+        "localizations": {
+          "en": "Between this and what everyone else told me... Held really was a proper big brother once, wasn't he."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "「昔は」？\u3000いやいや、それは違う。\n根っこは変わっていないとアタシは思うよ",
+        "localizations": {
+          "en": "'Once'? No, no. I don't think the core of him has changed at all."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "とにかく、ヘルトはやりすぎなんだよ。\n長兄としての自負からかもしれないけど",
+        "localizations": {
+          "en": "Regardless, he takes things way too far. Maybe it's the pride that comes with being the eldest."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "どんな理由があったとしても、\n恐怖で支配してくる兄なんて僕はごめんだよ",
+        "localizations": {
+          "en": "Whatever his reasons, I want no part of a brother who rules through fear."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "（昔のヘルトは、今からは想像できないほどちゃんと\n\u3000お兄ちゃんで、兄弟たちからも慕われている……）",
+        "localizations": {
+          "en": "(The Held from back then sounds nothing like who he is now—someone his siblings genuinely adored...)"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "（だとしたらどうして、\n\u3000今の歪な兄弟関係ができてしまったのかしら）",
+        "localizations": {
+          "en": "(So when did things get so twisted between them? How did it end up like this?)"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "（ここに、ヘルトが今の状態になった理由が\n\u3000ありそうな気がするわ……）",
+        "localizations": {
+          "en": "(I feel like the answer to that is somewhere in here... the key to why he is the way he is now.)"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  }
+]

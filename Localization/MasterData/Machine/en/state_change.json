@@ -5568,5 +5568,35 @@
     "id": 820136,
     "description": "Reduces potency of positive effects granted by {value}%.",
     "name": "Positive Effect Potency Down"
+  },
+  {
+    "id": 510350,
+    "description": "Dummy buff for determining Held's burst panel creation.",
+    "name": "V_Held_Dummy Buff for Determination"
+  },
+  {
+    "id": 510351,
+    "description": "At the start of turn, grants dummy buff for determining Held's burst panel creation.",
+    "name": "V_Held_Dummy Buff Grant for Determination"
+  },
+  {
+    "id": 510352,
+    "description": "At the start of turn, converts a panel to a burst panel (creates one if the panel slot is empty).",
+    "name": "V_Held_Burst Panel Conversion"
+  },
+  {
+    "id": 560082,
+    "description": "Boosts skill power by {value}%.",
+    "name": "Skill Power Up"
+  },
+  {
+    "id": 610535,
+    "description": "Boosts damage received by {value}%. (Cannot be stacked)",
+    "name": "Received Damage Up"
+  },
+  {
+    "id": 610536,
+    "description": "Boosts damage received by {value}%.",
+    "name": "High Dominance"
   }
 ]

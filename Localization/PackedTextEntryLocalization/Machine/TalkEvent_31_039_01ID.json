@@ -1,0 +1,733 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "ヘルト兄様、いったい何を……？\n料理をしているのか……？",
+        "localizations": {
+          "en": "Held... what is he doing? Is he... cooking?"
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "失敗したときやおかわり用にと、多めに用意していた\n食材を使用して、料理をしているようですね……",
+        "localizations": {
+          "en": "It appears he is using the extra ingredients we set aside in case of mistakes or second helpings... He is making a dish."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "ねぇ、ヘルトが作ってる料理って……",
+        "localizations": {
+          "en": "Wait... is that dish he's making...?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "……ヘルトがあのスープを作ってくれるのは、\nいつも決まって、僕たちが落ち込んでるときだった",
+        "localizations": {
+          "en": "...He always made that soup for us at a specific time. Whenever we were feeling down."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "特訓と称して自ら僕たちを痛めつけるくせに、僕たちが\n沈んでいるのを見ると、励ますかのように作るんだ",
+        "localizations": {
+          "en": "He'd put us through brutal training himself, but the moment he saw us struggling, he'd make it for us. Like his way of cheering us up."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "じゃあ、今、ヘルトがスープを作ってるのって……",
+        "localizations": {
+          "en": "So the fact that he's making it now..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "兄様……なんだか、手付きがたどたどしいような……",
+        "localizations": {
+          "en": "Brother... his movements look a little unsteady..."
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "はい。どこかおぼつかない様子を受けます。\nやはり、まだ意識がはっきりしていないのでしょう……",
+        "localizations": {
+          "en": "Yes. He seems uncertain somehow. His mind is likely still not fully clear..."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "危ないっ！",
+        "localizations": {
+          "en": "Watch out!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "……あー、もうっ！\u3000見てらんない！\n僕も手伝うから！",
+        "localizations": {
+          "en": "...Ugh, I can't just stand here watching! I'll help too!"
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "あ、ありがとう、兄貴……\n温かい……",
+        "localizations": {
+          "en": "Th-thank you, brother... It's so warm..."
+        }
+      },
+      "2072370017": {
+        "text": "キューン",
+        "localizations": {
+          "en": "Quinn"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "これ……この味だよ、ヘル兄のスープは。\nみんなで作ったのも美味しかったけれど……",
+        "localizations": {
+          "en": "This is it... this is what his soup tastes like. Ours was good too, but..."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "兄者……兄者ぁ……\n兄者のスープじゃあ……！！",
+        "localizations": {
+          "en": "Brother... brother... this is brother's soup...!!"
+        }
+      },
+      "2072370017": {
+        "text": "ゼロ",
+        "localizations": {
+          "en": "Zero"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "兄者ぁ！\u3000兄者がこのままなんて、我は嫌じゃあ！\n元に戻ってくれ、兄者ぁ～～～！！！",
+        "localizations": {
+          "en": "Brother! I don't want you to stay like this! Come back to us, brother~~~!!!"
+        }
+      },
+      "2072370017": {
+        "text": "ゼロ",
+        "localizations": {
+          "en": "Zero"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "ゼロ姉上が、泣いている……",
+        "localizations": {
+          "en": "Zero... is crying..."
+        }
+      },
+      "2072370017": {
+        "text": "ヤドヴィガ",
+        "localizations": {
+          "en": "Jadwiga"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "ゼロ……",
+        "localizations": {
+          "en": "Zero..."
+        }
+      },
+      "2072370017": {
+        "text": "ヘルト",
+        "localizations": {
+          "en": "Held"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "あ、兄者！",
+        "localizations": {
+          "en": "Brother!"
+        }
+      },
+      "2072370017": {
+        "text": "ゼロ",
+        "localizations": {
+          "en": "Zero"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "……もう、俺は必要ないだろう。\n俺がいなくとも、お前たちは――",
+        "localizations": {
+          "en": "...I'm not needed anymore. Even without me, you can all—"
+        }
+      },
+      "2072370017": {
+        "text": "ヘルト",
+        "localizations": {
+          "en": "Held"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "嫌じゃ！\u3000必要とか、必要ないとかじゃなく、\n兄者がいないのは嫌じゃあ！",
+        "localizations": {
+          "en": "No! It's not about being needed or not. I just don't want you gone!"
+        }
+      },
+      "2072370017": {
+        "text": "ゼロ",
+        "localizations": {
+          "en": "Zero"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "そうだよ、ヘル兄",
+        "localizations": {
+          "en": "She's right, Held."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "アタシたちがヘル兄に勝ったからといって、お前さんが\nアタシたちの兄じゃなくなるわけじゃないんだ",
+        "localizations": {
+          "en": "Just because we beat you doesn't mean you stop being our brother."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "中途半端に役目を放棄して逃げて……ヘルトのせいで\n果ての大陸へたどり着けなかったら許さないし",
+        "localizations": {
+          "en": "And if you go and abandon your role halfway through and we can't reach World's End because of it, I won't forgive you."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "兄様、悩みがあるなら、私たちに教えてください！\n兄弟として、ヘルト兄様の力になりたいです！",
+        "localizations": {
+          "en": "Brother, if something's troubling you, please tell us! We want to be there for you—as your family!"
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "イェルカ、シトリン、ゴゥ……",
+        "localizations": {
+          "en": "Jelka... Citrine... Gou..."
+        }
+      },
+      "2072370017": {
+        "text": "ヘルト",
+        "localizations": {
+          "en": "Held"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "私たちは知っています。\nヘルト兄様の、私たちに対する優しさと、愛情を",
+        "localizations": {
+          "en": "We know. We have always known. The kindness you have for us, and the love you carry for each of us."
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "ヘルト兄上は我が主らの命令を聞きませんが、\n私たち兄弟のことは一等大切に思ってくださっている",
+        "localizations": {
+          "en": "Held does not listen to our masters' orders. But there is no one he holds more dear than his siblings."
+        }
+      },
+      "2072370017": {
+        "text": "ヤドヴィガ",
+        "localizations": {
+          "en": "Jadwiga"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "怖いこともあるけど、それもこれも、\n私たちのためを思ってくれてたんだよね……？",
+        "localizations": {
+          "en": "You scared us sometimes, sure, but... it was all because you cared about us, right...?"
+        }
+      },
+      "2072370017": {
+        "text": "キューン",
+        "localizations": {
+          "en": "Quinn"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "リーベ、ヤドヴィガ、キューン……",
+        "localizations": {
+          "en": "Liebe... Jadwiga... Quinn..."
+        }
+      },
+      "2072370017": {
+        "text": "ヘルト",
+        "localizations": {
+          "en": "Held"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "私には、記憶がないけれど、\nそれでも、みんなから話を聞いて分かった",
+        "localizations": {
+          "en": "I don't have my memories. But after hearing everything from everyone, I understand."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "私たち兄弟には、私たちを気にかけてくれる\nヘルトっていう大切なお兄ちゃんがいるってこと！",
+        "localizations": {
+          "en": "We have a big brother named Held who has always looked out for us. And that's something precious."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "ヴァレリア……",
+        "localizations": {
+          "en": "Valeria..."
+        }
+      },
+      "2072370017": {
+        "text": "ヘルト",
+        "localizations": {
+          "en": "Held"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "これ、私たちみんなで、ヘルトのために作ったの。\n兄弟の愛情たっぷりよ",
+        "localizations": {
+          "en": "We made this for you. All of us together, with all the love we have for you."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "あんたが私たちのためにスープを作ってくれるように、\n私たちも、ヘルトが辛いときは支えたいの",
+        "localizations": {
+          "en": "Just like you make us soup when we're struggling—we want to be there for you when you're hurting too."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "兄者、食べてくれ！",
+        "localizations": {
+          "en": "Eat up, brother!"
+        }
+      },
+      "2072370017": {
+        "text": "ゼロ",
+        "localizations": {
+          "en": "Zero"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "兄貴……？",
+        "localizations": {
+          "en": "Brother...?"
+        }
+      },
+      "2072370017": {
+        "text": "キューン",
+        "localizations": {
+          "en": "Quinn"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "お口に合いませんでしたか……？",
+        "localizations": {
+          "en": "Was it... not to your taste...?"
+        }
+      },
+      "2072370017": {
+        "text": "リーベ",
+        "localizations": {
+          "en": "Liebe"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "えっ、ちょっと、ヘルト！？\nどこ行くのよ！",
+        "localizations": {
+          "en": "Hey, wait—Held?! Where are you going?!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "……意味分からないんだけど、なんなのあいつ",
+        "localizations": {
+          "en": "...I don't get it. What is wrong with him."
+        }
+      },
+      "2072370017": {
+        "text": "シトリン",
+        "localizations": {
+          "en": "Citrine"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "な、何か、兄様の気に障ることを\nしてしまったのでしょうか",
+        "localizations": {
+          "en": "D-did we... do something to upset him...?"
+        }
+      },
+      "2072370017": {
+        "text": "ゴゥ",
+        "localizations": {
+          "en": "Gou"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "あ、兄者ぁ……",
+        "localizations": {
+          "en": "Brother..."
+        }
+      },
+      "2072370017": {
+        "text": "ゼロ",
+        "localizations": {
+          "en": "Zero"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "ゼロ姉上、泣かないでください",
+        "localizations": {
+          "en": "Please don't cry, Zero."
+        }
+      },
+      "2072370017": {
+        "text": "ヤドヴィガ",
+        "localizations": {
+          "en": "Jadwiga"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "……ヘル兄は、スープを飲んで確かに回復してた。\nアタシたちの想いは、届いているはずさ",
+        "localizations": {
+          "en": "...Held drank the soup and he was definitely coming back to us. Our feelings reached him. I know they did."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "……ヘルト……",
+        "localizations": {
+          "en": "...Held..."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  }
+]

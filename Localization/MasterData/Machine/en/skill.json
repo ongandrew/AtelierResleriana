@@ -43006,5 +43006,227 @@
     "description": "After attacking, reduces target's P.DEF by {0}% and M.DEF by {1}% for 2 turns.",
     "name": "Release Voltage",
     "summary": ""
+  },
+  {
+    "id": 11003892,
+    "description": "Forces one of the target's stun gauges to 0.<br>After attacking, increases target's damage received by {0}% (Cannot be stacked).",
+    "name": "Silentium",
+    "summary": "Forces one of the target's stun gauges to 0.<br>After attacking, boosts target's damage received."
+  },
+  {
+    "id": 11003893,
+    "description": "Forces one of the target's stun gauges to 0.<br>After attacking, increases target's damage received by {0}% (Cannot be stacked).",
+    "name": "Silentium",
+    "summary": "Forces one of the target's stun gauges to 0.<br>After attacking, boosts target's damage received."
+  },
+  {
+    "id": 11003894,
+    "description": "Forces one of the target's stun gauges to 0.<br>After attacking, increases target's damage received by {0}% (Cannot be stacked).",
+    "name": "Silentium",
+    "summary": "Forces one of the target's stun gauges to 0.<br>After attacking, boosts target's damage received."
+  },
+  {
+    "id": 11003895,
+    "description": "Forces one of the target's stun gauges to 0.<br>After attacking, increases target's damage received by {0}% (Cannot be stacked).",
+    "name": "Silentium",
+    "summary": "Forces one of the target's stun gauges to 0.<br>After attacking, boosts target's damage received."
+  },
+  {
+    "id": 11003896,
+    "description": "Forces one of the target's stun gauges to 0.<br>After attacking, increases target's damage received by {0}% (Cannot be stacked).",
+    "name": "Silentium",
+    "summary": "Forces one of the target's stun gauges to 0.<br>After attacking, boosts target's damage received."
+  },
+  {
+    "id": 12003897,
+    "description": "When target has a status effect, boosts this attack's stun damage by +{0}%.<br>Before attacking, reduces target's all elemental resistance by {1}% for 2 attacks.<br>After attacking, grants self stun damage +{2}% for 2 turns, and increases target's physical attack damage received by {3}% and magic attack damage received by {4}% for 2 attacks.",
+    "name": "Akel Ruptura",
+    "summary": "When target has a status effect, boosts this attack's stun damage.<br>Before attacking, reduces target's all elemental resistance.<br>After attacking, boosts own stun damage.<br>Boosts target's physical and magic attack damage received."
+  },
+  {
+    "id": 12003898,
+    "description": "When target has a status effect, boosts this attack's stun damage by +{0}%.<br>Before attacking, reduces target's all elemental resistance by {1}% for 2 attacks.<br>After attacking, grants self stun damage +{2}% for 2 turns, and increases target's physical attack damage received by {3}% and magic attack damage received by {4}% for 2 attacks.",
+    "name": "Akel Ruptura",
+    "summary": "When target has a status effect, boosts this attack's stun damage.<br>Before attacking, reduces target's all elemental resistance.<br>After attacking, boosts own stun damage.<br>Boosts target's physical and magic attack damage received."
+  },
+  {
+    "id": 12003899,
+    "description": "When target has a status effect, boosts this attack's stun damage by +{0}%.<br>Before attacking, reduces target's all elemental resistance by {1}% for 2 attacks.<br>After attacking, grants self stun damage +{2}% for 2 turns, and increases target's physical attack damage received by {3}% and magic attack damage received by {4}% for 2 attacks.",
+    "name": "Akel Ruptura",
+    "summary": "When target has a status effect, boosts this attack's stun damage.<br>Before attacking, reduces target's all elemental resistance.<br>After attacking, boosts own stun damage.<br>Boosts target's physical and magic attack damage received."
+  },
+  {
+    "id": 12003900,
+    "description": "When target has a status effect, boosts this attack's stun damage by +{0}%.<br>Before attacking, reduces target's all elemental resistance by {1}% for 2 attacks.<br>After attacking, grants self stun damage +{2}% for 2 turns, and increases target's physical attack damage received by {3}% and magic attack damage received by {4}% for 2 attacks.",
+    "name": "Akel Ruptura",
+    "summary": "When target has a status effect, boosts this attack's stun damage.<br>Before attacking, reduces target's all elemental resistance.<br>After attacking, boosts own stun damage.<br>Boosts target's physical and magic attack damage received."
+  },
+  {
+    "id": 12003901,
+    "description": "When target has a status effect, boosts this attack's stun damage by +{0}%.<br>Before attacking, reduces target's all elemental resistance by {1}% for 2 attacks.<br>After attacking, grants self stun damage +{2}% for 2 turns, and increases target's physical attack damage received by {3}% and magic attack damage received by {4}% for 2 attacks.",
+    "name": "Akel Ruptura",
+    "summary": "When target has a status effect, boosts this attack's stun damage.<br>Before attacking, reduces target's all elemental resistance.<br>After attacking, boosts own stun damage.<br>Boosts target's physical and magic attack damage received."
+  },
+  {
+    "id": 14003902,
+    "description": "When target has a status effect, boosts this attack's stun damage by +{0}%.<br>Before attacking, reduces target's all elemental resistance by {1}% for 3 attacks.<br>After attacking, grants self stun damage +{2}% for 2 turns, increases target's physical attack damage received by {3}% and magic attack damage received by {4}% for 2 attacks, and grants target High Dominance for 1 turn.<br><br>※High Dominance is treated as a status effect and increases damage received by {5}%.",
+    "name": "Metus Ac Mori",
+    "summary": "When target has a status effect, boosts this attack's stun damage.<br>Before attacking, reduces target's all elemental resistance.<br>After attacking, boosts own stun damage.<br>Boosts target's physical and magic attack damage received.<br>Grants target High Dominance."
+  },
+  {
+    "id": 14003903,
+    "description": "When target has a status effect, boosts this attack's stun damage by +{0}%.<br>Before attacking, reduces target's all elemental resistance by {1}% for 3 attacks.<br>After attacking, grants self stun damage +{2}% for 2 turns, increases target's physical attack damage received by {3}% and magic attack damage received by {4}% for 2 attacks, and grants target High Dominance for 1 turn.<br><br>※High Dominance is treated as a status effect and increases damage received by {5}%.",
+    "name": "Metus Ac Mori",
+    "summary": "When target has a status effect, boosts this attack's stun damage.<br>Before attacking, reduces target's all elemental resistance.<br>After attacking, boosts own stun damage.<br>Boosts target's physical and magic attack damage received.<br>Grants target High Dominance."
+  },
+  {
+    "id": 14003904,
+    "description": "When target has a status effect, boosts this attack's stun damage by +{0}%.<br>Before attacking, reduces target's all elemental resistance by {1}% for 3 attacks.<br>After attacking, grants self stun damage +{2}% for 2 turns, increases target's physical attack damage received by {3}% and magic attack damage received by {4}% for 2 attacks, and grants target High Dominance for 1 turn.<br><br>※High Dominance is treated as a status effect and increases damage received by {5}%.",
+    "name": "Metus Ac Mori",
+    "summary": "When target has a status effect, boosts this attack's stun damage.<br>Before attacking, reduces target's all elemental resistance.<br>After attacking, boosts own stun damage.<br>Boosts target's physical and magic attack damage received.<br>Grants target High Dominance."
+  },
+  {
+    "id": 14003905,
+    "description": "When target has a status effect, boosts this attack's stun damage by +{0}%.<br>Before attacking, reduces target's all elemental resistance by {1}% for 3 attacks.<br>After attacking, grants self stun damage +{2}% for 2 turns, increases target's physical attack damage received by {3}% and magic attack damage received by {4}% for 2 attacks, and grants target High Dominance for 1 turn.<br><br>※High Dominance is treated as a status effect and increases damage received by {5}%.",
+    "name": "Metus Ac Mori",
+    "summary": "When target has a status effect, boosts this attack's stun damage.<br>Before attacking, reduces target's all elemental resistance.<br>After attacking, boosts own stun damage.<br>Boosts target's physical and magic attack damage received.<br>Grants target High Dominance."
+  },
+  {
+    "id": 14003906,
+    "description": "When target has a status effect, boosts this attack's stun damage by +{0}%.<br>Before attacking, reduces target's all elemental resistance by {1}% for 3 attacks.<br>After attacking, grants self stun damage +{2}% for 2 turns, increases target's physical attack damage received by {3}% and magic attack damage received by {4}% for 2 attacks, and grants target High Dominance for 1 turn.<br><br>※High Dominance is treated as a status effect and increases damage received by {5}%.",
+    "name": "Metus Ac Mori",
+    "summary": "When target has a status effect, boosts this attack's stun damage.<br>Before attacking, reduces target's all elemental resistance.<br>After attacking, boosts own stun damage.<br>Boosts target's physical and magic attack damage received.<br>Grants target High Dominance."
+  },
+  {
+    "id": 22002040,
+    "description": "No effect.",
+    "name": "Horn Charge",
+    "summary": ""
+  },
+  {
+    "id": 22002041,
+    "description": "After attacking, if target's HP is 75% or above, grants target damage received up ({0}%/5 turns).",
+    "name": "Unpleasant Cry",
+    "summary": ""
+  },
+  {
+    "id": 22002042,
+    "description": "Reduces target's damage received by 30% for 3 turns.",
+    "name": "Full Cry",
+    "summary": ""
+  },
+  {
+    "id": 22002044,
+    "description": "No effect.",
+    "name": "Ice Rain",
+    "summary": ""
+  },
+  {
+    "id": 22002045,
+    "description": "No effect.",
+    "name": "Horn Sweep",
+    "summary": ""
+  },
+  {
+    "id": 22002058,
+    "description": "After attacking, grants self a permanent boost to damage dealt during counter attacks by {0}%.",
+    "name": "Frenzied Strike",
+    "summary": ""
+  },
+  {
+    "id": 22002059,
+    "description": "No additional effects.",
+    "name": "Destruction",
+    "summary": ""
+  },
+  {
+    "id": 22002060,
+    "description": "After attacking, reduces own damage received by {0}% for 2 attacks.",
+    "name": "Crushing Blow",
+    "summary": ""
+  },
+  {
+    "id": 22002061,
+    "description": "After attacking, converts {0} of the target's non-burst panels into weaken panels.",
+    "name": "Wild Dance",
+    "summary": ""
+  },
+  {
+    "id": 22002062,
+    "description": "Grants self All Elements resistance up by {0}% for 2 turns and Regeneration ({1}%/3 turns).",
+    "name": "Flowing Turn",
+    "summary": ""
+  },
+  {
+    "id": 22002063,
+    "description": "No additional effects.",
+    "name": "Reverse Strike",
+    "summary": ""
+  },
+  {
+    "id": 22002064,
+    "description": "Restores a single ally's HP by 50%.",
+    "name": "Healing Sip",
+    "summary": ""
+  },
+  {
+    "id": 22002065,
+    "description": "Restores a single ally's HP by 30% and recovers the stun gauge by {0}%.",
+    "name": "Aid",
+    "summary": ""
+  },
+  {
+    "id": 22002066,
+    "description": "Restores all allies' HP by 20%.",
+    "name": "Aid",
+    "summary": ""
+  },
+  {
+    "id": 22002067,
+    "description": "No additional effects.",
+    "name": "Reckless Abandon",
+    "summary": ""
+  },
+  {
+    "id": 22002068,
+    "description": "After attacking, reduces target's damage dealt by {0}% for 1 turn.",
+    "name": "Whirling Wind Dance",
+    "summary": ""
+  },
+  {
+    "id": 22002069,
+    "description": "No additional effects.",
+    "name": "Dragon Coil Dance",
+    "summary": ""
+  },
+  {
+    "id": 22002070,
+    "description": "No additional effects.",
+    "name": "Lightning Strike",
+    "summary": ""
+  },
+  {
+    "id": 22002071,
+    "description": "After attacking, reduces target's P.DEF by {0}% for 2 attacks and M.DEF by {0}% for 2 attacks.",
+    "name": "Horn Thrust",
+    "summary": ""
+  },
+  {
+    "id": 22002072,
+    "description": "After attacking, delays the turn of a target with a negative effect by {0}.",
+    "name": "Noisy Voice",
+    "summary": ""
+  },
+  {
+    "id": 22002073,
+    "description": "After attacking, nullifies target's positive effects for 2 turns.",
+    "name": "Thunder Shot",
+    "summary": ""
+  },
+  {
+    "id": 22002074,
+    "description": "Reduces P.ATK of all enemies by {0}% for 2 attacks and M.ATK by {0}% for 2 attacks, and removes all positive effects.",
+    "name": "Annoying Cry",
+    "summary": ""
   }
 ]

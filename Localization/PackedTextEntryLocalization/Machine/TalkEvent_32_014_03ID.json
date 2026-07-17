@@ -1,0 +1,716 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "連続して誤った回答がされました。\n処理４へ移行します",
+        "localizations": {
+          "en": "Two incorrect answers have been given. Initiating transition to Process 4."
+        }
+      },
+      "2072370017": {
+        "text": "案内人",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "来たわね。なんだか、不気味なんだけど……",
+        "localizations": {
+          "en": "Here it comes. Whatever it is, it's giving me the creeps..."
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "ああ……こりゃまずい",
+        "localizations": {
+          "en": "Oh no... this is bad."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "ぐっ！",
+        "localizations": {
+          "en": "Ugh!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "なに、これ！",
+        "localizations": {
+          "en": "What is this?!"
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "イザナちゃん！\u3000ヨハナちゃん！",
+        "localizations": {
+          "en": "Izana! Johanna!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "問３",
+        "localizations": {
+          "en": "Question 3."
+        }
+      },
+      "2072370017": {
+        "text": "案内人",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "！？",
+        "localizations": {
+          "en": "...?!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "この星に危機が訪れるとします。\n人間は全滅することでしょう",
+        "localizations": {
+          "en": "A catastrophe threatens this world. Humanity stands on the brink of annihilation."
+        }
+      },
+      "2072370017": {
+        "text": "案内人",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "しかし、あなたの力をもってすれば、\n１０００人だけ救うことができるでしょう",
+        "localizations": {
+          "en": "However, with your power, you could save one thousand lives."
+        }
+      },
+      "2072370017": {
+        "text": "案内人",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "あなたはどうしますか？",
+        "localizations": {
+          "en": "What do you do?"
+        }
+      },
+      "2072370017": {
+        "text": "案内人",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "わ、私は……！",
+        "localizations": {
+          "en": "I... I...!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "レスナ。あなたが「選択」をすれば、\nこの二人は無事解放される",
+        "localizations": {
+          "en": "Resna. If you make your 'choice,' these two will be released unharmed."
+        }
+      },
+      "2072370017": {
+        "text": "案内人",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "さもなくば、この二人の命は、無い",
+        "localizations": {
+          "en": "Otherwise, they will not survive."
+        }
+      },
+      "2072370017": {
+        "text": "案内人",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "あなたはどうしますか？",
+        "localizations": {
+          "en": "What do you do?"
+        }
+      },
+      "2072370017": {
+        "text": "案内人",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "１０\n９\n８",
+        "localizations": {
+          "en": "10\n9\n8"
+        }
+      },
+      "2072370017": {
+        "text": "案内人",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "まずい！\u3000さっきの攻撃が二人に！",
+        "localizations": {
+          "en": "They're in trouble! That last attack hit both of them!"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "７\n６\n５",
+        "localizations": {
+          "en": "7\n6\n5"
+        }
+      },
+      "2072370017": {
+        "text": "案内人",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "ハイディさん、煙幕を！",
+        "localizations": {
+          "en": "Heidi—smoke screen, now!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "了解！",
+        "localizations": {
+          "en": "On it!"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "４\n３\n２",
+        "localizations": {
+          "en": "4\n3\n2"
+        }
+      },
+      "2072370017": {
+        "text": "案内人",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "１",
+        "localizations": {
+          "en": "1"
+        }
+      },
+      "2072370017": {
+        "text": "案内人",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "０",
+        "localizations": {
+          "en": "0"
+        }
+      },
+      "2072370017": {
+        "text": "案内人",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "見たことのある拘束です。\nなんの対策もしてないわけないじゃないですか",
+        "localizations": {
+          "en": "I've seen restraints like that before. Did you really think I'd come unprepared?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "あらかじめ、拘束を解除する道具を作っていました。\nこれが錬金術の力です",
+        "localizations": {
+          "en": "I made a tool to break them in advance. That's what alchemy can do."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "これと同じことです！\u3000何があろうと……\nどんな「選択」だって……錬金術で乗り越えてみせる！",
+        "localizations": {
+          "en": "And that's exactly my answer! No matter what happens... no matter what 'choice' you put before me... alchemy will see us through!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "錬金術は、みんなを幸せにする力！\n私はこの力と、可能性を信じてるんだ！！！",
+        "localizations": {
+          "en": "Alchemy is the power to make everyone happy! I believe in that power, and I believe in its potential!!!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "確かにそれだけじゃできないこともあるかもしれない。\nでも、みんながいる！",
+        "localizations": {
+          "en": "Sure, there are things I can't do alone. But I'm not alone!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "やり遂げる意志がある限りできないことなんかない！\n私は、みんなを信じてるんだ！！！",
+        "localizations": {
+          "en": "As long as we have the will to see it through, nothing is impossible! I believe in everyone here!!!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "そうだよ。ずっとそばでレスナちゃんを見てきた。\nレスナちゃんがたくさんの人を救う姿を！",
+        "localizations": {
+          "en": "That's right. I've been by your side this whole time, Resna. I've watched you save person after person!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "私もレスナに救われた。レスナはこんな私にも、\n道を、未来を、示してくれた！",
+        "localizations": {
+          "en": "She saved me too. Even someone like me—she showed me a path forward. A future I could believe in!"
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "そんなレスナちゃんをアタシたちは信じる！\n何が行く手を阻もうと、アタシたちが道を切り開く！",
+        "localizations": {
+          "en": "And that's why we believe in her! Whatever stands in our way, we'll carve the road ourselves!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "私だってヴァレリアをずっとそばで見てきた。\nこいつのすごさ、あんた知らないだろ",
+        "localizations": {
+          "en": "And I've been right beside Valeria through all of it. You have no idea what she's capable of."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "こいつはね、自分の命を失おうが、記憶を失おうが、\nそれでも自分の意志を貫いてきたんだ！",
+        "localizations": {
+          "en": "This woman has lost her life, lost her memories, and still never once let go of who she is!"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "その姿が色んな人を動かすことを、私は知ってる！\n意志の力、舐めんじゃないよ！！！",
+        "localizations": {
+          "en": "I've seen how far that kind of will can move people. Don't you dare underestimate it!!!"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "損得なんて考え方で人を救えるとは思わない。\n私は知ってる。大切なのは、寄り添うことだと",
+        "localizations": {
+          "en": "You can't save people through cold calculation. I know that. What matters is standing beside them."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "姉様にはそれができる！\nそんな姉様を否定するというなら……斬る！！！",
+        "localizations": {
+          "en": "And Alvina can do that. If you're going to deny that... I'll cut you down!!!"
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "ありがと、ベップ。嬉しいよ",
+        "localizations": {
+          "en": "Thank you, Bepp. That means a lot."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "そんでね、いい加減うんざりなんすわ！\n全部余計なお節介だっつーの！",
+        "localizations": {
+          "en": "And honestly? I am done with this! Every last bit of it is nothing but unwanted meddling!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "私たちの道は私たちで決める。\nそうでしょ、レスナ？",
+        "localizations": {
+          "en": "We decide our own path. Isn't that right, Resna?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "うん！",
+        "localizations": {
+          "en": "Yeah!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "絶対に負けない――みんな、行くよ！！！",
+        "localizations": {
+          "en": "We are not losing this—let's go, everyone!!!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  }
+]

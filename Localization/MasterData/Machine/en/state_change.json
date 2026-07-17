@@ -5598,5 +5598,85 @@
     "id": 610536,
     "description": "Boosts damage received by {value}%.",
     "name": "High Dominance"
+  },
+  {
+    "id": 510353,
+    "description": "When own Burst Gauge is 100% or higher, boosts critical damage by {value}%.",
+    "name": "Critical Damage Up (Cond.)"
+  },
+  {
+    "id": 510354,
+    "description": "When own Burst Gauge is 200% or higher, boosts critical damage by {value}%.",
+    "name": "Critical Damage Up (Cond.)"
+  },
+  {
+    "id": 510355,
+    "description": "When own Burst Gauge is 300% or higher, boosts critical damage by {value}%.",
+    "name": "Critical Damage Up (Cond.)"
+  },
+  {
+    "id": 510356,
+    "description": "When own Burst Gauge is 400% or higher, boosts critical damage by {value}%.",
+    "name": "Critical Damage Up (Cond.)"
+  },
+  {
+    "id": 510357,
+    "description": "When own Burst Gauge is 500% or higher, boosts critical damage by {value}%.",
+    "name": "Critical Damage Up (Cond.)"
+  },
+  {
+    "id": 510358,
+    "description": "When own Burst Gauge is 600% or higher, boosts critical damage by {value}%.",
+    "name": "Critical Damage Up (Cond.)"
+  },
+  {
+    "id": 610537,
+    "description": "Boosts P.ATK by {value}%. (MAX 60%)",
+    "name": "P.ATK Up"
+  },
+  {
+    "id": 610538,
+    "description": "Boosts P.ATK by {value}%. (MAX 5 stacks)",
+    "name": "MODE: Gravis"
+  },
+  {
+    "id": 710038,
+    "description": "Mana Charge",
+    "name": "Mana Charge"
+  },
+  {
+    "id": 800244,
+    "description": "Dummy buff for determination.",
+    "name": "Dummy Buff (Determination)"
+  },
+  {
+    "id": 810140,
+    "description": "Reduces stun potency of attacks received by {value}%.",
+    "name": "Received Attack Stun Potency Down"
+  },
+  {
+    "id": 810195,
+    "description": "When Mana Charge is Lv. 1 or higher, boosts damage dealt by {value}%. Cannot be cleared.",
+    "name": "Damage Dealt Up (Cond.)"
+  },
+  {
+    "id": 810196,
+    "description": "When Mana Charge is Lv. 2 or higher, boosts Daze infliction rate by {value}%. Cannot be cleared.",
+    "name": "Daze Infliction Rate Up (Cond.)"
+  },
+  {
+    "id": 810197,
+    "description": "When Mana Charge is Lv. 3 or higher, inflicts Speed Down after attacking. Cannot be cleared.",
+    "name": "Speed Down Infliction (Cond.)"
+  },
+  {
+    "id": 810198,
+    "description": "When Mana Charge is Lv. 4 or higher, reduces damage received by {value}%. Cannot be cleared.",
+    "name": "Received Damage Down (Cond.)"
+  },
+  {
+    "id": 810207,
+    "description": "When Mana Charge is Lv. 5, creates a burst panel on the next turn upon gaining Mana Charge. Cannot be cleared.",
+    "name": "Panel Creation (Cond.)"
   }
 ]

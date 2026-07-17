@@ -1,0 +1,767 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "なにこれ……すっごく大きい……",
+        "localizations": {
+          "en": "Whoa... this thing is huge..."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "あんたたち、これ何か分かったりする？",
+        "localizations": {
+          "en": "Do any of you know what this is?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "いや……俺も初めて見るな。\nゴーレムの類のように見えるが",
+        "localizations": {
+          "en": "No... I've never seen it before either. It looks like some manner of golem."
+        }
+      },
+      "2072370017": {
+        "text": "ヘルト",
+        "localizations": {
+          "en": "Held"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "えっ！？\u3000動いた！？",
+        "localizations": {
+          "en": "Wait—it moved!?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "レスナ、危ない！\u3000下がって！",
+        "localizations": {
+          "en": "Resna, get back!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "……お待ちしておりました。錬金術士レスナ",
+        "localizations": {
+          "en": "...I have been waiting for you. Alchemist Resna."
+        }
+      },
+      "2072370017": {
+        "text": "？？？",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "！？\u3000しゃべることができるの？",
+        "localizations": {
+          "en": "It can talk?!"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "私はこの島の案内人。\nあなたを果ての大陸まで導く者です",
+        "localizations": {
+          "en": "I am the guide of this island. The one who will lead you to World's End."
+        }
+      },
+      "2072370017": {
+        "text": "案内人",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "うへぇ。同業者だったんすか？\nどーも、アルビーナです",
+        "localizations": {
+          "en": "Oh wow. A fellow Guide, huh? Nice to meet you. I'm Alvina."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "怖い人じゃないみたい……？",
+        "localizations": {
+          "en": "It doesn't seem dangerous...?"
+        }
+      },
+      "2072370017": {
+        "text": "キューン",
+        "localizations": {
+          "en": "Quinn"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "さて……どうだろうね",
+        "localizations": {
+          "en": "Well... hard to say."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "案内人さんということなら、よかったです。\nぜひ、果ての大陸まで案内をお願いできますか？",
+        "localizations": {
+          "en": "If you're truly a guide, that's a relief. Would you please lead us to World's End?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "私の問いに答えてください。\n正しく答えられれば、果ての大陸へと案内しましょう",
+        "localizations": {
+          "en": "First, you must answer my questions. Answer correctly, and I will guide you to World's End."
+        }
+      },
+      "2072370017": {
+        "text": "案内人",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "問い……？\u3000正しく答えられなかったら、\nどうなるんでしょうか？",
+        "localizations": {
+          "en": "Questions...? And what happens if we don't answer correctly?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "誤った回答を行ったときは、処理４へと移行します",
+        "localizations": {
+          "en": "An incorrect answer will trigger a transition to Process 4."
+        }
+      },
+      "2072370017": {
+        "text": "案内人",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "処理４……？\u3000なんなのよそれは！\nなんだか悪い予感がするわ",
+        "localizations": {
+          "en": "Process 4...? What does that even mean?! I've got a bad feeling about this."
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "まあまあ。間違えなければいいんだから。\nハンマーも振らなきゃ砕けない、だよ",
+        "localizations": {
+          "en": "Calm down. We just have to get the answers right. You can't break something without swinging first!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "簡単な問いだといいけどさ……\nとはいえ、やらないっていう選択肢はないんだけど",
+        "localizations": {
+          "en": "Let's hope they're simple questions... Either way, walking away isn't really an option."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "そうですね……分かりました。\nレスナ、答えます",
+        "localizations": {
+          "en": "You're right... Alright. I'll answer."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "問１",
+        "localizations": {
+          "en": "Question 1."
+        }
+      },
+      "2072370017": {
+        "text": "案内人",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "あなたの目の前に、病に侵され、苦しむ人々がいます。\nその病を癒す方法は見つかっていません",
+        "localizations": {
+          "en": "Before you stands a group of people suffering from a terrible illness. No cure has been found."
+        }
+      },
+      "2072370017": {
+        "text": "案内人",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "しかし、一人の命を犠牲にし、身体を調べれば、\n治療法が確立され他の人々を救うことができそうです",
+        "localizations": {
+          "en": "However, if you sacrifice one life and study their body, you may be able to develop a treatment and save all the others."
+        }
+      },
+      "2072370017": {
+        "text": "案内人",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "あなたはどうしますか？",
+        "localizations": {
+          "en": "What do you do?"
+        }
+      },
+      "2072370017": {
+        "text": "案内人",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "……え？\u3000なにこの問い？",
+        "localizations": {
+          "en": "...Wait, what kind of question is that?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "これまで九偉人が仕掛けてきたのと同じだよ。\nパルメ族の「管理」をレスナちゃんにさせたいんだ",
+        "localizations": {
+          "en": "It's the same as what the Nine have been putting Resna through. They want her to accept the Palme's way of thinking—their idea of 'management.'"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "悪趣味な、命の選択ね",
+        "localizations": {
+          "en": "Choosing who lives and who dies. Despicable."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "何よこれ。パルメ族の思想を受け入れないと\n正解できないじゃない",
+        "localizations": {
+          "en": "This is outrageous. You can't get it right without accepting the Palme's ideology."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "果ての大陸をダシに、レスナにその思想を\n受け入れろって言ってるんだ",
+        "localizations": {
+          "en": "They're using World's End as leverage. Either accept their way of thinking, or you don't get through."
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "まったく、最後の最後まで底意地の悪い……",
+        "localizations": {
+          "en": "Rotten to the very end, aren't they..."
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "…………",
+        "localizations": {
+          "en": "..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "（……今や果ての大陸到達の願いは、\n\u3000私たちだけじゃなくて、世界中の願いになっている）",
+        "localizations": {
+          "en": "(Reaching World's End... it's not just our dream anymore. The whole world is counting on us.)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "（ここで“正しく”答えないと、\n\u3000果ての大陸への手掛かりがなくなるというなら……）",
+        "localizations": {
+          "en": "(If giving the 'right' answer here is the only way forward... if refusing means losing our only lead...)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "（私は、言葉だけでも受け入れるべきなのかな）",
+        "localizations": {
+          "en": "(Should I just say what they want to hear, even if I don't mean it?)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "レスナちゃん！\u3000そんな話、乗る必要ないよ！",
+        "localizations": {
+          "en": "Resna, don't! You don't have to play along with this!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "果ての大陸がどこかにあるなら、案内なんか\nされなくたって絶対たどり着けるんだから！",
+        "localizations": {
+          "en": "If World's End is out there, we'll find it ourselves! We don't need anyone to show us the way!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "（その通りだ。その「選択」をしてしまったら、\n\u3000きっと私は錬金術士として胸を張れなくなる！）",
+        "localizations": {
+          "en": "(She's right. If I make that 'choice,' I could never hold my head high as an alchemist again!)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "（錬金術は、\n\u3000すべての人を幸せにするものなんだから！）",
+        "localizations": {
+          "en": "(Alchemy is meant to make everyone happy. Everyone!)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "……私は、誰の命も犠牲にするつもりはありません。\n錬金術で、全員助けてみせます！",
+        "localizations": {
+          "en": "...I will not sacrifice anyone. I'll use alchemy to save every last one of them."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "…………",
+        "localizations": {
+          "en": "..."
+        }
+      },
+      "2072370017": {
+        "text": "案内人",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "問２",
+        "localizations": {
+          "en": "Question 2."
+        }
+      },
+      "2072370017": {
+        "text": "案内人",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "目的地へ向けて航海中、魔物に襲われ、\n船体に穴が開いたとします",
+        "localizations": {
+          "en": "You are at sea, bound for your destination, when monsters attack and breach the hull of your ship."
+        }
+      },
+      "2072370017": {
+        "text": "案内人",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "１０人を船外に捨てることができれば、\n無事目的地まで沈まずたどり着くことができるでしょう",
+        "localizations": {
+          "en": "If you throw ten people overboard, the ship will stay afloat long enough to reach port safely."
+        }
+      },
+      "2072370017": {
+        "text": "案内人",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "あなたはどうしますか？",
+        "localizations": {
+          "en": "What do you do?"
+        }
+      },
+      "2072370017": {
+        "text": "案内人",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 43,
+    "properties": {
+      "999008199": {
+        "text": "同じことです。誰も犠牲になんてしません。\n船を直して、全員無事に目的地まで届けます",
+        "localizations": {
+          "en": "My answer is the same. No one gets sacrificed. I'll repair the ship and get everyone there safely."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 44,
+    "properties": {
+      "999008199": {
+        "text": "…………",
+        "localizations": {
+          "en": "..."
+        }
+      },
+      "2072370017": {
+        "text": "案内人",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  }
+]

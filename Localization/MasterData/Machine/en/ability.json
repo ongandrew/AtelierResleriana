@@ -15368,5 +15368,125 @@
     "id": 4991387,
     "description": "At the start of battle, boosts the Atelier Cannon gauge by {0}%.",
     "name": "Atelier Cannon Charge Tempo III"
+  },
+  {
+    "id": 301361,
+    "description": "While equipped to Quinn [Lethal Arsenal], after using \"Galaxia\", grants self skill power +15% for 1 turn.",
+    "name": "Twin Fangs of the Illusory Dual Extremes"
+  },
+  {
+    "id": 500770,
+    "description": "Boosts stun damage by +{0}% for characters with the Miraculous Nine tag.",
+    "name": ""
+  },
+  {
+    "id": 500771,
+    "description": "Boosts stun damage by +{0}% for characters with the Miraculous Nine tag.",
+    "name": ""
+  },
+  {
+    "id": 500772,
+    "description": "Boosts stun damage by +{0}% for characters with the Miraculous Nine tag.",
+    "name": ""
+  },
+  {
+    "id": 500773,
+    "description": "Boosts stun damage by +{0}% for characters with the Miraculous Nine tag.",
+    "name": ""
+  },
+  {
+    "id": 500774,
+    "description": "Boosts stun damage by +{0}% for characters with the Miraculous Nine tag.",
+    "name": ""
+  },
+  {
+    "id": 500775,
+    "description": "Boosts stun damage by +{0}% for characters with the Miraculous Nine tag.",
+    "name": ""
+  },
+  {
+    "id": 500776,
+    "description": "Boosts stun damage by +{0}% for characters with the Miraculous Nine tag.",
+    "name": ""
+  },
+  {
+    "id": 500777,
+    "description": "Boosts stun damage by +{0}% for characters with the Miraculous Nine tag.",
+    "name": ""
+  },
+  {
+    "id": 1980253,
+    "description": "Sweets characters gain P.ATK, M.ATK, P.DEF, and M.DEF +35%.",
+    "name": "Little One with Ordinary Charm"
+  },
+  {
+    "id": 1990563,
+    "description": "Converts own burst skill into a gauge-based system.<br>※ The burst gauge can stack up to 5 times.<br><br>Boosts critical damage by +{0}% per 100% of own burst gauge.",
+    "name": "Culmination of the Palme's Wisdom"
+  },
+  {
+    "id": 1990564,
+    "description": "When any party member other than self selects a skill, if there is a stunned enemy or the attack target is stunned, triggers an additional attack on the enemy with the lowest current HP: {{hyperlink_id 163}}.<br>When self has MODE: Gravis, triggers enhanced additional attack: {{hyperlink_id 164}} instead of {{hyperlink_id 163}}.<br><br>When the party includes a character with the Diligent tag, boosts base P.ATK by +{0}.",
+    "name": "Let's Finish This Quick!"
+  },
+  {
+    "id": 4991388,
+    "description": "While equipped to an Attacker with Slash affinity, after using a burst skill, grants self skill damage +{0}% for 1 turn.<br>While equipped to a character with the Sweets tag, boosts critical damage by +{1}%.",
+    "name": "Imagination \"Sweet Time\""
+  },
+  {
+    "id": 4991389,
+    "description": "While equipped to an Attacker with Slash affinity, after using a burst skill, grants self skill damage +{0}% for 1 turn.<br>While equipped to a character with the Sweets tag, boosts critical damage by +{1}%.",
+    "name": "Imagination \"Sweet Time\""
+  },
+  {
+    "id": 4991390,
+    "description": "While equipped to an Attacker with Slash affinity, after using a burst skill, grants self skill damage +{0}% for 1 turn.<br>While equipped to a character with the Sweets tag, boosts critical damage by +{1}%.",
+    "name": "Imagination \"Sweet Time\""
+  },
+  {
+    "id": 4991391,
+    "description": "While equipped to an Attacker with Slash affinity, after using a burst skill, grants self skill damage +{0}% for 1 turn.<br>While equipped to a character with the Sweets tag, boosts critical damage by +{1}%.",
+    "name": "Imagination \"Sweet Time\""
+  },
+  {
+    "id": 4991392,
+    "description": "While equipped to an Attacker with Slash affinity, after using a burst skill, grants self skill damage +{0}% for 1 turn.<br>While equipped to a character with the Sweets tag, boosts critical damage by +{1}%.",
+    "name": "Imagination \"Sweet Time\""
+  },
+  {
+    "id": 4991393,
+    "description": "While equipped to a character with Slash affinity, boosts potency of positive effects granted by +{0}%.",
+    "name": "Slash Enhance Up II"
+  },
+  {
+    "id": 4991394,
+    "description": "While equipped to a character with Slash affinity, boosts potency of positive effects granted by +{0}%.",
+    "name": "Slash Enhance Up II"
+  },
+  {
+    "id": 4991395,
+    "description": "While equipped to a character with Slash affinity, boosts potency of positive effects granted by +{0}%.",
+    "name": "Slash Enhance Up II"
+  },
+  {
+    "id": 4991396,
+    "description": "While equipped to a character with Slash affinity, boosts positive effect potency given by {0}%.",
+    "name": "Slash Affinity Enhancer Up II"
+  },
+  {
+    "id": 4991397,
+    "description": "While equipped to a character with Slash affinity, boosts positive effect potency given by {0}%.",
+    "name": "Slash Affinity Enhancer Up II"
+  },
+  {
+    "id": 21281001,
+    "description": "Before the wave starts, grants a status change that activates the following effects based on the Mana Charge level (at the specified level or above).\nLv. 1: Damage Dealt Up (30%), Lv. 2: Daze application rate Up, Lv. 3: When attacking, grants target SPD Down (10%/1 time), Lv. 4: Damage Received Down (30%), Lv. 5: burst panel creation.",
+    "name": ""
+  },
+  {
+    "id": 21281002,
+    "description": "At the start of the wave, grants immunity to effects from enemies.\nWhen stunned, grants self Defense Down (90%).\nAt the start of a turn while stunned, removes Defense Down.",
+    "name": ""
   }
 ]

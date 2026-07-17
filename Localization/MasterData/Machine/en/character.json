@@ -992,17 +992,17 @@
   },
   {
     "id": 44902,
-    "acquisition_text": "Reviving alchemy is my wish as well.\n—Now then, let us go together.",
+    "acquisition_text": "The pursuit of knowledge enters its next phase.\nCome, let us witness the true nature of this world together.",
     "another_name": "Suit of Vertex",
-    "description": "Resna's alchemy mentor.\nDuring his travels, he stopped by the village where Resna lived and taught her the basics of alchemy.\nHe has a cheerful and easygoing personality, but shows a strict side when it comes to alchemy.\nHis personal life is rather careless, and Resna often ends up taking care of him.",
+    "description": "An alchemist with the temperament of a researcher.\nHe once belonged to the Polar Night Alchemists, acting purely on curiosity.\nNow he puts that knowledge to use, cooperating with research efforts under the kingdom's watch.\nImbued with the power of an Apexi, this suit also functions as a control unit for man-made Apexi—the culmination of his research. Wearing it apparently puts him in an oddly excitable mood.",
     "fullname": "Walther Mann",
     "leader_skill": {
-      "description": "Boosts all allies' critical damage by 5% for each Lantarna character in the party.",
-      "name": "The Wandering Star Is with Us"
+      "description": "Boosts Lantarna characters' P. DEF and M. DEF by 50%.",
+      "name": "Wielder of the Man-Made Apexi"
     },
     "name": "Walther",
     "overlay_name": "Walther Mann",
-    "profile_voice_text": "I'm Saskia. Like Resna, I'm a dreaming alchemist. Set your sights on World's End.",
+    "profile_voice_text": "The alchemist party I once belonged to no longer exists,\nbut that doesn't change the fact that I'm an alchemist.",
     "sort_name": "Walther",
     "start_at": "2049-12-31T15:00:00Z"
   },
@@ -1264,33 +1264,33 @@
   },
   {
     "id": 43806,
-    "acquisition_text": "Reviving alchemy is my wish as well.\nNow, let us go together.",
+    "acquisition_text": "Me, an idol?! This scout came out of nowhere, but I'm gonna give it my all!",
     "another_name": "Cutie☆Cat",
-    "description": "Resna's alchemy mentor.\nShe stopped by Resna's village during her travels and taught her the basics of alchemy.\nShe has a bright and carefree personality, but shows a strict side when it comes to alchemy.\nHer personal life is quite messy, and Resna often helps look after her.",
+    "description": "The resident cutie of the animal-themed idol unit \"Cutie☆AnimaL.\" Her motif animal is the cat.\nWhile sightseeing in the capital, she received a personal offer from the president of Lala Productions and made her debut as an idol.\nHer hobby is admiring her own collection of hammers.\nHer natural charm and carefree personality have won her plenty of fans.",
     "fullname": "Izana Kokoschka",
     "leader_skill": {
-      "description": "Boosts all allies' critical damage by 5% for each Lantarna character in the party.",
-      "name": "The Comet Travels with Us"
+      "description": "Grants Resleriana Academy characters Initiative and boosts their skill damage by 50%.",
+      "name": "The Unit's Cutie"
     },
     "name": "Izana",
     "overlay_name": "Izana Kokoschka",
-    "profile_voice_text": "I'm Saskia. An alchemist with dreams, just like Resna.\nAim for World's End, you hear?",
+    "profile_voice_text": "I'm Izana! I'm working hard with my friends as part of an idol unit!",
     "sort_name": "IZANA",
     "start_at": "2049-12-31T15:00:00Z"
   },
   {
     "id": 44005,
-    "acquisition_text": "Reviving alchemy is my wish as well.\nNow, let us go together.",
+    "acquisition_text": "D-don't call me a rat! I'm a cool hamster, thank you very much!",
     "another_name": "Cutie☆Hamster",
-    "description": "Resna's alchemy mentor.\nShe stopped by Resna's village during her travels and taught her the basics of alchemy.\nShe has a bright and carefree personality, but shows a strict side when it comes to alchemy.\nHer personal life is quite messy, and Resna often helps look after her.",
+    "description": "The resident cool one of the animal-themed idol unit \"Cutie☆AnimaL.\" Her motif animal is the hamster.\nShe joined Lala Productions chasing her dream of becoming the coolest, most stylish idol in the world.\nShe thinks highly of herself and never slacks on the effort it takes to reach that dream.\nShe admires cool ninjas, and always brightens up at the sight of Kimon's ninjutsu.",
     "fullname": "Johanna",
     "leader_skill": {
-      "description": "Boosts all allies' critical damage by 5% for each Lantarna character in the party.",
-      "name": "The Comet Travels with Us"
+      "description": "Boosts all allies' skill damage and critical damage by 20% for each Resleriana Academy character in the party.",
+      "name": "The Unit's Cool One"
     },
     "name": "Johanna",
     "overlay_name": "Johanna",
-    "profile_voice_text": "I'm Saskia. An alchemist with dreams, just like Resna.\nAim for World's End, you hear?",
+    "profile_voice_text": "I'm Johanna. I'm aiming to become the world's number one idol.\nThe unit thing caught me off guard, but I'll pull it off!",
     "sort_name": "JOHANNA",
     "start_at": "2049-12-31T15:00:00Z"
   },
@@ -1469,5 +1469,21 @@
     "profile_voice_text": "I don't take orders from August.\nBecause I'm a hero.",
     "sort_name": "Held",
     "start_at": "2026-07-13T03:00:00Z"
+  },
+  {
+    "id": 47201,
+    "acquisition_text": "Just because I'm the youngest doesn't mean I'll lose!\nI'll give it my all in my own way...!",
+    "another_name": "Lethal Arsenal",
+    "description": "A homunculus created by the Palme and the 9th of the Miraculous Nine.\nAlong with the other eight, she carries out the \"management\" under the Palme's orders.\nShe can transform parts of her body into weapons for combat, but often finds herself troubled by how to use that power.\nShe loves helping with Synthesis and will do nothing but that if left to her own devices.",
+    "fullname": "Quinn",
+    "leader_skill": {
+      "description": "Boosts Sweets characters' P.ATK, M.ATK, P.DEF, and M.DEF by 35%.",
+      "name": "The Youngest Who Yearns for Normalcy"
+    },
+    "name": "Quinn",
+    "overlay_name": "Quinn",
+    "profile_voice_text": "They say I'm the youngest of the Miraculous Nine and overflowing with ability, but... I'm just a regular girl...?",
+    "sort_name": "キューン",
+    "start_at": "2026-07-17T03:00:00Z"
   }
 ]

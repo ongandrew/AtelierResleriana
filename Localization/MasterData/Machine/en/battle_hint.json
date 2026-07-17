@@ -3166,5 +3166,49 @@
   {
     "id": 10225002,
     "description": "- Counters non-weakness attacks\n- When defeating an opponent, grants self Counter\n- Increases appearance of weaken panels\n- Grants self All Element Resistance Up and Regeneration"
+  },
+  {
+    "id": 10012015,
+    "description": "No tips available."
+  },
+  {
+    "id": 10014017,
+    "description": "No tips available."
+  },
+  {
+    "id": 10063001,
+    "description": "No tips available."
+  },
+  {
+    "id": 10086002,
+    "description": "- When HP reaches a certain level, triggers multiple positive effects\n- Delays turn\n- Inflicts P.ATK Down and M.ATK Down on all opponents"
+  },
+  {
+    "id": 10121009,
+    "description": "- When KO'd, converts weaken panels into Darkness panels\n- Grants allies Damage Received Down and Stun Damage Received Down"
+  },
+  {
+    "id": 10167011,
+    "description": "- Boosts critical rate for all allies\n- Reduces critical rate for all opponents"
+  },
+  {
+    "id": 10175005,
+    "description": "- Grants Barrier\n- Delays turn\n- Converts opponents' non-burst panels into weaken panels\n- When KO'd, advances all allies' turns"
+  },
+  {
+    "id": 10204008,
+    "description": "No tips available."
+  },
+  {
+    "id": 10248001,
+    "description": "No tips available."
+  },
+  {
+    "id": 10259001,
+    "description": "No tips available."
+  },
+  {
+    "id": 10281000,
+    "description": "- Grants self Mana Charge\n- Gains the following effects based on Mana Charge level:\n  Lv. 1+: Damage Dealt Up\n  Lv. 2+: Daze application rate up\n  Lv. 3+: Inflicts SPD Down on target when attacking\n  Lv. 4+: Damage Received Down\n  Lv. 5: When gaining Mana Charge, creates a burst panel on the next turn\n- After a powerful attack, removes own Mana Charge\n- Nullifies all elemental resistance down effects\n- Chance to inflict Darkness, Poison, Burn, Paralysis, and Daze\n- Inflicts Darkness\n- Grants self Damage Received Down and Stun Damage Received Down\n- Reduces potency of positive effects received by all opponents\n- Removes all opponents' positive effects\n- When stunned, inflicts DEF Down on self\n- When recovering from stun, removes DEF Down"
   }
 ]

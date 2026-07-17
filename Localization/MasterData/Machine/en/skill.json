@@ -43228,5 +43228,695 @@
     "description": "Reduces P.ATK of all enemies by {0}% for 2 attacks and M.ATK by {0}% for 2 attacks, and removes all positive effects.",
     "name": "Annoying Cry",
     "summary": ""
+  },
+  {
+    "id": 11003907,
+    "description": "Before attacking, removes own negative effects,<br>and after attacking, boosts own P.ATK by +{0}% (MAX 60%).",
+    "name": "MODE: Radius",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, boosts own P.ATK."
+  },
+  {
+    "id": 11003908,
+    "description": "Before attacking, removes own negative effects,<br>and after attacking, boosts own P.ATK by +{0}% (MAX 60%).",
+    "name": "MODE: Radius",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, boosts own P.ATK."
+  },
+  {
+    "id": 11003909,
+    "description": "Before attacking, removes own negative effects,<br>and after attacking, boosts own P.ATK by +{0}% (MAX 60%).",
+    "name": "MODE: Radius",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, boosts own P.ATK."
+  },
+  {
+    "id": 11003910,
+    "description": "Before attacking, removes own negative effects,<br>and after attacking, boosts own P.ATK by +{0}% (MAX 60%).",
+    "name": "MODE: Radius",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, boosts own P.ATK."
+  },
+  {
+    "id": 11003911,
+    "description": "Before attacking, removes own negative effects,<br>and after attacking, boosts own P.ATK by +{0}% (MAX 60%).",
+    "name": "MODE: Radius",
+    "summary": "Before attacking, removes own negative effects.<br>After attacking, boosts own P.ATK."
+  },
+  {
+    "id": 12003912,
+    "description": "After attacking, boosts own critical damage by +{0}% and P.ATK by +{1}% for 3 turns.",
+    "name": "MODE: Gradius",
+    "summary": "After attacking, boosts own critical damage and P.ATK."
+  },
+  {
+    "id": 12003913,
+    "description": "After attacking, boosts own critical damage by +{0}% and P.ATK by +{1}% for 3 turns.",
+    "name": "MODE: Gradius",
+    "summary": "After attacking, boosts own critical damage and P.ATK."
+  },
+  {
+    "id": 12003914,
+    "description": "After attacking, boosts own critical damage by +{0}% and P.ATK by +{1}% for 3 turns.",
+    "name": "MODE: Gradius",
+    "summary": "After attacking, boosts own critical damage and P.ATK."
+  },
+  {
+    "id": 12003915,
+    "description": "After attacking, boosts own critical damage by +{0}% and P.ATK by +{1}% for 3 turns.",
+    "name": "MODE: Gradius",
+    "summary": "After attacking, boosts own critical damage and P.ATK."
+  },
+  {
+    "id": 12003916,
+    "description": "After attacking, boosts own critical damage by +{0}% and P.ATK by +{1}% for 3 turns.",
+    "name": "MODE: Gradius",
+    "summary": "After attacking, boosts own critical damage and P.ATK."
+  },
+  {
+    "id": 14003917,
+    "description": "After attacking, boosts own critical damage by +{0}% and P.ATK by +{1}% for 3 turns,<br>and grants 5 stacks of MODE: Gravis (MAX 5).<br><br>*MODE: Gravis: P.ATK +{2}%.",
+    "name": "FATAL MODE: Volatus",
+    "summary": "After attacking, boosts own critical damage and P.ATK.<br>Grants self 5 stacks of MODE: Gravis."
+  },
+  {
+    "id": 14003918,
+    "description": "After attacking, boosts own critical damage by +{0}% and P.ATK by +{1}% for 3 turns,<br>and grants 5 stacks of MODE: Gravis (MAX 5).<br><br>*MODE: Gravis: P.ATK +{2}%.",
+    "name": "FATAL MODE: Volatus",
+    "summary": "After attacking, boosts own critical damage and P.ATK.<br>Grants self 5 stacks of MODE: Gravis."
+  },
+  {
+    "id": 14003919,
+    "description": "After attacking, boosts own critical damage by +{0}% and P.ATK by +{1}% for 3 turns,<br>and grants 5 stacks of MODE: Gravis (MAX 5).<br><br>*MODE: Gravis: P.ATK +{2}%.",
+    "name": "FATAL MODE: Volatus",
+    "summary": "After attacking, boosts own critical damage and P.ATK.<br>Grants self 5 stacks of MODE: Gravis."
+  },
+  {
+    "id": 14003920,
+    "description": "After attacking, boosts own critical damage by +{0}% and P.ATK by +{1}% for 3 turns,<br>and grants 5 stacks of MODE: Gravis (MAX 5).<br><br>*MODE: Gravis: P.ATK +{2}%.",
+    "name": "FATAL MODE: Volatus",
+    "summary": "After attacking, boosts own critical damage and P.ATK.<br>Grants self 5 stacks of MODE: Gravis."
+  },
+  {
+    "id": 14003921,
+    "description": "After attacking, boosts own critical damage by +{0}% and P.ATK by +{1}% for 3 turns,<br>and grants 5 stacks of MODE: Gravis (MAX 5).<br><br>*MODE: Gravis: P.ATK +{2}%.",
+    "name": "FATAL MODE: Volatus",
+    "summary": "After attacking, boosts own critical damage and P.ATK.<br>Grants self 5 stacks of MODE: Gravis."
+  },
+  {
+    "id": 14003922,
+    "description": "After attacking, increases own burst gauge by {0}%.",
+    "name": "Cometes",
+    "summary": "After attacking, increases own burst gauge."
+  },
+  {
+    "id": 14003923,
+    "description": "After attacking, increases own burst gauge by {0}%,<br>and removes {1} stack(s) of own MODE: Gravis.<br><br>*Does not consume the status change count or trigger additional effects.",
+    "name": "Galaxia",
+    "summary": "After attacking, increases own burst gauge.<br>Removes 1 stack of own MODE: Gravis."
+  },
+  {
+    "id": 22002226,
+    "description": "After attacking, reduces all enemies' P.DEF by {0}% for 2 turns and M.DEF by {1}% for 2 turns, removes target's positive effects, and removes own mana charge.",
+    "name": "Carnifex",
+    "summary": ""
+  },
+  {
+    "id": 22002227,
+    "description": "Grants self damage received down ({0}%/3 turns), stun damage received down ({1}%/3 turns), stun damage potency down ({2}%/3 turns), and Mana Charge (Lv. 1). Generates a burst panel on own next turn at Mana Charge Lv. 4.",
+    "name": "Replele",
+    "summary": ""
+  },
+  {
+    "id": 22002228,
+    "description": "After attacking, grants self damage received down ({0}%/2 turns) and reduces all enemies' SPD by {1}% for 3 turns.",
+    "name": "Terraflowl",
+    "summary": ""
+  },
+  {
+    "id": 22002229,
+    "description": "After attacking, reduces all enemies' positive effect potency by {0}% for 3 turns.",
+    "name": "Nephastlegio",
+    "summary": ""
+  },
+  {
+    "id": 22002230,
+    "description": "After attacking, inflicts the following status effects on target enemy with a 20% chance: Darkness (2 turns), Poison (2 turns), Burn, Paralysis (2 turns), Daze (1 turn).",
+    "name": "Inyuria",
+    "summary": ""
+  },
+  {
+    "id": 22002231,
+    "description": "After attacking, reduces all enemies' SPD by {0}% for 3 turns and inflicts Darkness (100% chance, 3 turns).",
+    "name": "Concussio",
+    "summary": ""
+  },
+  {
+    "id": 22002232,
+    "description": "After attacking, inflicts Poison (100% chance, 2 turns) ×8 on target and grants self Regeneration (30%, 2 turns).",
+    "name": "Death Spin",
+    "summary": ""
+  },
+  {
+    "id": 22002233,
+    "description": "No additional effects.",
+    "name": "Ice Step",
+    "summary": ""
+  },
+  {
+    "id": 22002234,
+    "description": "After attacking, inflicts Poison (2 turns) ×3 on target and grants self Regeneration (20%, 2 turns).",
+    "name": "Ice Mist",
+    "summary": ""
+  },
+  {
+    "id": 22002235,
+    "description": "After attacking, converts {0} of target's boost panels to empty panels.",
+    "name": "Driving Downpour",
+    "summary": ""
+  },
+  {
+    "id": 22002236,
+    "description": "After attacking, converts {0} of target's panels to empty panels.",
+    "name": "Milstorm",
+    "summary": ""
+  },
+  {
+    "id": 22002237,
+    "description": "No additional effects.",
+    "name": "Tail Rush",
+    "summary": ""
+  },
+  {
+    "id": 22002238,
+    "description": "After attacking, converts {0} of target's panels to weaken panels.",
+    "name": "Windball",
+    "summary": ""
+  },
+  {
+    "id": 22002239,
+    "description": "After attacking, reduces target's SPD by {0}% for 1 turn.",
+    "name": "Blood Storm",
+    "summary": ""
+  },
+  {
+    "id": 22002240,
+    "description": "Boosts all allies' positive effect potency received from boost-type panels by {0}% for 2 turns and restores HP by {1}%.",
+    "name": "Battle Cry",
+    "summary": ""
+  },
+  {
+    "id": 22002241,
+    "description": "After attacking, converts {0} of target's panels to weaken panels (excluding burst panels).",
+    "name": "Surprise Burn",
+    "summary": ""
+  },
+  {
+    "id": 22002242,
+    "description": "No additional effects.",
+    "name": "Burning Tongue",
+    "summary": ""
+  },
+  {
+    "id": 22002243,
+    "description": "After attacking, inflicts Darkness on target (100% chance, 2 turns).",
+    "name": "Magical Slash",
+    "summary": ""
+  },
+  {
+    "id": 22002244,
+    "description": "After attacking, reduces target's positive effect potency received by {0}% for 2 turns.",
+    "name": "Curse Burn",
+    "summary": ""
+  },
+  {
+    "id": 22002245,
+    "description": "After attacking, increases target's magical attack damage received by {0}% for 2 turns.",
+    "name": "Magical Dark Slide",
+    "summary": ""
+  },
+  {
+    "id": 22002246,
+    "description": "Restores all allies' HP by 30% and reduces damage received by {0}% for 2 turns.",
+    "name": "Heal All",
+    "summary": ""
+  },
+  {
+    "id": 22002247,
+    "description": "After attacking, converts {0} of target's panels to protection weaken panels.",
+    "name": "Cursed Thunder Breath",
+    "summary": ""
+  },
+  {
+    "id": 22002248,
+    "description": "No additional effects.",
+    "name": "Thunder Breath",
+    "summary": ""
+  },
+  {
+    "id": 22002249,
+    "description": "After attacking, removes all positive effects from target.",
+    "name": "Slash Bite",
+    "summary": ""
+  },
+  {
+    "id": 22002250,
+    "description": "After attacking, reduces target's damage dealt by {0}% for 2 turns.",
+    "name": "Thunder Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 22002251,
+    "description": "No additional effects.",
+    "name": "Scatter Slash",
+    "summary": ""
+  },
+  {
+    "id": 22002252,
+    "description": "Reduces positive effect potency received by all enemies by {0}% for 3 turns.",
+    "name": "Dark Roar",
+    "summary": ""
+  },
+  {
+    "id": 22002253,
+    "description": "This attack's damage increases by {0}% for each of the following buffs possessed (1 type each):\nDamage Dealt Up, Damage Received Down, Stun Damage Received Down, Evasion, Regeneration, SPD Up",
+    "name": "Power Shot",
+    "summary": ""
+  },
+  {
+    "id": 22002254,
+    "description": "After attacking, boosts all allies' damage dealt by {0}% for 10 turns.",
+    "name": "Spin Slash",
+    "summary": ""
+  },
+  {
+    "id": 22002255,
+    "description": "After attacking, restores all allies' HP by {0}%.",
+    "name": "Heal Gale",
+    "summary": ""
+  },
+  {
+    "id": 22002256,
+    "description": "After attacking, reduces all allies' damage received by {0}% for 10 turns.",
+    "name": "Storm",
+    "summary": ""
+  },
+  {
+    "id": 22002257,
+    "description": "Grants Evasion (chance {0}%/1 time) to all allies.",
+    "name": "Caution Call",
+    "summary": ""
+  },
+  {
+    "id": 22002258,
+    "description": "Inflicts SPD Down ({0}%/1 time) on target.",
+    "name": "Speed Down",
+    "summary": ""
+  },
+  {
+    "id": 22002259,
+    "description": "Grants Barrier ({0}%) to all allies.",
+    "name": "Solid Reflection",
+    "summary": ""
+  },
+  {
+    "id": 22002260,
+    "description": "After attacking, converts {0} of target's panels to weaken panels (excluding burst panels).",
+    "name": "Grab Comet",
+    "summary": ""
+  },
+  {
+    "id": 22002261,
+    "description": "No additional effects.",
+    "name": "Debris Fall",
+    "summary": ""
+  },
+  {
+    "id": 22002262,
+    "description": "After attacking, delays target's turn by {0}.",
+    "name": "Dizzy Glint",
+    "summary": ""
+  },
+  {
+    "id": 22002263,
+    "description": "After attacking, reduces target's damage dealt by {0}% for 2 turns.",
+    "name": "Chaos Explosion",
+    "summary": ""
+  },
+  {
+    "id": 22002264,
+    "description": "After attacking, boosts damage dealt by {0}% for 5 turns and grants self Counter (ex2) for 4 counterattacks.",
+    "name": "Groovy Gale",
+    "summary": ""
+  },
+  {
+    "id": 22002265,
+    "description": "No additional effects.",
+    "name": "Trick Slash",
+    "summary": ""
+  },
+  {
+    "id": 22002266,
+    "description": "No additional effects.",
+    "name": "Trick Wind",
+    "summary": ""
+  },
+  {
+    "id": 22002267,
+    "description": "After attacking, inflicts Poison x5 on targets with 70% HP or below (100% chance/3 times).",
+    "name": "Call Storm",
+    "summary": ""
+  },
+  {
+    "id": 22002268,
+    "description": "Grants self Counter (ex1) for 2 counterattacks.",
+    "name": "Counter Warning",
+    "summary": ""
+  },
+  {
+    "id": 22002269,
+    "description": "Grants target Darkness (100% chance / 3 turns).",
+    "name": "Shadow Curse",
+    "summary": ""
+  },
+  {
+    "id": 22002270,
+    "description": "After attacking, boosts all allies' damage dealt by {0}% for 5 turns.",
+    "name": "Hellfire Gift",
+    "summary": ""
+  },
+  {
+    "id": 22002271,
+    "description": "After attacking, boosts all allies' damage dealt by {0}% for 5 turns.",
+    "name": "Magic Fire Gift",
+    "summary": ""
+  },
+  {
+    "id": 22002272,
+    "description": "After attacking, boosts all allies' damage dealt by {0}% for 5 turns.",
+    "name": "Wide Range Fire Gift",
+    "summary": ""
+  },
+  {
+    "id": 22002273,
+    "description": "Applies one of the following effects to an ally or skill target:\n- Damage Dealt Up ({0}% / 2 turns)\n- Damage Received Down ({0}% / 2 turns)\n- Guaranteed Critical (1 turn)\n- Regeneration ({0}% / 3 turns)\n- Evasion ({0}% / 1 turn)",
+    "name": "Random Gift",
+    "summary": ""
+  },
+  {
+    "id": 22002274,
+    "description": "Restores all allies' HP by 30% and restores the stun gauge by {0}%.",
+    "name": "Heal All",
+    "summary": ""
+  },
+  {
+    "id": 22002275,
+    "description": "No additional effects.",
+    "name": "Glide",
+    "summary": ""
+  },
+  {
+    "id": 22002276,
+    "description": "Grants target damage dealt up by 15% for 3 turns.",
+    "name": "Aerial Dance",
+    "summary": ""
+  },
+  {
+    "id": 22002277,
+    "description": "After attacking, grants target Paralysis (100% chance / 3 turns).",
+    "name": "Paralyze Gale",
+    "summary": ""
+  },
+  {
+    "id": 22002278,
+    "description": "No additional effects.",
+    "name": "Mini Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 22002279,
+    "description": "After attacking, boosts all allies' damage dealt by {0}% for 1 turn.",
+    "name": "Whirlwind Dance",
+    "summary": ""
+  },
+  {
+    "id": 22002280,
+    "description": "Restores target's HP by {0}% and grants damage dealt up by {1}% for 1 turn.",
+    "name": "Battle Cry",
+    "summary": ""
+  },
+  {
+    "id": 22002281,
+    "description": "Grants target Regeneration ({0}% / 2 turns) and damage received down by {1}% for 1 turn.",
+    "name": "Endurance Chant",
+    "summary": ""
+  },
+  {
+    "id": 22002282,
+    "description": "After attacking, boosts all allies' damage dealt by {0}% for 1 turn.",
+    "name": "Scratch",
+    "summary": ""
+  },
+  {
+    "id": 22002283,
+    "description": "After attacking, reduces all allies' damage received by {0}% for 1 turn.",
+    "name": "Tail Strike",
+    "summary": ""
+  },
+  {
+    "id": 22002284,
+    "description": "No additional effects.",
+    "name": "Flame Vortex",
+    "summary": ""
+  },
+  {
+    "id": 22002285,
+    "description": "After attacking, grants target Paralysis (50% chance / 2 turns).",
+    "name": "Seal Blow",
+    "summary": ""
+  },
+  {
+    "id": 22002286,
+    "description": "After attacking, reduces own damage received by {0}% for 2 turns.",
+    "name": "Filas Fianeedl",
+    "summary": ""
+  },
+  {
+    "id": 22002287,
+    "description": "No additional effects.",
+    "name": "Fire Tornado",
+    "summary": ""
+  },
+  {
+    "id": 22002288,
+    "description": "After attacking, boosts own damage dealt by {0}% for 2 turns.",
+    "name": "Fire Dance",
+    "summary": ""
+  },
+  {
+    "id": 22002289,
+    "description": "Restores all allies' HP by 30% and clears status effects.",
+    "name": "Magic Recovery",
+    "summary": ""
+  },
+  {
+    "id": 22002290,
+    "description": "No effect.",
+    "name": "Surprise Burn",
+    "summary": ""
+  },
+  {
+    "id": 22002291,
+    "description": "No effect.",
+    "name": "Explosion",
+    "summary": ""
+  },
+  {
+    "id": 22002292,
+    "description": "After attacking, reduces all allies' stun damage received by {0}% for 2 turns.",
+    "name": "Magic Fire Gift",
+    "summary": ""
+  },
+  {
+    "id": 22002293,
+    "description": "After attacking, reduces target's M.ATK by {0}% for 2 turns.",
+    "name": "Curse Burn",
+    "summary": ""
+  },
+  {
+    "id": 22002294,
+    "description": "Reduces a single ally's damage received by {0}% and stun damage received by {1}% for 2 turns.",
+    "name": "Blessing",
+    "summary": ""
+  },
+  {
+    "id": 22002295,
+    "description": "Boosts critical rate of all allies by {0}% for 1 turn.",
+    "name": "Battle Cry",
+    "summary": ""
+  },
+  {
+    "id": 22002296,
+    "description": "No effect.",
+    "name": "Tail Lash",
+    "summary": ""
+  },
+  {
+    "id": 22002297,
+    "description": "No effect.",
+    "name": "Frozen Breath",
+    "summary": ""
+  },
+  {
+    "id": 22002298,
+    "description": "No effect.",
+    "name": "Freeze Rain",
+    "summary": ""
+  },
+  {
+    "id": 22002299,
+    "description": "Boosts a single ally's critical rate by {0}% for 1 turn.",
+    "name": "Battle Cry",
+    "summary": ""
+  },
+  {
+    "id": 22002300,
+    "description": "Reduces all enemies' critical rate by {0}% for 1 turn.",
+    "name": "Discord",
+    "summary": ""
+  },
+  {
+    "id": 22002301,
+    "description": "No effect.",
+    "name": "Spellcast",
+    "summary": ""
+  },
+  {
+    "id": 22002302,
+    "description": "After attacking, inflicts Sleep on target (100% chance to apply, 2 turns).",
+    "name": "Flare Suffocation",
+    "summary": ""
+  },
+  {
+    "id": 22002303,
+    "description": "No effect.",
+    "name": "Shadow Fire",
+    "summary": ""
+  },
+  {
+    "id": 22002304,
+    "description": "After attacking, delays target's turn by {0}.",
+    "name": "Blitz Shot",
+    "summary": ""
+  },
+  {
+    "id": 22002305,
+    "description": "After attacking, reduces target's P.ATK by {0}% and M.ATK by {1}% for 1 turn.",
+    "name": "Thunder Roar of Despair",
+    "summary": ""
+  },
+  {
+    "id": 22002306,
+    "description": "No effect.",
+    "name": "Black Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 22002307,
+    "description": "After attacking, reduces target's SPD by {0}% for 2 turns.",
+    "name": "Glide",
+    "summary": ""
+  },
+  {
+    "id": 22002308,
+    "description": "No effect.",
+    "name": "White Breath",
+    "summary": ""
+  },
+  {
+    "id": 22002309,
+    "description": "No additional effects.",
+    "name": "Giga White Breath",
+    "summary": ""
+  },
+  {
+    "id": 22002310,
+    "description": "No additional effects.",
+    "name": "Storm",
+    "summary": ""
+  },
+  {
+    "id": 22002311,
+    "description": "Grants all allies damage dealt up ({0}%/permanent).",
+    "name": "Aerial Roar",
+    "summary": ""
+  },
+  {
+    "id": 22002312,
+    "description": "After attacking, converts {0} of target's panels into empty panels.",
+    "name": "Milstorm",
+    "summary": ""
+  },
+  {
+    "id": 22002313,
+    "description": "No additional effects.",
+    "name": "Tail Lash",
+    "summary": ""
+  },
+  {
+    "id": 22002314,
+    "description": "After attacking, converts {0} of target's panels into weaken panels.",
+    "name": "Windball",
+    "summary": ""
+  },
+  {
+    "id": 22002315,
+    "description": "After attacking, inflicts SPD Down on target ({0}%/2 turns).",
+    "name": "Bloodstorm",
+    "summary": ""
+  },
+  {
+    "id": 22002316,
+    "description": "Grants all allies boost effect potency up from boost-type panels ({0}%/2 turns) and restores HP by {1}%.",
+    "name": "Battle Cry",
+    "summary": ""
+  },
+  {
+    "id": 22002317,
+    "description": "Converts {0} of a single ally's panels into boost panels (except burst panels) and grants damage dealt up ({1}%/1 turn).",
+    "name": "Valor's Gift",
+    "summary": ""
+  },
+  {
+    "id": 22002318,
+    "description": "Advances all allies' turns by {0}.",
+    "name": "Call to Action",
+    "summary": ""
+  },
+  {
+    "id": 22002319,
+    "description": "After attacking, inflicts damage received up on target ({0}%/3 turns).",
+    "name": "Painful Pointer",
+    "summary": ""
+  },
+  {
+    "id": 22002320,
+    "description": "After attacking, inflicts damage dealt down ({0}%/3 turns) and critical rate down ({1}%/1 turn) on target.",
+    "name": "Cold Release",
+    "summary": ""
+  },
+  {
+    "id": 22002321,
+    "description": "Advances a single ally's turn by {0}.",
+    "name": "Vital Pointer",
+    "summary": ""
+  },
+  {
+    "id": 22002322,
+    "description": "After attacking, inflicts Paralysis on target (50% chance/2 turns).",
+    "name": "Frozen Release",
+    "summary": ""
+  },
+  {
+    "id": 22002323,
+    "description": "After attacking, inflicts P.DEF Down ({0}%/2 turns) and M.DEF Down ({1}%/2 turns) on all enemies.",
+    "name": "Carnifex",
+    "summary": ""
   }
 ]

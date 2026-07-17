@@ -1,0 +1,784 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "（それから私たちは、果ての大陸で見つけたマナを\n\u3000船に積み、ランターナへの帰路につきました）",
+        "localizations": {
+          "en": "(After that, we loaded the mana we had found at World's End onto the ship and set our course back for Lantarna.)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "（暗黒の氷海は、行きと同じく\n\u3000私たちに牙をむきましたが――）",
+        "localizations": {
+          "en": "(The Midnight Sea bared its teeth at us on the return voyage, just as it had on the way out—)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "絶対に全員で生きて帰るぞ！\nお前ら、気合入れろぉ！！",
+        "localizations": {
+          "en": "We're all getting home alive—every last one of us! Now dig deep, crew!!"
+        }
+      },
+      "2072370017": {
+        "text": "ランツェ",
+        "localizations": {
+          "en": "Lanze"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "用意周到アルビちゃん！\u3000陽動の道具、\nちゃーんと帰りの分も持って来てるんだから！",
+        "localizations": {
+          "en": "Always prepared, that's me! I brought plenty of decoy supplies for the return trip too!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "全速前進！\nお前ら、振り落とされるなよ！",
+        "localizations": {
+          "en": "Full speed ahead! Don't you dare let yourselves get thrown off!"
+        }
+      },
+      "2072370017": {
+        "text": "コルテス",
+        "localizations": {
+          "en": "Kortes"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "（私たちは誰一人欠けることなく、\n\u3000無事に帰ることができました）",
+        "localizations": {
+          "en": "(Not a single person was lost. We made it home safe.)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "見えてきたね、ランターナ！\nもう目とハンマーの先だよ！",
+        "localizations": {
+          "en": "There it is—Lantarna! We're almost there!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "やっとね……！\n果ての大陸から、天才の凱旋よ！",
+        "localizations": {
+          "en": "Finally...! The genius returns triumphant from World's End!"
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "船を降りたら、まずはオルペウス殿下へ報告だね。\nその後は――",
+        "localizations": {
+          "en": "Once we're ashore, we should report to Prince Orpheus first. After that—"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "錬金術士の船が、帰ってきたぞー！",
+        "localizations": {
+          "en": "The alchemists' ship is back—they've returned!"
+        }
+      },
+      "2072370017": {
+        "text": "ランターナ国民Ａ",
+        "localizations": {
+          "en": "Lantarnan Citizen A"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "え？",
+        "localizations": {
+          "en": "Huh?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "おかえりなさーい！",
+        "localizations": {
+          "en": "Welcome home!!"
+        }
+      },
+      "2072370017": {
+        "text": "ランターナ国民Ｂ",
+        "localizations": {
+          "en": "Lantarnan Citizen B"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "果ての大陸は、見つかったー？",
+        "localizations": {
+          "en": "Did you find it?! Did you find World's End?!"
+        }
+      },
+      "2072370017": {
+        "text": "ランターナ国民Ｃ",
+        "localizations": {
+          "en": "Lantarnan Citizen C"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "皆さん、無事ですかー！？\n変てこ仮面さーん！",
+        "localizations": {
+          "en": "Is everyone okay?! Mr. Weird Mask—are you there?!"
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "こ、これは……！\n先輩方！\u3000クリセルダさんたちも！",
+        "localizations": {
+          "en": "Th-this is...! Everyone! Criselda and the others too!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "エルスさんに、タイニーも！\nみんな、お仕事は！？",
+        "localizations": {
+          "en": "Els! Tiny! Shouldn't you all be at work?!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "私たちが今日帰ってくるなんて、知らないわよね！？\nみんな、どうして……！",
+        "localizations": {
+          "en": "There's no way they knew we'd be back today! How did everyone...?!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "きっとみんな、待っていてくれたんだよ。\nほら、胸を張って！",
+        "localizations": {
+          "en": "They waited for us. Obviously. Now come on—heads up, all of you!"
+        }
+      },
+      "2072370017": {
+        "text": "クレオ",
+        "localizations": {
+          "en": "Creo"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "理由はなんにせよ、\nまずは、集まってくれたみんなに挨拶だ！",
+        "localizations": {
+          "en": "Whatever the reason, let's give everyone a proper greeting first!"
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "皆さん、お出迎えありがとうございます……！\nこんなにもたくさんの方が……！\u3000恐悦至極です！",
+        "localizations": {
+          "en": "Thank you all so much for coming out to meet us...! So many people...! I'm truly overwhelmed!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "何を謙遜しているんだ。ランターナの民から、\nお前たちの評判はたくさん聞いたぞ",
+        "localizations": {
+          "en": "No need to be modest. The people of Lantarna have had plenty to say about what you've accomplished."
+        }
+      },
+      "2072370017": {
+        "text": "エルス",
+        "localizations": {
+          "en": "Els"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "レスナさんがこれまで、錬金術で成し遂げてきたことが\n繋がり……今、大きな期待となっているのを感じます！",
+        "localizations": {
+          "en": "Everything you've done with alchemy up to now—it's all led to this moment. I can really feel how high everyone's hopes are!"
+        }
+      },
+      "2072370017": {
+        "text": "タイニー",
+        "localizations": {
+          "en": "Tiny"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "錬金術が復興すれば、これまで不可能だったことが\n可能になるかもしれない！",
+        "localizations": {
+          "en": "If alchemy comes back, things that seemed impossible might finally become possible!"
+        }
+      },
+      "2072370017": {
+        "text": "ランターナ国民Ａ",
+        "localizations": {
+          "en": "Lantarnan Citizen A"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "あなたが、ジェロンや弟くんを救ったように",
+        "localizations": {
+          "en": "The way you saved Geron and his brother..."
+        }
+      },
+      "2072370017": {
+        "text": "クリセルダ",
+        "localizations": {
+          "en": "Criselda"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "頂獣による悲劇だって、\nなくせるかもしれない",
+        "localizations": {
+          "en": "...maybe tragedies like the Apexi don't have to happen anymore."
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "うん……！\u3000錬金術の力があれば、きっと！",
+        "localizations": {
+          "en": "Yes...! With the power of alchemy, I know we can!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "皆さん、聞いてください",
+        "localizations": {
+          "en": "Everyone, please listen."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "私たちは……果ての大陸へたどり着きました。\nそして、豊富なマナ資源を確認しました",
+        "localizations": {
+          "en": "We reached World's End. And we confirmed it—vast mana resources, just waiting to be used."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "――錬金術は、復興します！",
+        "localizations": {
+          "en": "Alchemy will be revived!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "ワー！！！",
+        "localizations": {
+          "en": "Yeah!!!"
+        }
+      },
+      "2072370017": {
+        "text": "聴衆",
+        "localizations": {
+          "en": "Crowd"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "みんな、すっごい喜んでる！\nやったね、レスナちゃん！\u3000おめでとう！",
+        "localizations": {
+          "en": "Everyone's so happy! You did it, Resna! Congratulations!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "うんっ！\u3000本当に……とっても嬉しい！\nありがとう、イザナちゃん！",
+        "localizations": {
+          "en": "We did it! I'm so... this means everything to me! Thank you, Izana!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "レスナ、ランターナの王子として、\n改めて感謝するよ。本当にありがとう！",
+        "localizations": {
+          "en": "Resna—as a prince of Lantarna, I want to thank you again, from the bottom of my heart. Truly, thank you."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "こちらこそありがとうございます。\nロマンさんも、おめでとうございます！",
+        "localizations": {
+          "en": "Thank you as well. And congratulations, Roman!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "さあ、これからが忙しいよ、錬金術士レスナ。\nこれではまだ真の復興とは言えないからね",
+        "localizations": {
+          "en": "The real work starts now, Alchemist Resna. We can't call this a true revival just yet."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "錬金術を使った計画がたくさんあるんだ！\n国のために、同志の力を貸してほしい！",
+        "localizations": {
+          "en": "I have so many plans that alchemy could make possible! I need your help, my fellow dreamer!"
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "もちろんです、お手伝いさせてください！\nたくさんの人を錬金術で幸せにしたいですから！",
+        "localizations": {
+          "en": "Of course—let me do everything I can! I want to use alchemy to bring happiness to as many people as possible!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "ありがとう！\nレスナならそう言ってくれると思っていたよ",
+        "localizations": {
+          "en": "Thank you! I knew that's what you'd say."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "改めて、錬金術士レスナ。\nよろしく頼む",
+        "localizations": {
+          "en": "So—Alchemist Resna. I look forward to working with you."
+        }
+      },
+      "2072370017": {
+        "text": "ブラッド",
+        "localizations": {
+          "en": "Brad"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "はい！\u3000よろしくお願いいたします！",
+        "localizations": {
+          "en": "Likewise! It's an honor!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "レスナ！\u3000ロロナたちが「おめでとうパーティー」を\n開いてくれるって！\u3000ごちそうよ！",
+        "localizations": {
+          "en": "Resna! Rorona and the others are throwing us a congratulations party! There's going to be a feast!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "ここにいないみんなも集まるって！\n行こ、レスナ！",
+        "localizations": {
+          "en": "Everyone who couldn't be here is going to show up too! Come on, let's go!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "ふふっ。ありがとうございます、皆さん！\nでも、まずはオルペウス殿下に報告してからだよ！",
+        "localizations": {
+          "en": "Hehe. Thank you, everyone! But we're reporting to Prince Orpheus first!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 43,
+    "properties": {
+      "999008199": {
+        "text": "（師匠――見ていますか）",
+        "localizations": {
+          "en": "(Miss Saskia... are you watching?)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 44,
+    "properties": {
+      "999008199": {
+        "text": "（再び、始まりそうです）",
+        "localizations": {
+          "en": "(It feels like something new is about to begin.)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 45,
+    "properties": {
+      "999008199": {
+        "text": "（錬金術の時代が……！）",
+        "localizations": {
+          "en": "(A new age of alchemy...!)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  }
+]

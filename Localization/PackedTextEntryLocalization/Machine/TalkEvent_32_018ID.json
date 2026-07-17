@@ -1,0 +1,954 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "え……",
+        "localizations": {
+          "en": "Huh..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "うわあっ！？",
+        "localizations": {
+          "en": "Whoa!?"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "ちょっとレスナちゃん、なんで止まって……",
+        "localizations": {
+          "en": "Hey, Resna, why'd you stop—"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "あ……",
+        "localizations": {
+          "en": "Oh..."
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "なに、ここ……？",
+        "localizations": {
+          "en": "What is this place...?"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "空が、広い……",
+        "localizations": {
+          "en": "The sky... it's so wide..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "星、でかっ……\nあの灰色のほう、いつも見てる大の月……よね？",
+        "localizations": {
+          "en": "Those stars are huge... That gray one—that's the Great Moon we always see, right?"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "でも、あの一際大きくて、青い星は……？",
+        "localizations": {
+          "en": "But that one... that enormous blue star..."
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "それよりも……これ！\u3000これも、これも！！！\n全部、マナだ！\u3000純度の高いマナが、こんなに……",
+        "localizations": {
+          "en": "Never mind that—look! This! And this!! All of it—it's mana! Pure mana, and so much of it..."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "果ての大陸の伝説は、本当だったんだ！！\nこんな、こんな……っ！",
+        "localizations": {
+          "en": "The legends about World's End were true!! This is... this is...!"
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "お兄ちゃん？\u3000もしかして泣いてるの……？",
+        "localizations": {
+          "en": "Are you... crying right now?"
+        }
+      },
+      "2072370017": {
+        "text": "クレオ",
+        "localizations": {
+          "en": "Creo"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "ちょっとだけそっとしといてあげて。\n冒険者の本懐、ってやつよ",
+        "localizations": {
+          "en": "Give him a moment. This is what adventurers live for."
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "う、うん……",
+        "localizations": {
+          "en": "R-right..."
+        }
+      },
+      "2072370017": {
+        "text": "クレオ",
+        "localizations": {
+          "en": "Creo"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "（たどり着いたんだ、果ての大陸に）",
+        "localizations": {
+          "en": "(We made it. We actually made it to World's End.)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "（長い、長い旅だった……）",
+        "localizations": {
+          "en": "(It was such a long journey...)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "果ての大陸を見つけて、マナの問題を解決して……。\nみんなが錬金術で幸せになれるようにしたい",
+        "localizations": {
+          "en": "Find World's End, solve the mana problem... make it so everyone can find happiness through alchemy."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "だから立派な錬金術士になって、\n果ての大陸を探しに行きたいと思ってます！",
+        "localizations": {
+          "en": "That's why I want to become a true alchemist and go searching for World's End!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "私はそれを見つけ出すのが夢なんだ。\nもし果ての大陸が見つかり、マナが発掘されれば……",
+        "localizations": {
+          "en": "Finding it has always been my dream. If World's End is real, and the mana can be recovered..."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "錬金術もきっとまた、大昔のように繁栄する。\nそうすれば便利で楽しい世界になる……",
+        "localizations": {
+          "en": "Alchemy will flourish again, like it did in ancient times. The world will become a better, more wonderful place..."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "レスナ。あなたはこのまま果ての大陸を目指せば\nいいの。私も応援しちゃうわ",
+        "localizations": {
+          "en": "Just keep pressing forward toward World's End, Resna. You've got my full support."
+        }
+      },
+      "2072370017": {
+        "text": "ザスキア",
+        "localizations": {
+          "en": "Saskia"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "錬金術の復興は、私にとっても夢です。果ての大陸を\n目指すことも。でも、師匠に言われたからじゃない",
+        "localizations": {
+          "en": "Reviving alchemy has always been my dream too. And so has reaching World's End. But not because you told me to, Miss Saskia."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "果ての大陸は初耳だなあ。あれ、じゃあレスナたちが\nこの国にはるばるやってきたのって……",
+        "localizations": {
+          "en": "World's End—never heard of it before. Wait, so is that why you all came all the way out here...?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "はい。果ての大陸を探すためです。\nこの無数島群域に、手掛かりがあると信じて",
+        "localizations": {
+          "en": "Yes. We came searching for it. We believed there were clues somewhere in the Infinite Island Chain."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "それじゃ、「九偉人図」を全部\nくっつけてみるね",
+        "localizations": {
+          "en": "Alright—let me try putting all the pieces of the Map of the Nine together."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "「九人の偉人、皆がその手を差し伸べしとき\n\u3000汝が前に、果てへの道は開かれん」",
+        "localizations": {
+          "en": "'When the Nine Greats each extend their hand, the road to World's End shall open before you.'"
+        }
+      },
+      "2072370017": {
+        "text": "クレオ",
+        "localizations": {
+          "en": "Creo"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "私の問いに答えてください。\n正しく答えられれば、果ての大陸へと案内しましょう",
+        "localizations": {
+          "en": "Answer my questions. Answer correctly, and I will guide you to World's End."
+        }
+      },
+      "2072370017": {
+        "text": "案内人",
+        "localizations": {
+          "en": "???"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "大丈夫。自分で見つけ出せばいいんだよ",
+        "localizations": {
+          "en": "It's fine. I'll find the way myself."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "ここまでの道だって、\n誰かに案内されて来たわけじゃないんだから",
+        "localizations": {
+          "en": "No one guided us here. We made it this far on our own."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "（ここまで、色んなことがあった。\n\u3000たくさんの人に助けていただいた）",
+        "localizations": {
+          "en": "(So many things happened to get here. So many people helped us along the way.)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "（そしてついに、ついに……たどり着いたんだ！）",
+        "localizations": {
+          "en": "(And now, at last... we're here!)"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "やーーーーーーっ！！",
+        "localizations": {
+          "en": "YEAAAAH!!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "わっ。どうしたの、レスナ",
+        "localizations": {
+          "en": "Whoa! What's gotten into you?"
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "ご、ごめんなさい。\n嬉しい気持ちが溢れてきちゃって",
+        "localizations": {
+          "en": "S-sorry! I just... couldn't hold it in anymore."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "アタシも嬉しいから、一緒に叫ぶよ！\nハンマーーーーーー！！",
+        "localizations": {
+          "en": "I'm thrilled too, so I'm joining in! HAMMERRRRR!!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "えへへ、ありがとう、イザナちゃん",
+        "localizations": {
+          "en": "Hehe. Thank you, Izana."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "ねえ、ここが果ての大陸だとしてさ、\n地理的にはどこにあるの？",
+        "localizations": {
+          "en": "So, assuming this is World's End—where exactly are we, geographically?"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "果ての大陸の伝説では、遥か海の向こうに\nあるって話だった気がするんだけど",
+        "localizations": {
+          "en": "The legends always said it was somewhere far across the sea, didn't they?"
+        }
+      },
+      "2072370017": {
+        "text": "ハイディ",
+        "localizations": {
+          "en": "Heidi"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "少なくとも、諸島同盟にこんな景色の島はないね。\nその様子だとランターナのほうにもないんだろう？",
+        "localizations": {
+          "en": "I can say for certain there's no island like this anywhere in the Archipelago Federation. And judging by your faces, nowhere near Lantarna either?"
+        }
+      },
+      "2072370017": {
+        "text": "ジョゼ",
+        "localizations": {
+          "en": "José"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "うん。ここはいったいどこなんだろう――",
+        "localizations": {
+          "en": "Yeah. Where in the world are we..."
+        }
+      },
+      "2072370017": {
+        "text": "クレオ",
+        "localizations": {
+          "en": "Creo"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "……気になるのは、星です",
+        "localizations": {
+          "en": "...What's bothering me are the stars."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "星……そういえば、\nいつもの星空とは見え方がぜんぜん違う……",
+        "localizations": {
+          "en": "The stars... now that you mention it, everything looks completely different from home..."
+        }
+      },
+      "2072370017": {
+        "text": "クレオ",
+        "localizations": {
+          "en": "Creo"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "はい。いつも、どこでも見えていた黄金星が見えない。\nそして、見たことがない大きな青い星",
+        "localizations": {
+          "en": "Right. The Golden Star we can see from anywhere is gone. And there's this enormous blue star I've never seen before."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "あの青……見覚えがあります。海の色みたいな深い青。\n白いのは、雲、ですよね……",
+        "localizations": {
+          "en": "That blue... I recognize it. Deep like the color of the ocean. And the white must be clouds..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 43,
+    "properties": {
+      "999008199": {
+        "text": "えっと、じゃああの大きい緑は……？\n小さい緑が、あっちにポツポツとあるのは……",
+        "localizations": {
+          "en": "Um, so then what's that big green one? And those little green dots scattered over there...?"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 44,
+    "properties": {
+      "999008199": {
+        "text": "地図で見た形だよ。大きい緑はランターナ大陸で、\n小さくてたくさんある緑は無数島群域、だと思う",
+        "localizations": {
+          "en": "They match the shapes on the map. The big green one is Lantarna, and all those small ones are the Infinite Island Chain—I think."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 45,
+    "properties": {
+      "999008199": {
+        "text": "じゃあ、今アタシたちがいる場所って……",
+        "localizations": {
+          "en": "So then where we are right now..."
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 46,
+    "properties": {
+      "999008199": {
+        "text": "果ての大陸は……黄金星のことだったんだ",
+        "localizations": {
+          "en": "World's End... was the Golden Star all along."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 47,
+    "properties": {
+      "999008199": {
+        "text": "……面白いじゃない！",
+        "localizations": {
+          "en": "...Now that's interesting!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 48,
+    "properties": {
+      "999008199": {
+        "text": "ヴァレリア？",
+        "localizations": {
+          "en": "Valeria?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 49,
+    "properties": {
+      "999008199": {
+        "text": "こんなの、誰も知らなかったわよきっと。\nまあ、あの様子だと、九偉人は知ってたっぽいけど",
+        "localizations": {
+          "en": "No one in the world knew this. Well—looks like the Nine did, but still."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 50,
+    "properties": {
+      "999008199": {
+        "text": "とにかく人類は知らないはず！\nねえ、果ての大陸こと、黄金星を探検しましょう！",
+        "localizations": {
+          "en": "Everyone else had no idea! Come on—let's explore World's End. The Golden Star. All of it!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 51,
+    "properties": {
+      "999008199": {
+        "text": "そうこなくっちゃ！\u3000すっごい発見をして、\n歴史に天才ヨハナの名を残してやるわ！！",
+        "localizations": {
+          "en": "Now we're talking! We're going to make the discovery of the century, and the name Johanna will go down in history!!"
+        }
+      },
+      "2072370017": {
+        "text": "ヨハナ",
+        "localizations": {
+          "en": "Johanna"
+        }
+      }
+    }
+  },
+  {
+    "id": 52,
+    "properties": {
+      "999008199": {
+        "text": "おいおい、何があるか分からないんだ。\n進むにしても慎重に行こうよ",
+        "localizations": {
+          "en": "Easy, easy—we don't know what's out there. If we're moving forward, let's do it carefully."
+        }
+      },
+      "2072370017": {
+        "text": "ジョゼ",
+        "localizations": {
+          "en": "José"
+        }
+      }
+    }
+  },
+  {
+    "id": 53,
+    "properties": {
+      "999008199": {
+        "text": "理屈で分かっていても、止められないよ。\n冒険者魂ってやつだね。かくいう私も……",
+        "localizations": {
+          "en": "Try telling that to your heart. That's adventurer's spirit for you. Myself included, I'm afraid..."
+        }
+      },
+      "2072370017": {
+        "text": "ロマン",
+        "localizations": {
+          "en": "Roman"
+        }
+      }
+    }
+  },
+  {
+    "id": 54,
+    "properties": {
+      "999008199": {
+        "text": "ここまで来たらどこにいても危険は一緒じゃない？\n退路を確保しつつ進んでみましょ",
+        "localizations": {
+          "en": "At this point, danger's the same wherever we stand. Let's secure a way back and push forward."
+        }
+      },
+      "2072370017": {
+        "text": "メーヴェ",
+        "localizations": {
+          "en": "Mowen"
+        }
+      }
+    }
+  },
+  {
+    "id": 55,
+    "properties": {
+      "999008199": {
+        "text": "やれやれ……",
+        "localizations": {
+          "en": "...Good grief."
+        }
+      },
+      "2072370017": {
+        "text": "ジョゼ",
+        "localizations": {
+          "en": "José"
+        }
+      }
+    }
+  }
+]

@@ -17808,5 +17808,285 @@
     "id": 95000401,
     "description": "Increases the Atelier item gauge.",
     "popup_text": ""
+  },
+  {
+    "id": 5000114,
+    "description": "When self is one of the Miraculous Nine, grants Stun Damage Up.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001310,
+    "description": "While self has Quinn's Lethal Arsenal, grants self a status change for Galaxy's additional effect determination.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001317,
+    "description": "While holding Determination Dummy Buff (Phantom-Weaving Twin Fangs of Extremes), grants Skill Power Up for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 71281001,
+    "description": "Grants self Mana Charge.",
+    "popup_text": ""
+  },
+  {
+    "id": 71281002,
+    "description": "Removes Mana Charge from self.",
+    "popup_text": ""
+  },
+  {
+    "id": 71281004,
+    "description": "Inflicts Darkness on target enemy with a 20% chance.",
+    "popup_text": ""
+  },
+  {
+    "id": 71281005,
+    "description": "Inflicts Poison on target enemy with a 20% chance.",
+    "popup_text": ""
+  },
+  {
+    "id": 71281006,
+    "description": "Inflicts Burn on target enemy with a 20% chance.",
+    "popup_text": ""
+  },
+  {
+    "id": 71281007,
+    "description": "Inflicts Paralysis on target enemy with a 20% chance.",
+    "popup_text": ""
+  },
+  {
+    "id": 71281008,
+    "description": "Inflicts Daze on target enemy with a 20% chance.",
+    "popup_text": ""
+  },
+  {
+    "id": 71281013,
+    "description": "At Mana Charge Lv. 4, creates a burst panel on the next turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 71281027,
+    "description": "Reduces stun potency of attacks received.",
+    "popup_text": ""
+  },
+  {
+    "id": 71281028,
+    "description": "Grants self a reduction to stun potency of attacks received.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001771,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001772,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001773,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001774,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001775,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001776,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001777,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001778,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001779,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001780,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001781,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001782,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001783,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001784,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001785,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001786,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001787,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001788,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001789,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001790,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001791,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001792,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001793,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001794,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001795,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 81281009,
+    "description": "At Mana Charge Lv. 1, grants self Damage Dealt Up.",
+    "popup_text": ""
+  },
+  {
+    "id": 81281010,
+    "description": "At Mana Charge Lv. 2, grants self Daze application rate Up.",
+    "popup_text": ""
+  },
+  {
+    "id": 81281011,
+    "description": "At Mana Charge Lv. 3, grants self Speed Down to the target enemy when attacking (1 time).",
+    "popup_text": ""
+  },
+  {
+    "id": 81281012,
+    "description": "At Mana Charge Lv. 4, grants self Damage Received Down.",
+    "popup_text": ""
+  },
+  {
+    "id": 81281020,
+    "description": "Grants self conditional Damage Dealt Up (GX4_FS).",
+    "popup_text": ""
+  },
+  {
+    "id": 81281021,
+    "description": "Grants self conditional Daze application chance Up (GX4_FS).",
+    "popup_text": ""
+  },
+  {
+    "id": 81281022,
+    "description": "Grants self conditional Speed Down application (GX4_FS).",
+    "popup_text": ""
+  },
+  {
+    "id": 81281023,
+    "description": "Grants self conditional Damage Received Down (GX4_FS).",
+    "popup_text": ""
+  },
+  {
+    "id": 81281025,
+    "description": "When stunned, grants self Defense Down.",
+    "popup_text": ""
+  },
+  {
+    "id": 81281026,
+    "description": "While stunned, clears own Defense Down.",
+    "popup_text": ""
+  },
+  {
+    "id": 81281031,
+    "description": "Grants self immunity to all elemental resistance down effects.",
+    "popup_text": ""
+  },
+  {
+    "id": 81281032,
+    "description": "At Mana Charge Lv. 5, creates a burst panel on the next turn (description display only).",
+    "popup_text": ""
+  },
+  {
+    "id": 91002341,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002342,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002343,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000402,
+    "description": "When equipped to an Attacker with Slash affinity, grants self Skill Damage Up for 1 turn when using a Burst Skill.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000403,
+    "description": "When equipped with the Sweets tag, grants self Critical Damage Up.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000406,
+    "description": "When equipped to a character with Slash affinity, boosts the amount of positive effects granted.",
+    "popup_text": ""
   }
 ]

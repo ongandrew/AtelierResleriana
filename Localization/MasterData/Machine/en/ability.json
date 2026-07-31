@@ -15488,5 +15488,140 @@
     "id": 21281002,
     "description": "At the start of the wave, grants immunity to effects from enemies.\nWhen stunned, grants self Defense Down (90%).\nAt the start of a turn while stunned, removes Defense Down.",
     "name": ""
+  },
+  {
+    "id": 301362,
+    "description": "While equipped as Bepp [Ocean Fairy], after using a burst skill, grants target Skill Power +{0}% (Cannot be stacked).",
+    "name": "Sister's Special Fishing Rod"
+  },
+  {
+    "id": 301363,
+    "description": "When own HP is 70% or above, reduces damage received by {0}% (fixed).",
+    "name": "Phantom Silver Armor Aitocroitz"
+  },
+  {
+    "id": 301364,
+    "description": "When own HP is 70% or above, reduces damage received by {0}% (fixed).",
+    "name": "Phantom Silver Armor Aitocroitz"
+  },
+  {
+    "id": 301365,
+    "description": "Boosts skill damage of all allies by +{0}%.",
+    "name": "Harnal Ring"
+  },
+  {
+    "id": 301366,
+    "description": "Boosts skill damage of all allies by +{0}%.",
+    "name": "Harnal Ring"
+  },
+  {
+    "id": 500762,
+    "description": "When Seasonal, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500763,
+    "description": "When Seasonal, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500764,
+    "description": "When Seasonal, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500765,
+    "description": "When Seasonal, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500766,
+    "description": "When Seasonal, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500767,
+    "description": "When Seasonal, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500768,
+    "description": "When Seasonal, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 500769,
+    "description": "When Seasonal, boosts skill damage by {0}%.",
+    "name": ""
+  },
+  {
+    "id": 1980254,
+    "description": "Seasonal grants Skill Power +60%.",
+    "name": "Azure Warrior of the Seaside"
+  },
+  {
+    "id": 1990565,
+    "description": "Gaugifies own burst skill.<br>※ Burst gauge can stack up to 3 times.<br><br>After any party member uses a skill, increases own burst gauge by {0}%.",
+    "name": "Performance Dedicated to My Sister"
+  },
+  {
+    "id": 1990566,
+    "description": "After using a skill, grants all allies with Slash affinity SPD +{0}% (max 24%).<br>After any party member uses a skill, grants all allies with Slash affinity Critical Rate +{1}% (max 100%) and Critical Damage +{2}% (max 1600%).<br><br>All allies gain penetration power +0-{3} based on their respective SPD (higher boost for higher SPD, range: 250-360 SPD).<br><br>When there is another Seasonal character in the party, boosts enhancement effect potency given by +{4}%.",
+    "name": "Seaside Limit"
+  },
+  {
+    "id": 4991398,
+    "description": "While equipped to a Supporter with Slash affinity, boosts all allies' burst skill damage by +{0}%.<br>When Knight, boosts all allies' P.ATK by +{1}%.",
+    "name": "Imagination \"Fun-Filled Vacation\""
+  },
+  {
+    "id": 4991399,
+    "description": "While equipped to a Supporter with Slash affinity, boosts all allies' burst skill damage by +{0}%.<br>When Knight, boosts all allies' P.ATK by +{1}%.",
+    "name": "Imagination \"Fun-Filled Vacation\""
+  },
+  {
+    "id": 4991400,
+    "description": "While equipped to a Supporter with Slash affinity, boosts all allies' burst skill damage by +{0}%.<br>When Knight, boosts all allies' P.ATK by +{1}%.",
+    "name": "Imagination \"Fun-Filled Vacation\""
+  },
+  {
+    "id": 4991401,
+    "description": "While equipped to a Supporter with Slash affinity, boosts all allies' burst skill damage by +{0}%.<br>When Knight, boosts all allies' P.ATK by +{1}%.",
+    "name": "Imagination \"Fun-Filled Vacation\""
+  },
+  {
+    "id": 4991402,
+    "description": "While equipped to a Supporter with Slash affinity, boosts all allies' burst skill damage by {0}%.<br>When equipped to a character with the Knight tag, boosts all allies' P.ATK by {1}%.",
+    "name": "Imagination \"Lively Vacation\""
+  },
+  {
+    "id": 21187002,
+    "description": "When hit by damage from an Atelier Bomb, grants self All Elements resistance DOWN ({0}%/3 attacks).",
+    "name": ""
+  },
+  {
+    "id": 26247003,
+    "description": "At the start of the wave, grants self damage received DOWN (50%). Removed after receiving 10 WEAK attacks.",
+    "name": ""
+  },
+  {
+    "id": 26247004,
+    "description": "Nullifies resistance DOWN for all elements except Fire and Slash.",
+    "name": ""
+  },
+  {
+    "id": 600000826,
+    "description": "Boosts Quinn [Lethal Arsenal]'s skill power by 200%.",
+    "name": "Quinn [Lethal Arsenal] Skill Power UP"
+  },
+  {
+    "id": 600000827,
+    "description": "Boosts Bepp [Ocean Faerie]'s positive effect potency granted by 150%.",
+    "name": "Bepp [Ocean Faerie] Positive Effect Potency UP"
+  },
+  {
+    "id": 600000830,
+    "description": "When Bepp [Ocean Faerie] or Quinn [Lethal Arsenal] is in the party, reduces damage received by 25% (cap: 25%).",
+    "name": "Bepp [Ocean Faerie] or Quinn [Lethal Arsenal] in Party: Damage Received DOWN"
   }
 ]

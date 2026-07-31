@@ -130,5 +130,17 @@
     "description": "{0} Level Cap Release ({1} time(s))\nReleasing increases the level cap by {2}",
     "name": "Desuni Core",
     "start_at": "2026-07-03T03:00:00Z"
+  },
+  {
+    "id": 25,
+    "description": "{0} EXP +{1}",
+    "name": "Pyne Shard",
+    "start_at": "2026-07-31T03:00:00Z"
+  },
+  {
+    "id": 26,
+    "description": "{0} Level Cap Release ({1} time(s))\nReleasing increases the level cap by {2}",
+    "name": "Pyne Core",
+    "start_at": "2026-07-31T03:00:00Z"
   }
 ]

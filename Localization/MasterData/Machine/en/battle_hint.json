@@ -3210,5 +3210,65 @@
   {
     "id": 10281000,
     "description": "- Grants self Mana Charge\n- Gains the following effects based on Mana Charge level:\n  Lv. 1+: Damage Dealt Up\n  Lv. 2+: Daze application rate up\n  Lv. 3+: Inflicts SPD Down on target when attacking\n  Lv. 4+: Damage Received Down\n  Lv. 5: When gaining Mana Charge, creates a burst panel on the next turn\n- After a powerful attack, removes own Mana Charge\n- Nullifies all elemental resistance down effects\n- Chance to inflict Darkness, Poison, Burn, Paralysis, and Daze\n- Inflicts Darkness\n- Grants self Damage Received Down and Stun Damage Received Down\n- Reduces potency of positive effects received by all opponents\n- Removes all opponents' positive effects\n- When stunned, inflicts DEF Down on self\n- When recovering from stun, removes DEF Down"
+  },
+  {
+    "id": 30010017,
+    "description": "- No tips available."
+  },
+  {
+    "id": 30187002,
+    "description": "- No tips available."
+  },
+  {
+    "id": 30187003,
+    "description": "- When hit by an Atelier Bomb's damage, reduces own resistance to all elements\n- Grants self Negative Effect Potency Down\n- Delays turn"
+  },
+  {
+    "id": 60013038,
+    "description": "- No tips available."
+  },
+  {
+    "id": 60014028,
+    "description": "- Nullifies resistance reduction for all elements except Fire and Slash\n- Chance to counter\n- Inflicts Poison\n- Inflicts Nullify Positive Effects\n- Boosts damage dealt to opponents with status effects"
+  },
+  {
+    "id": 60039016,
+    "description": "- No tips available."
+  },
+  {
+    "id": 60069012,
+    "description": "- No tips available."
+  },
+  {
+    "id": 60070003,
+    "description": "- No tips available."
+  },
+  {
+    "id": 60122032,
+    "description": "- No tips available."
+  },
+  {
+    "id": 60146015,
+    "description": "- When KO'd, generates a boost+ panel\n- Removes all positive effects from opponents\n- Generates a protection weaken panel"
+  },
+  {
+    "id": 60171013,
+    "description": "- No tips available."
+  },
+  {
+    "id": 60177008,
+    "description": "- When KO'd, converts panels other than burst panels into HP recovery panels\n- Heals self\n- Heals all allies"
+  },
+  {
+    "id": 60190020,
+    "description": "- Nullifies resistance reduction for all elements except Fire and Slash\n- When KO'd, boosts damage dealt for all opponents and allies\n- Inflicts Burn\n- Heals all allies\n- Converts all allies' panels to boost panels\n- Generates an HP recovery panel"
+  },
+  {
+    "id": 60247005,
+    "description": "- Nullifies resistance reduction for all elements except Fire and Slash\n- At battle start, grants self Damage Received Down\n- When hit by weakness attacks 10 times, removes the Damage Received Down"
+  },
+  {
+    "id": 60247007,
+    "description": "- At battle start, grants self Damage Received Down\n- When hit by weakness attacks 10 times, removes the Damage Received Down"
   }
 ]

@@ -7486,5 +7486,95 @@
     "name": "Wilbell Witch's Outfit Costume Wish",
     "start_at": "2026-07-24T03:00:00Z",
     "step_up_loop_description": "{} rounds remaining"
+  },
+  {
+    "id": 2420,
+    "description": "Bepp makes her debut! Featured!\nFeatured until 2026/08/27 11:59 (UTC+8).",
+    "end_at": "2026-08-27T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Atelier Summer 2026 Sparkling Fairy Bepp LEGEND FES",
+    "name": "Atelier Summer 2026 Sparkling Fairy Bepp LEGEND FES",
+    "start_at": "2026-07-31T03:00:00Z",
+    "step_up_loop_description": "",
+    "small_banner_label": ""
+  },
+  {
+    "id": 2421,
+    "description": "Limited to 1 Wish per day with Paid Lodestar Gems! Featured rate doubled!\nFeatured until 2026/08/14 11:59 (UTC+8).",
+    "end_at": "2026-08-14T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 24211,
+            "description": "Featured Rate x2!\n1 Wish Left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Atelier Summer 2026 Sparkling Fairy Bepp LEGEND FES [1/Day Limit - Paid Lodestar Gems Only]",
+    "name": "Atelier Summer 2026 Sparkling Fairy Bepp LEGEND FES [1/Day Limit - Paid Lodestar Gems Only]",
+    "start_at": "2026-07-31T03:00:00Z",
+    "step_up_loop_description": "",
+    "small_banner_label": "1/Day Limited!"
+  },
+  {
+    "id": 2422,
+    "description": "Wish 50 times with Paid Lodestar Gems to receive bonus Wishes!\nFeatured until 2026/08/27 11:59 (UTC+8).",
+    "end_at": "2026-08-27T03:00:00Z",
+    "gacha_button_groups": [],
+    "gacha_rate_set_name": "",
+    "name": "Atelier Summer 2026 Sparkling Fairy Bepp LEGEND FES [Paid Lodestar Gems Only]",
+    "start_at": "2026-07-31T03:00:00Z",
+    "step_up_loop_description": "{} Times Left",
+    "small_banner_label": "Paid Only!"
+  },
+  {
+    "id": 242201,
+    "description": "5 wishes only! Double the featured rate!\nGet 16 medals! Featured until 2026/08/27 10:59 (UTC+8).",
+    "end_at": "2026-08-27T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10005,
+            "description": "Bonus included!\n{} wish(es) remaining!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Atelier Summer 2026 Sparkling Fairy Bepp LEGEND FES [Paid Only]",
+    "name": "Atelier Summer 2026 Sparkling Fairy Bepp LEGEND FES [Paid Only]",
+    "small_banner_label": "Paid Only!",
+    "start_at": "2026-07-31T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 3100015,
+    "description": "[New costume guaranteed at STEP 7!]\n\nIzana's new costume makes its debut!\nThe featured rate for the new costume goes up with each STEP!\nFeatured until 2026/08/18 10:59 (UTC+8).\n",
+    "end_at": "2026-08-18T03:00:00Z",
+    "gacha_button_groups": [],
+    "gacha_rate_set_name": "",
+    "name": "Izana Summer Vacation Costume Synthesis",
+    "small_banner_label": "",
+    "start_at": "2026-08-04T03:00:00Z",
+    "step_up_loop_description": "{} loop(s) remaining"
   }
 ]

@@ -18088,5 +18088,160 @@
     "id": 95000406,
     "description": "When equipped to a character with Slash affinity, boosts the amount of positive effects granted.",
     "popup_text": ""
+  },
+  {
+    "id": 5000112,
+    "description": "When self has the \"Seasonal\" tag, grants skill damage up to self.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001307,
+    "description": "Boosts attack penetration.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001308,
+    "description": "Grants Damage Received Up to the single enemy with the highest max HP. (MAX 6 stacks)",
+    "popup_text": ""
+  },
+  {
+    "id": 6001309,
+    "description": "Grants Damage Received Up to the single enemy with the highest max HP. (MAX 6 stacks)",
+    "popup_text": ""
+  },
+  {
+    "id": 6001311,
+    "description": "While equipped to Bepp [Ocean Fairy], after using a burst skill, grants Skill Power Up to the target. (Cannot be stacked)",
+    "popup_text": ""
+  },
+  {
+    "id": 6001312,
+    "description": "When own HP is 70% or higher, reduces damage received. (Fixed potency)",
+    "popup_text": ""
+  },
+  {
+    "id": 6001313,
+    "description": "Boosts all allies' skill damage.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001318,
+    "description": "Grants P.ATK Up to all allies for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001319,
+    "description": "Grants P.ATK Up to all allies for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001796,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001797,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001798,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001799,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001800,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001801,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 81187002,
+    "description": "When using an Atelier Bomb, grants self All Elemental Resistance Down (3 times).",
+    "popup_text": ""
+  },
+  {
+    "id": 86247004,
+    "description": "After 10 WEAK attacks, clears own Damage Received Down.",
+    "popup_text": ""
+  },
+  {
+    "id": 86247005,
+    "description": "Grants self Damage Received Down (Glittering Sparkle).",
+    "popup_text": ""
+  },
+  {
+    "id": 91002344,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002345,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002346,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002347,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002348,
+    "description": "",
+    "popup_text": "Turn Shortened"
+  },
+  {
+    "id": 91002349,
+    "description": "",
+    "popup_text": "Turn Swapped"
+  },
+  {
+    "id": 91002361,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000404,
+    "description": "When equipped to a Supporter with Slash affinity, grants all allies Burst Skill Damage Up.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000405,
+    "description": "When in Cavalry, grants all allies P.ATK Up.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000924,
+    "description": "When self is Quinn [Lethal Arsenal], boosts skill power.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000925,
+    "description": "When self is Bepp [Ocean Faerie], boosts potency of positive effects.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000928,
+    "description": "Reduces party damage received when Quinn [Lethal Arsenal] is in the party.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000929,
+    "description": "Reduces party damage received when Bepp [Ocean Faerie] is in the party.",
+    "popup_text": ""
   }
 ]

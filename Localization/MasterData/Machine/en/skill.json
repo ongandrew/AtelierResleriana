@@ -43918,5 +43918,863 @@
     "description": "After attacking, inflicts P.DEF Down ({0}%/2 turns) and M.DEF Down ({1}%/2 turns) on all enemies.",
     "name": "Carnifex",
     "summary": ""
+  },
+  {
+    "id": 32196,
+    "description": "Deals Fire damage to the single enemy with the highest max HP.<br>Boosts this attack's Stun Damage by +{0}.",
+    "name": "Forbidden Grimoire",
+    "summary": ""
+  },
+  {
+    "id": 32197,
+    "description": "Deals Fire damage to the single enemy with the highest max HP.<br>Boosts this attack's Stun Damage by +{0}.",
+    "name": "Forbidden Grimoire",
+    "summary": ""
+  },
+  {
+    "id": 32198,
+    "description": "Increases damage received by the single enemy with the highest max HP by {0}% (Max 6 stacks).",
+    "name": "Fake Bouquet",
+    "summary": ""
+  },
+  {
+    "id": 32199,
+    "description": "Increases damage received by the single enemy with the highest max HP by {0}% (Max 6 stacks).",
+    "name": "Fake Bouquet",
+    "summary": ""
+  },
+  {
+    "id": 51101,
+    "description": "Restores the item gauge by +{0}%.",
+    "name": "Pine Bomb",
+    "summary": "Restores the item gauge by +{0}%."
+  },
+  {
+    "id": 51102,
+    "description": "Restores the item gauge by +{0}%.",
+    "name": "Pine Bomb",
+    "summary": "Restores the item gauge by +{0}%."
+  },
+  {
+    "id": 51103,
+    "description": "Restores the item gauge by +{0}%.",
+    "name": "Pine Bomb",
+    "summary": "Restores the item gauge by +{0}%."
+  },
+  {
+    "id": 51104,
+    "description": "Restores the item gauge by +{0}%.",
+    "name": "Pine Bomb",
+    "summary": "Restores the item gauge by +{0}%."
+  },
+  {
+    "id": 51105,
+    "description": "Restores the item gauge by +{0}%.",
+    "name": "Pine Bomb",
+    "summary": "Restores the item gauge by +{0}%."
+  },
+  {
+    "id": 51106,
+    "description": "Restores the item gauge by +{0}%.",
+    "name": "Pine Bomb",
+    "summary": "Restores the item gauge by +{0}%."
+  },
+  {
+    "id": 51107,
+    "description": "Restores the item gauge by +{0}%.",
+    "name": "Pine Bomb",
+    "summary": "Restores the item gauge by +{0}%."
+  },
+  {
+    "id": 51108,
+    "description": "Restores the item gauge by +{0}%.",
+    "name": "Pine Bomb",
+    "summary": "Restores the item gauge by +{0}%."
+  },
+  {
+    "id": 51109,
+    "description": "Restores the item gauge by +{0}%.",
+    "name": "Pine Bomb",
+    "summary": "Restores the item gauge by +{0}%."
+  },
+  {
+    "id": 51110,
+    "description": "Restores the item gauge by +{0}%.",
+    "name": "Pine Bomb",
+    "summary": "Restores the item gauge by +{0}%."
+  },
+  {
+    "id": 51111,
+    "description": "Restores the item gauge by +{0}%.",
+    "name": "Pine Bomb",
+    "summary": "Restores the item gauge by +{0}%."
+  },
+  {
+    "id": 51112,
+    "description": "Restores the item gauge by +{0}%.",
+    "name": "Pine Bomb",
+    "summary": "Restores the item gauge by +{0}%."
+  },
+  {
+    "id": 51113,
+    "description": "Restores the item gauge by +{0}%.",
+    "name": "Pine Bomb",
+    "summary": "Restores the item gauge by +{0}%."
+  },
+  {
+    "id": 51114,
+    "description": "Restores the item gauge by +{0}%.",
+    "name": "Pine Bomb",
+    "summary": "Restores the item gauge by +{0}%."
+  },
+  {
+    "id": 51115,
+    "description": "Restores the item gauge by +{0}%.",
+    "name": "Pine Bomb",
+    "summary": "Restores the item gauge by +{0}%."
+  },
+  {
+    "id": 51116,
+    "description": "Restores the item gauge by +{0}%.",
+    "name": "Pine Bomb",
+    "summary": "Restores the item gauge by +{0}%."
+  },
+  {
+    "id": 51117,
+    "description": "Restores item gauge by +{0}%.",
+    "name": "Pineabomb",
+    "summary": "Restores item gauge by +{0}%."
+  },
+  {
+    "id": 51118,
+    "description": "Restores item gauge by +{0}%.",
+    "name": "Pineabomb",
+    "summary": "Restores item gauge by +{0}%."
+  },
+  {
+    "id": 51119,
+    "description": "Restores item gauge by +{0}%.",
+    "name": "Pineabomb",
+    "summary": "Restores item gauge by +{0}%."
+  },
+  {
+    "id": 51120,
+    "description": "Restores item gauge by +{0}%.",
+    "name": "Pineabomb",
+    "summary": "Restores item gauge by +{0}%."
+  },
+  {
+    "id": 51121,
+    "description": "Restores item gauge by +{0}%.",
+    "name": "Pineabomb",
+    "summary": "Restores item gauge by +{0}%."
+  },
+  {
+    "id": 51122,
+    "description": "Restores item gauge by +{0}%.",
+    "name": "Pineabomb",
+    "summary": "Restores item gauge by +{0}%."
+  },
+  {
+    "id": 51123,
+    "description": "Restores item gauge by +{0}%.",
+    "name": "Pineabomb",
+    "summary": "Restores item gauge by +{0}%."
+  },
+  {
+    "id": 51124,
+    "description": "Restores item gauge by +{0}%.",
+    "name": "Pineabomb",
+    "summary": "Restores item gauge by +{0}%."
+  },
+  {
+    "id": 51125,
+    "description": "Restores item gauge by +{0}%.",
+    "name": "Pineabomb",
+    "summary": "Restores item gauge by +{0}%."
+  },
+  {
+    "id": 51126,
+    "description": "Restores item gauge by +{0}%.<br>Grants all allies P.ATK and M.ATK +{1}% for 1 turn.",
+    "name": "Pineabomb",
+    "summary": "Restores item gauge by +{0}%.<br>Grants all allies P.ATK and M.ATK +{1}% for 1 turn."
+  },
+  {
+    "id": 51127,
+    "description": "Restores item gauge by +{0}%.<br>Grants all allies P.ATK and M.ATK +{1}% for 1 turn.",
+    "name": "Pineabomb",
+    "summary": "Restores item gauge by +{0}%.<br>Grants all allies P.ATK and M.ATK +{1}% for 1 turn."
+  },
+  {
+    "id": 51128,
+    "description": "Restores item gauge by +{0}%.<br>Grants all allies P.ATK and M.ATK +{1}% for 1 turn.",
+    "name": "Pineabomb",
+    "summary": "Restores item gauge by +{0}%.<br>Grants all allies P.ATK and M.ATK +{1}% for 1 turn."
+  },
+  {
+    "id": 51129,
+    "description": "Restores item gauge by +{0}%.<br>Grants all allies P.ATK and M.ATK +{1}% for 1 turn.",
+    "name": "Pineabomb",
+    "summary": "Restores item gauge by +{0}%.<br>Grants all allies P.ATK and M.ATK +{1}% for 1 turn."
+  },
+  {
+    "id": 51130,
+    "description": "Restores item gauge by +{0}%.<br>Grants all allies P.ATK and M.ATK +{1}% for 1 turn.",
+    "name": "Pineabomb",
+    "summary": "Restores item gauge by +{0}%.<br>Grants all allies P.ATK and M.ATK +{1}% for 1 turn."
+  },
+  {
+    "id": 51131,
+    "description": "Restores item gauge by +{0}%.<br>Grants all allies P.ATK and M.ATK +{1}% for 1 turn.",
+    "name": "Pineabomb",
+    "summary": "Restores item gauge by +{0}%.<br>Grants all allies P.ATK and M.ATK +{1}% for 1 turn."
+  },
+  {
+    "id": 51132,
+    "description": "Restores item gauge by +{0}%.<br>Grants all allies P.ATK and M.ATK +{1}% for 1 turn.",
+    "name": "Pineabomb",
+    "summary": "Restores item gauge by +{0}%.<br>Grants all allies P.ATK and M.ATK +{1}% for 1 turn."
+  },
+  {
+    "id": 51133,
+    "description": "Restores item gauge by +{0}%.<br>Grants all allies P.ATK and M.ATK +{1}% for 1 turn.",
+    "name": "Pineabomb",
+    "summary": "Restores item gauge by +{0}%.<br>Grants all allies P.ATK and M.ATK +{1}% for 1 turn."
+  },
+  {
+    "id": 51134,
+    "description": "Restores item gauge by +{0}%.<br>Grants all allies P.ATK and M.ATK +{1}% for 1 turn.",
+    "name": "Pineabomb",
+    "summary": "Restores item gauge by +{0}%.<br>Grants all allies P.ATK and M.ATK +{1}% for 1 turn."
+  },
+  {
+    "id": 51135,
+    "description": "Restores item gauge by +{0}%.<br>Grants all allies P.ATK and M.ATK +{1}% for 1 turn.",
+    "name": "Pineabomb",
+    "summary": "Restores item gauge by +{0}%.<br>Grants all allies P.ATK and M.ATK +{1}% for 1 turn."
+  },
+  {
+    "id": 51136,
+    "description": "Restores item gauge by +{0}%.<br>Grants all allies P.ATK and M.ATK +{1}% for 1 turn.",
+    "name": "Pineabomb",
+    "summary": "Restores item gauge by +{0}%.<br>Grants all allies P.ATK and M.ATK +{1}% for 1 turn."
+  },
+  {
+    "id": 51137,
+    "description": "Restores the item gauge by +{0}%.<br>Grants all allies P.ATK/M.ATK +{1}% for 1 turn.",
+    "name": "Pineapple Bomb",
+    "summary": "Restores the item gauge by +{0}%.<br>Grants all allies P.ATK/M.ATK +{1}% for 1 turn."
+  },
+  {
+    "id": 51138,
+    "description": "Restores the item gauge by +{0}%.<br>Grants all allies P.ATK/M.ATK +{1}% for 1 turn.",
+    "name": "Pineapple Bomb",
+    "summary": "Restores the item gauge by +{0}%.<br>Grants all allies P.ATK/M.ATK +{1}% for 1 turn."
+  },
+  {
+    "id": 51139,
+    "description": "Restores the item gauge by +{0}%.<br>Grants all allies P.ATK/M.ATK +{1}% for 1 turn.",
+    "name": "Pineapple Bomb",
+    "summary": "Restores the item gauge by +{0}%.<br>Grants all allies P.ATK/M.ATK +{1}% for 1 turn."
+  },
+  {
+    "id": 51140,
+    "description": "Restores the item gauge by +{0}%.<br>Grants all allies P.ATK/M.ATK +{1}% for 1 turn.",
+    "name": "Pineapple Bomb",
+    "summary": "Restores the item gauge by +{0}%.<br>Grants all allies P.ATK/M.ATK +{1}% for 1 turn."
+  },
+  {
+    "id": 51141,
+    "description": "Restores the item gauge by +{0}%.<br>Grants all allies P.ATK/M.ATK +{1}% for 1 turn.",
+    "name": "Pineapple Bomb",
+    "summary": "Restores the item gauge by +{0}%.<br>Grants all allies P.ATK/M.ATK +{1}% for 1 turn."
+  },
+  {
+    "id": 51142,
+    "description": "Restores the item gauge by +{0}%.<br>Grants all allies P.ATK/M.ATK +{1}% for 1 turn.",
+    "name": "Pineapple Bomb",
+    "summary": "Restores the item gauge by +{0}%.<br>Grants all allies P.ATK/M.ATK +{1}% for 1 turn."
+  },
+  {
+    "id": 51143,
+    "description": "Restores the item gauge by +{0}%.<br>Grants all allies P.ATK/M.ATK +{1}% for 1 turn.",
+    "name": "Pineapple Bomb",
+    "summary": "Restores the item gauge by +{0}%.<br>Grants all allies P.ATK/M.ATK +{1}% for 1 turn."
+  },
+  {
+    "id": 51144,
+    "description": "Restores the item gauge by +{0}%.<br>Grants all allies P.ATK/M.ATK +{1}% for 1 turn.",
+    "name": "Pineapple Bomb",
+    "summary": "Restores the item gauge by +{0}%.<br>Grants all allies P.ATK/M.ATK +{1}% for 1 turn."
+  },
+  {
+    "id": 51145,
+    "description": "Restores the item gauge by +{0}%.<br>Grants all allies P.ATK/M.ATK +{1}% for 1 turn.",
+    "name": "Pineapple Bomb",
+    "summary": "Restores the item gauge by +{0}%.<br>Grants all allies P.ATK/M.ATK +{1}% for 1 turn."
+  },
+  {
+    "id": 51146,
+    "description": "Restores the item gauge by +{0}%.<br>Grants all allies P.ATK/M.ATK +{1}% for 1 turn.",
+    "name": "Pineapple Bomb",
+    "summary": "Restores the item gauge by +{0}%.<br>Grants all allies P.ATK/M.ATK +{1}% for 1 turn."
+  },
+  {
+    "id": 51147,
+    "description": "Restores the item gauge by +{0}%.<br>Grants all allies P.ATK/M.ATK +{1}% for 1 turn.",
+    "name": "Pineapple Bomb",
+    "summary": "Restores the item gauge by +{0}%.<br>Grants all allies P.ATK/M.ATK +{1}% for 1 turn."
+  },
+  {
+    "id": 51148,
+    "description": "Restores the item gauge by +{0}%.<br>Grants all allies P.ATK/M.ATK +{1}% for 1 turn.",
+    "name": "Pineapple Bomb",
+    "summary": "Restores the item gauge by +{0}%.<br>Grants all allies P.ATK/M.ATK +{1}% for 1 turn."
+  },
+  {
+    "id": 51149,
+    "description": "Restores the item gauge by +{0}%.<br>Grants all allies P.ATK/M.ATK +{1}% for 1 turn.",
+    "name": "Pineapple Bomb",
+    "summary": "Restores the item gauge by +{0}%.<br>Grants all allies P.ATK/M.ATK +{1}% for 1 turn."
+  },
+  {
+    "id": 51150,
+    "description": "Restores the item gauge by +{0}%.<br>Grants all allies P.ATK/M.ATK +{1}% for 1 turn.",
+    "name": "Pineapple Bomb",
+    "summary": "Restores the item gauge by +{0}%.<br>Grants all allies P.ATK/M.ATK +{1}% for 1 turn."
+  },
+  {
+    "id": 11003924,
+    "description": "Grants all allies skill damage +{0}% and critical damage +{1}% (max 60% each).",
+    "name": "Ocean Veil",
+    "summary": "Boosts all allies' skill damage and critical damage."
+  },
+  {
+    "id": 11003925,
+    "description": "Grants all allies skill damage +{0}% and critical damage +{1}% (max 60% each).",
+    "name": "Ocean Veil",
+    "summary": "Boosts all allies' skill damage and critical damage."
+  },
+  {
+    "id": 11003926,
+    "description": "Grants all allies skill damage +{0}% and critical damage +{1}% (max 60% each).",
+    "name": "Ocean Veil",
+    "summary": "Boosts all allies' skill damage and critical damage."
+  },
+  {
+    "id": 11003927,
+    "description": "Grants all allies skill damage +{0}% and critical damage +{1}% (max 60% each).",
+    "name": "Ocean Veil",
+    "summary": "Boosts all allies' skill damage and critical damage."
+  },
+  {
+    "id": 11003928,
+    "description": "Grants all allies skill damage +{0}% and critical damage +{1}% (max 60% each).",
+    "name": "Ocean Veil",
+    "summary": "Boosts all allies' skill damage and critical damage."
+  },
+  {
+    "id": 12003929,
+    "description": "Grants all allies with Slash affinity skill damage +{0}% and critical damage +{1}% for 3 turns.",
+    "name": "Fairy Rush Tia",
+    "summary": "Boosts skill damage and critical damage for all allies with Slash affinity."
+  },
+  {
+    "id": 12003930,
+    "description": "Boosts skill damage by {0}% and critical damage by {1}% for all allies with Slash affinity for 3 turns.",
+    "name": "Fairy Rush Chia",
+    "summary": "Boosts skill damage and critical damage of all allies with Slash affinity."
+  },
+  {
+    "id": 12003931,
+    "description": "Boosts skill damage by {0}% and critical damage by {1}% for all allies with Slash affinity for 3 turns.",
+    "name": "Fairy Rush Chia",
+    "summary": "Boosts skill damage and critical damage of all allies with Slash affinity."
+  },
+  {
+    "id": 12003932,
+    "description": "Boosts skill damage by {0}% and critical damage by {1}% for all allies with Slash affinity for 3 turns.",
+    "name": "Fairy Rush Chia",
+    "summary": "Boosts skill damage and critical damage of all allies with Slash affinity."
+  },
+  {
+    "id": 12003933,
+    "description": "Boosts skill damage by {0}% and critical damage by {1}% for all allies with Slash affinity for 3 turns.",
+    "name": "Fairy Rush Chia",
+    "summary": "Boosts skill damage and critical damage of all allies with Slash affinity."
+  },
+  {
+    "id": 14003934,
+    "description": "Increases target's Burst gauge by {0}%.<br>If the target is not self, advances their turn by {1} turns.<br>Boosts skill damage by {2}% and critical damage by {3}% for all allies with Slash affinity for 3 turns.",
+    "name": "Bountiful Blade Dance",
+    "summary": "Increases target's Burst gauge.<br>If target is not self, advances their turn.<br>Boosts skill damage and critical damage of all allies with Slash affinity."
+  },
+  {
+    "id": 14003935,
+    "description": "Increases target's Burst gauge by {0}%.<br>If the target is not self, advances their turn by {1} turns.<br>Boosts skill damage by {2}% and critical damage by {3}% for all allies with Slash affinity for 3 turns.",
+    "name": "Bountiful Blade Dance",
+    "summary": "Increases target's Burst gauge.<br>If target is not self, advances their turn.<br>Boosts skill damage and critical damage of all allies with Slash affinity."
+  },
+  {
+    "id": 14003936,
+    "description": "Increases target's Burst gauge by {0}%.<br>If the target is not self, advances their turn by {1} turns.<br>Boosts skill damage by {2}% and critical damage by {3}% for all allies with Slash affinity for 3 turns.",
+    "name": "Bountiful Blade Dance",
+    "summary": "Increases target's Burst gauge.<br>If target is not self, advances their turn.<br>Boosts skill damage and critical damage of all allies with Slash affinity."
+  },
+  {
+    "id": 14003937,
+    "description": "Increases target's Burst gauge by {0}%.<br>If the target is not self, advances their turn by {1} turns.<br>Boosts skill damage by {2}% and critical damage by {3}% for all allies with Slash affinity for 3 turns.",
+    "name": "Bountiful Blade Dance",
+    "summary": "Increases target's Burst gauge.<br>If target is not self, advances their turn.<br>Boosts skill damage and critical damage of all allies with Slash affinity."
+  },
+  {
+    "id": 14003938,
+    "description": "Increases target's Burst gauge by {0}%.<br>If the target is not self, advances their turn by {1} turns.<br>Boosts skill damage by {2}% and critical damage by {3}% for all allies with Slash affinity for 3 turns.",
+    "name": "Bountiful Blade Dance",
+    "summary": "Increases target's Burst gauge.<br>If target is not self, advances their turn.<br>Boosts skill damage and critical damage of all allies with Slash affinity."
+  },
+  {
+    "id": 14003939,
+    "description": "Swaps turns between self and an ally or enemy up to {0} positions ahead on the timeline. (MAX 2 activations)<br>Boosts target ally's P.ATK by 0-{1}% based on own SPD. (MAX 80%) (Higher boost for higher SPD, range: SPD 300-380)",
+    "name": "Tactical Change Wave",
+    "summary": "Swaps turns with an ally or enemy up to 6 positions ahead on the timeline.<br>Boosts target ally's P.ATK based on own SPD."
+  },
+  {
+    "id": 26002324,
+    "description": "After attacking, grants self Damage Received Down ({0}%/3 times) and Nullify Negative Effects (2 times).",
+    "name": "Great Heavy Storm",
+    "summary": ""
+  },
+  {
+    "id": 26002325,
+    "description": "No additional effects.",
+    "name": "Triple Slash",
+    "summary": ""
+  },
+  {
+    "id": 26002326,
+    "description": "After attacking, inflicts Damage Received Up ({0}%/2 times) and P.ATK Down ({1}%/2 times) on target.",
+    "name": "Threatening Claws",
+    "summary": ""
+  },
+  {
+    "id": 26002327,
+    "description": "After attacking, delays target's turn by {0} and inflicts SPD Down ({1}%/1 turn).",
+    "name": "Breeze Ribbon",
+    "summary": ""
+  },
+  {
+    "id": 26002328,
+    "description": "After attacking, inflicts Air resistance Down ({0}%/2 turns) on target.",
+    "name": "Heavy Storm",
+    "summary": ""
+  },
+  {
+    "id": 26002329,
+    "description": "Grants self Damage Dealt Up ({0}%/2 turns) and Negative Effect Potency Down ({1}%/2 turns).",
+    "name": "Battle Roar",
+    "summary": ""
+  },
+  {
+    "id": 26002330,
+    "description": "After attacking, grants self Damage Received Down ({0}%/3 times) and Nullify Negative Effects (2 times).",
+    "name": "Great Heavy Storm",
+    "summary": ""
+  },
+  {
+    "id": 26002331,
+    "description": "No additional effects.",
+    "name": "Triple Slash",
+    "summary": ""
+  },
+  {
+    "id": 26002332,
+    "description": "After attacking, inflicts Damage Received Up ({0}%/2 times) and P.ATK Down ({1}%/2 times) on target.",
+    "name": "Threatening Claws",
+    "summary": ""
+  },
+  {
+    "id": 26002333,
+    "description": "After attacking, delays target's turn by {0} and inflicts SPD Down ({1}%/1 turn).",
+    "name": "Breeze Ribbon",
+    "summary": ""
+  },
+  {
+    "id": 26002334,
+    "description": "After attacking, reduces target's Air resistance by {0}% for 2 attacks.",
+    "name": "Heavy Storm",
+    "summary": ""
+  },
+  {
+    "id": 26002335,
+    "description": "Boosts own damage dealt by {0}% for 2 attacks and reduces own negative effect potency received by {1}% for 2 attacks.",
+    "name": "Spirited War Cry",
+    "summary": ""
+  },
+  {
+    "id": 26002336,
+    "description": "Boosts all allies' damage dealt by {0}% for 5 attacks and converts {1} non-burst panels to boost panels.",
+    "name": "Brave Flame Dance",
+    "summary": ""
+  },
+  {
+    "id": 26002337,
+    "description": "No effect.",
+    "name": "Grapple",
+    "summary": ""
+  },
+  {
+    "id": 26002338,
+    "description": "After attacking, applies Burn x5 to target (60% chance to apply).",
+    "name": "Sizzling Scorching Punch",
+    "summary": ""
+  },
+  {
+    "id": 26002339,
+    "description": "After attacking, converts {0} of own non-burst panels to HP recovery panels.",
+    "name": "Magma Dance",
+    "summary": ""
+  },
+  {
+    "id": 26002340,
+    "description": "Recovers 20% HP for all allies and boosts their damage dealt by {0}% for 3 attacks.",
+    "name": "Support",
+    "summary": ""
+  },
+  {
+    "id": 26002341,
+    "description": "After attacking, grants self Regeneration ({0}%/3 turns).",
+    "name": "Energy Storm",
+    "summary": ""
+  },
+  {
+    "id": 26002342,
+    "description": "Grants Provoke (3 times) to all enemies.",
+    "name": "Rage Powder",
+    "summary": ""
+  },
+  {
+    "id": 26002343,
+    "description": "After attacking, reduces own damage received by {0}% for 5 attacks.",
+    "name": "Sizzle-Free Flurry Punch",
+    "summary": ""
+  },
+  {
+    "id": 26002344,
+    "description": "No effect.",
+    "name": "Raging Strike",
+    "summary": ""
+  },
+  {
+    "id": 26002345,
+    "description": "After attacking, converts {0} of target's non-burst panels to weaken panels.",
+    "name": "Dark Storm",
+    "summary": ""
+  },
+  {
+    "id": 26002346,
+    "description": "Recovers 30% HP for all allies.",
+    "name": "Heal Powder",
+    "summary": ""
+  },
+  {
+    "id": 26002347,
+    "description": "After attacking, reduces own damage received by {0}% for 3 attacks and grants Nullify Negative Effects (2 times).",
+    "name": "Great Heavy Storm",
+    "summary": ""
+  },
+  {
+    "id": 26002348,
+    "description": "No effect.",
+    "name": "Triple Slash",
+    "summary": ""
+  },
+  {
+    "id": 26002349,
+    "description": "After attacking, increases target's damage received by {0}% for 2 attacks and reduces target's P.ATK by {1}% for 2 attacks.",
+    "name": "Intimidating Talons",
+    "summary": ""
+  },
+  {
+    "id": 26002350,
+    "description": "After attacking, delays target's turn by {0} and reduces target's SPD by {1}% for 1 turn.",
+    "name": "Freeze Ribbon",
+    "summary": ""
+  },
+  {
+    "id": 26002351,
+    "description": "After attacking, reduces target's Air resistance by {0}% for 2 attacks.",
+    "name": "Heavy Storm",
+    "summary": ""
+  },
+  {
+    "id": 26002352,
+    "description": "Boosts own damage dealt by {0}% for 2 attacks and reduces own negative effect potency received by {1}% for 2 attacks.",
+    "name": "Spirited War Cry",
+    "summary": ""
+  },
+  {
+    "id": 26002353,
+    "description": "After attacking, converts {0} of target's non-burst panels to weaken panels.",
+    "name": "Surprise Burn",
+    "summary": ""
+  },
+  {
+    "id": 26002354,
+    "description": "No additional effects.",
+    "name": "Burning Tongue",
+    "summary": ""
+  },
+  {
+    "id": 26002355,
+    "description": "After attacking, inflicts Darkness (100% chance) on target for 2 turns.",
+    "name": "Magical Slash",
+    "summary": ""
+  },
+  {
+    "id": 26002356,
+    "description": "After attacking, reduces target's positive effect potency by {0}% (2 turns).",
+    "name": "Curse Burn",
+    "summary": ""
+  },
+  {
+    "id": 26002357,
+    "description": "After attacking, increases target's magical damage received by {0}% (2 turns).",
+    "name": "Magical Dark Slide",
+    "summary": ""
+  },
+  {
+    "id": 26002358,
+    "description": "Restores 35% HP to all allies and reduces damage received by {0}% (2 turns).",
+    "name": "Heal All",
+    "summary": ""
+  },
+  {
+    "id": 26002359,
+    "description": "Boosts this attack's critical damage by {0}%.",
+    "name": "Fatal Bite",
+    "summary": ""
+  },
+  {
+    "id": 26002360,
+    "description": "After attacking, boosts own critical rate by {0}% (1 turn).",
+    "name": "Gnaw",
+    "summary": ""
+  },
+  {
+    "id": 26002361,
+    "description": "After attacking, boosts own critical damage by {0}% (3 turns).",
+    "name": "Thorned Howl",
+    "summary": ""
+  },
+  {
+    "id": 26002362,
+    "description": "No additional effects.",
+    "name": "Wind Ball",
+    "summary": ""
+  },
+  {
+    "id": 26002363,
+    "description": "No additional effects.",
+    "name": "Dragon Whirlwind",
+    "summary": ""
+  },
+  {
+    "id": 32005624,
+    "description": "After attacking, reduces all enemies' HP recovery by {0}% (3 turns) and positive effect potency by {1}% (3 turns).",
+    "name": "Dark Mist",
+    "summary": ""
+  },
+  {
+    "id": 32005625,
+    "description": "After attacking, reduces all enemies' damage dealt by {0}% (2 turns).",
+    "name": "Ice Mist",
+    "summary": ""
+  },
+  {
+    "id": 32005626,
+    "description": "After attacking, reduces own damage received by {0}% (2 turns) and increases target's damage received by {1}% (2 turns).",
+    "name": "Seal Blow",
+    "summary": ""
+  },
+  {
+    "id": 32005627,
+    "description": "No additional effects.",
+    "name": "Uppercut Claw",
+    "summary": ""
+  },
+  {
+    "id": 32005628,
+    "description": "After attacking, boosts own damage dealt by {0}% (2 turns) and converts {1} non-burst panels to boost panels.",
+    "name": "Ice Dance",
+    "summary": ""
+  },
+  {
+    "id": 32005629,
+    "description": "Reduces all enemies' Strike resistance by {0}% (2 turns) and Ice resistance by {1}% (2 turns).",
+    "name": "Dark Smog",
+    "summary": ""
+  },
+  {
+    "id": 32005630,
+    "description": "Grants all allies damage dealt +{0}% (5 turns) and converts {1} non-burst panels to boost panels.",
+    "name": "Brave Flame Dance",
+    "summary": ""
+  },
+  {
+    "id": 32005631,
+    "description": "No additional effects.",
+    "name": "Snarl",
+    "summary": ""
+  },
+  {
+    "id": 32005632,
+    "description": "After attacking, inflicts Burn x5 (60% chance) on target.",
+    "name": "Sizzle Sizzle Punch",
+    "summary": ""
+  },
+  {
+    "id": 32005633,
+    "description": "After attacking, converts {0} of own non-burst panels to HP recovery panels.",
+    "name": "Magma Dance",
+    "summary": ""
+  },
+  {
+    "id": 32005634,
+    "description": "Recovers 20% HP for all allies and grants them damage dealt up ({0}%/3 attacks).",
+    "name": "Support",
+    "summary": ""
+  },
+  {
+    "id": 32005635,
+    "description": "After attacking, inflicts Nullify Positive Effects on the target for 3 attacks.",
+    "name": "Seal Blow",
+    "summary": ""
+  },
+  {
+    "id": 32005636,
+    "description": "No additional effects.",
+    "name": "Thunder Shot",
+    "summary": ""
+  },
+  {
+    "id": 32005637,
+    "description": "After attacking, inflicts Poison on the skill target with 100% chance for 6 stacks (3 attacks).",
+    "name": "Death Spin",
+    "summary": ""
+  },
+  {
+    "id": 32005638,
+    "description": "Boosts damage dealt by {0}% if the skill target has a status effect.",
+    "name": "Death Touch",
+    "summary": ""
+  },
+  {
+    "id": 32005639,
+    "description": "No additional effects.",
+    "name": "Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 32005640,
+    "description": "Grants the skill target damage dealt up ({0}%/2 attacks) and damage received down ({1}%/2 attacks).",
+    "name": "Energy Gain",
+    "summary": ""
+  },
+  {
+    "id": 32005641,
+    "description": "After attacking, inflicts HP recovery down ({0}%/3 attacks) and positive effect potency down ({1}%/3 attacks) on all enemies.",
+    "name": "Dark Mist",
+    "summary": ""
+  },
+  {
+    "id": 32005642,
+    "description": "After attacking, inflicts damage dealt down ({0}%/2 attacks) on all enemies.",
+    "name": "Ice Mist",
+    "summary": ""
+  },
+  {
+    "id": 32005643,
+    "description": "After attacking, reduces own damage received by {0}% for 2 attacks and increases target's damage received by {1}% for 2 attacks.",
+    "name": "Seal Blow",
+    "summary": ""
+  },
+  {
+    "id": 32005644,
+    "description": "No additional effects.",
+    "name": "Uppercut Claw",
+    "summary": ""
+  },
+  {
+    "id": 32005645,
+    "description": "After attacking, grants self damage dealt up ({0}%/2 attacks) and converts {1} non-Burst panel(s) ahead into boost panels.",
+    "name": "Ice Dance",
+    "summary": ""
+  },
+  {
+    "id": 32005646,
+    "description": "Inflicts Strike resistance down ({0}%/2 attacks) and Ice resistance down ({1}%/2 attacks) on all enemies.",
+    "name": "Dark Smog",
+    "summary": ""
+  },
+  {
+    "id": 32005647,
+    "description": "After attacking, recovers {0}% HP for all allies.",
+    "name": "Rescue",
+    "summary": ""
+  },
+  {
+    "id": 32005648,
+    "description": "After attacking, recovers {0}% of own HP.",
+    "name": "Pursuit Bite",
+    "summary": ""
+  },
+  {
+    "id": 32005649,
+    "description": "After attacking, inflicts HP recovery down ({0}%/2 attacks) on the target.",
+    "name": "Stone Rain",
+    "summary": ""
+  },
+  {
+    "id": 32005650,
+    "description": "No additional effects.",
+    "name": "Thunder Stomp",
+    "summary": ""
+  },
+  {
+    "id": 32005651,
+    "description": "No additional effects.",
+    "name": "Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 32005652,
+    "description": "After attacking, converts {0} of the target's panels into protection weaken panels.",
+    "name": "Cursed Thunder Breath",
+    "summary": ""
+  },
+  {
+    "id": 32005653,
+    "description": "No additional effects.",
+    "name": "Thunder Breath",
+    "summary": ""
+  },
+  {
+    "id": 32005654,
+    "description": "After attacking, removes all positive effects from target.",
+    "name": "Slash Bite",
+    "summary": ""
+  },
+  {
+    "id": 32005655,
+    "description": "After attacking, reduces target's damage dealt by {0}% for 2 turns.",
+    "name": "Thunder Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32005656,
+    "description": "No additional effects.",
+    "name": "Scatter Slash",
+    "summary": ""
   }
 ]

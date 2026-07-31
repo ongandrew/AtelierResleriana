@@ -493,5 +493,25 @@
     "id": 1031,
     "description": "Boosts all enemies' damage received from Skill 2 by {0}% for 2 attacks. (Cannot be stacked)",
     "name": "Ancient Beast Talisman"
+  },
+  {
+    "id": 1032,
+    "description": "Deals Fire damage to the enemy with the highest max HP.<br>Boosts this attack's penetration by +{0}.",
+    "name": "Forbidden Grimoire"
+  },
+  {
+    "id": 1033,
+    "description": "Deals Fire damage to the enemy with the highest max HP.<br>Boosts this attack's penetration by +{0}.",
+    "name": "Forbidden Grimoire"
+  },
+  {
+    "id": 1034,
+    "description": "Inflicts damage received +{0}% on the enemy with the highest max HP. (Up to 6 stacks)",
+    "name": "Fake Boo-kay"
+  },
+  {
+    "id": 1035,
+    "description": "Inflicts damage received +{0}% on the enemy with the highest max HP. (Up to 6 stacks)",
+    "name": "Fake Boo-kay"
   }
 ]

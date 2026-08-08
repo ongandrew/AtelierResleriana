@@ -5733,5 +5733,30 @@
     "id": 810205,
     "description": "Reduces damage received by {value}%.",
     "name": "Received Damage Down"
+  },
+  {
+    "id": 510366,
+    "description": "Boosts physical damage received by {value}%. (MAX 320%)",
+    "name": "Received Physical Damage Up"
+  },
+  {
+    "id": 610541,
+    "description": "Boosts stun damage by {value}%. (MAX 60%)",
+    "name": "Stun Damage Up"
+  },
+  {
+    "id": 610542,
+    "description": "Boosts damage received by {value}%. (MAX 60%)",
+    "name": "Received Damage Up"
+  },
+  {
+    "id": 810206,
+    "description": "When not stunned, reduces the critical rate of incoming attacks by {value}%. Cannot be removed.",
+    "name": "Received Critical Rate Down (Cond.)"
+  },
+  {
+    "id": 820141,
+    "description": "When stunned, boosts received negative effect potency by {value}%. Cannot be removed.",
+    "name": "Received Negative Effect Potency Up (Cond.)"
   }
 ]

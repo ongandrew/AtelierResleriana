@@ -1,0 +1,444 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "今の声は……？",
+        "localizations": {
+          "en": "That voice just now...?"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "わー！\u3000急に曇ったね！\u3000びっくり！",
+        "localizations": {
+          "en": "Whoa! The sky clouded over so fast! That was scary!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "ええ。それに曇る直前、何か魔物のような声が\n聞こえた気がするのだけど……",
+        "localizations": {
+          "en": "It did. And just before it turned, I thought I heard something... like a monster's cry..."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "いったん、宿に帰りましょうか。\nこの格好で雨に降られたら、風邪ひいちゃうわ",
+        "localizations": {
+          "en": "Let's head back to the inn for now. Getting caught in the rain dressed like this is a sure way to catch a cold."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "うん、鍛錬の続きはまた今度教えてください！\nそれじゃ、まずはみんなと合流する？",
+        "localizations": {
+          "en": "Right! We'll pick up the training another time! Should we go find the others first?"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "そうね。\nアルビーナたち、どこまで行ったのかしら……",
+        "localizations": {
+          "en": "Yes. I wonder how far Alvina and the others have wandered off..."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "ねえ、大変！\u3000海岸に魔物が近づいてきてるって！",
+        "localizations": {
+          "en": "Hey, this is bad! There's a monster approaching the coast!"
+        }
+      },
+      "2072370017": {
+        "text": "現地住民Ａ",
+        "localizations": {
+          "en": "Local Resident A"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "それって、この前近海に出た大型のヤツ！？\nもしかして、この天気も……？",
+        "localizations": {
+          "en": "Is it that big one that was spotted offshore the other day?! Could this weather be because of...?"
+        }
+      },
+      "2072370017": {
+        "text": "現地住民Ｂ",
+        "localizations": {
+          "en": "Local Resident B"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "そうかも……警備隊が動いてくれてるけど、\n念のため避難しろって話！",
+        "localizations": {
+          "en": "Maybe... The security forces are already on it, but they're telling everyone to evacuate just in case!"
+        }
+      },
+      "2072370017": {
+        "text": "現地住民Ａ",
+        "localizations": {
+          "en": "Local Resident A"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "ヤンネさん、今の聞こえた！？",
+        "localizations": {
+          "en": "Janne, did you hear that?!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "ええ。大型の魔物……心配ね",
+        "localizations": {
+          "en": "I did. A large monster... that's worrying."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "お二人さん、この辺りは避難指示が出ているよ。\nすぐにここから離れたほうがいい",
+        "localizations": {
+          "en": "You two, evacuation orders have been issued for this area. You should get away from here quickly."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "イェルカ！\u3000もしかして、\n九偉人が出るほど危険な魔物なの？",
+        "localizations": {
+          "en": "Jelka! Does this mean it's dangerous enough for one of the Miraculous Nine to step in?"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "いや、アタシは避難誘導のお手伝いってとこさね。\n魔物の対処には、この島の警備隊が向かってるよ",
+        "localizations": {
+          "en": "Nah, I'm just here to help with the evacuation. The island's security forces are already heading out to deal with the monster."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "それじゃあ、\nそこまで危険な魔物ではないということね……？",
+        "localizations": {
+          "en": "So it's not quite dangerous enough to be a serious threat... is that right?"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "そうだろうと踏んでいるけれど、この天気……\nもしかしたら予想を上回る危険な魔物の可能性もある",
+        "localizations": {
+          "en": "That's what I'd like to think. But with weather like this... there's a chance it could turn out to be worse than expected."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "その場合は、アタシたち九偉人の出番さね。\n今はとりあえず、みんなの避難誘導を――",
+        "localizations": {
+          "en": "If it comes to that, we of the Nine will step in. For now though, the priority is getting everyone evacuated—"
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "イェルカ、アルビーナたちを見ていないかしら？",
+        "localizations": {
+          "en": "Jelka, have you seen Alvina and the others?"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "いや、今日は見ていないね……",
+        "localizations": {
+          "en": "No, haven't spotted them today..."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "……心配だわ。私、探してくる",
+        "localizations": {
+          "en": "...I'm worried. I'm going to go look for them."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "ヤンネさん！",
+        "localizations": {
+          "en": "Janne!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "大丈夫。ちゃんと武器は持って行くし、\n私は聖戦士よ。安心して",
+        "localizations": {
+          "en": "I'll be fine. I'm taking my weapon, and I am a Sacred Knight. Don't worry."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "イザナさんも、レスナちゃんたちと合流しなさい。\nあの子の騎士なのでしょう",
+        "localizations": {
+          "en": "You go and find Resna and the others. You are her knight, after all."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "……うん、分かった！\nヤンネさん、気を付けて！",
+        "localizations": {
+          "en": "...Okay! Please be careful!"
+        }
+      },
+      "2072370017": {
+        "text": "イザナ",
+        "localizations": {
+          "en": "Izana"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "やれやれ、どれだけ危険かも分からないのに……",
+        "localizations": {
+          "en": "Goodness... heading off when we don't even know how dangerous it is..."
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "アルビーたち、愛されてるじゃないか",
+        "localizations": {
+          "en": "Alvie and the gang are really loved, aren't they?"
+        }
+      },
+      "2072370017": {
+        "text": "イェルカ",
+        "localizations": {
+          "en": "Jelka"
+        }
+      }
+    }
+  }
+]

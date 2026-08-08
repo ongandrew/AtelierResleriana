@@ -15623,5 +15623,115 @@
     "id": 600000830,
     "description": "When Bepp [Ocean Faerie] or Quinn [Lethal Arsenal] is in the party, reduces damage received by 25% (cap: 25%).",
     "name": "Bepp [Ocean Faerie] or Quinn [Lethal Arsenal] in Party: Damage Received DOWN"
+  },
+  {
+    "id": 301367,
+    "description": "While equipped as Jadwiga [Loyal Servant], when the party contains another character with the Miraculous Nine tag, boosts negative effect potency dealt by +{0}%.",
+    "name": "Immovable Iron Star of Loyalty"
+  },
+  {
+    "id": 500754,
+    "description": "Boosts skill damage by +{0}% for characters with the Miraculous Nine tag.",
+    "name": ""
+  },
+  {
+    "id": 500755,
+    "description": "Boosts skill damage by +{0}% for characters with the Miraculous Nine tag.",
+    "name": ""
+  },
+  {
+    "id": 500756,
+    "description": "Boosts skill damage by +{0}% for characters with the Miraculous Nine tag.",
+    "name": ""
+  },
+  {
+    "id": 500757,
+    "description": "Boosts skill damage by +{0}% for characters with the Miraculous Nine tag.",
+    "name": ""
+  },
+  {
+    "id": 500758,
+    "description": "Boosts skill damage by +{0}% for characters with the Miraculous Nine tag.",
+    "name": ""
+  },
+  {
+    "id": 500759,
+    "description": "Boosts skill damage by +{0}% for characters with the Miraculous Nine tag.",
+    "name": ""
+  },
+  {
+    "id": 500760,
+    "description": "Boosts skill damage by +{0}% for characters with the Miraculous Nine tag.",
+    "name": ""
+  },
+  {
+    "id": 500761,
+    "description": "Boosts skill damage by +{0}% for characters with the Miraculous Nine tag.",
+    "name": ""
+  },
+  {
+    "id": 1980255,
+    "description": "All allies gain skill damage and stun damage +30% for each Miraculous Nine character in the party.",
+    "name": "Faithful Executor"
+  },
+  {
+    "id": 1990567,
+    "description": "Converts own burst skill into a gauge-based skill.<br>※ The burst gauge can stack up to 3 times.<br><br>After any party member uses a skill, increases own burst gauge by {0}%.<br>When the attack target is partially stunned or stunned, increases own burst gauge by {1}% and delays target's turn by {2} turns.<br>※ Even if multiple gauges are emptied simultaneously, the skill only activates once.",
+    "name": "Unwavering Conviction"
+  },
+  {
+    "id": 1990568,
+    "description": "When the attack target is partially stunned or stunned, or after attacking a stunned enemy, grants target increased physical attack damage received by +{0}% (max 320%).<br>※ Even if multiple gauges are emptied simultaneously, the skill only activates once.<br><br>When 3 or more active allies attack a stunned enemy with Gravisglobe or Pungere Saltatio, delays target's turn by {1} turns.<br><br>When the party contains a character with the Sweets tag, boosts stun power by +{2}%.<br>When the party contains another Miraculous Nine character, boosts negative effect potency dealt by +{3}%.",
+    "name": "Skills Forged with Siblings"
+  },
+  {
+    "id": 4991403,
+    "description": "While equipped to a Breaker with Slash affinity, after attacking a stunned target, grants target increased damage received by +{0}% for 1 attack.<br>While equipped to a character with the Quiet tag, boosts single target attack stun damage by +{1}%.",
+    "name": "Imagination \"Her Bare Face\""
+  },
+  {
+    "id": 4991404,
+    "description": "While equipped to a Breaker with Slash affinity, after attacking a stunned target, grants target increased damage received by +{0}% for 1 attack.<br>While equipped to a character with the Quiet tag, boosts single target attack stun damage by +{1}%.",
+    "name": "Imagination \"Her Bare Face\""
+  },
+  {
+    "id": 4991405,
+    "description": "While equipped to a Breaker with Slash affinity, after attacking a stunned target, grants target increased damage received by +{0}% for 1 attack.<br>While equipped to a character with the Quiet tag, boosts single target attack stun damage by +{1}%.",
+    "name": "Imagination \"Her Bare Face\""
+  },
+  {
+    "id": 4991406,
+    "description": "While equipped to a Breaker with Slash affinity, after attacking a stunned target, grants target increased damage received by +{0}% for 1 attack.<br>While equipped to a character with the Quiet tag, boosts single target attack stun damage by +{1}%.",
+    "name": "Imagination \"Her Bare Face\""
+  },
+  {
+    "id": 4991407,
+    "description": "While equipped to a Breaker with Slash affinity, after attacking a stunned target, grants target increased damage received by +{0}% for 1 attack.<br>While equipped to a character with the Quiet tag, boosts single target attack stun damage by +{1}%.",
+    "name": "Imagination \"Her Bare Face\""
+  },
+  {
+    "id": 26250004,
+    "description": "At the start of the wave, grants self a reduction to critical rate of attacks received by -{0}% while not stunned, and increased negative effect potency received by +{1}% while stunned.",
+    "name": ""
+  },
+  {
+    "id": 26250005,
+    "description": "After using a specific skill, grants self Damage Dealt Up ({0}%/1 time) and delays own turn by {1} turns, then re-enters the turn order.\nWhen stunned, if self has the Enhanced State (Hydreshark_High-Speed Submarine) buff, removes all own buffs and re-enters the turn order.",
+    "name": ""
+  },
+  {
+    "id": 26250006,
+    "description": "After using a specific skill, grants self Damage Dealt Up ({0}%/1 time) and delays own turn by {1} turns, then re-enters the turn order.\nWhen stunned, if self has the Enhanced State (Hydreshark_High-Speed Submarine) buff, removes all own buffs and re-enters the turn order.",
+    "name": ""
+  },
+  {
+    "id": 600000828,
+    "description": "Boosts stun damage of Jadwiga [Loyal Servant] by +200%.",
+    "name": "Jadwiga [Loyal Servant] Stun Damage Up"
+  },
+  {
+    "id": 600000831,
+    "description": "When Jadwiga [Loyal Servant] or Bepp [Ocean Faerie] is in the party, reduces damage received by 25% (cap: 25%).",
+    "name": "Jadwiga [Loyal Servant] or Bepp [Ocean Faerie] in Party, Damage Received Down"
   }
 ]

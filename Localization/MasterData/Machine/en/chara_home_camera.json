@@ -7994,5 +7994,42 @@
     "id": 1271,
     "name": "Costume ① Unique Scene",
     "key_tasks": []
+  },
+  {
+    "id": 1261,
+    "name": "Standing 2",
+    "key_tasks": []
+  },
+  {
+    "id": 1262,
+    "name": "Conversation",
+    "key_tasks": []
+  },
+  {
+    "id": 1263,
+    "name": "Command",
+    "key_tasks": [
+      {
+        "name": "Unlocked by obtaining specific motions"
+      }
+    ]
+  },
+  {
+    "id": 1264,
+    "name": "Joy",
+    "key_tasks": [
+      {
+        "name": "Unlocked by obtaining specific motions"
+      }
+    ]
+  },
+  {
+    "id": 1265,
+    "name": "Unique Scene",
+    "key_tasks": [
+      {
+        "name": "Unlocked by obtaining specific motions"
+      }
+    ]
   }
 ]

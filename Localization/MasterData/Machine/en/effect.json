@@ -18243,5 +18243,145 @@
     "id": 120000929,
     "description": "Reduces party damage received when Bepp [Ocean Faerie] is in the party.",
     "popup_text": ""
+  },
+  {
+    "id": 5000111,
+    "description": "While equipped to a character with Miraculous Nine, grants skill damage up.",
+    "popup_text": ""
+  },
+  {
+    "id": 6001314,
+    "description": "While equipped to Jadwiga [Loyal Servant] and there are 2 or more Miraculous Nine members in the party, boosts potency of negative effects given.",
+    "popup_text": ""
+  },
+  {
+    "id": 72001802,
+    "description": "",
+    "popup_text": "Burst Gauge Increase"
+  },
+  {
+    "id": 72001803,
+    "description": "",
+    "popup_text": "Turn Shortened"
+  },
+  {
+    "id": 72001804,
+    "description": "",
+    "popup_text": "Delay Turn"
+  },
+  {
+    "id": 72001805,
+    "description": "",
+    "popup_text": "Delay Turn"
+  },
+  {
+    "id": 72001806,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001819,
+    "description": "",
+    "popup_text": "Delay Turn"
+  },
+  {
+    "id": 72001821,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001822,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72001823,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 72500204,
+    "description": "[Self/More Miraculous Nine members/Skill Damage Up]",
+    "popup_text": ""
+  },
+  {
+    "id": 72500205,
+    "description": "[Self/More Miraculous Nine members/Stun Damage Up]",
+    "popup_text": ""
+  },
+  {
+    "id": 76040001,
+    "description": "Grants target enemy Positive Effect Potency Down for 1 turn.",
+    "popup_text": ""
+  },
+  {
+    "id": 86250009,
+    "description": "Grants Critical Rate Down against incoming attacks when not stunned.",
+    "popup_text": ""
+  },
+  {
+    "id": 86250010,
+    "description": "Reduces critical rate of incoming attacks when not stunned.",
+    "popup_text": ""
+  },
+  {
+    "id": 86250011,
+    "description": "Grants self Negative Effect Potency Up when stunned.",
+    "popup_text": ""
+  },
+  {
+    "id": 86250012,
+    "description": "Boosts potency of negative effects received when stunned.",
+    "popup_text": ""
+  },
+  {
+    "id": 86250013,
+    "description": "When stunned, if High-Speed Submarine (Haidshark) buff is active, removes all positive effects granted to self.",
+    "popup_text": ""
+  },
+  {
+    "id": 86250014,
+    "description": "When stunned, if High-Speed Submarine (Haidshark) buff is active, forcibly removes the High-Speed Submarine (Haidshark) buff granted to self.",
+    "popup_text": ""
+  },
+  {
+    "id": 91002350,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002351,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 91002352,
+    "description": "",
+    "popup_text": "Turn Removed"
+  },
+  {
+    "id": 91002353,
+    "description": "",
+    "popup_text": ""
+  },
+  {
+    "id": 95000407,
+    "description": "When equipped to a Breaker with Slash affinity, after attacking a stunned target, grants target Damage Received Up for 1 attack.",
+    "popup_text": ""
+  },
+  {
+    "id": 95000408,
+    "description": "While in Silence, grants self Single Target Attack Stun Damage Up.",
+    "popup_text": ""
+  },
+  {
+    "id": 120000926,
+    "description": "Boosts stun damage when self is Jadwiga [Loyal Servant].",
+    "popup_text": ""
+  },
+  {
+    "id": 120000930,
+    "description": "Reduces party's damage received when Jadwiga [Loyal Servant] is in the party.",
+    "popup_text": ""
   }
 ]

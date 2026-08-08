@@ -44776,5 +44776,299 @@
     "description": "No additional effects.",
     "name": "Scatter Slash",
     "summary": ""
+  },
+  {
+    "id": 11003940,
+    "description": "After attacking, grants self stun damage +{0}%.<br>Increases target's damage received by +{1}% (all effects capped at 60%).",
+    "name": "Inkydele",
+    "summary": "After attacking, boosts own stun damage.<br>Boosts target's damage received."
+  },
+  {
+    "id": 11003941,
+    "description": "After attacking, grants self stun damage +{0}%.<br>Increases target's damage received by +{1}% (all effects capped at 60%).",
+    "name": "Inkydele",
+    "summary": "After attacking, boosts own stun damage.<br>Boosts target's damage received."
+  },
+  {
+    "id": 11003942,
+    "description": "After attacking, grants self stun damage +{0}%.<br>Increases target's damage received by +{1}% (all effects capped at 60%).",
+    "name": "Inkydele",
+    "summary": "After attacking, boosts own stun damage.<br>Boosts target's damage received."
+  },
+  {
+    "id": 11003943,
+    "description": "After attacking, grants self stun damage +{0}%.<br>Increases target's damage received by +{1}% (all effects capped at 60%).",
+    "name": "Inkydele",
+    "summary": "After attacking, boosts own stun damage.<br>Boosts target's damage received."
+  },
+  {
+    "id": 11003944,
+    "description": "After attacking, grants self stun damage +{0}%.<br>Increases target's damage received by +{1}% (all effects capped at 60%).",
+    "name": "Inkydele",
+    "summary": "After attacking, boosts own stun damage.<br>Boosts target's damage received."
+  },
+  {
+    "id": 12003945,
+    "description": "Before attacking, reduces target's all elemental resistance by {0}% for 2 attacks.<br>After attacking, boosts self's stun damage by +{1}% for 2 turns and increases target's physical attack damage received by +{2}% for 2 attacks.<br>When target is partially stunned or stunned, advances own turn by {3} turns.<br>※ Even if multiple gauges are emptied simultaneously, the effect triggers only once.",
+    "name": "Gravis Globus",
+    "summary": "Before attacking, reduces target's all elemental resistance.<br>After attacking, boosts own stun damage.<br>Boosts target's physical attack damage received.<br>When target is partially stunned or stunned, advances own turn."
+  },
+  {
+    "id": 12003946,
+    "description": "Before attacking, reduces target's all elemental resistance by {0}% for 2 attacks.<br>After attacking, boosts self's stun damage by +{1}% for 2 turns and increases target's physical attack damage received by +{2}% for 2 attacks.<br>When target is partially stunned or stunned, advances own turn by {3} turns.<br>※ Even if multiple gauges are emptied simultaneously, the effect triggers only once.",
+    "name": "Gravis Globus",
+    "summary": "Before attacking, reduces target's all elemental resistance.<br>After attacking, boosts own stun damage.<br>Boosts target's physical attack damage received.<br>When target is partially stunned or stunned, advances own turn."
+  },
+  {
+    "id": 12003947,
+    "description": "Before attacking, reduces target's all elemental resistance by {0}% for 2 attacks.<br>After attacking, boosts self's stun damage by +{1}% for 2 turns and increases target's physical attack damage received by +{2}% for 2 attacks.<br>When target is partially stunned or stunned, advances own turn by {3} turns.<br>※ Even if multiple gauges are emptied simultaneously, the effect triggers only once.",
+    "name": "Gravis Globus",
+    "summary": "Before attacking, reduces target's all elemental resistance.<br>After attacking, boosts own stun damage.<br>Boosts target's physical attack damage received.<br>When target is partially stunned or stunned, advances own turn."
+  },
+  {
+    "id": 12003948,
+    "description": "Before attacking, reduces target's all elemental resistance by {0}% for 2 attacks.<br>After attacking, boosts self's stun damage by +{1}% for 2 turns and increases target's physical attack damage received by +{2}% for 2 attacks.<br>When target is partially stunned or stunned, advances own turn by {3} turns.<br>※ Even if multiple gauges are emptied simultaneously, the effect triggers only once.",
+    "name": "Gravis Globus",
+    "summary": "Before attacking, reduces target's all elemental resistance.<br>After attacking, boosts own stun damage.<br>Boosts target's physical attack damage received.<br>When target is partially stunned or stunned, advances own turn."
+  },
+  {
+    "id": 12003949,
+    "description": "Before attacking, reduces target's all elemental resistance by {0}% for 2 attacks.<br>After attacking, boosts self's stun damage by +{1}% for 2 turns and increases target's physical attack damage received by +{2}% for 2 attacks.<br>When target is partially stunned or stunned, advances own turn by {3} turns.<br>※ Even if multiple gauges are emptied simultaneously, the effect triggers only once.",
+    "name": "Gravis Globus",
+    "summary": "Before attacking, reduces target's all elemental resistance.<br>After attacking, boosts own stun damage.<br>Boosts target's physical attack damage received.<br>When target is partially stunned or stunned, advances own turn."
+  },
+  {
+    "id": 14003950,
+    "description": "Before attacking, reduces target's all elemental resistance by {0}% for 2 attacks.<br>After attacking, boosts self's stun damage by +{1}% for 2 turns and increases target's physical attack damage received by +{2}% for 2 attacks.<br>When target is stunned, removes target's next turn.",
+    "name": "Pungere Saltatio",
+    "summary": "Before attacking, reduces target's all elemental resistance.<br>After attacking, boosts own stun damage.<br>Boosts target's physical attack damage received.<br>When target is stunned, removes target's next turn."
+  },
+  {
+    "id": 14003951,
+    "description": "Before attacking, reduces target's all elemental resistance by {0}% for 2 attacks.<br>After attacking, boosts self's stun damage by +{1}% for 2 turns and increases target's physical attack damage received by +{2}% for 2 attacks.<br>When target is stunned, removes target's next turn.",
+    "name": "Pungere Saltatio",
+    "summary": "Before attacking, reduces target's all elemental resistance.<br>After attacking, boosts own stun damage.<br>Boosts target's physical attack damage received.<br>When target is stunned, removes target's next turn."
+  },
+  {
+    "id": 14003952,
+    "description": "Before attacking, reduces target's all elemental resistance by {0}% for 2 attacks.<br>After attacking, boosts self's stun damage by +{1}% for 2 turns and increases target's physical attack damage received by +{2}% for 2 attacks.<br>When target is stunned, removes target's next turn.",
+    "name": "Pungere Saltatio",
+    "summary": "Before attacking, reduces target's all elemental resistance.<br>After attacking, boosts own stun damage.<br>Boosts target's physical attack damage received.<br>When target is stunned, removes target's next turn."
+  },
+  {
+    "id": 14003953,
+    "description": "Before attacking, reduces target's all elemental resistance by {0}% for 2 attacks.<br>After attacking, boosts self's stun damage by +{1}% for 2 turns and increases target's physical attack damage received by +{2}% for 2 attacks.<br>When target is stunned, removes target's next turn.",
+    "name": "Pungere Saltatio",
+    "summary": "Before attacking, reduces target's all elemental resistance.<br>After attacking, boosts own stun damage.<br>Boosts target's physical attack damage received.<br>When target is stunned, removes target's next turn."
+  },
+  {
+    "id": 14003954,
+    "description": "Before attacking, reduces target's all elemental resistance by {0}% for 2 attacks.<br>After attacking, boosts self's stun damage by +{1}% for 2 turns and increases target's physical attack damage received by +{2}% for 2 attacks.<br>When target is stunned, removes target's next turn.",
+    "name": "Pungere Saltatio",
+    "summary": "Before attacking, reduces target's all elemental resistance.<br>After attacking, boosts own stun damage.<br>Boosts target's physical attack damage received.<br>When target is stunned, removes target's next turn."
+  },
+  {
+    "id": 32005658,
+    "description": "Before attacking, removes all of own debuffs.\nAfter attacking, reduces the positive effect potency granted to the skill target by 20% for 3 turns, and removes own damage dealt up (Hydro Shark_High-Speed Submarine).\nAfterwards, re-draws own turn.",
+    "name": "Jet Dive",
+    "summary": ""
+  },
+  {
+    "id": 32005659,
+    "description": "After attacking, grants self damage received down (30%/3 turns).",
+    "name": "Jet Cooling",
+    "summary": ""
+  },
+  {
+    "id": 32005660,
+    "description": "No effect.",
+    "name": "Heavy Bite",
+    "summary": ""
+  },
+  {
+    "id": 32005661,
+    "description": "After attacking, grants self damage dealt up (20%/3 turns).",
+    "name": "Ice Ball",
+    "summary": ""
+  },
+  {
+    "id": 32005662,
+    "description": "After attacking, reduces skill target's SPD by 10% for 2 turns.",
+    "name": "Jet Rush",
+    "summary": ""
+  },
+  {
+    "id": 32005663,
+    "description": "Grants skill target damage received up (15%/3 turns) and damage dealt down (30%/2 turns), and grants self damage dealt up (ignores status effects) (0%/1 turn).\nAfterwards, re-draws own turn.",
+    "name": "Sadistic Taunt",
+    "summary": ""
+  },
+  {
+    "id": 32005664,
+    "description": "After attacking, grants skill target positive effect potency down (30%/1 turn).",
+    "name": "Sluggish Strike",
+    "summary": ""
+  },
+  {
+    "id": 32005665,
+    "description": "No effect.",
+    "name": "Flying Tackle",
+    "summary": ""
+  },
+  {
+    "id": 32005666,
+    "description": "No effect.",
+    "name": "Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 32005667,
+    "description": "After attacking, grants all enemies damage dealt down ({0}%/3 turns).",
+    "name": "Black Thunder Rain",
+    "summary": ""
+  },
+  {
+    "id": 32005668,
+    "description": "Grants target ally damage dealt up ({0}%/3 turns).",
+    "name": "Relax",
+    "summary": ""
+  },
+  {
+    "id": 32005669,
+    "description": "After attacking, restores own HP and BG by {0}%.",
+    "name": "Spinning Guruguru Punch",
+    "summary": ""
+  },
+  {
+    "id": 32005670,
+    "description": "After attacking, grants target damage dealt down ({0}%/4 turns).",
+    "name": "Guruguru Punch",
+    "summary": ""
+  },
+  {
+    "id": 32005671,
+    "description": "After attacking, grants target stun damage dealt down ({0}%/4 turns).",
+    "name": "Dark Storm",
+    "summary": ""
+  },
+  {
+    "id": 32005672,
+    "description": "Grants self Cover for 3 attacks.",
+    "name": "Stand By",
+    "summary": ""
+  },
+  {
+    "id": 32005673,
+    "description": "Grants all allies damage received down ({0}%/2 turns).",
+    "name": "Energy Powder",
+    "summary": ""
+  },
+  {
+    "id": 32005674,
+    "description": "Before attacking, clears all own debuffs.\nAfter attacking, grants skill target positive effect potency down (25%/3 turns) and removes own damage dealt up (Hideshark_High-Speed Submarine).\nAfterwards, re-draws own turn.",
+    "name": "Jet Dive",
+    "summary": ""
+  },
+  {
+    "id": 32005675,
+    "description": "After attacking, grants self damage received down (30%/3 turns).",
+    "name": "Jet Cooling",
+    "summary": ""
+  },
+  {
+    "id": 32005676,
+    "description": "No effect.",
+    "name": "Heavy Bite",
+    "summary": ""
+  },
+  {
+    "id": 32005677,
+    "description": "After attacking, grants self damage dealt up (25%/3 turns).",
+    "name": "Ice Ball",
+    "summary": ""
+  },
+  {
+    "id": 32005678,
+    "description": "After attacking, grants skill target SPD down (15%/2 turns).",
+    "name": "Jet Rush",
+    "summary": ""
+  },
+  {
+    "id": 32005679,
+    "description": "Grants skill target damage received up ({0}%/3 turns) and damage dealt down (40%/2 turns), and grants self damage dealt up (ignores status effects) (0%/1 turn).\nAfterwards, re-draws own turn.",
+    "name": "Sadistic Taunt",
+    "summary": ""
+  },
+  {
+    "id": 32005680,
+    "description": "After attacking, grants damage dealt up ({0}%/5 turns) and grants self Counter (ex2/4 turns).",
+    "name": "Groovy Gale",
+    "summary": ""
+  },
+  {
+    "id": 32005681,
+    "description": "No effect.",
+    "name": "Trick Wind",
+    "summary": ""
+  },
+  {
+    "id": 32005682,
+    "description": "After attacking, inflicts Poison x5 on targets with 70% HP or below (100% application chance/3 turns).",
+    "name": "Call Storm",
+    "summary": ""
+  },
+  {
+    "id": 32005683,
+    "description": "Grants self Counter (ex1, 2 times).",
+    "name": "Counter Warning",
+    "summary": ""
+  },
+  {
+    "id": 32005684,
+    "description": "Grants target Darkness (100% chance to apply, 3 times).",
+    "name": "Shadow Curse",
+    "summary": ""
+  },
+  {
+    "id": 32005685,
+    "description": "Grants Provoke to all enemies (3 times) and reduces own damage received by {1}% (3 times).",
+    "name": "Attention",
+    "summary": ""
+  },
+  {
+    "id": 32005686,
+    "description": "Reduces own damage received by {0}% (2 times) and restores {1}% HP.",
+    "name": "Heal Roar",
+    "summary": ""
+  },
+  {
+    "id": 32005687,
+    "description": "After attacking, reduces own damage received by {0}% (1 time) and boosts damage dealt by {1}% (2 times).",
+    "name": "Pork Bite",
+    "summary": ""
+  },
+  {
+    "id": 32005688,
+    "description": "No effect.",
+    "name": "Spindle Needle",
+    "summary": ""
+  },
+  {
+    "id": 32005689,
+    "description": "No effect.",
+    "name": "Ice Bite",
+    "summary": ""
+  },
+  {
+    "id": 32005690,
+    "description": "After attacking, boosts own damage dealt by {0}% (3 times), reduces stun damage received by {1}% (1 time), and reduces damage received by {2}% (1 time).",
+    "name": "Glacier Armor",
+    "summary": ""
+  },
+  {
+    "id": 32005731,
+    "description": "No effect.",
+    "name": "Trick Slash",
+    "summary": ""
   }
 ]

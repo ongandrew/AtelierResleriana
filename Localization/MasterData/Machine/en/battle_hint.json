@@ -3270,5 +3270,41 @@
   {
     "id": 60247007,
     "description": "- At battle start, grants self Damage Received Down\n- When hit by weakness attacks 10 times, removes the Damage Received Down"
+  },
+  {
+    "id": 60002045,
+    "description": "- No hints available"
+  },
+  {
+    "id": 60016015,
+    "description": "- No hints available"
+  },
+  {
+    "id": 60040011,
+    "description": "- When not stunned, reduces critical rate of attacks received\n- When stunned, boosts potency of negative effects received\n- Reduces potency of positive effects dealt\n- Nullifies resistance reduction for all elements except Fire and Slash"
+  },
+  {
+    "id": 60089011,
+    "description": "- When not stunned, reduces critical rate of attacks received\n- When stunned, boosts potency of negative effects received\n- Inflicts Poison\n- Inflicts Darkness\n- Counters"
+  },
+  {
+    "id": 60109032,
+    "description": "- When not stunned, reduces critical rate of attacks received\n- When stunned, boosts potency of negative effects received\n- Heals self\n- Inflicts Taunt\n- Reduces own damage received and stun damage received"
+  },
+  {
+    "id": 60122036,
+    "description": "- When not stunned, reduces critical rate of attacks received\n- When stunned, boosts potency of negative effects received\n- When stunned, converts boost-type panels to burst panels\n- Protection\n- Restores own HP and stun gauge\n- Nullifies resistance reduction for all elements except Fire and Slash"
+  },
+  {
+    "id": 60123033,
+    "description": "- No hints available"
+  },
+  {
+    "id": 60250007,
+    "description": "- When not stunned, reduces critical rate of attacks received\n- When stunned, boosts potency of negative effects received\n- After inflicting negative effects on opponent, enters an empowered state and uses a powerful attack\n- When stunned, removes empowered state\n- When stunned while empowered, removes all removable positive effects\n- Nullifies resistance reduction for all elements except Fire and Slash"
+  },
+  {
+    "id": 60250008,
+    "description": "- When not stunned, reduces critical rate of attacks received\n- When stunned, boosts potency of negative effects received\n- After inflicting negative effects on opponent, enters an empowered state and uses a powerful attack\n- When stunned, removes empowered state\n- When stunned while empowered, removes all removable positive effects\n- Boosts own damage dealt"
   }
 ]

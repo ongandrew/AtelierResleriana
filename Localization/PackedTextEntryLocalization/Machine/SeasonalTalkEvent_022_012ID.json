@@ -1,0 +1,529 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "よし、倒した……！",
+        "localizations": {
+          "en": "Got it! That's the last of them...!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "気を付けて。まだ残党がいるかもしれない――",
+        "localizations": {
+          "en": "Stay sharp. There might still be stragglers—"
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "っ！\u3000アルビーナ、後ろ――！！",
+        "localizations": {
+          "en": "Alvina, behind you—!!"
+        }
+      },
+      "2072370017": {
+        "text": "ヤドヴィガ",
+        "localizations": {
+          "en": "Jadwiga"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "っ！？",
+        "localizations": {
+          "en": "Wha—!?"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "はあっ！！",
+        "localizations": {
+          "en": "Hyah!!"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "みんな、無事！？",
+        "localizations": {
+          "en": "Is everyone all right?!"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "ヤンネさん！",
+        "localizations": {
+          "en": "Janne!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "魔物が出たって聞いて、心配したわ……\nみんなケガはなさそうね。よかった",
+        "localizations": {
+          "en": "I heard there was a monster, and I came as fast as I could... No one looks hurt. Thank goodness."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "うん。きっと、ヤンネさんの鍛錬のおかげよ",
+        "localizations": {
+          "en": "We managed. Thanks to your drills, I think."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "それならよかったわ。あの鍛錬は\nケガ防止のための準備運動も兼ねてるから",
+        "localizations": {
+          "en": "Glad to hear it. Those drills double as warm-ups for exactly this kind of situation."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "でも……どうして避難しなかったの？\n警備隊の指示に従って、彼らに任せれば――",
+        "localizations": {
+          "en": "But... why didn't you evacuate? If you had just followed the security forces' instructions and left it to them—"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "それは……あそこを守りたくって",
+        "localizations": {
+          "en": "We just... really wanted to protect that spot over there."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "あそこって……あれはなに？",
+        "localizations": {
+          "en": "That spot? What is all that?"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "私たちで用意した、「ヤンネさんおもてなし一式」よ",
+        "localizations": {
+          "en": "A little welcome spread we put together. Just for you."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "こういう休暇は初めてって、ヤンネさん言ってたから、\n姉様と一緒に、みんなで用意したの",
+        "localizations": {
+          "en": "You mentioned this was your first real vacation, so we all worked together to set it up."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "一緒に休暇を目いっぱい楽しみたくってさ。\n……だから、そのためにもあそこを守りたかったんだ",
+        "localizations": {
+          "en": "We wanted to have the best vacation together with you. So yeah... we had to protect it, no matter what."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "そうだったの……\n二人とも、ありがとう",
+        "localizations": {
+          "en": "I see... Thank you. Both of you."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "せっかくの休暇なのに、私ったら鍛錬とか仕事とか、\nいつも通りのことしちゃってたわね",
+        "localizations": {
+          "en": "And here I spent most of the vacation doing drills and work, same as always..."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "そうね、明日はあそこでくつろがせてもらおうかしら。\n休暇の過ごし方、私に教えてくれる？",
+        "localizations": {
+          "en": "Tomorrow, let me take you up on that spot. Will you teach me how to properly spend a vacation?"
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "うん！\u3000もちろんっすわ！！",
+        "localizations": {
+          "en": "You bet we will!!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "姉様と共に、最高の休暇を約束するわ",
+        "localizations": {
+          "en": "We'll make sure it's the best vacation you've ever had."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "ヤドヴィガ、さっきは一緒に守ってくれてありがとう。\n明日こそ、本当の休暇の過ごし方を教えてあげる！",
+        "localizations": {
+          "en": "Jadwiga, thank you for fighting alongside us. Tomorrow, I'll show you what a real vacation looks like!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "……それは、ここまでで十分理解できた。\n明日は三人で過ごすといい",
+        "localizations": {
+          "en": "...I believe I have already learned enough from today. Tomorrow, the three of you should spend the time together."
+        }
+      },
+      "2072370017": {
+        "text": "ヤドヴィガ",
+        "localizations": {
+          "en": "Jadwiga"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "誰かのためを想って行動するあなたたちを見て、\n私も……誰かのために何かをしてみたくなった",
+        "localizations": {
+          "en": "Watching you act for the sake of others... it made me want to do something for someone too."
+        }
+      },
+      "2072370017": {
+        "text": "ヤドヴィガ",
+        "localizations": {
+          "en": "Jadwiga"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "だから明日は、自分のしたいことをして\n休暇を過ごしてみようと思う",
+        "localizations": {
+          "en": "So tomorrow, I will spend my vacation doing what I myself wish to do."
+        }
+      },
+      "2072370017": {
+        "text": "ヤドヴィガ",
+        "localizations": {
+          "en": "Jadwiga"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "うん、分かった。\nま、お役に立てたなら何よりっすわ",
+        "localizations": {
+          "en": "Fair enough. Glad we could be any help at all."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "何か困ったことがあったら力を貸すわ。\n今日のお礼よ",
+        "localizations": {
+          "en": "If you ever need anything, just say the word. Consider it our thanks for today."
+        }
+      },
+      "2072370017": {
+        "text": "ベップ",
+        "localizations": {
+          "en": "Bepp"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "承知。感謝する",
+        "localizations": {
+          "en": "Understood. I am grateful."
+        }
+      },
+      "2072370017": {
+        "text": "ヤドヴィガ",
+        "localizations": {
+          "en": "Jadwiga"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "私からもお礼を言わせてちょうだい",
+        "localizations": {
+          "en": "And I would like to add my thanks as well."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "ありがとう。\nよかったら、これからも二人と仲良くしてね",
+        "localizations": {
+          "en": "Thank you. I hope you'll continue to look after these two."
+        }
+      },
+      "2072370017": {
+        "text": "ヤンネ",
+        "localizations": {
+          "en": "Janne"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "……はい",
+        "localizations": {
+          "en": "...Yes."
+        }
+      },
+      "2072370017": {
+        "text": "ヤドヴィガ",
+        "localizations": {
+          "en": "Jadwiga"
+        }
+      }
+    }
+  }
+]

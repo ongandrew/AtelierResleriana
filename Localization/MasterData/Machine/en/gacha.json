@@ -7655,5 +7655,123 @@
     "small_banner_label": "Paid Gems Only!",
     "start_at": "2026-08-07T03:00:00Z",
     "step_up_loop_description": ""
+  },
+  {
+    "id": 2440,
+    "description": "Janne makes her debut & is featured!\nFeatured until 2026/08/27 11:59 (UTC+8)",
+    "end_at": "2026-08-27T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Atelier Summer 2026 Madonna of the Sun Janne LEGEND FES",
+    "name": "Atelier Summer 2026 Madonna of the Sun Janne LEGEND FES",
+    "start_at": "2026-08-14T03:00:00Z",
+    "step_up_loop_description": "",
+    "small_banner_label": ""
+  },
+  {
+    "id": 2441,
+    "description": "Paid Stardust limited to 1 per day! Featured rate x2!\nFeatured until 2026/08/27 11:59 (UTC+8)",
+    "end_at": "2026-08-27T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 24411,
+            "description": "Featured rate x2!\n1 remaining!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Atelier Summer 2026 Madonna of the Sun Janne LEGEND FES [1 Per Day Limit - Paid Only]",
+    "name": "Atelier Summer 2026 Madonna of the Sun Janne LEGEND FES [1 Per Day Limit - Paid Only]",
+    "start_at": "2026-08-14T03:00:00Z",
+    "step_up_loop_description": "",
+    "small_banner_label": "1 Per Day!"
+  },
+  {
+    "id": 2442,
+    "description": "Wish 50 times with paid Stardust to unlock an additional Wish!\nFeatured until 2026/08/27 11:59 (UTC+8)",
+    "end_at": "2026-08-27T03:00:00Z",
+    "gacha_button_groups": [],
+    "gacha_rate_set_name": "Atelier Summer 2026 Madonna of the Sun Janne LEGEND FES [Paid Only]",
+    "name": "Atelier Summer 2026 Madonna of the Sun Janne LEGEND FES [Paid Only]",
+    "start_at": "2026-08-14T03:00:00Z",
+    "step_up_loop_description": "{} cycles remaining",
+    "small_banner_label": "Paid Only!"
+  },
+  {
+    "id": 3066,
+    "description": "\"Squid Extermination and Vacation!\" and \"Relaxing Beach Time\" make their debut & are featured!\nFeatured until 2026/08/27 11:59.",
+    "end_at": "2026-08-27T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Atelier Summer 2026 Beach Memories LEGEND FES",
+    "name": "Atelier Summer 2026 Beach Memories LEGEND FES",
+    "start_at": "2026-08-18T03:00:00Z",
+    "step_up_loop_description": "",
+    "small_banner_label": ""
+  },
+  {
+    "id": 3067,
+    "description": "For every 30 Wishes with Paid Lodestar Gems, get 1 Wish for free! Max 5 times!\nStep 4 guarantees 1 featured Memoria!\nFeatured until 2026/08/27 11:59.",
+    "end_at": "2026-08-27T03:00:00Z",
+    "gacha_button_groups": [],
+    "gacha_rate_set_name": "",
+    "name": "Atelier Summer 2026 Beach Memories LEGEND FES [Paid Lodestar Gems Only]",
+    "start_at": "2026-08-18T03:00:00Z",
+    "step_up_loop_description": "{} Times Left",
+    "small_banner_label": "Guaranteed Featured!"
+  },
+  {
+    "id": 244201,
+    "description": "Max 5 times! Double the rate for featured items!\nGet 16 medals! Featured until 2026/08/27 11:59.",
+    "end_at": "2026-08-27T03:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10005,
+            "description": "Bonus included!\n{} Wishes left!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Atelier Summer 2026 Madonna Under the Sun - Janne LEGEND FES [Paid Lodestar Gems Only]",
+    "name": "Atelier Summer 2026 Madonna Under the Sun - Janne LEGEND FES [Paid Lodestar Gems Only]",
+    "start_at": "2026-08-14T03:00:00Z",
+    "step_up_loop_description": "",
+    "small_banner_label": "Paid Only!"
   }
 ]

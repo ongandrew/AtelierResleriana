@@ -3306,5 +3306,41 @@
   {
     "id": 60250008,
     "description": "- When not stunned, reduces critical rate of attacks received\n- When stunned, boosts potency of negative effects received\n- After inflicting negative effects on opponent, enters an empowered state and uses a powerful attack\n- When stunned, removes empowered state\n- When stunned while empowered, removes all removable positive effects\n- Boosts own damage dealt"
+  },
+  {
+    "id": 60009029,
+    "description": "- No tips available."
+  },
+  {
+    "id": 60041002,
+    "description": "- No tips available."
+  },
+  {
+    "id": 60041003,
+    "description": "- Inflicts Darkness\n- Grants self Evasion\n- Creates Paralysis panels\n- Inflicts Darkness on all opponents and all allies"
+  },
+  {
+    "id": 60041004,
+    "description": "- Nullifies resistance reduction for all elements except Slash\n- Inflicts Darkness\n- Grants self Evasion\n- Creates Paralysis panels\n- Inflicts Darkness on all opponents and all allies"
+  },
+  {
+    "id": 60109033,
+    "description": "- No tips available."
+  },
+  {
+    "id": 60203001,
+    "description": "- No tips available."
+  },
+  {
+    "id": 60203002,
+    "description": "- Creates Burn panels\n- Boosts damage dealt to targets with status effects\n- Inflicts Poison\n- Inflicts Darkness\n- Before turn, inflicts Taunt and reduces own damage dealt"
+  },
+  {
+    "id": 60203003,
+    "description": "- Nullifies resistance reduction for all elements except Slash\n- Creates Burn panels\n- Boosts damage dealt to targets with status effects\n- Inflicts Poison\n- Inflicts Darkness\n- Before turn, inflicts Taunt and reduces own damage dealt"
+  },
+  {
+    "id": 60224006,
+    "description": "- Nullifies Slash resistance reduction\n- When KO'd, applies a field effect that reduces status effect resistance for all enemies and allies\n- Heals all allies and removes all status effects\n- Chance to inflict Paralysis"
   }
 ]

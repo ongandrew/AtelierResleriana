@@ -15733,5 +15733,165 @@
     "id": 600000831,
     "description": "When Jadwiga [Loyal Servant] or Bepp [Ocean Faerie] is in the party, reduces damage received by 25% (cap: 25%).",
     "name": "Jadwiga [Loyal Servant] or Bepp [Ocean Faerie] in Party, Damage Received Down"
+  },
+  {
+    "id": 301368,
+    "description": "While self is Janne [Vacation Madonna], after any party member uses a skill, grants Elegant Fragrance (Lv. 1) to all allies who have not been granted Elegant Fragrance.\nBoosts the Lv of Elegant Fragrance already granted to all allies by +1 (MAX Lv. 50).",
+    "name": "Vacation Sword"
+  },
+  {
+    "id": 500778,
+    "description": "Boosts critical damage by {0}% for characters with Seasonal tag.",
+    "name": ""
+  },
+  {
+    "id": 500779,
+    "description": "Boosts critical damage by {0}% for characters with Seasonal tag.",
+    "name": ""
+  },
+  {
+    "id": 500780,
+    "description": "Boosts critical damage by {0}% for characters with Seasonal tag.",
+    "name": ""
+  },
+  {
+    "id": 500781,
+    "description": "Boosts critical damage by {0}% for characters with Seasonal tag.",
+    "name": ""
+  },
+  {
+    "id": 500782,
+    "description": "Boosts critical damage by {0}% for characters with Seasonal tag.",
+    "name": ""
+  },
+  {
+    "id": 500783,
+    "description": "Boosts critical damage by {0}% for characters with Seasonal tag.",
+    "name": ""
+  },
+  {
+    "id": 500784,
+    "description": "Boosts critical damage by {0}% for characters with Seasonal tag.",
+    "name": ""
+  },
+  {
+    "id": 500785,
+    "description": "Boosts critical damage by {0}% for characters with Seasonal tag.",
+    "name": ""
+  },
+  {
+    "id": 1980256,
+    "description": "Seasonal characters gain base P.ATK and base M.ATK +400.",
+    "name": "Warrior of the Seaside"
+  },
+  {
+    "id": 1990569,
+    "description": "Converts own burst skill to a gauge system.<br>※ The burst gauge can stack up to 3 charges.<br><br>After any party member uses a skill, increases own burst gauge by {0}%.<br>After using a skill, increases own burst gauge by {1}% for every 10 Lv of own Elegant Fragrance.",
+    "name": "All Set for Fun?"
+  },
+  {
+    "id": 1990570,
+    "description": "After any party member uses a skill, grants Elegant Fragrance (Lv. 1) to all allies who have not been granted Elegant Fragrance.<br>Boosts the Lv of Elegant Fragrance already granted to all allies by +1 (MAX Lv. 50).<br>All allies gain the following bonuses based on their Elegant Fragrance Lv:<br>Skill damage +{0}% per Lv.<br>Lv 15 or above: Skill damage +{1}%.<br>Lv 30 or above: Skill power +{2}%.<br><br>When another ally with Seasonal is in the party, boosts potency of buff effects given by +{3}%.",
+    "name": "Seaside Affection"
+  },
+  {
+    "id": 4991408,
+    "description": "While equipped to a Supporter with Slash affinity, after any party member uses a skill, grants all allies critical damage +{0}% (up to 5 stacks).<br>While equipped to a character with Seasonal, boosts HP recovery given by +{1}%.",
+    "name": "Imagination \"Temperature Differences Are Deadly!\""
+  },
+  {
+    "id": 4991409,
+    "description": "While equipped to a Supporter with Slash affinity, after any party member uses a skill, grants all allies critical damage +{0}% (up to 5 stacks).<br>While equipped to a character with Seasonal, boosts HP recovery given by +{1}%.",
+    "name": "Imagination \"Temperature Differences Are Deadly!\""
+  },
+  {
+    "id": 4991410,
+    "description": "While equipped to a Supporter with Slash affinity, after any party member uses a skill, grants all allies critical damage +{0}% (up to 5 stacks).<br>While equipped to a character with Seasonal, boosts HP recovery given by +{1}%.",
+    "name": "Imagination \"Temperature Differences Are Deadly!\""
+  },
+  {
+    "id": 4991411,
+    "description": "While equipped to a Supporter with Slash affinity, after any party member uses a skill, grants all allies critical damage +{0}% (up to 5 stacks).<br>While equipped to a character with Seasonal, boosts HP recovery given by +{1}%.",
+    "name": "Imagination \"Temperature Differences Are Deadly!\""
+  },
+  {
+    "id": 4991412,
+    "description": "While equipped to a Supporter with Slash affinity, after any party member uses a skill, grants all allies critical damage +{0}% (up to 5 stacks).<br>While equipped to a character with Seasonal, boosts HP recovery given by +{1}%.",
+    "name": "Imagination \"Temperature Differences Are Deadly!\""
+  },
+  {
+    "id": 4991413,
+    "description": "While equipped to an Attacker, boosts critical damage by {0}%.<br>When attack target is stunned, boosts skill damage by {1}%.",
+    "name": "Imagination \"Squid Extermination Commences!\""
+  },
+  {
+    "id": 4991414,
+    "description": "While equipped to an Attacker, boosts critical damage by {0}%.<br>When attack target is stunned, boosts skill damage by {1}%.",
+    "name": "Imagination \"Squid Extermination Commences!\""
+  },
+  {
+    "id": 4991415,
+    "description": "While equipped to an Attacker, boosts critical damage by {0}%.<br>When attack target is stunned, boosts skill damage by {1}%.",
+    "name": "Imagination \"Squid Extermination Commences!\""
+  },
+  {
+    "id": 4991416,
+    "description": "While equipped to an Attacker, boosts critical damage by {0}%.<br>When the attack target is stunned, boosts skill damage by {1}%.",
+    "name": "Imagination \"Squid Extermination and More!\""
+  },
+  {
+    "id": 4991417,
+    "description": "While equipped to an Attacker, boosts critical damage by {0}%.<br>When the attack target is stunned, boosts skill damage by {1}%.",
+    "name": "Imagination \"Squid Extermination and More!\""
+  },
+  {
+    "id": 4991418,
+    "description": "Boosts potency of buff effects given by {0}%.<br>While equipped to an Attacker, boosts potency of buff effects received by {1}%.",
+    "name": "Imagination \"Relaxing Beach Time\""
+  },
+  {
+    "id": 4991419,
+    "description": "Boosts potency of buff effects given by {0}%.<br>While equipped to an Attacker, boosts potency of buff effects received by {1}%.",
+    "name": "Imagination \"Relaxing Beach Time\""
+  },
+  {
+    "id": 4991420,
+    "description": "Boosts potency of buff effects given by {0}%.<br>While equipped to an Attacker, boosts potency of buff effects received by {1}%.",
+    "name": "Imagination \"Relaxing Beach Time\""
+  },
+  {
+    "id": 4991421,
+    "description": "Boosts potency of buff effects given by {0}%.<br>While equipped to an Attacker, boosts potency of buff effects received by {1}%.",
+    "name": "Imagination \"Relaxing Beach Time\""
+  },
+  {
+    "id": 4991422,
+    "description": "Boosts potency of buff effects given by {0}%.<br>While equipped to an Attacker, boosts potency of buff effects received by {1}%.",
+    "name": "Imagination \"Relaxing Beach Time\""
+  },
+  {
+    "id": 26203006,
+    "description": "Before acting, grants all enemies Damage Dealt Down ({0}%/1 turn).",
+    "name": ""
+  },
+  {
+    "id": 26203007,
+    "description": "Before acting, grants all enemies Damage Dealt Down ({0}%/1 turn).",
+    "name": ""
+  },
+  {
+    "id": 600000829,
+    "description": "Boosts potency of buff effects given by Janne [Vacation Madonna] by 150%.",
+    "name": "Janne [Vacation Madonna] Buff Potency Up"
+  },
+  {
+    "id": 600000832,
+    "description": "When Janne [Vacation Madonna] or Jadwiga [Loyal Servant] is on the team, reduces damage received by 25% (max 25%).",
+    "name": "Janne [Vacation Madonna] or Jadwiga [Loyal Servant] on Team, Damage Received Down"
+  },
+  {
+    "id": 600000833,
+    "description": "While equipped to a character with the Sweets tag, boosts skill power by 100%.",
+    "name": "Sweets Tag, Skill Power Up"
   }
 ]

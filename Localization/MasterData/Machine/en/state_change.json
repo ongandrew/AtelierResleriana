@@ -5758,5 +5758,40 @@
     "id": 820141,
     "description": "When stunned, boosts received negative effect potency by {value}%. Cannot be removed.",
     "name": "Received Negative Effect Potency Up (Cond.)"
+  },
+  {
+    "id": 510363,
+    "description": "Boosts skill damage by {value}%.",
+    "name": "Damage Dealt Up"
+  },
+  {
+    "id": 510364,
+    "description": "Lv. 15 or higher: Boosts skill damage by {value}%.",
+    "name": "Damage Dealt Up"
+  },
+  {
+    "id": 510365,
+    "description": "Lv. 30 or higher: Boosts skill power by {value}%.",
+    "name": "Skill Power Up"
+  },
+  {
+    "id": 610543,
+    "description": "Boosts HP recovery dealt by {value}%. (MAX 60%)",
+    "name": "Recovery Dealt Up"
+  },
+  {
+    "id": 610544,
+    "description": "Boosts P.ATK by {value}%. (MAX 60%)",
+    "name": "P.ATK Up"
+  },
+  {
+    "id": 610545,
+    "description": "Gains bonuses from Sithside Affection based on the level of Elegant Fragrance.",
+    "name": "Elegant Fragrance"
+  },
+  {
+    "id": 910222,
+    "description": "Boosts critical damage by {value}%. (MAX 5 stacks)",
+    "name": "Critical Damage Up"
   }
 ]

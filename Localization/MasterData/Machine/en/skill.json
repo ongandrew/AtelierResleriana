@@ -45070,5 +45070,341 @@
     "description": "No effect.",
     "name": "Trick Slash",
     "summary": ""
+  },
+  {
+    "id": 11003955,
+    "description": "Grants self HP recovery amount +{0}%.<br>Grants all allies P.ATK +{1}% (all effects max 60%).",
+    "name": "Hydration",
+    "summary": "Boosts own HP recovery amount.<br>Boosts all allies' P.ATK."
+  },
+  {
+    "id": 11003956,
+    "description": "Grants self HP recovery amount +{0}%.<br>Grants all allies P.ATK +{1}% (all effects max 60%).",
+    "name": "Hydration",
+    "summary": "Boosts own HP recovery amount.<br>Boosts all allies' P.ATK."
+  },
+  {
+    "id": 11003957,
+    "description": "Grants self HP recovery amount +{0}%.<br>Grants all allies P.ATK +{1}% (all effects max 60%).",
+    "name": "Hydration",
+    "summary": "Boosts own HP recovery amount.<br>Boosts all allies' P.ATK."
+  },
+  {
+    "id": 11003958,
+    "description": "Grants self HP recovery amount +{0}%.<br>Grants all allies P.ATK +{1}% (all effects max 60%).",
+    "name": "Hydration",
+    "summary": "Boosts own HP recovery amount.<br>Boosts all allies' P.ATK."
+  },
+  {
+    "id": 11003959,
+    "description": "Grants self HP recovery amount +{0}%.<br>Grants all allies P.ATK +{1}% (all effects max 60%).",
+    "name": "Hydration",
+    "summary": "Boosts own HP recovery amount.<br>Boosts all allies' P.ATK."
+  },
+  {
+    "id": 12003960,
+    "description": "Before healing, removes {0} negative effects and status effects from target.<br>After healing, grants all allies with Slash affinity P.ATK +{1}% for 3 turns.<br>If own Elegant Fragrance is Lv. 30 or above, further grants all allies with Slash affinity P.ATK +{2}% for 3 turns.",
+    "name": "Refresh Cologne",
+    "summary": "Before healing, removes 2 negative effects and status effects from target.<br>After healing, boosts P.ATK for all allies with Slash affinity.<br>When own Elegant Fragrance is Lv. 30 or above, further boosts P.ATK for all allies with Slash affinity."
+  },
+  {
+    "id": 12003961,
+    "description": "Before healing, removes {0} negative effects and status effects from target.<br>After healing, grants all allies with Slash affinity P.ATK +{1}% for 3 turns.<br>If own Elegant Fragrance is Lv. 30 or above, further grants all allies with Slash affinity P.ATK +{2}% for 3 turns.",
+    "name": "Refresh Cologne",
+    "summary": "Before healing, removes 2 negative effects and status effects from target.<br>After healing, boosts P.ATK for all allies with Slash affinity.<br>When own Elegant Fragrance is Lv. 30 or above, further boosts P.ATK for all allies with Slash affinity."
+  },
+  {
+    "id": 12003962,
+    "description": "Before healing, removes {0} negative effects and status effects from target.<br>After healing, grants all allies with Slash affinity P.ATK +{1}% for 3 turns.<br>If own Elegant Fragrance is Lv. 30 or above, further grants all allies with Slash affinity P.ATK +{2}% for 3 turns.",
+    "name": "Refresh Cologne",
+    "summary": "Before healing, removes 2 negative effects and status effects from target.<br>After healing, boosts P.ATK for all allies with Slash affinity.<br>When own Elegant Fragrance is Lv. 30 or above, further boosts P.ATK for all allies with Slash affinity."
+  },
+  {
+    "id": 12003963,
+    "description": "Before healing, removes {0} negative effects and status effects from target.<br>After healing, grants all allies with Slash affinity P.ATK +{1}% for 3 turns.<br>If own Elegant Fragrance is Lv. 30 or above, further grants all allies with Slash affinity P.ATK +{2}% for 3 turns.",
+    "name": "Refresh Cologne",
+    "summary": "Before healing, removes 2 negative effects and status effects from target.<br>After healing, boosts P.ATK for all allies with Slash affinity.<br>When own Elegant Fragrance is Lv. 30 or above, further boosts P.ATK for all allies with Slash affinity."
+  },
+  {
+    "id": 12003964,
+    "description": "Before healing, removes {0} negative effects and status effects from target.<br>After healing, grants all allies with Slash affinity P.ATK +{1}% for 3 turns.<br>If own Elegant Fragrance is Lv. 30 or above, further grants all allies with Slash affinity P.ATK +{2}% for 3 turns.",
+    "name": "Refresh Cologne",
+    "summary": "Before healing, removes 2 negative effects and status effects from target.<br>After healing, boosts P.ATK for all allies with Slash affinity.<br>When own Elegant Fragrance is Lv. 30 or above, further boosts P.ATK for all allies with Slash affinity."
+  },
+  {
+    "id": 14003965,
+    "description": "Before healing, removes all negative effects and status effects from target.<br>After healing, grants all allies with Slash affinity P.ATK +{0}% for 3 turns, and<br>grants Elegant Fragrance (Lv. 3) to all allies that have not been granted Elegant Fragrance.<br>Increases Elegant Fragrance Lv by +3 for all allies already granted it (max Lv. 50).<br>If own Elegant Fragrance is Lv. 30 or above, further grants all allies with Slash affinity P.ATK +{1}% for 3 turns.",
+    "name": "Trip Wiz You",
+    "summary": "Before healing, removes all negative effects and status effects from target.<br>After healing, boosts P.ATK for all allies with Slash affinity.<br>Grants or levels up Elegant Fragrance for all allies.<br>When own Elegant Fragrance is Lv. 30 or above, further boosts P.ATK for all allies with Slash affinity."
+  },
+  {
+    "id": 14003966,
+    "description": "Before healing, removes all negative effects and status effects from target.<br>After healing, grants all allies with Slash affinity P.ATK +{0}% for 3 turns, and<br>grants Elegant Fragrance (Lv. 3) to all allies that have not been granted Elegant Fragrance.<br>Increases Elegant Fragrance Lv by +3 for all allies already granted it (max Lv. 50).<br>If own Elegant Fragrance is Lv. 30 or above, further grants all allies with Slash affinity P.ATK +{1}% for 3 turns.",
+    "name": "Trip Wiz You",
+    "summary": "Before healing, removes all negative effects and status effects from target.<br>After healing, boosts P.ATK for all allies with Slash affinity.<br>Grants or levels up Elegant Fragrance for all allies.<br>When own Elegant Fragrance is Lv. 30 or above, further boosts P.ATK for all allies with Slash affinity."
+  },
+  {
+    "id": 14003967,
+    "description": "Before healing, removes all negative effects and status effects from target.<br>After healing, grants all allies with Slash affinity P.ATK +{0}% for 3 turns, and<br>grants Elegant Fragrance (Lv. 3) to all allies that have not been granted Elegant Fragrance.<br>Increases Elegant Fragrance Lv by +3 for all allies already granted it (max Lv. 50).<br>If own Elegant Fragrance is Lv. 30 or above, further grants all allies with Slash affinity P.ATK +{1}% for 3 turns.",
+    "name": "Trip Wiz You",
+    "summary": "Before healing, removes all negative effects and status effects from target.<br>After healing, boosts P.ATK for all allies with Slash affinity.<br>Grants or levels up Elegant Fragrance for all allies.<br>When own Elegant Fragrance is Lv. 30 or above, further boosts P.ATK for all allies with Slash affinity."
+  },
+  {
+    "id": 14003968,
+    "description": "Before healing, removes all negative effects and status effects from target.<br>After healing, grants all allies with Slash affinity P.ATK +{0}% for 3 turns, and<br>grants Elegant Fragrance (Lv. 3) to all allies that have not been granted Elegant Fragrance.<br>Increases Elegant Fragrance Lv by +3 for all allies already granted it (max Lv. 50).<br>If own Elegant Fragrance is Lv. 30 or above, further grants all allies with Slash affinity P.ATK +{1}% for 3 turns.",
+    "name": "Trip Wiz You",
+    "summary": "Before healing, removes all negative effects and status effects from target.<br>After healing, boosts P.ATK for all allies with Slash affinity.<br>Grants or levels up Elegant Fragrance for all allies.<br>When own Elegant Fragrance is Lv. 30 or above, further boosts P.ATK for all allies with Slash affinity."
+  },
+  {
+    "id": 14003969,
+    "description": "Before healing, removes all negative effects and status effects from target.<br>After healing, grants all allies with Slash affinity P.ATK +{0}% for 3 turns, and<br>grants Elegant Fragrance (Lv. 3) to all allies that have not been granted Elegant Fragrance.<br>Increases Elegant Fragrance Lv by +3 for all allies already granted it (max Lv. 50).<br>If own Elegant Fragrance is Lv. 30 or above, further grants all allies with Slash affinity P.ATK +{1}% for 3 turns.",
+    "name": "Trip Wiz You",
+    "summary": "Before healing, removes all negative effects and status effects from target.<br>After healing, boosts P.ATK for all allies with Slash affinity.<br>Grants or levels up Elegant Fragrance for all allies.<br>When own Elegant Fragrance is Lv. 30 or above, further boosts P.ATK for all allies with Slash affinity."
+  },
+  {
+    "id": 14003970,
+    "description": "Grants all allies skill power +{0}% for 1 turn (max 2 activations per turn).\n※ This active skill can only be activated when own Elegant Fragrance is Lv. 30 or above.",
+    "name": "Seaside Ale",
+    "summary": "Boosts all allies' skill power."
+  },
+  {
+    "id": 32005691,
+    "description": "After attacking, converts target's panels to Burn panels by {0} (excluding burst panels).",
+    "name": "Hellfire Fall",
+    "summary": ""
+  },
+  {
+    "id": 32005692,
+    "description": "After attacking, reduces HP recovery amount granted to target by {0}% for 3 turns and inflicts Poison x2 (100% chance to apply, 3 turns).",
+    "name": "Poisonous Touch",
+    "summary": ""
+  },
+  {
+    "id": 32005693,
+    "description": "If target has a status effect, boosts this attack's damage dealt by +{0}%.\nAfter attacking, inflicts Poison on target (100% chance to apply, 3 turns).",
+    "name": "Silent Thorn",
+    "summary": ""
+  },
+  {
+    "id": 32005694,
+    "description": "After attacking, creates {0} Burn panels and inflicts Speed Down on target ({1}%, 3 turns).",
+    "name": "Hellfire Radiation",
+    "summary": ""
+  },
+  {
+    "id": 32005695,
+    "description": "Inflicts all enemies with Damage Dealt Down ({0}%/3 turns), Critical Rate Down ({1}%/2 turns), and Darkness (100% chance/1 turn).",
+    "name": "Light Orb Explosion",
+    "summary": ""
+  },
+  {
+    "id": 32005696,
+    "description": "After attacking, inflicts Darkness on the skill target (100% chance/1 turn).",
+    "name": "Mortal Fin",
+    "summary": ""
+  },
+  {
+    "id": 32005697,
+    "description": "After attacking, grants self Evasion ({0}%/1 turn).",
+    "name": "Heavy Bite",
+    "summary": ""
+  },
+  {
+    "id": 32005698,
+    "description": "After attacking, inflicts SPD Down ({0}%/2 turns) and Stun Damage Down ({1}%/3 turns) on the skill target.",
+    "name": "Thunder Ball",
+    "summary": ""
+  },
+  {
+    "id": 32005699,
+    "description": "After attacking, creates a Paralysis panel within the first {0} panels on the timeline.",
+    "name": "Thunder Breath",
+    "summary": ""
+  },
+  {
+    "id": 32005700,
+    "description": "Inflicts Darkness (100% chance/1 turn) on all enemies and all allies.",
+    "name": "Blinding",
+    "summary": ""
+  },
+  {
+    "id": 32005701,
+    "description": "After attacking, converts {0} of the target's panels to Burn panels (excluding burst panels).",
+    "name": "Hellfire Descending",
+    "summary": ""
+  },
+  {
+    "id": 32005702,
+    "description": "After attacking, inflicts HP Recovery Down ({0}%/3 turns) and Poison x2 (100% chance/3 turns) on the target.",
+    "name": "Heavy Touch",
+    "summary": ""
+  },
+  {
+    "id": 32005703,
+    "description": "When the target has a status effect, boosts this attack's damage dealt by {0}%.\nAfter attacking, inflicts Poison on the target (100% chance/3 turns).",
+    "name": "Silent Sting",
+    "summary": ""
+  },
+  {
+    "id": 32005704,
+    "description": "After attacking, creates {0} Burn panels and inflicts SPD Down ({1}%/3 turns) on the target.",
+    "name": "Blaze Radiation",
+    "summary": ""
+  },
+  {
+    "id": 32005705,
+    "description": "Inflicts all enemies with Damage Dealt Down ({0}%/3 turns), Critical Rate Down ({1}%/2 turns), and Darkness (100% chance/1 turn).",
+    "name": "Light Orb Explosion",
+    "summary": ""
+  },
+  {
+    "id": 32005706,
+    "description": "After attacking, inflicts Darkness on the skill target (100% chance/1 turn).",
+    "name": "Mortal Fin",
+    "summary": ""
+  },
+  {
+    "id": 32005707,
+    "description": "After attacking, grants self Evasion ({0}%/1 turn).",
+    "name": "Heavy Bite",
+    "summary": ""
+  },
+  {
+    "id": 32005708,
+    "description": "After attacking, inflicts SPD Down ({0}%/2 turns) and Stun Damage Down ({1}%/3 turns) on the skill target.",
+    "name": "Thunder Ball",
+    "summary": ""
+  },
+  {
+    "id": 32005709,
+    "description": "After attacking, creates a Paralysis panel within the first {0} panels on the timeline.",
+    "name": "Thunder Breath",
+    "summary": ""
+  },
+  {
+    "id": 32005710,
+    "description": "Inflicts Darkness (100% chance/1 turn) on all enemies and all allies.",
+    "name": "Blinding",
+    "summary": ""
+  },
+  {
+    "id": 32005711,
+    "description": "No additional effects.",
+    "name": "Explosion Vortex",
+    "summary": ""
+  },
+  {
+    "id": 32005712,
+    "description": "After attacking, inflicts Paralysis on the target (50% chance/2 turns).",
+    "name": "Seal Blow",
+    "summary": ""
+  },
+  {
+    "id": 32005713,
+    "description": "After attacking, reduces own damage received by {0}% for 2 turns.",
+    "name": "Filas Fiany Needle",
+    "summary": ""
+  },
+  {
+    "id": 32005714,
+    "description": "No additional effects.",
+    "name": "Fire Tornado",
+    "summary": ""
+  },
+  {
+    "id": 32005715,
+    "description": "After attacking, boosts own damage dealt by {0}% for 2 turns.",
+    "name": "Fire Dance",
+    "summary": ""
+  },
+  {
+    "id": 32005716,
+    "description": "Restores all allies' HP by 30% and clears status effects.",
+    "name": "Magic Recovery",
+    "summary": ""
+  },
+  {
+    "id": 32005717,
+    "description": "After attacking, converts {0} of target's panels into Burn panels (excluding burst panels).",
+    "name": "Hellfire Descent",
+    "summary": ""
+  },
+  {
+    "id": 32005718,
+    "description": "After attacking, reduces target's HP recovery received by {0}% for 3 turns, and inflicts Poison x2 (100% chance to apply / 3 turns).",
+    "name": "Rough Touch",
+    "summary": ""
+  },
+  {
+    "id": 32005719,
+    "description": "When target has a status effect, boosts this attack's damage by {0}%.\nAfter attacking, inflicts Poison on target (100% chance to apply / 3 turns).",
+    "name": "Silent Stab",
+    "summary": ""
+  },
+  {
+    "id": 32005720,
+    "description": "After attacking, creates {0} Burn panels, and inflicts SPD Down on target ({1}% / 3 turns).",
+    "name": "Hellfire Radiation",
+    "summary": ""
+  },
+  {
+    "id": 32005721,
+    "description": "Inflicts all enemies with damage dealt down ({0}% / 3 turns), critical rate down ({1}% / 2 turns), and Darkness (100% chance to apply / 1 turn).",
+    "name": "Light Orb Explosion",
+    "summary": ""
+  },
+  {
+    "id": 32005722,
+    "description": "After attacking, grants target Poison x8 (100% chance to apply / 2 turns), and grants self Regeneration (30% / 2 turns).",
+    "name": "Death Spin",
+    "summary": ""
+  },
+  {
+    "id": 32005723,
+    "description": "No additional effects.",
+    "name": "Ice Step",
+    "summary": ""
+  },
+  {
+    "id": 32005724,
+    "description": "After attacking, grants target Poison x3 (100% chance to apply / 2 turns), and grants self Regeneration (20% / 2 turns).",
+    "name": "Ice Mist",
+    "summary": ""
+  },
+  {
+    "id": 32005725,
+    "description": "After attacking, converts {0} of target's boost panels into empty panels.",
+    "name": "Pelting Downpour",
+    "summary": ""
+  },
+  {
+    "id": 32005726,
+    "description": "After attacking, converts {0} of target's panels into empty panels.",
+    "name": "Milstorm",
+    "summary": ""
+  },
+  {
+    "id": 32005727,
+    "description": "No additional effects.",
+    "name": "Tail Lash",
+    "summary": ""
+  },
+  {
+    "id": 32005728,
+    "description": "After attacking, converts {0} of target's panels into weaken panels.",
+    "name": "Windball",
+    "summary": ""
+  },
+  {
+    "id": 32005729,
+    "description": "After attacking, inflicts SPD Down on target ({0}% / 1 turn).",
+    "name": "Blood Storm",
+    "summary": ""
+  },
+  {
+    "id": 32005730,
+    "description": "Grants all allies boost effect potency received from boost-type panels up by {0}% for 2 turns, and restores HP by {1}%.",
+    "name": "Encouraging Cry",
+    "summary": ""
   }
 ]

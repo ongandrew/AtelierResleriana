@@ -5,5 +5,9 @@
     /// </summary>
     public static partial class ClassIds
     {
+        /// <summary>
+        /// Unity VideoClip asset.
+        /// </summary>
+        public const int VideoClip = 329;
     }
 }

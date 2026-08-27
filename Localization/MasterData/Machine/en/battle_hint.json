@@ -3342,5 +3342,49 @@
   {
     "id": 60224006,
     "description": "- Nullifies Slash resistance reduction\n- When KO'd, applies a field effect that reduces status effect resistance for all enemies and allies\n- Heals all allies and removes all status effects\n- Chance to inflict Paralysis"
+  },
+  {
+    "id": 10282001,
+    "description": "- At the start of battle, grants self immunity to effects from opponents\n- Delays turn\n- Restores stun gauge\n- Removes all opponents' positive effects\n- Inflicts Nullify Positive Effects on all opponents\n- When stunned, removes own immunity to effects from opponents and reduces defense\n- When recovering from stun, removes own defense down and grants immunity to effects from opponents\n- When recovering from stun for the first time, boosts own damage dealt"
+  },
+  {
+    "id": 10282002,
+    "description": "- At the start of battle, grants self immunity to effects from opponents\n- Delays turn\n- Restores stun gauge\n- Removes all opponents' positive effects\n- Inflicts Nullify Positive Effects on all opponents\n- Grants self All Element Resistance Up\n- Reduces all opponents' positive effect potency received\n- Reduces own damage received\n- Reduces own stun damage received\n- When stunned, reduces own defense\n- When recovering from stun, removes own defense down\n- When recovering from stun for the first time, boosts own damage dealt"
+  },
+  {
+    "id": 60001025,
+    "description": "- No tips available."
+  },
+  {
+    "id": 60042001,
+    "description": "- No tips available."
+  },
+  {
+    "id": 60067001,
+    "description": "- No tips available."
+  },
+  {
+    "id": 60091015,
+    "description": "- At the start of battle, reduces own damage received\n- Boosts damage dealt depending on the number of positive effect types active"
+  },
+  {
+    "id": 60100018,
+    "description": "- No tips available."
+  },
+  {
+    "id": 60110024,
+    "description": "- No tips available."
+  },
+  {
+    "id": 60133004,
+    "description": "- No tips available."
+  },
+  {
+    "id": 60225002,
+    "description": "- No tips available."
+  },
+  {
+    "id": 60270008,
+    "description": "- No tips available."
   }
 ]

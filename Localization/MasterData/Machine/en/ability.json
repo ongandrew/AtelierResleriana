@@ -15893,5 +15893,20 @@
     "id": 600000833,
     "description": "While equipped to a character with the Sweets tag, boosts skill power by 100%.",
     "name": "Sweets Tag, Skill Power Up"
+  },
+  {
+    "id": 26282001,
+    "description": "On the 1st stun recovery, grants self Attack Up ({0}%/permanent).\nWhen stunned, grants self Defense Down ({1}%/permanent).\nOn stun recovery, removes own Defense Down.\nAt the start of a wave, grants immunity to effects from enemies.\nWhen stunned, removes the immunity; on stun recovery, grants the immunity again.",
+    "name": ""
+  },
+  {
+    "id": 26282002,
+    "description": "At the start of a wave, displays self.\nOn the 1st mini-stun or stun, displays self.",
+    "name": ""
+  },
+  {
+    "id": 26282003,
+    "description": "On the 1st stun recovery, grants self Attack Up ({0}%/permanent).\nWhen stunned, grants self Defense Down ({1}%/permanent).\nOn stun recovery, removes own Defense Down.\nAt the start of a wave, grants immunity to effects from enemies.",
+    "name": ""
   }
 ]

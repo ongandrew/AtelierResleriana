@@ -1,0 +1,835 @@
+[
+  {
+    "id": 0,
+    "properties": {
+      "999008199": {
+        "text": "レスナ、あなたには\n錬金術の時代を作り上げてほしいの",
+        "localizations": {
+          "en": "Resna, I want you to build an age of alchemy—one where alchemy can thrive as it once did."
+        }
+      },
+      "2072370017": {
+        "text": "ザスキア",
+        "localizations": {
+          "en": "Saskia"
+        }
+      }
+    }
+  },
+  {
+    "id": 1,
+    "properties": {
+      "999008199": {
+        "text": "かつて私たちが過ごした錬金術による幸せな時代をね",
+        "localizations": {
+          "en": "The same happy era that we Palme once lived through."
+        }
+      },
+      "2072370017": {
+        "text": "ザスキア",
+        "localizations": {
+          "en": "Saskia"
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "properties": {
+      "999008199": {
+        "text": "問題の赤のほうき星は、今もどこかの星々を\n回遊しているということですか？",
+        "localizations": {
+          "en": "And the Red Comet is still out there somewhere, drifting through other star systems?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "properties": {
+      "999008199": {
+        "text": "ええ。赤のほうき星の群れがいつかまた、この星に\n来るかもしれない。私たちは定期的に観測してるのよ",
+        "localizations": {
+          "en": "Yes. The swarm may return to this star one day. We've been keeping a close watch."
+        }
+      },
+      "2072370017": {
+        "text": "ザスキア",
+        "localizations": {
+          "en": "Saskia"
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "properties": {
+      "999008199": {
+        "text": "今回、その観測に時間が掛かったせいで、ヘルトたちが\n暴れすぎてしまったようね、ごめんなさい",
+        "localizations": {
+          "en": "Actually, it took us longer than expected to complete our latest observation—which is why Held and the others got a bit... out of hand. I'm sorry for that."
+        }
+      },
+      "2072370017": {
+        "text": "ザスキア",
+        "localizations": {
+          "en": "Saskia"
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "properties": {
+      "999008199": {
+        "text": "観測の結論として今、赤のほうき星の群れが来ることは\nないわ。はぐれた個体がやって来る可能性はあるけれど",
+        "localizations": {
+          "en": "But our findings are clear: the swarm isn't coming now. There's a chance a stray individual might appear, but nothing more."
+        }
+      },
+      "2072370017": {
+        "text": "ザスキア",
+        "localizations": {
+          "en": "Saskia"
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "properties": {
+      "999008199": {
+        "text": "はぐれた個体なら、過去と同じように対応できる。\n群れに対しても「箱船計画」というものを考えているし",
+        "localizations": {
+          "en": "A stray we can handle the same way we did before. And for the swarm itself, we've been developing what we call the Ark Plan."
+        }
+      },
+      "2072370017": {
+        "text": "ザスキア",
+        "localizations": {
+          "en": "Saskia"
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "properties": {
+      "999008199": {
+        "text": "だから、まずはこれからの世界の話をしましょう",
+        "localizations": {
+          "en": "So for now, let's talk about the world ahead."
+        }
+      },
+      "2072370017": {
+        "text": "ザスキア",
+        "localizations": {
+          "en": "Saskia"
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "properties": {
+      "999008199": {
+        "text": "……これからの世界では、師匠たちパルメ族が\n今の人類の「管理」から手を引くということですか",
+        "localizations": {
+          "en": "...Does that mean the Palme will be stepping back from 'managing' humanity?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "properties": {
+      "999008199": {
+        "text": "いいえ。それは違うわ、レスナ",
+        "localizations": {
+          "en": "No. That's not what I said, Resna."
+        }
+      },
+      "2072370017": {
+        "text": "ザスキア",
+        "localizations": {
+          "en": "Saskia"
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "properties": {
+      "999008199": {
+        "text": "では、これからもパルメ族が、\n人類の歴史に裏から干渉してくるってことですか",
+        "localizations": {
+          "en": "So you're saying the Palme will keep interfering with human history from the shadows?"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "properties": {
+      "999008199": {
+        "text": "レスナによって錬金術が再発見されたけれど、\nそれですべてが解決されるわけじゃない――",
+        "localizations": {
+          "en": "Alchemy has been rediscovered thanks to you, but that doesn't mean every problem is solved—"
+        }
+      },
+      "2072370017": {
+        "text": "ザスキア",
+        "localizations": {
+          "en": "Saskia"
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "properties": {
+      "999008199": {
+        "text": "これからも、危険な野望を持つ者はきっと現れるし。\n錬金術を悪用したりね",
+        "localizations": {
+          "en": "People with dangerous ambitions will still emerge. Some will try to abuse alchemy."
+        }
+      },
+      "2072370017": {
+        "text": "ザスキア",
+        "localizations": {
+          "en": "Saskia"
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "properties": {
+      "999008199": {
+        "text": "だけどレスナは、そんなことを気にせず、\n錬金術の救世主として新時代を導いてくれればいい……",
+        "localizations": {
+          "en": "But you don't need to worry about any of that. Just lead alchemy into a new age as its savior..."
+        }
+      },
+      "2072370017": {
+        "text": "ザスキア",
+        "localizations": {
+          "en": "Saskia"
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "properties": {
+      "999008199": {
+        "text": "その他のことは私たちに任せて。\n必ず、あなたたちをより良い未来へ導いてあげるから",
+        "localizations": {
+          "en": "Leave everything else to us. We'll guide you all toward a better future."
+        }
+      },
+      "2072370017": {
+        "text": "ザスキア",
+        "localizations": {
+          "en": "Saskia"
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "properties": {
+      "999008199": {
+        "text": "いいえ、パルメ族の「管理」は必要ありません",
+        "localizations": {
+          "en": "No. The Palme's 'management' isn't something we need."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "properties": {
+      "999008199": {
+        "text": "果ての大陸へ繋がる門を守っていた「案内人」は\n私に、命の「選択」を問いかけてきました――",
+        "localizations": {
+          "en": "The guide who stood watch at the gate to World's End challenged me with a question about choosing who lives and who dies—"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "properties": {
+      "999008199": {
+        "text": "大勢のために個の犠牲を受け入れるという「選択」……\nそれが、パルメ族の考え方",
+        "localizations": {
+          "en": "Accepting the sacrifice of one for the sake of many... that's the Palme's way of thinking."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "properties": {
+      "999008199": {
+        "text": "私は、あなたたちの考え方には賛同できません。\n「箱船計画」というのも、恐らくは……",
+        "localizations": {
+          "en": "And I can't agree with it. The Ark Plan sounds like it would be the same thing..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "properties": {
+      "999008199": {
+        "text": "いざとなれば、星を渡る船に選ばれた者を乗せて\nほうき星から避難。新天地で世界を存続させる計画よ",
+        "localizations": {
+          "en": "When the time comes, it would mean boarding a ship built to cross the stars—taking only those chosen—and fleeing the comet. A plan to carry the world forward in a new land."
+        }
+      },
+      "2072370017": {
+        "text": "ザスキア",
+        "localizations": {
+          "en": "Saskia"
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "properties": {
+      "999008199": {
+        "text": "選ばれた者って、パルメ族の基準で助ける人を選ぶ、\nそういうことですよね",
+        "localizations": {
+          "en": "'Those chosen'—meaning the Palme get to decide who's worth saving. That's exactly what I mean."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "properties": {
+      "999008199": {
+        "text": "私は、復興した錬金術で、すべての人を救いたい。\nすべての人を救えるような世界を目指したい",
+        "localizations": {
+          "en": "I want to save everyone with a revived alchemy. I want to build a world where that's possible."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "properties": {
+      "999008199": {
+        "text": "だから、あなたたちの「管理」は不要です！",
+        "localizations": {
+          "en": "That's why we don't need your 'management'!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "properties": {
+      "999008199": {
+        "text": "レスナ……それは理想論よ。\n叶わない夢を見て、あなたが傷つくだけだわ",
+        "localizations": {
+          "en": "Resna... that's idealism. Chasing an impossible dream will only leave you hurt."
+        }
+      },
+      "2072370017": {
+        "text": "ザスキア",
+        "localizations": {
+          "en": "Saskia"
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "properties": {
+      "999008199": {
+        "text": "叶わない夢なんかじゃない",
+        "localizations": {
+          "en": "It's not impossible."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "properties": {
+      "999008199": {
+        "text": "レスナなら、錬金術の力で叶えられる！\nこれまでの旅で見てきたから、分かるのよ！",
+        "localizations": {
+          "en": "Resna can make it happen through alchemy! I've seen it with my own eyes throughout this whole journey!"
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "properties": {
+      "999008199": {
+        "text": "レスナはあんたたちと違って、寄り添うことができる。\nだからこそ進める未来があるって",
+        "localizations": {
+          "en": "She connects with people in a way you never could. That's exactly why she can reach a future you can't."
+        }
+      },
+      "2072370017": {
+        "text": "ヴァレリア",
+        "localizations": {
+          "en": "Valeria"
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "properties": {
+      "999008199": {
+        "text": "ヴァレリア……！",
+        "localizations": {
+          "en": "Valeria...!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "properties": {
+      "999008199": {
+        "text": "ヴァレリアの言う通りっすわ！",
+        "localizations": {
+          "en": "She's absolutely right!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "properties": {
+      "999008199": {
+        "text": "それに、いつまでもあんな「管理」とか「天命」とか\nされてちゃ、発展するもんもしないでしょ",
+        "localizations": {
+          "en": "Besides, nothing can really grow under that kind of 'management' or having your calling handed down from on high."
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "properties": {
+      "999008199": {
+        "text": "いつ、どこで、人間輝くか分かんないっすから。\n人類の可能性を、勝手に決めないでください！",
+        "localizations": {
+          "en": "You never know when or where someone's going to find their spark. Don't go deciding the limits of what people can do on your own!"
+        }
+      },
+      "2072370017": {
+        "text": "アルビーナ",
+        "localizations": {
+          "en": "Alvina"
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "properties": {
+      "999008199": {
+        "text": "アルビーナ……",
+        "localizations": {
+          "en": "Alvina..."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "properties": {
+      "999008199": {
+        "text": "……それが必ずしも良い方向へ傾くとも限らないわ。\n最悪の結末が待っているかもしれない",
+        "localizations": {
+          "en": "...But there's no guarantee it leads somewhere good. The worst possible outcome might be waiting."
+        }
+      },
+      "2072370017": {
+        "text": "ザスキア",
+        "localizations": {
+          "en": "Saskia"
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "properties": {
+      "999008199": {
+        "text": "それなら、最小限の犠牲を受け入れ、\nみんなで平和に過ごすのが一番でしょう",
+        "localizations": {
+          "en": "If that's the case, isn't it better to accept a minimum of sacrifice and let everyone live in peace?"
+        }
+      },
+      "2072370017": {
+        "text": "ザスキア",
+        "localizations": {
+          "en": "Saskia"
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "properties": {
+      "999008199": {
+        "text": "私たちパルメ族なら、それができるわ。\n過去の痛みが経験としてあるから、なおさらにね",
+        "localizations": {
+          "en": "The Palme can do that. Our past pain is our experience—all the more reason we can."
+        }
+      },
+      "2072370017": {
+        "text": "ザスキア",
+        "localizations": {
+          "en": "Saskia"
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "properties": {
+      "999008199": {
+        "text": "復興した錬金術で、あなたたち人類を\nより良い未来へ導いてみせる",
+        "localizations": {
+          "en": "With alchemy restored, we can guide your people toward a better future."
+        }
+      },
+      "2072370017": {
+        "text": "ザスキア",
+        "localizations": {
+          "en": "Saskia"
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "properties": {
+      "999008199": {
+        "text": "もう二度と、あんな悲劇を繰り返さないために――",
+        "localizations": {
+          "en": "So that we never have to live through that kind of tragedy again—"
+        }
+      },
+      "2072370017": {
+        "text": "ザスキア",
+        "localizations": {
+          "en": "Saskia"
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "properties": {
+      "999008199": {
+        "text": "あなたたち人類のためなのよ",
+        "localizations": {
+          "en": "We're doing this for humanity."
+        }
+      },
+      "2072370017": {
+        "text": "ザスキア",
+        "localizations": {
+          "en": "Saskia"
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "properties": {
+      "999008199": {
+        "text": "だからお願い、レスナ。\n私たちの手を取ってちょうだい",
+        "localizations": {
+          "en": "Please, Resna. Take our hand."
+        }
+      },
+      "2072370017": {
+        "text": "ザスキア",
+        "localizations": {
+          "en": "Saskia"
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "properties": {
+      "999008199": {
+        "text": "……私に、錬金術の素晴らしさを\n教えてくれたのは師匠です",
+        "localizations": {
+          "en": "...You're the one who showed me how wonderful alchemy is, Miss Saskia."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 40,
+    "properties": {
+      "999008199": {
+        "text": "錬金術でみんなを幸せにしたい……\nこの夢は、師匠からもらったものです！",
+        "localizations": {
+          "en": "Wanting to make everyone happy through alchemy... that dream came from you!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 41,
+    "properties": {
+      "999008199": {
+        "text": "私が錬金術士である限り、\n誰かが犠牲になるような未来は選びません！",
+        "localizations": {
+          "en": "As long as I'm an alchemist, I will never choose a future where someone has to be sacrificed!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "properties": {
+      "999008199": {
+        "text": "そう……頑固なのね。\n仕方ないわ――",
+        "localizations": {
+          "en": "I see... you really are stubborn. Then I suppose I have no choice—"
+        }
+      },
+      "2072370017": {
+        "text": "ザスキア",
+        "localizations": {
+          "en": "Saskia"
+        }
+      }
+    }
+  },
+  {
+    "id": 43,
+    "properties": {
+      "999008199": {
+        "text": "こうなったら、力ずくでも分かってもらうしかないわね",
+        "localizations": {
+          "en": "If it comes to it, I'll make you understand by force."
+        }
+      },
+      "2072370017": {
+        "text": "ザスキア",
+        "localizations": {
+          "en": "Saskia"
+        }
+      }
+    }
+  },
+  {
+    "id": 44,
+    "properties": {
+      "999008199": {
+        "text": "――レスナ、私は、\nあなたに幸せになってほしいの……",
+        "localizations": {
+          "en": "—Resna, I want you to be happy..."
+        }
+      },
+      "2072370017": {
+        "text": "ザスキア",
+        "localizations": {
+          "en": "Saskia"
+        }
+      }
+    }
+  },
+  {
+    "id": 45,
+    "properties": {
+      "999008199": {
+        "text": "あなたたち人類のために、ここは譲れないわ",
+        "localizations": {
+          "en": "For the sake of humanity, this is one thing I cannot give up."
+        }
+      },
+      "2072370017": {
+        "text": "ザスキア",
+        "localizations": {
+          "en": "Saskia"
+        }
+      }
+    }
+  },
+  {
+    "id": 46,
+    "properties": {
+      "999008199": {
+        "text": "私だって、意見を変えるつもりはありません",
+        "localizations": {
+          "en": "And I have no intention of changing my mind either."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 47,
+    "properties": {
+      "999008199": {
+        "text": "この力で、証明してみせます",
+        "localizations": {
+          "en": "Then I'll prove it right here."
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  },
+  {
+    "id": 48,
+    "properties": {
+      "999008199": {
+        "text": "私の――私たちの、想いの強さを！",
+        "localizations": {
+          "en": "The strength of what I believe—what we all believe!"
+        }
+      },
+      "2072370017": {
+        "text": "レスナ",
+        "localizations": {
+          "en": "Resna"
+        }
+      }
+    }
+  }
+]

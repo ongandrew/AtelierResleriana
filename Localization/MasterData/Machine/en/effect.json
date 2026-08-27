@@ -18528,5 +18528,50 @@
     "id": 120000932,
     "description": "Boosts skill power when self is tagged as \"Sweets\".",
     "popup_text": ""
+  },
+  {
+    "id": 81282001,
+    "description": "When recovering from stun, grants self Attack Up.",
+    "popup_text": ""
+  },
+  {
+    "id": 81282002,
+    "description": "When stunned, grants self Defense Down.",
+    "popup_text": ""
+  },
+  {
+    "id": 81282003,
+    "description": "Self display effect",
+    "popup_text": ""
+  },
+  {
+    "id": 81282004,
+    "description": "Delays the target's turn.",
+    "popup_text": "Delay Turn"
+  },
+  {
+    "id": 81282005,
+    "description": "Grants self immunity to effects from the enemy.",
+    "popup_text": ""
+  },
+  {
+    "id": 81282006,
+    "description": "Clears own Defense Down.",
+    "popup_text": ""
+  },
+  {
+    "id": 81282007,
+    "description": "While stunned, grants self immunity to effects from the enemy.",
+    "popup_text": ""
+  },
+  {
+    "id": 81282008,
+    "description": "When stunned, removes own immunity to effects from the enemy.",
+    "popup_text": ""
+  },
+  {
+    "id": 81282009,
+    "description": "Self display effect",
+    "popup_text": ""
   }
 ]

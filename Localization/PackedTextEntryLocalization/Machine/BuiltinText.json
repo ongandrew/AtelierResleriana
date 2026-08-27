@@ -438,5 +438,104 @@
         }
       }
     }
+  },
+  {
+    "id": 920963202,
+    "properties": {
+      "999008199": {
+        "text": "払戻し情報",
+        "localizations": {
+          "en": "Refund Information"
+        }
+      }
+    }
+  },
+  {
+    "id": 1983334638,
+    "properties": {
+      "999008199": {
+        "text": "払戻しコード",
+        "localizations": {
+          "en": "Refund Code"
+        }
+      }
+    }
+  },
+  {
+    "id": 1205147836,
+    "properties": {
+      "999008199": {
+        "text": "所持星導石（有償）",
+        "localizations": {
+          "en": "Stellarite Owned (Paid)"
+        }
+      }
+    }
+  },
+  {
+    "id": 143297972,
+    "properties": {
+      "999008199": {
+        "text": "所持星導石（無償）",
+        "localizations": {
+          "en": "Stellarite Owned (Free)"
+        }
+      }
+    }
+  },
+  {
+    "id": 219830232,
+    "properties": {
+      "999008199": {
+        "text": "2026/11/25 16:00の時点で「星導石（有償）」をお持ちだったお客様に対しては、使用許諾契約に基づき払戻し手続きを実施させていただきます。 \n\n尚、お手続きの際、お客様の本人特定を行うため、『プレイヤーID』、『払戻しコード』が必要となります。 \n\n※払戻し対象は「星導石（有償）」のみであり、「星導石（無償）」は払戻し対象外です。 \n※申請対象に虚偽や不備がある場合は払戻し致しかねます。 \n\n詳細については、お知らせをご覧ください。",
+        "localizations": {
+          "en": "Customers who held \"Stellarite (Paid)\" as of 4:00 PM on 11/25/2026 will be eligible for a refund in accordance with the Terms of Service. \n\nPlease note that your \"Player ID\" and \"Refund Code\" will be required to verify your identity during the refund process. \n\n※Only \"Stellarite (Paid)\" is eligible for a refund. \"Stellarite (Free)\" is not eligible for a refund. \n※Refunds cannot be processed if the application contains false or incomplete information. \n\nPlease refer to the Notices for more details."
+        }
+      }
+    }
+  },
+  {
+    "id": 1403684153,
+    "properties": {
+      "999008199": {
+        "text": "払戻し申し込みフォーム",
+        "localizations": {
+          "en": "Refund Application Form"
+        }
+      }
+    }
+  },
+  {
+    "id": 349345819,
+    "properties": {
+      "999008199": {
+        "text": "クリップボードにコピーしました。",
+        "localizations": {
+          "en": "Copied to clipboard."
+        }
+      }
+    }
+  },
+  {
+    "id": 1817658705,
+    "properties": {
+      "999008199": {
+        "text": "払戻し\n手続き",
+        "localizations": {
+          "en": "Refund\nProcedure"
+        }
+      }
+    }
+  },
+  {
+    "id": 463017492,
+    "properties": {
+      "999008199": {
+        "text": "『レスレリアーナのアトリエ』は、\n{0}をもちまして、サービスを終了いたしました。\nプレイしてくださった全ての皆様に、御礼申し上げます。\n\nサービス終了に関する詳しい内容は<link=\"callUniTask\"><b><u>お知らせ</u></b></link>をご確認ください。",
+        "localizations": {
+          "en": "Atelier Resleriana: Forgotten Alchemy and the Polar Night Liberator\nhas ended service as of {0}.\nWe extend our heartfelt gratitude to all who played.\n\nFor more details regarding the end of service, please check the <link=\"callUniTask\"><b><u>Notices</u></b></link>."
+        }
+      }
+    }
   }
 ]

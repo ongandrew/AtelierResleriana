@@ -7773,5 +7773,122 @@
     "start_at": "2026-08-14T03:00:00Z",
     "step_up_loop_description": "",
     "small_banner_label": "Paid Only!"
+  },
+  {
+    "id": 3075,
+    "description": "Guaranteed ★3 Character from those newly introduced between 2023/09/23 and 2026/06/11!\nAvailable until 2026/11/25 15:59\n※ ★3 Characters not permanently added to LEGEND FES are not eligible.",
+    "end_at": "2026-11-25T07:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": "★3 Character Guaranteed!",
+            "ticket_description": "★3 Character Guaranteed!"
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": "★3 Character Guaranteed!",
+            "ticket_description": "★3 Character Guaranteed!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "★3 Character Guaranteed Wish",
+    "name": "★3 Character Guaranteed Wish",
+    "small_banner_label": "★3 Character Guaranteed!",
+    "start_at": "2026-08-27T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 3080,
+    "description": "Guaranteed SSR Memoria from those newly introduced between 2023/09/23 and 2026/06/18!\nAvailable until 2026/11/25 15:59\n※ SSR Memoria not permanently added to LEGEND FES are not eligible.",
+    "end_at": "2026-11-25T07:00:00Z",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 10001,
+            "description": "SSR Memoria\nGuaranteed!",
+            "ticket_description": "SSR Memoria\nGuaranteed!"
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "id": 10002,
+            "description": "SSR Memoria\nGuaranteed!",
+            "ticket_description": "SSR Memoria\nGuaranteed!"
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "SSR Memoria Guaranteed Wish",
+    "name": "SSR Memoria Guaranteed Wish",
+    "small_banner_label": "SSR Memoria Guaranteed!",
+    "start_at": "2026-08-27T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 21019,
+    "description": "Crown of Stardust",
+    "end_at": "",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 210191,
+            "description": "",
+            "ticket_description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Crown of Stardust",
+    "name": "Crown of Stardust",
+    "small_banner_label": "",
+    "start_at": "2026-08-27T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 21020,
+    "description": "Lodestar Gem Buds",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 210201,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Lodestar Gem Buds",
+    "name": "Lodestar Gem Buds",
+    "start_at": "2026-08-27T03:00:00Z",
+    "step_up_loop_description": ""
+  },
+  {
+    "id": 21021,
+    "description": "Lodestar Gem Garland (Memoria)",
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "id": 210211,
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "gacha_rate_set_name": "Lodestar Gem Garland (Memoria)",
+    "name": "Lodestar Gem Garland (Memoria)",
+    "start_at": "2026-08-27T03:00:00Z",
+    "step_up_loop_description": ""
   }
 ]

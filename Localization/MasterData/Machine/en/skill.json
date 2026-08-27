@@ -45406,5 +45406,557 @@
     "description": "Grants all allies boost effect potency received from boost-type panels up by {0}% for 2 turns, and restores HP by {1}%.",
     "name": "Encouraging Cry",
     "summary": ""
+  },
+  {
+    "id": 22002364,
+    "description": "After attacking, removes all enemies' positive effects and grants Nullify Positive Effects (1 time).",
+    "name": "Astrm Fartum",
+    "summary": ""
+  },
+  {
+    "id": 22002365,
+    "description": "Restores own stun gauge by {0}% and grants self damage received down ({1}%/2 turns) and stun damage received down ({2}%/2 turns).",
+    "name": "Lux Aeterna",
+    "summary": ""
+  },
+  {
+    "id": 22002366,
+    "description": "After attacking, reduces all enemies' positive effect potency received by {0}% for 3 turns.",
+    "name": "Stella Glacies",
+    "summary": ""
+  },
+  {
+    "id": 22002367,
+    "description": "After attacking, grants self damage dealt up ({0}%/2 turns) and damage received down ({1}%/2 turns).",
+    "name": "Stella Imber",
+    "summary": ""
+  },
+  {
+    "id": 22002368,
+    "description": "After attacking, delays target's turn by {0} and grants SPD Down ({1}%/3 turns).",
+    "name": "Stella Nivalis",
+    "summary": ""
+  },
+  {
+    "id": 22002369,
+    "description": "After attacking, grants self all-element resistance up ({0}%/2 turns).",
+    "name": "Stella Prophetia",
+    "summary": ""
+  },
+  {
+    "id": 22002370,
+    "description": "After attacking, removes all enemies' positive effects and grants Nullify Positive Effects (1 time).",
+    "name": "Astrm Fartum",
+    "summary": ""
+  },
+  {
+    "id": 22002371,
+    "description": "After attacking, removes all enemies' positive effects and grants Nullify Positive Effects (1 time).",
+    "name": "Astrm Fartum",
+    "summary": ""
+  },
+  {
+    "id": 22002372,
+    "description": "Restores own stun gauge by {0}% and grants self damage received down ({1}%/2 turns) and stun damage received down ({2}%/2 turns).",
+    "name": "Lux Aeterna",
+    "summary": ""
+  },
+  {
+    "id": 22002373,
+    "description": "After attacking, reduces all enemies' positive effect potency received by {0}% for 3 turns.",
+    "name": "Stella Glacies",
+    "summary": ""
+  },
+  {
+    "id": 22002374,
+    "description": "After attacking, grants self damage dealt up ({0}%/2 turns) and damage received down ({1}%/2 turns).",
+    "name": "Stella Imber",
+    "summary": ""
+  },
+  {
+    "id": 22002375,
+    "description": "After attacking, delays target's turn by {0} and grants SPD Down ({1}%/3 turns).",
+    "name": "Stella Nivalis",
+    "summary": ""
+  },
+  {
+    "id": 22002376,
+    "description": "After attacking, grants self all-element resistance up ({0}%/2 turns).",
+    "name": "Stella Prophetia",
+    "summary": ""
+  },
+  {
+    "id": 22002377,
+    "description": "After attacking, removes all enemies' positive effects and grants Nullify Positive Effects (1 time).",
+    "name": "Astrm Fartum",
+    "summary": ""
+  },
+  {
+    "id": 32005732,
+    "description": "No additional effects.",
+    "name": "Roll",
+    "summary": ""
+  },
+  {
+    "id": 32005733,
+    "description": "No additional effects.",
+    "name": "Super Puni Bomber",
+    "summary": ""
+  },
+  {
+    "id": 32005734,
+    "description": "No additional effects.",
+    "name": "Puni Breath",
+    "summary": ""
+  },
+  {
+    "id": 32005735,
+    "description": "For each of the following buffs held, this attack's damage increases by {0}%:\nDamage Dealt Up, Damage Received Down, Stun Damage Received Down, Evasion, Regeneration, SPD Up.",
+    "name": "Power Shot",
+    "summary": ""
+  },
+  {
+    "id": 32005736,
+    "description": "After attacking, grants all allies damage dealt up ({0}%/10 turns).",
+    "name": "Spin Slash",
+    "summary": ""
+  },
+  {
+    "id": 32005737,
+    "description": "After attacking, grants all allies damage received down ({0}%/10 turns).",
+    "name": "Storm",
+    "summary": ""
+  },
+  {
+    "id": 32005738,
+    "description": "Inflicts SPD Down ({0}%/1 turn) on target.",
+    "name": "Speed Down",
+    "summary": ""
+  },
+  {
+    "id": 32005739,
+    "description": "No effect.",
+    "name": "Surprise Burn",
+    "summary": ""
+  },
+  {
+    "id": 32005740,
+    "description": "No effect.",
+    "name": "Explosion",
+    "summary": ""
+  },
+  {
+    "id": 32005741,
+    "description": "After attacking, reduces stun damage received by all allies by {0}% for 2 turns.",
+    "name": "Magic Fire Gift",
+    "summary": ""
+  },
+  {
+    "id": 32005742,
+    "description": "After attacking, inflicts M.ATK Down ({0}%/2 turns) on target.",
+    "name": "Curse Burn",
+    "summary": ""
+  },
+  {
+    "id": 32005743,
+    "description": "Inflicts P.ATK Down ({0}%/2 turns) on all enemies.",
+    "name": "Magical Smoke",
+    "summary": ""
+  },
+  {
+    "id": 32005744,
+    "description": "Reduces damage received by {0}% and stun damage received by {1}% for a single ally for 2 turns.",
+    "name": "Blessing",
+    "summary": ""
+  },
+  {
+    "id": 32005745,
+    "description": "Reduces own damage received by {0}% for 10 turns.",
+    "name": "Life's Radiance",
+    "summary": ""
+  },
+  {
+    "id": 32005746,
+    "description": "No effect.",
+    "name": "Stomp",
+    "summary": ""
+  },
+  {
+    "id": 32005747,
+    "description": "No effect.",
+    "name": "Poison Scatter",
+    "summary": ""
+  },
+  {
+    "id": 32005748,
+    "description": "After attacking, increases target's damage received by {0}% for 2 turns.",
+    "name": "Ominous Breath",
+    "summary": ""
+  },
+  {
+    "id": 32005749,
+    "description": "Grants self damage dealt Up ({0}%/permanent) and damage received Down ({1}%/permanent), and restores HP by {2}%.",
+    "name": "Self-Transformation",
+    "summary": ""
+  },
+  {
+    "id": 32005750,
+    "description": "No effect.",
+    "name": "Heaven and Earth Return",
+    "summary": ""
+  },
+  {
+    "id": 32005751,
+    "description": "No effect.",
+    "name": "Strike Axe",
+    "summary": ""
+  },
+  {
+    "id": 32005752,
+    "description": "After attacking, inflicts P.DEF Down ({0}%/2 turns) on target.",
+    "name": "Protray",
+    "summary": ""
+  },
+  {
+    "id": 32005753,
+    "description": "No effect.",
+    "name": "Primal Stroke",
+    "summary": ""
+  },
+  {
+    "id": 32005754,
+    "description": "No effect.",
+    "name": "Ancient Blast",
+    "summary": ""
+  },
+  {
+    "id": 32005755,
+    "description": "Grants a single ally DEF Up ({0}%/2 turns), magical attack damage received Down ({1}%/2 turns), and SPD Up ({2}%/2 turns).",
+    "name": "Ancient Power",
+    "summary": ""
+  },
+  {
+    "id": 32005756,
+    "description": "No effect.",
+    "name": "Counter",
+    "summary": ""
+  },
+  {
+    "id": 32005757,
+    "description": "Grants self Counter (3 times), damage received Down (30%/3 turns), and stun damage received Down (30%/3 turns).",
+    "name": "Interception Stance",
+    "summary": ""
+  },
+  {
+    "id": 32005758,
+    "description": "After attacking, grants self damage dealt up during counter attacks by 30% (permanent).",
+    "name": "Frenzied Strike",
+    "summary": ""
+  },
+  {
+    "id": 32005759,
+    "description": "No additional effects.",
+    "name": "Destroy",
+    "summary": ""
+  },
+  {
+    "id": 32005760,
+    "description": "After attacking, reduces own damage received by {0}% for 2 times.",
+    "name": "Crash",
+    "summary": ""
+  },
+  {
+    "id": 32005761,
+    "description": "After attacking, converts up to 5 of the target's non-burst panels into weaken panels.",
+    "name": "Wild Strike",
+    "summary": ""
+  },
+  {
+    "id": 32005762,
+    "description": "Grants self All Elements resistance up by {0}% for 2 times and Regeneration ({1}%/3 turns).",
+    "name": "Flowing Turn",
+    "summary": ""
+  },
+  {
+    "id": 32005763,
+    "description": "No additional effects.",
+    "name": "Counter Hit",
+    "summary": ""
+  },
+  {
+    "id": 32005764,
+    "description": "No additional effects.",
+    "name": "Power Strike",
+    "summary": ""
+  },
+  {
+    "id": 32005765,
+    "description": "No additional effects.",
+    "name": "Fierce Strike",
+    "summary": ""
+  },
+  {
+    "id": 32005766,
+    "description": "After attacking, reduces target's damage dealt by {0}% for 3 times.",
+    "name": "Strike Down",
+    "summary": ""
+  },
+  {
+    "id": 32005767,
+    "description": "Grants self Counter for 2 counterattacks.",
+    "name": "Counter Stance",
+    "summary": ""
+  },
+  {
+    "id": 32005768,
+    "description": "Reduces single enemy's SPD by {0}% for 3 times.",
+    "name": "Intimidate",
+    "summary": ""
+  },
+  {
+    "id": 32005769,
+    "description": "No additional effects.",
+    "name": "Retaliation",
+    "summary": ""
+  },
+  {
+    "id": 32005770,
+    "description": "Restores a single ally's HP by 30%.",
+    "name": "Blessing Touch",
+    "summary": ""
+  },
+  {
+    "id": 32005771,
+    "description": "After attacking, inflicts Poison on skill target 8 times (100% application chance/5 turns).",
+    "name": "Blossoming Burst",
+    "summary": ""
+  },
+  {
+    "id": 32005772,
+    "description": "No additional effects.",
+    "name": "Magic Shoot",
+    "summary": ""
+  },
+  {
+    "id": 32005773,
+    "description": "After attacking, inflicts Paralysis on skill target (70% application chance/3 turns).",
+    "name": "Paralyze Shot",
+    "summary": ""
+  },
+  {
+    "id": 32005774,
+    "description": "After attacking, reduces skill target's damage dealt by {0}% for 3 times.",
+    "name": "Call Hellfire",
+    "summary": ""
+  },
+  {
+    "id": 32005775,
+    "description": "No additional effects.",
+    "name": "Shadow Punch",
+    "summary": ""
+  },
+  {
+    "id": 32005776,
+    "description": "After attacking, reduces target's damage dealt by {0}% for 2 times.",
+    "name": "Shadow Fire",
+    "summary": ""
+  },
+  {
+    "id": 32005777,
+    "description": "Inflicts Darkness on skill target (100% application chance/3 turns).",
+    "name": "Shadow Curse",
+    "summary": ""
+  },
+  {
+    "id": 32005778,
+    "description": "No effect.",
+    "name": "Rock Cutter",
+    "summary": ""
+  },
+  {
+    "id": 32005779,
+    "description": "No effect.",
+    "name": "Wild Strike",
+    "summary": ""
+  },
+  {
+    "id": 32005780,
+    "description": "Restores all allies' HP by 30%.",
+    "name": "Heal Powder",
+    "summary": ""
+  },
+  {
+    "id": 32005781,
+    "description": "No effect.",
+    "name": "Lightning Slash",
+    "summary": ""
+  },
+  {
+    "id": 32005782,
+    "description": "No effect.",
+    "name": "Return Slash",
+    "summary": ""
+  },
+  {
+    "id": 32005783,
+    "description": "Grants target Damage Dealt Up ({0}%/2 turns).",
+    "name": "Energy Powder",
+    "summary": ""
+  },
+  {
+    "id": 32005784,
+    "description": "Grants target Damage Received Up ({0}%/3 turns).",
+    "name": "Curse Powder",
+    "summary": ""
+  },
+  {
+    "id": 32005785,
+    "description": "No effect.",
+    "name": "Wild Strike",
+    "summary": ""
+  },
+  {
+    "id": 32005786,
+    "description": "No effect.",
+    "name": "Octopus Strike",
+    "summary": ""
+  },
+  {
+    "id": 32005787,
+    "description": "After attacking, grants self Damage Received Down ({0}%/3 turns) and Negative Effect Immunity (2 times).",
+    "name": "Great Heavy Storm",
+    "summary": ""
+  },
+  {
+    "id": 32005788,
+    "description": "No effect.",
+    "name": "Triple Slash",
+    "summary": ""
+  },
+  {
+    "id": 32005789,
+    "description": "After attacking, grants target Damage Received Up ({0}%/2 turns) and P.ATK Down ({1}%/2 turns).",
+    "name": "Threatening Claws",
+    "summary": ""
+  },
+  {
+    "id": 32005790,
+    "description": "After attacking, delays target's turn by {0} and grants SPD Down ({1}%/1 turn).",
+    "name": "Freeze Ribbon",
+    "summary": ""
+  },
+  {
+    "id": 32005791,
+    "description": "After attacking, grants target Air Resistance Down ({0}%/2 turns).",
+    "name": "Heavy Storm",
+    "summary": ""
+  },
+  {
+    "id": 32005792,
+    "description": "Grants self Damage Dealt Up ({0}%/2 turns) and Negative Effect Potency Received Down ({1}%/2 turns).",
+    "name": "Battle Cry",
+    "summary": ""
+  },
+  {
+    "id": 32005793,
+    "description": "No effect.",
+    "name": "Shield Charge",
+    "summary": ""
+  },
+  {
+    "id": 32005794,
+    "description": "No effect.",
+    "name": "Rampage",
+    "summary": ""
+  },
+  {
+    "id": 32005795,
+    "description": "No effect.",
+    "name": "Down Thrust",
+    "summary": ""
+  },
+  {
+    "id": 32005796,
+    "description": "No effect.",
+    "name": "Rage Slash",
+    "summary": ""
+  },
+  {
+    "id": 32005797,
+    "description": "No effect.",
+    "name": "Rage Fire",
+    "summary": ""
+  },
+  {
+    "id": 32005798,
+    "description": "Grants self damage received down ({0}%/3 turns) and enters cover state for 3 turns.",
+    "name": "Covering",
+    "summary": ""
+  },
+  {
+    "id": 32005799,
+    "description": "Restores 50% HP of a single ally.",
+    "name": "Healing Draught",
+    "summary": ""
+  },
+  {
+    "id": 32005800,
+    "description": "Restores 25% HP of a single ally and restores the stun gauge by {0}%.",
+    "name": "Aid",
+    "summary": ""
+  },
+  {
+    "id": 32005801,
+    "description": "Restores 20% HP of all allies.",
+    "name": "Aid",
+    "summary": ""
+  },
+  {
+    "id": 32005802,
+    "description": "No effect.",
+    "name": "Gnashing",
+    "summary": ""
+  },
+  {
+    "id": 32005803,
+    "description": "After attacking, reduces target's damage dealt by {0}% for 1 turn.",
+    "name": "Whirling Dance",
+    "summary": ""
+  },
+  {
+    "id": 32005804,
+    "description": "No effect.",
+    "name": "Dragon Coil Dance",
+    "summary": ""
+  },
+  {
+    "id": 32005805,
+    "description": "No effect.",
+    "name": "Dangerous Bite",
+    "summary": ""
+  },
+  {
+    "id": 32005806,
+    "description": "After attacking, reduces target's damage dealt by {0}% for 3 turns.",
+    "name": "Sonic Voice",
+    "summary": ""
+  },
+  {
+    "id": 32005807,
+    "description": "After attacking, inflicts target with Poison (100% chance/5 turns) 5 times.",
+    "name": "Poison Bite",
+    "summary": ""
+  },
+  {
+    "id": 32005808,
+    "description": "After attacking, reduces target's SPD by {0}% for 5 turns.",
+    "name": "Thunder Cyclone",
+    "summary": ""
+  },
+  {
+    "id": 32005809,
+    "description": "Boosts a single ally's damage dealt by {0}% for 3 turns.",
+    "name": "Spinroar",
+    "summary": ""
   }
 ]

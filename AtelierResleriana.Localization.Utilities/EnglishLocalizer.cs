@@ -1,4 +1,4 @@
-﻿using Newtonsoft.Json;
+using Newtonsoft.Json;
 using System.Text;
 using System.Text.Json.Nodes;
 using Universal.Common;
@@ -1230,7 +1230,7 @@ namespace AtelierResleriana.Localization.Utilities
                 </input>
                 """;
 
-            JsonSchemaInferrer jsonSchemaInferrer = new JsonSchemaInferrer();
+            JsonSchemaInferrer jsonSchemaInferrer = new JsonSchemaInferrer(new JsonSchemaInferrer.Options { AdditionalProperties = false, RequireAllProperties = true, DefaultLeafType = "string" });
             object[] localizedEntitiesNewtonsoft = await ((AnthropicStructuredTextTransformer)TextTransformer).TransformAsync<object[]>(prompt, jsonSchemaInferrer.Infer(System.Text.Json.JsonSerializer.Serialize(entities, new System.Text.Json.JsonSerializerOptions())), cancellationToken)
                 .ConfigureAwait(false);
 
